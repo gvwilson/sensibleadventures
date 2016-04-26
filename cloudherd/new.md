@@ -399,7 +399,7 @@ turned a steely glare toward Noxy, Sensy, and Rash, who nodded and
 mumbled, "No adventures."
 
 "Right!"  And without anything more than that he walked out to the end
-of the board that stuck out three strides from the platform, looked
+of the plank that stuck out three strides from the platform, looked
 down to check that Big Blue was below him, and jumped.
 
 Noxy leaned over the railing and held her breath.  One, two,
@@ -454,8 +454,97 @@ it was again, that feeling of, of---of something, but what?
 
 This time Sensy noticed.  "Are you all right?"
 
-"Sure," Noxy lied.  She wasn't going to do *anything* that might mean
-being left behind.  "Come on, let's get going."
+"Sure," Noxy lied.  One of the few things Aft and Grappa Gas agreed on
+was that cloudherds shouldn't fly if they were sick, but she wasn't
+going to admint anything that might mean being left behind.  "Come on,
+let's go."
+
+Grappa Gas made everyone wait until Big Blue was only a couple of
+strides below the mounting platform before he let them jump on.  The
+three teenagers had been doing it since they were little children, but
+the brief moment of flight and *poof!* as they landed still made them
+all whoop.  Grappa Gras landed beside them a moment later, and Granna
+Fee a moment after that.  "Oof," she grunted, rolling over and sitting
+up.  "That's not as soft as it used to be."  But then she smiled like
+the girl she had once been and put her arm around Noxy so that her
+granddaughter could lean against her the way she had so many times
+before.
+
+Behind them, Rash nudged Sensy with his elbow.  "You can lean on me if
+you get cold, you know."
+
+Sensy sniffed.  "I don't expect I'll ever get *that* cold."
+
+Granna Fee pressed her hand against Big Blue and closed her eyes.
+The cloud turned obediently and began drifting toward the spiderweb
+gate that hung down over mouth of the gorge.  As he moved away from
+the platform, Pillow rose to take his place.  Two of Stale's other
+oldsters clambered aboard, too stiff or serious to jump.
+
+"I'll take lead," Aft called.
+
+"Yes, I heard you the first time," Granna Fee muttered under her
+breath.  She slowed Big Blue so that Pillow could pass.  As she did
+so, Aft took the ox horn from his belt and blew three loud notes, low
+high low.
+
+Indy blew an answering note from her seat above the cloudpen gate.
+"Now comes the hard part," she told Sergeant Dorbu.  He, the tiger,
+and the tiger's boy had come with her to see off the rescue party.
+Instead of taking them with the others, she had led them up a steep
+flight of stairs cut into the rock to a smaller square platform, where
+she had seated herself on a sturdy little stool supported by a single
+post.  As the clouds approached the gate, she put her feet on the
+pedals that stuck out of the post and began pumping.
+
+With a long squeak of protest, the spiderweb gate drew back so that
+the clouds could get by.  "Saves us having to re-frib the curtain
+every time someone comes in or out," she puffed.  "And it's half the
+time."  She paused to wave Pillow and Big Blue's riders as they
+drifted out of the pen and turned upwind.
+
+"But twice the work, I'm guessing," Sergeant Dorbu said
+sympathetically.  "Want me to wind it back?"
+
+"What?  Oh, no, that's all right."  Indy started pedalling again.
+"The exercise keeps me fit."
+
+"Mm," the sergeant said, eyeing her.  When the tiger rumbled deep in
+his throat, Sergeant Dorbu put on his most innocent expression.  The
+tiger's boy, Thokmay, just rolled his eyes.
+
+Cloudherding is cold work, even in the summer.  In the spring, in the
+mountains, when breath still fogs and the wind pokes its fingers
+through every loose seam and down every collar, it's beyond freezing.
+A hundred heartbeats after they left the cloud pen, Granna Fee had
+wrapped a fleece around herself and her granddaughter, leaving only
+their faces exposed.  Rash and Sensy had done the same---as Sensy
+said, he might be a goat, but at least he was a *warm* goat.
+
+Only Grappa Gas seemed unaffected.  "Saints and their inventions, but
+I miss this," he sighed.  He'd brought a cushion to rest his wooden
+leg on so that it wouldn't poke into Big Blue, but was dressed in the
+same long coat and scarf that he had been wearing when the soldiers
+arrived.  "Look, the condors are back in their nest!  We should invite
+them them to visit some time."
+
+"They're not really the most sociable of creatures," Granna Fee said
+drily.
+
+Grappa Gas harrumphed.  "You just have to get to know them.  I wonder
+if any of their chicks will be Gifted this year?  That would be a
+thing, wouldn't it?  Oh, and down there, is that---saints, is that
+Ulfmaerr?"
+
+"Where?"  Noxy pushed the heavy fleece aside and scrambled to the
+cloud's leading edge.  "I don't see him, where is he?"
+
+Grappa Gas shook his head.  "Sorry, girl, it was just a shadow.
+Looked like someone, though."  He patted her shoulder awkwardly.
+
+"Someone needs to remember to wear his glasses when he's out and
+about," Granna Fee sniffed pointedly.  Grappa Gas harrumphed again,
+but didn't reply.
 
 ## Chapter 3: Arguments and Pursuit
 

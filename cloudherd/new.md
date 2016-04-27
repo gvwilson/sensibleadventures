@@ -534,17 +534,157 @@ drily.
 Grappa Gas harrumphed.  "You just have to get to know them.  I wonder
 if any of their chicks will be Gifted this year?  That would be a
 thing, wouldn't it?  Oh, and down there, is that---saints, is that
-Ulfmaerr?"
+a person down there?"
 
 "Where?"  Noxy pushed the heavy fleece aside and scrambled to the
-cloud's leading edge.  "I don't see him, where is he?"
+cloud's leading edge.  "I don't see, where?"
 
-Grappa Gas shook his head.  "Sorry, girl, it was just a shadow.
-Looked like someone, though."  He patted her shoulder awkwardly.
+Grappa Gas shook his head.  "Sorry, girl, it was just a troll."  He
+patted her shoulder.
 
 "Someone needs to remember to wear his glasses when he's out and
 about," Granna Fee sniffed pointedly.  Grappa Gas harrumphed again,
 but didn't reply.
+
+It had taken Sergeant Dorbu and his men a day to hike up the pass to
+Stale Leftovers.  The Staler cloudherds covered the same distance in
+less than half an hour, even with the headwind.  "There," Granna Fee
+said, pointing at a thin plume of smoke.
+
+Grappa Gas frowned.  "I thought he said there were just a few of
+them."
+
+Granna Fee frowned too.  "Maybe 'a few' means something different to
+lowlanders."
+
+The soldiers' makeshift camp sat on a barren pinnacle of rock that
+rose like an island out of the forest.  Two dozen drab gray tents
+huddled around a small fire.  Shading her eyes with her hand, Noxy saw
+a handful of men moving about, some propped against one another to
+stay upright.
+
+Grappa Gas gave a low whistle.  "Aft's not going to like this," he
+said.
+
+"Neither is my daughter," Granna Fee replied, shaking her head.
+
+One of the injured soldiers spotted the clouds a few minutes later.
+The cloudherds were too far away to hear his shouts, but there was no
+mistaking the urgency in the way he waved his arms.  Other soldiers
+crawled out of their tents and began waving and shouting as well as
+Aft steered Pillow in a long arc to the upwind side of the rocky
+outcrop.  After a brief discussion that mostly consisted of
+interrupting each other, Granna Fee and Grappa Gas had Big Blue hover
+directly above the camp.
+
+"You lot keep your eyes wide," Grappa Gas ordered the teenagers
+curtly.  "Forest might be happy to have us take them, or it might
+not."
+
+Pillow descended until she bumped against the northern edge of the
+rock, her upper side level with its top.  The two older cloudherds
+riding with Aft stayed on board while he strode forward, barking
+orders to hurry the soldiers along.  Only a few wind-borne words
+reached Noxy, but that was enough for her to know that he was telling
+the injured men to leave their gear, to leave their tents, to leave
+everything they couldn't pick up *right away*.
+
+Limping and stumbling in singles and pairs, the men began to clamber
+onto Pillow's back.  The older cloudherds helped the worst injured,
+and had others move apart to keep their weight balanced.  As they were
+doing this, one of the soldiers stopped in front of Aft and began to
+argue, pointing at a larger tent set up a short distance away from the
+others.  Other soldiers joined in, until Aft was partly surrounded by
+a half-circle of angry men.
+
+Finally he threw up his hands in surrender.  Taking the horn from his
+belt, he blew two long notes, then windmilled his arm and pointed to
+Pillow.
+
+"No no no," Grappa Gas muttered.  "You can take them all, lad, just
+get them loaded up and get out of there."
+
+"What?  What's happening?" Noxy asked.
+
+"He wants us to come in behind him and take some of them," Grappas Gas
+told her angrily.  "But look---over there!"
+
+Something brown flashed between two trees a dozen strides into the
+forest.  Something else---something much larger---briefly let itself
+be seen a few strides further away.  In singles and pairs and packs,
+the forest was mustering its servants.
+
+Grappa Gas spat over Big Blue's side.  "Forest is holding back for
+now," he said.  "But we go in, it'll be on us like an avalanche."
+
+"It's not your decision to make," Granna Fee told him.  "Aft's riding
+fore on this one, and---"
+
+"---and you follow your fore.  I know, I know.  Saints."  Grappa Gas
+looked like he wanted to spit again, but instead he placed his palm on
+Big Blue and closed his eyes.  A moment later the cloud began to
+descend.
+
+Granna Fee looked at the three teenagers.  "You shout as soon as you
+see anything, you hear me?"
+
+"Yes, granna," Sensy said as Rash and Noxy nodded.
+
+Five heartbeats, ten... They were level with the camp.  Grappa Gas
+steered them slowly across the wind toward Pillow's side.  The
+soldiers watched them approach without expression, too weak and weary
+to be amazed at the sight.  "Hurry it up!" Aft bellowed at the half
+dozen who had dragged long canvas-wrapped packages out of the large
+tent and were staggering back through camp with them over their
+shoulders.  He leaped onto Pillow.  A moment later the cloud lifted
+off, clearing space for Big Blue.
+
+The larger cloud touched down with a bump.  An instant later something
+roared in the forest behind them.  Noxy jumped.  Sensy shrieked and
+Grappa Gas cursed as a brown bear charged out of the trees and halted
+a stone's throw away.  It reared up on its hind legs and roared again.
+Another bear joined it, then a cougar, and then---
+
+"Oh no," Noxy breathed.  There were trolls in the trees, a dozen, two,
+three, a whole troop of them.  They began hooting, shaking the
+branches around them until it looked like the entire forest had come
+alive.
+
+The first of the soldiers reached them.  He stumbled at the edge of
+the rocky outcrop and fell forward onto Big Blue, the package on his
+shoulder landing heavily beside him.  The others were right behind
+him.  "Come on come on come *on*!" Grappa Gas urged them.
+
+A stone flew through the air, then another.  Suddenly the air was full
+of flying rocks.  A soldier staggered and went down as one hit his
+head.  Another struck Noxy hard in the back.  She ducked and covered
+her head.
+
+"Hang on!" Grappa Gas shouted.  Big Blue surged upward so suddenly that
+Noxy was knocked off her feet.
+
+"Look out!" Rash yelled, grabbing Sensy's arm and pulling her back as
+the cougar leaped up at them.  The two teens fell together in a heap
+on the cloud.  The cougar snarled with disappointment as it missed the
+edge of the cloud by a palm's width.
+
+Higher, higher... Noxy let out her breath, only then realizing that
+she'd been holding it.  "That was close," she said shakily.
+
+"Too close.  Too *damned* close!"  Grappa Gas rounded on the nearest
+soldier.  "We could have been dinner, all of us, and for what?  What
+was so aching important you just couldn't leave it behind!?"  He poked
+at the long bundle beside the soldier with his cane.
+
+The soldier looked at him bleakly.  "Our mates.  Those as didn't make
+it.  We promised we'd give 'em a decent send-off."
+
+Grappa Gas froze, then lowered his cane.  "Ah.  Sorry, lad.  I'm
+sorry."
+
+The soldier nodded.  "Me too."  Behind them, the forest's creatures
+had already started tearing every man-made thing in the camp to
+pieces.
 
 ## Chapter 3: Arguments and Pursuit
 

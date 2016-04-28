@@ -237,7 +237,7 @@ shrugged.  "Well, you can probably guess what happened next."
 Voices murmured.  The Herd of Trees covered the Brumoso Mountains from
 wheat fields of Uws in the south to Garheim's frigid shores in the
 north and the Ninety Kingdoms in the west.  It wasn't as cruel as the
-Jungle of Thind, but it guarded its territoy and privileges as
+Jungle of Thind, but it guarded its territory and privileges as
 jealously as a bear guarded her cubs.  Gifted creatures that wanted to
 live in the forest had to do her bidding.  And humans were not welcome
 inside its borders at all, not unless they stuck to the handful of
@@ -294,18 +294,18 @@ The next five minutes were chaos.  Out of the question, Grappa Gas
 said, whacking his wooden leg with his cane to emphasize his points.
 The law might forgive them giving shelter to a bunch of strays who
 wandered in out of the cold, even if they were rebels, but flying off
-to rescue their friends?  Why, when the laird came back---
+to rescue their friends?  Why, when the *tralpa* came back---
 
 ---they'd show him the gate and send him on his way, Aft cut in, arms
 crossed and brows knotted.  The lazy good-for-nothing had run for the
 capital the day word of the rebellion had reached the mountains, and
-hadn't been heard from since.  As far as Aft was concerned, he'd given
-up any right to tell anyone what the law was.  And anyway, if they
-were going to shelter rebels, what did it matter whether they'd come
-to Stale or Stale had gone to them?  And anyway again, what would
+hadn't been seen since.  As far as Aft was concerned, he'd given up
+any right he might once have had to rent laws to anyone.  Anyway, if
+they were going to shelter rebels, the king wouldn't care if they'd
+come to Stale or Stale had gone to them.  And anyway again, what would
 other cloudherds say if they heard that Stalers had left men in the
-forest to die?  Angels' names, what would the folk who'd gone up the
-mountain to round up clouds say when they got back?
+forest to die?  Angels' names, what would their own folk say when they
+got back from up the mountain?
 
 The argument swirled and churned across the cobblestones.  Little
 whirlpools of disagreement came together, spun about, and flew apart
@@ -456,14 +456,14 @@ This time Sensy noticed.  "Are you all right?"
 
 "Sure," Noxy lied.  One of the few things Aft and Grappa Gas agreed on
 was that cloudherds shouldn't fly if they were sick, but she wasn't
-going to admint anything that might mean being left behind.  "Come on,
+going to admit anything that might mean being left behind.  "Come on,
 let's go."
 
 Grappa Gas made everyone wait until Big Blue was only a couple of
 strides below the mounting platform before he let them jump on.  The
 three teenagers had been doing it since they were little children, but
 the brief moment of flight and *poof!* as they landed still made them
-all whoop.  Grappa Gras landed beside them a moment later, and Granna
+all whoop.  Grappa Gas landed beside them a moment later, and Granna
 Fee a moment after that.  "Oof," she grunted, rolling over and sitting
 up.  "That's not as soft as it used to be."  But then she smiled like
 the girl she had once been and put her arm around Noxy so that her
@@ -488,7 +488,7 @@ breath.  She slowed Big Blue so that Pillow could pass.  As she did
 so, Aft took the ox horn from his belt and blew three loud notes, low
 high low.
 
-Indy blew an answering note from her seat above the cloudpen gate.
+Indy blew an answering note from her seat above the cloud pen gate.
 "Now comes the hard part," she told Sergeant Dorbu.  He, the tiger,
 and the tiger's boy had come with her to see off the rescue party.
 Instead of taking them with the others, she had led them up a steep
@@ -529,7 +529,7 @@ arrived.  "Look, the condors are back in their nest!  We should invite
 them them to visit some time."
 
 "They're not really the most sociable of creatures," Granna Fee said
-drily.
+dryly.
 
 Grappa Gas harrumphed.  "You just have to get to know them.  I wonder
 if any of their chicks will be Gifted this year?  That would be a
@@ -606,7 +606,7 @@ get them loaded up and get out of there."
 
 "What?  What's happening?" Noxy asked.
 
-"He wants us to come in behind him and take some of them," Grappas Gas
+"He wants us to come in behind him and take some of them," Grappa Gas
 told her angrily.  "But look---over there!"
 
 Something brown flashed between two trees a dozen strides into the

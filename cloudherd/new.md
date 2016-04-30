@@ -63,7 +63,7 @@ Noxy was reaching for another web when a high-pitched voice shouted,
 "Soldiers! Soldiers!"
 
 "Oh, wonderful," she sighed, rolling her eyes at Sensy.  The whole
-point of going out to collect spider webs that morning had been to get
+point of going out to collect spiderwebs that morning had been to get
 *away* from the younger children for a few hours.
 
 Young Gas crashed through a bush and tripped over a root, then picked
@@ -104,7 +104,7 @@ that was just starting to melt, but it was still as solid as the
 mountains themselves.  The village's two-story wooden houses sheltered
 inside the walls like ducklings in a nest.  Thin licks of smoke rose
 from their slate chimneys, while goat pens, vegetable plots, and racks
-laden with drying spider webs filled the spaces between them.
+laden with drying spiderwebs filled the spaces between them.
 
 To the west, the wall dropped straight into a steep-sided gorge.  A
 net woven from squirrel spider thread was stretched over its top, as
@@ -391,12 +391,15 @@ Rash looked her up and down.  "Really?  Because I think you look
 amazing.  Excuse me."  He winked at Noxy and stepped around the
 speechless 13-year-old to take his place on the platform.
 
-"Ears all!" Aft called out, clapping his hands.  "You know how this is
-done.  I'm fore on Big Blue, Gas and Fee will have Pillow for spotter.
-We'll down, lift, and out, quick and simple, and get our new friends
-back here for soup before you can sneeze.  No adventures, right?"  He
-turned a steely glare toward Noxy, Sensy, and Rash, who nodded and
-mumbled, "No adventures."
+"Ears all!" Aft called out, clapping his hands.  Despite the cold, he
+was only wearing a sleeveless goatskin vest, knee-length wool shorts,
+and a sturdy pair of boots.  His hair was pulled back in a thick club
+braid, a blue ribbon from his wife's wedding collar woven into it for
+luck.  "You know how this is done.  I'm fore on Big Blue, Gas and Fee
+will have Pillow for spotter.  We'll down, lift, and out, quick and
+simple, and get our new friends back here for soup before you can
+sneeze.  No adventures, right?"  He turned a steely glare toward Noxy,
+Sensy, and Rash, who nodded and mumbled, "No adventures."
 
 "Right!"  And without anything more than that he walked out to the end
 of the plank that stuck out three strides from the platform, looked
@@ -779,22 +782,28 @@ that meant 'back away and give me some room'.  She caught her breath.
 She had *known* one of the clouds was upset even before she'd heard
 the horn---but how?
 
-Indy shook her head.  "It will have to wait, daffodil," she said as
-her daughter opened her mouth to ask another question.  "Right now I
-want you to go home and make some tea.  Use the big pot, and all the
-honey we have left.  I have the feeling we're going to have lots of
-visitors..."
+Her mother was still organizing people in the square.  Yes, the
+soldiers would stay in the trading hall, she'd already said that.
+Yes, the wounded---where else would they go?  And yes, there *were*
+a lot more than 'a few' of them, but there was nothing they could do
+about that now.
+
+Indy caught sight of her daughter.  "It will have to wait, daffodil,"
+she said as Noxy opened her mouth.  "Right now I want you to go home
+and make some tea.  Use the big pot, and all the honey we have left.
+I have the feeling we're going to have lots of visitors..."
 
 The water hadn't even boiled before Grappa Gas showed up.  He rapped
-on the door frame with his cane and entered without waiting for a
-hello.  "Hey, daffodil.  Where's your mother?"
+on the door with his cane and entered without waiting for a hello.
+"Hey, lass.  Where's your mother?"
 
-"She should be back in a little," Noxy said.  She added a handful of
-tea leaves to the cinnamon bark and green cardamom pods already in the
-pot.  It was an extravagance---the other pack traders who brought such
-delicacies to the village wouldn't visit until the last of the snow
-had melted, which was at least another month away---but Grappa Fee had
-always said that a good cup of tea was worth a thousand words.
+"She should be back soon," Noxy said.  She added a handful of tea
+leaves to the cinnamon bark and green cardamom pods already in the
+pot.  It was an extravagance---the pack traders who brought such
+delicacies to the village wouldn't start visiting until the last of
+the snow had melted, which was at least another month away---but
+Granna Fee had always said that a good cup of tea was worth a thousand
+words.
 
 "Mind if I sit?" Grappa Gas settled himself on a stool that was at
 least as old as he was and watched Noxy drizzle the last of the honey
@@ -813,32 +822,31 @@ wound up being your grappa.  I remember once when---"
 "And how do you know they said anything?" Grappa Gas challenged her.
 
 "Because they're a long way from home, and tired, and sore, and want
-us all to like them," Indy answered, closing the front door behind
-her.  "And because soldiers like to tell stories almost as much as you
-do.  Now, what did you find out?" She kissed the old man on his
-grizzled cheek and sat on the other stool.
+us all to like them," Indy answered, closing the front door behind her
+as she came in.  "And because I saw you duck into the trading hall on
+your way down from the cloud pen.  Now, what did you find out?" She
+kissed the old man on his grizzled cheek and sat on the other stool.
 
 For a moment all Grappa Gas could think of was how alike mother and
-daughter were.  They didn't look alike---Noxy's hair was brown and
-wavy instead of straight and black, and her face was square instead of
-round---but they had the same quick minds.  He had predicted on Indy's
-tenth birthday that she would be mayor before she was thirty.  *Better
-start telling everyone that Noxy's going to take the job one day too,*
-he thought.
+daughter were.  Noxy's hair might be brown and wavy instead of
+straight and black, and her face square instead of round, but they had
+the same quick minds.  When Indy had turned ten, he had predicted that
+she would be mayor before she was thirty.  *Better start telling
+everyone that Noxy's going to take the job too,* he thought.
 
 "The king's men hit them while they were crossing the ford near Tastes
 Like Duck Droppings," he told Indy.  "Just bad luck, but they were
-caught on one side of the river when the rest of their army was on the
-other."  His face darkened.  "Fellow I spoke to said the king's troops
-must have had a magician with them, 'cos their tiger didn't catch wind
-of 'em 'til it was too late.  He doesn't expect expect he'll see many
-of his friends again."
+split between the two sides of the river when they were attacked."
+His face darkened.  "Fellow I spoke to said the king's troops must
+have had a magician with them, because their tiger didn't catch wind
+of them until it was too late.  He doesn't expect expect he'll see
+many of his friends again."
 
 Indy glanced at Noxy.  "This doesn't go out of this house," she
-warned.  Noxy nodded, turning to the stove as the lid on the pot
-started rattling.  She lifted the pot carefully with a forked stick to
-pour the boiling water over the tea, then set the teapot on the table
-to steep.
+warned.  Noxy nodded, turning to the stove as the lid on the kettle
+began to whistle.  She lifted it carefully with a pair of sticks to
+pour the boiling water into the tea, then replaced it on the stove and
+set the teapot on the table to steep.
 
 "Was there anything else?" Indy asked.
 
@@ -850,7 +858,7 @@ me---"
 The front door banged open.  Aft strode in and glared at Indy.  "How
 soon are they leaving?" he demanded.
 
-"Well, good evening to you too," Grappa Gas muttered.
+"Well, good day to you too," Grappa Gas muttered.
 
 Aft ignored his father.  "How soon, Indy? You know you can't let them
 stay."
@@ -860,13 +868,8 @@ gesturing at her stool.  "Noxy, go get the peeling stool from out
 back.  Brush it off before you bring it in the house."
 
 Aft glowered at Indy a moment longer, then sat down opposite his
-father.  The short stool creaked in protest under his weight.  Despite
-the cold, he was only wearing a sleeveless goatskin vest, knee-length
-wool shorts, and a sturdy pair of boots.  His hair was pulled back in
-a thick club braid, a blue ribbon from his wife's wedding collar woven
-into it for luck.
-
-Noxy set down the stool she had fetched for her mother, then began
+father.  The short stool creaked in protest under his weight.  Noxy
+set down the peeling stool she had fetched for her mother, then began
 pouring tea as inconspicuously as she could while Aft counted off the
 reasons the rebels couldn't stay.  What if the king sent an army after
 them? Wait, what did he mean "if", of course he would.  There were
@@ -874,84 +877,76 @@ only three hundred people in Stale, and only half a dozen of them had
 ever held a sword.  Not that they *had* any swords.  And even if they
 had---
 
-FIXME: Indy interrupts
+"I'm surprised to hear you say all this," Indy interrupted.  "I
+thought if anyone would take their side, it would be you."
 
-Noxy set a steaming mug of tea in front of him, and two more in front
-of his father and Indy.  Indy stared into hers as if hoping the tiny
-swirling leaves might spell out some answers.  "I know it's a big
-thing," she said quietly.  "And I did think about turning them away,
-but look at them.  They look like they've been through the Blight.  If
-a storm caught them in the pass, they wouldn't even make it as far as
-Makes Your Breath Smell.  How would that make us look?"
+"Well, yes, of course I do," Aft blustered.  "The sooner leeches like
+the *tralpa* have to start earning an honest living like the rest of
+us, the better.  But---"
+
+"But it's different when someone's actually on your doorstep, isn't
+it?"  Grappa Gas shook his head pityingly.
+
+Aft clenched his hands into fists.  "Of course it's different.  The
+baby could come any day now.  If the king's men come looking for this
+lot--- if there's a fight---"
+
+"Enough!"  Indy slapped the table with her hand.  "Enough, both of
+you.  We have a stormload of trouble to fly through, and I will *not*
+have you two making it worse with your bickering."
+
+Noxy set a steaming mug of tea in front of her and two others in front
+of Grappa Gas and his son.  Indy stared into hers as if hoping the
+tiny swirling leaves might spell out some answers.  "I know it's a big
+thing," she went on quietly.  "And I did think about turning them
+away, but look at them.  They look like they've been through the
+Blight.  If a storm caught them in the pass, they wouldn't even make
+it as far as Makes Your Breath Rancid.  How would that make us look?"
 
 Aft scowled.  "What people think won't matter much if we've all had
 our throats cut.  No, wait, hear me out."  He slurped his tea and set
-the cup down with a clatter.  "This is a big decision for one person
-to make.  Mayor or not, you could have asked people what they thought
-before telling them they could stay.  Maybe someone else could have
-thought of something."
+the cup down with a clatter.  "What we just did, saving travellers who
+got caught on the mountain, we can explain that if we have to.  But
+letting them stay here---saints and all their gifts, Indy, we can't.
+We just can't.  It wouldn't be safe."
 
-"I did tell ask people," Indy said calmly.  "Your father, for one."
+"For once, I agree with you."  Grappa Gas slurped his own tea with a
+scowl.  "Never mind the trouble it'll bring when the king wins---yes,
+I said *when*, and you know as well as I do that's what's going to
+happen---never mind the trouble, it's three dozen mouths to feed when
+we're already down to dried apples and barley."
 
-Aft glanced at Grappa Gas, who had a smug look on his face.  The
-younger man colored slightly.  "I still don't think we should let them
-stay more than a day or two," he grumbled.
+Aft snorted.  "Never mind the tiger.  What are we supposed to feed it?
+Or should I ask 'who'?"
 
-"If you're going to *think*," his father snapped, "You could start by
-thinking about what happens if we turn them away and the princess wins
-this fight."
-
-"If the princess wins? Hah!"  Aft slapped the table with his hand.
-"Weren't you just saying the king's winning?"
-
-Grappa Gas stood, his hands clenched into fists.  "Winning isn't won,
-lad---and a fight's not over 'til it's over!"
-
-"Stop it!" Indy said sharply.  "And sit down!  I will *not* have
-you two getting into another punch-up in my kitchen!"
-
-Grappa Gas made a noise in his throat but sat down.  Noxy let out the
-breath she hadn't realized she'd been holding.  "The next few days are
-going to be hard enough without you two arguing," her mother said in
-her no-arguing-with-me voice.  "We didn't these men to fetch up on our
-doorstep, but they did, and I'd hate to hear people say that Stale
-ever turned away a traveller.  I admit, I'd be happier if it was just
-the first bunch, but---"
-
-"But what we've got instead is two dozen mouths to feed when we're
-already down to dried apples and barley." Aft snorted.  "Never mind
-the tiger.  What are we supposed to feed it? Or should I ask 'who'?"
-
-"That's enough!" Indy snapped.  "Like them or not, there's no call for
-that kind of talk."
+"Disgusting Aftertaste!" Indy snapped.  "I will *not* have that kind
+of talk about one of the Gifted.  Especially not in front of my
+daughter."
 
 "Hmph!" Aft snorted.  "All I can say is, let's hope there isn't a late
 storm, because if there is, *I'm* going to be keeping *my* family
 behind a good strong door." He swallowed the rest of his tea in one
 gulp, stood, and nodded a curt goodbye to Noxy, and slammed the door
-behind himself on the way out.
+as he left.
 
 "Maybe it wouldn't be such a bad thing if you were right!" Grappa Gas
 called out.  "Maybe we'd have some peace and quiet around here if a
 few of us *did* get eaten!"  He turned back to Indy.  "Don't worry
-about his grumbling.  Or anyone else's, for that matter.  You're the
-mayor until the village votes otherwise, and we'll all back you in
-this."
+about him---he's just worried about the baby."
 
-"Thank you," Indy smiled.  "I appreciate it."
+"I know," Indy smiled.  "But I appreciate you saying it."
 
-Grappa Gas smiled back, then drained the last of his tea.  "It's
-good," he said to Noxy.  "Maybe wants more cinnamon next time,
-though."
+Grappa Gas drained the last of his tea in one long gulp.  "It's good,"
+he said to Noxy.  "Maybe wants more cinnamon next time, though."
 
 "I'll try to remember," Noxy promised.
 
 Indy stood when Grappa Gas did.  "Will you stay for dinner?"
 
-He shook his head and grinned.  "Thanks, girl, but I promised your
-mother I'd help her, um, peel some potatoes."  He winked, ignoring
-Noxy's little 'eww' of disgust.  Indy smiled and kissed him on the
-cheek again.  He was humming as he left.
+He shook his head.  "Thanks, girl, but I promised your mother I'd help
+her, um, peel some potatoes."  He winked, ignoring Noxy's little 'eww'
+of disgust.  Indy smiled and kissed him on the cheek again.  He was
+humming as he left.
 
 Noxy waited until her mother said down again before saying,
 "*Amma*...?"
@@ -959,38 +954,34 @@ Noxy waited until her mother said down again before saying,
 "Yes, daffodil?"
 
 Noxy hesitated.  She didn't know where to start.  "Do you think the
-king is going to come looking for them?"
+king really is going to come looking for them?"
 
-Indy shook her head.  "I hope not.  They came through the forest, so
-unless the army had a bird following them, or..."  She frowned.  "I
-don't know, daffodil, I just don't know."
+Indy sighed.  "I hope not.  But what I really hope is that they aren't
+here long enough for us to have to worry about that."
 
-Noxy ran her finger around the bottom of her teacup to catch the last
-of the honey.  "I thought we weren't going to take sides."
-
-Her mother sighed.  "If we turn them away, we'd be taking the king's
-side, wouldn't we?"  When the princess had marched on the capital the
-previous summer, Aft had demanded that the cloudherds do their best to
-drown her troops.  Grappa Gas had argued just as loudly that they
-should support the rebellion.  After all, what had the king done for
-them except take tax them and tell them they couldn't build a bigger
-fishpond?  As the arguments grew more heated, Indy had put on her
-collar, called everyone together, and laid down the law.  This was the
-lowlanders' fight. The people of Stale Leftovers were *not* going to
-take either side, not while she was mayor, and if anyone didn't like
-it, she'd be more than happy to call an election.  Anyone?  No?  All
-right, then, why didn't everyone get back to their chores, because
-those spiderweb nets weren't going to mend themselves.
+When Princess Shudarga had marched on the capital the previous summer,
+Grappa Gas had demanded that the cloudherds do their best to drown her
+troops.  Aft had argued just as loudly that they should support the
+rebellion.  After all, what had the king's *tralpa* done for them
+except take half of what they brought home at the end of every summer
+and tell them they couldn't build a bigger fishpond?  As the arguments
+grew more heated, Indy had put on her collar, called everyone
+together, and laid down the law.  This was the lowlanders' fight. The
+people of Stale Leftovers were *not* going to take either side, not
+while she was mayor, and if anyone didn't like it, they could have an
+election right then and there to sort it out.  Anyone?  No?  All
+right, then, why didn't everyone get back to their chores, because the
+spiderweb nets weren't going to mend themselves.
 
 The two sat in silence for a moment.  Finally Indy stretched.  "So
-tell me, did you collect some spider webs, or did you and Sensy spend
+tell me, did you collect some spiderwebs, or did you and Sensy spend
 the whole day mooning after Rash?"
 
-"*Amma*! And how can you think about spider webs on a day like this?
+"*Amma*! And how can you think about spiderwebs on a day like this?
 And anyway, Sensy's the one who's mooning after Rash and that stupid
 moustache he's trying to grow.  *I* think it's dumb."
 
-"Well, whoever's doing what, we need some fresh webs for ropes and
-reins before the clouds come down."
+"If you say so."  Indy raised her arms and stretched.  "Now, what are
+we---"
 
-FIXME: trolls
+*Crash!*

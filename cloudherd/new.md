@@ -688,6 +688,97 @@ pieces.
 
 ## Chapter 3: Arguments and Pursuit
 
+They hardly said a word on the way back to Stale.  One of the soldiers
+even fell asleep, snoring on one of his companions' shoulders.  The
+others watched the mountains go by with only an occasional flicker of
+interest.
+
+With her hand on Big Blue's back, Noxy could feel how unhappy the
+cloud was.  It wasn't just that he was carrying strangers, or that
+those strangers were bleeding and miserable.  When clouds died, they
+just spread out into nothing.  The thought that something could end
+but still be there---that it could go from being alive to being like a
+rock or a log---made the five canvas-wrapped bodies frightening in a
+way that storm winds and lightning couldn't match.
+
+*Sh, sh, sh,* Noxy mind-spoke soothingly, stroking the cloud as if he
+was an overgrown house cat.  *Home soon, then rest.*  At that moment,
+she wanted it just as much as the skittish cloud.
+
+Aft brought Pillow down in a clearing in front of the village's main
+gate.  It hadn't been cut back since the previous autumn, but only a
+few ferns and flowers stuck up out of the rocky soil.  The soldiers he
+had picked up slid off the cloud in ones and twos.  Some managed to
+keep their feet under themselves, but others stumbled onto one knee or
+landed on their backsides.  Under normal circumstances, the villagers
+would have made jokes or applauded particularly clumsy dismounts.
+There was no joking this time, though.  Instead, people came forward
+to offer them men blankets and fleeces, or helped them stand and then
+stepped back, unsure what to do next.
+
+Indy didn't let the Stalers stand idle for long---she never did.
+"Get these ones up to the traders' hall," she ordered one group
+crisply.  "And get a couple of pots of stew going---and some tea.
+You do drink tea, don't you?"  She moved on without waiting for an
+answer.
+
+Sergeant Dorbu was there as well.  He had traded his helmet for a
+knitted cap, black with a pair of yellow stripes to match those on his
+sleeves, but still wore his armor.  He clapped one man on the
+shoulder, steadied a second leaning on a makeshift crutch, and bowed
+his head when a third told him who hadn't made it through the night.
+
+"Where's the tiger?" Rash asked, shading his eyes with his hand.
+
+"Up on the wall," Sensy said, pointing.
+
+Noxy shaded her own eyes.  Kulbinder was sitting on his hindquarters
+high above the crowd with his boy Thokmay beside him.  Suddenly the
+tiger raised his head and looked straight at them---straight at *her*.
+She shivered with more than just the cold.
+
+As the last soldier exchanged a salute with Sergeant Dorbu, Aft blew a
+long note on his signal horn.  Pillow lifted off a moment later and
+turned toward the cloud pen.
+
+"Back up, you lot," Grappa Gas ordered.  "I'm going to bring this one
+down."  He gave the three teenagers a moment, then closed his eyes and
+ordered Big Blue down.
+
+They bumped once as they landed.  "Whoops," Grappa Gas muttered,
+coloring slightly at the look Granna Fee gave him.  "All right.  What
+do you say we get this done and go find something warm to drink?"
+
+It took a few moments for the soldiers to slide the bodies they had
+brought down the cloud's flank into their waiting comrades' arms.
+When a couple of villagers offered to help, Sergeant Dorbu shook his
+head politely but firmly.  "These are ours," he said firmly.  "Though
+we'd be grateful if you could gather some wood for a pyre---we'd like
+to send them off tonight."
+
+And then suddenly it was over.  Noxy found herself standing next to
+her friends, both feet on the ground, watching Grappa Gas and Granna
+Fee lift off to take Big Blue back to the cloud pen.  A handful of
+Stalers were milling about, but the soldiers and everyone else was
+already back inside the walls.  Even the tiger and his boy had
+disappeared off the wall.
+
+"Well," Noxy said awkwardly, not sure what to do next.  "I guess I'll
+go see if my *amma* has any chores for me."
+
+"If she doesn't, you can do some of mine," Rash replied, as he had a
+hundred times before.  He glanced at Sensy.  "I guess we should to be
+useful too."
+
+"I guess," she said casually.  "See you later."
+
+"You too."   Whatever else Noxy might have said was cut off by a
+now-familiar twinge in the back of her head.  A heartbeat later she
+head the staccato blatting of Aft's horn, the quick, angry pattern
+that meant 'back away and give me some room'.  She caught her breath.
+She had *known* one of the clouds was upset even before she'd heard
+the horn---but how?
+
 Indy shook her head.  "It will have to wait, daffodil," she said as
 her daughter opened her mouth to ask another question.  "Right now I
 want you to go home and make some tea.  Use the big pot, and all the

@@ -134,8 +134,9 @@ happening?  Why did you---mmph!"
 
 Before Young Gas could protest, the hairy creature who had been
 watching leaped for the nearest branch and swung himself up into the
-tree.  He paused for a moment to study the trio again, then
-disappeared into the greenery.
+tree.  He paused for a moment to study the trio again, his fur more
+gray than brown and his eyes old and sad, then disappeared into the
+greenery.
 
 Sensy was the first to speak.  "Wh-what's a troll doing *here*?" she
 asked shakily.
@@ -970,8 +971,8 @@ together, and laid down the law.  This was the lowlanders' fight. The
 people of Stale Leftovers were *not* going to take either side, not
 while she was mayor, and if anyone didn't like it, they could have an
 election right then and there to sort it out.  Anyone?  No?  All
-right, then, why didn't everyone get back to their chores, because the
-spiderweb nets weren't going to mend themselves.
+right, then, why didn't everyone get back to their chores, because
+they weren't going to do themselves.
 
 The two sat in silence for a moment.  Finally Indy stretched.  "So
 tell me, did you collect some spiderwebs, or did you and Sensy spend
@@ -984,4 +985,81 @@ moustache he's trying to grow.  *I* think it's dumb."
 "If you say so."  Indy raised her arms and stretched.  "Now, what are
 we---"
 
-*Crash!*
+*Crash!*  Mother and daughter jumped as something landed on the roof
+above their heads, sending tiles skittering down to shatter on the
+cobblestones outside.  A low, menacing yowl sent ice up Noxy's spine.
+
+"What in the names...?"  Indy crossed the floor in three steps and
+threw open the door just in time to see a troll land in the narrow
+street in front of their house.  She yelped and flung herself to the
+side as the hairy creature lunged past her and raced up the stairs on
+all fours.
+
+The tiger hit the cobblestones a heartbeat later.  "Which way did it
+go?" he demanded, his ears back and his tail lashing.
+
+The sound of a window shutter being flung open upstairs answered his
+question before Indy could.  "Wait, stop!"  She held up a hand before
+the tiger could move.  "What in the saints' names are you *doing*?"
+
+"He was spying on us!" the tiger snarled.  "Now let me pass!"
+
+"No!"  As the tiger came forward, Indy stepped into the doorway to
+block him.
+
+He pulled up short with a snarl.  "I said *let me pass!*"
+
+"And I said *no!*"  The mayor of Stale glared at the cat, her eyes
+flashing with the same angry light that lit his.  "This is *our*
+village, and you will *not* race around like a madman unless *I* say
+so, is that clear?"
+
+It was the bravest thing Noxy had ever seen her mother do, and for one
+long moment, she was sure it would be the last.  The muscles in the
+tiger's shoulders bunched.  He braced his legs to charge---and then,
+just as suddenly, relaxed.
+
+"As you say," he growled, his tail still twitching.  "But I still want
+to know who that damn chimpanzee was spying for."
+
+"We call them 'trolls' here," Indy said, her voice still full of
+steel.  "They're our neighbors.  And I imagine he was doing what any
+neighbor would do if a bunch of strangers showed up next door---having
+a look to see what's going on."
+
+"There was a troll up by the spiderweb orchard this morning," Noxy
+said, immediately wishing she hadn't when two heads turned to stare at
+her.  "Sensy and I---we saw it when were coming back down."
+
+"How come you didn't tell me?" her mother demanded.
+
+"It's been kind of busy!" Noxy said defensively.  "Anyway, it wasn't
+the same one.  It was older.  A lot older."
+
+The tiger sat on his haunches.  "Is this normal here?
+Chimp---*trolls* coming this close to a human settlement?  Because
+they very much keep to themselves in Thind."
+
+"No, it's not normal," Indy said.  She uncrossed her arms and
+gestured.  "But if we're going to talk about it, would you like to
+come in?"
+
+The tiger regarded her coolly for a moment, then blinked and looked
+away.  "Thank you," he said, his voice calm once again.  "Perhaps some
+other time.  I should see if the sergeant needs me."  And without any
+more goodbye than that, he rose and loped away.
+
+Noxy let out her breath in a long whoosh.  "Well," she said shakily.
+"That wasn't scary at all."
+
+Her mother sat back down on her stool and squeezed her daughter's
+hand.  "Hardly at all," she agreed.  "Are you all right?"
+
+Noxy nodded.  "Sure," she lied.
+
+Indy squeezed her hand again, then got up to close the door.  "Good.
+Let's scramble some eggs and call it a day."  She took down their one
+frying pan and set it on the stove beside the kettle.  "Tomorrow, I'm
+going to see if I can get to know the sergeant a little better.  And I
+think you ought to get to know the tiger's boy.  Let's see if we can
+find out if they have any other surprises tucked away."

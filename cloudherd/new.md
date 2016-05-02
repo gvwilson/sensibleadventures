@@ -515,7 +515,7 @@ sympathetically.  "Want me to wind it back?"
 
 "Mm," the sergeant said, eyeing her.  When the tiger rumbled deep in
 his throat, Sergeant Dorbu put on his most innocent expression.  The
-tiger's boy, Thokmay, just rolled his eyes.
+tiger's boy just rolled his eyes.
 
 Cloudherding is cold work, even in the summer.  In the spring, in the
 mountains, when breath still fogs and the wind pokes its fingers
@@ -737,9 +737,9 @@ his head when a third told him who hadn't made it through the night.
 "Up on the wall," Sensy said, pointing.
 
 Noxy shaded her own eyes.  Kulbinder was sitting on his hindquarters
-high above the crowd with his boy Thokmay beside him.  Suddenly the
-tiger raised his head and looked straight at them---straight at *her*.
-She shivered with more than just the cold.
+high above the crowd with his boy beside him.  Suddenly the tiger
+raised his head and looked straight at them---straight at *her*.  She
+shivered with more than just the cold.
 
 As the last soldier exchanged a salute with Sergeant Dorbu, Aft blew a
 long note on his signal horn.  Pillow lifted off a moment later and
@@ -1063,3 +1063,121 @@ frying pan and set it on the stove beside the kettle.  "Tomorrow, I'm
 going to see if I can get to know the sergeant a little better.  And I
 think you ought to get to know the tiger's boy.  Let's see if we can
 find out if they have any other surprises tucked away."
+
+## Chapter 4: Getting To Know You
+
+"Oh, Noxy, brush your hair!" Indy set her tea down on the table and
+began to stand.
+
+"I can do it," Noxy protested. "I'm not a baby." She dragged the brush
+she and her mother shared through her hair another few times. "Is that
+better?"
+
+Her mother sighed, just as her own mother once had. "Yes, I suppose.
+Honestly, someone would think you'd been possessed by lightning.  Now
+let's get going.  We don't want to keep them waiting."
+
+They walked through the village together, squinting against the
+sharp-edged morning sun.  The air smelled of pine smoke and fried
+eggs.  People were sitting in twos and threes on stools outside their
+houses wearing goatskin jackets or thick sweaters above sturdy
+trousers and sturdier boots.  The men knitted or peeled potatoes while
+the women picked spiderwebs apart apart and wound the strands onto
+spools.
+
+Indy had to stop to answer the same questions every dozen strides.
+How were the soldiers getting on? What did they think of the village?
+"We're on our way to ask," she replied over and over again.
+
+Many of the village's elders didn't bother to hide their unhappiness
+about their guests, but the only really sour face was Aft's.  "Has
+that tiger eaten anyone yet?" he asked, forcing an awl through a scrap
+of leather.  "Or is he too busy racing around on rooftops?"
+
+Noxy felt nearly frantic with impatience by the time she and her
+mother reached the trading hall where the soldiers had spent the
+night.  She knew that talking to people was the most important part of
+being mayor, and her mother liked doing it anyway, but what if someone
+else was already showing the tiger's boy around the village?
+
+She needn't have worried.  Sergeant Dorbu was sitting on the
+guesthouse steps with the village's children cross-legged on the
+stones in front of him.  Sensy and Rash looked up as Noxy arrived.
+Noxy blinked.  Had they been holding hands?
+
+"And this is called a greave," the sergeant said, pointing at the
+armored front of his boot.  "It's to protect me from vampire mice.
+See?" He tapped it with his fingernail, *clunk*.  "They could bite
+that if they wanted, but all they'd do is blunt their teeth."
+
+"What if they climbed up your leg?" asked Sensy.  Noxy rolled her
+eyes.  Sensy could always be counted on to ask the questions grownups
+wanted to hear.
+
+"Ah, well, then I'd---oh, hello, mayor." The sergeant stood up,
+brushing his hands on his kilt.  "The boy will be out in a heartbeat."
+
+"Thank you, sergeant," said Indy.  "My daughter is looking forward to
+showing him the village.  I trust you slept well?"
+
+"Yes, thank you," said the sergeant.  "Although I..." He blinked, then
+sniffed, then started to say, "Excuse me," but the sneeze came first.
+*Hwah!* One of the younger children giggled, then clapped her hand
+over her mouth.  The sergeant blinked and sniffed again.  "Sorry---too
+many nights in the rain."
+
+"Visitors from down below often catch colds in our thin air," said
+Indy sympathetically.  "I hope it passes quickly."
+
+The guesthouse door opened before the sergeant could reply.  The
+children scrambled to their feet and stepped back as the tiger padded
+out into the sunlight.  He wasn't as big as he'd been in Noxy's
+troubled dreams during the night, but she still had to stop herself
+from reaching for her mother's hand.
+
+Almost unnoticed, his boy slipped out behind him and closed the door.
+Instead of his armor, he wore a plain brown rain cape over his kilt
+and boots.  He kept his eyes downcast as the tiger said, "Good
+morning, mayor."
+
+"Good morning, respected," Indy replied.  "I trust you slept well?"
+
+"Thank you, I did." The tiger seemed not to notice that thirty pairs
+of eyes were staring at him.  *He must be used to it,* Noxy thought.
+
+Indy waited a moment to see if he would say anything more.  When he
+didn't, she smiled and said, "My daughter has asked if you could spare
+your boy for an hour so that she could show him our village while the
+other children do their chores."  Noxy heard Rash mutter something at
+that.  "If he would like to---oh dear." She stopped mid-sentence as
+the sergeant took a deep breath and scrunched up his face.  "Nope," he
+whooshed a moment later, blinking.  "That one's not ripe yet."
+
+"You'd be better in bed than tramping around the countryside,
+sergeant," Kulbinder rumbled.
+
+"I agree," said Indy firmly.  "My mother will make you some lemon
+ginger tea.  That will set you right in no time."
+
+"Thang you," the sergeant said stuffily.  "Respected, will you---"
+
+"I am going to explore the forest," the tiger declared.  "I would
+rather we were not...surprised...as we were at the ford."  And with no
+more ceremony than that, the tiger stood, stretched, and padded off
+toward the main gate.
+
+Indy clapped her hands.  "Right.  Everyone else, time for chores."
+As the children groaned and got to their feet, the tiger's boy finally
+raised his eyes to look at Noxy.
+
+"Hello," he said, stepping down to the cobblestones and bowing ever so
+slightly.  "My name is Thokmay.  I'm pleased to meet you."
+
+Noxy stuck out her hand.  "Hi.  I'm Probably Noxious, but call me
+Noxy---everyone does."
+
+The boy hesitated for a heartbeat, then took her hand in a grip much
+stronger than Noxy had expected.  She was just as surprised to feel
+the calluses on his hands.  He released her hand and gestured toward
+the gate.  "After you."
+

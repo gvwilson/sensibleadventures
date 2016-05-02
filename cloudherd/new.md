@@ -1181,3 +1181,56 @@ stronger than Noxy had expected.  She was just as surprised to feel
 the calluses on his hands.  He released her hand and gestured toward
 the gate.  "After you."
 
+Noxy and the tiger's boy walked side by side.  "That's the South
+Tower," said Noxy, pointing at six rectangular stories of stone.  "It
+still has a roof, but the stairs inside fell down a long time ago.
+You used to be able to get up there by climbing a tree, but they cut
+it down after Grappa Gas fell out of it for the second time.  That was
+before I was born.  And that one's the Round Tower, and the short one
+over there is called the Quick Tower, because it's quickest to get
+up."
+
+"It's a shame they've been allowed to go to ruin," said Thokmay.
+"Princess Shudarga's engineers work year round to keep the walls of
+Panday Castle sturdy.  Perhaps when the war is over she could send
+some here to fix them."
+
+"That would be nice," Noxy replied vaguely.  She wondered how Grappa
+Gas would feel about having rebel engineers clambering around the
+village's wall.  "Oh, and that's Granna Fee's house, with the moss
+green door.  She's my grandmother.  And she teaches school.  And
+that's Grappa Gas's house, the lavender one.  He used to be mayor.
+And that's, um, well, they're all just different people's houses."
+
+Noxy fell silent.  Thokmay had a polite but absent look on his face,
+just like the one Indy got when Grappa Gas started talking about how
+things had been in his day.  *It's probably not much compared to a
+real castle,* she thought glumly.  Two-story houses with steep
+shingled roofs, little vegetable gardens nestled between logs laid
+parallel a stride apart, and all around, sharp mountain peaks looming
+over the ancient gray walls...  She wouldn't have believed how strange
+it all seemed to the young lowlander beside her.
+
+They walked in silence along the path that ran next to the walls.
+Ancient cobblestones showed through the hard-packed dirt in a few
+places.  Noxy scuffed crusts of frost off a few absent-mindedly,
+wondering what else she could say.
+
+Suddenly Thokmay stopped.  "What is that?" he asked.  A heavy wooden
+grill lay across a shoulder-high opening in the wall ahead of them.
+Behind it, rough stone steps led down into the mountain.
+
+"That's just some old tunnels," said Noxy.  "We're not supposed to go
+in."
+
+Thokmay scowled.  "Sergeant Dorbu will want to know about them."
+
+"Why?" Noxy asked.  "Most of them are flooded.  Except for the one
+under Grappa Gas's house, and the ones by the drying sheds.  We use
+them for cellars."
+
+"Soldiers should know as much as they can about their surroundings,"
+Thokmay said, as if repeating a lesson to a slow learner.
+
+Noxy bit back a sharp retort.  "Come on," she said, hurrying ahead.
+"We can see more from up top."

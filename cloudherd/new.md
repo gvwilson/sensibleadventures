@@ -1234,3 +1234,181 @@ Thokmay said, as if repeating a lesson to a slow learner.
 
 Noxy bit back a sharp retort.  "Come on," she said, hurrying ahead.
 "We can see more from up top."
+
+The steps lay flush against the side of the wall.  They had been built
+for the Pilot Angels, not for human beings, so each one was as high as
+Noxy's knee, and so broad that it took her two strides to cross.
+
+Noxy put her left hand on the wall to steady herself each time she
+thrust herself up a stair.  Even after hundreds of years, the stones
+fit together so snugly that it was hard to tell where one ended and
+the next began.  She noticed smugly that Thokmay was puffing and
+sweating after only a few steps.
+
+The top of the wall was wide enough for three soldiers to march side
+by side.  The parapet along its outer edge was interrupted here and
+there by slits for lookouts and archers.  "Makes Your Breath Rancid is
+that way," Noxy said, pointing.  "You can't see it because the valley
+bends, but sometimes you can see their clouds coming out of their
+pen."
+
+"Why do you call your villages things like that?" the young soldier
+asked.
+
+Noxy shrugged.  "They're called dragon names.  They're supposed to
+make things sound unappetizing, so that when the dragons finally fly,
+they'll think twice about eating us."
+
+Thokmay snorted.  "That seems pretty far-fetched."
+
+"Well, where does *your* name come from??" Noxy bristled.
+
+"From the army orphanage," he replied, not looking at her.  "I had
+another name before I went there, but they gave me a new one."
+
+Noxy opened her mouth, then closed it.  For once, she had no idea what
+to say.
+
+As she was trying to think of something, Thokmay leaned through one of
+the slits in the parapet and pointed into the gorge below them.  "Are
+those the clouds we were on?"
+
+Noxy glanced through the neighboring slit.  "Yup.  The bull is Big
+Blue, and the cow is Pillow.  We've had them forever---they're
+practically tame."
+
+The two old clouds were hardly moving, but Noxy could have watched
+them for hours.  She loved the way they slowly changed shape as they
+drifted about, and how soft they felt when she stroked them.  Being up
+in the sky on a cloud was like riding on a grownup's shoulders when
+you were little, only a thousand times better.  You could see
+everything---deer grazing beneath the twisted pines, mountain goats
+standing on rocky ledges no wider than the heel of your boot,
+broad-winged condors making slow circles as they waited for a rabbit
+to forget to look up...  When the air was still, and the cloud was
+just drifting, it felt like the whole world was a story that was about
+to be told for the very first time.
+
+Thokmay stepped back and wrinkled his nose.  "They smell like wet
+sheep."
+
+"That's because they haven't rained for a while," Noxy explained
+defensively.  "Rash and I will probably take them out tomorrow and let
+them rain over the fish pond.  Here, come with me."
+
+Descending the stairs was even harder on her knees than climbing
+them.  Rather than cutting directly through the village, she led
+Thokmay on a roundabout path through the vegetable plots around its
+edges.  She'd seen the looks Sensy and Rash had given her when her
+mother had sent them off to do chores while she showed their youngest
+visitor around, and she wasn't keen to bump into them until they'd had
+a chance to cool off.
+
+Once through the gate, she up the trail to the cloud pen.  Big Blue
+and Pillow were both floating fifty strides away in the middle of the
+gorge.  The bull was almost at their height, while the cow drifted
+further down in his shadow.
+
+"Can you call them over?" Thokmay asked.
+
+Noxy shook her head.  "You have to be touching them to mind-speak with
+them.  That's what the ropes and cradle seat are for---see?  If
+they're not close enough to the edge, someone has to be reeled out
+above them so they can jump on from there.  It's pretty dangerous,"
+she added airily.
+
+"I suppose," Thokmay said.  He wrinkled his nose.  "But I still think
+they smell like wet sheep."
+
+Noxy bit back an angry retort.  They didn't smell anything *like*
+sheep, not really, and if he wasn't smart enough to---
+
+*Twinge.*  "Ouch," she muttered, putting her hand on the back of her
+head.  The pain was strong enough this time that she thought there
+would be a lump, but she couldn't feel anything.
+
+"Is everything all right?" Thokmay asked, eyeing her.
+
+"Yes, it's fine," she snapped.  She closed her eyes.  She had hoped
+the clouds would be right next to the mounting platform so that he
+could stroke one.  Or even get on, though she knew what her mother
+would say about *that* if she found out.  Like a thousand cloudherds
+before her, she wished the clouds would come when she whistled like
+the goats did.
+
+"Um...  Are they supposed to be doing that?"  She opened her eyes at
+Thokmay's words to see Big Blue turning toward them.  Below him,
+Pillow was rising as quickly as Noxy had ever seen her move.
+
+Thokmay stepped back instinctively as Big Blue bumped against the
+mounting platform.  Noxy stroked the old bull's flank.  "See?" she
+said.  "You can pull bits of them this way and that, but it all
+settles back into a big lump after a while."  She grabbed a handful of
+Big Blue's side and pulled as hard as she could.  When she let go, the
+bit she had teased out slowly sank back into the cloud.
+
+The young soldier patted the cloud gingerly.  Noxy grinned wickedly.
+"Here, do this."  She backed up, then ran at the cloud and threw
+herself up onto his back.  *Poof!* "Come on!" she said when Thokmay
+hesitated.  "He won't bite."
+
+"Noxious Aftertaste!  What do you think you're doing?"  Noxy's heart
+leaped into her throat.  There, at the top of the steps that led down
+to the platform, stood her mother and Sergeant Dorbu.  "You get off
+that cloud *right now*, young lady!"
+
+Noxy's stomach was churning by the time they reached the fortress
+gate.  Her mother hadn't said a word to her on the walk back.  "Thank
+you for the tour," Thokmay said politely, putting out his hand.
+
+"You're welcome," Noxy mumbled.  She shook his hand and then waited
+for the storm she knew was coming.
+
+"And thank you as well," Sergeant Dorbu told Indy, smiling.  "It was a
+pleasure."
+
+"You're welcome," the mayor said.  If she had been anyone but Noxy's
+mother, Noxy would have said she was blushing slightly.
+
+As the sergeant walked away with Thokmay beside him, Indy rounded on
+her daughter.  "Tell me," she said coldly, "What exactly would you
+have done if he'd slipped off the cloud?"
+
+"He wouldn't have slipped off!" Noxy protested.  "It was Big
+Blue---he's as safe as---"
+
+"I don't care if it was Big Blue or the mattress on your bed!" Indy
+said angrily.  She didn't seem to care that half a dozen people were
+listening just a few strides away.  "Do you know what the soldiers are
+doing this afternoon?  Do you?  They're settling all their friends who
+died before we could get to them.  What do you think they'd say if we
+had to tell them there was one more to settle, just because you wanted
+to show off?"
+
+"Yes, mayor," Noxy said wretchedly.
+
+"Don't you 'yes, mayor' me.  Now, Eyesie gave us some thimbleberries
+for those old boots you'd outgrown.  I want you to get the seeds out
+so that I can make a pie for dinner."
+
+"Thimbleberries?" Noxy said in despair.  "That'll take forever!  Rash
+and Sensy and I were going to---"
+
+"Well, you should have thought of that, shouldn't you?"  Indy took
+Noxy by the shoulders, wondering yet again when her daughter had grown
+so tall.  "Daffodil, listen to me.  *Really* listen to me." She combed
+her daughter's hair off her forehead with her fingers.  "Half the
+village is already muttering about it being time for a new mayor.  How
+can I ask them to behave when my own daughter won't? Now, go get
+washed up and start on those thimbleberries."
+
+Noxy nodded glumly.  "Yes, *amma*."
+
+She moped home to collect the bucket full of hard red thimbleberries
+and a large bowl, then climbed the steps to the top of the Quick
+Tower.  She and Sensy had covered a tumbled-down block of stone with a
+bit of gray canvas to make a pretend cloud the year before.  Plopping
+herself down on it, she started squeezing bitter grain-sized seeds out
+of the thimbleberries one by one.  Why did she have to be the one to
+show him around?  Why couldn't the stupid soldiers have washed up
+somewhere else?  And why did the sun have to be so...so sunny?

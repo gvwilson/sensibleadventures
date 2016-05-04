@@ -1412,3 +1412,126 @@ herself down on it, she started squeezing bitter grain-sized seeds out
 of the thimbleberries one by one.  Why did she have to be the one to
 show him around?  Why couldn't the stupid soldiers have washed up
 somewhere else?  And why did the sun have to be so...so sunny?
+
+When she heard the first shouts from the main square she ignored them,
+thinking that it was just children playing jump-sticks or *kabbadi*.
+Then she heard Sergeant Dorbu shout, "Hah! Heeeyah!" She tossed
+another berry into the bowl and stood up on her stone seat to look.
+
+She was just in time to see Thokmay duck under the sergeant's
+out-thrust sword and lunge with his own blade as he straightened up,
+shouting "Hah!" in turn.  Every child in the village was gathered
+around watching, and not a few of the adults as well.
+
+The sergeant knocked Thokmay's blade away and spun around, slashing
+left and right, one, two, three, as if he was fighting an invisible
+opponent.  While his back was turned the young soldier stepped forward
+and stabbed the sergeant in the ribs.
+
+The sergeant groaned, pinning Thokmay's sword with his arm so that it
+was pulled out of the boy's grip as Dorbu turned.  Thokmay only had
+time to open his mouth before the sergeant's sword tapped him lightly
+in the chest.  To Noxy's disgust, the children started to clap.
+
+"You must keep your grip even after you strike," Kulbinder grumbled.
+"No point giving your man one last blow."
+
+"I know," said Thokmay, panting slightly.  "I forgot." The sergeant
+handed his sword back to him.  both his blade and the sergeant's were
+wrapped in leather so that they wouldn't cut.  They were smaller than
+Noxy had imagined: each was only as long as its owner's arm, and no
+thicker than a pottery plate.
+
+Thokmay and the sergeant brought their swords up slowly, touched
+blades with one another, and started fighting again.  Thokmay lost
+quickly this time, but won the third round when the sergeant pretended
+to stumble over a loose cobblestone.
+
+They practiced for almost half an hour.  While the children clapped
+and cheered, some of the older villagers shook their heads and swapped
+disapproving looks.  Still, they kept watching.
+
+By the time the sergeant and his young opponent stopped, they were
+both soaked with sweat.  They saluted each other one last time.
+"You're getting better every day," Sergeant Dorbu said.  "But we could
+both use a wash-up."
+
+Thokmay nodded, still breathing hard.  "Smells like we could both use
+one too," he said.  For the first time, Noxy saw him smile.
+
+"Show me, show me!" shouted Little Gas.  He clapped his hands with
+excitement.  "I want to play!"
+
+Thokmay's smile froze.  He glanced at the sergeant, who shook his head
+almost imperceptibly.  "I'm glad you liked it," the young soldier said
+to Little Gas.  His clear voice carried right across the village
+square.  "But it's not really a game."
+
+He squatted so that he was no taller than Little Gas.  "But I can show
+you something else if you like," he said.  He looked left then right,
+as if to make sure no spies or grownups were listening.
+
+"Do you have any spare socks at home?" he asked.  Little Gas nodded.
+"Good.  You go and get me three pairs of socks, quick as you can, and
+three stones the size of your thumb."
+
+Little Gas bit his lip.  "I only have just one other pair of socks,"
+he said.  "They're for when it's winter, so my feet will fit in my
+boots."
+
+Thokmay's mouth opened, and closed, and opened again.  "Well," he
+said, "Do you think your mother would let you borrow some?  Just for a
+little bit?" Little Gas nodded quickly and scurried away.
+
+"Do you want the rest of us to get some socks, too?" Sensy asked
+hopefully.  She and Rash had been standing with the younger children,
+their chores either done or conveniently forgotten.
+
+"Oh, Sensy!" Noxy said under her breath.
+
+"If you like," Thokmay said, straightening up.  Sensy spun around and
+sprinted away.  A handful of other children ran off as well.
+
+Little Gas came puffing back a moment later.  In his hands he had one
+pair of green socks, one pair of gray, and one pair with red and white
+stripes on them.  "Will these do?" he asked, fishing some stones out
+of his pocket.
+
+"They look fine," said Thokmay.  "Now, give me your stones...  Good.
+Now, the first thing we do is we roll up the socks like this, with a
+stone in the middle, to make a ball.  See? And then the next pair...
+And the next...  Now, are you ready?" Little Gas nodded.
+
+Thokmay stepped back, took a deep breath, and threw the balled-up
+socks into the air.  His hands darted back and forth like
+hummingbirds.  Somehow, he managed to catch each sock ball before it
+fell to the ground, and then throw it again in time to catch the next
+one.  He caught them overhand, he caught them underhand, he threw two
+with his left hand while bouncing the third with his right, and then
+he threw them all in the air at once and caught them, one, two, three.
+
+There was a moment of stunned silence.  "That's magic!" Rash said
+accusingly.  "You're doing magic!"
+
+"It's not magic," Grappa Gas laughed, looking as delighted as any of
+the children.  "It's called 'juggling'! I saw it in Chaghan once,
+years ago.  It's just a trick."
+
+"That's right," Thokmay agreed, "It's just a trick.  Here, I'll prove
+it.  Sergeant?"
+
+Sergeant Dorbu took the brightly colored sock balls and tossed them in
+the air, one, two, three.  He whistled a happy little tune as he
+juggled, and even managed to wink at Sensy (who blushed).  By the time
+he was finished, Little Gas was laughing and clapping his hands.  "Let
+me, let me!" he shrieked.  "I want to!"
+
+"All right, but you have to let me show you how," Thokmay said.  "You
+have to start with just two, like this.  Um, Sergeant? Could you show
+the older children how it's done? Thank you.  Now, put this one in
+this hand, and this one in the other, and..."
+
+Noxy watched Little Gas drop all three pairs of socks, pick them up,
+and drop them again.  The little boy laughed.  Seething, she sat back
+down on her pretend cloud and glared at the bowl of thimbleberries.
+It was going to be a long afternoon...

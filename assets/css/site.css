@@ -1,0 +1,52 @@
+---
+---
+
+//----------------------------------------
+// Colors.
+//----------------------------------------
+
+$brand-blue:       #2b3990 !default;
+$brand-gray-light: #999    !default;
+$brand-gray:       #767676 !default;
+$brand-gray-dark:  #333    !default;
+$brand-green:      #6cc644 !default;
+$brand-red:        #bd2c00 !default;
+$brand-orange:     #c9510c !default;
+$brand-purple:     #6e5494 !default;
+
+//----------------------------------------
+// Override Bootstrap settings.
+//----------------------------------------
+
+code {
+  padding: 0 0;
+  color: inherit;
+  background-color: inherit;
+}
+
+//----------------------------------------
+// Miscellaneous.
+//----------------------------------------
+
+.maintitle {
+  text-align: center;
+}
+
+.footertext {
+  text-align: center;
+}
+
+img.navbar-logo {
+  height: 40px; // synchronize with height of navbar
+  padding-top: 5px;
+  padding-right: 10px;
+}
+
+div.branding {
+  color: $brand-blue;
+}
+
+ul,
+ol {
+  padding-left: 1em;
+}

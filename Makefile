@@ -1,4 +1,5 @@
 # Settings
+INSTALL_DIR=$(HOME)/sites/sensibleadventures.com
 JEKYLL=jekyll
 DST=_site
 
@@ -17,6 +18,11 @@ serve :
 ## site       : build files but do not run a server.
 site :
 	${JEKYLL} build --config _config.yml,_config_dev.yml
+
+## install    : build into installation directory for sharing.
+install :
+	rm -rf $(INSTALL_DIR)
+	cp -r _site $(INSTALL_DIR)
 
 ## clean      : clean up junk files.
 clean :

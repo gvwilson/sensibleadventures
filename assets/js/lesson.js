@@ -1,6 +1,3 @@
-// Make all tables striped by default.
-$("table").addClass("table table-striped");
-
 // Handle searches.
 // Relies on document having 'meta' element with name 'search-domain'.
 function google_search() {

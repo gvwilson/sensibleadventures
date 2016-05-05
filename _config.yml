@@ -1,0 +1,22 @@
+#------------------------------------------------------------
+# Values for this site.
+#------------------------------------------------------------
+
+# Domain for searches.
+domain: "http://sensibleadventures.com"
+
+# URL for repository.
+repo: "https://bitbucket.org/gvwilson/sensibleadventures"
+
+# Root URL for site below domain.
+root: "/gvwilson/sensibleadventures"
+
+# Overall lesson title.
+title: "Sensible Adventures"
+
+# Contact email address.
+email: gvwilson@third-bit.com
+
+# Files and directories that are not to be copied.
+exclude:
+  - Makefile

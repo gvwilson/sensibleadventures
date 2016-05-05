@@ -17,7 +17,7 @@ serve :
 
 ## site       : build files but do not run a server.
 site :
-	${JEKYLL} build --config _config.yml,_config_dev.yml
+	${JEKYLL} build
 
 ## install    : build into installation directory for sharing.
 install :

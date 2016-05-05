@@ -9,7 +9,7 @@ domain: "http://sensibleadventures.com"
 repo: "https://bitbucket.org/gvwilson/sensibleadventures"
 
 # Root URL for site below domain.
-root: "/gvwilson/sensibleadventures"
+root: ""
 
 # Overall lesson title.
 title: "Sensible Adventures"

@@ -1534,4 +1534,187 @@ this hand, and this one in the other, and..."
 Noxy watched Little Gas drop all three pairs of socks, pick them up,
 and drop them again.  The little boy laughed.  Seething, she sat back
 down on her pretend cloud and glared at the bowl of thimbleberries.
-It was going to be a long afternoon...
+It was going to be a long day...
+
+## Chapter 5: Swimming
+
+Noxy was still on her make-believe cloud an hour later, squeezing
+seeds out of thimbleberries so angrily it was amazing the berries
+didn't take fright and try to run away.  As Sensy plopped herself down
+didn't seem to notice her scowl as she plopped herself down beside her
+friend.  "You should have tried it!" she burbled.  "I only got them
+all up a few times, but it was so much fun! Rash could do it almost
+right away."
+
+"I'm sure it was wonderful," Noxy grumbled.
+
+"Oh, Noxy," Sensy pouted.  "Don't be such a goat."
+
+"I'm not being a goat!" Noxy glared at her friend.  "I just think he
+was showing off.  What did Rash think about him putting his arms
+around you like that?" Noxy had gotten up to look at the juggling
+several times.  The last time, the young soldier had been standing
+behind Sensy, so close that his nose was in her hair, reaching around
+to hold her arms just below the elbows.  The look on Sensy's face had
+suggested that she hadn't really been paying attention to what he had
+been saying.
+
+Sensy brushed her hair back over her ear and grinned.  "Why should I
+care what Rash thinks?" she asked sweetly.  Her grin turned into a
+leer.  "Or maybe you're the one who cares?"
+
+"Well, *I* think it was embarrassing," Noxy said primly.  "You were
+all following him around like ducklings, just because he knew a stupid
+trick."
+
+"Well, at least he didn't make everyone say please nine times, like
+you did when I wanted to play with the whirlidoodle Granna Fee got you
+for your nameday last year!"
+
+Noxy's mouth fell open.  Sensy had never talked back to her before!
+
+The same thought must have occurred to Sensy.  She blushed and glanced
+down at the bucket by Noxy's feet.  "Wow, you've got a lot done," she
+said vaguely.
+
+"Not enough.  Here." She push the bucket closer to Sensy with her
+foot.  "If you want to gossip, you might as well help."
+
+Sensy brushed her hair back over her ear.  "I wasn't gossiping!
+Anyway, I just wanted to tell you that we're going to teach him how to
+play Snakes and Whistles."
+
+"Snakes and Whistles? He must know how to play that!"
+
+"Nuh uh.  We were talking about it while we were juggling, and he said
+he'd never even heard of it.  I guess they play different games down
+on the plains."
+
+"I guess," Noxy echoed dubiously.  She looked down at her
+thimbleberries, pursed her lips, then stood up abruptly.  "Well? What
+are we waiting for? Let's go show him how to play!"
+
+By unspoken agreement, Noxy and Sensy didn't go straight through the
+main square---there was no point drawing Indy's attention to the fact
+that her daughter had set her chores aside.  Instead, they picked
+their way through the stakes and strings in Gram Consuela's pepper
+garden, held their breaths as they snuck past the tanning shed, and
+slipped out the fortress gate as quietly as shadows.
+
+By the time they reached the clearing where the other children had
+gathered, Rash was explaining the last of the rules to Thokmay.  "But
+if you can run all the way back without getting whistled again, then
+you're safe," he said.  "I think that's everything."
+
+"What's out of bounds?" someone asked.
+
+"The heather bush, the ponderosa, the lizard rock, and the pile of
+pinecones," Rash said, pointing at each landmark in turn.
+
+"Did you tell him about not making two snakes at once?" Noxy asked.
+
+Everyone groaned.  "Oh, we're not going to play like that, are we?"
+Sensy pouted.  "It takes forever! Anyway, who's going to be leads?"
+
+"I'll do one team," Noxy cut in.  "And Rash can do the other.
+Everyone pick a side, quick!"
+
+The first game only lasted a few minutes.  Thokmay ran straight for
+the middle of the field, but was whistled out almost at once.  Noxy
+whistled around Rash a moment later while he was trying to explain
+what had happened.  After that, his team couldn't get more than two or
+three children into a snake before being whistled by someone from
+Noxy's team.
+
+Then Noxy and her team were the snakes, and things suddenly stopped
+going so well.  Thokmay changed direction as sharply and as often as a
+rabbit trying to escape from a hawk.  He whistled Noxy almost right
+away, then managed to put three other children out in as many breaths.
+
+They played until only Rash was left.  He feinted to the right, then
+tried to run to the left, but Thokmay stayed right in front of her.
+The other children cheered him on, shouting, "Back up! Come on, Rash!
+Make a hoop on him!" but he just couldn't find an opening.
+
+Rash feinted left, hesitated just an instant as if to go right, then
+carried on to the left.  Thokmay stumbled and went down on one knee.
+Rash raced past him, then slowed, stopped, turned around, walked back
+to him, and stuck out his hand to help him up.  Everybody was
+cheering.
+
+"Looks like a tie," he said, grinning.
+
+"A tie?" Noxy exclaimed.  "There's no such thing as a tie!"
+
+"There is now," he replied.  "You're not the only one who gets to make
+up rules, you know."
+
+"No, no, she's right," Thokmay panted.  "I'm beaten, fair and square."
+He picked up a fallen pine branch.  Rash took a step back in surprise
+as Thokmay saluted, turned the stick end-over-end, and handed it to
+him.
+
+"I'm surrendering," he explained.  "Now you break my sword over your
+knee and hand me back the hilt to accept it."
+
+Rash snapped the branch in half, then hesitated.  "Which end is the
+hilt?"
+
+"It doesn't really matter," Thokmay told him.  Rash gave him the
+shorter piece of the stick.  The young soldier accepted it gravely and
+tucked it into his belt.  As he did so, Noxy saw him catch Rash's eye
+and wink.  Rash grinned and winked back, as if sharing a joke.  Noxy
+could have punched them both.
+
+"What happens if he doesn't accept your surrender?" Sensy asked.
+
+"Oh, he has to," Thokmay said.  "Nobody would follow a soldier who
+didn't follow the rules."
+
+"What if he made them up as he went along?" Noxy muttered, just loudly
+enough for everyone else to hear.
+
+"Then they wouldn't be rules, would they?" Thokmay said, still
+smiling.
+
+Indy was talking to Grappa Gas near the gate when Noxy got back, still
+fuming.  From the look on her mother's face, Noxy guessed she had
+found the half-finished bucket of thimbleberries on the Quick Tower.
+
+Before Noxy's mother could say anything, Thokmay cleared his throat.
+"Excuse me, mayor," he said, "But some of the children were telling me
+that you're planning to make some changes this summer?"
+
+"What? Oh, yes, the fishpond," Indy said.  "I don't know if I'd say
+'planning', but---"
+
+"We certainly *are* planning," Grappa Gas cut in.  "We've got the
+stone, and it's long overdue."
+
+"Really?  I'd enjoy seeing it, if that would be all right," Thokmay
+said politely.
+
+"Of course," Grappa Gas replied jovially.  "It's just down past the
+goat pens."
+
+"Actually, I was wondering if it would be possible to see it from the
+air," Thokmay asked casually.  "It must look splendid, with the
+fortress and the mountain behind it.  If it's all right with you,
+respected?"
+
+"Of course," a deep voice rumbled.  Noxy whirled about.  The tiger had
+padded up behind them and was sitting on his haunches three strides
+away.
+
+"Well then," Grappa Gas said.  "Um, if you'd like to come with me?"
+
+Ten minutes later Noxy was up in the Quick Tower on her make-believe
+cloud, her thimbleberries sitting forgotten at her feet.  *It's just
+not fair,* she thought angrily.  *I have to sit here doing chores, but
+he gets to ride a cloud.*
+
+She looked up at the sky.  High above, much higher than rain clouds
+ever flew, a great gray cirrus had drifted across the sun.  Noxy tried
+to imagine what it would be like to ride something like that,
+something that could scratch its back on the stars when it had an
+itch.

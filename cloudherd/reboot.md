@@ -9,6 +9,8 @@
 
 **Need more plot without more characters if I'm going to make 60K.**
 
+* Later, the bad guys don't accept a surrender
+
 1.  [plot development / day 1] Noxy and others are picking spider
     webs; describe the village and its surroundings, including the
     cloud pen; they are interrupted by a troll (standoff as both are
@@ -251,16 +253,16 @@
     is to Indy.
 
 * Grappa Gas (Gastric Discomfort): an old man; full of stories, argues
-  constantly with his son Dis; a rebel (partly because he's naturally
-  contrary, partly to give him something to argue about with his son).
+  constantly with his son Dis; a loyalist (partly to give him
+  something to argue about with his son).
   * Excited about rebuilding Stale's fish pond; wants to believe
     the rebellion can still succeed so that he can do that.
 
 * Aft (Disgusting Aftertaste): a grown man; Grappa Gas's father and
   Young Gas's father.  Had a crush on Indy when younger; makes no
   secret of the fact that he thinks he'd be a better mayor.  He
-  supports the king (mostly because his father is a rebel), which
-  is partly why Shudarga picks him as a victim.
+  supports Shudarga (mostly because his father is a loyalist), and
+  feels betrayed when Shudarga shows up and acts like a conqueror.
   * Has stayed behind in Stale because there's a baby on the way.
     (Mention his wife, Weakens Eyesight, but she's not a character.)
 

@@ -34,7 +34,7 @@ of her knife and began winding it onto a stick.
 
 Noxy glanced at her.  "Why? Are those ones coming loose?"
 
-"No." Sensy looked down at her soft brown goatskin coat critically.
+"No." Sensy looked down at her soft brown goofskin coat critically.
 "They're just kind of plain.  Granna Fee has some really nice red
 ones.  She said she'd give them to me if I picked the stones out of
 her pepper garden."
@@ -103,7 +103,7 @@ edges off the Pilot Angels' stonework, making it look like a snow fort
 that was just starting to melt, but it was still as solid as the
 mountains themselves.  The village's two-story wooden houses sheltered
 inside the walls like ducklings in a nest.  Thin licks of smoke rose
-from their slate chimneys, while goat pens, vegetable plots, and racks
+from their slate chimneys, while goof pens, vegetable plots, and racks
 laden with drying spiderwebs filled the spaces between them.
 
 To the west, the wall dropped straight into a steep-sided gorge.  A
@@ -202,7 +202,7 @@ will be our guests for the next little while."
 stayed in the village instead of going to round up other adults
 because his wife was expecting a baby.  He was the best cloudherd in
 the village, at least in his own estimation, but had the manners of a
-constipated goat.
+constipated goof.
 
 "Until they are ready to travel again," Indy reassured him.  Her eyes
 swept across the crowd.  "Their journey has been a hard one---they
@@ -263,7 +263,7 @@ spun around.  Rash had sidled up behind the two girls, but instead of
 poking them in the ribs as he usually would, he had been listening to
 the soldiers.
 
-"Goat," Sensy muttered, punching his arm before turning her back on
+"Goof," Sensy muttered, punching his arm before turning her back on
 him.  Rash grinned at Noxy, who scowled in return and pointedly turned
 her back on him as well.
 
@@ -380,7 +380,7 @@ Rockfalls and avalanches were common in the mountains, and more than
 one tinker or trader had needed to be lifted out of a difficult spot
 after running into a bear or being set upon by trolls.  Coils of hemp
 rope with spider-silk cores hung ready in the long shed next to the
-cloud pen, and everyone kept an extra goatskin cap somewhere handy,
+cloud pen, and everyone kept an extra goofskin cap somewhere handy,
 just in case.
 
 "You look ridiculous," Sensy told Rash flatly as he came down the
@@ -393,7 +393,7 @@ amazing.  Excuse me."  He winked at Noxy and stepped around the
 speechless 13-year-old to take his place on the platform.
 
 "Ears all!" Aft called out, clapping his hands.  Despite the cold, he
-was only wearing a sleeveless goatskin vest, knee-length wool shorts,
+was only wearing a sleeveless goofskin vest, knee-length wool shorts,
 and a sturdy pair of boots.  His hair was pulled back in a thick club
 braid, a blue ribbon from his wife's wedding collar woven into it for
 luck.  "You know how this is done.  I'm fore on Big Blue, Gas and Fee
@@ -523,7 +523,7 @@ through every loose seam and down every collar, it's beyond freezing.
 A hundred heartbeats after they left the cloud pen, Granna Fee had
 wrapped a fleece around herself and her granddaughter, leaving only
 their faces exposed.  Rash and Sensy had done the same---as Sensy
-said, he might be a goat, but at least he was a *warm* goat.
+said, he might be a goof, but at least he was a *warm* goof.
 
 Only Grappa Gas seemed unaffected.  "Saints and their inventions, but
 I miss this," he sighed.  He'd brought a cushion to rest his wooden
@@ -1066,7 +1066,7 @@ find out if they have any other surprises tucked away."
 
 ## Chapter 4: Getting To Know You
 
-"Oh, Noxy, brush your hair!" Indy set her tea down on the table and
+"Oh Noxy, brush your hair!" Indy set her tea down on the table and
 began to stand.
 
 "I can do it," Noxy protested. "I'm not a baby." She dragged the brush
@@ -1080,7 +1080,7 @@ let's get going.  We don't want to keep them waiting."
 They walked through the village together, squinting against the
 sharp-edged morning sun.  The air smelled of pine smoke and fried
 eggs.  People were sitting in twos and threes on stools outside their
-houses wearing goatskin jackets or thick sweaters above sturdy
+houses wearing goofskin jackets or thick sweaters above sturdy
 trousers and sturdier boots.  The men knitted or peeled potatoes while
 the women picked spiderwebs apart apart and wound the strands onto
 spools.
@@ -1282,7 +1282,7 @@ them for hours.  She loved the way they slowly changed shape as they
 drifted about, and how soft they felt when she stroked them.  Being up
 in the sky on a cloud was like riding on a grownup's shoulders when
 you were little, only a thousand times better.  You could see
-everything---deer grazing beneath the twisted pines, mountain goats
+everything---deer grazing beneath the twisted pines, mountain goofs
 standing on rocky ledges no wider than the heel of your boot,
 broad-winged condors making slow circles as they waited for a rabbit
 to forget to look up...  When the air was still, and the cloud was
@@ -1334,7 +1334,7 @@ the clouds would be right next to the mounting platform so that he
 could stroke one.  Or even get on, though she knew what her mother
 would say about *that* if she found out.  Like a thousand cloudherds
 before her, she wished the clouds would come when she whistled like
-the goats did.
+the goofs did.
 
 "Um...  Are they supposed to be doing that?"  She opened her eyes at
 Thokmay's words to see Big Blue turning toward them.  Below him,
@@ -1547,9 +1547,9 @@ much fun! Rash could do it almost right away."
 
 "I'm sure it was wonderful," Noxy grumbled.
 
-Sensy pouted.  "Don't be such a goat."
+Sensy pouted.  "Don't be such a goof."
 
-"I'm not being a goat!  I just think he was showing off.  What did
+"I'm not being a goof!  I just think he was showing off.  What did
 Rash think about him putting his arms around you like that?" The last
 time Noxy had looked at the juggling, Thokmay had been standing right
 behind Sensy, reaching around to hold her arms just below the elbows.
@@ -1648,8 +1648,7 @@ He picked up a nearby stick, saluted, and handed it to Rash.
 "I'm surrendering," he explained.  "Now you break my sword over your
 knee and hand me back the hilt."
 
-Rash snapped the branch in half, then hesitated.  "Which end is the
-hilt?"
+Rash snapped the branch, then hesitated.  "Which end is the hilt?"
 
 "It doesn't really matter," Thokmay told him.  Rash gave him the
 shorter piece of the stick.  The young soldier accepted it gravely and
@@ -1659,21 +1658,267 @@ punched them both.
 
 "What happens if he doesn't accept your surrender?" Sensy asked.
 
-FIXME: lead-in
+"He has to," Thokmay assured her.  "Nobody would serve under someone
+who didn't."
 
-Indy was talking to Grappa Gas near the gate when Noxy got back, still
-scowling.  From the look on her mother's face, Noxy guessed she had
-found the half-finished bucket of thimbleberries on the Quick Tower.
+"Who said anything about serving under you?" Noxy asked petulantly.
 
-FIXME: better lead-in to Thokmay getting a ride.
+"Oh Noxy!" "That's not what he said!" She flushed as the others
+rounded on her.
+
+Thokmay looked up at the sun.  "I should get back.  Thank you all for
+the game."  He bowed at the village children's answering chorus of
+thanks and then walked away, the broken stick still in his hand.
+After exchanging glances, Sensy and Rash followed him.  As the rest of
+the children followed them, a sinking feeling in the pit of Noxy's
+stomach told her that maybe the young soldier actually had won the
+game---just not the game she'd thought they were playing.
+
+Indy and Grappa Gas were by the gate when Noxy got back, deep in
+conversation with Sergeant Dorbu.  The tiger was there as well,
+sitting on his haunches, with Thokmay at his side.  Not for the first
+time, Noxy wished there was some other way into Stale that didn't
+involve jumping off a low-flying cloud.
+
+"But respected, I promise they'll stay out of everyone's way,"
+Sergeant Dorbu was saying.
+
+Indy shook her head.  "Letting you and yours stay here to heal up is
+one thing," she said apologetically.  "But if your men start walking
+patrols, it'll look an awful lot like we're joining this fight."
+
+"Nothing wrong with that," Grappa Gas muttered, subsiding when Indy
+shot him a warning look.
+
+Kulbinder cleared his throat. "May I suggest a compromise?  What if
+some of the men were to ride with you when you take the clouds up?
+Sure no one could object to you giving them tours?"  He flicked an
+ear.  "I'm sure my boy for one would enjoy it."
 
 Ten minutes later Noxy was up in the Quick Tower on her make-believe
-cloud, her thimbleberries sitting forgotten at her feet.  *It's just
-not fair,* she thought angrily.  *I have to sit here doing chores, but
-he gets to ride a cloud.*
+cloud, her thimbleberries at her feet and her mother's pointed
+reminder still stinging in her ears.  *It's just not fair,* she
+thought angrily.  *I have to sit here doing chores, but **he** gets to
+go riding.*
 
-She looked up at the sky.  High above, much higher than rain clouds
-ever flew, a great gray cirrus had drifted across the sun.  Noxy tried
-to imagine what it would be like to ride something like that,
-something that could scratch its back on the stars when it had an
-itch.
+She tossed the berries she had picked up back into the bucket and
+clambered up to look over the parapet.  Pillow was just leaving the
+cloud pen with Grappa Gas and Thokmay on her back.  Noxy could almost
+hear Grappa Gas saying, "There's nothing in the world as comfortable
+as an old cloud," just like he always did when he took *her* for a
+ride.  At least he hadn't brought some maple twists to share with
+Thokmay---at least, she *hoped* he hadn't.
+
+*He'll let Pillow rain on the fish pond first,* she thought, *That
+way, she won't be fidgety.*
+
+Sure enough, Grappa Gas brought the cloud around in a graceful turn
+toward the fishpond.  She didn't need any more instruction than
+that. She drifted to a stop, then started to rain contentedly.  The
+pair of elders sitting on log benches beside the pond returned Grappa
+Gas's wave.
+
+Noxy closed her eyes.  She could practically mind-hear the old cow's
+contentment as she slowly began to lighten.  *Why don't you just drop
+him in the pond?* she thought despondently.
+
+*Bad,* she imagined Pillow replying.  *Bad hurt.*
+
+*Oh, he'd be all right,* she replied in her head.  *The pond's pretty
+deep.  And it'd serve him right for showing off with all his juggling
+and his surrendering and stuff.*  She imagined Pillow thinning out
+underneath Thokmay little by little.  He wouldn't notice right away,
+not on his second-ever flight with Grappa Gas talking a gallop a
+breath beside him.
+
+She opened her eyes in shock.  There, a hundred strides below her, she
+saw Thokmay sink slightly, then some more. He yelped as he suddenly
+realized what was happening.
+
+"Hold on!" Grappa Gas shouted, reaching for him, but it was too
+late. Thokmay cried out as he fell through the hole in the cloud
+and splashed into the ice-cold fishpond.
+
+His head burst above water a moment later. "Help!" he screamed. "Help
+me! I can't---" He thrashed his arms as if he was trying to swim, but
+something was pulling him down.
+
+Noxy's hand flew to her mouth. His armor! Thokmay must have put his
+armor back on!  She watched in horror as Grappa Gas shouted at the
+elders to get help. With two quick steps he reached the edge of the
+cloud and jumped.
+
+A moment later he surfaced in the pond, spluttering and shouting,
+"I've got you, lad!" The old man wrapped one arm around Thokmay and
+began to backstroke toward the edge of the pond with the other.
+
+Noxy pelted down the stairs, shouting that they'd fallen in the pond,
+both of them, they were going to freeze!  Like everyone who had grown
+up in the mountains, she knew how relentless the cold was.  Even if
+Grappa Gas got Thokmay out of the water, it could still---
+
+The tiger surged past her.  "Canaries on me!" he roared.  Stalers
+leaped out of his way with startled shouts as he charged across the
+square and through the gate.
+
+Grappa Gas and Thokmay had been hauled out of the pond and wrapped in
+goofskin coats by the time Noxy got there, but were shivering
+uncontrollably.  "How did this happen?" Kulbinder demanded for the
+tenth time.  "How could he fall?"
+
+Aft shouldered through the gathering crowd with a pair of round jugs
+in his hands.  Handing one to Granna Fee, he twisted the lid off the
+other and knelt beside the pond to fill it with water, then screwed
+the lid back on.
+
+"You just had to show off, didn't you?" he growled at his father.
+Without waiting for a reply, he unscrewed the lid and passed the jug
+to his father.  "Drink up."
+
+Grappa Gas pushed the now-steaming water aside weakly.  "G-g-give it
+to th-th-the boy," he stuttered.
+
+"I'll take care of the boy," Granna Fee said.  She tipped her jug so
+that Thokmay could take a sip.  "There you go.  Nice and slow.
+That'll warm you up from the inside."
+
+"Th-th-thank you, resp-p-pected."  Thokmay reached for the jug
+
+Granna Fee shook her head.  "I'll hold onto it for now," she said,
+kindly but firmly.  "Ulfmaerr only made the two of them, and if you
+knew what this old goof eats, I don't think you'd want to share with
+him."
+
+It was another ten minutes before Thokmay and Grappa Gas could stand.
+They hobbled up the path toward Stale side by side with a crowd of
+villagers and soldiers around them.  As they left the pond, Kulbinder
+cut Indy off.  "How could this happen?" His ears were flat against his
+head, and his eyes glinted dangerously.  "He could have died!"
+
+"They both could have," the mayor replied steadily.  She matched the
+tiger's stare until the big cat blinked and looked away.
+
+"I apologize," he rumbled.  "But that doesn't change my question.  I
+thought these clouds were safe."
+
+"They are."  Noxy heard the worry in her mother's voice.  "We've been
+riding them forever---Big Blue was Grappa Gas's first ride, and
+Pillow's not much younger.  They've never done anything like this."
+
+Standing unnoticed two paces behind her mother, Noxy felt as shaky as
+Grappa Gas and Thokmay.  She knew why Pillow had dropped Thokmay in
+the pond, but she also knew that it was impossible to mind-speak to a
+cloud without touching it.  The only problem was, she had felt herself
+do it.
+
+She waited with everyone else by the trading hall until Granna Fee
+came out.  "He'll be all right," she reassured her granddaughter.  "We
+got the hot water into him before the cold could take root."
+
+"Thanks, *amma*."  Noxy fell into step beside her grandmother.  "Do
+you think---I mean, I heard people talking.  Do you think someone
+could have made Pillow drop him?"
+
+"What? Who said that?" Granna Fee asked sharply.
+
+"I don't know," Noxy hedged, not meeting her grandmother's eyes.  "I
+just---I know Grappa Gas wouldn't have done it, and he was the only
+'herd on her, and people can't mind-talk to clouds if they're not on
+them---can they?"
+
+Her grandmother stopped abruptly and put her hand on Noxy's arm.  "Why
+don't we go have a cup of tea?" she said quietly.  "We can talk then."
+
+Ten minutes later they were sitting at the tiny table in Granna Fee's
+two-room house, waiting for the kettle to boil.  "I wish we could have
+just used one of the magic jugs," Noxy joked weakly.
+
+Granna Fee smiled.  "Me too.  But it'll take them a couple of days at
+least to soak up enough heat to work again."  She spooned some tea
+into her chipped brown pot, peered at it, and added another spoonful.
+"I asked your father if he could make another one, but he said that
+part of him was all used up."
+
+"Did he say what part?" Noxy asked hesitantly.
+
+Her grandmother shook her head.  "I didn't ask.  Here, I'll get that."
+She took the whistling kettle off the stove and slowly poured the
+steaming water into the teapot.  Setting the kettle on a polished
+whorl of ironbark, she winked at Noxy and reached into her knitting
+basket to pull out a small jar and opened it.  "Honey?"
+
+"I thought you were out?" Noxy said, taking it.
+
+"Only when Gas comes over.  That man..."  She shook her head in mock
+despair.
+
+They sipped their tea and put their cups down in unison, as they had
+countless times since Indy had become mayor and Noxy had started
+spending more time with her granna than with her mother.  "So what
+*do* you think happened?" Noxy asked, hoping Granna Fee couldn't hear
+her heart thumping.
+
+The old woman shook her head.  "I don't know.  Your father---" She
+stopped herself.  "Do you know how he discovered he could do magic?"
+
+Noxy shrugged.  "*Amma* never said."
+
+Granna Fee settled back in her chair with a wince, warming her hands
+with her teacup.  "He was fishing one day---not in a pond like here,
+but with a net in the ocean, back where he grew up---and he wished
+that he was done for the day.  A heartbeat later the net fell apart in
+his hands and..."  She shrugged.  "No net, no fishing.  But when he
+got back to land and tried to tie up his boat, he couldn't make a
+knot.  Every time he tried, he'd drop the end of the rope or it would
+tangle in his fingers or something else would happen.  Something had
+heard his wish and taken it as a bargain."
+
+She leaned forward.  "He was lucky.  There was another magician in the
+town where he grew up who could teach him how to control it.  But he
+still wound up making some bad bargains."
+
+"Like having to live where nobody had ever slept on the sea," Noxy
+said.
+
+Granna Fee nodded.  "Like that.  It saved someone from shipwreck, he
+said, but he was half-crazy by the time he got here.  Even down in
+Duck Droppings there was someone who'd been on a ship once, so he
+couldn't stay there more than a couple of nights."
+
+"But what does this have to do with Pillow?" Noxy asked.
+
+Granna Fee shrugged again.  "What if it wasn't Pillow?  What if
+someone here can do magic, but doesn't realize it yet?"
+
+Noxy took another sip of tea.  Her mouth suddenly felt dry.  "Who?"
+
+"I don't know," her grandmother admitted.  "It might not even be one
+of us.  I heard a couple of the soldiers talking in the trading hall
+last night, and some of them are pretty angry at the tiger for not
+spotting the ambush that got their friends killed.  Maybe one of
+them...  I don't know.  It's all so tangled up, half the king's army
+on one side and the rest with the princess.  Who knows how many wound
+up on the wrong side?"
+
+They talked about other things after that, normal everyday things like
+when it would be time to shear the goofs of their winter wool and how
+Sensy only seemed to want to talk about her hair and her clothes and
+who they might meet that summer and how many dishes Grappa Gas would
+wash for a taste of honey.  It felt warm and comfortable, and was
+almost enough to convince Noxy that her grandmother might be
+right---that what had happened earlier that day had nothing to do with
+her.
+
+"I should go," Noxy finally said, eyeing her empty teacup
+regretfully.  "If I don't get those thimbleberries done, *amma* will
+shear *me*."
+
+Granna Fee smiled.  "How about you bring them down here and we'll do
+them together?"
+
+"Thanks, *amma*, but I said I'd do it."  She stood, then impulsively
+stepped around the table to give her grandmother a hug.  "I love you."
+
+"I love you too, daffodil."  They held each other for a moment, one
+wondering when the other had gotten so big, the other wondering when
+the first had gotten so small, and then Noxy left.

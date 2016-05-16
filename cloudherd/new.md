@@ -1922,3 +1922,61 @@ stepped around the table to give her grandmother a hug.  "I love you."
 "I love you too, daffodil."  They held each other for a moment, one
 wondering when the other had gotten so big, the other wondering when
 the first had gotten so small, and then Noxy left.
+
+## Chapter 6: The Coming Storm
+
+Afternoon was flirting with evening by the time Aft returned on
+Pillow.  "She was huddled up in the canyon above Tinker's Creek," he
+told Indy, his face set in an even deeper scowl than usual.  "She was
+skittish like I've never seen her.  Managed to spook a whole graze of
+wildings, too.  One poke and it'll turn into a stampede."
+
+Indy nodded.  Aft had found her up on the wall, where she had come to
+check on Noxy's progress.  The two adults were looking west, where
+sheets of cirrus were gathering above the peaks.  "Then let's hope
+nothing pokes them," she said after a moment.  "Although the way this
+day's gone..."
+
+Noxy kept her eyes on her thimbleberries.  She had learned a long time
+ago that if she didn't draw attention to herself, adults would
+sometimes forget that she could hear them.  She had learned a lot
+about cloudherding and negotiating with traders that way, along with a
+few things about her mother's youthful misadventures that she was
+definitely not supposed to know.
+
+After a few more details about the wild clouds he'd seen and a barbed
+comment about whether there was anything his father wouldn't do to
+impress people, Aft nodded a goodbye and left.  "Finish those later,"
+Indy told Noxy, her eyes still on the gathering clouds.  "We have
+other chores right now."
+
+Stale was no stranger to storms.  When bulls battled each other in the
+dead of winter, the snow fell so thick and so fast that people had to
+string ropes between the houses to find their way.  And in the summer,
+when nimbus clouds that had stayed in the north to give birth flew
+south to rejoin their herds, the sky could darken in the time it took
+to sing a nursery rhyme.  When that happened, the villagers knew it
+was time to tie their shutters closed and get the goofs indoors,
+because the rain was going to come down in sheets instead of drops.
+
+"I am from Thind," Kulbinder growled when Indy told him why she wanted
+the soldiers to stay in the trading hall.  "I have lived through
+monsoons.  I doubt this will be worse."
+
+"Maybe not, but I bet it'll be a lot colder," Sergeant Dorbu said.  He
+and his men had spent the afternoon washing the bodies of their fallen
+comrades and patching the holes and tears in their uniforms.  Those
+who were well enough had scoured the woods for firewood as well,
+stacking it to make a pyre just down the hill from the fortress gate.
+Indy and Noxy had found him there, helping as best he could while
+three of the village elders laid a spiderweb net over the wood so that
+it wouldn't blow away.
+
+Kulbinder sniffed.  "Storm or not, someone should be on patrol.  But I
+agree, it would be best if the men stayed warm."
+
+"How---how is Thokmay doing?" Noxy asked hesitantly.
+
+The tiger looked at her for a moment before replying.  "Well," he
+said.  "He is strong, and Respected Gas got to him quickly.  He will
+be well."

@@ -1961,7 +1961,7 @@ because the rain was going to come down in sheets instead of drops.
 
 "I am from Thind," Kulbinder growled when Indy told him why she wanted
 the soldiers to stay in the trading hall.  "I have lived through
-monsoons.  I doubt this will be worse."
+monsoons.  This could not possibly be worse."
 
 "Maybe not, but I bet it'll be a lot colder," Sergeant Dorbu said.  He
 and his men had spent the afternoon washing the bodies of their fallen
@@ -1977,6 +1977,62 @@ agree, it would be best if the men stayed warm."
 
 "How---how is Thokmay doing?" Noxy asked hesitantly.
 
-The tiger looked at her for a moment before replying.  "Well," he
-said.  "He is strong, and Respected Gas got to him quickly.  He will
-be well."
+The tiger looked at her for a moment before replying.  "He is well,"
+he said.  "He is strong, and Respected Gas got to him quickly.  He
+will be well."
+
+The sun had almost disappeared behind the mountains when the first
+sharp line of lightning sparked the far-off clouds.  Granna Fee said a
+word Noxy wasn't supposed to know.  "Let's not dawdle," she said
+briskly, pulling another armload of damp laundry off a drying line and
+stuffing it in a sack.  Ten strides away, Little Gas was pulling apart
+strips of cedar bark so that Sensy could lay them along the irrigation
+trenches in the vegetable garden.  Children, grandparents, and
+everyone else who could walk hurried to ready the village, stepping
+around soldiers or shooing them out of the way as they watched the
+sudden flurry of activity with bemusement.
+
+Noxy carried the last sack of laundry upstairs to her bedroom for want
+of anywhere else to put it.  Her mother was chopping onions by the
+time she got back downstairs.  "Thanks, daffodil," she said, blinking
+away a tear.  "Can you do some potatoes?  And see if the cheese is
+still fit to eat.  I hope the tiger isn't too picky."
+
+Noxy pulled up short.  "The tiger?"
+
+Indy sniffled.  "Yes, he's coming for dinner.  So is the sergeant.
+His boy's still in bed."  She swept a double handful of diced onions
+into the cooking pot with the back of the knife and started peeling
+what was probably the last knob of ginger in Stale.  "It's the polite
+thing to do," she continued without looking as Noxy opened and then
+closed her mouth.
+
+"Yes, *amma*."  Noxy set the loosely-woven bag of potatoes on the
+potato and began to scrub the skins off them with a piece of
+sandstone.  She had almost decided to tell her mother what had really
+happened that morning, but that wasn't a discussion she wanted to
+start now---not the way her mother got whenever company was coming.
+
+Sergeant Dorbu knocked on their door just as the rain began to fall.
+Noxy had been expecting him to be in his uniform, but he had traded in
+his helmet for a plain goofskin cap that any cloudherd might have
+worn, and had left his sword behind.
+
+Kulbinder padded in behind him while he and Indy were saying their
+hellos.  He flowed up onto the chair across from Noxy and watched
+impassively as she swept the last scraps of potato off the table.
+"He is better," the tiger said abruptly.
+
+Noxy jumped slightly.  "Oh.  You mean Thokmay?  Um, I'm glad to hear
+it.  It's pretty dangerous, getting dunked in frozen water like that.
+It happened to one of the goofs a couple of years ago.  She got out of
+their pen and tried to get across the---um.  It doesn't matter.  But
+I'm glad he's all right."  She could feel her cheeks burning under the
+tiger's cool stare.
+
+Her cheeks heated up even more when she saw Sergeant Dorbu's grin.
+"Don't worry," he said cheerfully.  "He does that to everyone.
+Saints, I almost swallowed my fork the first time I met him."
+
+"It was a spoon," Kulbinder corrected.  "And it was more than
+'almost'."

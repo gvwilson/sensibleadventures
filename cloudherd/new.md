@@ -2036,3 +2036,60 @@ Saints, I almost swallowed my fork the first time I met him."
 
 "It was a spoon," Kulbinder corrected.  "And it was more than
 'almost'."
+
+And just like that the rhythm of the meal took shape.  Sergeant Dorbu
+had a seemingly inexhaustible supply of stories about his foolishness,
+clumsiness, or bad choices.  Indy asked just enough questions to keep
+the stories coming, while Kulbinder's dry comments provoked protests
+of innocence and occaisonal snorts of laughter.  As she table a tray
+bearing grilled slabs of cheese, fried onions, and boiled potatoes,
+Noxy realized with a start that she was actually enjoying herself.
+The mood was only slightly dampened by the tiger sniffing at the
+cheese and then saying thank you, but it would probably upset his
+digestion, he would hunt in the forest after the storm was over.
+
+Conversation became more serious after the dishes were cleared.  The
+Angry Canaries had declared for Princess Shudarga almost as soon as
+she raised her banner, and had been fighting ever since.  "Or getting
+to a fight, or getting away from one, or trying to get enough food in
+our bellies to keep us fighting," Sergeant Dorbu added.  "We were up
+north, with the Cut Cards and Colonel Ordshe's mob, right in the
+middle of Shudarga's land."
+
+"Is that why you chose her side?" Indy asked as she splashed some dark
+mountain *rak* into a glass and passed it to him.  Catching Noxy's
+eye, she poured a thimbleworth into another glass and handed it to her
+daughter.  The pungent fumes tingled in Noxy's nose as she tasted it
+gingerly.
+
+Sergeant Dorbu shook his head.  "Wasn't for that.  My family..."  He
+paused, rolling his glass between his hands as if to warm them.  "We
+used to have land.  Not much---really just a big farm with a couple of
+tenants to work it---but it was enough to keep us.  Then one of our
+neighbors decided he wanted it.  She honeyed up the local *tralpa*,
+promised him a slice of the takings, and..."  He spread his hands.
+"By the time we got to court, she'd rented all the laws that would
+have saved us.  We had a week to clear out after living their all our
+lives."
+
+"That must have been horrible," Indy said sympathetically.
+
+"It is foolishness," Kulbinder rumbled.  "The law in Thind is not
+something to be borrowed for money like a bullock.  There are rules
+for each station, and that is that."
+
+"But then how does the king raise money?" Noxy asked.
+
+Kulbinder blinked slowly.  "The emperor takes what he needs when he
+needs it.  It is...simpler."
+
+"Simpler *and* fairer," Sergeant Dorbu added with a quiet intensity
+that hadn't been there a moment earlier.  "And that's what the
+princess wants.  Laws should belong to everyone, all the time, not
+just to whoever has the most money when a trial comes.  And if that
+means a bunch of royals have to work for a living instead of just
+renting our rules some kind farmed out to their great-great-grands
+way back when, that's fine by me."  He drained his glass in one quick
+gulp.  When her mother did the same, Noxy held her breath and
+swallowed the last of her own *rak*.
+

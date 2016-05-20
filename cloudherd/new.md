@@ -1591,8 +1591,8 @@ By unspoken agreement, Noxy and Sensy didn't go through the main
 square---there was no point drawing anyone's attention to the fact
 that Noxy had set her chores aside.  Instead, they picked their way
 through the stakes and strings in the village pepper garden, held
-their breaths as they snuck past the tanning shed, and slipped out of
-the fortress gate as quietly as shadows.
+their breaths as they snuck past the tannery, and slipped out of the
+fortress gate as quietly as shadows.
 
 They reached the clearing where the other children had gathered just
 as Rash finished explaining the rules to Thokmay.  "But if you can run
@@ -2085,11 +2085,74 @@ needs it.  It is...simpler."
 
 "Simpler *and* fairer," Sergeant Dorbu added with a quiet intensity
 that hadn't been there a moment earlier.  "And that's what the
-princess wants.  Laws should belong to everyone, all the time, not
-just to whoever has the most money when a trial comes.  And if that
-means a bunch of royals have to work for a living instead of just
-renting our rules some kind farmed out to their great-great-grands
-way back when, that's fine by me."  He drained his glass in one quick
-gulp.  When her mother did the same, Noxy held her breath and
-swallowed the last of her own *rak*.
+princess wants.  Laws should be there for everyone, all the time, not
+just for whoever has the most money on the day of a trial.  And if
+that means a bunch of royals have to work for a living instead of
+renting out laws some king gave their great-great-grands way back
+when, that's fine by me."  He drained his glass in one quick gulp.
+When her mother did the same, Noxy held her breath and swallowed the
+last of her own *rak*.
 
+The thick black liquid felt like fiery smoke as it went down her
+throat.  She clenched her jaw, but a strangled cough managed to
+escape.  "And that's enough for *you* tonight," her mother said in
+mock-disapproval.
+
+"Yes, *amma*," Noxy said, gasping for air.
+
+"Here."  Her mother pushed the empty kettle across the table.  "How
+about you refill that and I'll make tea?  It sounds like the worst of
+the storm has passed, and a bit of air will help you clear your head."
+
+Noxy nodded, not trusting herself to speak.  She slipped her feet into
+her boots without bothering to do up the laces, pulled a poncho over
+her head, and stumbled out into the night.
+
+Rain was still falling, but Indy had been right---most of the panicked
+clouds had passed, and the few stragglers chasing them were already
+east of Stale, heading toward the plains.  She watched them for a
+moment, then closed her eyes.
+
+"Goof," she muttered a moment later.  Of *course* she hadn't been able
+to mind-hear anything.  What had happened earlier with Thokmay had
+been a coincidence.  She shouldn't---
+
+Something clattered in the narrow gap between her house and the
+yarning shed.  Noxy opened her mouth to ask who was there, but stopped
+herself.  What if the troll had come back?  There was no reason it
+would, but there was no reason it would have been in the village in
+the first place.
+
+She set the kettle down quietly on the front step of her house and
+tiptoed gingerly toward the gap.  Holding her breath, she leaned
+forward and peeked around the corner, just in time to see a shadowy
+figure disappear out the other end.  It was definitely a person, not a
+troll, but who would be out in the rain?
+
+*The soldiers,* she realized.  It had to be one of the soldiers,
+except why would they be out in the rain either?  Suspicious, she
+hurried to follow.
+
+"Ow!"  Ten steps in, her foot connected with a pile of cobblestones
+that she and Sensy had put there as part of some long-forgotten game.
+The stones clattered as they tumbled over.  Cursing under her breath,
+she stepped over them, wishing that she had taken a moment earlier to
+do up her laces.  Some of the broken cobbles had sharp edges, and if
+she lost a boot now, she'd never catch up.
+
+She reached the other end of the gap just in time to see the shadowy
+figure disappear around the edge of the tannery.  She hesitated for
+only a moment before sprinting after it, her boots splashing in
+shallow puddles of rainwater.  Whoever she was chasing was bound to
+hear her---the only question was whether she could catch them first.
+
+She rounded the corner of the tanning shed a moment later.  Her quarry
+was nowhere to be seen.  "Rot," she cursed.  Left toward the trading
+hall, straight on toward the square, or right toward the vegetable
+patches and the gate?
+
+*Crack!* She shrieked with surprise as a bolt of lightning split the
+sky, then stomped her foot, angry at herself, the rain, and the world
+in general.  She'd lost them.  And by the time she got back, her
+mother was sure to give her the "what took you so long?" look that she
+hated so much.

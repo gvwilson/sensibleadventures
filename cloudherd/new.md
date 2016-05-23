@@ -2117,14 +2117,14 @@ moment, then closed her eyes.
 to mind-hear anything.  What had happened earlier with Thokmay had
 been a coincidence.  She shouldn't---
 
-Something clattered in the narrow gap between her house and the
+Something clattered in the narrow alley between her house and the
 yarning shed.  Noxy opened her mouth to ask who was there, but stopped
 herself.  What if the troll had come back?  There was no reason it
 would, but there was no reason it would have been in the village in
 the first place.
 
 She set the kettle down quietly on the front step of her house and
-tiptoed gingerly toward the gap.  Holding her breath, she leaned
+tiptoed gingerly toward the alley.  Holding her breath, she leaned
 forward and peeked around the corner, just in time to see a shadowy
 figure disappear out the other end.  It was definitely a person, not a
 troll, but who would be out in the rain?
@@ -2140,7 +2140,7 @@ she stepped over them, wishing that she had taken a moment earlier to
 do up her laces.  Some of the broken cobbles had sharp edges, and if
 she lost a boot now, she'd never catch up.
 
-She reached the other end of the gap just in time to see the shadowy
+She reached the other end of the alley just in time to see the shadowy
 figure disappear around the edge of the tannery.  She hesitated for
 only a moment before sprinting after it, her boots splashing in
 shallow puddles of rainwater.  Whoever she was chasing was bound to
@@ -2156,3 +2156,59 @@ sky, then stomped her foot, angry at herself, the rain, and the world
 in general.  She'd lost them.  And by the time she got back, her
 mother was sure to give her the "what took you so long?" look that she
 hated so much.
+
+*Crack!* Another bolt of lightning left a dazzling scar on the night.
+That one had been close, she realized uneasily---too close.  The
+lightnings must be nipping at the clouds that had fallen behind their
+herd.  She was suddenly glad that she wasn't airborne.  She had only
+ever been on one night flight, when Granna Fee took her up on her
+nameday when she turned ten to show her a passing star.
+
+*CRACK! BOOM!* Noxy shrieked as the third bolt of lightning struck the
+weatherduck spinning madly next to the fortress gate and shattered its
+wooden pole.  Splinters flew in all directions to clatter off roofs
+and cobblestones.
+
+One smoking scrap bounced off a chimney and clattered through a window
+whose shutter had been left untied.  As Noxy blinked to clear the
+after-dazzle of the lightning strike from her eyes, the sheets of
+dried moss that the wood had landed in began to smolder.
+
+A door banged open.  "Saints!" Aft hurried over to Noxy.  "Are you all
+right?  What in the name of all that rots are you doing out in this?"
+
+"*Amma* wanted me to fill the kettle," Noxy said stupidly.  She shook
+her head.  "It---the lightning it."
+
+"I can see the lightning hit it," Aft said testily.  He took her by
+the shoulders and peered into her eyes, then relaxed slightly.
+"You'll be all right.  Just a bit of a scare.  Come on, let's get you
+back to---wait."  He sniffed.  "What's burning?"
+
+Noxy grabbed his arm and pointed.  "There!  Upstairs!"  A bright lick
+of flame was suddenly dancing in a window.  Another joined it as the
+familiar herby smell of burning moss caught in Noxy's nostrils.
+
+"Get your mother!" Aft ordered, then cupped his hands around his
+mouth.  "Fire!  Fire!  Fire!"
+
+The village was lucky.  That's what everyone told themselves half an
+hour later.  They were lucky that the rain had made everything so wet,
+that there had been so little of the autumn moss left to burn, that
+Aft had spotted the fire so quickly.  They were lucky the soldiers had
+been there to fill and pass buckets---with most of the adults gone,
+well, the elders and children would have done the best they could, but
+things could have been a lot worse.
+
+"But what were you doing *there*?" Indy demanded as she and her
+daughter walked home arm in arm.  "You were just supposed to refill
+the kettle!"
+
+"I thought I saw something, like a troll."  Noxy shook her head.  "I
+didn't get a good look at it."  Which wasn't exactly a lie, but was an
+uncomfortable distance from the truth.  The hooded figure had
+definitely been a person, but a bit short for an adult.  And as the
+soldiers had arrived to help with the fire, one of them had been
+wearing a rain cape with a hood.  But why would Thokmay have been out
+in the rain when he could have been at dinner?  And what had he been
+doing in the alley beside her house?

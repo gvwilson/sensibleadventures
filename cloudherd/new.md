@@ -2208,7 +2208,61 @@ the kettle!"
 didn't get a good look at it."  Which wasn't exactly a lie, but was an
 uncomfortable distance from the truth.  The hooded figure had
 definitely been a person, but a bit short for an adult.  And as the
-soldiers had arrived to help with the fire, one of them had been
-wearing a rain cape with a hood.  But why would Thokmay have been out
-in the rain when he could have been at dinner?  And what had he been
-doing in the alley beside her house?
+soldiers had arrived to help with the fire, only one of them had been
+the height of the figure she had seen.  But why would Thokmay have
+been out in the rain when he could have been at dinner?  And what had
+he been doing in the alley beside her house?
+
+## Chapter 7: Discovered!
+
+Stale woke to the muffled stillness that only ever comes after storms
+and minor disasters.  The air was still damp and chill, but the sky
+was so clear that the peaks around the village almost sparkled.  A
+sharp-edged whiff of charred wood hung everywhere, sweetened slightly
+by the potpourri of the moss that the brief fire had consumed.
+
+It was a day for dawdling: for taking a little longer than usual to
+get out of bed, for letting the kettle boil a few heartbeats longer
+than it needed to, for discussing the day's chores in a little more
+detail than absolutely necessary rather than getting up from breakfast
+to start doing them.  No one wanted to hurry, not even the soldiers
+whose turn it was to patrol the road leading up to Stale and the paths
+through the forest behind it.
+
+Sergeant Dorbu spread his hands helplessly when Indy asked if the
+patrols were strictly necessary.  "Regulations," he said
+apologetically.
+
+Grappa Gas nodded firmly.  "That's right.  Have to stick to routine if
+you don't want people to go slack."  Indy and Noxy had found the two
+of them in the square, sharing strong cups of tea and advice about
+how best to extend the fishpond (though Noxy suspected the sergeant
+had mostly been listening to that part).
+
+A shutter clattered open above them.  Noxy glanced up to see Aft
+glaring down at them, his own mug clenched in his hand.  When he
+realized she had seen him, he scowled and disappeared from the window.
+
+Indy followed her daughter's gaze.  "All right," she told the sergeant
+absently.  "If you think it's necessary."  She put her hand on Noxy's
+shoulder.  "Why don't you round up Sensy and Rash and see if you can
+keep the littles busy this morning?  We need to clean up the mess from
+last night, and they'd just be under foot."
+
+By the time the soldiers and Kulbinder left twenty minutes later, Aft
+and Indy were working with a dozen elders to tear apart the ruined
+upper floor of the burned storage shed.  Charred beams were knocked
+free by heavy hammers and set in a pile to have their nails pulled.
+In a moment of inspiration, Noxy had Rash and Sensy drag a few of the
+least-damaged timbers to the other side of the square and lay them out
+in a zig-zag pattern for the littles to walk along.  Were they a
+tightrope?  A secret path through a jungle?  Or a bridge over a pit
+full of lava, and if you fell off, you'd be burned alive?  The littles
+seemed to be happy to believe all three at once, and as far as Noxy
+was concerned, anything that kept them from interrupting her repeated
+yawns was fine.
+
+It was in fact shaping up to be an almost perfect morning until one of
+the soldiers who had gone on patrol came running through the gate with
+his sword in his hands and bellowed, "At arms!  At arms!  They've
+found us!"

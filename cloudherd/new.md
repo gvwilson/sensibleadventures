@@ -2262,7 +2262,76 @@ seemed to be happy to believe all three at once, and as far as Noxy
 was concerned, anything that kept them from interrupting her repeated
 yawns was fine.
 
-It was in fact shaping up to be an almost perfect morning until one of
-the soldiers who had gone on patrol came running through the gate with
-his sword in his hands and bellowed, "At arms!  At arms!  They've
-found us!"
+It was shaping up to be a perfect morning until one of the soldiers
+who had gone on patrol came running through the gate with his sword in
+his hands and bellowed, "At arms!  At arms!  They've found us!"
+
+Sergeant Dorbu dropped the beam he was manhandling and swung down from
+the upper story of the ruined shed.  "Soldier! Report!" he snapped.
+
+The soldier pulled up short and thumped his fist to his chest in
+salute.  His left hand was still in bandages, and the stitches holding
+the gash on his check closed were crusty with scabs.  "Sir!" he
+wheezed.  "They... they..."
+
+"Catch your breath, soldier."  Sergeant Dorbu wiped his hand clean on
+his kilt and put two fingers in his mouth to whistle.  The shrill
+double tone made Noxy jump.  One of the children who had been walking
+the zig-zag of beams stumbled, then started to cry because she had
+stepped in the lava and had to go back to the beginning.  Sensy
+shushed her, eyes as wide as Noxy's as the soldiers who had stayed
+behind tumbled out of the trading hall door, some on crutches, others
+still pulling on clothes.
+
+"Sir!"  The soldier straightened up and saluted again.  "Royalist
+rangers, sir.  Two of 'em, light packs, with forest bows and short
+swords.  The tiger got 'em."
+
+"Alive?" Sergeant Dorbu demanded.
+
+The soldier nodded.  "Yes sir.  Chased 'em into us, sir, just like we
+practiced."  He gulped.  "But there was a bird with 'em, sir.  A
+crow.  It got away."
+
+"Rot," Sergeant Dorbu swore.  "Was it Gifted?"
+
+The soldier shook his head.  "Dunno, sir.  Didn't hear it say
+anything."
+
+Indy cut in.  "Sergeant, does this mean there's an army coming?"  The
+question sent Sensy's hands flying to her mouth.  Before Noxy could
+say anything to comfort her, Rash put his arm over her shoulders and
+gave her a squeeze.  On any other day, Noxy would have been shocked
+and said something sarcastic.  Right then, her only thought was a
+slightly bewildered, *But I'm scared too.*
+
+Sergeant Dorbu thought a moment before shaking his head.  "Not likely,
+mayor.  Rangers usually stay a day or two out from regular soldiers.
+My bet is a regiment has settled in at the foot of the pass to hold it
+closed now that it's clear enough to get through."  He scowled.  "But
+if these two don't report back---"
+
+"---someone's going to come looking for them," Indy finished bleakly.
+
+The next few minutes were as rushed as the time before had been
+relaxed.  Dorbu picked a dozen men by name and told them to get their
+gear on.  He sent the rest back to bed---they could still barely walk,
+and if there *was* going to be a fight, he wanted them out of it.  But
+no, he didn't think there'd be a fight---not today, anyway.
+
+"And tomorrow?" Grappa Gas asked.  "What are we all supposed to while
+you lot are chopping each other to pieces in the square?  No, I
+*won't* hush!"  he snapped at Indy as she opened her mouth.  "Having a
+laugh at the *tralpa* is one thing, but sheltering rebels, that's
+another, and if you think we won't be held to answer for it when the
+king's men show up---"
+
+"It won't come to that," Sergeant Dorbu interrupted.  "I promise."  He
+raised his voice.  "I spoke to the mayor last night.  If the royalists
+show up in force, we'll either take our chances getting through the
+pass, or surrender.  We won't put you in danger."  He drew his knife
+and laid it across his palm.  "On my blood."
+
+"No need for that," Indy said hastily.  Blood oaths were the one kind
+of magic that anyone could do.  They usually didn't take, but when
+they did, their consequences were usually unpredictable.

@@ -2117,14 +2117,14 @@ moment, then closed her eyes.
 to mind-hear anything.  What had happened earlier with Thokmay had
 been a coincidence.  She shouldn't---
 
-Something clattered in the narrow alley between her house and the
+Something clattered in the narrow jitty between her house and the
 yarning shed.  Noxy opened her mouth to ask who was there, but stopped
 herself.  What if the troll had come back?  There was no reason it
 would, but there was no reason it would have been in the village in
 the first place.
 
 She set the kettle down quietly on the front step of her house and
-tiptoed gingerly toward the alley.  Holding her breath, she leaned
+tiptoed gingerly toward the jitty.  Holding her breath, she leaned
 forward and peeked around the corner, just in time to see a shadowy
 figure disappear out the other end.  It was definitely a person, not a
 troll, but who would be out in the rain?
@@ -2140,7 +2140,7 @@ she stepped over them, wishing that she had taken a moment earlier to
 do up her laces.  Some of the broken cobbles had sharp edges, and if
 she lost a boot now, she'd never catch up.
 
-She reached the other end of the alley just in time to see the shadowy
+She reached the other end of the jitty just in time to see the shadowy
 figure disappear around the edge of the tannery.  She hesitated for
 only a moment before sprinting after it, her boots splashing in
 shallow puddles of rainwater.  Whoever she was chasing was bound to
@@ -2211,7 +2211,7 @@ definitely been a person, but a bit short for an adult.  And as the
 soldiers had arrived to help with the fire, only one of them had been
 the height of the figure she had seen.  But why would Thokmay have
 been out in the rain when he could have been at dinner?  And what had
-he been doing in the alley beside her house?
+he been doing in the jitty beside her house?
 
 ## Chapter 7: Discovered!
 
@@ -2464,4 +2464,74 @@ relaxed.  "I yield!" he said.  "I yield, damn it!  Get off me!"
 
 "Like hell," Aft grunted, twisting the soldier's arm up behind his
 back.  He got up on one knee, then rose to his feet without relaxing
-his grip.
+his grip.  "What do you want done with him?"
+
+Sergeant Dorbu was cradling the arm that had taken the hammer blow.
+His jaw was set and his eyes cold.  "Put him in the hole," he said
+curtly.  "You!"  He nodded at Noxy.  "Get to the gate.  Tell whoever's
+there what's happened, but keep your distance, you hear?  Don't try to
+stop him."
+
+"What?" Indy exclaimed.  "Wait!  She's not a---" But Noxy was already
+gone.
+
+The escaped soldier had gone back the way they had come, through the
+village.  The path at the base of the wall was longer, but Noxy knew
+it like her tongue knew her teeth.  She vaulted over a crate someone
+had left out through the winter, skidded on a cobblestone that was
+still crusted with winter ice, dodged around Sensy's startled granna
+and grappa with a shout of, "Look out, he's escaped!", and practically
+flew into the narrow jitty between their house and their neighbors.
+
+Her boots splashed in a puddle left behind by the previous night's
+storm.  As she burst out the other end, she plowed straight into
+Thokmay and knocked him off his feet.
+
+"Sorry!" Noxy exclaimed, reaching down to help him back to his feet.
+"Did you hear?  One of the soldiers escaped!  We've got to tell
+whoever's at the gate!"
+
+"Go ahead," Thokmay gasped, waving her on as he tried to re-fill his
+lungs.  "I'll catch up."
+
+That was all Noxy needed.  She raced along the side of the trading
+hall and sprinted across the square to the gate.  Three soldiers were
+standing there, two on their own feet and one on crutches.  She
+quickly explained what had happened.
+
+"Hasn't come by here," the one on crutches said.  He had a single
+yellow ribbon around his sleeve, and a thick bandage wrapped around
+his shin.
+
+"Yet," another added grimly, drawing his sword and hefting it in his
+hand.  "Best for him he doesn't, either."
+
+Boots clomped on the cobblestones as Thokmay trotted up to join them.
+"Is there any other way out?" he asked Noxy.
+
+She shook her head.  "Not unless he can fly."  She hesitated.  "But if
+he finds some rope, and gets up onto the wall, he might be able to
+climb down."
+
+Thokmay nodded.  "I'll find Kulbinder and warn him," he told the three
+soldiers.
+
+"I'll come with you," Noxy said hurriedly.
+
+"No!" Thokmay told her.  "It's too dangerous."
+
+Noxy stared at him in disbelief.  "Too dangerous?  I know the forest a
+lot better than you do!"
+
+Thokmay patted the sword at his hip.  "And I know a lot more about
+fighting than you do."
+
+"Take her with you," the soldier on crutches ordered.
+
+"But---"
+
+"That's an order," the soldier said sternly, pointing at the ribbon
+around his sleeve.
+
+"Yes sir," Thokmay replied woodenly.  Without looking at Noxy, he
+said, "Lead the way."

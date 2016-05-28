@@ -2332,6 +2332,136 @@ show up in force, we'll either take our chances getting through the
 pass, or surrender.  We won't put you in danger."  He drew his knife
 and laid it across his palm.  "On my blood."
 
-"No need for that," Indy said hastily.  Blood oaths were the one kind
-of magic that anyone could do.  They usually didn't take, but when
-they did, their consequences were usually unpredictable.
+"No need for that," Indy said hastily.  "We're happy to just take your
+word.  Aren't we?"  She shot a stern look at Grappa Gas.
+
+"Of course," the old man grumbled.  He looked at the handful of nails
+he'd accumulated and sighed.  "What a mess."
+
+The patrol arrived back in Stale a few minutes later with its two
+prisoners, but without Kulbinder, who was combing the woods for other
+rangers.  "Or that damn bird," one of the soldiers said.  "I'm sorry,
+sir, I should have got an arrow off, but it was just so rotting
+quick."
+
+"Don't worry about it," Sergeant Dorbu said, clapping him on the
+shoulder.  "Now, who do we have here?"
+
+The royalist soldiers wore the same kilts and armor as the rebels, but
+had red and blue bands on their cuffs.  Glancing at the sergeant's
+sleeves, Noxy saw stitch marks where matching bands had been removed.
+Both men had weathered faces and close-trimmed beards, though the
+larger one's was going gray while the smaller's was still as black as
+his skin.  Both wore the same expression of sullen resignation, and
+neither seemed inclined to answer the sergeant.
+
+He waited a moment, then sighed.  "All right.  Respected, is there a
+shed of some sort we could borrow?  Something with a door that locks?"
+
+Indy blinked.  "I don't think any of our doors lock.  Oh, except the
+sugar chests in the trading hall, to keep the children out, but they'd
+never fit in there.  Grappa?"
+
+Grappa Gas started to shake his head, then snapped his fingers.  "What
+about the tunnels?  We could put them in there and nail some boards
+across to stop them running off."  He gestured at the salvaged timber
+beside them.
+
+"Tunnels?" Sergeant Dorbu asked.  He turned to Indy.  "What tunnels?"
+
+In the end, he chose the same tunnel that Noxy had shown Thokmay the
+day before.  As the two prisoners pried the old wooden grill off the
+entrance under the watchful eyes of the sergeant, half a dozen of his
+men, an equal number of villagers, and a gaggle of children, Noxy
+debated telling someone---her mother, Sergeant Dorbu, *someone*---that
+Thokmay had known the tunnel was there.  Why hadn't he told the
+sergeant?  And had it been him out in the rain last night, or the
+younger ranger?  He was a head shorter than his partner---maybe, in
+the dark, she could have mistaken him for a boy?
+
+The old wooden grill clattered to the ground.  "Right, in you go," Aft
+growled.  He had been holding a spare piece of wood like a club while
+the prisoners worked, clearly not trusting them not to bolt or the
+rebel soldiers to stop them if they did.
+
+The older ranger spoke for the first time.  "What about the
+necessaries?"
+
+"We'll get you a bucket," Sergeant Dorbu.  "And something to eat."  He
+cocked an eyebrow at Indy.  "And maybe a couple of blankets?"
+
+"Yes *sir*---and will sir want some feather pillows to go with them?"
+she replied, but she smiled as she said it.
+
+The two captured soldiers lifted a salvaged beam for Grappa Gas to
+nail into place.  The older captive watched him bang the first couple
+of nails into place, then snorted and looked away.  "What?" the
+cloudherd asked.
+
+"Didn't say anything," the royalist muttered.
+
+Grappa Gas put his hands on his hips.  "Well, you didn't say it pretty
+loudly.  You mind speaking up?"
+
+The soldier shrugged.  "Just don't like seeing a job done poorly, is
+all."
+
+"Don't like---it's just nailing, man!" Grappa Gas blustered.  Some of
+the villagers hid smiles, knowing how proud the old man was of his
+handiwork.
+
+The soldier shrugged again.  "Don't mind me, I'm just here to hold the
+heavy stuff."
+
+"Hmph!"  Grappa Gas placed the next nail and lined up the hammer with
+exaggerated care.  As he swung it back, the soldier snorted again.
+The hammer came down squarely on Grappa Gas's thumb.
+
+"Ow!  Rot and damnation, man!"  Grappa Gas stuck his thumb in his
+mouth, glaring at the soldier.  "That hurts!"
+
+"Leave him be," the younger soldier said, his lowland accent turning
+the 'leave' into 'live' and the 'be' into 'bye'.  "Worse he does, the
+sooner as we're quit of here."
+
+"Right, that's it."  Grappa Gas strode forward and held out the
+hammer.  "You're so crafty, you show us how it's done."
+
+The soldier glanced at the hammer, then at Sergeant Dorbu, who spread
+his hands.  "As long as the job gets done," he said, struggling to
+keep a straight face.  Some of the villagers weren't even struggling
+any more, and Aft was grinning outright at his father's embarrassment.
+
+The soldier shrugged once more.  "Sure.  Here, you take this."
+Grunting, the two men swapped places.
+
+"A little higher.  Yup.  That's it.  Nope, in closer to the wall.
+Hold it."  The soldier eyed the beam's position critically.  "Good
+enough."
+
+And with no more warning than that he spun around and swung the hammer
+at Sergeant Dorbu's head.  The sergeant barely flung his arm to block
+the blow. *Thud!* The hammer made an ugly meaty sound as it connected
+with his forearm.
+
+At the same instant, the younger soldier flung his end of the beam at
+Aft.  Aft jumped back with a curse so that the beam clattered to the
+ground at his feet instead of crushing his toes.  "Run!" he shouted
+needlessly as the older soldier charged through the crowd.
+
+Someone shrieked.  Grappa Gas yelled, "After him!" and took two steps
+before stumbling and falling to his knees, having forgotten about his
+wooden leg for the first time in twenty years.
+
+Two of the rebel soldiers were already running after the escaping
+prisoner.  The younger one feinted left, then lunged right to go in
+the opposite direction.  Without thinking, Noxy stuck out her foot.
+"Oof!" The soldier sprawled facelong on the ground.  "Owf!"  Aft
+landed on top of him.
+
+The two scrabbled for a moment in the dirt before the soldier suddenly
+relaxed.  "I yield!" he said.  "I yield, damn it!  Get off me!"
+
+"Like hell," Aft grunted, twisting the soldier's arm up behind his
+back.  He got up on one knee, then rose to his feet without relaxing
+his grip.

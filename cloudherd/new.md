@@ -2599,4 +2599,69 @@ Noxy opened her mouth to protest that he hadn't brought her, she had
 volunteered.  An all-too-familiar twinge in the back of her head
 stopped her.  She looked up, but could only see a few tiny patches of
 blue.  "We should hurry," she told the others.  There was a cloud
-coming, a big one, and it wasn't one she knew.
+coming---a big one---and it was moving fast.
+
+## Chapter 8: Royalty
+
+The first thing the soldiers at the gate told Kulbinder was that the
+escaped royalist was still missing, but hadn't come by them.  The
+second was that Sergeant Dorbu's arm hadn't been broken, but it would
+be a while before he could swing a sword properly.
+
+"Remain here," Kulbinder ordered the soldiers.  "I will hunt for the
+prisoner.  You."  He twitched an ear at Thokmay.  "You have chores, do
+you not?"
+
+"Yes, respected."  Thokmay and the other soldiers saluted the tiger's
+hindquarters as he padded away.
+
+As he disappeared around a corner, Noxy cleared her throat.  "Um, I'd
+better go see if my *amma* needs me."
+
+Thokmay nodded.  "I hope you're feeling better."  He saluted the other
+soldiers and headed for the trading hall.
+
+Noxy made a beeline for the wall stairs.  Once up on the parapet, she
+scanned the horizon.  There!  The cloud was still so small that she
+could have covered it with her thumb, but it was definitely headed
+toward Stale.
+
+She found her mother by the tunnel entrance, watching while Grappa Gas
+hammered a beam into place.  The younger prisoner sat inside on a
+blanket, spooning cold rice into his mouth from a bowl.  Sergeant
+Dorbu and Aft were gone, but four extra soldiers stood with the two
+holding the beam in place.
+
+Noxy put her hand on her mother's arm.  "*Amma*, there's a cloud
+coming.  It'll be here soon."
+
+Indy frowned.  "Who is it?"
+
+Her daughter shook her head.  "I don't know, but it's big.  *Really*
+big."
+
+Her mother shook her head despairingly.  "There's never just one
+raindrop, is there?  All right.  Go find Aft and your granna.  And
+the sergeant too, if you can find him.  He and his men are---oh!"  She
+jumped as Kulbinder landed on the ground beside her with a sound like
+a wet blanket falling on a floor.
+
+"Sergeant Dorbu is searching the tannery," the tiger said, his ears
+back and his tail bristling.  "The smell is truly disgusting.  If the
+prisoner is in there, he is welcome to it.  Now, what is this about
+rain?"
+
+Fifteen minutes later, a small crowd stood on the mounting platform as
+the cloud approached, and Noxy had a knot in her gut.  Sergeant Dorbu
+and Kulbinder were both there beside her mother, but a trio of
+soldiers with bows in their hands had split off from them to take
+positions overlooking the canyon.  When Indy and Grappa Gas protested,
+the sergeant cut them off.  "They won't do anything unless I tell them
+to," he said.  "And I won't tell them to unless it's absolutely
+necessary."
+
+"Since when do you get to decide what's necessary?" Grappa Gas
+demanded.
+
+"Since someone disappeared without a trace in a village the size of a
+bathtub," the sergeant shot back.

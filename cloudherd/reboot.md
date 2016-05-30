@@ -122,6 +122,8 @@
     (but Noxy can't hear).  Before Noxy can tell her mother, she gets
     a twinge - a cloud is coming.
 
+--
+
 10. [plot development / day 3] Princess Shudarga arrives on a cloud
     flown by Tasteless with a handful of bodyguards, while Bhonzon
     arrives on foot with a couple of dozen soldiers (who are much

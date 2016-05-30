@@ -2649,19 +2649,73 @@ a wet blanket falling on a floor.
 "Sergeant Dorbu is searching the tannery," the tiger said, his ears
 back and his tail bristling.  "The smell is truly disgusting.  If the
 prisoner is in there, he is welcome to it.  Now, what is this about
-rain?"
+raindrops?"
 
 Fifteen minutes later, a small crowd stood on the mounting platform as
-the cloud approached, and Noxy had a knot in her gut.  Sergeant Dorbu
-and Kulbinder were both there beside her mother, but a trio of
-soldiers with bows in their hands had split off from them to take
-positions overlooking the canyon.  When Indy and Grappa Gas protested,
-the sergeant cut them off.  "They won't do anything unless I tell them
-to," he said.  "And I won't tell them to unless it's absolutely
-necessary."
+the cloud approached.  Sergeant Dorbu and Kulbinder were both there,
+but a trio of soldiers with bows in their hands had split off from
+them to take positions overlooking the canyon.  When Indy and Grappa
+Gas protested, the sergeant cut them off.  "They won't do anything
+unless I tell them to," he said.  "And I won't tell them to unless
+it's absolutely necessary."
 
 "Since when do you get to decide what's necessary?" Grappa Gas
 demanded.
 
 "Since someone disappeared without a trace in a village the size of a
-bathtub," the sergeant shot back.
+bathtub," the sergeant shot back.  Then he shook his head and said,
+"I'm sorry.  I shouldn't have said that."
+
+The cloud descended as it approached.  The soldiers on the platform
+loosened their swords in their scabbards.  Grappa Gas rapped his
+knuckles on the railing, three and two, three and two, until Indy
+quietly asked him to stop.  Below them, Big Blue and Pillow stirred
+restlessly, pushing themselves from one side of the pen to the other
+as the strange cloud approached.
+
+Noxy closed her eyes and tried to slow her thumping heart.  After what
+had happened in the forest, she was scared to try to mind-talk to the
+cloud.  She jumped a little when her mother gave her hand a reassuring
+squeeze.  "Don't worry," Indy said softly.  "Everything's going to be
+all right."
+
+Noxy nodded.  The cloud was low enough to disappear behind the spurs
+and ridges that rose above the pass.  She closed her eyes again and
+reached out with her mind.  That grumbling mind-mutter was Big Blue.
+And that---that must be Pillow.  So the newcomer was...
+
+Her eyes shot open as Aft cursed, "Rot and ruin.  Of *course* it's
+him."
+
+"But who's that with him?" Grappa Gas, shading his eyes.
+
+It was Sergeant Dorbu who answered.  "It's her," he breathed, his eyes
+shining.  "It's Princess Shudarga."
+
+The cloud bumped against the mounting platform a minute later.
+"Reeee... spect!" Sergeant Dorbu bellowed in a parade ground voice.
+As one, the assembled soldiers thumped their fists to their chests in
+salute.
+
+"Why thank you!"  The bandy-legged man who hopped down from the cloud
+sketched a bow.  "It's nice to finally get the welcome I deserve."
+
+"It's not for you, you goof," Aft muttered.  He hadn't saluted, but
+was was standing as straight as a broomstick.
+
+The bandy-legged man's grin widened, but before he could answer,
+another man stepped onto the platform and returned Sergeant Dorbu's
+salute.  His close-cropped hair was shot through with gray, and his
+face was as cold and as hard as the mountains around them.  Where the
+sergeant had two ribbons sewn around his sleeve, the newcomer had
+three yellow braids.
+
+Half a dozen soldiers followed him, all in spotless uniforms, all with
+the same stony look, and then the princess disembarked.  She was
+shorter than Noxy had expected, stocky and broad-shouldered like the
+Hett tinkers who came through the pass every summer to sharpen knives
+and mend pots.  The embroidered collar around her neck gleamed golden
+against her dark skin.  When she smiled, her teath seemed as white as
+the snow on the peaks around them.
+
+"Well," she said.  "Isn't this a pleasant surprise?"

@@ -125,7 +125,7 @@
 --
 
 10. [plot development / day 3] Princess Shudarga arrives on a cloud
-    flown by Tasteless with a handful of bodyguards, while Bhonzon
+    flown by Tasteless with a handful of bodyguards, while Bonzon
     arrives on foot with a couple of dozen soldiers (who are much
     scarier than Dorbu's).  Unlike Dorbu's troops, Shudarga's are
     hardened, and command rather than cajole.  The patrol that Dorbu's
@@ -159,7 +159,7 @@
     and goes yelling for help.
 
 12. [chase / day 4] Noxy, Thokmay, and Kulbinder are dragged in front
-    of Captain Bhonzon.  Shudarga recognizes Thokmay, so they have to
+    of Captain Bonzon.  Shudarga recognizes Thokmay, so they have to
     run (leaving behind the stuff he has cached).  Their flight is a
     recap of the loyalist soldier running through Stale the day
     before.  Noxy calls Big Blue from a distance: she, Thokmay, and
@@ -199,11 +199,11 @@
     soldiers are coming - Tasteless must have ferried them in.  Dorbu
     gets to the cave first and tries to persuade Thokmay to give
     himself up; Thokmay says he won't be a prisoner, and won't be used
-    against his father.  Bhonzon appears as they're talking and says,
+    against his father.  Bonzon appears as they're talking and says,
     "You'll be used as we'll use you!"  He captures Thokmay and is
     going to hamstring him to stop him running away; Kulbinder can't
     intervene because he's netted.  Dorbu snaps and intervenes; Dorbu
-    and Bhonzon fight while Thokmay escapes with Ulfamerr's help;
+    and Bonzon fight while Thokmay escapes with Ulfamerr's help;
     Dorbu falls to his death.
 
 17. [conflict + awe / day 5] Arguing again about what to do, this time
@@ -217,8 +217,8 @@
 
 18. [fight / day 6] The forest brews a storm so that its lightnings,
     trolls, and other creatures can attack Stale; Kulbinder goes after
-    Shudarga, revealing just how much he loved Dorbu, but Bhonzon
-    intervenes; Bhonzon and Kulbinder go over the side (Kulbinder
+    Shudarga, revealing just how much he loved Dorbu, but Bonzon
+    intervenes; Bonzon and Kulbinder go over the side (Kulbinder
     survives, wounded), but Shudarga escapes on Tasteless.
 
 19. [character development / later] See Grappa Gas caring for the
@@ -297,7 +297,7 @@
   * Background: family lost its farm because they couldn't afford to
     rent the law that would have saved it.
 
-* Captain Bhonzon: commands the Ferocious Swallows troop that
+* Major Bonzon: commands the Ferocious Swallows troop that
   arrives with Prince Shudarga to occupy Stale.
 
 ### Others

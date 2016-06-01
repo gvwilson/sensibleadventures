@@ -1212,7 +1212,7 @@ it all seemed to the young lowlander beside her.
 
 They walked in silence along the path that ran next to the walls.
 Ancient cobblestones showed through the hard-packed dirt in a few
-places.  Noxy scuffed crusts of frost off a few absent-mindedly,
+places.  Noxy scuffed crusts of frost off a few absentmindedly,
 wondering what else she could say.
 
 Suddenly Thokmay stopped.  "What is that?" he asked.  A heavy wooden
@@ -2039,7 +2039,7 @@ And just like that the rhythm of the meal took shape.  Sergeant Dorbu
 had a seemingly inexhaustible supply of stories about his foolishness,
 clumsiness, or bad choices.  Indy asked just enough questions to keep
 the stories coming, while Kulbinder's dry comments provoked protests
-of innocence and occaisonal snorts of laughter.  As she table a tray
+of innocence and occasional snorts of laughter.  As she table a tray
 bearing grilled slabs of cheese, fried onions, and boiled potatoes,
 Noxy realized with a start that she was actually enjoying herself.
 The mood was only slightly dampened by the tiger sniffing at the
@@ -2051,8 +2051,8 @@ Angry Canaries had declared for Princess Shudarga almost as soon as
 she raised her banner, and had been fighting ever since.  "Or getting
 to a fight, or getting away from one, or trying to get enough food in
 our bellies to keep us fighting," Sergeant Dorbu added.  "We were up
-north, with the Cut Cards and Colonel Ordshe's mob, right in the
-middle of Shudarga's land."
+north, with the Cut Cards under Colonel Ordshe, right in the middle of
+Shudarga's land."
 
 "Is that why you chose her side?" Indy asked as she splashed some dark
 mountain *rak* into a glass and passed it to him.  Catching Noxy's
@@ -2651,13 +2651,13 @@ back and his tail bristling.  "The smell is truly disgusting.  If the
 prisoner is in there, he is welcome to it.  Now, what is this about
 raindrops?"
 
-Fifteen minutes later, a small crowd stood on the mounting platform as
-the cloud approached.  Sergeant Dorbu and Kulbinder were both there,
-but a trio of soldiers with bows in their hands had split off from
-them to take positions overlooking the canyon.  When Indy and Grappa
-Gas protested, the sergeant cut them off.  "They won't do anything
-unless I tell them to," he said.  "And I won't tell them to unless
-it's absolutely necessary."
+Fifteen minutes later, a small crowd stood on the mounting platform
+watching the cloud approach.  Sergeant Dorbu and Kulbinder were front
+and center, but a trio of soldiers with bows had split off to take
+positions overlooking the canyon.  When Indy and Grappa Gas protested,
+the sergeant cut them off.  "They won't do anything unless I tell them
+to," he said.  "And I won't tell them to unless it's absolutely
+necessary."
 
 "Since when do you get to decide what's necessary?" Grappa Gas
 demanded.
@@ -2668,54 +2668,118 @@ bathtub," the sergeant shot back.  Then he shook his head and said,
 
 The cloud descended as it approached.  The soldiers on the platform
 loosened their swords in their scabbards.  Grappa Gas rapped his
-knuckles on the railing, three and two, three and two, until Indy
-quietly asked him to stop.  Below them, Big Blue and Pillow stirred
-restlessly, pushing themselves from one side of the pen to the other
-as the strange cloud approached.
+knuckles against his wooden leg, three and two, three and two, until
+Indy quietly asked him to stop.  Below them, Big Blue and Pillow
+stirred restlessly, pushing themselves from one side of the pen to the
+other as the strange cloud approached.
 
 Noxy closed her eyes and tried to slow her thumping heart.  After what
-had happened in the forest, she was scared to try to mind-talk to the
-cloud.  She jumped a little when her mother gave her hand a reassuring
-squeeze.  "Don't worry," Indy said softly.  "Everything's going to be
-all right."
+had happened in the forest, she was scared to try to mind-talk at all,
+much less to a cloud she didn't know.  She jumped a little when her
+mother gave her hand a reassuring squeeze.  "Don't worry," Indy said
+softly.  "Everything's going to be all right."
 
-Noxy nodded.  The cloud was low enough to disappear behind the spurs
-and ridges that rose above the pass.  She closed her eyes again and
-reached out with her mind.  That grumbling mind-mutter was Big Blue.
-And that---that must be Pillow.  So the newcomer was...
+Noxy nodded.  The cloud was about to disappear behind the spurs and
+ridges that rose above the pass.  She closed her eyes again.  That
+grumbling mind-mutter was Big Blue.  And that---that must be Pillow.
+So the newcomer was...
 
-Her eyes shot open as Aft cursed, "Rot and ruin.  Of *course* it's
-him."
+Her eyes shot open as Aft cursed, "Rot and ruin.  It had to be him,
+didn't it?"
 
-"But who's that with him?" Grappa Gas, shading his eyes.
+"But who's he carrying?" Grappa Gas, shading his eyes.
 
-It was Sergeant Dorbu who answered.  "It's her," he breathed, his eyes
-shining.  "It's Princess Shudarga."
+"Who's 'he'?" Sergeant Dorbu asked.
+
+Aft's mouth twisted.  "His name's Tasteless.  But you might as well
+just call him trouble, because he always is."
 
 The cloud bumped against the mounting platform a minute later.
-"Reeee... spect!" Sergeant Dorbu bellowed in a parade ground voice.
-As one, the assembled soldiers thumped their fists to their chests in
-salute.
+"Canaries---reeee... spect!" Sergeant Dorbu bellowed in a parade
+ground voice.  As one, the assembled soldiers thumped their fists to
+their chests in salute.
 
 "Why thank you!"  The bandy-legged man who hopped down from the cloud
 sketched a bow.  "It's nice to finally get the welcome I deserve."
 
-"It's not for you, you goof," Aft muttered.  He hadn't saluted, but
-was was standing as straight as a broomstick.
+"It's not for you, you goof," Aft muttered.
 
 The bandy-legged man's grin widened, but before he could answer,
 another man stepped onto the platform and returned Sergeant Dorbu's
 salute.  His close-cropped hair was shot through with gray, and his
 face was as cold and as hard as the mountains around them.  Where the
 sergeant had two ribbons sewn around his sleeve, the newcomer had
-three yellow braids.
+three yellow braids.  He returned the Angry Canaries' salute as half a
+dozen other soldiers' dismounted beside him, their boots drumming on
+the mounting platform.  They all wore spotless uniforms, and all had
+the same stony look as their commander.
 
-Half a dozen soldiers followed him, all in spotless uniforms, all with
-the same stony look, and then the princess disembarked.  She was
-shorter than Noxy had expected, stocky and broad-shouldered like the
-Hett tinkers who came through the pass every summer to sharpen knives
-and mend pots.  The embroidered collar around her neck gleamed golden
-against her dark skin.  When she smiled, her teath seemed as white as
-the snow on the peaks around them.
+"Sergeant," the newcomer snapped.  "I trust the archers we saw coming
+in are friendly?"
 
-"Well," she said.  "Isn't this a pleasant surprise?"
+"Yes, major."
+
+The major nodded.  "Good.  My men will be bringing them down."  He
+glanced sideways.  "And the Gifted?"
+
+"He's with us too, respected."  Sergeant Dorbu cleared his throat.
+"May I asked, respected, what is---oh."  The soldier blinked rapidly,
+then inhaled and bellowed, "Canaries---reeee... spect!" once again
+as Her Highness Princess Shudarga, formerly *tral-tralpa* of the six
+districts that made up the northern quarter of Gandan, now leader of
+the rebellion, slid down off the cloud onto the mounting platform.
+
+She was not much taller than Noxy, stocky and broad-shouldered like a
+stonemason.  The golden thread in embroidered collar of office around
+her neck gleamed against her dark skin.  When she smiled, her teeth
+seemed as white as the snow-capped peaks around them.
+
+"Well, this is a pleasant surprise," she said warmly.  "Major Bonzon,
+could you introduce us please?"
+
+"My apologies, Your Highness.  Sergeant?"
+
+It shouldn't have been possible for Sergeant Dorbu to straighten up
+any further, but somehow he managed it.  "Dorbu, respected, acting
+commander of fifth troop, second regiment of ordinary foot.  This is
+my second and chief scout, the Gifted Kulbinder, and the respected
+Literally Indigestible, mayor of Stale Leftovers."
+
+Indy bowed.  The rest of the villagers followed suit---even Grappa
+Gas, though he hesitated one rebellious heartbeat before doing so.
+
+The princess acknowledged their bows with a slight nod.  "And how, may
+I ask, did the second regiment's fifth troop wind up here?  Aren't you
+supposed to be in Chaghan?"
+
+Sergeant Dorbu grimaced.  "About that, Your Highness..."
+
+The villagers might as well not have been there as Major Bonzon and
+the princess peppered Sergeant Dorbu with questions on the walk back
+to Stale.  When he described the ambush, they asked about the makeup
+of the royalist forces.  When he told them about being trapped by the
+forest, and about the cloudherds rescuing their wounded comrades,
+their questions were all about the trolls.  How many were there?  How
+aggressive had they been?
+
+"There's hundreds, Your Highness," Aft broke in, all trace of his
+usual belligerence gone.  "And they're mostly not trouble at all, so
+long as we keep to what's ours and don't disturb what's theirs."
+
+"And the forest itself?  Sergeant, how likely are we to be able to get
+troops through to Chaghan?"  Princess Shudarga asked.  Short as she
+was, she moved briskly, and didn't seem fazed at all by the thin
+mountain air.  Major Bonzon stayed beside her, his hand never far from
+the hilt of his sword, while the half-dozen soldiers that Noxy now
+realized were bodyguards kept pace ahead and behind.  The villagers
+trailed behind like the tail of a comet, with Grappa Gas stumping
+along at the rear, cursing quietly under his breath as he tried to
+keep up.  The cloudherd Tasteless kept to the back as well, either
+because he couldn't be bothered to rush, or because he was prudent
+enough to stay as far away from Aft as possible.
+
+The three archers Sergeant Dorbu had sent up the ridge were waiting at
+the fortress gate when they arrived, watched over by twice their
+number of new arrivals.  Like the two captured royalist rangers, they
+had close-trimmed beards and the leathery skin of men used to sleeping
+outdoors and sitting close to campfires.

@@ -2568,21 +2568,21 @@ voices or their boots or the short sword that was suddenly in
 Thokmay's hand.
 
 She pressed the heels of her hands to her temples.  What was
-happening?  She couldn't be mind-hearing the forest---could she?
+happening?  She couldn't be mind-hearing the forest---could she?  She
+must be going crazy.  It was too much---it couldn't all fit.  Her head
+was going to burst.
+
+"It's too big..." Noxy whimpered.  
 
 "Sh!" Thokmay hissed urgently.  "Be quiet!"
 
-"It's too big..." Noxy whimpered.  She must be going crazy.  It was
-too much---it couldn't all fit.  Her head was going to burst.  She put
-a hand on a nearby tree to steady herself.  The bark was cold and damp
-but reassuringly solid.  The little beads of sap under her palm were
-frozen nearly solid but still sticky.
-
-She took a deep, shaky breath.  She wasn't going to throw up after
-all.  "I'm all right," she told Thokmay, smiling weakly.  "Just...
-just a headache."  Somewhere nearby, a sapsucker chirped uncertainly.
-A squirrel chattered in response, and from right behind her, a tiger
-spoke.
+Noxy put a hand on a nearby tree to steady herself.  The bark was cold
+and damp but reassuringly solid.  The little beads of sap under her
+palm were frozen nearly solid but still sticky.  She took a deep,
+shaky breath.  She wasn't going to throw up after all.  "I'm all
+right," she told Thokmay, smiling weakly.  "Just...  just a headache."
+Somewhere nearby, a sapsucker chirped uncertainly.  A squirrel
+chattered in response, and from right behind her, a tiger spoke.
 
 "What are you doing here?" Kulbinder demanded.  Noxy shrieked and spun
 around.  The tiger ignored her.  "You should be in the village!"
@@ -2759,27 +2759,93 @@ the princess peppered Sergeant Dorbu with questions on the walk back
 to Stale.  When he described the ambush, they asked about the makeup
 of the royalist forces.  When he told them about being trapped by the
 forest, and about the cloudherds rescuing their wounded comrades,
-their questions were all about the trolls.  How many were there?  How
-aggressive had they been?
+their questions were about the surviving men.  How many were fit
+enough to march?  How many would be if they had another day or two to
+rest?
 
-"There's hundreds, Your Highness," Aft broke in, all trace of his
-usual belligerence gone.  "And they're mostly not trouble at all, so
-long as we keep to what's ours and don't disturb what's theirs."
+And when he told them about the two royalist rangers they had
+captured, and that one of them was on the loose, she didn't even break
+stride.  "Major Bonzon will handle it, I'm sure," she said.
 
-"And the forest itself?  Sergeant, how likely are we to be able to get
-troops through to Chaghan?"  Princess Shudarga asked.  Short as she
-was, she moved briskly, and didn't seem fazed at all by the thin
-mountain air.  Major Bonzon stayed beside her, his hand never far from
-the hilt of his sword, while the half-dozen soldiers that Noxy now
-realized were bodyguards kept pace ahead and behind.  The villagers
-trailed behind like the tail of a comet, with Grappa Gas stumping
-along at the rear, cursing quietly under his breath as he tried to
-keep up.  The cloudherd Tasteless kept to the back as well, either
-because he couldn't be bothered to rush, or because he was prudent
-enough to stay as far away from Aft as possible.
+As short as the princess was, she moved briskly, and didn't seem fazed
+at all by the thin mountain air.  Major Bonzon stayed beside her, his
+hand never far from the hilt of his sword, while the half-dozen
+soldiers that Noxy now realized were bodyguards kept pace ahead and
+behind.  The villagers trailed behind like the tail of a comet, with
+Grappa Gas stumping along at the rear, cursing quietly under his
+breath as he tried to keep up.  The cloudherd Tasteless kept to the
+back as well, either because he couldn't be bothered to rush, or
+because he was prudent enough to stay as far away from Aft as
+possible.
+
+"Now, what about these trolls?" the princess asked.  "How aggressive
+were they?"
+
+"They're mostly not trouble at all, Your Highness," Aft broke in, all
+trace of his usual belligerence gone.  "Not so long as we keep to
+what's ours and don't disturb what's theirs."
+
+"Good," she said crisply.  "And the forest itself?  How likely are we
+to be able to get troops through to Chaghan?"
+
+Sergeant Dorbu shook his head.  "Sorry, Your Highness.  A few rangers
+might make it, but nothing more."  She pursed her lips at that, but
+didn't reply.
 
 The three archers Sergeant Dorbu had sent up the ridge were waiting at
 the fortress gate when they arrived, watched over by twice their
-number of new arrivals.  Like the two captured royalist rangers, they
-had close-trimmed beards and the leathery skin of men used to sleeping
-outdoors and sitting close to campfires.
+number of the new arrivals.  The archers had the sullen look of
+schoolchildren who have just been told their homework isn't good
+enough and will have to be redone.  The princess's men had the same
+close-trimmed beards and leathered skin of the royalist rangers.  They
+all saluted as the princess and her entourage approached.
+
+"Stand easy," she ordered.  "Mayor Indigestible, please let the major
+know where the men can quarter, and where you'd like me to stay.
+Major, I want a complete inventory in two hours---everything we still
+have, everything we're missing.  And put out some patrols, not that I
+need to tell you your job."  She yawned suddenly, then blinked as if
+she was as surprised by it as everyone else.  "And mayor, if there's
+any chance of a bath, I'd be eternally grateful."
+
+"Of course, Your Highness," Indy said.  "My daughter and her friends
+can lay one on for you right away.  But---" she hesitated.  "Forgive
+me asking, Your Highness, but what are you doing here?"
+
+Princess Shudarga looked at her bleakly.  "Running away.  The
+rebellion is over.  We lost, and the only thing we can do now is live
+to fight another day."
+
+Stale's bath house was the second largest building in the village.
+One third was the men's sauna, which Noxy had only been in once, on a
+dare when she was eight.  The other two thirds held half a dozen tubs
+lined with carefully-fitted sheets of slate.  Each one had a small
+stove built into its side, topped with a boiler capable of holding
+eight large buckets of water.  A squeaky pump at one end drew water
+from the long pipe that snaked through the village carrying snowmelt
+from the upper pond to the laundry sluices.
+
+Or rather, that carried snowmelt in the warm months.  Sensy worked the
+pump fruitlessly a few times before giving up.  "It must have frozen
+again," she told Noxy with a frown.  "But it was working a couple of
+days ago, and we've had rain since then, not snow."
+
+Noxy shrugged.  "Maybe a bearfrog got stuck in it again."  She nudged
+a nearby bucket half-heartedly with her boot.  "You stoke, I'll
+carry?"
+
+"You carried last time," Sensy pouted.
+
+"Fine, I'll stoke," Noxy sighed, grinning behind Sensy's back as the
+other girl picked up a pair of buckets.  There was plenty of kindling
+in the box by the window---it was the first thing she had looked for
+when they entered---and she had always loved starting fires.
+
+The grin slipped from her face as she laid a few dry twigs in a
+criss-cross pattern and tucked a few wisps of dry moss underneath
+them.  If the rebellion was over, what was going to happen to rebel
+soldiers?  And more importantly, what was happening to *her*?  As much
+as she wanted to believe that what had happened in the forest had just
+been lightheadedness or the beginnings of a fever, she knew something
+more was going on.  Was she becoming a magician like her father?  Or
+was she simply going crazy?  She needed to talk to someone, but who?

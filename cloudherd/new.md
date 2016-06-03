@@ -2402,7 +2402,8 @@ Grappa Gas put his hands on his hips.  "Well, you didn't say it pretty
 loudly.  You mind speaking up?"
 
 The soldier shrugged.  "Just don't like seeing a job done poorly, is
-all."
+all," he said, his lowland accent turning 'seeing' to 'saying' and
+'all' to 'ale'.
 
 "Don't like---it's just nailing, man!" Grappa Gas blustered.  Some of
 the villagers hid smiles, knowing how proud the old man was of his
@@ -2418,9 +2419,8 @@ The hammer came down squarely on Grappa Gas's thumb.
 "Ow!  Rot and damnation, man!"  Grappa Gas stuck his thumb in his
 mouth, glaring at the soldier.  "That hurts!"
 
-"Leave him be," the younger soldier said, his lowland accent turning
-the 'leave' into 'live' and the 'be' into 'bye'.  "Worse he does, the
-sooner as we're quit of here."
+"Leave him be," the younger soldier said.  "Worse he does, the sooner
+as we're quit of here."
 
 "Right, that's it."  Grappa Gas strode forward and held out the
 hammer.  "You're so crafty, you show us how it's done."
@@ -2849,3 +2849,70 @@ as she wanted to believe that what had happened in the forest had just
 been lightheadedness or the beginnings of a fever, she knew something
 more was going on.  Was she becoming a magician like her father?  Or
 was she simply going crazy?  She needed to talk to someone, but who?
+
+Something heavy thumped on the floor behind her.  A hand clamped over
+her mouth as a strong arm wrapped around her, pinning her own arms to
+her sides.  A low voice spoke in her ear, its owner's lowland accent
+rounding the long vowels.  "I'm not going to hurt you, young miss, but
+I'll need you to be keeping still."  It was the escaped ranger!
+
+"Mmph!"  She struggled anyway, knowing it was hopeless---he was twice
+her weight, and as strong as he was lean.  He stank of stale sweat,
+woodsmoke, and most of all of urine.  He must have been hiding in the
+tanning shed, she realized, her thoughts strangely calm.  It was the
+one place where Kulbinder wouldn't be able to smell him.
+
+She bent forward and snapped her head back as hard as she could.
+There was a satisfying *crack!* the back of her skull connected with
+his jaw.  "Here now!" he grunted, squeezing so tightly so that she
+could barely breathe.  She didn't have to escape, she realized.  She
+just had to hold on until Sensy got back.  The ranger couldn't hold
+onto both of them at once.
+
+The door opened.  The ranger spun around with Noxy still in his arms,
+but it wasn't Sensy---it was Thokmay and Kulbinder.
+
+The three humans froze, but not the tiger.  He bounded forward at Noxy
+and the ranger with a roar.  She shrieked as the soldier pushed her at
+the tiger and snatched up a stick of kindling.  Kulbinder knocked her
+aside with his shoulder and pounced on the ranger.  He shouted
+something unintelligible as he went down, his makeshift club bouncing
+off harmlessly off the tiger shoulder.  There was an awful *crack!* as
+the back of his head hit the lip of one of the bathtubs, and then he
+was still.
+
+"Go fetch the sergeant," Kulbinder snarled. "*Now!*"
+
+Noxy didn't need to be told twice.  She stumbled out the door and down
+the steps just in time to collide with Sensy.
+
+"Noxy, what's wrong?"
+
+"The---he---in there," she gasped.  "Don't go in.  The prisoner,
+he---the tiger---"  She suddenly realized she was crying.  When had
+that started?
+
+Sensy set her buckets down hastily, heedless of the water that sloshed
+out of them onto her boots.  She took Noxy by the shoulders.  "Are you
+all right?  What happened?"
+
+"It's the soldier," Noxy explained, wiping her face on her sleeve.
+"He was hiding, but then he grabbed me, and then the tiger came at
+him.  We have to get my *amma*. And, and, the sergeant, and---"
+
+Sensy's eyes widened.  "Come on!"  She tugged Noxy's arm.  Together,
+the two girls ran through the village.
+
+It was like kicking a beehive.  Noxy wasn't even a sentence into
+stammering out what had happened before Indy pulled her into a hug and
+Sergeant Dorbu and Major Bonzon were barking orders and running back
+to the bath house with the other soldiers right behind them with
+swords in their hands and Aft right there with them, yelling about the
+back door to the bath house, someone should go around back in case
+someone tried to escape that way.
+
+"Oh, daffodil," Indy murmured, squeezing her daughter almost as hard
+as the ranger had.  "Oh, my beautiful girl, don't scare me like that."
+*It wasn't **my** fault,* Noxy thought petulantly.  But she didn't say
+it.  Instead, she just snuffled into her mother's coat and squeezed
+her back.

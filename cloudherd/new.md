@@ -2881,7 +2881,7 @@ off harmlessly off the tiger shoulder.  There was an awful *crack!* as
 the back of his head hit the lip of one of the bathtubs, and then he
 was still.
 
-"Go fetch the sergeant," Kulbinder snarled. "*Now!*"
+"Go fetch Sergeant Dorbu," Kulbinder snarled. "*Now!*"
 
 Noxy didn't need to be told twice.  She stumbled out the door and down
 the steps just in time to collide with Sensy.
@@ -2909,10 +2909,77 @@ Sergeant Dorbu and Major Bonzon were barking orders and running back
 to the bath house with the other soldiers right behind them with
 swords in their hands and Aft right there with them, yelling about the
 back door to the bath house, someone should go around back in case
-someone tried to escape that way.
+someone tried to escape that way.  Other soldiers ran for the trading
+hall and Princess Shudarga, yelling at villagers to get out of their
+way.
 
 "Oh, daffodil," Indy murmured, squeezing her daughter almost as hard
 as the ranger had.  "Oh, my beautiful girl, don't scare me like that."
 *It wasn't **my** fault,* Noxy thought petulantly.  But she didn't say
-it.  Instead, she just snuffled into her mother's coat and squeezed
-her back.
+it.  Instead, she just snuffled into her mother's coat and tried her
+best to lose herself in her mother's arms.
+
+Dinner that night was very different from the one the night before.
+Indy, Granna Fee, and Grappa Gas put on their best clothes as if it
+was Ancestor's Day and they were all going to give thanks together.
+The villagers cleared the big table in the middle of the trading hall
+and laid it with the carved Thindi teak cutlery that Aft's
+great-granna had left the village as a memorial gift a century ago.
+People coated slabs of goof's milk cheese with whatever spices they
+could find and threw them into pans of marinade.
+
+Noxy, Sensy, and Rash were pressed into service to round up children,
+run frantic errands, and finally as servers.  Sensy and Noxy brushed
+the tangles out of each other's hair and swapped tunics with each
+other, then swapped them back.  "I don't know if I can do this," Sensy
+said, fighting back tears.
+
+Noxy gave her a quick hug.  "I don't either.  But look on the bright
+side---for once, we won't be stuck looking after the littles."
+
+Six sat down to dinner, Indy and the two elders from the village and
+the princess, Major Bonzon, and Sergeant Dorbu in uniform.  "What's
+taking so long?" Noxy muttered out of the corner of her mouth.  They
+were standing with their backs against the wall next to the kitchen
+door, waiting awkwardly as Aft put finishing touches on the evening
+meal.  He had put himself in charge of preparations as soon as the
+royalist soldier was safely nailed into the tunnel with his companion.
+Noxy had no idea what he was doing---like most women in the village,
+she was content to leave the cooking to the men---but the smell was
+making her stomach rumble.
+
+At the table, Grappa Gas carefully poured his best black *rak* into
+small glasses and passed them to the village's guests.  "To your
+health," he said, raising his to toast them.
+
+"And to yours," Princess Shudarga said, raising hers in return.  "And
+to hospitality.  Finding safe haven here was the first good thing to
+happen to us in quite some time."
+
+"So what happened, Your Highness?" Grappa Gas asked, settling back in
+his chair.  "Last we heard before the sergeant here showed up, you and
+yours had the upper hand."  From where she stood, Noxy could see the
+kick her mother aimed at his good leg even if the princess and the two
+soldiers couldn't, but Grappa Gas didn't flinch.
+
+The princess didn't seem to mind his directness, though Major Bonzon's
+eyebrows gathered like a pair of bull clouds getting ready to fight.
+"We did.  The people understood what we were fighting for---we were
+humbled by their support.  King Denpa's men understood as well, and
+more took up our banner every day.  If we had pressed a little harder,
+moved a little faster..."  She shook her head, her thoughts far from
+Stale's one-story wooden trading hall.
+
+"You wanted to save lives, Your Highness," Major Bonzon said.
+"There's no dishonor in that."
+
+The corner of her mouth quirked up in a brief, sad half-smile.  "Thank
+you, major, but I'm long past worrying about honor.  Yes, I wanted to
+save lives.  I wanted to give the king's men a chance to see that we
+weren't really fighting him, we were fighting rules that have us all
+in shackles, nobles and commoners alike.  I wanted to give *him* a
+chance to see the justice of our cause."  She sighed.  "But all I
+managed to do was give our neighbors time to realize that if the
+Gandani stood up, it wouldn't be long before their own people did too.
+Nyengmo, Trunggar, Lhabde... The only one that didn't send troops was
+Chaghan, so that's where we're bound."

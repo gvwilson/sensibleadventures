@@ -2973,13 +2973,49 @@ Stale's one-story wooden trading hall.
 "You wanted to save lives, Your Highness," Major Bonzon said.
 "There's no dishonor in that."
 
-The corner of her mouth quirked up in a brief, sad half-smile.  "Thank
-you, major, but I'm long past worrying about honor.  Yes, I wanted to
-save lives.  I wanted to give the king's men a chance to see that we
+The corner of her mouth quirked up in a brief half-smile.  "Thank you,
+major, but I'm long past worrying about honor.  Yes, I wanted to save
+lives.  I wanted to give the king's men a chance to see that we
 weren't really fighting him, we were fighting rules that have us all
 in shackles, nobles and commoners alike.  I wanted to give *him* a
-chance to see the justice of our cause."  She sighed.  "But all I
-managed to do was give our neighbors time to realize that if the
-Gandani stood up, it wouldn't be long before their own people did too.
-Nyengmo, Trunggar, Lhabde... The only one that didn't send troops was
-Chaghan, so that's where we're bound."
+chance to see the justice of our cause and step aside."  She sighed.
+"But all I managed to do was give our neighbors time to realize that
+if the Gandani stood up, it wouldn't be long before their own people
+did too.  Nyengmo, Trunggar, Lhabde... The only one that didn't send
+troops was Chaghan."
+
+Grappa Gas nodded.  "So you're going into exile?  With these as your
+honor guard?"  Noxy knew the look on his face.  It was the careful
+lack of expression he wore whenever they were playing *shibo* and he
+had just seen a winning combination.  She wondered if the princess
+knew where his sympathies lay, then kicked herself mentally.  Of
+course she would---Sergeant Dorbu would have told her.
+
+The princess smiled a proper smile this time.  "There's that word
+again, 'honor'."  She set her *rak* down carefully.  "It's a a
+conjurer's trick, respected Gas, just like 'tradition'.  Those with
+power made it up, then convinced everyone else it was real so that
+they wouldn't wonder why the rules always seemed to run against them.
+So no, these men aren't my honor guard.  They are my companions, and
+my equals.  They don't serve me---we serve a greater cause, together,
+and will do so until everyone in the Ninety Kingdoms has the law they
+deserve."
+
+Noxy suddenly realized she was holding her breath.  Princess Shudarga
+hadn't raised her voice, but somehow she had filled the whole room as
+she spoke.  Beside her, Aft stood transfixed, the first plate of
+grilled cheese and vegetables forgotten in his arms, his eyes as wide
+as a child's.
+
+Grappa Gas cleared his throat.  "I see.  But you *are* all going to
+Chaghan together?"
+
+"We are," Major Bonzon said, his own glass of *rak* untouched in front
+of him.  "Along with the rest of our men."
+
+Grappa Gas leaned back in his chair.  "Really?  How are you going to
+get them through the forest?"  He jerked his chin at Sergeant Dorbu.
+"That didn't go so well last time."
+
+Major Bonzon shook his head.  "We're not going to go through the
+forest.  You and your fellow cloudherds going to fly us over it."

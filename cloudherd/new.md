@@ -2734,7 +2734,7 @@ stonemason.  The golden thread in embroidered collar of office around
 her neck gleamed against her dark skin.  When she smiled, her teeth
 seemed as white as the snow-capped peaks around them.
 
-"Well, this is a pleasant surprise," she said warmly.  "Major Bonzon,
+"Well, this is a pleasant surprise," she said warmly.  "Colonel Bonzon,
 could you introduce us please?"
 
 "My apologies, Your Highness.  Sergeant?"
@@ -2754,7 +2754,7 @@ supposed to be in Chaghan?"
 
 Sergeant Dorbu grimaced.  "About that, Your Highness..."
 
-The villagers might as well not have been there as Major Bonzon and
+The villagers might as well not have been there as Colonel Bonzon and
 the princess peppered Sergeant Dorbu with questions on the walk back
 to Stale.  When he described the ambush, they asked about the makeup
 of the royalist forces.  When he told them about being trapped by the
@@ -2765,10 +2765,10 @@ rest?
 
 And when he told them about the two royalist rangers they had
 captured, and that one of them was on the loose, she didn't even break
-stride.  "Major Bonzon will handle it, I'm sure," she said.
+stride.  "Colonel Bonzon will handle it, I'm sure," she said.
 
 As short as the princess was, she moved briskly, and didn't seem fazed
-at all by the thin mountain air.  Major Bonzon stayed beside her, his
+at all by the thin mountain air.  Colonel Bonzon stayed beside her, his
 hand never far from the hilt of his sword, while the half-dozen
 soldiers that Noxy now realized were bodyguards kept pace ahead and
 behind.  The villagers trailed behind like the tail of a comet, with
@@ -2802,7 +2802,7 @@ all saluted as the princess and her entourage approached.
 
 "Stand easy," she ordered.  "Mayor Indigestible, please let the major
 know where the men can quarter, and where you'd like me to stay.
-Major, I want a complete inventory in two hours---everything we still
+Colonel, I want a complete inventory in two hours---everything we still
 have, everything we're missing.  And put out some patrols, not that I
 need to tell you your job."  She yawned suddenly, then blinked as if
 she was as surprised by it as everyone else.  "And mayor, if there's
@@ -2905,7 +2905,7 @@ the two girls ran through the village.
 
 It was like kicking a beehive.  Noxy wasn't even a sentence into
 stammering out what had happened before Indy pulled her into a hug and
-Sergeant Dorbu and Major Bonzon were barking orders and running back
+Sergeant Dorbu and Colonel Bonzon were barking orders and running back
 to the bath house with the other soldiers right behind them with
 swords in their hands and Aft right there with them, yelling about the
 back door to the bath house, someone should go around back in case
@@ -2938,7 +2938,7 @@ Noxy gave her a quick hug.  "I don't either.  But look on the bright
 side---for once, we won't be stuck looking after the littles."
 
 Six sat down to dinner, Indy and the two elders from the village and
-the princess, Major Bonzon, and Sergeant Dorbu in uniform.  "What's
+the princess, Colonel Bonzon, and Sergeant Dorbu in uniform.  "What's
 taking so long?" Noxy muttered out of the corner of her mouth.  They
 were standing with their backs against the wall next to the kitchen
 door, waiting awkwardly as Aft put finishing touches on the evening
@@ -2962,7 +2962,7 @@ yours had the upper hand."  From where she stood, Noxy could see the
 kick her mother aimed at his good leg even if the princess and the two
 soldiers couldn't, but Grappa Gas didn't flinch.
 
-The princess didn't seem to mind his directness, though Major Bonzon's
+The princess didn't seem to mind his directness, though Colonel Bonzon's
 eyebrows gathered like a pair of bull clouds getting ready to fight.
 "We did.  The people understood what we were fighting for---we were
 humbled by their support.  King Denpa's men understood as well, and
@@ -2970,7 +2970,7 @@ more took up our banner every day.  If we had pressed a little harder,
 moved a little faster..."  She shook her head, her thoughts far from
 Stale's one-story wooden trading hall.
 
-"You wanted to save lives, Your Highness," Major Bonzon said.
+"You wanted to save lives, Your Highness," Colonel Bonzon said.
 "There's no dishonor in that."
 
 The corner of her mouth quirked up in a brief half-smile.  "Thank you,
@@ -3010,12 +3010,98 @@ as a child's.
 Grappa Gas cleared his throat.  "I see.  But you *are* all going to
 Chaghan together?"
 
-"We are," Major Bonzon said, his own glass of *rak* untouched in front
+"We are," Colonel Bonzon said, his own glass of *rak* untouched in front
 of him.  "Along with the rest of our men."
 
 Grappa Gas leaned back in his chair.  "Really?  How are you going to
 get them through the forest?"  He jerked his chin at Sergeant Dorbu.
 "That didn't go so well last time."
 
-Major Bonzon shook his head.  "We're not going to go through the
-forest.  You and your fellow cloudherds going to fly us over it."
+Colonel Bonzon shook his head.  "We're not going to go through the
+forest, respected.  You're going to fly us over it."
+
+## Chapter 9: Flight
+
+Stale woke to find itself under occupation.  Soldiers patrolled the
+streets and the wall in pairs, Canaries paired with newcomers.
+Villagers who ventured out were sent back to their homes, the soldiers
+brushing aside protests about goofs that needed to be milked or
+spiderwebs that needed to be dried and carded.
+
+It was just a precaution, Sergeant Dorbu said, first to a stonefaced
+Indy, then to an irate Grappa Gas, and then finally to the small crowd
+that Colonel Bonzon finally agreed could gather in the square.  "But
+just one person from each household," the sergeant had added
+apologetically.  "Everyone else should stay inside for now."
+
+"Precaution against what?" Grappa Gas demanded.  He was angrier than
+Noxy had ever seen.  It wasn't the shouting rage he worked himself
+into when he was arguing with his son.  This was as big as the
+rainstorms that battered the mountains as autumn turned to winter.
+
+Sergeant Dorbu looked the old man in the eye.  "Murder," he said.
+"The two rangers we caught might be safely nailed up, but all it would
+take is one arrow, and the rebellion really would be over.  The king's
+men know that as well as we do."
+
+"Never mind that---what's this foolishness about taking all of our
+clouds?"  Where Grappa Gas's voice had been full of thunder, Granna
+Fee's seemed made of iron.  She had used the same tone to explain to a
+hapless soldier that just because she and Grappa Gas *happened* to be
+coming out of the same house that morning *didn't* mean they were part
+of the same household, and she would thank him *not* to jump to such
+conclusions again.
+
+"As the colonel said last night---" Sergeant Dorbu began.
+
+"Some of us weren't invited last night!" one of the elders yelled.
+Others murmured agreement.
+
+"As Colonel Bonzon said last night," the sergeant continued doggedly,
+"We have to get the army through to Chaghan.  We can't take them
+through the Herd of Trees, not with two royalist regiments and half of
+Lhabde's men blocking the entrance to the pass, so we're going to fly
+them there."
+
+"You mean *we're* going to fly them there!" Grappa Gas shouted.
+"Well, rot that!  We've got *contracts*!  And even if we didn't,
+there's farmers down in Gandan depending on us to bring them rain.  If
+we go kiting off to wherever, folks are going to go hungry!"
+
+"People are going hungry already."  The princess's voice cut through
+the noise, instantly silencing the crowd.  Once again, Noxy wondered
+if it was some strange kind of magic, or just a personality that was
+three sizes larger than anyone else's.
+
+People stepped aside to make a path for her as she walked to the
+speaker's stone, nodding to Sergeant Dorbu as he stepped down to make
+space for her.  She was dressed in a plain uniform jacket and kilt
+without any marks of rank except the embroidered royal collar around
+her neck.
+
+The princess's gaze swept across the crowd.  "People are going hungry
+every day," she said.  "And those who aren't live in fear that they
+will, that someone with more money than they have will rent some law
+they've never heard of and use it to take half their crop or throw
+them off their land or have their house knocked down to to improve the
+damned view.  You don't see it up here because you've learned to stand
+together.  And that's what we need you to do now---stand together,
+with us, so that we can keep fighting to put the law in your hands
+where it belongs, so you can do what *you* want."
+
+"And how in the rotting hell is that different from what you say
+you're fighting?" Grappa Gas shouted, his dark face blotched with
+rage.  "How's that different from the *tralpa* telling us we have to
+fix up his roof for him and shear his goofs and stir some honey in his
+tea because he's too damn lazy to get up out of his big fancy chair?
+How much say do we get in this?"
+
+"None," the princess said simply.  "I'm sorry, I truly am, but this
+needs to be done.  As soon as your fellow villagers bring your herd
+down from the mountains, you're going to fly down to Duck Droppings to
+pick up my men and take them through to Chaghan."
+
+"And if we say no?" Granna Fee asked.
+
+The whole village held its breath, waiting for the princess to
+answer.  "You won't," she finally said.

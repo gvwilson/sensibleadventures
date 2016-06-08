@@ -3096,12 +3096,70 @@ fix up his roof for him and shear his goofs and stir some honey in his
 tea because he's too damn lazy to get up out of his big fancy chair?
 How much say do we get in this?"
 
-"None," the princess said simply.  "I'm sorry, I truly am, but this
-needs to be done.  As soon as your fellow villagers bring your herd
-down from the mountains, you're going to fly down to Duck Droppings to
-pick up my men and take them through to Chaghan."
+"None," the princess said simply.  "I'm sorry, but this needs to be
+done.  As soon as your fellow villagers bring your herd down from the
+mountains, you're going to fly down to Duck Droppings to pick up my
+men and take them through to Chaghan."
 
 "And if we say no?" Granna Fee asked.
 
-The whole village held its breath, waiting for the princess to
-answer.  "You won't," she finally said.
+The whole village held its breath, waiting for the answer.  "Then we
+will insist," the princess said wearily.  "I'm sorry---I truly
+am---but what we are fighting for is bigger than any one village.  One
+way or another, you are going to carry my army to Chaghan."
+
+Noxy had always enjoyed math.  After watching her mother do the
+village's accounts, she had pestered her grandmother into teaching her
+how to add and subtract, and then multiply and divide.  When she was
+nine, she had counted how many steps it took her to get from one place
+to another in the village and written the numbers down in a small blue
+notebook she had found in the bottom of a storage chest in the trading
+hall at the end of the season.  She had even thought about becoming a
+teacher like Granna Fee one day when her cloudherding days were over.
+
+So as she walked home in silence beside Indy, she did a quick
+calculation in her head.  Most of the adults had gone to round up the
+village's herd of clouds.  That left about three hundred people in
+Stale.  Two thirds of those were children, which meant there were no
+more than a hundred villagers, versus almost able-bodied fifty
+soldiers, all of whom had actually knew how to fight.  The odds would
+change when the other adults came back, but Princess Shudarga was
+right: she could insist, and there was nothing the Stalers could do
+about it.
+
+*Unless we run away,* she thought suddenly.  But how?  They couldn't
+just walk away---the forest wouldn't let them, and with Kulbinder as a
+tracker, the rebels would be able to find them in no time.  They
+couldn't fly either---it would take half a dozen trips for Pillow and
+Big Blue to carry everyone to safety, and they'd surely be caught
+before everyone escaped.
+
+"*Amma*," she started.
+
+"Shush," Indy said quietly.  "We'll talk when we're home."
+
+But they didn't.  Her mother nodded at every apprehensive villager
+they passed , her best mayor's smile firmly fixed on her face, but
+once they were inside and the door was closed, she slumped down at the
+table and massaged her temples.  "Can you please make some tea,
+daffodil?  I need to think."
+
+"Yes, *amma*."  Noxy hefted the kettle.  Its gurgle told her that
+there was enough water for two cups, so she wouldn't have to go back
+out.  She stirred the embers in the stove and added a few strips of
+kindling.  As she waited for the kettle to boil, she drummed her
+fingers on her crossed arms.  She desperately wanted to ask her mother
+what they were going to do, but it was clear that Stale's mayor didn't
+know.
+
+Someone knocked on the door.  "I'll get it," Noxy said as her mother
+started to rise.
+
+It was Sergeant Dorbu.  He had his helmet in his hands, and looked
+almost as tired as Stale's mayor.  "Good morning," he said.  "May I
+speak with your mother?"
+
+Noxy stepped out of the way.  "*Amma*?" she asked.
+
+Indy gestured at the chair across from her.  "Please," she said
+woodenly.  "It's not like I can stop you."

@@ -3163,3 +3163,63 @@ Noxy stepped out of the way.  "*Amma*?" she asked.
 
 Indy gestured at the chair across from her.  "Please," she said
 woodenly.  "It's not like I can stop you."
+
+The sergeant stood his ground.  "Yes you can.  I'm sorry that---"
+
+"Did you know?" Indy interrupted, not bothering to try to hide the
+hurt in her voice.  "When you first got here, did you know what her
+plan was?"
+
+Sergeant Dorbu shook his head.  "On my blood, I did not.  But that
+doesn't matter.  I beieve in her, Indy.  She's the first person since
+the Angels to stand up for people like us.  If this is what we have to
+do to win, it's a small price to pay."
+
+Indy finally looked at him.  "Easy to say when you're not the one
+paying it," she said quietly.
+
+Sergeant Dorbu was the first to look away.  "I'm sorry," he repeated.
+With a nod to Noxy, he put his helmet back on his head, bowed, and
+turned to leave.
+
+Noxy closed the door as gently as she could.  "Kettle's boiled," she
+said, and then she couldn't take it any more.  She rushed over and
+threw her arms around her mother and buried her face in Indy's hair.
+"It'll be all right," she said in a muffled voice.
+
+Indy laughed shakily.  "I'm supposed to say that to you."  Then she
+twisted around in her seat and wrapped her arms around Noxy.
+
+Noxy remembered that cup of tea for the rest of her life.  She and her
+mother talked about nothing and everything.  Should they replace the
+shutter upstairs that always let in the breeze when the wind blew?
+Definitely.  And had Indy ever told her daughter about the first time
+someone proposed to her?  No?  Well, it was her second trip to
+Nyengmo, and Grappa Gas had gone off to re-negotiate a contract for
+rain, so she and two of her friends had found themselves free for an
+afternoon...
+
+Eventually Indy set her long-empty teacup aside and stretched.
+"Well," she said regretfully, "I suppose I ought to go and see just
+how much trouble we're in.  Why don't you head over to your granna's
+and see if she needs a hand with anything?"
+
+"All right."  Noxy stood up and put the teacups in the washbasin.
+"But I'll have to make a stop on the way."
+
+Stale's privies stood beside the tanning shed, on the theory that
+everything that stank might as well be in one place.  A pair of
+soldiers glanced at Noxy as she crossed the street, but said nothing.
+When she was finished, she stepped back into the bright morning light
+and then hesitated.  Granna Fee's was on the next street, but the
+soldiers wouldn't know that, and she really wanted to talk to Sensy or
+Rash or *someone* about everything that was going on.
+
+So she turned right instead of left and walked back toward home.  As
+she approached her front door, she glanced over her shoulder.  The
+soldiers were still there, but were engrossed in conversation.  With a
+quick sidestep, she ducked into the jitty between her house and the
+neighbor's.
+
+She stood there for a moment, holding her breath as her eyes adjusted
+to the shadows.

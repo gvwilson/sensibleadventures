@@ -3221,5 +3221,81 @@ soldiers were still there, but were engrossed in conversation.  With a
 quick sidestep, she ducked into the jitty between her house and the
 neighbor's.
 
-She stood there for a moment, holding her breath as her eyes adjusted
-to the shadows.
+She stood for a moment, waiting for a shout from behind her.  None
+came.  She let out her breath in a long, silent whoosh, then jumped as
+a voice hissed, "What are you doing here?"
+
+It was Thokmay.  He had been pressed against the wall---it wasn't
+nearly enough to actually conceal him, but in the deep shadows that
+filled the jitty, he had been just another patch of darkness.
+
+"Me!? What are *you* doing here?" Noxy hissed back.  "Why aren't you
+out there marching around with your friends?"
+
+"They're not my friends," he said shortly.  "And they're not yours
+either, not really.  Now keep quiet."  Without waiting for her angry
+retort, he stepped up onto the piled-up cobblestones next to his feet
+and reached into the gutter over his head.
+
+"What are you doing?" Noxy demanded.
+
+"Sh!"  Something clinked quietly as his fingers bumped into it.  He
+cursed under his breath.
+
+"Dont shush me!" Noxy said angrily.  "You tell me what's going on
+right now, or I'm going to call the soldiers!"
+
+"No you're not."  Noxy jumped again and spund around.  There, outlined
+by the bright light from the street behind him, stood Kulbinder.  The
+tiger's ears were flattened against his head, and his tail twitched
+from side to side in a way that froze the breath in Noxy's lungs.
+
+"Got it!" Thokmay whispered triumphantly.  The jitty was briefly lit
+up by soft yellow light from a small piece of dayglass as he checked
+his find.  Darkness returned instantly when he closed the lid on the
+small metal box that held it.
+
+"Good," rumbled the tiger.  He took a step toward Noxy.  She backed up
+instinctively.  "Don't be afraid," Kulbinder said, making it sound
+like a command rather than sympathy.  "We're not going to hurt you,
+but we need an hour's head start, and we can't take any chances."
+
+"Wh-what are you doing?"  Noxy asked again.  Her heart was pounding in
+her chest.  She couldn't get past the tiger---she'd seen how quickly
+he could run.  He'd pounce on her in an instant if she tried to knock
+Thokmay down and run out the other way, and nobody was going to come
+looking for her, not with the curfew.  She was trapped.
+
+"We're going home," Thokmay said behind her.
+
+"You're---you're deserting?"
+
+"No!" Thokmay's voice was quiet but sharp.  "We were never really
+rebels in the first place."
+
+"You're royalists?" Noxy gasped.
+
+"He is," the tiger snorted.  "Cats don't take sides in such
+foolishness."
+
+"We got stuck in the middle of everything when Shudarga raised her
+banner," Thokmay said.  "We went along with things as long as we
+could, waiting for a chance to escape, but now we don't have a choice.
+We have to reach the king's army and warn them what Shudarga is
+planning."
+
+"Warn them?  Why not just let her go?"
+
+"Because she's not really taking her army to Chaghan," the young
+soldier said impatiently.  "That's just what she's telling you all to
+keep you quiet.  As soon as the clouds arrive, she's going to make you
+carry her army right into the heart of Gandan.  She'll flood what she
+can and put the rest to the sword."
+
+Noxy turned to face him.  "My *amma* and the others would never do
+that!"
+
+Even in the dim light, she could see the grim expression on his face.
+"She's not going to give them a choice.  Once her men finish getting
+unpacked, she's going to round up all of Stale's children and hold
+them hostage until the job is done."

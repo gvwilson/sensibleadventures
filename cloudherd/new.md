@@ -2717,9 +2717,9 @@ the same stony look as their commander.
 "Sergeant," the newcomer snapped.  "I trust the archers we saw coming
 in are friendly?"
 
-"Yes, major."
+"Yes, colonel."
 
-The major nodded.  "Good.  My men will be bringing them down."  He
+The colonel nodded.  "Good.  My men will be bringing them down."  He
 glanced sideways.  "And the Gifted?"
 
 "He's with us too, respected."  Sergeant Dorbu cleared his throat.
@@ -2800,7 +2800,7 @@ enough and will have to be redone.  The princess's men had the same
 close-trimmed beards and leathered skin of the royalist rangers.  They
 all saluted as the princess and her entourage approached.
 
-"Stand easy," she ordered.  "Mayor Indigestible, please let the major
+"Stand easy," she ordered.  "Mayor Indigestible, please let the colonel
 know where the men can quarter, and where you'd like me to stay.
 Colonel, I want a complete inventory in two hours---everything we still
 have, everything we're missing.  And put out some patrols, not that I
@@ -2974,7 +2974,7 @@ Stale's one-story wooden trading hall.
 "There's no dishonor in that."
 
 The corner of her mouth quirked up in a brief half-smile.  "Thank you,
-major, but I'm long past worrying about honor.  Yes, I wanted to save
+colonel, but I'm long past worrying about honor.  Yes, I wanted to save
 lives.  I wanted to give the king's men a chance to see that we
 weren't really fighting him, we were fighting rules that have us all
 in shackles, nobles and commoners alike.  I wanted to give *him* a
@@ -3020,7 +3020,7 @@ get them through the forest?"  He jerked his chin at Sergeant Dorbu.
 Colonel Bonzon shook his head.  "We're not going to go through the
 forest, respected.  You're going to fly us over it."
 
-## Chapter 9: Flight
+## Chapter 9: Sides
 
 Stale woke to find itself under occupation.  Soldiers patrolled the
 streets and the wall in pairs, Canaries paired with newcomers.
@@ -3270,13 +3270,12 @@ looking for her, not with the curfew.  She was trapped.
 
 "You're---you're deserting?"
 
-"No!" Thokmay's voice was quiet but sharp.  "We were never really
+"No." Thokmay's voice was quiet but sharp.  "We were never really
 rebels in the first place."
 
 "You're royalists?" Noxy gasped.
 
-"He is," the tiger snorted.  "Cats don't take sides in such
-foolishness."
+"He is," the tiger snorted.  "Cats don't partake of such foolishness."
 
 "We got stuck in the middle of everything when Shudarga raised her
 banner," Thokmay said.  "We went along with things as long as we
@@ -3293,9 +3292,105 @@ carry her army right into the heart of Gandan.  She'll flood what she
 can and put the rest to the sword."
 
 Noxy turned to face him.  "My *amma* and the others would never do
-that!"
+that!" she said angrily.  "There are laws---cloudherd laws, not the
+kind we have to rent from the *tralpa*.  We've never taken part in
+lowlanders' wars, and we never will!"
 
-Even in the dim light, she could see the grim expression on his face.
-"She's not going to give them a choice.  Once her men finish getting
-unpacked, she's going to round up all of Stale's children and hold
-them hostage until the job is done."
+But even in the dim light, Noxy could see the grim expression on
+Thokmay's face.  "She's not going to give you a choice.  Once her
+soldiers settle in, she's going to round up all of your children and
+hold them hostage until you do what she wants."
+
+Stunned, Noxy could only gape as he continued.  After dinner last
+night, Princess Shudarga had talked strategy with Colonel Bonzon,
+Sergeant Dorbu, and Kulbinder.  The princess had been the one to
+suggest that they use the clouds to go on the offensive.  Sergeant
+Dorbu had tried to talk her out of, saying that there was no way the
+cloudherds would go along with.  That was when Colonel Bonzon had
+proposed that they do to the cloudherds what the king had done to
+them and their families.
+
+"What did the king do?" Noxy asked, already knowing the answer.
+
+"He rounded up the families of every officer who joined the rebels and
+put them to work making arrows," Thokmay said.  "Any officer who
+surrenders can take their place."
+
+Noxy stared at him in disbelief.  "That's horrible!"
+
+Thokmay's scowl deepened.  "He's only doing what he has to do."
+
+"What he has to---now you sound like the princess!" Noxy thumped the
+wall beside her with her fist.  "How come whatever you all do 'has to'
+hurt someone else?"
+
+"Sh!" Thokmay took a step toward her.  "The soldiers will hear you!"
+
+"I don't---" Noxy bit back the rest of her sentence.  She wished he
+had drowned in the fish pond.  No, she wished the soldiers had never
+come to Stale, that the forest had devoured them or that they had
+surrendered or Princess Shudarga had never rebelled in the first
+place.  She wished she was riding a cloud and the only thing she had
+to worry about was how long she was allowed to stay up there where she
+belonged.
+
+She wiped her face angrily.  "All right," she said.  "How do we stop
+them?"
+
+Thokmay looked at her blankly.  "What do you mean, stop them?"
+
+"I mean how are we going to stop them?" Noxy repeated impatiently.
+"The grownups will be back in two days, maybe three.  There's no way
+you can get through the forest and get back here with the king's army
+by then."  She raised a hand to forestall whatever Thokmay had been
+about to say.  "And even if you could, they'd still have all of us as
+hostages, or doesn't that matter?"
+
+"So what do you propose we do?" the tiger asked.
+
+Noxy's jaw set.  "Take some hostages of our own.  If we capture the
+princess---"
+
+"Hey!"  A hard voice shouted down the jitty.  "What are you lot doing
+there?  Come out and show yourselves."
+
+Noxy's heart leaped into her throat.  It was the soldiers---they'd
+been found!
+
+"It's all right, soldier, it's me," Kulbinder called out.  "I've just
+found a little mouse.  I'll bring her out."
+
+"What?" Noxy gasped.
+
+"Just follow my lead," the tiger said quietly.  "And you," he
+continued to Thokmay.  "Whatever happens, you must *not* let yourself
+be seen."
+
+"Yes, respected," Thokmay said with just a hint of sullen anger in his
+voice.
+
+Kulbinder shephered Noxy out of the jitty.  She blinked as the bright
+morning sun dazzled her eyes.  The two soldiers standing there looked
+annoyed rather than angry.
+
+"What were you doing in there?" one of them demanded, drumming his
+fingers on the hilt of his sword.
+
+"Shirking chores," Kulbinder answered before Noxy could speak.
+"Apparently it's as common here as it is everywhere else."
+
+The second soldier nudged the first.  His fingers stilled, though his
+scowl didn't lighten.  "All right.  Who do you belong to?"
+
+"She's mine," Indy said in a cold, clear voice.  She was standing in
+the door with her arms crossed and a scowl twice as dark as the
+soldier's on her face.  She pointed at her daughter, then beckoned her
+into the house.
+
+Noxy gulped as convincingly as she could---which wasn't hard given the
+look on her mother's face---and then glanced at the tiger.  "I think
+you have some explaining to do," he said meaningfully.
+
+"Yes, respected," she said meekly.  She kept her head down as she
+stepped into the house, and only jumped a tiny bit as her mother
+slammed the door closed behind her.

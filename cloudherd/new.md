@@ -3394,3 +3394,69 @@ you have some explaining to do," he said meaningfully.
 "Yes, respected," she said meekly.  She kept her head down as she
 stepped into the house, and only jumped a tiny bit as her mother
 slammed the door closed behind her.
+
+## Chapter 10: Rebellion
+
+The first thing Indy said when Noxy finished telling her what had
+happened was, "You can't tell Grappa Gas any of this---it'll throw him
+right over the side."  Before Noxy could respond to that, she added,
+"Or Aft.  You definitely can't tell him either.  Or your friends.  Oh,
+rot."  She slumped down in her chair and swallowed a long, angry slurp
+of cold tea.
+
+"Yes, *amma*," Noxy said meekly.
+
+Her mother banged her teacup back down on the table.  "And don't 'yes
+*amma*' me.  It always makes me think you're planning something."
+
+"Yes, *amma*," Noxy repeated in exactly the same voice.  Her mother
+shot her a dark look, but then her scowl melted into limp smil.
+
+In the end they turned to Granna Fee.  Noxy rummaged through the
+pantry and packed whatever she could find into a pair of small wicker
+provisions hampers while Indy drummed her fingers on the table and
+thought.  Once the food was packed, they each took one and stepped out
+into the mid-day light.
+
+"For my mother," Indy explained to the first pair of soldiers they
+saw, who just grunted and waved them on.  Noxy kept her head down,
+telling herself over and over that nobody could actually *hear* her
+heart thumping.
+
+They passed a handful of other villagers on the short walk to Granna
+Fee's.  Everyone had a destination---nobody was just out for an amble.
+People greeted each other in lowered voices, but didn't stop to chat.
+If soldiers were in sight, they didn't even slow down.
+
+They had almost reached Granna Fee's before Noxy realized that she
+hadn't seen or heard a single child.  Despite the warm sunlight,
+Stale's elders were all keeping their grandchildren indoors.
+
+Granna Fee answered at the first knock and practically dragged them
+inside before slamming the door behind them.  She hugged them both,
+shushing their assurances that they were all right.  "I know you are,"
+she said crossly, her arms still around them.  "But *I'm* not."
+
+Her table was exactly the same size as the one in Indy and Noxy's
+house.  It had been made by the same Uwsian carpenter, and been
+brought back on the same cloud the summer that Indy was born.  The
+nicks were in different places, though, and there was a round,
+slightly shiny patch on one side that had been smoothed down by Noxy's
+grandfather's elbow over the course of three decades.  Granna Fee
+stroked it gently with one finger, as if she was petting a cat, while
+Noxy told her story.
+
+"Well," she said when her granddaughter finished.  "That's going to be
+a problem, isn't it?"
+
+"A problem?"  Indy and Noxy both jumped at the sound of Grappa Gas's
+voice.  "A problem?  It's a rotting catastrophe!"  His wooden leg
+clacked loudly on the stairs as he came thumping down dressed in a
+nightshirt and fleece vest.
+
+Indy looked at Noxy with something close to panic in her eyes as the
+old man kicked a stool, then righted it and sat down at the table.  "I
+*knew* something like this was going to happen," he growled.  "I mean,
+what did we expect?  They're rebels!  If they're going to turn on the
+king---the king!---why wouldn't they turn on us?"  He banged his fist
+on the table, angrily shrugging off Granna Fee's attempt to quiet him.

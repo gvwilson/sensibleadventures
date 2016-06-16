@@ -3536,3 +3536,67 @@ Granna Fee goggled at him.  "But that's when the bearfrog bit your leg
 off!"
 
 Grappa Gas grinned.  "Right.  So it can't be worse than that, can it?"
+
+They left the house in pairs.  Grappa Gas and Granna Fee turned right
+toward the tunnel where the two royalist soldiers were being held.
+Noxy and her mother went left, each carrying bundles of twigs taken
+from the communal kindling pile outside Granna Fee's back door.  A few
+more people were out, but the first time someone stopped to talk to
+the mayor, a nearby soldier cleared his throat meaningfully and shook
+his head.
+
+"Keep your head down," Indy muttered.  "If you don't look them in the
+eyes, they won't bother you."  Noxy nodded jerkily, making a mental
+note to find out when and where her mother had learned that.
+
+They reached the burned-out storage shed without incident.  They were
+in luck---no one was was in sight.  While Noxy kept watch, her mother
+ducked into the shed, untied her twigs, and quickly laid them in a
+cross-hatch pattern.
+
+"Still wet?" she asked her daughter.  Noxy nodded and passed her the
+second bundle.  They had torn Grappa Gas's night shirt into strips,
+soaked the pieces, and woven them through the twigs.  Noxy had been
+afraid the whole way over that one of the soldiers would notice that
+her bundle was dripping.
+
+Indy laid the second bundle on top of her pile, then pulled a few
+scraps of fire paper out of the top of her sock and tucked them in
+among the twigs.  A flint and steel sparker materialized out of the
+other sock and made a scraping sound as she twisted it.  Once, twice,
+a third time, and a tiny dot of heat landed on the paper and caught.
+
+Stuffing the sparker back in her sock, Indy leaned forward and
+breathed gently on the spark.  It brightened and spread, eating a
+bright-edged hole in the fire paper.  A moment later the twigs'
+needles were alight, and then the twigs themselves.
+
+"Come on," Indy said.  Noxy didn't need to be told twice.  A quick
+look around the edge of the door told her that the coast was
+clear.  She and her mother hurried away.
+
+They were halfway between Granna Fee's and the makeshift tunnel prison
+when they heard the first shout.  Noxy didn't dare look, but at a
+second shout, Indy glanced over her shoulder, frowning, then crossed
+the street to where a pair of soldiers were standing.  "Excuse me, do
+you know what's happening?" she asked.
+
+The soldiers shook their heads.  "No idea, respected," said the one
+Noxy recognized as a Canary.
+
+Indy's frown deepend.  "Wonderful," she said, her tone making it sound
+anything but.  "I *am* still mayor, you know, and it would be nice if
+people told me what was going on in my own village."
+
+"I'm sorry, respected," the soldier said helplessly.  "I don't---"
+
+A shrill whistle cut him off.  "Excuse me," he said.  His partner was
+already jogging back the way Indy and Noxy had come.  The Canary
+ducked his head and followed him.
+
+This time Noxy risked a look.  A twist of gray smoke was climbing into
+the air.  It thickened even as she watched.  *That'll be the rak,* she
+thought.  Granna Fee hadn't been happy about sacrificing two whole
+bottles of the thick, dark liquid, but Grappa Gas had apparently been
+right about how well it burned.
+

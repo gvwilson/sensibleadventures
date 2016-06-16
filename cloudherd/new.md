@@ -2830,8 +2830,8 @@ pump fruitlessly a few times before giving up.  "It must have frozen
 again," she told Noxy with a frown.  "But it was working a couple of
 days ago, and we've had rain since then, not snow."
 
-Noxy shrugged.  "Maybe a bearfrog got stuck in it again."  She nudged
-a nearby bucket half-heartedly with her boot.  "You stoke, I'll
+Noxy shrugged.  "Maybe a baby bearfrog got stuck in it again."  She
+nudged a nearby bucket half-heartedly with her boot.  "You stoke, I'll
 carry?"
 
 "You carried last time," Sensy pouted.
@@ -3432,31 +3432,107 @@ They had almost reached Granna Fee's before Noxy realized that she
 hadn't seen or heard a single child.  Despite the warm sunlight,
 Stale's elders were all keeping their grandchildren indoors.
 
-Granna Fee answered at the first knock and practically dragged them
-inside before slamming the door behind them.  She hugged them both,
-shushing their assurances that they were all right.  "I know you are,"
-she said crossly, her arms still around them.  "But *I'm* not."
+They had to knock four times before Granna Fee answered.  When she
+did, she practically dragged them inside before slamming the door
+behind them.  She hugged them both, shushing their assurances that
+they were all right.  "I know you are," she said crossly, her arms
+still around them.  "But *I'm* not."
 
 Her table was exactly the same size as the one in Indy and Noxy's
 house.  It had been made by the same Uwsian carpenter, and been
 brought back on the same cloud the summer that Indy was born.  The
 nicks were in different places, though, and there was a round,
 slightly shiny patch on one side that had been smoothed down by Noxy's
-grandfather's elbow over the course of three decades.  Granna Fee
-stroked it gently with one finger, as if she was petting a cat, while
-Noxy told her story.
+grandfather's elbow over the course of three decades.
 
-"Well," she said when her granddaughter finished.  "That's going to be
-a problem, isn't it?"
+Granna Fee fidgeted like a cat who smelled dinner cooking while Noxy
+told her story.  "Well," she said brightly when her granddaughter
+finished.  "That's going to be a problem, isn't it?"
 
 "A problem?"  Indy and Noxy both jumped at the sound of Grappa Gas's
 voice.  "A problem?  It's a rotting catastrophe!"  His wooden leg
 clacked loudly on the stairs as he came thumping down dressed in a
 nightshirt and fleece vest.
 
-Indy looked at Noxy with something close to panic in her eyes as the
-old man kicked a stool, then righted it and sat down at the table.  "I
-*knew* something like this was going to happen," he growled.  "I mean,
-what did we expect?  They're rebels!  If they're going to turn on the
-king---the king!---why wouldn't they turn on us?"  He banged his fist
-on the table, angrily shrugging off Granna Fee's attempt to quiet him.
+Granna Fee looked at Indy with something close to panic in her eyes.
+"Oh, don't be silly," Indy said.  "Everybody knows."
+
+"Knows what?" the old man growled as he kicked over a stool, then
+righted it and sat down at the table.  "That this was going to be
+trouble right from the start?  I *told* you---they're rebels!  If
+they're going to turn on the king---the king!---why wouldn't they turn
+on us?"  He banged his fist on the table, angrily shrugging off Granna
+Fee's attempt to quiet him and oblivious to Noxy and Indy's amused
+looks.
+
+"Well, that's as may be," Granna Fee said, brushing back her hair and
+carefully not meeting anyone's eyes.  "But we still have to decide
+what we're going to do.  I mean, if they'd really take the littles
+hostage..."
+
+"I just can't believe Dorbu would do something like that," Indy
+declared.  "I know we've only known him a few days, but---"
+
+"But nothing," Grappa Gas cut in.  "He's a soldier, and he'll do what
+he's told.  And if he won't, that corporal, what's his name,
+Chogya---"
+
+"Choegyal," Granna Fee corrected.
+
+"Right, him.  If Dorbu won't do it, he will, and if *he* won't,
+they'll just promote someone else."  His scowl deepend.  "Like it or
+not, we're on our own."
+
+"What about Tasteless?" Noxy asked hesitantly.  "Couldn't we---"
+
+But the three grownups were already shaking their heads.  "I'd trust
+Her Highness before I'd trust him," Granna Fee said firmly.
+
+"Well then, what about the two soldiers in the tunnel?" Noxy continued
+hurriedly before anyone else could speak.  "If they escaped, it
+wouldn't be our fault if they brought the king's army back, would it?"
+She trailed off, uncomfortable under the adults' stares.
+
+"That might actually work," Indy said slowly.  "And if the tiger and
+his boy help us..."  She exchanged looks with Grappa Gas and Granna
+Fee, both of whom nodded reluctantly.
+
+The mayor straightened up.  "All right.  Here's what we're going to
+do..."
+
+One of Indy's favorite sayings was that no plan ever survived its
+first contact with real life, and so it was that day.  Noxy never had
+to use the story she'd carefully rehearsed about needing to go down to
+the fishpond to collect hairy turtle eggs for dinner---the soldiers at
+the main gate just waved her through.  They were equally uninterested
+in her when she returned with two dozen eggs in her hamper.  "I just
+need to give these to everyone," she said brightly.  One soldier
+grunted.  The others ignored her completely.
+
+The eggs were long past edible, but they gave her an excuse to walk
+through the village.  No matter where she went, though, she couldn't
+find Kulbinder or Thokmay.  She was starting to think that they had
+already made their escape when she heard the tiger's deep voice waft
+past on a breath of wind.  She looked up, and her heart sank.  He was
+up on the wall with Colonel Bonzon.
+
+She did one more lap of the village before her nerve gave out.  The
+soldiers were definitely look at her the second time she passed them,
+and sooner or later, someone was going to notice that she still had
+all the eggs she had started with.
+
+This time, Granna Fee opened her door at the first knock.  Noxy
+quickly explained what had happened.  When she was done, Grappa Gas
+shrugged.  "Just means we do it without them," he said flatly,
+scratching his stump before buckling his wooden leg back on.
+
+"But---" Granna Fee started to protest.  Grappa Gas leaned over and
+kissed her before she could go any further.
+
+"Can't be worse than that trip we did down to Bhuntshorju," he said
+gently.
+
+Granna Fee goggled at him.  "But that's when the bearfrog bit your leg
+off!"
+
+Grappa Gas grinned.  "Right.  So it can't be worse than that, can it?"

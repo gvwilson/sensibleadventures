@@ -3597,6 +3597,92 @@ ducked his head and followed him.
 This time Noxy risked a look.  A twist of gray smoke was climbing into
 the air.  It thickened even as she watched.  *That'll be the rak,* she
 thought.  Granna Fee hadn't been happy about sacrificing two whole
-bottles of the thick, dark liquid, but Grappa Gas had apparently been
-right about how well it burned.
+bottles of the thick, dark liquid, but she had been right about how
+well it would burn.
 
+She and her mother rounded the corner.  Noxy's heart sank.  There were
+no soldiers in sight, but Aft was standing in front of the tunnel
+mouth, hands on hips and nose to nose with his father.  Granna Fee was
+frantically trying to get between them, but the two angry men were
+having none of it.
+
+"And *I* want to know what you're doing out when there's a curfew!"
+Aft spat angrily.
+
+"Don't take that tone with me, boy." Grappa Gas raised the hammer he
+was holding and shook it at him.
+
+Aft knocked the hammer away.  They were just about to start scuffling
+when Indy said, "Stop it, both of you!"
+
+Grappa Gas lowered the hammer.  Aft lowered his fists.  Indy lowered
+her voice.  "What are you *thinking*?  The last thing we need is you
+two butting heads like a couple of goofs!"
+
+"Well then you should remind this buckethead whose side he's supposed
+to be on," Grappa Gas snapped, unabashed.  He glanced over his son's
+shoulder at the two prisoners, who were watching the proceedings with
+unconcealed amusement.  "Playing soldier when his own people are
+afraid to be out of their homes---it's a disgrace, that's what it is!"
+
+"*I'm* a disgrace?"  Aft threw up his hands in disgust, almost
+clouting Granna Fee on the chin by accident.  "*You're* the one
+creeping around like some sort of thief.  Or were you planning to use
+that hammer to dig up some daffodils?"
+
+"Stop it!" Indy repeated sharply.  "Now listen to me---no, listen, not
+talk."  She quickly explained what Noxy had heard and what they had
+decided to do.
+
+His face hardened as she spoke.  "I don't believe it," he said flatly
+when she finished.  "Her Highness is on *our* side---on everyone's
+side.  She wouldn't do something like that."
+
+"So do you think I just made it up?" Noxy demanded angrily.
+
+Aft shook his head.  "I don't think *you* are.  But what about the
+tiger?  All we have is his word, and we have no idea what game he's
+playing."  He jerked his thumb over his shoulder.  "Until we've got
+something better than that, these two are staying right here."
+
+"Why, you---" Grappa Gas stepped toward him, raising the hammer once
+again.
+
+This time it was Indy who stepped between them.  "That's *enough*!"
+The scowl on her face was the same one she wore when someone cooked
+something with cilantro, and she had to eat it to be polite.  "He's
+right.  No, he's right," she continued, raising a hand to Grappa Gas.
+"We need some way to check the tiger's story before we do anything
+foolish."
+
+She rounded on Aft.  "But your father is right too.  You shouldn't be
+here doing the soldiers' work.  If they think they can set us against
+each other, we're done for.  So we're *all* going to go home now, is
+that understood?  We'll try to find out what's actually going on, and
+until we do, we'll leave the soldiering to the soldiers."
+
+Aft clenched and unclenched his fists.  "Fine," he said.  "But we all
+leave together."
+
+"Fine," Grappa Gas said in an equally disgusted voice.  With a mock
+bow, he waved his son ahead of him.
+
+The five villagers walked back up the street in silence.  At the first
+corner, Aft grunted something that might have been, "Bye," and turned
+toward his home.
+
+Grappa Gas only made it another dozen steps before bursting out, "I
+can't believe it!  You're the mayor, Indy, the *mayor*!  You shouldn't
+let him talk back to you like that!"
+
+"It seemed like the simplest thing," Indy said lightly.
+
+Grappa Gas glanced at her.  "What are you grinning about?" he asked
+suspiciously.
+
+Indy looked at her mother, who was wearing an identical grin.  Granna
+Fee spread her hands.  "Dear me," she said innocently.  "I seem to
+have misplaced my hammer.  I suppose I must have dropped it while you
+two big strong goofs were shouting at each other."
+
+Grappa Gas gaped at her, then at Indy, and then started to laugh.

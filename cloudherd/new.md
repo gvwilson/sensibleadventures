@@ -3686,3 +3686,101 @@ have misplaced my hammer.  I suppose I must have dropped it while you
 two big strong goofs were shouting at each other."
 
 Grappa Gas gaped at her, then at Indy, and then started to laugh.
+
+They ate dinner together, telling stories they'd all heard before but
+enjoying them nonetheless.  Indy and Noxy walked home arm in arm as
+the sun was setting, still smiling.  Indy even waved at a couple of
+soldiers and wished them a good evening, though her expression froze
+when she caught sight of Sergeant Dorbu in the distance.  They made
+small talk as they washed their faces, changed into their night
+shirts, and went to bed.  Noxy read a few pages by the yellow light of
+her little shard of dayglass, but gave up and set her book aside the
+third time she realized it had fallen closed in her hands.
+
+She dreamed of clouds that night, of clouds flying free and of the
+forest brooding below them.  Snowflakes tickled as they fell through
+her, and the north wind felt like drinking an endless cold glass of
+water.  She shouted for joy, then woke and realized that the shouts
+were real, and not hers.
+
+"*Amma*?" she called out blearily.  "*Amma*, what's going on?"  She
+shrugged into the scratchy woolen sweater that Sensy had knit for her
+as a Yearagain Eve present and stumbled downstairs.
+
+Her mother was peering out the half-open front door.  She shushed Noxy
+as her daughter joined her.  Four soldiers jogged by outside, swords
+in their hands.  She heard Sergeant Dorbu shouting orders somewhere
+nearby, telling someone to double-check the bath house and someone
+else to make sure Colonel Bonzon had men searching the ridge above the
+cloud pen, they could be hiding there waiting for daylight.
+
+"Did they escape?" Noxy whispered anxiously.
+
+"They must have," her mother whispered back.  "Stay here."  Before
+Noxy could protest, Indy slipped out through the door.
+
+Noxy hesitated only a moment before following her.  "Wait!" she
+hissed.
+
+Her mother spun around.  "Get back in the house!" she ordered.  "It's
+not safe out here!"
+
+Noxy crossed her arms.  "Well if it's not safe, you shouldn't be here
+either, should you?"
+
+Indy glared at her, but whatever she might have said next was cut off
+by a sharp, "You! Hold!"
+
+It was Sergeant Dorbu.  He jogged up the street to stop in front of
+them with two of his men at his heels.  "Respected mayor, I need to
+ask you to return to your home."
+
+Indy snorted.  "That's what I was just telling *her*.  What's going
+on?  Are we being attacked?"
+
+The sergeant shook his head.  "No, respected.  The prisoners have
+escaped somehow."  He searched her face.  "You wouldn't know anything
+about that, would you?"
+
+This time it was Indy who crossed her arms.  "To tell you the truth, I
+don't want to know anything about any of this any more," she replied
+flatly.
+
+Sergeant Dorbu looked away.  "I'm sorry, respected," he said.  "I
+truly am.  But please---go back to your house and let us deal with
+this."
+
+Just then an angry voice bellowed, "Let *go* of me, or I swear I'm
+going to knock you into next Bluesday!"  Two soldiers came around the
+corner holding a furiously-struggling Aft between them.  Two others
+marched alongside with heavy wooden cudgels in their hands.  All four
+were newcomers, and all four looked as angry as Aft.
+
+Indy rounded on Sergeant Dorbu.  "What in the names of all the saints
+is going on here?" she demanded.
+
+Sergeant Dorbu had already stepped into the middle of the road.
+"Halt!" he said.  "Where are you taking this man, and on whose order?"
+
+The soldiers halted.  One of the cudgel wielders thumped his chest in
+salute.  "Colonel Bonzon's orders, sergeant.  We found a hammer in the
+tunnel where the prisoners were being held.  Only time it could have
+gotten there was when this man was guarding them on his ownsome."
+
+Noxy's hand flew to her mouth.  Her mother's eyes widened.  She looked
+at Aft in shock.  The expression his face said that he knew full well
+how the hammer had gotten there.  He bared his teeth, and for a
+heartbeat Noxy was sure he was going to say something.  Instead, he
+snapped his head to the side, cracking his forehead against the nose
+of one of the soldiers holding him.  "I said let *go* of me, you
+rag-eared stack of goof dung!"
+
+A sudden cudgel blow knocked the wind out of him.  He sagged,
+wheezing, then made a sound that could only be described as a growl
+and tried to straighten up.  The soldier who had hit him pushed the
+end of his cudgel up against Aft's throat.  "Nuh uh," he cautioned.
+"Not unless you want another one."
+
+As the four soldiers hauled him away, Aft shot one more look at Indy
+and the sergeant.  Noxy couldn't honestly have said which he seemed
+angrier at, or which he thought had betrayed him the worst.

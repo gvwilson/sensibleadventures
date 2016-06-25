@@ -5,11 +5,19 @@
 * Protagonists are fleshed out, but minor characters are brightly drawn cartoons.
 * Tie into other Cherne stories.
 
+## To Do
+
+- lots more animals in the village (chickens, etc.) but none gifted
+- a guest house reserved for the *tralpa* that the princess stays in
+  - use to motivate more background on the *tralpa* and the laws
+  - there's a book of laws in there
+- Grappa Gas's wooden leg sprouts new buds in the spring
+- provide more background on Tasteless earlier
+- the princess arrives with a hawk
+
 ## Scenes
 
 **Need more plot without more characters if I'm going to make 60K.**
-
-* Later, the bad guys don't accept a surrender
 
 1.  [plot development / day 1] Noxy and others are picking spider
     webs; describe the village and its surroundings, including the

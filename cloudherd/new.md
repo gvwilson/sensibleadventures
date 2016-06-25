@@ -3020,7 +3020,7 @@ get them through the forest?"  He jerked his chin at Sergeant Dorbu.
 Colonel Bonzon shook his head.  "We're not going to go through the
 forest, respected.  You're going to fly us over it."
 
-## Chapter 9: Sides
+## Chapter 9: Choosing Sides
 
 Stale woke to find itself under occupation.  Soldiers patrolled the
 streets and the wall in pairs, Canaries paired with newcomers.
@@ -3784,3 +3784,75 @@ end of his cudgel up against Aft's throat.  "Nuh uh," he cautioned.
 As the four soldiers hauled him away, Aft shot one more look at Indy
 and the sergeant.  Noxy couldn't honestly have said which he seemed
 angrier at, or which he thought had betrayed him the worst.
+
+# Chapter 11: Flight
+
+Stale woke up sullen and angry the next morning.  The tentative
+goodwill that had been growing between the villagers and the Angry
+Canaries had evaporated as word of Aft's incarceration spread across
+backyard fences and in lowered voices as people milked goofs,
+collected eggs from chicken coops, and took care of other essential
+chores as quickly as they could.  Everyone moved with a sense of quiet
+urgency, as if preparing for an early autumn blizzard.
+
+Noxy was only half surprised when she interrupted Rash and Sensy in
+the jitty between their parents' houses.  Her mother had sent her to
+check and make sure Rash's grappa was all right---his mind had started
+wandering during the winter, and she hadn't seen him the day before.
+Head down, she almost walked past the jitty, but a quiet, "Uh oh!"
+caught her ear.  She looked up and saw her two best friends standing
+there, still holding hands, Rash looking embarrassed and Sensy
+defiant.  She stared at them and they stared back until Noxy's mind
+caught up with her eyes and she said, "Um, how's your grappa doing?"
+
+Rash cleared his throat.  "Fine.  He's sleeping a lot, but he's fine."
+
+Noxy nodded.  "Good."  And then she repeated, "Good," putting all the
+certainty she didn't feel into her voice before setting the small box
+of food she was carrying on his house's stoop and turning around to go
+home.
+
+She barely saw the soldiers she passed on the way.  Kulbinder's deep
+voice from around the next corner brought her back to the world.  "Of
+course, respected, as soon as he's back, but I---"
+
+"And when will that be?" Colonel Bonzon interrupted sharply.  "Her
+Highness wants to review *all* her troops, *today*, whether it's
+convenient for them or not."
+
+Noxy glanced over her shoulder.  The nearest soldiers were three
+houses away, and looking in the other direction.  Heart suddenly
+pounding, she put her foot up on the steps of the nearest house and
+bent over as if tying her bootlace.
+
+"Of course, respected," Kulbinder replied calmly.  "He should be back
+this afternoon.  If you would like, I could go to fetch him right
+now."
+
+"Do that," the colonel ordered.  "And make sure he's presentable.  Her
+Highness is *not* happy about you letting the prisoners get away, and
+having your boy show up looking like an unwashed beggar will *not*
+improve her mood."
+
+"Understood, respected."
+
+Noxy kept her head bent as the colonel's bootsteps faded into the
+distance, then jumped when Kulbinder padded around the corner and
+asked, "Did you catch all of that?"
+
+"A-all of what?" she asked, straightening up.
+
+"My conversation with the good colonel," the tiger rumbled
+impatiently.  His tail twitched.  "He wants Thokmay to be in his
+little parade this afternoon for Her Highness, but we can't let that
+happen."
+
+"Why not?"
+
+The tiger's tail twitched again.  He seemed to reach a decision.  "Go
+home," he ordered.  "Put as much food as you can in a small
+bag---cured meat, dried fruit, cheese, whatever else you would take
+for travel.  And a blanket, and some gloves.  Meet me back here in
+half an hour, and don't tell anyone except the mayor where you're
+going."  And before Noxy could say that she didn't actually know where
+they were going, he trotted away.

@@ -3785,7 +3785,7 @@ As the four soldiers hauled him away, Aft shot one more look at Indy
 and the sergeant.  Noxy couldn't honestly have said which he seemed
 angrier at, or which he thought had betrayed him the worst.
 
-# Chapter 11: Flight
+## Chapter 11: Flight
 
 Stale woke up sullen and angry the next morning.  The tentative
 goodwill that had been growing between the villagers and the Angry
@@ -3851,8 +3851,67 @@ happen."
 
 The tiger's tail twitched again.  He seemed to reach a decision.  "Go
 home," he ordered.  "Put as much food as you can in a small
-bag---cured meat, dried fruit, cheese, whatever else you would take
-for travel.  And a blanket, and some gloves.  Meet me back here in
-half an hour, and don't tell anyone except the mayor where you're
-going."  And before Noxy could say that she didn't actually know where
-they were going, he trotted away.
+bag---dried fruit, cheese, a blanket, whatever else you need for
+travel.  Meet me back here in half an hour, and don't tell anyone
+except the mayor what it's for."  Before Noxy could say that she
+couldn't tell anyone because she didn't know herself, the tiger
+trotted away.
+
+Her mother wasn't home when Noxy got there.  She dithered for a few
+dozen heartbeats, torn between common sense and the need to do
+something---anything, so long as it wasn't sitting and waiting for who
+knew what.  Then she muttered, "Stop being stupid," and grabbed the
+travel pack that Indy and Granna Fee had given her as a Yearagain
+present that winter.  It was made of dark blue canvas, with a light
+blue lining infused with wax to keep things dry.  She had spent New
+Year's morning wrapped in a blanket in front of the stove, daydreaming
+about what her first cloudherding trip would be like as she explored
+its pockets, flaps, and ties, completely oblivious to her mother and
+grandmother's fond looks.
+
+Cheese, dried fruit, a hard bread called *nak* that had to be soaked
+in tea before it could be chewed (and even then, there was always a
+risk of cracking a tooth)... Her little shard of dayglass, carefully
+wrapped in a thick pair of socks, went in on top, and then the little
+doctoring kit that Indy always kept at hand.  She hefted the pack to
+check its weight, shrugged into her coat, and hurried out the door.
+
+It wasn't until she passed the first pair of soldiers that she
+realized she had no way of explaining why she was so obviously dressed
+for travel.  What would she say?  How would she explain the supplies
+in her pack, never mind the heavy work knife tucked hanging from her
+belt?  She had put it on without a second thought, not thinking until
+just now that anyone who didn't know how much hard work cloudherding
+was, it would look like a weapon, not a tool.
+
+She crossed the narrow street and picked up a pot full of greenflags
+that someone had set out as a springtime decoration.  The ragged
+rectangular blooms had started to wilt, but if anyone asked she would
+say that she was, she was, she didn't know what but she'd think of
+something.
+
+Kulbinder was nowhere to be seen when she reached the corner where
+they'd spoken.  She set the pot down and wiped her forehead with her
+sleeve, only half-pretending to be out of breath.  The pot was heavier
+than it looked, and her coat was too warm for heavy work.
+
+"Psst!  Over here!"  Thokmay beckoned to her from a jitty on the other
+side of the street.  Leaving the pot where she'd set it down, she
+crossed the street and stepped into its shadows.
+
+"Is that all you brought?" he asked, looking at her pack.
+
+Noxy bristled.  "Kulbinder said to bring a small bag, so that's what I
+did."
+
+"For which I thank you," the tiger rumbled from behind her.
+
+Noxy whirled around.  "Stop *doing* that!" she hissed.
+
+The tiger blinked.  "Doing what?"
+
+"Sneaking up on people!  I almost---oh, never mind.  Here."  She
+crouched down and untied the top of the pack.  "There's bandages and
+some burn salve in here, and a bit of dayglass in the socks---it's
+probably got about a couple of hours in it, but it's not very bright.
+The rest is food."

@@ -3901,17 +3901,85 @@ crossed the street and stepped into its shadows.
 
 "Is that all you brought?" he asked, looking at her pack.
 
-Noxy bristled.  "Kulbinder said to bring a small bag, so that's what I
-did."
+Noxy bristled.  "That's all anyone ever takes."
 
-"For which I thank you," the tiger rumbled from behind her.
+"And I thank you for it," the tiger rumbled from behind her.
 
 Noxy whirled around.  "Stop *doing* that!" she hissed.
 
 The tiger blinked.  "Doing what?"
 
 "Sneaking up on people!  I almost---oh, never mind.  Here."  She
-crouched down and untied the top of the pack.  "There's bandages and
-some burn salve in here, and a bit of dayglass in the socks---it's
-probably got about a couple of hours in it, but it's not very bright.
-The rest is food."
+turned back to Thokmay and opened the pack, anger making her fingers
+clumsy.  "There's bandages and burn salve, and a bit of dayglass in
+the socks---it's probably got about a couple of hours in it, but it's
+not very bright.  The rest is food."
+
+She re-tied the pack and held it out to Thokmay.  As he reached out to
+take it, a gruff voice said, "Hold there!"
+
+Noxy whirled around again.  There in the entrance to the jitty stood
+one of the princess's soldiers, his sword in his hand.  Another
+soldier stood behind him.
+
+Kulbinder growled as the first soldier took one step forward.  "Easy
+there, respected," the soldier said, patting the air with his free
+hand.  "Easy there..."
+
+"What is the meaning of this?" the tiger snarled.
+
+"I was going to ask you the same question."  A chill ran up Noxy's
+spine at the cold threat in the speaker's voice.  The second soldier
+was Colonel Bonzon.
+
+"No!" Thokmay said to Kulbinder from behind her, but it was too late.
+The tiger bounded forward and threw himself at the hapless soldier,
+knocking the soldier's sword aside with one swipe of his paw.
+
+His full weight hit the soldier in the chest.  Shouting a curse, the
+soldier tumbled backward into Colonel Bonzon.  "With me!" the tiger
+roared, lunging at the first of two more soldiers behind the colonel.
+"Now!"
+
+"Go!" Thokmay shouted, shoving Noxy forward.  "Go go go!"  And then
+they were running, out of the jitty and into the street where the
+first soldier and Colonel Bonzon were already back on their feet and
+another soldier was down on his knees, clutching his bloodied hand
+while his partner swung at the tiger.  Kulbinder ducked under the blow
+and spun around to knock the colonel off his feet again, bellowing,
+"Run, Your Highness, run!"
+
+Noxy and Thokmay ran.  Down the street, around the corner to---no,
+there were soldiers there, drawing their swords at the sound of
+shouting.  "This way!"  Noxy dodged around Thokmay and ducked into the
+jitty beside Rash's house.  Her boots splashed in a puddle and she was
+back in daylight, still running, the pack bouncing on her shoulder.
+
+"What---?" squawked an elder as Noxy plowed into her, knocking her
+armload of dried moss into the air.
+
+"Sorry!" Noxy shouted over her shoulder.  There!  She took the steps
+to the bath house two at a time, yanked the door open, said, "Excuse
+me!" to the two half-dressed old men who gaped at her and Thokmay,
+yanked the back door open, and slammed it shut behind them.
+
+"We have to get outside the walls," Thokmay panted.
+
+"What do you think I'm trying to do!?" Noxy snapped, equally out of
+breath.  She pointed at the pile of firewood stacked against the side
+of the bath house.  "Up that."
+
+The quartered logs and kindling shifted under their feet as they
+clambered up the woodpile.  Thokmay grabbed the bath house gutter and
+tested it with his weight before pulling himself up onto the roof.
+Noxy had just pulled herself up behind him when the door burst open.
+
+She froze, not even daring to breathe.  "Clear back here!" a soldier
+called.
+
+"I *told* you we didn't see anyone," quavered an elderly voice from
+inside the bath house.  The door slammed shut beneath her.
+
+Noxy realized she was shaking.  She looked over at Thokmay, who was
+standing with his boots on the gutter and his body pressed against the
+steep shingled roof.  "What now?" he hissed.

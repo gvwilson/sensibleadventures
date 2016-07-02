@@ -82,8 +82,8 @@ another.  "They've got swords, and some of them are bleeding!  And the
 tiger can *talk*!"
 
 Noxy opened her mouth to say, "Why don't you go jump in the fishpond?"
-but a deep *boom boom* cut her off.  She and Sensy looked at each
-other wide-eyed.  *Boom boom*, pause.  *Boom boom*, pause.  It was
+but a deep *doom doom* cut her off.  She and Sensy looked at each
+other wide-eyed.  *Doom doom*, pause.  *Doom doom*, pause.  It was
 Stale's home drum.  It meant a house was on fire, or a bear had
 wandered into the village, or someone was lost in a storm and needed
 help to find their way home.  It meant trouble.
@@ -3947,7 +3947,7 @@ first soldier and Colonel Bonzon were already back on their feet and
 another soldier was down on his knees, clutching his bloodied hand
 while his partner swung at the tiger.  Kulbinder ducked under the blow
 and spun around to knock the colonel off his feet again, bellowing,
-"Run, Your Highness, run!"
+"Run, boy, run!"
 
 Noxy and Thokmay ran.  Down the street, around the corner to---no,
 there were soldiers there, drawing their swords at the sound of
@@ -3983,3 +3983,64 @@ inside the bath house.  The door slammed shut beneath her.
 Noxy realized she was shaking.  She looked over at Thokmay, who was
 standing with his boots on the gutter and his body pressed against the
 steep shingled roof.  "What now?" he hissed.
+
+*Doom doom!*  *Doom doom!*  Stale's home drum echoed off the ancient
+fortress walls.  "Oh, wonderful," Noxy muttered.
+
+"What *now*?" Thokmay hissed again.
+
+"I'm thinking!" Noxy snapped.  But even as she said it, an idea took
+shape.  She closed her eyes and reached with her mind.
+
+"What are you doing?" Thokmay demanded.  "We have to get moving!"
+
+"Just wait!"  There!  Her lips moved, then she opened her eyes.  "Come
+on!"
+
+Children were absolutely, positively *not* allowed on the village's
+roofs, which of course meant that Noxy and her friends had found a
+dozen opportunities to do just that.  The trick was to walk sideways
+like a rock crab, using your hands like an extra pair of feet, and to
+not look down, especially not in those heart-stopping moments when one
+house ran out and you had to stand up straight and run for a couple of
+steps and leap across a jitty to the next roof.
+
+Noxy kept them close to the south wall, out of sight of the other
+three, but even so, every moment she expected to hear someone yell,
+"There they are!" from above them.  They froze once at the sound of
+shouting below them, but it was just a soldier ordering some villagers
+back into their home.  They froze again when Noxy's foot hit a loose
+shingle and sent it skittering over the roof's edge to land in a
+bucket or barrel with a quiet *sploosh!* that only they noticed.  Then
+they were moving again, hands and coats and knees made filthy by
+scraping against damp muck and moss, legs starting to tremble from the
+strain.
+
+It felt like it took forever to reach the end of the row of houses,
+though it was probably only a couple of minutes.  The stairs to the
+Quick Tower were close enough to jump to, but only just---Noxy had
+managed it, but any bragging she might have done had been silenced by
+Rash's broken leg.  And she hadn't been wearing a pack at the time.
+
+She tightened its straps.  "Just follow me," she told Thokmay.  Before
+her nerve could fail, she straightened up, took three long steps, and
+threw herself across the gap to the stairs.
+
+The toe of her right boot clipped the side of the steps.  She tumbled
+forward onto the stone, cracking her knee, and scrambled to her feet
+just in time to see Thokmay land sure-footed on the step below.
+
+"There they are!"  This time the shout wasn't in her
+imagination---they had been spotted!
+
+"Come one!" she yelled.  She sprinted up the steps, desperately hoping
+that no one was waiting for her at the top, that the soldiers were all
+busy hunting for them down below, that---
+
+Her hopes were half answered.  The soldiers weren't at the top of the
+steps---they were halfway along the wall, but they had bows, and the
+princess was with them.  Her mouth fell open as they drew and aimed.
+*They're going to shoot me!* she thought stupidly.
+
+"Hold!" the princess ordered, raising her hand.  And then her eyes
+widened in shock.  "Thokmay?  What are *you* doing here?"

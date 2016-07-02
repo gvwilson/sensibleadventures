@@ -16,7 +16,8 @@ and my daughter.
 
    * **Coordination**: how coordinated are you?
 
-   An average fully-grown human has a score of 10 for each.
+   An average fully-grown human has a score of 10 for each,
+   but there aren't any "average humans" left in the world.
    Averages for other kinds of characters are listed later.
 
 2. Every character has one extra score that depends on these three:
@@ -48,41 +49,41 @@ and my daughter.
    NPCs only need to be given scores for these things
    when it's important to the game.
 
-Example:
-Madica is a teenage human girl.
-She's a bit on the small side,
-but she has worked on her parents' fishing boat every day since she was a child,
-so she is very strong.
-She is also good with her hands
-(she's had a lot of practice tying knots and mending nets)
-and has keen eyes,
-but no Shaping skill.
-
-| ------------ | -- |
-| Size         |  8 |
-| Health       | 13 |
-| Coordination | 12 |
-| ------------ | -- |
-| Strength     |  9 |
-| ------------ | -- |
-| Sight        | 12 |
-| ------------ | -- |
-
 ## Species
 
-Most people are part-animal.
-("Pure" humans are sometimes called "goners"
-because everyone assumes they're partly some animal that is now extinct.)
+People are all part-animal.
 Each species has its own "normal" Size and Coordination scores,
 but all of them have an average Health of 10,
 and all of them use the same score for calculating Strength.
 Different Species also have different scores for Sight, Hearing, and Smell.
 
-| Species            | Size | Coordination |  Special  |
-| Ganesh (elephant)  |   14 |            8 |  Sight=9  |
-| Leo (lion)         |   10 |           12 |  Smell=12, Hearing=11 |
-| Urs (bear)         |   12 |            9 |  Sight=8, Smell=12 |
-| Reynard (fox)      |    8 |           12 |  Smell=12 |
+Species   Size   Coordination   Senses                Special
+-------  -----  -------------  -------                -------
+elephant    14              8   Sight=9               prehensile trunk
+tiger       10             12   Smell=12, Hearing=11  carnivore
+lion        10             12   Smell=12, Hearing=11  carnivore
+bear        12              9   Sight=8, Smell=12
+fox          8             12   Smell=12
+wolf         9             11   Smell=12
+cow         12              9   Sight=9               horns
+monkey       8             13                         prehensile tail
+
+Example:
+Madica is a teenage fox girl.
+She's a bit on the small side,
+but she has worked on her parents' fishing boat every day since she was a child,
+so she is very strong.
+She is also good with her hands
+(she's had a lot of practice tying knots and mending nets)
+and has a keen nose.
+
+Score         Value
+-----        ------
+Size              7
+Health           12
+Coordination     13
+Strength          8
+Smell            12
 
 ## Shaping
 
@@ -102,16 +103,13 @@ those who can have an average score of 10.
 
 *  **Luck**: increase or decrease the chance of something happening.
 
-*  **Dream**: dreams and feelings.
-
 *  **Truth**: knowledge.
+
+*  **Dream**: dreams and feelings.
 
 It is very rare for someone to be able to shape more than one element,
 and no one can shape opposite elements:
-
-|--------|-------|
-| Earth  | Air   |
-| Fire   | Water |
-| Time   | Luck  |
-| Dream  | Truth |
-|--------|-------|
+Earth and Air,
+Fire and Water,
+Time and Luck,
+Truth and Dream.

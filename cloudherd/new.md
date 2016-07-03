@@ -3941,13 +3941,13 @@ soldier tumbled backward into Colonel Bonzon.  "With me!" the tiger
 roared, lunging at the first of two more soldiers behind the colonel.
 "Now!"
 
-"Go!" Thokmay shouted, shoving Noxy forward.  "Go go go!"  And then
-they were running, out of the jitty and into the street where the
-first soldier and Colonel Bonzon were already back on their feet and
-another soldier was down on his knees, clutching his bloodied hand
-while his partner swung at the tiger.  Kulbinder ducked under the blow
-and spun around to knock the colonel off his feet again, bellowing,
-"Run, boy, run!"
+"Go!" Thokmay shouted, shoving Noxy forward.  "Go go go!"  Then they
+were running, out of the jitty and into the street where the first
+soldier and Colonel Bonzon were already back on their feet and another
+soldier was down on his knees, clutching his bloodied hand while his
+partner swung at the tiger.  Kulbinder ducked under the blow and spun
+around to knock the colonel off his feet again, roaring, "Run, boy,
+run!"
 
 Noxy and Thokmay ran.  Down the street, around the corner to---no,
 there were soldiers there, drawing their swords at the sound of
@@ -4039,8 +4039,136 @@ busy hunting for them down below, that---
 
 Her hopes were half answered.  The soldiers weren't at the top of the
 steps---they were halfway along the wall, but they had bows, and the
-princess was with them.  Her mouth fell open as they drew and aimed.
-*They're going to shoot me!* she thought stupidly.
+princess was with them.  Her mouth fell open as they drew and aimed at
+her.  *They're going to shoot me!* she thought stupidly.
 
-"Hold!" the princess ordered, raising her hand.  And then her eyes
-widened in shock.  "Thokmay?  What are *you* doing here?"
+"Hold!" the princess ordered, raising her hand.  Then Thokmay reached
+the top of the stairs and her eyes widened in surprise.  "Prince
+Thokmay?  What are *you* doing here?"
+
+He didn't get a chance to answer.  *Twang!* A bottle of *rak* with a
+burning rag stuff in its neck flew through the air and shattered
+against the stones just a few strides from Princess Shudarga.  "Stick
+*my* son in a cage, will you?" Grappa Gas bellowed, loading a second
+bottle into his slingshot as the first burst into flame.
+
+One of the archers let fly.  His arrow thunked into the window frame a
+handspan from Grappa Gas's head just as the old man loosed his second
+shot.  *Twang!* The bottle shattered next to the first, sending a
+fresh burst of flame into the air.
+
+"What are you waiting for!?" Grappa Gas yelled.  "Go! Go! Go!"
+
+Noxy's arms and legs unfroze.  Grabbing Thokmay by the arm, she turned
+and ran along the parapet.  Behind them, soldiers leaped through the
+flames and gave pursuit, shouting for help.
+
+An arrow flew past her with a sound like someone blowing breath in her
+ear.  She shrieked and kept running.  *Thunk!* Another suddenly
+sprouted from the wooden steps of the firewatch tower in front of her.
+*Thunk!* A second one hit beside the first.  They were warning
+shots---the archers could hit them any time they wanted.  But it was
+too late to think about that.  She took the firewatch tower steps two
+at a time, grabbed the rope lying coiled at the base of the flagpole,
+and heaved it over the wall.
+
+The rope burned her hands as she slid down.  It didn't reach the
+ground, not nearly, but there was nothing she could do about that
+now.  She let go.  For one sickening heartbeat she was falling.  Then
+the ground punched her feet and her knees folded up and her backside
+hit the ground hard enough to jar her teeth but she was all right, she
+could roll to the side and stand as Thokmay slithered down the rope
+and landed beside her with a thump and a curse.
+
+"Let's go!" she said, grabbing his arm again.
+
+"No!"  He shook her off.  "I'm not leaving without Kulbinder."
+
+"There they are!" someone shouted from the wall above them.  She
+looked up to see a soldier pointing at her.  Her heart sank at an
+answering shout from around the corner of the wall.
+
+"Come *on*!" she yelled.  Thokmay swallowed another curse and followed
+her.
+
+Branches slapped at their faces as they crashed down the narrow,
+twisting path through the forest.  Shouts behind them were answered by
+others ahead---the princess's soldiers were already at the cloud pen.
+
+Noxy pulled up short.  "Wait!" she ordered, raising a hand to quiet
+Thokmay before he could speak.  She closed her eyes and reached with
+her mind again.  There!
+
+She opened her eyes.  "This way," she pointed.  She pushed through a
+patch of fangberry, ignoring the tiny flowers as they snapped and
+snarled at her, and slid down the steep slope toward the mouth of the
+cloud pen canyon.
+
+The forest stopped abruptly just a few strides short of the dropoff.
+As they burst out of the trees, the only things that stood between
+them and the edge of the canyon were a few snowberry bushes, a fallen
+tree that someone had rolled into place to use as a bench, and
+Sergeant Dorbu with a panting pair of soldiers with swords drawn.
+
+Thokmay and Noxy skidded to a halt.  The sergeant raised his hands.
+"Easy there," he said, as if calming a frightened horse.  "Easy...  No
+one's going to hurt you.  We just---"
+
+Kulbinder burst out of the trees behind them with a roar.  The
+bleeding gash on his flank and the matching cut on his skull only made
+him more terrifying.  He threw himself at the soldiers as Sergeant
+Dorbu cursed and drew his sword.  One swipe of his paw, and the first
+soldier was on the ground.  The second soldier's blade whistled over
+his head.  Another quick swipe and the second soldier was down beside
+the first, clutching the fresh wounds on his calf.
+
+"Stop!  Kulbinder, stop!" Sergeant Dorbu shouted, hefting his sword.
+
+The tiger stalked forward one pace, then another, his tail twitching.
+"Put it down, sergeant," he growled.
+
+Sergeant Dorbu shook his head.  "I can't do that."  He set his feet in
+a fighter's stance and raised his blade.
+
+"Wait!"  Noxy threw herself between them.  "Just wait!"
+
+"Out of the way, girl," the tiger growled.
+
+Noxy shook off Thokmay's hand.  "Just wait," she repeated.
+
+"We can't!" Thokmay shouted.  "If we stay here they'll catch us!"
+
+"We're not staying here," Noxy said.  And then she grabbed his arm and
+pulled him with her as she jumped off the cliff.
+
+They both screamed as they fell.  One, two, three... Big Blue dimpled
+under their weight as they landed on the cloud.  The impact knocked
+the wind out of Noxy.  She rolled over and struggled to her knees just
+in time to be tumbled onto her back again as Kulbinder hit the cloud
+just a stride from its flank.  She caught a momentary glimpse of
+Sergeant Dorbu staring in disbelief as Big Blue rose into the sky to
+carry them away.
+
+"Are you mad!?" the tiger demanded.  "You could have killed him!"
+
+"You're welcome," Noxy spat back.  She shrugged out of the pack and
+threw it down beside Thokmay, who was still struggling to get to his
+feet.  "Now shut up and let me steer."  *And please don't ask how I
+mind-spoke to the cloud from so far away,* she added silently.
+
+The net across the cloud pen entrance was half-open, just as Big Blue
+had told her.  Pillow and the big cloud that Tasteless had arrived on
+circled nervously as Big Blue flew through it.  *North,* Noxy told
+him.  *Go fast.*  As the wind of their passage began to strengthen,
+she opened her eyes and turned to Thokmay and Kulbinder.  The young
+man had pulled bandages out of her pack to press against the wound on
+the tiger's flank.
+
+"So," she said.  "Would you like to tell me what's really going on?
+And don't say, 'What do you mean?', because I heard what the princess
+said.  She called you 'Prince Thokmay'."
+
+The tiger and his boy exchanged looks.  The tiger blinked first.
+"Probably Noxious of Stale Leftovers," he said formally, "Allow me to
+introduce you to His Royal Highness Prince Thokmay, heir to the throne
+of Gandan."

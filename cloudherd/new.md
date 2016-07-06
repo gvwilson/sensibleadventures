@@ -4239,3 +4239,75 @@ And don't tell me 'I have to' or anything like that," she added as the
 prince opened his mouth.  "Not unless you've suddenly learned how to
 mind-speak with clouds, because this one isn't going *anywhere* unless
 I tell him to."
+
+She kept her arms crossed through the shouting and somewhat weakened
+roaring that followed.  She had to take them to Gandan because only
+the royal army could rescue her fellow villagers.  She had to because
+if the cloudherds tried to take on Princess Shudarga's troops they'd
+be slaughtered.  Because the prince commanded her to.  Because the
+*tiger* commanded her.
+
+"I don't 'have to' anything!" she shouted back when her temper finally
+snapped.  "If my mother or my granna were here, I'd do whatever they
+told me.  Or maybe Grappa Gas---*maybe*---but that's about it.  Like I
+said, unless you've magically learned how to cloudherd, we're going to
+go and find some grownups.  Now how about both of you shut up for a
+little while and let me steer this cloud?  Because all this shouting
+is scaring him, and if he decides to drop you, I'm not going to even
+*try* to stop him!"
+
+It took her a moment to realize that Kulbinder's wheezing was actually
+a chuckle.  "What!?" she demanded.
+
+"You would have made a fine rhinoceros," he said.
+
+"What's a rhinoceros?" she asked suspiciously.
+
+They flew in silence after that, Thokmay next to Kulbinder and Noxy
+cross-legged a few strides away.  She was so lost in her own thoughts
+and fears that it wasn't until a stray snowflake snagged on her
+eyebrow that she realized a storm was coming around the corner of the
+pass up ahead.
+
+She swore under her breath as she stood and flexed her foot, which had
+gone to sleep, and shaded her eyes with her hand.  They were nimbus
+clouds, she realized, her heart sinking.  Big ones, swollen with a
+full winter's grazing on the snowfields of the high Brumosos.  If it
+was just a few weeks later, her mother would have the villagers up on
+their clouds to guide them south to bring much-needed rain to farmers'
+fields in the Ninety Kingdoms.  She had no chance of doing that on her
+own---no chance of doing anything except get out of their way or go
+under them and hope she didn't spook them.
+
+"Get the blanket," she said to Thokmay, belatedly adding, "Your
+Highness.  Tuck it in around Kulbinder---it isn't much, but it's all
+we have to keep him warm."
+
+"How bad is it going to get?" Thokmay asked, reaching for the pack.
+
+"Bad enough," Noxy replied grimly.
+
+It wasn't bad---it was worse.  The bulls at the front of the herd were
+still fighting for leadership.  Every butt and shove threw a flesh
+flurry of snow into the air.  The cows and calves behind them picked
+up on their agitation and shed snow of their own, until the air was a
+soup of wet white flakes whipped every which way by gusts of wind.
+
+The three travelers were soaked in minutes and shivering soon after.
+"We'll freeze if we don't get out of this!" Thokmay said, shouting to
+be heard.
+
+"I know!"  Noxy shouted back.  "But I don't know how big this herd
+is---it could stretch halfway to Chaghan!"
+
+"Then let's turn around!"
+
+She shook her head.  "We can't outrun them!" she said, not sure it was
+true but not wanting there to be a reason to head toward Gandan.
+"We'll have to set down!"
+
+"But then we'll just freeze on the ground!" the prince protested.
+
+"No we won't.  There's a place up ahead where we can get shelter."  *A
+place I really wanted to never visit again,* she added to herself
+grimly, but it looked like they were fresh out of choices.

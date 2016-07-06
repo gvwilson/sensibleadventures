@@ -3873,7 +3873,7 @@ Cheese, dried fruit, a hard bread called *nak* that had to be soaked
 in tea before it could be chewed (and even then, there was always a
 risk of cracking a tooth)... Her little shard of dayglass, carefully
 wrapped in a thick pair of socks, went in on top, and then the little
-doctoring kit that Indy always kept at hand.  She hefted the pack to
+doctressing kit that Indy always kept at hand.  She hefted the pack to
 check its weight, shrugged into her coat, and hurried out the door.
 
 It wasn't until she passed the first pair of soldiers that she
@@ -4172,3 +4172,70 @@ The tiger and his boy exchanged looks.  The tiger blinked first.
 "Probably Noxious of Stale Leftovers," he said formally, "Allow me to
 introduce you to His Royal Highness Prince Thokmay, heir to the throne
 of Gandan."
+
+## Chapter 12: Abandoned
+
+Noxy burst out laughing.  "Seriously?" she gasped.  "You expect me to
+believe that---" And then she started laughing again.
+
+Thokmay and Kulbinder waited patiently for her to get her hysteria
+under control.  When she didn't, Thokmay shrugged and began dabbing
+the blood on the tiger's flank again.  "I told you," he muttered.  The
+tiger closed his eyes and flicked an ear, but said nothing.
+
+Noxy finally wound down.  She felt lightheaded, as if she had woken up
+too early from a mid-afternoon nap.  She wrapped her arms around
+herself and shivered.  "Really?" she asked.  "You're really a prince?"
+
+Thokmay nodded without looking up.  "Really.  Most noble families send
+their children out into the world in disguise for a couple of years so
+that they can see what life is like beyond the palace walls.  My
+mother was a carpenter's apprentice when she was my age."
+
+He rolled up the blood-soaked bandage and set it down beside him.
+"Not on the cloud," Noxy said automatically.  "It spooks them."
+
+"Sorry."  Thokmay stuffed it into the sleeve of his uniform jacket
+as if it were a handkerchief.  "Anyway, my father's spymaster was
+already suspicious of Princess Shudarga, and wanted to send one of his
+agents to have a closer look, so..."  He shruggged again.  "Here we
+are."
+
+"So you're a spy as well as a prince?" Noxy asked disbelievingly.
+
+The corner of Thokmay's mouth twitched.  "Not me.  *He's* the spy."
+He patted Kulbinder's flank.
+
+"At your service," the tiger rumbled without opening his eyes.  "Now
+can we please get on with it?"
+
+There was a needle and some cotton thread in with the bandages, and a
+small knife with a very sharp blade.  The prince trimmed the hair
+around Kulbinder's wound as short as he could, then put in three
+stitches.  Noxy almost threw up the first time he pushed the needle
+into the tiger's flesh, but other than twitching his tail, Kulbinder
+showed no sign that he even felt it.
+
+When it was over with, Thokmay splashed some water on his hands and
+wiped as much blood as he could onto the bandge, careful not to let
+any drip on the cloud.  "You look like you've done that before," Noxy
+said.
+
+"I guess."  Thokmay looked at the distant peaks.  "I wanted to learn
+to be a doctress, not a soldier, but my father said that the men in
+our family have always spent their foster years in the army."
+
+"A doctress?"  Noxy blinked.  "Men can't be doctresses."
+
+"Sure they can," Thokmay said defensively.  "Lots of men are
+doctresses.  Well, maybe not *lots*, but..."  He shrugged yet again.
+"Anyway, that's yesterday's breakfast now.  Once we're back in Gandan,
+I'm going to---"
+
+"We're not going to Gandan," Noxy interrupted, crossing her arms.
+"We're going up into the mountains.  I'm going to find the grownups
+and tell them what's happened and let them decide what to do next.
+And don't tell me 'I have to' or anything like that," she added as the
+prince opened his mouth.  "Not unless you've suddenly learned how to
+mind-speak with clouds, because this one isn't going *anywhere* unless
+I tell him to."

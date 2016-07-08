@@ -2319,8 +2319,8 @@ no, he didn't think there'd be a fight---not today, anyway.
 
 "And tomorrow?" Grappa Gas asked.  "What are we all supposed to while
 you lot are chopping each other to pieces in the square?  No, I
-*won't* hush!"  he snapped at Indy as she opened her mouth.  "Having a
-laugh at the *tralpa* is one thing, but sheltering rebels, that's
+*won't* shush!"  he snapped at Indy as she opened her mouth.  "Having
+a laugh at the *tralpa* is one thing, but sheltering rebels, that's
 another, and if you think we won't be held to answer for it when the
 king's men show up---"
 
@@ -4309,5 +4309,81 @@ true but not wanting there to be a reason to head toward Gandan.
 "But then we'll just freeze on the ground!" the prince protested.
 
 "No we won't.  There's a place up ahead where we can get shelter."  *A
-place I really wanted to never visit again,* she added to herself
-grimly, but it looked like they were fresh out of choices.
+place I wanted to never visit again,* she added to herself grimly, but
+it looked like they were out of choices.
+
+Three Springs Canyon was a narrow cut between two brooding mountains
+whose names Noxy had never learned.  In summer, the stream that ran
+through it was full of diver bees, rock crabs, the stealthy squiddles
+that hunted them both, and the occasional bear or troll with a taste
+for fresh squiddle.  But summer hadn't come yet, so the dancing water
+Noxy was familiar with was instead an angry torrent.  Fog from the hot
+springs that gave the canyon its name drifted in the air like scraps
+of wool, chilling the already-freezing travelers.
+
+"How can you see in this?" Thokmay asked as a spur of rock suddenly
+appeared out of the mist.
+
+"I can't," Noxy said curtly.  "But *he* can."  She patted Big Blue.
+"Now shush."  In truth, the cloud she was steering could barely see
+further ahead than she could, and wasn't happy about it.
+
+*Home,* Big Blue pleaded.
+
+*Soon,* Noxy mind-spoke back, putting all the comfort and certainty
+she didn't feel into her thoughts.  *Soon.*
+
+The air cleared almost instantly once they were past the last hot
+spring.  Behind them, the storm still raged in the canyon, but none of
+the clouds had turned away from the herd to follow them.  Noxy pulled
+her coat tighter around her, eyeing the shivering prince.  "How's he
+doing?" she asked, jerking her chin at Kulbinder.
+
+"He needs to be somewhere warm.  And dry."  Thokmay stroked the
+tiger's flank.  Kulbinder's tail twitched, but he didn't open his
+eyes.  "Wherever you're taking us, I hope we're there soon."
+
+As Noxy opened her mouth to reply, a trickle of smoke stung her
+nostrils.  She got to her feet.  "There," she said, pointing.  "We'll
+be able to set down there."
+
+'There' was a one-room hut perched on a not-quite-level shoulder of
+the canyon.  Its walls were made of piled stones with moss and clay in
+the chinks to keep the wind out, and its roof was slats overlain with
+branches.  There were no windows, and a bamboo tube with a shingle cap
+served as as chimney.  If not for the thin wisp of smoke rising into
+the air, Noxy would have said it had been abandoned yeares ago.  Even
+with that, part of her hoped that it had...
+
+Big Blue descended gingerly into the cul de sac beneath the hut and
+pressed himself against the mountain.  With Thokmay gently urging him
+on, Kulbinder struggled to his feet and limped off the cloud and
+picked his way uphill through the loose stones and patches of unmelted
+snow.  Noxy followed them, the travel pack over her shoulder.
+
+"Hello?" Thokmay called.  "Is anyone there?"  Silence.  "Is anyone
+there?" he repeated more loudly.
+
+Suddenly impatient, Noxy strode past him and knocked on the door.
+"Hello the house!" she called out, not waiting for an answer before
+lifting the little latch and pulling it open.
+
+It was empty.  The dying embers of the morning's fire still glowed in
+the little brick fireplace beneath the chimney, and a piece of
+yellow-orange dayglass hadn't quite shed the last of the previous
+day's sunlight.
+
+Noxy wrinkled her nose at the heavy, unwashed smell of someone who had
+done no more through the freezing winter than splash a bit of water on
+his face and dab at his armpits.  "Come on in," she said, half glad
+and half disappointed and trying to hide both.  She yanked some
+blankets off the narrow cot on one side of the hut and made a quick
+pile in front of the fireplace.  "Put him down there.  I'll get some
+more wood."
+
+Thokmay hesitated, clearly wanting to ask questions, then nodded and
+began trying to make Kulbinder comfortable.  Noxy stepped around him
+and went back outside.  As soon as she was around the corner, she
+sagged against the wall and wiped her eyes.  She had no idea what she
+would have said if her father had been there, but judging from the
+fire, she was going to have to think of something soon.

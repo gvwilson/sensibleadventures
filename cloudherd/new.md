@@ -4451,3 +4451,104 @@ sorry for too many things, too often."  He yawned.  "Please don't let
 the prince stay out there too long."  And then the only sound in the
 the hut was his snoring, and the crackling of the fire, and the
 whistle of the wind through chinks in the walls.
+
+Noxy must have dozed, because she woke with a start when the door
+banged open.  "Trolls," Thokmay said curtly.  "A dozen of them, and
+those are just the ones I can see."
+
+Kulbinder struggled to his feet.  "What are they doing?"
+
+"Just watching, but every time I turn around, they've come a little
+closer."  The prince knelt in front of the fire and chafed his hands.
+Tiny beads of sweat glistened on his dark skin.  As Kulbinder turned
+toward the door, Thokmay put out a hand to stop him.
+
+"I need to see for myself, Your Highness," the tiger rumbled.
+
+"You need to rest," the prince replied firmly.  "Noxious and I will
+keep an eye on them."
+
+*Thump!* Something heavy landed on the roof above them.  Thokmay drew
+his sword with a quiet curse.
+
+"So much for resting," the tiger said.
+
+"I don't understand," Noxy said helplessly.  "We've had a truce with
+the trolls for years."
+
+*THUMP!*  Something much heavier came down on the roof.  A deep voice
+grunted something that was clearly a command.
+
+"That was no troll," Kulbinder snarled.  "That was an gorilla, or I'm
+a rabbit."
+
+"An ogre," Thokmay said before Noxy could ask.  "But what's an ogre
+doing here?"  His eyes went wide.  "Working for the princess," he
+breathed, answering his own question.
+
+"We need to be elsewhere, *now*," Kulbinder hissed.
+
+It took only a moment to thrust their meager belongings back into the
+pack, and to scoop a few coals out of the fireplace into a pan and
+douse the rest with water---even with trolls and ogres outside, Noxy
+couldn't bring herself to let it go out completely.
+
+She shouldered the pack and picked up a stick of firewood.  It wasn't
+much of a club, but hefting it felt better than being empty-handed.
+For a moment she wished Grappa Gas and his slingshot were there, or
+that she was somewhere else.  Then she looked at the prince and the
+tiger and nodded.  "Ready."
+
+*One.*  She yanked open the door.  Thokmay heaved the bundle of blankets
+through it.
+
+*Two.*  The ogre dropped onto the blankets with a roar.
+
+*Three.*  With a roar of his own, Kulbinder threw himself onto the
+ogre's back and dragged his claws through its thick fur.
+
+*Four.*  As the ogre bellowed and reached back to grab the tiger,
+Thokmay and Noxy ran for the dropoff.
+
+*Five.*  A shingle torn from the roof exploded against a rock an arm's
+length from Noxy.  "Go!" Kulbinder roared behind them.
+
+*Six.* A troll burst into view from behind a rock ahead of them, its
+teeth bared.  "Gandan!" Thokmay shouted, swinging his sword.  The
+troll dodged back and went down in a tangle with a second troll.
+
+*Seven.* Noxy threw herself onto Big Blue.  Thokmay landed beside her,
+stumbling and falling.  "Hurry!" Noxy shouted to Kulbinder, and,
+*Wait!* she mind-shouted at Big Blue, who was already pulling away in
+panic.
+
+"Wait!  What are you doing!?" Thokmay demanded.
+
+"I can't stop him!" Noxy shouted.  *Please, wait!* she begged, but the
+big cloud ignored her.  She stared helplessly as Kulbinder skidded to
+a halt at the edge of the dropoff.
+
+"There!" she shouted, pointing down the narrow canyon toward the pass
+to a spur of rock.  "Quickly!"
+
+The tiger didn't need to be told twice.  He turned and ran with an
+awkward three-legged gait.  Beyond him, the wounded ogre picked up a
+rock and flung it with all its might.  *Crack!*  The rock shattered
+against a boulder, flinging dagger-edged shards in all directions.
+
+"Faster faster faster," the prince begged, his sword forgotten in his
+hands.  The trolls were scrambling across the loose scree toward the
+rock spur, clumsy on the ground compared to their grace in the trees
+but still fast, so fast.
+
+*He's not going to make it,* Noxy realized, her heart sinking.  She
+dropped to one knee and put her hand on Big Blue's back.  *Go closer!*
+she ordered.
+
+The cloud sped up.  Noxy clenched her jaw.  *I said **closer**!*  The
+whole cloud jerked to one side like a goof stung by a bee, toppling
+Thokmay off his feet.
+
+"Now!" Noxy screamed. "Jump now!"  And as another rock flew through
+the air, Kulbinder skidded on the rocks, rolled over, sprinted toward
+the cliff's edge, and threw himself into the air.

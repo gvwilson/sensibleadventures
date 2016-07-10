@@ -1,3 +1,4 @@
+<!-- 2016-04-24 -->
 ## Prolog
 
 *Consider Cherne.  A diamond adrift in the heavens, it measures eight
@@ -3842,10 +3843,9 @@ asked, "Did you catch all of that?"
 
 "A-all of what?" she asked, straightening up.
 
-"My conversation with the good colonel," the tiger rumbled
-impatiently.  His tail twitched.  "He wants Thokmay to be in his
-little parade this afternoon for Her Highness, but we can't let that
-happen."
+"My conversation with the good colonel," the tiger said impatiently.
+His tail twitched.  "He wants Thokmay to be in his little parade this
+afternoon for Her Highness, but we can't let that happen."
 
 "Why not?"
 
@@ -4385,5 +4385,69 @@ Thokmay hesitated, clearly wanting to ask questions, then nodded and
 began trying to make Kulbinder comfortable.  Noxy stepped around him
 and went back outside.  As soon as she was around the corner, she
 sagged against the wall and wiped her eyes.  She had no idea what she
-would have said if her father had been there, but judging from the
-fire, she was going to have to think of something soon.
+would have said if the hut's resident had been there, but judging from
+the fire, she was going to have to think of something soon.
+
+Noxy gathered an armload of the driest wood she could find and carried
+it back inside.  Thokmay watched in silence as she stacked it beside
+the fireplace, then used her knife to shave some long splinters from
+one piece and laid them on the embers.  When they began to smolder,
+she added a few more shavings, and finally the whole piece of wood.
+The warm smell of burning pine slowly filled the hut.
+
+Thokmay stirred.  "Thank you," he said quietly.
+
+"You're welcome... Your Highness."  Noxy tossed some scraps of bark on
+the fire as she added the last phrase.
+
+"I'm sorry for not telling you sooner," the prince said.  "But we
+didn't know who we could trust."
+
+"Did the soldiers know?" Noxy asked.  "I mean, the two we captured?"
+
+Thokmay nodded.  "Kulbinder told them.  That's why they made a break
+for it.  I should have gone with them."
+
+"No," the tiger said without opening his eyes.  "Using them as a
+distraction was our best chance of---"
+
+"I'm tired of using people," Thokmay snapped.  "I'm tired of people
+getting hurt because I'm royal and they're not."
+
+The tiger's tail twitched.  "Those almost sound like rebel words, Your
+Highness."
+
+Thokmay clambered to his feet.  "I'll take first watch," he told Noxy,
+striding to the door and banging it shut behind him.
+
+Noxy sat in silence for a moment, not knowing what to say.  She could
+smell the tiger's damp fur, she realized, and for some reason that
+stirred her into action.  She took a blue jug from the shelf beside
+the cot and shook it.  Water gurgled inside.  "Here," she told
+Kulbinder, settling beside him.  "Let me give that a wash."
+
+As she peeled back the makeshift bandage, the tiger said, "You've been
+here before."
+
+Noxy nodded.  "Not for a while, though.  Sorry!"  She winced as the
+bandage pulled a few hairs away from the tiger's side.
+
+"And the man who lives here?" the tiger asked.
+
+Noxy paused.  "How do you know---oh.  You can smell him?"  The tiger
+grunted.  Noxy carefully poured a few more drops of water onto the
+bandage to loosen it.  "He's a magician.  He used to live in Stale
+when I was little, but then a bunch of people got sick with the
+scribbles, and he had to do a spell to save them, and now he can't
+sleep in a house that's close to anyone else, so he lives here."  She
+shrugged as if it didn't matter.  "Or in a cave down by Duck
+Droppings, or sometimes in another hut that's further up the pass.  He
+still does magic sometimes for us and the other villages, but my
+*amma* says he's getting absent-minded.  Sorry."
+
+The tiger made a sound deep in his throat as the bandage tugged at
+some more hairs, but didn't move a muscle.  "Don't be.  You humans are
+sorry for too many things, too often."  He yawned.  "Please don't let
+the prince stay out there too long."  And then the only sound in the
+the hut was his snoring, and the crackling of the fire, and the
+whistle of the wind through chinks in the walls.

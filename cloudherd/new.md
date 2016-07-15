@@ -4552,3 +4552,68 @@ Thokmay off his feet.
 "Now!" Noxy screamed. "Jump now!"  And as another rock flew through
 the air, Kulbinder skidded on the rocks, rolled over, sprinted toward
 the cliff's edge, and threw himself into the air.
+
+## Chapter 13: The Birds
+
+"No!"  Thokmay dove forward and grabbed the tiger's paws as Kulbinder
+scrabbled to hold on, his hindquarters slipping slowly but surely off
+the cloud's flank.  Noxy grabbed Thokmay's collar and belt and held on
+with all her might.  *Bunch up!* she commanded the cloud, but Big Blue
+was too frightened to pay attention.  Heaving and yelling incoherent
+instructions at each other, she and Thokmay finally managed to get
+Kulbinder up, on, and safe.
+
+The trolls reached the edge of the canyon, hooting and snarling their
+frustration as they flung rocks toward the fleeing trio, then toward
+each other as badly-aimed shots turned the pack into a brawl.  The
+ogre roared and smacked them, sending them tumbling, but instead of
+restoring order that just sent the trolls for the forest.  The last
+Noxy saw of them as Big Blue rounded the corner was the ogre perched
+on top of a boulder, scratching its armpit in frustration.
+
+She turned back to Thokmay and Kulbinder, who had moved to the center
+of the cloud.  As Thokmay dabbed at the fresh blood soaking into the
+bandgage on Kulbinder's side, the tiger said, "Well done, both of
+you."
+
+"Thanks," Noxy said, sitting down beside them.  Before she could add,
+"You too," or ask, "But why did they attack us?" she felt a twinge in
+the back of her head.  She scrambled to her feet and shaded her eyes.
+
+"What is it this time?" Thokmay asked despairingly.
+
+Noxy waited a heartbeat to answer.  "There," she said, pointing.
+
+Thokmay looked at the sky, then back at her.  "I don't see anything."
+
+"That cloud," Noxy said, feeling her heart sink.  "It's the one
+Tasteless was riding.  He's come after us."
+
+*And he's been clever about it,* she added to herself.  She didn't
+know his cloud's name, but Tasteless had kept her up high, hidden
+against the magnificent cirrus that floated above the mountains this
+time of year, far beyond the reach of the cloudherds.  She was easy
+enough to see once Noxy felt her, but without that twinge, she
+wouldn't have known the cloud was there.
+
+"Have they seen us?" Kulbinder asked, struggling to sit up.
+
+"How would I know?" Noxy snapped.
+
+"He was just asking," Thokmay snapped back.
+
+Noxy spread her hands.  "I... don't... know..." she said, enunciating
+every word clearly and coldly.  "But if they haven't, they will soon.
+We have to get moving."
+
+It took her several minutes to calm Big Blue enough to get him to
+descend into the canyon and turn north.  It wasn't much cover---in
+fact, if Tasteless and whoever else was riding with him knew where to
+look, it wouldn't be any cover at all---but it was all she could think
+of.
+
+Flying lower meant flying in shadow.  Noxy started shivering almost as
+soon as they were out of the sun.  "Come here," Kulbinder finally told
+her.  She was too cold to protest.  With her on one side and Thokmay
+on the other, the tiger looked like a lonely black and orange book
+between two strangely-carved bookends.

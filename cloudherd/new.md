@@ -4612,8 +4612,84 @@ fact, if Tasteless and whoever else was riding with him knew where to
 look, it wouldn't be any cover at all---but it was all she could think
 of.
 
-Flying lower meant flying in shadow.  Noxy started shivering almost as
-soon as they were out of the sun.  "Come here," Kulbinder finally told
-her.  She was too cold to protest.  With her on one side and Thokmay
-on the other, the tiger looked like a lonely black and orange book
-between two strangely-carved bookends.
+Flying lower meant flying in shadow.  Noxy started shivering as soon
+as they were out of the sun.  "Come here," Kulbinder finally told her.
+She was too cold to protest.  With her on one side and Thokmay on the
+other, the tiger looked like a lonely black and orange book between
+two strangely-carved bookends.
+
+Three Springs Canyon rejoined the pass a few minutes later.  It was as
+if the mountains all stepped back together to let the sun in.  The
+sudden brightness stung Noxy's eyes.  She blinked and rubbed them with
+the heels of her hands, wondering what was happening back in Stale and
+wishing she was there.
+
+"They've seen us," Thokmay said flatly, nodding skyward.  Noxy looked
+up.  Sure enough, the big cow was descending toward them.  Even as she
+watched, her dive steepened and she picked up speed.
+
+"All right," she said through clenched teeth, "Let's see what you've
+got."  She closed her eyes.  *Bunch up,* she mind-spoke to Big Blue.
+*It's a race.*
+
+*Don't like,* the cloud grumbled in exactly the same tone Little Gas
+used when someone put cauliflower in front of him.
+
+*Please?* Noxy coaxed.
+
+The cloud grumbled again wordlessly, but gathered itself into a dense
+pillow and sped up.
+
+It wasn't enough.  Noxy coaxed and prodded, but no matter how fast Big
+Blue went, the other cloud kept gaining.  She was younger and stronger
+than the old bull, and Tasteless was driving her hard.
+
+"They have archers," Thokmay announced after a few hundred heartbeats.
+
+"Of course they do," Noxy snapped.  "Any other good news?"
+
+Thokmay studied the approaching cloud for a moment.  "Not really.
+They're Shudarga's own troops, not Canaries, so they won't hesitate to
+fire."
+
+Suddenly Noxy had had enough.  "All right.  If they want a race, let's
+give them a race" She closed her eyes to concentrate.  *Turn around.*
+
+*???*
+
+*Turn around,* she repeated firmly.  *Still a race, but other way.*
+
+If Big Blue had been a child, his reply would have earned him a day of
+chores from Granna Fee, but he slowed, banked, and turned.
+
+"What's going on?" Kulbinder demanded.
+
+Noxy grinned without a shred of humor.  "We're going to make it
+*interesting.*"
+
+She didn't bother to coax any more.  As Tasteless and the archers drew
+closer, she pummelled Big Blue with the same command over and over
+again: *Faster!* The cloud caught the urgency in her voice, or maybe
+he just remembered what it was to be young.  As the mountains slipped
+by, he drew himself in and pushed himself harder and harder.
+
+"I hope you know what you're doing," Thokmay muttered.
+
+"Nope!" Noxy said, still grinning mercilessly.  "But I'm pretty sure
+they don't either."
+
+She glanced back just as their pursuers loosed the first arrow.  The
+other cloud was only a hundred strides behind them, and perhaps twenty
+above.  The arrow seemed to float for a moment before dropping in
+their wake.  "Ranging shot," Thokmay said grimly.  "They're not sure
+of the height yet."
+
+And then they rounded a bend in the canyon and Noxy surged to her
+feet.  "There!  There they are!"
+
+The herd of clouds that had stormed past them that morning crowded the
+peaks on either side of the canyon.  Hungry and tired after their
+panicky charge, the cows and calves grazed on leftover crusts of
+winter snow.  The bulls jostled half-heartedly for position in the
+canyon's center.  As Big Blue began to slow, Noxy dug her hands into
+him and mind-spoke as firmly as she could.  *Faster!*

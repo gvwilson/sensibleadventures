@@ -178,8 +178,6 @@
     his old home, but he is gone.  They decide to spend the night, but
     are attacked by mountain trolls and forced to flee.
 
----
-
 14. [fight / day 5] Noxy is exhausted by the time the sun comes up.
     They begin arguing again about what to do, but then Tasteless
     finds them.  There is a cloud fight; Noxy slows him down by
@@ -189,6 +187,8 @@
     Dorbu reluctantly confirms this, and says that if Noxy doesn't
     come back, Granna Fee will be next.  Noxy is about to give in when
     birds start flying around them - they've found Ulfmaerr.
+
+---
 
 15. [plot development + heartbreak / day 5] Ulfmaerr drives off
     Tasteless.  Noxy and the others land.  They talk to Ulfmaerr, who

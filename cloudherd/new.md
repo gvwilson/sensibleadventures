@@ -2177,7 +2177,7 @@ A door banged open.  "Saints!" Aft hurried over to Noxy.  "Are you all
 right?  What in the name of all that rots are you doing out in this?"
 
 "*Amma* wanted me to fill the kettle," Noxy said stupidly.  She shook
-her head.  "It---the lightning it."
+her head.  "It---the lightning hit it."
 
 "I can see the lightning hit it," Aft said testily.  He took her by
 the shoulders and peered into her eyes, then relaxed slightly.
@@ -4692,4 +4692,66 @@ peaks on either side of the canyon.  Hungry and tired after their
 panicky charge, the cows and calves grazed on leftover crusts of
 winter snow.  The bulls jostled half-heartedly for position in the
 canyon's center.  As Big Blue began to slow, Noxy dug her hands into
-him and mind-spoke as firmly as she could.  *Faster!*
+him and mind-shouted, *Faster!  Faster!*
+
+The big old bull surged ahead.  Noxy heard him mind-roar a challenge
+to the other bulls.  "Hang on!" she shouted needlessly to the prince
+and the tiger.
+
+Big Blue plowed into the herd at top speed, knocking other clouds
+aside.  A young bull flung a flurry of snow at him, but missed and
+spattered another confused member of his own herd.  Within moments
+rain and snow were flying in all directions.
+
+Noxy glanced back over her shoulder and whooped.  Tasteless and the
+soldiers were right in the middle of the cloud brawl, just as she had
+hoped.  Even as she watched, one of the bulls slammed into the cow
+they were riding, tossing the archers into the air.
+
+*Down!* Noxy ordered.  *Down down down!*
+
+Big Blue dropped like a fluffy gray stone.  Kulbinder yowled and dug
+in his claws to avoid being left hanging in mid-air.  Thokmay clung to
+him, shouting something that Noxy couldn't hear above her own yell.
+
+They levelled off just a few strides above the ground.  "Are you
+mad!?" Thokmay demanded.
+
+"Could be!" Noxy said cheerfully as Big Blue banked and turned to head
+back the way they had come.
+
+Her smile faded as they sped north.  She had bought them some time,
+but that was all.  Whatever else Tasteless was, he wasn't stupid---he
+would figure out pretty quickly which way they had gone.
+
+"We need to find somewhere to hide," she told Thokmay, who was huddled
+next to Kulbinder in cold misery.
+
+"What we *need* is to turn around and head for Gandan," Thokmay
+replied.
+
+"I told you, we're going to find the grownups," Noxy replied wearily.
+
+"And what if we can't?" Thokmay asked quietly.  "Or what if we don't
+all make it?"  He nodded at the tiger, whose flank was rising and
+falling in quick, shallow gasps.
+
+"We'll make it," Noxy said, trying to sound as certain as she didn't
+feel.
+
+Then she looked back and her heart sank.  "Here they come again."
+
+She had no idea how Tasteless had managed to get his cloud back under
+control so quickly, but he had.  He was driving her hard, forcing her
+to stay bunched up against the headwind that was wearing Big Blue
+down.  At the pace they were going, he and the soldiers would catch
+them in minutes, and she was fresh out of tricks.
+
+But Thokmay wasn't.  "Take us back to the hut," he said.
+
+Noxy stared at him.  "Are you crazy?"
+
+Thokmay shrugged.  "Could be."  He scratched Kulbinder's ears gently,
+getting a small tail twitch but nothing more in response.  "But if the
+trolls are still there, maybe they won't be able to tell us apart.  Or
+maybe they won't care.  Either way..."  He shrugged again.

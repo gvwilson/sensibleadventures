@@ -2859,7 +2859,7 @@ I'll need you to be keeping still."  It was the escaped ranger!
 
 "Mmph!"  She struggled anyway, knowing it was hopeless---he was twice
 her weight, and as strong as he was lean.  He stank of stale sweat,
-woodsmoke, and most of all of urine.  He must have been hiding in the
+wood smoke, and most of all of urine.  He must have been hiding in the
 tanning shed, she realized, her thoughts strangely calm.  It was the
 one place where Kulbinder wouldn't be able to smell him.
 
@@ -3029,7 +3029,7 @@ Villagers who ventured out were sent back to their homes, the soldiers
 brushing aside protests about goofs that needed to be milked or
 spiderwebs that needed to be dried and carded.
 
-It was just a precaution, Sergeant Dorbu said, first to a stonefaced
+It was just a precaution, Sergeant Dorbu said, first to a stone-faced
 Indy, then to an irate Grappa Gas, and then finally to the small crowd
 that Colonel Bonzon finally agreed could gather in the square.  "But
 just one person from each household," the sergeant had added
@@ -3172,7 +3172,7 @@ hurt in her voice.  "When you first got here, did you know what her
 plan was?"
 
 Sergeant Dorbu shook his head.  "On my blood, I did not.  But that
-doesn't matter.  I beieve in her, Indy.  She's the first person since
+doesn't matter.  I believe in her, Indy.  She's the first person since
 the Angels to stand up for people like us.  If this is what we have to
 do to win, it's a small price to pay."
 
@@ -3243,10 +3243,10 @@ and reached into the gutter over his head.
 "Sh!"  Something clinked quietly as his fingers bumped into it.  He
 cursed under his breath.
 
-"Dont shush me!" Noxy said angrily.  "You tell me what's going on
+"Don't shush me!" Noxy said angrily.  "You tell me what's going on
 right now, or I'm going to call the soldiers!"
 
-"No you're not."  Noxy jumped again and spund around.  There, outlined
+"No you're not."  Noxy jumped again and spun around.  There, outlined
 by the bright light from the street behind him, stood Kulbinder.  The
 tiger's ears were flattened against his head, and his tail twitched
 from side to side in a way that froze the breath in Noxy's lungs.
@@ -3370,7 +3370,7 @@ be seen."
 "Yes, respected," Thokmay said with just a hint of sullen anger in his
 voice.
 
-Kulbinder shephered Noxy out of the jitty.  She blinked as the bright
+Kulbinder shepherded Noxy out of the jitty.  She blinked as the bright
 morning sun dazzled her eyes.  The two soldiers standing there looked
 annoyed rather than angry.
 
@@ -3411,7 +3411,7 @@ Her mother banged her teacup back down on the table.  "And don't 'yes
 *amma*' me.  It always makes me think you're planning something."
 
 "Yes, *amma*," Noxy repeated in exactly the same voice.  Her mother
-shot her a dark look, but then her scowl melted into limp smil.
+shot her a dark look, but then her scowl melted into limp smile.
 
 In the end they turned to Granna Fee.  Noxy rummaged through the
 pantry and packed whatever she could find into a pair of small wicker
@@ -3481,7 +3481,7 @@ Chogya---"
 "Choegyal," Granna Fee corrected.
 
 "Right, him.  If Dorbu won't do it, he will, and if *he* won't,
-they'll just promote someone else."  His scowl deepend.  "Like it or
+they'll just promote someone else."  His scowl deepened.  "Like it or
 not, we're on our own."
 
 "What about Tasteless?" Noxy asked hesitantly.  "Couldn't we---"
@@ -3585,7 +3585,7 @@ you know what's happening?" she asked.
 The soldiers shook their heads.  "No idea, respected," said the one
 Noxy recognized as a Canary.
 
-Indy's frown deepend.  "Wonderful," she said, her tone making it sound
+Indy's frown deepened.  "Wonderful," she said, her tone making it sound
 anything but.  "I *am* still mayor, you know, and it would be nice if
 people told me what was going on in my own village."
 
@@ -3705,7 +3705,7 @@ water.  She shouted for joy, then woke and realized that the shouts
 were real, and not hers.
 
 "*Amma*?" she called out blearily.  "*Amma*, what's going on?"  She
-shrugged into the scratchy woolen sweater that Sensy had knit for her
+shrugged into the scratchy woollen sweater that Sensy had knit for her
 as a Yearagain Eve present and stumbled downstairs.
 
 Her mother was peering out the half-open front door.  She shushed Noxy
@@ -4198,7 +4198,7 @@ He rolled up the blood-soaked bandage and set it down beside him.
 "Sorry."  Thokmay stuffed it into the sleeve of his uniform jacket
 as if it were a handkerchief.  "Anyway, my father's spymaster was
 already suspicious of Princess Shudarga, and wanted to send one of his
-agents to have a closer look, so..."  He shruggged again.  "Here we
+agents to have a closer look, so..."  He shrugged again.  "Here we
 are."
 
 "So you're a spy as well as a prince?" Noxy asked disbelievingly.
@@ -4217,7 +4217,7 @@ into the tiger's flesh, but other than twitching his tail, Kulbinder
 showed no sign that he even felt it.
 
 When it was over with, Thokmay splashed some water on his hands and
-wiped as much blood as he could onto the bandge, careful not to let
+wiped as much blood as he could onto the bandage, careful not to let
 any drip on the cloud.  "You look like you've done that before," Noxy
 said.
 
@@ -4293,7 +4293,7 @@ flurry of snow into the air.  The cows and calves behind them picked
 up on their agitation and shed snow of their own, until the air was a
 soup of wet white flakes whipped every which way by gusts of wind.
 
-The three travelers were soaked in minutes and shivering soon after.
+The three travellers were soaked in minutes and shivering soon after.
 "We'll freeze if we don't get out of this!" Thokmay said, shouting to
 be heard.
 
@@ -4319,7 +4319,7 @@ that hunted them both, and the occasional bear or troll with a taste
 for fresh squiddle.  But summer hadn't come yet, so the dancing water
 Noxy was familiar with was instead an angry torrent.  Fog from the hot
 springs that gave the canyon its name drifted in the air like scraps
-of wool, chilling the already-freezing travelers.
+of wool, chilling the already-freezing travellers.
 
 "How can you see in this?" Thokmay asked as a spur of rock suddenly
 appeared out of the mist.
@@ -4352,7 +4352,7 @@ the canyon.  Its walls were made of piled stones with moss and clay in
 the chinks to keep the wind out, and its roof was slats overlain with
 branches.  There were no windows, and a bamboo tube with a shingle cap
 served as as chimney.  If not for the thin wisp of smoke rising into
-the air, Noxy would have said it had been abandoned yeares ago.  Even
+the air, Noxy would have said it had been abandoned years ago.  Even
 with that, part of her hoped that it had...
 
 Big Blue descended gingerly into the cul de sac beneath the hut and
@@ -4573,7 +4573,7 @@ on top of a boulder, scratching its armpit in frustration.
 
 She turned back to Thokmay and Kulbinder, who had moved to the center
 of the cloud.  As Thokmay dabbed at the fresh blood soaking into the
-bandgage on Kulbinder's side, the tiger said, "Well done, both of
+bandage on Kulbinder's side, the tiger said, "Well done, both of
 you."
 
 "Thanks," Noxy said, sitting down beside them.  Before she could add,
@@ -4754,4 +4754,5 @@ Noxy stared at him.  "Are you crazy?"
 Thokmay shrugged.  "Could be."  He scratched Kulbinder's ears gently,
 getting a small tail twitch but nothing more in response.  "But if the
 trolls are still there, maybe they won't be able to tell us apart.  Or
-maybe they won't care.  Either way..."  He shrugged again.
+maybe they won't care."
+

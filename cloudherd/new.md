@@ -4732,9 +4732,9 @@ replied.
 
 "I told you, we're going to find the grownups," Noxy replied wearily.
 
-"And what if we can't?" Thokmay asked quietly.  "Or what if we don't
-all make it?"  He nodded at the tiger, whose flank was rising and
-falling in quick, shallow gasps.
+"And what if we can't?" Thokmay asked.  "Or what if we don't all make
+it?"  He nodded at the tiger, whose flank was rising and falling in
+quick, shallow gasps.
 
 "We'll make it," Noxy said, trying to sound as certain as she didn't
 feel.
@@ -4747,12 +4747,86 @@ to stay bunched up against the headwind that was wearing Big Blue
 down.  At the pace they were going, he and the soldiers would catch
 them in minutes, and she was fresh out of tricks.
 
-But Thokmay wasn't.  "Take us back to the hut," he said.
+But Thokmay wasn't.  "Take us back to the hut."
 
 Noxy stared at him.  "Are you crazy?"
 
 Thokmay shrugged.  "Could be."  He scratched Kulbinder's ears gently,
 getting a small tail twitch but nothing more in response.  "But if the
 trolls are still there, maybe they won't be able to tell us apart.  Or
-maybe they won't care."
+maybe they'll just pelt us both."
 
+"But---"
+
+"*Im awa pfa ta.*" It took Noxy a moment to realize the voice was
+Kulbinder's.  He opened one eye and looked at her.  "An old Bantangui
+saying.  It means, oh no, not this again."  His lips curled back to
+reveal the whites of his teeth.  "Do it."
+
+The soldiers were almost within bowshot again when Noxy steered Big
+Blue hard to the left into Three Springs Canyon.  There were fewer of
+them---at least two fewer than there had been.  In her mind's eye,
+Noxy imagined them tumbling off Tasteless's cloud as he barged into
+the herd.  She pushed her shakes away and focused on keeping Big Blue
+moving despite his exhaustion.  Clouds were made for long journeys,
+not for sprints and charges, and Big Blue's best days for either were
+long behind him.
+
+She loved the old cloud, she suddenly realized.  For all that she
+complained about how slow and sedate he was, he had been part of her
+life since she could walk---or even before, judging from Grappa Gas's
+occasional digs at her mother and the withering looks they earned him
+from Granna Fee.
+
+The now-familiar spur of rock loomed ahead.  Noxy closed her eyes and
+pictured Stale's walls rising straight and strong around her.  *Like
+that,* she mind-spoke.  With a weary, wordless acknowledgment, Big
+Blue began re-shaping himself.
+
+"What's happening?" Thokmay asked as ridges of cloud bunched up around
+them.
+
+"I'm giving us some cover," Noxy said.  "It won't stop any rocks or
+arrows, but at least they'll have to shoot blind."
+
+"But then we'll be blind too!"
+
+Noxy stroked Big Blue gently.  "Not me."  She closed her eyes and let
+the cloud's sight fill her eyes.
+
+*Sssst!*  The first arrow hissed overhead.  Thokmay twitched at the
+sound, but didn't say anything.
+
+*Deepen!* Noxy begged Big Blue.  The cloud beneath them immediately
+began to sag.
+
+"What?" Thokmay protested, a note of panic in his voice.
+
+"It's all right," Noxy told him without opening her eyes.  "They'll
+think we're at the same level as the rest of the cloud."  Then she
+remembered his fall and belatedly added, "Sorry, I should have warned
+you."
+
+*Sssst!*  The second arrow punched through the cloud wall a stride
+above their heads.  "That would have been nice," he said testily.
+
+The pursuing cloud drew closer.  She could see Tasteless now, standing
+near the front of the cloud, wide-legged and grinning.  He was
+enjoying this, she realized angrily.  The four archers in front of him
+were each down on one knee to steady themselves, drawing and aiming
+carefully as another soldier said, "Steady... Steady... Number three!"
+She flinched at the flat *whack!* of the bowstring.  The arrow flew
+too fast for the cloud's sight to follow, but she heard its hiss above
+them.
+
+"Rot it, where are the trolls?" she ground out through clenched
+teeth.  Then she took a deep breath.  *Up!* she mind-spoke.
+
+*Tired...* Big Blue replied muzzily.
+
+*I know, I know,* Noxy said.  The big cloud felt like he was going to
+fall apart below them.  She knew that couldn't actually happen, not
+while he was still alive, but she wished she could lend him her own
+strength.  If she could just---
+
+"Wait."  She didn't realize she said it aloud.  "Wait.  Maybe..."

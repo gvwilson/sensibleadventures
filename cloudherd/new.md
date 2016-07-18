@@ -4553,7 +4553,7 @@ Thokmay off his feet.
 the air, Kulbinder skidded on the rocks, rolled over, sprinted toward
 the cliff's edge, and threw himself into the air.
 
-## Chapter 13: The Birds
+## Chapter 13: Found
 
 "No!"  Thokmay dove forward and grabbed the tiger's paws as Kulbinder
 scrabbled to hold on, his hindquarters slipping slowly but surely off
@@ -4830,3 +4830,129 @@ while he was still alive, but she wished she could lend him her own
 strength.  If she could just---
 
 "Wait."  She didn't realize she said it aloud.  "Wait.  Maybe..."
+
+She closed her eyes and *reached* with her mind.  Except it wasn't
+like reaching with her hand, it was more like taking all of her own
+thoughts and putting them in a box so that there was space for other
+thoughts, quiet ones, so faint with distance and strangeness that she
+couldn't normally mind-hear them any more than she could hear ants
+walking along a windowsill or pine needles falling in the distance,
+except that wasn't right either.  She wasn't listening, she was, she
+was *sharing*, she was shaping herself to the other thoughts the way
+the clay had shaped itself to her hand when she was a little girl and
+a travelling Hett potter had spent a week in Stale and had made little
+squares just the right size for children's handprints and her mother
+had paid half a cowrie for two of them and the clay had been soft and
+grainy when she pushed her pudgy little hand into it, squishing up
+between her fingers until---
+
+*Down.*  She mind-spoke the command to the cloud Tasteless was riding
+as if she was telling her toes to wiggle or her fist to clench, and
+the cloud obeyed.  Moments later she heard shouts of surprise as the
+cloud dropped beneath Tasteless and the soldiers.
+
+She opened her eyes, and the connection was gone.  She swayed,
+suddenly dizzy, and would have fallen if Thokmay hadn't caught her
+arm.  "What just happened?" he demanded.
+
+"I... I... Her name is Little Beads," she replied, dazed.  "Because
+she likes making hail."  And then the world swam around her and she
+collapsed.
+
+"Noxy!  Noxy!"  Someone was shaking her.  Why were they doing that?
+Was it time for breakfast?  Why couldn't she just keep sleeping?
+
+Her thoughts unswirled back into focus.  She sat up, pushing his hand
+away weakly.  "I'm all right," she lied.  "How long was I...?"
+
+"Just a couple of heartbeats," he said.  "But I think the trolls---"
+
+A rock whistled over his head. "---are back," he finished.
+
+Someone shouted in the distance.  A troll hooted in response, then
+another, and then there was a scream, human or troll, she couldn't
+tell, as a rock or an arrow found its mark.  "Sounds like it your plan
+worked," Noxy said weakly.
+
+"Never mind that.  We've stopped moving.  And Kulbinder won't wake
+up.  He's bleeding again, and I can't make it stop.  What are we going
+to do?"
+
+"I don't know."  Noxy tried getting back on her feet, but it only made
+the world start swimming again.  She took a long, slow breath and held
+out her hand.  When Thokmay took it, she pulled herself up and put it
+on his shoulder to steady herself, just in time to yelp and duck as
+another rock flew by.
+
+Big Blue was out.  She could mind-hear that even without trying---he
+was so tired he could barely keep himself bunched together enough to
+support their weight.  In fact...
+
+"We have to get off," she said urgently.
+
+"What?  But Kulbinder can't---"
+
+"We have to get off *now*!"  Noxy squatted and grabbed the tiger's
+forelegs.  "Come on!"
+
+Kulbinder was lighter than he looked, but sagged awkwardly whenever
+they tried to pick him up.  Grunting and slipping and barking
+instructions at each other, they managed to wrestle him to the edge of
+the cloud.  "Hurry... Hurry..." Noxy muttered under her breath.  The
+wind had pushed Big Blue up against the steep-sided wall of the
+canyon, but she could feel him thinning out beneath them.  The only
+good news was that the handful of trolls throwing rocks in their
+direction were lousy shots.  She could hear the rest of the troop
+harassing the soldiers below, and the *sssst!* and howls of arrows
+being fired and finding their marks, but there was nothing she could
+do about that now.
+
+"There!" She pointed at a rounded bump of rock no bigger than her
+kitchen table.  "Get him onto that!  One... two... three!"
+
+The tiger's body landed on the rock with a thump.  Fresh blood oozing
+from the wound on his flank dripped onto the stone.  He stirred, then
+fell limp again, not even twitching when a stone bounced off the hard
+gray rock he was lying on.
+
+Thokmay scrambled up the slope a few paces and drew his sword.  "Keep
+him safe," he ordered, hefting his weapon.
+
+*How?* Noxy wondered, but she leaned over to cover the tiger's head
+and shoulders with her arms.  She yelped as a stone struck her arm.
+
+"Leave him alone!" Thokmay shouted furiously.
+
+An answering stone flew through the air and struck Kulbinder's back.
+"I said leave... him... *alone!*" the prince roared.  He charged up
+the slope, loose stones rolling away beneath his feet.
+
+*Twoo-eee!* Someone whistled two high, clear notes.  *Twoo-eee!*
+Noxy's heart almost stopped.  She knew that sound.  She *knew* that
+sound!
+
+A small gray bird flew past her head, then another and a third until a
+whole flock of mountain irvings were swirling around her.  *Twoo-eee!*
+Moving as if they were one creature instead of hundreds, the flock
+shot up the mountain, past a startled Thokmay, and dove at the trolls.
+Their hoots turned into panicked shrieks as the birds dove at them,
+pecking and tearing and flying away before the trolls could swat them.
+
+A boulder uphill shattered with a *crack!* like lightning.  The
+trolls' nerve broke.  As they scrambled for the treeline, hooting at
+each other in panic, someone shouted below her, "Get us out of here!"
+A heartbeat later she saw Tasteless's cloud---Little Beads, she
+thought, her names is Little Beads---racing down the canyon toward the
+pass, half the flock of irvings still harrying its riders.
+
+With a sound like a sheet being shaken out, the birds above them
+wheeled and flew away.  She raised her head.  A familiar figure, as
+bald as an egg and smiling like an idiot, was walking toward them from
+the direction of the little hut.  As Thokmay slipped and stumbled back
+down the slope, she stood up.
+
+The man halted a few strides away.  "Hello, daffodil."
+
+"Hi, *adda*."  She swallowed, her mouth suddenly dry.  "Um, this is
+Prince Thokmay of Gandan.  And the tiger is Kulbinder.  He's hurt.
+Um, Thokmay?  This is my dad."

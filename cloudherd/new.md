@@ -4951,8 +4951,68 @@ bald as an egg and smiling like an idiot, was walking toward them from
 the direction of the little hut.  As Thokmay slipped and stumbled back
 down the slope, she stood up.
 
-The man halted a few strides away.  "Hello, daffodil."
+The man halted a few strides away.  "Hello there."
 
 "Hi, *adda*."  She swallowed, her mouth suddenly dry.  "Um, this is
 Prince Thokmay of Gandan.  And the tiger is Kulbinder.  He's hurt.
-Um, Thokmay?  This is my dad."
+Um, Thokmay?  This is my dad, Ulfmaerr.  He's a magician"
+
+## Chapter 14: Lost and Found
+
+Ulfmaerr lifted Kulbinder as if the tiger weighed no more than a
+child.  He chatted lightly with Thokmay as he led them up the
+barely-visible path to his hut.  A prince of Gandan?  He was a long
+way from home.  Was Barramarrabee still there?  She was?  Excellent!
+She had quite the reputation---the prince must have seen her do
+wonders.  The birds?  Oh, that was harly wonderful at all.  "It's
+mostly in how you whistle," he explained.  "I'm half convinced that I
+wouldn't need a spell at all if I could get the notes right."
+
+He balanced on one foot for a moment while he pulled the door open
+with the other, then ducked his head to enter.  After laying Kulbinder
+down in front of the fireplace, his voice turned serious.  "That's
+quite a divot you have their, respected tiger," he murmured.  He
+placed a hand next to the wound and inhaled slowly.  "But not
+infected.  You."  He pointed at Noxy without turning his head to look
+at her.  "Fetch me the green bottle off that shelf, the one with the
+brown stopper."
+
+"Is he going to be all right?" Thokmay asked anxiously, hunkering down
+beside his companion.
+
+Ulfmaerr waggled his head from side to side in a familiar gesture that
+made Noxy's heart ache.  "Possibly.  Probably.  Yes, I think it more
+likely than not.  Ah, thank you."  He held out his hand to Noxy for
+the bottle without taking his eyes off his patient.  The glass stopper
+squeaked as he twisted it out.
+
+He took a quick swig and wiped his mouth on his sleeve before
+replacing the stopper and setting the bottle down.  "Right," he said
+softly.  "Let's see what we can do here."
+
+Kulbinder's wound didn't knit in front of Noxy's eyes.  The tiger
+didn't sparkle, either, and the air wasn't suddenly filled with the
+smell of scorched honey.  In fact, none of the things Noxy had read
+about in books about heroes and magicians and their adventures
+happened.  All that happened was that Kulbinder stirred and made a
+low, grumbling sound.
+
+Ulfmaerr relaxed.  "There," he said, sounding pleased.  "That will
+stop the bleeding."  He patted the tiger's flank.  "He's still
+strong.  I'm sure he'll heal up in no time."
+
+Thokmay folded his hands together in front of his chest and bowed.
+"Thank you, respected," he said humbly.
+
+"Oh, you're welcome, I'm sure," Ulfmaerr replied lightly.  "Now, who'd
+like some tea?  And if you don't mind me asking, do you have any idea
+why those trolls were so upset about you being here?  And the men on
+the other cloud that came with you---I must say, it was all very
+confusing."
+
+Thokmay glanced at Noxy.  When she made no move to speak, he cleared
+his throat and said, "Well, respected, that's a bit of a tale."  As
+the magician bustled about getting his kettle boiling and searching
+for a third mug ("I don't suppose the tiger will want any, do you?
+No?  No, I thought not."), the prince gave him an abbreviated version
+of the last few days.

@@ -4955,7 +4955,7 @@ The man halted a few strides away.  "Hello, daffodil."
 
 "Hi, *adda*."  She swallowed, her mouth suddenly dry.  "Um, this is
 Prince Thokmay of Gandan.  And the tiger is Kulbinder.  He's hurt.
-Um, Thokmay?  This is my dad, Ulfmaerr.  He's a magician"
+Um, Thokmay?  This is my father, Ulfmaerr.  He's a magician"
 
 ## Chapter 14: Lost and Found
 
@@ -5080,3 +5080,73 @@ door.  The flames in the fireplace crackled as they danced to one side
 for a heartbeat, then straightened and went back to their quiet
 conversation.  Thokmay set the pot of stew aside, scratched
 Kulbinder's ears for a moment, and said, "Spell price?"
+
+Noxy nodded, not trusting herself to speak for a moment.  "It was the
+scribbles," she said.  The plague had swept through the mountains when
+Noxy was six, carried by clockwise gulls blown off course by a storm
+or by wandering Hett smiths or maybe just the turn of the season.  At
+first it was just an itch that slowly worsened.  Then dark marks
+appeared on people's skin.  Over the course of a week, they condensed
+to form words written in an alphabet that no one recognized.  By this
+point the sufferer was feverish and unable to sleep.  Soon after, they
+were raving in some unknown tongue.
+
+"And then my father showed up and cured us," Noxy finished.  "A couple
+of people died in Duck Droppings before he could get there, and a
+handful more further up the pass, but he came to Stale first because
+that's where *amma* and I were.  At least, that's what everybody said
+afterward.  He wanted to save us, but now..."  She wiped her eyes with
+the back of her sleeve, not caring any more that the prince was
+watching.  "As far as he's concerned, I'll always be that six year old
+girl.  He can't see that I'm growing up, or that *amma* is going gray.
+He's just... stuck."
+
+"I'm sorry," Thokmay said quietly.
+
+Noxy forced a shaky laugh.  "You know the worst thing?"  She pulled up
+her sleeve to show the spiral of text running around her forearm.  "We
+still don't even know what it means."
+
+They sat in silence for a minute and listened to Kulbinder breath.
+"He gave me these," the prince said, touching the four parallel scars
+on his face with one finger.  "About a month after the princess raised
+her flag.  He told me not to try to escape until my father's army was
+close, but I was too scared to listen."
+
+"He---he did that because you didn't listen?"  Noxy gasped.
+
+Thokmay shook his head.  "I got caught.  The colonel---the one who was
+commanding the Canaries back then---he wanted to make an example out
+of me.  Kulbinder said I was his boy, and he'd take care of it, and
+then..."  Thokmay paused.  "He was so fast.  By the time I flinched,
+it was already over.  He asked the colonel if that was good enough,
+and the colonel said yes, and that was the end of it."
+
+"That must have been horrible."
+
+Thokmay shook his head again.  "Whatever the colonel had in mind would
+have been a lot worse.  A lot of soldiers were having second thoughts,
+and..."  He shrugged.  "He liked making examples out of people."
+
+He stared into the fire.  The flames made his eyes dance against his
+dark skin.  "The worst part of it was Sergeant Dorbu thinking I was a
+coward.  And now he thinks I'm a traitor too, or a spy."
+
+The little room was quiet again after that until Noxy yawned and
+stretched.  "Do you want the bed?"
+
+Thokmay glanced at the narrow cot.  "Isn't your father coming back?"
+
+"I don't think so.  He can't sleep when other people are around.
+Don't worry," she added, "He'll have somewhere else nearby.  He's
+pretty good at that sort of thing."
+
+In the end, Noxy wound up on the cot while Thokmay curled up on a
+couple of blankets next to Kulbinder.  As her weariness pulled her
+down into sleep, Noxy reached out with her mind for Big Blue.  *Mmm?*
+the cloud mind-mumbled, barely awake himself.
+
+*You were good today,* she mind-spoke.  *Really good.*
+
+*Mmm.*  The cloud sounded like he was already asleep again.  Within
+moments, Noxy was too.

@@ -4951,7 +4951,7 @@ bald as an egg and smiling like an idiot, was walking toward them from
 the direction of the little hut.  As Thokmay slipped and stumbled back
 down the slope, she stood up.
 
-The man halted a few strides away.  "Hello there."
+The man halted a few strides away.  "Hello, daffodil."
 
 "Hi, *adda*."  She swallowed, her mouth suddenly dry.  "Um, this is
 Prince Thokmay of Gandan.  And the tiger is Kulbinder.  He's hurt.
@@ -4965,30 +4965,30 @@ barely-visible path to his hut.  A prince of Gandan?  He was a long
 way from home.  Was Barramarrabee still there?  She was?  Excellent!
 She had quite the reputation---the prince must have seen her do
 wonders.  The birds?  Oh, that was harly wonderful at all.  "It's
-mostly in how you whistle," he explained.  "I'm half convinced that I
-wouldn't need a spell at all if I could get the notes right."
+mostly in how you whistle," he explained to Thokmay.  "I'm half
+convinced that I wouldn't need a spell at all if I could get the notes
+right."
 
 He balanced on one foot for a moment while he pulled the door open
 with the other, then ducked his head to enter.  After laying Kulbinder
 down in front of the fireplace, his voice turned serious.  "That's
 quite a divot you have their, respected tiger," he murmured.  He
 placed a hand next to the wound and inhaled slowly.  "But not
-infected.  You."  He pointed at Noxy without turning his head to look
-at her.  "Fetch me the green bottle off that shelf, the one with the
-brown stopper."
+infected."  He pointed to the prince without turning his head.  "If
+you would, respected, please fetch me the green bottle off that shelf,
+the one with the brown stopper."
 
 "Is he going to be all right?" Thokmay asked anxiously, hunkering down
-beside his companion.
+beside his companion as he handed the magician the bottle.
 
 Ulfmaerr waggled his head from side to side in a familiar gesture that
 made Noxy's heart ache.  "Possibly.  Probably.  Yes, I think it more
-likely than not.  Ah, thank you."  He held out his hand to Noxy for
-the bottle without taking his eyes off his patient.  The glass stopper
-squeaked as he twisted it out.
+likely than not."  The bottle's glass stopper squeaked as he twisted
+it out.
 
 He took a quick swig and wiped his mouth on his sleeve before
-replacing the stopper and setting the bottle down.  "Right," he said
-softly.  "Let's see what we can do here."
+replacing the stopper and handing the bottle back to Thokmay.
+"Right," he said softly.  "Let's see what we can do here."
 
 Kulbinder's wound didn't knit in front of Noxy's eyes.  The tiger
 didn't sparkle, either, and the air wasn't suddenly filled with the
@@ -5004,10 +5004,10 @@ strong.  I'm sure he'll heal up in no time."
 Thokmay folded his hands together in front of his chest and bowed.
 "Thank you, respected," he said humbly.
 
-"Oh, you're welcome, I'm sure," Ulfmaerr replied lightly.  "Now, who'd
-like some tea?  And if you don't mind me asking, do you have any idea
-why those trolls were so upset about you being here?  And the men on
-the other cloud that came with you---I must say, it was all very
+"Oh, you're welcome, I'm sure," Ulfmaerr replied lightly.  "Now, would
+you like some tea?  And if you don't mind me asking, do you have any
+idea why those trolls were so upset about you being here?  And the men
+on the other cloud that came with you---I must say, it was all very
 confusing."
 
 Thokmay glanced at Noxy.  When she made no move to speak, he cleared
@@ -5016,3 +5016,67 @@ the magician bustled about getting his kettle boiling and searching
 for a third mug ("I don't suppose the tiger will want any, do you?
 No?  No, I thought not."), the prince gave him an abbreviated version
 of the last few days.
+
+"Well, isn't that a thing?" Ulfmaerr said when Thokmay finished.  He
+massaged his bald scalp with one hand, frowning.  "And now you're,
+what, you're going to find Stale's cloudherds and get their help?  I
+suppose that makes sense, but how?  You're not a cloudherd yourself,
+are you?"
+
+"No, respected," Thokmay said, "But she is."  He nodded at Noxy.
+
+The magician looked at his daughter blankly, then laughed.  "What?  Oh
+no, no, you can't have---I mean, this is going to be quite dangerous.
+Already has been, from what you say.  You can't expect a child
+to---no, no, that's quite out of the question."  He shook his head
+vigorously, and then to Noxy's cringing embarrassment, leaned over and
+tousled her hair.
+
+As Ulfmaerr turned back to Kulbinder, Thokmay shot Noxy a questioning
+look.  "Later," she mouthed silently, patting the air with one hand.
+He nodded, then smiled insincerely when Ulfmaerr said, "Right, now who
+wants some dinner?"
+
+For all his magic, Noxy's father had never learned to do anything more
+complicated with food than boil it or fry it.  After watching him for
+a few minutes with ever-increasing frustration and dismay, Thokmay
+volunteered to make the meal, then insisted.  "To thank you for your
+hospitality, respected," he said.  "It's a lowland custom, you see---I
+would feel I was being rude if I did not."
+
+Noxy and Ulfmaerr sat in silence while the prince peeled, chopped,
+seasoned, and muttered.  "So," the magician finally said.  "Would you
+like me to tell you a story?  I swear it's mostly true."
+
+"Sure," Noxy said.  She leaned back against the wall and closed her
+eyes as her father began one of the Ruudian children's tales she had
+loved so much when she was little.  Once upon a time, the Prince of
+Cats decided to go and see the dragon...  She smiled at the funny
+parts, and was careful not to wipe the tears from her eyes when he was
+looking at her.
+
+Dinner was potatoes, two kinds of onions, and carrot shavings, all
+simmered together with a bit of salt and a precious little knob of
+ginger.  Ulfmaerr praised it lavishly, humming a little as he
+wolfed it down.  Noxy ate a full plate, but waved away Thokmay's offer
+of a second.
+
+"Well then," the magician said to Thokmay when they were finished.  "I
+should probably go and see if any of our trollish friends are still
+about."
+
+"Please, respected, I can do that," the prince said, rising.
+
+"No no no."  Ulfmaerr waved him down, standing as well.  "You should
+get some rest.  And besides, if they *are* still here, that sword of
+yours won't be nearly as much use as, well, you know."  He cracked a
+knuckle and grinned.
+
+"Yes, respected," Thokmay acquiesced, sitting back down beside
+Kulbinder.  The tiger stirred but didn't wake.
+
+A cold gust of wind swirled into the hut when Ulfmaerr opened the
+door.  The flames in the fireplace crackled as they danced to one side
+for a heartbeat, then straightened and went back to their quiet
+conversation.  Thokmay set the pot of stew aside, scratched
+Kulbinder's ears for a moment, and said, "Spell price?"

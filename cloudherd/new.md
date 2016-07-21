@@ -5130,7 +5130,7 @@ and..."  He shrugged.  "He liked making examples out of people."
 
 He stared into the fire.  The flames made his eyes dance against his
 dark skin.  "The worst part of it was Sergeant Dorbu thinking I was a
-coward.  And now he thinks I'm a traitor too, or a spy."
+coward.  And now he probably thinks I'm a spy, too."
 
 The little room was quiet again after that until Noxy yawned and
 stretched.  "Do you want the bed?"
@@ -5138,15 +5138,133 @@ stretched.  "Do you want the bed?"
 Thokmay glanced at the narrow cot.  "Isn't your father coming back?"
 
 "I don't think so.  He can't sleep when other people are around.
-Don't worry," she added, "He'll have somewhere else nearby.  He's
-pretty good at that sort of thing."
+Don't worry," she added wearily as Thokmay opened his mouth to object,
+"He'll have somewhere else nearby.  He's had a lot of practice at that
+sort of thing."
 
 In the end, Noxy wound up on the cot while Thokmay curled up on a
-couple of blankets next to Kulbinder.  As her weariness pulled her
-down into sleep, Noxy reached out with her mind for Big Blue.  *Mmm?*
-the cloud mind-mumbled, barely awake himself.
+couple of blankets next to Kulbinder.  As fatigue pulled her down into
+sleep, Noxy reached out with her mind for Big Blue.  *Mmm?* the cloud
+mind-mumbled, barely awake himself.
 
 *You were good today,* she mind-spoke.  *Really good.*
 
 *Mmm.*  The cloud sounded like he was already asleep again.  Within
 moments, Noxy was too.
+
+She woke in darkness.  The fire had gone out---a few stubborn coals
+still glowed dull red, but only when she didn't look straight at them.
+Kulbinder was snoring, and the wind whistled a soft, irregular tune
+through chinks in the hut's stone walls as it changed direction, then
+changed back.
+
+She lay still, hoping sleep would take her again, but the mug of tea
+she had drunk with dinner had other plans.  Sighing, she swung her
+legs over the side of the of the cot into her boots and laced them
+up.  Neither the prince nor the tiger stirred when she unlatched the
+door and slipped out into the night.
+
+Ulfmaerr was sitting on a stone a few paces away.  "Hello, daffodil,"
+he said absently, his knitting needles clicking busily in his hands.
+
+"Hi, *adda*," she yawned.  "What are you making?"
+
+He held up a strip of knitting the length and width of his forearm.
+"A scarf.  Winter will be here soon, you know."
+
+"Mm hm."  She yawned again.  "Who's it for?"
+
+The magician hesitated, a confused expression on his face.  "I... I
+don't know, I suppose it could be for anyone, really."  He stared at
+it.  "Someone who likes white and blue."
+
+*Amma's favorite colors,* Noxy thought.  What she said was, "That's
+nice.  I need to pee.  I'll be right back."
+
+He was still there when she returned a few minutes later, but had
+stood up to give his seat to a large owl.  She stopped, not knowing
+if she should approach or leave them in peace.  Ulfmaerr beckoned her
+forward.
+
+"Here she is," he said to the bird.  "Um..."
+
+"Noxy," she supplied.
+
+"Exactly.  I'd like to introduce you to Redclaw.  We've been friends
+for years.  Gifted, this is... um... the one I was telling you about,
+the cloudherd."
+
+"Respected," the owl said, bobbing her head.  Noxy bowed her own in
+return.
+
+"Redclaw was just telling me about a conversation he overheard,"
+Ulfmaerr said.  "Gifted, if you please?"
+
+"Of course."  The owl shuffled forward a couple of hopping steps and
+looked around as if to make sure no one was eavesdropping.  "I was
+just waking up, not looking to put my beak in anyone else's affairs,
+when who should I hear below me but Dragger.  Drags Down Trees With
+One Hand, I mean, the ogre, though why they call him that I certainly
+don't know, I don't think he could drag down much more than a sapling,
+and that with both hands."  She sniffed disapprovingly.  "Comes from
+spending all his time with trolls, if you ask me.  Like with like, I
+always say, like with like, isn't that right, Ulfamerr?"
+
+"Absolutely," the magician said, raising his finger to his lips before
+Noxy could point out that the owl was talking to a couple of humans.
+
+"Absolutely," the owl agreed.  "Anyhoot, he was *quite* unhappy about
+his encounter with some great cat or other, and about being pecked to
+pieces by a flock of irvings---those were his exact words, pecked to
+pieces.  I can only *imagine* what he would have said if it had been a
+flock of owls," she snickered.
+
+"I expect he wouldn't have been able to say anything except 'ow!,"
+Ulfmaerr observed with a wink.
+
+The owl blinked.  "What do you mean?"
+
+"If he'd been pecked by owls," Ulfmaerr explained good-naturedly.
+"All he would be able to say would be 'ow'."
+
+The owl reared back.  "Are you suggesting we would have taken his
+*tongue*?" she demanded icily.  "Respected, that's disgusting---truly,
+disgusting."
+
+"No no no," Ulfmaerr said hastily, patting the air with his hands.  "I
+just meant that a flock of owls would have given him a much more
+thorough pecking."
+
+"Hm."  The owl studied him skeptically for a moment, then ruffled her
+wings as if shrugging. "If you say so.  Anyhoot, there he was,
+grumbling and whining, when who do you suppose came swinging through
+the trees?"
+
+"Who?" Ulfmaerr asked.
+
+"Linger," the owl whispered loudly.
+
+"No!" Ulfmaerr said, doing his best to sound shocked.
+
+"Yes!" the owl hissed.  "It was Linger himself.  I've never heard of
+him coming anywhere *nearly* this shallow before, not in all my years,
+but there he was."
+
+"Wait, who's Linger?" Noxy asked, confused.  "And what do you mean,
+shallow?"
+
+The owl ruffled her feathers again.  "Shallow as in not deep," she
+said with the same impatient tone in her voice that Noxy had often
+used when explaining something obvious to Little Gas.  "Linger keeps
+to the deep forest---the deep, *deep* forest, places where men and
+metal have never gone.  Coming out here, where the trees can barely
+hear each other, well, if I hadn't seen it myself, I wouldn't have
+believed it."  She shook her head.  "Wouldn't have believed it at all,
+and I'll believe almost anything."
+
+"But who *is* he?" Noxy asked again.
+
+"He's the voice of the forest," Ulfmaerr replied, suddenly serious
+again.  "He's the one the Gifted turn to when they need to make a
+decision.  And if he sent Dragger here, you're in a lot more trouble
+than I realized."

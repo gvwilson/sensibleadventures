@@ -5182,9 +5182,9 @@ it.  "Someone who likes white and blue."
 nice.  I need to pee.  I'll be right back."
 
 He was still there when she returned a few minutes later, but had
-stood up to give his seat to a large owl.  She stopped, not knowing
-if she should approach or leave them in peace.  Ulfmaerr beckoned her
-forward.
+stood up to give his seat to a large tufted owl.  She stopped, not
+knowing if she should approach or leave them in peace.  Ulfmaerr
+beckoned her forward.
 
 "Here she is," he said to the bird.  "Um..."
 
@@ -5264,7 +5264,81 @@ and I'll believe almost anything."
 
 "But who *is* he?" Noxy asked again.
 
-"He's the voice of the forest," Ulfmaerr replied, suddenly serious
-again.  "He's the one the Gifted turn to when they need to make a
-decision.  And if he sent Dragger here, you're in a lot more trouble
-than I realized."
+"He's the voice of the forest," Ulfmaerr replied, suddenly serious.
+"He's the one the Gifted turn to when they need to make a decision.
+And if he sent Dragger here, you're in a lot more trouble than I
+realized."
+
+"Well, well, circle around a bit there, I didn't say he sent Dragger,
+I just said I saw them talking."  She shifted her weight back and
+forth nervously.  "Truth be, I didn't perch around to listen to what
+they had to say.  Wherever Linger is, other trolls aren't far behind,
+and, well..."  She twisted her head to look behind her, then leaned
+forward and whispered, "They'll eat *anything*."
+
+"You poor thing," Ulfmaerr said sympathetically.  "That must have been
+quite frightening."
+
+The owl preened her chest with her beak in a quick gesture that in a
+human being might have been a shrug.  "Yes, well, no harm done, no
+harm done.  Was that everything you needed?"
+
+"Everything and more."  He fished in his satchel for a piece of dried
+pear and set it down on the stone beside her.  "And here's a little
+something for the road."
+
+The owl looked up at him skeptically again.  "I'm not going to use the
+road.  I'm going to fly."
+
+"Well then, something for the flight," Ulfmaerr replied, his smile
+stuck in place.
+
+"Hm."  The owl picked up the fruit with one claw and winged away into
+the night as silently as a cloud.
+
+"She is quite the character," Ulfmaerr chuckled as he re-seated
+himself.  "Although that's worrying news.  Dragger is quite the
+bruiser---he's been tossed out of more than one troop for picking
+fights, and the trolls who hang around him aren't exactly the pick fo
+the litter, if you know what I mean."  He paused a moment to pull his
+knitting out of his satchel.  "Why would Linger have anything to do
+with him?"
+
+Noxy shivered.  The night air was cold enough to turn her breath to
+steam.  Even her coat couldn't keep the chill out.  "I'm going to go
+back in."
+
+"What?  Oh, of course."  Ulfmaerr nodded toward the hut.  "Sleep
+well."
+
+"You too," she replied.
+
+Just as she turned to leave, something whooshed over her head.
+"Humans!" a now-familiar voice screeched.  "Respected, there are
+humans in the canyon!"
+
+Ulfmaerr stood up hurriedly, his needles and yarn still in his hands.
+"Are you sure?"
+
+Redclaw circled steeply and landed back on the stone she had vacated
+just moments before.  "Of course I'm sure," she said crossly.  "They
+were on a couple of clouds.  Some of them were getting off.  They had
+bows."  She gasped.  "Why, I just realized---they had *bows*!  What if
+they had seen me?  I could have been killed!  Humans don't always ask
+questions first, you know," she added darkly, casting a sidelong
+glance at Noxy.
+
+Noxy ignored the look.  "You said a couple of clouds?  Like, two?"
+
+"Yes, that's normally what a couple means," the owl replied testily.
+She rustled hear feathers.  "First Dragger, then Linger, now this.
+Honestly, respected, the company you keep."
+
+She was gone again before the magician could reply.
+
+"Get the others up and ready to move," Ulfmaerr ordered Noxy.  "If the
+tiger's well enough to walk, we might be able to lose them in the
+forest."
+
+"And if he's not?" Noxy asked, scrambling to keep up with him as he
+hurried back toward the hut.  He didn't answer.

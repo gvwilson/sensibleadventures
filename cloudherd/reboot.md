@@ -188,8 +188,6 @@
     come back, Granna Fee will be next.  Noxy is about to give in when
     birds start flying around them - they've found Ulfmaerr.
 
----
-
 15. [plot development + heartbreak / day 5] Ulfmaerr drives off
     Tasteless.  Noxy and the others land.  They talk to Ulfmaerr, who
     lives in a new cave (an old spell price prevents him sleeping in
@@ -202,6 +200,8 @@
     about Noxy's conrol of Tasteless's cloud; Noxy explains what she's
     afraid of.  Noxy falls asleep hearing Tasteless's cloud in the
     distance.
+
+--
 
 16. [conflict + fight / day 5] Kulbinder wakes Noxy to say that
     soldiers are coming - Tasteless must have ferried them in.  Dorbu

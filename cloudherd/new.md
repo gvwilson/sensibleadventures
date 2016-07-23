@@ -5342,3 +5342,64 @@ forest."
 
 "And if he's not?" Noxy asked, scrambling to keep up with him as he
 hurried back toward the hut.  He didn't answer.
+
+## Chapter 15: Into the Depths
+
+"He *can't*!" Noxy snapped a few minutes later.  "He just can't, all
+right?  I pushed him too hard yesterday.  If we try to ride him now,
+we won't get a hundred strides before he thins out and drops us all."
+
+She was almost in tears.  The sun was just starting to paint a sharp
+outline around the peaks of the mountains to the east.  The soldiers
+that were hunting them would be moving soon.  She knew they should be
+on Big Blue and away, but the instant she laid her hand on him, she
+knew that wasn't going to happen.  The big old cloud was so tired that
+he could barely mind-speak a fuzzy, "Mm?"  His flanks were so foggy
+that every gust of wind blew tufts of him away.  If Grappa Gas or
+Granna Fee or, rot and ruin, if her *mother* saw the shape he was in,
+she'd be dredging privies for a year, and lucky to ever be allowed on
+cloudback again.
+
+Kulbinder growled.  Ulfmaerr's magic had closed and scarred his wound
+while he slept, but he still favored his left hindleg when he walked.
+"Well, we can't stay here.  Your Highness?"
+
+Thokmay looked bleakly at the cloud.  "If Noxy says we can't fly, then
+we walk."
+
+Kulbinder's upper lip twitched back to reveal sharp teeth.  "We can't
+outrun them."
+
+"We won't have to," Ulfmaerr said, coming up behind them.  He had
+traded his satchel for a sturdy traveller's pack and a bamboo staff
+capped with steel at both ends.  "If we hike up there," he pointed
+with his staff, "We can be in the deep forest in an hour.  The trees
+will hide us from any eyes they have in the air, and they won't be
+able to move any faster through the trees than we can."
+
+"Maybe not faster than you," the tiger rumbled.  "But the children
+won't be able to---"
+
+"Forgive me, respected," Thokmay interrupted, "But we're not
+children.  And we can keep up if you can."
+
+He and the tiger locked eyes.  The tiger looked away first.  "As you
+say, Your Highness."  He stretched and padded away, still favoring his
+leg.
+
+"Huh," Thokmay said, suddenly grinning.  "That's the first time I've
+ever beaten him at one of those."
+
+They walked single file along the path that led upward from Ulfmaerr's
+hut.  It disappeared sometimes beneath loose scree that had slid down
+the mountainside during the winter.  A tiny stream, fast and clear and
+bitterly cold, cut across it several times, disdainful of the path's
+slow switchbacks in its hurry to reach the canyon.
+
+Noxy's breath fogged with every step.  When she glanced back, she saw
+speckles of ice on the stubble on Thokmay's chin and upper lip.  He
+smiled at her, teeth white against his dark skin.  She forced herself
+to smile back, still worrying about Big Blue.  She had told the cloud
+to go home, but he had just mind-mumbled again.  *There's nothing else
+you can do,* she told herself, but it sounded all too much like she
+was rehearsing excuses.

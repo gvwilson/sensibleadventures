@@ -5372,10 +5372,10 @@ outrun them."
 
 "We won't have to," Ulfmaerr said, coming up behind them.  He had
 traded his satchel for a sturdy traveller's pack and a bamboo staff
-capped with steel at both ends.  "If we hike up there," he pointed
-with his staff, "We can be in the deep forest in an hour.  The trees
-will hide us from any eyes they have in the air, and they won't be
-able to move any faster through the trees than we can."
+capped with steel at both ends.  "If we hike up there," he pointed,
+"We can be in the deep forest in an hour.  The trees will hide us from
+any eyes they have in the air, and they won't be able to move any
+faster through the trees than we can."
 
 "Maybe not faster than you," the tiger rumbled.  "But the children
 won't be able to---"
@@ -5400,6 +5400,83 @@ Noxy's breath fogged with every step.  When she glanced back, she saw
 speckles of ice on the stubble on Thokmay's chin and upper lip.  He
 smiled at her, teeth white against his dark skin.  She forced herself
 to smile back, still worrying about Big Blue.  She had told the cloud
-to go home, but he had just mind-mumbled again.  *There's nothing else
-you can do,* she told herself, but it sounded all too much like she
-was rehearsing excuses.
+to go home, but he had just mind-mumbled dozily again.  *There's
+nothing else you can do,* she told herself, but it sounded all too
+much like she was rehearsing excuses.
+
+The next time she glanced back, she saw sunlight twinkle on metal.
+"There they are," she puffed, dropping to the ground cross-legged to
+catch her breath.  Kulbinder stretched out beside her with Thokmay on
+his other side.  Ulfmaerr leaned on his staff, but showed no other
+sign of fatigue.
+
+Thokmay shaded his eyes with his hand and counted by twos under his
+breath.  "Sixteen," he reported.  "But I can't see who's who from this
+far away."  He struggled to his feet.  "And I think they just spotted
+us."
+
+Sure enough, one of the tiny figures below them was pointing up the
+mountain in their direction.  Noxy stood, her legs protesting.
+Without a word, the foursome resumed their climb.
+
+Noxy began counting her strides.  Ten got her from this rock to that
+one, so *that* rock would be... a hundred?  Left, right, left,
+right... A hundred and eight, unless she had counted the nineties
+twice.  That patch of ice looked to be about the same distance, so---
+
+*Keee!*  She shrieked and ducked as something swift and dark screeched
+and swooped over her head.  Thokmay drew his sword with a curse, but
+the hawk was already far out of reach.  It circled above them.
+
+"Magician!  Can you bring it down?" Kulbinder demanded, gathering
+himself as if to pounce.
+
+Ulfmaerr shook his head, hefting his staff.  "No more than you,
+respected," he said.  "Is it Gifted?"
+
+"How would I know?" the tiger growled.  "There are rather a lot of us,
+you know."
+
+The hawk screeched again.  "It's a spotter," Thokmay said, sheathing
+his sword.  "My father uses them to track prey when he's hunting.
+We'll have to try to lose it once we reach the forest.  Come on."  He
+set off once again, not looking back to see if the others were
+following.
+
+Noxy didn't bother to count her steps any longer.  She kept telling
+herself not to look back, or to check if the hawk was still above
+them, but she couldn't help herself.  Every time the bird screeched
+she jumped a little and looked over her shoulder.  And every time, the
+soldiers seemed to be a little closer.
+
+They were struggling up a particularly steep stretch of the path when
+Kulbinder slipped.  He scrabbled at the bare stone, his claws unable
+to find purchase, before sliding back several strides.  Thokmay
+quickly hurried to his side.  "Are you all right?" he asked.
+
+"No, Your Highness, I am not," the tiger snapped.  "I haven't eaten
+since yesterday and my leg feels like something is poking it with a
+very sharp stick.  But we must keep moving."
+
+"Wait."  Ulfmaerr crouched down and laid his hand on the tiger's
+flank.  Kulbinder flinched but didn't pull away.
+
+"You won't be able to go much further," the magician said.  He looked
+back the way they had come, but the soldiers were momentarily hidden
+by a turn in the trail.
+
+"Then you must leave me," Kulbinder rumbled.  "All that matters is
+getting His Highness to safety."
+
+"No!" Thokmay protested.
+
+"No," Ulfmaerr said at the same moment, raising a hand to forestall
+whatever the prince might have said next.  The magician bowed his head
+and muttered for a moment, then without warning scooped Kulbinder up
+and slung him over his shoulders like a cape.
+
+"Rraawwrr!"  The tiger thrashed and twisted.  "Put me *down!*"
+
+"I think not," Ulfmaerr said.  He fished around inside his mouth for a
+moment with his tongue, then leaned forward and spat a tooth onto the
+path.  "You two, follow me."

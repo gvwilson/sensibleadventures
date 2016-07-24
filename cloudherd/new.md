@@ -5440,10 +5440,30 @@ you know."
 The hawk screeched again.  "It's a spotter," Thokmay said, sheathing
 his sword.  "My father uses them to track prey when he's hunting.
 We'll have to try to lose it once we reach the forest.  Come on."  He
-set off once again, not looking back to see if the others were
-following.
+turned to set off once again.
 
-Noxy didn't bother to count her steps any longer.  She kept telling
+"Wait!"  Noxy grabbed his arm, kicking herself mentally for not asking
+the obvious when they first set out.  "The owl said they came in on
+two clouds.  Where are they?"
+
+Then she answered her own question in time with Thokmay.  "Up ahead."
+
+The prince looked up at the hawk again with something like hatred in
+his eyes.  "It's not a spotter.  They're driving us."  He frowned.
+"But why not just put soldiers down right above the hut?"
+
+*Because Tasteless lost control of his cloud yesterday,* Noxy
+realized, but she couldn't say that without explaining how she knew.
+And if she explained that, she'd have to tell them that she could
+mind-speak to clouds from a distance, and she wasn't ready to do that.
+"Maybe they're scared of my *adda*," she ventured.  "I mean, after the
+flock of irvings yesterday..."
+
+Thokmay glanced at Ulfmaerr, then at Kulbinder.  The tiger flicked an
+ear.  "Maybe," he rumbled.  "But whatever the cause, we must expect an
+ambush.  Lead on, Your Highness."
+
+Noxy didn't bother to count her steps after that.  She kept telling
 herself not to look back, or to check if the hawk was still above
 them, but she couldn't help herself.  Every time the bird screeched
 she jumped a little and looked over her shoulder.  And every time, the
@@ -5478,5 +5498,44 @@ and slung him over his shoulders like a cape.
 "Rraawwrr!"  The tiger thrashed and twisted.  "Put me *down!*"
 
 "I think not," Ulfmaerr said.  He fished around inside his mouth for a
-moment with his tongue, then leaned forward and spat a tooth onto the
-path.  "You two, follow me."
+moment with his tongue, leaned forward, and spat a tooth onto the
+path.  "You two follow me."  With no more ceremony than that, he set
+off up the path once again, the furious tiger bouncing on his
+shoulders, leaving the price of the spell for strength lying lost
+among the rocks and stones on the path.
+
+The sun was a handspan above the peaks behind them when they reached
+the top of the ridge.  Noxy had flown over mountains like these many
+times, but somehow climbing them made her feel like she was higher
+than she had ever been.  Three Springs Canyon stretched left and right
+below her, so crisp it might have been a painting.  The rebel soldiers
+were in sight again, four bunches of four spaces a few dozen strides
+apart, climbing steadily.
+
+Ulfmaerr went on one knee and set Kulbinder down.  The tiger sprinted
+a few steps away before sitting on his haunches with his back to the
+three humans and starting to clean himself.  "Well, you're welcome,
+I'm sure," the magician muttered, taking his staff back from Thokmay.
+
+Noxy closed her eyes.  If the rebels really had put soldiers ahead of
+them to lay an ambush, then...  There.  She opened her eyes in shock,
+and didn't realized she had gasped until Thokmay said, "Noxy? What's
+wrong?  Wait!  Where are you going?"
+
+She ignored him as she raced along the crest of the ridge, fear
+squirming in her gut.  "Noxy!"
+
+She stopped at the edge of the ridge and looked down into the narrow
+ravine below.  Two clouds floated there, each with a cloudherd and a
+pair of soldiers sitting on it.  The larger was Little Beads.  The
+second was Pillow, Stale's own Pillow.  She'd know the old cow
+anywhere.  And she'd know its herder too.
+
+"Noxy!"  Thokmay grabbed her arm.  "What are you---oh.  Rot."  He bent
+over with his elbows on his knees to catch his breath.
+
+"It's Grappa Gas," Noxy said stupidly.  "What's he doing here?"
+
+"What?"  Thokmay stared down at the clouds and their passengers.  As
+he did so, Tasteless raised an arm and waved as if they were friends
+passing each other on their way to market.

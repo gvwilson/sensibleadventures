@@ -135,9 +135,9 @@ happening?  Why did you---mmph!"
 
 Before Young Gas could protest, the hairy creature who had been
 watching leaped for the nearest branch and swung himself up into the
-tree.  He paused for a moment to study the trio again, his fur more
-gray than brown and his eyes old and sad, then disappeared into the
-greenery.
+tree.  He paused for a moment to study the trio again, his gray fur
+silvered with age on his head and shoulders and his eyes old and sad,
+then disappeared into the greenery.
 
 Sensy was the first to speak.  "Wh-what's a troll doing *here*?" she
 asked shakily.
@@ -5343,7 +5343,7 @@ forest."
 "And if he's not?" Noxy asked, scrambling to keep up with him as he
 hurried back toward the hut.  He didn't answer.
 
-## Chapter 15: Into the Depths
+## Chapter 15: Ambushed
 
 "He *can't*!" Noxy snapped a few minutes later.  "He just can't, all
 right?  I pushed him too hard yesterday.  If we try to ride him now,
@@ -5668,4 +5668,69 @@ The two glared at each other.  "Damn it, Kulbinder," Sergeant Dorbu
 started.  Whatever else he might have said was cut short by a meaty
 thump as a rock the size of his head hit him squarely in the chest and
 sent him tumbling backward down the mountain.  The tiger struggled to
-his feet and half-ran, half-limped to the trees.
+his feet and half-ran, half-limped to the trees.  The trolls streamed
+back into the forest behind him, scrambling over the rocks until they
+could clamber up the twisted trunks of the mountain pines.
+
+There was no track or path that Noxy could see, but Ulfmaerr led them
+forward without hesitation.  Heavy gray shapes rustled through the
+branches above and around them.
+
+"Stop!"  Kulbinder said.  A few strides ahead, sunlight shone through
+a gap in the trees where a small stream tumbled down the mountainside.
+The tiger crept forward, flowing from shadow to shadow, and studied
+the sky.
+
+"Can you see it?" Ulfmaerr asked, sounding as fresh as he had when
+they set out that morning.
+
+"No," Kulbinder growled, "But it's up there."  He glared at the stream
+as if it were yet another enemy.  "We'll have to chance it."  He
+glanced over his shoulder at Thokmay and Noxy.  "In a heartbeat," he
+amended.
+
+"Thank you," Thokmay wheezed.  He was leaning against a tree, trying
+clumsily to to sheathe his sword as his lungs tried to catch up with
+the rest of him.  Noxy had simply slumped to the ground two trees
+over.
+
+Thokmay finally managed to slide his sword into his scabbard.  He
+wiped his forehead with his sleeve, then looked at Noxy and grinned
+weakly.  "Well, that was exciting."
+
+She forced a shaky laugh.  "Just a regular day around here."  She
+forced herself to her feet and held out a hand to help him up.  "Come
+on."
+
+The foursome waited until Kulbinder growled, "Now," then sprinted
+across the narrow treeless gap side by side.  Ulfmaerr took the lead
+again once they were back in the trees.  Noxy looked up every once in
+a while, but could neither see nor hear any sign of trolls.  *Which
+means absolutely nothing,* she reminded herself.  The deep forest was
+their home, and they could move silently when they wanted to.
+
+There was no question they were in the deep now.  The trees were no
+larger than those around Stale, but strings of greenish-white
+ghostbeard moss hung from their branches.  Here and there a fallen
+tree lay rotting on the mountainside, or was propped up where it had
+been caught by other trees as it fell.  The ground beneath them felt
+slightly spongy in places, almost like a cloud.  It wasn't until her
+boot sank in up to her ankle that Noxy realized the soil was made
+completely of compacted needles and rotting wood that had been pressed
+and stirred and pressed again by years of snow and rain.
+
+She had no idea how far they had come or what time it was when
+Ulfmaerr called a halt.  They drained his canteen and shared out the
+hard cheese and dried fruit from his pack.  "So where do we go now?"
+Thokmay finally asked.
+
+"Ya depends a thee," a voice answered from the trees.  Branches
+rustled as a trio of burly trolls emerged among the branches above
+them.  A fourth troll joined them.  His gray fur was silvered with age
+on his head and shoulders.  He smiled at Ulfmaerr, then turned his
+gaze on Noxy.  "Ya depends a thee," he repeated.
+
+Noxy's breath caught in her throat.  She recognized the troll---he was
+the one she had seen when the soldiers first arrived in Stale.
+
+"Hello, Linger," her father said.

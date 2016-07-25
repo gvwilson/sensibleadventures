@@ -5594,7 +5594,78 @@ Loose rock clattered above them.  Noxy shot a look over her shoulder.
 Four more soldiers had appeared on the ridge and were making their way
 down to join them, swords and bows in their hands.  Her heart sank.
 They wouldn't get ten strides if they tried to run.  *At least I'll
-get to rest,* she thought, immediately angry at herself for thinking
-it.
+get to rest,* she thought despairingly.
 
-That was when the rocks suddenly started flying.
+That was when the rocks started flying.  The only warning was a single
+loud hoot, and then the soldiers were shouting and ducking as trolls
+hidden among the rocks ambushed them in turn.  One stone thonked
+against Sergeant Dorbu's helmet, making him stagger.  Others knocked
+the archers' bows from their hands.
+
+"Make for the trees!"  Ulfmaerr shouted. "Go! Go! Go!"  He charged
+downhill, bellowing incoherently and waving his staff.  His companions
+slid and skidded down the rocks behind him with, shouting and roaring.
+Noxy's shout only grew louder when an arrow loosed by the soldiers
+behind them ricocheted off a rock beside her.
+
+A young troll popped up out of nowhere to caper on a rock just an
+arm's reach from Noxy.  Baring his teeth, he threw a stone past her
+ear to shatter against a boulder next to Sergeant Dorbu.  The sergeant
+ducked the sharp-edged fragments without taking his eyes off the
+prince.  At just the right moment he flung himself sideways to tackle
+the younger man.
+
+But he had forgotten Kulbinder.  As the sergeant leaped, so did the
+tiger.  The two collided in mid-air and fell clumsily to the ground.
+
+Thokmay skidded to a halt. "Kulbinder!"
+
+"Run!" the tiger roared, rolling back onto his feet as Sergeant Dorbu
+got to his.  "Run, Your Highness, run!"
+
+Thokmay drew his sword and charged at Sergeant Dorbu instead.  The
+sergeant knocked the prince's blade aside with his own and spun back
+to fend off the tiger in the same motion.  "Get behind them!" he
+shouted to the other soldiers as he ducked another stone.
+
+The tiger feinted toward Sergeant Dorbu, scrambling back with a snarl
+when the sergeant cut at him.  "Get to the trees!" he roared at
+Thokmay.  "Now!"
+
+It was too late.  One of Sergeant Dorbu's men was still down, knocked
+unconscious by a lucky throw, but the archers had drawn their swords
+and chased the trolls away long enough to go after Thokmay.  Suddenly
+outnumbered, the prince stumbled backward, his sword clanging against
+theirs as he desperately fended off their blows.
+
+Noxy watched from the treeline as he gave ground step after step.  The
+four soldiers who had been on the ridge would be on him in moments,
+and then it would all be over.  "Help him!" she begged her father.
+
+He hefted his staff.  "How?"
+
+She stamped her foot.  "I don't know!  You're the magician!"
+
+"I'm not made of teeth!" he snapped.
+
+At that moment the forest around them seemed to explode.  Dozens of
+trolls burst out of the trees and raced uphill, hooting and screaming.
+Noxy saw the oncoming soldiers' eyes go wide as a flood of gray fur
+swept torward them.
+
+The soldiers facing Thokmay spun around at the sound.  Seizing the
+distraction, the prince charged at the nearest, knocking his sword
+aside with a wild blow as he ran for the trees.  "Go!" Kulbinder
+roared one last time.  He threw himself at Sergeant Dorbu---
+
+---and yowled as his wounded leg buckled beneath him, turning his leap
+into a clumsy tumble.  Sergeant Dorbu was on him in a heartbeat.  He
+thrust his sword against the tiger's throat.  "Yield!" he demanded.
+
+Ears back, the tiger spat, "No!"
+
+The two glared at each other.  "Damn it, Kulbinder," Sergeant Dorbu
+started.  Whatever else he might have said was cut short by a meaty
+thump as a rock the size of his head hit him squarely in the chest and
+sent him tumbling backward down the mountain.  The tiger struggled to
+his feet and half-ran, half-limped to the trees.

@@ -5523,19 +5523,78 @@ and didn't realized she had gasped until Thokmay said, "Noxy? What's
 wrong?  Wait!  Where are you going?"
 
 She ignored him as she raced along the crest of the ridge, fear
-squirming in her gut.  "Noxy!"
+squirming in her gut.  She stopped at the edge of the ridge and looked
+down into the narrow ravine it overlooked.  Two clouds floated there,
+each with a cloudherd and a pair of soldiers sitting on it.  The
+larger was Little Beads.  The second was Pillow, Stale's own Pillow.
+She'd know the old cow anywhere.  And she'd know its herder too.
 
-She stopped at the edge of the ridge and looked down into the narrow
-ravine below.  Two clouds floated there, each with a cloudherd and a
-pair of soldiers sitting on it.  The larger was Little Beads.  The
-second was Pillow, Stale's own Pillow.  She'd know the old cow
-anywhere.  And she'd know its herder too.
-
-"Noxy!"  Thokmay grabbed her arm.  "What are you---oh.  Rot."  He bent
-over with his elbows on his knees to catch his breath.
+"Noxy!"  Thokmay grabbed her arm.  "What are you---oh."  He stared
+down at the clouds and their passengers in dismay.
 
 "It's Grappa Gas," Noxy said stupidly.  "What's he doing here?"
 
-"What?"  Thokmay stared down at the clouds and their passengers.  As
-he did so, Tasteless raised an arm and waved as if they were friends
-passing each other on their way to market.
+Below, Tasteless raised an arm and waved as if they were friends
+passing each other on their way to market.  As the soldiers beside the
+cloudherd stood, Thokmay raised his own arm in a gesture that was
+anything but friendly.
+
+"I'd give the crown for a bow right now," Thokmay muttered.
+
+"Me too," Noxy agreed, oblivious for the moment to the fact that she
+didn't actually have a crown and had never fired a bow in her life.
+"But what's he *doing* there?  He's on your side!"
+
+"Worry about that later," Thokmay said, tugging her away.  "We have to
+keep moving.  And keep our eyes open---they *have* to be setting up an
+ambush."
+
+The trail ran half a gallop along the top of the ridge.  Some
+stretches were so narrow that they had to go single file with
+cliff-steep dropoffs to the left and right.  Kulbinder insisted on
+taking the lead on those despite his injury, pacing ahead of them in
+case the rebel soldiers had somehow found a way to hide among the few
+pebbles that the scouring wind had left behind.  The valleys on either
+side were dense and dark with shadowed evergreens, but the only other
+living thing at their height was the ever-circling hawk.
+
+Ulfmaerr stopped them when they reached a small marker made of
+head-sized stones piled in a loose pyramid.  "Down that way," he
+pointed.  The forest beneath them looked no different to Noxy than
+anything else they had seen, but her father was already trotting and
+skidding down the steep path, dragging his staff behind him like a
+ship's rudder to steer.
+
+They were halfway to the forest when four of the boulders next to the
+path threw off their gray blankets and stood up to bar the path.  Two
+aimed arrows at the four fugitives.  The third hefted a sword, and the
+fourth---
+
+"Your Highness."  Sergeant Dorbu saluted.
+
+Ulfmaerr oofed as Noxy stumbled into him.  Thokmay skidded to a halt
+beside them.  He hesitated a moment, then returned the salute.
+"Sergeant.  Uh uh, hold on."  The prince stepped sideways to stand in
+front of Kulbinder as the two bowmen turned their arrows on him.
+
+"Hold your shots," Sergeant Dorbu commanded without looking at his
+men.  "Your Highness, my apologies, but I must insist you come with
+us."
+
+"And in the name of my father the kind, I order you to let us pass,"
+Thokmay replied coldly.
+
+Sergeant Dorbu shook his head.  "I'm sorry," he said, sounding as
+though he meant it.  "But I can't do that.  And please don't," he
+added to Ulfmaerr as the magician turned the gesture he'd been about
+to make into scratching his armpit.  "However quick you might be with
+your magic, I'll bet one of my men will be quicker with an arrow."
+
+Loose rock clattered above them.  Noxy shot a look over her shoulder.
+Four more soldiers had appeared on the ridge and were making their way
+down to join them, swords and bows in their hands.  Her heart sank.
+They wouldn't get ten strides if they tried to run.  *At least I'll
+get to rest,* she thought, immediately angry at herself for thinking
+it.
+
+That was when the rocks suddenly started flying.

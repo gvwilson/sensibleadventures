@@ -5581,7 +5581,7 @@ front of Kulbinder as the two bowmen turned their arrows on him.
 men.  "Your Highness, my apologies, but I must insist you come with
 us."
 
-"And in the name of my father the kind, I order you to let us pass,"
+"And in the name of my father the king, I order you to let us pass,"
 Thokmay replied coldly.
 
 Sergeant Dorbu shook his head.  "I'm sorry," he said, sounding as

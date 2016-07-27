@@ -5725,12 +5725,80 @@ hard cheese and dried fruit from his pack.  "So where do we go now?"
 Thokmay finally asked.
 
 "Ya depends a thee," a voice answered from the trees.  Branches
-rustled as a trio of burly trolls emerged among the branches above
-them.  A fourth troll joined them.  His gray fur was silvered with age
-on his head and shoulders.  He smiled at Ulfmaerr, then turned his
-gaze on Noxy.  "Ya depends a thee," he repeated.
+rustled as a trio of burly trolls swung down to the ground from the
+branches above them.  A fourth troll joined them.  His gray fur was
+silvered with age on his head and shoulders.  He smiled at Ulfmaerr,
+then turned his gaze on Noxy.  "Ya depends a thee," he repeated.
 
 Noxy's breath caught in her throat.  She recognized the troll---he was
 the one she had seen when the soldiers first arrived in Stale.
 
-"Hello, Linger," her father said.
+"Hello, Linger," her father said with a bow.
+
+## Chapter 16: In Deep
+
+"Hoy an wale met."  The old troll nodded to Ulfmaerr, equal to equal,
+without taking his eyes off Noxy.  "Ya've brun a bit strif an wrangles
+along ya."
+
+"Sorry about that," the magician said briskly.  "But please, may I
+introduce---"
+
+"Ah wit tha three," the troll interrupted without raising his voice.
+He shifted his gaze to Thokmay.  "Tha've steel a thee."
+
+The prince glanced at Ulfmaerr.  "Your sword," the magician said.
+"You're not allowed iron in the deep."  He glanced up meaningfully at
+the trees around them.  "The forest doesn't like it."
+
+With obvious reluctance, Thokmay unbuckled his sword belt and laid it
+on the ground.  "An tha dirk an all," the troll said.  A moment later
+Thokmay and Noxy's knives both lay beside the sword.
+
+Satisfied, the troll knuckle-walked over to Kulbinder and held out his
+hand, fingers curled in a loose fist.  The tiger sniffed him
+delicately, blinked, and yawned to show his teeth.  The troll snorted.
+"Ay've sich mysel, mat ay've not fra manckle thass at ma friends."
+
+"Are we friends then?" the tiger asked, as casually as he might ask
+whether it was going to rain that afternoon.
+
+"Tha ban eask a tha," the troll replied.  He strode over to the
+nearest tree and swung himself up.  Branches rustled as some unknown
+number of other trolls followed.
+
+The three trolls who had come to ground with Linger stayed where they
+were.  "Well," Ulfmaerr said, "I suppose we should get moving."  He
+gestured with his staff at a gap between the trees.  Single file, the
+foursome set off.
+
+Noxy hurried to keep up with her father as Thokmay and Kulbinder fell
+in behind her.  "Why did he talk like that?  I could barely understand
+him."
+
+"That's how people spoke when he first learned human language,"
+Ulfmaerr answered, slowing slightly to let the others catch up.  "I
+suppose he doesn't talk to people often enough to feel a need to
+change."  He stopped suddenly, looking left and right, then gestured
+again.  "This way, I think.  Though I suppose they'll let us know if I
+get it wrong."
+
+"When he---wait, how long ago did he learn to talk?"  Noxy asked.
+
+"I haven't quite been able to figure that out," Ulfmaerr admitted.
+"It was after the dragons hatched, but before the Pale conquered
+Ruuda, so...six hundred years, more or less?"  He paused to study the
+trees again, grunted, and set off once more, leaving his daughter to
+sort out her whirl of thoughts.
+
+When she looked over her shoulder to see if Thokmay had heard the
+exchange, she realized that the three big trolls were no longer
+following them.  A rustle overhead told her they were still with them,
+or that others had taken their place.  What little light snuck through
+the branches was starting to take on the golden tinge of late
+afternoon.  She suddenly realized that she was exhausted.  The hike up
+the mountain, the chase, the fight, and all of it on top of getting
+just a few hours sleep...
+
+She stumbled over a root, and would have fallen if she hadn't caught
+herself against a tree.  "I need to stop," she said.

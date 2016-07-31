@@ -5744,16 +5744,16 @@ along ya."
 "Sorry about that," the magician said briskly.  "But please, may I
 introduce---"
 
-"Ah wit tha three," the troll interrupted without raising his voice.
-He shifted his gaze to Thokmay.  "Tha've steel a thee."
+"Ah wit than," the troll interrupted without raising his voice.  He
+shifted his gaze to Thokmay.  "Tha've steel a thee."
 
-The prince glanced at Ulfmaerr.  "Your sword," the magician said.
-"You're not allowed iron in the deep."  He glanced up meaningfully at
-the trees around them.  "The forest doesn't like it."
+The prince glanced at Ulfmaerr.  "Your sword," the magician said,
+glancing meaningfully at the trees around them.  "You're not allowed
+iron in the deep.  The forest doesn't like it."
 
-With obvious reluctance, Thokmay unbuckled his sword belt and laid it
-on the ground.  "An tha dirk an all," the troll said.  A moment later
-Thokmay and Noxy's knives both lay beside the sword.
+Thokmay reluctantly unbuckled his sword belt and laid it on the
+ground.  "An tha dirk an all," the troll said.  A moment later Thokmay
+and Noxy's knives both lay on the soft duff.
 
 Satisfied, the troll knuckle-walked over to Kulbinder and held out his
 hand, fingers curled in a loose fist.  The tiger sniffed him
@@ -5773,8 +5773,8 @@ gestured with his staff at a gap between the trees.  Single file, the
 foursome set off.
 
 Noxy hurried to keep up with her father as Thokmay and Kulbinder fell
-in behind her.  "Why did he talk like that?  I could barely understand
-him."
+in behind her.  "Why did he talk like that?  It was like something out
+of one of Grappa Gas's old songs."
 
 "That's how people spoke when he first learned human language,"
 Ulfmaerr answered, slowing slightly to let the others catch up.  "I
@@ -5795,10 +5795,72 @@ When she looked over her shoulder to see if Thokmay had heard the
 exchange, she realized that the three big trolls were no longer
 following them.  A rustle overhead told her they were still with them,
 or that others had taken their place.  What little light snuck through
-the branches was starting to take on the golden tinge of late
-afternoon.  She suddenly realized that she was exhausted.  The hike up
-the mountain, the chase, the fight, and all of it on top of getting
-just a few hours sleep...
+the branches had the golden tinge of late afternoon.  She was
+exhausted.  The hike up the mountain, the chase, the fight, and all of
+it on top of getting just a few hours sleep...
 
 She stumbled over a root, and would have fallen if she hadn't caught
-herself against a tree.  "I need to stop," she said.
+herself against a tree.  "I need to stop," she said, rubbing her eyes.
+She wondered what her mother was doing right at that moment. Without
+thinking, she reached for Big Blue with her mind to see if the old
+cloud was all right...
+
+Something wet rasped across her face.  She batted at it weakly.  Her
+mouth tasted like she had been chewing on yarn, and her tongue felt
+strangely thick.  She looked at the dappled shadows above her until
+they resolved into branches etched against a distant sky.  Why was she
+lying down?
+
+She struggled to sit up.  Something soft and heavy pressed down on her
+chest to stop her from rising.  "She's coming around," a deep voice
+rumbled.
+
+Noxy put a hand on her cheek.  It was damp.  She rubbed it vigorously
+with her sleeve.  "Were you just licking me?" she demanded.
+
+Kulbinder sat back on his haunches and blinked.  "Possibly.  How are
+you feeling?"
+
+*Like I want a bath,* Noxy thought.  "I'm fine.  What happened?"
+
+"You passed out," Thokmay said from behind her.  "Here."  Noxy twisted
+around.  He held out a canteen.  "There's a stream up ahead a little
+ways.  I haven't boiled it, but Ulfmaerr says it's all right."
+
+Noxy took a long swallow of the ice-cold water.  "Where is he?" she
+asked, looking around.  "And what do you mean, I passed out?"
+
+Thokmay shrugged.  "You said we needed to stop, then you just... fell
+down."  He nodded at the canteen in her hand and waited for her to
+take another swig.
+
+"Sorry," Noxy said.  She handed the canteen back to him and rubbed her
+forehead wearily.  "I'm just really tired."
+
+But that wasn't why she had passed out, she suddenly remembered.  She
+had been trying to mind-speak to Big Blue.  She had reached out with
+her mind and---
+
+The world swam around her.  She ground the heels of her hands into her
+eyes.  "No no no," she whimpered.  It was too much.  She couldn't, she
+was too small and it was *forever*.
+
+"Noxy!  Noxy!"  The prince was shaking her.  She opened her eyes and
+let out a shaky breath.
+
+"She's sick," Thokmay told Kulbinder urgently.  "Look, she's shaking."
+
+"I'm not sick."  Noxy shook off his hand.  "I just...  Do we have
+anything to eat?"  It was the forest, she realized, fear and wonder
+mixed together in her chest.  When she had tried to mind-speak with
+Big Blue, her thoughts had brushed up against the forest instead.  It
+was...  She didn't have words, any more than the forest itself did.
+It was vast and ancient and no more aware of her than she was of the
+little black petch bug crawling across her boot, except that was
+wrong, the forest *was* aware, it knew everything inside it because it
+*was* all of those things put together.  Now that she knew it was
+there, she could mind-hear it all around her, even without trying.  It
+was like hearing a nearby stream rush by for so long that you stopped
+noticing it, or forgetting that you were wearing boots because you
+*always* wore boots.  It was right there, and all she had to do was
+relax and slip into it.

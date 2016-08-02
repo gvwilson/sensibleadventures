@@ -5293,7 +5293,7 @@ road.  I'm going to fly."
 "Well then, something for the flight," Ulfmaerr replied, his smile
 stuck in place.
 
-"Hm."  The owl picked up the fruit with one claw and winged away into
+"Hm."  The owl picked up the pear with one claw and winged away into
 the night as silently as a cloud.
 
 "She is quite the character," Ulfmaerr chuckled as he re-seated
@@ -5721,7 +5721,7 @@ and stirred and pressed again by years of snow and rain.
 
 She had no idea how far they had come or what time it was when
 Ulfmaerr called a halt.  They drained his canteen and shared out the
-hard cheese and dried fruit from his pack.  "So where do we go now?"
+hard cheese and dried apples from his pack.  "So where do we go now?"
 Thokmay finally asked.
 
 "Ya depends a thee," a voice answered from the trees.  Branches
@@ -5851,10 +5851,10 @@ let out a shaky breath.
 "She's sick," Thokmay told Kulbinder urgently.  "Look, she's shaking."
 
 "I'm not sick."  Noxy shook off his hand.  "I just...  Do we have
-anything to eat?"  It was the forest, she realized, fear and wonder
-mixed together in her chest.  When she had tried to mind-speak with
-Big Blue, her thoughts had brushed up against the forest instead.  It
-was...  She didn't have words, any more than the forest itself did.
+anything to eat?"  It was the forest, she realized numbly, fear and
+wonder mixed together in her chest.  When she had tried to mind-speak
+with Big Blue, her thoughts had brushed up against the forest instead.
+It was...  She didn't have words, any more than the forest itself did.
 It was vast and ancient and no more aware of her than she was of the
 little black petch bug crawling across her boot, except that was
 wrong, the forest *was* aware, it knew everything inside it because it
@@ -5862,5 +5862,67 @@ wrong, the forest *was* aware, it knew everything inside it because it
 there, she could mind-hear it all around her, even without trying.  It
 was like hearing a nearby stream rush by for so long that you stopped
 noticing it, or forgetting that you were wearing boots because you
-*always* wore boots.  It was right there, and all she had to do was
-relax and slip into it.
+*always* wore boots.  It was right there.  All she had to do was relax
+and sink into it, lose herself in the depths and never come back to
+the surface.
+
+"Noxy!"  She snapped back into the present as Thokmay shook her
+roughly.  "Noxy, here, eat this."  He pressed the last of the dried
+apples into her hand.
+
+"Thanks," she mumbled.  She bit off a piece and let it sit in her
+mouth.  Was this how people who could mind-speak to faraway clouds
+lost their minds?  Did they literally lose them like they might lose a
+coin dropped in a pond?
+
+Suddenly ravenous, she swallowed the now-moist piece of apple and tore
+at the rest with her teeth.  "Where's Ulfmaerr?" she asked as she
+chewed.
+
+Thokmay shrugged, a worried look on his face.  "He got ahead of us,
+and then you, uh, then you fell.  I'm sure he'll be back soon."
+
+"We shouldn't wait."  Kulbinder rose to his feet and nodded toward the
+nearest break in the trees.
+
+"Are you sure you can track him?" Thokmay asked, shouldering his pack.
+
+The tiger snorted.  "It's not as though he bathes every day."
+
+Noxy didn't bother looking up at the rustling in the branches overhead
+as they started walking.  The trolls would show themselves when they
+wanted to.  Until then, it looked like they were on their own.  She
+just wished they had more dried apples.  Or some of her mother's soda
+bread, heavy and dark with a rime of salt on the crust and some soft
+goof's milk cheese slathered on top...
+
+They found Ulfmaerr perched on a log over a stream a few hundred
+strides further down the faint path.  A long string dangled from his
+fingers, and three freshly-caught fish lay on a bed of salal leaves
+next to him.  Kulbinder made a noise deep in his throat that might
+almost have been a meow, and Noxy realized guiltily that he and
+Thokmay must be at least as hungry as she was.
+
+"Hello, daffodil," the magician said.  "Hang on just a---there!"  He
+snapped his hand back, yanking another yellow-striped perch out of the
+stream.  The hapless fish swung back and forth for a moment, its tail
+caught in the string noose, before Ulfmaerr managed to grab hold of it
+and slap its head against the log.
+
+"Dinner?" he asked brightly, scooping up the other fish and joining
+his companions.
+
+"Please and thank you," Thokmay said fervently.  "But how are we going
+to cook them?  I don't imagine the forest likes fire any more than
+iron."
+
+Ulfmaerr looked at him blankly.  "Cook them?"
+
+In the end he relented and let Thokmay rub a handful of salt and chili
+flakes into two of the skinned fish.  Kulbinder gobbled the other two
+and then lay down beside the prince, his nose twitching occasionally
+as the forest began to wake up around them.  Noxy chewed on the cool,
+slippery flesh of the perch, surprised by how soft it was, then wished
+briefly for a toothbrush before letting her eyelids droop shut.  She
+worried briefly for a heartbeat that she might fall into the forest
+again, and then she was asleep.

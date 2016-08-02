@@ -1,5 +1,8 @@
 # The Prince and the Cloudherd
 
+* "down with the dogs"
+* Ulfmaerr gave up caring about his daughter
+
 * 60K words (20 chapters * 3K/chapter).
 * At least one moment of adventure moment per chapter.
 * Protagonists are fleshed out, but minor characters are brightly drawn cartoons.

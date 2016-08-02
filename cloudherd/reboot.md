@@ -308,7 +308,7 @@
   * Background: family lost its farm because they couldn't afford to
     rent the law that would have saved it.
 
-* Major Bonzon: commands the Ferocious Swallows troop that
+* Colonel Bonzon: commands the Ferocious Swallows troop that
   arrives with Prince Shudarga to occupy Stale.
 
 ### Others

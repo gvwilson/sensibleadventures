@@ -5926,3 +5926,72 @@ slippery flesh of the perch, surprised by how soft it was, then wished
 briefly for a toothbrush before letting her eyelids droop shut.  She
 worried briefly for a heartbeat that she might fall into the forest
 again, and then she was asleep.
+
+She woke to shouts and howls.  Thokmay was pulling her up to her feet,
+yelling that they had to get moving.  Kulbinder lunged past them at a
+troll brandishing a heavy stick that had dropped out of the branches.
+The club bounced off the tiger's shoulder an instant before he sunk
+his teeth deep into the troll's leg.  The hairy creature shrieked and
+batted at Kulbinder with his stick, but the tiger was already gone.
+
+The whole scene was lit by eerie green-white light that billowed out
+of the end of Ulfmaerr's staff like smoke.  The magician snapped the
+staff left, right, and left again to keep the circle of trolls
+pressing around him at bay.  "Come on!" Thokmay yelled again, pushing
+her toward the trees as two more trolls swung down to the ground.
+
+Noxy pulled up short.  Thokmay pushed her forward again.  "They're on
+our side!"  Even as he spoke, the two newcomers had thrown themselves
+into the fight behind them.
+
+"What's happening?" Noxy shouted.  "Thokmay, what's happening?"
+
+"It's Dragger!" Kulbinder snarled as he chased a troll past them into
+the trees.  "We'll hold them off---get out of here!"
+
+But that was easier said than done.  Noxy and Thokmay crashed through
+the trees, but within moments were lost in the darkness.  Branches
+slapped their faces as they fumbled their way forward, and roots
+seemed to clutch at their feet.
+
+"I can't see a thing," Noxy said.
+
+"Me neither."  Thokmay pulled the piece of dayglass he'd taken from
+Ulfmaerr's hut out of his pocket.  The last dregs of the daylight
+trapped within it were barely brighter than the gleams of light
+reflected from the eyes of the trolls who had silently surrounded
+them.
+
+That thought barely had time to register before a hairy arm wrapped
+around Noxy and a soft-palmed hand clamped down on her mouth.  Up she
+went into the trees, her struggles no more effective than a baby's, up
+and up until the branches above her were small enough that she could
+see the stars overhead and the moon tumbling slowly in the northern
+sky.
+
+There were trolls all around her, dozens of them, leaping from tree to
+tree in a silence that was more frightening than hooting and shouting.
+"Thokmay!  Thok-mmph!"  She tried to shout.  She tried to twist around
+to see if he was behind her, but there was just a surge of dark-furred
+bodies.
+
+A burst of green-white light erupted from the trees behind her.  A
+second pillar of light burst into the sky a moment later, briefly
+dazzling her.  Distant howls told her that the fight was still going
+on, but who was winning?
+
+Without warning the trolls dove back into the trees.  A moment later
+they were in a clearing---no, on the shore of a lake.  The trees
+stopped a few strides from the water, and so did the trolls.
+
+The trolls set her on her feet.  "Go."  It took her a moment to
+realize that the voice belonged to the troll behind her.  He frowned
+at her and waved a long arm toward the lake.  "Go."
+
+She turned and looked where he had pointed.  Her heart leaped into her
+throat.  The dark patch on the lake was a cloud.  And the three
+figures standing in front of it---that was Grappa Gas!  And---
+
+She stood there, stunned, as the ogre beside Grappa Gas grunted and
+turned to the soldier standing on his other side.  "You see, colonel?"
+he said to Colonel Bonzon.  "I have them, as promised."

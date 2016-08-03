@@ -5757,8 +5757,9 @@ and Noxy's knives both lay on the soft duff.
 
 Satisfied, the troll knuckle-walked over to Kulbinder and held out his
 hand, fingers curled in a loose fist.  The tiger sniffed him
-delicately, blinked, and yawned to show his teeth.  The troll snorted.
-"Ay've sich mysel, mat ay've not fra manckle thass at ma friends."
+delicately, blinked, and yawned to show his teeth.  The troll snorted
+in amusement.  "Ay've sich mysel, mat ay've not fra manckle thass at
+ma friends."
 
 "Are we friends then?" the tiger asked, as casually as he might ask
 whether it was going to rain that afternoon.
@@ -5767,37 +5768,43 @@ whether it was going to rain that afternoon.
 nearest tree and swung himself up.  Branches rustled as some unknown
 number of other trolls followed.
 
-The three trolls who had come to ground with Linger stayed where they
-were.  "Well," Ulfmaerr said, "I suppose we should get moving."  He
-gestured with his staff at a gap between the trees.  Single file, the
-foursome set off.
+"What did he say?" Thokmay asked in a loud whisper.
+
+"He said that's up to us," Kulbinder replied.
+
+One of the three trolls who had come to ground with Linger grunted and
+waved toward the trees.  "Well," Ulfmaerr said, "I suppose we should
+get moving."  He gestured with his staff at a gap between two twisted
+pines.  Single file, the foursome set off.
 
 Noxy hurried to keep up with her father as Thokmay and Kulbinder fell
 in behind her.  "Why did he talk like that?  It was like something out
-of one of Grappa Gas's old songs."
+of an old song."
 
 "That's how people spoke when he first learned human language,"
 Ulfmaerr answered, slowing slightly to let the others catch up.  "I
-suppose he doesn't talk to people often enough to feel a need to
-change."  He stopped suddenly, looking left and right, then gestured
-again.  "This way, I think.  Though I suppose they'll let us know if I
-get it wrong."
+suppose he doesn't talk to humans often enough to feel he needs to
+change.  Or maybe he thinks we shouldn't have changed.  It's hard to
+know."  He stopped suddenly, looking left and right, then gestured
+again.
 
-"When he---wait, how long ago did he learn to talk?"  Noxy asked.
+"Wait, how long ago did he learn to talk?"  Noxy asked.
 
 "I haven't quite been able to figure that out," Ulfmaerr admitted.
 "It was after the dragons hatched, but before the Pale conquered
 Ruuda, so...six hundred years, more or less?"  He paused to study the
-trees again, grunted, and set off once more, leaving his daughter to
-sort out her whirl of thoughts.
+trees again.  "This way, I think," he said, gesturing with his staff
+again.  "Though I suppose they'll let us know if I get it wrong."  He
+set off once more, leaving his daughter to sort out her whirl of
+thoughts.
 
 When she looked over her shoulder to see if Thokmay had heard the
-exchange, she realized that the three big trolls were no longer
-following them.  A rustle overhead told her they were still with them,
-or that others had taken their place.  What little light snuck through
-the branches had the golden tinge of late afternoon.  She was
-exhausted.  The hike up the mountain, the chase, the fight, and all of
-it on top of getting just a few hours sleep...
+exchange, the three big trolls were no longer following them.  A
+rustle overhead told her they were still with them, or that others had
+taken their place.  What little light broke through the branches had
+the golden tinge of late afternoon.  She suddenly realized that she
+was exhausted.  The hike up the mountain, the chase, the fight, and
+all of it on top of getting just a few hours sleep...
 
 She stumbled over a root, and would have fallen if she hadn't caught
 herself against a tree.  "I need to stop," she said, rubbing her eyes.
@@ -5845,47 +5852,44 @@ The world swam around her.  She ground the heels of her hands into her
 eyes.  "No no no," she whimpered.  It was too much.  She couldn't, she
 was too small and it was *forever*.
 
-"Noxy!  Noxy!"  The prince was shaking her.  She opened her eyes and
-let out a shaky breath.
+"Noxy!  Noxy!"  The prince was shaking her.  "She's sick," he told
+Kulbinder urgently.  "Look, she's shaking."
 
-"She's sick," Thokmay told Kulbinder urgently.  "Look, she's shaking."
-
-"I'm not sick."  Noxy shook off his hand.  "I just...  Do we have
+"I'm not sick."  Noxy brush his hand away.  "I just...  Do we have
 anything to eat?"  It was the forest, she realized numbly, fear and
-wonder mixed together in her chest.  When she had tried to mind-speak
-with Big Blue, her thoughts had brushed up against the forest instead.
-It was...  She didn't have words, any more than the forest itself did.
-It was vast and ancient and no more aware of her than she was of the
-little black petch bug crawling across her boot, except that was
-wrong, the forest *was* aware, it knew everything inside it because it
-*was* all of those things put together.  Now that she knew it was
-there, she could mind-hear it all around her, even without trying.  It
-was like hearing a nearby stream rush by for so long that you stopped
-noticing it, or forgetting that you were wearing boots because you
-*always* wore boots.  It was right there.  All she had to do was relax
-and sink into it, lose herself in the depths and never come back to
-the surface.
+wonder stirred together in her chest.  When she had tried to
+mind-speak with Big Blue, her thoughts had brushed up against the
+forest instead.  It was...  She didn't have words, any more than the
+forest itself did.  It was vast and ancient and no more aware of her
+than she was of the little black petch bug crawling across her boot,
+except that was wrong, the forest *was* aware, it knew everything
+inside it because it *was* all of those things put together.  Now that
+she knew it was there, she could mind-hear it all around her, even
+without trying.  It was like hearing a nearby stream rush by for so
+long that you stopped noticing it, or forgetting that you were wearing
+boots because you *always* wore boots.  It was right there.  All she
+had to do was relax and sink into it, lose herself in the depths and
+never come back to the surface.
 
-"Noxy!"  She snapped back into the present as Thokmay shook her
-roughly.  "Noxy, here, eat this."  He pressed the last of the dried
-apples into her hand.
+"Noxy!"  She snapped back into the present as Thokmay pressed the last
+of the dried apples into her hand.  "Here, eat this."
 
 "Thanks," she mumbled.  She bit off a piece and let it sit in her
 mouth.  Was this how people who could mind-speak to faraway clouds
 lost their minds?  Did they literally lose them like they might lose a
 coin dropped in a pond?
 
-Suddenly ravenous, she swallowed the now-moist piece of apple and tore
-at the rest with her teeth.  "Where's Ulfmaerr?" she asked as she
-chewed.
+Her stomach rumbled. Suddenly ravenous, she swallowed the now-moist
+piece of apple and tore at the rest with her teeth.  "Where's
+Ulfmaerr?" she asked as she chewed.
 
 Thokmay shrugged, a worried look on his face.  "He got ahead of us,
-and then you, uh, then you fell.  I'm sure he'll be back soon."
+and then you fell.  I'm sure he'll be back soon."
 
 "We shouldn't wait."  Kulbinder rose to his feet and nodded toward the
 nearest break in the trees.
 
-"Are you sure you can track him?" Thokmay asked, shouldering his pack.
+"Can track him?" Thokmay asked, shouldering his pack.
 
 The tiger snorted.  "It's not as though he bathes every day."
 
@@ -5894,7 +5898,7 @@ as they started walking.  The trolls would show themselves when they
 wanted to.  Until then, it looked like they were on their own.  She
 just wished they had more dried apples.  Or some of her mother's soda
 bread, heavy and dark with a rime of salt on the crust and some soft
-goof's milk cheese slathered on top...
+goof's milk cheese slathered on top.  Her stomach rumbled again.
 
 They found Ulfmaerr perched on a log over a stream a few hundred
 strides further down the faint path.  A long string dangled from his
@@ -5903,14 +5907,14 @@ next to him.  Kulbinder made a noise deep in his throat that might
 almost have been a meow, and Noxy realized guiltily that he and
 Thokmay must be at least as hungry as she was.
 
-"Hello, daffodil," the magician said.  "Hang on just a---there!"  He
-snapped his hand back, yanking another yellow-striped perch out of the
+"Hello, daffodil," the magician said.  "Hang on just a---hah!"  He
+snapped his hand back to yank another yellow-striped perch out of the
 stream.  The hapless fish swung back and forth for a moment, its tail
-caught in the string noose, before Ulfmaerr managed to grab hold of it
-and slap its head against the log.
+caught in the fishing noose, before Ulfmaerr managed to grab hold of
+it and slap its head against the log.
 
-"Dinner?" he asked brightly, scooping up the other fish and joining
-his companions.
+"Dinner?" he asked brightly, scooping up the other fish and holding
+them out to his companions.
 
 "Please and thank you," Thokmay said fervently.  "But how are we going
 to cook them?  I don't imagine the forest likes fire any more than
@@ -5918,41 +5922,42 @@ iron."
 
 Ulfmaerr looked at him blankly.  "Cook them?"
 
-In the end he relented and let Thokmay rub a handful of salt and chili
-flakes into two of the skinned fish.  Kulbinder gobbled the other two
-and then lay down beside the prince, his nose twitching occasionally
-as the forest began to wake up around them.  Noxy chewed on the cool,
-slippery flesh of the perch, surprised by how soft it was, then wished
-briefly for a toothbrush before letting her eyelids droop shut.  She
-worried briefly for a heartbeat that she might fall into the forest
+In the end he let Thokmay skin two of the fish and rub a handful of
+salt and chili flakes into them.  Kulbinder gobbled the other two and
+then lay down beside the prince, his ears twitching occasionally as
+birds called to each other in the forest around them.  Noxy chewed on
+the perch's cool, slippery flesh, surprised by how soft it was,
+wishing briefly for a toothbrush as her eyelids began to droop.  She
+wondered dully for a heartbeat whether she might fall into the forest
 again, and then she was asleep.
 
-She woke to shouts and howls.  Thokmay was pulling her up to her feet,
+She woke to shouts and howls.  Eerie green-white light billowed out of
+the end of Ulfmaerr's staff like smoke.  The magician snapped the
+staff left, right, and left again to keep the circle of trolls
+pressing around him at bay.  Thokmay was pulling her up to her feet,
 yelling that they had to get moving.  Kulbinder lunged past them at a
 troll brandishing a heavy stick that had dropped out of the branches.
 The club bounced off the tiger's shoulder an instant before he sunk
 his teeth deep into the troll's leg.  The hairy creature shrieked and
 batted at Kulbinder with his stick, but the tiger was already gone.
 
-The whole scene was lit by eerie green-white light that billowed out
-of the end of Ulfmaerr's staff like smoke.  The magician snapped the
-staff left, right, and left again to keep the circle of trolls
-pressing around him at bay.  "Come on!" Thokmay yelled again, pushing
-her toward the trees as two more trolls swung down to the ground.
+"Come on!" Thokmay yelled again, pushing her toward the trees as two
+more trolls swung down to the ground.
 
 Noxy pulled up short.  Thokmay pushed her forward again.  "They're on
-our side!"  Even as he spoke, the two newcomers had thrown themselves
-into the fight behind them.
+our side!"  Even as he spoke, the two newcomers threw themselves into
+the fight behind them.
 
-"What's happening?" Noxy shouted.  "Thokmay, what's happening?"
+"What's happening?" Noxy shouted.
 
 "It's Dragger!" Kulbinder snarled as he chased a troll past them into
-the trees.  "We'll hold them off---get out of here!"
+the trees and doubled back to slash another's leg with his claws.
+"We'll hold them off---get out of here!"
 
-But that was easier said than done.  Noxy and Thokmay crashed through
-the trees, but within moments were lost in the darkness.  Branches
-slapped their faces as they fumbled their way forward, and roots
-seemed to clutch at their feet.
+But that was easier said than done.  Within moments Noxy and Thokmay
+were lost in the darkness beneath the pines.  Branches slapped their
+faces as they fumbled their way forward, and roots seemed to clutch at
+their feet.
 
 "I can't see a thing," Noxy said.
 
@@ -5962,10 +5967,10 @@ trapped within it were barely brighter than the gleams of light
 reflected from the eyes of the trolls who had silently surrounded
 them.
 
-That thought barely had time to register before a hairy arm wrapped
-around Noxy and a soft-palmed hand clamped down on her mouth.  Up she
-went into the trees, her struggles no more effective than a baby's, up
-and up until the branches above her were small enough that she could
+That thought barely had time to register before an enormous hairy arm
+wrapped around Noxy and a soft-palmed hand clamped down on her mouth.
+Up she went into the trees, her struggles no more effective than a
+baby's, up and up until the branches were small enough that she could
 see the stars overhead and the moon tumbling slowly in the northern
 sky.
 
@@ -5984,14 +5989,123 @@ Without warning the trolls dove back into the trees.  A moment later
 they were in a clearing---no, on the shore of a lake.  The trees
 stopped a few strides from the water, and so did the trolls.
 
-The trolls set her on her feet.  "Go."  It took her a moment to
-realize that the voice belonged to the troll behind her.  He frowned
-at her and waved a long arm toward the lake.  "Go."
+Her captor set her on her feet.  She spun around, hands clenched into
+fists, and froze.  The ogre, Dragger, sneered at her.  "Go ahead," he
+said, his voice as deep as Kulbinder's but infinitely more
+threatening.
 
-She turned and looked where he had pointed.  Her heart leaped into her
-throat.  The dark patch on the lake was a cloud.  And the three
-figures standing in front of it---that was Grappa Gas!  And---
+"Where's Thokmay?" she demanded.
 
-She stood there, stunned, as the ogre beside Grappa Gas grunted and
-turned to the soldier standing on his other side.  "You see, colonel?"
-he said to Colonel Bonzon.  "I have them, as promised."
+The ogre ignored her.  Knuckling past her, he raised his voice and
+said, "As promised."
+
+She turned and looked past him.  Her heart leaped into her throat.
+The dark patch on the lake was Pillow.  One of the people standing
+beside her was Colonel Bonzon.  The other was Grappa Gas.
+
+"Grappa?" she asked disbelievingly.  The old man half-raised his hand
+in a weak wave, but didn't reply.
+
+Colonel Bonzon strode forward.  "You promised the prince, not this
+girl."
+
+The ogre snorted.  "And you promised me that your archers would end
+the troll.  Yet he lives."  He raised a hand as the soldier
+approached.  "Stop there!"
+
+Colonel Bonzon halted.  "I'm not going to steal her," he said
+contemptuously.
+
+"No you're not," the ogre agreed.  "But you are wearing iron."  He
+jerked his thumb over his shoulder at the forest.  "No sense drawing
+attention we don't want."
+
+Colonel Bonzon drummed his fingers on the hilt of his sword.  "As you
+wish.  Now, where is the prince?"
+
+Dragger sat down with his legs stretched out in front of him, looking
+curiously childlike.  "Somewhere safe."  He picked up a rock and
+studied it.  "But that could change."
+
+Colonel Bonzon's fingers stilled.  "He's no use to either of us dead."
+
+The ogre grunted.  "I agree.  But he could be very useful as bait."
+He surged to his feet more quickly than Noxy thought a creature his
+size would have been able to.  "Tell your men not to miss this time."
+He turned and knuckled back into the forest without waiting for an
+answer.
+
+Noxy stood there, not knowing if she should follow him, run to Grappa
+Gas, or just stay where she was.  She took a hesitant step forward.
+
+Colonel Bonzon glanced at her, his sneer still on his face, then spun
+on his heel and strode back to Grappa Gas and Pillow.  "Take me back
+to the others," he ordered, climbing onto the cloud.
+
+Grappa Gas locked eyes with Noxy and made a shushing motion with his
+hands before she could speak.  Still bewildered, she stood and watched
+as Pillow rose above the lake and flew away.  She thought Grappa Gas
+looked back at her, but couldn't be sure.
+
+She stood there a few strides from the dark lake, watching little
+waves lap at the stones, and wondered what she was supposed to do
+next.  The trolls who had kidnapped her seemed to have abandoned her.
+She had no idea where she was or where her friends were, and no idea
+which direction was home.  She was tired, she was hungry, and a fear
+as cold as the water in front of her was rising in her throat.  Was it
+too late?  Had the village's grownups been captured by the princess's
+soldiers?  Was that why Grappa Gas was ferrying Colonel Bonzon around?
+
+She wiped her eyes with her sleeve, angry at her tears.  She hated
+feeling helpless.  She hated not being able to *do* anything when---
+
+Wait.  She lowered her arm and stared at the lake without seeing it.
+There *was* something she could do---something she could try,
+anyway---but if it didn't work...  She pushed that thought away.  She
+wasn't going to be some helpless damsel who needed to be rescued.
+"*I'm* the one who does the rescuing," she said aloud.  Suddenly
+furious, she bent over to pick up a stone and threw it as hard as she
+could.  "Do you hear me?  *I'm* the one who does the rescuing!"
+
+The rock made a quiet *sploosh!* when it hit the water.  Noxy turned
+around and marched back to the forest.  A moment later, a dark shape
+not much smaller than the ogre broke the surface.  Two eyes the size
+of plates watched Noxy disappear into the trees.  The shape sighed
+softly---Noxy wasn't the only one who was hungry---then sank back
+unseen into the depths from which it had come.
+
+Noxy picked a tree a dozen strides into the forest and sat down with
+her back against it.  Closing her eyes, she pictured Pillow in her
+mind.  She knew the old cow almost as well as she knew Big Blue.  She
+woke early, and liked to scratch herself against the rocks on the
+south side of the cloud pen as soon as the sun was high enough to warm
+them.  She liked the rain, too---most clouds didn't like other clouds
+getting them wet, but Pillow would slip underneath Big Blue or even a
+passing herd and stretch herself thin to catch as many drops as she
+could.
+
+There.  Right there, that was Pillow.  She could feel the forest all
+around her, pulling at her, but the cloud's familiar warm mind was
+like an anchor peg set deep into stone.  As long as she held on, she
+wouldn't fall and lose herself again.
+
+She "looked" down through Pillow's senses.  She was over the forest,
+not far from the lake if you didn't have to pick your way through the
+trees.  Another cloud had pressed up against her.  It was Little
+Beads, she realized, the one that Tasteless had been flying.  Three
+pairs of boots pressed hard against Pillow's back---archers,
+transferring themselves from one cloud to the other.  And there, in
+the trees.  That had to be Dragger.  And the struggling shape he was
+tying to that tree---that could only be Thokmay.
+
+Noxy took a slow breath and pushed away the hungry cramp in her
+stomach.  *Talk to Grappa Gas,* she told Pillow.  *Tell him, Noxy says
+hello.*
+
+*??* Pillow replied, confused.
+
+*Tell him,* Noxy urged.
+
+The cloud was silent for a moment, and then, *He says, what the hell?*
+
+Noxy grinned.  *Tell him I'll explain later.  Now, here's my plan...*

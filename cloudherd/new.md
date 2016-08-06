@@ -5983,83 +5983,86 @@ Highness, quickly, we must flee."
 
 "Run?  Again?" the prince asked bitterly.
 
-"Yes," Ulfmaerr said urgently.  "The trolls will hold them here while
-we---"
+"Yes," Ulfmaerr said urgently.  "The trolls will hold them here.  We
+need to---"
 
-And then the battle was upon them.  A troll almost as big as Noxy
-exploded out of the trees.  Before she could move, another dropped
-from the branches above to block its way.  The two creatures grappled
-with each other, biting and snarling as they hit each other, each
-trying to get a grip on the other's throat.
+A troll almost as big as Noxy exploded out of the trees.  Another
+dropped from the branches above to tackle it.  The two creatures
+grappled with each other, biting and snarling as they hit each other,
+each trying to get a grip on the other's throat.
 
 Ulfmaerr shouted a command.  Eerie green-white light billowed out of
 the end of his staff like smoke.  The magician snapped the staff left,
-right, and left again to keep the trolls pressing around them at bay.
-One got past him and knocked Thokmay to the ground.  Noxy pulled him
-to his feet.  Kulbinder lunged past them at a troll brandishing a
-heavy stick that had dropped out of the branches.  The club bounced
-off the tiger's shoulder an instant before he sunk his teeth deep into
-the troll's leg.  The hairy creature shrieked and batted at Kulbinder
-with his stick, but the tiger had already pounced on another enemy.
+right, and left again to drive off the trolls that were suddenly
+pressing around them.  One got past him and knocked Thokmay to the
+ground.  As Noxy pulled him to his feet, Kulbinder lunged past them at
+a troll brandishing a heavy stick.  The club bounced off the tiger's
+shoulder an instant before he sunk his teeth deep into the troll's
+leg.  The hairy creature shrieked and swung his makeshift club at
+Kulbinder, but the tiger had already pounced on another enemy.
 
 The troll who had woken Noxy dropped to the ground in front of her,
 the fur on her shoulder matted with blood.  "Go!" she ordered, pushing
 Noxy toward the trees.
 
 Noxy pulled up short as two more trolls swung down to the ground.  The
-troll behind her pushed her forward again.  "They're on our side!"
-Even as she spoke, the two newcomers threw themselves into the fight.
+troll behind her pushed her forward again.  "Go!"  Even as she spoke,
+the two newcomers threw themselves at the attacking trolls.
 
-"No!" Kulbinder snarled, slashing at a leg with his claws.  "We stay
-together!"
+"Stay together!" Kulbinder snarled, slashing at a leg with his claws.
 
 But they couldn't.  Dragger's trolls kept coming, wave after wave,
 pushing Linger's loyalists back.  Ulfmaerr threw bursts of sticky
 light at those nearest him, but even that wasn't enough to hold them
 back.  Within moments Noxy and Thokmay had been driven into the
 darkness beneath the pines.  Branches slapped their faces as they
-fumbled their way forward, and roots seemed to clutch at their feet.
+fumbled their way forward, and roots clutched at their feet.
 
 "I can't see a thing," Noxy said.
 
-"Me neither."  Thokmay pulled the piece of dayglass he'd taken from
-Ulfmaerr's hut out of his pocket.  The last dregs of the daylight
-trapped within it were barely brighter than the gleams of light
-reflected from the eyes of the trolls who had silently surrounded
-them.
+"Me neither."  Thokmay cupped his hands around his mouth.  "Kulbinder!"
 
-That thought barely had time to register before an enormous hairy arm
-wrapped around Noxy and a soft-palmed hand clamped down on her mouth.
-Up she went into the trees, her struggles no more effective than a
-baby's, up and up until the branches were small enough that she could
-see the stars overhead and the moon tumbling slowly in the northern
-sky.
+The shout was barely out of his mouth when an enormous hairy arm
+wrapped around Noxy.  Up she went into the trees, her struggles no
+more effective than a baby's, up and up until suddenly the trolls who
+had grabbed her were in the treetops.  Moonlight silvered the peaks
+around her, and there, in the direction the trolls were carrying her,
+a single cloud blotted out the stars.
 
 There were trolls all around her, dozens of them, leaping from tree to
 tree in a silence that was more frightening than hooting and shouting.
-"Thokmay!  Thok-mmph!"  She tried to shout.  She tried to twist around
-to see if he was behind her, but there was just a surge of dark-furred
-bodies.
+"Thokmay!" she shouted.  She tried to twist around to see if he was
+behind her, but all she could see was a surge of dark-furred bodies.
 
-A burst of green-white light erupted from the trees behind her.  A
-second pillar of light burst into the sky a moment later, briefly
-dazzling her.  Distant howls told her that the fight was still going
-on, but who was winning?
+A burst of green-white light erupted from the trees behind her,
+followed by a chorus of screeches.  A second pillar of light burst
+into the sky a moment later.  The fight was still going on, but who
+was winning?
 
 Without warning the trolls dove back into the trees.  A moment later
-they were in a clearing---no, on the shore of a lake.  The trees
-stopped a few strides from the water, and so did the trolls.
+the trees ended abruptly a dozen strides from the edge of a dark lake.
+The shore between the two was littered with rounded stones.  Some wore
+coats of moss, but nothing else grew among them---no trees, no salal
+bushes, not even a few stray flowers.
 
-Her captor set her on her feet.  She spun around, hands clenched into
-fists, and froze.  The ogre, Dragger, sneered at her.  "Go ahead," he
-said, his voice as deep as Kulbinder's but infinitely more
-threatening.
+Her captor set her on her feet.  She spun around, intending to sprint
+back into the trees, but froze as Dragger knuckle-walked out of the
+trees.  "Bad idea." His voice was as deep as Kulbinder's but
+infinitely more threatening.
 
 "Where's Thokmay?" she demanded.
 
-The ogre ignored her.  Knuckling past her, he raised his voice and
-said, "As promised."
+"Safe," the ogre said contemptuously.  He sat on the stones with his
+legs in front of him in a curiously childlike posture.  "Now be
+still.  We have guests."
 
-She turned and looked past him.  Her heart leaped into her throat.
-The dark patch on the lake was Pillow.  One of the people standing
-beside her was Colonel Bonzon.  The other was Grappa Gas.
+She turned and looked over the lake.  The cloud she had seen from the
+treetops was descending toward them.  Her breath caught.  She would
+recognize Pillow anywhere.
+
+The cloud touched down on the lake, her flank spilling onto the stony
+shore.  Colonel Bonzon slid down her side and straightened his uniform
+jacket without so much as a glance at Noxy.  The cloud's other rider
+joined him a moment later.  Noxy stared in disbelief.
+
+It was Grappa Gas.

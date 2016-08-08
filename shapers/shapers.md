@@ -30,7 +30,7 @@ and are determined to once again rule a world that is no longer theirs.
 
 ## Characters
 
-1. Every character has three scores:
+1. Every character has three traits:
 
    * **Size**: how large are you?
 
@@ -41,7 +41,7 @@ and are determined to once again rule a world that is no longer theirs.
    An average fully-grown human has a score of 10 for each.
    Averages for other species are listed later.
 
-2. Every living character has one extra score that depends on these three:
+2. Every living character has one extra trait that depends on these three:
 
    * **Strength**: how strong are you?
      A living character's Strength is equal to her Size,
@@ -52,7 +52,7 @@ and are determined to once again rule a world that is no longer theirs.
    These are all 10 (average) unless otherwise noted,
    so they don't need to be written down except in special cases.
 
-4. Non-player characters (NPCs) may have three extra scores:
+4. Non-player characters (NPCs) may have three extra traits:
 
    * **Courage**: how brave the character is.
 
@@ -64,7 +64,7 @@ and are determined to once again rule a world that is no longer theirs.
    because it's up to the player to decide when to be brave,
    when to tell truth,
    and to solve puzzles.
-   NPCs only need to be given scores for these things
+   NPCs only need to be given scores for these traits
    when it's important to the game.
 
 ## Species
@@ -84,26 +84,12 @@ goat         8             10                         horns
 kangaroo    10             10   Smell=11              leaping
 lion        10             12   Smell=12, Hearing=11  carnivore
 monkey       8             13                         prehensile tail
+rabbit       5             12   Smell=12, Hearing=11  may go berserk
+raccoon      6             13   Sight=11
+rhino       13              8   Sight=7, Smell=11
 tiger       10             12   Smell=12, Hearing=11  carnivore
 wolf         9             11   Smell=12
-
-Example:
-Madica is a teenage fox girl.
-She's a bit on the small side,
-even for her species,
-but she has worked on her parents' fishing boat every day since she was a child,
-so she is quite healthy.
-She is also very good with her hands
-(she's had a lot of practice tying knots and mending nets)
-and has a keen nose.
-
-Score         Value
------        ------
-Size              5
-Health           12
-Coordination     13
-Strength          6
-Smell            12
+zebra       10             10   Smell=11
 
 ## Shaping
 
@@ -133,10 +119,31 @@ Luck and Time.
 (As far as anyone knows,
 Dream doesn't have an opposite.)
 
+### Example
+
+Madica is a teenage fox girl.
+She's a bit on the small side,
+even for her species,
+but she has worked on her parents' fishing boat every day since she was a child,
+so she is quite healthy.
+She is also very good with her hands
+(she's had a lot of practice tying knots and mending nets)
+and has a keen nose.
+She recently discovered that she can shape water a little bit,
+and desperately wants to find someone to teach her how to do more.
+
+Trait         Score
+-----        ------
+Size              5
+Health           12
+Coordination     13
+Strength          6
+Smell            12
+Water shaping     8
+
 ## Bots
 
-The Makers created bots to do everything from clean floors and harvest potatoes
-to mine the ocean floor and keep the peace.
+The Makers built bots to do everything from cleaning floors to mining the ocean floor.
 Since their disappearance,
 those left behind have had to improvise repairs however they could
 to keep themselves going.
@@ -147,8 +154,46 @@ but have only a single slender manipulator to pick things up.
 
 Bots have Size and Coordination scores just like living characters.
 However,
-they don't have a separate Health score:
+they don't have a Health:
 instead,
-they just have Strength on its own.
+they just have Strength.
 Their Sight and Hearing scores are 10 by default,
 but only a few bots have any sense of smell.
+
+## Skills
+
+* Acrobatics
+* Animal Handling
+* Boating
+* Chemistry
+* Climbing
+* Craft ()
+* Dancing
+* Disguise
+* Drawing
+* Fighting
+* First Aid
+* Gaming
+* History
+* Hunting
+* Hypnotism
+* Imitation
+* Juggling
+* Lockpicking
+* Magic Tricks
+* Mechanics
+* Medicine
+* Music
+* Picking Pockets
+* Riding
+* Science
+* Sewing
+* Skating
+* Skiing
+* Sneaking
+* Swimming
+* Throwing
+* Tracking
+* Trapping/Fishing
+* Tunnelling
+* Weapon ()

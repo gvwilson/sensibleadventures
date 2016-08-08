@@ -2854,7 +2854,7 @@ was she simply going crazy?  She needed to talk to someone, but who?
 Something heavy thumped on the floor behind her.  A hand clamped over
 her mouth as a strong arm wrapped around her, pinning her own arms to
 her sides.  A low voice spoke in her ear, its owner's lowland accent
-rounding the long vowels.  "I'm not going to hurt you, young miss, but
+rounding the long vowels.  "I'm not going to hurt you, respected, but
 I'll need you to be keeping still."  It was the escaped ranger!
 
 "Mmph!"  She struggled anyway, knowing it was hopeless---he was twice
@@ -6057,12 +6057,82 @@ legs in front of him in a curiously childlike posture.  "Now be
 still.  We have guests."
 
 She turned and looked over the lake.  The cloud she had seen from the
-treetops was descending toward them.  Her breath caught.  She would
-recognize Pillow anywhere.
+treetops was descending toward them.  Her breath caught.  It was
+Pillow---she would recognize the old cow anywhere.
 
 The cloud touched down on the lake, her flank spilling onto the stony
 shore.  Colonel Bonzon slid down her side and straightened his uniform
-jacket without so much as a glance at Noxy.  The cloud's other rider
-joined him a moment later.  Noxy stared in disbelief.
+jacket without so much as a glance at Noxy.  Two archers joined him,
+weapons at the ready, and then the cloud's fourth rider joined them.
+Noxy gasped in disbelief.
 
 It was Grappa Gas.
+
+## Chapter 17: Sometimes You Don't Get To Choose
+
+"Grappa?" she asked disbelievingly.  The old man raised his hand in a
+weak wave, but didn't speak as Colonel Bonzon strode forward.  "You
+promised the prince, not this girl."
+
+The ogre snorted.  "And you said that your archers would end the
+troll.  Stop there!"
+
+Colonel Bonzon halted.  "I'm not going to steal her," he said
+contemptuously.
+
+"No you're not," the ogre agreed.  "But you are wearing iron."  He
+jerked his thumb over his shoulder at the forest.  "No sense drawing
+attention we don't want."
+
+Colonel Bonzon drummed his fingers on the hilt of his sword.  "As you
+wish.  Now, where is the prince?"
+
+"Somewhere safe," the ogre said.  He picked up a rock and studied it.
+"But that could change."
+
+Colonel Bonzon's fingers stilled.  "He's no use to either of us dead."
+
+The ogre grunted.  "I agree.  But he could be very useful as bait.
+We'll string him up by the old bridge.  You can have him when Linger
+is dead."  He surged to his feet more quickly than Noxy thought a
+creature his size would have been able to move.  "Tell your men not to
+miss this time."  He turned and knuckled back into the forest without
+waiting for an answer.
+
+"Stupid animal," Colonel Bonzon muttered under his breath once the
+ogre was safely out of earshot.  He turned his hawk-sharp gaze on
+Noxy.  "So, what am I to do with you?"
+
+"How about surrendering?" Noxy said recklessly, crossing her arms and
+doing her best to match his glare.
+
+The corner of the colonel's mouth quirked momentarily.  "Just like
+your mother.  No, I don't think we'll be surrendering."  His tone
+turned serious.  "And you don't need to either.  We have no interest
+in conquest.  All Her Highness wants is to set people free."
+
+"She has a strange way of showing it," Noxy said coldly.
+
+Colonel Bonzon shook his head.  "No stranger than your parents making
+you eat cabbage when you don't want to, or putting you to bed when you
+want to stay up all night.  Slaves don't set themselves free because
+they don't know what freedom is.  Someone needs to show them."
+
+"We aren't slaves!" Noxy snapped.
+
+The colonel's expression softened for a moment.  In someone else, Noxy
+might have called it sadness.  "Do you know why we don't know what
+water tastes like?" he asked quietly.  "It's because it's been in our
+mouths since the day we were born."  He turned to walk back to the
+cloud.  "Bring her," he said to the nearest archer.
+
+The archer gestured with his bow.  Fuming, Noxy stalked toward the
+cloud, cursing the colonel and the way the stones turning under her
+feet made her stumble in equal measure.  She slowed as she neared
+Grappa Gas, who hadn't moved during her exchange with Colonel Bonzon.
+
+"What are you doing here?" she hissed, stopping and kneeling down to
+fiddle with her bootlace.
+
+"I didn't have a choice," he muttered back, looking into the distance
+over her head.

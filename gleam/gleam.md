@@ -1,81 +1,82 @@
 ## Chapter 1
 
-Once upon a time, a boy named Gleam lived with his mother and father in
-a darkness that never ended. Fires crackled and burned, but cast no
-light.  Days were warm and nights were cool, but the sun never shone,
-and the stars never twinkled. People cooked their meals and mended
-their clothes by touch, because the dribs and drabs of light they had
-were too precious to waste.
+Once upon a time, a girl named Gleam lived with her mother and father
+in a darkness that never ended. Fires crackled and burned, but cast no
+light.  Days were warm, but the sun never shone.  Nights were cool,
+but the stars never twinkled. People cooked meals and mended clothes
+by touch, because the dribs and drabs of light they had were too
+precious to waste.
 
 Every day, Gleam's mother and father went into the forest to gather
-plump, rubbery mushrooms and soft, dry moss. "It rained last week,"
-one or the other would say. "I bet there'll be some ripe ones under
-the old log by the stream." Then they put their hands on the
-path-string tied to their front door. They followed it until it met
-another string, then followed that one to another. Each time two
-strings joined, they felt around for the knots and beads that told
-them which was which before going on.
+rain pearls. "There was a good storm last night," one or the other
+would say. "I bet we'll find some by the stream."  Then they put their
+hands on the path-string tied to their front door. They followed it
+until it met another string, then followed that one to another. Each
+time two strings joined, they felt around for the knots and beads that
+told them which was which before going on.
 
-Gleam's first memory was of his father teaching him to stay on the
-path, and hold onto the string. "If you ever let go, and you don't
-have any light with you, what should you do?" his father asked.
+Gleam's first memory was of her father teaching her to follow the
+strings. "If you ever let go, and you don't have any light with you,
+what should you do?" her father asked.
 
-"Stay where I am and yell for help," Gleam said. He hesitated.
-"But---what if I'm so far from the village that no-one can hear me?"
+"Stay where I am and yell for help," Gleam said.  "But what if I'm so
+far from the village that no-one can hear me?"
 
-"Don't be," his father said simply. And for days afterward, Gleam
-imagined what it would be like to wander around lost until he starved
-or fell off a cliff.
+Her father hugged her.  "That's why we never go very far," he said
+into her hair.
 
-Not everyone in Gleam's village gathered mushrooms. Some people trapped
-the wind in spider webs to make songs. Others dug up rubies and
-polished them until they were as slippery as icicles. Everyone worked
+Not everyone in Gleam's village gathered rain pearls. Some trapped
+songs in nets woven from spider webs.  Others tapped trees for their
+sap and boiled it down to make a sweet, sticky syrup. Everyone worked
 as hard as they could, every day, so that they could get some light
 from Number One.
 
-Number One came to the village every week in a creaky old wagon
-pulled by four evil-tempered snarly-dogs with crooked fangs and foul
-breath.  Tattered umbrellas stuck up from the sideboards on either
-side of the plank bench at the front of the wagon, and in its back
-were six rusty steel drums full of light.
+Number One came to the village every week in a creaky old wagon pulled
+by four evil-tempered clankers with rusty flanks and crooked fangs.
+Tattered umbrellas stuck up from the sideboards on either side of the
+plank bench at the front of the wagon, and in its back were a rusty
+steel drum full of light.
 
 Number One always parked his wagon in the middle of the village. "All
-right," he said each time, "What do you have for me this week?" The
-schoolteacher lined the villagers up. One by one they gave Number One
-their mushrooms wrapped in moss, their rubies, and their tidy little
-songs. He tossed their gifts into an old canvas sack: *thud*, *clunk*,
-*clang*. Then he pumped light from the rusty steel drums into their
-cans, jars, and bottles.
+right," he said each time, "Show me what you've got." The mayor lined
+the villagers up. One by one they gave Number One their pearls, their
+syrup, and their little wisps of song. He tossed their gifts into an
+old canvas sack, then ladeled light from the rusty steel drums into
+the cans, jars, and bottles they had brought.
 
 One by one the villagers bowed their heads and said, "Thank you,
-Number One." One by one, they poured a few drops of light into the
-schoolteacher's pail, and a thimbleful more into the barrel that was
-kept in the village square for emergencies, then walked home with
-heavy hearts.
+Number One." One by one they poured a few drops of light into the
+mayor's emergency pail and walked home, heads bowed.
 
-People struggled to make their light last as long as they could. They
-poured it out a drop at a time so that they could cook, or fix a
-broken path-string, or put new strings on a fiddle. If a boy really
-liked a girl, he might splash a little bit of light on a flower every
-day to make it bloom, then put a few small drops on its petals and
-give it to her as a present.
+People struggled to make their light last from one of Number One's
+visits to the next. They poured it out a drop at a time so that they
+could cook, or fix a broken path-string, or read (though only a few
+people read any more).  If someone really liked someone else, they
+might put a drop of light on a flower every day to make it bloom, then
+give it to them as a present.
 
-Sometimes, though, people ran out of light before the week was
-over. If their neighbors had none to lend, they had to sit in the dark
-until Number One's next visit.
+But sometimes people ran out of light before the week was over. If
+their neighbors had none to lend, they had to sit in the dark until
+Number One's next visit, or go and ask the mayor for some from the
+emergency pail.  When they did that, they always had to give back more
+than they had borrowed.  "To make sure it will always be full," the
+mayor said.  No one ever argued.
 
-That was Gleam's world. He didn't think it was strange, because he had
-never known anything different. But even when he was little, he begged
-Granna Shimmer to tell him how things had once been.
+That was the only world Gleam had ever known.  But ever since she was
+little, she had loved to hear Grandma Shimmer's stories of how things
+had been Before.
 
-"Again?" Granna Shimmer sighed. "Well, all right, but then you're going
-straight to bed." And this is what she told him...
+"Again?" Grandma Shimmer pretended to sigh every time Gleam begged her
+to tell the story again. "Well, all right, but then you're going
+straight to bed." And this is what she said...
+
+----
 
 Years ago, Gleam's people had lived in a beautiful town. Light fell out
 of the sky like rain, and there was color everywhere. But one night, a
 wicked dragon attacked. She drove the villagers into the forest, then
 somehow stole the light away. "That was the last real night there ever
-was," Granna Shimmer said, "Because you can't really have nights unless
+was," Grandma Shimmer said, "Because you can't really have nights unless
 you have days to start and end them, and there are no real days any
 more."
 
@@ -152,21 +153,21 @@ supposed to go.
 "Sir?" Gleam asked.
 
 "Do you think you really need that much light?" the teacher
-repeated. "I mean, anyone who can escape from a snarly-dog in the
+repeated. "I mean, anyone who can escape from a clanker in the
 middle of the forest without any light at all hardly needs any from
 us, wouldn't you say?"
 
 Gleam felt like his face was burning. He knew what the teacher was
 talking about. "No, sir," he mumbled.
 
-"Now, tell us, were you really chased by a snarly-dog?" the teacher
+"Now, tell us, were you really chased by a clanker?" the teacher
 asked.
 
 "No, sir," he repeated, hanging his head. He heard someone snicker.
 Behind him, Sparkle whispered, "Liar, liar, sat on fire."
 
 "No, I didn't think so," the teacher said severely. "In fact, I *know*
-you didn't, because Number One would never let his snarly-dogs chase
+you didn't, because Number One would never let his clankers chase
 anyone. Number One takes very good care of us. He brings us our
 light, and without that... Well, can you imagine how horrible life
 would be without it? Can you? I can." His voice was so cold that some
@@ -220,7 +221,7 @@ most important thing he had ever been asked to do.
 He lay in bed that night, listening to the wind run its fingers
 through the branches of the trees. He had only seen Number One and
 his wagon a few times, but he'd heard stories about him all his
-life. Some children swore that his snarly-dogs chased the ghosts of
+life. Some children swore that his clankers chased the ghosts of
 long-lost children through the forest at night. Others said that he
 never grew old, and that his skin was as hard as a rock. Gleam
 shivered, and pulled his blanket tighter around himself.
@@ -317,17 +318,17 @@ at his feet. Number One wasn't even in the village yet, but Gleam's
 heart was already racing.
 
 Then he heard them, panting and growling in the distance. The
-snarly-dogs! Someone gasped. Goosebumps broke out on Gleam's arms.
+clankers! Someone gasped. Goosebumps broke out on Gleam's arms.
 
 Sure enough, Number One's wagon rolled into town a few moments later,
 rattling and squeaking. It was smaller than Gleam remembered, but the
-snarly-dogs seemed much, much bigger. Each time the wagon hit a bump,
+clankers seemed much, much bigger. Each time the wagon hit a bump,
 flashes of light spilled from the steel drums it carried. A few drops
 stuck to the umbrellas over Number One's head, fading slowly. The
 sight was as breathtaking as the year-end fireworks, but frightening
 instead of beautiful.
 
-The snarly-dogs brought the wagon around in a big circle, so that when
+The clankers brought the wagon around in a big circle, so that when
 it stopped, it was pointed back the way it had come. The dogs
 immediately threw themselves down on the hard-packed earth, panting.
 Number One stepped down from his seat. "Oomph," he grumbled. "All
@@ -379,7 +380,7 @@ breathe.  But no one ever heard from him again.
 His father's disappearance wasn't what made Sparkle mean, though. What
 made that happen was the stories the children told. The quickest way
 to get a black eye in the schoolyard was to say out loud that
-Sparkle's father had been eaten by Number One's snarly-dogs, or by
+Sparkle's father had been eaten by Number One's clankers, or by
 Number One himself. And if you said that he had run away on purpose,
 and was living happily ever after in some other village, somewhere out
 in the darkness, well, more than your eyes would be black and blue by
@@ -435,7 +436,7 @@ The schoolteacher stepped forward with a sickly smile on his
 face. "Oh, he knows, Number One. We all know, and we're all very
 grateful that you---"
 
-One of the snarly-dogs raised its head and bared its teeth, growling
+One of the clankers raised its head and bared its teeth, growling
 deep in its throat. The schoolteacher hesitated, then stepped back,
 hanging his head. Everyone else looked at the ground too, embarrassed,
 afraid, or both.
@@ -511,7 +512,7 @@ triangle, and a round... Two squares, a round, and a triangle... That
 was it! He took the path-string in his hand and followed it into the
 forest.
 
-Gleam walked as quickly as he dared. "One of Number One's snarly-dogs
+Gleam walked as quickly as he dared. "One of Number One's clankers
 got loose and came after me," he said under his breath. That wouldn't
 work---his father would be sure to ask in the village if anyone else
 had been hurt. "The path-string was broken, so I---no, no, no." He
@@ -547,47 +548,47 @@ Gleam just stood there. His mind had gone blank. He could not believe
 what had just happened. All of his family's light, gone---and with a
 new baby about to arrive!
 
-He was still standing there when Granna Shimmer came hobbling up the
+He was still standing there when Grandma Shimmer came hobbling up the
 path. A couple of drops of light glowed inside a small glass vial that
 hung around her neck on a piece of string. She carried the rest of her
 week's ration in a battered old teakettle with a cork in its spout.
 
-Granna Shimmer stopped a few knots away from Gleam. "Who's there?" she
-asked sharply. Even in the brightest light, Granna Shimmer had a hard
+Grandma Shimmer stopped a few knots away from Gleam. "Who's there?" she
+asked sharply. Even in the brightest light, Grandma Shimmer had a hard
 time seeing.
 
-"It's Gleam, Granna," Gleam said.
+"It's Gleam, Grandma," Gleam said.
 
 "Was that your light these old eyes of mine saw?"
 
-Gleam nodded. "Yes, Granna." He stared down, where the broken bottle
-lay in pieces at his feet. At first he thought Granna Shimmer's light
+Gleam nodded. "Yes, Grandma." He stared down, where the broken bottle
+lay in pieces at his feet. At first he thought Grandma Shimmer's light
 was flickering. It wasn't until a single hot tear trickled down his
 cheek that he realized he was crying.
 
-"Oh, there, there, child," Granna Shimmer clucked. She hobbled forward
+"Oh, there, there, child," Grandma Shimmer clucked. She hobbled forward
 and put her bony arm around Gleam's shoulders. "There, there, there."
 
 Gleam shrugged her away and stepped back. "I'm all right," he lied. He
 wiped his nose with his sleeve angrily as he felt fresh tears well up.
 
-"What happened?" Granna Shimmer asked.
+"What happened?" Grandma Shimmer asked.
 
 "I---I guess I tripped," Gleam said miserably. He kicked one piece of
 the broken bottle off the path, then the other.
 
-Granna Shimmer clucked her tongue. "Tsk tsk..." she scolded, "That's
+Grandma Shimmer clucked her tongue. "Tsk tsk..." she scolded, "That's
 what comes of trying to go too fast. I've always said, the faster you
 go, the longer it takes you to get anywhere. And now look what's
 happened! It will be a long, dark week for you. Oh, and with a new
 baby on the way too, isn't that right?"
 
-"Yes, Granna." Gleam's voice caught in his throat.
+"Yes, Grandma." Gleam's voice caught in his throat.
 
-Granna Shimmer's tone softened again. "Oh, la, child, don't cry. Don't
+Grandma Shimmer's tone softened again. "Oh, la, child, don't cry. Don't
 cry. It's not the end of the world. We've already had that, and we're
 still here, aren't we? Here, you just hold on for a tick." The
-path-string went *twong* as Granna Shimmer let go of it. Leaves rustled
+path-string went *twong* as Grandma Shimmer let go of it. Leaves rustled
 as she brushed her hand through the branches over their heads. There
 was a soft *pock* as she plucked an acorn, and an even softer *ploop*
 as she pulled off its cap.
@@ -602,7 +603,7 @@ the acorn cap onto the thimble as a lid.
 "Here," she said, feeling along the string to find Gleam's hand. "You
 take this, in case you need it to find your way home."
 
-"Th-thank you, Granna," Gleam said. She patted his shoulder, then
+"Th-thank you, Grandma," Gleam said. She patted his shoulder, then
 hobbled away, clucking her tongue and muttering under her breath. The
 path-string twitched in Gleam's hand, fainter and fainter, before
 finally falling still.
@@ -626,7 +627,7 @@ fingers so fast that it burned his skin. Even so, he was too late. The
 village square was silent and empty. Number One's wagon was gone.
 
 Faintly, far away, Gleam heard the wagon's wheels go *creak, creak* as
-the snarly-dogs pulled it down the steep mountain road. "Nooo...." he
+the clankers pulled it down the steep mountain road. "Nooo...." he
 moaned. He had only missed the wagon by a minute. It wasn't fair---it
 just wasn't fair!
 
@@ -670,21 +671,21 @@ ground in front of him until he found the ruts made by the wagon's
 wheels, then crept backward into the bushes.
 
 Light flickered off to his right. Gleam heard the wagon's wheels go
-*squeak squeak*, and the snarly-dogs huff and growl as they pulled it
+*squeak squeak*, and the clankers huff and growl as they pulled it
 along. Gleam shrank deeper into the bushes. He wiped his hands on his
 shirt. He would only have one chance...
 
 The wagon rolled around the corner. Number One sat squarely in the
 middle of the plank bench at the front of the wagon. He had the
-snarly-dogs' reins in one hand, and a whip in the other. The tattered
+clankers' reins in one hand, and a whip in the other. The tattered
 umbrellas were open over his head.
 
-The snarly-dogs yipped and growled as Number One cracked his whip
+The clankers yipped and growled as Number One cracked his whip
 over their heads. A few drops of light splashed into the air every
 time the wagon bumped over a rock or a pothole, so that the whole
 scene was lit in bursts and flashes.
 
-The wagon came closer. The snarly-dogs seemed to grow bigger by the
+The wagon came closer. The clankers seemed to grow bigger by the
 second. Number One cracked his whip again, so loudly that it made
 Gleam jump in his hiding place.
 
@@ -697,12 +698,12 @@ But now what? Gleam lay there as still as a moth. Even with the wagon's
 rattling and squeaking, he was afraid to breathe in case Number One
 heard him. He suddenly realized that he had no idea what to do next.
 What if Number One *wouldn't* give him any light? How would he find
-his way home? What if---what if he fed Gleam to his snarly-dogs?
+his way home? What if---what if he fed Gleam to his clankers?
 
 Dark misgivings chased each other around inside Gleam's head as the
 wagon bumped down the mountain road. He was still trying to think of
 what to say first when Number One shouted, "Whoa! Whoa, you stupid
-creatures!"  The wagon slowed, then stopped. The snarly-dogs fell to
+creatures!"  The wagon slowed, then stopped. The clankers fell to
 the ground, wheezing and drooling.
 
 Gleam slithered forward past the steel drums and peeked through the
@@ -753,7 +754,7 @@ pulled the cloth covers off the umbrellas at either end of his bench.
 
 Gleam's eyes couldn't have gone any wider. The spokes of the umbrellas
 were not made out of willow twigs, like the ones on the umbrella
-Gleam's father had made for Granna Shimmer's birthday the year
+Gleam's father had made for Grandma Shimmer's birthday the year
 before. Instead, each spoke was a sharpened sword blade. Even in the
 faint light from Number One's teacup, their edges gleamed
 razor-sharp.
@@ -769,9 +770,9 @@ ought to get us home," he muttered as he wiped his hands clean on the
 front of his overalls. He picked up the reins and snapped them.
 
 "Haw!" Number One shouted. "Haw, you ugly creatures, get a move on!"
-The snarly-dogs leapt to their feet and pulled against their harnesses
+The clankers leapt to their feet and pulled against their harnesses
 once again. The wagon began to roll. It moved slowly at first, then
-picked up speed as the snarly-dogs hit their stride. Faster and faster
+picked up speed as the clankers hit their stride. Faster and faster
 it went, until it was practically flying down the hill.
 
 As the wagon picked up speed, the umbrellas began to spin around. The
@@ -822,8 +823,8 @@ they disappeared into the darkness.
 
 Just as they did so, the wagon plunged into the forest on the other
 side of the dry streambed. Number One picked up the reins
-again. "Whoa!" he shouted at his snarly-dogs. The wagon slowed, then
-stopped. The snarly-dogs fell to the ground, gasping for air.
+again. "Whoa!" he shouted at his clankers. The wagon slowed, then
+stopped. The clankers fell to the ground, gasping for air.
 
 Number One pulled a dirty cloth out of his pocket and wiped the sweat
 from his forehead. Without warning, he whacked the head of the cane
@@ -843,7 +844,7 @@ and let you sizzle. All right?"
 "Maybe," Number One said. He rapped the crow's head against the bench
 one more time for good measure. "But not today." He put his
 handkerchief back in his pocket, then snapped the reins. "Haw!" he
-shouted. The snarly-dogs got to their feet. The wagon rolled forward
+shouted. The clankers got to their feet. The wagon rolled forward
 once again.
 
 The road wound back and forth up, climbing the whole time. As the
@@ -857,7 +858,7 @@ He imagined what his mother and father would be doing at that moment.
 They would know he was missing---he should have been home hours
 ago. They were probably out looking for him, along with the rest of
 the village.  He wondered whether Sparkle would tell anyone what had
-happened, or if anyone would think to ask Granna Shimmer if she had
+happened, or if anyone would think to ask Grandma Shimmer if she had
 seen him. Gleam felt as sorry for himself as he had walking home in the
 dark on his tenth birthday.
 
@@ -980,7 +981,7 @@ on his face.
 The woman closed the backboard. "All set!" she said cheerfully.
 
 Number One didn't look back at her. "Haw!" he shouted. The
-snarly-dogs barked and strained at their harnesses. The wagon rolled
+clankers barked and strained at their harnesses. The wagon rolled
 forward one more time.
 
 Gleam sat with his knees up under his chin, trying to stay as far away
@@ -1034,15 +1035,15 @@ after everything he had already seen. When he realized that the tanks
 were full of light, though, his jaw dropped. There was more light in
 them than he thought there could be in the whole world!
 
-The snarly-dogs pulled the wagon toward a clear spot between the
+The clankers pulled the wagon toward a clear spot between the
 building and the storage tanks. "Lazy smelly stupid ugly creatures,"
-Number One grumbled as he cracked his whip over the snarly-dogs'
+Number One grumbled as he cracked his whip over the clankers'
 backs.  Yipping and growling, they turned the wagon around to face
 downhill.
 
 The wagon creaked as Number One stepped down onto the ground. Gleam
 held his breath, listening as carefully as he could. The moment he
-heard the *clink chink clank* of the snarly-dogs' harnesses being
+heard the *clink chink clank* of the clankers' harnesses being
 undone, he scooted on his bum to the back of the wagon and slipped
 over the backboard. The rough wood scraped against his belly as he
 lowered himself to the ground. He took one gentle step, then another,
@@ -1054,8 +1055,8 @@ care not to kick any of the spare lengths lying on the ground, and
 crouched down to hide.
 
 Just as he did so, Number One straightened up and tossed the
-snarly-dogs' harnesses into the back of the wagon. "There you go, you
-stupid creatures," he said. The snarly-dogs snapped at each other,
+clankers' harnesses into the back of the wagon. "There you go, you
+stupid creatures," he said. The clankers snapped at each other,
 then curled up with their snouts under their tails.
 
 Number One took some wooden blocks that were lying on the ground and
@@ -1085,7 +1086,7 @@ The fallen man's head thumped against the side of the building as
 Number One stepped inside. The door closed behind him with a soft
 *click*.
 
-Gleam huddled in his hiding place while the snarly-dogs worried at
+Gleam huddled in his hiding place while the clankers worried at
 itchy spots in their fur with their teeth. He was still cold and
 hungry, but he was angry now, too. There was enough light in the
 storage tanks around him to light up every home in the village for a
@@ -1093,14 +1094,14 @@ thousand years, but Number One only gave them each a cup or two at a
 time! And what was more, he made them all work so hard, then threw
 away the mushrooms and songs they had spent their days collecting!
 
-For a moment, Gleam imagined himself hitching the snarly-dogs to one of
+For a moment, Gleam imagined himself hitching the clankers to one of
 the storage tanks and dragging it all the way back the village. But
 no, the tanks were far too big. Maybe he could fill the drums in the
 back of the wagon, and take them home. He'd give some to his mother,
-for the new baby, and some to Granna Shimmer for her flower garden, and
+for the new baby, and some to Grandma Shimmer for her flower garden, and
 even some to Sparkle, just to prove that *he* wasn't a bully.
 
-Then Gleam shook his head. He was just one little boy. The snarly-dogs'
+Then Gleam shook his head. He was just one little boy. The clankers'
 teeth were as big as bananas. He couldn't just hitch them to the wagon
 as if they were somebody's pet moles. And then there was Number
 One. He was as big and as mean as ever, and Gleam was pretty sure he
@@ -1115,16 +1116,16 @@ them away like garbage. And he wondered: why did Number One keep the
 rubies, and nothing else? And then Gleam said to himself, *Well, I've
 come this far...*
 
-The snarly-dogs finally started snoring. Gleam waited a few more
+The clankers finally started snoring. Gleam waited a few more
 minutes, then stepped over the pipe and tiptoed past the wagon to the
-building.  One of the snarly-dogs snuffled in its sleep as he went
+building.  One of the clankers snuffled in its sleep as he went
 by. He froze. It licked its chops, then started to snore again. Gleam
 swallowed the knot in his throat and kept going.
 
 When Gleam reached the door, he saw that a square notch had been cut
 out of one corner, so that the pipe from the storage tanks could run
 into the building. Gleam turned the door handle slowly. The latch
-clicked. He glanced back at the snarly-dogs nervously: yes, they were
+clicked. He glanced back at the clankers nervously: yes, they were
 still asleep.
 
 Gleam opened the door and slipped inside. A little glass fruit hanging
@@ -1154,7 +1155,7 @@ arms of an enormous metal "U".
 
 He peered over the walkway railing. A thick pipe was bolted onto the
 narrow end of the telescope. It led to a pump that was as big as
-Number One's wagon, and as ugly as a snarly-dog. Spurts of light
+Number One's wagon, and as ugly as a clanker. Spurts of light
 squirted out of the pump as it whirred and clunked.
 
 Another pipe came out of the back of the pump. It snaked across the
@@ -1430,7 +1431,7 @@ stones clattered onto the floor.
 Gleam didn't stop to pick them up. He ran to the ladder and scrambled
 up as quickly as a squirrel. Behind him, the crow's head squawked,
 "Thief!  Thief! Oh, I tried to stop him, honest I did!" as Number One
-yelled, "Stop! Stop, or I'll put the snarly-dogs on you!"
+yelled, "Stop! Stop, or I'll put the clankers on you!"
 
 Gleam's feet went *clonk, clonk, clonk* on the walkway as he ran to the
 exit. Number One bellowed once more behind him as the crow's head
@@ -1440,16 +1441,16 @@ Gleam ran across the walkway, through the door, and down the hall. He
 stopped at the outside door, panting.
 
 Heavy feet clonked on the metal ladder behind him. He turned the door
-handle as gently as he could and peeked outside. The snarly-dogs were
+handle as gently as he could and peeked outside. The clankers were
 still snoring on the ground beside the wagon. He heard Number One
-shout again behind him. One of the snarly-dogs snuffled and growled in
+shout again behind him. One of the clankers snuffled and growled in
 its sleep. Gleam would have to move fast!
 
 He slipped through the door and ran to the wagon. It only took him a
 moment to kick away the blocks Number One had put against its wheels.
 He ran to the back of the wagon and pushed. It didn't budge. Faintly,
 he heard Number One bellow again inside the observatory. Another
-snarly-dog twitched its ears.
+clanker twitched its ears.
 
 Gleam put his shoulder against the wagon and pushed even harder. "Come
 on, come on!" he whimpered. His feet slipped. He dug in and pushed
@@ -1475,25 +1476,25 @@ The door burst open behind him with a crash. "Wake up you stupid lazy
 ugly warty drooling smelly things and *get him!*" Number One roared.
 
 Gleam gave the wagon one last push, then scrambled up over the
-backboard.  He glanced back to see the snarly-dogs surge to their
+backboard.  He glanced back to see the clankers surge to their
 feet. They snuffled at the ground, trying to pick up a scent. A moment
 later one of them yelped. "Yes, yes, go, go!" Number One shouted,
-kicking the nearest snarly-dog in the rump. The snarly-dogs scrambled
+kicking the nearest clanker in the rump. The clankers scrambled
 over one another and raced after the wagon.
 
 "Uh oh," Gleam said out loud. He squeezed between the steel drums and
 hopped onto the front seat, then twisted around to look back
-again. The snarly-dogs were getting closer. He slapped the seat with
+again. The clankers were getting closer. He slapped the seat with
 his hand as if that would make the wagon go faster. "Come on!" he told
 it. "Come on!"
 
-The wagon was rolling faster now, but the snarly-dogs were still
+The wagon was rolling faster now, but the clankers were still
 gaining ground. They yelped and howled as they narrowed the gap an
 inch at a time. Their fangs gleamed in the dregs of light that
 spittered and spattered from drums of light behind Gleam.
 
 But then the road tilted over the mountain's shoulder. The wagon
-picked up speed. The snarly-dogs started to fall behind. They howled
+picked up speed. The clankers started to fall behind. They howled
 with disappointment as the wagon pulled away from them.
 
 "Woo hoo!" Gleam shouted as the wagon went faster and faster down the
@@ -1513,7 +1514,7 @@ nose.
 
 "Achoo!" Gleam sneezed a big, bright, rainbow-colored sneeze down the
 front of his shirt. The bottle slipped out from between his knees and
-fell over the side of the wagon. The snarly-dogs howled as it went
+fell over the side of the wagon. The clankers howled as it went
 *clink, clank, clonk* on the road behind him.
 
 The wagon thumped back onto all four wheels. Little speckles of light
@@ -1530,7 +1531,7 @@ the side of the cliff!
 ## Chapter 9
 
 The wagon hurtled through the air. Gleam screamed in terror. The
-snarly-dogs howled with disappointment behind him. The wind whistled
+clankers howled with disappointment behind him. The wind whistled
 past his ears---except it was really his ears whistling past the
 air. All he could think was, *Now I'll never get to meet the new
 baby.*
@@ -1558,15 +1559,15 @@ branches scratched his face and arms, but he didn't care. His heart
 was beating so fast that it kicked in his chest like a baby rabbit.
 
 All of a sudden Gleam heard snuffling and growling below. The
-snarly-dogs' claws went *clack, clack, clack* on the road as they
+clankers' claws went *clack, clack, clack* on the road as they
 trotted toward his tree. They whuffled and whined as they sniffed at
 the broken railing.
 
 Gleam held his breath and clung to his tree. He felt it tremble. For a
 moment he thought that even the tree was afraid of the
-snarly-dogs. Then he realized that *he* was the one who was shaking.
+clankers. Then he realized that *he* was the one who was shaking.
 
-Gleam didn't move when the snarly-dogs turned and ran back up the road.
+Gleam didn't move when the clankers turned and ran back up the road.
 He didn't move when he could no longer hear their claws. He didn't
 even move once he could no longer hear them growling. Instead, he
 waited for his arms and legs to stop shaking. Only then did he climb
@@ -1577,7 +1578,7 @@ Without warning, hot tears welled up in his eyes. His fingers dug into
 the dry earth at the base of the tree. He screwed up his face, but a
 single sob escaped him, then another. It wasn't fair---he'd only been
 trying to make things right for Sparkle. He didn't want to be here,
-miles away from home, chased by hungry snarly-dogs, nearly falling off
+miles away from home, chased by hungry clankers, nearly falling off
 the side of a mountain, stuck in the dark with no light, no friends,
 and no idea what to do next. He just wanted to go home. His mother and
 father would be so worried...
@@ -1601,11 +1602,11 @@ one side, and rough on the other: he was going to give it to the new
 baby as a present, but his mother said no. "The baby might swallow
 it," she explained, so Gleam decided to keep it for himself.
 
-And---he froze. He had the thimble that Granna Shimmer had given
+And---he froze. He had the thimble that Grandma Shimmer had given
 him. He ran his thumb over it very gently. The acorn cap was still in
 place.  There might still be some light inside!
 
-His heart sank. Granna Shimmer had only given him three drops. They
+His heart sank. Grandma Shimmer had only given him three drops. They
 wouldn't get him very far. If only he hadn't dropped the bottle from
 Number One's workshop. There was plenty of light in it...
 
@@ -1625,7 +1626,7 @@ see it! He couldn't see the bottle!
 *Plip.* Nothing! No, wait---over there! There it was, just a few feet
 away from him, caught against the railing on the side of the road!
 
-"Thank you, Granna," he breathed. He put the thimble back in his
+"Thank you, Grandma," he breathed. He put the thimble back in his
 pocket, walked carefully over to where he had seen the bottle, and
 knelt down.  He patted the ground, lightly, carefully, until his
 fingers brushed against it. It was solid and heavy in his hands he
@@ -1643,7 +1644,7 @@ Gleam gulped. "I guess the crow's head told you to save me," he said
 uncertainly. "Can---can you talk?" The crows didn't answer.
 
 Gleam frowned. On the one hand, he knew where Number One's light came
-from, and he hadn't been eaten alive by snarly-dogs. On the other
+from, and he hadn't been eaten alive by clankers. On the other
 hand, he was a long way from home, and Number One's wagon was
 wrecked. It wouldn't ever bring any light to the village again. And it
 was all Gleam's fault...
@@ -1687,7 +1688,7 @@ whispered menacingly. He was surrounded!
 Gleam looked around wildly. Robots blocked every exit. There was
 nowhere for him to run. "Stranger... stranger..." they
 whispered. Their bald heads and fixed smiles seemed as frightening as
-the snarly-dogs' fangs and claws.
+the clankers' fangs and claws.
 
 "Don't let them know you are afraid," he whispered under his
 breath. It was what his father said the first time he came home in
@@ -1975,7 +1976,7 @@ grown-ups march into town with hoes and axes on their shoulders to
 smash Number One's pump and break open his storage tanks? How would
 they find their way there? And what would the robots do? If they were
 all as strong as #20717, they could easily turn the villagers
-away. And what about Number One and his snarly-dogs?
+away. And what about Number One and his clankers?
 
 Gleam shook his head. He would let the grown-ups figure that part out.
 Right now, he just wanted to gobble up a dozen fried peppers and a
@@ -2051,19 +2052,19 @@ so hard that it hurt. "Did you hear it?"
 This time Gleam *had* heard something rustling in the trees. All of a
 sudden he was as frightened as #20717. Could Number One somehow have
 gotten ahead of them on the road? Was that sound one of his
-snarly-dogs, snuffling around in the forest trying to find them?
+clankers, snuffling around in the forest trying to find them?
 
 He set the spare can of light on the ground, aimed the spray nozzle on
 the bottle at the sound with both hands, and then hesitated. He could
-hear someone speaking. He recognized that mutter! It was Granna
+hear someone speaking. He recognized that mutter! It was Grandma
 Shimmer, talking to herself as she walked alone through the woods!
 
-"That's not a monster," Gleam said, relieved. "That's just Granna
+"That's not a monster," Gleam said, relieved. "That's just Grandma
 Shimmer."
 
 "What's a grannapwy pooh?" #20717 asked. "Does it bite?"
 
-"Only sometimes," Gleam laughed, thinking about the time Granna Shimmer
+"Only sometimes," Gleam laughed, thinking about the time Grandma Shimmer
 had taken her false teeth out to show him. He had been six years old,
 and he had shrieked and laughed when she snapped them at him, *clack
 clack clack*.
@@ -2074,16 +2075,16 @@ house. He stepped forward cautiously with his arm in front of him
 until he felt a tree, then sprayed a few drops of light onto it, so
 that they wouldn't fade too quickly. A path string dangled between two
 gnarly old pines a dozen steps away. He wondered for a moment if
-Granna Shimmer knew how close her daily walk took her to the road.
+Grandma Shimmer knew how close her daily walk took her to the road.
 
 "Come on," he told #20717. "I know the way from here."
 
 Gleam took small, careful steps until his hand found the path string.
 "Here," he said to the robot. "Do you feel that? Just keep your hand
-on it. I'll show you who Granna Shimmer is. *Then* you'll see that
+on it. I'll show you who Grandma Shimmer is. *Then* you'll see that
 there aren't any monsters."
 
-Gleam could have run down the path to Granna Shimmer's house (even
+Gleam could have run down the path to Grandma Shimmer's house (even
 though children were never, ever supposed to run, in case they tripped
 over a fallen branch, or fell and broke the path string). Instead, he
 walked slowly, chewing his lip, thinking about the spare can of light
@@ -2094,70 +2095,70 @@ what he'd seen, one little can of light wasn't worth worrying about.
 
 The path ran straight, then went right, then right again, then left,
 then up a little rise, just nine steps. There they were, four round
-beads and two square ones, worn with age. They were at Granna Shimmer's
+beads and two square ones, worn with age. They were at Grandma Shimmer's
 house.
 
-Gleam took a deep breath and knocked on the door. "Granna!" he called.
-"Granna Shimmer! It's me, Gleam!"
+Gleam took a deep breath and knocked on the door. "Grandma!" he called.
+"Grandma Shimmer! It's me, Gleam!"
 
 "Gleam?" He heard a creak as she got up out of her rocking chair. The
 door flew open. Gleam suddenly found himself wrapped up in a fierce
 hug.
 
-"Oh, Gleam," Granna Shimmer sniffled. "What happened? I told your father
+"Oh, Gleam," Grandma Shimmer sniffled. "What happened? I told your father
 that I'd given you some light, and you were right there on the path
 string---how did you ever get lost? And how did you find your way
 back?"
 
-"I didn't get lost, Granna," Gleam said. "I went to get some more light
+"I didn't get lost, Grandma," Gleam said. "I went to get some more light
 from Number One. And you'll never guess what I found!"
 
-"What?" Granna Shimmer let go of the young boy. Gleam could almost hear
+"What?" Grandma Shimmer let go of the young boy. Gleam could almost hear
 her frown in the darkness. "You went to get some more light? What
 foolishness is this? Is this another one of your stories?"
 
 "I did!" Gleam insisted. "I jumped in the back of his wagon, and went
-all the way back to town. That's where he lives, Granna, in *our*
+all the way back to town. That's where he lives, Grandma, in *our*
 town. And you'll never guess what else I found. Look!"
 
 Gleam lifted up the can of light and sprayed a whole cupful into the
-air.  *Splurt!* Granna Shimmer's jaw dropped when she saw the robot
+air.  *Splurt!* Grandma Shimmer's jaw dropped when she saw the robot
 standing just a few paces behind Gleam.
 
 "Hello," #20717 said uncertainly, raising his hand to wave.
 
-"Oh no!" Granna Shimmer shrieked. "It's them! They've found us! They've
+"Oh no!" Grandma Shimmer shrieked. "It's them! They've found us! They've
 found us!"
 
 ## Chapter 12 ----------
 
-"Wait!" Gleam said. "He won't hurt you!" But it was too late. Granna
+"Wait!" Gleam said. "He won't hurt you!" But it was too late. Grandma
 Shimmer slammed the door shut, then yanked it open again so that she
 could grab Gleam's arm.
 
 "Get inside! Get inside!" she said frantically as she tried to drag
 him into her little house.
 
-"Granna, stop!" Gleam pulled away from her so hard that he fell down on
-the path at the robot's feet. Granna Shimmer stooped over to pick up a
+"Grandma, stop!" Gleam pulled away from her so hard that he fell down on
+the path at the robot's feet. Grandma Shimmer stooped over to pick up a
 handful of stones and threw them at the robot.
 
 "Get back! Get back, you loathsome thing!" she cried. The robot stood
 there and let the stones bounce off its head and chest.
 
-"Granna, stop, please!" Gleam pleaded again. This wasn't what was
+"Grandma, stop, please!" Gleam pleaded again. This wasn't what was
 supposed to happen!
 
-Granna Shimmer bent over to pick up some more stones. At the same time,
+Grandma Shimmer bent over to pick up some more stones. At the same time,
 the robot stepped forward to help Gleam to his feet, so that when
-Granna Shimmer straightened up, the robot was right in front of her
+Grandma Shimmer straightened up, the robot was right in front of her
 nose.
 
 "Aaagh!" she cried. She stumbled backward. Her foot slipped on the
 loose stones beneath her. As she fell backward, her head hit the door
 frame with a sickening *crack!*
 
-"Granna!" Gleam cried. He knelt down beside her and took her hand just
+"Grandma!" Gleam cried. He knelt down beside her and took her hand just
 as the last of the light he had sprayed faded away into nothing.
 
 For one gut-wrenching moment Gleam couldn't find her pulse. There!
@@ -2171,26 +2172,26 @@ had vanished.
 
 Like every other child in the village, Gleam had been taught what to do
 if something as bad as this ever happened. There was no blood, and
-Granna Shimmer was breathing: that was step one. Step two: were there
+Grandma Shimmer was breathing: that was step one. Step two: were there
 any grownups around? No. All right, he thought, step three: find
 some. He closed his eyes for a moment and tried to remember where he
-had been standing, and where Granna Shimmer had been. If she was
+had been standing, and where Grandma Shimmer had been. If she was
 *here*, then he had been *there*, so the bottle of light must be...
 
 Gleam twisted around and swept his hand over the gravel. There. He
 picked it up and squeezed the trigger handle. A few precious drops
-spluttered onto Granna Shimmer's front door. Then the can gurgled and
+spluttered onto Grandma Shimmer's front door. Then the can gurgled and
 hissed. It was empty.
 
 "Oh, great," he muttered, but there wasn't time to feel sorry for
-himself. He would have to leave Granna Shimmer on her own and go for
+himself. He would have to leave Grandma Shimmer on her own and go for
 help.
 
 But where was the robot? Gleam closed his eyes and listened as hard as
 he could. "Are you there?" he asked uncertainly. "Number two oh seven
 one seven?" No-one answered. All he could hear were forest sounds: the
 wind in the leaves, the stream in the distance. He got to his feet and
-grabbed the path string tied next to Granna Shimmer's door. He could
+grabbed the path string tied next to Grandma Shimmer's door. He could
 worry about the robot later.
 
 Gleam ran through the forest so fast that the path string practically
@@ -2200,7 +2201,7 @@ knots.
 Suddenly he heard a voice in the trees up ahead. He stopped and
 listened. There it was again. "Gleam!" Someone was calling his name.
 
-"I'm here!" he shouted back. "Come quick! Granna Shimmer's hurt!"
+"I'm here!" he shouted back. "Come quick! Grandma Shimmer's hurt!"
 
 The path string twitched as someone walked toward him. "Gleam? Are you
 there?" It was the schoolteacher.
@@ -2217,7 +2218,7 @@ looking for you!"
 that it hurt.
 
 "Never mind that," Gleam said frantically. "You have to come quickly.
-Granna Shimmer fell and hit her head."
+Grandma Shimmer fell and hit her head."
 
 "What happened?" the schoolteacher asked. Bumps on heads were
 something he understood.
@@ -2243,7 +2244,7 @@ again, *phweet phweet phweet phweet*, pause, *phoot phoot*.
 
 "Come on," he said. "Show me where she is."
 
-They walked quickly back to Granna's house, Gleam in front, the teacher
+They walked quickly back to Grandma's house, Gleam in front, the teacher
 behind him. The moment he felt the beads, Gleam said, "She's just in
 front of her door."
 
@@ -2251,7 +2252,7 @@ The schoolteacher stopped. Gleam heard the tiny pop of a cork being
 pulled from a bottle. A single drop of light flashed behind him,
 casting shadows back into the darkness.
 
-"Oh my," the schoolteacher said. Granna Shimmer was lying right where
+"Oh my," the schoolteacher said. Grandma Shimmer was lying right where
 Gleam had left her. The schoolteacher let go of the path string and
 knelt beside the old woman.
 
@@ -2264,10 +2265,10 @@ it's open."
 "All right. Help me get her inside. She's too old to be lying on the
 ground like this."
 
-Gleam grabbed Granna Shimmer's ankles while the schoolteacher took her
+Gleam grabbed Grandma Shimmer's ankles while the schoolteacher took her
 shoulders. Her legs felt as skinny as a chicken's.
 
-The schoolteacher had to use another drop of light to find Granna
+The schoolteacher had to use another drop of light to find Grandma
 Shimmer's bed. They dropped her on top of its neatly-folded blankets.
 "There," the schoolteacher said. "She'll be all right. Now tell me,
 where have you been hiding? Everybody has been looking for you---the
@@ -2346,14 +2347,14 @@ robot hadn't run away! If only---
 "Did you find him?" the voice asked. It was one of the other women
 from the village.
 
-"Yes. He's all right. So is Granna Shimmer."
+"Yes. He's all right. So is Grandma Shimmer."
 
 "Good," the woman said. "Because your wife needs you. Her time has
 come.  She's having the baby!"
 
 ## Chapter 13 ----------
 
-"I'll look after Granna Shimmer," the teacher told Gleam's father. "You
+"I'll look after Grandma Shimmer," the teacher told Gleam's father. "You
 go help with the baby."
 
 Gleam and his father ran back through the woods so fast that Gleam lost
@@ -2368,7 +2369,7 @@ mother groaning and calling his father's name inside.
 
 "You found him!" one of them said to Gleam's father.
 
-"He was at Granna Shimmer's," his father panted. "How is she?"
+"He was at Grandma Shimmer's," his father panted. "How is she?"
 
 "She's fine," an older woman said. "Go in, go in."
 
@@ -2430,7 +2431,7 @@ exhausted. *Please.*
 
 Suddenly he heard another sound, a high-pitched crying. A minute
 later, the light from inside the birthday house faded away. The woman
-who had fetched Gleam and his father from Granna Shimmer's opened the
+who had fetched Gleam and his father from Grandma Shimmer's opened the
 door.
 
 "It's a boy," she said. "They're calling him Iji."
@@ -2510,7 +2511,7 @@ burn.  The second time Sparkle thumped his arm (sneezing so that the
 teacher wouldn't hear it), Gleam just bum-shuffled out of reach.
 
 Then came recess. "Gleam's a 'fraidy bat, Gleam's a 'fraidy bat,"
-Sparkle sang. "What's the matter, snarly-dogs got your tongue?"
+Sparkle sang. "What's the matter, clankers got your tongue?"
 
 "Leave me alone," Gleam said angrily. "I was only trying to help. I was
 only trying to help *you*, remember? You were the one who didn't get
@@ -2557,9 +2558,9 @@ He was holding the bag, wondering what he could do to make things
 right, when he heard footsteps on the path. "Hello from the house," he
 called.
 
-"Hello there." It was Granna Shimmer.
+"Hello there." It was Grandma Shimmer.
 
-Gleam stood up. "Hello, Granna," he said. "How are you feeling?"
+Gleam stood up. "Hello, Grandma," he said. "How are you feeling?"
 
 "Oh, I'm fine. My head's taken harder knocks than that one. I've come
 to see the new baby. I missed its birthday, what with all the
@@ -2568,50 +2569,50 @@ excitement."
 "I'm sorry," Gleam said. She patted his shoulder with a bony hand and
 knocked on the door.
 
-Gleam stayed outside on his stump while Granna Shimmer said all the
+Gleam stayed outside on his stump while Grandma Shimmer said all the
 things that old women say to young women about new-born babies. Oh, he
 was a big one, wasn't he? Such soft skin... And such little ears, and
 such tiny fingers. Gleam wondered if people had said the same things
 about him. He was sort of afraid that they had.
 
-Finally Granna Shimmer said goodbye to Gleam's mother and came back
+Finally Grandma Shimmer said goodbye to Gleam's mother and came back
 outside. "He's a fine little boy," she sighed. "Just like you were."
 
 "Thank you," Gleam said, not knowing what else to say.
 
-Granna Shimmer chuckled. Her hand found his shoulder. "Now," she said,
+Grandma Shimmer chuckled. Her hand found his shoulder. "Now," she said,
 her tone turning serious, "Why don't you walk with me for a bit? I
 think we have some things to talk about."
 
 ## Chapter 14 ----------
 
-Gleam's heart sank. He was sure Granna Shimmer was going to give him a
+Gleam's heart sank. He was sure Grandma Shimmer was going to give him a
 lecture about running away, or about making her fall and hit her head.
-He didn't think he could stomach another lecture. "All right, Granna,"
+He didn't think he could stomach another lecture. "All right, Grandma,"
 he sighed. He put the old canvas bag in the odds-and-ends box next to
 the front door and followed her up the path.
 
-Granna Shimmer turned right at the main path string, instead of turning
+Grandma Shimmer turned right at the main path string, instead of turning
 left toward the village. Gleam trudged along behind her in silence,
 wondering where they were going. This path led into the forest, toward
 an old stream whose gravel banks had been picked clean of rubies long
 before Gleam was born.
 
 Gleam heard the stream burbling as they approached the end of the path
-string. "Used to be just here," Granna Shimmer muttered. "Ah! There we
-are. Now, come sit with me, young man." Granna Shimmer lowered her
+string. "Used to be just here," Grandma Shimmer muttered. "Ah! There we
+are. Now, come sit with me, young man." Grandma Shimmer lowered her
 creaky old bones onto a fallen log and patted the wood beside
 her. Gleam stretched out until he felt the log, then let go of the path
 string and sat down next to her.
 
-"I used to come here, oh, every week, at least," Granna Shimmer said
+"I used to come here, oh, every week, at least," Grandma Shimmer said
 softly. "Back when I was about your mother's age. My husband would
 look after our children for an afternoon, and I'd come out here, and
 take off my clothes, and go for a swim in the stream, all on my own."
 She sighed.
 
 "What's a 'swim'?" Gleam asked, not really wanting to think about
-Granna Shimmer taking off all her clothes.
+Grandma Shimmer taking off all her clothes.
 
 "What? Oh, swimming means playing in the water. Floating in it, and
 splashing around, and holding your breath and diving like a fish. I
@@ -2623,7 +2624,7 @@ village, he had been taught to be very careful around water. You could
 drown so easily, or lose your bearings and come out on the wrong side
 of the stream, or be swept away, and never be heard from again.
 
-"Oh, it's safe enough once you know how," Granna Shimmer said. "But I
+"Oh, it's safe enough once you know how," Grandma Shimmer said. "But I
 don't suppose anyone swims any more, do they? No, I don't suppose they
 could learn... Not in the dark."
 
@@ -2631,13 +2632,13 @@ Gleam bent over and picked up a couple of pebbles. "I guess not." He
 tossed the first one into the water. *Ploop!* He tossed the second.
 *Ploop!*
 
-The silence stretched. Gleam and Granna Shimmer sat side by side, lost
+The silence stretched. Gleam and Grandma Shimmer sat side by side, lost
 in their own thoughts. Finally the old woman sighed again. "A lot of
 things were different back then," she said, almost to herself. "But
 then everything changed. I've told you the story, haven't I? About the
 night the dragon came?"
 
-"Yes, Granna," Gleam said.
+"Yes, Grandma," Gleam said.
 
 "I was getting ready for bed," she continued, as if she hadn't heard
 him. "I brushed my teeth, and picked out a story for my father to read
@@ -2666,7 +2667,7 @@ run away. I didn't have time to get dressed---I just put on my rubber
 boots, and took my mother's hand, and ran out in my pajamas. My father
 went to help put out the fires. I never saw him again."
 
-Granna Shimmer paused again. Gleam heard a faint squelch as she wiped
+Grandma Shimmer paused again. Gleam heard a faint squelch as she wiped
 her eyes. "I'm sorry," the young boy said awkwardly.
 
 "Oh, that's all right," the old woman lied. "It was a long time ago."
@@ -2716,14 +2717,14 @@ else. I remember looking back over her shoulder at the fires,
 wondering what was going to happen to us. That was the last time I
 ever saw my home."
 
-Gleam opened his mouth to say, "I'm sorry," again, but Granna Shimmer
+Gleam opened his mouth to say, "I'm sorry," again, but Grandma Shimmer
 wasn't finished. "That was also the last time I saw one of
 those... those...  whatever they were, the bald people with the
 smiles. Until the other night, that is." Gleam heard her shift her
 weight on the log beside him.  "There was one of them with you when
 you knocked on my door, wasn't there?"
 
-"Yes, Granna," Gleam said. "Number two oh seven one seven."
+"Yes, Grandma," Gleam said. "Number two oh seven one seven."
 
 "What?" she asked sharply.
 
@@ -2737,7 +2738,7 @@ the leaves off the streets. Even the streetlights work."
 tell you about them?"
 
 "I *saw* them," Gleam said angrily. For a moment, he had thought that
-Granna Shimmer was going to believe him---that she was going to make
+Grandma Shimmer was going to believe him---that she was going to make
 everyone believe him. "And the fountain in the middle of town. *And*
 the ob---the ob-ser-va-tor-y." He sounded the word out
 carefully. "That's where Number One has his workshop."
@@ -2748,7 +2749,7 @@ bald man. He was really there, wasn't he? And you really did go back
 to town with Number One."
 
 Gleam could hardly believe his ears. All he could think to say was,
-"Yes, Granna. But no-one believes me. My father and the schoolteacher
+"Yes, Grandma. But no-one believes me. My father and the schoolteacher
 don't, anyway."
 
 "I'm still not sure *I* believe you," she replied sharply. "But...
@@ -2759,7 +2760,7 @@ telescope."
 
 "I saw the telescope," Gleam said. "It was like a tree, only it was
 being held up by a thing like this." He brushed his fingers along the
-log until he found Granna Shimmer's hand, then made a 'U' with his own
+log until he found Grandma Shimmer's hand, then made a 'U' with his own
 for her to feel.
 
 "Yes..." she said. "It was like that. It was so they could tilt it up
@@ -2800,11 +2801,11 @@ old woman, lost in despair. The stream burbled past them on its way
 down the mountain, not knowing light from darkness, and not caring,
 either.
 
-"Well, we're not going to change the world today," Granna Shimmer
+"Well, we're not going to change the world today," Grandma Shimmer
 finally said. She *oophed* as she got up from the log. "So I suppose
 we should both get back to our chores."
 
-"Yes, Granna," Gleam said obediently. She was right. He should go and
+"Yes, Grandma," Gleam said obediently. She was right. He should go and
 finish his chores. But then...
 
 ## Chapter 15 ----------
@@ -2870,7 +2871,7 @@ Which was exactly where he wanted to be. He had tossed and turned all
 night, trying to think of a better plan, but it always came down to
 the same question: where could he get enough light? Not his mother and
 father---they only had a few drops, which they needed to help the baby
-learn how to see. Not Granna Shimmer---even if she believed him, she
+learn how to see. Not Grandma Shimmer---even if she believed him, she
 would say it was too dangerous. And everyone else still thought he was
 a liar.
 
@@ -3011,7 +3012,7 @@ snarled. "Don't you think you've caused enough trouble? Don't you
 think you've shamed your mother and father enough? First you pick a
 fight with Sparkle. Then you spill all of your family's light, then
 you run away---when your mother is having a baby, no less! When you
-come back, you nearly split Granna Shimmer's head open. And if that
+come back, you nearly split Grandma Shimmer's head open. And if that
 wasn't enough, you keep telling these ridiculous stories, even after I
 told you not to! Gleam, everyone wants more light. No-one likes having
 to work as hard as we do for the little we get. But we should be
@@ -3055,7 +3056,7 @@ light. Your parents, and everyone else. I will *not* have you stirring
 everyone up with your crazy stories. And if I ever think, even for a
 moment, that you really have done something as log-headed as chasing
 after Number One, I will drag you out into the darkness myself and
-tie you to a tree and whistle until the snarly-dogs come for you. Now,
+tie you to a tree and whistle until the clankers come for you. Now,
 go home."
 
 With that, the teacher turned and walked away, muttering to
@@ -3103,7 +3104,7 @@ would have believed me if they'd seen you. Why did you run away?"
 
 Silence, and then, "I was scared," the robot said quietly. "I had
 never been scared before. I guess my old brain wasn't smart enough for
-it. But then the Granna Shimmer monster started making all that noise,
+it. But then the Grandma Shimmer monster started making all that noise,
 and throwing stones at me. I didn't know it was a game. I didn't know
 what games were, really, until I heard you and your friends playing
 some."
@@ -3131,11 +3132,11 @@ you're telling the truth for a change, have you?" Gleam asked glumly.
 see you. Then they'd *have* to believe me."
 
 "Do you think so?" the robot said doubtfully. "I think they would just
-throw stones at me like the Granna Shimmer monster did. Especially if
+throw stones at me like the Grandma Shimmer monster did. Especially if
 that loud man you were just talking to tells them to."
 
 Gleam sighed dejectedly. "You're probably right. Anyway, you shouldn't
-call Granna Shimmer a monster."
+call Grandma Shimmer a monster."
 
 "But she threw stones," the robot replied reasonably.
 
@@ -3203,16 +3204,16 @@ says?"
 
 Gleam sat in the dark beside the skeleton of Sparkle's father, with the
 heavy silver belt buckle in his hand. It was supposed to have been
-Sparkle's... And Granna Shimmer never got to go on a bike ride with her
+Sparkle's... And Grandma Shimmer never got to go on a bike ride with her
 father... He took a deep breath. Sometimes knowledge was as strong as
 gravity...
 
-"All right," Gleam said. "But this time, I'm going to tell Granna
+"All right," Gleam said. "But this time, I'm going to tell Grandma
 Shimmer where I'm going."
 
 ## Chapter 17 ----------
 
-Granna Shimmer wasn't home, so Gleam left her a note. *Dear Granna*, it
+Grandma Shimmer wasn't home, so Gleam left her a note. *Dear Grandma*, it
 said, *The robot came back. We are going to town to get the other
 robots to help us.* He hesitated. Should he tell her what had happened
 with the teacher? Gleam tapped his writing pin against the leaf for a
@@ -3290,7 +3291,7 @@ to---she still says sometimes that we shouldn't stop hoping. That he
 might still..." Finally, he broke down and cried.
 
 Gleam swallowed the lump in his throat. "Hey, llisten. I have to go
-now.  I'm sorry, but I do. I left a note for Granna. If..." He
+now.  I'm sorry, but I do. I left a note for Grandma. If..." He
 swallowed. "If I don't come back, she'll know what happened. All
 right?"
 
@@ -3556,7 +3557,7 @@ finish this.
 Finally he saw the glow from the storage tanks up ahead. Gleam left the
 road and crept forward as quietly as he could through the
 forest. There they were, with the tangle of pipes at their feet. And
-there were the snarly-dogs, on guard instead of snoring. They paced
+there were the clankers, on guard instead of snoring. They paced
 back and forth, snuffling at the ground and sniffing at the air, with
 their ears up, and their lips curled back from their ugly fangs.
 
@@ -3564,18 +3565,18 @@ Gleam watched them for a few minutes, then looked up at the nearest
 crow.  "All right," he told it. "Here's what I want you to do."
 
 A few moments later, a lone black bird swooped down out of the
-darkness to peck at a snarly-dog's head. The snarly-dog leapt into the
+darkness to peck at a clanker's head. The clanker leapt into the
 air and snapped its jaws, but the crow had already wheeled out of
-reach. Another crow swooped down on another snarly-dog, then another.
+reach. Another crow swooped down on another clanker, then another.
 
-Soon the air was aswirl with crows. The snarly-dogs jumped at them,
+Soon the air was aswirl with crows. The clankers jumped at them,
 but the crows were too quick. Yelping and howling with frustration,
-the snarly-dogs didn't notice that they were slowly being led away
+the clankers didn't notice that they were slowly being led away
 from the observatory.
 
 "Now!" Gleam snapped. The crows on his arms and shoulders flapped their
 wings. Up, up, up they lifted him, up to the tops of the trees, up so
-high that the snarly-dogs wouldn't notice them.
+high that the clankers wouldn't notice them.
 
 The crows carried him to the observatory's round roof. Gleam's sandals
 brushed against it. "Gently," he whispered. The crows lowered him
@@ -3586,7 +3587,7 @@ himself against the wall and waited.
 
 Sure enough, the door banged open just a few moments later. "What's
 going on here?" Number One bellowed. "You stupid brutes! What are you
-doing?" He lumbered across the gravel, swatting snarly-dogs as he
+doing?" He lumbered across the gravel, swatting clankers as he
 went.
 
 Gleam dropped to the ground and ducked into the observatory. His feet
@@ -3622,7 +3623,7 @@ curved like a crow's. Her dark scales glistened as the light faded
 away.
 
 "Hurry up!" the crow's head squawked. "Put me back in my head before
-Number One finds us, or the snarly-dogs will have us both for
+Number One finds us, or the clankers will have us both for
 dinner!"
 
 The crow's head clamped its beak onto Gleam's belt. Gleam sprayed more
@@ -3648,10 +3649,10 @@ forest all day long, and for what? For what? He just throws everything
 away, doesn't he?"
 
 "I'm warning you," Number One said loudly. He pointed a fat finger at
-Gleam. "If you put her back in her head, you'll wish the snarly-dogs
+Gleam. "If you put her back in her head, you'll wish the clankers
 had gotten you!"
 
-As if on cue, the biggest and ugliest of the snarly-dogs came racing
+As if on cue, the biggest and ugliest of the clankers came racing
 around the corner. It howled horribly as it galloped straight for the
 dragon.
 
@@ -3661,7 +3662,7 @@ sinister *snick*.
 
 ## Chapter 19 ----------
 
-The snarly-dog howled in triumph as it leaped at Gleam's leg. Just as
+The clanker howled in triumph as it leaped at Gleam's leg. Just as
 its jaws were about to close on him, an enormous scaly foot swatted it
 sideways. It flew head-over-tail through the air and thudded again the
 observatory wall.
@@ -3801,7 +3802,7 @@ but I can smell you."
 Gleam froze. His heart was pounding. His hands were clammy against the
 telescope lens.
 
-The telescope ... What had Granna Shimmer said? It concentrated the
+The telescope ... What had Grandma Shimmer said? It concentrated the
 light.  If the little lens in his pocket could make a beam bright
 enough to hurt the dragon...
 

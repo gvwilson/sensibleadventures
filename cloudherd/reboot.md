@@ -204,8 +204,6 @@
     afraid of.  Noxy falls asleep hearing Tasteless's cloud in the
     distance.
 
---
-
 16. [conflict + fight / day 5] Kulbinder wakes Noxy to say that
     soldiers are coming - Tasteless must have ferried them in.  Dorbu
     gets to the cave first and tries to persuade Thokmay to give

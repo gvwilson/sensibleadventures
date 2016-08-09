@@ -6134,5 +6134,75 @@ Grappa Gas, who hadn't moved during her exchange with Colonel Bonzon.
 "What are you doing here?" she hissed, stopping and kneeling down to
 fiddle with her bootlace.
 
-"I didn't have a choice," he muttered back, looking into the distance
-over her head.
+"I didn't have a choice," he muttered back, anguish etched on his
+face.
+
+Noxy froze.  "Is everyone all right?"
+
+Before Grappa Gas could answer, the bowman behind Noxy said, "Load up,
+respected.  The colonel wants us moving."
+
+She pulled herself up onto Pillow and sat cross-legged as far away
+from Colonel Bonzon as she safely could.  The colonel ignored her.
+"Get us out of here," he ordered.  With a nod, Grappa Gas laid a
+gentle hand on Pillow.  A moment later the cloud rose gently into the
+air and turned east.
+
+The moon's scarred face looked down on them as they flew toward the
+unborn sunrise.  Noxy lay back with her fingers laced behind her head,
+letting herself sink into the cloud to get out of the wind.  When she
+had been little, four stars just below the moon had formed an
+almost-perfect square.  They had moved far enough since then that they
+now made a slightly uneven diamond.  A Hett trader who dabbled in
+fortune telling had said that meant the world was due for a big
+change, but Granna Fee had laughed when Noxy told her.  "The world's
+always changing," she had said, kissing the top of her granddaughter's
+head, "And it's always big for someone."
+
+Noxy yawned and rubbed her gritty eyes.  There was nothing she could
+do until they got wherever they were going.  *And probably nothing
+even then,* she admitted to herself glumly.  She might as well sleep.
+
+She yawned again, stretched, and rolled onto her side.  She had slept
+on clouds more times than she could count.  It was the most
+comfortable bed in the world as long as she pillowed her head on her
+arm so that her face didn't sink in.  She patted Pillow
+affectionately, hoping yet again that Big Blue was all right.
+
+*Good?* Pillow mind-asked.
+
+*Good,* Noxy replied muzzily.
+
+The cloud was silent for a moment, and then, *Others?*
+
+Noxy blinked.  *What?*
+
+*Others?* Pillow repeated timidly.  *He asks.*
+
+Noxy's eyes snapped open.  He?  That could only be Grappa Gas.  He
+must be using Pillow to pass messages so that the soldiers couldn't
+hear.
+
+She closed her eyes.  *I don't know,* she mind-spoke.  *They were
+fighting.  We got separated.*
+
+There was a long pause before Pillow mind-asked, *Why were they
+fighting?*
+
+Noxy repressed a sigh.  This was going to take a while...
+
+Slowly, with many repeats and misunderstandings, she told Grappa Gas
+what had happened since she had fled Stale while he filled her in on
+events in the village.  Everyone had to stay in their houses except
+the children---they were all in the "people pen", which she guessed
+meant the trading hall.  Pillow seemed puzzled by how shocked and
+angry Noxy was when she mind-heard that.  *People always do to clouds
+in spring,* she observed, shaping an image of cloudherds separating
+year-old calves from their mothers during the annual roundup.
+
+*But why are you herding for the rebels?* Noxy asked.  It took three
+tries to get Pillow to understand---eventually, Noxy had to turn the
+question into, *Why Grappa Gas follows soldier big bull?*
+
+The reply that came back chilled her more than the night wind.  *Aft
+hurt.*

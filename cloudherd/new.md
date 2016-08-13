@@ -1294,7 +1294,7 @@ sheep."
 
 "That's because they haven't rained for a while," Noxy explained
 defensively.  "Rash and I will probably take them out tomorrow and let
-them rain over the fish pond.  Here, come with me."
+them rain over the fishpond.  Here, come with me."
 
 Descending the stairs was even harder on her knees than climbing them.
 Rather than cutting directly through the village, she led Thokmay on a
@@ -1709,7 +1709,7 @@ as an old cloud," just like he always did when he took *her* for a
 ride.  At least he hadn't brought some maple twists to share with
 Thokmay---at least, she *hoped* he hadn't.
 
-*He'll let Pillow rain on the fish pond first,* she thought, *That
+*He'll let Pillow rain on the fishpond first,* she thought, *That
 way, she won't be fidgety.*
 
 Sure enough, Grappa Gas brought the cloud around in a graceful turn
@@ -3328,7 +3328,7 @@ hurt someone else?"
 "Sh!" Thokmay took a step toward her.  "The soldiers will hear you!"
 
 "I don't---" Noxy bit back the rest of her sentence.  She wished he
-had drowned in the fish pond.  No, she wished the soldiers had never
+had drowned in the fishpond.  No, she wished the soldiers had never
 come to Stale, that the forest had devoured them or that they had
 surrendered or Princess Shudarga had never rebelled in the first
 place.  She wished she was riding a cloud and the only thing she had
@@ -6202,7 +6202,67 @@ year-old calves from their mothers during the annual roundup.
 
 *But why are you herding for the rebels?* Noxy asked.  It took three
 tries to get Pillow to understand---eventually, Noxy had to turn the
-question into, *Why Grappa Gas follows soldier big bull?*
+question into, *Why Grappa Gas follows big bull soldier?*
 
 The reply that came back chilled her more than the night wind.  *Aft
-hurt.*
+hurt.*  Pillow didn't use his name, but her mental picture was clear:
+big, always arguing, and fiercely in love with the clouds he rode.
+There was no one else it could be.
+
+*How?  Ask him how?*  Noxy demanded.
+
+Before Pillow could pass on the question, Grappa Gas spoke aloud.
+"There's the bridge," he told the colonel, pointing.  "Do you want me
+to set her down?"
+
+"No.  Bring us close, but don't touch anything, not even the
+treetops."  The colonel had his hands clasped behind his back as if
+reviewing a parade.  If he felt the cold, he didn't show it.
+
+He turned to his men.  "Get ready," he ordered.
+
+"Yes, respected," they said in unison.  One opened a pack, took out a
+jug, and began sprinkling its contents on his hands and wiping them on
+his partner's face, clothes, and boots.
+
+"Kills their scent," Colonel Bonzon told Noxy.  "Standard when you're
+dealing with the Gifted."  As the first soldier began anointing
+himself, the second pulled a coil of rope from the pack.
+
+As Pillow descended, Noxy could finally see a sparse patch in the
+forest left by a long-ago fire.  The trees in it were crowded together
+but half the height of their older siblings.  A few blackened spires
+still rose in their midst, too proud to fall over even after death.
+
+An ancient stone bridge straddled the narrow river that ran across one
+half of the clearing.  Still deep in shadow, its heavily-mossed sides
+made it look like some great shaggy beast.  It had to be the work of
+the Pilot Angels, Noxy realized.  No one else would have dared build
+anything so deep in the forest.
+
+"There."  The colonel pointed at a tall pine on the edge of the
+clearing.  With a mind-spoken command, Grappa Gas steered Pillow
+toward it.  A few moments later, the first of the archers slid down
+the rope to conceal himself in its branches.  The second followed suit
+a few dozen heartbeats later and fifty strides away.  When Noxy looked
+back, the first archer was already lost to view.
+
+"Late as usual," the colonel muttered under his breath.  Noxy
+scrambled to Pillow's flank to look.  At first she couldn't see
+anything, but then she caught a flash of motion between the
+densely-packed young trees.  Another, another, another...  Dozens of
+trolls were picking their way through the densely-packed young trees
+toward the bridge like minnows swimming through weeds.
+
+She caught her breath.  There---that was Dragger.  And the struggling
+bundle on his shoulder could only be Thokmay.
+
+She spun around.  "Do you really think Linger's going to be stupid
+enough to come after him?" she spat at Colonel Bonzon.
+
+The colonel smiled coldly.  "What makes you think I give a damn about
+the troll?"  Before Noxy could reply, he began unbuttoning his uniform
+jacket.  Handing it to a waiting soldier, he slipped his arms into a
+climbing harness while another soldier reeled in the rope that the two
+archers had used to lower themselves to their perches.  All the while,
+he kept his eyes on the scene unfolding below.

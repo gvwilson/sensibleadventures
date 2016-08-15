@@ -256,8 +256,8 @@ Aft broke the silence that followed.  "So which side of the fight
 *are* you on?" he asked, his voice still belligerent but three notches
 less rude than it had been.
 
-"I have the privilege of serving Her Highness, Princess Shudarga,"
-Sergeant Dorbu said calmly.
+"I have the privilege of serving the most respected Princess
+Shudarga," Sergeant Dorbu said calmly.
 
 "Rebels..." breathed a voice behind Noxy.  She and Sensy jumped and
 spun around.  Rash had sidled up behind the two girls, but instead of
@@ -2725,10 +2725,10 @@ glanced sideways.  "And the Gifted?"
 
 "He's with us too, respected."  Sergeant Dorbu cleared his throat.
 "May I asked, respected, what is---oh."  The soldier blinked rapidly,
-then inhaled and bellowed, "Canaries---reeee... spect!" once again
-as Her Highness Princess Shudarga, formerly *tral-tralpa* of the six
-districts that made up the northern quarter of Gandan, now leader of
-the rebellion, slid down off the cloud onto the mounting platform.
+then inhaled and bellowed, "Canaries---reeee... spect!" once again as
+the most respected Princess Shudarga, formerly *tral-tralpa* of the
+six districts that made up the northern quarter of Gandan, now leader
+of the rebellion, slid down off the cloud onto the mounting platform.
 
 She was not much taller than Noxy, stocky and broad-shouldered like a
 stonemason.  The golden thread in embroidered collar of office around
@@ -2738,7 +2738,7 @@ seemed as white as the snow-capped peaks around them.
 "Well, this is a pleasant surprise," she said warmly.  "Colonel Bonzon,
 could you introduce us please?"
 
-"My apologies, Your Highness.  Sergeant?"
+"My apologies, most respected.  Sergeant?"
 
 It shouldn't have been possible for Sergeant Dorbu to straighten up
 any further, but somehow he managed it.  "Dorbu, respected, acting
@@ -2753,7 +2753,7 @@ The princess acknowledged their bows with a slight nod.  "And how, may
 I ask, did the second regiment's fifth troop wind up here?  Aren't you
 supposed to be in Chaghan?"
 
-Sergeant Dorbu grimaced.  "About that, Your Highness..."
+Sergeant Dorbu grimaced.  "About that, most respected..."
 
 The villagers might as well not have been there as Colonel Bonzon and
 the princess peppered Sergeant Dorbu with questions on the walk back
@@ -2782,14 +2782,14 @@ possible.
 "Now, what about these trolls?" the princess asked.  "How aggressive
 were they?"
 
-"They're mostly not trouble at all, Your Highness," Aft broke in, all
+"They're mostly not trouble at all, most respected," Aft broke in, all
 trace of his usual belligerence gone.  "Not so long as we keep to
 what's ours and don't disturb what's theirs."
 
 "Good," she said crisply.  "And the forest itself?  How likely are we
 to be able to get troops through to Chaghan?"
 
-Sergeant Dorbu shook his head.  "Sorry, Your Highness.  A few rangers
+Sergeant Dorbu shook his head.  "Sorry, most respected.  A few rangers
 might make it, but nothing more."  She pursed her lips at that, but
 didn't reply.
 
@@ -2809,9 +2809,9 @@ need to tell you your job."  She yawned suddenly, then blinked as if
 she was as surprised by it as everyone else.  "And mayor, if there's
 any chance of a bath, I'd be eternally grateful."
 
-"Of course, Your Highness," Indy said.  "My daughter and her friends
+"Of course, most respected," Indy said.  "My daughter and her friends
 can lay one on for you right away.  But---" she hesitated.  "Forgive
-me asking, Your Highness, but what are you doing here?"
+me asking, most respected, but what are you doing here?"
 
 Princess Shudarga looked at her bleakly.  "Running away.  The
 rebellion is over.  We lost, and the only thing we can do now is live
@@ -2957,7 +2957,7 @@ health," he said, raising his to toast them.
 to hospitality.  Finding safe haven here was the first good thing to
 happen to us in quite some time."
 
-"So what happened, Your Highness?" Grappa Gas asked, settling back in
+"So what happened, most respected?" Grappa Gas asked, settling back in
 his chair.  "Last we heard before the sergeant here showed up, you and
 yours had the upper hand."  From where she stood, Noxy could see the
 kick her mother aimed at his good leg even if the princess and the two
@@ -2971,7 +2971,7 @@ more took up our banner every day.  If we had pressed a little harder,
 moved a little faster..."  She shook her head, her thoughts far from
 Stale's one-story wooden trading hall.
 
-"You wanted to save lives, Your Highness," Colonel Bonzon said.
+"You wanted to save lives, most respected," Colonel Bonzon said.
 "There's no dishonor in that."
 
 The corner of her mouth quirked up in a brief half-smile.  "Thank you,
@@ -3487,7 +3487,7 @@ not, we're on our own."
 "What about Tasteless?" Noxy asked hesitantly.  "Couldn't we---"
 
 But the three grownups were already shaking their heads.  "I'd trust
-Her Highness before I'd trust him," Granna Fee said firmly.
+the most respected before I'd trust him," Granna Fee said firmly.
 
 "Well then, what about the two soldiers in the tunnel?" Noxy continued
 hurriedly before anyone else could speak.  "If they escaped, it
@@ -3636,8 +3636,8 @@ talk."  She quickly explained what Noxy had heard and what they had
 decided to do.
 
 His face hardened as she spoke.  "I don't believe it," he said flatly
-when she finished.  "Her Highness is on *our* side---on everyone's
-side.  She wouldn't do something like that."
+when she finished.  "The most respected is on *our* side---on
+everyone's side.  She wouldn't do something like that."
 
 "So do you think I just made it up?" Noxy demanded angrily.
 
@@ -3817,8 +3817,8 @@ She barely saw the soldiers she passed on the way.  Kulbinder's deep
 voice from around the next corner brought her back to the world.  "Of
 course, respected, as soon as he's back, but I---"
 
-"And when will that be?" Colonel Bonzon interrupted sharply.  "Her
-Highness wants to review *all* her troops, *today*, whether it's
+"And when will that be?" Colonel Bonzon interrupted sharply.  "the
+most respected wants to review *all* her troops, *today*, whether it's
 convenient for them or not."
 
 Noxy glanced over her shoulder.  The nearest soldiers were three
@@ -3830,10 +3830,10 @@ bent over as if tying her bootlace.
 this afternoon.  If you would like, I could go to fetch him right
 now."
 
-"Do that," the colonel ordered.  "And make sure he's presentable.  Her
-Highness is *not* happy about you letting the prisoners get away, and
-having your boy show up looking like an unwashed beggar will *not*
-improve her mood."
+"Do that," the colonel ordered.  "And make sure he's presentable.  The
+most respected is *not* happy about you letting the prisoners get
+away, and having your boy show up looking like an unwashed beggar will
+*not* improve her mood."
 
 "Understood, respected."
 
@@ -3845,7 +3845,7 @@ asked, "Did you catch all of that?"
 
 "My conversation with the good colonel," the tiger said impatiently.
 His tail twitched.  "He wants Thokmay to be in his little parade this
-afternoon for Her Highness, but we can't let that happen."
+afternoon for the most respected, but we can't let that happen."
 
 "Why not?"
 
@@ -4170,7 +4170,7 @@ said.  She called you 'Prince Thokmay'."
 
 The tiger and his boy exchanged looks.  The tiger blinked first.
 "Probably Noxious of Stale Leftovers," he said formally, "Allow me to
-introduce you to His Royal Highness Prince Thokmay, heir to the throne
+introduce you to the most respected Prince Thokmay, heir to the throne
 of Gandan."
 
 ## Chapter 12: Abandoned
@@ -4279,8 +4279,8 @@ fields in the Ninety Kingdoms.  She had no chance of doing that on her
 own---no chance of doing anything except get out of their way or go
 under them and hope she didn't spook them.
 
-"Get the blanket," she said to Thokmay, belatedly adding, "Your
-Highness.  Tuck it in around Kulbinder---it isn't much, but it's all
+"Get the blanket," she said to Thokmay, belatedly adding, "Most
+respected.  Tuck it in around Kulbinder---it isn't much, but it's all
 we have to keep him warm."
 
 "How bad is it going to get?" Thokmay asked, reaching for the pack.
@@ -4397,8 +4397,8 @@ The warm smell of burning pine slowly filled the hut.
 
 Thokmay stirred.  "Thank you," he said quietly.
 
-"You're welcome... Your Highness."  Noxy tossed some scraps of bark on
-the fire as she added the last phrase.
+"You're welcome... most respected."  Noxy tossed some scraps of bark
+on the fire as she added the last phrase.
 
 "I'm sorry for not telling you sooner," the prince said.  "But we
 didn't know who we could trust."
@@ -4414,8 +4414,8 @@ distraction was our best chance of---"
 "I'm tired of using people," Thokmay snapped.  "I'm tired of people
 getting hurt because I'm royal and they're not."
 
-The tiger's tail twitched.  "Those almost sound like rebel words, Your
-Highness."
+The tiger's tail twitched.  "Those almost sound like rebel words, most
+respected."
 
 Thokmay clambered to his feet.  "I'll take first watch," he told Noxy,
 striding to the door and banging it shut behind him.
@@ -4463,7 +4463,7 @@ closer."  The prince knelt in front of the fire and chafed his hands.
 Tiny beads of sweat glistened on his dark skin.  As Kulbinder turned
 toward the door, Thokmay put out a hand to stop him.
 
-"I need to see for myself, Your Highness," the tiger rumbled.
+"I need to see for myself, most respected," the tiger rumbled.
 
 "You need to rest," the prince replied firmly.  "Noxious and I will
 keep an eye on them."
@@ -5362,7 +5362,7 @@ cloudback again.
 
 Kulbinder growled.  Ulfmaerr's magic had closed and scarred his wound
 while he slept, but he still favored his left hindleg when he walked.
-"Well, we can't stay here.  Your Highness?"
+"Well, we can't stay here.  Most respected?"
 
 Thokmay looked bleakly at the cloud.  "If Noxy says we can't fly, then
 we walk."
@@ -5384,8 +5384,8 @@ won't be able to---"
 children.  And we can keep up if you can."
 
 He and the tiger locked eyes.  The tiger looked away first.  "As you
-say, Your Highness."  He stretched and padded away, still favoring his
-leg.
+say, most respected."  He stretched and padded away, still favoring
+his leg.
 
 "Huh," Thokmay said, suddenly grinning.  "That's the first time I've
 ever beaten him at one of those."
@@ -5461,7 +5461,7 @@ flock of irvings yesterday..."
 
 Thokmay glanced at Ulfmaerr, then at Kulbinder.  The tiger flicked an
 ear.  "Maybe," he rumbled.  "But whatever the cause, we must expect an
-ambush.  Lead on, Your Highness."
+ambush.  Lead on, most respected."
 
 Noxy didn't bother to count her steps after that.  She kept telling
 herself not to look back, or to check if the hawk was still above
@@ -5474,7 +5474,7 @@ Kulbinder slipped.  He scrabbled at the bare stone, his claws unable
 to find purchase, before sliding back several strides.  Thokmay
 quickly hurried to his side.  "Are you all right?" he asked.
 
-"No, Your Highness, I am not," the tiger snapped.  "I haven't eaten
+"No, most respected, I am not," the tiger snapped.  "I haven't eaten
 since yesterday and my leg feels like something is poking it with a
 very sharp stick.  But we must keep moving."
 
@@ -5486,7 +5486,7 @@ back the way they had come, but the soldiers were momentarily hidden
 by a turn in the trail.
 
 "Then you must leave me," Kulbinder rumbled.  "All that matters is
-getting His Highness to safety."
+getting the most respected to safety."
 
 "No!" Thokmay protested.
 
@@ -5570,7 +5570,7 @@ path threw off their gray blankets and stood up to bar the path.  Two
 aimed arrows at the four fugitives.  The third hefted a sword, and the
 fourth---
 
-"Your Highness."  Sergeant Dorbu saluted.
+"Most respected."  Sergeant Dorbu saluted.
 
 Ulfmaerr oofed as Noxy stumbled into him.  Thokmay skidded to a halt
 beside them.  He hesitated a moment, then returned the salute.
@@ -5578,7 +5578,7 @@ beside them.  He hesitated a moment, then returned the salute.
 front of Kulbinder as the two bowmen turned their arrows on him.
 
 "Hold your shots," Sergeant Dorbu commanded without looking at his
-men.  "Your Highness, my apologies, but I must insist you come with
+men.  "Most respected, my apologies, but I must insist you come with
 us."
 
 "And in the name of my father the king, I order you to let us pass,"
@@ -5621,7 +5621,7 @@ tiger.  The two collided in mid-air and fell clumsily to the ground.
 Thokmay skidded to a halt. "Kulbinder!"
 
 "Run!" the tiger roared, rolling back onto his feet as Sergeant Dorbu
-got to his.  "Run, Your Highness, run!"
+got to his.  "Run, most respected, run!"
 
 Thokmay drew his sword and charged at Sergeant Dorbu instead.  The
 sergeant knocked the prince's blade aside with his own and spun back
@@ -5977,9 +5977,9 @@ shouted into the trees, pounding the ground with her fists.  "Dregs
 and *misfits*!"  Unable to contain herself any longer, she lunged into
 the forest.
 
-"Your Highness!"  The trio spun around as Ulfmaerr burst out of the
-bushes behind them.  He paused a heartbeat to catch his breath.  "Your
-Highness, quickly, we must flee."
+"Most respected!"  The trio spun around as Ulfmaerr burst out of the
+bushes behind them.  He paused a heartbeat to catch his breath.  "Most
+respected, quickly, we must flee."
 
 "Run?  Again?" the prince asked bitterly.
 
@@ -6109,7 +6109,7 @@ doing her best to match his glare.
 The corner of the colonel's mouth quirked momentarily.  "Just like
 your mother.  No, I don't think we'll be surrendering."  His tone
 turned serious.  "And you don't need to either.  We have no interest
-in conquest.  All Her Highness wants is to set people free."
+in conquest.  All the most respected wants is to set people free."
 
 "She has a strange way of showing it," Noxy said coldly.
 
@@ -6265,4 +6265,88 @@ the troll?"  Before Noxy could reply, he began unbuttoning his uniform
 jacket.  Handing it to a waiting soldier, he slipped his arms into a
 climbing harness while another soldier reeled in the rope that the two
 archers had used to lower themselves to their perches.  All the while,
-he kept his eyes on the scene unfolding below.
+he kept his eyes on the scene below, studying it the way a hawk would
+study a meadow full of grazing rabbits.
+
+Dragger reached the bridge.  Beside it, a defiant spire of blackened
+wood still reached for the sky.  It had tilted slightly as the river
+wore away the soil beneath its root, but didn't budge when Dragger
+shoved it.  The ogre braced himself against it with Thokmay still
+struggling on his shoulder.  One by one a trio of trolls scrambled up
+his back and leaped into the still-sturdy boughs.  The last turned
+upside down, feet tight around the wood, and took hold of Thokmay as
+Dragger passed him up.
+
+"Higher... come on, a little higher..." Colonel Bonzon muttered as the
+trolls lifted the prince up the tree.  The last of the tree slung him
+unceremoniously over a branch.  The prince had stopped struggling by
+then, no doubt mindful of the long drop to the forest floor.
+
+"Respected?" one of the soldiers asked.
+
+The colonel scowled.  "It will have to do.  You!"  he snapped at
+Grappa Gas.  "Bring us around to the east, then back across the prince
+to my men.  I want a trotting pace, no more and no less, and about..."
+He eyed the rope.  "About ten strides above the tree."
+
+"Ten strides?" Grappa Gas asked, sounding incredulous.  "Respected,
+the cloud won't like that---one slip and she'll scrape her belly clean
+off!"  Which was nonsense, Noxy knew, but if the colonel didn't...
+
+His snort told her that he did.  Instead of replying, he drew his
+sword in a fluid motion born of much practice.  "Now."
+
+Pillow turned in a tight arc.  Below, Dragger and his trolls looked
+up.  A few pointed while others scrambled back to the old growth.  The
+ogre bared his teeth but didn't move.
+
+"Left," Colonel Bonzon ordered.  "A little more.  Now straight.  Hold
+it straight, and keep this speed.  Anchors ready?"
+
+"Ready, respected," the two soldiers replied in unison.  They had
+taken up positions to form the base of a triangle, the rope passing
+first around the back of one then the other.  They had donned gloves
+at some point as well, Noxy realized, and with that thought the pieces
+came together and she realized what Colonel Bonzon was going to do
+just as he took two quick steps and threw himself off the cloud.
+
+The rope sizzled through the soldiers' hands.  "Brake!" he shouted.
+Grunting, the two men tightened their grip.  Their feet slid forward
+as if they were trying to brace themselves on thick snow.  Noxy
+mind-heard Pillow's squeal of complaint as they dug their feet in
+deeper to stop themselves and the colonel.
+
+*Twang!* *Twang!* Two bows fired almost in unison.  Noxy felt flat on
+Pillow and wriggled forward just in time to see two of the trolls in
+the tree in front of them fall lifeless to the ground below.  *Twang!*
+One of the archers hidden in the forest fired again, but the third
+troll had flung itself onto the far side of the burned tree.  Its howl
+of fear and rage was instantly echoed by the trolls below.
+
+"Two strides!" the colonel bellowed.  The soldiers on Pillow's back
+let a double length of rope slide through their hands, dropping him
+just enough for his chest to crash against the branch that the prince
+was laid across.  He grabbed the prince's belt and kicked off the
+trunk of the tree, throwing the pair of them sideways around the end
+of the branch.  The prince shouted, arms and legs waving wildly.
+Colonel Bonzon slashed once with his sword at the troll as it lunged
+toward him, and then he and the prince were clear.
+
+"Haul!  Haul, damn you, haul!"  The soldiers were already reeling him
+in.  A third man threw himself full-length onto Pillow's back and
+wriggled forward as if trying to rescue someone who had fallen through
+thin ice.  He reached for the colonel's hand, but the rope was digging
+into Pillow, cutting her.
+
+"She's giving way!" Noxy shouted.  Pillow was pulling back from the
+rope, peeling away on either side like a bale of wool being cut with a
+knife.  Noxy grabbed the soldiers' pack and shoved it under the rope.
+
+The soldier caught the colonel's hand.  With a "Hwah!" of effort he
+lifted the prince and pushed him forward.  "Take him!" he shouted.
+The soldier grabbed Thokmay's collar with his other hand and held on.
+
+"Pull him up, damn you!" the colonel yelled.  "I've got to get the
+men!"  And with that he was gone, falling again as Pillow flew toward
+the nearest archer, a horde of howling trolls crashing through the
+trees below in pursuit.

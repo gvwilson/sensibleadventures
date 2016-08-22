@@ -6350,3 +6350,115 @@ The soldier grabbed Thokmay's collar with his other hand and held on.
 men!"  And with that he was gone, falling again as Pillow flew toward
 the nearest archer, a horde of howling trolls crashing through the
 trees below in pursuit.
+
+The soldier dragged Thokmay up onto Pillow as his two companions let
+the rope run through their hands a stride at a time.  Colonel Bonzon
+shouted something unintelligible as he swung beneath the cloud,
+kicking and waving his arms in a vain attempt to stop himself from
+spinning.
+
+For a long moment Noxy couldn't see his target, but there!  The
+archer hidden in the tree swept aside his ragged poacher's cape, slung
+his bow over his shoulder, and leaped into the air to grab the
+colonel's swordbelt.  "Haul!" the colonel shouted.
+
+A few heartbeats later the archer scrambled up onto the cloud and
+rolled over onto his back, lungs heaving.  The colonel dropped for the
+third and final time.
+
+But even as he swung beneath the cloud, the trolls below spotted the
+second archer.  They surged toward his tree like a gray flood.
+Dragger reared up and pounded his chest, roaring a challenge at the
+colonel as the archer fired and fired again until he was out of
+arrows.  He was trying to draw his sword when the trolls reached him,
+and then it was over.
+
+His lifeless body hit the ground a few heartbeats later.
+
+"Haul up!" the colonel shouted.  His soldiers pulled him back onto the
+cloud.  For a moment everyone just sat there and panted for breath.
+
+Colonel Bonzon looked at the prince with no more emotion in his eyes
+than a stone.  "You'd better be worth it," he said coldly.  Before
+Thokmay could reply, he turned to Grappa Gas.  "Get us back to Stale."
+
+Noxy wiped angry tears from her eyes.  Thokmay wasn't even bothering
+to do that.  He just let them run, two glistening tracks down his
+cheeks, one smooth and one interrupted by the scars Kulbinder had
+given him.  On impulse, Noxy leaned against him, then put her arm
+around his shoulders and squeezed.  She had no idea what to say, but
+he leaned back against her anyway.
+
+They rode in silence as a new day brightened around them.  Noxy laid
+her hand on Pillow and closed her eyes so that she could see what the
+cloud was seeing.  Forest stretched out in all directions below them,
+interrupted only by the sparkling thread of the little river.  There
+was another lake ahead, and probably another after that, on and on
+until the water reached a river that people knew well enough to name.
+It wouldn't be the Tangrapriye---that lay on the other side of the
+Brumosos.  Maybe the Trout?  She had learned all of the rivers' names
+as a little girl, poring over maps with Rash and Sensy as they planned
+the journeys they would take together when they were older.
+
+*All right?* Pillow mind-asked.
+
+*No,* Noxy replied, and then, *Thank you for asking.*  She couldn't
+remember if she had ever thanked a cloud before.
+
+*Beside water,* Pillow mind-said a moment later.  *Ahead.*
+
+Noxy blinked.  *What?*
+
+*He says, beside water,* Pillow repeated.  *Ahead.*  She paused.
+*Sharp feet with,* she added disapprovingly.
+
+Noxy's heart missed a beat.  "Kulbinder?" she breathed.  Thokmay
+stiffened under her arm, but didn't raise his head.
+
+*Sharp feet,* Pillow confirmed.  *With old voice.* The picture the
+cloud's thoughts formed in Noxy's mind was like a majestic old bull
+stretching from horizon to horizon, but covered in gray fur.  It could
+only be Linger.
+
+*He asks, can you?* As Pillow passed on the question, Grappa Gas
+turned to look at her.  Noxy didn't know how much of the mental
+conversation he could overhear.  Or what he would do, she realized,
+her heart aching.  She loved the old man.  After her father left, he
+had taken her down to the pond every morning for weeks to feed the
+fish and told her one improbable story after another.  She could only
+imagine what he must be feeling---what the soldiers must have
+threatened to do to Aft to make him do their bidding.  She didn't want
+to hurt him, but sometimes you didn't get to choose.
+
+She laid her head on Thokmay's shoulder.  "You really can't swim?" she
+asked quietly.
+
+"Just a little," Thokmay replied.  When one of the soldiers looked
+over, he began to stroke her hair slowly, as if he was stroking
+Kulbinder's ears.  The soldier's stern expression softened slightly
+and he went back to watching the forest slide by beneath them.
+
+"Try to fall straight," Noxy murmured.  "And cross your legs.  The
+boys always say, cross your legs."
+
+She felt him freeze as he realized what she was planning.  It had only
+been a few days since he had almost drowned.  Would he---
+
+"Thanks for the warning," he said, and this time when Noxy squeezed
+his shoulders, she meant it.
+
+A hundred strides... Fifty...  They were over the lake.  Noxy couldn't
+see Linger or Kulbinder through Pillow's eyes, but she could feel the
+old troll's presence.  How could she ever have missed it?  Pillow was
+right---he was as big as a cloud.
+
+*Must be quick,* she told Pillow, shaping a picture in her head.  *As
+quick as lightning.* She stood.  Thokmay stood beside her and took her
+hand.
+
+Colonel Bonzon's head snapped around.  "Sit down," he ordered.
+
+Noxy looked him in the eye and smiled.  *Now!* she told Pillow.  She
+mind-heard Grappa Gas's second-hand astonishment as the cloud beneath
+her weakened and thinned and pulled back, and then she and Thokmay
+were falling toward the freezing blue water below.

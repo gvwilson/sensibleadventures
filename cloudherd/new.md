@@ -6458,7 +6458,86 @@ hand.
 
 Colonel Bonzon's head snapped around.  "Sit down," he ordered.
 
-Noxy looked him in the eye and smiled.  *Now!* she told Pillow.  She
-mind-heard Grappa Gas's second-hand astonishment as the cloud beneath
-her weakened and thinned and pulled back, and then she and Thokmay
-were falling toward the freezing blue water below.
+Noxy looked him in the eye and smiled.  "I don't think so," she said,
+and *Now!* she told Pillow.  Grappa Gas shouted something, a warning
+or a plea that she didn't hear, as the cloud beneath her weakened and
+thinned and pulled back, and then she and Thokmay were falling toward
+the freezing blue water below.
+
+## Chapter 18: The Old Voice
+
+Twenty strides is a long way to fall.  It's long enough to wonder how
+cold the water is going to be and whether it will be deep enough or
+whether you are going to break a leg.  It's certainly long enough to
+think, "This was probably a bad idea."
+
+Noxy and the prince hit the water at almost the same instant.  She
+struggled to the surface, barely able to breathe as the freezing water
+seemed to wrap its icy hands around her chest and squeeze.  "Thokmay!"
+she shouted---or tried to.  All that came out was a weak shuddering
+gasp.
+
+Thokmay broke the surface two strides away.  "Help!" he spluttered,
+flailing his arms.
+
+"H-hold on!" Noxy's teeth were already chattering.  Her waterlogged
+boots were pulling her down.  Her coat felt as heavy as a rock.  They
+were too far from shore.  She would never be able to make it on her
+own, much less dragging the prince behind her.
+
+She kicked toward him anyway and grabbed his arm.  He clutched her
+sleeve, eyes wide with fear, but didn't try to climb onto her the way
+she had heard drowners sometimes did.  It was so cold.  Spots swam in
+front of her eyes.  "I'm sorry," she gasped.
+
+"B-b-b-" The prince couldn't get the word out, but he could point over
+her shoulder.  She tried to turn her head to look, but her neck
+wouldn't obey her.
+
+Something rose beneath her, lifting her out of the water.  She let go
+of the prince and dug her fingers into its thick, sleek fur.  She had
+only moment to wonder what was happening before a second bear broke
+the surface underneath the prince and began swimming for shore with
+their passengers shivering on their backs.
+
+*Sssst!* *Sploosh!* An arrow hit the water a stride away.  Noxy heard
+Colonel Bonzon shout angrily.  Grappa Gas shouted back.  *Faster
+faster faster,* she thought desperately, digging her fingers into the
+bear's fur.  She was shivering uncontrollably---the wind on her wet
+clothes was even colder than the water had been.
+
+A second arrow splooshed into the lake, and then the bear beneath her
+wasn't swimming any longer, it was surging up a pebbled beach and into
+the trees with its companion a stride behind it.  *I hope Thokmay
+managed to hold on,* she thought blearily as her numb hands finally
+lost their grip.  She slid sideways off the bear's back and landed in
+a crumpled, cramped heap on the forest floor.
+
+Strong hands picked her up.  Something yellow shone on her face as her
+boots and coat were pulled off.  It was warm, but she was too cold to
+feel it yet.  Someone lifted her into a sitting position and put a mug
+to her lips.  "Drink this.  Daffodil, please, drink---we need to warm
+you inside as well."
+
+Whatever it was hurt going down.  She tried to push it away but the
+voice said, "No, drink it all."
+
+She blinked.  Ulfmaerr pressed the mug into her hands.  "Drink it
+all," he repeated.  She tried to say, "Thank you," but her tongue
+wouldn't obey her.  He had already turned away to minister to Thokmay,
+who was pressed against Kulbinder, shivering.
+
+A piece of dayglass lay on the ground beside them, shining
+yellow-bright.  It took her a moment to realize that the heat was
+coming from it as well.  *Magic,* she realized blearily.
+
+Only then did she realize that the lumps on the other side of the
+dayglass were two bears and a troll.  She forced herself to swallow
+another mouthful of the scalding tea and said, "Thank you."
+
+"Hane dank," Linger replied.  He scratched the nearest bear behind the
+ears.  The bear rumbled, rose to its feet, and ambled off into the
+trees with its companion behind it.
+
+"He says you're welcome," Ulfmaerr translated, passing a mug of tea to
+Thokmay.

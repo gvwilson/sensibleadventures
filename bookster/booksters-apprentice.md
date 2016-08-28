@@ -739,7 +739,7 @@ you didn't load it up so much." He squinted at the stitching and clucked
 his tongue. "Mm hm. It's not so bad. I can do it for you right now if
 you want."
 
-"Thanks, papapere."
+"Thanks, papaere."
 
 "*Awshe*." He picked up his awl. "So, what happens next?"
 

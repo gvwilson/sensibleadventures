@@ -2052,8 +2052,8 @@ Angry Canaries had declared for Princess Shudarga almost as soon as
 she raised her banner, and had been fighting ever since.  "Or getting
 to a fight, or getting away from one, or trying to get enough food in
 our bellies to keep us fighting," Sergeant Dorbu added.  "We were up
-north, with the Cut Cards under Colonel Ordshe, right in the middle of
-Shudarga's land."
+north, with the Cut Cards under Colonel Ordshe in Panday, right in the
+middle of Shudarga's land."
 
 "Is that why you chose her side?" Indy asked as she splashed some dark
 mountain *rak* into a glass and passed it to him.  Catching Noxy's
@@ -6464,7 +6464,7 @@ or a plea that she didn't hear, as the cloud beneath her weakened and
 thinned and pulled back, and then she and Thokmay were falling toward
 the freezing blue water below.
 
-## Chapter 18: The Old Voice
+## Chapter 18: The Voice of the Forest
 
 Twenty strides is a long way to fall.  It's long enough to wonder how
 cold the water is going to be and whether it will be deep enough or
@@ -6536,8 +6536,99 @@ dayglass were two bears and a troll.  She forced herself to swallow
 another mouthful of the scalding tea and said, "Thank you."
 
 "Hane dank," Linger replied.  He scratched the nearest bear behind the
-ears.  The bear rumbled, rose to its feet, and ambled off into the
-trees with its companion behind it.
+ears.  The bear rumbled, rose to its feet and nudged its companion
+with its shoulder.
 
-"He says you're welcome," Ulfmaerr translated, passing a mug of tea to
-Thokmay.
+"He says you're welcome," Ulfmaerr translated, passing a second mug of
+tea to Thokmay.
+
+"And thank you too," Noxy called to the retreating bears as they
+disappeared into the trees.
+
+Linger bared his teeth in a grin.  Ulfmaerr coughed, embarrassed.
+"They aren't actually Gifted."
+
+They sat in silence after that, three humans, a tiger, and a troll.
+Noxy knew there must be other trolls in the woods around them, but she
+didn't care.  She didn't care about anything except the warmth coming
+from the tea and the dayglass.  She wondered what the spell on the
+latter must have cost her father.  Could he no longer see the color
+red?  Or taste cinnamon?  Or ask directions of strangers?  Magicians
+took care to trade away only those things they could do without, but
+over a lifetime, those little losses added up.  Was she going to have
+to pay a price for being able to mind-talk to faraway clouds?  And to
+the forest?  *Probably,* she thought bitterly, *And I probably won't
+get to bargain over it.*
+
+Thokmay was the first to stir.  "You all right?" he asked.
+
+"I guess," Noxy said.
+
+"Yes, respected," Kulbinder said at the same time.  He blinked and
+looked away.  "After you, please."
+
+"How about you?" Noxy asked the prince.
+
+"Nothing broken."  He forced a weak smile.  "But if we're going to
+keep doing this, I really should learn how to swim."  He struggled to
+his feet and held out his hand.  "Come on.  Dragger's pack will be
+here soon."
+
+She took his hand and pulled herself up.  "I'm so tired of running and
+hiding."
+
+The prince clapped her on the shoulder.  "It gets easier with
+practice.  Trust me."
+
+Linger led the way.  Neither Noxy or the prince asked where they were
+going.  They barely even looked up when branches rustled overhead, or
+when Kulbinder disappeared in the trees every few hundred strides to
+check behind them.  Ulfmaerr muttered to himself from time to time,
+whether to cast a spell or just because he'd been living on his own
+for so long, Noxy couldn't tell.
+
+The house took Noxy completely by surprise.  One moment all she could
+see was the path, rocky and muddy in turn, so narrow that brushes
+caught at their shoulders even though they were walking single file.
+The next moment, the trees ended as abruptly as if someone had cut a
+hole out of a carpet with a knife.
+
+The clearing was perhaps twenty strides across, and roughly square.
+The house was---Noxy blinked.  The house was *her* house, the house
+she and her mother shared in Stale, right down to the slightly
+discolored patch next to the door where Rash had thrown an egg at her
+while she was painting it but hit the wall instead.
+
+She started to step forward, but Thokmay caught her arm.  "Wait," he
+said in a low voice.  "There could be sentries in the tower.  Or
+archers."
+
+Noxy blinked.  "The tower?  What tower?"
+
+Thokmay jerked his chin toward the house.  "*That* tower."  He studied
+the scene with a scowl.  "It looks just like the one outside Panday.
+Look---you see that window?  There's a set-back inside so someone can
+stand watch without being seen from the ground."
+
+Belatedly, the prince realized that Noxy was studying his face instead
+of the window he was pointing at.  "What?"
+
+She looked from him to the house and back.  "Thokmay, I don't see a
+tower.  I see my house."
+
+"Tha sen wat tha nedich a sen," Linger said from behind them.  "Al wat
+het wald tha nedichin a sen."
+
+"He says you see what you need to see," Ulfmaerr filled in.  "Or what
+the forest needs you to see."  He had his staff in both hands, at rest
+but ready.
+
+"So it's magic," the prince said flatly.
+
+Ulfmaerr shook his head.  "No kind of spell I know, or any other
+magician that walks on two legs.  This is the forest's doing."  He
+glanced at Linger, who was waiting patiently, then dug into his pocket.
+"Here."  He held out a handful of hard red berries.  "They're not
+much, but you'll want something in your stomach before you go and talk
+to it.  The forest," he continued when Noxy looked at him blankly.
+"That's why we're here.  The forest wants to talk to you."

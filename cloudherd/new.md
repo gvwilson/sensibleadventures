@@ -6632,3 +6632,78 @@ glanced at Linger, who was waiting patiently, then dug into his pocket.
 much, but you'll want something in your stomach before you go and talk
 to it.  The forest," he continued when Noxy looked at him blankly.
 "That's why we're here.  The forest wants to talk to you."
+
+There was a moment of silence.  "And the... the tower?  Or house, or
+whatever it is?" Thokmay asked.
+
+Ulfmaerr shrugged.  "Its way of making you feel at home, I suppose."
+He brightened.  "Or possibly a trap.  That would be the real stuff of
+stories, wouldn't it?"
+
+Thokmay looked at Noxy.  She rolled her eyes.  "Come on," she said
+wearily.  "We might as well---"
+
+"No."  Ulfmaerr held out his staff to prevent Thokmay from stepping
+into the clearing, but kept his eyes on his daughter.  "It only wants
+to talk to *you*."
+
+"And what if *I* don't want to talk to *it*?" Noxy asked quietly in a
+voice that had sent her friends in Stale running for cover more than
+once.
+
+Ulfmaerr shrugged again.  "I don't think you have much of a choice."
+He pointed back the way they had come.
+
+The trail had vanished.  Kulbinder rumbled deep in his chest, his ears
+flat and his tail bristling.  He took one step toward the dense
+undergrowth that had somehow appeared behind them before stopping
+himself.  "I don't like this," he growled.
+
+"Et is net foar than a lik," Linger said firmly.  "Et is foar than a
+dae."  He gave Noxy a gentle push.
+
+Noxy took a deep breath, let it out, and strode toward the house that
+looked so much like hers.
+
+The clearing was silent except for the soft shush of her legs through
+grass and ferns.  No birds sang, and the ever-present background buzz
+of forest insects was gone.  When she glanced over her shoulder, her
+companions seemed to be frozen in place, their expressions betraying a
+mix of curiosity and concern.
+
+She hesitated when she reached the front door, then knocked three
+times.  No one answered, so she pushed the door open and stepped
+inside.
+
+"Hello dear.  Would you like some tea?"  The old woman sitting at the
+kitchen table wore a goofskin vest over a heavy gray sweater that
+would have passed unremarked in Stale.  Her face was the same dark
+shade as Granna Fee's, and her gray hair twisted into two heavy
+braids, but her eyes were clouded by milky cataracts.
+
+"No thank you," Noxy said.  "Are you---are you the spirit of the
+forest?"
+
+The old woman smiled gently.  "That's rather like asking if you're the
+spirit of you."  She tilted her head to the side in a gesture that
+reminded Noxy of a small bird.  "Which I suppose would be a fair
+question right now, all things considered.  Please, sit down."
+
+Noxy pulled a stool---*her* stool---out from under the table and sat.
+"I'm sorry for all the trouble you had getting here," the old woman
+continued.  "It would have been a lot easier for both of us if we'd
+been able to take this slowly, but events seem to have taken on a life
+of their own, haven't they?"
+
+"I suppose," Noxy said uncertainly.  "What---I'm sorry.  What am I
+doing here, exactly?"
+
+The old woman's smile broadened.  "You're very direct.  I like that."
+She leaned forward, her elbow on the table and her chin on her hand.
+She drummed her fingers on her cheek for a moment, her blind eyes
+drilling into Noxy, then sat back and sighed.
+
+"Well," she said.  "This was going to be an audition of sorts.  Or
+rather, it has been.  But I don't think you're the one I've been
+looking for.  I'm sorry."  She picked up her tea.  "You're free to go
+now."

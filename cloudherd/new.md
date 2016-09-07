@@ -6703,7 +6703,129 @@ She leaned forward, her elbow on the table and her chin on her hand.
 She drummed her fingers on her cheek for a moment, her blind eyes
 drilling into Noxy, then sat back and sighed.
 
-"Well," she said.  "This was going to be an audition of sorts.  Or
-rather, it has been.  But I don't think you're the one I've been
-looking for.  I'm sorry."  She picked up her tea.  "You're free to go
-now."
+"Well, how to put this?" she mused.  "This is... I suppose you'd call
+it an audition of sorts.  Lingers Hopefully Where Ripe Fruit Has Been
+Found In The Past is getting on a bit---I mean, six hundred and eighty
+winters is a fair run for one of you warm-bloods---so it's high time
+we started training his replacement.  It requires someone with some
+special talents, and the right sort of character.  Are *you* the right
+sort?"  She leaned forward, her eyes bright and curious.
+
+"I... Um, I don't know?"  Noxy shook her head, bewildered.  "What sort
+are you looking for?  And what do you mean, his replacement?"
+
+The old woman nodded.  "Those are good questions.  For the first, I
+need someone who is audacious, curious, unflappable, wickedly
+intelligent, completely trustworthy, has a wonderful sense of humor,
+and obedient.  Obedience is the hard one," she confided, stirring her
+tea with the tip of her little finger and then wiping it on a scrap of
+cloth that Noxy hadn't noticed before.
+
+"And replacement?" Noxy prompted, wondering if this was some sort of
+strange dream.
+
+"No, dear, it's very real.  This," the old woman elaborated, waving
+her tea-damp pinky to take in the cottage and its contents.  "It's as
+real as the end of the world.  Which," she continued, raising her tea
+to her lips but not sipping, "Brings us quite neatly to your second
+question.  My friends and I need this world to keep on sailing, and
+that means occasionally... taking steps."  The distaste she put into
+the last two words made her sound more than a little bit like Granna
+Fee talking about what came out of the back end of Stale's goofs.
+
+Noxy opened her mouth, not sure which of her dozen questions would
+come out first.  Before she could speak, the old woman leaned forward
+again and gently covered Noxy's hand with hers.
+
+*The forest.  On and on, the forest.  It stretched from the northern
+slopes of the Brumoso Mountains in the south to Cape Grind in the
+north, and from the Gulf of Plangentia along the Heladas to Uws.  But
+those were human names.  What Noxy saw/tasted/felt was the soil, dark
+and slightly tangy where thousands of years of fallen wood had turned
+to duff and then rotted into soil.  The tiny trickles of water, too
+small even for squirrels to notice, that joined and joined again to
+become streams and rivers.  The sun, the beasts, the clouds, the
+nameless, shapeless things that stirred occasionally in their sleep in
+caverns deep below the surface.*
+
+*And there, to the south, a jungle.  Loud where the forest was quiet,
+quick where the forest was slow, with a joke or a cruel quip always
+ready, but grieving now, grieving for centuries, half-mad with loss
+and rage and sorrow.*
+
+It was too much, too big for a mind that could fit inside a skull.
+Noxy felt herself falling helplessly.
+
+"Sh, sh, sh," the old woman said, patting Noxy's hand comfortingly.
+"It's all right, we're back.  Are you sure you don't want some tea?"
+
+Noxy drew a shaky breath and wiped at tears she hadn't realized she
+was crying.  "What---what happened?"
+
+"The dragon came," the old woman said.  "The Pilots did what they
+could, but..."  She shook her head sadly.  "Sometimes what you can do
+isn't enough.  And in the end, they did as much harm as the dragon.
+You see, there were three of us once, but now we are only two, and the
+jungle misses him so much."
+
+"I'm sorry," Noxy whispered.
+
+The old woman---no, the forest, Noxy thought dumbly, I'm talking to
+the forest---patted her hand again.  "It's all right, dear.  You can
+get used to anything if you have to.  It's just taking the jungle a
+while, that's all."
+
+Noxy wiped her face again.  "So what do you need me to do?"
+
+The forest sat back in her chair.  "As I said, Lingers Hopefully Where
+Ripe Fruit Has Been Found In The Past isn't getting any younger.  I'm
+sure he'll be all right for another century or so, but that's not
+really very long when you think about it, is it?  And he'd like to
+slow down a bit, too.  Putting rebellious ogres in their place and
+chasing after stray princes, well, it's more a young person's sort of
+thing, wouldn't you say?"
+
+"I guess," Noxy agreed doubtfully.  "So you want me to...?"
+
+The forest spread her hands.  "To be the voice of the forest, dear.
+To be my hands in the world."  Her voice hardened.  "And to remind
+those who wield iron and fire that they are *not* welcome.  I may be
+getting on a bit myself, but I'm not about to start tolerating that
+sort of nonsense."
+
+"So Linger's your, your voice?" Noxy asked.  She felt like she was
+back in the lake, struggling to get her head above water.  "And that's
+why he's six hundred years old?"
+
+"Six hundred and eighty two," the forest nodded.
+
+Noxy stared at her, then shook her head violently.  "No.  No way.  I
+mean, thank you, but no.  I mean, what about my friends, and *amma*?
+I don't want to..."  She laughed shakily.  "I'd be as lonely as the
+jungle if I lived that long."
+
+"Ah ha!" the forest said triumphantly.  "I *knew* you were
+intelligent.  Most of those I interviewee take a lot longer to think
+that part through.  But no," she continued, "You won't be lonely, not
+unless you want to be.  You can trade away missing people for all
+sorts of useful magic.  And anyway, you'll always have me.  And the
+jungle too when it calms down," she added as an afterthought.  "It's
+actually quite funny."
+
+Noxy stood up.  "Thank you very much," she said, folding her hands
+together formally the way Granna Fee had taught her, "But I really
+don't think this is what I want."  She bowed, counting to three slowly
+under her breath before straightening up again.
+
+The forest stood.  "Well, I can't say I'm not disappointed, but
+there's plenty of time for you to reconsider.  And speaking of
+time..."  She glanced out a window that wasn't there in Noxy's house,
+and which hadn't been there a moment before.  "I think you should be
+getting back.  Your friends are starting to worry about you."
+
+"Thank you again," Noxy said.  "I'm very flattered."
+
+"As you should be," the forest said, but she smiled as she said it.
+"If you do change your mind, you know where to find me."  As Noxy
+turned to go, the forest added, "Besides, you may find you have less
+choice than you think."

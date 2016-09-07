@@ -1,15 +1,18 @@
 # The Prince and the Cloudherd
 
+* directions are shipwise not compasswise
+* add a dream scene or two with the old lady before Noxy gets there
 * "down with the dogs"
 * Ulfmaerr gave up caring about his daughter
-
-* 60K words (20 chapters * 3K/chapter).
-* At least one moment of adventure moment per chapter.
-* Protagonists are fleshed out, but minor characters are brightly drawn cartoons.
-* Tie into other Cherne stories.
-
-## To Do
-
+  * keeps asking "who are you?" - can't remember that she's his
+  * Noxy remembers all the things they did together when she was little, and it hurts
+  * confrontation: "can't you remember? please just remember?"
+* make Sensy a boy, so Sensy + Rash is matter-of-fact same-sex
+* revise the meeting with the forest
+  * it wants a voice, and will give her magic
+  * she needs it to save her village
+  * faces the same choice her father did, but at a younger age and with higher stakes (?)
+  * Thokmay steps in and pays the price - gives up kingship
 - lots more animals in the village (chickens, etc.) but none gifted
 - a guest house reserved for the *tralpa* that the princess stays in
   - use to motivate more background on the *tralpa* and the laws
@@ -17,6 +20,11 @@
 - Grappa Gas's wooden leg sprouts new buds in the spring
 - provide more background on Tasteless earlier
 - the princess arrives with a hawk
+
+* 60K words (20 chapters * 3K/chapter).
+* At least one moment of adventure moment per chapter.
+* Protagonists are fleshed out, but minor characters are brightly drawn cartoons.
+* Tie into other Cherne stories.
 
 ## Scenes
 

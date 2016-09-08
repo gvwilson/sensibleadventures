@@ -6829,3 +6829,63 @@ getting back.  Your friends are starting to worry about you."
 "If you do change your mind, you know where to find me."  As Noxy
 turned to go, the forest added, "Besides, you may find you have less
 choice than you think."
+
+Noxy turned back, wanting to ask what the forest meant, but she wasn't
+in the house any more.  She was on her back with her coat draped over
+her to keep her warm and her father snoring softly on the forest floor
+beside her.
+
+She tried to sit up.  Her arms and legs were strangely heavy, but her
+head felt as light as a cloud.  "Hey."  Thokmay appeared from behind
+her and crouched down to put his hand on her forehead.  "How are you
+feeling?"
+
+"..."  Noxy cleared her throat and tried again.  "What happened?"
+
+Thokmay handed her a canteen full of lukewarm water, concern written
+on his face.  It was dark, she realized, or getting there---she could
+barely make out his face.  "You froze.  Sort of," he amended, taking
+the canteen back and swirling it around before swallowing a mouthful
+and settling cross-legged on the forest floor.  "You started to walk
+over to the tower, then you just...  stopped.  Ulfmaerr said not to
+worry, but when night came, he thought we ought to---"
+
+"Wait."  Noxy held up her hand.  "How long was I, um, how long has it
+been?"
+
+Thokmay studied her.  "We got here yesterday morning.  You stood there
+all day until Ulfmaerr got you to lie down.  It was like you were
+sleepwalking.  Your eyes were open, but you weren't really seeing
+anything.  Oh, here."  He pulled a small bundle of his pocket and
+unwrapped it to reveal a handful of salmonberries.  "He said you'd be
+hungry when you woke up."
+
+She was, Noxy realized.  In fact, she was ravenous.  She popped two of
+the thumb-sized yellow berries in her mouth, wincing at their
+sourness, and began gobbling the rest.  "'ank you," she said as she
+chewed.  "So what ha'ened 'en?"
+
+Thokmay shrugged.  "Nothing.  Linger disappeared, and Ulfmaerr said we
+just had to wait, so Kulbinder went hunting."
+
+Noxy swallowed.  "And you stayed here?  Aww---that's sweet."  She
+leaned forward and punched him gently in the shoulder.
+
+"Well, don't get used to it."  He fished a second bundle of berries
+out of his other pocket and passed it to her.  "The cloud flew by
+twice today, and I heard trolls in the trees too.  I think Linger or
+the magician put some kind of spell on us to hide us, but who knows if
+it's going to keep working now that you're awake?"
+
+"For a while."  Noxy and the prince both jumped at the sound of
+Ulfmaerr's voice.  "But it won't keep Dragger and your friend the
+colonel at bay forever."
+
+He raised himself on one elbow.  "And even if it would," he continued,
+yawning as he spoke, "We're not doing anyone any good just sitting
+here."
+
+"So what should we be doing?" Noxy asked, hearing the annoyance in her
+voice and not caring.
+
+Her father blinked.  "Why, we have to save Stale, of course."

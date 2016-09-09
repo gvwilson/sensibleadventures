@@ -6873,19 +6873,88 @@ leaned forward and punched him gently in the shoulder.
 
 "Well, don't get used to it."  He fished a second bundle of berries
 out of his other pocket and passed it to her.  "The cloud flew by
-twice today, and I heard trolls in the trees too.  I think Linger or
-the magician put some kind of spell on us to hide us, but who knows if
-it's going to keep working now that you're awake?"
+twice today, and I heard trolls in the trees too.  I think there's
+some kind of spell to keep us hidden, but who knows how long it's
+going to last?"
 
-"For a while."  Noxy and the prince both jumped at the sound of
-Ulfmaerr's voice.  "But it won't keep Dragger and your friend the
-colonel at bay forever."
+"As long as the forest wants it to."  Noxy and the prince both jumped
+at the sound of Ulfmaerr's voice.  He propped himself up on one elbow.
+"Which is to say, it's probably already gone.  We should get moving."
 
-He raised himself on one elbow.  "And even if it would," he continued,
-yawning as he spoke, "We're not doing anyone any good just sitting
-here."
+"And go where?" Noxy asked wearily.  Despite the berries, she was so
+hungry that she felt a little sick.  She just wanted to be home.
 
-"So what should we be doing?" Noxy asked, hearing the annoyance in her
-voice and not caring.
+Whatever Ulfmaerr might have said was cut off by a roar of, "Most
+respected!"  Kulbinder burst out of the bushes three strides away and
+pulled up short at the sight of Noxy.
 
-Her father blinked.  "Why, we have to save Stale, of course."
+"Finally," he growled.  His ears were flat against his head, and his
+whiskers bristling.  "Most respected, it's Dragger.  He's headed this
+way, and I don't think Linger can stop him."
+
+## Chapter 19: The Gray Flood
+
+So they fled once again.  Later, looking back, Noxy would barely
+remember it.  She must have stumbled---how else could she have gotten
+so much dirt on her hands and knees---and a branch must have caught
+her in the face to leave the scratch that took two weeks to heal, but
+it all blurred together into one long waking nightmare.
+
+A troop of trolls ambushed them.  Other trolls drove them off, hooting
+and howling.  They splashed through a stream, the water almost cold
+enough to snap her out of her daze, only to double back and splash
+through it again when Kulbinder raced back to warn them of another
+ambush ahead.
+
+The narrow deer track they were following went up a hill.  Noxy had to
+grab a tree when she reached the top to stop herself from tumbling
+into a sinkhole thirty strides deep where the roof of an underground
+cavern had collapsed centuries ago.  "Look out!" she told Thokmay,
+putting out her arm to stop him.  The hole was almost square, its
+edges covered in bushes where the soil was too thin to anchor the
+roots of trees.
+
+Thokmay kicked a small rock.  A few heartbeats later, they heard a
+*sploosh* as it reached the dark pool at the bottom of the sinkhole.
+"Well, I guess we're not going that way," he panted.
+
+Ulfmaerr peered over his shoulder.  "Best not," he agreed.  He was
+breathing hard too, and his beard was matted with sweat.  Propping his
+staff against a tree, he unslung his canteen, raised it to his lips,
+then hesitated.
+
+"Here," he said, passing it to the prince.  "You two finish it.  No,
+please."  He waved away the prince's protest and pointed across the
+sinkhole.  "We'll go around to that stream and refill it."
+
+The silence that followed was broken by an all-too-familiar hooting in
+the distance.  Ulfmaerr cursed softly.
+
+"We're not going to make it, are we?" Thokmay said quietly.
+
+Ulfmaerr hesitated before shaking his head.  "I don't think.  Linger's
+doing what he can, but I think Dragger has a lot more followers than
+even the forest realized."  He frowned.  "Which is almost as worrying
+as the thought of being torned limb from limb."
+
+Noxy felt a twinge in the back of her head.  "Pillow's back," she
+said, waving her hand vaguely to indicate a direction as if it
+mattered.
+
+The prince straightened.  "Will they hear us if we call out?"
+
+Noxy looked up, puzzled.  "Maybe."  Then the look on his face sunk
+in.  "Oh no," she said.  "You are *not* giving yourself up to them."
+
+"It's them or the trolls," he said calmly.  "And I think they're a lot
+less likely to tear us apart.  We can't keep running," he continued
+remorselessly as Noxy opened her mouth again, "And they're a lot less
+likely to dismember us than the what's chasing us down here.  Besides,
+if you can do whatever magic it is you do with the cloud again, maybe
+we can escape a second time."
+
+"It's not magic," Noxy said automatically.  "And it would be the third
+time, remember?"
+
+The corner of Thokmay's mouth lifted in a momentary half-smile.  "My
+apologies.  I'd lost count."

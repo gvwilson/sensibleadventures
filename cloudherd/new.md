@@ -6908,8 +6908,9 @@ ambush ahead.
 
 The narrow deer track they were following went up a hill.  Noxy had to
 grab a tree when she reached the top to stop herself from tumbling
-into a sinkhole thirty strides deep where the roof of an underground
-cavern had collapsed centuries ago.  "Look out!" she told Thokmay,
+into a sinkhole thirty strides deep where the ground had collapsed
+centuries ago into one of the countless underground caverns that lay
+beneath the surface of the world.  "Look out!" she told Thokmay,
 putting out her arm to stop him.  The hole was almost square, its
 edges covered in bushes where the soil was too thin to anchor the
 roots of trees.
@@ -6935,7 +6936,7 @@ the distance.  Ulfmaerr cursed softly.
 Ulfmaerr hesitated before shaking his head.  "I don't think.  Linger's
 doing what he can, but I think Dragger has a lot more followers than
 even the forest realized."  He frowned.  "Which is almost as worrying
-as the thought of being torned limb from limb."
+as the thought of being torn limb from limb."
 
 Noxy felt a twinge in the back of her head.  "Pillow's back," she
 said, waving her hand vaguely to indicate a direction as if it
@@ -6947,14 +6948,87 @@ Noxy looked up, puzzled.  "Maybe."  Then the look on his face sunk
 in.  "Oh no," she said.  "You are *not* giving yourself up to them."
 
 "It's them or the trolls," he said calmly.  "And I think they're a lot
-less likely to tear us apart.  We can't keep running," he continued
-remorselessly as Noxy opened her mouth again, "And they're a lot less
-likely to dismember us than the what's chasing us down here.  Besides,
-if you can do whatever magic it is you do with the cloud again, maybe
-we can escape a second time."
+less likely to tear us apart.  We can't keep running," he continued as
+Noxy opened her mouth, "And they're a lot less likely to dismember us
+than the what's chasing us down here.  Besides, if you can do whatever
+magic it is you do with the cloud again, maybe we can escape a second
+time."
 
 "It's not magic," Noxy said automatically.  "And it would be the third
 time, remember?"
 
 The corner of Thokmay's mouth lifted in a momentary half-smile.  "My
-apologies.  I'd lost count."
+apologies, respected.  I'd lost count.  But if nothing else, it would
+be nice to lie down on a cloud and get some real sleep."
+
+"I'm afraid that's not very likely," Ulfmaerr said.  "Dragger's not
+likely to give you to the colonel after what happened last time.  And
+he's even less likely to treat you well after the forest showed you
+such favor.  He's rather the jealous sort, you see."
+
+Pieces fell into place in Noxy's head.  "He was supposed to replace
+Linger, wasn't he?"
+
+Ulfmaerr waggled his head, neither yes nor no.  "It spoke to him.
+That's all I know."
+
+A bush rustled three strides away.  Kulbinder stepped into the light,
+blinked at them, and sat on his haunches to begin cleaning a bloody
+scratch on his shoulder with his tongue.
+
+Thokmay half-smiled again.  "He likes to make an entrance," he
+whispered loudly to Noxy, rolling his eyes.
+
+The tiger gave his shoulder one last lick, stretched, and padded over
+to join the trio.  "If you lot are done with your holiday," he said
+drily, "There's something you should see."
+
+Noxy was beyond caring about the noise they made as they waded through
+the waist-high salal and ossefra that carpeted the sinkhole's edge.
+Kulbinder kept outpacing them and then pausing, his tail twitching
+with impatience, while they caught up.
+
+After a hundred strides or so, the tiger led them into the forest
+again.  They climbed a small rise and came down the other side to find
+a second sinkhole, smaller than the first but just as deep.  The
+ground they had just been walking on was a bridge, Noxy realized.
+Then she shrugged.  It had held up for centuries---it wasn't likely to
+fall down just because she was on it, and anyway, they had bigger
+things to worry about.
+
+"Softly now," the tiger rumbled.  "And don't startle them."  He moved
+forward in a silent crouch that would have been terrifying if Noxy
+hadn't been looking at his rear end.
+
+The sides of this sinkhole were covered in the same bushes and
+brambles as the one they had first seen, but it smelled like the floor
+of the goofs' barn in Stale after they'd been shut in for the winter.
+"Eww," Noxy said under her breath.  Thokmay glanced at her and mimed
+holding his nose.
+
+"There," Kulbinder said quietly.  "Watch."
+
+Something stirred in the shadows of the sinkhole's far wall where a
+cascade of bushes straggled down.  Something else moved a few strides
+away.  There and there and there, up and down the wall, small gray
+shapes were climbing up and down, popping into crevices in the rock
+only to emerge a few strides away.
+
+Noxy's heart missed a beat.  "Saints," she whispered.  "We have to get
+out of here."
+
+"Why?  What is it?" Thokmay whispered back.
+
+"It's a squirrel nest."  Noxy glared at Kulbinder in disbelief.  "Are
+you crazy?"
+
+Thokmay looked from her to Kulbinder and back.  "What's wrong with a
+few squirrels?"
+
+"These aren't lowland squirrels, most respected," the tiger said.  "Up
+here, the squirrels have teeth."
+
+"And there's more than just a few of them," Ulfmaerr added
+thoughtfully.
+
+"Many more," Kulbinder purred.

@@ -1,5 +1,6 @@
 # The Prince and the Cloudherd
 
+* soldiers wear masks
 * directions are shipwise not compasswise
 * add a dream scene or two with the old lady before Noxy gets there
 * "down with the dogs"

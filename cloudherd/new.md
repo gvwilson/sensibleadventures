@@ -7028,7 +7028,80 @@ few squirrels?"
 "These aren't lowland squirrels, most respected," the tiger said.  "Up
 here, the squirrels have teeth."
 
-"And there's more than just a few of them," Ulfmaerr added
-thoughtfully.
+"There are a lot of them," Ulfmaerr observed cautiously.  "Do you
+think they know we're here?"
 
-"Many more," Kulbinder purred.
+Instead of answering, Kulbinder looked up.  Noxy followed his gaze.  A
+small gray squirrel clung to the trunk of a twisted pine a few strides
+away, its head turned to watch them.  A second squirrel sat on a
+branch above it.
+
+"Well, at least the trolls will leave us alone for a while," Ulfmaerr
+said, seating himself on the ground with his staff across his knees.
+
+"But then what?" Noxy asked despairingly.  "We can't go forward, we
+can't go back, and we can't just sit here---what's left?"
+
+The squirrels looked up in unison as a shadow fell across them.  The
+foursome slipped back under the trees as a cloud passed overhead.
+Noxy closed her eyes for a moment, then relaxed.  "It's not Pillow,"
+she told the others.  "It's just a calf separated from its herd."
+A calf separated from its herd...
+
+"Noxy?"
+
+She blinked.  "Excuse me?"
+
+"You've had an idea, haven't you?" Thokmay asked patiently.
+
+Noxy nodded.  "Yup.  But you're not going to like it."
+
+She quickly outlined her plan, glossing over the really dangerous
+bits.  Kulbinder growled a couple of times, but didn't object.
+Ulfmaerr's frown deepened the longer Noxy spoke, but he didn't object
+either.  And all Thokmay said when she was done was, "All right."
+
+Her plan almost fell apart at the first step.  She had been climbing
+trees since she was old enough to walk, but never when she was quite
+so exhausted and hungry.  Ulfmaerr finally had to give her a boost to
+get her up to the first branch.
+
+A light breeze blew through the tops of the trees.  Irvings and
+beecatchers chirped at each other as they darted through the branches
+chasing insects.  The two squirrels who had been watching them kept
+pace as they climbed, disappearing momentarily among the branches only
+to reappear higher up, their eyes always on the three struggling
+humans.
+
+Kulbinder waited until they were almost at the top before launching
+himself up the nearest tree in one single burst of speed.  "Showoff,"
+Thokmay called out.
+
+Kulbinder froze.  "Quiet," he hissed.
+
+"I was only saying that---"
+
+"Quiet!"  The tiger's tail twitched.  "It's the trolls."
+
+Noxy held her breath.  Something rustled in the distance.  She stared
+into the forest, but saw nothing.  "I thought they were supposed to be
+scared of the squirrels," she whispered.
+
+"They are," Kulbinder growled softly.  "But there's always some idiot
+who---"
+
+Screaming its challenge, the troll crashed through the branches and
+threw itself at Kulbinder---or rather, at the spot where Kulbinder had
+been a heartbeat before.  The tiger was already airborne, twisting to
+grab another branch with all four paws.  The troll and the tiger
+leaped again, chasing and retreating.
+
+"No, no, no," Ulfmaerr groaned.  "Don't get them angry!"
+
+He was too late.  Noxy shrieked as a squirrel scampered across her
+arm.  Another landed on a branch an arm's length from her face and
+chittered at her angrily.  More squirrels appeared among the branches,
+all the same shade of gray, and all angry.
+
+"Whatever you're going to do, you'd better do it now," Thokmay said
+grimly.

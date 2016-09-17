@@ -6894,11 +6894,11 @@ way, and I don't think Linger can stop him."
 
 ## Chapter 19: The Gray Flood
 
-So they fled once again.  Later, looking back, Noxy would barely
-remember it.  She must have stumbled---how else could she have gotten
-so much dirt on her hands and knees---and a branch must have caught
-her in the face to leave the scratch that took two weeks to heal, but
-it all blurred together into one long waking nightmare.
+So they fled once again.  Later, Noxy would barely remember it.  She
+must have stumbled---how else could she have gotten so much dirt on
+her hands and knees---and a branch must have caught her in the face to
+leave the scratch that took two weeks to heal, but it all blurred
+together into one long waking nightmare.
 
 A troop of trolls ambushed them.  Other trolls drove them off, hooting
 and howling.  They splashed through a stream, the water almost cold
@@ -7091,10 +7091,10 @@ scared of the squirrels," she whispered.
 who---"
 
 Screaming its challenge, the troll crashed through the branches and
-threw itself at Kulbinder---or rather, at the spot where Kulbinder had
-been a heartbeat before.  The tiger was already airborne, twisting to
-grab another branch with all four paws.  The troll and the tiger
-leaped again, chasing and retreating.
+threw itself at the spot where Kulbinder had been a heartbeat before.
+The tiger was already airborne, twisting to grab another branch with
+all four paws.  The troll and the tiger leaped again, chasing and
+retreating.
 
 "No, no, no," Ulfmaerr groaned.  "Don't get them angry!"
 
@@ -7104,4 +7104,125 @@ chittered at her angrily.  More squirrels appeared among the branches,
 all the same shade of gray, and all angry.
 
 "Whatever you're going to do, you'd better do it now," Thokmay said
-grimly.
+urgently.
+
+"I'm trying!" Noxy closed her eyes and tried to concentrate.  The
+stray calf was *there*, three hundred strides east of them.
+It---he---was a little worried about being so far from his herd, but
+enjoying the freedom as well.  No other calves bumping into him, no
+adults hurrying him along...
+
+*Come,* she mind-spoke.  *Come. New friends.*
+
+*???* The calf was so startled that he rained a little before catching
+himself.  He had never mind-spoken with a human before, Noxy realized.
+All the clouds she had ever known had been brought down from the
+mountains by grownups.  They'd had time to get used to strange voices
+in their minds, but not this one.
+
+*Friends,* she mind-spoke as soothingly as she could, biting down to
+suppress another shriek as a squirrel ran across her leg.  Its little
+claws were just long enough to poke through her thick wool trousers.
+
+"Come on, come on," Thokmay muttered.
+
+"Sh!"  She took a slow breath and let it out.  *New friends,* she
+mind-coaxed.  *Come.* In her mind, she heard the steely tone her
+*amma* sometimes used when saying, "Please," but actually giving an
+order.  *Come,* she repeated, trying to put that same tone into her
+thoughts.
+
+She realized instantly that she had made a mistake.  *Won't,* the
+cloud mind-spoke stubbornly, his mind shaping images of his mother
+pushing him to keep up with the herd when he just wanted to sleep.
+
+"Look out!"  Noxy opened her eyes instinctively at Thokmay's shout
+just in time to see the troll that had been chasing Kulbinder fall
+flailing through the branches a few strides away.
+
+The tiger landed on a thick branch near her and the prince.  "That
+will teach him to try to make a mouse out of *me*," he spat
+contemptuously.  "Now, where's our cloud?"
+
+"It won't listen to me," Noxy said helplessly.  "It's never been
+ridden before, and I can't---"
+
+A scream of fear and rage cut her off.  Below them, the squirrels had
+finally had enough.  First ten, then a hundred, then a great gray
+flood of them had thrown themselves onto the troll.  He tore them off
+by the handful, but more kept coming.  Their teeth and claws couldn't
+get through his fur, not at first, but then the the sheer weight of
+them made him stagger, and his fur didn't cover his face or the backs
+of his knees or his fingers...
+
+"Pilots preserve us," the prince whispered, horrified.
+
+"Not if we stay here they won't," Ulfmaerr said.  Even as he spoke,
+pairs of small eyes were starting to look up into the trees and
+branches were rustling around them.
+
+"But I *can't*," Noxy protested.  "He won't listen.  And I shouldn't
+even be able to!  People aren't supposed to be able to mind-talk to
+clouds unless they're touching them!"
+
+Thokmay put his hand on hers and squeezed it.  "Most people can't
+mind-talk to clouds at all," he said quietly.  "But you can.  And you
+can do this.  I know you can."  He squeezed her hand again.
+
+Maybe the world didn't really hold its breath at that moment.  Maybe.
+But later, looking back, Noxy would always remember that it felt like
+it did.  The prince had dirt on his cheek and bags under his eyes and
+his coat looking like goofs had been sleeping on it, but all Noxy saw
+was his quiet smile.
+
+She nodded, squeezed his hand back, and closed her eyes again.  *Come
+now,* she told the cloud calf, not letting a single speck of doubt
+into her thoughts.  She wasn't asking.  She wasn't even ordering.  She
+was just stating a fact.  He was going to come to them, and he was
+going to do it right now.  There wasn't an "or else" because there
+didn't need to be.
+
+Nothing happened for a heartbeat, and then she mind-heard a meek, *All
+right.* The image that came with it was of a dark gray cloud so big
+that it stretched from one horizon to the next.  That was her, Noxy
+realized.
+
+*Good.  Hurry.* She lightened the image a couple of shades and
+mind-pushed it back to the calf by way of encouragement, then opened
+her eyes.
+
+"He's on his way," she told her companions.  Ulfmaerr nodded.  The
+tiger rumbled, his eyes on the horde of squirrels gathering below
+them.  But the only one Noxy really noticed was the prince, who was
+still holding her hand.
+
+She squeezed his and let go.  "So," she said, looking up even though
+she knew she wouldn't be able to see anything yet, because if she
+looked at him she'd blush and she was *not* going to blush, "Now we
+wait."
+
+"Now we climb," Ulfmaerr corrected.  "But move slowly.  Don't startle
+them.  The forest is trying to calm them down, but they're not
+listening."
+
+"Se net harket sterk," a voice from behind Noxy agreed wearily.  It
+was Linger, bloodied and battered but with his head still held high.
+He settled onto a branch a couple of strides away, one arm cradled in
+his lap.
+
+A squirrel scampered along another branch near his head and chirrupped
+at him.  The ancient troll regarded it with his dark, sad eyes and
+peeled his lips back from his teeth in something that definitely
+wasn't a smile.  The squirrel flicked its tail and disappeared into
+the greenery.
+
+Moving slowly, testing his weight at each step, Kulbinder joined him.
+"Thank you, most respected," he said.
+
+The troll nodded.  "Wy binne ar banne."
+
+"We are our duty," Ulfmaerr translated.  He chuckled.  "It's something
+a magician would say."
+
+"It's something my father would say," Thokmay replied.  "I keep hoping
+he's wrong, but..."  He sighed.  "Maybe he's right."

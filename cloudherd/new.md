@@ -7272,4 +7272,102 @@ the calf get here first.*
 *No.*  And with, Pillow closed his mind to her.
 
 Desperate, she turned her thoughts back to the calf.  *Faster,* she
-urged.  *Must go faster.*
+urged.  *Go faster.*
+
+Suddenly Linger was up, his teeth bared.  Kulbinder's head snapped to
+the side.  "Trouble," he snarled.
+
+"Dragger?" Ulfmaerr asked, gripping his staff.
+
+"No.  This smells human."  Kulbinder's ears flattened against his
+head.  "It's soldiers.  They're in the trees."
+
+*Let down by ropes,* Noxy thought.  Her hand flew to her mouth.  "Oh
+no.  We have to warn them."
+
+"Warn them?" Kulbinder snarled.  "Warn *them*?"
+
+"The squirrels!" Noxy said.  "We have to warn them about the
+squirrels!"
+
+Even as she said it, small gray shapes were scampering up tree trunks,
+racing along branches, chittering and squeaking.  One would have been
+cute.  Ten would have been spooky.  A thousand was terrifying.
+
+And then one didn't run past them.  Noxy stared at it, willing it to
+move on.  Another squirrel stopped beside it.  "Uh oh."  A third, a
+fourth---she grabbed Thokmay's arm as angry shouts rang through the
+forest.  Another and another and now they were creeping toward her,
+freezing whenever she looked straight at them but she was surrounded,
+she couldn't look everywhere at once.
+
+The light dimmed.  The calf had arrived.  *Bunch up!* she commanded
+it.  *Come down!*
+
+The cloud hesitated.  *Prickly,* he complained.
+
+*Now!* she mind-shouted, throwing everything she had into it.  "Get
+ready!" she told the others.
+
+And there he was, clenched tight like a fist to fit into the gap in
+the trees above the sinkhole.  She took one step toward him and
+stopped at fresh shouts from the soldiers, pain and fear mixed with
+the anger.
+
+"We have to save them!" Thokmay shouted.
+
+"No!" Kulbinder snarled.
+
+"We can't," Ulfmaerr said at the same instant.  "I'm sorry, but---no!
+Don't!"
+
+Thokmay plunged into the trees, scrambling from branch to branch in a
+clumsy imitation of the trolls' grace, shouting, "To me! To me!"  A
+squirrel landed on his head and sank its tiny claws into his scalp.
+Another leaped onto his shoulder.
+
+"To me!" he shouted a third time as Kulbinder caught up with him and
+batted at his ankles.  The prince stumbled, just barely catching hold
+of a branch to steady himself as the tiger knocked squirrels away with
+mighty sweeps of his paws.
+
+"The cloud!" Noxy shouted at them.  "Get to the cloud!"  She turned
+and sprinted for it herself.  Something crunched underfoot, and then
+she threw herself onto the cloud.
+
+Ulfmaerr landed beside her, and Kulbinder and Thokmay a moment later.
+The prince tried to get to his feet, slipped, fell, got up again,
+and yelled, "Come on!  Come on!"
+
+A lone soldier burst out of the trees, so covered in squirrels that he
+looked like a misshapen gray ogre.  He ran toward them and fell
+forward just as the cloud began to rise.  Thokmay lunged forward to
+grab his hand.
+
+"Help me!" he shouted as the soldier's weight dragged him toward the
+edge of the cloud.  Ulfmaerr dove at him just in time to clutch the
+leg of his trousers.  Together, they pulled the soldier up onto the
+cloud.
+
+They rose into sunlight.  Noxy sat up, then stood and whooped.  They
+were airborne!  She was back where she belonged!  *Thank you,* she
+mind-spoke to the calf.  *Thank you.*
+
+*Good?* the cloud asked tentatively.
+
+*Good,* Noxy mind-spoke firmly.  She knelt and stroked his back.  Very
+*good.*
+
+"Are you all right?"  She looked up, then took Ulfmaerr's hand and let
+him help her to her feet.
+
+"I'm fine," she said.  She had a cloud of her own, she realized.  Rash
+and Sensy were going to be so jealous.
+
+"You!" Kulbinder growled as the rescued soldier started to stand.
+"Stay down or I'll put you over the side."
+
+"You can try," a familiar voice replied.  The soldier reached up and
+pulled off his mask.
+
+It was Sergeant Dorbu.

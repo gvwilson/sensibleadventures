@@ -7197,18 +7197,17 @@ them.  But the only one Noxy really noticed was the prince, who was
 still holding her hand.
 
 She squeezed his and let go.  "So," she said, looking up even though
-she knew she wouldn't be able to see anything yet, because if she
-looked at him she'd blush and she was *not* going to blush, "Now we
-wait."
+she knew she wouldn't be able to see the cloud calf yet, because if
+she looked at him she'd blush and she was *not* going to blush, "Now
+we wait."
 
-"Now we climb," Ulfmaerr corrected.  "But move slowly.  Don't startle
-them.  The forest is trying to calm them down, but they're not
-listening."
+"And hope the squirrels don't decide to attack," Ulfmaerr added.  "The
+forest is trying to calm them down, but they're not listening."
 
-"Se net harket sterk," a voice from behind Noxy agreed wearily.  It
-was Linger, bloodied and battered but with his head still held high.
-He settled onto a branch a couple of strides away, one arm cradled in
-his lap.
+"Se net harket sterk," a voice from behind Noxy agreed.  It was
+Linger, bloodied and battered but with his head still held high.  He
+settled onto a branch a couple of strides away, one arm cradled in his
+lap.
 
 A squirrel scampered along another branch near his head and chirrupped
 at him.  The ancient troll regarded it with his dark, sad eyes and
@@ -7224,5 +7223,53 @@ The troll nodded.  "Wy binne ar banne."
 "We are our duty," Ulfmaerr translated.  He chuckled.  "It's something
 a magician would say."
 
-"It's something my father would say," Thokmay replied.  "I keep hoping
-he's wrong, but..."  He sighed.  "Maybe he's right."
+"Or my father," Thokmay replied.  "I keep hoping he's wrong, but..."
+He shrugged.
+
+Whatever he was going to say next was cut off by Noxy's quiet, "Uh
+oh."
+
+"What now?" Thokmay groaned.
+
+"It's Pillow," Noxy said, pointing north through the trees.  "He's
+over there somewhere.  But he's coming this way."
+
+Kulbinder growled.  "Have they seen us?"
+
+"How would I know?" Noxy snapped.  "Sorry.  I just---I don't know."
+But even as she said it, her thoughts came together like the pieces of
+a jigsaw puzzle.
+
+"No," she corrected herself.  "They haven't seen *us*.  But I bet
+Grappa Gas saw the calf double back.  Clouds don't do that unless
+someone is herding them."
+
+"So who's going to get here first?" Thokmay asked.
+
+"I don't know," Noxy confessed.  Grappa Gas wasn't just one of the
+best cloudherds in Stale.  When he was younger, he had raced against
+cloudherds from other villages.  The abalone spoons he'd won still
+hung in his kitchen.
+
+*Of course, those races were fair,* Noxy thought grimly.  She closed
+her eyes once again.  There was the calf, hurrying toward them.  And
+there was Pillow, further away but with the wind behind him.
+
+*Stop,* she ordered, careful to send her thoughts only to Pillow.
+
+*No.*  The cloud's reply was swift and angry.
+
+*Stop!* she repeated as forcefully as she could, then gasped at the
+image Pillow sent back.  It was Grappa Gas, but with a black eye and a
+split lip.
+
+"Oh, grappa," she whispered.  His nose was swollen too.  She wondered
+if it had been broken.
+
+She steeled herself.  *Then go slow,* she mind-spoke to Pillow.  *Let
+the calf get here first.*
+
+*No.*  And with, Pillow closed his mind to her.
+
+Desperate, she turned her thoughts back to the calf.  *Faster,* she
+urged.  *Must go faster.*

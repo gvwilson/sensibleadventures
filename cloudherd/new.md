@@ -157,11 +157,12 @@ had left a week ago for the snowfields to collect Stale's clouds from
 their winter pasture.  Three hundred people, from babies in their
 mothers' arms to Grappa Gas with his cane, stood in a half-circle on
 one side of the square.  A dozen soldiers stood at attention in front
-of them.  They wore steel helmets with yellow feathers on their
-crests, and stiffened leather armor as thick as bootsoles that reached
-from their shoulders to their waists.  Heavy wool kilts brushed
-against the tops of their sturdy knee-high leather boots.  Each
-soldier had a sword in a scabbard on his hip and a pack on his back.
+of them.  They wore steel helmets with yellow feathers on their crests
+and masks painted with fierce swirls of red and black on their faces.
+Stiffened leather armor as thick as bootsoles that reached from their
+shoulders to their waists, while heavy wool kilts brushed against the
+tops of their sturdy knee-high leather boots.  Each soldier had a
+sword in a scabbard on his hip and a pack on his back.
 
 And Young Gas had been right: they had been fighting.  One man's hand
 was wrapped in a bloody bandage, while another's arm was in a sling.
@@ -176,11 +177,11 @@ from his left ear, and his tail twitched slightly, as if the assembled
 villagers reminded him that he had not yet eaten lunch.
 
 A boy stood beside him, armored like the soldiers and carrying a pack
-as large as any of theirs.  When he turned his head, Noxy saw four
-half-healed scars on his cheek, angry red against his near-black skin.
-His back was straight, but he was trembling, though whether it was
-because of the cold, weariness, fear, or all three, Noxy couldn't
-tell.
+as large as any of theirs, but with his mask in his hand.  When he
+turned his head, Noxy saw four half-healed scars on his cheek, angry
+red against his near-black skin.  His back was straight, but he was
+trembling, though whether it was because of the cold, weariness, fear,
+or all three, Noxy couldn't tell.
 
 Sensy tugged at Noxy's sleeve.  "Who *are* they?"
 
@@ -216,9 +217,10 @@ compared to the villagers' dark brown, and his wiry hair was trimmed
 to a thin fuzz.  Two yellow ribbons, exactly the same color as the
 feathers in his helmet, ringed his left sleeve.
 
-He smiled at the villagers and opened his mouth to speak, but Aft
-spoke again before he could get a word out.  "You lot loyalists?"  the
-cloudherd asked loudly.
+It took him a moment to undo the ties that held his mask in place.
+Once it was off, he smiled at the villagers and opened his mouth to
+speak, but Aft spoke again before he could get a word out.  "You lot
+loyalists?"  the cloudherd asked loudly.
 
 "Give the man a chance to speak!" Grappa Gas said just as loudly,
 rapping his cane against his wooden leg.  He and his son glared at
@@ -595,12 +597,17 @@ the injured men to leave their gear, to leave their tents, to leave
 everything they couldn't pick up *right away*.
 
 Limping and stumbling in singles and pairs, the men began to clamber
-onto Pillow's back.  The older cloudherds helped the worst injured,
-and had others move apart to keep their weight balanced.  As they were
-doing this, one of the soldiers stopped in front of Aft and began to
-argue, pointing at a larger tent set up a short distance away from the
-others.  Other soldiers joined in, until Aft was partly surrounded by
-a half-circle of angry men.
+onto Pillow's back.  A few still wore their battle masks, but most had
+tied them out of the way on the backs of their helmets.  It made them
+look like a doll Noxy had once seen with one happy face and one sad,
+except the soldiers faces were fierce and weary.
+
+The older cloudherds helped the worst injured, and had others move
+apart to keep their weight balanced.  As they were doing this, one of
+the soldiers stopped in front of Aft and began to argue, pointing at a
+larger tent set up a short distance away from the others.  Other
+soldiers joined in, until Aft was partly surrounded by a half-circle
+of angry men.
 
 Finally he threw up his hands in surrender.  Taking the horn from his
 belt, he blew two long notes, then windmilled his arm and pointed to
@@ -7371,3 +7378,60 @@ and Sensy were going to be so jealous.
 pulled off his mask.
 
 It was Sergeant Dorbu.
+
+## Choosing Friends
+
+Thokmay's hand reached for the sword that was no longer on his belt.
+Sergeant Dorbu shook his head.  "You left it back on the mountain,
+remember?  Poor form for a soldier."
+
+"What are you doing here?" the prince demanded.  Beside him, Kulbiner
+had tensed, ready to pounce.
+
+"I take it you all know each other?" Ulfmaerr asked pointedly.
+
+The sergeant nodded.  Blood was oozing onto his collar from a squirrel
+bite on his neck.  He patted it gingerly with his fingers and examined
+the red splotch it left on his fingers.  "I'm Dorbu.  I'm the boy's
+secret shepherd."
+
+"What?" Thokmay exclaimed.
+
+"Rot!" Kulbinder exploded at the same time.
+
+"Would somebody mind telling me what a secret shepherd is?" Noxy asked
+acidly in the stunned silence that followed.
+
+Dorbu grinned wearily.  "I work for the king's Minister of Rumors.  I
+was posted to Panday under cover to keep an eye on what was brewing
+there, so when the prince was enlisted and sent there, I was told to
+keep an eye on him.  It, uh, it didn't quite work out as planned."  He
+shrugged as if to say, what can you do?
+
+"Wait."  Noxy held up a hand.  "You're a *spy*?  For the *king*?"
+
+"The rot you are," Kulbinder snarled.  He took a quick step toward the
+sergeant as if preparing to pounce, then checked himself.  "They would
+have told me."
+
+Dorbu looked at him sadly.  "I'm sorry," he said.  "I thought they
+should too, just in case, but..."  He shrugged again.  "The minister
+isn't one to trust people, much less the Gifted."
+
+"I don't believe you," Kulbinder said flatly.  "Most respected, he's
+lying.  It's a trick to distract us.  Look!"
+
+Noxy turned to look where the tiger pointed and gasped.  How could she
+have forgotten about Pillow?  She might be older than some of the
+trees below them, but she could move when she wanted to, especially
+with someone like Grappa Gas herding her.  She was already close
+enough that Noxy could see the archers on her back.
+
+And there---further back, up high to hide in front of the sun.  She
+shaded her eyes with her hand and squinted.  "Rot," she cursed.  "It's
+Tasteless."
+
+"That it is," Dorbu agreed.  "He dropped us in the forest about half a
+gallop away."  He stood unsteadily, ignoring Kulbinder's warning growl,
+and wiped the blood from his fingers onto his trousers.  "Now, are you
+going to throw me over the side or are we going to save Stale?"

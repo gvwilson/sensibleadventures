@@ -7114,18 +7114,20 @@ all the same shade of gray, and all angry.
 urgently.
 
 "I'm trying!" Noxy closed her eyes and tried to concentrate.  The
-stray calf was *there*, three hundred strides east of them.
-It---he---was a little worried about being so far from his herd, but
-enjoying the freedom as well.  No other calves bumping into him, no
-adults hurrying him along...
+stray calf was *there*, three hundred strides east of them, but
+it---he---wasn't really a calf any more.  He was a young bull, a
+little worried about being so far from his herd, but enjoying the
+freedom as well.  No other bulls bumping into him to keep him in his
+place, no adults hurrying him along...  He hadn't strayed, he had...
+wandered, and he was in no hurry back.
 
 *Come,* she mind-spoke.  *Come. New friends.*
 
-*???* The calf was so startled that he rained a little before catching
-himself.  He had never mind-spoken with a human before, Noxy realized.
-All the clouds she had ever known had been brought down from the
-mountains by grownups.  They'd had time to get used to strange voices
-in their minds, but not this one.
+*???* The young bull was so startled that he rained a little before
+catching himself.  He had never mind-spoken with a human before, Noxy
+realized.  All the clouds she had ever known had been brought down
+from the mountains by grownups.  They'd had time to get used to
+strange voices in their minds, but not this one.
 
 *Friends,* she mind-spoke as soothingly as she could, biting down to
 suppress another shriek as a squirrel ran across her leg.  Its little
@@ -7183,7 +7185,7 @@ his coat looking like goofs had been sleeping on it, but all Noxy saw
 was his quiet smile.
 
 She nodded, squeezed his hand back, and closed her eyes again.  *Come
-now,* she told the cloud calf, not letting a single speck of doubt
+now,* she told the cloud bull, not letting a single speck of doubt
 into her thoughts.  She wasn't asking.  She wasn't even ordering.  She
 was just stating a fact.  He was going to come to them, and he was
 going to do it right now.  There wasn't an "or else" because there
@@ -7195,7 +7197,7 @@ that it stretched from one horizon to the next.  That was her, Noxy
 realized.
 
 *Good.  Hurry.* She lightened the image a couple of shades and
-mind-pushed it back to the calf by way of encouragement, then opened
+mind-pushed it back to the bull by way of encouragement, then opened
 her eyes.
 
 "He's on his way," she told her companions.  Ulfmaerr nodded.  The
@@ -7204,7 +7206,7 @@ them.  But the only one Noxy really noticed was the prince, who was
 still holding her hand.
 
 She squeezed his and let go.  "So," she said, looking up even though
-she knew she wouldn't be able to see the cloud calf yet, because if
+she knew she wouldn't be able to see the cloud bull yet, because if
 she looked at him she'd blush and she was *not* going to blush, "Now
 we wait."
 
@@ -7248,7 +7250,7 @@ But even as she said it, her thoughts came together like the pieces of
 a jigsaw puzzle.
 
 "No," she corrected herself.  "They haven't seen *us*.  But I bet
-Grappa Gas saw the calf double back.  Clouds don't do that unless
+Grappa Gas saw the bull double back.  Clouds don't do that unless
 someone is herding them."
 
 "So who's going to get here first?" Thokmay asked.
@@ -7259,8 +7261,8 @@ cloudherds from other villages.  The abalone spoons he'd won still
 hung in his kitchen.
 
 *Of course, those races were fair,* Noxy thought grimly.  She closed
-her eyes once again.  There was the calf, hurrying toward them.  And
-there was Pillow, further away but with the wind behind him.
+her eyes once again.  There was the young bull, hurrying toward them.
+And there was Pillow, further away but with the wind behind him.
 
 *Stop,* she ordered, careful to send her thoughts only to Pillow.
 
@@ -7278,8 +7280,8 @@ the calf get here first.*
 
 *No.*  And with, Pillow closed his mind to her.
 
-Desperate, she turned her thoughts back to the calf.  *Faster,* she
-urged.  *Go faster.*
+Desperate, she turned her thoughts back to the young bull.  *Faster,*
+she urged.  *Go faster.*
 
 Suddenly Linger was up, his teeth bared.  Kulbinder's head snapped to
 the side.  "Trouble," he snarled.
@@ -7308,8 +7310,8 @@ forest.  Another and another and now they were creeping toward her,
 freezing whenever she looked straight at them but she was surrounded,
 she couldn't look everywhere at once.
 
-The light dimmed.  The calf had arrived.  *Bunch up!* she commanded
-it.  *Come down!*
+The light dimmed.  The young bull had arrived.  *Bunch up!* she
+commanded it.  *Come down!*
 
 The cloud hesitated.  *Prickly,* he complained.
 
@@ -7358,7 +7360,7 @@ cloud.
 
 They rose into sunlight.  Noxy sat up, then stood and whooped.  They
 were airborne!  She was back where she belonged!  *Thank you,* she
-mind-spoke to the calf.  *Thank you.*
+mind-spoke to the young bull.  *Thank you.*
 
 *Good?* the cloud asked tentatively.
 
@@ -7418,8 +7420,8 @@ Dorbu looked at him sadly.  "I'm sorry," he said.  "I thought they
 should too, just in case, but..."  He shrugged again.  "The minister
 isn't one to trust people, much less the Gifted."
 
-"I don't believe you," Kulbinder said flatly.  "Most respected, he's
-lying.  It's a trick to distract us.  Look!"
+"I don't believe you," Kulbinder said flatly.  "Most respected, it's
+just a trick to distract us.  Look!"
 
 Noxy turned to look where the tiger pointed and gasped.  How could she
 have forgotten about Pillow?  She might be older than some of the
@@ -7431,7 +7433,73 @@ And there---further back, up high to hide in front of the sun.  She
 shaded her eyes with her hand and squinted.  "Rot," she cursed.  "It's
 Tasteless."
 
-"That it is," Dorbu agreed.  "He dropped us in the forest about half a
-gallop away."  He stood unsteadily, ignoring Kulbinder's warning growl,
-and wiped the blood from his fingers onto his trousers.  "Now, are you
-going to throw me over the side or are we going to save Stale?"
+"By name and by nature," Dorbu agreed.  "He dropped us in the forest
+about half a gallop away."  He stood unsteadily, ignoring Kulbinder's
+warning growl, and wiped the blood from his fingers onto his trousers.
+"So, are you going to throw me over the side or not?"
+
+He and Kulbinder stared at each other.  "Stop digging your claws into
+my cloud!" Noxy told the tiger sharply.  She could mind-hear the
+cloud's rising panic.  No one had ever ridden him before, and having
+the tiger knead him like an old scrap of carpet wasn't helping
+anything.
+
+Kulbinder blinked.  "Stay away from the prince," he rumbled.
+
+"Well, I'm glad that's settled," Ulfmaerr said brightly.  "Now, what's
+our plan?"
+
+Noxy squinted at the approaching clouds again.  "Run as fast as we
+can," she said bitterly.  "Again."
+
+"We can't run forever," Thokmay said to her quietly.
+
+She nodded but didn't reply.  What was there to say?  Even if Grappa
+Gas held back, Tasteless wouldn't, and his cloud was bigger, faster,
+and from the mind-sense of things, a lot meaner than the one they were
+one.  She would do her best, but it wasn't going to be a long race.
+
+*Go fast.*  It took her a moment to realize the thought wasn't hers,
+but the cloud's.
+
+*I know you will,* she mind-spoke back as comfortingly as she could.
+*But---*
+
+*Go fast,* the cloud insisted.  *Show you.*
+
+The sudden jolt almost knocked her off her feet.  Thokmay stumbled,
+and Sergeant Dorbu fell clumsily onto one knee.  "What in the names of
+the saints?"
+
+What had been a gentle breeze a few heartbeats ago was suddenly strong
+enough to lift stray strands of hair off Noxy's shoulders.  She held
+out a hand flat to the wind and angled it forward and back.  Her eyes
+widened.  *How long can you keep this up?* she mind-asked.
+
+*Go fast all day,* the cloud replied with a mix of confidence and
+challenge that would have reminded Noxy's mother of her daughter.
+
+*Go faster?* Noxy asked recklessly.  *Go faster all the way to the
+mountains?*
+
+The cloud's answer was another burst of speed.  Noxy whooped.
+
+"What's wrong?" Thokmay asked.
+
+"Nothing!" she said.  She spun to look at the two clouds chasing them.
+Pillow was already smaller than he had been, and she could see the
+flanks of Tasteless's cloud rippling as he tried to keep up.  She
+whooped again and hugged Thokmay before she realized what she was
+doing.
+
+"Uh..."  He hugged her back a little awkwardly.  "Thanks?"
+
+She was suddenly aware that everyone was looking at her.  She let go
+of him and stepped back, hugging her arms around herself as if
+suddenly cold.  "He's a real peaks runner," she said self-consciously
+to no one in particular.  "The cloud, I mean.  Most of Stale's herd
+graze on the lower slopes, but he must have been part of a herd from
+further east, or maybe west, the mountains are higher in both
+directions, and anyway, we don't go up that high because they don't
+rain as well but they're a lot faster and..."  She shrugged, unable to
+meet anyone's eyes, especially Thokmay's.

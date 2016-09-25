@@ -7473,8 +7473,9 @@ the saints?"
 
 What had been a gentle breeze a few heartbeats ago was suddenly strong
 enough to lift stray strands of hair off Noxy's shoulders.  She held
-out a hand flat to the wind and angled it forward and back.  Her eyes
-widened.  *How long can you keep this up?* she mind-asked.
+out a hand flat and tilted it back and forth to test the speed of the
+wind.  Her eyes widened.  *How long can you keep this up?* she
+mind-asked.
 
 *Go fast all day,* the cloud replied with a mix of confidence and
 challenge that would have reminded Noxy's mother of her daughter.
@@ -7495,11 +7496,87 @@ doing.
 "Uh..."  He hugged her back a little awkwardly.  "Thanks?"
 
 She was suddenly aware that everyone was looking at her.  She let go
-of him and stepped back, hugging her arms around herself as if
-suddenly cold.  "He's a real peaks runner," she said self-consciously
-to no one in particular.  "The cloud, I mean.  Most of Stale's herd
-graze on the lower slopes, but he must have been part of a herd from
-further east, or maybe west, the mountains are higher in both
-directions, and anyway, we don't go up that high because they don't
-rain as well but they're a lot faster and..."  She shrugged, unable to
-meet anyone's eyes, especially Thokmay's.
+of him and stepped back, hugging her arms around herself as if cold.
+"He's a real peaks runner," she said self-consciously to no one in
+particular.  "The cloud, I mean.  Most of the ones we herd graze on
+the lower slopes, because it's easier to get to them and they can
+carry more water, but he must have been part of a herd from further
+east, or maybe west, the mountains are higher in both directions, and
+anyway, we don't go up that high because they don't rain as well but
+they're a lot faster and..."  She shrugged, suddenly feeling warmer
+and unable to meet anyone's eyes---especially Thokmay's.
+
+The young bull hadn't been lying.  Tasteless's cloud began to fall
+behind after a few hundred heartbeats, but theirs seemed to have been
+born to gallop.  Noxy had to keep reminding him to stay bunched up so
+that they wouldn't fall through, but he could mind-hear her
+desperation and exhiliration, and it seemed to spur him on.
+
+The forest swept by beneath them like flotsam.  Nameless little rivers
+split and split again as they approached the mountains.  Noxy knew she
+wasn't the first cloudherd to see them---people took shortcuts over
+the Herd of Trees all the time---but there were no fields, no roads,
+no twists of smoke rising from chimneys.  This was the deep forest,
+and if she closed her eyes and let go even a little, she could feel
+its slow attention.
+
+After a while, Ulfmaerr stretched out with his satchel for a pillow
+and began to snore.  Sergeant Dorbu lay down as well, though more
+cautiously, but Noxy didn't think he slept---not with Kulbinder
+sitting on his haunches three strides away watching him.
+
+Thokmay came over to join her near the front of the cloud.  "So what
+happens now?" he asked.
+
+Noxy stared at the mountains.  They were getting taller by the hour,
+but it would be dark before the cloud reached them.  He needed a name,
+she realized suddenly.
+
+"I wonder if this is why my *amma* runs things," she said as Thokmay
+opened his mouth to repeat his question.  "I mean, did people just
+start asking her, what do we do now, and she didn't want to disappoint
+them by saying, how would I know, and---why are you laughing at me?"
+
+"I wasn't laughing," Thokmay protested, a grin still on his face.
+"Well, not *at* you.  I just---it's funny.  I mean, not you," he added
+hastily as Noxy's brows gathered menacingly.  "I mean this.  I'm
+supposed to be king one day.  I can't count how many teachers I've had
+trying to get me ready for that.  Law and strategy and fencing and
+dancing and---"
+
+"Dancing?  Kings have to know how to dance?"
+
+"Absolutely."  Thokmay nodded solemnly.  "It's a very important part
+of diplomacy.  Right up there with dissimulation, which as far as I
+can tell means how to tell lies with a straight face when you're so
+important that people won't actually say you're lying.  My brother and
+I had to practice on each other for hours last summer.  He was a lot
+better at it than me."
+
+"You made that up," Noxy accused.
+
+"I'm serious!" Thokmay protested.  "He's a natural."
+
+Noxy rolled her eyes.  "You don't really have classes in lying."
+
+"Absolutely.  And bluffing.  He's better at that, too.  He won't even
+bother playing skulls and roses with me any more."
+
+Noxy shook her head in disbelief.  "You're a little strange, you know
+that?"
+
+"Says the girl who can talk to clouds that are gallops away," Thokmay
+observed pointedly.
+
+Noxy's smile died.  "I didn't ask for that part."
+
+Thokmay nodded again.  "I know what you mean.  I didn't ask to be a
+prince.  I wanted to be---"
+
+"---a doctress," Noxy finished for him.  "I remember."
+
+Thokmay shrugged.  "That, or maybe a bookster.  Or maybe a storysmith.
+There was one in the market in Panday on Yellowsdays and Bluesdays.
+She looked like she was a hundred years old, and if you paid half a
+shell she'd put anything you wanted in her story for that day.  I used
+to ask for ribbons.  They reminded me of my sister."

@@ -7555,15 +7555,14 @@ better at it than me."
 
 "You made that up," Noxy accused.
 
-"I'm serious!" Thokmay protested.  "He's a natural."
+"I'm serious!" Thokmay protested.  "He was gallops better than me."
 
 Noxy rolled her eyes.  "You don't really have classes in lying."
 
-"Absolutely.  And bluffing.  He's better at that, too.  He won't even
-bother playing skulls and roses with me any more."
+"Absolutely.  Lying and bluffing.  He's better at that, too.  He won't
+even bother playing skulls and roses with me any more."
 
-Noxy shook her head in disbelief.  "You're a little strange, you know
-that?"
+Noxy shook her head.  "You're a little strange, you know that?"
 
 "Says the girl who can talk to clouds that are gallops away," Thokmay
 observed pointedly.
@@ -7575,8 +7574,552 @@ prince.  I wanted to be---"
 
 "---a doctress," Noxy finished for him.  "I remember."
 
-Thokmay shrugged.  "That, or maybe a bookster.  Or maybe a storysmith.
+Thokmay shrugged.  "That, or a bookster.  Or maybe a storysmith.
 There was one in the market in Panday on Yellowsdays and Bluesdays.
 She looked like she was a hundred years old, and if you paid half a
 shell she'd put anything you wanted in her story for that day.  I used
 to ask for ribbons.  They reminded me of my sister."
+
+Noxy glanced at him.  "You never told me you had a sister."
+
+Thokmay hesitated.  "She's... special.  She's older than me, but she
+thinks and talks like a six-year-old.  All sorts of doctresses and
+magicians have looked at her, and they say it just happens sometimes."
+He shrugged.  "Kind of the opposite of being Gifted like Kulbinder."
+
+"I'm sorry," Noxy said awkwardly.
+
+"It's all right.  She's pretty happy most of the time."  A half-smile
+flitted across his face.  "Especially if someone will play dolls with
+her."
+
+They flew in silence after that.  The air was cold, but the young bull
+was warm, and after a while both Sergeant Dorbu and Thokmay were
+snoring along with Ulfmaerr.  Noxy was tired too, but she'd had lots
+of practice staying awake on cloudback.  She and Rash and Sensy had
+gone down to the cloud pen three nights in a row the summer before.
+There, under the watchful eye of Grappa Gas, they had pretended to
+stand watch on Big Blue and Pillow for hours at a time.  "You can
+close your eyes if you want to," the old man tempted them.  "Just for
+a moment."  Rash had, once, and Sensy and Noxy promised to never let
+him forget it.  She wondered what they were doing right then.  She
+wondered whether her mother was all right, and what had happened to
+Aft.  Sergeant Dorbu could probably tell her, but she didn't want to
+wake him.  And even if she did, she didn't know if she could trust
+anything he said.
+
+*You can slow down now,* Noxy mind-told the cloud absently.  The sun
+was starting to set, and the two clouds that were chasing them were
+almost lost in the mountain-cast shadows that now stretched across the
+forest.
+
+----------------------------------------
+
+## Chapter 20: FIXME
+
+*   Bridge what I have to the ending.
+*   Foreshadow the lightnings much earlier.
+*   Do something with the squirrels earlier or later.
+*   The death of Sergeant Dorbu.
+
+----------------------------------------
+
+## Chapter 21: Lightning
+
+Noxy and Thokmay walked slowly up the potholed mountain track to the
+bridge. The forest smelled cool and moist around them. Juncos and
+nutcrackers whistled and chattered in the branches above their heads,
+and something the size of a small raccoon rustled through a patch of
+thorny misery a few feet away. "Do you like being a prince?" Noxy
+asked Thokmay as she picked up a stone.
+
+He thought for a few steps before replying. "I think so. You have to
+be a prince before you can be king, and being king like my father is
+all I've ever wanted, ever since I was little." He paused again. "But
+I guess it's kind of like asking Fluffy if she likes being a cloud, or
+Kulbinder if he likes having a tail."
+
+"I guess," echoed Noxy.
+
+"Do you like being able to do magic?"
+
+"What?" said Noxy, startled. "I'm not a magician."
+
+Thokmay smiled.  "You can talk to the clouds in your head, and make
+them do what you want. That looks like magic to me."
+
+"I guess I never thought about it," Noxy said. "Everyone I know does
+it, so it doesn't seem like something special.  I guess like how
+you're going to be a king some day doesn't seem special to you?"
+
+Thokmay stooped to pick up a stone of his own. "Not really.  People
+think being a king is about having adventures all the time, but my
+father spends most of his time judging law cases, or listening to
+Respected Dolkar explain why we can't raise taxes to pay for repairs
+to the Apple Bridge.  It's actually about as exciting as watching soup
+go cold---until there's a rebellion," he amended.
+
+"So why doesn't he let someone else do it? Can't he just order
+Respected whoever-she-is to fix the bridge?"
+
+Thokmay shook his head. "The law says the king has to decide anything
+that affects the safety of the kingdom. Or any case of murder in the
+capital, or anything involving foreign magicians." He frowned.
+"There's another one as well, but I can't remember what it is."
+
+"If I was king, I'd make a new law that said other people could worry
+about those things for me," Noxy mused.
+
+The prince sighed. "That's what Princess Shudarga thinks too.  She
+says that laws shouldn't belong to people, they should belong to
+everyone, like, like the ocean or something, but then what's to stop
+everyone from just making their own?"
+
+He stared into the depths of the forest, not really seeing the trees.
+"I think---I think laws are different from magic. Magic happens the
+way it's supposed to whether you do anything or not, like the sun
+coming up or tea going cold if you leave it on the table.  Laws only
+work if someone makes them work. If you let one person make a law or
+change one just because they want to, it would be like having no laws
+at all."  Suddenly he pulled his arm back and threw his stone as high
+and as far as he could.  A moment later they heard it go *thock!*
+against a tree.
+
+Noxy threw her stone as well. *Thock!*
+
+The prince grinned at her. "Sounded like the same tree."
+
+Noxy grinned back. "I bet it was." She almost reached out to take his
+hand as they started walking again.  Almost.
+
+Ulfmaerr was waiting impatiently when they got back. "I was about to
+send Kulbinder off after you," he said. "Where have you been?"
+
+"Throwing rocks at trees," said Noxy. Kulbinder turned his head and
+stared at the prince, who blushed slightly.
+
+"Well, never mind that," said Ulfmaerr. "Here." He handed them each a
+dry brown leaf. "Keep this with you, and don't lose it."
+
+"What's it for?" Noxy asked, turning it over curiously.
+
+"It'll be cold where we're going," Ulfmaerr told them. "This will keep
+you warm."
+
+"It's more magic, isn't it?" Noxy said. Ulfmaerr nodded, then
+smiled. One of his front teeth was missing.
+
+They let Fluffy pick her own pace as they flew north, rising hour by
+hour as the pass snaked between the sharp mountains. The last trees
+were far below them, and only an occasional clump of saxifrage or
+cutleaf daisy clung to the rocks. The air was so clear that it almost
+hurt to breathe.
+
+Finally Ulfmaerr pointed and said, "There. Up over that." Off in the
+distance a narrow mountain valley hung above the pass, filled to the
+brim by a pristine white glacier. A tumble of snow and broken ice made
+a jumbled white fan beneath it.
+
+Fluffy had to circle twice to gain enough altitude to get over the lip
+of the glacier. Noxy was so cold that she reached into her pocket to
+hold her magic leaf, but Ulfmaerr said, "Not yet. Not until you really
+have to."
+
+"I *do* really have to," Noxy chattered, but she pulled her hand out
+of her pocket and pulled the prince's cloak tighter around her. She,
+Kulbinder, and Thokmay were huddled together to stay warm. Ulfmaerr
+didn't seem to notice, even though his toenails were turning blue.
+
+They raced along the glacier. The mountains rose on either side of
+them like Marandine's ancient walls. There were no flowers, nothing
+green, not even any of the gray-brown lichens the cloudherds called
+"belly scrapings". It was like the first day of the world, or the
+last, with nothing around but jagged rocks and glaciers glistening
+like newly-made gems in the sun.
+
+Suddenly Kulbinder stiffened and hissed, "What is that?"
+
+"What?" asked Thokmay and Noxy together. They struggled to their feet.
+
+"I hear drums." snarled Kulbinder. "Magician! What is this place?"
+
+Ulfmaerr took a deep breath. "They're not drums.  This is the Valley
+of Lightnings."
+
+Noxy gasped. "The what?" Thokmay asked.
+
+Ulfmaerr didn't turn his head. "There," he pointed. "And there. See
+them?"
+
+Noxy stared at the horizon. "Turn your head a bit," Thokmay told
+her. "Try looking out of the corner of your eye. Sergeant Dorbu taught
+me." Sure enough, when Noxy looked at one of the peaks, instead of
+straight up the valley, she could suddenly see little flashes of light
+darting from place to place. A few heartbeats later she heard the
+*szzzzzt!* and *crack!* of the lightnings' dance.
+
+Fluffy slowed abruptly beneath them.  *Sharp brights!*
+
+*Friends,* Noxy mind-spoke back, trying to soothe the frightened
+cloud.
+
+*Sharp brights __not__ friend,* Fluffy mind-spoke emphatically,
+resuming her flight reluctantly.
+
+Then it happened. One moment the lightnings were tiny sparks on the
+horizon, and the next they were dazzling and dancing around the
+travellers. Up close they were almost invisible, just shimmering wisps
+like colored ripples in the air. They crackled like twigs being
+broken, over and over.
+
+Noxy and Thokmay cried out with fear. Kulbinder snarled, his ears
+pulled back and his hair standing on end. *Friends!* Noxy mind-spoke
+at Fluffy frantically. *They won't hurt you!* She had to close her
+eyes---she knew she wouldn't be able to convince the cloud as long as
+she could see the lightnings herself.
+
+*WHAT WHY HERE WHY YOU COME WHY COME WHY?* The angry words burst into
+Noxy's mind like a shout. She gasped, and her eyes snapped
+open. Thokmay was staring at her with a frightened look on his
+face. He could hear it too, she realized. It was like mind-speech, but
+so powerful that it felt like someone else was using her brain to
+think with.
+
+At the same instant she realized that her hands and feet had gone
+numb. She fumbled at her pocket, but couldn't get the button
+undone. Thokmay pushed her hand out of the way and undid it for
+her. As soon as her fingers touched the leaf that Ulfmaerr had given
+her, the freezing chill eased reluctantly out of her bones.
+
+Ulfmaerr raised his arms. "You know me!" he shouted.  "You know me,
+and you remember the bargain I made!"
+
+*WHY WHY HERE WHY COME NOT TIME!* The lightnings flickered red blue
+purple blue green blue red.
+
+"I know it's not my time!" Ulfmaerr shouted. "But I need your help
+again! Men have come from the plains, evil men. They plan to take the
+clouds to war! You must help us stop this thing!"
+
+The lightnings rippled with yellow and green. *MEN TREES WATER CLOUDS
+MEN LIGHTNING NOT LIGHTNING.*
+
+"No we aren't, but the law is the law!"  Ulfmaerr sounded
+desperate. Noxy suddenly realized that he didn't know if the
+lightnings would help them or not.
+
+The thought that came into her mind was almost amused. *MEN LAWS SLOW
+DULL NOT LIGHTNING NOT LIGHTNING.*
+
+"But the law!" Ulfmaerr protested. "These people would make weapons of
+the clouds!"
+
+*SLOW DULL NOT LIGHTNING CLOUDS NOT LIGHTNING NOT LIGHTNING LAWS,* the
+lightnings mind-spoke dismissively.
+
+"If not for the law, then for power!" Ulfmaerr shouted at them. "Look
+into me! I will give you anything I am if you will aid us!"
+
+There was a moment of stillness, and deep, biting cold, before the
+lightnings replied. *EMPTY NOTHING GIVEN ALL AWAY NOT ENOUGH YOU EMPTY
+NOT ENOUGH.* There was a sizzle as the lightnings began to flash away.
+
+*Wait!* Noxy mind-thought desperately. She felt the lightnings'
+attention turn to her, and felt their surprise.
+
+*SLOW DULL NOT MAGICIAN DULL SPEAK NOT MAGICIAN SPEAK?*
+
+*Not magician,* she agreed. *Slow and dull. But!* She reached out and
+ran her fingers lightly over a puff of cloud, concentrating as hard as
+she could on the sensation. *Touch,* she thought.
+
+*!!!* the lightnings mind-spoke back. There was a buzzing, almost like
+a conversation in another room, that she could barely mind-hear as
+they mind-talked amongst themselves.
+
+*You could have touch,* she mind-spoke again, as persuasively as she
+could. "Touch, taste, water running through your fingers, hot porridge
+sugar on your tongue, the smell of thimbleberry pie baking... You
+could have."
+
+"What are you doing?" Ulfmaerr gasped.
+
+*Chocolate,* Noxy continued. *Kitten fur. Warm under covers. Cold
+water on face. Hugs...*
+
+Ulfmaerr grabbed her by the shoulders and shook her.  "What...  are...
+you... doing...?" he hissed. "Have you gone mad?"
+
+Noxy pushed him away. "They have to help us! And if you don't have
+anything they want, maybe I do!  If I give them my permission, they
+can take my body and know what it's like to have touch and smell and
+taste. Maybe they'll help us for that."
+
+"Daffodfil, no!" Noxy could see the horror in Ulfmaerr's eyes.  "You
+can't!"
+
+"You did," she said simply.  There was no bitterness in her voice,
+no anger---not any more.  Her father had done what he had to to keep
+her safe, her and everyone else in Stale.  She understood that now,
+just as she understood that she had to do the same.
+
+Kulbinder snarled. Ulfmaerr groaned. "Girl, girl, you don't know what
+you're doing! The lightnings can survive without bodies, but you
+can't! When they get bored and leave you, your body will be as empty
+as a boot without a foot in it! And your ghost will wander until the
+ice melts!"
+
+"It's the only way," said Noxy stubbornly. Fighting against tears, she
+turned to face the lightnings again.  *I wish I'd said goodbye,* she
+thought.  Granna Fee, Rash, Sensy, her *amma*...  She spread her arms
+and closed her eyes and---
+
+---and fell clumsily onto Fluffy's back as Thokmay knocked her off her
+feet.  "Children of the sky!" he shouted.  "You of the thousand and
+one colors! Hear me! I am Thokmay Prince Gandan, fourth of that
+name. I am a plainsman, but even on the plains, we speak of the beauty
+and terrible strength of the blades of light that never grow dull.
+Hear me, for I would beg for your aid!"
+
+*SLOW DULL WORDS SLOW DULL BORING,* came back disdainfully.
+
+Thokmay set his jaw. "Yes, slow, and dull, but I have something to
+offer that you have never had before. Look inside me! Look in my
+heart! If you will help us as the magician has asked, I will give you
+something precious." He closed his eyes and took a deep breath. The
+look of concentration on his face was so powerful, so painful, that
+Noxy could almost hear his thoughts.
+
+There was a pause, just a heartbeat. Noxy felt the lightnings probe,
+searching, and then for the first time she mind-heard hesitation from
+them. *THRONE POWER MAJESTY NOT SLOW DULL NOT YOURS NOT YOURS TO
+GIVE.*
+
+"No, the throne isn't mine," Thokmay agreed. He was no longer
+shouting.  He didn't need to---Noxy could feel the lightnings'
+attention.  "But the chance that I would be king is.  it is all I have
+ever been, and that's what matters, isn't it? That's what makes it
+magic?"
+
+"Your Highness, you can't---" Kulbinder started.
+
+"Be still!" the prince snapped. "If people can give up their lives for
+me, I can give up my throne for them. What say you?" he shouted
+again. "Have we a bargain?"
+
+There was another pause. It stretched until Noxy thought she would
+scream. Finally the lightnings spoke. *DONE.  WHAT WHERE WHEN HOW?*
+
+## Chapter 22: The End
+
+Fluffy was the only cloud in the sky as they flew toward Stale.
+"There!" Kulbinder growled as they came around the final bend.  "Those
+are a hawk's wings, or my eyes are older than they should be."
+
+Noxy glanced at the patrolling bird, then back at her home.  The
+soldiers on the walls had seen them, of course---a single cloud
+swimming against the wind is a hard thing to miss. Half of Princess
+Shudarga's soldiers were watching as Fluffy touched down on the
+mountain road in front of the fortress gate. Kulbinder dismounted with
+a single smooth leap and loped toward the village. The hawk circled
+overhead as Fluffy lifted off again. He swooped low to caw at
+Kulbinder, but the tiger ignored his taunts.
+
+A dozen soldiers waited for Kulbinder at the old fortress gate, battle
+masks in place and swords in hand.  Colonel Bonzon stood in front of
+them, unmasked and scowling.
+
+Kulbinder stopped a few strides away. "In the name of Thokmay Prince
+Gandan, son of Denpa King Gandan, as his chosen herald, I salute you,"
+the tiger said formally.
+
+"And in the name of Shudarga Queen Gandan, I return that greeting, and
+swear safe parley," the colonel replied, equally formally. "Your fame
+stretches before you like a long shadow, Kulbinder of Thind."
+
+"As your lady's infamy stretches before you," the cat purred. "When
+even the ghosts of our ghosts have been laid to rest, still people
+will talk of how you sowed war where it should never have grown, but
+reaped only your own disaster."
+
+The colonel's face darkened. His men murmured behind him. "Strong
+words," he said in a voice as cold as the mountain air.  "Here is
+mine.  Surrender the prince to us, and I swear on my name that he will
+not be harmed if his father ends his unjust war."
+
+"No!" Kulbinder snarled. "In the name of Denpa King Gandan, and by
+right of ancient law, I command you to surrender yourself and your
+armies, and to place yourself before the king's justice!"
+
+The sergeant laughed. "Surrender? To a feeble old man, two children,
+and a tomcat?"
+
+"No," hissed Kulbinder. "To a great magician, two great hearts, and
+death wearing black and yellow fur!" He roared for all he was worth.
+
+Up on the cloud, Thokmay heard the tiger's signal. He stood and
+mind-shouted, *Now!* There was a tremendous sun-bright flash as the
+lightnings that had been hiding in the terrified cloud's nooks and
+crannies burst forth.
+
+Thunder boomed all around Noxy.  The lightnings' dazzle blinded her,
+and she smelled burning air.  Then there was an even louder *boom!*
+and a rumble that went on and on.
+
+"What's happening? What's happening?" she shouted.
+
+"I don't know," Thokmay shouted back. "I can't see."
+
+"I can't see either," said Noxy. She didn't know who reached for whom,
+but she and Thokmay were holding hands.
+
+"That was the south tower," Ulfmaerr said, shouting to be heard above
+the battle below them. "The lightnings blasted the roof right off
+it. And there! Your wind goose is going to need a new pole."
+
+The dazzle spots started to clear from Noxy's eyes.  Her mouth went
+dry as she saw the fires burning in the village below. *Down!* she
+frantically mind-shouted at Fluffy. *Down! Down!*
+
+The soldiers scattered in panic as the lightnings played around them.
+They had fought men and trolls and the hundred-legged things that
+sometimes came crawling out of the Blight, but who could fight this?
+In the middle of it all Colonel Bonzon shouted, "Come back here! I
+command you!" One of his soldiers, blinded by the light, stumbled into
+him as he tried to run.
+
+The colonel shoved him aside and drew his sword.  "You!" he spat at
+Kulbinder. "You mangy scrap of fur! I am going to make a carpet out of
+you, do you hear me?" He charged at the tiger.
+
+Kulbinder snarled a curse in Thindi and dodged under the first swing,
+twisting around as only a cat can to claw at the man's face.  His
+claws left deep scratches on the colonel's armor as his weight carried
+them both off their feet. The two rolled over and over, Kulbinder
+snarling and snapping as Colonel Bonzon tried to get his sword up
+to stab him.
+
+Above them Thokmay shouted, "Bring us down! Bring us down! Faster!"
+His hands were clenched into fists. "We have to help him!"
+
+"I'm trying!" Noxy said desperately, mind-shouting, *Down! Down!* at
+Fluffy.
+
+*Sharp brights,* the young cloud replied, but brought them down
+anyway. Thokmay leaped over Fluffy's flank the instant they touched
+down. Noxy and Ulfmaerr slithered off behind him.
+
+*Good good good,* Noxy mind-spoke, but the cloud was already rising
+and turning to flee.
+
+"Kulbinder! Look out!" Thokmay shouted.  Noxy spun around.  The tiger
+and his opponent were rolling toward the edge of the gorge! Thokmay
+raced toward them, but he was too late! The last thing Noxy heard as
+they rolled over the side was Kulbinder snarl in rage.
+
+Someone grabbed her and spun her around. She started to fight free,
+but then her mother's arms went around her in the biggest, fiercest
+hug of her life. Noxy froze for a moment, then wrapped her arms around
+her mother and squeezed her back.
+
+"Oh, daffodil," Indy wept, her voice breaking. "I was so scared. I was
+so scared."
+
+"Me too," said Noxy, her face buried in her mother's shoulder.
+
+Indy straightened up and brushed the tears off her daughter's face. As
+she did so Noxy heard Thokmay cry, "Kulbinder!" He was standing at the
+edge of the cliff. "Kulbinder, hang on!"
+
+Noxy wriggled free of her mother's hug and ran to join him.  "Down
+there!" the prince said, pointing.  "Quickly, get help!" Before Noxy
+could stop him, the prince slid over the edge to pick his way down the
+steep rock face.
+
+The tiger was wedged between a rock and a manzanita bush. His fur was
+wet with blood, but his eyes were bright. "Boy..." he panted.
+
+Thokmay braced his feet against the rock and cradled the tiger's head
+in his arms. "I thought I'd lost you too," he said.
+
+The tiger licked his arm with a tongue like a warm piece of
+sandpaper. "Don't you know cats always land on their feet?" he
+wheezed. He tried to gather his feet beneath him.
+
+"Don't try to move," Thokmay ordered. "They'll be here soon." The
+tiger licked his arm again, but didn't speak.
+
+## Chapter 23: The Beginning
+
+Noxy woke up in her own bed early the next morning. For a moment she
+just lay there, wishing it could all have been a dream, but knowing
+that it wasn't. The aches in her muscles from her long, cold ride, and
+the smell of burnt homes that lingered in the air, wouldn't let her
+pretend.
+
+She slid out from beneath her blankets as quietly as she could, pulled
+on her clothes, and tiptoed downstairs, and slipped through the door.
+The main square was covered with burned boards that had once been part
+of the trading hall's roof.  The scorch marks on the old fortress
+walls looked like the brown soot shadows that candles left on
+lanterns. A few wisps of smoke still rose from what was left of the
+wind goose's pole, and a soldier's helmet lay beside the speaker's
+stump, bright with dew.
+
+One of Princess Shudarga's soldiers stood at attention outside the
+trading hall. They had surrendered once they knew Colonel Bonzon was
+dead. Noxy walked past him as if he didn't exist, though her heart
+beat a little faster as she did so. The guard just stood there and
+looked straight ahead, thinking about whatever soldiers think about
+when they have lost a war.
+
+Granna Fee opened her door when Noxy knocked. "He's upstairs," she
+said, hugging her granddaughter. "Don't worry---cats are tough, and
+big old cats like him are the toughest. It's the little kittens like
+you that we all have to worry about."
+
+"Is Ulfmaerr still here?" Noxy asked, not letting go of her
+grandmother.
+
+Granna Fee shook her head.  "He couldn't stay," she said.  "But I
+think your new friend is up on the wall somewhere."
+
+"I'm sorry to hear that," the prince said when she found him and told
+him that Ulfmaerr was gone.  He was standing on the wall, staring at
+the pyre where the casualties from yesterday's fighting had been sent
+to their rest. "I wanted to say goodbye."
+
+"Goodbye?" Noxy immediately felt stupid. Of course---he would be
+leaving now.
+
+The prince nodded, a bit sadly. "I told the hawk to take word to my
+father. We'll give everyone another day, then head down the pass."
+
+"Have you thought about what you're going to tell him?" Noxy asked.
+
+Thokmay shook his head. "The truth, I suppose. Some good men died."
+
+"That's not what I meant."
+
+The prince smiled wryly. "I know. When we were little, my brother
+Tsigpa used to say that he ought to be king because he's taller than
+me. I guess now he'll get his wish."
+
+"And what will you be instead of a king?" Noxy asked.
+
+Thokmay shrugged again. "I don't know. Being king was..." He trailed
+off. "It's like when Ulfmaerr told you that if you let the lightnings
+take over your body, it would be empty when they left it. I feel empty
+like that."  He cleared his throat.  "What about you?  Have you told
+anyone about...?"
+
+Noxy shook her head.  "Not yet."  She looked into the distance where a
+single young cloud was grazing on an icy peak.  She could mind-speak
+to Fluffy if she wanted to, but he deserved a rest.
+
+"Mm."  The prince nodded, agreeing with everything she hadn't said,
+then cleared his throat again. "So... want to go throw some rocks at
+some trees?"
+
+Noxy took his hand and gave it a squeeze.  "Sure."  She didn't let go
+as they made their way down the stairs, and neither did he.

@@ -7381,7 +7381,7 @@ pulled off his mask.
 
 It was Sergeant Dorbu.
 
-## Choosing Friends
+## Chapter 20: Choosing Friends
 
 Thokmay's hand reached for the sword that was no longer on his belt.
 Sergeant Dorbu shook his head.  "You left it back on the mountain,
@@ -7615,7 +7615,7 @@ forest.
 
 ----------------------------------------
 
-## Chapter 20: FIXME
+## Chapter 21: FIXME
 
 *   Bridge what I have to the ending.
 *   Foreshadow the lightnings much earlier.
@@ -7624,7 +7624,7 @@ forest.
 
 ----------------------------------------
 
-## Chapter 21: Lightning
+## Chapter 22: Lightning
 
 Noxy and Thokmay walked slowly up the potholed mountain track to the
 bridge. The forest smelled cool and moist around them. Juncos and
@@ -7910,7 +7910,7 @@ again. "Have we a bargain?"
 There was another pause. It stretched until Noxy thought she would
 scream. Finally the lightnings spoke. *DONE.  WHAT WHERE WHEN HOW?*
 
-## Chapter 22: The End
+## Chapter 23: The End
 
 Fluffy was the only cloud in the sky as they flew toward Stale.
 "There!" Kulbinder growled as they came around the final bend.  "Those
@@ -8049,7 +8049,7 @@ wheezed. He tried to gather his feet beneath him.
 "Don't try to move," Thokmay ordered. "They'll be here soon." The
 tiger licked his arm again, but didn't speak.
 
-## Chapter 23: The Beginning
+## Chapter 24: The Beginning
 
 Noxy woke up in her own bed early the next morning. For a moment she
 just lay there, wishing it could all have been a dream, but knowing

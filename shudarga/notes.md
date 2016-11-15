@@ -9,8 +9,8 @@
 
 ## Characters
 
-- Shudarga (Panday Sapphire Shudarga): the hero
-  - 15-year-old girl
+- Shudarga: the hero
+  - 15-year-old girl (Panday Sapphire Shudarga during the story, real name Most Respected Panday Shudarga)
   - Only daughter of minor aristocratic family
   - Doing her orphanage with Maker Kelsang
     - Spend a couple of years pretending to be an orphan and learning a trade
@@ -29,8 +29,8 @@
     - She becomes ashamed of the injustice
   - Key moment when Damcho asked Shudarga, "Why are you doing this for me?  Why aren't you doing this for Kelsang?"
 
-- Panday Malachite Damcho: Shudarga's housemate
-  - Turns 16 during the course of the story
+- Damcho: Shudarga's housemate
+  - Turns 16 during the course of the story (Panday Malachite Damcho)
   - A real orphan
   - She is also apprenticed to Kelsang
   - Grown beyond her years
@@ -41,8 +41,8 @@
     - And that Damcho's self-assurance came at a price
   - Represents those who keep their dignity in defeat
 
-- Panday Sapphire Choenyi: also Shudarga's housemate
-  - 14-year-old boy
+- Choenyi: also Shudarga's housemate
+  - 14-year-old boy (Panday Sapphire Choenyi)
   - Like everyone else, he has figured out that Shudarga is nobility
   - Sucks up
     - Part of why Shudarga likes Damcho is that Damcho *isn't* Choenyi
@@ -87,7 +87,7 @@
     - (Mention this in passing - not a major point)
 
 - Apprentice Lhodak: works in Jangchup's manufactury.
-  - Leads a small gang of bullies (other apprentices from the manufactury)
+  - Leads a small gang of other apprentices from the manufactury
   - As the manufactury drives other woodworkers out of business,
     the apprentices who work their have started swaggering around those who work elsewhere
   - Really doesn't like it when Damcho points out that they might one day be Makers,

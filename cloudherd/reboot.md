@@ -1,26 +1,37 @@
 # The Prince and the Cloudherd
 
-* soldiers wear masks
-* directions are shipwise not compasswise
-* add a dream scene or two with the old lady before Noxy gets there
-* "down with the dogs"
-* Ulfmaerr gave up caring about his daughter
-  * keeps asking "who are you?" - can't remember that she's his
-  * Noxy remembers all the things they did together when she was little, and it hurts
-  * confrontation: "can't you remember? please just remember?"
-* make Sensy a boy, so Sensy + Rash is matter-of-fact same-sex
-* revise the meeting with the forest
-  * it wants a voice, and will give her magic
-  * she needs it to save her village
-  * faces the same choice her father did, but at a younger age and with higher stakes (?)
-  * Thokmay steps in and pays the price - gives up kingship
-- lots more animals in the village (chickens, etc.) but none gifted
-- a guest house reserved for the *tralpa* that the princess stays in
-  - use to motivate more background on the *tralpa* and the laws
-  - there's a book of laws in there
-- Grappa Gas's wooden leg sprouts new buds in the spring
-- provide more background on Tasteless earlier
-- the princess arrives with a hawk
+* Tasteless has been shunned by his village for taking bribes.
+  * Include a scene where he tries to talk to Noxy - he's lonely - but even she knows to ignore him.
+* Shudarga was apprenticed to a family of booksters who defended the poor.
+  * This is how we introduce the idea of royalty apprenticing in secret.
+* Get rid of the old lady of the forest.
+  * Noxy talks directly to Linger when everyone else is asleep.
+  * Realizes that she's not really talking to him - she's talking through him to the forest.
+* Throw away most of what happens after they leave Ulfmaerr's cottage.
+  * It feels like filler.
+  * The book will be as long as it is.
+* ?? When and how to introduce the lightnings?
+  * As they are fleeing up the pass, rather than an avalanche, they come upon some lightnings preying on a lost cloud.
+  * Noxy forces her cloud to fly close to them.
+  * Feels bad about it afterward - did what she needed to, even though it was wrong.
+* Mention soldiers' masks whenever they're on duty.
+* Give directions shipwise, not compasswise.
+* "As dead as a dog".
+* Re-do scenes with Ulfmaerr.
+  * He knows who Noxy is - he just doesn't care.
+  * Noxy remembers all the things they did together when she was little, and it hurts.
+* Make Sensy a boy, so Sensy + Rash is matter-of-fact same-sex
+* Lots more animals in the village (chickens, etc.) but none gifted
+* Mention the *tralpa*'s house
+  * Nicest house in Stale, but empty since the *tralpa* ran away.
+  * Villagers assume Dorbu will stay there, but he demurs ("I'm just one of the troops").
+  * Later assume Shudarga will stay there, but she demurs as well, and chews Dorbu out for not putting the wounded there.
+  * "We need to break old habits of mind."
+* Grappa Gas's wooden leg sprouts new buds in the spring
+* The princess arrives with a hawk.
+* https://twitter.com/kristynwongtam/status/797307084144603136
+
+----
 
 * 60K words (20 chapters * 3K/chapter).
 * At least one moment of adventure moment per chapter.

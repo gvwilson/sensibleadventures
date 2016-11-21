@@ -1,6 +1,116 @@
 # The Prince and the Cloudherd
 
-* Tasteless has been shunned by his village for taking bribes.
+- What's the point of this story?
+  - It's an adventure
+  - It introduces a new world for more stories
+  - Its heroine is someone Maddie can relate to
+  - So it has to be fun to read (like the books she's reading now)
+  - NOT TOO SERIOUS
+  - Characters need to be slight exaggerations/caricatures (except for Noxy and Thokmay)
+
+- Theme: choices
+  - Ulfmaerr chose to make a bargain with the forest in order to save the village
+    - Noxy has hated him for it for years, but finally accepts it
+    - Hugs him: he's surprised and says, "I don't know what I've done to deserve this," and she whispers, "But I do."
+    - Ulfmaerr has joined the forest
+      - magic comes from making deals with magical things like the forest or the dragon
+      - he made a deal to save the village from the scribbles
+      - Noxy: "He still wears clothes and cooks his food - at least, he did the last time anyone saw him - but he's wilder every year."
+  - Noxy has to choose whether or not to make a bargain with the forest as well
+    - She's shocked and frightened when she realizes she can mind-speak to clouds from a distance
+    - Reader doesn't initially understand her fear
+    - Then she talks to Granna Fee about what's happening, and we see Granna is frightened as well
+    - Fee: "Can't tell your mother - she couldn't bear to lose you to the forest too"
+    - Noxy: "But is that what it is?"
+    - Fee (darkly): "Let's not take a chance"
+    - So Noxy tries to hold off using her power until they escape
+    - Noxy also has to choose whether or not to let Rash and Sensy be together and still be their friend
+      - this one is aimed straight at Maddie...
+  - Dorbu has to choose whether or not to go along with Bonzon
+    - He believes in Shudarga's cause
+    - Early on, he has a discussion in Indy's kitchen while Noxy listens from upstairs
+      - Indy: "Is it worth killing for?"
+      - Dorbu (steadily): "I believe it's worthy my life.  And if it's worth mine, it's worth others."
+    - Later, after Bonzon locks down the village, he tries to talk to Indy again, but she pushes him away
+      - "Are you saying this because you believe it or because you want me to like you?  Because if you want me to like you, *do* something."
+      - Noxy comes down and hugs her mother, who cries because she likes Dorbu and doesn't want to get hurt again by someone doing things for principle
+
+- Get rid of Tasteless entirely: Bonzon is one of the wounded
+  - Bonzon is a magician: traded caring about right and wrong for a spell long ago
+    - Whispered: "someone said he traded with the dragon" (equivalent of dark magic)
+    - He chooses to do whatever is necessary, and thinks that people who won't are hypocrites
+  - Bonzon is unconscious when the soldiers are rescued
+    - wakes up and heals himself
+    - a common battle magic
+    - the price is ever feeling at peace
+    - even Sensy knows that one
+  - Uses the capture of the two royalist rangers as an excuse to lock down the village
+    - Use it as a fortress to block the pass to Chaghan so that the royalists can't be reinforced
+      - Implies that the rebellion is going well enough to frighten other kingdoms
+      - Bonzon never believed they'd win: have to play a long game
+    - There's no way to get to Stale in numbers except by cloudback
+      - The rescue wasn't a planned attack, but Bonzon would be a fool not to take advantage of it
+      - Indy: "You mean of *us*."
+      - Indy: "As soon as the pass opens, the king will send an army after you!"
+      - Shudarga (calmly): "Yes - and as soon as he does that, you will flood the pass and drown them."
+
+- cut Dragger out of this entirely
+  - trolls show up and threaten the trio when they're at Ulfmaerr's cabin
+  - just as they decide to make a dash for the cloud, the trolls disappear (ordered away by Ulfmaerr)
+  - get rid of Redclaw unless she can bring news of Stale (!)
+- Ulfmaerr says he can't help
+  - when Noxy protests, he clarifies: he can't, but the forest might if someone can strike a bargain
+  - so they have to go into the deep forest
+
+- The trio brings Dorbu along as a prisoner
+  - Grabs Noxy as the trio are making their escape
+  - Knocked over the side onto the cloud by Kulbinder
+  - Thokmay holds a sword at his throat until he surrenders
+    - Dorbu: "I don't believe you'll do that"
+    - Thokmay: "I didn't believe you would use children as weapons"
+
+- Ulfmaerr can't help, but the forest can
+  - Ulfmaerr can make introductions
+  - He doesn't ever speak directly to Noxy
+    - Thokmay: "Why is he mad at you?"
+    - Noxy (bitterly): "He's not.  It's a spell price."
+    - Thokmay: "Then why are you mad at him?"
+    - Noxy blows up, and we see how much her father's choice hurt her
+
+- How does it end?
+  - Conversation with the forest
+    - Get rid of Linger and Dragger, just speak directly with the trees
+    - Keep the cozy house scene
+    - Noxy is offered a choice, but it's not complete or irrevocable
+    - she has to take every step, and can stop whenever she wants
+    - Noxy: "Just like my father stopped?"
+    - Forest (calmly): "The one thing no one can ever trade away is choice."
+    - Noxy: "So what do I have to trade away to get your help?"
+    - Forest: "Being able to shut me out."
+  - Before Noxy can do it, she's shaken awake: another cloud has found them
+    - It's Bonzon and some archers on Big Blue, steered by Aft
+    - He berates Noxy and pleads with her to come back
+      - Grappa Gas was hurt during her escape
+      - Aft is angry and frightened
+    - The two clouds butt up against each other
+    - Dorbu charges across and takes Bonzon with him over the side
+      - As the two clouds are getting closer he makes a quiet speech
+      - "Please tell your mother I'm not doing this for her.  I'm doing it to save the revolution."
+
+- Say somewhere that doing the right thing is a lot harder when you don't know what it is
+
+- Leave Shudarga out of this: it's Colonel Bonzon who arrives
+  - "People follow Shudarga because they love her. They obey Bonzon because they're afraid not to."
+
+- skip the lightnings: it's the forest that helps (reduce the number of variables)
+
+------------------------------------------------------------
+
+* make it really clear that Grappa Gas is a royalist and Aft is a rebel sympathizer
+* Princess Shudarga isn't a princess: call her Honored Shudarga
+* What sways the initial argument is the "no one left behind" argument
+  * Which turns out to be what Tasteless did
+* Tasteless has been shunned by his village for leaving someone behind
   * Include a scene where he tries to talk to Noxy - he's lonely - but even she knows to ignore him.
 * Shudarga was apprenticed to a family of booksters who defended the poor.
   * This is how we introduce the idea of royalty apprenticing in secret.

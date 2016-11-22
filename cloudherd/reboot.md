@@ -1,5 +1,67 @@
 # The Prince and the Cloudherd
 
+------------------------------------------------------------
+
+01. Opening
+    - introduce setting
+      - clouds and cloudherding
+      - Stale is a village inside an old fortress
+      - rebellion
+      - forest only allows people on the roads in any numbers
+    - introduce most major characters
+      - Noxy
+      - Rash and Sensy
+      - Indy
+      - Grappa Gas and Granna Fee
+      - Aft
+      - Dorbu
+      - Kulbinder
+      - Thokmay (only a little)
+      - Bonzon (mentioned but not yet on stage)
+      - *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
+    - plot
+      - Noxy and Sensy are picking spiderwebs
+      - Sensy is mooning about boys, Noxy is impatient
+      - Little Gas arrives to say there are soldiers
+      - dismissed impatiently, but then the drum sounds
+      - running through the forest
+      - stop at the top of the ridge to look
+        - village inside the fortress walls
+        - the one road that the forest allowed
+        - the cloud pen
+      - observed by a troll
+      - cautiously back away
+      - "What's a troll doing this close to the village?"
+      - arrive to find soldiers who have obviously been through hell
+      - Rash is there: boy-girl teasing with Sensy (Noxy doesn't catch the undercurrent)
+      - Indy gets up to introduce Dorbu: we discover that Noxy is the mayor's daughter
+      - Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
+      - Dorbu explains that his troop was ambushed
+      - Grappa Gas (royalist) interrupts to ask how soon they'll be going
+      - Aft counter-interrupts (make it clear he's on the rebel side)
+      - Indy squashes them both (make her control of the village obvious)
+      - Dorbu says they'll go as soon as they can, but right now they need help recovering their wounded
+      - Gas and Aft start arguing again
+      - Indy squashes it again
+        - Challenging Gas and others: "We don't take sides, but we don't leave people to die either"
+        - "Our herders will be back in a few days - you can stay until then."
+
+1.  [plot development / day 1] Noxy and others are picking spider
+    webs; describe the village and its surroundings, including the
+    cloud pen; they are interrupted by a troll (standoff as both are
+    frightened of the other); troll is scared away by Young Gas who
+    says there are soldiers in the village; Thokmay, Kulbinder, Dorbu,
+    and a few others arrive, exhausted by their attempt to scout a way
+    through the forest.  Foreshadow that Noxy can mind-hear clouds
+    from a distance, but she hasn't realized it: she just knows
+    something's wrong (Pillow and Big Blue are agitated).  Some of the
+    soldiers were cut off by a landslide and need rescue - "the forest
+    really doesn't want to let them through".  And the trolls have
+    been harassing them - "the forest's servants".
+
+
+------------------------------------------------------------
+
 - What's the point of this story?
   - It's an adventure
   - It introduces a new world for more stories
@@ -7,6 +69,8 @@
   - So it has to be fun to read (like the books she's reading now)
   - NOT TOO SERIOUS
   - Characters need to be slight exaggerations/caricatures (except for Noxy and Thokmay)
+
+- Make Bonzon the villain
 
 - Theme: choices
   - Ulfmaerr chose to make a bargain with the forest in order to save the village

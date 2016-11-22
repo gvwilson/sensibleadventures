@@ -3,62 +3,89 @@
 ------------------------------------------------------------
 
 01. Opening
-    - introduce setting
-      - clouds and cloudherding
-      - Stale is a village inside an old fortress
-      - rebellion
-      - forest only allows people on the roads in any numbers
-    - introduce most major characters
-      - Noxy
-      - Rash and Sensy
-      - Indy
-      - Grappa Gas and Granna Fee
-      - Aft
-      - Dorbu
-      - Kulbinder
-      - Thokmay (only a little)
-      - Bonzon (mentioned but not yet on stage)
-      - *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
-    - plot
-      - Noxy and Sensy are picking spiderwebs
-      - Sensy is mooning about boys, Noxy is impatient
-      - Little Gas arrives to say there are soldiers
-      - dismissed impatiently, but then the drum sounds
-      - running through the forest
-      - stop at the top of the ridge to look
-        - village inside the fortress walls
-        - the one road that the forest allowed
-        - the cloud pen
-      - observed by a troll
-      - cautiously back away
-      - "What's a troll doing this close to the village?"
-      - arrive to find soldiers who have obviously been through hell
-      - Rash is there: boy-girl teasing with Sensy (Noxy doesn't catch the undercurrent)
-      - Indy gets up to introduce Dorbu: we discover that Noxy is the mayor's daughter
-      - Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
-      - Dorbu explains that his troop was ambushed
-      - Grappa Gas (royalist) interrupts to ask how soon they'll be going
-      - Aft counter-interrupts (make it clear he's on the rebel side)
-      - Indy squashes them both (make her control of the village obvious)
-      - Dorbu says they'll go as soon as they can, but right now they need help recovering their wounded
-      - Gas and Aft start arguing again
-      - Indy squashes it again
-        - Challenging Gas and others: "We don't take sides, but we don't leave people to die either"
-        - "Our herders will be back in a few days - you can stay until then."
+- introduce setting
+  - clouds and cloudherding
+  - Stale is a village inside an old fortress
+  - rebellion
+  - forest only allows people on the roads in any numbers
+- introduce most major characters
+  - Noxy
+  - Rash and Sensy
+  - Indy
+  - Grappa Gas and Granna Fee
+  - Aft
+  - Dorbu
+  - Kulbinder
+  - Thokmay (only a little)
+  - *not* Bonzon ("the colonel stayed with the wounded" but don't reveal he's wounded himself)
+  - *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
+- plot
+  - Noxy and Sensy are picking spiderwebs
+  - Sensy is mooning about boys, Noxy is impatient
+  - Little Gas arrives to say there are soldiers
+  - dismissed impatiently, but then the drum sounds
+  - running through the forest
+  - stop at the top of the ridge to look
+    - village inside the fortress walls
+    - the one road that the forest allowed
+    - the cloud pen
+  - observed by a troll
+  - cautiously back away
+  - "What's a troll doing this close to the village?"
+  - arrive to find soldiers who have obviously been through hell
+  - Rash is there: boy-girl teasing with Sensy (Noxy doesn't catch the undercurrent)
+  - Indy gets up to introduce Dorbu: we discover that Noxy is the mayor's daughter
+  - Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
+  - Dorbu explains that his troop was ambushed
+  - Grappa Gas (royalist) interrupts to ask how soon they'll be going
+  - Aft counter-interrupts (make it clear he's on the rebel side)
+  - Indy squashes them both (make her control of the village obvious)
+    - "In the *tralpa*'s absence..."
+  - Dorbu says they'll go as soon as they can, but right now they need help recovering their wounded
 
-1.  [plot development / day 1] Noxy and others are picking spider
-    webs; describe the village and its surroundings, including the
-    cloud pen; they are interrupted by a troll (standoff as both are
-    frightened of the other); troll is scared away by Young Gas who
-    says there are soldiers in the village; Thokmay, Kulbinder, Dorbu,
-    and a few others arrive, exhausted by their attempt to scout a way
-    through the forest.  Foreshadow that Noxy can mind-hear clouds
-    from a distance, but she hasn't realized it: she just knows
-    something's wrong (Pillow and Big Blue are agitated).  Some of the
-    soldiers were cut off by a landslide and need rescue - "the forest
-    really doesn't want to let them through".  And the trolls have
-    been harassing them - "the forest's servants".
-
+02. Rescue
+- first bit of adventure
+  - get the reader's blood racing
+  - show how cloudherding works
+  - first mention of Noxy's emerging ability
+  - introduce Bonzon (the villain) and foreshadow his ruthlessness
+- plot
+  - Gas and Aft start arguing again ("What will the *tralpa* say?")
+    - foreshadows the cause of the rebellion
+  - Indy squashes it again
+    - Challenging Gas and others: "We don't take sides, but we don't leave people to die either"
+    - "Our herders will be back in a few days - you can stay until then."
+  - Noxy asks her mother to let her and her friends go
+  - Is introduced to Dorbu, Kulbinder, and Thokmay (Indy: "And this is the tiger's boy... um...")
+    - First up-close description of Thokmay's manner and scars
+    - And of Kulbinder's watchful menace
+  - Noxy marshals arguments, is surprised when her mother agrees so quickly
+    - Serves as character development: Noxy is used to being in charge of things
+  - Gather at the cloudherding pen (teens have strict orders to help, not get involved)
+  - See how cloudherding works
+    - In particular, that cloudherds have to touch clouds to mind-speak with them
+  - Noxy gets her first twinge
+  - Getting under way
+    - Rash teasing (flirting with) Sensy
+    - *Don't* have Dorbu eyeing Indy: too much for now
+    - Have Dorbu on the lead cloud with Aft (Aft is acting like a fan boy)
+  - In flight
+    - More description of the scenery
+    - Grappa Gas thinks he sees someone
+    - Noxy's excited, then disappointed when it's only a troll
+    - Tells Gas and Fee about seeing a troll earlier that morning (keep it in the reader's mind)
+  - Arrival at the soldiers' makeshift camp
+    - There are more of them than Dorbu had led the villagers to believe
+  - Rescue
+    - Growing urgency as the clouds load up one by one
+    - Hard to tell what the forest will allow and what it won't
+    - But animals gathering
+    - One soldier takes a brand from the fire to scare them off
+    - Gas slingshots it out of his hands (foreshadow Gas's slingshot)
+    - Dorbu is the last one out, helping another soldier
+  - Flying home
+    - Gas rounds on Dorbu: "What in all the rotting hells was so important that you couldn't leave it behind?"
+    - Bonzon answers: "Our fallen."
 
 ------------------------------------------------------------
 

@@ -37,6 +37,12 @@
   - Indy gets up to introduce Dorbu: we discover that Noxy is the mayor's daughter
   - Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
   - Dorbu explains that his troop was ambushed
+    - His men are rangers
+    - Part of the team representing the rebellion in Chaghan
+    - Carrying news back to Gandan through the pass
+    - Avalanche: the unit they were going to meet had been swept off the road
+    - Dorbu's rangers had force-marched to Stale to get help (on top of the trek through the pass)
+    - His soldiers don't have battle wounds, but are clearly the worse for wear
   - Grappa Gas (royalist) interrupts to ask how soon they'll be going
   - Aft counter-interrupts (make it clear he's on the rebel side)
   - Indy squashes them both (make her control of the village obvious)
@@ -57,14 +63,15 @@
     - "Our herders will be back in a few days - you can stay until then."
   - Noxy asks her mother to let her and her friends go
   - Is introduced to Dorbu, Kulbinder, and Thokmay (Indy: "And this is the tiger's boy... um...")
-    - First up-close description of Thokmay's manner and scars
+    - First up-close description of Thokmay and his scars
     - And of Kulbinder's watchful menace
   - Noxy marshals arguments, is surprised when her mother agrees so quickly
     - Serves as character development: Noxy is used to being in charge of things
   - Gather at the cloudherding pen (teens have strict orders to help, not get involved)
   - See how cloudherding works
     - In particular, that cloudherds have to touch clouds to mind-speak with them
-  - Noxy gets her first twinge
+    - Noxy gets her first twinge
+    - Makes her speak sharply to Rash and Sensy (bossing them around)
   - Getting under way
     - Rash teasing (flirting with) Sensy
     - *Don't* have Dorbu eyeing Indy: too much for now
@@ -78,6 +85,7 @@
     - There are more of them than Dorbu had led the villagers to believe
   - Rescue
     - Growing urgency as the clouds load up one by one
+      - Aft gives orders, Noxy repeats them, Rash says, "I heard" (again, growing resentment of Noxy's bossiness)
     - Hard to tell what the forest will allow and what it won't
     - But animals gathering
     - One soldier takes a brand from the fire to scare them off
@@ -85,7 +93,87 @@
     - Dorbu is the last one out, helping another soldier
   - Flying home
     - Gas rounds on Dorbu: "What in all the rotting hells was so important that you couldn't leave it behind?"
-    - Bonzon answers: "Our fallen."
+    - Bonzon answers: "Our fallen.  Those we could recover."
+    - Description of Bonzon
+    - Bonzon: "We'll return in the spring to lay the ghosts of those we couldn't."
+      - The way he said it made it a simple statement of fact, like "Water flows downhill" or "The sun rises in the morning."
+
+03. Tension at Home
+- set up the tensions that will drive major plot developments
+  - Bonzon vs. Dorbu
+    - Bonzon wants to order the Stalers around (but is initially too weak to do so)
+    - Dorbu wants to persuade them and work around their needs
+  - Noxy vs. Rash and Sensy
+    - Noxy is used to being the boss (and is afraid of losing her friends as they grow closer)
+    - Sensy and Rash are beginning to rebel (in part because they are now more interested in each other)
+  - Indy vs. Grappa Gas and Granna Fee
+    - Fee: "They can't stay, daffodil.  They can't."
+    - Fee's argument (we can't take sides) is different from Gas's (they're the wrong side)
+    - Indy: "We can't kick them out - we'd be killing them." and "And we *can't* kick them out.  They're soldiers, we're not."
+    - So this is really Indy vs. the burden of responsibility
+  - Grappa Gas vs. Aft
+    - they have always squabbled
+      - Aft's mother used to mediate
+      - She died of the scribbles (foreshadow Noxy's revelation about her dad)
+      - Dorbu: "Seem to be a lot of broken families here."
+      - Indy (sharply): "We don't think of ourselves as broken." (pause) "But cloudherding is a hard life."
+      - Dorbu (conciliatory): "I can only guess.  They do seem to fight a lot, though."
+      - Indy (smiling to take out the sting): "This from a man who's fighting a civil war?"
+    - Grappa Gas likes things the way they are - would rather fix the fishpond than save the world
+    - Aft wants things to change
+      - Would have gone off to explore the world if his mother hadn't been sick
+      - Never quite got around to it
+      - Shows unexpected vulnerability when talking to the soldiers about the world they've seen
+  - Noxy vs. her fear
+    - Realizes with a shock that she's mind-speaking to clouds without touching them
+    - Then tries to convince herself that she's mistaken, because if she's right...
+- plot
+  - Fly back to Stale with the wounded and the dead
+    - Bonzon giving crisp, unforgiving orders to a placating Dorbu
+      - Bonzon wants patrols out right away, Dorbu wants to give the soldiers a rest
+    - Rash makes a crack about knowing how it feels to be ordered around
+  - Arrive in Stale
+    - Soldiers offload the dead
+    - Noxy is soothing the cloud
+    - After she gets off, she thinks, "Really sorry you had to carry them."
+    - Thinks she hears the cloud reply, "It's all right."
+    - So shocked that she stumbles, but then convinces herself she was imagining it
+  - Back to the main square where Indy is re-organizing the villagers
+    - Was halfway through getting things set up when the first cloud arrived with news of how many soldiers
+    - She's ordering villagers to re-do work
+    - Sparks an argument between Grappa Gas and Aft about whether they should be here at all
+      - Gas: "We shouldn't be setting up for a long stay"
+      - Aft: "You're not the mayor any more, she is"
+      - Indy: "Stow it, both of you!"
+    - Dorbu's comments
+  - Thokmay reports to Dorbu wearing his battle mask (Bonzon is nearby)
+    - Dorbu: "Why are you?"
+    - Thokmay (woodenly, half-muffled by the mask): "I was moving too slowly on the stairs, honored."
+    - Dorbu: "I'm going to have a word with that tiger about how hard he pushes you."
+    - Thokmay: "I would be grateful if you did not, honored."
+    - Dorbu (shaking head as Thokmay leaves): "Pushes himself too hard, that one.  And Kulbinder pushes him even harder sometimes."
+    - Bonzon (frowning): "An orphan?"
+    - Dorbu: "Yes, honored.  Came to us just a few months before the rebellion."
+    - Figure out later Thokmay is hiding his face from Bonzon
+  - Conversations at home
+    - Indy has Noxy make tea
+    - Gas shows up first: "We're being overrun! We have to do something!"
+      - Gas puts something awful in his tea (not... too... serious)
+    - Fee shows up next: "They can't stay, daffodil."
+    - Filler
+      - Cloudherds have argued about supporting the rebellion (or the king) before
+      - Decision was to stay out of lowland wars
+    - Everyone's calming down when there's a crash and a yowl outside
+      - Noxy is the first one out the door
+      - Kulbinder is there glaring at the roof
+      - A troll had been spying on the villagers
+        - Reveal that trolls are chimpanzees
+      - Kulbinder chased, but it lost him by climbing a drainpipe
+      - Noxy: "There was one in the forest earlier today"
+      - Grappa Gas: "What's a troll doing this close to the village?"
+      - Reveal that the village has a deal with the trolls
+      - Thokmay comes panting up
+      - Indy: "Perhaps tomorrow my daughter can show you two around"
 
 ------------------------------------------------------------
 
@@ -98,6 +186,7 @@
   - Characters need to be slight exaggerations/caricatures (except for Noxy and Thokmay)
 
 - Make Bonzon the villain
+  - He gave away self-doubt for magic
 
 - Theme: choices
   - Ulfmaerr chose to make a bargain with the forest in order to save the village
@@ -125,6 +214,11 @@
     - Later, after Bonzon locks down the village, he tries to talk to Indy again, but she pushes him away
       - "Are you saying this because you believe it or because you want me to like you?  Because if you want me to like you, *do* something."
       - Noxy comes down and hugs her mother, who cries because she likes Dorbu and doesn't want to get hurt again by someone doing things for principle
+
+- Rash wasn't hurt: Aft was
+  - Don't mention a child
+
+- Without Shudarga, what finally gives Thokmay away?
 
 - Get rid of Tasteless entirely: Bonzon is one of the wounded
   - Bonzon is a magician: traded caring about right and wrong for a spell long ago

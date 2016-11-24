@@ -3,22 +3,23 @@
 ------------------------------------------------------------
 
 01. Opening
-- introduce setting
-  - clouds and cloudherding
-  - Stale is a village inside an old fortress
-  - rebellion
-  - forest only allows people on the roads in any numbers
-- introduce most major characters
-  - Noxy
-  - Rash and Sensy
-  - Indy
-  - Grappa Gas and Granna Fee
-  - Aft
-  - Dorbu
-  - Kulbinder
-  - Thokmay (only a little)
-  - *not* Bonzon ("the colonel stayed with the wounded" but don't reveal he's wounded himself)
-  - *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
+- goal: introduce setting and major characters
+  - setting
+    - clouds and cloudherding
+    - Stale is a village inside an old fortress
+    - rebellion
+    - forest only allows people on the roads in any numbers
+  - introduce most major characters
+    - Noxy
+    - Rash and Sensy
+    - Indy
+    - Grappa Gas and Granna Fee
+    - Aft
+    - Dorbu
+    - Kulbinder
+    - Thokmay (only a little)
+    - *not* Bonzon ("the colonel stayed with the wounded" but don't reveal he's wounded himself)
+    - *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
 - plot
   - Noxy and Sensy are picking spiderwebs
   - Sensy is mooning about boys, Noxy is impatient
@@ -50,7 +51,7 @@
   - Dorbu says they'll go as soon as they can, but right now they need help recovering their wounded
 
 02. Rescue
-- first bit of adventure
+- goal: first bit of adventure
   - get the reader's blood racing
   - show how cloudherding works
   - first mention of Noxy's emerging ability
@@ -99,7 +100,7 @@
       - The way he said it made it a simple statement of fact, like "Water flows downhill" or "The sun rises in the morning."
 
 03. Tension at Home
-- set up the tensions that will drive major plot developments
+- goal: set up the tensions that will drive major plot developments
   - Bonzon vs. Dorbu
     - Bonzon wants to order the Stalers around (but is initially too weak to do so)
     - Dorbu wants to persuade them and work around their needs
@@ -175,6 +176,73 @@
       - Thokmay comes panting up
       - Indy: "Perhaps tomorrow my daughter can show you two around"
 
+04. The Tiger's Boy
+- goal: introduce Thokmay
+  - Thokmay is reserved and watchful
+    - raise questions in the reader's mind about him
+  - Noxy suddenly feels teenage insecurity
+    - Noxy's assumption of social dominance is challenged by Thokmay's self-assurance
+    - She mind-speaks with clouds from a distance again
+- plot
+  - open with Indy exasperatedly trying to get Noxy ready to go out
+    - Noxy pushes back
+    - says she doesn't really want to do it
+    - but makes a point of going past Sensy's house in the hopes of being able to tell her
+  - see Dorbu charming the villagers
+    - foreshadows Thokmay's own charm campaign later in the chapter
+  - Thokmay shows up with his mask on
+    - Dorbu tells him to remove it
+    - Kulbinder: "Is the Colonel still resting?"
+    - Dorbu blinks at the apparent non sequitur: "Yes"
+    - Thokmay reluctantly takes off his mask
+    - Noxy wonders if he wears it to hide his scars
+    - Introduces herself
+  - Noxy, Thokmay, and Kulbinder leave
+    - A few moments later, Kulbinder leaves the children
+    - "I explored overnight.  I want to have a closer look at the forest."
+    - Noxy thinks, "Great, now I'm stuck talking to a fencepost."
+  - Noxy covers her discomfort by talking too much
+    - Thokmay's noncommittal replies annoy her
+    - He never says anything disparaging: she reads that into his words
+  - Walk past the lockhouse
+    - The only building in Stale with a lock on its door
+    - So that traders can store their goods
+    - Foreshadows its use for prisoners later on
+  - Up the stairs and onto the wall
+    - Noxy takes Thokmay to the Steep Stairs
+    - And is secretly pleased that he's out of breath at the top
+  - Describe the nearby territory
+    - Villages all have dragon names
+    - Noxy explains what those are
+    - Takes Thokmay's noncommittal comments as offensive again
+  - Describe the clouds
+    - Thokmay: "They smell like wet goofs."
+    - Annoys Noxy for real
+  - At the cloud pen
+    - Noxy says explicitly that you have to touch clouds to mind-speak to them
+    - Asks Thokmay to try
+    - Explains what it feels like
+      - Empty your mind to make room for another's thoughts
+  - Noxy gets a jolt from a cloud she's not touching
+    - Scares her
+    - She snaps at Thokmay
+    - Feels bad about it
+    - So she offers him a ride
+    - Has to insist
+      - Narrator comment: once Noxy has decided on something, she sticks to it
+    - He climbs up on the cloud
+    - And just then Indy shows up with Sergeant Dorbu and chews Noxy out
+  - As punishment, Noxy has to unseed some thimbleberries
+  - She's feeling sorry for herself when she hears noise from the square
+    - Dorbu and Thokmay are fencing in front of a growing crowd
+    - With Kulbinder grumbling advice from the sidelines
+    - Noxy is instantly jealous
+  - Colonel Bonzon comes out to observe
+    - Thokmay quietly but hastily put on his battle mask
+    - One more round, then Kulbinder pulls him away for chores
+  - Dorbu teaches the village children how to juggle
+    - Noxy and Grappa Gas exchange looks that say, "Nothing good will come of this."
+
 ------------------------------------------------------------
 
 - What's the point of this story?
@@ -187,6 +255,8 @@
 
 - Make Bonzon the villain
   - He gave away self-doubt for magic
+
+- Thokmay's mask is a metaphor
 
 - Theme: choices
   - Ulfmaerr chose to make a bargain with the forest in order to save the village

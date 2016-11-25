@@ -243,6 +243,103 @@
   - Dorbu teaches the village children how to juggle
     - Noxy and Grappa Gas exchange looks that say, "Nothing good will come of this."
 
+05. Swimming and Conversation
+- goal: adventure and backstory
+  - a burst of adrenaline
+  - Noxy can't fool herself any longer about her abilities
+  - backstory about her father
+  - another clue that Thokmay is more than he seems
+  - Colonel Bonzon comes into focus as the villain
+  - tension between Grappa Gas and Aft reflects larger tension within village
+  - discover that Aft used to be in love with Indy
+- plot:
+  - Noxy is still fuming as she seeds thimbleberries
+    - Sensy joins her (feeling sympathy)
+    - but spoils it by burbling on about learning to juggle
+    - and talks back to Noxy when she complains
+      - Noxy thinks, "That never happens!"
+    - Sensy (changing subject): "Anyway, Grappa Gas is taking him up for a ride"
+    - Sensy: "It's instead of them patrolling - your *amma* insisted."
+    - Only realizes afterward from the look on Noxy's face that she's made things worse
+  - Noxy looks over the parapet at the cloud pen
+    - Grappa Gas and Thokmay are on Pillow, just about to leave
+    - Fly over to the pond (Grappa Gas's favorite topioc of conversation)
+    - Noxy can practically hear the instructions he's giving Pillow
+    - She "imagines" a conversation with Pillow
+    - "Imagines" telling Pillow to thin out to dump Thokmay
+    - Pillow objects, Noxy insists
+    - A frightened yelp: it's Thokmay, slipping through a thinning in the cloud
+    - Grappa Gas stumbles trying to reach him (wooden leg)
+    - Thokmay is through - falls into the pond
+  - Thokmay struggles in the water because he's wearing armor
+    - Kulbinder bursts out of the bushes, yelling, "Hang on, honored!"
+      - "Noxy didn't wonder until later why the tiger called his boy that."
+    - Kulbinder swims to Thokmay
+    - Clear that both are struggling - might both drown
+      - Noxy is frozen with fear: did she do this? how could she have done this?
+    - Corporal Choegyal and another soldier are a few steps behind Kulbinder
+      - They pull off their armor and go in after the boy and the tiger
+      - Corporal Choegyal reaches the pair
+      - Kulbinder insists that he save Thokmay first
+    - Noxy is suddenly unfrozen
+      - Realizes she's been hearing Grappa Gas blow "emergency" on his horn
+      - But there isn't a pattern for "fallen in the water and freezing"
+      - Races down the stairs to the main square
+      - Yells, "He's fallen in the pond!" at her mother and Granna Fee in passing
+      - Grabs the bag of bad news from the traders' hall
+    - Colonel Bonzon is there
+      - Demands to know what's happening
+      - She says, "He's fallen in the water!"
+      - He grabs her arm as she turns to go: "What's happening?
+      - "Let go of me!"
+      - Bonzon's face sets: "Not until you tell me..."
+        - Face drawn and feverish
+      - "Thokmay's fallen in the pond and Kulbider's gone in after him and they're going to freeze now let me *go*!"
+    - Dorbu intervenes: "Honored!  Honored, please!"
+      - Pries fingers off (gently)
+      - Bonzon nods
+    - Noxy runs down to the pond
+      - Everyone's just getting out, frozen
+      - Noxy offers the magic blanket to Thokmay
+      - He demurs, she insists: "It's magic, stupid!"
+      - Thokmay: "Then give it to Kulbinder."
+      - Tiger (shivering): "The boy first. That's an order!"
+      - A few heartbeats each, just to get the shivering down, taking turns
+      - Grappa Gas circling over head, shouts, "Are they all right?"
+      - Noxy: "I think so!"
+      - Grappa Gas nods and turns the cloud back toward the pen
+    - Everyone starts walking back to the village
+      - Indy, Aft, and Granna Fee meet them part-way
+      - As soon as Aft hears that Thokmay fell in, he loses his temper
+      - The soldiers head back to strip and sauna
+      - Corporal Choegyal (still shivering): "We'd been meaning to try out your sauna..."
+      - Indy: "If you weren't freezing, I'd ask you what you were doing when we agreed there'd be no patrols."
+      - Choegyal (gulping - first time he's felt Indy's glare): "I, um..."
+    - Grappa Gas joins them, Aft lets him have it verbally
+      - Aft: "What are you going to do, kill them one at a time!?"
+      - Gas (aghast): "I didn't do that on purpose!"
+      - Aft: "You've been herding longer than I've been alive!"
+      - Indy and Fee separate them
+      - Indy (sternly): "We'll talk about this over a cup of tea."
+      - Gas (protesting): "But---"
+      - Indy: "Tea!  Now!"  (Makes it sound like a prison sentence.)
+    - Back to Indy's house
+      - Aft and Grappa Gas go in, Indy brittly asks Fee to look after Noxy
+      - They can hear the raised voices even before the door is properly closed
+    - Walk to Granna Fee's house in near silence (just around the corner)
+      - Have their own friendlier cup of tea
+      - The whole way, all Noxy can think is, "I did that."
+    - Fee: "Good thing we had the magic blanket."
+      - Noxy shivers: "I could use a magic blanket myself."
+      - Fee: "Your father said he could only make one."
+      - Noxy: "What did he trade?"
+      - Fee (shaking head): "He didn't say.  It's not the sort of thing you ask a magician."
+      - She tells the story of how Ulfmaerr discovered he had magic
+        - Bargained with a passing whale by accident
+      - Noxy (hesitantly): "Do you think I might be a magician some day?"
+      - Granna Fee (starts to smile, then realizes Noxy is serious): "Maybe.  But nobody and nothing can *make* you a magician.  You have to choose."
+    - Idle chatter, then Noxy heads home
+
 ------------------------------------------------------------
 
 - What's the point of this story?
@@ -257,6 +354,8 @@
   - He gave away self-doubt for magic
 
 - Thokmay's mask is a metaphor
+
+- get rid of Snakes and Whistles
 
 - Theme: choices
   - Ulfmaerr chose to make a bargain with the forest in order to save the village

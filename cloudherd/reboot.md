@@ -340,6 +340,76 @@
       - Granna Fee (starts to smile, then realizes Noxy is serious): "Maybe.  But nobody and nothing can *make* you a magician.  You have to choose."
     - Idle chatter, then Noxy heads home
 
+06. The Gathering Storm
+
+- goals:
+  - explain the rebellion
+  - develop Bonzon as the villain
+  - show (doomed) mutual interest between Indy and Dorbu
+  - deepen mystery around Thokmay
+- plot:
+  - Noxy has strange dreams
+    - a house made of trees woven together
+    - drinking tea with the old troll she saw in the forest
+    - looked down and realized the cloud beneath her had faded away
+    - bleary-eyed at breakfast
+    - seems everyone else is as well after the excitement of the previous two days
+  - day passes without incident
+    - a paragraph describing the chores the villagers do while waiting for the clouds to be brought in
+    - mending nets, smoking cheese and pressing vegetables for provisions
+    - clothes, especially rain gear
+    - eyeing the peaks as wild clouds gather
+    - Granna Fee: "the last thing we need is a storm"
+    - Indy: "bound to happen this time of year"
+  - Noxy sent to invite Bonzon, Dorbu, and Kulbinder to dinner
+    - Noxy: "the tiger too?"
+    - discover that the villagers are all vegetarians
+    - Bonzon up and around, though obviously still weak
+    - asks Kulbinder how "that boy of yours" is doing
+    - Kulbinder: "well enough, honored"
+    - then immediately steers conversation toward the two soldiers
+    - and raises the question of why Grappa Gas would ---
+    - interrupted by noticing Noxy
+    - Kulbinder doesn't change subject - just stares
+    - Noxy goes away angry at them for thinking that, and at herself for not telling anyone
+  - Indy and Noxy prep furiously for dinner
+    - Granna Fee comes by and offers to help
+    - Indy protests that she has it under control, but takes the apple crumble
+    - belatedly asks if Fee wants to join them
+    - "Oh, Gas and I have plans," Fee drawled, making her daughter roll her eyes and her granddaughter feel embarrassed
+  - Dorbu and Kulbinder arrive without Bonzon
+    - the colonel sends his apologies, but is still not well
+    - banter between Dorbu and Kulbinder reveals real affection
+    - Noxy notices how Indy looks at Dorbu
+  - Dorbu explains why he's a rebel
+    - Kulbinder: "I'm a cat." as if that was all that needed to be said
+  - Noxy sent outside to get water from the pump for more tea
+    - takes a piece of dayglass (first use of the material in the story)
+    - hears something in the jitty between two houses
+    - tucks the dayglass under her coat and creeps forward
+    - dark enough on the street with the gathering clouds
+    - almost impossible to see anything in the jitty
+  - she sees someone
+    - for a moment she things it's a troll because of its size
+    - then a flash of light - it's Thokmay
+    - but what is he doing out?
+  - the kettle in her hand bumps against the wall with a clang
+    - the shadowy shape is instantly gone
+    - she gropes forward after it in the dark
+    - then pulls out her dayglass - no one is there
+  - returns to the street and is nearly scared to death to find Bonzon waiting there
+    - Bonzon: "What are you doing out?"
+    - Noxy: "What are you doing *up*?"
+    - Before either can answer, the sky opens up and the rain starts to fall
+    - *FIXME*
+  - Noxy hurries home
+    - Indy: "That took a long time - I was just about to come looking for you"
+    - Noxy decides not to tell her about seeing someone until after Dorbu and Kulbinder are gone
+    - Ordered up to her bed
+    - Flares up: "I'm not a child!"
+    - Indy (reasonably): "Then you'll understand that what I'm telling you to do is sensible."
+    - In bed, suddenly tired, listening to the murmur of conversation, wondering why Thokmay was in the jitty
+
 ------------------------------------------------------------
 
 - What's the point of this story?

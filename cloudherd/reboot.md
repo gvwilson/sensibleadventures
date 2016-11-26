@@ -204,9 +204,9 @@
   - Noxy covers her discomfort by talking too much
     - Thokmay's noncommittal replies annoy her
     - He never says anything disparaging: she reads that into his words
-  - Walk past the lockhouse
-    - The only building in Stale with a lock on its door
-    - So that traders can store their goods
+  - Walk past the cave
+    - Really just a hollow in the wall, three strides in all directions
+    - Bamboo grill on the front so that traders can store things
     - Foreshadows its use for prisoners later on
   - Up the stairs and onto the wall
     - Noxy takes Thokmay to the Steep Stairs
@@ -341,8 +341,7 @@
     - Idle chatter, then Noxy heads home
 
 06. The Gathering Storm
-
-- goals:
+- goal: deepen mystery around Thokmay
   - explain the rebellion
   - develop Bonzon as the villain
   - show (doomed) mutual interest between Indy and Dorbu
@@ -398,8 +397,9 @@
     - she gropes forward after it in the dark
     - then pulls out her dayglass - no one is there
   - returns to the street and is nearly scared to death to find Bonzon waiting there
-    - Bonzon: "What are you doing out?"
     - Noxy: "What are you doing *up*?"
+    - Bonzon: "What are you doing out?"
+    - without thinking, Noxy says that she thought she saw someone
     - Before either can answer, the sky opens up and the rain starts to fall
     - *FIXME*
   - Noxy hurries home
@@ -409,6 +409,79 @@
     - Flares up: "I'm not a child!"
     - Indy (reasonably): "Then you'll understand that what I'm telling you to do is sensible."
     - In bed, suddenly tired, listening to the murmur of conversation, wondering why Thokmay was in the jitty
+
+07. Discovered!
+- goal: heighten tension
+  - bring royalists into the picture (and set the clock ticking)
+  - give Bonzon an excuse to lock things down
+  - show the danger that Noxy is in
+  - increase mystery around Thokmay
+- plot:
+  - cleaning up after the storm
+    - no fire, just lots of water damage
+    - children playing "don't step in the lava" with the puddles
+    - Granna Fee: "Something must have riled those clouds up"
+  - soldiers on patrol
+    - Indy challenges it
+    - Bonzon: "Anyone could be sneaking around."
+    - Indy scoffs
+    - Bonzon: "Ask your daughter"
+    - Indy waits until he's gone before rounding on Noxy
+    - Noxy confesses that she saw someone
+    - Indy cuts her off before she can say that she thought it was Thokmay
+    - Noxy: "Why don't you ever let me finish what I'm saying?"
+    - Indy: "Why can't you just---"
+  - interrupted by soldiers
+    - two royalist rangers
+    - both apprehended: Kulbinder chased them toward one of the patrols
+    - being brought up now
+    - their bird got away - "A crow, I think."
+    - Dorbu: "Gifted?"
+    - soldier: "Don't know, honored."
+    - Bonzon joins them (crisply) "Assume the worst"
+  - crowd gathering
+    - Bonzon: "Everyone be about their business"
+    - Indy (sharply): "This *is* our business, colonel."
+    - Aft: "Does this mean there's an army coming?"
+    - murmurs of fear in the crowd
+    - Dorbu (speaking before Bonzon can): "Unlikely."
+    - Bonzon (glowering): "But not impossible.  The Fifth was just a few days behind us."
+    - Bonzon: "And even if we *had* taken down that bird, they'll come looking for their rangers."
+    - Grappa Gas: are you going to fight here?
+    - Bonzon (impassive): "Only if they come after us, and only if you let them get here."
+    - shocked silence
+    - Bonzon: "I've seen what your clouds can do."
+    - Indy: "No!"
+  - patrol returns with rangers
+    - brief description
+    - Noxy wonders if the smaller could have been who she saw the night before
+    - Aft: "We can put them in the cave"
+    - Kulbinder: "I'll have another look in the forest"
+  - prisoners taken to the cave
+    - Bonzon (looking at the lock): "They'll be through that in a heartbeat"
+    - Aft (eager to please): "We can nail it shut"
+    - ranger tricks Aft into letting him do the nailing
+    - makes his escape
+    - Noxy is sent to the gate to warn them
+  - Thokmay is at the gate (the only one wearing his battle mask)
+    - Thokmay: "I'll find Kulbinder"
+    - Noxy (panting): "Just let him go?"
+    - Corporal Choegyal: "Because he's seen everything"
+    - *FIXME*: this is kind of weak
+  - Thokmay and Noxy in the forest
+    - Thokmay undoes his mask as soon as they're in the trees
+    - shows woodcraft skills
+    - Noxy doesn't have (or value) them: she's a cloudherd
+    - she feels the forest pressing on her
+    - is this what magic feels like? is she losing her mind?
+  - Kulbinder joins them
+    - Kulbinder (to Thokmay): "You shouldn't have come. And you shouldn't have brought *her*."
+    - Thokmay: "He could be anywhere."
+    - Noxy: "But if you can tell where they fought..."
+    - Thokmay (firmly): "Anywhere."
+    - Noxy's head twinges again: she can feel where he is
+    - points and describes the scene
+    - then she falls over
 
 ------------------------------------------------------------
 

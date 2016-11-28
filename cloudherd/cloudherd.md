@@ -19,6 +19,8 @@ the endless squabbles of the Ninety Kingdoms and a girl is doing her
 chores.  She is no longer a child but not yet an adult, and has no
 idea that her world is about to change forever...*
 
+----------------------------------------
+
 ## Chapter 1: Soldiers
 
 Noxy was collecting spiderwebs when the soldiers came to Stale.
@@ -291,6 +293,8 @@ enough to feed you for a few days."
 "Thank you, respected," the sergeant said, bowing again.  "But what we
 really want right now is a couple of clouds so we can go and rescue
 our friends."
+
+----------------------------------------
 
 ## Chapter 2: Not Quite What We Were Expecting
 
@@ -698,6 +702,8 @@ The soldier nodded.  "Me too."  Behind them, the forest's creatures
 had already started tearing every man-made thing in the camp to
 pieces.
 
+----------------------------------------
+
 ## Chapter 3: Arguments and Pursuit
 
 They hardly said a word on the way back to Stale.  One of the soldiers
@@ -1070,6 +1076,8 @@ frying pan and set it on the stove beside the kettle.  "Tomorrow, I'm
 going to see if I can get to know the sergeant a little better.  And I
 think you ought to get to know the tiger's boy.  Let's see if we can
 find out if they have any other surprises tucked away."
+
+----------------------------------------
 
 ## Chapter 4: Getting To Know You
 
@@ -1543,6 +1551,8 @@ and drop them again.  The little boy laughed.  Seething, she sat back
 down on her pretend cloud and glared at the bowl of thimbleberries.
 It was going to be a long day...
 
+----------------------------------------
+
 ## Chapter 5: Swimming
 
 Noxy was still on her make-believe cloud an hour later, squeezing
@@ -1929,6 +1939,8 @@ stepped around the table to give her grandmother a hug.  "I love you."
 wondering when the other had gotten so big, the other wondering when
 the first had gotten so small, and then Noxy left.
 
+----------------------------------------
+
 ## Chapter 6: The Coming Storm
 
 Afternoon was flirting with evening by the time Aft returned on
@@ -2218,6 +2230,8 @@ soldiers had arrived to help with the fire, only one of them had been
 the height of the figure she had seen.  But why would Thokmay have
 been out in the rain when he could have been at dinner?  And what had
 he been doing in the jitty beside her house?
+
+----------------------------------------
 
 ## Chapter 7: Discovered!
 
@@ -2608,6 +2622,8 @@ volunteered.  An all-too-familiar twinge in the back of her head
 stopped her.  She looked up, but could only see a few tiny patches of
 blue.  "We should hurry," she told the others.  There was a cloud
 coming---a big one---and it was moving fast.
+
+----------------------------------------
 
 ## Chapter 8: Royalty
 
@@ -3028,6 +3044,8 @@ get them through the forest?"  He jerked his chin at Sergeant Dorbu.
 Colonel Bonzon shook his head.  "We're not going to go through the
 forest, respected.  You're going to fly us over it."
 
+----------------------------------------
+
 ## Chapter 9: Choosing Sides
 
 Stale woke to find itself under occupation.  Soldiers patrolled the
@@ -3402,6 +3420,8 @@ you have some explaining to do," he said meaningfully.
 "Yes, respected," she said meekly.  She kept her head down as she
 stepped into the house, and only jumped a tiny bit as her mother
 slammed the door closed behind her.
+
+----------------------------------------
 
 ## Chapter 10: Rebellion
 
@@ -3793,6 +3813,8 @@ As the four soldiers hauled him away, Aft shot one more look at Indy
 and the sergeant.  Noxy couldn't honestly have said which he seemed
 angrier at, or which he thought had betrayed him the worst.
 
+----------------------------------------
+
 ## Chapter 11: Flight
 
 Stale woke up sullen and angry the next morning.  The tentative
@@ -4180,6 +4202,8 @@ The tiger and his boy exchanged looks.  The tiger blinked first.
 introduce you to the most respected Prince Thokmay, heir to the throne
 of Gandan."
 
+----------------------------------------
+
 ## Chapter 12: Abandoned
 
 Noxy burst out laughing.  "Seriously?" she gasped.  "You expect me to
@@ -4559,6 +4583,8 @@ Thokmay off his feet.
 "Now!" Noxy screamed. "Jump now!"  And as another rock flew through
 the air, Kulbinder skidded on the rocks, rolled over, sprinted toward
 the cliff's edge, and threw himself into the air.
+
+----------------------------------------
 
 ## Chapter 13: Found
 
@@ -4964,6 +4990,8 @@ The man halted a few strides away.  "Hello, daffodil."
 Prince Thokmay of Gandan.  And the tiger is Kulbinder.  He's hurt.
 Um, Thokmay?  This is my father, Ulfmaerr.  He's a magician"
 
+----------------------------------------
+
 ## Chapter 14: Lost and Found
 
 Ulfmaerr lifted Kulbinder as if the tiger weighed no more than a
@@ -5349,6 +5377,8 @@ forest."
 
 "And if he's not?" Noxy asked, scrambling to keep up with him as he
 hurried back toward the hut.  He didn't answer.
+
+----------------------------------------
 
 ## Chapter 15: Ambushed
 
@@ -5742,6 +5772,8 @@ the one she had seen when the soldiers first arrived in Stale.
 
 "Hello, Linger," her father said with a bow.
 
+----------------------------------------
+
 ## Chapter 16: In Deep
 
 "Hoy an wale met."  The old troll nodded to Ulfmaerr, equal to equal,
@@ -6074,6 +6106,8 @@ weapons at the ready, and then the cloud's fourth rider joined them.
 Noxy gasped in disbelief.
 
 It was Grappa Gas.
+
+----------------------------------------
 
 ## Chapter 17: Sometimes You Don't Get To Choose
 
@@ -6470,6 +6504,8 @@ and *Now!* she told Pillow.  Grappa Gas shouted something, a warning
 or a plea that she didn't hear, as the cloud beneath her weakened and
 thinned and pulled back, and then she and Thokmay were falling toward
 the freezing blue water below.
+
+----------------------------------------
 
 ## Chapter 18: The Voice of the Forest
 
@@ -6898,6 +6934,8 @@ pulled up short at the sight of Noxy.
 "Finally," he growled.  His ears were flat against his head, and his
 whiskers bristling.  "Most respected, it's Dragger.  He's headed this
 way, and I don't think Linger can stop him."
+
+----------------------------------------
 
 ## Chapter 19: The Gray Flood
 
@@ -7380,6 +7418,8 @@ and Sensy were going to be so jealous.
 pulled off his mask.
 
 It was Sergeant Dorbu.
+
+----------------------------------------
 
 ## Chapter 20: Choosing Friends
 
@@ -7910,6 +7950,8 @@ again. "Have we a bargain?"
 There was another pause. It stretched until Noxy thought she would
 scream. Finally the lightnings spoke. *DONE.  WHAT WHERE WHEN HOW?*
 
+----------------------------------------
+
 ## Chapter 23: The End
 
 Fluffy was the only cloud in the sky as they flew toward Stale.
@@ -8048,6 +8090,8 @@ wheezed. He tried to gather his feet beneath him.
 
 "Don't try to move," Thokmay ordered. "They'll be here soon." The
 tiger licked his arm again, but didn't speak.
+
+----------------------------------------
 
 ## Chapter 24: The Beginning
 

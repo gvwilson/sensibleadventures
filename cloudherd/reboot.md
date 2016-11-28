@@ -1,8 +1,10 @@
 # The Prince and the Cloudherd
 
+ADD COLOR COMMENTARY LIKE PRATCHETT AND OTHERS - BRING IT TO LIFE
+
 ------------------------------------------------------------
 
-01. Opening
+Chapter 1. Opening
 - goal: introduce setting and major characters
   - setting
     - clouds and cloudherding
@@ -50,7 +52,7 @@
     - "In the *tralpa*'s absence..."
   - Dorbu says they'll go as soon as they can, but right now they need help recovering their wounded
 
-02. Rescue
+Chapter 2. Rescue
 - goal: first bit of adventure
   - get the reader's blood racing
   - show how cloudherding works
@@ -99,19 +101,22 @@
     - Bonzon: "We'll return in the spring to lay the ghosts of those we couldn't."
       - The way he said it made it a simple statement of fact, like "Water flows downhill" or "The sun rises in the morning."
 
-03. Tension at Home
+Chapter 3. Tension at Home
 - goal: set up the tensions that will drive major plot developments
   - Bonzon vs. Dorbu
     - Bonzon wants to order the Stalers around (but is initially too weak to do so)
     - Dorbu wants to persuade them and work around their needs
-  - Noxy vs. Rash and Sensy
+  - Noxy losing control
     - Noxy is used to being the boss (and is afraid of losing her friends as they grow closer)
     - Sensy and Rash are beginning to rebel (in part because they are now more interested in each other)
-  - Indy vs. Grappa Gas and Granna Fee
+    - Noxy's growing power feels like loss of control
+    - Realizes with a shock that she's mind-speaking to clouds without touching them
+    - Then tries to convince herself that she's mistaken, because if she's right...
+  - villagers amongst themselves (e.g. Indy vs. Grappa Gas and Granna Fee)
     - Fee: "They can't stay, daffodil.  They can't."
     - Fee's argument (we can't take sides) is different from Gas's (they're the wrong side)
     - Indy: "We can't kick them out - we'd be killing them." and "And we *can't* kick them out.  They're soldiers, we're not."
-    - So this is really Indy vs. the burden of responsibility
+    - So this is also Indy vs. the burden of responsibility
   - Grappa Gas vs. Aft
     - they have always squabbled
       - Aft's mother used to mediate
@@ -125,9 +130,6 @@
       - Would have gone off to explore the world if his mother hadn't been sick
       - Never quite got around to it
       - Shows unexpected vulnerability when talking to the soldiers about the world they've seen
-  - Noxy vs. her fear
-    - Realizes with a shock that she's mind-speaking to clouds without touching them
-    - Then tries to convince herself that she's mistaken, because if she's right...
 - plot
   - Fly back to Stale with the wounded and the dead
     - Bonzon giving crisp, unforgiving orders to a placating Dorbu
@@ -176,7 +178,7 @@
       - Thokmay comes panting up
       - Indy: "Perhaps tomorrow my daughter can show you two around"
 
-04. The Tiger's Boy
+Chapter 4. The Tiger's Boy
 - goal: introduce Thokmay
   - Thokmay is reserved and watchful
     - raise questions in the reader's mind about him
@@ -243,7 +245,7 @@
   - Dorbu teaches the village children how to juggle
     - Noxy and Grappa Gas exchange looks that say, "Nothing good will come of this."
 
-05. Swimming and Conversation
+Chapter 5. Swimming and Conversation
 - goal: adventure and backstory
   - a burst of adrenaline
   - Noxy can't fool herself any longer about her abilities
@@ -340,7 +342,7 @@
       - Granna Fee (starts to smile, then realizes Noxy is serious): "Maybe.  But nobody and nothing can *make* you a magician.  You have to choose."
     - Idle chatter, then Noxy heads home
 
-06. The Gathering Storm
+Chapter 6. The Gathering Storm
 - goal: deepen mystery around Thokmay
   - explain the rebellion
   - develop Bonzon as the villain
@@ -410,7 +412,7 @@
     - Indy (reasonably): "Then you'll understand that what I'm telling you to do is sensible."
     - In bed, suddenly tired, listening to the murmur of conversation, wondering why Thokmay was in the jitty
 
-07. Discovered!
+Chapter 7. Discovered!
 - goal: heighten tension
   - bring royalists into the picture (and set the clock ticking)
   - give Bonzon an excuse to lock things down
@@ -461,17 +463,19 @@
     - Bonzon (looking at the lock): "They'll be through that in a heartbeat"
     - Aft (eager to please): "We can nail it shut"
     - ranger tricks Aft into letting him do the nailing
-    - makes his escape
+    - makes his escape by hitting Aft with the hammer and running
     - Noxy is sent to the gate to warn them
   - Thokmay is at the gate (the only one wearing his battle mask)
     - Thokmay: "I'll find Kulbinder"
-    - Noxy (panting): "Just let him go?"
+    - Noxy (panting): "Why not just let him go?"
     - Corporal Choegyal: "Because he's seen everything"
-    - *FIXME*: this is kind of weak
+    - Thokmay really doesn't want Noxy to come
+    - Choegyal loses his temper: "And what happens if you wander off a path?  What will the forest do?"
   - Thokmay and Noxy in the forest
     - Thokmay undoes his mask as soon as they're in the trees
     - shows woodcraft skills
     - Noxy doesn't have (or value) them: she's a cloudherd
+    - Noxy gets the feeling Thokmay is stalling
     - she feels the forest pressing on her
     - is this what magic feels like? is she losing her mind?
   - Kulbinder joins them
@@ -479,9 +483,79 @@
     - Thokmay: "He could be anywhere."
     - Noxy: "But if you can tell where they fought..."
     - Thokmay (firmly): "Anywhere."
-    - Noxy's head twinges again: she can feel where he is
+    - Noxy's head twinges again: she can see where he is through a dozen pairs of eyes
     - points and describes the scene
     - then she falls over
+
+Chapter 8: Lockdown
+- goal: reveal the villain
+  - Bonzon's ruthlessness becomes clear
+  - tension among the villagers comes to a boil
+  - Noxy's fears boil over
+  - the forest's attention
+plot:
+  - Noxy wakes up in the forest (raindrops spattering on her face)
+    - pressure in her head is gone
+    - hears Thokmay and Kulbinder talking
+    - Thokmay: "It will take him at least a week to get to the Fifth.  I can't keep hiding from Bonzon that long!"
+    - whatever Kulbinder was going to say is cut short when he realizes Noxy is awake
+    - asks her what happened
+    - she says she doesn't know, and it's half-true: the feeling seems like a memory of a bad dream fading in daylight
+  - return to Stale
+    - Bonzon is at the gate setting up patrols
+    - Indy is arguing with him (and Grappa Gas is shouting) but he is unrelenting: "I do what needs to be done."
+    - both of them round on the new arrivals
+      - Thokmay hangs back, mask in place, while Kulbinder does the talking to distract Bonzon
+      - Comment that the other soldiers have their masks on as well: moving with more purpose than before
+      - "We found a trail, but the girl had some sort of fit"
+    - Indy concerned and exasperated
+      - Granna Fee catches Noxy's eyes
+      - her own eyes widen as she realizes
+      - she puts her hand on her daughter's arm to cut her off
+      - makes an excuse: "girls this age... well, young women... here, let me look after her"
+      - gives Indy a warning look
+      - takes Gas with her (so that he won't get into a fight)
+      - Indy goes back to arguing fruitlessly with Bonzon
+      - meanwhile, Bonzon's men are putting locks on the doors of the traders' hall and nailing the windows closed
+    - walking back to Fee's house
+      - Fee can't talk about Noxy's powers in front of Gas, but she can look worried and ask leading questions
+      - Noxy gets cold feet and doesn't want to talk about it
+      - sees her friends up on the wall - bolts, leaving Granna Fee and Grappa Gas behind
+    - up on the wall, she's clearly interrupting them
+      - they talk awkwardly for a bit about what's happening
+      - fall silent as a pair of soldiers comes by
+      - Sensy: "I want to go home"
+      - Rash: "I'll walk with you"
+      - Noxy offers to come, then suddenly realizes they want to go as a pair
+      - stays on the wall feeling very alone
+      - sees Thokmay on the next section of wall
+      - needs to be angry at someone, so she decides to be angry at him (is just barely self-aware enough to realize this)
+    - goes to confront him about what Kulbinder was saying as Noxy woke up
+      - "You're a spy, aren't you?"
+      - Kulbinder (behind Noxy): "No.  *I'm* the spy."
+      - Noxy (backing away): "Stay away from me or I'll---"
+      - Kulbinder: "Tell the sergeant?  Or the colonel?"
+      - Noxy: "Do you think they wouldn't believe me?"
+      - Kulbinder: "Bonzon would.  And then he'd turn me into a rug." (nods) "He'd probably just hang the boy."
+      - Noxy: "I don't believe you!"
+      - Kulbinder: magicians aren't the only ones who trade parts of themselves - Bonzon's done it for the revolution
+      - Kulbinder: "Besides, if you turn us in, who's going to save your village?"
+      - Noxy: "What?"
+      - Thokmay: "They're here to take over your clouds to use as weapons."
+      - Noxy is aghast: "But they can't!  The other kingdoms wouldn't allow it!"
+      - Kulbinder: "They're not just rebelling against one king - they've realized they have to rebel against all of them."
+      - Noxy: "We won't! We'll just fly away!"
+      - Thokmay: "And leave all the children behind?"
+      - to Noxy's stunned silence, he says (wearily), "Why do you think he's turning the trader's hall into a jail?"
+    - her anger boils over
+      - rage makes her kick the parapet over and over
+      - stops when Kulbinder snarls at her
+      - realizes that Thokmay has drawn his sword
+      - half a dozen trolls are in the trees near the walls, shaking the branches and hooting
+      - they fall silent when she does, then disappear back into the forest
+      - Thokmay: "How did you do that?"
+      - Noxy (on the verge of tears): "I don't know."
+      - Kulbinder: "That can wait.  We need to get word of Bonzon's plan to the Fifth."
 
 ------------------------------------------------------------
 
@@ -748,7 +822,7 @@
 
 9.  [character development + romance / day 3] Noxy finds her friends
     on the walls watching the clouds, speculating about who'd win a
-    fight between the soldiers and the Stalers; Sensy and Aft go for
+    fight between the soldiers and the Stalers; Sensy and Rash go for
     walk together, leaving Noxy feeling as lonely as Thokmay.  Noxy
     finds Thokmay on the walls as well with some sticks.  Trying to
     make conversation, she asks him what he's doing.  He talks about

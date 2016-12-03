@@ -5,12 +5,7 @@ ADD COLOR COMMENTARY LIKE PRATCHETT AND OTHERS - BRING IT TO LIFE
 ------------------------------------------------------------
 
 Chapter 1. Opening
-- goal: introduce setting and major characters
-  - setting
-    - clouds and cloudherding
-    - Stale is a village inside an old fortress
-    - rebellion
-    - forest only allows people on the roads in any numbers
+- goals
   - introduce most major characters
     - Noxy
     - Rash and Sensy
@@ -22,7 +17,14 @@ Chapter 1. Opening
     - Thokmay (only a little)
     - *not* Bonzon ("the colonel stayed with the wounded" but don't reveal he's wounded himself)
     - *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
-- plot
+  - plot development
+    - clouds and cloudherding
+    - Stale is a village inside an old fortress
+    - rebellion
+    - forest only allows people on the roads in any numbers
+- excitement
+  - encounter with the troll
+- details
   - Noxy and Sensy are picking spiderwebs
   - Sensy is mooning about boys, Noxy is impatient
   - Little Gas arrives to say there are soldiers
@@ -53,12 +55,17 @@ Chapter 1. Opening
   - Dorbu says they'll go as soon as they can, but right now they need help recovering their wounded
 
 Chapter 2. Rescue
-- goal: first bit of adventure
-  - get the reader's blood racing
-  - show how cloudherding works
-  - first mention of Noxy's emerging ability
+- goals
   - introduce Bonzon (the villain) and foreshadow his ruthlessness
-- plot
+  - first mention of Noxy's emerging ability
+  - Rash and Sensy
+  - Noxy hoping she sees her father
+  - show how cloudherding works
+  - get Bonzon into the picture
+- excitement
+  - riding clouds
+  - forest's attack during rescue of soldiers
+- details
   - Gas and Aft start arguing again ("What will the *tralpa* say?")
     - foreshadows the cause of the rebellion
   - Indy squashes it again
@@ -93,6 +100,7 @@ Chapter 2. Rescue
     - But animals gathering
     - One soldier takes a brand from the fire to scare them off
     - Gas slingshots it out of his hands (foreshadow Gas's slingshot)
+    - But the animals charge (bears, cougars, trolls)
     - Dorbu is the last one out, helping another soldier
   - Flying home
     - Gas rounds on Dorbu: "What in all the rotting hells was so important that you couldn't leave it behind?"
@@ -102,7 +110,7 @@ Chapter 2. Rescue
       - The way he said it made it a simple statement of fact, like "Water flows downhill" or "The sun rises in the morning."
 
 Chapter 3. Tension at Home
-- goal: set up the tensions that will drive major plot developments
+- goals
   - Bonzon vs. Dorbu
     - Bonzon wants to order the Stalers around (but is initially too weak to do so)
     - Dorbu wants to persuade them and work around their needs
@@ -130,7 +138,13 @@ Chapter 3. Tension at Home
       - Would have gone off to explore the world if his mother hadn't been sick
       - Never quite got around to it
       - Shows unexpected vulnerability when talking to the soldiers about the world they've seen
-- plot
+  - keep the trolls in the picture
+  - more hints about Noxy's powers
+  - Thokmay hiding his face from Bonzon
+- excitement
+  - arguments over tea
+  - chasing the trolls
+- details
   - Fly back to Stale with the wounded and the dead
     - Bonzon giving crisp, unforgiving orders to a placating Dorbu
       - Bonzon wants patrols out right away, Dorbu wants to give the soldiers a rest
@@ -168,24 +182,32 @@ Chapter 3. Tension at Home
       - Decision was to stay out of lowland wars
     - Everyone's calming down when there's a crash and a yowl outside
       - Noxy is the first one out the door
-      - Kulbinder is there glaring at the roof
+      - Kulbinder is chasing a troll
+      - Leaps for it, is blocked by another
+      - A trio scampers away
+      - Noxy recognizes the one that blocked Kulbinder from the morning
+    - Conversation
       - A troll had been spying on the villagers
         - Reveal that trolls are chimpanzees
-      - Kulbinder chased, but it lost him by climbing a drainpipe
-      - Noxy: "There was one in the forest earlier today"
       - Grappa Gas: "What's a troll doing this close to the village?"
       - Reveal that the village has a deal with the trolls
       - Thokmay comes panting up
       - Indy: "Perhaps tomorrow my daughter can show you two around"
 
 Chapter 4. The Tiger's Boy
-- goal: introduce Thokmay
-  - Thokmay is reserved and watchful
-    - raise questions in the reader's mind about him
+- goals
+  - get Thokmay into the picture
+    - Thokmay is reserved and watchful
+      - raise questions in the reader's mind about him
   - Noxy suddenly feels teenage insecurity
     - Noxy's assumption of social dominance is challenged by Thokmay's self-assurance
     - She mind-speaks with clouds from a distance again
-- plot
+  - introduce the tunnel (used later)
+  - introduce the goofs (used later)
+- excitement
+  - the goofs escape and are recaptured
+  - FIXME: need something else!
+- details
   - open with Indy exasperatedly trying to get Noxy ready to go out
     - Noxy pushes back
     - says she doesn't really want to do it
@@ -205,8 +227,17 @@ Chapter 4. The Tiger's Boy
     - Noxy thinks, "Great, now I'm stuck talking to a fencepost."
   - Noxy covers her discomfort by talking too much
     - Thokmay's noncommittal replies annoy her
-    - He never says anything disparaging: she reads that into his words
-  - Walk past the cave
+    - He never actually says anything disparaging: she reads that into his words
+  - Walk past the goof pen
+    - Dozens of fleecy waist-high idiots being tended by Little Gas and other small children
+    - Noxy remembers pretending that they were little clouds
+    - Notices Little Gas feeding one the wrong way
+    - Goes in to correct him (shows how she bosses kids around)
+    - A couple of goofs escape as Noxy and Little Gas squabble
+    - Thokmay catches one by the tail
+    - Both immediately round on him, knocking him to the ground
+    - Noxy: "You never, ever touch a goof's tail"
+  - Then past the tunnel
     - Really just a hollow in the wall, three strides in all directions
     - Bamboo grill on the front so that traders can store things
     - Foreshadows its use for prisoners later on
@@ -214,7 +245,7 @@ Chapter 4. The Tiger's Boy
     - Noxy takes Thokmay to the Steep Stairs
     - And is secretly pleased that he's out of breath at the top
   - Describe the nearby territory
-    - Villages all have dragon names
+    - Villages have dragon names like people
     - Noxy explains what those are
     - Takes Thokmay's noncommittal comments as offensive again
   - Describe the clouds
@@ -234,7 +265,7 @@ Chapter 4. The Tiger's Boy
       - Narrator comment: once Noxy has decided on something, she sticks to it
     - He climbs up on the cloud
     - And just then Indy shows up with Sergeant Dorbu and chews Noxy out
-  - As punishment, Noxy has to unseed some thimbleberries
+  - As punishment, Noxy has to seed some thimbleberries
   - She's feeling sorry for herself when she hears noise from the square
     - Dorbu and Thokmay are fencing in front of a growing crowd
     - With Kulbinder grumbling advice from the sidelines
@@ -246,15 +277,19 @@ Chapter 4. The Tiger's Boy
     - Noxy and Grappa Gas exchange looks that say, "Nothing good will come of this."
 
 Chapter 5. Swimming and Conversation
-- goal: adventure and backstory
-  - a burst of adrenaline
+- goals
+  - a burst of adrenaline after the slowness of the previous chapter
+    - which should be fixed...
   - Noxy can't fool herself any longer about her abilities
   - backstory about her father
   - another clue that Thokmay is more than he seems
   - Colonel Bonzon comes into focus as the villain
   - tension between Grappa Gas and Aft reflects larger tension within village
   - discover that Aft used to be in love with Indy
-- plot:
+  - introduce magic and how it works
+- excitement
+  - Thokmay falls in the pond
+- details
   - Noxy is still fuming as she seeds thimbleberries
     - Sensy joins her (feeling sympathy)
     - but spoils it by burbling on about learning to juggle
@@ -343,12 +378,16 @@ Chapter 5. Swimming and Conversation
     - Idle chatter, then Noxy heads home
 
 Chapter 6. The Gathering Storm
-- goal: deepen mystery around Thokmay
+- goals
+  - deepen mystery around Thokmay
   - explain the rebellion
   - develop Bonzon as the villain
   - show (doomed) mutual interest between Indy and Dorbu
   - deepen mystery around Thokmay
-- plot:
+- excitement
+  - Noxy's nightmare
+  - chasing the mysterious figure in the dark
+- details
   - Noxy has strange dreams
     - a house made of trees woven together
     - drinking tea with the old troll she saw in the forest
@@ -413,12 +452,15 @@ Chapter 6. The Gathering Storm
     - In bed, suddenly tired, listening to the murmur of conversation, wondering why Thokmay was in the jitty
 
 Chapter 7. Discovered!
-- goal: heighten tension
+- goals
   - bring royalists into the picture (and set the clock ticking)
   - give Bonzon an excuse to lock things down
-  - show the danger that Noxy is in
+  - show the danger that Noxy is in if she gives in to her growing powers
   - increase mystery around Thokmay
-- plot:
+- excitement
+  - royalist soldier's escape
+  - Noxy's episode
+- details
   - cleaning up after the storm
     - no fire, just lots of water damage
     - children playing "don't step in the lava" with the puddles
@@ -457,9 +499,9 @@ Chapter 7. Discovered!
   - patrol returns with rangers
     - brief description
     - Noxy wonders if the smaller could have been who she saw the night before
-    - Aft: "We can put them in the cave"
+    - Aft: "We can put them in the tunnel"
     - Kulbinder: "I'll have another look in the forest"
-  - prisoners taken to the cave
+  - prisoners taken to the tunnel
     - Bonzon (looking at the lock): "They'll be through that in a heartbeat"
     - Aft (eager to please): "We can nail it shut"
     - ranger tricks Aft into letting him do the nailing
@@ -488,12 +530,15 @@ Chapter 7. Discovered!
     - then she falls over
 
 Chapter 8: Lockdown
-- goal: reveal the villain
-  - Bonzon's ruthlessness becomes clear
+- goals
+  - reveal the villain: Bonzon's ruthlessness becomes clear
   - tension among the villagers comes to a boil
   - Noxy's fears boil over
-  - the forest's attention
-plot:
+  - the fact that the forest can pay attention
+  - Rash and Sensy's relationship becoming clear (and with it, Noxy's loneliness)
+- excitement
+  - Noxy's confrontation with Kulbinder and Thokmay on the wall
+- details
   - Noxy wakes up in the forest (raindrops spattering on her face)
     - pressure in her head is gone
     - hears Thokmay and Kulbinder talking
@@ -534,12 +579,13 @@ plot:
       - "You're a spy, aren't you?"
       - Kulbinder (behind Noxy): "No.  *I'm* the spy."
       - Noxy (backing away): "Stay away from me or I'll---"
-      - Kulbinder: "Tell the sergeant?  Or the colonel?"
+      - Kulbinder moves toward her threateningly
+      - Thokmay restrains him with a hand gesture: "You'll what? Tell the sergeant?  Or the colonel?"
       - Noxy: "Do you think they wouldn't believe me?"
       - Kulbinder: "Bonzon would.  And then he'd turn me into a rug." (nods) "He'd probably just hang the boy."
       - Noxy: "I don't believe you!"
       - Kulbinder: magicians aren't the only ones who trade parts of themselves - Bonzon's done it for the revolution
-      - Kulbinder: "Besides, if you turn us in, who's going to save your village?"
+      - Thokmay: "Besides, if you turn us in, who's going to save your village?"
       - Noxy: "What?"
       - Thokmay: "They're here to take over your clouds to use as weapons."
       - Noxy is aghast: "But they can't!  The other kingdoms wouldn't allow it!"
@@ -555,7 +601,7 @@ plot:
       - they fall silent when she does, then disappear back into the forest
       - Thokmay: "How did you do that?"
       - Noxy (on the verge of tears): "I don't know."
-      - Kulbinder: "That can wait.  We need to get word of Bonzon's plan to the Fifth."
+      - Kulbinder: "That can wait.  We need to get to the Fifth."
 
 ------------------------------------------------------------
 

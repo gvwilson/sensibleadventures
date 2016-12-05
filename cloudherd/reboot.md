@@ -146,9 +146,10 @@ Chapter 3. Tension at Home
   - chasing the trolls
 - details
   - Fly back to Stale with the wounded and the dead
-    - Bonzon giving crisp, unforgiving orders to a placating Dorbu
+    - Bonzon giving crisp, unforgiving orders to Dorbu
       - Bonzon wants patrols out right away, Dorbu wants to give the soldiers a rest
     - Rash makes a crack about knowing how it feels to be ordered around
+    - Bonzon glancing at cloudherds, clearly deciding *not* to say some things
   - Arrive in Stale
     - Soldiers offload the dead
     - Noxy is soothing the cloud
@@ -164,13 +165,14 @@ Chapter 3. Tension at Home
       - Indy: "Stow it, both of you!"
     - Dorbu's comments
   - Thokmay reports to Dorbu wearing his battle mask (Bonzon is nearby)
-    - Dorbu: "Why are you?"
+    - Dorbu: "Why are you masked?"
     - Thokmay (woodenly, half-muffled by the mask): "I was moving too slowly on the stairs, honored."
     - Dorbu: "I'm going to have a word with that tiger about how hard he pushes you."
     - Thokmay: "I would be grateful if you did not, honored."
     - Dorbu (shaking head as Thokmay leaves): "Pushes himself too hard, that one.  And Kulbinder pushes him even harder sometimes."
     - Bonzon (frowning): "An orphan?"
     - Dorbu: "Yes, honored.  Came to us just a few months before the rebellion."
+    - Bonzon tells Dorbu they need to have a discussion away from prying ears
     - Figure out later Thokmay is hiding his face from Bonzon
   - Conversations at home
     - Indy has Noxy make tea
@@ -206,7 +208,6 @@ Chapter 4. The Tiger's Boy
   - introduce the goofs (used later)
 - excitement
   - the goofs escape and are recaptured
-  - FIXME: need something else!
 - details
   - open with Indy exasperatedly trying to get Noxy ready to go out
     - Noxy pushes back
@@ -234,9 +235,9 @@ Chapter 4. The Tiger's Boy
     - Notices Little Gas feeding one the wrong way
     - Goes in to correct him (shows how she bosses kids around)
     - A couple of goofs escape as Noxy and Little Gas squabble
-    - Thokmay catches one by the tail
+    - Thokmay whistles at them to call them
     - Both immediately round on him, knocking him to the ground
-    - Noxy: "You never, ever touch a goof's tail"
+    - Noxy: "You never, ever whistle at a goof"
   - Then past the tunnel
     - Really just a hollow in the wall, three strides in all directions
     - Bamboo grill on the front so that traders can store things
@@ -529,7 +530,7 @@ Chapter 7. Discovered!
     - points and describes the scene
     - then she falls over
 
-Chapter 8: Lockdown
+Chapter 8: Spies!
 - goals
   - reveal the villain: Bonzon's ruthlessness becomes clear
   - tension among the villagers comes to a boil
@@ -582,17 +583,16 @@ Chapter 8: Lockdown
       - Kulbinder moves toward her threateningly
       - Thokmay restrains him with a hand gesture: "You'll what? Tell the sergeant?  Or the colonel?"
       - Noxy: "Do you think they wouldn't believe me?"
-      - Kulbinder: "Bonzon would.  And then he'd turn me into a rug." (nods) "He'd probably just hang the boy."
-      - Noxy: "I don't believe you!"
+      - Kulbinder: "Bonzon would.  And then he'd turn me into a rug."
       - Kulbinder: magicians aren't the only ones who trade parts of themselves - Bonzon's done it for the revolution
-      - Thokmay: "Besides, if you turn us in, who's going to save your village?"
+      - Thokmay (quietly): "Besides, if you turn us in, who's going to save your village?"
       - Noxy: "What?"
-      - Thokmay: "They're here to take over your clouds to use as weapons."
+      - Thokmay: "They didn't come looking for us.  They're here to take over your clouds to use as weapons."
       - Noxy is aghast: "But they can't!  The other kingdoms wouldn't allow it!"
       - Kulbinder: "They're not just rebelling against one king - they've realized they have to rebel against all of them."
       - Noxy: "We won't! We'll just fly away!"
       - Thokmay: "And leave all the children behind?"
-      - to Noxy's stunned silence, he says (wearily), "Why do you think he's turning the trader's hall into a jail?"
+      - to Noxy's stunned silence: "Why do you think he's turning the traders' hall into a jail?"
     - her anger boils over
       - rage makes her kick the parapet over and over
       - stops when Kulbinder snarls at her
@@ -602,6 +602,86 @@ Chapter 8: Lockdown
       - Thokmay: "How did you do that?"
       - Noxy (on the verge of tears): "I don't know."
       - Kulbinder: "That can wait.  We need to get to the Fifth."
+    - Little Gas comes up the stairs (echo of the opening scene)
+      - In tears: "Your *amma* said come right now they've arrested grappa!"
+
+Chapter 9: Secret Identity
+- goals
+  - ramp up the tension a lot now that Bonzon is the villain
+  - set up the trio's escape
+  - see that Aft and Grappa Gas actually care for each other even though they fight
+  - reveal that Thokmay is the prince
+- excitement
+  - Noxy creeping around
+- details
+  - Noxy races down the steps with Thokmay and Kulbinder right behind her
+    - gets to the square to see soldiers and Choegyal holding a struggling Grappa Gas in front of Bonzon
+    - Indy and Granna Fee remonstrating
+    - Dorbu there looking very unhappy
+    - Little Gas won't let go of Noxy's hand, and for once she doesn't resent it
+  - Bonzon cuts Indy off: "hear it for yourself"
+    - Choegyal reports: "He was trying to pass a hammer to the prisoner with his food"
+    - Gas blusters: "Of course it's mind, I was just going to fix up my leg"
+    - Bonzon steps forward and looks at him like a hawk looking at a rabbit: "You're lying"
+    - orders the soldiers to put Gas in with the ranger
+  - Indy steps in the way and loses her temper: "You don't give orders in my village!"
+    - Bonzon (waving at the gathering crowd): "This isn't your village, it's theirs. And we are their strong arm."
+    - Indy: "Let's ask them what they want!"
+    - Bonzon: "Do you ask a child when they want to go to bed?  Or what they want for breakfast?"
+  - Noxy (bursts out): "But grappa isn't the only one you're going to lock up, is he?"
+    - Indy: "What are you talking about?"
+    - Noxy (shaking): "Ask him about the children.  About how he wants to use the clouds."
+    - Bonzon steps toward her
+    - Villagers move to intervene
+    - Suddenly swords are out and Noxy is frightened
+    - Bonzon (quietly): "Explain yourself and this can end peacefully."
+    - Noxy: "I... I overheard you talking to---"
+    - Bonzon (still quietly): "No you didn't."
+  - orders Noxy taken to the traders' hall for questioning
+    - Indy: "Over my dead body!"
+    - Bonzon: "This is where the villain says, if you insist.  But this isn't a story, and I'm not a villain."
+    - Orders Indy taken as well.
+  - Dorbu walks Grappa Gas, Indy, and Noxy toward the traders' hall with a handful of soldiers as guards
+    - Noxy's mind racing
+    - Indy (to Dorbu): "I *trusted* you."
+    - Dorbu (anguished): "I'm sorry.  Everything just... got away from us."
+    - Grappa Gas (bitter): "You betrayed the king.  Should have known you'd betray us too."
+  - round the corner and see Aft and a couple of olders next to the goof pen
+    - Grappa Gas (to Aft): "You must be enjoying this."
+    - Aft: "A bit, but not as much as I'm going to enjoy *this*."
+    - Aft swings open the gate and whistles loud and long
+    - the goofs charge, knocking everyone every which way
+    - Aft follows with a bellow, swinging the gate post and knocking the soldiers over
+    - shouts "Go!"
+    - Indy is immediately recaptured by the soldiers
+    - Grappa Gas and Noxy run to the corner
+    - Grappa Gas (to Noxy): "Get on a cloud and get out of here - warn the others!"
+    - Noxy: "I'm not leaving you!"
+    - Gas (pointing at his leg): "Can't keep up"
+    - Noxy goes up onto the roofs
+      - knows the gate will be guarded
+      - realizes what she has to do
+    - rooftop to rooftop to the wall and is "caught" by Thokmay
+      - Thokmay: "I have to come with you."
+      - Noxy: "No!"
+      - A moment later an arrow shatters against the stones
+      - Bonzon and a couple of archers on a rooftop
+      - Bonzon: "Nobody is going anywhere."
+      - orders Thokmay to remove his battle mask
+      - Thokmay reluctantly complies
+      - Bonzon (satisfied): "I thought I recognized your voice - honored." (sketches a bow)
+      - Noxy (confused, but stalling while she mind-speaks to Pillow): "Honored? What?"
+      - Bonzon: "Have you not been introduced?  This is the Most Honored Prince Thokmay of Gandan."
+    - Soldiers' boots clatter on the stairs
+      - Noxy's heart sinks
+      - She makes a move toward the parapet
+      - Bonzon orders them to stay where they are
+        - "My men are good enough to wound, but there are no guarantees"
+      - Kulbinder attacks, knocking them sideways
+      - Bonzon draws his blade
+      - Kulbinder gets onto the parapet
+      - archers getting back on their feet
+      - Noxy: "Jump!"
 
 ------------------------------------------------------------
 

@@ -574,8 +574,13 @@ Chapter 8: Spies!
       - Rash: "I'll walk with you"
       - Noxy offers to come, then suddenly realizes they want to go as a pair
       - stays on the wall feeling very alone
-      - sees Thokmay on the next section of wall
-      - needs to be angry at someone, so she decides to be angry at him (is just barely self-aware enough to realize this)
+      - sees Granna Fee in the distance taking Pillow out for a rain
+      - waves, and Granna Fee waves back
+      - makes her feel even more alone
+    - sees Thokmay on the next section of wall
+      - needs to be angry at someone, so she decides to be angry at him
+      - is just barely self-aware enough to realize this
+      - Thokmay has a traveling pack
     - goes to confront him about what Kulbinder was saying as Noxy woke up
       - "You're a spy, aren't you?"
       - Kulbinder (behind Noxy): "No.  *I'm* the spy."
@@ -616,7 +621,7 @@ Chapter 9: Secret Identity
 - details
   - Noxy races down the steps with Thokmay and Kulbinder right behind her
     - gets to the square to see soldiers and Choegyal holding a struggling Grappa Gas in front of Bonzon
-    - Indy and Granna Fee remonstrating
+    - Indy remonstrating
     - Dorbu there looking very unhappy
     - Little Gas won't let go of Noxy's hand, and for once she doesn't resent it
   - Bonzon cuts Indy off: "hear it for yourself"
@@ -658,30 +663,68 @@ Chapter 9: Secret Identity
     - Grappa Gas (to Noxy): "Get on a cloud and get out of here - warn the others!"
     - Noxy: "I'm not leaving you!"
     - Gas (pointing at his leg): "Can't keep up"
-    - Noxy goes up onto the roofs
-      - knows the gate will be guarded
-      - realizes what she has to do
-    - rooftop to rooftop to the wall and is "caught" by Thokmay
-      - Thokmay: "I have to come with you."
-      - Noxy: "No!"
-      - A moment later an arrow shatters against the stones
-      - Bonzon and a couple of archers on a rooftop
-      - Bonzon: "Nobody is going anywhere."
-      - orders Thokmay to remove his battle mask
-      - Thokmay reluctantly complies
-      - Bonzon (satisfied): "I thought I recognized your voice - honored." (sketches a bow)
-      - Noxy (confused, but stalling while she mind-speaks to Pillow): "Honored? What?"
-      - Bonzon: "Have you not been introduced?  This is the Most Honored Prince Thokmay of Gandan."
-    - Soldiers' boots clatter on the stairs
-      - Noxy's heart sinks
-      - She makes a move toward the parapet
-      - Bonzon orders them to stay where they are
-        - "My men are good enough to wound, but there are no guarantees"
-      - Kulbinder attacks, knocking them sideways
-      - Bonzon draws his blade
-      - Kulbinder gets onto the parapet
-      - archers getting back on their feet
-      - Noxy: "Jump!"
+  - Noxy goes up onto the roofs
+    - knows the gate will be guarded
+    - realizes what she has to do
+    - closes her eyes and concentrates
+  - rooftop to rooftop to the wall and is "caught" by Thokmay
+    - Thokmay: "I have to come with you."
+    - Noxy: "No!"
+    - A moment later an arrow shatters against the stones
+    - Bonzon and a couple of archers on a rooftop
+    - Bonzon: "Nobody is going anywhere."
+    - orders Thokmay to remove his battle mask
+    - Thokmay reluctantly complies
+    - Bonzon (satisfied): "I thought I recognized your voice - honored." (sketches a bow)
+    - Noxy (confused, but stalling while she mind-speaks to Pillow): "Honored? What?"
+    - Bonzon: "Have you not been introduced?  This is the Most Honored Prince Thokmay of Gandan."
+  - soldiers' boots clatter on the stairs
+    - Noxy's heart sinks
+    - She makes a move toward the parapet
+    - Bonzon orders them to stay where they are
+      - "My men are good enough to wound, but there are no guarantees"
+    - Kulbinder attacks, knocking them sideways
+    - Bonzon draws his blade
+    - Kulbinder gets onto the parapet
+    - archers getting back on their feet
+    - Noxy: "Jump!"
+
+Chapter 10: Flight
+- goals
+  - explain Thokmay being a prince
+  - meet Ulfmaerr
+- excitement
+  - storm scene
+  - encounter with trolls
+- details
+  - the trio land on Pillow
+    - Noxy had been calling her while escaping
+    - clouds can go through spiderweb nets
+    - it's just really uncomfortable
+    - she apologizes to Pillow
+    - who is even more upset than expected because Kulbinder is bleeding
+    - has been shot with an arrow
+  - they start patching Kulbinder
+    - talk as they do it
+    - Thokmay fills in some back story
+  - Thokmay: "We're going to the Fifth."
+    - Noxy: "No we're not.  We're going to warn the grownups.  They'll decide what to do."
+    - Argument, but Noxy has the upper hand (she's the only one who can steer the cloud)
+  - see a storm up ahead
+    - Thokmay: "Is that the village's herd?"
+    - Noxy (heart sinking): "No, those are wild clouds."
+    - Can't outrun them
+    - Noxy: "Too far to get to the herd in one day anyway - we'll have to find shelter."
+    - She knows a place...
+  - find the hut and settle in
+  - trolls gather outside
+    - Noxy: "We can make a run for it."
+    - Thokmay (shaking his head): "We won't make it."
+    - Noxy: "Have to try"
+  - Get ready
+    - Sudden rush of motion outside, then silence
+    - They open the door
+    - Ulfmaerr is sitting there
 
 ------------------------------------------------------------
 

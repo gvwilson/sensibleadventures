@@ -726,6 +726,55 @@ Chapter 10: Flight
     - They open the door
     - Ulfmaerr is sitting there
 
+Chapter 11: Lost and Found
+- goals
+  - the tragedy of Ulfmaerr's sacrifice
+    - he can't remember that Noxy is his daughter
+    - even when told, he immediately forgets
+  - compare with Thokmay's relationship with his father
+    - who often seems to forget that he has a son, rather than just a potential heir
+  - meet the owl (a bit of informative comic relief)
+  - find out more about the forest
+  - make Bonzon's villainy even clearer
+  - foreshadow Dorbu's conflicted feelings
+- excitement
+  - none (except cliffhanger ending)
+- details
+  - Ulfmaerr leads them back into the hut
+    - talking to all three as if they're strangers
+    - Thokmay gives Noxy questioning looks, but she ignores them
+  - heals Kulbinder
+    - loses the ability to see the color yellow
+  - dinner
+  - Ulfmaerr goes back outside to look for trolls
+  - Noxy explains what happened
+    - plague of scribbles (the one that killed Aft's mother)
+    - Noxy shows the dark scars on her calves
+    - Ulfmaerr sacrificed to drive it back
+      - can't sleep in the same place two nights in a row
+      - turns out the whole of Stale counts as a place
+      - but he can't remember that his family is his
+      - just knows something is wrong
+  - Thokmay replies with some details
+    - how he got his scars from Kulbinder when he tried to run away
+    - Noxy: "What will your father say?"
+    - Thokmay (showing some bitterness): "He'll say it was my fault for getting caught."
+  - Thokmay goes to sleep
+  - Noxy goes outside
+  - Redclaw (Gifted owl) is there talking to her father about the trolls
+    - the troll who has been the voice of the forest for many years is very old
+    - the forest has never had a human voice before
+    - but it thinks something big is coming and it wants one
+    - so it wants to talk to Noxy
+  - second owl arrives
+    - chirps at Redclaw
+    - Redclaw: "There's a cloud coming"
+    - Noxy: "Flying at night?"
+    - Redclaw: "Why wouldn't someone fly at night?"
+    - Before Noxy can answer: "Lots of people on it.  And some of them have arrows."
+    - Noxy goes cold: soldiers
+    - Redclaw: "They'll be here soon."
+
 ------------------------------------------------------------
 
 - What's the point of this story?

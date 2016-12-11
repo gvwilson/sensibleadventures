@@ -101,6 +101,7 @@ Chapter 2. Rescue
     - One soldier takes a brand from the fire to scare them off
     - Gas slingshots it out of his hands (foreshadow Gas's slingshot)
     - But the animals charge (bears, cougars, trolls)
+      - Make the animals strange: the bears have glowing stripes
     - Dorbu is the last one out, helping another soldier
   - Flying home
     - Gas rounds on Dorbu: "What in all the rotting hells was so important that you couldn't leave it behind?"
@@ -157,6 +158,7 @@ Chapter 3. Tension at Home
     - Thinks she hears the cloud reply, "It's all right."
     - So shocked that she stumbles, but then convinces herself she was imagining it
   - Back to the main square where Indy is re-organizing the villagers
+    - Has put on her blue-and-white jacket (her favorite colors, sky and snow)
     - Was halfway through getting things set up when the first cloud arrived with news of how many soldiers
     - She's ordering villagers to re-do work
     - Sparks an argument between Grappa Gas and Aft about whether they should be here at all
@@ -422,6 +424,7 @@ Chapter 6. The Gathering Storm
     - the colonel sends his apologies, but is still not well
     - banter between Dorbu and Kulbinder reveals real affection
     - Noxy notices how Indy looks at Dorbu
+    - comment on blue-and-white teapot (Indy's favorite colors)
   - Dorbu explains why he's a rebel
     - Kulbinder: "I'm a cat." as if that was all that needed to be said
   - Noxy sent outside to get water from the pump for more tea
@@ -717,6 +720,8 @@ Chapter 10: Flight
     - Noxy: "Too far to get to the herd in one day anyway - we'll have to find shelter."
     - She knows a place...
   - find the hut and settle in
+    - have to pick their way up the path in thickening snowstorm
+    - scary...
   - trolls gather outside
     - Noxy: "We can make a run for it."
     - Thokmay (shaking his head): "We won't make it."
@@ -760,8 +765,11 @@ Chapter 11: Lost and Found
     - Noxy: "What will your father say?"
     - Thokmay (showing some bitterness): "He'll say it was my fault for getting caught."
   - Thokmay goes to sleep
+    - closes by saying it feels good to take his mask off
   - Noxy goes outside
+    - fresh dusting of snow on the rocks
   - Redclaw (Gifted owl) is there talking to her father about the trolls
+    - Ulfmaerr is knitting a blue and white scarf (Indy's favorite colors)
     - the troll who has been the voice of the forest for many years is very old
     - the forest has never had a human voice before
     - but it thinks something big is coming and it wants one
@@ -771,9 +779,108 @@ Chapter 11: Lost and Found
     - Redclaw: "There's a cloud coming"
     - Noxy: "Flying at night?"
     - Redclaw: "Why wouldn't someone fly at night?"
-    - Before Noxy can answer: "Lots of people on it.  And some of them have arrows."
-    - Noxy goes cold: soldiers
+    - Before Noxy can answer: "Lots of people on it.  And some of them have arrows.  Wicked things."
+    - Noxy goes cold: soldiers, but how? Who could be piloting it?
     - Redclaw: "They'll be here soon."
+
+Chapter 12: Chase
+- goals
+  - get readers' hearts pounding again after a chapter of talk
+  - Noxy discovers that using her magic has a price
+  - discover that Bonzon has some magic as well
+  - meet the trolls
+- excitement
+  - cloudback chase
+- details
+  - Noxy rouses Pillow with a mind-shout as she runs back to Ulfmaerr's cottage to wake Thokmay and Kulbinder
+    - she can feel how weary Pillow is
+  - Kulbinder is still weak, but can move
+    - Thokmay offers to carry him
+    - Kulbinder snarls (wounded pride)
+    - follows up by saying it's more important for Thokmay to get away (not quite an apology)
+  - pick their way down the path to Pillow
+    - snow glistening like diamonds in the first light of dawn
+  - Ulfmaerr isn't going to come with them
+    - "What does this have to do with me?"
+    - Noxy loses it: "I'm your daughter!  And we're trying to save your home!"
+      - points at the blue-and-white scarf Ulfmaerr is wearing
+    - Ulfmaerr laughs incredulously but uncomfortably
+    - Thokmay (quietly, to Noxy): "We don't have time"
+    - Noxy wonders for a moment when there was time, what she missed, when it could have been different
+    - then wipes angry tears from her eyes: "Come on."
+  - the trio reaches the cloud just as Big Blue comes into view
+    - Noxy reaches recklessly with her mind (still angry and sad about her father)
+    - Aft is piloting
+  - suddenly realize they are surrounded by trolls
+    - everyone freezes
+    - even Ulfmaerr is surprised
+    - old troll (silvered fur, sad eyes) comes forward and looks searchingly at Noxy
+    - she realizes he's the one she met in the forest
+  - moment is broken by an arrow striking a stone
+    - ranging shot from the cloud
+    - Big Blue turns, then resumes course
+    - Noxy reaches out with her mind again and feels Aft's helpless anger via Big Blue
+      - new power for her - didn't realize she could do that
+    - Noxy: "Something is controlling him."
+    - Ulfmaerr rounds on Kulbinder: "Is there a magician in your troop?"
+    - Kulbinder (growling): "There were always rumors about the colonel, but-"
+    - another arrow strikes the stones
+    - Noxy: "It's Aft - he's making the ride as bumpy as he can, but they're getting closer - we have to go!"
+  - they try to board the cloud
+    - the trolls block them
+    - Thokmay reaches for his sword instinctively
+    - Ulfmaerr (sharply): "No."
+    - Linger speaks: he'll come with them - they're going to need a guide anyway
+    - Noxy: why?
+    - Linger: the forest wants to speak to you in person
+    - Ulfmaerr's eyes go wide with surprise
+  - before Noxy can make sense of that she is knocked sideways by a lunging troll
+    - arrow strikes the troll in the leg
+    - Noxy, Thokmay, Kulbinder, Ulfmaerr, and Linger pile onto the cloud and take off
+    - Pillow is exhaused
+    - Noxy starts to command, pauses, lets her own strength flow into the cloud
+    - they accelerate away
+    - Ulfmaerr looks at her: "That was brave"
+    - Noxy doesn't understand until she realizes that her little finger is numb
+    - pokes it experimentally: it bends, but she can't feel it any more
+    - magic has a price
+  - cloud chase
+    - Kulbinder to Ulfmaerr: "Do you know what spell he has worked?"
+    - Ulfmaerr shakes head
+      - best guess is that Bonzon has something Aft cares about
+      - threat alone might not work, but if Bonzon has sacrificed enough of himself to work dark magic...
+    - Thokmay: "Self-doubt"
+      - blushes slightly when everyone looks at him
+      - "Magician from Chaghan named Tseten did that - my father used him until he found out."
+    - Kulbinder: "I'm surprised he could find any to trade"
+    - all the while, Big Blue is getting closer
+    - Noxy makes a cloud wall, but it's just shielding
+    - and Pillow is getting more tired by the minute flying upwind
+  - Noxy realizes Big Blue came over the mountain
+    - found her by looking down from on high
+  - Linger (through Ulfmaerr) tells them they should go the opposite direction from the way they're flying
+    - head for the deep forest where humans are never allowed
+  - Noxy reaches with her mind and finds the storm from the night before
+    - they rested overnight, but is awake now that the sun is up
+    - takes Pillow around a spur of rock, rests for a minute
+    - raises the cloud wall higher to blend in against the snow
+    - tells everyone to be quiet
+    - waits, waits... feels Big Blue going past
+    - now!
+    - Pillow doubles back (wind at her back)
+    - Noxy looks at her finger
+    - asks Ulfmaerr if she can trade toes instead
+    - "Yes, but there isn't time to teach you"
+    - Linger intercedes: has made the bargain for her
+  - they fly faster
+    - Big Blue is behind them again
+    - fly straight into the storm
+    - blinded by snow as disturbed clouds let flurries loose
+    - she has Pillow scrape over a snowfield
+    - one by one they jump off
+    - she sends Pillow flying home
+    - under cover of snow they hurry into the trees
+    - wait for Big Blue to pass overhead chasing Pillow
 
 ------------------------------------------------------------
 
@@ -784,6 +891,10 @@ Chapter 11: Lost and Found
   - So it has to be fun to read (like the books she's reading now)
   - NOT TOO SERIOUS
   - Characters need to be slight exaggerations/caricatures (except for Noxy and Thokmay)
+
+- Ulfmaerr makes a sacrifice for the village
+- Noxy realizes that if she throws away her power, she loses the power to fix what's broken in the world
+  - "Great power brings with it a great obligation."
 
 - Make Bonzon the villain
   - He gave away self-doubt for magic

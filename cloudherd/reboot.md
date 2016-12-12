@@ -17,13 +17,12 @@ Chapter 1. Opening
     - Thokmay (only a little)
     - *not* Bonzon ("the colonel stayed with the wounded" but don't reveal he's wounded himself)
     - *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
+    - first encounter with Linger the troll (but we don't know that yet)
   - plot development
     - clouds and cloudherding
     - Stale is a village inside an old fortress
     - rebellion
     - forest only allows people on the roads in any numbers
-- excitement
-  - encounter with the troll
 - details
   - Noxy and Sensy are picking spiderwebs
   - Sensy is mooning about boys, Noxy is impatient
@@ -62,9 +61,7 @@ Chapter 2. Rescue
   - Noxy hoping she sees her father
   - show how cloudherding works
   - get Bonzon into the picture
-- excitement
-  - riding clouds
-  - forest's attack during rescue of soldiers
+  - show that the forest controls animals (attack on soldiers)
 - details
   - Gas and Aft start arguing again ("What will the *tralpa* say?")
     - foreshadows the cause of the rebellion
@@ -142,9 +139,6 @@ Chapter 3. Tension at Home
   - keep the trolls in the picture
   - more hints about Noxy's powers
   - Thokmay hiding his face from Bonzon
-- excitement
-  - arguments over tea
-  - chasing the trolls
 - details
   - Fly back to Stale with the wounded and the dead
     - Bonzon giving crisp, unforgiving orders to Dorbu
@@ -208,8 +202,6 @@ Chapter 4. The Tiger's Boy
     - She mind-speaks with clouds from a distance again
   - introduce the tunnel (used later)
   - introduce the goofs (used later)
-- excitement
-  - the goofs escape and are recaptured
 - details
   - open with Indy exasperatedly trying to get Noxy ready to go out
     - Noxy pushes back
@@ -231,29 +223,29 @@ Chapter 4. The Tiger's Boy
   - Noxy covers her discomfort by talking too much
     - Thokmay's noncommittal replies annoy her
     - He never actually says anything disparaging: she reads that into his words
-  - Walk past the goof pen
-    - Dozens of fleecy waist-high idiots being tended by Little Gas and other small children
+  - walk past the goof pen
+    - dozens of fleecy waist-high idiots being tended by Little Gas and other small children
     - Noxy remembers pretending that they were little clouds
-    - Notices Little Gas feeding one the wrong way
-    - Goes in to correct him (shows how she bosses kids around)
-    - A couple of goofs escape as Noxy and Little Gas squabble
+    - notices Little Gas feeding one the wrong way
+    - goes in to correct him (shows how she bosses kids around)
+    - a couple of goofs escape as Noxy and Little Gas squabble
     - Thokmay whistles at them to call them
-    - Both immediately round on him, knocking him to the ground
+    - both immediately round on him, knocking him to the ground
     - Noxy: "You never, ever whistle at a goof"
   - Then past the tunnel
-    - Really just a hollow in the wall, three strides in all directions
-    - Bamboo grill on the front so that traders can store things
-    - Foreshadows its use for prisoners later on
+    - really just a hollow in the wall, three strides in all directions
+    - bamboo grill on the front so that traders can store things
+    - foreshadows its use for prisoners later on
   - Up the stairs and onto the wall
     - Noxy takes Thokmay to the Steep Stairs
-    - And is secretly pleased that he's out of breath at the top
+    - and is secretly pleased that he's out of breath at the top
   - Describe the nearby territory
-    - Villages have dragon names like people
+    - villages have dragon names like people
     - Noxy explains what those are
-    - Takes Thokmay's noncommittal comments as offensive again
+    - takes Thokmay's noncommittal comments as offensive again
   - Describe the clouds
     - Thokmay: "They smell like wet goofs."
-    - Annoys Noxy for real
+    - annoys Noxy for real
   - At the cloud pen
     - Noxy says explicitly that you have to touch clouds to mind-speak to them
     - Asks Thokmay to try
@@ -281,7 +273,7 @@ Chapter 4. The Tiger's Boy
 
 Chapter 5. Swimming and Conversation
 - goals
-  - a burst of adrenaline after the slowness of the previous chapter
+  - Thokmay's fall into the pond is a burst of adrenaline after the slowness of the previous chapter
     - which should be fixed...
   - Noxy can't fool herself any longer about her abilities
   - backstory about her father
@@ -290,8 +282,6 @@ Chapter 5. Swimming and Conversation
   - tension between Grappa Gas and Aft reflects larger tension within village
   - discover that Aft used to be in love with Indy
   - introduce magic and how it works
-- excitement
-  - Thokmay falls in the pond
 - details
   - Noxy is still fuming as she seeds thimbleberries
     - Sensy joins her (feeling sympathy)
@@ -386,10 +376,8 @@ Chapter 6. The Gathering Storm
   - explain the rebellion
   - develop Bonzon as the villain
   - show (doomed) mutual interest between Indy and Dorbu
-  - deepen mystery around Thokmay
-- excitement
-  - Noxy's nightmare
-  - chasing the mysterious figure in the dark
+  - deepen mystery around Thokmay (mysterious figure in the dark)
+  - Noxy's strange dreams foreshadow encounter with forest
 - details
   - Noxy has strange dreams
     - a house made of trees woven together
@@ -461,9 +449,6 @@ Chapter 7. Discovered!
   - give Bonzon an excuse to lock things down
   - show the danger that Noxy is in if she gives in to her growing powers
   - increase mystery around Thokmay
-- excitement
-  - royalist soldier's escape
-  - Noxy's episode
 - details
   - cleaning up after the storm
     - no fire, just lots of water damage
@@ -540,8 +525,6 @@ Chapter 8: Spies!
   - Noxy's fears boil over
   - the fact that the forest can pay attention
   - Rash and Sensy's relationship becoming clear (and with it, Noxy's loneliness)
-- excitement
-  - Noxy's confrontation with Kulbinder and Thokmay on the wall
 - details
   - Noxy wakes up in the forest (raindrops spattering on her face)
     - pressure in her head is gone
@@ -615,12 +598,10 @@ Chapter 8: Spies!
 
 Chapter 9: Secret Identity
 - goals
-  - ramp up the tension a lot now that Bonzon is the villain
+  - Noxy creeping around ramps up the tension now that Bonzon is revealed as the villain
   - set up the trio's escape
   - see that Aft and Grappa Gas actually care for each other even though they fight
   - reveal that Thokmay is the prince
-- excitement
-  - Noxy creeping around
 - details
   - Noxy races down the steps with Thokmay and Kulbinder right behind her
     - gets to the square to see soldiers and Choegyal holding a struggling Grappa Gas in front of Bonzon
@@ -696,8 +677,7 @@ Chapter 10: Flight
 - goals
   - explain Thokmay being a prince
   - meet Ulfmaerr
-- excitement
-  - storm scene
+  - passing by a storm (foreshadow its use in later chapter)
   - encounter with trolls
 - details
   - the trio land on Pillow
@@ -742,8 +722,6 @@ Chapter 11: Lost and Found
   - find out more about the forest
   - make Bonzon's villainy even clearer
   - foreshadow Dorbu's conflicted feelings
-- excitement
-  - none (except cliffhanger ending)
 - details
   - Ulfmaerr leads them back into the hut
     - talking to all three as if they're strangers
@@ -789,7 +767,6 @@ Chapter 12: Chase
   - Noxy discovers that using her magic has a price
   - discover that Bonzon has some magic as well
   - meet the trolls
-- excitement
   - cloudback chase
 - details
   - Noxy rouses Pillow with a mind-shout as she runs back to Ulfmaerr's cottage to wake Thokmay and Kulbinder
@@ -881,6 +858,40 @@ Chapter 12: Chase
     - she sends Pillow flying home
     - under cover of snow they hurry into the trees
     - wait for Big Blue to pass overhead chasing Pillow
+
+Chapter 13: The Deep Forest
+- goals
+  - Noxy discovers what choice she has to make
+  - reader gets first hint that this is part of a much larger story
+    - forest refers to humans and others as "stowaways"
+  - the awe of talking to a forest
+    - and of realizing that it isn't the slightest bit human
+    - reader must be a little afraid of the forest
+- details
+  - met by a band of trolls in the trees
+    - have to get rid of their iron (including Thokmay's sword)
+    - when Noxy looks around, Linger is gone
+  - feeling guilty, Noxy reaches out to Pillow to make sure the cloud is all right
+    - passes out
+    - wakes up, nearly passes out again - the forest is too much
+  - the trio catches up with Ulfmaerr (who has gone ahead)
+    - eat and rest
+    - Noxy dreams about the forest
+  - come to a clearing
+    - Noxy sees a house - *her* house
+    - Thokmay sees the fort near Pandan where he and Kulbinder were stationed
+  - Noxy goes in
+    - conversation with the old woman
+    - the offer: she can be powerful, but only in the service of the forest
+    - doesn't have to decide right away: if the forest is anything, it's patient
+    - she declines
+    - forest says it's disappointed
+    - sends her back to her friends
+  - Noxy wakes up on the ground (again - "this is getting tiresome")
+    - she has been unconscious for almost a full day
+    - "forests don't think quickly"
+  - she suddenly realizes that the village's herd will be returning soon
+    - they only have a day left to stop Bonzon
 
 ------------------------------------------------------------
 

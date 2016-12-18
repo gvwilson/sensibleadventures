@@ -1,5 +1,44 @@
 # The Prince and the Cloudherd
 
+NEEDED
+
+* Why is Aft helping?
+
+Major Addition
+
+*   Noxy and Thokmay escape Stale into the forest through the tunnel
+    *   The tunnel is in the back of the goof pen
+    *   Granna Fee tells Noxy about it
+        *   It's a secret that only mayors know
+    *   Noxy gets peppers from her kitchen to make the goofs furious and send them charging out while she and Thokmay escape
+        *   Gets in through her skylight
+*   In the tunnel
+    *   Noxy's claustrophobia
+    *   Argument with Thokmay
+    *   Not a cave-in, but the support post breaks
+        *   Heart-stopping moment
+    *   Wading through the water is the scariest thing Noxy has ever had to do
+*   Kulbinder finds them in the forest
+*   They spend the night together in the hut
+    *   Thokmay has hidden a cache of gear near it
+    *   Worrying about trolls
+    *   Talk a little
+    *   Don't become friends, but the conversation makes Noxy uncomfortable about disliking him
+    *   Has to be something
+*   Noxy decides to steal a cloud and go to Duck Droppings for help
+*   Bonzon is waiting for them
+    *   Has Grappa Gas as hostages
+        *   Didn't know where Noxy would go
+        *   "Dorbu and Choegyal have your mother and Respected Fee elsewhere"
+        *   "Surrender or they'll pay the price!"
+        *   Noxy: "Like the littles will pay if we don't do what you want?"
+	*   Thokmay: "Like the people pay when they don't do what nobles want?"
+    *   Shot hits home - Bonzon is angry
+        *   Duck Droppings is out of the question
+        *   Big Blue is missing because Aft is already taking soldiers there
+    *   Grappa Gas yells at Noxy to go as he distracts Bonzon and the archers
+        *   NEEDED: some kind of gear on the platform that Gas can use to surprise Bonzon et al
+
 ## Chapter 1. Soldiers!
 
 *   goals    
@@ -26,11 +65,12 @@
     *   Little Gas arrives to say there are soldiers
     *   dismissed impatiently, but then the drum sounds
     *   running through the forest
-    *   stop at the top of the ridge to look
+    *   stop at the top of the ridge near the winter hut to look
+        *   winter hut is used when sugaring trees and tobogganing
         *   village inside the fortress walls
         *   the one road that the forest allowed
         *   the cloud pen
-    *   observed by a troll
+    *   realize they're being watched by a troll
         *   Noxy clutches the seashell on her necklace
         *   cautiously back away
         *   "What's a troll doing this close to the village?"
@@ -173,7 +213,10 @@
     *   Conversations at home
         *   Indy has Noxy make tea
         *   Gas shows up first: "We're being overrun! We have to do something!"
-            *   Gas puts something awful in his tea (not... too... serious)
+            *   Gas takes something eye-watering out of his pocket and puts it in his tea (lighten up the story)
+            *   Indy and Noxy groan
+            *   Noxy makes an excuse and escapes upstairs for a moment to get away from the smell
+            *   Brief description of her room - she opens her skylight a bit to let the smell out
         *   Fee shows up next: "They can't stay, daffodil."
             *   Mention Duck Droppings: "What would the other villages think?"
         *   Filler
@@ -184,7 +227,7 @@
             *   Kulbinder is chasing a troll
             *   Leaps for it, is blocked by another
             *   A trio scampers away
-            *   Noxy recognizes the one that blocked Kulbinder from the morning
+            *   Noxy recognizes the one that she saw that morning
         *   Conversation
             *   A troll had been spying on the villagers
             *   Reveal that trolls are chimpanzees
@@ -210,7 +253,9 @@
         *   says she doesn't really want to do it
         *   but makes a point of going past Sensy's house in the hopes of being able to tell her
     *   see Dorbu charming the villagers
-        *   foreshadows Thokmay's own charm campaign later in the chapter
+        *   thanking them for breakfast
+        *   "Been a long time since we had anything better than porridge"
+        *   "Particularly liked the peppers with the eggs"
     *   Thokmay shows up with his mask on
         *   Dorbu tells him to remove it
         *   Kulbinder: "Is the Colonel still resting?"
@@ -218,6 +263,8 @@
         *   Thokmay reluctantly takes off his mask
         *   Noxy wonders if he wears it to hide his scars
         *   Introduces herself
+        *   She asks if he enjoyed his breakfast (awkward attempt to make conversation)
+        *   Thokmay: "Yes." (glance at Dorbu, then repeats) "I particularly liked the peppers."
     *   Noxy, Thokmay, and Kulbinder leave
         *   A few moments later, Kulbinder leaves the children
         *   "I explored overnight.  I want to have a closer look at the forest."
@@ -231,9 +278,9 @@
         *   notices Little Gas feeding one the wrong way
         *   goes in to correct him (shows how she bosses kids around)
         *   a couple of goofs escape as Noxy and Little Gas squabble
-        *   Thokmay whistles at them to call them
+        *   Thokmay goes over to pet them
         *   both immediately round on him, knocking him to the ground
-        *   Noxy: "You never, ever whistle at a goof"
+        *   Noxy: "Don't you know anything? Goofs *hate* peppers."
     *   Then past the tunnel
         *   really just a hollow in the wall, three strides in all directions
         *   bamboo grill on the front so that traders can store things
@@ -414,18 +461,32 @@
         *   "Oh, Gas and I have plans," Fee drawled, making her daughter roll her eyes and her granddaughter feel embarrassed
     *   Dorbu and Kulbinder arrive without Bonzon
         *   the colonel sends his apologies, but is still not well
+        *   Kulbinder: "I hope it's all right that I brought my boy instead - he has enough appetite."
+        *   Kulbinder: "I thought he might keep your daughter company while the adults talk."
+        *   Makes Noxy bristle
         *   banter between Dorbu and Kulbinder reveals real affection
         *   Noxy notices how Indy looks at Dorbu
         *   comment on blue-and-white teapot (Indy's favorite colors)
     *   Dorbu explains why he's a rebel
         *   Kulbinder: "I'm a cat." as if that was all that needed to be said
-    *   Noxy sent outside to get water from the pump for more tea
-        *   takes a piece of dayglass (first use of the material in the story)
+    *   Suggests that Noxy and Thokmay go and get the spare blankets from under Noxy's bed
+        *   Noxy: "I can do it myself"
+        *   Indy: "I'm sure the young soldier wouldn't mind"
+        *   Noxy resents being shuffled off
+        *   The two squabble like sisters sometimes
+    *   Mention Noxy's skylight
+    *   Thokmay notices Noxy's knitted dolls, makes a comment
+        *   Noxy is defensive
+        *   Thokmay shuts down
+    *   the visitors leave
+        *   Noxy makes a sharp remark about Indy's interest in Dorbu
+        *   Indy sends her out to get water from the pump for more tea
+        *   Noxy takes a piece of dayglass (first use of the material in the story)
         *   hears something in the jitty between two houses
         *   tucks the dayglass under her coat and creeps forward
         *   dark enough on the street with the gathering clouds
         *   almost impossible to see anything in the jitty
-    *   she sees someone
+    *   Noxy sees someone
         *   for a moment she things it's a troll because of its size
         *   then a flash of light - it's Thokmay
         *   but what is he doing out?
@@ -493,9 +554,11 @@
     *   patrol returns with rangers
         *   brief description
         *   Noxy wonders if the smaller could have been who she saw the night before
-        *   Aft: "We can put them in the tunnel"
+        *   Aft: "We can put them in one of the goof pen tunnels"
         *   Kulbinder: "I'll have another look in the forest"
-    *   prisoners taken to the tunnel
+    *   prisoners taken to the tunnels
+        *   Indy and Granna Fee exchange a look when they approach the first one
+        *   Granna Fee: "Not that one" (makes excuse that it's too dirty even for prisoners)
         *   Bonzon (looking at the lock): "They'll be through that in a heartbeat"
         *   Aft (eager to please): "We can nail it shut"
         *   ranger tricks Aft into letting him do the nailing
@@ -512,8 +575,10 @@
         *   shows woodcraft skills
         *   Noxy doesn't have (or value) them: she's a cloudherd
         *   Noxy gets the feeling Thokmay is stalling
-        *   she feels the forest pressing on her
-        *   is this what magic feels like? is she losing her mind?
+    *   Noxy has an episode - feels the trees watching and closing in
+        *   Triggers memory of being younger and hiding in the back of an empty tunnel in the wall (without goofs)
+            *   Sharp smell of onions... earthy smell of potatoes and turnips
+            *   Being inside... all that rock above her... she couldn't breathe
     *   Kulbinder joins them
         *   Kulbinder (to Thokmay): "You shouldn't have come. And you shouldn't have brought *her*."
         *   Thokmay: "He could be anywhere."
@@ -617,7 +682,7 @@
         *   Little Gas won't let go of Noxy's hand, and for once she doesn't resent it
     *   Bonzon cuts Indy off: "hear it for yourself"
         *   Choegyal reports: "He was trying to pass a hammer to the prisoner with his food"
-        *   Gas blusters: "Of course it's mind, I was just going to fix up my leg"
+        *   Gas blusters: "Of course it's mine, I was just going to fix up my leg"
         *   Bonzon steps forward and looks at him like a hawk looking at a rabbit: "You're lying"
         *   orders the soldiers to put Gas in with the ranger
     *   Indy steps in the way and loses her temper: "You don't give orders in my village!"
@@ -645,7 +710,7 @@
     *   round the corner and see Aft and a couple of olders next to the goof pen
         *   Grappa Gas (to Aft): "You must be enjoying this."
         *   Aft: "A bit, but not as much as I'm going to enjoy *this*."
-        *   Aft swings open the gate and whistles loud and long
+        *   Aft swings open the gate and throws in a sack full of peppers
         *   the goofs charge, knocking everyone every which way
         *   Aft follows with a bellow, swinging the gate post and knocking the soldiers over
         *   shouts "Go!"
@@ -754,12 +819,21 @@
             *   turns out the whole of Stale counts as a place
             *   but he can't remember that his family is his
             *   just knows something is wrong
-    *   Thokmay replies with some details
-        *   how he got his scars from Kulbinder when he tried to run away
+        *   She explains that he built her skylight so that she wouldn't feel closed in
+            *   She used to lie in bed and listen to her father tell stories, looking at the stars and clouds until she fell asleep
+            *   (laughs) "Sometimes he'd take my dolls and make little plays with them"
+            *   She immediately feels foolish for having admitted that
+    *   Thokmay responds kindly with some details of his own
+        *   says that Noxy's little knitted dolls remind him of his sister's
+        *   "She's... special.  Hers help her calm down."
+        *   goes on to explain how he got his scars from Kulbinder when he tried to run away
         *   Noxy: "What will your father say?"
         *   Thokmay (showing some bitterness): "He'll say it was my fault for getting caught."
-    *   Thokmay goes to sleep
-        *   closes by saying it feels good to take his mask off
+    *   They sit in silence for a moment, each feeling an "I can't believe I just did that" rush
+        *   Noxy realizes that she's never explained these things before
+        *   Doesn't know whether it's because she knows everyone in Stale, or because of the circumstances
+        *   Thokmay closes by saying it feels good to take his mask off
+        *   he goes to sleep
     *   Noxy goes outside
         *   fresh dusting of snow on the rocks
     *   Redclaw (Gifted owl) is there talking to her father about the trolls

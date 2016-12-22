@@ -4,6 +4,7 @@ NEEDED
 
 *   Why is Aft helping?
 *   Make Sensy a boy
+*   Dorbu is religious
 
 ## Chapter 1. Soldiers!
 
@@ -828,6 +829,8 @@ NEEDED
             *   (laughs) "Sometimes he'd take my dolls and make little plays with them"
             *   She immediately feels foolish for having admitted that
     *   Thokmay responds kindly with some details of his own
+        *   he became a spy to please his father, and to show that he's ready to be king
+        *   Thokmay: "It's all I've ever wanted"
         *   says that Noxy's little knitted dolls remind him of his sister's
         *   "She's... special.  Hers help her calm down."
         *   explains that he got his scars from Kulbinder when he tried to run away
@@ -977,14 +980,28 @@ NEEDED
     *   Noxy goes in
         *   conversation with the old woman
         *   the offer: she can be powerful, but only in the service of the forest
-        *   doesn't have to decide right away: if the forest is anything, it's patient
-        *   she declines
-        *   forest says it's disappointed
-        *   sends her back to her friends
-    *   Noxy wakes up on the ground (again - "this is getting tiresome")
+            *   Noxy: "What happens to me?"
+            *   forest: "What happens to a snowflake when it falls on a snowbank?"
+        *   Noxy doesn't want to
+            *   forest (gently): "But you need my help to save your village"
+            *   Noxy sees through the eyes of creatures lurking in the trees near Stale
+            *   children have been rounded up
+            *   her mother is imprisoned with Granna Fee
+            *   Choegyal is having a muttered argument with Dorbu
+            *   Choegyal: "Respected, you are the best sergeant I've ever served, but if I ever hear you talking like that again, I'm taking it to the colonel"
+        *   Noxy: "Why won't you just help?"
+            *   forest: "Magic needs to be paid for"
+    *   forest sends her back to her friends
+        *   Noxy wakes up on the ground (again - "this is getting tiresome")
         *   she has been unconscious for almost a full day
         *   "forests don't think quickly"
-    *   she suddenly realizes that the village's herd will be returning soon
+        *   the others have mind-heard bits and pieces
+            *   Thokmay is awed
+            *   Noxy thinks it's because of the forest
+            *   he's actually in awe of her
+            *   Noxy: "So you know...?"
+            *   Thokmay nods - he and the others understand what the forest is asking her to give up
+    *   Noxy realizes that the village's herd will be returning soon
         *   they only have a day left to stop Bonzon
         *   and no cloud to get home on
 
@@ -1005,7 +1022,9 @@ NEEDED
         *   continues: "You may not remember it, but she's your daughter.  They're your family."
         *   "And even if they weren't, what do you think is going to happen if the rebel army - *any* army - gets away with this?"
         *   Kulbinder: "And I suppose you have a plan?"
-        *   Thokmay looks up at the sullen cloud in the distance: "I do." (looks at Noxy) "But you're not going to like it."
+        *   Thokmay: "Not yet"
+        *   Kulbinder (growling): "Well, do you at least have a plan for getting us back to the fortress?"
+        *   Noxy looks up at the sullen cloud in the distance, thinks about what the forest said: "I do."
     *   the trolls carry them up the cliff
         *   because hiking up would take too long
         *   passed from troll to troll along the way to keep up speed
@@ -1022,6 +1041,18 @@ NEEDED
             *   Thokmay: "I had a good teacher"
     *   she calls it
         *   it comes, but is angry and is going to attack them
+
+## Chapter 16: Ride the Lightning
+
+*   goals    
+    *   rousing climax (nothing wrong with a bit of melodrama)
+    *   people make sacrifices
+        *   Ulfmaerr: the knitted doll that he made for Noxy
+        *   Noxy: plans to sacrifice herself to the forest for power
+        *   Thokmay: sacrifices kingship
+        *   Dorbu dies defending the revolution
+*   details
+    *   the cloud shoots lightning at the cliff below them
         *   Ulfmaerr puts his hand on her shoulder - his strength flows into her
         *   the cloud calms down and obeys her
         *   Noxy (angry): "What did you do?  What did you trade?"
@@ -1032,17 +1063,47 @@ NEEDED
     *   they board the cloud
         *   takes Noxy a minute to calm it down
             *   she decides to call him Charger
-        *   Noxy (takes a deep breath): "Let's do this."
-            *   Kulbinder (unexpectedly): "You don't have to."
-            *   Noxy (stroking cloud, treasuring the feeling of mind-speaking): "Someone does."
-
-## Chapter 16: Ride the Lightning
-
-*   goals    
-    *   rousing climax
-    *   people make sacrifices
-*   details
-    *   FIXME
+    *   Noxy (takes a deep breath): "All right, it's time."
+        *   Thokmay: "You don't have to do this."
+        *   Noxy (looking at her father, who is sitting with his legs dangling over the edge of the cloud, staring sadly into the distance): "Someone does."
+    *   closes her eyes and opens her mind to the forest
+        *   can feel the others on the cloud
+        *   the forest is there
+        *   Thokmay takes her hand
+            *   Noxy realizes everyone on the cloud can mind-hear the forest
+        *   Noxy: "I'm ready"
+            *   Thokmay: "No!"
+            *   offers the forest his claim to the kingship instead
+        *   long pause, then the forest agrees
+        *   Kulbinder (angry): "Why?"
+        *   Thokmay: "I guess I've spent too much time listening to Sergeant Dorbu"
+    *   back at Stale
+        *   bring Charger into the cloud pen
+            *   archers on the ridge
+            *   other clouds back away
+            *   Noxy lets him go - he doesn't want to be in the cloud pen any more than she wants to be underground
+    *   Dorbu is waiting
+        *   Thokmay: "I was hoping the colonel would be here"
+        *   Dorbu: "He thought this might be a trap"
+        *   orders two soldiers to stay at the cloud pen with Ulfmaerr
+        *   talk on the walk back to Stale
+        *   Noxy can barely contain her anger and disappointment
+            *   mentions some of the things she saw through the forest's eyes
+            *   Dorbu assumes she has spies
+            *   he's genuinely pained when she asks, "Is this your revolution? Children held hostage?"
+        *   she notices rustling in the forest, but doesn't look (doesn't want to alert Dorbu)
+    *   Bonzon waiting at the gates
+        *   he monologues briefly for the benefit of his troops
+        *   Thokmay doesn't shout "now!" - just closes his eyes
+    *   forest attacks
+        *   bear charges
+        *   trolls swarm the walls
+    *   Bonzon is attacked
+    *   Dorbu is wounded defending him
+        *   Thokmay (distraught): "He wasn't worth it!"
+        *   Dorbu (dying): "No he wasn't.  But what we're fighting for is."
+    *   fight is over quickly
+        *   Bonzon is taken prisoner
 
 ## Chapter 17: The Beginning
 
@@ -1051,7 +1112,9 @@ NEEDED
     *   set up the next book
 *   details
     *   Noxy wishes she could believe it had all been a dream
-        *   but the faint smell of scorched stone and the ache in her muscles won't let her pretend
+        *   but the ache in her muscles won't let her pretend
+        *   lies there for a moment thinking about a world where Dorbu is dead and Bonzon is alive
+        *   then about one where all the village children are free and Bonzon is in prison
     *   walks through town to check in on Kulbinder and Thokmay
         *   sees Choegyal in the door of the traders' hall, but doesn't acknowledge him
     *   Kulbinder is sleeping, but healing

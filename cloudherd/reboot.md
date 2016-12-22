@@ -443,7 +443,7 @@ NEEDED
         *   Noxy: "I can do it myself"
         *   Indy: "I'm sure the young soldier wouldn't mind"
         *   Noxy resents being shuffled off
-        *   The two squabble like sisters sometimes
+        *   Noxy and Indy two squabble like sisters sometimes
     *   Mention Noxy's skylight
     *   Thokmay notices Noxy's knitted dolls, makes a comment
         *   Noxy is defensive
@@ -730,6 +730,7 @@ NEEDED
         *   Noxy's claustrophobia
         *   argument with Thokmay
         *   not a cave-in, but the support post breaks
+            *   make a joke of it: "Tunnels always cave in just when people are going through them!"
             *   heart-stopping moment
         *   wading through the freezing thigh-deep water is the scariest thing Noxy has ever had to do
     *   go to the winter hut
@@ -1027,18 +1028,19 @@ NEEDED
         *   Ulfmaerr hands her a knitted doll
             *   "I've been carrying this around forever... is it yours?"
             *   Noxy (heart in throat): "You should keep it"
-            *   Ulfmaerr (reaches, then lowers his hand): "I can't"
+            *   Ulfmaerr (pushing it on her): "I can't."
     *   they board the cloud
         *   takes Noxy a minute to calm it down
             *   she decides to call him Charger
         *   Noxy (takes a deep breath): "Let's do this."
             *   Kulbinder (unexpectedly): "You don't have to."
-            *   Noxy (stroking cloud, treasuring the feeling of mind-speaking): "Someone has to."
+            *   Noxy (stroking cloud, treasuring the feeling of mind-speaking): "Someone does."
 
 ## Chapter 16: Ride the Lightning
 
 *   goals    
-    *   Noxy has decided to trade her power
+    *   rousing climax
+    *   people make sacrifices
 *   details
     *   FIXME
 
@@ -1048,7 +1050,30 @@ NEEDED
     *   epilogue
     *   set up the next book
 *   details
-    *   FIXME
+    *   Noxy wishes she could believe it had all been a dream
+        *   but the faint smell of scorched stone and the ache in her muscles won't let her pretend
+    *   walks through town to check in on Kulbinder and Thokmay
+        *   sees Choegyal in the door of the traders' hall, but doesn't acknowledge him
+    *   Kulbinder is sleeping, but healing
+        *   she talks to Thokmay
+        *   Ulfmaerr has gone
+        *   Thokmay is sorry - he wanted to say goodbye
+        *   brings home to Noxy that it's over
+    *   Noxy: "Have you thought about what you're going to tell your father?"
+        *   Thokmay: "The truth, I suppose - some good men died."
+        *   Noxy: "Not what I meant."
+    *   Thokmay asks if Noxy has told anyone about her power or the forest's offer
+        *   Noxy: "No. I think Granna Fee, but not all of it."
+    *   Silence for a moment, then Thokmay tentatively asks if she'd like to learn how to juggle
+        *   Noxy squeezes his hand: "Sure"
+        *   they go downstairs
+    *   end with two paragraphs in present tense italics, like the opening
+        *   "Look there, in the north, where the Brumoso Mountains rise..."
+        *   just over the horizon, not yet seen, a herd of clouds is on its way home
+        *   there, behind old stone walls, a boy and a girl are playing together
+        *   they are not children any longer, not really, and they have been hurt, but they will heal
+        *   their world has changed forever, but everyone's does, every day - all any of us can do is ride out our storms and look for clear skies beyond
+        *   and one day - ah, but that is a story for another time
 
 ------------------------------------------------------------
 

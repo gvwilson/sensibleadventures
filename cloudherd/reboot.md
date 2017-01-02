@@ -2,9 +2,19 @@
 
 NEEDED
 
-*   Why is Aft helping?
-*   Make Sensy a boy
+*   Add Tasteless!
+*   Sensy is a boy
 *   Dorbu is religious
+*   add little observations about the people and setting
+*   give directions shipwise, not compass-wise
+*   lots more animals in the village (chickens, etc.) but none Gifted
+    *   casual prejudice against Gifted (Rash says something)
+*   "People follow Shudarga because they love her. They obey Bonzon because they're afraid not to."
+*   "As dead as a dog".
+*   Grappa Gas's wooden leg sprouts new buds in the spring
+*   figure out how to work in kites again - they were fun
+*   need a cloud fight
+*   reintroduce Tasteless (he's with the soldiers when they're rescued)
 
 ## Chapter 1. Soldiers!
 
@@ -43,8 +53,10 @@ NEEDED
         *   "What's a troll doing this close to the village?"
     *   arrive to find soldiers who have obviously been through hell
     *   Rash is there: boy-girl teasing with Sensy (Noxy doesn't catch the undercurrent)
-    *   Indy gets up to introduce Dorbu: we discover that Noxy is the mayor's daughter
+    *   Indy gets up to introduce Dorbu
+        *   we discover that Noxy is the mayor's daughter
     *   Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
+        *   Rash: "Is your mother going to let him sleep in the village?"
     *   Dorbu explains that his troop was ambushed
         *   His men are rangers
         *   Part of the team representing the rebellion in Chaghan
@@ -69,7 +81,9 @@ NEEDED
     *   get Bonzon into the picture
     *   show that the forest controls animals (attack on soldiers)
 *   details
-    *   Gas and Aft start arguing again ("What will the *tralpa* say?")
+    *   Gas and Aft start arguing again
+        *   Gas: "What will the *tralpa* say?"
+        *   Aft: "Who cares?"
         *   foreshadows the cause of the rebellion
     *   Indy squashes it again
         *   Challenging Gas and others: "We don't take sides, but we don't leave people to die either"
@@ -202,8 +216,9 @@ NEEDED
             *   A troll had been spying on the villagers
             *   Reveal that trolls are chimpanzees
             *   Grappa Gas: "What's a troll doing this close to the village?"
+            *   Indy: "On their own or at the forest's orders?"
             *   Reveal that the village has a deal with the trolls
-            *   Thokmay comes panting up
+            *   Thokmay comes panting up - chased the trolls but lost them
             *   Indy: "Perhaps tomorrow my daughter can show you two around"
 
 ## Chapter 4. The Tiger's Boy
@@ -211,7 +226,7 @@ NEEDED
 *   goals    
     *   get Thokmay into the picture
         *   Thokmay is reserved and watchful
-            *   raise questions in the reader's mind about him
+        *   raise questions in the reader's mind about him
     *   Noxy suddenly feels teenage insecurity
         *   Noxy's assumption of social dominance is challenged by Thokmay's self-assurance
         *   She mind-speaks with clouds from a distance again
@@ -224,12 +239,11 @@ NEEDED
         *   but makes a point of going past Sensy's house in the hopes of being able to tell her
     *   see Dorbu charming the villagers
         *   thanking them for breakfast
-        *   "Been a long time since we had anything better than porridge"
         *   "Particularly liked the peppers with the eggs"
     *   Thokmay shows up with his mask on
         *   Dorbu tells him to remove it
-        *   Kulbinder: "Is the Colonel still resting?"
-        *   Dorbu blinks at the apparent non sequitur: "Yes"
+        *   Kulbinder: "My orders"
+        *   Dorbu: "At least be polite"
         *   Thokmay reluctantly takes off his mask
         *   Noxy wonders if he wears it to hide his scars
         *   Introduces herself
@@ -241,7 +255,11 @@ NEEDED
         *   Noxy thinks, "Great, now I'm stuck talking to a fencepost."
     *   Noxy covers her discomfort by talking too much
         *   Thokmay's noncommittal replies annoy her
-        *   He never actually says anything disparaging: she reads that into his words
+        *   he never actually says anything disparaging: she reads that into his words
+        *   Noxy: "How long have you had Kulbinder?"
+        *   Thokmay: "He's not mine - I'm his"
+        *   Noxy asks about his scars
+        *   Thokmay says he got them for trying to desert
     *   walk past the goof pen
         *   awnings above the entrances to shelter their feed troughs
         *   dozens of fleecy waist-high idiots being tended by Little Gas and other small children
@@ -295,7 +313,6 @@ NEEDED
 
 *   goals    
     *   Thokmay's fall into the pond is a burst of adrenaline after the slowness of the previous chapter
-        *   which should be fixed...
     *   Noxy can't fool herself any longer about her abilities
     *   backstory about her father
     *   another clue that Thokmay is more than he seems
@@ -361,7 +378,7 @@ NEEDED
             *   Grappa Gas nods and turns the cloud back toward the pen
         *   Everyone starts walking back to the village
             *   Indy, Aft, and Granna Fee meet them part-way
-            *   As soon as Aft hears that Thokmay fell in, he loses his temper
+            *   As soon as Aft hears that Thokmay fell in, he loses his temper at Gas
             *   The soldiers head back to strip and sauna
             *   Corporal Choegyal (still shivering): "We'd been meaning to try out your sauna..."
             *   Indy: "If you weren't freezing, I'd ask you what you were doing when we agreed there'd be no patrols."
@@ -385,11 +402,16 @@ NEEDED
             *   Fee: "Your father said he could only make one."
             *   Noxy: "What did he trade?"
             *   Fee (shaking head): "He didn't say.  It's not the sort of thing you ask a magician."
-            *   She tells the story of how Ulfmaerr discovered he had magic
+        *   She tells the story of how Ulfmaerr discovered he had magic
             *   Bargained with a passing whale by accident
             *   Noxy (hesitantly): "Do you think I might be a magician some day?"
             *   Granna Fee (starts to smile, then realizes Noxy is serious): "Maybe.  But nobody and nothing can *make* you a magician.  You have to choose."
-        *   Idle chatter, then Noxy heads home
+        *   Idle chatter
+            *   Noxy (bursts out): "I'm sorry" (she feels guilty about dumping Thokmay)
+            *   Granna Fee: "For not liking the boy?" (mis-reading)
+            *   Noxy (hastily): "Yes"
+            *   Granna Fee (shrewdly): "Well then I'm not the one you should apologize to"
+            *   Noxy heads home
 
 ## Chapter 6. The Gathering Storm
 
@@ -413,7 +435,7 @@ NEEDED
         *   clothes, especially rain gear
         *   eyeing the peaks as wild clouds gather
         *   Granna Fee: "the last thing we need is a storm"
-        *   Indy: "bound to happen this time of year"
+        *   Indy: it's the forest reminding them all that it doesn't like strangers
     *   Noxy sent to invite Bonzon, Dorbu, and Kulbinder to dinner
         *   Noxy: "the tiger too?"
         *   discover that the villagers are all vegetarians
@@ -439,7 +461,12 @@ NEEDED
         *   Noxy notices how Indy looks at Dorbu
         *   comment on blue-and-white teapot (Indy's favorite colors)
     *   Dorbu explains why he's a rebel
-        *   Kulbinder: "I'm a cat." as if that was all that needed to be said
+        *   his family lost their farm because they couldn't afford to rent the law that would have saved it
+        *   Dorbu joined the rebellion to stop that happening to other people
+        *   Indy is pessimistic: people with power will always find a way to use it unfairly
+        *   Indy: "Is it worth killing for?"
+        *   Dorbu (steadily): "I believe it's worthy my life.  And if it's worth mine, it's worth others."
+        *   Kulbinder: "I'm a cat" as if that was all that needed to be said
     *   Suggests that Noxy and Thokmay go and get the spare blankets from under Noxy's bed
         *   Noxy: "I can do it myself"
         *   Indy: "I'm sure the young soldier wouldn't mind"
@@ -603,7 +630,9 @@ NEEDED
         *   Sensy: "I want to go home"
         *   Rash: "I'll walk with you"
         *   Noxy offers to come, then suddenly realizes they want to go as a pair
-        *   stays on the wall feeling very alone
+        *   suddenly realizes she's been forcing herself on them
+        *   she can keep doing that or let them become what they're becoming
+    *   Noxy stays on the wall feeling very alone
         *   sees Granna Fee in the distance taking Pillow out for a rain
         *   waves, and Granna Fee waves back
         *   makes her feel even more alone
@@ -642,7 +671,7 @@ NEEDED
 
 ## Chapter 9: Secret Identity
 
-*   goals    
+*   goals
     *   Noxy creeping around ramps up the tension now that Bonzon is revealed as the villain
     *   set up the trio's escape
     *   see that Aft and Grappa Gas actually care for each other even though they fight
@@ -665,21 +694,27 @@ NEEDED
     *   Noxy (bursts out): "But grappa isn't the only one you're going to lock up, is he?"
         *   Indy: "What are you talking about?"
         *   Noxy (shaking): "Ask him about the children.  About how he wants to use the clouds."
-        *   Bonzon steps toward her
-        *   Villagers move to intervene
-        *   Suddenly swords are out and Noxy is frightened
+        *   Indy: "What do you mean?"
+        *   Dorbu: "We can end this!"
+        *   Indy (aghast): "But without rain, people will starve!"
+        *   Dorbu: "People are starving right now"
+    *   Bonzon intervenes: "Enough of this!"
+        *   villagers move to intervene
+        *   suddenly swords are out and Noxy is frightened
         *   Bonzon (quietly): "Explain yourself and this can end peacefully."
         *   Noxy: "I... I overheard you talking to---"
         *   Bonzon (still quietly): "No you didn't."
     *   orders Noxy taken to the traders' hall for questioning
         *   Indy: "Over my dead body!"
         *   Bonzon: "This is where the villain says, if you insist.  But this isn't a story, and I'm not a villain."
-        *   Orders Indy taken as well.
+        *   orders Indy taken as well
     *   Dorbu walks Grappa Gas, Indy, and Noxy toward the traders' hall with a handful of soldiers as guards
         *   Noxy's mind racing
         *   Indy (to Dorbu): "I *trusted* you."
         *   Dorbu (anguished): "I'm sorry.  Everything just... got away from us."
         *   Grappa Gas (bitter): "You betrayed the king.  Should have known you'd betray us too."
+        *   Dorbu apologizes again
+        *   Indy cuts him off: "I am *tired* of men doing things on principle that hurt other people."
     *   round the corner and see Aft and a couple of olders next to the goof pen
         *   Grappa Gas (to Aft): "You must be enjoying this."
         *   Aft: "A bit, but not as much as I'm going to enjoy *this*."
@@ -721,7 +756,10 @@ NEEDED
 ## Chapter 10: Overnight
 
 *   goals
-    *   FIXME
+    *   explain how a prince wound up as a tiger's boy
+    *   start to round out Thokmay's character
+    *   start to bring Noxy and Thokmay together
+    *   establish Bonzon as the villain
 *   details
     *   Noxy scatters the peppers to enrage the goofs
         *   goes to the tunnel in the back of the goof pen
@@ -741,24 +779,26 @@ NEEDED
         *   "Can't see it, but I can smell it"
     *   they spend the night together in the hut
         *   Thokmay has hidden a cache of gear near it
-        *   worrying about trolls
+        *   they worry about trolls
         *   talk a little
         *   don't become friends, but the conversation makes Noxy uncomfortable about disliking him
     *   Noxy decides to steal a cloud and go to Duck Droppings for help
-        *   argument about going directly to the Fifth
+        *   argues with Kulbinder, who wants to go directly to the Fifth
+            *   Thokmay stays silent
+            *   he's not keen on rejoining the army
         *   Noxy (angrily): "Do you know how to herd clouds? Then be my guest!"
         *   the tentative overnight reconciliation evaporates
     *   Bonzon is waiting for them on the platform
         *   Big Blue is missing
-        *   has Grappa Gas as hostages
+        *   has Grappa Gas with him as a hostage
             *   didn't know where Noxy would go
             *   "Dorbu and Choegyal have your mother and Respected Fee elsewhere"
             *   "Surrender or they'll pay the price!"
             *   Noxy: "Like the littles will pay if we don't do what you want?"
             *   Thokmay: "Like the people pay when they don't do what nobles want?"
         *   shot hits home - Bonzon is angry
-            *   tell them Aft has taken Big Blue to Duck Droppins with soldiers already
-        *   Grappa Gas opens his mouth to yell
+            *   tell them Aft has taken Big Blue to Duck Droppings with soldiers already
+        *   Grappa Gas charges Bonzon and shoulder-butts him
             *   Bonzon's sword comes down
             *   Grappa Gas falls
             *   Noxy hesitates
@@ -768,7 +808,6 @@ NEEDED
 ## Chapter 11: Flight
 
 *   goals    
-    *   explain Thokmay being a prince
     *   passing by a storm (foreshadow its use in later chapter)
     *   encounter with trolls turns into meeting with Ulfmaerr
 *   details
@@ -776,9 +815,11 @@ NEEDED
         *   just barely thickens up enough to catch them
     *   Kulbinder has an arrow in his flank
         *   Noxy doesn't realize how bad it is at first
-        *   Pillow is upset about Kulbinder's wound
-        *   Noxy realizes just how bad it is
+        *   Pillow's upset about Kulbinder's wound makes her realize
         *   Kulbinder: "That doesn't matter.  Keep him safe..."
+    *   have to get it out and bind the wound
+        *   show Thokmay's gentleness and skill - he wanted to be a doctress
+        *   Noxy: "Who ever heard of a man being a doctress?"
     *   see a storm up ahead
         *   Thokmay: "Is that the village's herd?"
         *   Noxy: "No, those are wild clouds."
@@ -915,16 +956,15 @@ NEEDED
         *   Pillow is exhaused
         *   Noxy starts to command, pauses, lets her own strength flow into the cloud
         *   they accelerate away
-        *   Ulfmaerr looks at her: "That was brave"
-        *   Noxy doesn't understand until she realizes that her little finger is numb
+        *   Ulfmaerr looks at her: "That was reckless"
+        *   Noxy doesn't understand until she realizes that she can't see colors with one eye
         *   pokes it experimentally: it bends, but she can't feel it any more
         *   magic has a price
     *   cloud chase
-        *   Big Blue gets closer
-            *   close enough to see Dorbu on cloudback with archers
-            *   and for Aft to yell "Come back!"
-            *   Noxy: "Traitor!"
-            *   Dorbu: "Please!  Noxy... Kulbinder... we don't want to hurt anyone!"
+        *   Big Blue gets close enough to see Dorbu on cloudback with archers
+        *   and for Aft to yell "Come back!"
+        *   Noxy: "Traitor!"
+        *   Dorbu: "Please!  Noxy... Kulbinder... we don't want to hurt anyone!"
     *   Noxy makes a cloud wall, but it only conceals them
         *   Pillow is getting more tired by the minute flying upwind
         *   Aft: "Don't make us do this the hard way!"
@@ -987,10 +1027,11 @@ NEEDED
             *   Noxy sees through the eyes of creatures lurking in the trees near Stale
             *   children have been rounded up
             *   her mother is imprisoned with Granna Fee
-            *   Choegyal is having a muttered argument with Dorbu
+            *   Choegyal is having a muttered argument with Dorbu about letting her go
             *   Choegyal: "Respected, you are the best sergeant I've ever served, but if I ever hear you talking like that again, I'm taking it to the colonel"
         *   Noxy: "Why won't you just help?"
-            *   forest: "Magic needs to be paid for"
+            *   forest: "All this will pass"
+            *   get a sense of how old the forest really is
     *   forest sends her back to her friends
         *   Noxy wakes up on the ground (again - "this is getting tiresome")
         *   she has been unconscious for almost a full day
@@ -1015,6 +1056,9 @@ NEEDED
         *   Kulbinder wants to sneak through the forest to get back to the Fifth
         *   Ulfmaerr wants to go back to his knitting
         *   Noxy wants to save Stale, but doesn't know how
+        *   Noxy: "Have to do it before the adults bring the herd back because they'll just give in"
+        *   Kulbinder: "Do you really think that's the right thing to do?"
+        *   Noxy (snaps): "If I *knew* what the right thing to do was, I'd do it!"
     *   Thokmay interrupts Kulbinder as he's poking holes in Noxy's plan: "We're going back to Stale"
         *   Kulbinder starts to speak
         *   Thokmay cuts him off: "That isn't a request"
@@ -1062,7 +1106,7 @@ NEEDED
             *   Ulfmaerr (pushing it on her): "I can't."
     *   they board the cloud
         *   takes Noxy a minute to calm it down
-            *   she decides to call him Charger
+        *   she decides to call him Charger
     *   Noxy (takes a deep breath): "All right, it's time."
         *   Thokmay: "You don't have to do this."
         *   Noxy (looking at her father, who is sitting with his legs dangling over the edge of the cloud, staring sadly into the distance): "Someone does."
@@ -1098,12 +1142,12 @@ NEEDED
     *   forest attacks
         *   bear charges
         *   trolls swarm the walls
-    *   Bonzon is attacked
-    *   Dorbu is wounded defending him
+    *   Bonzon is driven up onto the wall
+        *   Charger senses Noxy's hatred and shoots lightning at him
+        *   Dorbu knocks him out of the way and is struck
         *   Thokmay (distraught): "He wasn't worth it!"
         *   Dorbu (dying): "No he wasn't.  But what we're fighting for is."
-    *   fight is over quickly
-        *   Bonzon is taken prisoner
+    *   Bonzon is taken prisoner and the fighting quickly ends
 
 ## Chapter 17: The Beginning
 
@@ -1117,9 +1161,13 @@ NEEDED
         *   then about one where all the village children are free and Bonzon is in prison
     *   walks through town to check in on Kulbinder and Thokmay
         *   sees Choegyal in the door of the traders' hall, but doesn't acknowledge him
+    *   Ulfmaerr has his pack on and is ready to leave
+        *   Indy is keeping up a brave face, but uses Noxy's arrival as an excuse to go (wiping a tear)
+        *   Noxy hugs Ulfmaerr impulsively
+            *   he's surprised and says, "I don't know what I've done to deserve this"
+            *   Noxy whispers, "But I do"
     *   Kulbinder is sleeping, but healing
         *   she talks to Thokmay
-        *   Ulfmaerr has gone
         *   Thokmay is sorry - he wanted to say goodbye
         *   brings home to Noxy that it's over
     *   Noxy: "Have you thought about what you're going to tell your father?"
@@ -1131,488 +1179,66 @@ NEEDED
         *   Noxy squeezes his hand: "Sure"
         *   they go downstairs
     *   end with two paragraphs in present tense italics, like the opening
-        *   "Look there, in the north, where the Brumoso Mountains rise..."
+        *   "Look there, in the bow, where the Brumoso Mountains rise..."
         *   just over the horizon, not yet seen, a herd of clouds is on its way home
         *   there, behind old stone walls, a boy and a girl are playing together
         *   they are not children any longer, not really, and they have been hurt, but they will heal
         *   their world has changed forever, but everyone's does, every day - all any of us can do is ride out our storms and look for clear skies beyond
         *   and one day - ah, but that is a story for another time
 
-------------------------------------------------------------
-
-To Do:
-
-*   **have them circle back to the village right after fleeing and see stuff that shows how bad Bonzon is and the situation Aft is in**
-
-*   show Kulbinder encouraging Thokmay in early chapters so that his encouragement of Noxy will make sense
-*   show Noxy's collection of knitted dolls (made by her father)
-    *   makes sense if we see Grappa Gas and Aft knitting (it's man's work)
-*   need more flashbacks and fill-ins before the last two chapters (so the ones there don't come as a surprise)
-*   have to solve it *before* the adults get back, because they'll give in
-
-*   What's the point of this story?
-    *   It's an adventure
-    *   It introduces a new world for more stories
-    *   Its heroine is someone Maddie can relate to
-    *   So it has to be fun to read (like the books she's reading now)
-    *   NOT TOO SERIOUS
-    *   Characters need to be slight exaggerations/caricatures (except for Noxy and Thokmay)
-
-*   Ulfmaerr makes a sacrifice for the village
-*   Noxy realizes that if she throws away her power, she loses the power to fix what's broken in the world
-    *   "Great power brings with it a great obligation."
-
-*   Make Bonzon the villain
-    *   He gave away self-doubt for magic
-
-*   Thokmay's mask is a metaphor
-
-*   get rid of Snakes and Whistles
-
-*   Theme: choices
-    *   Ulfmaerr chose to make a bargain with the forest in order to save the village
-        *   Noxy has hated him for it for years, but finally accepts it
-        *   Hugs him: he's surprised and says, "I don't know what I've done to deserve this," and she whispers, "But I do."
-        *   Ulfmaerr has joined the forest
-            * magic comes from making deals with magical things like the forest or the dragon
-            * he made a deal to save the village from the scribbles
-            * Noxy: "He still wears clothes and cooks his food - at least, he did the last time anyone saw him - but he's wilder every year."
-    *   Noxy has to choose whether or not to make a bargain with the forest as well
-        *   She's shocked and frightened when she realizes she can mind-speak to clouds from a distance
-        *   Reader doesn't initially understand her fear
-        *   Then she talks to Granna Fee about what's happening, and we see Granna is frightened as well
-        *   Fee: "Can't tell your mother - she couldn't bear to lose you to the forest too"
-        *   Noxy: "But is that what it is?"
-        *   Fee (darkly): "Let's not take a chance"
-        *   So Noxy tries to hold off using her power until they escape
-        *   Noxy also has to choose whether or not to let Rash and Sensy be together and still be their friend
-            * this one is aimed straight at Maddie...
-    *   Dorbu has to choose whether or not to go along with Bonzon
-        *   He believes in Shudarga's cause
-        *   Early on, he has a discussion in Indy's kitchen while Noxy listens from upstairs
-            * Indy: "Is it worth killing for?"
-            * Dorbu (steadily): "I believe it's worthy my life.  And if it's worth mine, it's worth others."
-        *   Later, after Bonzon locks down the village, he tries to talk to Indy again, but she pushes him away
-            * "Are you saying this because you believe it or because you want me to like you?  Because if you want me to like you, *do* something."
-            * Noxy comes down and hugs her mother, who cries because she likes Dorbu and doesn't want to get hurt again by someone doing things for principle
-
-*   Rash wasn't hurt: Aft was
-    *   Don't mention a child
-
-*   Without Shudarga, what finally gives Thokmay away?
-
-*   Get rid of Tasteless entirely: Bonzon is one of the wounded
-    *   Bonzon is a magician: traded caring about right and wrong for a spell long ago
-        *   Whispered: "someone said he traded with the dragon" (equivalent of dark magic)
-        *   He chooses to do whatever is necessary, and thinks that people who won't are hypocrites
-    *   Bonzon is unconscious when the soldiers are rescued
-        *   wakes up and heals himself
-        *   a common battle magic
-        *   the price is ever feeling at peace
-        *   even Sensy knows that one
-    *   Uses the capture of the two royalist rangers as an excuse to lock down the village
-        *   Use it as a fortress to block the pass to Chaghan so that the royalists can't be reinforced
-            * Implies that the rebellion is going well enough to frighten other kingdoms
-            * Bonzon never believed they'd win: have to play a long game
-        *   There's no way to get to Stale in numbers except by cloudback
-            * The rescue wasn't a planned attack, but Bonzon would be a fool not to take advantage of it
-            * Indy: "You mean of *us*."
-            * Indy: "As soon as the pass opens, the king will send an army after you!"
-            * Shudarga (calmly): "Yes - and as soon as he does that, you will flood the pass and drown them."
-
-*   cut Dragger out of this entirely
-    *   trolls show up and threaten the trio when they're at Ulfmaerr's cabin
-    *   just as they decide to make a dash for the cloud, the trolls disappear (ordered away by Ulfmaerr)
-    *   get rid of Redclaw unless she can bring news of Stale (!)
-*   Ulfmaerr says he can't help
-    *   when Noxy protests, he clarifies: he can't, but the forest might if someone can strike a bargain
-    *   so they have to go into the deep forest
-
-*   The trio brings Dorbu along as a prisoner
-    *   Grabs Noxy as the trio are making their escape
-    *   Knocked over the side onto the cloud by Kulbinder
-    *   Thokmay holds a sword at his throat until he surrenders
-        *   Dorbu: "I don't believe you'll do that"
-        *   Thokmay: "I didn't believe you would use children as weapons"
-
-*   Ulfmaerr can't help, but the forest can
-    *   Ulfmaerr can make introductions
-    *   He doesn't ever speak directly to Noxy
-        *   Thokmay: "Why is he mad at you?"
-        *   Noxy (bitterly): "He's not.  It's a spell price."
-        *   Thokmay: "Then why are you mad at him?"
-        *   Noxy blows up, and we see how much her father's choice hurt her
-
-*   How does it end?
-    *   Conversation with the forest
-        *   Get rid of Linger and Dragger, just speak directly with the trees
-        *   Keep the cozy house scene
-        *   Noxy is offered a choice, but it's not complete or irrevocable
-        *   she has to take every step, and can stop whenever she wants
-        *   Noxy: "Just like my father stopped?"
-        *   Forest (calmly): "The one thing no one can ever trade away is choice."
-        *   Noxy: "So what do I have to trade away to get your help?"
-        *   Forest: "Being able to shut me out."
-    *   Before Noxy can do it, she's shaken awake: another cloud has found them
-        *   It's Bonzon and some archers on Big Blue, steered by Aft
-        *   He berates Noxy and pleads with her to come back
-            * Grappa Gas was hurt during her escape
-            * Aft is angry and frightened
-        *   The two clouds butt up against each other
-        *   Dorbu charges across and takes Bonzon with him over the side
-            * As the two clouds are getting closer he makes a quiet speech
-            * "Please tell your mother I'm not doing this for her.  I'm doing it to save the revolution."
-
-*   Say somewhere that doing the right thing is a lot harder when you don't know what it is
-
-*   Leave Shudarga out of this: it's Colonel Bonzon who arrives
-    *   "People follow Shudarga because they love her. They obey Bonzon because they're afraid not to."
-
-*   skip the lightnings: it's the forest that helps (reduce the number of variables)
-
-*   make it really clear that Grappa Gas is a royalist and Aft is a rebel sympathizer
-*   Princess Shudarga isn't a princess: call her Honored Shudarga
-*   What sways the initial argument is the "no one left behind" argument
-    *   Which turns out to be what Tasteless did
-*   Tasteless has been shunned by his village for leaving someone behind
-    *   Include a scene where he tries to talk to Noxy - he's lonely - but even she knows to ignore him.
-*   Shudarga was apprenticed to a family of booksters who defended the poor.
-    *   This is how we introduce the idea of royalty apprenticing in secret.
-*   Get rid of the old lady of the forest.
-    *   Noxy talks directly to Linger when everyone else is asleep.
-    *   Realizes that she's not really talking to him - she's talking through him to the forest.
-*   Throw away most of what happens after they leave Ulfmaerr's cottage.
-    *   It feels like filler.
-    *   The book will be as long as it is.
-*   ?? When and how to introduce the lightnings?
-    *   As they are fleeing up the pass, rather than an avalanche, they come upon some lightnings preying on a lost cloud.
-    *   Noxy forces her cloud to fly close to them.
-    *   Feels bad about it afterward - did what she needed to, even though it was wrong.
-*   Mention soldiers' masks whenever they're on duty.
-*   Give directions shipwise, not compasswise.
-*   "As dead as a dog".
-*   Re-do scenes with Ulfmaerr.
-    *   He knows who Noxy is - he just doesn't care.
-    *   Noxy remembers all the things they did together when she was little, and it hurts.
-*   Make Sensy a boy, so Sensy + Rash is matter-of-fact same-sex
-*   Lots more animals in the village (chickens, etc.) but none gifted
-*   Mention the *tralpa*'s house
-    *   Nicest house in Stale, but empty since the *tralpa- ran away.
-    *   Villagers assume Dorbu will stay there, but he demurs ("I'm just one of the troops").
-    *   Later assume Shudarga will stay there, but she demurs as well, and chews Dorbu out for not putting the wounded there.
-    *   "We need to break old habits of mind."
-*   Grappa Gas's wooden leg sprouts new buds in the spring
-*   The princess arrives with a hawk.
-*   https://twitter.com/kristynwongtam/status/797307084144603136
-
-----
-
-*   60K words (20 chapters - 3K/chapter).
-*   At least one moment of adventure moment per chapter.
-*   Protagonists are fleshed out, but minor characters are brightly drawn cartoons.
-*   Tie into other Cherne stories.
-
-## Scenes
-
-1.  [plot development / day 1] Noxy and others are picking spider
-    webs; describe the village and its surroundings, including the
-    cloud pen; they are interrupted by a troll (standoff as both are
-    frightened of the other); troll is scared away by Young Gas who
-    says there are soldiers in the village; Thokmay, Kulbinder, Dorbu,
-    and a few others arrive, exhausted by their attempt to scout a way
-    through the forest.  Foreshadow that Noxy can mind-hear clouds
-    from a distance, but she hasn't realized it: she just knows
-    something's wrong (Pillow and Big Blue are agitated).  Some of the
-    soldiers were cut off by a landslide and need rescue - "the forest
-    really doesn't want to let them through".  And the trolls have
-    been harassing them - "the forest's servants".
-
-2.  [danger / day 1] Most of the adults are away rounding up clouds;
-    Noxy begs to be allowed to come along, Indy's first reaction is
-    'no', but Granna Fee points out the youngers need to learn how to
-    do a rescue, so they get to go.  Noxy, Sensy, and Rash are with
-    Grappa Gas while Aft and Indy take the other cloud to do the
-    actual rescue.  Turns out to be more soldiers than Dorbu had let
-    on, so they need to use both clouds; Noxy's tension unsettles Big
-    Blue, so Aft accidentally scrapes against a mountain, causing a
-    snowslide, but the soldiers are rescued.
-
-3.  [conflict / day 1] People coming to Indy's one by one for tea -
-    get some of the background to the rebellion, get to know the
-    villagers and their dynamics.  Discussion is interrupted by
-    commotion outside as Kulbinder chases a troll over the
-    rooftops. (Trolls are Gifted chimpanzees - Kulbinder uses the
-    word.)  He thinks it might be a spy; the Stalers know it's just
-    from the local troop.  (Noxy makes a bad Joke here about "troop of
-    trolls" and "troop of soldiers".)  Stalers don't want the trolls
-    hurt, since that will just cause trouble - Indy says she'll talk
-    to the troop's alpha (sighing, yet another job).
-
-4.  [conflict + romance + mystery / day 2] Thokmay is given the
-    morning off by Kulbinder; plays snakes and whistles with the other
-    children; see Sensy and Rash rebelling against Noxy's bossiness
-    while the junior love triangle play out.  When Thokmay loses to
-    Rash, Noxy says, "You're not as good at this game as you thought,"
-    and Thokmay replies, "It depends what game you think I'm playing."
-    Then we see Rash and Sensy becoming Thokmay's friends, and realize
-    he lost on purpose.  Noxy asks about Thokmay's scars (in order to
-    be nasty); Thokmay woodenly says that he got them for trying to
-    desert. When Noxy asks Thokmay, "Is he yours?"  the answer is a
-    cool, "No, I'm his".
-
-5.  [danger + character development / day 2] Grappa Gas is excited
-    about the fish pond; Kulbinder maneuvers him into giving Thokmay a
-    ride to look at it; Noxy overhears discussion between Thokmay and
-    Kulbinder revealing the purpose is to see if they can get away
-    like this, which she can't square with Thokmay having tried to
-    desert.  Still annoyed, Noxy imagines Thokmay faillng into the
-    pond and is horrified when Pillow actually does it.  Dorbu rescues
-    him (cloudherds don't know how to swim).  Kulbinder says "Your
-    Highness!" but Noxy is the only one who hears.  Noxy realizes
-    she's acting badly because she's jealous, and apologizes to Granna
-    Fee, who tells her it's Thokmay she should apologize to (but she
-    doesn't want to).
-
-6.  [danger / day 2] A mountain storm closes in: "the forest is
-    sending its lightnings to remind us not to walk it" so that we
-    understand the forest controls the lightning.  See Dorbu and Indy
-    taking an interest in each other over dinner, and learn that
-    Noxy's father is "lost".  (Thokmay is there for dinner with
-    Kulbinder, both because Kulbinder is an honored member of the unit
-    and as Indy's way of apologizing for the dunking.)  We learn that
-    Dorbu's family lost their farm because they couldn't afford to
-    rent the law that would have saved it; Dorbu joined Shudarga's
-    rebellion to stop that happening to other people.  Indy is
-    pessimistic: people with power will always find a way to use it
-    unfairly.
-
-7.  [mystery / day 3] Stale wakes to after-storm quiet.  Noxy sees
-    some footprints in the mud, follows them, sees Thokmay hiding some
-    stolen food and blankets in the forest.  She is about to confront
-    him when Kulbinder appears out of the woods (she's glad she's
-    downwind).  She can't hear what they're saying, but Kulbinder
-    clearly knows what's going on.  She goes back to tell Indy, but
-    her mother scolds her for not doing her chores, so she keeps her
-    discovery secret out of petulance.  As she is peeling parsnips for
-    roasting, she begins to mind-hear the clouds.  Frightened, she
-    diffidently asks Granna Fee about it (saying, "one of the soldiers
-    was wondering," which gives Granna Fee a chance to say, "Oh, are
-    you sweet on one too?").  With relish, Granna Fee tells her that
-    it sometimes happens, but the cloudherds who can do it go mad
-    because they can't shut out the noise.  As she says that, they
-    hear shouting by the main gate.
-
-8.  [fight / day 3] Several of Dorbu's soldiers were on patrol when
-    they surprised a loyalist patrol.  They drove some off and
-    captured two, but as they get back to Stale, one of the two
-    escapes.  Chase, fight, etc.; Aft trips a Canary to help the
-    loyalist get away, but he's cornered eventually.  Dorbu talks him
-    into surrendering; as he's led away, he tells Aft coldly that he
-    can be on whatever side he wants, but if he ever endangers a
-    Canary again, he'll answer for it.
-
-9.  [character development + romance / day 3] Noxy finds her friends
-    on the walls watching the clouds, speculating about who'd win a
-    fight between the soldiers and the Stalers; Sensy and Rash go for
-    walk together, leaving Noxy feeling as lonely as Thokmay.  Noxy
-    finds Thokmay on the walls as well with some sticks.  Trying to
-    make conversation, she asks him what he's doing.  He talks about
-    making kites with his sister, and Noxy realizes how lonely he
-    is. She says she's sorry he was dunked in the pond (without
-    admitting she did it).  Later, though, she sees him and Kulbinder
-    walking past the hut where the two prisoners are being kept;
-    Thokmay keeps a lookout while Kulbinder talks to the prisoners
-    (but Noxy can't hear).  Before Noxy can tell her mother, she gets
-    a twinge - a cloud is coming.
-
-10. [plot development / day 3] Princess Shudarga arrives on a cloud
-    flown by Tasteless with a handful of bodyguards, while Bonzon
-    arrives on foot with a couple of dozen soldiers (who are much
-    scarier than Dorbu's).  Unlike Dorbu's troops, Shudarga's are
-    hardened, and command rather than cajole.  The patrol that Dorbu's
-    men surprised was hunting for Shudarga, who is in full
-    retreat. Her army can't escape because the forest won't let them
-    through. (Grappa Gas says that forests are like him: they like
-    things the way they are.)  Shudarga's makes a set-piece speech
-    explaining the rebellion - she's sincere about making the world
-    better, but still thinks like nobility when it comes to breaking
-    commoner eggs. (Happens when she announces that the rebels are
-    going to take the clouds the Stalers are rounding up in order to
-    ferry the army to Chaghan - Indy says, "But without those clouds,
-    no crops in Gandan - people will go hungry," to which Shudarga
-    replies, "People are already going hungry.") - Indy confronts
-    Dorbu, believing the whole thing has been a set-up; he protests
-    that it wasn't, and we see that while he believes in the cause,
-    he's uncomfortable with the methods.
-
-11. [mystery / day 4] Thokmay has stayed out of the way since Shudarga
-    arrived, but Noxy catches him stealing a small dayglass
-    lantern. She feels betrayed, and says she's going to tell her
-    mother - "Or maybe the princess or that captain of hers" - at
-    which point Kulbinder pounces on her.  Thokmay reveals he's a
-    prince; Shudarga will know his face, so he needs to escape.  He
-    tries the "enemy of my enemy" argument (if you don't like the
-    rebels, you must be a loyalist) and Noxy tells him scornfully it's
-    not like that: she can be against both sides.  Kulbinder knew that
-    the forest would stop them going through to Chaghan - has been
-    trying to delay so that loyalist forces can catch up and rescue
-    Thokmay.  Before Noxy can decide what to do, Young Gas stumbles
-    in, sees Noxy pinned, and goes yelling for help.
-
-12. [chase / day 4] Noxy, Thokmay, and Kulbinder are dragged in front
-    of Captain Bonzon.  Shudarga recognizes Thokmay, so they have to
-    run (leaving behind the stuff he has cached).  Their flight is a
-    recap of the loyalist soldier running through Stale the day
-    before.  Noxy calls Big Blue from a distance: she, Thokmay, and
-    Kulbinder run at a cliff's edge and jumping onto it to escape.
-
-13. [danger / day 4] As the threesome argue about what to do, another
-    storm comes up.  They are lashed by rain and threatened by
-    lightning, which makes the cloud very skittish.  Noxy eventually
-    decides to go and find Ulfmaerr to get help.  She leads them to
-    his old home, but he is gone.  They decide to spend the night, but
-    are attacked by mountain trolls and forced to flee.
-
-14. [fight / day 5] Noxy is exhausted by the time the sun comes
-    up. They begin arguing again about what to do, but then Tasteless
-    finds them.  There is a cloud fight; Noxy slows him down by
-    mind-speaking confusion to Tasteless's cloud, but loses
-    concentration when Tasteless tells Noxy that Aft tried to stop the
-    rebels from going after the prince, and was beaten badly for
-    it. Dorbu reluctantly confirms this, and says that if Noxy doesn't
-    come back, Granna Fee will be next.  Noxy is about to give in when
-    birds start flying around them - they've found Ulfmaerr.
-
-15. [plot development + heartbreak / day 5] Ulfmaerr drives off
-    Tasteless.  Noxy and the others land.  They talk to Ulfmaerr, who
-    lives in a new cave (an old spell price prevents him sleeping in
-    the same home twice - if he lives somewhere long enough, it
-    becomes a home).  He cured a plague of scribbles that came through
-    the mountains years ago by giving up his ability to remember the
-    people he loves.  (He has inky scars like writing on his arms from
-    being infected himself.)  Flashback to Noxy remembering him caring
-    for her, and an explanation of how magic works.  Thokmay asks
-    about Noxy's conrol of Tasteless's cloud; Noxy explains what she's
-    afraid of.  Noxy falls asleep hearing Tasteless's cloud in the
-    distance.
-
-16. [conflict + fight / day 5] Kulbinder wakes Noxy to say that
-    soldiers are coming - Tasteless must have ferried them in.  Dorbu
-    gets to the cave first and tries to persuade Thokmay to give
-    himself up; Thokmay says he won't be a prisoner, and won't be used
-    against his father.  Bonzon appears as they're talking and says,
-    "You'll be used as we'll use you!"  He captures Thokmay and is
-    going to hamstring him to stop him running away; Kulbinder can't
-    intervene because he's netted.  Dorbu snaps and intervenes; Dorbu
-    and Bonzon fight while Thokmay escapes with Ulfamerr's help; Dorbu
-    falls to his death.
-
-17. [conflict + awe / day 5] Arguing again about what to do, this time
-    with Ulfmaerr in the mix, but Thokmay doesn't want to run for
-    Gandan any more: he wants revenge for Dorbu's death, and Noxy
-    wants to help her village.  Ulfmaerr says he knows a way.  They go
-    ask the forest for help from the trolls.  Ulfmaerr has nothing
-    left to offer the forest, but Noxy offers herself - before the
-    trees can agree, Thokmay offers his rulership in exchange for
-    lightning as well as the trolls.
-
-18. [fight / day 6] The forest brews a storm so that its lightnings,
-    trolls, and other creatures can attack Stale; Kulbinder goes after
-    Shudarga, revealing just how much he loved Dorbu, but Bonzon
-    intervenes; Bonzon and Kulbinder go over the side (Kulbinder
-    survives, wounded), but Shudarga escapes on Tasteless.
-
-19. [character development / later] See Grappa Gas caring for the
-    badly-injured Aft; Indy grieving for Dorbu; Thokmay gives Noxy a
-    kite and they go off to fly it together as the other villagers
-    return with their clouds.
-
 ## Characters
 
-### The Cloudherds of Stale (full name "Stale Leftovers")
-
-*   Noxy (Probably Noxious): a 13-year-old girl; protagonist; bosses
-    around the other children her age; put off when they start to
-    follow Thokmay instead; doesn't actually have a crush on Rash, but
-    has decided that he's hers, and doesn't leave a lot of room for
-    Sensy and Rash to get together.
-    *   Character development: realizes that other people have their
-        own lives, plans, feelings, etc.
-
-*   Sensy (Burning Sensation): Noxy's best friend; also 13.  Has a
-    crush on Rash, but hasn't acted on it (is a bit shy, and Noxy
-    doesn't leave a lot of space).
-
-*   Rash (May Cause a Rash): a 14-year-old boy; didn't go cloudherding
-    the year before because of a broken leg; interested in Sensy, but
-    Noxy doesn't leave much space.
-
-*   Indy (Literally Indigestible): Noxy's mother; mayor of Stale; torn
-    between her sense of duty and her desire to have a life.
-
-*   Granna Fee (Induces Fever): Indy's mother, Noxy's grandmother,
-    always has advice for her daughter.
-    *   Also has advice for Noxy - the two of them are closer than
-        either is to Indy.
-
-*   Grappa Gas (Gastric Discomfort): an old man; full of stories,
-    argues constantly with his son Dis; a loyalist (partly to give him
-    something to argue about with his son).
-    *   Excited about rebuilding Stale's fish pond; wants to believe
-        the rebellion can still succeed so that he can do that.
-
-*   Aft (Disgusting Aftertaste): a grown man; Grappa Gas's father and
-    Young Gas's father.  Had a crush on Indy when younger; makes no
-    secret of the fact that he thinks he'd be a better mayor.  He
-    supports Shudarga (mostly because his father is a loyalist), and
-    feels betrayed when Shudarga shows up and acts like a conqueror.
-    *   Has stayed behind in Stale because there's a baby on the
-        way. (Mention his wife, Weakens Eyesight, but she's not a
-        character.)
-
-*   Young Gas (Gastric Discomfort): a little boy; Aft's son.
-
-### Gandan-o
-
-*   Prince Thokmay: 13 years old; officially Kulbinder's servant, but
-    secretly royalty in training; accidentally finds himself in a unit
-    loyal to Prince Shudarga's rebellion.
-    *   Development: realizes that his privileges bring
-        responsibilities.
-
-*   Kulbinder: a Gifted tiger; officially scout for the Angry
-    Canaries, but secretly Thokmay's bodyguard and tutor.
-
-*   King Denpa: current ruler of Gandan; Thokmay's father (but that's
-    a secret revealed only after the bad guys arrive).
-
-### Rebels
-
-*   Prince Shudarga: rebelled to replace pay-per-law with law-for-all;
-    on the right side, but ruthless.  (Calls herself "King".)
-
-*   Sergeant Dorbu: commander of the Angry Canary troop since its
-    captain's death a couple of weeks before the story starts;
-    cheerful, dedicated, fond of Thokmay; becomes involved with Indy;
-    believes in Prince Shudarga's cause, but becoming disillusioned
-    with her willingness to sacrifice others to the cause.  Eventually
-    takes a stand to defend Thokmay, and is killed.
-    *   Background: family lost its farm because they couldn't afford
-        to rent the law that would have saved it.
-
-*   Colonel Bonzon: commands the Ferocious Swallows troop that arrives
-    with Prince Shudarga to occupy Stale.
-
-### Others
-
-*   Ulfmaerr: a magician, originally from Vaarda; Noxy's father (but
-    that's revealed gradually - he doesn't remember, because he traded
-    family for magic).
-
-*   Tasteless: cloudherd pirate "captain" working with Shudarga;
-    believes in wrecking things more than he believes in equality.
-
-*   Big Blue and Pillow: two clouds kept in Stale through the winter.
+*   The Cloudherds of Stale (full name "Stale Leftovers")
+    *   Noxy (Probably Noxious): a 13-year-old girl; protagonist; bosses
+        around the other children her age; put off when they start to
+        follow Thokmay instead; doesn't actually have a crush on Rash, but
+        has decided that he's hers, and doesn't leave a lot of room for
+        Sensy and Rash to get together.
+    *   Sensy (Burning Sensation): Noxy's best friend; also 13.  Has a
+        crush on Rash, but hasn't acted on it (is a bit shy, and Noxy
+        doesn't leave a lot of space).
+    *   Rash (May Cause a Rash): a 14-year-old boy; didn't go cloudherding
+        the year before because of a broken leg; interested in Sensy, but
+        Noxy doesn't leave much space.
+    *   Indy (Literally Indigestible): Noxy's mother; mayor of Stale; torn
+        between her sense of duty and her desire to have a life.
+    *   Granna Fee (Induces Fever): Indy's mother, Noxy's grandmother,
+        always has advice for her daughter. Also has advice for Noxy -
+        the two of them are closer than either is to Indy.
+    *   Grappa Gas (Gastric Discomfort): an old man; full of stories,
+        argues constantly with his son Aft; a royalist (partly to give him
+        something to argue about with his son).
+    *   Aft (Disgusting Aftertaste): a grown man; Grappa Gas's father and
+        Young Gas's father.  Had a crush on Indy when younger; makes no
+        secret of the fact that he thinks he'd be a better mayor.  He
+        supports Shudarga (mostly because his father is a loyalist), and
+        feels betrayed when Bonzon starts acting like a conquerer.
+    *   Young Gas (Gastric Discomfort): a little boy.
+*   Gandan-o
+    *   Prince Thokmay: 13 years old; officially Kulbinder's servant, but
+        secretly royalty in training; accidentally finds himself in a unit
+        loyal to Shudarga's rebellion.
+    *   Kulbinder: a Gifted tiger; officially scout for the Angry
+        Canaries, but secretly Thokmay's bodyguard and tutor.
+    *   King Denpa: current ruler of Gandan; Thokmay's father (but that's
+        a secret revealed only after the bad guys arrive).
+*   Rebels
+    *   Sergeant Dorbu: commander of the Angry Canary troop since its
+        captain's death a couple of weeks before the story starts;
+        cheerful, dedicated, fond of Thokmay; becomes involved with Indy;
+        believes in Shudarga's cause, but becoming disillusioned
+        with her willingness to sacrifice others to the cause.  Eventually
+        takes a stand to defend Thokmay, and is killed.
+    *   Colonel Bonzon: commands the troops that occupy Stale.
+*   Others
+    *   Ulfmaerr: a magician, originally from Vaarda; Noxy's father (but
+        that's revealed gradually - he doesn't remember, because he traded
+        family for magic).
+    *   Tasteless: cloudherd pirate "captain" working with Bonzon
+        because he's desperate to get back on cloudback
+    *   Big Blue and Pillow: two clouds kept in Stale through the winter.
+    *   Charger: a cloud that Noxy finds during the story
+    *   Linger: a troll
 
 ## Back Story
 
@@ -1622,56 +1248,38 @@ To Do:
         get to decide who's eligible and when votes are held.
 *   Royalty own laws, which must be rented to be used.  It's a deeply
     unfair system, but normal in this world.
-    *   Include one speech by Shudarga explaining this.
 *   Thokmay was assigned to Dorbu's troop (the Angry Canaries) as part
-    of his training; they were in the field when Prince Shudarga
+    of his training; they were in the field when Shudarga
     rebelled.
-*   Shudarga was winning when the neighboring kingdoms stepped in
-    (they were afraid her rebellion would spread).
-*   The combined armies broke the rebellion and drove Shudarga into
-    the mountains.
 *   Thokmay is now trapped: he can't reveal his identity without
     becoming a hostage.  Did try to sneak away once; when he was
     caught, Kulbinder pretended Thokmay had been trying to desert and
     scarred his face.
-    *   When Noxy asks about it (as they're getting to know each
-        other), Thokmay says, "He saved my life."  Real meaning only
-        becomes clear after the reveal.
 *   Noxy, Sensy, and Rash are supposed to cloudherd for the first time
     this summer.
     *   Rash is touchy about the fact that he couldn't go last year
         because of his broken leg.
-    *   When the Angry Canaries arrive, most of Stale's adults are
-        already on their way up to the ice fields to round up the clouds.
+    *   When the soldiers arrive, most of Stale's adults have
+        already gone up to the ice fields to round up the clouds.
     *   The only people left are the children, the grandparents, and a
         handful of adults.
     *   So the oldest children (Noxy, Sensy, and Rash) are bossing the
         others around, Noxy more than most.
         *   "You're not the mayor!" (Sensy)
         *   "I will be one day!" (Noxy)
-
-*   The local laird (who ran away to the capital as soon as rebellion
+*   The local *tralpa* (who ran away to the capital as soon as rebellion
     was raised) had been blocking Stale from rebuilding its fish pond
     by using a law governing the building of stone walls.
-    *   After he fled, Grappa Gas immediately began making plans to do
-        the work.
-    *   Tries to talk soldiers into helping - Indy asks Dorbu whether
-        there's really any point, and Dorbu's non-answer tells her that
-        the rebellion is failing.
-
 *   Noxy has been having strange dreams about flying.
     *   "Normal in a girl your age with your changes coming." (Granna
         Fee)
     *   But then she mind-hears Pillow becoming agitated just before
         Tasteless arrives, and starts to wonder if she's going to go
         crazy.
-        *   There are stories about cloudherds who can mind-talk
-            without touching the clouds, and they all end with the
-            cloudherd going mad because she can't shut out the noise.
-            She uses this power to aid their escape on Big Blue.
-        *   Calls the cloud as they're running, maneuvers it into
-            position, and they jump.
-
+    *   There are stories about cloudherds who can mind-talk
+        without touching the clouds, and they all end with the
+        cloudherd going mad because she can't shut out the noise.
+        She uses this power to aid their escape on Big Blue.
 *   Ulfmaerr is a Vaardan magician
     *   Wandered into Stale years ago
         *   Can't sleep under the same roof twice (not even a tent)
@@ -1681,37 +1289,22 @@ To Do:
     *   He talks to the forest
         *   Calls it "the real passenger on this voyage" - people are
             just stowaways
-        *   Indy dismisses it, but it foreshadows later events
     *   Goes to the forest to trade something for its help saving Stale
     *   He has nothing left that the forest wants
     *   So Thokmay trades rulership
-
 *   Adolescent love triangle: Noxy, Sensy, and Rash.
     *   Rash and Sensy are interested in each other.
     *   Noxy isn't really interested in Rash, but likes to be in
         charge, and is afraid that three will become two plus one.
-
-*   New kid in town: Noxy, Sensy, and Thokmay.
-    *   Sensy is naturally flirtatious, and Thokmay is interesting.
-    *   Partly to make Rash jealous, partly just to stretch her wings.
-    *   Thokmay isn't really interested, but has learned enough at
-        court to be charming (though he's taken aback at the
-        consequences: make that part funny).
-
 *   Grown-up romance: Dorbu and Indy.
     *   The sergeant is naturally charming, and Indy has been focused
         on work for a long time.
     *   Contrast people who know what they're doing with the
         awkwardness and boundless possibility of the children.
     *   Makes Dorbu's death even more tragic.
-
-*   Loyalty vs. conscience: Shudarga, Thokmay, Dorbu, Kulbinder
-    *   Shudarga believes that the system is wrong, and has risked
+*   Loyalty vs. conscience: Bonzon, Thokmay, Dorbu, Kulbinder
+    *   Bonzon believes that the system is wrong, and has risked
         everything to change it.
-        *   Accused by loyalists like Grappa Gas of using the cause as
-            a cover for her own ambition.
-        *   "I will stand to election like every general we've ever
-            had, but everyone will vote."
     *   Kulbinder: cats believe in people, not ideas.
     *   Dorbu is a believer as well, but it's a practical belief
         rather than ideological.
@@ -1721,7 +1314,7 @@ To Do:
             what you're doing doesn't work, try something else.
         *   Runs headlong into his belief in people (he's like
             Kulbinder in that respect)
-        *   When Shudarga discovers who Thokmay is, and decides to use
+        *   When Bonzon discovers who Thokmay is, and decides to use
             him as a hostage to cover his escape by cloud to Chaghan,
             Dorbu has to make a decision.
     *   Thokmay: believes in the system because that's how he's been
@@ -1734,7 +1327,6 @@ To Do:
         *   Thokmay's response fuels Dorbu's suspicions that Thokmay
             isn't who he appears to be.
         *   Which causes a crisis for Dorbu...
-
 *   The rebellion
     *   Shudarga was winning until neighboring kingdoms stepped in.
     *   Believes she can find refuge in Chaghan.

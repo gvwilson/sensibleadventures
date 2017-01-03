@@ -3,6 +3,7 @@
 NEEDED
 
 *   Add Tasteless!
+    *   need a cloud fight
 *   Sensy is a boy
 *   Dorbu is religious
 *   add little observations about the people and setting
@@ -13,13 +14,11 @@ NEEDED
 *   "As dead as a dog".
 *   Grappa Gas's wooden leg sprouts new buds in the spring
 *   figure out how to work in kites again - they were fun
-*   need a cloud fight
-*   reintroduce Tasteless (he's with the soldiers when they're rescued)
 
 ## Chapter 1. Soldiers!
 
 *   goals    
-    *   introduce most major characters
+    *   introduce most major characters (not Bonzon, Tasteless, or Ulfmaerr)
         *   Noxy
         *   Rash and Sensy
         *   Indy
@@ -28,8 +27,6 @@ NEEDED
         *   Dorbu
         *   Kulbinder
         *   Thokmay (only a little)
-        *   *not* Bonzon ("the colonel stayed with the wounded" but don't reveal he's wounded himself)
-        *   *not* Ulfmaerr ("Would a little magic be useful?" "Absolutely not!")
         *   first encounter with Linger the troll (but we don't know that yet)
     *   plot development
         *   clouds and cloudherding
@@ -52,7 +49,7 @@ NEEDED
         *   cautiously back away
         *   "What's a troll doing this close to the village?"
     *   arrive to find soldiers who have obviously been through hell
-    *   Rash is there: boy-girl teasing with Sensy (Noxy doesn't catch the undercurrent)
+    *   Rash is there and teases with Sensy (Noxy doesn't catch the romantic undercurrent)
     *   Indy gets up to introduce Dorbu
         *   we discover that Noxy is the mayor's daughter
     *   Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
@@ -73,7 +70,7 @@ NEEDED
 ## Chapter 2. Rescue
 
 *   goals    
-    *   introduce Bonzon (the villain) and foreshadow his ruthlessness
+    *   introduce Bonzon and Tasteless (the villains)
     *   first mention of Noxy's emerging ability
     *   Rash and Sensy
     *   Noxy hoping she sees her father
@@ -119,15 +116,18 @@ NEEDED
         *   But animals gathering
         *   One soldier takes a brand from the fire to scare them off
         *   Gas slingshots it out of his hands (foreshadow Gas's slingshot)
-        *   But the animals charge (bears, cougars, trolls)
-            *   Make the animals strange: the bears have glowing stripes
+            *   slingshot sits in a little holster on his wooden leg
+        *   the animals charge (bears, cougars, trolls)
+            *   make the animals strange: the bears have glowing stripes
         *   Dorbu is the last one out, helping another soldier
     *   Flying home
         *   Gas rounds on Dorbu: "What in all the rotting hells was so important that you couldn't leave it behind?"
         *   Bonzon answers: "Our fallen.  Those we could recover."
         *   Description of Bonzon
         *   Bonzon: "We'll return in the spring to lay the ghosts of those we couldn't."
-            *   The way he said it made it a simple statement of fact, like "Water flows downhill" or "The sun rises in the morning."
+            *   the way he said it made it a simple statement of fact, like "Water flows downhill" or "The sun rises in the morning."
+        *   one of the "soldiers" makes a wisecrack
+            *   Grappa Gas and Granna Fee: "You!"
 
 ## Chapter 3. Tension at Home
 
@@ -163,26 +163,32 @@ NEEDED
     *   more hints about Noxy's powers
     *   Thokmay hiding his face from Bonzon
 *   details
-    *   Fly back to Stale with the wounded and the dead
-        *   Bonzon giving crisp, unforgiving orders to Dorbu
-            *   Bonzon wants patrols out right away, Dorbu wants to give the soldiers a rest
+    *   Grappa Gas and Granna Fee realizes that the "soldier" who made the wisecrack is actually Tasteless
+        *   Grappa Gas starts to set the cloud down to kick him off
+        *   Dorbu stops him: "We have wounded"
+        *   Granna Fee (grimly): "There'll be another wounded when Aft finds out he's here"
+    *   Bonzon cuts in, giving crisp orders to Dorbu
+        *   Bonzon wants patrols out right away, Dorbu wants to give the soldiers a rest
         *   Rash makes a crack about knowing how it feels to be ordered around
-        *   Bonzon glancing at cloudherds, clearly deciding *not* to say some things
+        *   Bonzon glances at cloudherds, clearly deciding *not* to say some things
     *   Arrive in Stale
         *   Soldiers offload the dead
-        *   Noxy is soothing the cloud
-        *   After she gets off, she thinks, "Really sorry you had to carry them."
-        *   Thinks she hears the cloud reply, "It's all right."
-        *   So shocked that she stumbles, but then convinces herself she was imagining it
-    *   Back to the main square where Indy is re-organizing the villagers
-        *   Has put on her blue-and-white jacket (her favorite colors, sky and snow)
-        *   Was halfway through getting things set up when the first cloud arrived with news of how many soldiers
-        *   She's ordering villagers to re-do work
-        *   Sparks an argument between Grappa Gas and Aft about whether they should be here at all
-            *   Gas: "We shouldn't be setting up for a long stay"
-            *   Aft: "You're not the mayor any more, she is"
-            *   Indy: "Stow it, both of you!"
-        *   Dorbu's comments
+        *   Noxy soothes the cloud
+        *   after she gets off, she thinks, "Really sorry you had to carry them."
+        *   thinks she hears the cloud reply, "It's all right."
+        *   so shocked that she stumbles, but then convinces herself she was imagining it
+    *   back to the main square where Indy is re-organizing the villagers
+        *   has put on her blue-and-white jacket (her favorite colors, sky and snow)
+        *   was halfway through getting things set up when the first cloud arrived with news of how many soldiers
+        *   she's getting an update from Aft when Gas, Fee, and the others arrive with Tasteless in tow
+        *   Aft picks up a piece of kindling and makes for Tasteless
+        *   Indy intervenes, but is just as unhappy
+        *   Tasteless affects to be amused
+        *   Dorbu (puzzled): "Meant no offense, but-"
+        *   Indy: "He's been shunned."
+        *   Bonzon (resists being taken to lie down): "We needed a guide"
+        *   Resolution: he can sleep in one of the winter huts
+        *   Aft: "We'll have to smoke it clean after"
     *   Thokmay reports to Dorbu wearing his battle mask (Bonzon is nearby)
         *   Dorbu: "Why are you masked?"
         *   Thokmay (woodenly, half-muffled by the mask): "I was moving too slowly on the stairs, honored."
@@ -196,29 +202,29 @@ NEEDED
     *   Conversations at home
         *   Indy has Noxy make tea
         *   Gas shows up first: "We're being overrun! We have to do something!"
-            *   Takes out his knitting
-            *   Gas takes something eye-watering out of his pocket and puts it in his tea (lighten up the story)
-            *   Indy and Noxy groan
+            *   Cites Tasteless as example - "How can we trust people who trust the likes of him?"
+            *   Takes out his knitting, then takes something eye-watering out of his pocket and puts it in his tea (lighten up the story)
             *   Noxy makes an excuse and escapes upstairs for a moment to get away from the smell
             *   Brief description of her room - she opens her skylight a bit to let the smell out
         *   Fee shows up next: "They can't stay, daffodil."
-            *   Mention Duck Droppings: "What would the other villages think?"
+            *   Mention Duck Droppings: "What will the other villages think?"
+            *   Continues: "And when they hear we've got a backstabbing sack of turds like *him*..."
         *   Filler
             *   Cloudherds have argued about supporting the rebellion (or the king) before
             *   Decision was to stay out of lowland wars
         *   Everyone's calming down when there's a crash and a yowl outside
             *   Noxy is the first one out the door
-            *   Kulbinder is chasing a troll
-            *   Leaps for it, is blocked by another
-            *   A trio scampers away
+            *   Thokmay is chasing a troll
             *   Noxy recognizes the one that she saw that morning
+            *   It gets away
         *   Conversation
-            *   A troll had been spying on the villagers
-            *   Reveal that trolls are chimpanzees
+            *   Thokmay: "Troll was listening to you"
+                *   Reveal that trolls are chimpanzees
+                *   Noxy thinks "You must have been listening too"
             *   Grappa Gas: "What's a troll doing this close to the village?"
             *   Indy: "On their own or at the forest's orders?"
             *   Reveal that the village has a deal with the trolls
-            *   Thokmay comes panting up - chased the trolls but lost them
+            *   Kulbinder arrives - chased the troll but lost him
             *   Indy: "Perhaps tomorrow my daughter can show you two around"
 
 ## Chapter 4. The Tiger's Boy
@@ -232,11 +238,12 @@ NEEDED
         *   She mind-speaks with clouds from a distance again
     *   introduce the tunnel (used later)
     *   introduce the goofs (used later)
+    *   explain why Tasteless is unwelcome
 *   details
     *   open with Indy exasperatedly trying to get Noxy ready to go out
         *   Noxy pushes back
         *   says she doesn't really want to do it
-        *   but makes a point of going past Sensy's house in the hopes of being able to tell her
+        *   but makes a point of going past Sensy's house in the hopes of being able to tell him
     *   see Dorbu charming the villagers
         *   thanking them for breakfast
         *   "Particularly liked the peppers with the eggs"
@@ -249,12 +256,13 @@ NEEDED
         *   Introduces herself
         *   She asks if he enjoyed his breakfast (awkward attempt to make conversation)
         *   Thokmay: "Yes." (glance at Dorbu, then repeats) "I particularly liked the peppers."
-    *   Noxy, Thokmay, and Kulbinder leave
+    *   Noxy, Thokmay, and Kulbinder set out
         *   A few moments later, Kulbinder leaves the children
         *   "I explored overnight.  I want to have a closer look at the forest."
         *   Noxy thinks, "Great, now I'm stuck talking to a fencepost."
     *   Noxy covers her discomfort by talking too much
-        *   Thokmay's noncommittal replies annoy her
+        *   use her logorrhea to describe village layout in more detail
+    *   Thokmay's noncommittal replies annoy her
         *   he never actually says anything disparaging: she reads that into his words
         *   Noxy: "How long have you had Kulbinder?"
         *   Thokmay: "He's not mine - I'm his"
@@ -262,52 +270,52 @@ NEEDED
         *   Thokmay says he got them for trying to desert
     *   walk past the goof pen
         *   awnings above the entrances to shelter their feed troughs
+        *   grills made of imported bamboo
+            *   Thokmay: "Didn't realize you flew that far south"
+            *   Noxy: "Oh, we don't - we get it from Normous Berth whenever the Flying Mountain sets down"
         *   dozens of fleecy waist-high idiots being tended by Little Gas and other small children
-        *   Noxy remembers pretending that they were little clouds
+            *   Noxy remembers pretending that they were little clouds
         *   notices Little Gas feeding one the wrong way
         *   goes in to correct him (shows how she bosses kids around)
         *   a couple of goofs escape as Noxy and Little Gas squabble
         *   Thokmay goes over to pet them
-        *   both immediately round on him, knocking him to the ground
-        *   Noxy: "Don't you know anything? Goofs *hate* peppers."
-    *   Then past the tunnel
-        *   really just a hollow in the wall, three strides in all directions
-        *   bamboo grill on the front so that traders can store things
-        *   foreshadows its use for prisoners later on
-    *   Up the stairs and onto the wall
+        *   both immediately round on him
+        *   Noxy: "Don't you know anything? Goofs *hate* peppers - even the smell of them."
+    *   up the stairs and onto the wall
         *   Noxy takes Thokmay to the Steep Stairs
-        *   and is secretly pleased that he's out of breath at the top
-    *   Describe the nearby territory
+        *   secretly pleased that he's out of breath at the top
+    *   describe the nearby territory
         *   villages have dragon names like people
-        *   Noxy explains what those are
-        *   takes Thokmay's noncommittal comments as offensive again
-    *   Describe the clouds
+            *   Noxy explains what those are
+        *   Noxy sees a wisp of smoke rising from a winter hut chimney
+            *   sees Tasteless come out and pee
+            *   he waves
+        *   Noxy makes a comment about how crass Tasteless is
+            *   Thokmay (reasonably): "Well, everyone needs to do it"
+            *   Noxy takes offense again (taking the village's side automatically)
+    *   describe the clouds
         *   Thokmay: "They smell like wet goofs."
         *   annoys Noxy for real
-    *   At the cloud pen
+    *   at the cloud pen
         *   Noxy says explicitly that you have to touch clouds to mind-speak to them
-        *   Asks Thokmay to try
-        *   Explains what it feels like
-            *   Empty your mind to make room for another's thoughts
-    *   Noxy gets a jolt from a cloud she's not touching
-        *   Scares her
-        *   She snaps at Thokmay
-        *   Feels bad about it
-        *   So she offers him a ride
-        *   Has to insist
-            *   Narrator comment: once Noxy has decided on something, she sticks to it
-        *   He climbs up on the cloud
-        *   And just then Indy shows up with Sergeant Dorbu and chews Noxy out
-    *   As punishment, Noxy has to seed some thimbleberries
-    *   She's feeling sorry for herself when she hears noise from the square
+        *   asks Thokmay to try
+        *   explains what it feels like
+            *   empty your mind to make room for another's thoughts
+    *   Noxy sees how tentative Thokmay is
+        *   so she offers him a ride
+        *   insists when he demurs
+            *   narrator comment: once Noxy has decided on something, she sticks to it
+        *   he climbs onto the cloud
+        *   just as Indy shows up with Sergeant Dorbu and chews Noxy out
+    *   as punishment, Noxy has to seed some thimbleberries
+    *   she's feeling sorry for herself when she hears noise from the square
         *   Dorbu and Thokmay are fencing in front of a growing crowd
-        *   With Kulbinder grumbling advice from the sidelines
+        *   with Kulbinder grumbling advice from the sidelines
         *   Noxy is instantly jealous
     *   Colonel Bonzon comes out to observe
-        *   Thokmay quietly but hastily put on his battle mask
-        *   One more round, then Kulbinder pulls him away for chores
+        *   Thokmay quietly but hastily pulls down his battle mask
+        *   one more round, then Kulbinder pulls him away for chores
     *   Dorbu teaches the village children how to juggle
-        *   Noxy and Grappa Gas exchange looks that say, "Nothing good will come of this."
 
 ## Chapter 5. Swimming and Conversation
 
@@ -316,6 +324,7 @@ NEEDED
     *   Noxy can't fool herself any longer about her abilities
     *   backstory about her father
     *   another clue that Thokmay is more than he seems
+    *   backstory on Tasteless
     *   Colonel Bonzon comes into focus as the villain
     *   tension between Grappa Gas and Aft reflects larger tension within village
     *   discover that Aft used to be in love with Indy
@@ -331,87 +340,85 @@ NEEDED
         *   Only realizes afterward from the look on Noxy's face that she's made things worse
     *   Noxy looks over the parapet at the cloud pen
         *   Grappa Gas and Thokmay are on Pillow, just about to leave
-        *   Fly over to the pond (Grappa Gas's favorite topioc of conversation)
+        *   fly over to the pond (Grappa Gas's favorite topioc of conversation)
         *   Noxy can practically hear the instructions he's giving Pillow
-        *   She "imagines" a conversation with Pillow
-        *   "Imagines" telling Pillow to thin out to dump Thokmay
+        *   she "imagines" a conversation with Pillow
+        *   "imagines" telling Pillow to thin out to dump Thokmay
         *   Pillow objects, Noxy insists
-        *   A frightened yelp: it's Thokmay, slipping through a thinning in the cloud
+        *   a frightened yelp: it's Thokmay, slipping through a thinning in the cloud
         *   Grappa Gas stumbles trying to reach him (wooden leg)
         *   Thokmay is through - falls into the pond
     *   Thokmay struggles in the water because he's wearing armor
         *   Kulbinder bursts out of the bushes, yelling, "Hang on, honored!"
             *   "Noxy didn't wonder until later why the tiger called his boy that."
         *   Kulbinder swims to Thokmay
-        *   Clear that both are struggling - might both drown
-            *   Noxy is frozen with fear: did she do this? how could she have done this?
-        *   Corporal Choegyal and another soldier are a few steps behind Kulbinder
-            *   They pull off their armor and go in after the boy and the tiger
-            *   Corporal Choegyal reaches the pair
-            *   Kulbinder insists that he save Thokmay first
+        *   clear that both are struggling - might both drown
+            *   Noxy is frozen: did she do this? how could she have done this?
+        *   Tasteless arrives
+            *   throws a rope to the drowning pair
+            *   Thokmay grabs it and Kulbinder
+            *   Kulbinder wriggles free: "Save yourself!"
         *   Noxy is suddenly unfrozen
             *   Realizes she's been hearing Grappa Gas blow "emergency" on his horn
-            *   But there isn't a pattern for "fallen in the water and freezing"
-            *   Races down the stairs to the main square
+            *   but there isn't a pattern for "fallen in the water and freezing"
+            *   races down the stairs to the main square
             *   Yells, "He's fallen in the pond!" at her mother and Granna Fee in passing
-            *   Grabs the bag of bad news from the traders' hall
+            *   grabs the bag of bad news from the traders' hall
         *   Colonel Bonzon is there
-            *   Demands to know what's happening
-            *   She says, "He's fallen in the water!"
-            *   He grabs her arm as she turns to go: "What's happening?
+            *   demands to know what's happening
+            *   she says, "He's fallen in the water!"
+            *   he grabs her arm as she turns to go: "What's happening?
             *   "Let go of me!"
             *   Bonzon's face sets: "Not until you tell me..."
-            *   Face drawn and feverish
+            *   face drawn and feverish
             *   "Thokmay's fallen in the pond and Kulbider's gone in after him and they're going to freeze now let me *go*!"
-        *   Dorbu intervenes: "Honored!  Honored, please!"
-            *   Pries fingers off (gently)
+            *   Dorbu intervenes: "Honored!  Honored, please!"
+            *   pries fingers off (gently)
             *   Bonzon nods
         *   Noxy runs down to the pond
-            *   Everyone's just getting out, frozen
+            *   everyone's just getting out, frozen
             *   Noxy offers the magic blanket to Thokmay
-            *   He demurs, she insists: "It's magic, stupid!"
-            *   Thokmay: "Then give it to Kulbinder."
-            *   Tiger (shivering): "The boy first. That's an order!"
-            *   A few heartbeats each, just to get the shivering down, taking turns
+            *   he demurs, she insists: "It's magic, stupid!"
+            *   the two huddle together under it
             *   Grappa Gas circling over head, shouts, "Are they all right?"
             *   Noxy: "I think so!"
             *   Grappa Gas nods and turns the cloud back toward the pen
-        *   Everyone starts walking back to the village
+            *   Tasteless (shouting up): "You're welcome!"
+        *   everyone starts walking back to the village
             *   Indy, Aft, and Granna Fee meet them part-way
-            *   As soon as Aft hears that Thokmay fell in, he loses his temper at Gas
-            *   The soldiers head back to strip and sauna
-            *   Corporal Choegyal (still shivering): "We'd been meaning to try out your sauna..."
-            *   Indy: "If you weren't freezing, I'd ask you what you were doing when we agreed there'd be no patrols."
-            *   Choegyal (gulping - first time he's felt Indy's glare): "I, um..."
-        *   Grappa Gas joins them, Aft lets him have it verbally
+            *   as soon as Aft hears that Thokmay fell in, he loses his temper at Gas
+                *   Tasteless makes a crack
+                *   Aft blocks Tasteless from entering the village
+            *   Thokmay and Kulbinder go to the sauna
+                *   Kulbinder: "It will feel like home"
+        *   Grappa Gas joins them (limps up the path with a one-two stride)
+            *   Aft lets him have it verbally
             *   Aft: "What are you going to do, kill them one at a time!?"
-            *   Gas (aghast): "I didn't do that on purpose!"
+            *   Gas (aghast): "I didn't do that!"
             *   Aft: "You've been herding longer than I've been alive!"
             *   Indy and Fee separate them
             *   Indy (sternly): "We'll talk about this over a cup of tea."
             *   Gas (protesting): "But---"
             *   Indy: "Tea!  Now!"  (Makes it sound like a prison sentence.)
         *   Back to Indy's house
-            *   Aft and Grappa Gas go in, Indy brittly asks Fee to look after Noxy
+            *   Aft and Grappa Gas go in, Indy "asks" Fee to look after Noxy
             *   They can hear the raised voices even before the door is properly closed
         *   Walk to Granna Fee's house in near silence (just around the corner)
-            *   Have their own friendlier cup of tea
-            *   The whole way, all Noxy can think is, "I did that."
+            *   have their own friendlier cup of tea
+            *   the whole way, all Noxy can think is, "I did that"
         *   Fee: "Good thing we had the magic blanket."
             *   Noxy shivers: "I could use a magic blanket myself."
             *   Fee: "Your father said he could only make one."
             *   Noxy: "What did he trade?"
             *   Fee (shaking head): "He didn't say.  It's not the sort of thing you ask a magician."
-        *   She tells the story of how Ulfmaerr discovered he had magic
-            *   Bargained with a passing whale by accident
+        *   she tells the story of how Ulfmaerr discovered he had magic
+            *   bargained with a passing whale by accident
             *   Noxy (hesitantly): "Do you think I might be a magician some day?"
             *   Granna Fee (starts to smile, then realizes Noxy is serious): "Maybe.  But nobody and nothing can *make* you a magician.  You have to choose."
-        *   Idle chatter
-            *   Noxy (bursts out): "I'm sorry" (she feels guilty about dumping Thokmay)
-            *   Granna Fee: "For not liking the boy?" (mis-reading)
-            *   Noxy (hastily): "Yes"
-            *   Granna Fee (shrewdly): "Well then I'm not the one you should apologize to"
-            *   Noxy heads home
+        *   segue into discussion of Tasteless
+            *   Granna Fee (primly): "He made his choice too"
+
+----------------------------------------
 
 ## Chapter 6. The Gathering Storm
 
@@ -1195,7 +1202,7 @@ NEEDED
         has decided that he's hers, and doesn't leave a lot of room for
         Sensy and Rash to get together.
     *   Sensy (Burning Sensation): Noxy's best friend; also 13.  Has a
-        crush on Rash, but hasn't acted on it (is a bit shy, and Noxy
+        crush on Rash, but hasn't acted on it (is flighty but shy, and Noxy
         doesn't leave a lot of space).
     *   Rash (May Cause a Rash): a 14-year-old boy; didn't go cloudherding
         the year before because of a broken leg; interested in Sensy, but
@@ -1234,8 +1241,9 @@ NEEDED
     *   Ulfmaerr: a magician, originally from Vaarda; Noxy's father (but
         that's revealed gradually - he doesn't remember, because he traded
         family for magic).
-    *   Tasteless: cloudherd pirate "captain" working with Bonzon
-        because he's desperate to get back on cloudback
+    *   Tasteless: disgraced and shunned cloudherd working with Bonzon
+        because he's desperate to get back on cloudback.  (Used his cloud
+        to ferry some thieves into a city and some people were killed.)
     *   Big Blue and Pillow: two clouds kept in Stale through the winter.
     *   Charger: a cloud that Noxy finds during the story
     *   Linger: a troll

@@ -185,7 +185,7 @@ NEEDED
         *   Indy intervenes, but is just as unhappy
         *   Tasteless affects to be amused
         *   Dorbu (puzzled): "Meant no offense, but-"
-        *   Indy: "He's been shunned."
+        *   Indy (curtly): "He's been shunned."
         *   Bonzon (resists being taken to lie down): "We needed a guide"
         *   Resolution: he can sleep in one of the winter huts
         *   Aft: "We'll have to smoke it clean after"
@@ -293,7 +293,12 @@ NEEDED
         *   Noxy makes a comment about how crass Tasteless is
             *   Thokmay (reasonably): "Well, everyone needs to do it"
             *   Noxy takes offense again (taking the village's side automatically)
-    *   describe the clouds
+        *   Thokmay: "What did he do?"
+            *   Noxy: "Took a bribe to flood some fields in Tongsa - some people died"
+            *   Thokmay: "Why isn't he in prison?"
+            *   Noxy: "Told everyone it was an accident, then spent his bribe to rent a law to get off"
+            *   stops as she realizes what she's saying
+    *   awkward change of subject - Noxy describes the clouds
         *   Thokmay: "They smell like wet goofs."
         *   annoys Noxy for real
     *   at the cloud pen
@@ -416,9 +421,7 @@ NEEDED
             *   Noxy (hesitantly): "Do you think I might be a magician some day?"
             *   Granna Fee (starts to smile, then realizes Noxy is serious): "Maybe.  But nobody and nothing can *make* you a magician.  You have to choose."
         *   segue into discussion of Tasteless
-            *   Granna Fee (primly): "He made his choice too"
-
-----------------------------------------
+            *   Granna Fee (coldly): "He made his choice too"
 
 ## Chapter 6. The Gathering Storm
 
@@ -433,55 +436,55 @@ NEEDED
     *   Noxy has strange dreams
         *   a house made of trees woven together
         *   drinking tea with the old troll she saw in the forest
-        *   looked down and realized the cloud beneath her had faded away
+        *   looks down and realizes the cloud beneath her has faded away
         *   bleary-eyed at breakfast
         *   seems everyone else is as well after the excitement of the previous two days
     *   day passes without incident
         *   a paragraph describing the chores the villagers do while waiting for the clouds to be brought in
         *   mending nets, smoking cheese and pressing vegetables for provisions
-        *   clothes, especially rain gear
-        *   eyeing the peaks as wild clouds gather
-        *   Granna Fee: "the last thing we need is a storm"
-        *   Indy: it's the forest reminding them all that it doesn't like strangers
+    *   wild clouds start to gather around the distant peaks in the afternoon
+        *   Granna Fee: "They can tell the forest is upset, and it's upsetting them"
+        *   Indy: "The last thing we need is a storm"
+        *   Fee looks at Tasteless walking past with Corporal Choegyal: "Better a storm than *him*" (loud enough to be overheard)
+        *   Tasteless smirks, then catches sight of Aft glowering and hurries to catch up with Choegyal
     *   Noxy sent to invite Bonzon, Dorbu, and Kulbinder to dinner
         *   Noxy: "the tiger too?"
-        *   discover that the villagers are all vegetarians
         *   Bonzon up and around, though obviously still weak
         *   asks Kulbinder how "that boy of yours" is doing
         *   Kulbinder: "well enough, honored"
-        *   then immediately steers conversation toward the two soldiers
-        *   and raises the question of why Grappa Gas would ---
-        *   interrupted by noticing Noxy
-        *   Kulbinder doesn't change subject - just stares
-        *   Noxy goes away angry at them for thinking that, and at herself for not telling anyone
-    *   Indy and Noxy prep furiously for dinner
+        *   Kulbinder immediately steers conversation toward the question of patrols
+        *   Bonzon cuts him off when he notices Noxy
+        *   invitation delivered
+            *   reveal that the villagers are all vegetarians
+    *   Indy and Noxy prep for dinner
         *   Granna Fee comes by and offers to help
-        *   Indy protests that she has it under control, but takes the apple crumble
+        *   Indy protests that she has it under control, but gratefully takes the apple crumble Fee has brought
         *   belatedly asks if Fee wants to join them
-        *   "Oh, Gas and I have plans," Fee drawled, making her daughter roll her eyes and her granddaughter feel embarrassed
+        *   "Oh, Gas and I have plans for the evening," Fee drawls, making her daughter roll her eyes and her granddaughter feel embarrassed
     *   Dorbu and Kulbinder arrive without Bonzon
         *   the colonel sends his apologies, but is still not well
         *   Kulbinder: "I hope it's all right that I brought my boy instead - he has enough appetite."
         *   Kulbinder: "I thought he might keep your daughter company while the adults talk."
-        *   Makes Noxy bristle
+        *   makes Noxy bristle
         *   banter between Dorbu and Kulbinder reveals real affection
-        *   Noxy notices how Indy looks at Dorbu
+        *   Noxy notices Indy looking at Dorbu and is embarrassed again
         *   comment on blue-and-white teapot (Indy's favorite colors)
     *   Dorbu explains why he's a rebel
         *   his family lost their farm because they couldn't afford to rent the law that would have saved it
         *   Dorbu joined the rebellion to stop that happening to other people
         *   Indy is pessimistic: people with power will always find a way to use it unfairly
+	*   Dorbu: "There's a big difference between being hungry and starving" (and he's glad he's neither right then)
         *   Indy: "Is it worth killing for?"
-        *   Dorbu (steadily): "I believe it's worthy my life.  And if it's worth mine, it's worth others."
+        *   Dorbu (steadily): "I believe it's worth my life.  And if it's worth mine, it's worth others."
         *   Kulbinder: "I'm a cat" as if that was all that needed to be said
-    *   Suggests that Noxy and Thokmay go and get the spare blankets from under Noxy's bed
+    *   Indy suggests that Noxy and Thokmay go and get the spare blankets from under Noxy's bed
         *   Noxy: "I can do it myself"
         *   Indy: "I'm sure the young soldier wouldn't mind"
         *   Noxy resents being shuffled off
-        *   Noxy and Indy two squabble like sisters sometimes
+            *   Noxy and Indy two squabble like sisters sometimes
     *   Mention Noxy's skylight
-    *   Thokmay notices Noxy's knitted dolls, makes a comment
-        *   Noxy is defensive
+    *   Thokmay notices Noxy's knitted dolls, makes a comment about having seen the old men knit
+        *   Noxy is defensive about them
         *   Thokmay shuts down
     *   the visitors leave
         *   Noxy makes a sharp remark about Indy's interest in Dorbu
@@ -490,85 +493,80 @@ NEEDED
         *   hears something in the jitty between two houses
         *   tucks the dayglass under her coat and creeps forward
         *   dark enough on the street with the gathering clouds
-        *   almost impossible to see anything in the jitty
     *   Noxy sees someone
-        *   for a moment she things it's a troll because of its size
-        *   then a flash of light - it's Thokmay
+        *   for a moment she thinks it's a troll because of its size
+        *   then a flash of light from a shielded lantern reveals it's Thokmay
         *   but what is he doing out?
     *   the kettle in her hand bumps against the wall with a clang
         *   the shadowy shape is instantly gone
         *   she gropes forward after it in the dark
         *   then pulls out her dayglass - no one is there
-    *   returns to the street and is nearly scared to death to find Bonzon waiting there
-        *   Noxy: "What are you doing *up*?"
-        *   Bonzon: "What are you doing out?"
+    *   returns to the street and is nearly scared to death by Kulbinder
+        *   Noxy: "What are you doing *here*?"
+        *   Kulbinder: "What are *you*?"
         *   without thinking, Noxy says that she thought she saw someone
-        *   Before either can answer, the sky opens up and the rain starts to fall
-        *   Bonzon (scowling): "We'll talk about this later"
+        *   before Kulbinder can answer, the sky opens up and the rain starts to fall
+        *   Kulbinder (scowling): "We should both get out of the rain"
     *   Noxy hurries home
         *   Indy: "That took a long time - I was just about to come looking for you"
-        *   Noxy decides not to tell her about seeing someone until after Dorbu and Kulbinder are gone
-        *   Ordered up to her bed
-        *   Flares up: "I'm not a child!"
+        *   Noxy is annoyed enough that she decides not to tell her about seeing someone
+        *   Indy orders her up to bed
+        *   Noxy flares up: "I'm not a child!"
         *   Indy (reasonably): "Then you'll understand that what I'm telling you to do is sensible."
-        *   In bed, suddenly tired, listening to the murmur of conversation, wondering why Thokmay was in the jitty
+        *   lies in bed, wondering why Thokmay was in the jitty, until she falls asleep
 
 ## Chapter 7. Discovered!
 
 *   goals    
-    *   bring royalists into the picture (and set the clock ticking)
+    *   bring royalists into the picture to set the clock ticking
     *   give Bonzon an excuse to lock things down
     *   show the danger that Noxy is in if she gives in to her growing powers
     *   increase mystery around Thokmay
+    *   show that Tasteless is a villain
 *   details
     *   cleaning up after the storm
         *   no fire, just lots of water damage
         *   children playing "don't step in the lava" with the puddles
         *   Granna Fee: "Something must have riled those clouds up"
-    *   soldiers on patrol
+    *   Dorbu ordering soldiers out on patrol
         *   Indy challenges it
-        *   Bonzon: "Anyone could be sneaking around."
+        *   Dorbu (apologetically): "Colonel's orders - anyone could be sneaking around."
         *   Indy scoffs
-        *   Bonzon: "Ask your daughter"
-        *   Indy waits until he's gone before rounding on Noxy
-        *   Noxy confesses that she saw someone
-        *   Indy cuts her off before she can say that she thought it was Thokmay
-        *   Noxy: "Why don't you ever let me finish what I'm saying?"
-        *   Indy: "Why can't you just---"
-    *   interrupted by soldiers
+    *   Noxy is about to tell her mother that she saw Thokmay when they are interrupted by soldiers
         *   two royalist rangers
         *   both apprehended: Kulbinder chased them toward one of the patrols
         *   being brought up now
-        *   their bird got away - "A crow, I think."
+        *   their bird got away - "A hawk of some kind"
         *   Dorbu: "Gifted?"
         *   soldier: "Don't know, honored."
         *   Bonzon joins them (crisply) "Assume the worst"
     *   crowd gathering
         *   Bonzon: "Everyone be about their business"
         *   Indy (sharply): "This *is* our business, colonel."
-        *   Aft: "Does this mean there's an army coming?"
+        *   Grappa Gas: "Does this mean the king's army is coming?"
         *   murmurs of fear in the crowd
-        *   Dorbu (speaking before Bonzon can): "Unlikely."
+        *   Dorbu (soothing, before Bonzon can speak): "Unlikely."
         *   Bonzon (glowering): "But not impossible.  The Fifth was just a few days behind us."
         *   Bonzon: "And even if we *had* taken down that bird, they'll come looking for their rangers."
-        *   Grappa Gas: are you going to fight here?
-        *   Bonzon (impassive): "Only if they come after us, and only if you let them get here."
+        *   Grappa Gas: "Are you going to fight here?"
+        *   Bonzon (impassive): "Only if they come after us, and only if you let them get here - a couple of clouds would stop them."
         *   shocked silence
-        *   Bonzon: "I've seen what your clouds can do."
-        *   Indy: "No!"
+        *   Indy (and others): "No!"
+        *   Tasteless: "I will if you won't"
+        *   Granna Fee: "That's as good a reason not to as any!"
+        *   Tasteless looks to Bonzon, who cuts him off with a gesture
     *   patrol returns with rangers
         *   brief description
-        *   Noxy wonders if the smaller could have been who she saw the night before
-        *   Aft: "We can put them in one of the goof pen tunnels"
+        *   Aft: "We can put them in one of the goof pens"
         *   Kulbinder: "I'll have another look in the forest"
     *   prisoners taken to the tunnels
         *   Indy and Granna Fee exchange a look when they approach the first one
-        *   Granna Fee: "Not that one" (makes excuse that it's too dirty even for prisoners)
-        *   Bonzon (looking at the lock): "They'll be through that in a heartbeat"
+        *   Granna Fee: "Not that one - it's too dirty even for prisoners"
+        *   Bonzon (looking at the clasp on the second one): "They'll be through that in a heartbeat"
         *   Aft (eager to please): "We can nail it shut"
         *   ranger tricks Aft into letting him do the nailing
         *   makes his escape by hitting Aft with the hammer and running
-        *   Noxy is sent to the gate to warn them
+        *   Noxy runs to the gate to warn them
     *   Thokmay is at the gate (the only one wearing his battle mask)
         *   Thokmay: "I'll find Kulbinder"
         *   Noxy (panting): "Why not just let him go?"
@@ -582,8 +580,8 @@ NEEDED
         *   Noxy gets the feeling Thokmay is stalling
     *   Noxy has an episode - feels the trees watching and closing in
         *   Triggers memory of being younger and hiding in the back of an empty tunnel in the wall (without goofs)
-            *   Sharp smell of onions... earthy smell of potatoes and turnips
-            *   Being inside... all that rock above her... she couldn't breathe
+        *   Sharp smell of onions... earthy smell of potatoes and turnips
+        *   Being inside... all that rock above her... she couldn't breathe
     *   Kulbinder joins them
         *   Kulbinder (to Thokmay): "You shouldn't have come. And you shouldn't have brought *her*."
         *   Thokmay: "He could be anywhere."
@@ -593,13 +591,17 @@ NEEDED
         *   points and describes the scene
         *   then she falls over
 
+----------------------------------------
+
 ## Chapter 8: Spies!
 
 *   goals    
-    *   reveal the villain: Bonzon's ruthlessness becomes clear
+    *   reveal the villains
+        *   Bonzon's ruthlessness becomes clear
+        *   as does Tasteless's unscrupulousness
     *   tension among the villagers comes to a boil
     *   Noxy's fears boil over
-    *   the fact that the forest can pay attention
+    *   discover that the forest can pay attention
     *   Rash and Sensy's relationship becoming clear (and with it, Noxy's loneliness)
 *   details
     *   Noxy wakes up in the forest (raindrops spattering on her face)
@@ -613,10 +615,10 @@ NEEDED
         *   Bonzon is at the gate setting up patrols
         *   Indy is arguing with him (and Grappa Gas is shouting) but he is unrelenting: "I do what needs to be done."
         *   both of them round on the new arrivals
-            *   Thokmay hangs back, mask in place, while Kulbinder does the talking to distract Bonzon
+            *   Thokmay hangs back, mask in place, while Kulbinder does the talking
             *   Comment that the other soldiers have their masks on as well: moving with more purpose than before
             *   "We found a trail, but the girl had some sort of fit"
-        *   Indy concerned and exasperated
+        *   Indy concerned
             *   Granna Fee catches Noxy's eyes
             *   her own eyes widen as she realizes
             *   she puts her hand on her daughter's arm to cut her off
@@ -629,7 +631,7 @@ NEEDED
         *   Fee can't talk about Noxy's powers in front of Gas, but she can look worried and ask leading questions
         *   instead, Granna Fee says, "There's something you need to know..."
         *   Grappa Gas gives her a warning look
-        *   Granna Fee: "She's old enough... and she might need to know"
+        *   Granna Fee: "She's old enough..."
     *   a few minutes later, Noxy climbs the stairs - sees Rash and Sensy
         *   she's clearly interrupting them
         *   they talk awkwardly for a bit about what's happening

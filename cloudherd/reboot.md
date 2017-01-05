@@ -93,7 +93,10 @@ NEEDED
         *   Serves as character development: Noxy is used to being in charge of things
     *   Gather at the cloudherding pen (teens have strict orders to help, not get involved)
     *   See how cloudherding works
-        *   In particular, that cloudherds have to touch clouds to mind-speak with them
+        *   in particular
+            *   Aft has to wait until the first cloud is under him to jump
+            *   "Can take an hour sometimes if they're not in the mood"
+            *   cloudherds have to touch clouds to mind-speak with them
         *   Noxy gets her first twinge
         *   Makes her speak sharply to Rash and Sensy (bossing them around)
     *   Getting under way
@@ -303,6 +306,8 @@ NEEDED
         *   annoys Noxy for real
     *   at the cloud pen
         *   Noxy says explicitly that you have to touch clouds to mind-speak to them
+        *   one happens to be right there
+            *   Noxy says again that sometimes you have to wait an hour for one to drift over
         *   asks Thokmay to try
         *   explains what it feels like
             *   empty your mind to make room for another's thoughts
@@ -467,6 +472,10 @@ NEEDED
         *   Kulbinder: "I thought he might keep your daughter company while the adults talk."
         *   makes Noxy bristle
         *   banter between Dorbu and Kulbinder reveals real affection
+        *   Dorbu prays briefly before the meal
+            *   he's a Restorationist: if people are virtuous enough, the Pilots will return
+            *   Kulbinder: "Don't know why you'd want masters"
+            *   Dorbu: "If we're virtuous enough, they will treat us as equals"
         *   Noxy notices Indy looking at Dorbu and is embarrassed again
         *   comment on blue-and-white teapot (Indy's favorite colors)
     *   Dorbu explains why he's a rebel
@@ -576,7 +585,7 @@ NEEDED
     *   Thokmay and Noxy in the forest
         *   Thokmay undoes his mask as soon as they're in the trees
         *   shows woodcraft skills
-        *   Noxy doesn't have (or value) them: she's a cloudherd
+        *   Noxy doesn't have (or value) them --- she's a cloudherd
         *   Noxy gets the feeling Thokmay is stalling
     *   Noxy has an episode - feels the trees watching and closing in
         *   Triggers memory of being younger and hiding in the back of an empty tunnel in the wall (without goofs)
@@ -591,14 +600,10 @@ NEEDED
         *   points and describes the scene
         *   then she falls over
 
-----------------------------------------
-
 ## Chapter 8: Spies!
 
 *   goals    
-    *   reveal the villains
-        *   Bonzon's ruthlessness becomes clear
-        *   as does Tasteless's unscrupulousness
+    *   reveal Bonzon's ruthlessness
     *   tension among the villagers comes to a boil
     *   Noxy's fears boil over
     *   discover that the forest can pay attention
@@ -606,68 +611,70 @@ NEEDED
 *   details
     *   Noxy wakes up in the forest (raindrops spattering on her face)
         *   pressure in her head is gone
-        *   hears Thokmay and Kulbinder talking
+        *   hears Thokmay and Kulbinder talking (muzzy)
         *   Thokmay: "It will take him at least a week to get to the Fifth.  I can't keep hiding from Bonzon that long!"
         *   whatever Kulbinder was going to say is cut short when he realizes Noxy is awake
-        *   asks her what happened
-        *   she says she doesn't know, and it's half-true: the feeling seems like a memory of a bad dream fading in daylight
+    *   Kulbinder asks her what happened
+        *   she says she doesn't know
+        *   it's half-true: the feeling seems like a memory of a bad dream fading in daylight
     *   return to Stale
-        *   Bonzon is at the gate setting up patrols
-        *   Indy is arguing with him (and Grappa Gas is shouting) but he is unrelenting: "I do what needs to be done."
-        *   both of them round on the new arrivals
-            *   Thokmay hangs back, mask in place, while Kulbinder does the talking
-            *   Comment that the other soldiers have their masks on as well: moving with more purpose than before
+        *   Corporal Choegyal is at the gate setting up patrols
+            *   Indy is arguing with him (Grappa Gas is shouting)
+            *   Choegyal is unrelenting: "I do what the colonel tells me."
+        *   Thokmay hangs back, mask back in place, while Kulbinder does the talking
+            *   the other soldiers have their masks on as well: moving with more purpose than before
             *   "We found a trail, but the girl had some sort of fit"
-        *   Indy concerned
+        *   Indy is concerned but distracted: "Last thing we need"
             *   Granna Fee catches Noxy's eyes
-            *   her own eyes widen as she realizes
-            *   she puts her hand on her daughter's arm to cut her off
-            *   makes an excuse: "girls this age... well, young women... here, let me look after her"
-            *   gives Indy a warning look
+            *   Fee's own eyes widen as she guesses what might have happened
+            *   Fee puts her hand on Indy's arm to cut her off
+            *   Fee makes an excuse: "girls this age... well, young women now, I suppose... here, let me look after her"
+            *   hustles Noxy away
             *   takes Gas with her (so that he won't get into a fight)
-            *   Indy goes back to arguing fruitlessly with Bonzon
-            *   meanwhile, Bonzon's men are putting locks on the doors of the traders' hall and nailing the windows closed
+            *   Indy goes back to arguing fruitlessly with Choegyal
     *   walking back to Fee's house
-        *   Fee can't talk about Noxy's powers in front of Gas, but she can look worried and ask leading questions
-        *   instead, Granna Fee says, "There's something you need to know..."
-        *   Grappa Gas gives her a warning look
-        *   Granna Fee: "She's old enough..."
-    *   a few minutes later, Noxy climbs the stairs - sees Rash and Sensy
-        *   she's clearly interrupting them
-        *   they talk awkwardly for a bit about what's happening
-        *   fall silent as a pair of soldiers comes by
+        *   soldiers are putting a bar on the door of the traders' hall and nailing the windows closed
+            *   aside: "Wouldn't occur to Noxy then to wonder why the bar and nails were on the outside..."
+        *   Fee can't talk about Noxy's powers in front of Gas
+            *   instead, looks worried and asks leading questions
+        *   as they pass the goof pens, Granna Fee says, "There's something you need to know..."
+            *   Grappa Gas gives her a warning look
+            *   Granna Fee snaps, "She's old enough..."
+    *   a few minutes later, Noxy climbs the stairs
+        *   sees Rash and Sensy
+        *   is clearly interrupting them
+        *   the three talk awkwardly for a bit about what's happening
+        *   fall silent as a pair of soldiers marches by on patrol
+            *   Noxy wonders how many centuries it has been since soldiers patrolled those walls
         *   Sensy: "I want to go home"
-        *   Rash: "I'll walk with you"
-        *   Noxy offers to come, then suddenly realizes they want to go as a pair
-        *   suddenly realizes she's been forcing herself on them
-        *   she can keep doing that or let them become what they're becoming
+        *   Rash (puts arm around Sensy's shoulders): "I'll walk with you"
+        *   Noxy offers to come
+            *   realizes they want to go as a pair
+            *   and that she's been forcing herself on them
+            *   she can keep doing that or let them become what they're becoming
     *   Noxy stays on the wall feeling very alone
-        *   sees Granna Fee in the distance taking Pillow out for a rain
-        *   waves, and Granna Fee waves back
-        *   makes her feel even more alone
-    *   sees Thokmay on the next section of wall
+        *   sees Thokmay on the next section of wall
         *   needs to be angry at someone, so she decides to be angry at him
         *   is just barely self-aware enough to realize this
-        *   Thokmay has a traveling pack
     *   goes to confront him about what Kulbinder was saying as Noxy woke up
         *   "You're a spy, aren't you?"
         *   Kulbinder (behind Noxy): "No.  *I'm* the spy."
         *   Noxy (backing away): "Stay away from me or I'll---"
-        *   Kulbinder moves toward her threateningly
+        *   Kulbinder moves toward her
         *   Thokmay restrains him with a hand gesture: "You'll what? Tell the sergeant?  Or the colonel?"
         *   Noxy: "Do you think they wouldn't believe me?"
         *   Kulbinder: "Bonzon would.  And then he'd turn me into a rug."
-        *   Kulbinder: magicians aren't the only ones who trade parts of themselves - Bonzon's done it for the revolution
+        *   Kulbinder: magicians aren't the only ones who trade parts of themselves - Bonzon has done it for the revolution
         *   Thokmay (quietly): "Besides, if you turn us in, who's going to save your village?"
         *   Noxy: "What?"
-        *   Thokmay: "They didn't come looking for us.  They're here to take over your clouds to use as weapons."
+        *   Thokmay: "We didn't just wander up here.  We - *they* - are here to take your clouds."
         *   Noxy is aghast: "But they can't!  The other kingdoms wouldn't allow it!"
-        *   Kulbinder: "They're not just rebelling against one king - they've realized they have to rebel against all of them."
+        *   Kulbinder: "They're not just rebelling against one king any more - they've realized they have to rebel against all of them."
         *   Noxy: "We won't! We'll just fly away!"
         *   Thokmay: "And leave all the children behind?"
         *   to Noxy's stunned silence: "Why do you think he's turning the traders' hall into a jail?"
     *   her anger boils over
-        *   rage makes her kick the parapet over and over
+        *   kicks the parapet
         *   stops when Kulbinder snarls at her
         *   realizes that Thokmay has drawn his sword
         *   half a dozen trolls are in the trees near the walls, shaking the branches and hooting
@@ -681,61 +688,66 @@ NEEDED
 ## Chapter 9: Secret Identity
 
 *   goals
-    *   Noxy creeping around ramps up the tension now that Bonzon is revealed as the villain
-    *   set up the trio's escape
-    *   see that Aft and Grappa Gas actually care for each other even though they fight
     *   reveal that Thokmay is the prince
+    *   start the trio's escape
+    *   reveal that Aft and Grappa Gas actually care for each other even though they fight
+    *   Indy's bitterness at Dorbu
 *   details
-    *   Noxy races down the steps with Thokmay and Kulbinder right behind her
+    *   Noxy races down the steps with Thokmay and Kulbinder behind her
         *   gets to the square to see soldiers and Choegyal holding a struggling Grappa Gas in front of Bonzon
         *   Indy remonstrating
-        *   Dorbu there looking very unhappy
-        *   Little Gas won't let go of Noxy's hand, and for once she doesn't resent it
+        *   Dorbu looking very unhappy
+        *   Little Gas takes Noxy's hand, and for once she doesn't resent it
     *   Bonzon cuts Indy off: "hear it for yourself"
-        *   Choegyal reports: "He was trying to pass a hammer to the prisoner with his food"
+        *   Dorbu reports: "He was trying to pass a hammer to the prisoner with his food"
         *   Gas blusters: "Of course it's mine, I was just going to fix up my leg"
         *   Bonzon steps forward and looks at him like a hawk looking at a rabbit: "You're lying"
         *   orders the soldiers to put Gas in with the ranger
-    *   Indy steps in the way and loses her temper: "You don't give orders in my village!"
-        *   Bonzon (waving at the gathering crowd): "This isn't your village, it's theirs. And we are their strong arm."
+    *   Indy loses her temper: "You don't give orders in my village!"
+        *   Bonzon waves at the gathering crowd: "This isn't your village, it's theirs. And we are their strong arm."
         *   Indy: "Let's ask them what they want!"
         *   Bonzon: "Do you ask a child when they want to go to bed?  Or what they want for breakfast?"
     *   Noxy (bursts out): "But grappa isn't the only one you're going to lock up, is he?"
         *   Indy: "What are you talking about?"
         *   Noxy (shaking): "Ask him about the children.  About how he wants to use the clouds."
         *   Indy: "What do you mean?"
+            *   turns to Dorbu: "Did you know about this?"
         *   Dorbu: "We can end this!"
         *   Indy (aghast): "But without rain, people will starve!"
-        *   Dorbu: "People are starving right now"
-    *   Bonzon intervenes: "Enough of this!"
+        *   Dorbu (stubbornly): "People are starving right now.  And if it's worth my life ---"
+        *   Indy: "Who gave you the right to decide it was worth other people's?"
+    *   Bonzon intervenes: "Enough!"
         *   villagers move to intervene
-        *   suddenly swords are out and Noxy is frightened
-        *   Bonzon (quietly): "Explain yourself and this can end peacefully."
-        *   Noxy: "I... I overheard you talking to---"
-        *   Bonzon (still quietly): "No you didn't."
+        *   suddenly swords are out
+        *   Noxy is frightened
+        *   Bonzon (quietly): "How did you find out?"
+        *   Noxy: "I... I overheard a couple of your men talking, and---"
+        *   Bonzon (eyeing her intently): "No you didn't."
     *   orders Noxy taken to the traders' hall for questioning
         *   Indy: "Over my dead body!"
         *   Bonzon: "This is where the villain says, if you insist.  But this isn't a story, and I'm not a villain."
         *   orders Indy taken as well
-    *   Dorbu walks Grappa Gas, Indy, and Noxy toward the traders' hall with a handful of soldiers as guards
+    *   Dorbu and other soldiers walk Grappa Gas, Indy, and Noxy toward the traders' hall
         *   Noxy's mind racing
         *   Indy (to Dorbu): "I *trusted* you."
-        *   Dorbu (anguished): "I'm sorry.  Everything just... got away from us."
+        *   Dorbu (anguished): "I'm sorry."
         *   Grappa Gas (bitter): "You betrayed the king.  Should have known you'd betray us too."
         *   Dorbu apologizes again
-        *   Indy cuts him off: "I am *tired* of men doing things on principle that hurt other people."
+        *   Indy (to Noxy): "What do I always say about apologies?"
+        *   Noxy (defiantly): "The only real apology is to fix what you did."
     *   round the corner and see Aft and a couple of olders next to the goof pen
         *   Grappa Gas (to Aft): "You must be enjoying this."
-        *   Aft: "A bit, but not as much as I'm going to enjoy *this*."
+        *   Aft: "A bit, but not as much as *this*."
         *   Aft swings open the gate and throws in a sack full of peppers
         *   the goofs charge, knocking everyone every which way
-        *   Aft follows with a bellow, swinging the gate post and knocking the soldiers over
-        *   shouts "Go!"
+        *   Aft bellows and charges, knocking one soldier over and grappling with another
+        *   Aft shouts "Go!"
         *   Indy is immediately recaptured by the soldiers
         *   Grappa Gas and Noxy run to the corner
-        *   Grappa Gas (to Noxy): "Get on a cloud and get out of here - warn the others!"
+        *   Grappa Gas (to Noxy): "Get on a cloud and get out of here --- warn our herders!  Warn the other villages!"
         *   Noxy: "I'm not leaving you!"
-        *   Gas (pointing at his leg): "Can't keep up"
+        *   Gas (raps his knuckles his leg): "I can't keep up"
+        *   Gas draws slingshot and scoops up some loose pebbles: "Now go."
     *   Noxy goes up onto the roofs
         *   knows the gate will be guarded
         *   realizes what she has to do
@@ -743,12 +755,12 @@ NEEDED
     *   rooftop to rooftop to the wall and is "caught" by Thokmay
         *   Thokmay: "I have to come with you."
         *   Noxy: "No!"
-        *   A moment later an arrow shatters against the stones
+        *   A moment later an arrow hits the shingles beside them
         *   Bonzon and a couple of archers on a rooftop
         *   Bonzon: "Nobody is going anywhere."
         *   orders Thokmay to remove his battle mask
         *   Thokmay reluctantly complies
-        *   Bonzon (satisfied): "I thought I recognized your voice - honored." (sketches a bow)
+        *   Bonzon (satisfied): "I thought I recognized your voice --- honored." (sketches a bow)
         *   Noxy (confused, but stalling while she mind-speaks to Pillow): "Honored? What?"
         *   Bonzon: "Have you not been introduced?  This is the Most Honored Prince Thokmay of Gandan."
     *   Bonzon orders them to stay where they are
@@ -765,54 +777,82 @@ NEEDED
 ## Chapter 10: Overnight
 
 *   goals
-    *   explain how a prince wound up as a tiger's boy
+    *   explain how a prince became a tiger's boy
     *   start to round out Thokmay's character
     *   start to bring Noxy and Thokmay together
     *   establish Bonzon as the villain
 *   details
-    *   Noxy scatters the peppers to enrage the goofs
-        *   goes to the tunnel in the back of the goof pen
+    *   Noxy and Thokmay escape through a narrow tunnel in the back of the goof pen
         *   Granna Fee told Noxy about it
-            *   it's a secret that only grownups know
-    *   Noxy and Thokmay escape Stale into the forest through the tunnel
-        *   Noxy's claustrophobia
-        *   argument with Thokmay
-        *   not a cave-in, but the support post breaks
-            *   make a joke of it: "Tunnels always cave in just when people are going through them!"
+        *   it's a secret that only grownups know
+        *   takes Noxy a moment to find it, even with the shard of dayglass in her pocket
+            *   makes the escape a cliffhanger
+    *   tunnel is barely wide/high enough for one of them
+        *   "Aft would have to go sideways and duck his head"
+    *   dip in the tunnel is full of water
+        *   Noxy's claustrophobia kicks in
+            *   she feels as dizzy as she did in the forest, but it's not her emerging powers - it's fear
+        *   Thokmay tries to hurry her along
+            *   she loses it
+            *   kicks the wall (like she kicked the parapet)
+            *   not a cave-in, but a section breaks away
             *   heart-stopping moment
+        *   Thokmay makes a joke of it
+            *   "Tunnels always cave in just when people are going through them"
+            *   then encouraging: "What you do every day, flying on a cloud... that takes a lot more courage than this"
         *   wading through the freezing thigh-deep water is the scariest thing Noxy has ever had to do
-    *   go to the winter hut
-        *   have to start a fire so that Noxy's legs won't freeze
+    *   Noxy wants to go to one of the winter huts
+        *   Thokmay: "We can't --- Tasteless will be in the closest one, and they'll look in the others right away"
+        *   leads Noxy to a hollow under a fallen tree where he has stashed some stolen gear
+        *   Thokmay: "Kulbinder found it"
+    *   have to start a fire so that Noxy's legs won't freeze
         *   Thokmay has powder in his cache to make the fire smokeless
-    *   Kulbinder finds them at the hut
-        *   "Can't see it, but I can smell it"
-    *   they spend the night together in the hut
-        *   Thokmay has hidden a cache of gear near it
-        *   they worry about trolls
-        *   talk a little
-        *   don't become friends, but the conversation makes Noxy uncomfortable about disliking him
-    *   Noxy decides to steal a cloud and go to Duck Droppings for help
-        *   argues with Kulbinder, who wants to go directly to the Fifth
-            *   Thokmay stays silent
-            *   he's not keen on rejoining the army
+    *   Kulbinder finds them a few minutes later
+        *   Kulbinder: "Did you know you're surrounded by trolls?"
+        *   Noxy belatedly realizes she should have been afraid
+        *   Kulbinder (looking at Noxy): "Don't know why they're watching over you.  I suppose we all have secrets."
+    *   they spend the night together under the tree
+        *   Thokmay and Noxy talk a little about fostering and kings learning trades
+            *   Thokmay: "My brother's out there somewhere too, and my cousins"
+            *   No guarantee which one will be the next king, though as the older brother, he has the edge
+            *   His tone makes it clear that he's not excited about the prospect
+        *   they don't become friends, but the conversation makes Noxy uncomfortable about disliking him
+    *   Thokmay asks about Noxy's powers
+        *   Noxy hedges: "I'm more sensitive than others --- it takes different people differently"
+        *   Noxy changes subject by briskly saying that they need a plan
+            *   steal a cloud and go to Duck Droppings for help
+        *   Kulbinder wants to go directly to the Fifth
+            *   Thokmay stays silent (not keen on rejoining the army)
         *   Noxy (angrily): "Do you know how to herd clouds? Then be my guest!"
-        *   the tentative overnight reconciliation evaporates
+        *   the tentative reconciliation seems to evaporate
+    *   morning comes: "a fresh sun"
+        *   Thokmay (diplomatically): "whatever we're going to do, I think we need a cloud to do it"
+        *   looking up, they see Big Blue leaving
+        *   Noxy reaches with her mind, realizes with a shock the cloud is being herded by Tasteless
+        *   Noxy: "There are others with him - soldiers.  Just a few."
+        *   Kulbinder: "Looking for us.  There will be others waiting.  We won't be able to stand around waiting until there's a cloud."
+        *   Noxy: "Leave that to me."
     *   Bonzon is waiting for them on the platform
-        *   Big Blue is missing
         *   has Grappa Gas with him as a hostage
             *   didn't know where Noxy would go
-            *   "Dorbu and Choegyal have your mother and Respected Fee elsewhere"
-            *   "Surrender or they'll pay the price!"
+            *   Bonzon: "Corporal Choegyal have your mother and Respected Fee elsewhere"
+            *   Noxy: "And Sergeant Dorbu?"
+            *   Bonzon (coldly): "He is working to regain my full confidence."
+            *   Bonzon: "Now, surrender or they'll pay the price!"
             *   Noxy: "Like the littles will pay if we don't do what you want?"
             *   Thokmay: "Like the people pay when they don't do what nobles want?"
         *   shot hits home - Bonzon is angry
-            *   tell them Aft has taken Big Blue to Duck Droppings with soldiers already
-        *   Grappa Gas charges Bonzon and shoulder-butts him
-            *   Bonzon's sword comes down
-            *   Grappa Gas falls
-            *   Noxy hesitates
-            *   then: "Jump!"
-        *   they run to the edge and jump
+            *   tell them Tasteless has taken Big Blue to Duck Droppings with soldiers already
+            *   Bonzon: "So you see, even if we don't get your clouds, we'll get someone else's"
+    *   Grappa Gas charges Bonzon and shoulder-butts him
+        *   Bonzon punches him
+            *   the casual violence of it shocked Noxy as much as a swordstroke
+        *   Grappa Gas falls, wheezing
+        *   Noxy hesitates
+        *   then: "Jump!"
+    *   they run to the edge and jump
+
+----------------------------------------
 
 ## Chapter 11: Flight
 

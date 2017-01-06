@@ -6,6 +6,7 @@ NEEDED
     *   need a cloud fight
 *   Sensy is a boy
 *   Dorbu is religious
+    *   use the word *sadhu* a couple of times: there's religion in the world
 *   add little observations about the people and setting
 *   give directions shipwise, not compass-wise
 *   lots more animals in the village (chickens, etc.) but none Gifted
@@ -13,7 +14,7 @@ NEEDED
 *   "People follow Shudarga because they love her. They obey Bonzon because they're afraid not to."
 *   "As dead as a dog".
 *   Grappa Gas's wooden leg sprouts new buds in the spring
-*   figure out how to work in kites again - they were fun
+*   the pen net doesn't go to the ground - it's mostly there to stop the clouds drifting out while they're asleep
 
 ## Chapter 1. Soldiers!
 
@@ -763,6 +764,7 @@ NEEDED
         *   Bonzon (satisfied): "I thought I recognized your voice --- honored." (sketches a bow)
         *   Noxy (confused, but stalling while she mind-speaks to Pillow): "Honored? What?"
         *   Bonzon: "Have you not been introduced?  This is the Most Honored Prince Thokmay of Gandan."
+        *   It's just too much for Noxy: she bursts out laughing
     *   Bonzon orders them to stay where they are
         *   Bonzon: "My men are good enough to wound, but there are no guarantees"
         *   Grappa Gas slingshots the first archer in the head
@@ -817,6 +819,8 @@ NEEDED
             *   No guarantee which one will be the next king, though as the older brother, he has the edge
             *   His tone makes it clear that he's not excited about the prospect
         *   they don't become friends, but the conversation makes Noxy uncomfortable about disliking him
+        *   Noxy: "Were the rangers here to rescue you?"
+        *   Thokmay: "No, that was just luck."
     *   Thokmay asks about Noxy's powers
         *   Noxy hedges: "I'm more sensitive than others --- it takes different people differently"
         *   Noxy changes subject by briskly saying that they need a plan
@@ -852,42 +856,78 @@ NEEDED
         *   then: "Jump!"
     *   they run to the edge and jump
 
-----------------------------------------
-
 ## Chapter 11: Flight
 
 *   goals    
     *   passing by a storm (foreshadow its use in later chapter)
-    *   encounter with trolls turns into meeting with Ulfmaerr
+    *   encounter with trolls
+    *   meeting with Ulfmaerr
 *   details
     *   jump onto the cloud
-        *   just barely thickens up enough to catch them
-    *   Kulbinder has an arrow in his flank
-        *   Noxy doesn't realize how bad it is at first
-        *   Pillow's upset about Kulbinder's wound makes her realize
-        *   Kulbinder: "That doesn't matter.  Keep him safe..."
-    *   have to get it out and bind the wound
-        *   show Thokmay's gentleness and skill - he wanted to be a doctress
+        *   Noxy sinks into the cloud, feels smothered
+        *   thickens up just enough to catch her
+        *   can feel the others struggling
+        *   archers shooting at them, but arrows already falling short
+        *   yells at them to hold on, they'll be all right
+        *   thinks: "They'll be safer in there" even as arrows zip through cloud's flank
+    *   Noxy sends the cloud down close to the stream that feeds the pond
+        *   flies under the net to escape from the pen
+    *   Noxy mind-hears Pillow's fear, tries to soothe her
+        *   gets Pillow to firm up so that she can pull Thokmay up onto the cloud
+    *   then Kulbinder
+        *   Kulbinder has an arrow in his flank and is bleeding
+        *   clouds don't like blood...
+        *   Noxy doesn't realize how bad it is until she sees how weak Kulbinder it
+        *   Kulbinder (to Noxy): "Keep him safe..."
+    *   Thokmay gets it out and binds the wound
+        *   show Thokmay's gentleness and skill
+        *   he wanted to be a doctress
         *   Noxy: "Who ever heard of a man being a doctress?"
-    *   see a storm up ahead
+    *   Thokmay: "We have to get him to a proper doctress"
+        *   Noxy blows up: "We don't *have* to do anything!"
+        *   Thokmay (steadily): "We do if we want him to live"
+        *   continues: "And you heard what the colonel said - we can't go to, to Duck Droppings"
+        *   Noxy thinks about how easy it would be to go to the army and let them take care of it
+        *   realizes that "take care of" means "decide"
+        *   stalls: "We have an hour before we have to decide which way we're going"
+    *   but they don't get that hour
+        *   come around a bend and see a herd of wild clouds ahead of them
         *   Thokmay: "Is that the village's herd?"
-        *   Noxy: "No, those are wild clouds."
-        *   Then (heart sinking as she sees lightning): "*Really* wild"
-    *   Can't outrun them
-        *   Noxy: "Too far to get to the herd in one day anyway - we'll have to find shelter."
-        *   She knows a place...
-    *   find the hut and settle in
-        *   have to pick their way up the path in thickening snowstorm
-        *   Kulbinder collapses
-        *   Thokmay carries him
-    *   trolls gather outside
-        *   Noxy: "We can make a run for it."
-        *   Thokmay (shaking his head): "We won't make it."
-        *   Noxy: "Have to try"
-    *   Get ready
-        *   Sudden rush of motion outside, then silence
-        *   They open the door
-        *   Ulfmaerr is sitting there
+        *   Noxy (heart sinking as she sees the first lightning): "No, those are wild --- *really* wild."
+        *   Learn that lightning is produced by bull clouds fighting for dominance
+        *   And to fend off tornadoes and other monsters
+    *   The wild clouds have already spotted Pillow
+        *   Several come over to investigate
+        *   Pillow is scared, but can't outrun them
+        *   The clouds start snowing
+        *   Thokmay: "I wish you had another one of those magic blankets"
+        *   Noxy: "Me too"
+        *   but she knows where she can find something almost as good
+        *   Noxy (aloud): "I know a place where we can take shelter"
+    *   pull into the side of Three Springs Canyon
+        *   Kulbinder collapses as he tries to get off the cloud
+        *   Thokmay sets aside his gear and carries Kulbinder on his shoulders
+            *   weight makes him stagger
+            *   Thokmay: "I will *not* leave you"
+        *   trio picks their way up the path through the snowstorm
+            *   the wild herd is bigger than Noxy realized
+    *   enter the hut
+        *   a few coals still glowing in the stove
+        *   Thokmay settles Kulbinder in front of it
+        *   Noxy goes outside to get more firewood
+    *   Kulbinder is awake when she gets back
+        *   Thokmay takes first watch
+        *   Kulbinder and Noxy talk a bit about the hut's occupant
+    *   Thokmay bursts in
+        *   trolls are gathering outside
+        *   Noxy: "They haven't hurt us before"
+        *   Thokmay: "Can you speak to them?" (meaning mind-speak)
+        *   Noxy: "I don't know.  I don't know if it would be safe.  The last time I tried..."
+    *   hooting outside and the sound of trolls on the roof, then silence
+        *   they open the door
+        *   Ulfmaerr is standing there
+
+----------------------------------------
 
 ## Chapter 12: Lost and Found
 

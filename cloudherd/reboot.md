@@ -1015,20 +1015,18 @@ NEEDED
         *   second owl via Redclaw: "People on it.  And some of them have arrows.  Wicked things."
         *   Noxy goes cold: soldiers
 
-----------------------------------------
-
 ## Chapter 13: Chase
 
 *   goals    
-    *   get readers' hearts pounding again after a chapter of talk
+    *   get readers' hearts pounding again after a chapter of exposition
+    *   cloudback chase
     *   Noxy discovers that using her magic has a price
     *   meet the trolls
-    *   cloudback chase
     *   find out more about the forest
-    *   show Dorbu's conflicted feelings
 *   details
     *   Noxy rouses Pillow with a mind-shout as she runs back to Ulfmaerr's cottage to wake Thokmay and Kulbinder
         *   she can feel how weary Pillow is
+        *   fleeting thought: what she just did would have seemed remarkable just a couple of days ago
     *   Kulbinder is still weak, but can move
         *   Thokmay offers to carry him
         *   Kulbinder snarls (wounded pride)
@@ -1042,76 +1040,70 @@ NEEDED
         *   Ulfmaerr laughs incredulously but uncomfortably
         *   Thokmay (quietly, to Noxy): "We don't have time"
         *   Noxy wonders for a moment when there was time, what she missed, when it could have been different
-        *   then wipes angry tears from her eyes: "Come on."
-    *   the trio reaches the cloud just as Big Blue comes into view
+        *   then wipes angry tears from her eyes: "Then stay."
+    *   the trio reaches Pillow just as Big Blue comes into view
         *   Noxy reaches recklessly with her mind (still angry and sad about her father)
-        *   Aft is piloting
-        *   Noxy realizes Big Blue came over the mountain
-        *   found her by looking down from on high
-    *   suddenly realize they are surrounded by trolls
+        *   Tasteless is piloting
+        *   Noxy realizes Big Blue came over the mountain and found her by looking down from on high
+        *   terribly dangerous - she can feel Big Blue's fear - but Tasteless is driving him hard
+    *   they suddenly realize they are surrounded by trolls
         *   everyone freezes
         *   even Ulfmaerr is surprised
         *   old troll (silvered fur, sad eyes) comes forward and looks searchingly at Noxy
         *   she realizes he's the one she met in the forest
-    *   moment is broken by an arrow striking a stone
-        *   ranging shot from the cloud
-        *   Big Blue turns, then resumes course
-        *   Noxy reaches out with her mind again and feels Aft's helpless anger via Big Blue
-            *   new power for her - didn't realize she could do that
-        *   another arrow strikes the stones
-        *   Noxy: "It's Aft - we have to go!"
+    *   moment is broken by an arrow striking a stone twenty strides away
+        *   ranging shot from the archers on the cloud
     *   they try to board the cloud
         *   the trolls block them
-        *   Thokmay reaches for his sword instinctively
-        *   Ulfmaerr (sharply): "No."
-        *   Linger speaks: he'll come with them - they're going to need a guide anyway
-        *   Noxy: why?
-        *   Linger: the forest wants to speak to you in person
+        *   Thokmay reaches for his sword, Kulbinder crouches to pounce
+        *   Linger speaks: he's going to come with them
+        *   Noxy: "Why?"
+        *   Linger: "The forest wants to speak to you in person."
         *   Ulfmaerr's eyes go wide with surprise
     *   before Noxy can make sense of that she is knocked sideways by a troll
         *   arrow strikes the troll in the leg
         *   Noxy, Thokmay, Kulbinder, Ulfmaerr, and Linger pile onto the cloud and take off
-        *   Pillow is exhaused
+        *   Pillow is exhausted
         *   Noxy starts to command, pauses, lets her own strength flow into the cloud
         *   they accelerate away
         *   Ulfmaerr looks at her: "That was reckless"
-        *   Noxy doesn't understand until she realizes that she can't see colors with one eye
-        *   pokes it experimentally: it bends, but she can't feel it any more
+        *   Noxy doesn't understand until Thokmay's shocked outburst
+        *   Noxy's hair is turning white
         *   magic has a price
+        *   Noxy: "I didn't - I didn't mean to!"
+        *   Ulfmaerr: "Then be grateful the world didn't take more than that"
     *   cloud chase
         *   Big Blue gets close enough to see Dorbu on cloudback with archers
-        *   and for Aft to yell "Come back!"
+        *   Tasteless: "Give it up, girl!"
         *   Noxy: "Traitor!"
-        *   Dorbu: "Please!  Noxy... Kulbinder... we don't want to hurt anyone!"
+        *   Dorbu stops Tasteless's next taunt: "Please!  Thokmay... Kulbinder... we don't want to hurt anyone!"
     *   Noxy makes a cloud wall, but it only conceals them
         *   Pillow is getting more tired by the minute flying upwind
-        *   Aft: "Don't make us do this the hard way!"
-    *   Linger (through Ulfmaerr) tells them they should go the opposite direction from the way they're flying
-        *   head for the deep forest where humans are never allowed
-    *   Noxy reaches with her mind and finds a cloud from the night before
-        *   separated from its herd
-            *   tired himself out dueling with bigger bulls using lightnings
-            *   awake now that the sun is up
-        *   takes Pillow around a spur of rock, rests for a minute
-        *   raises the cloud wall higher to blend in against the snow
-        *   tells everyone to be quiet
-        *   waits, waits... feels Big Blue going past
-        *   now!
-        *   Pillow doubles back (wind at her back)
-        *   Noxy looks at her finger
-        *   asks Ulfmaerr if she can trade toes instead
-        *   "Yes, but there isn't time to teach you"
-        *   Linger intercedes: has made the bargain for her
-    *   they fly faster
-        *   Big Blue is behind them again
-        *   she has Pillow scrape over a snowfield
-            *   Big Blue blinded by snow as disturbed clouds let flurries loose
-            *   flies straight into the bull
-        *   while their pursuers are distracted, they jump off one by one into the snow
-        *   she tells Pillow to hurry home
-            *   doesn't need to be told twice
-        *   under cover of snow they hurry into the trees
-        *   wait for Big Blue to pass overhead chasing Pillow
+        *   Tasteless (exultant): "You can't keep this up, girl!"
+        *   Noxy reaches out - can feel how hard he's driving Big Blue
+    *   Linger tells them they can find refuge in the forest up ahead
+        *   Noxy (despairing): "They'll catch us before we get there"
+        *   Linger: "No they won't"
+    *   Pillow steers closer to the cliff face
+        *   Noxy tries to stop her, but someone else is giving the orders
+        *   someone much, much bigger...
+        *   Big Blue follows
+        *   Tasteless (taunting): "What are you going to do, scrape us off?"
+        *   sudden hail of rocks flung by trolls on the cliff above them
+        *   Noxy feels sick as a big rock hits an archer and knocks him over the side
+            *   falls silently, unconscious
+        *   looking up, she sees the trolls racing to keep up with the clouds
+        *   Tasteless pulls away and starts to climb
+    *   canyon opens out into a valley
+        *   sides are almost vertical - surface collapsed into an underground cavern ages ago
+        *   Pillow sets them down
+        *   they disembark and move under the cover of the trees
+        *   Noxy sends Pillow home
+    *   looking back, sees Big Blue come over the mountain
+        *   their pursuers can't see them under the trees
+        *   Linger: "We must go"
+
+----------------------------------------
 
 ## Chapter 14: The Deep Forest
 

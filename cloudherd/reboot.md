@@ -2,6 +2,8 @@
 
 NEEDED
 
+**What does each major character want?**
+
 *   Add Tasteless!
     *   need a cloud fight
 *   Sensy is a boy
@@ -925,68 +927,95 @@ NEEDED
         *   Noxy: "I don't know.  I don't know if it would be safe.  The last time I tried..."
     *   hooting outside and the sound of trolls on the roof, then silence
         *   they open the door
-        *   Ulfmaerr is standing there
-
-----------------------------------------
+        *   Ulfmaerr is standing there with an armload of firewood
 
 ## Chapter 12: Lost and Found
 
 *   goals    
     *   the tragedy of Ulfmaerr's sacrifice
-        *   he can't remember that Noxy is his daughter
-        *   even when told, he immediately forgets
     *   compare with Thokmay's relationship with his father
         *   who often seems to forget that he has a son, rather than just a potential heir
     *   meet the owl (a bit of informative comic relief)
 *   details
-    *   Ulfmaerr leads them back into the hut
-        *   talking to all three as if they're strangers
-        *   Thokmay gives Noxy questioning looks, but she ignores them
-    *   heals Kulbinder
-        *   loses the ability to see the color yellow
-    *   dinner
-    *   Ulfmaerr goes back outside to look for trolls
-    *   Noxy explains what happened
+    *   Ulfmaerr asks politely if he can join them
+        *   Noxy (bitterly): "Why not? It's your home"
+        *   Ulfmaerr (lightly): "I don't really have a home, youngling"
+            *   Vaardan accent adds extra vowels in strange places
+            *   pale like the traders who occasionally came through the pass
+        *   talks to all three as if they're strangers
+        *   Thokmay gives Noxy a questioning look at her tone, but she ignores him
+    *   uses magic to heal Kulbinder
+        *   Thokmay: "Will he be all right?"
+        *   Ulfmaerr: "I hope so"
+        *   Thokmay: "But the spell worked, didn't it?"
+        *   Ulfmaerr: "That just means that I'm going to hold up my end. Doesn't guarantee it'll do what I want."
+        *   Kulbinder (weakly): "And what price did you pay?"
+        *   Ulfmaerr: "There are another few colors I can't see any more"
+    *   Ulfmaerr makes tea and offers them some biscuits
+        *   acorn flour - Noxy has never liked acorn flour, even as a baby
+        *   Kulbinder: "I don't suppose you have any fish?  Or a rabbit?"
+        *   Ulfmaerr: "I'm afraid not."  (sighs) "Rabbit would be nice"
+        *   Thokmay: "I imagine the forest wouldn't be too keen on that"
+        *   Ulfmaerr: "Forest wouldn't mind - animals eat each other all the time.  I just don't have anywhere to keep it."
+        *   Noxy: "You could always put it in the snow."
+        *   Ulfmaerr (blinks, as if just noticing her): "Oh.  Um.  Yes, I suppose I could."
+    *   Ulfmaerr makes a mess of dinner
+        *   Thokmay steps in
+        *   Noxy and Thokmay explain what happened
+        *   Ulfmaerr: "That explains why the forest has been so upset."
+        *   Thokmay: "We're trying to figure out what to do next" (fishing)
+        *   Ulfmaerr (briskly): "In my experience, the best thing is to sleep."
+        *   Ulfmaerr will go outside
+            *   tells a protesting Thokmay that he has to - can't sleep under the same roof as other people
+            *   to Kulbinder: "Which, you'll be pleased to know, includes the Gifted"
+            *   Kulbinder: "What magic thinks of me matters little"
+            *   Ulfmaerr goes outside
+    *   Thokmay (after a pause): "If you want to talk, I'll listen"
         *   plague of scribbles (the one that killed Aft's mother)
         *   Noxy shows the dark scars on her calves
         *   Ulfmaerr sacrificed to drive it back
-            *   can't sleep in the same place two nights in a row
-            *   turns out the whole of Stale counts as a place
-            *   but he can't remember that his family is his
-            *   just knows something is wrong
+        *   but he can't remember that his family is his
         *   She explains that he built her skylight so that she wouldn't feel closed in
             *   She used to lie in bed and listen to her father tell stories, looking at the stars and clouds until she fell asleep
             *   (laughs) "Sometimes he'd take my dolls and make little plays with them"
             *   She immediately feels foolish for having admitted that
-    *   Thokmay responds kindly with some details of his own
+    *   Thokmay responds with some details of his own
+        *   Thokmay: "I wonder sometimes if my father remembers who I am"
+        *   hastens to add: "I don't mean he's a magician, he just...  Most of the time, I'm his most likely heir, not his son"
         *   he became a spy to please his father, and to show that he's ready to be king
         *   Thokmay: "It's all I've ever wanted"
         *   says that Noxy's little knitted dolls remind him of his sister's
-        *   "She's... special.  Hers help her calm down."
+        *   Thokmay: "She's... special.  Hers help her calm down."
         *   explains that he got his scars from Kulbinder when he tried to run away
-        *   Noxy: "What will your father say?"
+        *   Noxy: "What will your father say when he finds out?"
         *   Thokmay (showing some bitterness): "He'll say it was my fault for getting caught."
     *   They sit in silence for a moment, each feeling an "I can't believe I just did that" rush
         *   Noxy realizes that she's never explained these things before
         *   Doesn't know whether it's because she knows everyone in Stale, or because of the circumstances
         *   Thokmay closes by saying it feels good to take his mask off
         *   he goes to sleep
-    *   Noxy goes outside
+    *   Noxy feels too tired to sleep
+        *   goes outside
         *   fresh dusting of snow on the rocks
-    *   Redclaw (Gifted owl) is there talking to her father about the trolls
-        *   Ulfmaerr is knitting a blue and white scarf (Indy's favorite colors)
+        *   she just stands there, feeling the cold air splash on her face, thinking how beautiful it all is
+    *   Ulfmaerr is knitting a blue and white scarf (Indy's favorite colors)
+        *   greets Noxy with a surprised tone: clearly doesn't remember who she is or her name
+        *   Redclaw (Gifted owl) is there talking to her father about the trolls
         *   the troll who has been the voice of the forest for many years is very old
         *   the forest has never had a human voice before
-        *   but it thinks something big is coming and it wants one
-        *   so it wants to talk to Noxy
+        *   but it thinks something big is coming and it wants a stowaway to speak for it
+        *   Noxy: "Stowaway?"
+        *   Ulfmaerr: "That's what the forest calls us"
     *   second owl arrives
         *   chirps at Redclaw
         *   Redclaw: "There's a cloud coming"
         *   Noxy: "Flying at night?"
         *   Redclaw: "Why wouldn't someone fly at night?"
-        *   Before Noxy can answer: "Lots of people on it.  And some of them have arrows.  Wicked things."
-        *   Noxy goes cold: soldiers, but how? Who could be piloting it?
-        *   Redclaw: "They'll be here soon."
+        *   Noxy: "Because it's dangerous!"
+        *   second owl via Redclaw: "People on it.  And some of them have arrows.  Wicked things."
+        *   Noxy goes cold: soldiers
+
+----------------------------------------
 
 ## Chapter 13: Chase
 
@@ -1376,6 +1405,8 @@ NEEDED
         *   So he sleeps in caves
     *   He and Indy were in love - he's Noxy's father - but he has
         traded memories of that for magic
+        *   Can't remember that Noxy is his daughter
+        *   Even when told, he immediately forgets
     *   He talks to the forest
         *   Calls it "the real passenger on this voyage" - people are
             just stowaways

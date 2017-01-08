@@ -20,7 +20,7 @@ NEEDED
 
 ## Chapter 1. Soldiers!
 
-*   goals    
+*   goals
     *   introduce most major characters (not Bonzon, Tasteless, or Ulfmaerr)
         *   Noxy
         *   Rash and Sensy
@@ -72,7 +72,7 @@ NEEDED
 
 ## Chapter 2. Rescue
 
-*   goals    
+*   goals
     *   introduce Bonzon and Tasteless (the villains)
     *   first mention of Noxy's emerging ability
     *   Rash and Sensy
@@ -137,7 +137,7 @@ NEEDED
 
 ## Chapter 3. Tension at Home
 
-*   goals    
+*   goals
     *   Bonzon vs. Dorbu
         *   Bonzon wants to order the Stalers around (but is initially too weak to do so)
         *   Dorbu wants to persuade them and work around their needs
@@ -235,7 +235,7 @@ NEEDED
 
 ## Chapter 4. The Tiger's Boy
 
-*   goals    
+*   goals
     *   get Thokmay into the picture
         *   Thokmay is reserved and watchful
         *   raise questions in the reader's mind about him
@@ -332,7 +332,7 @@ NEEDED
 
 ## Chapter 5. Swimming and Conversation
 
-*   goals    
+*   goals
     *   Thokmay's fall into the pond is a burst of adrenaline after the slowness of the previous chapter
     *   Noxy can't fool herself any longer about her abilities
     *   backstory about her father
@@ -433,7 +433,7 @@ NEEDED
 
 ## Chapter 6. The Gathering Storm
 
-*   goals    
+*   goals
     *   deepen mystery around Thokmay
     *   explain the rebellion
     *   develop Bonzon as the villain
@@ -529,7 +529,7 @@ NEEDED
 
 ## Chapter 7. Discovered!
 
-*   goals    
+*   goals
     *   bring royalists into the picture to set the clock ticking
     *   give Bonzon an excuse to lock things down
     *   show the danger that Noxy is in if she gives in to her growing powers
@@ -605,7 +605,7 @@ NEEDED
 
 ## Chapter 8: Spies!
 
-*   goals    
+*   goals
     *   reveal Bonzon's ruthlessness
     *   tension among the villagers comes to a boil
     *   Noxy's fears boil over
@@ -860,7 +860,7 @@ NEEDED
 
 ## Chapter 11: Flight
 
-*   goals    
+*   goals
     *   passing by a storm (foreshadow its use in later chapter)
     *   encounter with trolls
     *   meeting with Ulfmaerr
@@ -931,7 +931,7 @@ NEEDED
 
 ## Chapter 12: Lost and Found
 
-*   goals    
+*   goals
     *   the tragedy of Ulfmaerr's sacrifice
     *   compare with Thokmay's relationship with his father
         *   who often seems to forget that he has a son, rather than just a potential heir
@@ -1017,7 +1017,7 @@ NEEDED
 
 ## Chapter 13: Chase
 
-*   goals    
+*   goals
     *   get readers' hearts pounding again after a chapter of exposition
     *   cloudback chase
     *   Noxy discovers that using her magic has a price
@@ -1103,13 +1103,11 @@ NEEDED
         *   their pursuers can't see them under the trees
         *   Linger: "We must go"
 
-----------------------------------------
-
 ## Chapter 14: The Deep Forest
 
-*   goals    
-    *   Noxy discovers what choice she has to make
-    *   reader gets first hint that this is part of a much larger story
+*   goals
+    *   Noxy discovers the terrible choice she has to make
+    *   readers get more hints that this is part of a much larger story
         *   forest refers to humans and others as "stowaways"
     *   the awe of talking to a forest
         *   and of realizing that it isn't the slightest bit human
@@ -1117,96 +1115,80 @@ NEEDED
 *   details
     *   met by a band of trolls in the trees
         *   have to get rid of their iron (including Thokmay's sword)
-        *   when Noxy looks around, Linger is gone
-    *   feeling guilty, Noxy reaches out to Pillow to make sure the cloud is all right
-        *   passes out
-        *   wakes up, nearly passes out again - the forest is too much
-    *   the trio catches up with Ulfmaerr (who has gone ahead)
-        *   eat and rest
-        *   Noxy dreams about the forest
-    *   come to a clearing at the foot of a steep cliff
-        *   Noxy sees a house - *her* house
+    *   Noxy reaches out to Pillow one more time to make sure the cloud is all right
+        *   passes out: the forest is too much
+        *   dreams about the forest again (the house made of woven trees)
+    *   walk through the forest
+        *   description of places human beings have never gone
+        *   but come across odd pieces of stonework: Pilots' work
+    *   come to a clearing at the edge of a steep cliff
+        *   land spread out below them
+        *   a few young clouds - bulls driven away from their herd
+    *   Noxy sees a house - *her* house
         *   Thokmay sees the fort near Pandan where he and Kulbinder were stationed
     *   Noxy goes in
         *   conversation with the old woman
         *   the offer: she can be powerful, but only in the service of the forest
             *   Noxy: "What happens to me?"
-            *   forest: "What happens to a snowflake when it falls on a snowbank?"
+            *   forest: "What happens to a snowflake when it falls on a snowbank?  What happens to a drop of rain that falls on a river?"
         *   Noxy doesn't want to
-            *   forest (gently): "But you need my help to save your village"
+            *   forest (gently): "But you need my help"
             *   Noxy sees through the eyes of creatures lurking in the trees near Stale
             *   children have been rounded up
             *   her mother is imprisoned with Granna Fee
-            *   Choegyal is having a muttered argument with Dorbu about letting her go
-            *   Choegyal: "Respected, you are the best sergeant I've ever served, but if I ever hear you talking like that again, I'm taking it to the colonel"
+            *   Choegyal is having a muttered argument with Dorbu
+            *   Choegyal: "Respected, you are the best sergeant I've ever served, but if you ever talk like that again, I will take it straight to the colonel"
         *   Noxy: "Why won't you just help?"
-            *   forest: "All this will pass"
-            *   get a sense of how old the forest really is
+            *   forest shows her everything else that's happening
+                *   rabbit being eaten, deer with broken leg shivering out its last few breaths
+            *   the forest is vast and indifferent
+        *   Noxy: "And if I don't, you'll take my power away?"
+        *   forest: "It is not mine to take"
     *   forest sends her back to her friends
         *   Noxy wakes up on the ground (again - "this is getting tiresome")
         *   she has been unconscious for almost a full day
-        *   "forests don't think quickly"
+        *   Thokmay: "forests don't think quickly"
         *   the others have mind-heard bits and pieces
             *   Thokmay is awed
             *   Noxy thinks it's because of the forest
             *   he's actually in awe of her
             *   Noxy: "So you know...?"
             *   Thokmay nods - he and the others understand what the forest is asking her to give up
+    *   takes a while to rouse Linger
+        *   Noxy can tell that the old troll is dying
     *   Noxy realizes that the village's herd will be returning soon
         *   they only have a day left to stop Bonzon
         *   and no cloud to get home on
 
-## Chapter 15: Charger
+## Chapter 15: Ride the Lightning
 
-*   goals    
-    *   set up the final chapter
-    *   break our hearts a little (Ulfmaerr and Noxy)
+*   goals
+    *   rousing climax
+    *   break our hearts a little
+        *   Ulfmaerr: the knitted doll that he made for Noxy
+        *   Noxy: plans to sacrifice herself to the forest for power
+        *   Thokmay: sacrifices kingship
+        *   Dorbu: his life for a better revolution
 *   details
-    *   squabbling among the foursome
+    *   squabbling
         *   Kulbinder wants to sneak through the forest to get back to the Fifth
         *   Ulfmaerr wants to go back to his knitting
         *   Noxy wants to save Stale, but doesn't know how
-        *   Noxy: "Have to do it before the adults bring the herd back because they'll just give in"
-        *   Kulbinder: "Do you really think that's the right thing to do?"
-        *   Noxy (snaps): "If I *knew* what the right thing to do was, I'd do it!"
-    *   Thokmay interrupts Kulbinder as he's poking holes in Noxy's plan: "We're going back to Stale"
+            *   Noxy: "Have to do it before the adults bring the herd back because they'll just give in"
+            *   Kulbinder: "Do you really think that's the right thing to do?"
+            *   Noxy (snaps): "If I *knew* what the right thing to do was, I'd do it!"
+    *   Thokmay (flatly): "We're going back to Stale"
         *   Kulbinder starts to speak
         *   Thokmay cuts him off: "That isn't a request"
         *   looks at Ulfmaerr: "You're coming too"
         *   continues: "You may not remember it, but she's your daughter.  They're your family."
-        *   "And even if they weren't, what do you think is going to happen if the rebel army - *any* army - gets away with this?"
-        *   Kulbinder: "And I suppose you have a plan?"
+        *   Kulbinder: "And do you have a plan?"
         *   Thokmay: "Not yet"
         *   Kulbinder (growling): "Well, do you at least have a plan for getting us back to the fortress?"
-        *   Noxy looks up at the sullen cloud in the distance, thinks about what the forest said: "I do."
-    *   the trolls carry them up the cliff
-        *   because hiking up would take too long
-        *   passed from troll to troll along the way to keep up speed
-        *   a pair of bears waiting at the top
-        *   they eye Kulbinder, who is deliberately nonchalant
-        *   then lead the foursome along a path that's hardly there
-    *   they're on a ridge high enough for Noxy to call a cloud
-        *   Pillow is too far away
-        *   but the wild cloud they ran into is still nearby
-        *   recap the earlier argument
-            *   Noxy: "Ride it? It's wild! I mean, *really* wild!"
-            *   Thokmay (calmly): "But you're special."
-            *   Kulbinder (aside, as Noxy starts to concentrate): "You did that well"
-            *   Thokmay: "I had a good teacher"
-    *   she calls it
+        *   Noxy goes to the edge of the cliff, looks down at the clouds, thinks about what the forest said: "I do."
+    *   Noxy calls it
         *   it comes, but is angry and is going to attack them
-
-## Chapter 16: Ride the Lightning
-
-*   goals    
-    *   rousing climax (nothing wrong with a bit of melodrama)
-    *   people make sacrifices
-        *   Ulfmaerr: the knitted doll that he made for Noxy
-        *   Noxy: plans to sacrifice herself to the forest for power
-        *   Thokmay: sacrifices kingship
-        *   Dorbu dies defending the revolution
-*   details
-    *   the cloud shoots lightning at the cliff below them
+        *   the cloud shoots lightning at the cliff below them
         *   Ulfmaerr puts his hand on her shoulder - his strength flows into her
         *   the cloud calms down and obeys her
         *   Noxy (angry): "What did you do?  What did you trade?"
@@ -1225,75 +1207,77 @@ NEEDED
         *   the forest is there
         *   Thokmay takes her hand
             *   Noxy realizes everyone on the cloud can mind-hear the forest
-        *   Noxy: "I'm ready"
+        *   Noxy: "I will give you what you want if you will help me"
             *   Thokmay: "No!"
             *   offers the forest his claim to the kingship instead
         *   long pause, then the forest agrees
         *   Kulbinder (angry): "Why?"
         *   Thokmay: "I guess I've spent too much time listening to Sergeant Dorbu"
-    *   back at Stale
-        *   bring Charger into the cloud pen
-            *   archers on the ridge
-            *   other clouds back away
-            *   Noxy lets him go - he doesn't want to be in the cloud pen any more than she wants to be underground
-    *   Dorbu is waiting
+    *   return to Stale
+        *   strange clouds in the pen from Duck Droppings
+    *   land Charger outside the gate
+        *   archers on the wall
+        *   Dorbu is waiting
         *   Thokmay: "I was hoping the colonel would be here"
         *   Dorbu: "He thought this might be a trap"
-        *   orders two soldiers to stay at the cloud pen with Ulfmaerr
-        *   talk on the walk back to Stale
-        *   Noxy can barely contain her anger and disappointment
-            *   mentions some of the things she saw through the forest's eyes
-            *   Dorbu assumes she has spies
-            *   he's genuinely pained when she asks, "Is this your revolution? Children held hostage?"
+        *   Dorbu is genuinely pained when Noxy asks, "Is this your revolution? Children held hostage?"
         *   she notices rustling in the forest, but doesn't look (doesn't want to alert Dorbu)
     *   Bonzon waiting at the gates
-        *   he monologues briefly for the benefit of his troops
+        *   he monologues briefly - speaking more for the benefit of his troops
         *   Thokmay doesn't shout "now!" - just closes his eyes
     *   forest attacks
-        *   bear charges
+        *   bears charge
         *   trolls swarm the walls
-    *   Bonzon is driven up onto the wall
-        *   Charger senses Noxy's hatred and shoots lightning at him
+    *   Charger senses Noxy's hatred of Bonzon and shoots lightning at him
         *   Dorbu knocks him out of the way and is struck
-        *   Thokmay (distraught): "He wasn't worth it!"
+        *   Bonzon flees
+    *   Thokmay and Kulbinder hurry over to Dorbu
+        *   Thokmay (weeping): "He wasn't worth it!"
         *   Dorbu (dying): "No he wasn't.  But what we're fighting for is."
-    *   Bonzon is taken prisoner and the fighting quickly ends
+    *   Kulbinder chases Bonzon to the pen with Noxy right behind
+        *   Bonzon flings himself over the edge
+        *   a moment later one of the Duck Droppings clouds rises with Bonzon and Tasteless on board
+        *   they escape
 
-## Chapter 17: The Beginning
+## Chapter 16: The Beginning
 
-*   goals    
-    *   epilogue
+*   goals
+    *   wrap things up
     *   set up the next book
 *   details
-    *   Noxy wishes she could believe it had all been a dream
+    *   Noxy wakes up wishing she could believe it had all been a dream
         *   but the ache in her muscles won't let her pretend
         *   lies there for a moment thinking about a world where Dorbu is dead and Bonzon is alive
         *   then about one where all the village children are free and Bonzon is in prison
+        *   then realizes it's all too big to think about
     *   walks through town to check in on Kulbinder and Thokmay
         *   sees Choegyal in the door of the traders' hall, but doesn't acknowledge him
-    *   Ulfmaerr has his pack on and is ready to leave
+    *   Ulfmaerr has his pack on and is ready to leave (having slept in the forest overnight)
         *   Indy is keeping up a brave face, but uses Noxy's arrival as an excuse to go (wiping a tear)
         *   Noxy hugs Ulfmaerr impulsively
             *   he's surprised and says, "I don't know what I've done to deserve this"
             *   Noxy whispers, "But I do"
-    *   Kulbinder is sleeping, but healing
-        *   she talks to Thokmay
-        *   Thokmay is sorry - he wanted to say goodbye
+    *   Kulbinder and Thokmay are up on the wall
+        *   Kulbinder sitting by himself staring out over the forest
+        *   Thokmay: "Best to leave him be for now"
+        *   Thokmay is sorry Ulfmaerr has left - he wanted to say goodbye
         *   brings home to Noxy that it's over
     *   Noxy: "Have you thought about what you're going to tell your father?"
         *   Thokmay: "The truth, I suppose - some good men died."
         *   Noxy: "Not what I meant."
+        *   Thokmay: "It's as much as I know."
     *   Thokmay asks if Noxy has told anyone about her power or the forest's offer
-        *   Noxy: "No. I think Granna Fee, but not all of it."
+        *   Noxy: "No. Granna Fee knows a bit, but not all of it."
     *   Silence for a moment, then Thokmay tentatively asks if she'd like to learn how to juggle
         *   Noxy squeezes his hand: "Sure"
-        *   they go downstairs
+        *   they go downstairs, still holding hands
     *   end with two paragraphs in present tense italics, like the opening
         *   "Look there, in the bow, where the Brumoso Mountains rise..."
         *   just over the horizon, not yet seen, a herd of clouds is on its way home
         *   there, behind old stone walls, a boy and a girl are playing together
         *   they are not children any longer, not really, and they have been hurt, but they will heal
-        *   their world has changed forever, but everyone's does, every day - all any of us can do is ride out our storms and look for clear skies beyond
+        *   their world has changed forever, but everyone's does, every day
+        *   all any of us can do is ride out our storms and look for clear skies beyond
         *   and one day - ah, but that is a story for another time
 
 ## Characters

@@ -3,7 +3,6 @@
 NEEDED
 
 *   whistle language among cloudherds
-*   Sensy is a boy
 *   Dorbu is religious
     *   use the word *sadhu* a couple of times: there's religion in the world
 *   add little observations about the people and setting
@@ -50,11 +49,6 @@ NEEDED
         *   cautiously back away
         *   "What's a troll doing this close to the village?"
     *   arrive to find soldiers who have obviously been through hell
-    *   Rash is there and teases with Sensy (Noxy doesn't catch the romantic undercurrent)
-    *   Indy gets up to introduce Dorbu
-        *   we discover that Noxy is the mayor's daughter
-    *   Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
-        *   Rash: "Is your mother going to let him sleep in the village?"
     *   Dorbu explains that his troop was ambushed
         *   His men are rangers
         *   Part of the team representing the rebellion in Chaghan
@@ -70,6 +64,12 @@ NEEDED
 
 ## Chapter 2. Rescue
 
+*   carryover
+    *   Rash is there and teases with Sensy (Noxy doesn't catch the romantic undercurrent)
+    *   Indy gets up to introduce Dorbu
+        *   we discover that Noxy is the mayor's daughter
+    *   Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
+        *   Rash: "Is your mother going to let him sleep in the village?"
 *   goals
     *   introduce Bonzon and Tasteless (the villains)
     *   first mention of Noxy's emerging ability

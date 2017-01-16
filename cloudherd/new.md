@@ -12,7 +12,7 @@ Mutiny that scarred the moon, turned Lake Karaband into a sea of
 glass, and littered the land with strange magic.  When it was over the
 Pilots were gone, leaving the world to carry on as best it could.*
 
-*Now look there, where the Brumoso Mountains look down on the endless
+*Now look there, where the Brumoso Mountains rise above the endless
 squabbles of the Ninety-Nine Kingdoms.  A girl is doing her chores.
 No longer a child but not yet an adult, she has no idea that her world
 is about to change forever...*

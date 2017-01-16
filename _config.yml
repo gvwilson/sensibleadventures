@@ -2,6 +2,11 @@
 # Values for this site.
 #------------------------------------------------------------
 
+# Overall.
+title: "Sensible Adventures"
+author: "Greg Wilson"
+email: "gvwilson@third-bit.com"
+
 # Domain for searches.
 domain: "http://sensibleadventures.com"
 
@@ -11,11 +16,9 @@ repo: "https://bitbucket.org/gvwilson/sensibleadventures"
 # Root URL for site below domain.
 root: ""
 
-# Overall lesson title.
-title: "Sensible Adventures"
-
-# Contact email address.
-email: gvwilson@third-bit.com
+# Magic to make URLs resolve both locally and on GitHub.
+# See https://help.github.com/articles/repository-metadata-on-github-pages/.
+repository: <USERNAME>/<PROJECT>
 
 # Files and directories that are not to be copied.
 exclude:

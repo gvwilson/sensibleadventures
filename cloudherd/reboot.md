@@ -2,10 +2,7 @@
 
 NEEDED
 
-**What does each major character want?**
-
-*   Add Tasteless!
-    *   need a cloud fight
+*   whistle language among cloudherds
 *   Sensy is a boy
 *   Dorbu is religious
     *   use the word *sadhu* a couple of times: there's religion in the world
@@ -17,6 +14,7 @@ NEEDED
 *   "As dead as a dog".
 *   Grappa Gas's wooden leg sprouts new buds in the spring
 *   the pen net doesn't go to the ground - it's mostly there to stop the clouds drifting out while they're asleep
+*   Dorbu is shocked by the revelation that Bonzon is there to take control of clouds
 
 ## Chapter 1. Soldiers!
 

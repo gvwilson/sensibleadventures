@@ -359,14 +359,14 @@ stuck here with the littles again."
 "Really?"  Rash ran his thumb over his mustache again.  "Then why
 isn't anyone ordering us around?"
 
-Noxy puffed an annoyed breath.  "Wait here," she ordered.
+Noxy opened her mouth, closed it, then grunted, "Wait here."
 
 She strode toward the center of the square where her mother was
 speaking with the sergeant.  The tiger sat impassively on his haunches
-next to them, his tail twitching occasionally.  The boy with the
-scarred face stood beside him, his pack on the ground.  His face was
-beyond exhausted, but when his shoulders started to droop, the tiger
-growled quietly and he snapped to attention again.
+next to them, twitching his tail at every sudden sound.  The boy with
+the scarred face stood beside him.  His face was beyond exhausted, but
+when his shoulders started to droop, the tiger growled quietly and he
+snapped to attention again.
 
 Noxy's mother caught sight of her.  "Oh, and this is my daughter,
 Probably Noxious."
@@ -377,7 +377,7 @@ Noxy hesitated, wondering if she was supposed to bow back, and was
 immediately annoyed at herself.  Cloudherds didn't bow---that was a
 silly lowlander custom.  "Just call me Noxy," she told him.  "*Amma*,
 which cloud do you want me and Sensy and Rash on?  We can go and start
-getting them ready while everyone's still jawing."
+getting them ready while everyone's jawing."
 
 Indy gave her daughter a look that Noxy knew all too well.  "Who said
 anything about you three going?"
@@ -394,8 +394,12 @@ it?  And---
 continued, "But you ride with Grappa Gas and Granna Fee, and that's
 all you do---ride.  Understood?"
 
-Noxy nodded obediently.  "Yes, *amma*." FIXME: her grin and Sergeant
-Dorbu's reaction.
+Noxy nodded obediently.  "Yes, *amma*."  She turned to go, trying and
+failing to keep a smug grin off her face.  Behind her, she heard her
+mother sigh and Sergeant Dorbu say, "My men do that to me all the
+time."
+
+FIXME
 
 It only took the villagers a few minutes to gather what they needed.
 Rockfalls and avalanches were common in the mountains, and more than

@@ -14,6 +14,7 @@ NEEDED
 *   Grappa Gas's wooden leg sprouts new buds in the spring
 *   the pen net doesn't go to the ground - it's mostly there to stop the clouds drifting out while they're asleep
 *   Dorbu is shocked by the revelation that Bonzon is there to take control of clouds
+*   Use the condors
 
 ## Chapter 1. Soldiers!
 

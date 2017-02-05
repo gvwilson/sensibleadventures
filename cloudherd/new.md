@@ -610,15 +610,16 @@ once seen with one happy face and one sad, except the soldiers' looked
 fierce and weary.
 
 The older cloudherds helped drag the worst of the injured onto the
-cloud, spacing the soldiers out to keep their weight balanced.  As
-they were doing this, a soldier began arguing with Aft, pointing at a
-large tent standing a short distance away from the others.  Other
-soldiers joined in, until Aft was facing a half-circle of angry men.
+cloud, spacing the soldiers out to keep their weight balanced.
+Meanwhile, a soldier began arguing with Aft, pointing at a large tent
+standing a short distance away from the others.  Other soldiers joined
+in, until Aft was facing a half-circle of angry men.
 
 Finally he threw up his hands in surrender.  Noxy couldn't hear what
-he said, but a dozen men broke away from the group and hurried as best
-they could toward the tent.  As their comrades climbed onto Pillow,
-Aft made sweeping motions with his arm and pointed at the outcrop.
+he said, but half a dozen men broke away from the group and hurried as
+best they could toward the tent.  As their comrades climbed onto
+Pillow, Aft made sweeping motions with his arm and pointed at the
+outcrop.
 
 "No no no," Grappa Gas muttered.  "You can take them all, lad, just
 get them loaded up and get out of there."
@@ -631,10 +632,10 @@ angrily.  "But look---over there!"
 Something brown moved behind the trees a dozen strides from the lower
 edge of the outcrop.  Something else---something larger---briefly let
 itself be seen a few strides further away.  In singles and pairs and
-packs, the forest was mustering its servants.
+packs, the forest was mustering.
 
-Grappa Gas spat over Big Blue's side.  "It's holding back for now," he
-said.  "But if we go in, it'll be on us like an avalanche."
+Grappa Gas spat over Big Blue's side.  "They're holding back for now,"
+he said.  "But if we go in, they'll be on us like an avalanche."
 
 "It's not your decision to make," Granna Fee told him.  "Aft's riding
 fore on this one, and---"
@@ -643,68 +644,67 @@ fore on this one, and---"
 looked like he wanted to spit again.
 
 Granna Fee pressed her palm into Big Blue's back and closed her eyes.
-A moment later the cloud began to descend.
+The cloud began to descend.
 
-Grappa Gas looked at the three teenagers sternly.  "You shout as soon
-as you see anything, you hear me?"
+Grappa Gas glared at the three teenagers.  "You see something, you
+shout, got it?"
 
-"Yes, grappa," Sensy said with a gulp as Rash and Noxy nodded.
+"Yes, grappa," Noxy said.  Rash and Sensy just nodded.
 
 Ten heartbeats, twenty... They were level with the camp.  Granna Fee
 halted their descent long enough for Pillow to lift off and drift out
-of their way.  "Hurry it up!" Grappa Gas bellowed at the soldiers who
-had gone back to the large Each.  They had emerged with heavy
-canvas-wrapped bundles over their shoulders, and were picking their
-way through the camp to the cloud.
+of their way.  "Hurry up!" Grappa Gas shouted, waving urgently.
 
+The soldiers who had gone back to the large tent struggled toward the
+cloud, each with a heavy canvas-wrapped bundle on his shoulder.
 Everything might have been all right if a cougar hadn't chosen that
-moment to step out of the trees.  Catching sight of it, one of the
-soldiers snatched a branch out of the fire and waved it, shouting,
-"Hah! Get back! Hah!"
+moment to step out of the trees.  Catching sight of it, the soldier at
+the end of the line snatched a branch out of the fire and waved it,
+shouting, "Hah! Get back! Hah!"
 
 "Oh no," Granna Fee breathed.  Beside her, Grappa Gas swore fiercely
-and pulled his slingshot out of his belt.  In one smooth, practiced
-motion he pulled its brace down, loaded it with a water-smoothed rock
-from his pocket, drew, aimed, and fired.
+and yanked his slingshot out of his belt.  In one smooth motion he
+folded its brace down against his forearm, pulled a water-smoothed
+rock from his pocket, drew, aimed, and fired.
 
-*Thwack!*  Even from thirty strides away, Noxy heard the stone strike
-the soldier's hand and send the branch flying.  "Run, man, run!"
-Grappa Gas shouted.
-
-But it was too late.  The forest was awake now, awake and angry.
-Sensy shrieked and Grappa Gas cursed as a brown bear charged out of
-the trees, reared up on its hind legs, and roared a challenge.
-Another bear joined it, then a cougar, and then the trees were full of
-trolls, a dozen, two, three, a whole troop of them, hooting and
-shaking the branches around them until it looked like the trees
-were trying to pull themselves out of the ground and come after the
-soldiers themselves.
-
-The soldiers ran, boots thudding on the stone under the weight of
-their bundles.  The one who had picked up the burning branch stumbled
-at the edge of the outcrop and fell forward, his bundle hitting the
-ground heavily beside him.  "Come on come on come *on*!" Grappa Gas
+*Thwack!* Even from thirty strides away, Noxy heard the stone strike
+the branch and send it flying.  "Run, you idiot, run!"  Grappa Gas
 shouted.
 
-The soldier struggled to his feet, picked up his bundle, and heaved it
-onto the back of the cloud.  "Go!" he commanded, throwing himself onto
-the cloud's flank.
+It was too late.  The forest was awake now, awake and angry.  Sensy
+shrieked as a brown bear charged out of the trees to rear up on its
+hind legs and roar, "Get them!"  Another bear joined it, then a
+cougar, and then the trees were boiling with trolls, dozens of them,
+hooting and shaking branches until it looked like the trees were
+trying to uproot themselves.
 
-The animals charged.  Bears and cougars, a snarling wolverine, trolls
-on all fours with their teeth bared, all came roaring and snarling and
-hooting through the camp.
+"Get them!" the Gifted bear roared again, and the animals charged.
+Bears and cougars, a snarling wolverine, trolls on all fours with
+their teeth bared, all came roaring and snarling and hooting through
+the camp, the Gifted and the ordinary side by side, their own feuds
+forgotten because someone had raised fire against the forest.
 
-"I've got him!" Grappa Gas shouted to Granna Fee, diving forward to
-grab the man's arm as he slipped down the slippery side of the cloud.
-Big Blue surged upward just a stride ahead of the onrushing creatures.
+The first of the soldiers fell to one knee, dragged himself back to
+his feet, and fell forward onto Pillow's flank.  "I've got you!" Rash
+shouted, dragging the bundle and then the soldier up onto the cloud.
+Another, a third, a fourth, a fifth---
 
-"Look out!" Rash yelled, grabbing Sensy's arm and pulling her back as
-the cougar leaped up at them.  The two teens fell together in a heap
-on the cloud.  The cougar snarled with disappointment as it missed the
-edge of the cloud by a palm's width.
+"Look out!" Noxy shouted at the last soldier as a cougar snarled and
+launched itself at him.  The soldier spun around and held up his hand
+as if to signal *stop!*
 
-Higher, higher... Noxy let out her breath, only then realizing that
-she'd been holding it.  "That was close," she said shakily.
+The cougar crumpled mid-air and fell to the ground as though it had
+hit an invisible wall.  The soldier doubled over to vomit, then
+stumbled the last half dozen steps to the cloud.  Rash and Sensy
+grabbed his bundle.  Noxy took his hand.  "Go! Go! Go!" she shouted.
+
+Pillow pulled herself into the air.  A second cougar made a leap for
+the soldier's dangling legs and snarled with rage as it missed them by
+a handspan.  Noxy felt herself slipping under the soldier's weight,
+but strong hands grabbed her shoulders.  Together, Grappa Gas and Rash
+pulled her and the soldier onto the cloud.
+
+Noxy rolled over and stood up.  "That was close," she said shakily.
 
 "Too close.  Too *damned* close!"  Grappa Gas rounded on the soldier
 he had saved.  "We could have been dinner, all of us, and for what?"
@@ -719,24 +719,27 @@ iron.  "Well that's a mess of a thank you!" he said angrily.
 The soldier released him.  "My apologies.  And thank you."  He swept
 his gaze across everyone on the cloud.  "Thank you all."
 
-"Hmph."  Grappa Gas scowled at the impassive soldier.  "So what was so
+"Hmph."  Grappa Gas scowled at the impassive soldier.  "What was so
 aching important you just couldn't leave it behind?"
 
-"My men."  The soldier nodded toward the bundle at his feet.  "These
-are the ones who didn't make it.  I promised them we would give them
-a proper remembrance."
+"My men."  The soldier nodded toward the bundle at his feet, his face
+set.  "I promised them we would give them a proper farewell."
 
-Half a dozen expressions flitted across Grappa Gas's face, leaving a
-look of weariness in their wake.  "Ah.  Sorry, lad.  I'm sorry."
+Half a dozen expressions flitted across Grappa Gas's face as he
+realized what their cargo was.  "Ah.  Sorry, lad.  I'm sorry."  He
+hesitated.  "And that magic you did---I hope it didn't cost more than
+you can afford."
 
-The soldier nodded.  "Thank you."  He glanced over his shoulder, where
-the forest's creatures were tearing every man-made thing in the camp
-to pieces.
+The soldier glanced over his shoulder.  Behind them, the forest
+creatures were tearing every man-made thing in the camp to pieces.
+"It doesn't matter.  All that matters is that my men are safe."
 
-"Not to worry, honored," one of the men beside Noxy said, his accent
-as burred as any cloudherd's.  "We'll come back in the spring and set
-the ghosts of the others to rest."
+"Safe as houses, honored," one of the men beside Noxy said, his accent
+as burred as any cloudherd's.  "And don't worry.  Stale's folk will
+give your dead a proper send-off."
 
-Granna Fee's eyes popped open in shock.  Grappa Gas spun to look at
-the man, who grinned up at him insolently.  "Oh, and thanks for the
-pull-up," he said.  "Mind if I take over for a bit?"
+Grappa Gas spun around.  "You! What are *you* doing here?"
+
+The man who had spoken wiped a his nose on his sleeve and grinned
+humorlessly.  "Flying, by the looks of it.  Hey, Fee!"  He patted the
+cloud.  "Mind if I take over for a bit?"

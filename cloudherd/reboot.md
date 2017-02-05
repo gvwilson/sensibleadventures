@@ -2,11 +2,14 @@
 
 NEEDED
 
+*   clouds have a hard time carrying things they can't sense
+    *   like bodies
+*   give Yestevan a real name
+    *   "Nobody cares if a dragon eats him."
 *   whistle language among cloudherds
 *   Dorbu is religious
     *   use the word *sadhu* a couple of times: there's religion in the world
 *   add little observations about the people and setting
-*   give directions shipwise, not compass-wise
 *   lots more animals in the village (chickens, etc.) but none Gifted
     *   casual prejudice against Gifted (Rash says something)
 *   "People follow Shudarga because they love her. They obey Bonzon because they're afraid not to."
@@ -14,12 +17,27 @@ NEEDED
 *   Grappa Gas's wooden leg sprouts new buds in the spring
 *   the pen net doesn't go to the ground - it's mostly there to stop the clouds drifting out while they're asleep
 *   Dorbu is shocked by the revelation that Bonzon is there to take control of clouds
-*   Use the condors
+*   use the condors somehow
+*   refer to children as 'kits' rather than 'kids'
+*   fig juice to curdle milk for making cheese
+*   sausages
+    *   Noxy and her friends have never encountered sausages before
+    *   Surprised and dismayed when Thokmay starts eating one
+    *   "Is that... It looks like..."
+    *   When Thokmay explains what it actually is, Sensy says (faintly), "That's even worse"
+*   Fortune telling using dice: put twelve in a box, shake it, and see what pattern the irregular images on the dice faces forms.
+*   The Ship of All Years is the funeral boat - in the forest above the village.
+    *   Granna Fee is the village eulogist - has to learn people's lives so that she can tell their stories when they die.
+    *   She tells her stories to Noxy...
+*   "You're running around like a cat with a sock on its head."
+*   It's cold---but at least it's a dry cold.
+*   Ducklings tumbling down an Arctic cliff: a few are injured, but that's OK, because it distracts the foxes from the ones that aren't.
+*   Nosewax
 
 ## Chapter 1. Soldiers!
 
 *   goals
-    *   introduce most major characters (not Bonzon, Tasteless, or Ulfmaerr)
+    *   introduce most major characters (not Bonzon, Yestevan, or Ulfmaerr)
         *   Noxy
         *   Rash and Sensy
         *   Indy
@@ -72,7 +90,7 @@ NEEDED
     *   Noxy is distracted by the tiger, and barely notices the boy beside him with half-healed scars on his cheek
         *   Rash: "Is your mother going to let him sleep in the village?"
 *   goals
-    *   introduce Bonzon and Tasteless (the villains)
+    *   introduce Bonzon and Yestevan (the villains)
     *   first mention of Noxy's emerging ability
     *   Rash and Sensy
     *   Noxy hoping she sees her father
@@ -136,6 +154,10 @@ NEEDED
 
 ## Chapter 3. Tension at Home
 
+FIXME: Yestevan and Aft get into a fight, Thokmay (easily) breaks it up
+* adds some excitement
+* draws attention to Thokmay
+
 *   goals
     *   Bonzon vs. Dorbu
         *   Bonzon wants to order the Stalers around (but is initially too weak to do so)
@@ -168,7 +190,7 @@ NEEDED
     *   more hints about Noxy's powers
     *   Thokmay hiding his face from Bonzon
 *   details
-    *   Grappa Gas and Granna Fee realizes that the "soldier" who made the wisecrack is actually Tasteless
+    *   Grappa Gas and Granna Fee realizes that the "soldier" who made the wisecrack is actually Yestevan
         *   Grappa Gas starts to set the cloud down to kick him off
         *   Dorbu stops him: "We have wounded"
         *   Granna Fee (grimly): "There'll be another wounded when Aft finds out he's here"
@@ -185,29 +207,29 @@ NEEDED
     *   back to the main square where Indy is re-organizing the villagers
         *   has put on her blue-and-white jacket (her favorite colors, sky and snow)
         *   was halfway through getting things set up when the first cloud arrived with news of how many soldiers
-        *   she's getting an update from Aft when Gas, Fee, and the others arrive with Tasteless in tow
-        *   Aft picks up a piece of kindling and makes for Tasteless
+        *   she's getting an update from Aft when Gas, Fee, and the others arrive with Yestevan in tow
+        *   Aft picks up a piece of kindling and makes for Yestevan
         *   Indy intervenes, but is just as unhappy
-        *   Tasteless affects to be amused
+        *   Yestevan affects to be amused
         *   Dorbu (puzzled): "Meant no offense, but-"
         *   Indy (curtly): "He's been shunned."
         *   Bonzon (resists being taken to lie down): "We needed a guide"
-        *   Resolution: he can sleep in one of the winter huts
-        *   Aft: "We'll have to smoke it clean after"
+        *   Resolution: Yestevan can sleep in one of the winter huts
+        *   Aft (growling): "We'll have to smoke it clean after"
     *   Thokmay reports to Dorbu wearing his battle mask (Bonzon is nearby)
         *   Dorbu: "Why are you masked?"
         *   Thokmay (woodenly, half-muffled by the mask): "I was moving too slowly on the stairs, honored."
         *   Dorbu: "I'm going to have a word with that tiger about how hard he pushes you."
         *   Thokmay: "I would be grateful if you did not, honored."
+            *   Figure out later Thokmay is hiding his face from Bonzon
         *   Dorbu (shaking head as Thokmay leaves): "Pushes himself too hard, that one.  And Kulbinder pushes him even harder sometimes."
         *   Bonzon (frowning): "An orphan?"
         *   Dorbu: "Yes, honored.  Came to us just a few months before the rebellion."
         *   Bonzon tells Dorbu they need to have a discussion away from prying ears
-        *   Figure out later Thokmay is hiding his face from Bonzon
     *   Conversations at home
         *   Indy has Noxy make tea
         *   Gas shows up first: "We're being overrun! We have to do something!"
-            *   Cites Tasteless as example - "How can we trust people who trust the likes of him?"
+            *   Cites Yestevan as example - "How can we trust people who trust the likes of him?"
             *   Takes out his knitting, then takes something eye-watering out of his pocket and puts it in his tea (lighten up the story)
             *   Noxy makes an excuse and escapes upstairs for a moment to get away from the smell
             *   Brief description of her room - she opens her skylight a bit to let the smell out
@@ -243,7 +265,7 @@ NEEDED
         *   She mind-speaks with clouds from a distance again
     *   introduce the tunnel (used later)
     *   introduce the goofs (used later)
-    *   explain why Tasteless is unwelcome
+    *   explain why Yestevan is unwelcome
 *   details
     *   open with Indy exasperatedly trying to get Noxy ready to go out
         *   Noxy pushes back
@@ -293,9 +315,9 @@ NEEDED
         *   villages have dragon names like people
             *   Noxy explains what those are
         *   Noxy sees a wisp of smoke rising from a winter hut chimney
-            *   sees Tasteless come out and pee
+            *   sees Yestevan come out and pee
             *   he waves
-        *   Noxy makes a comment about how crass Tasteless is
+        *   Noxy makes a comment about how crass Yestevan is
             *   Thokmay (reasonably): "Well, everyone needs to do it"
             *   Noxy takes offense again (taking the village's side automatically)
         *   Thokmay: "What did he do?"
@@ -336,7 +358,7 @@ NEEDED
     *   Noxy can't fool herself any longer about her abilities
     *   backstory about her father
     *   another clue that Thokmay is more than he seems
-    *   backstory on Tasteless
+    *   backstory on Yestevan
     *   Colonel Bonzon comes into focus as the villain
     *   tension between Grappa Gas and Aft reflects larger tension within village
     *   discover that Aft used to be in love with Indy
@@ -366,7 +388,7 @@ NEEDED
         *   Kulbinder swims to Thokmay
         *   clear that both are struggling - might both drown
             *   Noxy is frozen: did she do this? how could she have done this?
-        *   Tasteless arrives
+        *   Yestevan arrives
             *   throws a rope to the drowning pair
             *   Thokmay grabs it and Kulbinder
             *   Kulbinder wriggles free: "Save yourself!"
@@ -395,12 +417,12 @@ NEEDED
             *   Grappa Gas circling over head, shouts, "Are they all right?"
             *   Noxy: "I think so!"
             *   Grappa Gas nods and turns the cloud back toward the pen
-            *   Tasteless (shouting up): "You're welcome!"
+            *   Yestevan (shouting up): "You're welcome!"
         *   everyone starts walking back to the village
             *   Indy, Aft, and Granna Fee meet them part-way
             *   as soon as Aft hears that Thokmay fell in, he loses his temper at Gas
-                *   Tasteless makes a crack
-                *   Aft blocks Tasteless from entering the village
+                *   Yestevan makes a crack
+                *   Aft blocks Yestevan from entering the village
             *   Thokmay and Kulbinder go to the sauna
                 *   Kulbinder: "It will feel like home"
         *   Grappa Gas joins them (limps up the path with a one-two stride)
@@ -427,7 +449,7 @@ NEEDED
             *   bargained with a passing whale by accident
             *   Noxy (hesitantly): "Do you think I might be a magician some day?"
             *   Granna Fee (starts to smile, then realizes Noxy is serious): "Maybe.  But nobody and nothing can *make* you a magician.  You have to choose."
-        *   segue into discussion of Tasteless
+        *   segue into discussion of Yestevan
             *   Granna Fee (coldly): "He made his choice too"
 
 ## Chapter 6. The Gathering Storm
@@ -452,8 +474,8 @@ NEEDED
     *   wild clouds start to gather around the distant peaks in the afternoon
         *   Granna Fee: "They can tell the forest is upset, and it's upsetting them"
         *   Indy: "The last thing we need is a storm"
-        *   Fee looks at Tasteless walking past with Corporal Choegyal: "Better a storm than *him*" (loud enough to be overheard)
-        *   Tasteless smirks, then catches sight of Aft glowering and hurries to catch up with Choegyal
+        *   Fee looks at Yestevan walking past with Corporal Choegyal: "Better a storm than *him*" (loud enough to be overheard)
+        *   Yestevan smirks, then catches sight of Aft glowering and hurries to catch up with Choegyal
     *   Noxy sent to invite Bonzon, Dorbu, and Kulbinder to dinner
         *   Noxy: "the tiger too?"
         *   Bonzon up and around, though obviously still weak
@@ -533,7 +555,7 @@ NEEDED
     *   give Bonzon an excuse to lock things down
     *   show the danger that Noxy is in if she gives in to her growing powers
     *   increase mystery around Thokmay
-    *   show that Tasteless is a villain
+    *   show that Yestevan is a villain
 *   details
     *   cleaning up after the storm
         *   no fire, just lots of water damage
@@ -563,9 +585,9 @@ NEEDED
         *   Bonzon (impassive): "Only if they come after us, and only if you let them get here - a couple of clouds would stop them."
         *   shocked silence
         *   Indy (and others): "No!"
-        *   Tasteless: "I will if you won't"
+        *   Yestevan: "I will if you won't"
         *   Granna Fee: "That's as good a reason not to as any!"
-        *   Tasteless looks to Bonzon, who cuts him off with a gesture
+        *   Yestevan looks to Bonzon, who cuts him off with a gesture
     *   patrol returns with rangers
         *   brief description
         *   Aft: "We can put them in one of the goof pens"
@@ -805,7 +827,7 @@ NEEDED
             *   then encouraging: "What you do every day, flying on a cloud... that takes a lot more courage than this"
         *   wading through the freezing thigh-deep water is the scariest thing Noxy has ever had to do
     *   Noxy wants to go to one of the winter huts
-        *   Thokmay: "We can't --- Tasteless will be in the closest one, and they'll look in the others right away"
+        *   Thokmay: "We can't --- Yestevan will be in the closest one, and they'll look in the others right away"
         *   leads Noxy to a hollow under a fallen tree where he has stashed some stolen gear
         *   Thokmay: "Kulbinder found it"
     *   have to start a fire so that Noxy's legs won't freeze
@@ -833,7 +855,7 @@ NEEDED
     *   morning comes: "a fresh sun"
         *   Thokmay (diplomatically): "whatever we're going to do, I think we need a cloud to do it"
         *   looking up, they see Big Blue leaving
-        *   Noxy reaches with her mind, realizes with a shock the cloud is being herded by Tasteless
+        *   Noxy reaches with her mind, realizes with a shock the cloud is being herded by Yestevan
         *   Noxy: "There are others with him - soldiers.  Just a few."
         *   Kulbinder: "Looking for us.  There will be others waiting.  We won't be able to stand around waiting until there's a cloud."
         *   Noxy: "Leave that to me."
@@ -847,7 +869,7 @@ NEEDED
             *   Noxy: "Like the littles will pay if we don't do what you want?"
             *   Thokmay: "Like the people pay when they don't do what nobles want?"
         *   shot hits home - Bonzon is angry
-            *   tell them Tasteless has taken Big Blue to Duck Droppings with soldiers already
+            *   tell them Yestevan has taken Big Blue to Duck Droppings with soldiers already
             *   Bonzon: "So you see, even if we don't get your clouds, we'll get someone else's"
     *   Grappa Gas charges Bonzon and shoulder-butts him
         *   Bonzon punches him
@@ -1042,9 +1064,9 @@ NEEDED
         *   then wipes angry tears from her eyes: "Then stay."
     *   the trio reaches Pillow just as Big Blue comes into view
         *   Noxy reaches recklessly with her mind (still angry and sad about her father)
-        *   Tasteless is piloting
+        *   Yestevan is piloting
         *   Noxy realizes Big Blue came over the mountain and found her by looking down from on high
-        *   terribly dangerous - she can feel Big Blue's fear - but Tasteless is driving him hard
+        *   terribly dangerous - she can feel Big Blue's fear - but Yestevan is driving him hard
     *   they suddenly realize they are surrounded by trolls
         *   everyone freezes
         *   even Ulfmaerr is surprised
@@ -1073,12 +1095,12 @@ NEEDED
         *   Ulfmaerr: "Then be grateful the world didn't take more than that"
     *   cloud chase
         *   Big Blue gets close enough to see Dorbu on cloudback with archers
-        *   Tasteless: "Give it up, girl!"
+        *   Yestevan: "Give it up, girl!"
         *   Noxy: "Traitor!"
-        *   Dorbu stops Tasteless's next taunt: "Please!  Thokmay... Kulbinder... we don't want to hurt anyone!"
+        *   Dorbu stops Yestevan's next taunt: "Please!  Thokmay... Kulbinder... we don't want to hurt anyone!"
     *   Noxy makes a cloud wall, but it only conceals them
         *   Pillow is getting more tired by the minute flying upwind
-        *   Tasteless (exultant): "You can't keep this up, girl!"
+        *   Yestevan (exultant): "You can't keep this up, girl!"
         *   Noxy reaches out - can feel how hard he's driving Big Blue
     *   Linger tells them they can find refuge in the forest up ahead
         *   Noxy (despairing): "They'll catch us before we get there"
@@ -1087,12 +1109,12 @@ NEEDED
         *   Noxy tries to stop her, but someone else is giving the orders
         *   someone much, much bigger...
         *   Big Blue follows
-        *   Tasteless (taunting): "What are you going to do, scrape us off?"
+        *   Yestevan (taunting): "What are you going to do, scrape us off?"
         *   sudden hail of rocks flung by trolls on the cliff above them
         *   Noxy feels sick as a big rock hits an archer and knocks him over the side
             *   falls silently, unconscious
         *   looking up, she sees the trolls racing to keep up with the clouds
-        *   Tasteless pulls away and starts to climb
+        *   Yestevan pulls away and starts to climb
     *   canyon opens out into a valley
         *   sides are almost vertical - surface collapsed into an underground cavern ages ago
         *   Pillow sets them down
@@ -1235,7 +1257,7 @@ NEEDED
         *   Dorbu (dying): "No he wasn't.  But what we're fighting for is."
     *   Kulbinder chases Bonzon to the pen with Noxy right behind
         *   Bonzon flings himself over the edge
-        *   a moment later one of the Duck Droppings clouds rises with Bonzon and Tasteless on board
+        *   a moment later one of the Duck Droppings clouds rises with Bonzon and Yestevan on board
         *   they escape
 
 ## Chapter 16: The Beginning
@@ -1327,7 +1349,7 @@ NEEDED
     *   Ulfmaerr: a magician, originally from Vaarda; Noxy's father (but
         that's revealed gradually - he doesn't remember, because he traded
         family for magic).
-    *   Tasteless: disgraced and shunned cloudherd working with Bonzon
+    *   Yestevan: disgraced and shunned cloudherd working with Bonzon
         because he's desperate to get back on cloudback.  (Used his cloud
         to ferry some thieves into a city and some people were killed.)
     *   Big Blue and Pillow: two clouds kept in Stale through the winter.
@@ -1368,7 +1390,7 @@ NEEDED
     *   "Normal in a girl your age with your changes coming." (Granna
         Fee)
     *   But then she mind-hears Pillow becoming agitated just before
-        Tasteless arrives, and starts to wonder if she's going to go
+        Yestevan arrives, and starts to wonder if she's going to go
         crazy.
     *   There are stories about cloudherds who can mind-talk
         without touching the clouds, and they all end with the

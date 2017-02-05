@@ -740,6 +740,6 @@ give your dead a proper send-off."
 
 Grappa Gas spun around.  "You! What are *you* doing here?"
 
-The man who had spoken wiped a his nose on his sleeve and grinned
-humorlessly.  "Flying, by the looks of it.  Hey, Fee!"  He patted the
-cloud.  "Mind if I take over for a bit?"
+The man who had spoken wiped a his nose on his arm, leaving a long
+streak of nose drool on his sleeve.  "Flying, by the looks of it.
+Hey, Fee!"  He patted the cloud.  "Mind if I take over for a bit?"

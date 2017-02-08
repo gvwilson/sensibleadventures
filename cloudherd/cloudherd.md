@@ -796,6 +796,8 @@ that meant 'back away and give me some room'.  She caught her breath.
 She had *known* one of the clouds was upset even before she'd heard
 the horn---but how?
 
+&HERE
+
 Her mother was still organizing people in the square.  Yes, the
 soldiers would stay in the trading hall, she'd already said that.
 Yes, the wounded---where else would they go?  And yes, there *were* a

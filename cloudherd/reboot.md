@@ -154,10 +154,6 @@ NEEDED
 
 ## Chapter 3. Tension at Home
 
-FIXME: Yestevan and Aft get into a fight, Thokmay (easily) breaks it up
-* adds some excitement
-* draws attention to Thokmay
-
 *   goals
     *   Bonzon vs. Dorbu
         *   Bonzon wants to order the Stalers around (but is initially too weak to do so)

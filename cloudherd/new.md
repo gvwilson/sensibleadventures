@@ -251,11 +251,10 @@ Travellers who strayed off them were rarely given warnings, and
 *never* given second chances.
 
 A cold breeze whipped the sergeant's words across the square as he
-continued.  "We finally made it back to the road, but the worst of our
-wounded couldn't go any further, so we left them in camp with a few of
-the able-bodied and came here for help."  All traces of his earlier
-smile were gone.  "That was the day before last.  I pray they're still
-all right, but if they are, they won't be for much longer."
+continued.  "The worst of our wounded couldn't go any further, so our
+commander made camp and sent us here for help."  All traces of his
+earlier smile were gone.  "That was yesterday morning.  I pray they
+are still safe, but if they are, they won't be for much longer."
 
 Grappa Gas broke the silence that followed.  "So which side *are* you
 on?" he asked, his voice still loud but a notch less rude.
@@ -263,9 +262,9 @@ on?" he asked, his voice still loud but a notch less rude.
 "I have the privilege of serving Respected Shudarga in this matter,"
 Sergeant Dorbu answered calmly.
 
-A handful of elders gasped at the rebel leader's name, but Aft crossed
-his arms and nodded approvingly.  "Good for you!" he said firmly, his
-glare daring his father to disagree.
+A handful of oldsters gasped at the rebel leader's name, but Aft
+crossed his arms and nodded approvingly.  "Good for you!" he said
+firmly, his glare daring his father to disagree.
 
 Grappa Gas thumped his wooden leg loudly on the cobblestones.  "Good
 for them, maybe, but what about us?  If the king's men come looking
@@ -396,12 +395,12 @@ all you do---ride.  Understood?"
 
 Noxy nodded, trying and failing to suppress a triumphant grin.  "Yes,
 *amma*."  As she turned to go, she heard her mother sigh and Sergeant
-Dorbu say, "My men do that to me all the time."
+Dorbu say, "My men do that to me all the time too."
 
-It only took the villagers a few minutes to gather what they needed.
 Rockfalls and avalanches were common in the mountains, and more than a
 few tinkers and traders had been lifted out of a difficult spot after
-running into a bear or a pack of trolls.  Coils of hemp rope with
+running into a bear or a pack of trolls, so it only took the villagers
+a few minutes to gather what they needed.  Coils of hemp rope with
 spider-silk cores hung ready in the long shed next to the cloud pen,
 and everyone kept an extra yakskin cap somewhere, just in case.
 
@@ -458,16 +457,17 @@ Aft looked up and smiled they way he only did when he was on a cloud.
 three long strides across Big Blue's back and launched himself into
 the air again.
 
-Rash whistled.  "Nice leap," he said appreciatively as Aft landed with
-an audible *poof!* right in the middle of Pillow.  "And blind, too."
+Rash whistled.  "Nice leap," he said appreciatively as Aft landed
+squarely in the middle of Pillow's back with an audible *poof!* "And
+blind, too."
 
 "It's not such a trick," Noxy said dismissively, though she was
 secretly impressed.  "He must have got Big Blue to tell him where she
 was."
 
-"Sure, but would you trust a cloud's directions that much?"  Rash
-challenged her.  "Most of the time I can't make cheese or cherries out
-of what they say."
+"Sure, but would you trust a cloud's eyes that much?"  Rash challenged
+her.  "Most of the time I can't make cheese or cherries out of what
+they say."
 
 Noxy shrugged.  She had realized early in their training that
 mind-talking was a lot easier for her than it was for Sensy or Rash,
@@ -492,21 +492,19 @@ you've been paying attention to your lessons."
 
 The boy nodded and raised it to his lips to blow two long notes, *dee*
 *dah*.  Big Blue obediently turned and drifted over to the platform.
-As soon as he was within reach, Rash reached out and pressed his hand
-against the cloud, blowing the same two notes again.  It was hard to
-train a cloud to answer to sound---to anything other than
-mind-speech---but it was one of the hundred skills the teens had to
-master if they hoped to ride the giant creatures on their own some
-day.
+It was hard to train a cloud to answer to sound, and much less
+reliable than mind-speech, but it was one of the hundred skills the
+teens had to master if they hoped to ride the giant creatures on their
+own some day.
 
-Aft brought Pillow up to the platform next to Big Blue and stepped off
-nonchalantly.  With a mutter and a glare, Grappa Gas told the
-teenagers to get on, get on, they didn't have all day.  He and Granna
-Fee followed.  "Oof," Noxy's grandmother said as she sat cross-legged.
-"That's not as easy as it used to be."  But then she smiled like the
-girl she had once been and put her arm around Noxy.  Her granddaughter
-leaned against her the way she had so many times before, wondering
-when and how her grandmother had grown so small.
+Aft brought Pillow up next to Big Blue and stepped off nonchalantly.
+With a mutter and a glare, Grappa Gas told the teenagers to get on,
+get on, they didn't have all day.  He and Granna Fee followed.  "Oof,"
+Noxy's grandmother said as she sat cross-legged.  "That's not as easy
+as it used to be."  But then she smiled like the girl she had once
+been and put her arm around Noxy.  Her granddaughter leaned against
+her the way she had so many times before, wondering when and how her
+grandmother had grown so small.
 
 Behind them, Rash nudged Sensy with his elbow.  "You can lean on me if
 you get cold, you know."
@@ -519,8 +517,8 @@ that hung down over mouth of the gorge.  Meanwhile, two of Stale's
 other oldsters climbed aboard Big Blue.  As they took their places
 behind Aft, the cloud slowly began to sink.
 
-"Hold him there," Indy called to Aft.  She turned to Sergeant Dorbu,
-who had watched Aft's jump wide-eyed.  "Go ahead---jump."
+"Hold him there," Indy called to Aft.  She turned to Sergeant Dorbu.
+"Go ahead---jump."
 
 "Um..."  Sergeant Dorbu looked from the cloud to Indy and back again.
 "Wouldn't it have been simpler for me just to climb on like everyone
@@ -529,12 +527,13 @@ else?"
 "Absolutely," Indy said.  "But everyone has to jump their first time.
 For luck," she added cheerfully.
 
-"If you say so, honored," the sergeant replied dubiously.  He reached
-up to pull his battle mask down over his face, caught himself at the
-last moment, took a deep breath, and jumped.
+"If you say so, honored," the sergeant replied dubiously.  He glanced
+at the two soldiers beside him.  With muttered prayers to the Pilots
+to watch over them, the three men pulled their battle masks down over
+their faces and jumped.
 
-*Poof!* *Poof!* *Poof!* He and the two lowland soldiers he had picked
-to go with him hit the cloud feet-first and immediately toppled over.
+*Poof!* *Poof!* *Poof!* The three lowland soldiers hit the cloud
+feet-first and immediately toppled over.
 
 "Mind yourself, he's a bit slippery," Aft said as the sergeant and his
 men struggled unsuccessfully to stand.  "Probably best if you just
@@ -850,14 +849,16 @@ ordered the three teenagers.  "I'll take care of the bodies."
 surrender.  "Just trying to help."  He sat down again, grinning as if
 he'd just scored a point in a game no-one else was playing.
 
-<!-- FIXME -->
-
 It took a few moments to slide the bodies down the cloud's flank into
 the arms of the waiting soldiers and onto the stretchers they had
-rigged out of blankets and alder poles.  When Indy said the villagers
-could help, Sergeant Dorbu shook his head politely but firmly.  "These
-are ours," he said.  "Though we'd be grateful if you could gather some
-wood for a pyre---we'd like to send them off tonight."
+rigged out of blankets and alder poles.  When Indy offered the
+villagers' help, Sergeant Dorbu shook his head politely but firmly.
+"These are ours," he said.  "Though we'd be grateful if you could
+gather some wood for a pyre---we'd like to send them off tonight."
+
+<!-- FIXME: introduce the commander -->
+
+<!-- FIXME: get Thokmay into the fight -->
 
 Whatever the mayor might have said in reply was lost as Yestevan slid
 off the cloud and sketched a bow.  "Greetings, honored.  Everyone."
@@ -1043,7 +1044,7 @@ ever held a sword.  Not that they *had* any swords.  And even if they
 had---
 
 "I'm surprised to hear you say all this," Indy interrupted.  "I
-thought if anyone would invoke travelers' law, it would be you."
+thought if anyone would invoke travellers'' law, it would be you."
 
 "Well, of course we have to look after them while they're here," the
 old man blustered.  "But this is different.  When the king's men come
@@ -1051,7 +1052,7 @@ looking for this lot, they're going to fight, and---"
 
 "And until then, we'll make them as welcome as anyone else," Aft cut
 in.  "Just like the law says.  They can stay as long as they don't
-raise a hand against one of ours or another traveler."
+raise a hand against one of ours or another traveller."
 
 "Raise a hand?"  Grappa Gas laughed angrily.  "You just got tossed
 backside over teakettle, and you're worried about their hands?"
@@ -1241,3 +1242,494 @@ stove beside the kettle.  "Tomorrow, I'm going to see if I can get to
 know the sergeant a little better.  And I think you ought to get to
 know the tiger's boy.  Let's see if we can find out if they have any
 other surprises tucked away."
+
+----------------------------------------
+
+## Chapter 4
+
+"Oh daffodil, please, brush your hair!" Indy set her tea down on the
+table and began to stand.
+
+"I can do it," Noxy protested. "I'm not a baby." She dragged the brush
+she and her mother shared through her hair another few times. "Is that
+better?"
+
+Her mother sighed, just as her own mother once had. "Yes, I suppose.
+Honestly, someone would think you'd been possessed by lightning.
+Let's get going.  We don't want to keep them waiting."
+
+They walked through the village together, squinting in the sharp-edged
+morning sun.  The air smelled of pine smoke and fried eggs.  People
+sat in twos and threes on stools outside their houses wearing yakskin
+coats or thick sweaters above sturdy trousers and sturdier boots.  The
+men knit or embroidered while the women picked spiderwebs apart apart
+and wound the strands onto spools.
+
+Indy had to stop every dozen strides to answer the same questions.
+How were the soldiers getting on? What did they think of the village?
+"We're on our way to ask," she replied over and over again.
+
+Many of the village's oldsters didn't bother to hide their unhappiness
+about their guests, but the sourest face was Grappa Gas's.  "Has that
+tiger eaten anyone yet?" he asked, forcing an awl through a scrap of
+leather.  "Or is he too busy racing around on rooftops?"
+
+There was no sign of the tiger when they reached the village square,
+but Sergeant Dorbu was sitting on the steps of the trading with a
+dozen wary but curious children in front of him.  Sensy and Rash
+looked up as Noxy arrived.  Noxy blinked.  Had they been holding
+hands?
+
+"And this is called a greave," the sergeant said, pointing at the
+armored front of his boot.  "It's to protect me from vampire mice.
+See?" He tapped it with his fingernail, *clunk*.  "They could bite
+that if they wanted, but all they'd do is blunt their teeth."
+
+"What if they climbed up your leg?" asked Sensy.  Noxy rolled her
+eyes.  Sensy could always be counted on to ask the questions grownups
+wanted to hear.
+
+"Ah, well, then I'd---oh, hello, mayor." The sergeant stood up,
+brushing his hands on his kilt.  "The boy will be out in a heartbeat."
+
+"Thank you, sergeant," said Indy.  "My daughter is looking forward to
+showing him the village.  I trust you slept well?"
+
+"Yes, thank you," said the sergeant.  "Although I..." He blinked, then
+sniffed, then started to say, "Excuse me," but the sneeze came first.
+*Hwah!* One of the younger children giggled, then clapped her hand
+over her mouth.  The sergeant blinked and sniffed again.  "Sorry---too
+many nights in the snow."
+
+"Visitors from down below often catch colds in our thin air," said
+Indy sympathetically.  "I hope it passes quickly."
+
+<!-- FIXME: explain that the commander has no name -->
+
+<!-- FIXME: mention Yestevan -->
+
+The guesthouse door opened before the sergeant could reply.  The
+children scrambled to their feet and stepped back as the tiger padded
+out into the sunlight.  He wasn't as big as he'd been in Noxy's dreams
+during the night, but she still had to stop herself from reaching for
+her mother's hand.
+
+His boy slipped out behind him and closed the door.  Instead of his
+armor, he wore a plain brown rain cape.  He kept his eyes downcast as
+the tiger said, "Good morning, mayor."
+
+"Good morning, respected," Indy replied.  "I trust you slept well?"
+
+"Thank you, I did." The tiger seemed not to notice that thirty pairs
+of eyes were staring at him.  *He must be used to it,* Noxy thought.
+
+Indy waited a moment to see if he would say anything more.  When he
+didn't, she smiled and said, "My daughter has asked if you could spare
+your boy for an hour so that she could show him our village while the
+other children do their chores."  Noxy heard Rash mutter something at
+that.  "If he would like to---oh dear." She stopped mid-sentence as
+the sergeant took a deep breath and scrunched up his face.  "Nope," he
+whooshed a moment later, blinking.  "That one's not ripe yet."
+
+"You'd be better in bed than tramping around the countryside,
+sergeant," Kulbinder rumbled.
+
+"I agree," said Indy firmly.  "My mother will make you some lemon
+ginger tea.  That will set you right in no time."
+
+"Thang you," the sergeant said stuffily.  "Honored tiger, will you---"
+
+"I will explore the forest," the tiger declared.  "I would rather we
+were not surprised as we were at the ford."  And with no more ceremony
+than that, he padded off toward the main gate.
+
+<!-- ask about the commander -->
+
+Indy clapped her hands.  "Right.  Everyone else, time for chores."  As
+the children groaned and got to their feet, the tiger's boy finally
+raised his eyes to look at Noxy.
+
+"Hello," he said, stepping down to the cobblestones and bowing ever so
+slightly.  "My name is Thokmay.  I'm pleased to meet you."
+
+Noxy stuck out her hand.  "Hi.  I'm Probably Noxious, but call me
+Noxy---everyone does."
+
+The boy hesitated for a heartbeat, then shook her hand with a strong,
+callused grip.  He gestured toward the gate.  "After you."
+
+They set off side by side.  "That's the South Tower," said Noxy,
+pointing at six rectangular stories of stone.  "It still has a roof,
+but the stairs inside fell down a long time ago.  You used to be able
+to get up there by climbing a tree, but they cut it down after Grappa
+Gas fell out of it when he was little and broke his arm.  And that
+one's the Round Tower, and the short one over there is called the
+Quick Tower, because it's quickest to get up."
+
+"It's a shame they've been allowed to go to ruin," said Thokmay.
+"Respected Shudarga's engineers have been working all year to
+strengthen the walls of Panday Castle.  Perhaps when the war is over
+she could send some here to fix them."
+
+"Perhaps," Noxy replied vaguely.  She wondered how Grappa Gas would
+feel about having rebel engineers clambering around the village's
+wall.  "Oh, and that's Granna Fee's house, the one with the moss green
+door.  She's my grandmother.  And she teaches school.  And that's
+Grappa Gas's house, with the lavender one.  He used to be mayor before
+my *amma*.  And that's, um, well, they're all just different people's
+houses.  Except those ones---those aren't houses, they're just for
+stores and drying things and... Well, stuff," she trailed off,
+embarrassed by her own rush of words.
+
+Thokmay had a polite but absent look on his face, just like the one
+Indy got when Grappa Gas started talking about how things had been in
+his day.  *It's probably not much compared to a real castle,* she
+thought glumly.  Two-story houses with steep shingled roofs, little
+vegetable gardens nestled between log runners, and all around, sharp
+mountain peaks looming over the ancient gray walls...  She wouldn't
+have believed how strange it all seemed to the young man beside her.
+
+They walked in silence along the path that ran beneath the wall.
+Ancient cobblestones showed through the hard-packed dirt in a few
+places.  Noxy scuffed crusts of frost off a few absentmindedly,
+wondering what else to say.
+
+Thokmay pulled up short.  "What is that?" he asked.  A heavy wooden
+grill lay across a shoulder-high opening in the wall ahead of them.
+Behind it, rough stone steps led down into the mountain.
+
+"It's just an old tunnel," said Noxy.  "The grownups say they're
+dangerous, so we're not supposed to go in."
+
+Thokmay nodded.  "Sergeant Dorbu will want to know about them."
+
+"Why?" Noxy asked.  "They don't go anywhere---or at least, that's what
+everybody says," she amended hastily.  "We use the ones by the
+shearing shed as yak pens, but that's about it."
+
+"He'll still want to know.  Soldiers should know as much as they can
+about their surroundings," Thokmay said, as if repeating a lesson to a
+slow learner.
+
+Noxy bit back a retort.  "Come on," she said.  "We can see more from
+up top."
+
+The steps lay flush against the side of the wall.  They had been built
+for the Pilots, not for human beings, so each one was as high as
+Noxy's knee, and so broad that it took her two strides to cross.  Even
+after hundreds of years, the stones fit together so snugly that it was
+hard to tell where one ended and the next began.
+
+Noxy put her hand on the wall to give herself a little extra push on
+each stair.  She noticed Thokmay puffing and sweating after the first
+few steps, but didn't slow down.
+
+The top of the wall was wide enough for three soldiers to march side
+by side.  The parapet along its outer edge was interrupted here and
+there by slits for lookouts and archers.  "Makes Your Breath Rancid is
+that way," Noxy said, pointing.  "You can't see it because the valley
+bends, but sometimes you can see their clouds coming out of their
+pen."
+
+"Why do you call your villages things like that?" the young soldier
+asked.
+
+Noxy shrugged.  "They're called dragon names.  They're supposed to
+make things sound unappetizing, so that when the dragons finally fly,
+they'll think twice about eating us."
+
+Thokmay snorted.  "That seems pretty far-fetched."
+
+"Well, where does *your* name come from?" Noxy bristled.
+
+"From the army," he replied, not looking at her.  "I had another name
+in the orphanage, but the army gave me a new one."
+
+"Oh."  Noxy cast about for something to say.  "Was that when you
+started working with the tiger?"
+
+"I don't work with him---I work *for* him," Thokmay corrected, running
+his fingers across the scars on his face.
+
+Noxy hesitated.  "Is that why you have those?  To show that you're,
+you're..." She floundered, unable to think of a better way to say what
+she thought than "an animal's servant".
+
+Thokmay pulled his hand away from his face.  "No.  I got those for
+trying to desert."
+
+Noxy opened her mouth, then closed it.  For once, she had no idea what
+to say.
+
+Thokmay didn't seem to notice.  Learning through one of the archer
+slits in the parapet, he pointed into the gorge below.  "Are those the
+clouds we were on?"
+
+Noxy glanced through the neighboring slit.  "Yup.  The bull is Big
+Blue, and the cow is Pillow.  We've had them forever---they're
+practically tame."
+
+The two old clouds were hardly moving, but Noxy could have watched
+them for hours---and had, many times, especially when she was supposed
+to be doing chores.  She loved the way they slowly changed shape as
+they drifted about, and how soft they felt when she stroked them.
+Being on a cloud was like riding on a grownup's shoulders when you
+were little, only a thousand times better.  You could see
+everything---deer grazing beneath the twisted pines, wild yaks
+standing on rocky ledges no wider than the heel of a boot,
+broad-winged condors making slow circles as they waited for a rabbit
+to forget to look up...  When the air was still, and the cloud was
+just drifting, it felt like the whole world was a story that was about
+to be told for the very first time.
+
+Thokmay stepped back.  "They smelled like wet yaks."
+
+"That was just because they haven't rained for a while," Noxy
+explained defensively.  "We'll probably take them out tomorrow and let
+them rain over the fishpond.  Here, come with me."
+
+Descending the stairs was even harder on her knees than climbing them.
+Rather than cutting directly through the village, she led Thokmay on a
+roundabout path through the vegetable plots around its edges.  She had
+seen the looks Sensy and Rash had given her when her mother had sent
+them off to do chores while she showed their youngest visitor around,
+and she wasn't keen to bump into them until they'd had a chance to
+cool off.
+
+Once through the gate, she followed the trail at the base of the wall
+to the steps that led down to the cloud pen.  Big Blue and Pillow were
+both floating fifty strides away in the middle of the gorge.  The bull
+was almost at their height, while the cow drifted further down in his
+shadow.
+
+"Can you call them over?" Thokmay asked.
+
+Noxy shook her head.  "Not without a horn.  You have to be touching
+them to mind-speak with them.  That's what the ropes and cradle seat
+are for---see?  A lot of clouds never learn to answer a horn, so
+someone has to be reeled out above them so they can jump on from
+there.  It's pretty dangerous," she added airily.
+
+"I suppose," Thokmay said.  He wrinkled his nose.  "But I still think
+they smell like wet yaks."
+
+Noxy bit back an angry retort.  They didn't smell anything *like*
+yaks, not really, and if he thought they did, then---
+
+*Twinge.* "Ouch," she muttered, putting her hand on the back of her
+head.  The feeling of something tugging the inside of her head was so
+strong this time that she was surprised not to find a lump.
+
+"Are you all right?" Thokmay asked, eyeing her.
+
+"I'm fine," she snapped.  She closed her eyes.  She had hoped the
+clouds would be right next to the mounting platform so that he could
+stroke one.  Or even get on, though she knew what her mother would say
+if she found out.  "Never fly alone" was one of the many rules she
+dared not break---not unless she wanted to be grounded.
+
+"Um...  Are they supposed to be doing that?"  She opened her eyes at
+Thokmay's worried question and blinked in surprise.  Big Blue was no
+longer drifting in the breeze.  Instead, he had turned and was flying
+straight for them.  Pillow was rising toward the platform as well.
+
+Noxy looked up.  The last time she had seen clouds move this fast
+without a rider driving them on, there had been a pack of lightnings
+snapping and sizzling above the peaks.  But she couldn't see anything
+like that---anything at all.  What had gotten into them?
+
+*Bump.* Thokmay stepped back as the clouds nudged the mounting
+platform.  Noxy pushed her question out of her mind and leaned forward
+to stroke Big Blue's flank.  "See?" she said to Thokmay, grabbing a
+double handful of Big Blue's side and drawing it out.  "You can pull
+them all which way, but it settles back after a while."  When she let
+go, the cloud's flank slowly settled back into its original shape.
+
+Thokmay patted Big Blue gingerly.  Noxy grinned at his caution.  She'd
+show *him* wet yaks.  "Here, do this."  She backed up, then ran at the
+cloud and threw herself onto his back.  *Poof!* "Come on!" she said
+airily as Thokmay hesitated.  "He won't bite."
+
+"Noxious Aftertaste!  What do you think you're doing?"  Noxy's heart
+leaped into her throat.  There, at the top of the steps that led down
+to the platform, stood her mother and Sergeant Dorbu.  "You get off
+that cloud *right now*, young lady!"
+
+Noxy's stomach was in knots by the time they reached the fortress
+gate.  Her mother hadn't said a word to her on the walk back.  "Thank
+you for the tour," Thokmay said politely, putting out his hand.
+
+"You're welcome," Noxy mumbled.  She shook his hand, dreading the
+storm she knew was coming.
+
+"And thank you as well," Sergeant Dorbu told Indy, bowing slightly
+over her hand as he clasped it.  "It was a pleasure."
+
+"You're welcome," the mayor said.  If she had been anyone but Noxy's
+mother, Noxy would have said she was blushing slightly.
+
+As the sergeant walked away with Thokmay beside him, Indy rounded on
+her daughter.  "Tell me," she said coldly, "What exactly would have
+happened if you'd slipped off the cloud?  Or if *he* slipped?"
+
+"He wouldn't have slipped off!" Noxy protested.  "It was Big
+Blue---he's as safe as---"
+
+"I don't care if it was Big Blue or the mattress on your bed!" Indy
+said angrily, ignoring the half-dozen villagers who were very intently
+*not* listening just a few strides away.  "Do you know what the
+soldiers are doing this afternoon?  Do you?  They're settling all
+their friends who died before we could get to them.  What do you think
+they'd say if we had to tell them there was one more to settle, just
+because you wanted to show off?"
+
+"Yes, mayor," Noxy said wretchedly.
+
+"Don't you 'yes, mayor' me.  Now, Achy gave me some thimbleberries as
+swap for those old boots you'd outgrown.  I want you to get the seeds
+out so that I can make a pie for dinner."
+
+"Thimbleberries?" Noxy said in despair.  "That'll take forever!  Rash
+and Sensy and I were going to---"
+
+"Well, you should have thought of that, shouldn't you?"  Indy took
+Noxy by the shoulders.  "Daffodil, listen to me.  *Really* listen."
+She combed her daughter's hair off her forehead with her fingers.
+"Half the village is so upset about this that they're saying it's time
+for a new mayor.  How can I ask them to behave when my own daughter
+won't? Now, go get washed up and start on those thimbleberries."
+
+Noxy nodded glumly.  "Yes, *amma*."
+
+She moped home to collect the bucket full of the first spring
+thimbleberries and a large bowl, then climbed to the top of the Quick
+Tower.  She and Sensy had covered a tumbled-down block of stone with a
+bit of gray canvas to make a pretend cloud the year before.  Plopping
+herself down on it, she started squeezing bitter grain-sized seeds out
+of the thimbleberries one by one.  Why couldn't the stupid soldiers
+have washed up somewhere else?  Why couldn't her mother have come
+along five minutes earlier, or later?  And why did the sun have to be
+so...so sunny?
+
+When she heard the first shouts from the main square she ignored them,
+thinking that it was just children playing jump-sticks or *kabbadi*.
+Then she heard Sergeant Dorbu shout, "Hah! Heeeyah!" She tossed
+another berry into the bowl and stood on her stone seat to look.
+
+She was just in time to see Thokmay duck under the sergeant's
+out-thrust sword and lunge with his own blade, shouting "Hah!" in
+turn.  Every child in the village was gathered around watching, and
+not a few of the adults as well.
+
+The sergeant knocked Thokmay's blade away and spun around, slashing
+left and right, one, two, three, as if he was fighting an invisible
+opponent.  While his back was turned the young soldier stepped forward
+and stabbed the sergeant in the ribs.
+
+The sergeant groaned, pinning Thokmay's sword with his arm so that it
+was pulled out of the boy's grip as Dorbu turned.  Thokmay only had
+time to open his mouth before the sergeant's sword tapped him lightly
+in the chest.  To Noxy's disgust, the children started to clap.
+
+"You must keep your grip even after you strike," Kulbinder grumbled
+loudly from the speaker's stone, where he sat on his haunches with his
+tail curled around him.  "Never give your man a chance for one last
+blow."
+
+"I'm sorry," said Thokmay, panting slightly.  "I forgot." The sergeant
+handed his sword back to him.  Both his blade and the sergeant's were
+wrapped in leather so that they wouldn't cut.
+
+Thokmay and the sergeant brought their swords up slowly, touched
+blades, and started fighting again.  Thokmay lost quickly this time,
+but won the third round when the sergeant pretended to stumble over a
+loose cobblestone.
+
+They practiced for almost half an hour.  While the children clapped
+and cheered, some of the older villagers shook their heads, their
+disapproval written on their faces.  Still, they kept watching.
+
+By the time the sergeant and the tiger's boy stopped, they were both
+soaked with sweat.  They saluted each other one last time.  "You're
+getting better every day," Sergeant Dorbu said.  "But we could both
+use a wash-up."
+
+Thokmay nodded, still breathing hard.  "Smells like we could both use
+one too," he said.  For the first time, Noxy saw him smile.
+
+"Show me, show me!" shouted Little Gas.  He clapped his hands with
+excitement.  "I want to play!"
+
+Thokmay's smile froze.  He glanced at the sergeant, who shook his head
+almost imperceptibly.  "I'm glad you liked it," the young soldier said
+to Little Gas, pitching his voice to carry across the square.  "But
+it's not really a game."
+
+He squatted so that he was no taller than Little Gas.  "I can show you
+something else if you like," he said.  He looked left then right, as
+if to make sure no spies or grownups were listening.
+
+"Do you have any spare socks at home?" he asked.  Little Gas nodded.
+"Good.  You go and get me three pairs of socks, quick as you can, and
+three stones the size of your thumb."
+
+Little Gas bit his lip.  "I only have just one other pair of socks,"
+he said.  "They're for when it's winter, so my feet will fit in my
+boots."
+
+"Um, well then," Thokmay said, "Do you think your mother would let you
+borrow some of hers?  Just for a little bit?" Little Gas nodded
+quickly and scurried away.
+
+"Do you want the rest of us to get some socks, too?" Sensy asked
+hopefully.  She and Rash had been standing with the younger children,
+their chores either done or conveniently forgotten.
+
+"Oh, Sensy!" Noxy said under her breath.
+
+"If you like," Thokmay said, straightening up.  Sensy sprinted away, a
+handful of other children scattering in her wake.
+
+Little Gas came puffing back a moment later.  In his hands he had one
+pair of green socks, one pair of gray, and one pair with red and white
+stripes.  "Will these do?" he asked, fishing some stones out of his
+pocket.
+
+"They look fine," said Thokmay.  "Now, give me your stones...  Good.
+The first thing we do is we roll up the socks like this, with a stone
+in the middle, to make a ball.  See? And then the next pair...  And
+the next...  Now, are you ready?" Little Gas nodded.
+
+Thokmay stepped back, took a deep breath, and threw the balled-up
+socks into the air.  His hands darted back and forth like
+hummingbirds.  Somehow, he managed to catch each sock ball before it
+fell to the ground, and then throw it again in time to catch the next
+one.  He caught them overhand, he caught them underhand, he threw two
+with his left hand while bouncing the third with his right, and then
+he threw them all in the air at once and caught them, one, two, three.
+
+There was a moment of stunned silence.  "That's magic!" Rash said
+accusingly.  "You're doing magic!"
+
+"It's not magic," Grappa Gas laughed, looking as delighted as any of
+the children.  "It's called 'juggling'! I saw it in Chaghan once,
+years ago.  It's just a trick."
+
+"That's right," Thokmay agreed, "It's just a trick.  Here, I'll prove
+it.  Sergeant?"
+
+Sergeant Dorbu took the brightly colored sock balls and tossed them in
+the air, one, two, three.  He whistled a happy little tune as he
+juggled, and even managed to wink at Sensy (who blushed).  By the time
+he was finished, Little Gas was laughing and clapping his hands.  "Let
+me, let me!" he shrieked.  "I want to!"
+
+"All right, but you have to let me show you how," Thokmay said.  "You
+have to start with just two, like this.  Um, sergeant? Could you show
+the older children how it's done? Thank you.  Now, put this one in
+this hand, and this one in the other, and..."
+
+Noxy watched Little Gas drop all three pairs of socks, pick them up,
+and drop them again.  The little boy laughed.  Seething, she sat back
+down on her pretend cloud and glared at the bowl of thimbleberries.
+It was going to be a long day...

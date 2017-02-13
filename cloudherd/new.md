@@ -1612,50 +1612,81 @@ along five minutes earlier, or later?  And why did the sun have to be
 so...so sunny?
 
 When she heard the first shouts from the main square she ignored them,
-thinking that it was just children playing jump-sticks or *kabbadi*.
-Then she heard Sergeant Dorbu shout, "Hah! Heeeyah!" She tossed
-another berry into the bowl and stood on her stone seat to look.
+thinking that it was children playing jump-sticks or *kabbadi*.  Then
+she heard Sergeant Dorbu shout, "Hah! Heeeyah!" She tossed another
+berry into the bowl and stood on her stone seat to look.
 
-She was just in time to see Thokmay duck under the sergeant's
-out-thrust sword and lunge with his own blade, shouting "Hah!" in
-turn.  Every child in the village was gathered around watching, and
-not a few of the adults as well.
+She was just in time to see Thokmay duck under the sweep of the
+sergeant's sword and lunge with his own blade, shouting "Hah!" in
+turn.  Both his blade and the sergeant's were wrapped in leather so
+that they wouldn't cut.  Every child in the village was gathered to
+watch, and not a few of the adults as well, while Kulbinder sat on his
+haunches on the speaker's stone with his tail wrapped around him, his
+eyes on the mock battle.
 
 The sergeant knocked Thokmay's blade away and spun around, slashing
-left and right, one, two, three, as if he was fighting an invisible
-opponent.  While his back was turned the young soldier stepped forward
-and stabbed the sergeant in the ribs.
+left and right as if he was beating off an invisible second opponent.
+While his back was turned, the tiger's boy stepped forward and ran him
+through.
 
-The sergeant groaned, pinning Thokmay's sword with his arm so that it
-was pulled out of the boy's grip as Dorbu turned.  Thokmay only had
-time to open his mouth before the sergeant's sword tapped him lightly
-in the chest.  To Noxy's disgust, the children started to clap.
+Or tried to.  As Thokmay thrust, the sergeant spun around again and
+beat his blade to the side.  Over, under, over, straight---blow after
+blow rained down on Thokmay, each one barely deflected by his frantic
+defense.
 
-"You must keep your grip even after you strike," Kulbinder grumbled
-loudly from the speaker's stone, where he sat on his haunches with his
-tail curled around him.  "Never give your man a chance for one last
-blow."
+"Look out!" someone shouted exactly one heartbeat too late.  Unseen by
+Thokmay, the tiger had hopped down from his perch and padded silently
+into place behind him.  As Thokmay retreated under the sergeant's
+relentless attack, he backed into the tiger and fell sprawling to the
+cobblestones.
 
-"I'm sorry," said Thokmay, panting slightly.  "I forgot." The sergeant
-handed his sword back to him.  Both his blade and the sergeant's were
-wrapped in leather so that they wouldn't cut.
+The crowd groaned in sympathy.  "That's not fair!" someone said
+indignantly.
 
-Thokmay and the sergeant brought their swords up slowly, touched
-blades, and started fighting again.  Thokmay lost quickly this time,
-but won the third round when the sergeant pretended to stumble over a
-loose cobblestone.
+"Battles never are," Sergeant Dorbu said, raising his battlemask and
+holding out his hand to help Thokmay to his feet.  "Remember, it's
+what you *don't* see that will kill you."
 
-They practiced for almost half an hour.  While the children clapped
-and cheered, some of the older villagers shook their heads, their
-disapproval written on their faces.  Still, they kept watching.
+"I'm sorry," Thokmay panted.  "I forgot." He picked up his sword as
+the tiger strolled leisurely back to the speaker's stone.
 
-By the time the sergeant and the tiger's boy stopped, they were both
-soaked with sweat.  They saluted each other one last time.  "You're
-getting better every day," Sergeant Dorbu said.  "But we could both
-use a wash-up."
+Sergeant Dorbu lowered his battle mask into place.  He and Thokmay
+brought their swords up, touched blades, and started fighting again.
+Thokmay quickly lost again, and even from a distance Noxy could see
+that he was getting frustrated.
 
-Thokmay nodded, still breathing hard.  "Smells like we could both use
-one too," he said.  For the first time, Noxy saw him smile.
+"Again," Sergeant Dorbu ordered.  They touched blades.  *Thwack!*
+*Thwack!* The sergeant attacked immediately, driving his smaller
+opponent back once more.
+
+Thokmay stumbled on a loose cobblestone.  The sergeant lunged---and
+somehow Thokmay found his balance, twisting at the hips and sweeping
+his free hand up to catch Sergeant Dorbu's sleeve and yank him
+forward.  The leather-wrapped point of Thokmay's sword poked hard into
+the sergeant's back.
+
+A handful of children cheered.  Sergeant Dorbu pulled up his mask.
+"Well done!" he said.  "That's quite a trick---where did you learn
+it?"
+
+Thokmay raised his own mask.  "I don't know.  I must have seen one of
+the other men use it."
+
+Sergeant Dorbu laughed.  "Well, then that's two of you keeping secrets
+from me.  Come on, let's go again."
+
+They practiced for another half an hour.  The children clapped and
+cheered every time Thokmay scored a hit.  The older villagers shook
+their heads, their disapproval written on their faces.  Still, they
+kept watching.
+
+By the time the sergeant and Thokmay stopped, they were both soaked
+with sweat.  They saluted each other one last time.  "You're getting
+better every day," Sergeant Dorbu said.  "But we could both use a
+sauna."
+
+Thokmay nodded, breathing hard.  "Smells like we could both use one
+too," he said.  For the first time, Noxy saw him smile.
 
 "Show me, show me!" shouted Little Gas.  He clapped his hands with
 excitement.  "I want to play!"

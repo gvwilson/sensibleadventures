@@ -1764,3 +1764,147 @@ Noxy watched Little Gas drop all three pairs of socks, pick them up,
 and drop them again.  The little boy laughed.  Seething, she sat back
 down on her pretend cloud and glared at the bowl of thimbleberries.
 It was going to be a long day...
+
+----------------------------------------
+
+## Chapter 5
+
+Noxy was still on her make-believe cloud an hour later, squeezing
+seeds out of thimbleberries so angrily it was amazing the the bucket
+didn't take fright and run away.  Sensy almost did when she reached
+the top of the stairs, but then she plopped herself down beside her
+friend.  "You should have tried it!"  she burbled.  "I only got them
+all up a few times, but it was so much fun!  Rash could do it almost
+right away."
+
+"I'm sure it was wonderful," Noxy grumbled.
+
+Sensy pouted.  "Don't be such a yak."
+
+"I'm not being a yak!  I just think he was showing off.  And what did
+Rash think about him putting his arms around you like that?" The last
+time Noxy had looked at the juggling, Thokmay had been standing right
+behind Sensy, reaching around to hold her arms just below the elbows.
+
+Sensy brushed her hair back over her ear.  "Why should I care what
+Rash thinks?" she asked sweetly.  Her grin turned into a leer.  "Or
+maybe you're the one who cares?"
+
+"Well, *I* think it was embarrassing," Noxy said primly.  "You were
+all following him around like ducklings, just because he knew a stupid
+trick."
+
+"Well, at least he didn't make everyone say please nine times, like
+you did when I wanted to play with the kite Granna Fee got you for
+your nameday last year!"
+
+Noxy's mouth fell open.  Sensy had never talked back to her before!
+
+The same thought must have occurred to Sensy.  She looked down at the
+bucket by Noxy's feet.  "Anyway, Grappa Gas is taking him for a ride
+now.  It's instead of them going on patrol," she added hastily.  "The
+soldiers, I mean.  Sergeant Dorbu said the commander ordered them to,
+but then your *amma* said they couldn't, and then they had an
+argument.  Well, not really an argument, more like Sergeant Dorbu
+wouldn't take 'no for an answer and your *amma* wouldn't budge, so
+they agreed that some of the soldiers could go up for a ride, and the
+tiger was there and *he* said---"
+
+"Never mind what the tiger said!" Noxy burst out.  "Aren't we all
+supposed to be going out with Grappa Gas for training today?"
+
+"Oh."  Sensy blinked.  "You're right.  I forgot.  But we can go out
+any time.  If they're only here for a few days---"
+
+Noxy stood and glared down at her.  "What if they're not?" she
+demanded.  "What if Grappa Gas has to keep taking them out and we
+don't get to fly and then we don't get to go with the herd this summer
+because we're not ready?"
+
+Sensy gaped at her.  Her mouth opened and closed a couple of times
+before she managed to say, "Noxy, what are you talking about?
+We're not going to be stuck here because---"
+
+"But what if we are?" Noxy threw up her hands.  "What if---"
+
+"Stop interrupting!"  Sensy stamped her foot, then clamped her hand
+over her mouth.  The two girls stared at each other for a moment.
+Neither could believe that Sensy had snapped at her friend.  Neither
+understood what it meant, but they both knew it meant something.
+Something had changed.  Something was going to change.  They were in
+uncharted skies.
+
+Sensy stood up abruptly.  "Sorry," she muttered.
+
+"It's all right," Noxy muttered back.  "Listen, I've got to---"  She
+gestured at the bucket of thimbleberries.
+
+"Right.  Um... So I'll see you later?"
+
+"Sure. Later."  Noxy made a little half-wave as Sensy turned and went
+down the stairs two at a time, then sat back on her stool and kicked
+the bucket hard enough to send thimbleberries skittering across the
+stones.
+
+*Twinge.* "Not again," she groaned.  She rubbed the back of her head
+with her hand.  She still couldn't feel a lump.  Why did this keep
+happening?
+
+The second twinge a moment later was different.  It was a tug, like
+the one she had felt that morning at the cloud pen.  On a sudden
+impulse, she clambered onto the parapet to look down on the cloud pen.
+
+Sure enough, Grappa Gas was just coaxing Thokmay onto Big Blue's back.
+Noxy couldn't hear them, but from the beckoning motions Grappa Gas was
+making, she could imagine what he was saying.  Littles jumped onto
+clouds all the time---saints, sometimes their parents threw them on
+when they were still in diapers, just so that they'd get used to the
+feeling.  A strong young lad like Thokmay wasn't afraid, was he?
+
+A moment more and Thokmay jumped.  Like every first-timer, he
+immediately lost his footing and fell.  It only took him one
+slow-moving try to get back up, though.  Against her own wishes, Noxy
+was grudgingly impressed.
+
+*He'll let Big Blue rain on the fishpond first,* she thought, *That
+way, he won't be fidgety.*
+
+Sure enough, Grappa Gas brought the cloud around in a graceful turn
+toward the fishpond.  The old bull didn't need any more instruction
+than that.  He drifted to a stop, then started to rain contentedly.
+The pair of elders sitting on log benches beside the pond returned
+Grappa Gas's wave.
+
+Noxy closed her eyes.  She could practically mind-hear Big Blue's
+contentment as he slowly turned from dark gray to light.  *Why don't
+you just drop him in the pond?* she thought despondently.
+
+*Bad,* she imagined Big Blue replying.  *Bad hurt.*
+
+*Oh, he'd be all right,* she told herself.  *The pond's pretty deep.
+And it'd serve him right for showing off with all his stupid juggling
+and swording and stuff.* She imagined Big Blue thinning out underneath
+Thokmay little by little.  He wouldn't notice right away, not on his
+first-ever flight with Grappa Gas talking a gallop a breath beside
+him.
+
+She opened her eyes in shock at the sound of a faint yelp in the
+distance.  There, a hundred strides below her, Thokmay was sinking
+into the cloud.
+
+"Hold on!" Grappa Gas shouted, reaching for him, but it was too
+late. Thokmay shrieked as he fell through the hole in the cloud and
+splashed into the ice-cold fishpond.
+
+His head burst above water a moment later. "Help!" he screamed. "Help
+me! I can't---" He thrashed his arms as if he was trying to swim, but
+something was pulling him down.
+
+Noxy's hand flew to her mouth. His armor!  He must still have it on
+from when he and Sergeant Dorbu were fencing!  She watched in horror
+as Grappa Gas shouted at the elders to get help, then took two quick
+steps to the edge of the cloud and jumped.
+
+A moment later he surfaced in the pond, spluttering and shouting,
+"I've got you, lad!" The old man wrapped one arm around Thokmay and
+began to backstroke toward the edge of the pond with the other.

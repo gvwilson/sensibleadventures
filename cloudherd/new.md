@@ -1851,8 +1851,8 @@ with her hand.  She still couldn't feel a lump.  Why did this keep
 happening?
 
 The second twinge a moment later was different.  It was a tug, like
-the one she had felt that morning at the cloud pen.  On a sudden
-impulse, she clambered onto the parapet to look down on the cloud pen.
+the one she had felt that morning at the cloud pen.  On an impulse,
+she clambered onto the parapet to look down on the cloud pen.
 
 Sure enough, Grappa Gas was just coaxing Thokmay onto Big Blue's back.
 Noxy couldn't hear them, but from the beckoning motions Grappa Gas was
@@ -1901,10 +1901,168 @@ me! I can't---" He thrashed his arms as if he was trying to swim, but
 something was pulling him down.
 
 Noxy's hand flew to her mouth. His armor!  He must still have it on
-from when he and Sergeant Dorbu were fencing!  She watched in horror
-as Grappa Gas shouted at the elders to get help, then took two quick
-steps to the edge of the cloud and jumped.
+from when he and Sergeant Dorbu were fencing!
 
-A moment later he surfaced in the pond, spluttering and shouting,
-"I've got you, lad!" The old man wrapped one arm around Thokmay and
-began to backstroke toward the edge of the pond with the other.
+Kulbinder burst out of the trees and raced toward the fishpond.  "Hang
+on, honored!" he roared as he threw himself into the water.  He
+paddled to the struggling soldier, who threw his arms around the
+tiger's neck.  Kulbinder turned around, but slowly, too slowly.  The
+weight of Thokmay's armor, the icy cold water---they weren't going to
+make it, Noxy realized dumbly.  They were going to drown.  And it was
+her fault.  She didn't know how.  She didn't even know how it was
+possible.  But she hadn't been imagining her conversation with Big
+Blue.  Somehow, she had mind-spoken with the cloud a hundred strides
+away and told him to drop Thokmay in the water.
+
+Grappa Gas was blowing his horn in the short-short-short pattern that
+meant someone was in serious trouble.  Noxy heard an answering blast
+from below as someone in the village picked it up, and shouts as
+people asked what was happening.
+
+Just at that moment, Yestevan ran out of the trees and shouted, "Grab
+hold!" as he threw a coil of rope toward the struggling pair.  It
+splashed into the pond just out of Thokmay's reach.  The young soldier
+let go of Kulbinder and struggled to it, his desperate thrashing
+sending gouts of water into the air.
+
+He grabbed hold of one end and turned back toward Kulbinder.  "Save
+yourself, honored!" the tiger roared.  Thokmay ignored him.  Three
+strokes, four, five---he reached out and grabbed the tiger by the nape
+of the neck.
+
+"Pull!" Thokmay spluttered.  Yestevan braced his feet and began to
+haul him in.
+
+It was as if Noxy had suddenly been unfrozen.  She raced down the
+stairs, yelling, "He's in the pond! He's fallen in the pond!"
+
+"What?  Who's fallen---where are you going?"  She shot past Granna Fee
+and charged up the steps into the trading hall.  There!  On the
+shelves, right where it was supposed to be, lay the emergency bags
+that the villagers kept packed and ready.  She grabbed the one she
+needed, shouting, "Excuse me!" at the gaping soldiers, and turned to
+run back out the door.
+
+"Oof!"  She plowed headlong into the commander, who caught her with
+one arm.
+
+"Where are you going with that?" he demanded.
+
+"Let go of me!" Noxy struggled vainly to pull her arm free.
+
+"Not until you tell me who you are and what's in that bag."  The
+commander's eyes were fever-bright, and his grip was like iron.
+
+"She lives here, honored.  She's the mayor's daughter."  Noxy
+recognized the soldier who spoke.  He had arrived with Sergeant Dorbu,
+and was a head taller than anyone Noxy had ever met, and wide to
+match.
+
+The commander held on for one more heartbeat, then released Noxy as
+suddenly as he had grabbed her.  "I still want to know where you're
+going with that bag."
+
+"They've fallen in the pond---the tiger and his boy," Noxy said
+breathlessly.  "They're going to freeze if I don't---"
+
+"Go," the commander ordered, stepping out of her way.  As Noxy ran
+down the steps she heard him yelling at men to follow her.
+
+Noxy ran across the square and through the gate.  The path along the
+base of the fortress wall was still slippery in places, and she knew
+she should slow down, but all she could think was, *I did this.  I did
+this.*
+
+Around the corner, down the steps, right, right again, more steps, and
+she skidded to a clumsy stop at the edge of the pond just as Kulbinder
+and Thokmay waded out.  Thokmay took two steps and collapsed to his
+knees, drenched and shivering.  The tiger made it a step further
+before turning back and hunkering down beside his boy.
+
+Yestevan was pulling off his coat to wrap around Thokmay.  "Wait!"
+Noxy said.  She dropped the bag and undid the ties with haste-clumsied
+fingers.  "Here!"
+
+The blanket she yanked out didn't look special.  Gray with a red
+border, woven from yak's wool, it could have come off any bed in the
+village.  But it tingled slightly in her fingers as she wrapped it
+around Thokmay's shoulders.
+
+The young soldier tried and failed to hold onto it, his own fingers
+stupid with cold.  "Let me," she said, pushing his hands out of the
+way and pulling it up on his shoulders again.
+
+Thokmay nodded, still shivering.  And then his shivering slowed and
+stopped.  His eyes widened.  "What...?"
+
+"It's magic," Noxy said.  "For emergencies."
+
+Even as she said it, Thokmay was pulling the blanket off his shoulders
+to wrap around Kulbinder.  Instantly, he started to shiver again.
+"You have to keep it on," Noxy scolded.
+
+"H-h-h-help..."  Thokmay struggled with her for a moment as she tried
+to push the blanket back onto him.
+
+"Oh for saints' sake," Noxy snapped.  "Lie down!"
+
+"Are they all right?" Grappa Gas yelled from overhead a moment later.
+
+Noxy looked at the boy and the tiger lying side by side with the
+blanket draped over them.  "I think so!" she yelled back.  They had
+both stopped shivering, and they were both breathing normally instead
+of in short, struggling gasps.
+
+"Good work!" Grappa Gas yelled.
+
+"You're welcome!" Yestevan yelled back at him, his coat in one hand
+and the re-coiled rope in the other.
+
+By the time Thokmay got to his feet five minutes later, Noxy's mother
+had arrived with Aft and a mix of soldiers and villagers.  It took
+Noxy a minute to explain what had happened, and another minute to
+convince her mother that it had.  Clouds did drop people sometimes,
+just like horses sometimes bucked people off, but Big Blue?  He'd been
+with the village since Grappa Gas was Noxy's age.  He was about as
+likely to hole under someone as the sun was to rise in the north!
+
+"Unless he was told to," Yestevan said, then spread his hands as Indy
+and Aft turned on him.  "What?  You were thinking it too!"
+
+"Get out of here or I'll show you exactly what I'm thinking," Aft
+growled.  Grinning insolently, the shunned cloudherd slung his rope
+over his shoulder, sketched a bow toward Kulbinder and Thokmay, and
+headed back into the forest, whistling as he went.
+
+"Come on," Indy said to the bedraggled pair.  "Let's get you dried
+off and into the sauna."
+
+"That would be most welcome," the tiger replied with something that
+almost sounded like gratitude in his voice.
+
+Grappa Gas met them at the top of the first flight of steps.
+"Everyone all right?" he asked.
+
+"No thanks to you," Aft said shortly.  "What the saints' names were
+you thinking?"
+
+"Me?"  Grappa Gas straightened up angrily.  "I didn't do this!"
+
+Aft planted himself in front of his father.  "Really?  You've been
+telling everyone you want them gone, and then they just *happen* to
+fall through a cloud you're herding into freezing water?"
+
+"I was the only one who fell," Thokmay protested, but nobody was
+listening---especially not Grappa Gas, whose face had gone from
+shocked to furious.
+
+"Now you listen here---" he started.
+
+"Stop!"  Indy pushed between them and pushed them apart.  "Stop this
+right now!"  She looked from one to the other.  "Our guests could use
+a long, hot sauna.  While they're doing that, we'll talk about this
+over a cup of tea."
+
+"But---"
+
+"Over tea!" Indy repeated, as if she was ordering them to be flogged.

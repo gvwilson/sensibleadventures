@@ -374,7 +374,7 @@ Probably Noxious."
 
 Noxy hesitated, wondering if she was supposed to bow back, and was
 immediately annoyed at herself.  Cloudherds didn't bow---that was a
-silly lowlander custom.  "Just call me Noxy," she told him.  "*Amma*,
+silly lowlander custom.  "Just call me Noxy," she told him.  "*Anna*,
 which cloud do you want me and Sensy and Rash on?  We can go and start
 getting them ready while everyone's jawing."
 
@@ -394,7 +394,7 @@ continued, "But you ride with Grappa Gas and Granna Fee, and that's
 all you do---ride.  Understood?"
 
 Noxy nodded, trying and failing to suppress a triumphant grin.  "Yes,
-*amma*."  As she turned to go, she heard her mother sigh and Sergeant
+*anna*."  As she turned to go, she heard her mother sigh and Sergeant
 Dorbu say, "My men do that to me all the time too."
 
 Rockfalls and avalanches were common in the mountains, and more than a
@@ -834,7 +834,7 @@ stood beside him, leaning forward to look down at the clearing.  As
 Noxy watched, the tiger hopped down off the parapet, disappearing from
 view with his boy behind him.
 
-Grappa Gas glanced at Noxy.  "Your *amma* isn't going to like this."
+Grappa Gas glanced at Noxy.  "Your *anna* isn't going to like this."
 
 "Sh." Granna Fee waved a hand to quiet him.  "I'm trying to land."
 
@@ -917,7 +917,7 @@ hand on the cloud's back, and lifted off.  A moment later, still
 muttering, Aft guided Big Blue into the air behind him.
 
 "Well," Noxy said awkwardly, not sure what to do next.  "I guess I'll
-go see if my *amma* has any chores for me."
+go see if my *anna* has any chores for me."
 
 "If she doesn't, you can do some of mine," Rash replied, as he had a
 hundred times before.  He glanced at Sensy.  "I guess we should go be
@@ -954,7 +954,7 @@ more than a little proud that it was her mother sorting it out.
 
 The water hadn't even boiled before Grappa Gas showed up.  He rapped
 on the door with his cane and entered without waiting for a hello.
-"Hey, daffodil.  Where's your *amma*?"
+"Hey, daffodil.  Where's your *anna*?"
 
 "She should be back soon," Noxy said.  She added a handful of tea
 leaves to the cinnamon bark and green cardamom pods already in the
@@ -1125,7 +1125,7 @@ of disgust.  Indy smiled and kissed him on the cheek again.  He was
 humming as he left.
 
 Noxy waited until her mother said down again before saying,
-"*Amma*...?"
+"*Anna*...?"
 
 "Yes, daffodil?"
 
@@ -1154,7 +1154,7 @@ The two sat in silence for a moment.  Finally Indy stretched.  "So
 tell me, did you collect some spiderwebs, or did you and Sensy spend
 the whole day mooning after Rash?"
 
-"*Amma*! And how can you think about spiderwebs on a day like this?
+"*Anna*! And how can you think about spiderwebs on a day like this?
 And anyway, Sensy's the one who's mooning after Rash and that stupid
 moustache he's trying to grow.  *I* think it's dumb."
 
@@ -1376,7 +1376,7 @@ feel about having rebel engineers clambering around the village's
 wall.  "Oh, and that's Granna Fee's house, the one with the moss green
 door.  She's my grandmother.  And she teaches school.  And that's
 Grappa Gas's house, with the lavender one.  He used to be mayor before
-my *amma*.  And that's, um, well, they're all just different people's
+my *anna*.  And that's, um, well, they're all just different people's
 houses.  Except those ones---those aren't houses, they're just for
 stores and drying things and... Well, stuff," she trailed off,
 embarrassed by her own rush of words.
@@ -1599,7 +1599,7 @@ She combed her daughter's hair off her forehead with her fingers.
 for a new mayor.  How can I ask them to behave when my own daughter
 won't? Now, go get washed up and start on those thimbleberries."
 
-Noxy nodded glumly.  "Yes, *amma*."
+Noxy nodded glumly.  "Yes, *anna*."
 
 She moped home to collect the bucket full of the first spring
 thimbleberries and a large bowl, then climbed to the top of the Quick
@@ -1804,9 +1804,9 @@ The same thought must have occurred to Sensy.  She looked down at the
 bucket by Noxy's feet.  "Anyway, Grappa Gas is taking him for a ride
 now.  It's instead of them going on patrol," she added hastily.  "The
 soldiers, I mean.  Sergeant Dorbu said the commander ordered them to,
-but then your *amma* said they couldn't, and then they had an
+but then your *anna* said they couldn't, and then they had an
 argument.  Well, not really an argument, more like Sergeant Dorbu
-wouldn't take 'no for an answer and your *amma* wouldn't budge, so
+wouldn't take 'no for an answer and your *anna* wouldn't budge, so
 they agreed that some of the soldiers could go up for a ride, and the
 tiger was there and *he* said---"
 
@@ -2065,4 +2065,119 @@ over a cup of tea."
 
 "But---"
 
-"Over tea!" Indy repeated, as if she was ordering them to be flogged.
+"Tea! Now!" Indy repeated in a tone of voice that implied the
+alternative was to repeat Thokmay's dive into the pond from a much
+greater height and into much colder water.
+
+They walked the rest of the way to the fortress gate in silence.  When
+they reached the square, Thokmay handed the blanket back to Noxy with
+a quiet thank you.  He and Kulbinder headed for the village sauna.
+"It will be like being back home," the tiger rumbled, his still-damp
+fur making him look both skinnier and more menacing than usual.
+
+"Give it to the soldiers," the mayor said when Noxy asked what to do
+with the blanket.  "It will keep someone warm even without the spell.
+Oh, and *anna*, can you please take Noxy for dinner?"
+
+"Of course," Granna Fee said.  She had been waiting at the gate with
+her doctressing bag in case someone needed a bone set or a gash sewn
+up.  She put her arm around her granddaughter.  "It will be like old
+times."
+
+Noxy was silent as she walked to her grandmother's house.  She jumped
+when she heard a door slam, wondering if it was Aft or Grappa Gas.  It
+wouldn't be her mother---people wished the mayor would raise her voice
+and slam doors when she got angry, but she never obliged them.
+
+Granna Fee didn't disturb her granddaughter's silence as she bustled
+about her kitchen.  Three ladles of water went into the kettle, which
+went onto the stove above a fire that hadn't gone out since the last
+time Granna Fee had taken a herd of clouds south to rain on the farms
+of Ninety-Nine Kingdoms.  She cut two thick slices of oat bread and
+dropped them into a pan smeared with a few careful drops of oil, then
+chopped some withered mint leaves and dropped them into a pot just as
+the kettle started to whistle.  As the warm smell of the tea filled
+the room, she flipped the fry-bread over with a fork, poured the tea,
+scooped the bread onto a plate, and set mugs and lightly-browned toast
+in front of Noxy.
+
+"Thanks, granna," Noxy said listlessly.
+
+Granna Fee studied her granddaughter for a moment, then raised her mug
+of tea to her lips and slurped as loudly as she could.  As the slurp
+went on and on, a smile tugged the corner of Noxy's mouth.  "Stop it,"
+she said, trying and failing to sound cross.
+
+Granna Fee set her mug down.  "I will if you will."  She held Noxy's
+gaze, not challenging, just waiting, until Noxy dropped her eyes.
+
+The old woman reached across the table and put her hand on Noxy's
+arm.  "You did well," she said, "And your *anna* knows it.  She's just
+got a lot of other things to worry about right now."
+
+Noxy nodded.  She hadn't been thinking about her mother---she'd been
+thinking about Big Blue.  "Do you think---will we be able to get
+another magic blanket?" she asked, instantly regretting her choice of
+question.
+
+Granna Fee shook her head.  "Probably not.  Your father said he could
+only make one."
+
+Noxy picked up her tea.  The mug was uncomfortably hot against the
+palms of her hands, but she held it anyway.  "Do you know what it cost
+him?"
+
+Granna Fee shook her head again.  "He never said.  It's not the sort
+of thing you ask a magician."
+
+She settled back in her chair, wincing slightly as something popped in
+her back.  "All he ever told me was how he found out he could do magic
+in the first place.  He was fishing one day---not in a pond like here,
+but with a net in the ocean, back where he grew up---and he wished
+that he was done for the day.  A heartbeat later the net fell apart in
+his hands and..."  She shrugged.  "No net, no fishing.  But when he
+got back to land and tried to tie up his boat, he couldn't make a
+knot.  Every time he tried, he'd drop the end of the rope or it would
+tangle in his fingers or something else would happen.  Something had
+heard his wish and taken it as a bargain."
+
+Noxy shivered.  "That's horrible."
+
+Granna Fee shook her head.  "From what I know, he was lucky.  There
+was another magician in the town where he grew up who could teach him
+how to control it.  But he still wound up making some bad bargains."
+
+"Like having to live where nobody had ever slept on the sea," Noxy
+said.
+
+Granna Fee nodded.  "Like that.  It saved someone from shipwreck, he
+said, but he was half-crazy by the time he got here.  Even down in
+Duck Droppings there was someone who'd been on a ship once, so he
+couldn't stay there more than a couple of nights."
+
+"Do you---do you think I might be a magician some day?" Noxy asked as
+casually as she could.
+
+Granna Fee started to smile, then realized her granddaughter was
+serious.  "Maybe."  She put her hand on Noxy's arm again.  "But nobody
+and nothing can *make* you a magician.  You have to choose."
+
+They talked about other things after that, normal everyday things like
+when it would be time to shear the yaks of their winter wool and how
+Sensy only seemed to want to talk about her hair and her clothes, and
+how many dishes Grappa Gas would wash for a taste of honey.  It felt
+warm and comfortable, and was almost enough to convince Noxy that what
+had happened earlier that day had nothing to do with her.
+
+"I should go," Noxy finally said, eyeing her empty teacup regretfully.
+"If I don't get those thimbleberries done, *anna* will shear *me*."
+
+Granna Fee smiled.  "How about you bring them down here and we'll do
+them together?"
+
+"Thanks, *granna*, but I said I'd do it."  She stood, then impulsively
+stepped around the table to give her grandmother a hug.  "I love you."
+
+"I love you too, daffodil."  They held each other for a moment, one
+wondering when the other had gotten so big, the other wondering when
+the first had gotten so small, and then Noxy left.

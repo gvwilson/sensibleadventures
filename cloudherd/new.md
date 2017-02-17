@@ -2387,3 +2387,93 @@ bad as we thought, and a bit of air will help you clear your head."
 Noxy nodded, not trusting herself to speak.  She slipped her feet into
 her boots without bothering to do up the laces, pulled a poncho over
 her head, and stumbled out into the night.
+
+Rain was still falling, but Indy had been right---most of the storm
+clouds had passed, and the few stragglers chasing them were already
+south of Stale, heading toward the plains.  She watched them for a
+moment, then closed her eyes.
+
+"Idiot," she muttered a moment later.  Of *course* she hadn't been
+able to mind-hear anything.  What had happened with Thokmay had been a
+coincidence.  She shouldn't---
+
+Something clattered in the narrow jitty between her house and the
+yarning shed next door.
+
+<!-- FIXME: why doesn't she call out? -->
+
+She set the kettle down quietly on the front step of her house and
+tiptoed gingerly toward the narrow gap between the two buildings.
+Holding her breath, she leaned forward and peeked around the corner,
+just in time to see a shadow disappear out the other end.  Who would
+be out in the rain?
+
+*The soldiers,* she realized.  It had to be one of the soldiers,
+except why would they be out in the rain either?  Suspicious, she
+hurried to follow.
+
+"Ow!"  Ten steps in, her foot connected with a pile of cobblestones
+that she and Sensy had put there as part of some long-forgotten game.
+The stones clattered as they tumbled over.  Cursing under her breath,
+she stepped over them, wishing that she had taken a moment earlier to
+do up her laces.  Some of the broken cobbles had sharp edges, and if
+she lost a boot now, she'd never catch up.
+
+She reached the other end of the jitty just in time to see the shadow
+disappear around the edge of the tannery.  She hesitated for only a
+moment before sprinting after it, her boots splashing in shallow
+puddles of rainwater.  Whoever she was chasing was bound to hear
+her---the only question was whether she could catch them first.
+
+She rounded the corner of the tanning shed a moment later.  Her quarry
+was nowhere to be seen.  "Rot," she cursed.  Left toward the trading
+hall, straight on toward the square, or right toward the vegetable
+patches and the gate?
+
+*Crack!* She shrieked with surprise as a bolt of lightning split the
+sky.  *Crack!* A second bolt of lightning left a dazzling scar on the
+night.  That one had been close---too close.  The lightnings must be
+nipping at the clouds that had fallen behind their herd.
+
+*CRACK! BOOM!* Noxy shrieked as the third bolt of lightning struck the
+weather vane spinning madly next to the fortress gate and shattered
+its wooden pole.  Splinters flew in all directions to clatter off
+roofs and cobblestones.
+
+A door banged open beside her.  "Saints!" Aft hurried over to Noxy,
+his coat held over his head to keep the rain off.  "Are you all right?
+What in the name of all that rots are you doing out in this?"
+
+"*Anna* wanted me to fill the kettle," Noxy said stupidly.  "But---the
+lightning.  It hit the weather vane."
+
+"I can see the lightning hit it," Aft said testily.  He took her by
+the shoulders and peered into her eyes, then relaxed slightly.
+"You'll be all right.  Just a bit of a scare.  Come on, let's get you
+back to---wait."  He sniffed.  "What's burning?"
+
+Noxy grabbed his arm and pointed.  "There!  Upstairs!"  A bright lick
+of flame was suddenly dancing in a window.  Another joined it as the
+familiar herby smell of burning moss caught in Noxy's nostrils.
+
+"Get your mother!" Aft ordered, then cupped his hands around his
+mouth.  "Fire!  Fire!  Fire!"
+
+The village was lucky.  That's what everyone told themselves half an
+hour later.  They were lucky that the rain had made everything so wet,
+that there had been so little of the autumn moss left to burn, that
+Aft had spotted the fire so quickly.  They were lucky the soldiers had
+been there to fill and pass buckets---with most of the grownups gone,
+well, the elders and children would have done the best they could, but
+things could have been a lot worse.
+
+"But what were you doing *there*?" Indy demanded as she and her
+daughter walked home arm in arm.  "You were just supposed to refill
+the kettle!"
+
+"I thought I saw something."  Noxy shook her head.  "I didn't get a
+good look at it."  Which wasn't exactly a lie, but was an
+uncomfortable distance from the truth.  As the soldiers had arrived to
+help with the fire, only one of them had been the height of the figure
+she had seen.  But why would Thokmay have been out in the rain?  And
+what had he been doing in the jitty beside her house?

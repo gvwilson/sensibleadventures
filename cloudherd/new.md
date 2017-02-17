@@ -1243,6 +1243,8 @@ know the sergeant a little better.  And I think you ought to get to
 know the tiger's boy.  Let's see if we can find out if they have any
 other surprises tucked away."
 
+<!-- FIXME: funeral -->
+
 ----------------------------------------
 
 ## Chapter 4
@@ -2181,3 +2183,207 @@ stepped around the table to give her grandmother a hug.  "I love you."
 "I love you too, daffodil."  They held each other for a moment, one
 wondering when the other had gotten so big, the other wondering when
 the first had gotten so small, and then Noxy left.
+
+----------------------------------------
+
+## Chapter 6
+
+Noxy walked home through the darkened village with a sliver of
+dayglass in her hand to light her way.  Her mother was sitting at the
+kitchen table with half a mug of cold tea in front of her, brooding
+over whatever she had said to Aft and Grappas Gas.  She forced a smile
+when her daughter came in, the tension in her shoulders easing only
+slightly when Noxy gave her mother a hug and kissed the top of her
+head and cautioned her not to stay up too late.
+
+Lying in bed under a pair of blankets a few minutes later, Noxy looked
+up through the little skylight her father had put in for her when she
+was little and wondered what it had been like for him to realize he
+could do magic.  Her thoughts ran from there to the ocean he had
+sailed on, the ocean she secretly hoped to see for herself one day,
+and then her eyes closed and her breathing slowed and she dreamed.
+
+There was a house.  Not a house like the ones in the village, with
+brick walls and cedar-shingled roofs, but one somehow woven together
+out of trees.  It was deep in the forest---no, *she* was deep in the
+forest, sitting at a table just like the one in the kitchen below and
+drinking tea with the old silver-backed troll she had seen yesterday.
+They had been speaking about something important.  The troll had asked
+her a question and was waiting for her answer, but she didn't know
+what to say.  She couldn't even remember the question.  It was the
+most important thing anyone had ever asked her, but she couldn't
+remember what it was.
+
+She blinked.  She was awake, still in her bed.  A glance at the stars
+above told her it would be morning soon.  Her mother was snoring in
+the room next to hers, a regular, comforting sound like someone
+pulling their boot out of a pool of mud over and over again.  Noxy
+groped on the table beside her bed for her mug, remembered that she
+hadn't refilled it, and rolled over, annoyed at herself but not enough
+to get up.  Within moments, she was asleep again.
+
+She remembered her dream in the morning.  If her mother hadn't looked
+as bleary as Noxy felt, she would have told her about it.  As it was,
+they ate their porridge and drank their tea in a silence broken only
+by the occasional yawn.
+
+"Come on," Indy finally said.  "Let's go see what's going to fall on
+our heads today."
+
+But the day passed without incident.  The villagers washed their
+clothes, weeded their vegetable gardens, mucked out their yaks'
+stalls, and scolded their children as usual.  The soldiers tended to
+their wounded and their equipment with an occasional word of praise or
+thanks from Sergeant Dorbu.  The commander was back in bed, the
+sergeant told Indy, but his fever was much reduced, and he apologized
+if he had scared Noxy yesterday.
+
+By the middle of the afternoon, though, the sky started to darken over
+the peaks to the north of the village.  The older villagers looked up
+from their chores ever more frequently, exchanging quiet observations
+and worried looks.  Nobody knew how the clouds and the forest spoke to
+each other, but when the forest was hurt or angry, a storm was never
+long in following.  In ones and twos people put aside what they were
+doing and began to make ready.
+
+Stale was no stranger to storms.  When bulls battled each other in the
+dead of winter, the snow fell so thick and so fast that people had to
+string ropes between the houses to find their way.  And in the summer,
+when nimbus clouds that had stayed in the north to give birth flew
+south to rejoin their herds, the sky could darken in the time it took
+to sing a nursery rhyme.  When that happened, the villagers knew it
+was time to tie their shutters closed and get the yaks into their
+pens, because the rain was going to come down in sheets instead of
+drops.  Storm shutters that had been taken down at winter's end were
+put back in place.  Children chased protesting chickens back into
+coops or hauled the morning's laundry off clotheslines to be re-hung
+in the sauna.
+
+Amidst the preparations, Indy sent Noxy to the trading hall to invite
+the commander, Sergeant Dorbu, and Kulbinder to dinner.
+
+"Tonight?" Noxy asked.
+
+"Yes.  I should have done it last night," she said, rooting through
+the vegetable bin in the kitchen.  "It won't be anything special,
+just---I thought we had some parsnips left.  And did we use the last
+of the cayenne?"  She was still muttering as Noxy quietly closed the
+door behind herself.
+
+She walked past the vegetable garden, where Little Gas was pulling
+apart strips of cedar bark so that Sensy could lay them along the
+irrigation trenches in the vegetable garden, and found Sergeant Dorbu
+sitting on the steps of the trading hall with a small brown pipe
+smoldering in his hand.  "Thank you, we'd be honored," he said in
+answer to the invitation.  "Though I'm afraid it will just be myself
+and Kulbinder.  The commander is still..."  He waggled a hand.
+
+Noxy hesitated.  "Does the tiger---I mean, will he eat some roasted
+cheese?  We don't..."
+
+"You don't cook meat?"  Sergeant Dorbu smiled when Noxy shook her
+head.  "That's all right.  He'd probably be fine with just a big bowl
+of milk if that's easier.  If he wants anything else, he can find it
+himself later."
+
+The northern sky was as dark as a day-old bruise by the time Noxy got
+home. Her mother had a triple handful of diced onions sizzling in a
+pot and was peeling what was probably the last knob of ginger in
+Stale.  Granna Fee had come by while she was away and was busy
+assembling something with oats, apples, and honeycomb on the kitchen
+table.  When Noxy asked if she'd be joining them, she said, "Oh no.
+Gas and I have plans for the evening.  He loves a good storm."
+
+"Granna!" Noxy and Indy protested in unison.
+
+Sergeant Dorbu knocked on their door just as the rain began to fall.
+Noxy had been expecting him to be in his uniform, but he had traded in
+his helmet for a plain yakskin cap that any cloudherd might have worn,
+and had left his sword behind.
+
+Kulbinder padded in behind him while he and Indy were saying their
+hellos.  He flowed up onto the chair across from Noxy and watched
+impassively as she swept the last scraps of potato off the table.
+"Thank you for the blanket," he said without premable.
+
+Noxy jumped slightly.  "You're welcome.  It's pretty dangerous,
+getting dunked in frozen water like that.  It happened to one of the
+yaks a couple of years ago.  She got out of their pen and tried to get
+across the---um.  It doesn't matter.  But I'm glad you're all right.
+And Thokmay too."  She could feel her cheeks burning under the tiger's
+cool stare.
+
+Her cheeks heated up even more when she saw Sergeant Dorbu's grin.
+"Don't worry," he said cheerfully.  "He has that effect on everyone.
+Saints, I almost swallowed my fork the first time I met him."
+
+"It was a spoon," Kulbinder corrected.  "And it was more than
+'almost'."
+
+And just like that the rhythm of the meal took shape.  Sergeant Dorbu
+had a seemingly inexhaustible supply of stories about his own
+foolishness, clumsiness, and bad choices.  Indy asked just enough
+questions to keep the stories coming, while Kulbinder's dry comments
+provoked protests of innocence and occasional snorts of laughter.  As
+she tabled a tray bearing grilled slabs of cheese, fried onions, and
+boiled potatoes, Noxy realized with a start that she was actually
+enjoying herself.  The mood was only slightly dampened by the tiger
+sniffing at the cheese and then saying thank you, but it would
+probably upset his digestion, he would find something in the forest
+after the storm was over.
+
+Conversation became more serious after the dishes were cleared.  The
+soldiers had declared for Shudarga almost as soon as she raised her
+banner, and had been fighting ever since.  "Or getting to a fight, or
+getting away from one, or trying to get enough food in our bellies to
+keep us fighting," Sergeant Dorbu added.
+
+"So why did you choose her side?" Indy asked as she splashed some dark
+mountain *rak* into a glass and passed it to him.  Catching Noxy's
+eye, she poured a thimbleworth into another glass and handed it to her
+daughter.  The pungent fumes tingled in Noxy's nose as she tasted it
+gingerly.
+
+Sergeant Dorbu rolled his glass between his hands as if to warm them.
+"My family used to have land.  Not much---really just a big farm with
+a couple of tenants to work it---but it was enough to keep us.  Then
+one of our neighbors decided he wanted it.  She honeyed up the local
+*tralpa*, promised him a slice of the takings, and..."  He spread his
+hands.  "By the time we got to court, she'd rented all the laws that
+would have saved us.  We had a week to clear out after living their
+all our lives."
+
+"That must have been horrible," Indy said sympathetically.
+
+"It is foolishness," Kulbinder rumbled.  "The law in Thind is not
+something to be borrowed for money like a bullock.  There are rules
+for each station, and that is that."
+
+"But then how does the king raise money?" Noxy asked.
+
+Kulbinder blinked slowly.  "The *emperor* takes what he needs when he
+needs it.  It is...simpler."
+
+"Simpler *and* fairer," Sergeant Dorbu added with a quiet intensity
+that hadn't been there a moment earlier.  "And that's what Shudarga
+wants.  Laws should be there for everyone, all the time, not just for
+whoever has the most money on the day of a trial.  And if that means a
+bunch of royals have to work for a living instead of renting out laws
+some king gave their great-great-grands way back when, that's fine by
+me."  He drained his glass in one quick gulp.  When her mother did the
+same, Noxy held her breath and swallowed her own *rak*.
+
+The thick black liquid felt like fiery smoke as it went down her
+throat.  She clenched her jaw, but a strangled cough managed to
+escape.  "And that's enough for *you* tonight," her mother said in
+mock-disapproval.
+
+"Yes, *anna*," Noxy said, gasping for air.
+
+"Here."  Her mother pushed the empty kettle across the table.  "How
+about you refill that and I'll make tea?  It sounds like it's not as
+bad as we thought, and a bit of air will help you clear your head."
+
+Noxy nodded, not trusting herself to speak.  She slipped her feet into
+her boots without bothering to do up the laces, pulled a poncho over
+her head, and stumbled out into the night.

@@ -2557,3 +2557,405 @@ uncomfortable distance from the truth.  As the soldiers had arrived to
 help with the fire, only one of them had been the height of the figure
 she had seen.  But why would Thokmay have been out in the rain?  And
 what had he been doing in the jitty beside her house?
+
+----------------------------------------
+
+## Chapter 7
+
+Stale woke to the muffled stillness that comes after storms and minor
+disasters.  The air was damp and chill, but the sky was so clear that
+the peaks around the village almost sparkled.  A sharp-edged whiff of
+charred wood hung everywhere, sweetened slightly by the potpourri of
+the moss that the brief fire had consumed.
+
+It was a day for dawdling: for taking a little longer than usual to
+get out of bed, for letting the kettle boil a few heartbeats longer
+than it needed to, for discussing the day's chores in a little more
+detail than absolutely necessary rather than getting up from breakfast
+to start doing them.  No one wanted to hurry, not even the soldiers
+sent to patrol the road below Stale.
+
+Sergeant Dorbu spread his hands helplessly when Indy asked if the
+patrols were strictly necessary.  "Commander's orders," he said
+apologetically.
+
+Aft nodded firmly.  "That's right.  Have to stick to routine if you
+don't want people to go slack."  Indy and Noxy had found the two of
+them in the square, sharing strong cups of tea and talking about the
+fire and how the moss-drying shed might be rebuilt, though Noxy was
+willing to bet that Sergeant Dorbu had done more listening than
+talking.  The sergeant smiled when he saw Indy, and Noxy tried not to
+notice how her mother tucked her hair back over her ear when she
+smiled back.
+
+A shutter clattered open above them.  Noxy glanced up to see Grappa
+Gas glaring down at them, his own mug clenched in his hand.  When he
+realized she had seen him, he scowled and disappeared from the window.
+
+Indy followed her daughter's gaze.  "All right," she told the
+sergeant.  "If you think it's necessary."  She put her hand on Noxy's
+shoulder.  "Why don't you round up Sensy and Rash and see if you can
+keep the littles busy this morning?  We need to clean up the mess from
+last night, and they'd just be under foot."
+
+By the time the soldiers and Kulbinder left twenty minutes later, Aft
+and Indy were working with a dozen elders to tear apart the ruined
+upper floor of the burned storage shed.  Charred beams were knocked
+free with heavy hammers and set in a pile to have their precious metal
+nails pulled for re-use.  In a moment of inspiration, Noxy had Rash
+and Sensy drag a few of the least-damaged timbers to the other side of
+the square and lay them out in a zig-zag pattern for the littles to
+walk along.  Were they a tightrope?  A secret path through a jungle?
+Or a bridge over a pit full of lava, and if you fell off, you'd be
+burned alive?  The littles seemed to be happy to believe all three at
+once, and as far as Noxy was concerned, anything that kept them from
+interrupting her repeated yawns was fine.
+
+It was shaping up to be a perfect morning until one of the soldiers
+who had gone on patrol came running through the gate with his sword in
+his hands and bellowed, "At arms!  At arms!  They've found us!"
+
+The commander had been sitting on a stool in front of the trading hall
+making notes in a small ledger.  At the sound of the soldier's voice
+he snapped the ledger shut and stood.  "Report!" he snapped.
+
+The soldier pulled up short and thumped his fist to his chest in
+salute.  His left hand was still in bandages, and the stitches holding
+the gash on his check closed were crusty with scabs.  "Honored!" he
+wheezed.  "They... they..."
+
+"Catch your breath, soldier."  The commander pulled a whistle from his
+pocket and blew it long and hard.  The shrill double tone made Noxy
+jump.  One of the children who had been walking the zig-zag of beams
+stumbled, then started to cry because she had stepped in the lava and
+had to go back to the beginning.  Sensy shushed her, eyes as wide as
+Noxy's as the soldiers who had stayed behind tumbled out of the
+trading hall door, some on crutches, others still pulling on clothes.
+
+"Honored!"  The soldier straightened up and saluted again.  "Royalist
+rangers, honored.  Two of 'em, light packs, with forest bows and short
+swords.  The tiger got 'em."
+
+"Alive?" the commander demanded.
+
+The soldier nodded.  "Yes, honored.  Chased 'em into us, just like we
+practiced."  He gulped.  "But there was a bird with 'em, honored.  A
+hawk or the like."
+
+"Damn," the commander swore.  "Was it Gifted?"
+
+The soldier shook his head.  "Dunno, honored."
+
+Indy cut in.  "Commander, does this mean there's an army coming?"  The
+question sent Sensy's hands flying to her mouth.  Before Noxy could
+say anything to comfort her, Rash put his arm over her shoulders and
+gave her a squeeze.  On any other day, Noxy would have been shocked
+and said something sarcastic.  Right then, her only thought was a
+slightly bewildered, *But I'm scared too.*
+
+The commander shook his head.  "Unlikely, mayor.  Rangers usually stay
+a day or two ahead of regulars.  My bet is a regiment has settled in
+at the foot of the pass to hold it closed now that the snow is
+clearing."  He scowled.  "But if these two don't report back---"
+
+"---someone's going to come looking for them," Grappa Gas said loudly,
+striding across the square to join the growing crowd.  "I told you,
+Indy.  I *told* you."
+
+The next few minutes were filled with the purposeful chaos of people
+who have long practice handling unexpected bad news.  The commander
+headed to the Quick Tower, taking two soldiers at Sergeant Dorbu's
+deferential but unyielding insistence.  "Make sure he doesn't kill
+himself," the sergeant muttered to one of the men.
+
+As they left, the sergeant picked a dozen men by name and told them to
+get their gear on.  He sent the rest back to bed---they could still
+barely walk, and if there *was* going to be a fight, he wanted them
+out of it.  But no, he didn't think there'd be a fight---not today,
+anyway.
+
+"And tomorrow?" Grappa Gas asked.  "What are we all supposed to while
+you lot are chopping each other to pieces in the square?  No, I
+*won't* shush!"  he snapped at Indy as she opened her mouth.  "Saying
+good riddance to the *tralpa* is one thing, but sheltering rebels,
+that's another, and if you think we won't be held to answer for it
+when the king's men show up---"
+
+"It won't come to that," Sergeant Dorbu interrupted.  "I promise."  He
+raised his voice.  "If the king's men show up in force, we'll either
+take our chances getting through the pass, or surrender.  We won't put
+you in danger."  He drew his knife and laid it across his palm.  "On
+my blood."
+
+"No need for that," Indy said hastily, putting her hand on his arm to
+stop him.  "We're happy to take your word.  Aren't we?"  She shot a
+stern look at Grappa Gas.
+
+"If you say so," the old man grumbled.
+
+The patrol arrived back in Stale a few minutes later with its two
+prisoners, but without Kulbinder, who was combing the woods for other
+rangers.  "Or that damn bird," one of the soldiers said.  "I'm sorry,
+honored, I should have got an arrow off, but it was just so rotting
+quick."
+
+"Don't worry about it," Sergeant Dorbu said, clapping him on the
+shoulder.  "Now, who do we have here?"
+
+The royalist soldiers wore the same kilts and armor as the rebels, but
+with blue ribbons sewn onto their cuffs.  Both men had weathered faces
+and close-trimmed beards, though the larger one's was going gray while
+the smaller's was still as black as his skin.  Both wore expressions
+of stoic resignation, and neither seemed inclined to answer the
+sergeant's questions.
+
+He waited a moment, then sighed.  "All right.  Mayor, is there a shed
+of some sort we could borrow with a door that locks?"
+
+Indy blinked.  "I don't think any of our doors lock.  Oh, except the
+sugar cabinet in the trading hall, to keep the children out, but
+they'd never fit in there."
+
+Beside her, Aft snapped his fingers.  "What about the tunnels by the
+yak pens?  We could put them in there and nail some boards across to
+stop them running off."  He gestured at the salvaged timber beside
+them.
+
+Sergeant Dorbu blinked.  "What tunnels?"
+
+He blinked again when Aft showed him.  "Not that one," Indy said
+hastily in front of the one that Noxy had shown Thokmay the day
+before.  "It's too filthy even for prisoners."
+
+They wound up choosing one next to the yak pens.  As the two prisoners
+pried the old wooden grill off its entrance under the watchful eyes of
+the sergeant, half a dozen of his men, and a handful of villagers,
+Noxy studied the younger ranger.  He was a head shorter than his
+partner---had it been him in the rain last night rather than Thokmay?
+
+The grill clattered to the ground.  "Right, in you go," Aft growled.
+He had been holding a spare piece of wood like a club while the
+prisoners worked, clearly not trusting them not to bolt or the rebel
+soldiers to stop them if they did.
+
+The older ranger spoke for the first time.  "What about the
+necessaries?"
+
+"We'll get you a bucket," Sergeant Dorbu.  He cocked an eyebrow at
+Indy.  "And something to eat?"
+
+"Of course," she replied.
+
+The two captured soldiers lifted a salvaged beam for Aft to nail into
+place.  The older captive watched him bang the first couple of nails
+into place, then snorted and looked away.  "What?" the cloudherd
+asked.
+
+"Didn't say anything," the royalist muttered.
+
+Aft put his hands on his hips.  "Well, you didn't say it pretty
+loudly.  You mind speaking up?"
+
+The soldier shrugged.  "Just don't like seeing a job done poorly, is
+all," he said, his lowland accent turning 'seeing' to 'saying' and
+'all' to 'ale'.
+
+"What do you mean, poorly?" Aft blustered.  Some of the villagers hid
+smiles.
+
+The soldier shrugged again.  "Don't mind me, I'm just here to hold the
+heavy stuff."
+
+"Hmph!"  Aft placed the next nail and lined up the hammer with
+exaggerated care.  As he swung it back, the soldier snorted again.
+The hammer came down squarely on Aft's thumb.
+
+"Ow!  Rot and damnation, man!"  Aft stuck his thumb in his mouth,
+glaring at the soldier.
+
+"Leave him be," the younger soldier said.  "Worse he does, the sooner
+as we're quit of here."
+
+"Right, that's it."  Aft strode forward and held out the hammer.
+"You're so crafty, you show us how it's done."
+
+The soldier glanced at the hammer, then at Sergeant Dorbu, who spread
+his hands.  "As long as the job gets done," he said, struggling to
+keep a straight face.  Some of the villagers weren't even struggling
+any more, and Grappa Gas was grinning outright at his son's
+embarrassment.
+
+The soldier shrugged once more.  "Sure.  Here, you take this."
+Grunting, the two men swapped places.
+
+"A little higher.  Yup.  That's it.  Nope, in closer to the wall.
+Hold it."  The soldier eyed the beam's position critically.  "Good
+enough."
+
+And with no more warning than that he spun around and swung the hammer
+at Sergeant Dorbu's head.  The sergeant barely flung his arm to block
+the blow. *Thud!* The hammer made an ugly meaty sound as it connected
+with his forearm.
+
+At the same instant, the younger soldier flung his end of the beam at
+Aft.  Aft jumped back with a curse so that the beam clattered to the
+ground at his feet instead of crushing his toes.  "Run!" he shouted
+needlessly as the older soldier charged through the crowd.
+
+Someone shrieked.  The rebel soldiers chased after the escaping
+prisoners.  The younger ranger feinted left, then lunged right to go
+in the opposite direction.  Without thinking, Noxy stuck out her foot.
+"Oof!" The soldier sprawled facelong on the ground, and "Owf!" as Aft
+landed on top of him.
+
+The two scrabbled for a moment in the dirt before the soldier suddenly
+relaxed.  "I yield!" he said.  "I yield, damn it!  Get off me!"
+
+"Like hell," Aft grunted, twisting the soldier's arm up behind his
+back.  He got up on one knee, then rose to his feet without relaxing
+his grip.  "What do you want done with him?"
+
+Sergeant Dorbu was cradling the arm that had taken the hammer blow.
+His jaw was set and his eyes cold.  "Put him in the hole," he said
+curtly.  "You!"  He nodded at Noxy.  "Get to the gate.  Tell whoever's
+there what's happened, but keep your distance, you hear?  Don't try to
+stop him."
+
+"What?" Indy exclaimed.  "Wait!  She's not a---" But Noxy was already
+gone.
+
+The escaped soldier had gone back the way they had come, but Noxy knew
+the village like her tongue knew her teeth.  She vaulted over a crate
+someone had left out through the winter, skidded on a cobblestone that
+was still crusted with winter ice, dodged around Sensy's startled
+granna and grappa with a shout of, "Look out, he's escaped!", and
+practically flew into the narrow jitty between their house and their
+neighbors.
+
+Her boots splashed in a puddle left behind by the previous night's
+storm.  As she burst out the other end, she plowed straight into
+Thokmay and knocked him off his feet.
+
+"Sorry!" Noxy exclaimed, reaching down to help him back to his feet.
+"Did you hear?  One of the soldiers escaped!  We've got to tell
+whoever's at the gate!"
+
+"Go," Thokmay gasped, waving her on as he tried to re-fill his lungs.
+"I'll find Kulbinder."
+
+Noxy was already in motion again.  She raced along the side of the
+trading hall and sprinted across the square to the gate.  Three
+soldiers were standing there, two on their own feet and one on
+crutches.  She quickly explained what had happened.
+
+"Hasn't come by here," the one on crutches said.  He had a single
+yellow ribbon around his sleeve, and a thick bandage wrapped around
+his shin.
+
+"Yet," another added grimly, drawing his sword and hefting it in his
+hand.  "Best for him he doesn't, either."
+
+Boots clomped on the cobblestones as Thokmay trotted up to join them.
+"Is there any other way out?" he asked Noxy.
+
+She shook her head.  "Not unless he can fly."  She hesitated.  "But if
+he gets up onto the wall, he might be able to jump into a tree.  I've
+seen people do that."
+
+Thokmay nodded.  "The tiger is on patrol," he told the three soldiers
+crisply.  "I'll go find him and let him know about the escape."
+
+"I'll come with you," Noxy said.
+
+"No!" Thokmay said.  "It's too dangerous."
+
+Noxy stared at him in disbelief.  "Too dangerous?  I know the forest a
+lot better than you do!"
+
+Thokmay patted the sword at his hip.  "And I know a lot more about
+fighting than you do."
+
+"Take her with you," the soldier on crutches ordered.
+
+"But---"
+
+"That's an order," the soldier said sternly, pointing at the ribbon
+around his sleeve.
+
+"Yes, honored," Thokmay replied woodenly.
+
+The air was colder and damper in the forest gloom.  Noxy rubbed her
+arms to warm them as she walked.  Thokmay didn't seem to mind.  *But
+he wouldn't with that thick coat on,* she thought sourly.  It didn't
+look like it had gotten wet the night before, but if he'd been wearing
+a rain cape...  And it would have had plenty of time to dry if he'd
+hung it up near one of the big fireplace stoves in the trading
+hall---their thick stone sides stayed warm all night.
+
+Thokmay raised a hand.  "Hold."  He pointed the forest floor in front
+of them.  "This must be where they fought.  See where the branches are
+broken?"
+
+"If you say so," Noxy said, rubbing her arms more vigorously.
+Cloudherds learned how to read the sky before they learned how to read
+books, but woodcraft was mystery to her.  Truth be told, she had never
+really liked being in the forest.  The trees always seemed to loom
+over her.  It wasn't too bad when the birds were singing, but when it
+was silent---
+
+"Why is it so quiet?" she asked, suddenly realizing that she hadn't
+heard anything for the last hundred heartbeats except the soft
+pitter-pat of water dripping from the branches around them.
+
+"Sh..."  Thokmay made a cutting gesture with his hand.  "Something's
+watching us."
+
+Noxy shivered.  "Is it the tiger?" she whispered.  She glanced over
+her shoulder.  They were only a couple of hundred strides from the
+fortress gate, but it felt like home and sunlight and safety were a
+world away.  The forest didn't want them there.  It didn't want their
+voices or their boots or the short sword that was suddenly in
+Thokmay's hand.
+
+She pressed the heels of her hands to her temples.  What was
+happening?  She couldn't be mind-hearing the forest---could she?  She
+must be going crazy.  It was too much---it couldn't all fit.  Her head
+was going to burst.
+
+"It's too big..." Noxy whimpered.  
+
+"Sh!" Thokmay hissed urgently.  "Be quiet!"
+
+Noxy put a hand on a nearby tree to steady herself.  The bark was cold
+and damp but reassuringly solid.  The little beads of sap under her
+palm were frozen nearly solid but still sticky.  She took a deep,
+shaky breath.  She wasn't going to throw up.  She wasn't.  "I'm all
+right," she said, though she couldn't have said whether she was
+talking to herself or Thokmay.  "Just...  just a headache."  Somewhere
+nearby, a sapsucker chirped.  A squirrel chattered in response, and
+from right behind her, the tiger spoke.
+
+"What are you doing here?" Kulbinder demanded.  Noxy shrieked and spun
+around.  The tiger ignored her.  "You should be in the village!"
+
+"One of the prisoners escaped, honored," Thokmay replied.  "The older
+one.  Took a hammer to the sergeant, but he'll be all right.  He's
+probably still inside the walls, and Corporal Choegyal at the gate is
+watching for him."
+
+The tiger growled.  "I've seen nothing.  But you were foolish to come
+here."  He glanced at Noxy.  "And doubly foolish to bring her."
+
+Noxy opened her mouth to protest that he hadn't brought her, she had
+volunteered, but a now-familiar twinge stopped her.  She squeezed her
+eyes shut, and suddenly she could *see*, really see, everything all at
+once through dozens of eyes.  She was looking at her put her hand on
+the back of her own head from the branch of a tree behind her.  She
+was motionless in the bushes, looking over Kulbinder at her own drawn
+face as she crumpled to the ground.  She was a fifty strides away with
+one paw in the fast, freezing water of a little brook as the ranger
+slipped by on nearly-silent feet.
+
+"He's over there," she said, pointing.  "Heading downhill."  And then
+she was back on the branch behind herself, watching as she crumpled to
+the ground.

@@ -2278,33 +2278,33 @@ smoldering in his hand.  "Thank you, we'd be honored," he said in
 answer to the invitation.  "Though I'm afraid it will just be myself
 and Kulbinder.  The commander is still..."  He waggled a hand.
 
-Noxy hesitated.  "Does the tiger---I mean, will he eat some roasted
-cheese?  We don't..."
+Noxy hesitated.  "Would---I mean, if the commander can't come, would
+Thokmay like to instead?  I mean, since the tiger is coming..."
 
-"You don't cook meat?"  Sergeant Dorbu smiled when Noxy shook her
-head.  "That's all right.  He'd probably be fine with just a big bowl
-of milk if that's easier.  If he wants anything else, he can find it
-himself later."
+Sergeant Dorbu's polite smile broadened into something more genuine.
+"I'm sure he'd like that."
 
 The northern sky was as dark as a day-old bruise by the time Noxy got
-home. Her mother had a triple handful of diced onions sizzling in a
-pot and was peeling what was probably the last knob of ginger in
-Stale.  Granna Fee had come by while she was away and was busy
-assembling something with oats, apples, and honeycomb on the kitchen
-table.  When Noxy asked if she'd be joining them, she said, "Oh no.
-Gas and I have plans for the evening.  He loves a good storm."
+home.  Diced onions were sizzling in a pot, and Indy was peeling what
+might well have been the last knob of ginger in Stale.  Granna Fee had
+come by to help, and was busy assembling something out of oats,
+apples, and honeycomb on the kitchen table.  When Noxy asked if she'd
+be joining them, she said, "Oh no.  Gas and I have plans for the
+evening."  She nudged her daughter with her elbow and stage-whispered,
+"He loves a good storm."
 
 "Granna!" Noxy and Indy protested in unison.
 
 Sergeant Dorbu knocked on their door just as the rain began to fall.
-Noxy had been expecting him to be in his uniform, but he had traded in
-his helmet for a plain yakskin cap that any cloudherd might have worn,
-and had left his sword behind.
+His freshly-shaven scalp gleamed in the light of the dayglass lamp
+Indy had hung from the ceiling.
 
-Kulbinder padded in behind him while he and Indy were saying their
-hellos.  He flowed up onto the chair across from Noxy and watched
-impassively as she swept the last scraps of potato off the table.
-"Thank you for the blanket," he said without premable.
+Kulbinder and Thokmay entered quietly behind him while he said his
+hellos.  Thokmay stood uncertainly by the door until Noxy waved him
+toward a stool.  Meanwhile, the tiger flowed up onto the chair across
+from Noxy without waiting for an invitation and watched impassively as
+she swept the last scraps of potato off the table.  "Thank you for the
+blanket," he said without premable.
 
 Noxy jumped slightly.  "You're welcome.  It's pretty dangerous,
 getting dunked in frozen water like that.  It happened to one of the
@@ -2324,19 +2324,22 @@ And just like that the rhythm of the meal took shape.  Sergeant Dorbu
 had a seemingly inexhaustible supply of stories about his own
 foolishness, clumsiness, and bad choices.  Indy asked just enough
 questions to keep the stories coming, while Kulbinder's dry comments
-provoked protests of innocence and occasional snorts of laughter.  As
-she tabled a tray bearing grilled slabs of cheese, fried onions, and
-boiled potatoes, Noxy realized with a start that she was actually
-enjoying herself.  The mood was only slightly dampened by the tiger
-sniffing at the cheese and then saying thank you, but it would
+provoked protests of innocence and occasional snorts of laughter.
+Even Thokmay smiled, though he said little more than please and thank
+you.
+
+As she tabled a tray bearing slabs of grilled cheese, fried onions,
+and gingered potatoes, Noxy realized with a start that she was
+actually enjoying herself.  The mood was only slightly dampened by the
+tiger sniffing at the cheese and then saying thank you, but it would
 probably upset his digestion, he would find something in the forest
 after the storm was over.
 
 Conversation became more serious after the dishes were cleared.  The
-soldiers had declared for Shudarga almost as soon as she raised her
-banner, and had been fighting ever since.  "Or getting to a fight, or
-getting away from one, or trying to get enough food in our bellies to
-keep us fighting," Sergeant Dorbu added.
+commander had declared for Shudarga the moment she raised her banner,
+and had been fighting ever since.  "Or getting to a fight, or getting
+away from one, or trying to get enough food in our bellies to keep us
+fighting," Sergeant Dorbu added.
 
 "So why did you choose her side?" Indy asked as she splashed some dark
 mountain *rak* into a glass and passed it to him.  Catching Noxy's
@@ -2344,49 +2347,133 @@ eye, she poured a thimbleworth into another glass and handed it to her
 daughter.  The pungent fumes tingled in Noxy's nose as she tasted it
 gingerly.
 
-Sergeant Dorbu rolled his glass between his hands as if to warm them.
-"My family used to have land.  Not much---really just a big farm with
-a couple of tenants to work it---but it was enough to keep us.  Then
-one of our neighbors decided he wanted it.  She honeyed up the local
-*tralpa*, promised him a slice of the takings, and..."  He spread his
-hands.  "By the time we got to court, she'd rented all the laws that
-would have saved us.  We had a week to clear out after living their
-all our lives."
+Sergeant Dorbu rolled his glass between his hands.  "My family used to
+have land.  Not much---just a farm with a couple of tenants to work
+it---but it was enough to keep us.  Then one of our neighbors decided
+she wanted it.  She honeyed up the local *tralpa*, promised him a
+slice of the takings, and then found an excuse to drag us into court."
+He spread his hands.  "By the time we got there, she had rented all
+the laws that would have saved us.  We had a week to clear out."
 
 "That must have been horrible," Indy said sympathetically.
 
 "It is foolishness," Kulbinder rumbled.  "The law in Thind is not
-something to be borrowed for money like a bullock.  There are rules
-for each station, and that is that."
-
-"But then how does the king raise money?" Noxy asked.
-
-Kulbinder blinked slowly.  "The *emperor* takes what he needs when he
-needs it.  It is...simpler."
+something to be hired like a bullock.  There are rules for each
+station.  It is...simpler"
 
 "Simpler *and* fairer," Sergeant Dorbu added with a quiet intensity
-that hadn't been there a moment earlier.  "And that's what Shudarga
-wants.  Laws should be there for everyone, all the time, not just for
-whoever has the most money on the day of a trial.  And if that means a
-bunch of royals have to work for a living instead of renting out laws
-some king gave their great-great-grands way back when, that's fine by
-me."  He drained his glass in one quick gulp.  When her mother did the
-same, Noxy held her breath and swallowed her own *rak*.
+that hadn't been there a moment earlier.  "And that's what Shudarga's
+fighting for.  Laws should be there for everyone, all the time, not
+just for whoever has the most money on the day of a trial."
 
-The thick black liquid felt like fiery smoke as it went down her
-throat.  She clenched her jaw, but a strangled cough managed to
+"Is it worth killing for?" Indy asked quietly.
+
+Sergeant Dorbu's voice was steady.  "I believe it's worth my life.
+And if it's worth mine, it's worth others'."
+
+A shiver ran up Noxy's back at the quiet certainty in his voice.  From
+the look on Thokmay's face, she knew he felt it too, and she suddenly
+understood why Sergeant Dorbu's men followed him.  When he raised his
+glass of *rak* and drained it in one quick gulp, everyone else at the
+table did the same.
+
+The thick black liquid felt like fiery smoke as it went down Noxy's
+throat.  She clenched her jaw, but a strangled wheeze managed to
 escape.  "And that's enough for *you* tonight," her mother said in
 mock-disapproval.
 
-"Yes, *anna*," Noxy said, gasping for air.
+"Yes, *anna*," Noxy said, gasping for air as her mother reached across
+the table and took the glass from her.  Thokmay, Noxy noticed, hadn't
+even blinked when he swallowed his own mouthful.
 
-"Here."  Her mother pushed the empty kettle across the table.  "How
-about you refill that and I'll make tea?  It sounds like it's not as
-bad as we thought, and a bit of air will help you clear your head."
+Sergeant Dorbu started to rise.  "We should probably---oh, thank you."
+He sat down again as Indy poured him a second glass of *rak*.
+
+"Daffodil, could you go up to your room and get the spare blankets out
+from under your bed?" Indy said, pouring more for herself as well.
+"I'm sure the commander would appreciate them."
+
+"I'm sure he would," Sergeant Dorbu agreed, his eyes on Indy.
+"Thokmay, could you give her a hand?"
+
+"I can manage a few blankets," Noxy protested, but she recognized the
+tone the two adults had used.  She exchanged a look with Thokmay, who
+shrugged slightly as if to say, "Grownups---what can you do?"
+
+Noxy climbed the steep stairs with Thokmay behind her and pulled aside
+the curtain that hung in her bedroom doorway.  Thokmay squeezed past
+her with a polite, "Thank you," and ducked his head to enter.  Inside,
+the dayglass that hung beside the skylight shed a warm orange glow as
+the sunshine it had trapped during the day slowly leaked out.  The far
+wall was taken up by a narrow bed that Noxy suddenly wished she had
+remembered to make that morning. Three shelves at the foot of the bed
+held everything she possessed: her clothes, her little rock
+collection, half a dozen books she had borrowed from the village's
+library, and---
+
+"Where did you get these?" Thokmay asked, picking up one of Noxy's
+knitted dolls curiously.
+
+"They were nameday presents when I was little," Noxy said, instantly
+hating the defensive tone in her voice.
+
+Thokmay smiled at the soft little blue and white figure in his hand.
+"My sister has dolls like these."
+
+Noxy frowned.  "I thought you said you were an orphan?"
+
+Thokmay's smile instantly disappeared.  He set the doll down exactly
+where it had been.  "Are these the blankets?"  Without waiting for an
+answer, he stooped to pick up the two winter blankets lying on the
+bottom shelf.
+
+"That was quick," Indy said as the two teenagers came back down the
+stairs.  The bottle of *rak* was half empty, Noxy noticed, and the
+smiles on her mother's face and Sergeant Dorbu's seemed--- No.  Her
+mother was just being the mayor, that was all.
+
+"Where's Kulbinder, honored?" Thokmay asked.
+
+Sergeant Dorbu pointed his thumb over his shoulder at the door.  "Said
+he ought to do some patrolling.  I think he's hoping to find a rabbit
+or something."  He had undone the top button of his jacket, Noxy
+noticed.  And her mother had untied the ribbon that held her hair
+back.
+
+Thokmay hefted the blankets.  "With your permission, shall I take
+these to the commander?"
+
+"Good idea.  Thank you again," Sergeant Dorbu added to Indy.
+
+"Happy to help.  And you, young lady."  Indy nodded back up the
+stairs.  "It's been a long day."
+
+A few minutes later, Indy lay on her bed, still in her clothes,
+staring up at the storm through her skylight with her dolls cradled in
+her arms.  Her mother and the sergeant were still talking, quietly
+enough that she could only make out a occasional word.  The tone said
+enough, though.  She closed her eyes and hugged her dolls tight, but
+that didn't make her sudden loneliness go away.
+
+She counted to a hundred after she heard the door close, then got up
+and went back downstairs.  Her mother was still sitting at the table.
+The bottle of *rak* was empty, and the dayglass lamp was starting to
+dim.
+
+"What are you still doing up?" Indy asked, opening her arms to give
+her daughter a hug.
+
+"Couldn't sleep," Noxy said, her voice muffled in her mother's
+shoulder.
+
+Indy gave her a squeeze.  "Well then, why don't we make some tea?
+Here."  She took the kettle off the stove and passed it Noxy.  "How
+about you go and fill that?  It sounds like the rain's dying down, and
+a bit of air will help you clear your head."
 
 Noxy nodded, not trusting herself to speak.  She slipped her feet into
-her boots without bothering to do up the laces, pulled a poncho over
-her head, and stumbled out into the night.
+her boots without bothering to do up the laces, pulled on her coat,
+and went out into the night.
 
 Rain was still falling, but Indy had been right---most of the storm
 clouds had passed, and the few stragglers chasing them were already
@@ -2398,19 +2485,12 @@ able to mind-hear anything.  What had happened with Thokmay had been a
 coincidence.  She shouldn't---
 
 Something clattered in the narrow jitty between her house and the
-yarning shed next door.
-
-<!-- FIXME: why doesn't she call out? -->
-
-She set the kettle down quietly on the front step of her house and
-tiptoed gingerly toward the narrow gap between the two buildings.
-Holding her breath, she leaned forward and peeked around the corner,
-just in time to see a shadow disappear out the other end.  Who would
-be out in the rain?
-
-*The soldiers,* she realized.  It had to be one of the soldiers,
-except why would they be out in the rain either?  Suspicious, she
-hurried to follow.
+yarning shed next door.  She set the kettle down quietly on the front
+step of her house and tiptoed gingerly toward the narrow gap between
+the two buildings.  Holding her breath, she leaned forward and peeked
+around the corner, just in time to see a shadow disappear out the
+other end.  Who would be out in the rain?  Curious, she hurried to
+follow.
 
 "Ow!"  Ten steps in, her foot connected with a pile of cobblestones
 that she and Sensy had put there as part of some long-forgotten game.
@@ -2445,16 +2525,16 @@ his coat held over his head to keep the rain off.  "Are you all right?
 What in the name of all that rots are you doing out in this?"
 
 "*Anna* wanted me to fill the kettle," Noxy said stupidly.  "But---the
-lightning.  It hit the weather vane."
+lightning.  It hit---"
 
-"I can see the lightning hit it," Aft said testily.  He took her by
-the shoulders and peered into her eyes, then relaxed slightly.
-"You'll be all right.  Just a bit of a scare.  Come on, let's get you
-back to---wait."  He sniffed.  "What's burning?"
+"I can see what the lightning hit," Aft said testily.  "Come on, let's
+get you back to---wait."  He sniffed.  "What's burning?"
 
 Noxy grabbed his arm and pointed.  "There!  Upstairs!"  A bright lick
 of flame was suddenly dancing in a window.  Another joined it as the
-familiar herby smell of burning moss caught in Noxy's nostrils.
+familiar herby smell of burning moss caught in Noxy's nostrils.  One
+of the burning splinters had fallen into the piles of dried moss the
+villagers used to stuff mattresses and pillows.
 
 "Get your mother!" Aft ordered, then cupped his hands around his
 mouth.  "Fire!  Fire!  Fire!"

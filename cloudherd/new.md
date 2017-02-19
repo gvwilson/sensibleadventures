@@ -1403,24 +1403,37 @@ Behind it, rough stone steps led down into the mountain.
 "It's just an old tunnel," said Noxy.  "The grownups say they're
 dangerous, so we're not supposed to go in."
 
-Thokmay nodded.  "Sergeant Dorbu will want to know about them."
+Thokmay nodded.  "Sergeant Dorbu will want to know about it."
 
 "Why?" Noxy asked.  "They don't go anywhere---or at least, that's what
-everybody says," she amended hastily.  "We use the ones by the
+everybody says," she amended hastily.  "We use the bigger ones by the
 shearing shed as yak pens, but that's about it."
 
 "He'll still want to know.  Soldiers should know as much as they can
 about their surroundings," Thokmay said, as if repeating a lesson to a
 slow learner.
 
-Noxy bit back a retort.  "Come on," she said.  "We can see more from
-up top."
+"Whatever you want," she said, feigning indifference.  "Come on---we
+can see more from up top."
 
-The steps lay flush against the side of the wall.  They had been built
-for the Pilots, not for human beings, so each one was as high as
-Noxy's knee, and so broad that it took her two strides to cross.  Even
-after hundreds of years, the stones fit together so snugly that it was
-hard to tell where one ended and the next began.
+She glanced back over her shoulder as they walked away and shivered.
+When she and Sensy and Rash were no older than Little Gas was now, the
+bigger children had dared them to come into the tunnels with them.  It
+had been scary-exciting for the first two dozen strides, but when the
+older children had doused the little chip of dayglass they were
+carrying and plunged the tunnel into darkness, Noxy had suddenly felt
+the weight of the ancient stone above her pressing down, smothering
+her.  She had screamed, and it was no satisfaction at all to remember
+that Sensy and Rash had screamed too.  When Rash had suggested a few
+months previously that they play the same trick on the smaller
+children themselves, she had punched his arm hard enough to leave a
+bruise.
+
+The steps that led to the top of the wall lay flush against its side.
+They had been built for the Pilots, not for human beings, so each one
+was as high as Noxy's knee, and so broad that it took her two strides
+to cross.  Even after hundreds of years, the stones fit together so
+snugly that it was hard to tell where one ended and the next began.
 
 Noxy put her hand on the wall to give herself a little extra push on
 each stair.  She noticed Thokmay puffing and sweating after the first
@@ -2949,13 +2962,74 @@ here."  He glanced at Noxy.  "And doubly foolish to bring her."
 Noxy opened her mouth to protest that he hadn't brought her, she had
 volunteered, but a now-familiar twinge stopped her.  She squeezed her
 eyes shut, and suddenly she could *see*, really see, everything all at
-once through dozens of eyes.  She was looking at her put her hand on
-the back of her own head from the branch of a tree behind her.  She
-was motionless in the bushes, looking over Kulbinder at her own drawn
-face as she crumpled to the ground.  She was a fifty strides away with
+once through dozens of eyes.  She was looking at herself put her hand
+on the back of her head from the branch of a tree behind her.  She was
+motionless in the bushes, looking over Kulbinder at her own drawn face
+as she crumpled to the ground.  She was biting the top off a fern.
+She was scurrying along a branch.  She was a fifty strides away with
 one paw in the fast, freezing water of a little brook as the ranger
 slipped by on nearly-silent feet.
 
-"He's over there," she said, pointing.  "Heading downhill."  And then
-she was back on the branch behind herself, watching as she crumpled to
-the ground.
+"He's over there by the stream," she said, pointing.  "Heading
+downhill."  And then she was back on the branch behind herself,
+watching as she crumpled to the ground.
+
+----------------------------------------
+
+## Chapter 8
+
+Noxy lay on her back and looked up at the trees. Raindrops spattered
+on her face.  No, not raindrops---just drips falling from the branches
+of the twisted pines around her.
+
+She turned her head and locked eyes with a gray squirrel splayed out
+upside-down on the trunk of the tree nearest her.  A wave of relief
+washed over her.  She could see it, but she couldn't see *through*
+it.  She could only see through her own eyes, and the pressure in her
+head was gone.
+
+"We can't wait that long.  It will take him at least a couple of days
+to get to them, and another three days for them to get back in force.
+We have to find some other way to stop them!"  That was Thokmay
+speaking, she realized muzzily.  She struggled to get up on one elbow
+to look for him.
+
+"She's awake," Kulbinder rumbled.  He was sitting on his haunches two
+strides away, studying Noxy as impassively as the squirrel had.
+Thokmay was sitting beside him on the trunk of a fallen tree.  He
+stood, brushed bits of damp moss from the back of his kilt, and came
+over to offer her his hand.
+
+"'M a'right," Noxy said, waving his hand away and forcing herself to
+sit up.  Her body felt like it was made out of damp laundry stuffed
+with porridge.  "Wh'appen?"
+
+Thokmay shook his head, concern written large on his face.  "You
+fainted."  He went down on one knee and put his hand on her forehead.
+"Sh, be still," he said gently as she tried to push him away.  "I
+don't think you have a fever.  Has this happened before?"
+
+"Nuh uh."  Noxy shook her head, instantly regretting it.  She had seen
+through the forest's eyes, she realized with dull horror.  The feeling
+was fading---it already felt like she was remembering a story she had
+heard rather than something that had happened to her---but it was the
+only explanation.
+
+Her eyes widened.  "Did you catch him?" she asked.  "The ranger.  Did
+you---"
+
+"He got away," Kulbinder told her, still studying Noxy as if she were
+a puzzle to be solved or a meal to be refused.  "I searched by the
+stream while Thokmay looked after you, but there was no sign of him."
+
+The tiger stood and stretched.  "There is nothing more we can do here.
+We should return to the village."
+
+Noxy bit back a protest.  She had *seen* the ranger.  As skilled a
+woodsman as he was, he couldn't possibly outrun a tiger.  But when she
+took the hand Thokmay offered her and let him help her to her feet,
+her head started to swim again.  The forest was still watch
+them---still watching *her*.  The trees suddenly seemed closer,
+taller, and much, much older.
+
+She shivered.  "You're right.  Let's go."

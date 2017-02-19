@@ -3033,3 +3033,54 @@ them---still watching *her*.  The trees suddenly seemed closer,
 taller, and much, much older.
 
 She shivered.  "You're right.  Let's go."
+
+The corporal---Choegyal, Noxy remembered, his name was Choegyal---was
+at the gate.  So were her mother and Granna Fee, and they were as
+angry as Noxy had ever seen them.  What had he been thinking, letting
+Noxy go into the forest after an enemy soldier?  And what did he mean,
+they couldn't go looking for her?  Who in the rotting hells did he
+think he was?
+
+"I'm sorry, honored.  I just do what the commander tells me," the
+corporal repeated stoically.  He had his mask up, but the three men
+with him blocking the gate had theirs on, and one of them had his bow
+in his hands and an arrow loosely nocked, ready to shoot on a
+heartbeat's notice.
+
+Noxy broke into a trot.  "I'm here, *anna*, I'm here!"  She flung
+herself into her startled mother's arms.
+
+"Oh daffodil, where have you been?" Indy murmured in her daughter's
+ear, squeezing her.  "I was so worried."
+
+Noxy squeezed her in return before letting go and stepping back to
+wipe a stray raindrop from her cheek.  "I'm all right, *anna*.  I'm
+all right."
+
+"Gifted! Report!" The commander's whipcrack voice shattered the
+moment.  He strode across the square, still gaunt but stronger than
+Noxy had seen him.
+
+The tiger's ears flattened against his head.  "I apologize, honored.
+He escaped me."
+
+"How?" the commander demanded.
+
+"The girl fainted, honored.  By the time she was awake, he was gone."
+The tiger's tail flicked from side to side.  "Shall I try to pick up
+his trail?"
+
+Noxy flushed as her mother and grandmother looked at her in surprise.
+"Fainted?" her mother said.  "You've never fainted."
+
+The commander turned his cold gaze on Noxy.  "Has she not?  Then she
+chose a very convenient time to start."
+
+*Uh oh,* Noxy thought, but Granna Fee cut in hastily before Indy could
+explode.  "Well, you know how it is," the old woman said brightly,
+putting her arm around Noxy and giving her granddaughter a squeeze.
+"Girls this age... when they get their changes and all... Sometimes it
+can make them a little light-headed.  The best thing for it will be a
+nice cup of tea.  Come on, why don't we all go and do that and leave
+these men to their business?"  She gave Noxy another squeeze, smiling
+innocently at the commander.

@@ -3076,11 +3076,100 @@ Noxy flushed as her mother and grandmother looked at her in surprise.
 The commander turned his cold gaze on Noxy.  "Has she not?  Then she
 chose a very convenient time to start."
 
-*Uh oh,* Noxy thought, but Granna Fee cut in hastily before Indy could
-explode.  "Well, you know how it is," the old woman said brightly,
-putting her arm around Noxy and giving her granddaughter a squeeze.
-"Girls this age... when they get their changes and all... Sometimes it
-can make them a little light-headed.  The best thing for it will be a
-nice cup of tea.  Come on, why don't we all go and do that and leave
-these men to their business?"  She gave Noxy another squeeze, smiling
-innocently at the commander.
+*Uh oh,* Noxy thought as her mother's jaw set in a pre-explosion
+expression that Noxy knew all too well. Granna Fee cut in hastily
+before Indy could speak.  "Well, you know how it is," the old woman
+said brightly, putting her arm around Noxy and giving her a squeeze.
+"Girls this age... I mean, young women... when they get their changes
+and all... Sometimes it can make them a little light-headed.  The best
+thing for it will be a nice cup of tea.  Come on, why don't we all go
+and do that and leave these men to their business?"  She gave Noxy's
+shoulder another squeeze and the commander another innocent smile, and
+then dragged her granddaughter away with her bewildered daughter in
+her wake.
+
+"What was *that* all about?" Indy demanded as soon as they were out of
+earshot of the soldiers.
+
+"She's just shaken up by last night's fire, aren't you, daffodil?"
+Granna Fee said.
+
+"Um, yes, I guess," Noxy replied, grateful for her grandmother's quick
+thinking.
+
+"I thought so," Granna Fee said firmly.  She steered them past the
+trading hall, where Aft was helping a handful of soldiers put a bar on
+the door and nail the window shutters closed.  He nodded curtly at the
+three women as they went by.  It wasn't until later that Noxy wondered
+why they were putting the bar on the *outside* of the door.
+
+Around the corner, past the vegetable gardens and the tanning shed...
+"Aren't we going to your house for tea?" Noxy asked.
+
+"In a moment."  Granna Fee looked past her granddaughter at Indy.
+"There's something we need to show you first."
+
+It took them ten minutes to get to the tunnel she had showed Thokmay
+the day before, the one that Indy had said was too dirty for
+prisoners.  Granna Fee slowed as they approached it and glanced over
+her shoulder.
+
+"Granna..." Indy started.
+
+"Shush," the old woman said quietly.  "It's time she knew."
+
+"Knew what?" Noxy asked.
+
+A few minutes later, Noxy climbed the stairs to the Round Tower, her
+mind whirling.  She had been told her whole life that the tunnels led
+nowhere, and that it was dangerous to go into them.  It turned out
+that the second part was only mostly true.  One tunnel, the one she
+had shown Thokmay, was still passable---dark and damp and narrow, but
+in an emergency, it gave the villagers a way to get out of the
+fortress unseen.  Children weren't told about it to make sure it
+stayed secret, but... Granna Fee sighed and gave Noxy another
+squeeze.  "You're not really a child any more, are you?"
+
+Noxy stopped at the top of the stairs, gaped at the scene in front of
+her, and then quietly backed down three steps and cleared her throat
+noisily.  When she reached the top step the second time, Rash and
+Sensy were no longer holding hands.  "Hey," she said awkwardly.
+
+"Hey," her friends replied.  Rash would have denied that he was
+blushing, but he seemed unable to meet Noxy's eyes.  Sensy, on the
+other hand, looked straight at her, challenging and searching at the
+same time.
+
+Noxy swallowed the lump that was suddenly in her throat and turned to
+lean on the parapet.  "This rots," she said quietly.  "The soldiers...
+all of it.  I wish we could just get up on a cloud and fly away."
+
+"The grownups will be back with the herd soon," Sensy promised.
+"Everything will be all right then."
+
+*All right, but not back the way it was,* Noxy thought.  She put on a
+brave smile.  "Sure," she said.  Then she straightened up.  "Speaking
+of soldiers."
+
+Two men in battle masks marched past in step.  One of them nodded to
+the trio as they went by.  Noxy half-raised a hand in acknowledgment,
+wondering how many centuries it had been since soldiers last patrolled
+the fortress walls.
+
+"Come on," Rash said to the two girls.  "My *anna* made pie last
+night, and it won't eat itself."
+
+"You go ahead," she told Rash and Sensy.  "I have to take care of
+something first."  Below them, sheltered from ground-level view by a
+bend in the wall and the corner of a yak shed, Thokmay and Kulbinder
+were deep in conversation.
+
+"Are you sure?" Sensy asked anxiously.
+
+Noxy looked from her to Rash and back.  "I'm sure," she said, put all
+the emphasis she could into it.  "But save me a piece, all right?"
+
+She watched them go down the stairs together, looking away as they
+reached for each other's hands.  The tiger and his boy were there.
+*Good,* she thought grimly.  She needed to yell at someone, and they
+would do nicely.

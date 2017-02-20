@@ -3029,21 +3029,74 @@ stream while Thokmay looked after you, but there was no sign of him."
 The tiger stood and stretched.  "There is nothing more we can do here.
 We should return to the village."
 
-Noxy bit back a protest.  She had *seen* the ranger.  As skilled a
-woodsman as he was, he couldn't possibly outrun a tiger.  But when she
-took the hand Thokmay offered her and let him help her to her feet,
-her head started to swim again.  The forest was still watch
-them---still watching *her*.  The trees suddenly seemed closer,
-taller, and much, much older.
+Soemthing rustled in the bushes.  Instantly, the tiger sunk into a
+hunting crouch, ready to chase or pounce or defend himself.  Thokmay
+drew his sword, motioning at Noxy with his free hand to be still.
 
-She shivered.  "You're right.  Let's go."
+The bushes rustled again, and then the trio heard a familiar
+out-of-tune whistle as Yestevan stepped into the clearing, still
+buttoning up his trousers.  "Whoa!" He jumped as he looked up and saw
+them.  "Saints, you nearly scared the soul out of me!"
 
-The corporal---Choegyal, Noxy remembered, his name was Choegyal---was
-at the gate.  So were her mother and Granna Fee, and they were as
-angry as Noxy had ever seen them.  What had he been thinking, letting
-Noxy go into the forest after an enemy soldier?  And what did he mean,
-they couldn't go looking for her?  Who in the rotting hells did he
-think he was?
+"What are you doing here?" Kulbinder demanded.
+
+"Pretty obvious, isn't it?" the former cloudherd blustered.  "Not like
+there's a privy to use."  He put his hands on his hips.  "Now, what
+are *you* lot doing here?"
+
+"We're looking for a royalist soldier," Thokmay said curtly.
+
+Yestevan's eyes narrowed.  "Is there a reward?"
+
+"I don't eat you," Kulbinder said flatly.
+
+Yestevan gulped and ran a hand through his lanky hair.  "Well, all
+right, can't ask for better than that.  If I see him I'll, um, I'll
+come and find you?"  And with no more farewell than that he spun
+around and hurried back the way he had come.
+
+Thokmay waited until he had disappeared among the trees before
+sheathing his sword.  "What an unpleasant man," he said.  "Was he
+shunned for anything in particular, or just for being himself?"
+
+"He killed a couple of people," Noxy said.  "Not on purpose," she
+added hastily.  "We're not supposed to use the clouds for anything
+except rain and sometimes passengers or mail, but he promised some
+river pirates he'd pick them up after a robbery, except something went
+wrong, I don't know what, and they were caught."
+
+She had only been six or seven when it happened, but she remembered
+the trial.  Her granna and two other old women from other cloudherd
+villages had put on long black coats, black collars, and black wooden
+masks.  The *tralpa* had been there as well in his rich brocade
+jacket, but had sat to the side and let the villagers dispense their
+own justice.  Yestevan had made his excuses, blustering and pleading
+and trying to make jokes.  Then Aft and Indy got to their feet one
+after another and laid out the facts.  Grappa Gas had shushed Noxy's
+questions, eventually lifting her to sit in his lap so she could lean
+back against his chest and let her eyes close as the proceeding
+dragged on.
+
+The end was never in doubt.  For the first time in his life, Yestevan
+was made to say his true name aloud in public so that the dragon could
+hear it and know who he was.  He was given a yak to ride back to his
+own village, where he would have a day to collect his belongings.  No
+cloudherd would ever eat a meal with him again, or share a fire with
+him, or nurse him when he was ill.  And he was never to ride a cloud
+again.
+
+*Except he did,* Noxy thought glumly as they started back up the path
+to the village.  *And he's eating our food, even if it's the soldiers
+that are giving it to him.* It was just one more thing her mother
+would have to answer for when the other villages heard what was going
+on.
+
+The corporal was at the gate when Noxy, Kulbinder, and Thokmay reached
+in.  So were her mother and Granna Fee, and they were as angry as Noxy
+had ever seen them.  What had he been thinking, letting Noxy go into
+the forest after an enemy soldier?  And what did he mean, they
+couldn't go looking for her?  Who in the rotting hells did he think he
+was?
 
 "I'm sorry, honored.  I just do what the commander tells me," the
 corporal repeated stoically.  He had his mask up, but the three men
@@ -3270,17 +3323,29 @@ then?"
 
 "You *wouldn't*," Noxy gasped.
 
-"You're right," Kulbinder rumbled.  "He wouldn't.  But the commander
+"You're right," Kulbinder rumbled.  "We wouldn't.  But the commander
 will, and Sergeant Dorbu and the rest of the men will help him.
 They'll tell themselves they have to, or that it's an empty threat
 because you'll never make them follow through on it, or that orders
-are orders, and they'll do it."  His tail twitched.  "It's what you
-humans always do.  You make up a story, then tell yourselves you have
-to do something because that's what the story says."
+are orders, and they'll do it.  It's what you humans always do.  You
+make up a story, then tell yourselves you have to do something because
+that's what the story says."
 
-Noxy's jaw set.  "I have to tell my *anna*."
+Sudden rage boiled up inside Noxy.  "I'm going to tell my *anna*, and
+you can't stop me," she snarled.  Head held high, she stepped around
+the tiger and strode toward the square with stiff, angry steps.
 
-Before Thokmay could reply, the tiger said, "Sh!"  A moment later Noxy
-heard footsteps, then voices.  The two soldiers she had seen at the
-privies were returning.
+She was barely past the tanning shed when Little Gas came running
+toward her.  "Noxy! Noxy!" he shouted.  "Come quick!  It's Grappa!"
 
+"What's happened?" Noxy demanded, seizing him by the shoulders.
+
+"The soldiers!" Little Gas said.  "They 'rested Grappa!"
+
+Noxy opened her mouth to ask what for, but a deep *doom doom* cut her
+off.  She and Little Gas looked at each other wide-eyed.  *Doom doom*,
+pause.  *Doom doom*, pause.  Stale's home drum was signalling disaster
+for the second time in three days.
+
+She looked back at Thokmay and Kulbinder.  "Well, what are you waiting
+for?" she snapped.  "Come on!"

@@ -1058,7 +1058,7 @@ raise a hand against one of ours or another traveller."
 backside over teakettle, and you're worried about their hands?"
 
 Aft's face darkened.  Before he could loose another volley, Indy
-slapped the table with her hand.  "Enough!"  Enough, both of you.  We
+slapped the table with her hand.  "Enough!  Enough, both of you.  We
 have a stormload of trouble to fly through, and I will *not* have you
 making it worse with your bickering."
 
@@ -2505,6 +2505,8 @@ around the corner, just in time to see a shadow disappear out the
 other end.  Who would be out in the rain?  Curious, she hurried to
 follow.
 
+<!-- FIXME: Noxy finds something -->
+
 "Ow!"  Ten steps in, her foot connected with a pile of cobblestones
 that she and Sensy had put there as part of some long-forgotten game.
 The stones clattered as they tumbled over.  Cursing under her breath,
@@ -2551,6 +2553,8 @@ villagers used to stuff mattresses and pillows.
 
 "Get your mother!" Aft ordered, then cupped his hands around his
 mouth.  "Fire!  Fire!  Fire!"
+
+<!-- FIXME: commander uses magic -->
 
 The village was lucky.  That's what everyone told themselves half an
 hour later.  They were lucky that the rain had made everything so wet,
@@ -3161,7 +3165,7 @@ night, and it won't eat itself."
 
 "You go ahead," she told Rash and Sensy.  "I have to take care of
 something first."  Below them, sheltered from ground-level view by a
-bend in the wall and the corner of a yak shed, Thokmay and Kulbinder
+bend in the wall and the corner of the tannery, Thokmay and Kulbinder
 were deep in conversation.
 
 "Are you sure?" Sensy asked anxiously.
@@ -3171,5 +3175,112 @@ the emphasis she could into it.  "But save me a piece, all right?"
 
 She watched them go down the stairs together, looking away as they
 reached for each other's hands.  The tiger and his boy were there.
-*Good,* she thought grimly.  She needed to yell at someone, and they
-would do nicely.
+*Good,* she thought grimly.  She had some questions, and it was about
+time they gave her some answers.  And if she got to do a bit of
+yelling at the same time, so much the better.
+
+Stale's privies stood beside the tanning shed, on the theory that
+everything that stank might as well be in one place.  A soldier in a
+battle mask stood in front of them, and for a moment Noxy almost
+turned aside, but then the the door opened and his partner came out,
+grumbling about how scratchy the mountain moss was.
+
+Noxy kept her head down as they walked past.  Glancing over her
+shoulder to make sure they weren't watching, she cut left and hurried
+along the side of the tanning shed, slowing as she reached the corner.
+
+Silence.  Had they left while she was sneaking up on them?  Feeling
+foolish, she leaned forward to peak around the corner.
+
+"Looking for someone?" She shrieked and spun around at the rumbled
+question.  Kulbinder stood a stride behind her, one forepaw raised
+slightly, his ears back and his eyes narrowed.
+
+"I---um.  I was just---" Noxy babbled, retreating one step at a time
+as the tiger advanced.  She shrieked again as she backed into Thokmay.
+
+Noxy tensed, about to bolt, hesitated, and straightened.  No.  This
+was *her* home, not theirs, and she wasn't going to run away.  "What
+are you doing here?" she demanded, putting as much of her mother and
+grandmother in her voice as she could.
+
+The tiger blinked.  "Sergeant Dorbu told us to patrol the---"
+
+"No you weren't," Noxy said recklessly.  "If Sergeant Dorbu told you
+to patrol anywhere, it would be the forest.  Or he'd have you out
+looking for the soldier who escaped.  Who you *let* escape," she
+continued as Kulbinder opened his mouth to speak.  "I heard you.
+After I fainted.  You're not really rebels, are you?  You're spies!"
+
+A yak mooed a complaint somewhere nearby.  Someone hammered on a nail,
+and someone else called for a child to come back and finish weeding
+the vegetables.  Finally Thokmay coughed, almost as if he was
+embarrassed.  "And?"
+
+Noxy looked from him to the tiger and back.  "And what?  You're spies!
+You're working for the king!"
+
+Thokmay shrugged.  "All right.  What are you going to do about it?"
+
+Noxy straightened up indignantly.  "I'm going to---"  She stopped, not
+sure how to finish her sentence.
+
+"You could tell your mother," Thokmay said, as if they were trying to
+decide what socks to put on.  "She'd probably keep it secret.  And
+your grandmother.  But if you tell Grappa Gas or Aft, sooner or later
+they'll let it slip."
+
+"And if that happens, the commander will turn me into a rug,"
+Kulbinder finished for him.  "And do worse to the boy."
+
+"That's your problem!" Noxy snapped in an angry whisper.  "You *lied*
+to us.  You lied about who you are and how many of you there'd be and
+how long you'd stay and you should just *go*!"  She brushed angry
+tears from her eyes.
+
+"But if we go," Kulbinder asked, "Who's going to save your village?"
+
+Noxy stared at him.  "What?"
+
+Thokmay sighed.  "You're right. We lied to you. Sergeant Dorbu lied to
+you.  The commander lied to you.  We weren't trying to get through the
+pass to Chaghan---we know it's too early in the season for that.
+We---they---were supposed to capture your village, all the cloudherd
+villages, so we could use your clouds against the king."
+
+"What?" Noxy repeated.  "No, you can't---the other kingdoms.  They
+wouldn't let you.  There's, there's laws and treaties, everyone knows
+that.  If you tried to do that, the other kingdoms would all attack
+you together!"
+
+"They're going to do that anyway," Thokmay said quietly.  "Everybody
+thought the king would crush Shudarga's rebellion out of hand, but
+she's gone from victory to victory, and the other kingdoms are
+scared.  The king has asked them for help, and they're going to give
+it."  He shrugged.  "Shudarga has nothing left to lose."
+
+Noxy laughed angrily.  "Like I said, that's your problem.  If anyone
+tries to make us do anything with our clouds, we'll just fly away."
+
+"And leave your children behind?" Thokmay asked.  He jerked his chin
+toward the village square.  "Why do you think the commander's turning
+the trading hall into a jail?  By the time your herd arrives, all the
+littles will be locked up.  How far do you think people will fly
+then?"
+
+"You *wouldn't*," Noxy gasped.
+
+"You're right," Kulbinder rumbled.  "He wouldn't.  But the commander
+will, and Sergeant Dorbu and the rest of the men will help him.
+They'll tell themselves they have to, or that it's an empty threat
+because you'll never make them follow through on it, or that orders
+are orders, and they'll do it."  His tail twitched.  "It's what you
+humans always do.  You make up a story, then tell yourselves you have
+to do something because that's what the story says."
+
+Noxy's jaw set.  "I have to tell my *anna*."
+
+Before Thokmay could reply, the tiger said, "Sh!"  A moment later Noxy
+heard footsteps, then voices.  The two soldiers she had seen at the
+privies were returning.
+

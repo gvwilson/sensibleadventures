@@ -2554,6 +2554,7 @@ villagers used to stuff mattresses and pillows.
 "Get your mother!" Aft ordered, then cupped his hands around his
 mouth.  "Fire!  Fire!  Fire!"
 
+<!-- FIXME: connect Thokmay to the fire -->
 <!-- FIXME: commander uses magic -->
 
 The village was lucky.  That's what everyone told themselves half an
@@ -2569,11 +2570,10 @@ daughter walked home arm in arm.  "You were just supposed to refill
 the kettle!"
 
 "I thought I saw something."  Noxy shook her head.  "I didn't get a
-good look at it."  Which wasn't exactly a lie, but was an
-uncomfortable distance from the truth.  As the soldiers had arrived to
-help with the fire, only one of them had been the height of the figure
-she had seen.  But why would Thokmay have been out in the rain?  And
-what had he been doing in the jitty beside her house?
+good look at it."  Which wasn't exactly a lie, she told herself.  As
+the soldiers had arrived to help with the fire, only one of them had
+been the height of the figure she had seen.  But why would Thokmay
+have been out in the rain?
 
 ----------------------------------------
 
@@ -3091,18 +3091,72 @@ that are giving it to him.* It was just one more thing her mother
 would have to answer for when the other villages heard what was going
 on.
 
-The corporal was at the gate when Noxy, Kulbinder, and Thokmay reached
-in.  So were her mother and Granna Fee, and they were as angry as Noxy
-had ever seen them.  What had he been thinking, letting Noxy go into
-the forest after an enemy soldier?  And what did he mean, they
-couldn't go looking for her?  Who in the rotting hells did he think he
-was?
+Noxy, Kulbinder, and Thokmay returned to a village under occupation.
+Soldiers patrolled the streets and the wall in pairs.  It was just a
+precaution, Sergeant Dorbu was saying to the small crowd that had
+gathered in the square.
 
-"I'm sorry, honored.  I just do what the commander tells me," the
-corporal repeated stoically.  He had his mask up, but the three men
-with him blocking the gate had theirs on, and one of them had his bow
-in his hands and an arrow loosely nocked, ready to shoot on a
-heartbeat's notice.
+"Precaution against what?" Grappa Gas demanded.  He was angrier than
+Noxy had ever seen.  It wasn't the shouting rage he worked himself
+into when he was arguing with his son.  This was as big as the
+rainstorms that battered the mountains as autumn turned to winter.
+
+Sergeant Dorbu looked the old man in the eye.  "Against whatever that
+ranger might bring down on us."
+
+Grappa Gas thumped his cane on the ground.  "For how long?  How long
+are you going to treat us like yaks in a pen?"  The mutters of
+agreement grew louder.
+
+"For two more days."  The commander's voice cut through the crowd like
+a cold wind.  He strode across the square to stand beside Sergeant
+Dorbu and swept his gaze across the villagers.  "My men will be well
+enough to travel by then, and if I have understood the mayor
+correctly, your herd will have returned, so we will take our leave for
+Chaghan."
+
+"Really?" Grappa Gas waved his cane toward the fortress gate.  "How
+are you going to get them through the forest?  It didn't go so well
+last time."
+
+The commander shook his head.  "We're not going through the forest.
+You're going to fly us over it."
+
+"What!?" A double dozen voices echoed Grappa Gas's explosion.  For a
+moment it was pandemonium as everyone shouted over one another.  Even
+Indy was waving her arms, Noxy saw.
+
+"We have no choice."  Once again the commander's voice cut through the
+noise like a cold wind.  *It must be a spell,* Noxy suddenly realized.
+Not even her granna at her fiercest could have quelled the turmoil
+like that.  "We have to get to Chaghan.  We can't go through the Herd
+of Trees, not with a royalist regiment and the trees waiting for us,
+so we're going to fly there."
+
+"You mean *we're* going to fly you there!" Grappa Gas shouted.  "Well,
+rot that!  We've got *contracts*!  And even if we didn't, there's
+farmers down in Gandan depending on us to bring them rain.  If we go
+kiting off to wherever, folks are going to go hungry!"
+
+"People are going hungry already."  the commander said.  "And those
+who aren't live in fear that they will, that someone with more money
+than they have will rent some law they've never heard of and use it to
+take half their crop or throw them off their land or have their house
+knocked down to to improve the damned view.  You don't see it up here
+because you've learned to stand together.  And that's what we need you
+to do now---stand together, with us, so that we can keep fighting to
+put the law in your hands where it belongs, so you can do what *you*
+want."
+
+Indy raised her hand to stop whatever Grappa Gas might have said next.
+"And if we say no?" she asked.
+
+The whole village held its breath, waiting for the answer.  "Then we
+will insist," the commander said.  "I'm sorry---I truly am---but what
+we are fighting for is bigger than any one village.  One way or
+another, you are going to carry my army to Chaghan."
+
+!-- FIXME: continuity -->
 
 Noxy broke into a trot.  "I'm here, *anna*, I'm here!"  She flung
 herself into her startled mother's arms.
@@ -3268,62 +3322,51 @@ After I fainted.  You're not really rebels, are you?  You're spies!"
 A yak mooed a complaint somewhere nearby.  Someone hammered on a nail,
 and someone else called for a child to come back and finish weeding
 the vegetables.  Finally Thokmay coughed, almost as if he was
-embarrassed.  "And?"
+embarrassed.  "Not exactly.  But we're not rebels.  We got caught up
+in this the same way you did, and we're trying to find a way to get
+out."
 
-Noxy looked from him to the tiger and back.  "And what?  You're spies!
-You're working for the king!"
+"So you're royalists?" Noxy asked, crossing her arms.
 
-Thokmay shrugged.  "All right.  What are you going to do about it?"
+"He is," the tiger snorted.  "Cats don't partake of such foolishness."
 
-Noxy straightened up indignantly.  "I'm going to---"  She stopped, not
-sure how to finish her sentence.
+"We got stuck in the middle of everything when Shudarga raised her
+banner," Thokmay said.  "We went along with things as long as we
+could, waiting for a chance to escape, but now we don't have a choice.
+We have to reach the king's army and warn them what the commander is
+planning."
 
-"You could tell your mother," Thokmay said, as if they were trying to
-decide what socks to put on.  "She'd probably keep it secret.  And
-your grandmother.  But if you tell Grappa Gas or Aft, sooner or later
-they'll let it slip."
+"Warn them?  Why not just let them go?"
 
-"And if that happens, the commander will turn me into a rug,"
-Kulbinder finished for him.  "And do worse to the boy."
+"Because the commander's not really taking her army to Chaghan," the
+young soldier said patiently.  "That's just what he's telling you all
+to keep you quiet.  As soon as the clouds arrive, he's going to make
+you carry his men right into the heart of Gandan and flood the city."
 
-"That's your problem!" Noxy snapped in an angry whisper.  "You *lied*
-to us.  You lied about who you are and how many of you there'd be and
-how long you'd stay and you should just *go*!"  She brushed angry
-tears from her eyes.
+Noxy gaped at him.  "My *anna* and the others would never do that!"
+she said angrily.  "There are laws---cloudherd laws, not the kind we
+have to rent from the *tralpa*.  We've never taken part in lowlanders'
+wars, and we never will!"
 
-"But if we go," Kulbinder asked, "Who's going to save your village?"
+But Thokmay was already shaking his head.  "He's not going to give you
+a choice.  As soon they finish work on the trading hall, he's going to
+round up all of the children and hold them hostage until you do what
+she wants."
 
-Noxy stared at him.  "What?"
+Noxy stared at him, stunned speechless.  "You're---you're lying!  The
+other kingdoms wouldn't let him.  There's, there's laws and treaties,
+everyone knows that.  If he tried to do that, the other kingdoms would
+all attack together to stop him!"
 
-Thokmay sighed.  "You're right. We lied to you. Sergeant Dorbu lied to
-you.  The commander lied to you.  We weren't trying to get through the
-pass to Chaghan---we know it's too early in the season for that.
-We---they---were supposed to capture your village, all the cloudherd
-villages, so we could use your clouds against the king."
-
-"What?" Noxy repeated.  "No, you can't---the other kingdoms.  They
-wouldn't let you.  There's, there's laws and treaties, everyone knows
-that.  If you tried to do that, the other kingdoms would all attack
-you together!"
-
-"They're going to do that anyway," Thokmay said quietly.  "Everybody
+"They're going to do that anyway," Thokmay said quietly.  "Everyone
 thought the king would crush Shudarga's rebellion out of hand, but
-she's gone from victory to victory, and the other kingdoms are
+she's gone from victory to victory, and now the other kingdoms are
 scared.  The king has asked them for help, and they're going to give
-it."  He shrugged.  "Shudarga has nothing left to lose."
+it."
 
-Noxy laughed angrily.  "Like I said, that's your problem.  If anyone
-tries to make us do anything with our clouds, we'll just fly away."
+"He wouldn't," Noxy whispered.
 
-"And leave your children behind?" Thokmay asked.  He jerked his chin
-toward the village square.  "Why do you think the commander's turning
-the trading hall into a jail?  By the time your herd arrives, all the
-littles will be locked up.  How far do you think people will fly
-then?"
-
-"You *wouldn't*," Noxy gasped.
-
-"You're right," Kulbinder rumbled.  "We wouldn't.  But the commander
+"*You* wouldn't," Kulbinder rumbled.  "We wouldn't.  But the commander
 will, and Sergeant Dorbu and the rest of the men will help him.
 They'll tell themselves they have to, or that it's an empty threat
 because you'll never make them follow through on it, or that orders
@@ -3331,9 +3374,9 @@ are orders, and they'll do it.  It's what you humans always do.  You
 make up a story, then tell yourselves you have to do something because
 that's what the story says."
 
-Sudden rage boiled up inside Noxy.  "I'm going to tell my *anna*, and
-you can't stop me," she snarled.  Head held high, she stepped around
-the tiger and strode toward the square with stiff, angry steps.
+Sudden rage boiled up inside Noxy.  "I'm going to tell my *anna*," she
+snarled.  Head held high, she stepped around the tiger and strode
+toward the square with stiff, angry steps.
 
 She was barely past the tanning shed when Little Gas came running
 toward her.  "Noxy! Noxy!" he shouted.  "Come quick!  It's Grappa!"
@@ -3349,3 +3392,32 @@ for the second time in three days.
 
 She looked back at Thokmay and Kulbinder.  "Well, what are you waiting
 for?" she snapped.  "Come on!"
+
+----------------------------------------
+
+## Chapter 9
+
+Noxy had always enjoyed math.  After watching her mother do the
+village's accounts, she had pestered her grandmother into teaching her
+how to add and subtract, and then multiply and divide.  When she was
+nine, she had counted how many steps it took her to get from one place
+to another in the village and written the numbers down in a small blue
+notebook she had found in the bottom of a storage chest in the trading
+hall at the end of the season.  She had even thought about becoming a
+teacher like Granna Fee one day when her cloudherding days were over.
+
+So as she hurried toward the square, she did a quick calculation in
+her head.  Most of the adults had gone to round up the village's herd
+of clouds.  That left about three hundred people in Stale.  Two thirds
+of those were children, which meant there were no more than a hundred
+villagers, versus almost able-bodied fifty soldiers, all of whom had
+actually knew how to fight.  The odds would change when the other
+adults came back, but not by enough.  And if the commander really was
+going to lock up the children, it would be too late.
+
+*Unless we run away right now,* she thought.  But how?  They couldn't
+just fly away---it would take half a dozen trips for Pillow and Big
+Blue to carry everyone to safety, and they'd surely be caught before
+everyone escaped.  They couldn't take the road---the soldiers would
+run them down before they reached the second turnback---and as for the
+forest...  She shook her head.  

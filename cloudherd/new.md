@@ -2617,7 +2617,7 @@ last night, and they'd just be under foot."
 
 By the time the soldiers and Kulbinder left twenty minutes later, Aft
 and Indy were working with a dozen elders to tear apart the ruined
-upper floor of the burned storage shed.  Charred beams were knocked
+upper floor of the burned drying shed.  Charred beams were knocked
 free with heavy hammers and set in a pile to have their precious metal
 nails pulled for re-use.  In a moment of inspiration, Noxy had Rash
 and Sensy drag a few of the least-damaged timbers to the other side of
@@ -3383,7 +3383,7 @@ toward her.  "Noxy! Noxy!" he shouted.  "Come quick!  It's Grappa!"
 
 "What's happened?" Noxy demanded, seizing him by the shoulders.
 
-"The soldiers!" Little Gas said.  "They 'rested Grappa!"
+"The soldiers!" Little Gas said.  "They 'rested Grappa Gas!"
 
 Noxy opened her mouth to ask what for, but a deep *doom doom* cut her
 off.  She and Little Gas looked at each other wide-eyed.  *Doom doom*,
@@ -3420,4 +3420,396 @@ just fly away---it would take half a dozen trips for Pillow and Big
 Blue to carry everyone to safety, and they'd surely be caught before
 everyone escaped.  They couldn't take the road---the soldiers would
 run them down before they reached the second turnback---and as for the
-forest...  She shook her head.  
+forest...  She shook her head.  It was too much for her to figure out,
+but her *anna* would know what to do.
+
+They reached the square to see two soldiers holding a struggling
+Grappa Gas in front of the commander.  Indy stood between them,
+pointing angrily.  Sergeant Dorbu was there as well, his expression
+carefully blank.  Little Gas took Noxy's hand.  She squeezed it,
+trying to put in all the reassurance she needed herself.
+
+The commander cut off whatever Indy was saying with a curt gesture.
+"Then hear it for yourself.  Sergeant?"
+
+Sergeant Dorbu cleared his throat.  "He was trying to pass a hammer to
+the prisoner, honored.  Stuck inside a loaf of bread."  He looked into
+the distance as he spoke, his voice flat.
+
+"I wasn't passing anything to anyone!" Grappa Gas protested.  "I was
+doing some work on my leg, and the hammer must have fallen into the
+basket along with the food."
+
+The commander searched his face.  "You're lying," he said after a
+moment.  "And you are putting us all at risk by doing it.  Sergeant!
+Put him in with the ranger."
+
+"Yes, honored," Sergeant Dorbu said, saluting.
+
+"Like hell!" Indy exploded.  "This is *my* village!  You don't give
+orders here."
+
+The commander didn't even glance her way.  "It's not your village,
+it's theirs."  His wave took in everyone in the small crowd that had
+gathered in the square.  "And we are their strong arm."
+
+"Well then let's ask them what they want!"  Indy turned to step up
+onto the speaker's stone.
+
+"No."  The commander's voice rang out.  "Do you ask a child when they
+want to go to bed?  Or what they want for breakfast?  We are not just
+the servants of the people, we are their voice as well, and so it is
+our right as well as our duty to decide if someone needs to be locked
+up."
+
+"But Grappa's not the only one you're going to lock up, is he?" Noxy
+burst out.  Heads turned.  She heard Kulbinder rumble behind her, but
+she didn't care.  She was so angry she was shaking.
+
+Her mother stared at her.  "What are you talking about?"
+
+"Ask him about the children," Noxy said, shaking.  "Ask him why he's
+*really* putting bars on the trading hall.  Ask him what he really
+wants to do with our clouds!"
+
+"That's enough!" the commander said sharply.  "Sergeant, I want these
+people back in their homes and---"
+
+"What is she talking about?"  Indy might not have had a spell to put
+force behind her words, but at that moment, she didn't need one.  She
+turned on Sergeant Dorbu.  "What do you know about this?"
+
+The sergeant patted the air helplessly.  "Please, honored, calm down.
+I'm sure we can---"
+
+"Enough!" the commander barked.  "Sergeant, I ordered you to return
+these people to their homes.  Do it!  Now!"
+
+And with that one command, the events of the last three days slipped
+out of control and turned into an avalanche.  Grappa Gas twisted an
+arm free and swung wildly at the nearest soldier.  Before he could
+wind up for another punch, the soldier drew his sword.  *Ssshing!*
+*Ssshing!* All around the square, soldiers suddenly held sharp metal
+or nocked an arrow.
+
+"You stupid girl," Kulbinder said under his breath.  "You stupid,
+headstrong primate.  Now what are we going to do?"
+
+Five steps, and the commander was looming over Noxy.  "How did you
+find out?" he demanded.
+
+"I... I overheard a couple of your men talking," Noxy stammered.
+"Over by the privies."
+
+The commander shook his head.  "No you didn't.  Sergeant!  Put the old
+man in with the ranger, and take this one to the hall for
+questioning."
+
+"Over my dead body!" Indy said.
+
+The commander rounded on her.  "This is where the villain would say
+'if you insist', but I'm not the villain here, and this isn't a
+story.  I will ask your daughter some questions, but I will not harm
+her.  I give you my word."
+
+"You'll forgive me if I don't quite trust you," Indy spat bitterly.  She
+looked at Sergeant Dorbu.  "Any of you."
+
+"Shall we put them both in the hall, honored?" Kulbinder asked.
+
+The commander nodded.  "Yes.  Make sure they have whatever they need."
+He raised his voice again.  "Everyone else, return to your homes.
+This will all be over soon."
+
+There were tears in some people's eyes as they left the square.
+Others held their heads high, glaring at the impassive soldiers, or
+bent over to tell their children that they were going to go inside for
+a while to play, wouldn't that be nice?
+
+Sergeant Dorbu waited until the commander had left and the crowd had
+thinned before sighing.  "If you please, honored," he said to Indy
+woodenly.
+
+There were tears in her mother's eyes, Noxy saw, but her voice was
+firm.  "I *trusted* you."
+
+"I told you," Grappa Gas said with bitter satisfaction.  "They
+betrayed their king.  Should have known they'd betray us too."
+
+"I'm sorry, honored," the sergeant said.
+
+Indy put her arm around Noxy's shoulders.  "What do I always say about
+apologies?" she asked her daughter without taking her eyes off the
+sergeant.
+
+"The best way to apologize is to fix what you did," Noxy said
+defiantly.
+
+"I'm sorry," the sergeant repeated.  Whatever else he might have said
+was cut off as Aft stepped around the corner and clubbed the nearest
+soldier over the head with a plank.
+
+"Run!" he shouted, swinging the plank wildly to catch a second soldier
+in the ribs.
+
+"Run!?" Grappa Gas shouted, sticking out his leg to trip the nearest
+soldier.  "I can't run, you idiot!"  He head-butted the soldier Aft
+had just hit and swung around to punch another.
+
+Noxy and her mother bolted.  They didn't even make it to the corner
+before Noxy heard her mother curse as a soldier tackled her.  "Go! Go!
+Go!" Indy shouted, kicking away the soldier's hands.
+
+Noxy hesitated.  "Go!" her mother ordered, and Noxy ran. Through the
+vegetable garden.  Over the knee-high fence.  Around the barrel Rash
+was supposed to have moved a week ago.  Past the sauna.  There were
+shouts behind her, soldiers and villagers.
+
+Around the corner.  There were soldiers in front of her.  "Stop!"  She
+skidded to a stop, doubled back, ducked into the jitty between the
+sauna and the house where Granna Fee taught children how to read.  Out
+the other side.  There were stairs in front of her.  She took them in
+long strides, panting for breath.  Up, up, up onto the wall.  There
+were soldiers there too, the two that had been patrolling earlier or
+two others, it didn't matter, they had heard the shouting and seen her
+running and one of them had a sword and the other had a bow.  "Stop!"
+
+She jumped.  For half a heartbeat she thought she'd missed, but then
+she hit the roof of the sauna.  "Don't shoot!" Kulbinder roared from
+below.  "She has nowhere to go!"
+
+*That's what you think,* Noxy thought giddily.  She scrambled over the
+roof and down the other side and jumped onto the next house.  The
+cedar shingles beneath her feet were slippery with moss and rain and
+bird droppings.  She ran anyway, no more in control than she had been
+the time she and Rash and Sensy had taken an old yak hide and slid
+down the snow-covered hill above the pond and right across the ice.
+
+House to house to house, then she grabbed the gutter to swing down to
+the ground.  She peeked around the corner.  There was nobody between
+her and the wall, nobody between her and the mouth of the old tunnel.
+She took a deep breath and sprinted across the gap.
+
+Her fingers found the secret catch Granna Fee had shown her.  *Click!*
+The grate pulled open just enough for her to squeeze through.
+
+"Wait!"  She spun around.  Kulbinder stood on the outside of the
+grate.  "Take Thokmay with you."
+
+"Are you serious?"  She turned to go.
+
+"Wait!" he said again.  "Please."
+
+Something in his voice made her hesitate.  She heard footsteps, and
+then Thokmay was there, panting for breath.  He took in the open grate
+with one glance.
+
+"Go, honored," the tiger said urgently.  "You must get to your father.
+I'll find you in the forest."  Thokmay nodded and squeezed through,
+turning to pull the grate back into place.
+
+"Now what?" he asked Noxy.  Without waiting for an answer, he pulled a
+small piece of dayglass out of his pocket.  The little crystal gleamed
+yellow-white in the gloom of the tunnel.
+
+"I don't know," Noxy said angrily.  "And I didn't say you could---"
+
+"Go!" Kulbinder said urgently.  He bounded away, roaring orders to
+soldiers Noxy couldn't see to fan out, search the houses, look in the
+yak pens, the girl had to be *somewhere*.
+
+The tunnel smelled like the inside of a yak's back end.  Thokmay and
+Noxy had to duck their heads every few dozen steps, and turn sideways
+to squeeze through the narrower spots.  The stonework was rough, and
+patched in places with mis-matched bricks.  It wasn't an original part
+of the fortress, Noxy realized, but something human-made.
+
+Noxy slowed as the tunnel dipped downward.  "What's wrong?" Thokmay
+whispered.  Noxy shook her head.  His little piece of dayglass was the
+only light they had, and it was barely enough to see by.  The stones
+glistened with condensation.  Something dripped up ahead, *plink*
+*plink*, and all she could think about was the mass of stone above
+her, the weight of it.
+
+"Noxy!"  Thokmay put his hand on her shoulder.  "We have to keep
+moving!"
+
+She took a shaky breath.  Her head was swimming like it had in the
+forest, but this wasn't---this wasn't whatever that had been.  This
+was the tunnel.  It was so small.  What if they got stuck?  What if
+they got stuck and couldn't turn around and were trapped?
+
+She didn't realize she had spoken aloud until Thokmay replied.  "Well,
+if this was a story, there'd be some sort of dramatic cave in right
+now.  Or we'd find the skeleton of a pirate holding a map and a key,
+or---"
+
+"You're not helping," Noxy said through gritted teeth.  The walls
+couldn't be closing in, could they?
+
+Thokmay shook her shoulder gently.  "Sorry," he said softly.  "It's
+not much farther.  Just keep moving and we'll be fine."
+
+"So now you're an expert in tunnels?" she said shakily, trying and
+failing to put some bite in her words.
+
+She felt rather than saw him smile.  "Sure.  I do this all the time.
+Here."  He passed her the piece of dayglass.  "Go ahead."
+
+Noxy stopped again three dozen strides later.  "Oh rot," she said
+weakly.  The floor in front of her shimmered slightly in the captured
+daylight coming from her shard of glass.  She stepped on it gingerly.
+Her boot made a soft splash that sent ripples in all directions.
+
+"See?" Thokmay said encouragingly.  "This must be the low point.
+It'll be uphill from here."
+
+"How---how deep do you think it is?" Noxy asked, breathing hard.
+
+"I don't know.  Want me to go first?  You can hold onto the light,"
+the young soldier added quickly.
+
+Gently, as if he was getting a skittish yak calf into a shearing pen,
+Thokmay eased Noxy to one side of the tunnel and squeezed past her.
+For a moment they were face to face, their bodies pressed against one
+another.  He was taller than she was, Noxy realized, her mind wanting
+to be anywhere but underground.  And he had a bit of stubble on his
+chin and upper lip.  He and Rash should compare notes about growing a
+mustache.
+
+"There, that wasn't so bad."  He straightened his uniform jacket and
+forced a smile.  "Now, shall we?"  He turned and started cautiously
+through the water.
+
+Three strides and it was up to the tops of his boots.  Two more, and
+it was halfway to his knees.  He moved slowly, one hand on the tunnel
+wall, testing his footing before shifting his weight.  Higher,
+higher---he stopped.  "I think this is as deep as it gets," he said
+over his shoulder.
+
+"I hope so," Noxy said.  She took a step, then another and another.
+The water spilled over the top of her boot.  Rot, but it was cold.
+She swallowed drily.  Another, another...
+
+Her foot slipped.  She yelped and caught herself against the wall
+instinctively.  The dayglass tumbled from her hand into the water.
+
+"Hold still!" Thokmay said.  "Just stay there, I'll get it."  The
+dayglass gleamed softly at the bottom of the small pool.  Noxy nodded
+jerkily.  Where did he think she was going to go?
+
+Thokmay slowly retraced his steps, moving his legs at a turtle's speed
+so that he wouldn't make waves.  "Oops."  His boot bumped the
+dayglass.  He smiled at Noxy.  "Wouldn't want to step on that, would
+I?"
+
+"Please just hurry up," Noxy breathed.
+
+Thokmay nodded and reached into the water.  His fingers closed around
+the glass.  He straightened up and held it out to her.  "There you
+go."
+
+She balled her hands into fists against the wall.  "You probably ought
+to hold onto it."
+
+Thokmay didn't withdraw his arm.  "It's all right.  I trust you."
+
+Noxy swallowed again.  Thokmay waited patiently.  Finally she reached
+out.  Thokmay pressed the glass into her open hand.  "Come on," he
+said.  "Let's go find somewhere we can dry out."
+
+The tunnel rose steadily after that.  When the passage in front of
+them began to lighten, Noxy had to bite her lip to stop herself from
+pushing Thokmay forward.  It was still afternoon, she realized dumbly
+as they reached the brush-covered tunnel mouth.  They had only been
+underground for a few minutes.
+
+The thudding of the village drum brought her back to herself.  The
+soldiers were still searching for her inside the walls.  It wouldn't
+be long before they started combing the forest as well.  "We can't
+stay here," she whispered to Thokmay.
+
+"Why not?" he whispered back, gesturing at the salal bushes that
+hung down over the tunnel mouth.  "If you and your friends never found
+this, nobody else will."
+
+"And then what?"  Noxy asked as he swept a patch of floor with his
+hand and sat down.  "I don't exactly have a plan, you know."
+
+The soldier shrugged.  "Me neither.  Kulbinder will make excuses as
+long as he can, but sooner or later Sergeant Dorbu will notice that
+I'm missing."  He looked back into the tunnel as if hoping to see
+someone emerge fron the darkness.  "I expect he'll be pretty
+disappointed that I've deserted again."
+
+"Again?" Noxy asked, settling onto the tunnel floor a stride away from
+him.  Thokmay nodded, but didn't offer any details.
+
+The afternoon took on the bluish cast of early evening light in the
+mountains.  Noxy and Thokmay had both taken off their boots and wrung
+out their socks, but her damp feet were still painfully cold by the
+time it was dark enough to risk moving.  The village drum had long
+since fallen silent, but twice they heard soldiers pass by on the path
+that ran along the outside of the wall.  Other soldiers were doubtless
+watching the cloud pen and the road down to the pass, and for all she
+knew the fishpond as well.  The temperature was starting to drop---it
+would freeze overnight---and her stomach was an empty ache.  It was
+nothing at all like the stories she had read and re-read about people
+having adventures.
+
+Thokmay stirred.  "Shall we get going?"
+
+"Might as well," Noxy replied, pulling herself stiffly to her feet.
+"Do you have somewhere in mind?"
+
+He nodded.  "Just follow me."
+
+The light had long since leaked out of the dayglass, and since they
+hadn't dared set it outside to soak up more, it couldn't help them
+find their way.  They wouldn't have dared us it anyway---when they
+slipped through the bushes at the tunnel's mouth and looked back at
+the fortress walls, they saw a soldier outlined against the darkening
+sky.  One stray flicker of light among the trees, and he would call
+others down on them.
+
+They crept through the trees like a pair of mice.  In some places,
+they actually did creep, going down on hands and knees to crawl under
+low-hanging branches rather than pushing them aside.  Noxy's heart was
+in her throat every time Thokmay signalled stop, but they only heard
+voices once, and those were far away.
+
+Thokmay led them downhill, snaking back and forth according to no
+pattern Noxy could see.  She felt a little resentful---she had grown
+up here, not him---but she had to admit that he seemed to know what he
+was doing.
+
+The sun was behind the peaks to the west when Thokmay finally halted
+next to a fallen tree whose trunk was almost as thick as Noxy was
+tall.  It had lain on the forest floor so long ago that saplings were
+growing out of its slowly-decaying back.
+
+They crept along its side to the tangle of dried-out roots that had,
+in the end, not grown deep enough to keep it standing.  Thokmay
+reached into them, cursed under his breath, and slowly pulled out a
+bundle the side of his chest.  It was a knapsack, Noxy realized,
+a smaller version of the packs the soldiers had carried when they
+first arrived.
+
+"Where did that come from?" she asked as he shouldered it.
+
+"It was Kulbinder's idea," Thokmay replied.  "We brought stuff out
+each time we went on patrol."  He hesitated.  "I had to steal some
+of.  I'm sorry about that."
+
+<!-- FIXME: notice things missing earlier. -->
+
+Noxy shivered.  "That's all right.  We should keep moving."  The
+branches around them rustled in the wind.  The sky overhead was
+clear, and she could feel her breath fogging.  They had to find
+shelter soon, and some way to warm up, or the soldiers looking for
+them would stop being their biggest problem.
+
+They had only gone a dozen steps before Thokmay held up a hand to
+signal Noxy to stop.  "What?" she whispered.  Then she heard it.
+Somewhere nearby, someone was whistling out of tune.  Yestevan!  It
+had to be the shunned cloudherd.

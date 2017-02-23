@@ -1236,13 +1236,50 @@ hand.  "Hardly at all," she agreed.  "Are you all right?"
 Noxy nodded.  "Sure," she lied.
 
 Indy squeezed her hand again.  "Good.  Let's scramble some eggs and
-call it a day."  She took down their one frying pan and set it on the
-stove beside the kettle.  "Tomorrow, I'm going to see if I can get to
-know the sergeant a little better.  And I think you ought to get to
-know the tiger's boy.  Let's see if we can find out if they have any
-other surprises tucked away."
+get changed.  The service will start soon."  She took down their one
+frying pan and set it on the stove beside the kettle.  "Tomorrow, I'm
+going to see if I can get to know the sergeant a little better.  And I
+think you ought to get to know the tiger's boy.  Let's see if we can
+find out if they have any other surprises tucked away."
 
-<!-- FIXME: funeral -->
+The ancient fortress had three sides.  The one holding the gate faced
+the road that led down to the pass, and through it, the rest of the
+world.  The second overlooked the cloud pen.  The third---the
+shortest---stood to the south.  A single well-tended path ran along
+its base and through the trees to a grassy clearing on the edge of a
+cliff.  The grass was always green there: even in the worst storms,
+snow somehow never fell on that particular patch of ground.
+
+The stones that stood in the center of the grass were as worn and as
+proud as the fortress walls.  Two stood upright.  A third lay beside
+them, broken in the middle, as if it had once rested on top of them to
+form an arch but had been knocked off ages ago.
+
+The soldiers who were well enough to work had carried firewood from
+the village to make a pyre in front of the two standing stones.
+"Safer than going into the forest right now," Granna Fee had said, and
+Sergeant Dorbu hadn't disagreed.  Those who hadn't carried wood had
+trimmed their dead comrades' hair, cleaned their uniforms, and
+polished their boots as well as they could.
+
+As the sun kissed the peaks to the west, a small procession marched
+through the fortress gate.  Each body was carried on a stretcher,
+hands folded and battle mask raised, and laid gently on the pyre.  One
+of hte bearers wept openly---his brother, Sergeant Dorbu explained
+quietly.  They had been petty thieves before the rebellion, but had
+fought bravely since.
+
+As the last stretcher passed through the gate, the sergeant nodded to
+Indy and Noxy, then lowered his battle mask into place.  He and the
+last few soldiers, along with the tiger and his boy, followed the
+bearers around the corner.  Indy put her arm around Noxy's shoulder
+and gave her daughter a squeeze.
+
+Later, in bed, looking up at the stars through the little skylight her
+father had made for her when she was five years old, Noxy smelled a
+faint tang of smoke and heard a stray twist of melody.  "Safe
+journey," she whispered.  She watched the stars sail by until she fell
+asleep.
 
 ----------------------------------------
 
@@ -1765,9 +1802,9 @@ it.  Sergeant?"
 
 Sergeant Dorbu took the brightly colored sock balls and tossed them in
 the air, one, two, three.  He whistled a happy little tune as he
-juggled, and even managed to wink at Sensy (who blushed).  By the time
-he was finished, Little Gas was laughing and clapping his hands.  "Let
-me, let me!" he shrieked.  "I want to!"
+juggled, and even managed to wink at Sensy, who blushed in response.
+By the time he was finished, Little Gas was laughing and clapping his
+hands.  "Let me, let me!" he shrieked.  "I want to!"
 
 "All right, but you have to let me show you how," Thokmay said.  "You
 have to start with just two, like this.  Um, sergeant? Could you show
@@ -2209,11 +2246,11 @@ slightly when Noxy gave her mother a hug and kissed the top of her
 head and cautioned her not to stay up too late.
 
 Lying in bed under a pair of blankets a few minutes later, Noxy looked
-up through the little skylight her father had put in for her when she
-was little and wondered what it had been like for him to realize he
-could do magic.  Her thoughts ran from there to the ocean he had
-sailed on, the ocean she secretly hoped to see for herself one day,
-and then her eyes closed and her breathing slowed and she dreamed.
+up through the skylight her father had made for her and wondered what
+it had been like for him to realize he could do magic.  Her thoughts
+ran from there to the ocean he had sailed on, the ocean she secretly
+hoped to see for herself one day, and then her eyes closed and her
+breathing slowed and she dreamed.
 
 There was a house.  Not a house like the ones in the village, with
 brick walls and cedar-shingled roofs, but one somehow woven together

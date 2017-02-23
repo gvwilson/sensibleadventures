@@ -3906,11 +3906,50 @@ she plowed on.  She had been puzzling over it as they walked, slowly
 putting pieces together in her head.  "And when you fell into the
 fishpond---I hear him say it then too.  Are you---are you a spy?"
 
-It took Noxy a moment to realize that Thokmay was chuckling silently.
-"Fine," she snapped.  "I just thought---"
+Thokmay shook his head.  "No.  But he is."
 
-"Sh." Thokmay patted the air with his hands to quiet her.  "Sorry.
-But no, I'm not the spy---not yet.  He is."
-
-When Noxy looked where he was pointing, her eyes met the tiger's.
+Noxy looked up where he was pointing.  Her eyes met the tiger's.
 "Oh," she said weakly.
+
+"I thought you would be further by now," Kulbinder said without
+preamble.  If he hadn't spoken, and if his ear hadn't twitched as a
+drip from the branches above hit it, he might have been a statue left
+behind by the Pilots.
+
+"Sorry, honored," Thokmay said humbly.
+
+"Is everyone all right?" Noxy asked, struggling to her feet.
+
+"Be quiet, girl."  Kulbinder padded down into the gully in a quick,
+quiet rush.  "Or at least quieter.  Everyone is as well as they were
+when you left."  His tail flicked.  "Do you know you are surrounded by
+trolls?"
+
+Thokmay stood and reached for his sword.  "Don't," the tiger ordered.
+"They're all around you, and if they decide to attack, your sword
+won't save you."
+
+"What do they want?" Noxy asked in a whisper, scanning the trees.  She
+couldn't see anything.  She felt like she was half-blind there on the
+ground---it was so much easier from cloudback.
+
+"I'm sure they'll tell us when they want to," the tiger rumbled.  "Now
+pack up.  We need to be a lot further from the fortress before dawn."
+
+Noxy crossed her arms.  "No."
+
+The tiger didn't snarl---not quite---but his lips pulled back just
+enough to reveal his sharp white teeth.  "What do you mean, no?"
+
+"I mean 'no'," Noxy repeated.  "The herd is going to be here in a
+couple of days.  There's no way we can get help and get back by then
+on foot, is there?"
+
+Thokmay and Kulbinder exchanged silent glances.  "I didn't think so,"
+Noxy said grimly.  "So if we're going to stop the rebels, we're going
+to have to do it ourselves."
+
+"If you have a plan, this would be a good time to share it," the tiger
+growled, his tail twitching.
+
+Noxy took a deep breath.  "You're not going to like it," she started.

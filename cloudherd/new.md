@@ -872,11 +872,11 @@ have imagined could come out of her mother's mouth.
 The commander's face was drawn, and beads of sweat were pearled on his
 face despite the cold air, but his voice was steady.  "He is with us."
 
-Everything seemed to happen at once after that.  Aft had been speaking
-to Sergeant Dorbu.  When he heard Indy, he spun around, and when he
-saw Yestevan standing there grinning, he balled his hands into fists,
-took three quick steps, and threw a roundhouse punch that knocked
-Yestevan flying.
+Everything seemed to happen at once.  Aft had been speaking to
+Sergeant Dorbu.  When he heard Indy, he spun around, and when he saw
+Yestevan standing there grinning, he balled his hands into fists, took
+three quick steps, and threw a roundhouse punch that knocked Yestevan
+flying.
 
 Or at least he tried to.  As Aft swung, the commander swept his arm in
 a perfectly-timed circle that knocked the punch to the side.  His
@@ -892,16 +892,15 @@ tiger rumbled.
 than that, he collapsed as the willpower that had kept him on his feet
 finally ran out.
 
-Once again, everything seemed to happen at once.  Under Sergeant
-Dorbu's direction, two soldiers rigged a stretcher out of poles and
-blankets, lifted the commander onto it, and followed Indy through the
-gate.  Granna Fee stood between Aft and Yestevan, each glaring at the
-other with arms crossed, while Grappa Gas reluctantly admitted to
-Sergeant Dorbu that no, the shunning didn't extend to the forest, and
-yes, that meant that Yestevan could pitch a tent there if he wanted
-to.  "He can make a fire too for all I care," the old man added
-pointedly.  "A nice big one, right around the oldest tree he can
-find."
+Once again, everything happened at once.  Under Sergeant Dorbu's
+direction, two soldiers rigged a stretcher out of poles and blankets,
+lifted the commander onto it, and followed Indy through the gate.
+Granna Fee stood between Aft and Yestevan, each glaring at the other
+with arms crossed, while Grappa Gas reluctantly admitted to Sergeant
+Dorbu that no, the shunning didn't extend to the forest, and yes, that
+meant that Yestevan could pitch a tent if he wanted to.  "He can make
+a fire too for all I care," the old man added pointedly.  "A nice big
+one, right around the oldest tree he can find."
 
 Sergeant Dorbu beckoned to the tiger's boy.  "You, Thokmay!  Go fetch
 a tent.  And a bowl of something---anything you can find."
@@ -3811,5 +3810,107 @@ them would stop being their biggest problem.
 
 They had only gone a dozen steps before Thokmay held up a hand to
 signal Noxy to stop.  "What?" she whispered.  Then she heard it.
-Somewhere nearby, someone was whistling out of tune.  Yestevan!  It
-had to be the shunned cloudherd.
+Somewhere nearby, someone was whistling out of tune.
+
+She and Thokmay crouched among the bushes.  The whistling grew
+louder.  Footsteps approached.  She caught a whiff of cookfire smoke
+and unwashed armpits as the shunned cloudherd walked by just out of
+reach.
+
+Thokmay stopped her when she started to rise a minute later, shushing
+her with a finger to his lips.  "What?" she mouthed.  He shook his
+head.  His lips moved, and she realized that he was counting under his
+breath.
+
+Finally he relaxed.  "All right," he said quietly.  They stood
+cautiously.  Night had fallen---the scattered patches of snow beneath
+the twisted pines shone silver in the light of the tumbling moon, and
+every shadow was an inky pool.
+
+Thokmay pointed downhill.  "That way.  Kulbinder found a gully that
+will get us out of the wind."
+
+"Can we make a fire?" Noxy asked, shivering.
+
+Thokmay shook his head apologetically.  Noxy nodded and pushed herself
+to move.  She was so hungry...
+
+They came to the gully ten minutes later and picked their way along
+it, stepping carefully from rock to rock whenever they had to cross
+the little stream that gurgled quietly in its middle.  Eventually Noxy
+called a halt, unable to feel her toes or to focus on where she was
+putting her feet.
+
+They found a dry patch of ground beneath a half-fallen pine and sat
+down side by side.  Thokmay pulled a thin blanket from his knapsack
+and passed it to Noxy.  "Take off your boots and wrap this around your
+feet," he said.
+
+"I know what to do," she snapped.  Then she sighed.  "Sorry.  I'm
+just..."
+
+"Me too," Thokmay said quietly.  He pushed her fumbling hands aside,
+untied her laces, and pulled off her boots and socks.  Wrapping the
+blanket around her feet, he started to rub them vigorously.
+
+"Ow," she complained.  "No, keep going, I just---owww..."  Pins and
+needles danced across her feet and up her legs.
+
+After a minute she pushed Thokmay's hands aside.  "What about yours?"
+
+"In a minute," he said, rummaging around in his knapsack.  "Here."  He
+handed her something wrapped in wax paper.  "There's enough for both
+of us."
+
+She unwrapped the paper gingerly.  "What is it?"
+
+"Sausage."  She eyed him blankly.  "It's a sausage.  Don't worry, it's
+cooked."  He unwrapped his own and took a bite.
+
+She swallowed the saliva in her mouth and handed it back.  "No
+thanks.  I don't---we don't eat meat."
+
+Thokmay stopped chewing.  "Oh," he mumbled.  "Um, what about cheese?"
+He rummaged in the knapsack again and withdrew a hard brick the size
+of his fist.
+
+"Thank you," she said fervently.  The cheese was so hard that she had
+to gnaw at it with her back teeth to scrape some off to chew, and the
+sharp taste was nothing like the grilled yak's milk cheese the
+villagers at on special occasions, but her stomach rumbled
+appreciatively as the first mouthful reached it.
+
+Thokmay had dried fruit, too, and little pebbles of something
+bittersweet he called "chocolate".  "Suck on it," Thokmay advised.
+"It will last longer that way."
+
+She rolled the strangely delicious lump around in her mouth.  "You
+must have been planning this for a while.  Escaping, I mean."
+
+Thokmay shrugged.  "It's mostly Kulbinder's doing.  I tried once
+before on my own, but I didn't get very far."
+
+Noxy hesitated.  "Is that when you got your scars?"
+
+He took so long to answer that she almost thought he had fallen
+asleep.  "He didn't have a choice.  The commander was going to put me
+in a work gang, and then he wouldn't have been able to look after me,
+so he said it was his job to discipline me, and..."  He ran his
+fingers over the four clawmarks on his cheek.  "It didn't hurt as much
+as I thought it would.  Honestly, the worst part was getting the blood
+off of my jacket."
+
+Noxy hesitated again.  "And---look, you don't have to tell me if you
+don't want me to, but---he called you 'honored'.  Back at the wall,"
+she plowed on.  She had been puzzling over it as they walked, slowly
+putting pieces together in her head.  "And when you fell into the
+fishpond---I hear him say it then too.  Are you---are you a spy?"
+
+It took Noxy a moment to realize that Thokmay was chuckling silently.
+"Fine," she snapped.  "I just thought---"
+
+"Sh." Thokmay patted the air with his hands to quiet her.  "Sorry.
+But no, I'm not the spy---not yet.  He is."
+
+When Noxy looked where he was pointing, her eyes met the tiger's.
+"Oh," she said weakly.

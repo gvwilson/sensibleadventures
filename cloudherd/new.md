@@ -3978,9 +3978,9 @@ Noxy crossed her arms.  "No."
 The tiger didn't snarl---not quite---but his lips pulled back just
 enough to reveal his sharp white teeth.  "What do you mean, no?"
 
-"I mean 'no'," Noxy repeated.  "The herd is going to be here in a
-couple of days.  There's no way we can get help and get back by then
-on foot, is there?"
+"I mean no," Noxy repeated.  "The herd is going to be here in a couple
+of days.  There's no way we can get help and get back by then on foot,
+is there?"
 
 Thokmay and Kulbinder exchanged silent glances.  "I didn't think so,"
 Noxy said grimly.  "So if we're going to stop the rebels, we're going
@@ -3990,3 +3990,346 @@ to have to do it ourselves."
 growled, his tail twitching.
 
 Noxy took a deep breath.  "You're not going to like it," she started.
+
+----------------------------------------
+
+## Chapter 10
+
+Noxy and Thokmay shared the blanket that night.  Kulbinder lay beside
+them, rising periodically to disappear into the forest in search of
+trouble.  He seemed almost disappointed when dawn came and he still
+hadn't found any.  Yestevan had built a lean-to a few hundred strides
+away, and had somehow acquired a bottle of *rak* to help him sleep.
+The trolls stayed in the trees, watching and waiting for they alone
+knew what.
+
+Noxy woke for the third time shortly before dawn, shivering.  Thokmay
+was snoring gently beside her, the blanket tangled around him.  She
+briefly contemplated taking half of it back, but her bladder had more
+insistent demands.  She got up shakily and rolled her head, wincing at
+the popping noise her neck made.  She missed her bed, and her dolls,
+and the smell of porridge steaming downstairs.  She missed her *anna*.
+She hoped everyone was all right.
+
+"Please," she whispered, not knowing if she was begging the commander,
+the forest, the Pilots, or all three.  "Please let them be all right."
+Then she spotted Kulbinder approaching along the path and wiped her
+tears off her cheeks.
+
+Breakfast was more cheese, the last of the dried fruit, and the last
+drops from Thokmay's canteen.  He hung the little piece of dayglass in
+a finely-woven net bag on his knapsack to recharge it, then unpicked
+the stitching on his sleeve to remove the yellow ribbon sewn on it.
+"Just to make it official," he shrugged.
+
+They picked their way downhill through the trees, steering toward the
+mouth of the cloud pen every chance they had.  The underbrush was
+thicker here than it was near the fortress, and Kulbinder insisted on
+frequent stops to listen for patrols, so it was nearly mid-day by the
+time they could see the mouth of the gorge.  No one was in sight.
+
+"Wait," Thokmay whispered.
+
+"I *am* waiting," Noxy whispered back.  Kulbinder had vanished again,
+scouting ahead.
+
+A minute passed, and another.  Thokmay tapped Noxy's shoulder and
+pointed where sunlight glinted off metal.  Noxy's heart sank.  They
+had expected there would be guards, but she had still hoped they might
+be able to sneak in and steal a cloud the easy way.
+
+"Well, I guess we climb," she said shakily.  Thokmay squeezed her
+shoulder in response.  On hands and knees, they crept back the way
+they had come.
+
+The mountainside on either side of the cloud pen's entrance wasn't
+vertical---not quite.  Noxy had seen it from the air often enough to
+know that, and had seen the village's grownups scale it more than once
+to repair the pulleys that held the spiderweb net in place.  But "not
+quite" didn't count for a lot up close, and watching other people
+climb while wearing harnesses was very, very different from doing it
+herself without one.
+
+The worst thing---other than being afraid that she would slip and fall
+to her death---was how exposed she felt.  "Nobody will be watching the
+cliff," she had argued the night before.  "They'll all be watching the
+clouds, because they think we have to touch them or call them with a
+horn to get on them."
+
+"And you don't?" Kulbinder had asked.
+
+Noxy had shaken her head, glad that he and Thokmay couldn't see her
+face in the darkness.  "I'm more sensitive than some people," she
+had hedged, steering the conversation on to other things as hastily as
+she could.
+
+The wind grew stronger as Noxy and Thokmay climbed higher.  As long as
+she kept moving, only her skin felt the chill, but each time she
+stopped to catch her breath, the cold bit into her muscles.  "Keep
+going," she told Thokmay.  "Just keep going," she repeated grimly to
+herself.
+
+They finally neared the top of the cliff.  Centuries ago, someone had
+carved deep grooves into the rock.  Ropes as thick as Noxy's wrist
+wove through them, black with hardened tar.  Those ropes anchored two
+pulleys, each one as wide as the span of Noxy's arms.  The spiderweb
+net that kept the village herd from wandering away hung from another
+tarred rope that ran from those pulleys, across the mouth of the
+gorge, to a matching pair on the other side.
+
+They rested shoulder to shoulder for a moment, panting for breath,
+their feet braced against the cable.  "Can you do it?" Noxy asked,
+kicking the rope with her bootheel.
+
+Thokmay nodded.  "Can you?"
+
+Noxy nodded back, trying to feign a confidence she didn't feel.  "Just
+say when."
+
+Thokmay took one more deep breath, climbed down so that the rope was
+level with his chest, drew his sword, and swung.  The blade bounced
+off the frozen tar without making a dent.  "All right, be like that,"
+he muttered.  Bracing his feet, he set the sword's blade against the
+rope and started to saw.
+
+The sword slid sideways at first, but once he had worn a groove into
+the tar, it began to bite, then to cut, squeaking like a soapy
+fingertip rubbed across glass with each stroke.
+
+Thokmay paused to shake the cramp out of his arms.  "How long will you
+need?"
+
+"Just a couple of minutes," Noxy replied.  "Do you think Kulbinder's
+ready?"
+
+Thokmay shrugged.  "If he's not, it's because he can't be."  He bent
+over the rope and started sawing again.
+
+Noxy gave him another minute before closing her eyes.  She didn't
+actually know how she had spoken to Big Blue from so far away.  She
+had left that out of the whispered argument with Kulbinder and Thokmay
+about her plan, along with the fact that she was the one responsible
+for their swim in the fishpond.
+
+*Hello?* she mind-spoke, instantly feeling foolish.  That wasn't how
+she mind-spoke when she was touching a cloud.  Without realizing she
+was doing it, she held out a hand as if stroking a cloud's flank.
+*Here,* she thought.  *I'm here.*
+
+*??* The mind-voice was faint but instantly recognizable.  It was Big
+Blue!
+
+*Here,* she mind-spoke.  *Come here.*
+
+Big Blue's "no" was almost petulant.  Noxy got a confused impression
+of him wanting to nap and wishing his new rider didn't want him to
+hurry, hurry, hurry.
+
+*??* Noxy mind-asked.  Her eyes opened in shock at Big Blue's reply.
+
+"Stop!" she exclaimed.  Thokmay looked at her, confused.  "It's
+Yestevan---he's on Big Blue right now!"
+
+"What? I thought you said he couldn't ride clouds any more?"
+
+Noxy shook her head.  "I said he wasn't *allowed*.  But he's on Big
+Blue.  If we cut the rope now, they'll know we're here!"
+
+"Never mind that," he said grimly.  "If we don't hide, they'll spot us
+as soon as they're out of the gorge."
+
+Noxy closed her eyes again.  If she could mind-speak with Big Blue...
+"How close are you?" she asked, her eyes still shut.
+
+"Maybe a minute?" Thokmay replied.  "I don't know how far I have to
+go before it snaps."
+
+"Get started," she ordered.  "But don't cut the last bit until I say."
+Without waiting for an answer, she reached out with her mind.
+*Pillow?* she mind-said gently.  *Pillow, I need you.*
+
+Thokmay had to stop after every few strokes to give his exhausted arms
+a rest.  Each time he did, Noxy had to stop herself from telling him
+to hurry up.  Other people were getting on Big Blue.  She could feel
+them somehow, as if she was sitting on a bed and someone else was
+sitting on the mattress beside her.  And she could mind-hear
+Yestevan---not directly like she could mind-hear Big Blue and Pillow,
+but like an echo.  She had never heard of anything like it, and on any
+other day, she would have been frightened of what she was becoming.
+
+"There it goes!"  She opened her eyes as the sound of Thokmay's voice.
+He gestured with the sword.  The remaining fibers of the rope were
+stretched taught.  Even as she watched, a few strands snapped.
+
+"I told you to stop!" she said frantically.
+
+"It's not like I've done this before!" the young soldier snapped.
+"How long do we have?"
+
+"I don't know."  She closed her eyes.  Yes!  Big Blue was moving.
+A horn blew, two short blasts and one long.  Somewhere above them,
+someone began reeling in the gate net.  The cut rope stretched
+alarmingly.  More fibers twisted and snapped.
+
+"Come on, come on," she muttered.  *Hurry!* she mind-spoke to Big
+Blue.  *Please, hurry!*
+
+*Don't want to,* he mind-complained, speeding up nonetheless.  She
+mind-felt Pillow falling into his wake.  Someone would notice, but
+please, not yet, not yet...
+
+"Now!" she barked.  Thokmay pressed his tar-blackened sword against
+the rope and sawed.  Back, forth, back, forth, and *snap!*  The last
+strands of the rope broke under the net's weight.
+
+The rope seemed to hang in the air for a moment like a child's
+scribble before falling, falling, right on top of Big Blue.  The men
+on his back shouted in alarm, raising their arms instinctively as it
+dragged across them.  One soldier screamed as it caught around his leg
+and dragged him over the side of the cloud.  Noxy watched sickened and
+helpless as he fell.
+
+"Come on!" Thokmay said.  Noxy forced her nausea down and nodded
+jerkily.  She could mind-feel Big Blue's agony---the rope had been
+like a lash across his back.  Soldiers shouted as they sank
+ankle-deep.  Yestevan fought for control, bellowing obscenties, trying
+to stop the cloud from thinning out to escape the pain.
+
+*Quickly!* she mind-spoke to Pillow.  *Please, quickly!*
+
+And then she heard Kulbinder roar as he attacked the soldiers on the
+ledge above the pulleys.  "He will post archers," the tiger had said.
+"I will take care of them."
+
+"I will not leave you behind," Thokmay had said quietly.
+
+"Do your part, and you won't have to," the tiger had promised.
+
+Kulbinder roared again.  Men shouted.  A bow snapped.  Noxy heard a
+second shot and saw an shoot across the sky to fall into the forest
+far below.  "Gandan!" the tiger roared.  "Gandan and the crown!"
+
+"There she is!" Noxy clutched Thokmay's arm and pointed as Pillow
+rounded the corner.  She could mind-hear the cloud's fear and
+confusion.  *Good girl,* she mind-spoke.  Aloud, she said, "Come on!"
+
+They hurried along the cliff face as quickly as they dared.  One false
+step would send them tumbling into the gorge like the hapless soldier,
+but they had to get to the spur of rock Noxy had spotted as they
+climbed.  Closer, closer---she scrambled onto it, her chest heaving as
+Thokmay pulled himself up behind her.
+
+"Get ready," she ordered, crouching.
+
+<!-- FIXME: introduce Thokmay's whistle before here -->
+
+"I suddenly find myself wishing you'd come up with a different plan,"
+he said, gathering his legs beneath him.  He pulled his whistle out
+from under his jacket.
+
+"Steady, steady... Now!"  Thokmay blew a long blast on his whistle as
+Noxy took two long steps and flung herself into the air.
+
+For one heart-stopping moment she was afraid she had misjudged the
+distance and the timing, and then *poof!* She hit Pillow's back
+spread-eagled.  She shrieked and rolled out of the way as Thokmay
+plummeted toward her, his arms and legs flailing.
+
+"Are you all right?" she demanded as she sat up.
+
+*Whick!* She didn't even see the arrow as it flew past her ear.  She
+shrieked again and threw herself flat on the cloud, throwing an arm
+across Thokmay to stop him from rising.
+
+"Kul..." the young soldier gasped.  His landing had knocked the wind
+out of him.  He fumbled at his collar, trying to get his whistle out
+to signal Kulbinder again.
+
+She rolled onto her stomach and raised her head as the tiger roared
+again.  Two men on the edge of the cliff were cutting at Kulbinder
+with their swords, trying to keep him away from a third who was taking
+aim at *them*, he was trying to shoot *them!*  She buried her face in
+the cloud as he loosed a second arrow.  *Whick!*
+
+*Phweee!*  Thokmay's whistle called high and clear.  "Get us closer!"
+he croaked, still struggling for air.
+
+Noxy dug her fingers into Pillow.  Closer was the last place in the
+world she wanted to go.  "Please!" Thokmay begged.
+
+*Please,* Noxy echoed.  Pillow was almost as frightened as she was,
+but she had served three generations of cloudherds faithfully.  She
+turned against the wind and headed for the cliff.
+
+Thokmay whistled again.  With a final roar, Kulbinder feinted left and
+then charged past the two swordsmen.  The archer yelled in fury as the
+tiger knocked him off his feet and threw himself over the cliff.
+
+*Poof!* Kulbinder landed heavily on the very edge of the cloud.  "Grab
+him!" Noxy yelled, scrambling toward the tiger and grabbing one of his
+paws.
+
+"Pull!  Pull!" the tiger roared.  Thokmay put a knee into Noxy's back
+as he crawled over her to grab Kulbinder's other forepaw.
+
+Noxy mind-heard Pillow's yelp of pain as the tiger's claws dug into
+her flank.  He lurched up onto the cloud.  "Go!" he wheezed as Thokmay
+wrapped his arms around his neck.
+
+Noxy didn't need to be told twice.  *Fly!* she mind-spoke to Pillow.
+*As fast as you can!*
+
+The cloud didn't need to be told twice either.  She was already
+turning.
+
+"Honored!"  The commander's voice cut through the air like an arrow.
+"So good of you to grace us with your presence!"
+
+Noxy glanced over her shoulder.  Her heard fell.  "Oh no," she
+whispered.  There on the edge of the cliff stood the commander with
+two soldiers, each holding one of Grappa Gas's arms.  The old man
+struggled and cursed, kicking at the men with his good leg.
+
+"You've played well, honored," the commander called out.  "But the
+time for playing is over."  He drew his sword.  Sunlight flashed along
+its edge.
+
+Noxy whirled around.  "We have to go back!"
+
+"No," Kulbinder coughed.  "We have to... run..."
+
+"But he'll kill Grappa Gas!" Noxy cried.  She pressed her hand against
+Pillow's back.
+
+Before she could mind-speak the order, Thokmay put his hand on her
+shoulder.  "I'm sorry," he said.  "But he'll definitely kill Kulbinder
+if we give him a chance."
+
+"That may be... unnecessary..." the tiger said weakly.  That was when
+Noxy realized he was bleeding from a gash in his side where one of the
+swordsmen had landed a blow.
+
+"Last chance, honored," the commander called.  He raised his sword---
+
+---and Grappa Gas drove the peg of his wooden leg hard into the foot
+of one of the soldiers holding him, yanked his arm free, and punched
+the other soldier in the face as hard as he could.  "Go!" he yelled.
+"Get out of here!"  And before the soldiers could grab him again, he
+threw himself over the edge of the cliff.
+
+"No!" Noxy screamed.  Grappa Gas's arms and legs flailed in the air as
+he fell.
+
+*Poof!*  He hit Big Blue shoulder-first, sending ripples across the
+cloud's back that knocked soldiers sprawling.
+
+"Come on!" Thokmay said urgently.  "We have to go!"
+
+"But..."  Noxy watched helplessly as the soldiers on Big Blue's back
+grabbed Grappa Gas and rolled him over.  Had he knocked himself out?
+Or was he---
+
+"Come *on!*" Thokmay repeated desperately.  "Please!"
+
+Noxy nodded.  *Fly,* she mind-spoke to Pillow.  A moment later she
+felt the wind of their passage in her hair.

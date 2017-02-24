@@ -4016,11 +4016,11 @@ the forest, the Pilots, or all three.  "Please let them be all right."
 Then she spotted Kulbinder approaching along the path and wiped her
 tears off her cheeks.
 
-Breakfast was more cheese, the last of the dried fruit, and the last
-drops from Thokmay's canteen.  He hung the little piece of dayglass in
-a finely-woven net bag on his knapsack to recharge it, then unpicked
-the stitching on his sleeve to remove the yellow ribbon sewn on it.
-"Just to make it official," he shrugged.
+Breakfast was more cheese and the last of the dried fruit.  Thokmay
+hung the little piece of dayglass in a finely-woven net bag on his
+knapsack to recharge it, then unpicked the stitching on his sleeve to
+remove the yellow ribbon sewn on it.  "Just to make it official," he
+shrugged.
 
 They picked their way downhill through the trees, steering toward the
 mouth of the cloud pen every chance they had.  The underbrush was
@@ -4290,9 +4290,9 @@ whispered.  There on the edge of the cliff stood the commander with
 two soldiers, each holding one of Grappa Gas's arms.  The old man
 struggled and cursed, kicking at the men with his good leg.
 
-"You've played well, honored," the commander called out.  "But the
-time for playing is over."  He drew his sword.  Sunlight flashed along
-its edge.
+"You've played well, Honored Thokmay," the commander called out.  "But
+the time for playing is over."  He drew his sword.  Sunlight flashed
+along its edge.
 
 Noxy whirled around.  "We have to go back!"
 
@@ -4331,5 +4331,223 @@ Or was he---
 
 "Come *on!*" Thokmay repeated desperately.  "Please!"
 
-Noxy nodded.  *Fly,* she mind-spoke to Pillow.  A moment later she
-felt the wind of their passage in her hair.
+Noxy nodded.  *Fly,* she mind-spoke to Pillow.  A moment later the
+wind of their passage tugged at her hair.
+
+There was a needle, some cotton thread, and some bandages in Thokmay's
+knapsack, and a small knife with a very sharp blade.  The prince
+trimmed the hair around Kulbinder's wound as short as he could, then
+put in three stitches.  Noxy almost threw up when he pushed the needle
+into the tiger's flesh, but other than twitching his tail, Kulbinder
+showed no sign that he even felt it.
+
+When it was over with, Thokmay splashed the last of their water on his
+hands and wiped them with a scrap of bandage.  "You look like you've
+done that before," Noxy said.
+
+"Thanks."  Thokmay balled up the bandage and threw it over the side of
+the cloud.  "I wanted to learn to be a doctress, not a soldier."
+
+"A doctress?"  Noxy blinked.  "Men can't be doctresses."
+
+"Sure they can," Thokmay said defensively.  "Lots of men are
+doctresses.  Well, maybe not *lots*, but..."  He shrugged yet again.
+"Anyway, that's yesterday's breakfast now."
+
+They flew in silence after that, Thokmay on one side Kulbinder and
+Noxy cross-legged a few strides away.  She was so lost in her own
+thoughts that she realized a storm was coming around the corner of the
+pass up ahead until a stray snowflake snagged on her eyebrow.
+
+She swore under her breath as she stood and shaded her eyes with her
+hand.  They were nimbus clouds, she realized, her heart sinking.  Big
+ones, swollen with a full winter's grazing on the snowfields of the
+high Brumosos.  If it was just a few weeks later, her mother would
+have the villagers up on their clouds to guide them south to bring
+much-needed rain to farmers' fields in the Ninety Kingdoms.  She had
+no chance of doing that on her own---no chance of doing anything
+except get out of their way or go under them and hope she didn't spook
+them.
+
+"Tuck the blanket around Kulbinder," she said to Thokmay. "It isn't
+much, but we have to try to keep him warm."
+
+"How bad is it going to get?" Thokmay asked, reaching for the pack.
+
+"Bad enough," Noxy replied grimly.
+
+It wasn't bad---it was worse.  The bulls at the front of the herd were
+still fighting for leadership.  Every butt and shove threw a flesh
+flurry of snow into the air.  The cows and calves behind them picked
+up on their agitation and shed snow of their own, until the air was a
+soup of wet white flakes whipped every which way by gusts of wind.
+
+The three travellers were soaked in minutes and shivering soon after.
+"We'll freeze if we don't get out of this!" Thokmay said, shouting to
+be heard.
+
+"I know!"  Noxy shouted back.  "But I don't know how big this herd
+is---it could stretch halfway to Chaghan!"
+
+"Then let's turn around!"
+
+She shook her head.  "We can't outrun them!  We'll have to set down!"
+
+"But then we'll just freeze on the ground!" the prince protested.
+
+"No we won't.  There's a place up ahead where we can get shelter."  *A
+place I never wanted to visit again,* she added to herself, but they
+were out of choices.
+
+Three Springs Canyon was a narrow cut between two brooding mountains
+whose names Noxy had never learned.  In summer, the stream that ran
+through it was full of diver bees, rock crabs, the stealthy squiddles
+that hunted them both, and the occasional bear or troll with a taste
+for fresh squiddle.  But summer hadn't come yet, so the dancing water
+Noxy was familiar with was instead an angry torrent.  Fog from the hot
+springs that gave the canyon its name drifted in the air like scraps
+of wool, chilling the already-freezing travellers.
+
+"How can you see in this?" Thokmay asked as a spur of rock suddenly
+appeared out of the mist.
+
+"I can't," Noxy said.  "But *she* can."  She patted Pillow.  "Now
+shush."  In truth, the cloud could barely see further than she could.
+
+*Home,* Pillow pleaded.
+
+*Soon,* Noxy mind-spoke back, putting all the comfort and certainty
+she didn't feel into her thoughts.  *Soon.*
+
+The air cleared almost instantly once they were past the last hot
+spring.  Noxy pulled her coat tighter around her.  "How's he doing?"
+she asked, jerking her chin at Kulbinder.
+
+"He needs to be somewhere warm.  And dry."  Thokmay stroked the
+tiger's flank.  Kulbinder's tail twitched, but he didn't open his
+eyes.  "Wherever you're taking us, I hope we're there soon."
+
+Noxy got to her feet and pointed.  "There," she said.  "We'll be able
+to set down there."
+
+'There' was a one-room hut perched on a not-quite-level shoulder of
+the canyon.  Its walls were piled stones with moss and clay in the
+chinks to keep the wind out, and its roof was slats overlain with
+branches.  A bamboo tube with a shingle cap served as as chimney.
+
+Pillow descended into the cul de sac beneath the hut and pressed
+herself against the mountain.  Kulbinder struggled to his feet and
+limped off the cloud and picked his way uphill through the loose
+stones and patches of unmelted snow with Thokmay at his side.  Noxy
+followed them.
+
+"Hello?" Thokmay called as he approached the hut.  "Is anyone there?"
+Silence.  "Is anyone there?" he repeated more loudly.
+
+Suddenly impatient, Noxy strode past him and knocked on the door.
+"Hello the house!" she called out, not waiting for an answer before
+lifting the latch and pulling the door open.
+
+The hut was empty, but the embers of the morning's fire still glowed
+in the little brick fireplace beneath the chimney, and a piece of
+yellow-orange dayglass hadn't quite shed the last of the previous
+day's sunlight.  Noxy wrinkled her nose at the heavy, unwashed smell
+of someone who had done no more through the freezing winter than
+splash a bit of water on his face and dab at his armpits.  "Come on
+in," she said, half glad and half disappointed and trying to hide
+both.  She yanked some blankets off the narrow cot on one side of the
+hut and made a quick pile in front of the fireplace.  "Put him down
+there.  I'll get some more wood."
+
+As Thokmay began trying to make Kulbinder comfortable, Noxy went back
+outside.  As soon as the door closed behind her, she sagged against
+the wall and wiped her eyes.  She had no idea what she would have said
+if the hut's resident had been there, but judging from the fire, she
+was going to have to think of something soon.
+
+She gathered an armload of wood and carried it back inside.  Thokmay
+watched in silence as she stacked it beside the fireplace, then used
+her knife to shave some long splinters from one piece and laid them on
+the embers.  When they began to smolder, she added a few more
+shavings, and finally the whole piece of wood.  The warm smell of
+burning pine slowly filled the hut.
+
+Thokmay stirred.  "Thank you," he said quietly.
+
+"You're welcome...honored."  Noxy sat back and looked at him coolly.
+
+Thokmay didn't meet her eyes. "I'll take first watch," he told Noxy,
+getting to his feet.
+
+Noxy sat in silence after the door banged closed behind him.  She
+could smell the tiger's damp fur, and for some reason that stirred her
+into action.  She took a blue jug from the shelf beside the cot and
+shook it.  Water gurgled inside.  "Here," she told Kulbinder, settling
+beside him.  "Let me give that a wash."
+
+As she peeled back the makeshift bandage, the tiger said, "You have
+been here before."
+
+Noxy nodded.  "Not for a while, though.  Sorry!"  She winced as the
+bandage pulled a few hairs away from the tiger's side.
+
+"Whose home is it?" Kulbinder asked.
+
+Noxy carefully poured a few more drops of water onto the bandage to
+loosen it.  "He's a magician.  He used to live in Stale when I was
+little, but then a bunch of people got sick with the scribbles, and he
+had to do a spell to save them, and now he can't sleep in a house
+that's close to anyone else, so he lives here."  She shrugged as if it
+didn't matter.  "Or in a cave down by Duck Droppings, or sometimes in
+another hut that's further up the pass.  He still does magic sometimes
+for us and the other villages, but my *amma* says he's getting
+absent-minded."  The tiger made a sound deep in his throat as the
+bandage tugged at some more hairs, but didn't move a muscle.  "Sorry."
+
+"Don't be.  You humans are sorry for too many things, too often."
+Kulbinder yawned suddenly.  "Please don't let him stay out there too
+long."  And then the only sound in the the hut was his snoring, and
+the crackling of the fire, and the whistle of the wind through chinks
+in the walls.
+
+Noxy must have dozed, because she woke with a start when the door
+banged open.  "Trolls," Thokmay said curtly.  "A dozen of them, and
+those are just the ones I can see."
+
+Kulbinder struggled to his feet.  "What are they doing?"
+
+"Just watching, but every time I turn around, they've come a little
+closer."  The young soldier knelt in front of the fire and chafed his
+hands.  Tiny beads of sweat glistened on his dark skin.  As Kulbinder
+struggled to rise, Thokmay put out a hand to stop him.
+
+"I need to see for myself," the tiger rumbled.
+
+"You need to rest," Thokmay replied firmly.  "We'll keep an eye on
+them."
+
+*Thump!* Something heavy landed on the roof above them.  Thokmay drew
+his sword with a quiet curse.
+
+"So much for resting," the tiger said.
+
+"I don't understand," Noxy said helplessly.  "We've had a truce with
+the trolls for years."
+
+Noxy picked up a stick of firewood.  It wasn't much of a club, but
+hefting it felt better than being empty-handed.
+
+*Too-eee!* Someone whistled two high, clear notes.  *Too-eee!*  Noxy's
+heart leaped into her throat.  She knew that sound.
+
+Claws scrabbled on the shingles overhead.  A moment later someone
+knocked on the door.  Thokmay looked at her, his eyes wide.  Slowly,
+she lowered her makeshift club.  "Come in," she said.
+
+The door swung open.  "Hello."  The man who stood there was tall,
+pale, as bald as an egg, and smiling as if someone had just handed him
+a pot of honey.  His clothes hung loosely on his skinny frame, and
+seemed to be made entirely of patches.
+
+Noxy swallowed drily.  "Hi *adda*.  Um, Thokmay, Kulbinder?  This is
+my father."

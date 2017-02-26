@@ -1265,7 +1265,7 @@ polished their boots as well as they could.
 As the sun kissed the peaks to the west, a small procession marched
 through the fortress gate.  Each body was carried on a stretcher,
 hands folded and battle mask raised, and laid gently on the pyre.  One
-of hte bearers wept openly---his brother, Sergeant Dorbu explained
+of the bearers wept openly---his brother, Sergeant Dorbu explained
 quietly.  They had been petty thieves before the rebellion, but had
 fought bravely since.
 
@@ -1694,7 +1694,7 @@ cobblestones.
 The crowd groaned in sympathy.  "That's not fair!" someone said
 indignantly.
 
-"Battles never are," Sergeant Dorbu said, raising his battlemask and
+"Battles never are," Sergeant Dorbu said, raising his battle mask and
 holding out his hand to help Thokmay to his feet.  "Remember, it's
 what you *don't* see that will kill you."
 
@@ -2240,7 +2240,7 @@ the first had gotten so small, and then Noxy left.
 Noxy walked home through the darkened village with a sliver of
 dayglass in her hand to light her way.  Her mother was sitting at the
 kitchen table with half a mug of cold tea in front of her, brooding
-over whatever she had said to Aft and Grappas Gas.  She forced a smile
+over whatever she had said to Aft and Grappa Gas.  She forced a smile
 when her daughter came in, the tension in her shoulders easing only
 slightly when Noxy gave her mother a hug and kissed the top of her
 head and cautioned her not to stay up too late.
@@ -2308,7 +2308,7 @@ put back in place.  Children chased protesting chickens back into
 coops or hauled the morning's laundry off clotheslines to be re-hung
 in the sauna.
 
-Amidst the preparations, Indy sent Noxy to the trading hall to invite
+Amid the preparations, Indy sent Noxy to the trading hall to invite
 the commander, Sergeant Dorbu, and Kulbinder to dinner.
 
 "Tonight?" Noxy asked.
@@ -2353,7 +2353,7 @@ hellos.  Thokmay stood uncertainly by the door until Noxy waved him
 toward a stool.  Meanwhile, the tiger flowed up onto the chair across
 from Noxy without waiting for an invitation and watched impassively as
 she swept the last scraps of potato off the table.  "Thank you for the
-blanket," he said without premable.
+blanket," he said without preamble.
 
 Noxy jumped slightly.  "You're welcome.  It's pretty dangerous,
 getting dunked in frozen water like that.  It happened to one of the
@@ -3065,7 +3065,7 @@ stream while Thokmay looked after you, but there was no sign of him."
 The tiger stood and stretched.  "There is nothing more we can do here.
 We should return to the village."
 
-Soemthing rustled in the bushes.  Instantly, the tiger sunk into a
+Something rustled in the bushes.  Instantly, the tiger sunk into a
 hunting crouch, ready to chase or pounce or defend himself.  Thokmay
 drew his sword, motioning at Noxy with his free hand to be still.
 
@@ -3725,7 +3725,7 @@ over his shoulder.
 
 "I hope so," Noxy said.  She took a step, then another and another.
 The water spilled over the top of her boot.  Rot, but it was cold.
-She swallowed drily.  Another, another...
+She swallowed dryly.  Another, another...
 
 Her foot slipped.  She yelped and caught herself against the wall
 instinctively.  The dayglass tumbled from her hand into the water.
@@ -3775,7 +3775,7 @@ hand and sat down.  "I don't exactly have a plan, you know."
 The soldier shrugged.  "Me neither.  Kulbinder will make excuses as
 long as he can, but sooner or later Sergeant Dorbu will notice that
 I'm missing."  He looked back into the tunnel as if hoping to see
-someone emerge fron the darkness.  "I expect he'll be pretty
+someone emerge from the darkness.  "I expect he'll be pretty
 disappointed that I've deserted again."
 
 "Again?" Noxy asked, settling onto the tunnel floor a stride away from
@@ -3850,7 +3850,7 @@ signal Noxy to stop.  "What?" she whispered.  Then she heard it.
 Somewhere nearby, someone was whistling out of tune.
 
 She and Thokmay crouched among the bushes.  The whistling grew
-louder.  Footsteps approached.  She caught a whiff of cookfire smoke
+louder.  Footsteps approached.  She caught a whiff of cook fire smoke
 and unwashed armpits as the shunned cloudherd walked by just out of
 reach.
 
@@ -4079,7 +4079,7 @@ gorge, to a matching pair on the other side.
 
 They rested shoulder to shoulder for a moment, panting for breath,
 their feet braced against the cable.  "Can you do it?" Noxy asked,
-kicking the rope with her bootheel.
+kicking the rope with her boot heel.
 
 Thokmay nodded.  "Can you?"
 
@@ -4192,7 +4192,7 @@ helpless as he fell.
 "Come on!" Thokmay said.  Noxy forced her nausea down and nodded
 jerkily.  She could mind-feel Big Blue's agony---the rope had been
 like a lash across his back.  Soldiers shouted as they sank
-ankle-deep.  Yestevan fought for control, bellowing obscenties, trying
+ankle-deep.  Yestevan fought for control, bellowing obscenities, trying
 to stop the cloud from thinning out to escape the pain.
 
 *Quickly!* she mind-spoke to Pillow.  *Please, quickly!*
@@ -4549,5 +4549,379 @@ pale, as bald as an egg, and smiling as if someone had just handed him
 a pot of honey.  His clothes hung loosely on his skinny frame, and
 seemed to be made entirely of patches.
 
-Noxy swallowed drily.  "Hi *adda*.  Um, Thokmay, Kulbinder?  This is
-my father."
+Noxy swallowed dryly.  "Hi *adda*.  Um, Thokmay, Kulbinder?  This is
+my father, Ulfmaerr.  He's a magician."
+
+----------------------------------------
+
+## Chapter 11
+
+"May I come in?" Ulfmaerr asked politely.
+
+"Why not?" Noxy stepped out of the way.  "It's your home."
+
+"Oh hardly," he replied lightly.  "I don't really have a home as
+such."  His Vaardan accent added extra vowels to words in strange
+places, stretching them like yarn.
+
+He ducked his head to enter the hut.  The smile dropped from his face
+when he spotted the wound in Kulbinder's side.  "That's quite a divot
+you have their, honored," he murmured.  He knelt beside the tiger and
+gently placed his hand next to the wound, then exhaled with relief.
+"But not infected."  He pointed to Thokmay without turning his head.
+"If you would, please, the green bottle off that shelf, the one with
+the brown stopper."
+
+"Is he going to be all right?" Thokmay asked anxiously, hunkering down
+to pass the bottle.
+
+Ulfmaerr waggled his head from side to side in a familiar gesture that
+made Noxy's heart ache.  "Possibly.  Probably.  Yes, I think it more
+likely than not."  The bottle's glass stopper squeaked as he twisted
+it out.
+
+He took a quick swig and wiped his mouth on his sleeve before
+replacing the stopper and handing the bottle back to Thokmay.
+"Right," he said softly.  "Let's see what we can do here."
+
+Kulbinder's wound didn't knit in front of Noxy's eyes.  The tiger
+didn't sparkle, either, and the air wasn't suddenly filled with the
+smell of scorched honey.  In fact, none of the things Noxy had read in
+adventure books happened.  Kulbinder just stirred and made a low,
+grumbling sound.
+
+Ulfmaerr relaxed and patted the tiger's flank.  "There," he said,
+sounding pleased.
+
+"Will he be all right?" Thokmay asked anxiously.
+
+"I hope so."  Ulfmaerr took another swig from his glass bottle.  "I
+hope so," he repeated more quietly.
+
+"But your spell worked, didn't it?" Thokmay persisted.
+
+Ulfmaerr shrugged.  "That just means that I'm going to hold up my
+end.  It doesn't guarantee it'll do what I want."
+
+"And what price did you pay?" Kulbinder asked weakly.
+
+Ulfmaerr shrugged again.  "There are another few colors I won't ever
+see again."  He smiled to himself.  "Honestly, I was never fond of
+yellow."
+
+Thokmay folded his hands together in front of his chest and bowed.
+"Thank you, honored," he said humbly.
+
+"Oh, you're welcome, I'm sure," Ulfmaerr replied lightly.  "Now, would
+you like some tea?  And if you don't mind me asking, do you have any
+idea why those trolls were so upset about you being here?"
+
+Thokmay glanced at Noxy.  When she made no move to speak, he cleared
+his throat and said, "I'm afraid I don't know, honored."  As the
+magician bustled about getting his kettle boiling and searching for a
+third mug ("I don't suppose the tiger will want any, do you?  No?  No,
+I thought not."), the young soldier gave him an abbreviated version of
+the last few days.
+
+"Well, isn't that a thing?" Ulfmaerr said when Thokmay finished.  He
+massaged his bald scalp with one hand, frowning.  "And now you're,
+what, you're going to find Stale's cloudherds and get their help?  I
+suppose that makes sense, but how?  You're not a cloudherd yourself,
+are you?"
+
+"No, honored," Thokmay said, "She is."  He nodded at Noxy.
+
+The magician looked at his daughter blankly, then laughed.  "I'm
+sorry.  I didn't see you there.  What's your name?"  Without waiting
+for an answer, he turned back to Thokmay and continued, "But truly,
+this is going to be quite dangerous.  Already has been, from what you
+say.  Are you sure it wouldn't be wider to, to---" He waved a hand as
+if hoping to conjure an ending for his sentence out of thin air.
+"Anyway, who wants some dinner?"
+
+For all his magic, Noxy's father had never learned to do anything more
+complicated with food than boil it.  After watching him for a few
+minutes with ever-increasing frustration and dismay, Thokmay
+volunteered to make the meal, then insisted.  "To thank you for your
+hospitality, honored," he said.  "It's a lowland custom, you see---I
+would feel I was being rude if I did not."
+
+Noxy and Ulfmaerr sat in silence while the prince chopped, seasoned,
+and muttered.  "So," the magician finally said.  "Would you like me to
+tell you a story?  I swear it's mostly true."
+
+"Sure," Noxy said.  She leaned back against the wall and closed her
+eyes as her father began one of the Vaardan children's tales she had
+loved so much when she was little.  Once upon a time, the Prince of
+Cats decided to go and see the dragon...  She smiled at the funny
+parts, and was careful to only wipe tears from her eyes when he was
+wasn't looking.
+
+Dinner was potatoes, two kinds of onions, and carrot shavings, all
+simmered together with a bit of salt and a precious little knob of
+ginger.  Ulfmaerr praised it lavishly, humming a little as he wolfed
+it down.  Noxy ate a full plate, but waved away Thokmay's offer of a
+second.
+
+"Well then," the magician said to Thokmay when they were finished.  "I
+should probably go and see if your trollish friends are still about."
+
+"Please, honored, I can do that," the prince said, rising.
+
+"No no no."  Ulfmaerr waved him down, standing as well.  "You should
+get some rest.  And besides, I can't sleep under the same roof as
+other people.  Which you'll be pleased to know includes the Gifted,"
+he added, patting Kulbinder's leg familiarly.
+
+"What magic thinks of me matters little," Kulbinder grumbled.
+Ulfmaerr patted his leg again.
+
+A cold gust of wind swirled into the hut when Ulfmaerr opened the
+door.  The flames in the fireplace crackled as they danced to one side
+for a heartbeat, then straightened and went back to their quiet
+conversation.  Thokmay set the pot of stew aside, scratched
+Kulbinder's ears for a moment, and said, "Spell price?"
+
+Noxy nodded, not trusting herself to speak for a moment.  "It was the
+scribbles," she said.  The plague had swept through the mountains when
+Noxy was six, carried by clockwise gulls blown off course by a storm
+or by wandering Hett smiths or maybe just the turn of the season.  At
+first it was just an itch that slowly worsened.  Then dark marks
+appeared on people's skin.  Over the course of a week, they condensed
+to form words written in an alphabet that no one recognized.  By this
+point the sufferer was feverish and unable to sleep.  Soon after, they
+were raving in some unknown tongue.
+
+"So he cured us," Noxy finished.  "A couple of people died in Duck
+Droppings before he could get there, and a handful more further up the
+pass, but that was all."  She wiped her eyes with the back of her
+sleeve, not caring that Thokmay was watching.  "As far as he's
+concerned, I'm a stranger every time he meets me.  He can't see that
+I'm growing up, or that *amma* is going gray.  He's just...stuck."
+
+"I'm sorry," Thokmay said quietly.
+
+Noxy forced a shaky laugh.  "You know the worst thing?"  She pulled up
+her sleeve to show the spiral of text running around her forearm.  "We
+still don't even know what it means."
+
+They sat in silence for a minute and listened to Kulbinder breath.
+"He made the skylight in my room so I wouldn't feel closed in.  I used
+to lie in bed and listen to him tell stories, watching the stars and
+the clouds until I fell asleep.  He'd take my dolls and make little
+plays with them, and now he can't even---he can't---"
+
+Thokmay waited quietly until she was back in control of herself.  "My
+sister has dolls too," he said, staring into the fire.  "Knitted ones,
+just like yours."
+
+He hesitated.  "She gets upset easily," he continued.  "Little things
+confuse her sometimes, but playing with her dolls always helps her
+calm down.  I've been learning how to knit so that I can make some for
+her."
+
+"What's her name?" Noxy asked, afraid to spoil the moment but not
+wanting it to end.
+
+"Ogmin," Thokmay said.  And then he looked up and met Noxy's eyes.
+"Princess Ogmin."
+
+It took a moment for Noxy to make sense of what Thokmay had said.  She
+straightened up.  "Wait, what?"
+
+"You asked me if I was a spy," the young soldier said in a rush.  "I'm
+not.  I'm a prince.  The king is my father.  It's a tradition," he
+continued, his tone almost pleading.  "We're put in an orphanage far
+enough from the capital that no one will recognize us and then
+fostered for a couple of years so that we'll learn what it's like to
+be a commoner.  I wanted to learn a trade or be a doctress, but my
+father wanted me to be a soldier, so...  I'm telling the truth!" he
+finished indignantly.
+
+"He is," Kulbinder rumbled softly, opening one eye.  "Though he's very
+foolish to tell it."
+
+"So---"  Noxy hugged her knees.  "So you're telling me that you're the
+next king of Gandan?"
+
+"Maybe," Thokmay shrugged.  "But it could be my brother, or one of my
+cousins.  There are lots of people the king could choose.  That's part
+of what the fostering is for---to help the king find out who we really
+are and whether we're fit for the crown."
+
+The little room was quiet again after that until Noxy yawned and
+stretched.  "Do you want the bed?"
+
+Thokmay glanced at her.  "Is that all you have to say?"
+
+"For now," Noxy said wearily.  "Unless it means you can just order the
+commander to---no, I didn't think so."
+
+Thokmay was shaking his head.  "It's part of why I was trying to
+escape.  If he found out who I am, he'd use me as a hostage."
+
+Noxy yawned again.  "Would that make your father surrender?"
+
+"No," Thokmay said without hesitation.  "No, he wouldn't."
+
+In the end, Noxy wound up on the cot while Thokmay curled up on a
+blanket next to Kulbinder.  As fatigue pulled her down into sleep,
+Noxy reached out with her mind for Pillow.  *Mmm?* the cloud
+mind-mumbled, barely awake herself.
+
+*You were good today,* she mind-spoke.  *Really good.*
+
+*Mmm.* The cloud sounded like she was already asleep again.  Within
+moments, Noxy was too.
+
+She woke in darkness.  The fire had gone out---a few stubborn coals
+still glowed dull red, but only when she didn't look straight at them.
+Kulbinder was snoring, and the wind whistled a soft, irregular tune
+through chinks in the hut's stone walls as it changed direction, then
+changed back.
+
+She lay still, hoping sleep would take her again, but the mug of tea
+she had drunk with dinner had other plans.  Sighing, she swung her
+legs over the side of the of the cot into her boots and laced them
+up.  Neither the prince nor the tiger stirred when she unlatched the
+door and slipped out into the night.
+
+Ulfmaerr was sitting on a stone a few paces away.  "Hello there," he
+said absently, his knitting needles clicking busily in his hands.
+
+"Hi," she yawned.  "What are you making?"
+
+He held up a strip of knitting the length and width of his forearm.
+"A scarf.  Winter will be here soon, you know."
+
+"Mm hm."  She yawned again.  "Who's it for?"
+
+The magician hesitated, a confused expression on his face.  "I... I
+don't know, I suppose it could be for anyone, really."  He stared at
+it.  "Someone who likes white and blue."
+
+*Anna's favorite colors,* Noxy thought.  What she said was, "That's
+nice.  I need to pee.  I'll be right back."
+
+He was still there when she returned, but had stood up to give his
+seat to a large tufted owl.  She stopped, not knowing if she should
+approach.
+
+Ulfmaerr beckoned her forward.  "Here she is," he said to the bird.
+"Um..."
+
+"Noxy," she supplied.
+
+"Exactly.  I'd like to introduce you to Redclaw.  We've been friends
+for years.  Gifted, this is... um... the one I was telling you about,
+the cloudherd."
+
+"Honored," the owl said, bobbing her head.  Noxy bowed her own in
+return.
+
+"Redclaw was just telling me about a conversation she overheard,"
+Ulfmaerr said.  "Gifted, if you please?"
+
+"Of course."  The owl shuffled forward a couple of hopping steps and
+looked around as if to make sure no one was eavesdropping.  "I was
+just waking up, not looking to put my beak in anyone else's affairs,
+when who should I hear below me but some trolls.  Gifted ones, too, at
+least some of them."  She scratched her wing with her beak.
+
+"Go on," the magician said.
+
+"Anyhoot, they were talking about... you know."  She looked from side
+to side again.  "*It.*"
+
+"The forest?" Ulfmaerr supplied helpfully.
+
+The owl nodded.  "Quite.  And about... you know."  She looked around
+once more.  "*Him.*"
+
+"The forest's voice," Ulfmaerr explained to Noxy.  "A troll named
+Linger."
+
+"Precisely," the owl agreed.  "And do you know what they said?  *They*
+said that *Linger* said that his time was almost up.  And you know
+what *that* means."  The owl nodded sagely.
+
+"A new voice?" Ulfmaerr asked.
+
+"A... new... voice!" the owl confirmed, rustling her wings for
+emphasis.  "And then one of the trolls said, have you heard it might
+be a stowaway?  Because *they* heard that Linger sent some *other*
+trolls to watch one, and, well..."  The owl nodded in agreement with
+herself as if that settled the matter.
+
+"What's a stowaway?" Noxy asked.
+
+"A human," Ulfmaerr answered absently, drumming his fingers on his
+crossed arms.  "The forest calls us stowaways.  But go on," he added
+hastily to the owl.  "What else did they say?"
+
+The owl ruffled her feathers again.  "Well, one of the other trolls
+said he didn't know about that, but what he *did* know was that he
+hadn't seen Linger come into the shallows for years---years!---so
+whatever was happening had to be important.  The shallow forest," she
+added impatiently as Noxy opened her mouth to ask.  "As in not deep.
+The voice usually stays in the deep forest---the deep, *deep* forest,
+places where people and metal have never gone.  Coming out here, where
+the trees can barely hear each other, well, it's not usual, I'll say
+that much."
+
+The owl preened her chest with her beak in a quick gesture that in a
+human being might have been a shrug.  "Anyway, that was all."
+
+"And a fine job of listening it was."  Ulfmaerr fished in his pocket
+for a piece of dried pear and set it down on the stone beside her.
+"Here---a little something for the road."
+
+The owl looked up at him skeptically again.  "I'm not going to use the
+road.  I'm going to fly."
+
+"Well then, something for the flight," Ulfmaerr replied, his smile
+stuck in place.
+
+"Hm."  The owl picked up the pear with one claw and winged away into
+the night as silently as a cloud.
+
+"She is quite the character," Ulfmaerr chuckled as he re-seated
+himself.  "Although that's worrying news.  Why would Linger come out
+of the deep?"
+
+"The soldiers?" Noxy hazarded.
+
+Ulfmaerr shook his head.  "The forest doesn't care about that.  The
+forest usually has trouble even noticing anything shorter than a
+season."  His knitting needles click-clacked in time with his
+thoughts.
+
+Noxy shivered.  The night air was cold enough to turn her breath to
+steam.  Even her coat couldn't keep the chill out.  "I'm going to go
+back in."
+
+"What?  Oh, of course."  Ulfmaerr nodded toward the hut.  "Sleep
+well."
+
+"You too," she replied.
+
+Just as she turned to leave, something whooshed over her head.
+"Humans!" a now-familiar voice screeched.  "Honored, there are humans
+in the canyon!"
+
+Ulfmaerr surged to his feet, his needles and yarn still in his hands.
+"Are you sure?"
+
+Redclaw circled steeply and landed back on the stone she had vacated
+just moments before.  "Of course I'm sure," she said crossly.  "They
+were on a cloud.  Some of them were getting off.  They had bows."  She
+gasped.  "Why---what if they had seen me?  I could have been killed!
+Humans don't always ask questions first, you know," she added darkly.
+casting a sidelong glance at Noxy.
+
+"Get the others up and ready to move," Ulfmaerr ordered Noxy.  "If the
+tiger's well enough to walk, we might be able to lose them in the
+forest."
+
+"And if he's not?" Noxy asked, scrambling to keep up with him as he
+hurried back toward the hut.  He didn't answer.

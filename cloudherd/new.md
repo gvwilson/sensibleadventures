@@ -4925,3 +4925,132 @@ forest."
 
 "And if he's not?" Noxy asked, scrambling to keep up with him as he
 hurried back toward the hut.  He didn't answer.
+
+----------------------------------------
+
+## Chapter 12
+
+Noxy roused Pillow with a mind-shout as she followed her father back
+to the hut.  It took a couple of tries to wake her, and Noxy could
+feel how muzzy and exhausted the cloud was.  She thought fleetingly
+that it would have seemed remarkable a few days ago to mind-speak to a
+cloud without touching it.
+
+Kulbinder and Thokmay were both awake.  The young soldier---the young
+*prince*, she reminded herself, and there was something else that
+would have seemed remarkable only yesterday---had thrown on his coat
+and stuffed their few possessions into his knapsack.  The tiger stood
+on three legs, the fourth bent awkwardly so as not to stretch his
+stitches.
+
+"Trouble?" Thokmay asked as Noxy entered.
+
+"Soldiers on cloudback," Ulfmaerr confirmed.  "They'll be here in a
+few minutes."  He glanced at Kulbinder.  "Can you walk?"
+
+"I can carry him," Thokmay said before the tiger could reply.
+
+"I do not need carrying!" Kulbinder snapped.  He took a cautious step,
+then another.  "The most important thing is that you get back to your
+father.  You are not to let me slow you down."
+
+The picked their way down the path to Pillow.  The sun was just
+starting to paint a sharp outline on the peaks of the mountains to the
+east, and ice crystals in the freshly-fallen snow around them
+glistened like handfuls of diamond dust.  Noxy woke Pillow for a
+second time when they reached the edge of the canyon.  The weary cloud
+began to drift toward the edge of the canyon, bunching up so that her
+passengers would be able to climb onto her.
+
+"Honored?" Thokmay asked when Ulfmaerr made no move to join them.
+
+Noxy looked at her father, who had hung back on the path with his
+hands in his pockets.  He looked away after a moment.  "You should
+hurry," he said.
+
+"You're not coming with us?" Noxy asked.
+
+He shrugged.  "Giving shelter to strangers is one thing.  Taking sides
+in their fights is another."
+
+And just like that, the tiny spark of hope that had somehow survived
+in Noxy's heart all those years flickered and went out.  He really
+didn't know who she was.  He never would, and she was a fool for
+thinking that the laws of magic would bend just this one time.  Granna
+Fee had tried to warn her, she realized as bitterness welled up in her
+throat.  All those stories she had read to Noxy about magicians
+realizing too late that they would regret the tragic prices of their
+spells...
+
+She wiped her eyes.  "I understand," she said, her voice betraying
+none of what she felt.  "Thank you for giving us somewhere to rest."
+
+Ulfmaerr sketched a bow.  As he straightened up, his eyes widened.
+"Well, that's unfortunate," he said, pointing over Pillow at the peaks
+on the opposite side of the canyon.  There, not five hundred strides
+away, Big Blue was coming over the shoulder of a mountain.
+
+Noxy's mouth fell open in shock.  Whoever was riding him must have
+flown him through the peaks in the dark.  Recklessly, she closed her
+eyes and reached with her mind.
+
+"It's Yestevan," she said, her shock turning to anger as she mind-felt
+the cloud's exhaustion, and the ache along his flank where he'd
+scraped against a peak in the dark.  "He's been pushing Big Blue all
+night."
+
+"How many soldiers are there?" Kulbinder demanded.
+
+Noxy's brow furrowed.  Clouds didn't really think in numbers.  For a
+moment she saw what the big bull was seeing: the canyon as a strip of
+deeper shadow running through the early morning darkness, the wind as
+translucent ribbons of something that wasn't actually color but was
+close enough that human minds saw it that way, and there, warm and
+familiar, Pillow pulled dense to carry passengers, four sparks of life
+a few strides from her, and---she gasped.  Other sparks were moving
+through the forest around them---lots of others.  They were
+surrounded!
+
+She opened her eyes, but before she could warn her companions, the
+biggest troll Noxy had ever seen swung onto a branch hanging over the
+path between them and Pillow.  A second troll joined it, and another
+and another until the trees were full of their silent forms.
+
+Their silence scared Noxy as much as their presence.  She had seen a
+troop of trolls once from cloudback when she was younger.  Then, they
+had hooted and chattered as they leaped from branch to branch, but now
+they looked down on the three humans and the tiger like a jury waiting
+for a trial to start.
+
+A bush rustled.  A hairy arm pulled it aside.  A troll knuckle-walked
+onto the path and studied each of them in turn.  His fur was silvered
+with age, and his eyes seemed as old as the mountains themselves.  It
+was the troll she had seen the day the soldiers arrived, Noxy
+realized.
+
+"The voice of the forest," Ulfmaerr breathed.  He bowed his head and
+went down on one knee.
+
+Thokmay looked wide-eyed from him to Noxy, who shrugged helplessly.
+The old troll had to be Linger, but she had no idea what he wanted or
+what they were supposed to do.
+
+*Thock!* The moment was broken by the sound of an arrow burying itself
+in the trunk of a tree ten strides away.  Noxy stared at it stupidly
+for a second before Thokmay grabbed her arm and pulled her off the
+path.  A second arrow whistled through the air.
+
+The trolls in the branches exploded into motion like a startled flock
+of scaws, flinging themselves back into the forest.  "They're ranging
+us!" Kulbinder snarled from beneath a bush next to the tree Thokmay
+had dragged Noxy behind.  She was suddenly aware of his arm around
+her.
+
+She wriggled free and looked around wildly.  "Where's my *adda*?"  She
+couldn't see Ulfmaerr, and Linger had vanished as well.
+
+"I don't know," Thokmay said.  "Kulbinder, should we make for the
+cloud?"
+
+The tiger hissed, his tail thrashing.  "Not unless we want to be
+pincushions."

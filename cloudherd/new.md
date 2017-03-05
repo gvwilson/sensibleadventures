@@ -5046,11 +5046,133 @@ us!" Kulbinder snarled from beneath a bush next to the tree Thokmay
 had dragged Noxy behind.  She was suddenly aware of his arm around
 her.
 
-She wriggled free and looked around wildly.  "Where's my *adda*?"  She
-couldn't see Ulfmaerr, and Linger had vanished as well.
+She wriggled free and looked around.  "Where's my *adda*?"  She
+couldn't see Ulfmaerr, and Linger had vanished as well.  She peeked
+around the trunk of the tree she and Thokmay were hiding behind.
 
-"I don't know," Thokmay said.  "Kulbinder, should we make for the
-cloud?"
+*Thock!* The force of the arrow's impact sent shivers through her
+fingers.  "Kulbinder!  Do we try for the cloud?" Thokmay asked.
 
-The tiger hissed, his tail thrashing.  "Not unless we want to be
-pincushions."
+"Not unless we want to be pincushions," the tiger snarled.  "Go deeper
+into the trees.  Remember, if you can see them---"
+
+The tiger never finished his sentence as the forest around them
+erupted with hoots and screams.  A volley of rocks flew toward the
+cloud.  Noxy heard the high keen of a stooping eagle and the startled
+curse of the soldier it attacked, then the twang of bows as the other
+soldiers started firing at whatever they could see.
+
+"Move! Now!" Kulbinder ordered.  Noxy and Thokmay crouched and turned
+to flee---
+
+---and pulled up short.  Linger was standing right behind them, his
+old eyes hard and angry.  "No," he said, his voice as high-pitched as
+a child's.  "We must fly."
+
+"What we *must* is get the honored away to safety!" Kulbinder snapped
+as another arrow sliced the air above them.
+
+"Then away," Linger said calmly.  "But the forest wishes to speak with
+herself."
+
+It took Noxy a heartbeat to realize the troll was pointing at her.
+"What?  No!  We have to go and find the herd!"  She looked from the
+troll to the tiger to the young prince and back.  "We have to tell
+them what's happened in Stale!"
+
+"How about we get away and *then* we argue about where we're going?"
+Thokmay suggested urgently.  He took Noxy's sleeve.  "Keep your head
+down and stay in front of me."
+
+The troll took a step to block their path.  Kulbinder growled low in
+his throat, a warning sound that made the hair stand up on Noxy's
+arms.  Thokmay's hand went to his sword.
+
+"Stop!" Noxy said.  "Just stop, all of you!"  She closed her eyes.
+There---that was Pillow.  She was as scared as Noxy was.  She wanted
+the yelling and shooting to stop.  She wanted to be back in her pen,
+floating in the sun.  She wanted to go *home*.
+
+And there---that was Big Blue, as clear in her mind as the hoots of
+the trolls in her ears and the cold slither of fear in her belly.  She
+couldn't mind-hear Yestevan, and she desperately hoped he couldn't
+mind-hear her, but she could feel him squeezing and shoving Big Blue
+like someone trying to punch a pillow into shape.
+
+Her jaw tightened.  Grappa Gas and Granna Fee had taught her to coax
+clouds into doing things.  Yestevan was bullying Big Blue like a big
+kid shoving a smaller one around.  She felt her fear turning to anger.
+*Up!* she mind-spoke to Pillow.  *Up, straight up, up!*
+
+"Get ready," she said aloud.
+
+"For what?" Thokmay asked.  A heartbeat later, shouts and curses came
+from the soldiers on Big Blue as Pillow bumped into the cloud and sent
+them sprawling.
+
+Noxy smiled fiercely.  "For that.  Come on!"  She sprinted down the
+path toward the edge of the canyon.
+
+Thokmay shouted something behind her, and Kulbinder roared, but she
+didn't care.  The trolls in the trees above her were screaming
+challenges and flinging rocks at the soldiers, but she didn't care.
+An arrow whistled by overhead as one of the soldiers regained his feet
+long enough to get a shot off, but that only made her run faster.
+
+"Aaaaah!" She screamed as she burst out of the trees and charged
+across the last twenty strides of open ground to fling herself over
+the edge of the cliff.  Pillow was right there, right where Noxy knew
+she would be.  *Poof!*  She rolled over onto her feet, mind-shouting
+at the cloud to make a wall, quickly, make a wall to hide her because
+Big Blue was right there just thirty strides away and the soldiers
+were getting back on their feet and Yestevan was shouting and pointing
+at her and that was Sergeant Dorbu, he was there and he was shouting
+too and pointing as Thokmay and Kulbinder came out of the trees.  The
+tiger was limping so badly that he was practically running on three
+legs.  The prince kept pace with him, his sword still in his hand for
+all the good it would do against an arrow.  Linger was behind them,
+and there was Ulfmaerr in the rear.
+
+"Come on!" she shouted.  "Come on!"  Pillow's flank rose to make a
+wall to shield her from the soldiers' view.  It wouldn't stop their
+arrows, but at least they wouldn't be able to see her.  One, two,
+three, four---*Go!* she mind-shouted to the cloud.  *Fly!  As fast as
+you can!*
+
+Pillow pulled away from the cliffside and headed down the canyon.  An
+arrow flew overhead.  Another punched through the foggy wall she had
+made.  Sergeant Dorbu was still yelling, and Yestevan too.  They were
+going too slowly, Noxy realized.  Pillow was still exhausted from the
+previous day's flight.
+
+She reached out to Big Blue with her mind.  If she could get him to
+stop or turn or thin out, but no, Yestevan was pushing the cloud hard,
+practically mind-screaming at him.  He was *hurting* the big old bull!
+
+*Stop!* she mind-shouted, throwing her anger past Big Blue straight at
+Yestevan.  She felt it hit him as if she had clouted him with a bag
+full of moss---no, as if she was the bag.  He recoiled in shock at the
+impossibility of another human being mind-speaking to him directly,
+and for a moment his grip on Big Blue slackened.
+
+*Away!* she mind-spoke to Big Blue.  *Fly away!*  The big cloud didn't
+need to be asked twice.  He slowed, stopped, and began to pull away.
+
+A strong hand gripped her shoulder.  "What did you do?" her father
+demanded.  "Little girl, what in the names of all the saints did you
+do?"
+
+Noxy sagged to her knees.  "I dunno," she mumbled.  Her body felt like
+it was made out of wet rags.  She looked up blearily.  Ulfmaerr and
+Thokmay were both looking down at her, one worried and the other
+wide-eyed.
+
+"Your hair..." Thokmay said.  "Noxy, did you just do magic?"
+
+She glanced down at her shoulder.  Her heart skipped a bit.  Her long
+black braids had turned as white as the snow on the peaks beside them.
+
+"I..."  She looked up at Ulfmaerr.  "I didn't mean to," she whispered.
+
+He squeezed her shoulder again.  "Then be grateful the world didn't
+take any more than that."

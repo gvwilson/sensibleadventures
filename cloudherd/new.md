@@ -5139,11 +5139,11 @@ arrows, but at least they wouldn't be able to see her.  One, two,
 three, four---*Go!* she mind-shouted to the cloud.  *Fly!  As fast as
 you can!*
 
-Pillow pulled away from the cliffside and headed down the canyon.  An
-arrow flew overhead.  Another punched through the foggy wall she had
-made.  Sergeant Dorbu was still yelling, and Yestevan too.  They were
-going too slowly, Noxy realized.  Pillow was still exhausted from the
-previous day's flight.
+Pillow pulled away from the cliffside and headed up Three Springs
+Canyon, away from the pass.  An arrow flew overhead.  Another punched
+through the foggy wall she had made.  Sergeant Dorbu was still
+yelling, and Yestevan too.  They were going too slowly, Noxy realized.
+Pillow was still exhausted from the previous day's flight.
 
 She reached out to Big Blue with her mind.  If she could get him to
 stop or turn or thin out, but no, Yestevan was pushing the cloud hard,
@@ -5155,8 +5155,9 @@ full of moss---no, as if she was the bag.  He recoiled in shock at the
 impossibility of another human being mind-speaking to him directly,
 and for a moment his grip on Big Blue slackened.
 
-*Away!* she mind-spoke to Big Blue.  *Fly away!*  The big cloud didn't
-need to be asked twice.  He slowed, stopped, and began to pull away.
+*Away!* she mind-spoke to Big Blue.  *Fly away!* The big cloud didn't
+need to be asked twice.  He slowed, stopped, and began to pull away
+toward the pass and home.
 
 A strong hand gripped her shoulder.  "What did you do?" her father
 demanded.  "Little girl, what in the names of all the saints did you
@@ -5172,7 +5173,151 @@ wide-eyed.
 She glanced down at her shoulder.  Her heart skipped a bit.  Her long
 black braids had turned as white as the snow on the peaks beside them.
 
-"I..."  She looked up at Ulfmaerr.  "I didn't mean to," she whispered.
+"I..."  She looked up at Ulfmaerr.  "I didn't mean to."
 
 He squeezed her shoulder again.  "Then be grateful the world didn't
 take any more than that."
+
+"But I don't want to be a magician," she said.  "I just want to go
+home."
+
+"That may have to wait." Thokmay pointed down the canyon.  Yestevan
+had regained control of Big Blue and was chasing them.  Only a couple
+of hundred strides separated the two clouds.  Even as Noxy watched,
+the gap narrowed.
+
+She pressed her hand against Pillow's back.  "She can't go any
+faster," she said despairingly.
+
+"No need of faster."  Noxy had almost forgotten Linger was there until
+the troll spoke.
+
+"But they'll catch us!" she protested.
+
+The troll looked at her.  "No.  They will not."
+
+The two clouds raced up the canyon.  Slowly but surely, Big Blue drew
+closer to Pillow.  Eight strides, seventy, sixty...  "Kulbinder!"
+Sergeant Dorbu yelled.  "Kulbinder, Thokmay, please!  We don't want to
+hurt you, but you have to come back with us!"
+
+"Don't answer," the tiger growled.  Thokmay nodded.  Noxy could see
+the hurt on his face.
+
+Sixty strides, fifty... "Please!" Sergeant Dorbu yelled again.  When
+no reply came, he tapped the soldier beside him on the shoulder.  In
+one smooth motion the man raised his bow, drew, and let fly.  The
+arrow arced gracefully and fell short.
+
+"Do you want me to make a wall again?" Noxy asked.
+
+"Yes," Thokmay said.
+
+"No," Kulbinder said at the same moment.  "Better that we see the
+arrows coming in."
+
+Noxy suddenly realized that Pillow was drifting toward one side of the
+canyon.  *Straight,* she said.  The cloud ignored her.  *Fly
+straight,* she repeated, but it was as if the cloud had gone deaf.
+
+Or as if she had gone mute.  Her heart leaped into her throat.  What
+if she had lost her ability to mind-speak completely?  *Pillow?*
+
+*??*  The cloud's mind-voice was as clear as ever.  Noxy sagged.
+
+"What's wrong?" Thokmay asked.
+
+Noxy shook her head.  "I don't know.  I..."  Someone---no, *something*
+was giving Pillow orders.  Something big and ancient.  It was the
+forest.
+
+The canyon bent left ahead of them.  Pillow kept drifting toward that
+wall.  "Hey girl!" Yestevan yelled from behind them.  "What are you
+going to do, scrape us off?"
+
+A sudden chorus of hoots answered him.  "Look!" Thokmay shouted.  The
+lip of the canyon was alive with trolls.  Rocks flew like hail.  The
+archers on Big Blue's back fired back, but this time they were the
+ones fighting gravity.  Their arrows climbed, hesitated, and fell
+short, but the trolls' rocks kept coming.
+
+*Thunk!* Even fifty strides away, Noxy heard the stone that caught the
+lead archer in the chest.  The man toppled backward off Big Blue and
+tumbled to the canyon floor below.
+
+Sergeant Dorbu shouted an order.  Yestevan pulled the cloud toward the
+other wall of the canyon, falling behind and then dropping out of
+sight as Pillow rounded the bend.
+
+"Saints..." Thokmay breathed.  Below them, the canyon dropped away
+into a square valley with nearly vertical sides.  A crystalline lake
+filled the bottom of the valley, its blue surface mirroring the
+morning sky above.  Sharp-edged blocks of stone, some larger than the
+entire fortress of Stale, littered the edges of the lake.
+
+Noxy gazed at it in wonder.  She had heard of places like this where
+ancient caverns had collapsed during the Mutiny to create holes in the
+surface of the world, some large enough to swallow entire kingdoms.
+Some people said that the last of the Pilots lived in those caverns.
+Others said that they were full of treasure or monsters or both.  And
+Pillow was taking them straight into one.
+
+They descended so rapidly that Noxy felt it in the pit of her
+stomach.  The temperature dropped as they fell into shadow.  It took
+her eyes a moment to adjust to the gloom.  Trees sprouted wherever
+they could find purchase in the walls, but most of the stone was bare
+and forbidding.  There were no birds.  The only sound was the wind
+rushing past her ears.
+
+Down, down, down... There!  A dark shadow beneath a slight overhang of
+stone stayed inky-black as they approached.  It was an opening in the
+rock, flat-bottomed and as wide and as tall as the gate at Stale.
+
+"Why does it have to be tunnels?" she muttered as Pillow slowed and
+stopped in front of it.
+
+"Off," Linger ordered, sliding down the flank of the cloud onto the
+stone.  Ulfmaerr followed without question, but the other three held
+back.
+
+"What is this place?" Kulbinder asked.
+
+"The heart of the forest," the troll replied.  "You need not come."
+
+The tiger growled.  "I agree completely."
+
+"No," Thokmay said, putting his hand on Kulbinder's shoulder.  "We
+stay together."
+
+"Honored---"
+
+"No," Thokmay repeated sharply.  He looked at Noxy.  "If she is going,
+so are we."
+
+Noxy swallowed dryly.  The forest was watching them---watching *her*.
+She couldn't mind-hear it, but she could feel it.  And there, in the
+distance, she could feel Big Blue as well.  Yestevan was trying to
+force the big bull into the collapsed valley.  He was resisting, but
+it was only a matter of time.
+
+"Come on," she said.  "Let's get this over with."  Impulsively, she
+leaned forward and gave Pillow a kiss.  *Good cloud,* she mind-said.
+*Good girl.  You go home now.*
+
+*Alone?* the cloud asked plaintively.
+
+*Not alone when you get there,* Noxy promised.  She ran her hand over
+the cloud.  *Go as slow as you want.  No hurry.*
+
+She straightened up, took a deep breath, and slid down Pillow's
+flank.  The stone was as unyielding as fate beneath her boots.
+Thokmay joined her a moment later, turning to help a protesting
+Kulbinder get down.
+
+"I don't suppose anyone has any dayglass?" Noxy asked shakily, looking
+into the cold darkness in front of them.
+
+In answer, Ulfmaerr scooped up a handful of pebbles and muttered over
+them.  The stones began to glow with a warm greenish light.  He poured
+them into Noxy's hands.  "Shall we?" he asked.  Together, they set off
+into the tunnel.

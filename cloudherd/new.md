@@ -5319,5 +5319,66 @@ into the cold darkness in front of them.
 
 In answer, Ulfmaerr scooped up a handful of pebbles and muttered over
 them.  The stones began to glow with a warm greenish light.  He poured
-them into Noxy's hands.  "Shall we?" he asked.  Together, they set off
-into the tunnel.
+a few into Noxy's hands and gave the rest to Thokmay.  "Shall we?" he
+asked.  Together, they set off into the tunnel.
+
+----------------------------------------
+
+## Chapter 13
+
+Noxy expected to feel trapped and breathless like she had beneath the
+fortress wall, but she didn't.  This tunnel was so wide that twenty
+people could have walked side by side, high enough to hold a house,
+and dry where the one at Stale had been damp.  More than that, she
+could feel the forest all around her like ice-fog tingling on her
+skin, or the sound of someone humming in the next room.
+
+The tunnel climbed steadily, a series of gentle ramps interrupted by a
+single step every fifty strides or so.  Noxy gave up trying to keep
+track of how far they had come.  She was happy to not have anyone
+chasing her or shooting at her as long as the stones in her hand kept
+glowing.
+
+"Look," Thokmay said softly, pointing with his free hand.  There, the
+tunnel's smooth wall was interrupted by a half-relief of an uprooted
+tree.  Another, its branches spread wide and covered with leaves,
+filled the wall a few strides further on.
+
+"Do not," Linger said as Thokmay took a step toward the carvings.
+"You might wake them."  When Thokmay hesitated, the troll added, "They
+do not like to be woken."  He knuckle-walked away without waiting for
+an answer.
+
+The tunnel ended shortly after that in a half-circle room the size of
+Stale's main square.  Dozens of carved panels alternated along its
+curved wall with dark openings, human-sized where the passage behind
+them had been made for giants.  Linger chose one without hesitation.
+Noxy paused and took a deep breath, jumping slightly when Thokmay
+touched her arm.
+
+"Here."  He handed her all but one of his glowing rocks.  "It's all
+right," he said as she started to protest.  "My eyes are getting used
+to the dark."
+
+The smaller tunnel rose more steeply, steps interrupted by the
+occasional ramp rather than ramps interrupted by occasional steps.
+After one hundred and seventy one carefully-counted strides, Noxy felt
+cold air brush gentle fingers through her hair.  She took the last few
+dozen steps two at a time and practically flung herself through the
+bright square of daylight at the tunnel's end.
+
+They were back in the forest, but what a forest.  The trees around
+them were true giants, thicker at the ground than her house was wide.
+Their branches wove together overhead to make a canopy so dense that
+everything was in permanent gloom.  Here and there a few small bushes
+found enough light to grow, but the forest floor was strangely empty.
+The duff beneath their feet was spongy with centuries' worth of fallen
+needles.
+
+Linger raised a hand to block Thokmay as the prince stepped away from
+the tunnel.  "No iron in this place," he said, nodding toward the
+prince's sword.
+
+Thokmay unbuckled his belt and set his sword in its scabbard back in
+the tunnel entrance.  "In your house, your rules," he said, bowing to
+the old troll.  In single file, they followed Linger into the trees.

@@ -5367,13 +5367,12 @@ cold air brush gentle fingers through her hair.  She took the last few
 dozen steps two at a time and practically flung herself through the
 bright square of daylight at the tunnel's end.
 
-They were back in the forest, but what a forest.  The trees around
-them were true giants, thicker at the ground than her house was wide.
-Their branches wove together overhead to make a canopy so dense that
-everything was in permanent gloom.  Here and there a few small bushes
-found enough light to grow, but the forest floor was strangely empty.
-The duff beneath their feet was spongy with centuries' worth of fallen
-needles.
+They were back in the forest, but what a forest.  The trees were true
+giants, thicker at the ground than her house was wide.  Their branches
+wove together overhead to make a canopy so dense that everything was
+in permanent gloom.  Here and there a few small bushes found enough
+light to grow, but the forest floor was strangely empty.  The duff
+beneath their feet was spongy with centuries' worth of fallen needles.
 
 Linger raised a hand to block Thokmay as the prince stepped away from
 the tunnel.  "No iron in this place," he said, nodding toward the
@@ -5382,3 +5381,292 @@ prince's sword.
 Thokmay unbuckled his belt and set his sword in its scabbard back in
 the tunnel entrance.  "In your house, your rules," he said, bowing to
 the old troll.  In single file, they followed Linger into the trees.
+
+Noxy had never felt so small, not even when she was ten years old and
+her mother had taken her up to see a herd of wild nimbus fly by.
+Walking among the ancient firs was like being a toddler surrounded by
+giants.  And the stillness of it only made the trees seem bigger.  She
+heard jays call and squirrels chatter, and once something that might
+have been a bear grumbled in the distance, but it all seemed muffled
+by the majesty around them.
+
+The ground rose and fell as they walked.  Small streams, crystal cold,
+burbled their from the snowfields above to the busy world of noise and
+change in the valleys far below.  It took a moment for her to notice
+the standing stones on the ridge above them, uprights and lintels
+covered with centuries of moss.  She nodded toward them.  Thokmay
+nodded back wordlessly.  What was there to say?  She knew somehow that
+very few human beings had ever seen what they were seeing.
+
+They walked for hours, her growing hunger the only guide to how much
+time had passed in the gloom.  Kulbinder finally called a halt.  He
+lay down where they stopped while Ulfmaerr fussed over his wound.
+Noxy and Thokmay took the canteen from his pack and went to fill it
+from a nearby stream.
+
+The house took Noxy completely by surprise.  One moment all she could
+see was the forest stretching away on all sides.  The next moment, a
+house stood on the other side of the stream.
+
+Noxy blinked.  The house was *her* house, the house she and her mother
+shared in Stale, right down to the slightly discolored patch next to
+the door where Rash had thrown an egg at her while she was painting it
+but hit the wall instead.
+
+She started to step forward, but Thokmay caught her arm.  "Wait," he
+said in a low voice.  "There could be sentries in the tower.  Or
+archers."
+
+Noxy blinked.  "What tower?"
+
+Thokmay tightened his grip on her arm.  "*That* tower."  He studied
+the scene with a scowl.  "It looks just like the one outside Panday.
+Look---you see that window?  There's a set-back inside so someone can
+stand watch without being seen from the ground."
+
+Belatedly, the prince realized that Noxy was studying his face instead
+of the window he was pointing at.  "What?"
+
+She looked from him to the house and back.  "Thokmay, I don't see a
+tower.  I see my house."
+
+"You see what you need to see," Linger said from behind them, making
+them both jump.  "Or what the forest needs you to see."
+
+"So it's magic," the prince said flatly.
+
+Linger shook his head.  "No.  This is the forest's doing."  He held
+out a handful of red berries.  "They're not much, but you'll want
+something in your stomach before you go and talk to it.  The forest,"
+he continued when Noxy looked at him blankly.  "That's why we're here.
+The forest wants to talk to you."
+
+There was a moment of silence.  "And the... the tower?  Or house, or
+whatever it is?" Thokmay asked.  Linger shrugged as if the question
+was unimportant.
+
+"And what if *I* don't want to talk to *it*?" Noxy asked quietly in an
+ominous voice that had sent her friends in Stale running for cover
+more than once.
+
+The old troll looked around, then back at Noxy, his gaze saying more
+clearly than words ever could that they'd come this far, and it was
+only by the forest's grace that they would ever make their way home.
+
+"Fine," Noxy muttered.  She splashed through the stream and strode
+toward the house that couldn't possibly actually be hers.
+
+She stopped when she reached the front door and glanced over her
+shoulder.  Her companions seemed to be frozen in place, their
+expressions betraying a mix of curiosity and concern.
+
+Squaring her shoulders, she knocked three times.  No one answered, so
+she pushed the door open and stepped inside.
+
+"Hello dear.  Would you like some tea?"  The old woman sitting at the
+kitchen table wore a yakskin vest over a heavy gray sweater that would
+have passed unremarked in Stale.  Her face was the same dark shade as
+Granna Fee's, and her gray hair twisted into two heavy braids, but her
+eyes were clouded by milky cataracts.
+
+"No thank you," Noxy said.  "Are you---are you the spirit of the
+forest?"
+
+The old woman smiled gently.  "That's rather like asking if you're the
+spirit of you."  She tilted her head to the side in a gesture that
+reminded Noxy of a small bird.  "Which I suppose would be a fair
+question right now, all things considered.  Please, sit down."
+
+Noxy pulled a stool---*her* stool---out from under the table and sat.
+"I'm sorry for all the trouble you had getting here," the old woman
+continued.  "It would have been a lot easier for both of us if we'd
+been able to take this slowly, but events seem to have taken on a life
+of their own, haven't they?"
+
+"I suppose," Noxy said uncertainly.  "What---I'm sorry.  What am I
+doing here, exactly?"
+
+The old woman's smile broadened.  "You're very direct.  I like that."
+She leaned forward, her elbow on the table and her chin on her hand.
+She drummed her fingers on her cheek for a moment, her blind eyes
+drilling into Noxy, then sat back and sighed.
+
+"Well, how to put this?" she mused.  "This is... I suppose you'd call
+it an audition of sorts.  Lingers Hopefully Where Ripe Fruit Has Been
+Found In The Past is getting on a bit---I mean, six hundred and eighty
+winters is a fair run for any sort of primate---so it's high time we
+started training his replacement.  It requires someone with some
+special talents, and the right sort of character.  Are *you* the right
+sort?"  She leaned forward, her eyes bright and curious.
+
+"I... Um, I don't know?"  Noxy shook her head, bewildered.  "What sort
+are you looking for?  And what do you mean, his replacement?"
+
+The old woman nodded.  "Those are good questions.  For the first, I
+need someone who is audacious, curious, unflappable, wickedly
+intelligent, completely trustworthy, has a wonderful sense of humor,
+and obedient.  Obedience is the hard one," she confided, stirring her
+tea with the tip of her little finger and then wiping it on a scrap of
+cloth that Noxy hadn't noticed before.
+
+"And replacement?" Noxy prompted, wondering if this was some sort of
+strange dream.
+
+"No, dear, it's very real.  This," the old woman elaborated, waving
+her tea-damp pinky to take in the cottage and its contents.  "It's as
+real as the end of the world.  Which," she continued, raising her tea
+to her lips but not sipping, "Brings us quite neatly to your second
+question.  My friends and I need this world to keep on sailing, and
+that means occasionally... taking steps."  The distaste she put into
+the last two words made her sound more than a little bit like Granna
+Fee talking about what came out of the back end of Stale's yaks.
+
+Noxy opened her mouth, not sure which of her dozen questions would
+come out first.  Before she could speak, the old woman leaned forward
+again and gently covered Noxy's hand with hers.
+
+*The forest.  On and on, the forest.  It stretched from the northern
+slopes of the Brumoso Mountains in the south to Cape Grind in the
+north, and from the Gulf of Plangentia along the Heladas to Uws.  But
+those were human names.  What Noxy saw/tasted/felt was the soil, dark
+and slightly tangy where thousands of years of fallen wood had turned
+to duff and then rotted into soil.  The tiny trickles of water, too
+small even for squirrels to notice, that joined and joined again to
+become streams and rivers.  The sun, the beasts, the clouds, the
+nameless, shapeless things that stirred occasionally in their sleep in
+caverns deep below the surface.*
+
+*And there, to the south, a jungle.  Loud where the forest was quiet,
+quick where the forest was slow, with a joke or a cruel quip always
+ready, but grieving now, grieving for centuries, half-mad with loss
+and rage and sorrow.*
+
+It was too much, too big for a mind that could fit inside a skull.
+Noxy felt herself falling helplessly.
+
+"Sh, sh, sh," the old woman said, patting Noxy's hand comfortingly.
+"It's all right, we're back.  Are you sure you don't want some tea?"
+
+Noxy drew a shaky breath and wiped at tears she hadn't realized she
+was crying.  "What---what happened?"
+
+"The dragons came," the old woman said.  "The Pilots did what they
+could, but..."  She shook her head sadly.  "Sometimes what you can do
+isn't enough.  And in the end, they did as much harm as the dragons.
+You see, there were three of us once, but now we are only two, and the
+jungle misses him so much."
+
+"I'm sorry," Noxy whispered.
+
+The old woman---no, the forest, Noxy thought dumbly, I'm talking to
+the forest---patted her hand again.  "It's all right, dear.  You can
+get used to anything if you have to.  It's just taking the jungle a
+while, that's all."
+
+Noxy wiped her face again.  "So what do you need me to do?"
+
+The forest sat back in her chair.  "As I said, Lingers Hopefully Where
+Ripe Fruit Has Been Found In The Past isn't getting any younger.  I'm
+sure he'll be all right for another century or so, but that's not
+really very long when you think about it, is it?  And he'd like to
+slow down a bit, too.  Chasing after stray princes, well, it's more a
+young person's sort of thing, wouldn't you say?"
+
+"I guess," Noxy agreed doubtfully.  "So you want me to...?"
+
+The forest spread her hands.  "To be the voice of the forest, dear.
+To be my hands in the world."  Her voice hardened.  "And to remind
+those who wield iron and fire that they are *not* welcome.  I may be
+getting on a bit myself, but I'm not about to start tolerating that
+sort of nonsense."
+
+"So Linger's your, your voice?" Noxy asked.  She felt like she was
+back in the lake, struggling to get her head above water.  "And that's
+why he's six hundred years old?"
+
+"Six hundred and eighty two," the forest nodded.
+
+Noxy stared at her, then shook her head violently.  "No.  No way.  I
+mean, thank you, but no.  I mean, what about my friends, and *anna*?
+I don't want to..."  She laughed shakily.  "I'd be as lonely as the
+jungle if I lived that long."
+
+"Ah ha!" the forest said triumphantly.  "I *knew* you were
+intelligent.  Most of those I interviewee take a lot longer to think
+that part through.  But no," she continued, "You won't be lonely, not
+unless you want to be.  You can trade away missing people for all
+sorts of useful magic.  And anyway, you'll always have me.  And the
+jungle too when it calms down," she added as an afterthought.  "It
+actually has quite a sense of humor, once you get used to it."
+
+Noxy stood up.  "Thank you very much," she said, folding her hands
+together formally the way Granna Fee had taught her, "But I really
+don't think this is what I want."  She bowed, counting to three slowly
+under her breath before straightening up again.
+
+The forest stood.  "Well, I can't say I'm not disappointed, but
+there's plenty of time for you to reconsider.  And speaking of
+time..."  She glanced out a window that wasn't there in Noxy's house,
+and which hadn't been there a moment before.  "I think you should be
+getting back.  Your friends are starting to worry about you."
+
+"Thank you again," Noxy said.  "I'm very flattered."
+
+"As you should be," the forest said, but she smiled as she said it.
+"If you do change your mind, you know where to find me."  As Noxy
+turned to go, the forest added, "Besides, you may find you have less
+choice than you think."
+
+Noxy turned back, wanting to ask what the forest meant, but she wasn't
+in the house any more.  She was on her back with her coat draped over
+her to keep her warm and her father snoring softly on the forest floor
+beside her.
+
+She tried to sit up.  Her arms and legs were strangely heavy, but her
+head felt as light as a cloud.  "Hey."  Thokmay appeared from behind
+her and crouched down to put his hand on her forehead.  "How are you
+feeling?"
+
+"..."  Noxy cleared her throat and tried again.  "What happened?"
+
+Thokmay handed her a canteen full of lukewarm water, concern written
+on his face.  It was night, she realized, or getting there---she could
+barely make out his face.  "You froze.  Sort of," he amended, taking
+the canteen back and swirling it around before swallowing a mouthful
+and settling cross-legged on the forest floor.  "You started to walk
+over to the tower, then you just...stopped.  Ulfmaerr said not to
+worry, but when night came, he thought we ought to---"
+
+"Wait."  Noxy held up her hand.  "How long was I, um, how long has it
+been?"
+
+Thokmay studied her.  "We got here yesterday afternoon.  You stood
+there for an hour or more until Ulfmaerr got you to lie down.  It was
+like you were sleepwalking.  Your eyes were open, but you weren't
+really seeing anything.  Oh, here."  He pulled a small bundle of his
+pocket and unwrapped it to reveal a handful of salmonberries.  "He
+said you'd be hungry when you woke up."
+
+She was, Noxy realized.  In fact, she was ravenous.  She popped two of
+the thumb-sized yellow berries in her mouth, wincing at their
+sourness, and began gobbling the rest.  "'ank you," she said as she
+chewed.  "So what ha'ened 'en?"
+
+Thokmay shrugged.  "Nothing.  Linger disappeared, and Ulfmaerr said we
+just had to wait.  Kulbinder has mostly been sleeping."  The worried
+look on his face deepened.  "He needs a real doctress to take a look
+at his wound."
+
+Noxy swallowed.  "And you stayed here?  Aww---that's sweet."  She
+leaned forward and punched him gently in the shoulder.
+
+"Well, don't get used to it."  He fished a second bundle of berries
+out of his other pocket and passed it to her.  "A cloud flew overhead
+twice today, going upwind.  I think it was one of yours.  If the
+commander is using a finding spell to locate us---"
+
+"---then he'll be very frustrated," Ulfmaerr broke in.  He propped
+himself up on one elbow.  "This is the deep forest.  He'll only see
+what it wants him to see.  Now try to get some sleep---some *real*
+sleep."  He lay back, pillowing his head on his hands.  "I suspect
+we're in for a long day tomorrow."

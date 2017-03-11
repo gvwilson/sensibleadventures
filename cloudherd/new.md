@@ -5664,7 +5664,8 @@ leaned forward and punched him gently in the shoulder.
 "Well, don't get used to it."  He fished a second bundle of berries
 out of his other pocket and passed it to her.  "A cloud flew overhead
 twice today, going upwind.  I think it was one of yours.  If the
-commander is using a finding spell to locate us---"
+commander is on it---and if he's using a finding spell to locate
+us---"
 
 "---then he'll be very frustrated," Ulfmaerr broke in.  He propped
 himself up on one elbow.  "This is the deep forest.  He'll only see
@@ -5676,38 +5677,66 @@ we're in for a long day tomorrow."
 
 ## Chapter 14
 
-<!-- FIXME: tomorrow starts at dawn with soldiers hunting them -->
-<!-- FIXME: they're smart - no iron -->
+"Noxy!  Wake up!"  Why was someone shaking her?  She pushed the hand
+away and rolled over.
 
-So they fled once again.  Later, Noxy would barely remember it.  She
-must have stumbled---how else could she have gotten so much dirt on
-her hands and knees---and a branch must have caught her in the face to
-leave the scratch that took two weeks to heal, but it all blurred
-together into one long waking nightmare.
+"Noxy, you have to get up!  The soldiers are coming!"  She sat up
+abruptly and wiped the crust from her eyes.  Thokmay was standing over
+her, his knapsack already on.
 
-The narrow deer track they were following climbed a hill.  Noxy had to
-grab a tree when she reached the top to stop herself from tumbling
-into a smaller version of the great sinkhole they had seen the day
-before that was still ten stories deep.  "Look out!" she warned
-Thokmay, putting out her arm to stop him.  The hole was almost square,
-its edges covered in bushes where the soil was too thin to anchor the
-roots of trees.
+"Wha?" she managed to get out.
+
+"Linger says there are soldiers coming," he repeated impatiently.  "We
+have to get away before they find us."
+
+She pulled herself to her feet, brushing ineffectually at the twigs
+and pine needles in her hair.  Her mouth tasted like a hamster had
+been using it as a privy.  She pointed at Thokmay's canteen.
+
+"How can they be in the forest?" she asked after rinsing her mouth,
+spitting, and taking a long swallow.
+
+"No iron."  She spun around, nearly dropping the canteen in surprise
+as Linger swung down from a branch behind her.  "And no fire.  The
+forest has a hard time seeing them when all they have is wood and
+stone and leather."
+
+"And magic," Ulfmaerr added, rebuttoning his trousers as he stepped
+out from behind a handy nearby bush.  "Powerful magic.  The commander
+must have traded something big to see through the forest."
+
+A horn sounded in the distance.  Another answered.  Kulbinder's ears
+went back.  "I say we stand and fight," he snarled.  "We are not mice
+to be hunted by the likes of these."
+
+"We are today," Thokmay said grimly.  "We run."
+
+"But honored---"
+
+"We run," the prince repeated flatly.  He and the tiger locked eyes.
+The tiger blinked first.
+
+So they ran.  Later, Noxy could barely remember it.  She must have
+stumbled---how else could she have gotten so much dirt on her hands
+and knees---and a branch must have caught her in the face to leave the
+deep scratch that took weeks to heal, but it all blurred together.
+
+The narrow track Linger led them along ended abruptly at a smaller
+version of the great sinkhole they had seen the day before.  "Look
+out!" she warned Thokmay, putting out her arm to stop him from
+tumbling over the edge.  The hole was almost square, its edges covered
+in bushes where the soil was too thin for tree roots to anchor.
 
 Thokmay kicked a small rock.  A few heartbeats later, they heard a
-*sploosh* as it reached the dark pool at the bottom of the sinkhole.
-"Well, I guess we're not going that way," he panted.
+*sploosh* as it reached the dark pool ten stories below.  "Well, I
+guess we're not going that way," he panted.
 
 Ulfmaerr peered over his shoulder.  "Best not," he agreed.  He was
 breathing hard too, and his beard was matted with sweat.  Leaning
-against a tree, he unslung his canteen, raised it to his lips, then
-hesitated.
+against a tree, he unslung his canteen and raised it to his lips.
 
-"Here," he said, passing it to the prince.  "You two finish it.  No,
-please."  He waved away the prince's protest and pointed across the
-sinkhole.  "We'll go around to that stream and refill it."
-
-The silence that followed was broken by an all-too-familiar horn
-blowing in the distance.  Noxy felt a twinge in the back of her head.
+The exhausted silence was broken by an all-too-familiar horn blowing
+in the distance.  Noxy felt a twinge in the back of her head.
 "Pillow's back," she said, waving her hand vaguely to indicate a
 direction as if it still mattered.
 
@@ -5827,7 +5856,7 @@ Kulbinder froze.  "Quiet," he hissed.
 
 "I was only saying that---"
 
-"Quiet!"  The tiger's tail twitched.  "It's the rangers."
+"Quiet!"  The tiger's tail twitched.  "It's the soldiers."
 
 Noxy stared into the forest, but saw nothing.  "I thought they would
 know about the squirrels."
@@ -6000,11 +6029,9 @@ ready!" she told the others.
 
 And there he was, clenched tight like a fist to fit into the gap in
 the trees above the sinkhole.  She took one step toward him and
-stopped at fresh shouts from the rangers closing in below.
+stopped at fresh shouts from the soldiers closing in below.
 
-"We have to save them!" Thokmay shouted.
-
-"No!" Kulbinder snarled.  "Get to the cloud!"
+"Get to the cloud!" Kulbinder snarled.
 
 Noxy didn't wait any longer.  She gathered her legs underneath her and
 threw herself into the air.  One heartbeat, two---*poof!* Ulfmaerr
@@ -6023,3 +6050,160 @@ and let him help her to her feet.
 
 "I'm fine," she said.  She had a cloud of her own, she realized.  Rash
 and Sensy were going to be so jealous.
+
+Clouds...  She shaded her eyes with her hand.  "Rot," she cursed.
+There, up high to hide in the sun, was Big Blue.
+
+"Stop digging your claws into my cloud!" Noxy told the tiger sharply.
+She could mind-hear the bull's rising panic.  No one had ever ridden
+him before, and having the tiger knead him like an old scrap of carpet
+wasn't helping anything.
+
+"What now?" Thokmay asked quietly.
+
+Noxy squinted at the approaching cloud.  "Run as fast as we can," she
+said bitterly.  "Again."
+
+"We can't run forever," Thokmay said to her quietly.
+
+She nodded but didn't reply.  What was there to say?  Yestevan wasn't
+holding back, and Big Blue was a lot bigger than the young cloud they
+were one.  She would do her best, but it wasn't going to be a long
+race.
+
+*Go fast.*  It took her a moment to realize the thought wasn't hers,
+but the cloud's.
+
+*I know you will,* she mind-spoke back as comfortingly as she could.
+*But---*
+
+*Go fast,* the cloud insisted.  *Show you.*
+
+The sudden jolt almost knocked her off her feet.  Thokmay stumbled,
+and Ulfmaerr fell clumsily onto one knee.  "What in the names of the
+saints?"
+
+What had been a gentle breeze a few heartbeats ago was suddenly strong
+enough to lift stray strands of hair off Noxy's shoulders.  She held
+out a hand flat and tilted it back and forth to test the speed of the
+wind.  Her eyes widened.  *How long can you keep this up?* she
+mind-asked.
+
+*Go fast all day,* the cloud replied proudly.
+
+*Go faster?* Noxy asked recklessly.  *Go faster all the way to the
+mountains?*
+
+The cloud's answer was another burst of speed.  Noxy whooped.
+
+"What's wrong?" Thokmay asked.
+
+"Nothing!" she said.  She spun to look at the cloud chasing them.  Big
+Blue's flanks rippled with effort, but he was already falling behind.
+She whooped again and hugged Thokmay before she realized what she was
+doing.
+
+"Uh..."  He hugged her back a little awkwardly.  "Thanks?"
+
+She was suddenly aware that everyone was looking at her.  She let go
+of him and stepped back, hugging her arms around herself as if cold.
+"He's a real peaks runner," she said self-consciously to no one in
+particular.  "The cloud, I mean.  Most of the ones we herd graze on
+the lower slopes, because it's easier to get to them and they can
+carry more water, but he must have been part of a herd from further
+east, or maybe west, the mountains are higher in both directions, and
+anyway, we don't go up that high because they don't rain as well but
+they're a lot faster and..."  She shrugged, suddenly feeling warmer
+and unable to meet anyone's eyes---especially Thokmay's.
+
+The young bull hadn't been lying.  He seemed to have been born to
+gallop.  Yestevan, Big Blue, and the soldiers fell further and further
+behind.  Noxy had to keep reminding him to stay bunched up so that
+they wouldn't fall through, but he could mind-hear her exhiliration,
+and it seemed to spur him on.
+
+The forest swept by beneath them like flotsam.  Nameless little rivers
+split and split again as they approached the mountains.  Noxy knew she
+wasn't the first cloudherd to see them---people took shortcuts over
+the Herd of Trees all the time---but there were no fields, no roads,
+no twists of smoke rising from chimneys.  This wasn't the deep forest,
+but it was still not somewhere for human beings, and if she closed her
+eyes and let go even a little, she could feel its slow attention.
+
+After a while, Ulfmaerr stretched out with his satchel for a pillow
+and began to snore.  Kulbinder settled a couple of strides away.
+Thokmay came over to join her near the front of the cloud.  "So what
+happens now?" he asked.
+
+Noxy stared at the mountains.  "I wonder if this is why my *anna* runs
+things," she said as Thokmay opened his mouth to repeat his question.
+"I mean, did people just start asking her, what do we do now, and she
+didn't want to disappoint them by saying, how would I know, and---why
+are you laughing at me?"
+
+"I wasn't laughing," Thokmay protested, a grin still on his face.
+"Well, not *at* you.  I just---it's funny.  I mean, not you," he added
+hastily as Noxy's brows gathered menacingly.  "I mean this.  I'm
+supposed to be king one day.  I can't count how many teachers I've had
+trying to get me ready for that.  Law and strategy and fencing and
+dancing and---"
+
+"Dancing?  Kings have to know how to dance?"
+
+"Absolutely."  Thokmay nodded solemnly.  "It's a very important part
+of diplomacy.  Right up there with dissimulation, which as far as I
+can tell means how to tell lies with a straight face when you're so
+important that people won't actually say you're lying.  My brother and
+I had to practice on each other for hours last summer.  He was a lot
+better at it than me."
+
+"You made that up," Noxy accused.
+
+"I'm serious!" Thokmay protested.  "He was gallops better than me."
+
+Noxy rolled her eyes.  "You don't really have classes in lying."
+
+"Absolutely.  Lying and bluffing.  He's better at that, too.  He won't
+even bother playing skulls and roses with me any more."
+
+Noxy shook her head.  "You're a little strange, you know that?"
+
+"Says the girl who can talk to clouds from gallops away," Thokmay
+observed pointedly.
+
+Noxy's smile died.  "I didn't ask for that part."
+
+Thokmay nodded again.  "I know what you mean.  I didn't ask to be a
+prince.  I wanted to be---"
+
+"---a doctress," Noxy finished for him.  "I remember."
+
+Thokmay shrugged.  "Or a bookster.  Or maybe a storysmith.  There was
+one in the market in Panday on Yellowsdays and Bluesdays.  She looked
+like she was a hundred years old, and if you paid half a shell she'd
+put anything you wanted in her story for that day.  I used to ask for
+ribbons.  They reminded me of my sister."
+
+He looked at the distant mountains.  "She's older than me, but she
+thinks and talks like a six-year-old.  All sorts of doctresses and
+magicians have looked at her, and they say it just happens sometimes."
+He shrugged.  "Kind of the opposite of being Gifted like Kulbinder."
+
+"I'm sorry," Noxy said awkwardly.
+
+"It's all right.  She's pretty happy most of the time."  A half-smile
+flitted across his face.  "Especially if someone will play dolls with
+her."
+
+They flew in companionable silence after that.  The air was cold and
+Noxy was tired, but she'd had lots of practice staying awake on
+cloudback.  She and Rash and Sensy had gone down to the cloud pen
+three nights in a row the summer before.  There, under the watchful
+eye of Grappa Gas, they had pretended to stand watch on Big Blue and
+Pillow for hours at a time.  "You can close your eyes if you want to,"
+the old man tempted them.  "Just for a moment."  Rash had, once, and
+Sensy and Noxy promised to never let him forget it.  She wondered what
+they were doing right then.  She wondered if everyone in Stale was all
+right, and what Thokmay was thinking about, and how much longer the
+cloud could keep flying this fast.  He needed a name, she realized,
+patting him fondly.  And they needed a plan.

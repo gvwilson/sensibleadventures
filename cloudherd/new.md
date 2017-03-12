@@ -5841,7 +5841,7 @@ trees since she was old enough to walk, but never when she was quite
 so exhausted and hungry.  Ulfmaerr finally had to give her a boost to
 get her up to the first branch.
 
-A light breeze blew through the tops of the trees.  Irvings and
+A light breeze blew through the tops of the trees.  Juncos and
 beecatchers chirped at each other as they darted through the branches
 chasing insects.  The two squirrels who had been watching them kept
 pace as they climbed, disappearing momentarily among the branches only
@@ -6206,13 +6206,82 @@ Sensy and Noxy promised to never let him forget it.  She wondered what
 they were doing right then.  She wondered if everyone in Stale was all
 right, and what Thokmay was thinking about, and how much longer the
 cloud could keep flying this fast.  He needed a name, she realized,
-patting him fondly.  And they needed a plan.
+patting him absently.
+
+*Charger.*
+
+She blinked at the young bull's mind-voice in her head.  *What?*
+
+*My name.*  It was less than a statement but more than a question.
+*Charger.*
+
+Noxy nodded.  *All right.  Charger.*  She patted the cloud again.
 
 ----------------------------------------
 
 ## Chapter 15
 
-<!-- FIXME: glue together -->
+The day melted into afternoon as they flew on.  The sun's hard yellow
+disk cast sharp-edged shadows, but no warmth.  Noxy's toes ached, then
+burned, then lost all sensation.  Thokmay suffered in silence beside
+her, his hands pulled up into the sleeves of his jacket and his knees
+pulled up against his chest.  He turned his head once to watch a V of
+birds fly by in the distance, but could otherwise have been a statue.
+
+Eventually Noxy stirred.  "There," she said, jerking her chin toward a
+distant peak.  "That's the Bentfather.  The herd takes pasture in the
+valleys on the other side.  They have to go by it on their way back to
+Stale, so we can start looking for them there."
+
+"And if th-they're already g-gone?" Thokmay shivered.  Noxy shrugged
+instead of answering.
+
+They reached the mountain an hour later.  A handful of huts like
+Ulfmaerr's dotted its lower slopes.  Wisps of smoke rose from their
+chimneys, and with them, Noxy's hopes.  She walked to Charger's
+leading edge and scanned the sky.  There!  And there, and there!
+Dozens of clouds floated in the little corries around them, almost
+hidden against the snowfields below.  They were only a small part of
+the village's entire herd, but Noxy was suddenly bursting with
+impatience to speak to their riders.  They would know what to do, and
+then she could rest.
+
+Charger slowed as they approached, his natural brashness tempered by
+the sight of so many older and larger clouds.  First one and then
+another turned toward the newcomer, edging instinctively in front of
+their smaller calves.  *Friends,* Noxy mind-spoke, but all she
+mind-heard in return was a jumble.  There were too many clouds, all of
+them strange to her.
+
+Charger set them down a hundred strides away from the huts and
+immediately took off again to put some unthreatening distance between
+himself and the herd.  Noxy hurried up the mountainside, cursing
+impatiently whenever she had to flounder through a knee-deep
+snowdrift.  "Hello!" she called out.  "Hello Stale!"
+
+A door opened.  "Noxy?  What are you doing here?"  Wheezing's familiar
+voice almost made Noxy cry.  She ran the last few steps and threw her
+arms around him.
+
+"Whoa, whoa, whoa" he said, patting her back awkwardly.  She felt him
+stiffen as he caught sight of the prince, the tiger, and her father.
+"What's all this?"
+
+She pulled back and took a deep breath.  "It's a long story," she said
+shakily.
+
+The huts were only built to hold three or four people, and only for a
+night or two at a time, but Stale's cloudherds had already filled the
+firepit behind them with brush for the evening meal.  Noxy talked
+while Sensy's mother and father lit it and coaxed its first little
+flames into a proper bonfire.  At first people asked questions, but as
+she went on they fell silent, shocked, worried, and angry in varying
+measures.  She didn't mention her newfound abilities, or her
+conversation with the forest---it was clear from the looks they gave
+Thokmay and Kulbinder that they found her story hard enough to believe
+as it was.
+
+<!-- Yestevan and Dorbu -->
 
 Noxy and Thokmay walked slowly up the potholed mountain track to the
 bridge. The forest smelled cool and moist around them. Juncos and
@@ -6231,7 +6300,7 @@ Kulbinder if he likes having a tail."
 
 "Do you like being able to do magic?"
 
-"I'm not a magician," Noxy said defensively.
+"I'm not a magician," Noxy said defensively.  "Not really."
 
 Thokmay patted the air with his hands.  "Whatever you want to call it.
 Talking to clouds with your mind looks a lot like magic to me."

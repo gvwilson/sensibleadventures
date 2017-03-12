@@ -2,6 +2,10 @@
 
 NEEDED
 
+*   early on, Thokmay says that Kulbinder tells him what to do
+    *   later, Kulbinder says he does what the prince tells him
+    *   character development of a kind
+*   goggles
 *   clouds have a hard time carrying things they can't sense
     *   like bodies
 *   give Yestevan a real name

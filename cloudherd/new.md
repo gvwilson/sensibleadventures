@@ -6280,7 +6280,7 @@ the flight we had.  Straight up over the mountain.  Just about froze
 us, didn't it, boys?"  His smile slipped slightly when none of them
 answered.
 
-"How did you know where we'd be?" Noxy asked in a small voice.
+"How did you know where we'd be?" Noxy asked wearily.
 
 "We didn't."  Noxy's heart sank even lower as Sergeant Dorbu
 shouldered past Yestevan to join his men.  His battle mask was up, and
@@ -6291,10 +6291,15 @@ one closest to you, so..."  He spread his hands.
 "And what exactly did your precious commander have to do to him to get
 him to talk?" Kulbinder demanded.
 
-Sergeant Dorbu looked at Noxy.  "He wouldn't have had to do anything
-if you all hadn't run away," he said in a level voice.  "None of this
-had to happen.  None of *this* has to either."  He gestured at the
-archer beside him.  "Please, just come back with us."
+Sergeant Dorbu looked away.  "I'm sorry," he said.  "We did all we
+could, I swear, but..."
+
+Noxy's heart skipped a beat as the sergeant's words sunk in.
+"Grappa?" she said in a small voice.
+
+Sergeant Dorbu looked at her, pain in his eyes.  "None of this had to
+happen.  None of *this* has to either."  He gestured at the archer
+beside him.  "Please, just come back with us."
 
 Thokmay's boots crunched on the stones beneath them as he stepped
 forward to stand beside Noxy.  He put his hand on her shoulder.
@@ -6306,7 +6311,7 @@ turn.  Raising his right hand, he slowly unbuckled his belt and let
 his sword and scabbard clatter to the ground.
 
 "Well now---" Yestevan began.  Sergeant Dorbu held up a hand to stop
-him without turning his head.  The rogue cloudherd scowled, but bit
+him without turning his head.  The shunned cloudherd scowled, but bit
 back whatever he had been about to say.
 
 "On the bright side," Ulfmaerr said half an hour later, "At least
@@ -6338,6 +6343,73 @@ Yestevan laughed derisively.  "Concentrating?  On what?"
 Noxy stood.  "Not who.  What."  She looked at the mountain peak behind
 the huts, then back at Yestevan, a cold smile on her face.  "And for
 the record, I am *nothing* like you."
+
+Charger didn't make a sound as he scraped against the peak behind and
+above the huts.  But then came a sound that every mountain dweller
+knew and feared, the swishing distant thunder of snow slipping and
+sliding.  *Good?* the young cloud mind-asked.
+
+Yestevan leaped to his feet with a curse.  The soldiers stood, not
+sure where to look until Yestevan yelled, "Avalanche!"
+
+*Good,* Noxy mind-said firmly.  She grabbed Thokmay's sleeve and
+pulled him with her as she ran down the mountain.  "Come on!"
+
+A single arrow flew past them in time with Sergeant Dorbu's shouted,
+"No!" and then Noxy tripped and fell, rolling and sliding down the
+steep path.  Thokmay dove forward and caught her pant leg.  They
+skidded to a stop.  Noxy scrambled to her feet.  "Keep moving!" she
+shouted above the rising thunder.
+
+It was too late.  A wave of snow poured down over the huts and
+soldiers.  The huts had been built to survive avalanches, their uphill
+sides pointed likes the prows of boats, but the soldiers had not.  A
+lucky few were close enough to the huts to take cover, but the rest
+were swept off their feet, as helpless as twigs in a raging river.
+
+"Like this!" Noxy shouted at Thokmay, crouching down and covering her
+head with her arms, knowing that it wouldn't be enough to make a
+difference.
+
+But she had forgotten about her father.  He planted his feet on the
+path a few strides above her, facing the avalanche, and raised one
+hand.  The onrushing snow parted and roared past on their side of
+them.
+
+A bedraggled figure burst out of the snow.  With a roar of incoherent
+rage, Yestevan tackled Ulfmaerr.  As the two men went down in a heap,
+Ulfmaerr's spell broke and the last wave of snow swept over them all.
+
+Noxy had just a moment to cover her face before the freezing white
+wave engulfed her.  Its greatest force was spent, but it was still
+strong enough to knock her backward.  She pushed herself upward,
+clawing at the snow to clear space so that she could breathe.  People
+drowned in avalanches, just like they drowned in water.  She had to
+get above it.  She had to---
+
+"Hwaaah!" she gasped as her head broke through.  The snow had stopped
+sliding.  She wriggled and struggled to get one arm free, then the
+other.
+
+Snow flew in the air as Thokmay and Kulbinder clawed their way free a
+few strides further downhill.  "Noxy!  Are you all right?" the prince
+shouted.
+
+"I'm fine!  *Adda!*  *Adda*, where are you?" Noxy shouted.
+
+She heard a muffled shout from further up the mountain.  "*Adda!*" She
+floundered through the chest-deep powder, scooping it aside with her
+hands.  There!  She dug into the snow, grabbed a clutching hand, and
+pulled as hard as she could.
+
+"Thokmay!  Help me!"  She wasn't strong enough to pull her father
+free.  "Please!"
+
+"I've got you!"  Somehow the prince had pushed his way through the
+snow to join her.  He grabbed her around the waist.  "Heave!"
+
+Nothing, nothing---she tried to pull her arm free as Yestevan's head
+broke out of the snow, but his grip was like iron.
 
 <!-- HERE -->
 

@@ -6256,32 +6256,90 @@ them strange to her.
 Charger set them down a hundred strides away from the huts and
 immediately took off again to put some unthreatening distance between
 himself and the herd.  Noxy hurried up the mountainside, cursing
-impatiently whenever she had to flounder through a knee-deep
-snowdrift.  "Hello!" she called out.  "Hello Stale!"
+whenever she had to flounder through a knee-deep snowdrift.  "Hello!"
+she called out.  "Hello the huts!"
 
-A door opened.  "Noxy?  What are you doing here?"  Wheezing's familiar
-voice almost made Noxy cry.  She ran the last few steps and threw her
-arms around him.
+The door of the nearest hut opened.  An all-too-familiar voice said,
+"Boo!"
 
-"Whoa, whoa, whoa" he said, patting her back awkwardly.  She felt him
-stiffen as he caught sight of the prince, the tiger, and her father.
-"What's all this?"
+Noxy stopped dead.  It was Yestevan.  He leered at her, leaning
+against the door frame.  "Fancy meeting you here," he said.
 
-She pulled back and took a deep breath.  "It's a long story," she said
-shakily.
+More doors opened.  The soldiers who had been hunting them stepped out
+onto the mountainside.  Four held bows, arrows notched and aimed.  The
+rest had swords in their hands.  They spread out to form a semi-circle
+around the new arrivals.
 
-The huts were only built to hold three or four people, and only for a
-night or two at a time, but Stale's cloudherds had already filled the
-firepit behind them with brush for the evening meal.  Noxy talked
-while Sensy's mother and father lit it and coaxed its first little
-flames into a proper bonfire.  At first people asked questions, but as
-she went on they fell silent, shocked, worried, and angry in varying
-measures.  She didn't mention her newfound abilities, or her
-conversation with the forest---it was clear from the looks they gave
-Thokmay and Kulbinder that they found her story hard enough to believe
-as it was.
+Kulbinder snarled, hunkering down.  "No!" Thokmay said sharply.
 
-<!-- Yestevan and Dorbu -->
+"You should listen to him," Yestevan said, nodding sagely.  "Save you
+from being turned into a rug."  He worked a scrap of something out
+from between two of his back teeth, eyed it appraisingly, and then
+flicked it onto the ground.  "Though I could use a nice warm rug after
+the flight we had.  Straight up over the mountain.  Just about froze
+us, didn't it, boys?"  His smile slipped slightly when none of them
+answered.
+
+"How did you know where we'd be?" Noxy asked in a small voice.
+
+"We didn't."  Noxy's heart sank even lower as Sergeant Dorbu
+shouldered past Yestevan to join his men.  His battle mask was up, and
+his sword was in its sheath.  "Grappa Gas told the commander what
+route the herd would take coming home.  This is the last stop, and the
+one closest to you, so..."  He spread his hands.
+
+"And what exactly did your precious commander have to do to him to get
+him to talk?" Kulbinder demanded.
+
+Sergeant Dorbu looked at Noxy.  "He wouldn't have had to do anything
+if you all hadn't run away," he said in a level voice.  "None of this
+had to happen.  None of *this* has to either."  He gestured at the
+archer beside him.  "Please, just come back with us."
+
+Thokmay's boots crunched on the stones beneath them as he stepped
+forward to stand beside Noxy.  He put his hand on her shoulder.
+"There's nothing we can do," he said quietly.
+
+Noxy nodded and wiped her eyes with her sleeve.  The prince looked
+over his shoulder at Kulbinder, then at Ulfmaerr, nodding to each in
+turn.  Raising his right hand, he slowly unbuckled his belt and let
+his sword and scabbard clatter to the ground.
+
+"Well now---" Yestevan began.  Sergeant Dorbu held up a hand to stop
+him without turning his head.  The rogue cloudherd scowled, but bit
+back whatever he had been about to say.
+
+"On the bright side," Ulfmaerr said half an hour later, "At least
+we're not freezing any more."  The soldiers had built a fire in the
+pit that the huts were clustered around.  A pot of something that
+smelled an awful lot like dinner burbled away above it, making Noxy's
+stomach rumble.  She stared into the distance, warming her hands on
+the tin cup of tea the soldiers had given her and just grunting every
+time her father or the prince tried to make conversation.
+
+She didn't stir until Yestevan sat down opposite her.  "Quite the
+cloud you were riding," he said.  "Who caught it for you?"
+
+Noxy took a slow sip of her tea, but didn't answer.  Yestevan sighed
+theatrically.  "All right, I get it.  You think I'm lower than barrel
+scrapings.  But here's the thing."  He leaned forward, the humor
+dropping from his face.  "You're just like me.  You'd do whatever you
+had to if it meant you could get back up on a cloud again.  All their
+rules, all their laws---you'd throw 'em all over the side, just like
+that."  He slapped his thigh.  "So don't you be putting on airs like
+you're better than me."
+
+"I wasn't putting on airs," Noxy said, dumping her tea on on the fire
+and carefully setting her cup on the stones at her feet.  "I was
+concentrating."
+
+Yestevan laughed derisively.  "Concentrating?  On what?"
+
+Noxy stood.  "Not who.  What."  She looked at the mountain peak behind
+the huts, then back at Yestevan, a cold smile on her face.  "And for
+the record, I am *nothing* like you."
+
+<!-- HERE -->
 
 Noxy and Thokmay walked slowly up the potholed mountain track to the
 bridge. The forest smelled cool and moist around them. Juncos and
@@ -6399,6 +6457,10 @@ Suddenly Kulbinder stiffened and hissed, "What is that?"
 
 Ulfmaerr took a deep breath. "They're not drums.  This is the Valley
 of Lightnings."
+
+----------------------------------------
+
+## Chapter 16
 
 Noxy gasped. "The what?" Thokmay asked.
 
@@ -6562,10 +6624,6 @@ again. "Have we a bargain?"
 
 There was another pause. It stretched until Noxy thought she would
 scream. Finally the lightnings spoke. *DONE.  WHAT WHERE WHEN HOW?*
-
-----------------------------------------
-
-## Chapter 16
 
 Charger was the only cloud in the sky as they flew toward Stale.  The
 soldiers on the walls had seen them, of course---a single cloud

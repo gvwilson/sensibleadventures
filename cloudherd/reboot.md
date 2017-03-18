@@ -2,17 +2,16 @@
 
 NEEDED
 
+*   need to introduce the lightnings earlier
 *   early on, Thokmay says that Kulbinder tells him what to do
     *   later, Kulbinder says he does what the prince tells him
     *   character development of a kind
-*   goggles
+*   cloudherds wear goggles
 *   clouds have a hard time carrying things they can't sense
     *   like bodies
 *   give Yestevan a real name
     *   "Nobody cares if a dragon eats him."
 *   whistle language among cloudherds
-*   Dorbu is religious
-    *   use the word *sadhu* a couple of times: there's religion in the world
 *   add little observations about the people and setting
 *   lots more animals in the village (chickens, etc.) but none Gifted
     *   casual prejudice against Gifted (Rash says something)
@@ -20,9 +19,7 @@ NEEDED
 *   "As dead as a dog".
 *   Grappa Gas's wooden leg sprouts new buds in the spring
 *   the pen net doesn't go to the ground - it's mostly there to stop the clouds drifting out while they're asleep
-*   Dorbu is shocked by the revelation that Bonzon is there to take control of clouds
 *   use the condors somehow
-*   refer to children as 'kits' rather than 'kids'
 *   fig juice to curdle milk for making cheese
 *   sausages
     *   Noxy and her friends have never encountered sausages before
@@ -35,7 +32,6 @@ NEEDED
     *   She tells her stories to Noxy...
 *   "You're running around like a cat with a sock on its head."
 *   It's cold---but at least it's a dry cold.
-*   Ducklings tumbling down an Arctic cliff: a few are injured, but that's OK, because it distracts the foxes from the ones that aren't.
 *   Nosewax
 
 ## Chapter 1. Soldiers!

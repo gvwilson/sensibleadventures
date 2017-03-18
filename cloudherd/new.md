@@ -6408,10 +6408,97 @@ free.  "Please!"
 "I've got you!"  Somehow the prince had pushed his way through the
 snow to join her.  He grabbed her around the waist.  "Heave!"
 
-Nothing, nothing---she tried to pull her arm free as Yestevan's head
-broke out of the snow, but his grip was like iron.
+Nothing, nothing---Yestevan's head burst free of the snow.  "Gotcha!"
+he shouted in triumph.  Noxy tried to pull her arm free, but his grip
+was like iron.  He yanked her forward as a counterweight to pull
+himself upright, spun her around, and clamped his arm around her.
 
-<!-- HERE -->
+"Back away!" he snarled at the prince and Kulbinder, raising a knife
+to Noxy's throat.  "Now!"
+
+The tiger crouched low, his tail snapping furiously.  Thokmay raised
+his hands.  "Easy there," he said, as if calming a startled horse.
+
+Yestevan dragged Noxy back one step, then two.  "Sergeant!" he
+shouted.  "Sergeant, I got 'em!"
+
+Noxy's heart pounded in her chest.  The knife's blade felt like a thin
+line of ice under her chin.  The prince patted the air, repeating,
+"Easy, easy," over and over again, taking a cautious step forward each
+time Yestevan stepped back.
+
+"Fwah!"  A mound of snow ten strides away collapsed in on itself as
+Ulfmaerr struggled free of it.  He took in the scene with a glance.
+
+"No!" Yestevan snarled as the magician raised his arm.  "One word
+outta you, and I'll do it!  I swear I will!"
+
+Step, step... The snow dragged at Noxy's legs.  Each time she
+stumbled, she thought it would be her last.  She could smell the *rak*
+on Yestevan's breath and the woodsmoke on his clothes.  She didn't
+want to die, not like this, not now.  "Please," she whispered, not
+knowing who she spoke to.
+
+"Noxy!  Noxy, look at me!"  She opened her eyes.  The prince scooped
+up a handful of snow and patted it into a snowball, then made a second
+and a third.  "Here, watch this."  And with a deep breath, he began to
+juggle.
+
+"What are you doing, you idiot?" Yestevan snarled.
+
+"Distracting you," the prince said calmly, just as a strong hand
+snaked up the front of Noxy's coat to knock Yestevan's knife away from
+her throat.  She fell forward into the snow with a shriek as something
+pulled Yestevan.
+
+Thokmay floundered forward as Noxy rolled onto her feet.  Kulbinder
+charged past him and threw himself onto Yestevan's back as the
+renegade cloudherd struggled with Sergeant Dorbu.  The three of them
+fell in a heap as Thokmay wrapped his arms around Noxy.  "It's all
+right, it's all right," he said.
+
+She stood there for a moment, shivering, before pushing him away and
+wiping her face on her sleeve in time to hear Ulfmaerr say, "Oh dear.
+Oh no."
+
+Yestevan lay sprawled in the snow, the slowly-spreading red stain near
+his throat the only epitaph he would ever have.  Sergeant Dorbu
+struggled weakly to sit up beside him, then lay back, one hand
+clutching the hilt of the knife driven into his chest by the force of
+the fall.  Kulbinder crouched beside him, ears back and teeth bared.
+
+"I think... you're safe..." the sergeant wheezed.  The right side of
+his uniform was soaked with blood.
+
+Thokmay stumbled forward and fell to his knees beside Sergeant Dorbu.
+"Don't move," he said frantically.  "Please, just---magician!
+Magician, help us!"
+
+"I can't," Ulfmaerr said bleakly, the weight of all his past choices
+heavy in his voice.  "I gave the last of that away a long time ago.
+I'm sorry."
+
+"Please," Thokmay repeated.  "Please..."
+
+Sergeant Dorbu wheezed again.  "'S worth it," he mumbled, looking at
+Noxy with dimming eyes and trying to smile.  "If I can't save the
+girl... it's not much of a revolution."
+
+A shout from higher up the mountain broke the stillness that
+followed.  "Honored.  Honored, we must go."  Kulbinder nudged the
+prince with his muzzle.
+
+Thokmay shook his head, tears streaming down his cheeks.  Tentatively,
+Noxy put her hand on his shoulder.  "It's all right," she said,
+knowing it for a lie.  When Kulbinder nudged the prince again, he
+stood and left his childhood behind.
+
+They mounted Charger from a sharp spur of rock a hundred strides
+further down the mountain.  "North," Ulfmaerr said.  Noxy didn't ask
+where they were going or why.  She sat shoulder to shoulder with
+Thokmay, who draped his other arm over Kulbinder.  No one spoke as the
+world slipped by beneath them, until finally Ulfmaerr had them land
+near an ancient stone bridge over a fast-running stream.
 
 Noxy and Thokmay walked slowly up the potholed mountain track to the
 bridge. The forest smelled cool and moist around them. Juncos and

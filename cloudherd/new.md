@@ -817,8 +817,9 @@ you, and I'll put you over the side."
 
 A cold shiver ran up Noxy's back.  She and Sensy exchanged wide-eyed
 looks.  People weren't supposed to talk about someone who had been
-shunned, but older children had whispered this one when grownups
-weren't around.
+shunned, but older children had whispered Yestevan's name when
+grownups weren't around.  None of them knew exactly what he had done,
+but he was the only cloudherd to be banished in years.
 
 Yestevan just grinned at Grappa Gas, then winked at the two girls when
 he saw they were looking at him.  Noxy glared in return, while Sensy
@@ -835,54 +836,61 @@ stood beside him, leaning forward to look down at the clearing.  As
 Noxy watched, the tiger hopped down off the parapet, disappearing from
 view with his boy behind him.
 
-Grappa Gas glanced at Noxy.  "Your *anna* isn't going to like this."
+Grappa Gas glanced at Granna Fee.  "Your daughter isn't going to like
+this."
 
 "Sh." Granna Fee waved a hand to quiet him.  "I'm trying to land."
 
-Pillow touched down gently.  "Help the men get down," Grappa Gas
-ordered the three teenagers.  "I'll take care of the bodies."
+Pillow touched down gently.  Noxy and her friends slid down the
+cloud's flank and then stood together awkwardly, waiting for someone
+to tell them what to do.  The soldiers ignored them.  Those who had
+been riding with them gently lowered the bodies they had rescued into
+the arms of their waiting comrades, who laid them on stretchers rigged
+out of blankets and alder poles.
 
-"I can give you a hand with that," Yestevan said, rising to his feet.
+When Grappa Gas offered to help, the commander shook his head politely
+but firmly.  "These are ours," he said.  "Though we would be grateful
+if you could gather some wood for a pyre---we'd like to send them off
+tonight."
 
-"You stay out of the way," Grappa Gas said curtly.
+"We'll do that," Rash volunteered quickly.  "C'mon, Sensy."  They
+hurried off together before Noxy could say that she would go with
+them.
 
-"Easy, old man, easy."  The former cloudherd raised his hands in mock
-surrender.  "Just trying to help."  He sat down again, grinning as if
-he'd just scored a point in a game no-one else was playing.
+"Here it comes," Grappa Gas muttered beside her as her mother strode
+over with her mayoral smile firmly in place.
 
-It took a few moments to slide the bodies down the cloud's flank into
-the arms of the waiting soldiers and onto the stretchers they had
-rigged out of blankets and alder poles.  When Indy offered the
-villagers' help, Sergeant Dorbu shook his head politely but firmly.
-"These are ours," he said.  "Though we'd be grateful if you could
-gather some wood for a pyre---we'd like to send them off tonight."
+"Greetings, honored, and welcome," she said, bowing her head to the
+commaner.  "We are glad to have you, though saddened by your losses."
 
-<!-- FIXME: introduce the commander -->
+The commander inclined his head.  His face was drawn, and beads of
+sweat were pearled on his face despite the cold air, but his voice was
+steady.  "Thank you, mayor.  We are grateful for your hospitality."
 
-<!-- FIXME: get Thokmay into the fight -->
-
-Whatever the mayor might have said in reply was lost as Yestevan slid
-off the cloud and sketched a bow.  "Greetings, honored.  Everyone."
-He straightened up and rubbed his back as if to work out the kinks.
+Whatever pleasantries Indy might have volleyed back were lost as
+Yestevan slid off the cloud and sketched a bow.  "Hello there."  He
+straightened up and rubbed his back as if to work out the kinks.
 "Long ride, that.  Glad to be back on the ground."
 
 There was a moment of shocked silence, and then Indy said, "What are
-*you* doing here?" in a bewildered little voice that Noxy would never
-have imagined could come out of her mother's mouth.
+*you* doing here?" in a voice that could have frozen the fishpond
+solid.
 
-The commander's face was drawn, and beads of sweat were pearled on his
-face despite the cold air, but his voice was steady.  "He is with us."
+"He is with us," the commander replied coolly.  "I trust that will not
+be a problem?"
 
-Everything seemed to happen at once.  Aft had been speaking to
-Sergeant Dorbu.  When he heard Indy, he spun around, and when he saw
-Yestevan standing there grinning, he balled his hands into fists, took
-three quick steps, and threw a roundhouse punch that knocked Yestevan
-flying.
+Indy's face darkened.  Noxy took a sharp breath.  She knew that look,
+and the storms that followed it.
 
-Or at least he tried to.  As Aft swung, the commander swept his arm in
+Before her mother could speak, Aft hurried around Pillow's side with a
+question or a complaint on his lips.  When he saw Yestevan, he balled
+his hands into fists, took three more steps, and threw a roundhouse
+punch that knocked the shunned cloudherd flying across the clearing.
+
+Or at least he tried to.  As he swung, the commander swept his arm in
 a perfectly-timed circle that knocked the punch to the side.  His
-other arm followed the first, somehow sending Aft tumbling head over
-heels onto the ground.
+other arm followed the first, somehow tumbling Aft head over heels
+onto the ground.
 
 The tiger was there before anyone else could make sense of what had
 just happened.  As Aft rolled over onto his feet, he found himself
@@ -893,15 +901,16 @@ tiger rumbled.
 than that, he collapsed as the willpower that had kept him on his feet
 finally ran out.
 
-Once again, everything happened at once.  Under Sergeant Dorbu's
-direction, two soldiers rigged a stretcher out of poles and blankets,
-lifted the commander onto it, and followed Indy through the gate.
-Granna Fee stood between Aft and Yestevan, each glaring at the other
-with arms crossed, while Grappa Gas reluctantly admitted to Sergeant
-Dorbu that no, the shunning didn't extend to the forest, and yes, that
-meant that Yestevan could pitch a tent if he wanted to.  "He can make
-a fire too for all I care," the old man added pointedly.  "A nice big
-one, right around the oldest tree he can find."
+The new few moments were a confusion of accusations and orders.
+Finally, under Sergeant Dorbu's direction, two soldiers rigged a
+stretcher out of poles and blankets, lifted the commander onto it, and
+followed Indy through the gate.  Granna Fee stood between Aft and
+Yestevan, each glaring at the other with arms crossed, while Grappa
+Gas reluctantly admitted to Sergeant Dorbu that no, the shunning
+didn't extend to the forest, and yes, that meant that Yestevan could
+pitch a tent if he wanted to.  "He can make a fire too for all I
+care," the old man added pointedly.  "A nice big one, right around the
+oldest tree he can find."
 
 Sergeant Dorbu beckoned to the tiger's boy.  "You, Thokmay!  Go fetch
 a tent.  And a bowl of something---anything you can find."
@@ -1343,9 +1352,20 @@ many nights in the snow."
 "Visitors from down below often catch colds in our thin air," said
 Indy sympathetically.  "I hope it passes quickly."
 
-<!-- FIXME: explain that the commander has no name -->
+"Dod't worry aboud be, I'b fide," he said unconvincingly.  He blinked
+and sneezed again, grinning blearily at the fresh giggles that
+followed before turning serious.  "It's the commander I'm worried
+about.  He slept through the night."
 
-<!-- FIXME: mention Yestevan -->
+"Well, that's probably the best thing for him," Indy said.  "Isn't
+it?"
+
+The sergeant shook his head.  "He's not supposed to sleep more than a
+couple of hours at a time.  It's not a spell price or anything," he
+elaborated hastily, "Just the way he is.  And he's fevered, too."
+
+"I'll have Granna Fee look in on him," Indy promised.  "Let me know if
+anyone else needs doctressing as well."
 
 The guesthouse door opened before the sergeant could reply.  The
 children scrambled to their feet and stepped back as the tiger padded
@@ -1946,7 +1966,7 @@ into the cloud.
 
 "Hold on!" Grappa Gas shouted, reaching for him, but it was too
 late. Thokmay shrieked as he fell through the hole in the cloud and
-splashed into the ice-cold fishpond.
+splashed into the ice-cold pond.
 
 His head burst above water a moment later. "Help!" he screamed. "Help
 me! I can't---" He thrashed his arms as if he was trying to swim, but
@@ -1954,6 +1974,11 @@ something was pulling him down.
 
 Noxy's hand flew to her mouth. His armor!  He must still have it on
 from when he and Sergeant Dorbu were fencing!
+
+Thokmay's head broke the surface again.  He gasped for air and brought
+his hand to his mouth just long enough to blow a short, shrill blast
+on a whistle.  *Phweee!* He splashed frantically, trying and failing
+to keep his head above water.
 
 Kulbinder burst out of the trees and raced toward the fishpond.  "Hang
 on, honored!" he roared as he threw himself into the water.  He
@@ -2304,10 +2329,19 @@ south to rejoin their herds, the sky could darken in the time it took
 to sing a nursery rhyme.  When that happened, the villagers knew it
 was time to tie their shutters closed and get the yaks into their
 pens, because the rain was going to come down in sheets instead of
-drops.  Storm shutters that had been taken down at winter's end were
-put back in place.  Children chased protesting chickens back into
-coops or hauled the morning's laundry off clotheslines to be re-hung
-in the sauna.
+drops.  Shutters that had been taken down at winter's end were put
+back in place.  Children chased protesting chickens back into coops or
+hauled the morning's laundry off clotheslines to be re-hung in the
+sauna.
+
+The worst, though, was when the pack of lightnings that haunted the
+highest peaks chased their prey all the way the valley.  Noxy had only
+ever seen one such storm when she was little, but she could still
+remember the sizzling crack of the lightnings calling to one another,
+the smell of burnt air as they snapped and harried the hapless cloud
+they were driving onward, and the way her mother had held her close,
+whispering, "It's all right, it's all right, we're safe," into her
+hair as if to convince herself it was true.
 
 Amid the preparations, Indy sent Noxy to the trading hall to invite
 the commander, Sergeant Dorbu, and Kulbinder to dinner.
@@ -2436,8 +2470,40 @@ mock-disapproval.
 the table and took the glass from her.  Thokmay, Noxy noticed, hadn't
 even blinked when he swallowed his own mouthful.
 
-Sergeant Dorbu started to rise.  "We should probably---oh, thank you."
-He sat down again as Indy poured him a second glass of *rak*.
+Suddenly Sergeant Dorbu laughed.  "Well, that got serious in a hurry,"
+he said lightly.  "How about some music to chase away the night?" He
+cocked an eyebrow at Thokmay.
+
+"Yes, honored," the boy said.  He took a round whistle out of his
+pocket and a short metal tube out of the other, screwed them together,
+and blew an experimental note.  The little fipple flute gargled like a
+blocked drain.  "Sorry," he muttered.  He unscrewed the two halves,
+blew into the fingering tube's holes to clear them, reassembled it,
+and tried again.  A high, wavering note floated across the room.
+
+The tiger rose to his feet.  "This would be a good time for me to do
+my rounds," he rumbled.
+
+The sergeant grinned.  "You have vinegar for a soul, honored---vinegar
+for a soul."
+
+"And sensitive ears," the great cat sniffed.  He inclined his head in
+farewell and slipped silently out the door that the chuckling sergeant
+opened and closed for him.
+
+Noxy wasn't surprised that Sergeant Dorbu had a good voice.  What did
+surprise her was how well the tiger's boy played, and that her mother
+joined in the chorus.  As they started a second song, her mother took
+her hand under the table and squeezed it.  Tentatively at first, then
+with more confidence, Noxy hummed along.  The words were different
+from those she knew, but the tune itself was as familiar as the stool
+she was sitting on or the matched pair of dayglass lanterns glowing
+softly on the table.  However cold and dark it was outside, her home
+was, then and there, as warm and as bright as it had ever been.
+
+After the third song, Sergeant Dorbu stood and stretched.  "We should
+probably---oh, thank you."  He sat down again as Indy poured him a
+second glass of *rak*.
 
 "Daffodil, could you go up to your room and get the spare blankets out
 from under your bed?" Indy said, pouring more for herself as well.
@@ -2480,15 +2546,9 @@ bottom shelf.
 "That was quick," Indy said as the two teenagers came back down the
 stairs.  The bottle of *rak* was half empty, Noxy noticed, and the
 smiles on her mother's face and Sergeant Dorbu's seemed--- No.  Her
-mother was just being the mayor, that was all.
-
-"Where's Kulbinder, honored?" Thokmay asked.
-
-Sergeant Dorbu pointed his thumb over his shoulder at the door.  "Said
-he ought to do some patrolling.  I think he's hoping to find a rabbit
-or something."  He had undone the top button of his jacket, Noxy
-noticed.  And her mother had untied the ribbon that held her hair
-back.
+mother was just being the mayor, that was all.  But he *had* undone
+the top button of his jacket, Noxy noticed.  And her mother had untied
+the ribbon that held her hair back.
 
 Thokmay hefted the blankets.  "With your permission, shall I take
 these to the commander?"
@@ -3193,7 +3253,7 @@ will insist," the commander said.  "I'm sorry---I truly am---but what
 we are fighting for is bigger than any one village.  One way or
 another, you are going to carry my army to Chaghan."
 
-!-- FIXME: continuity -->
+<!-- FIXME: continuity -->
 
 Noxy broke into a trot.  "I'm here, *anna*, I'm here!"  She flung
 herself into her startled mother's arms.
@@ -4221,8 +4281,6 @@ climbed.  Closer, closer---she scrambled onto it, her chest heaving as
 Thokmay pulled himself up behind her.
 
 "Get ready," she ordered, crouching.
-
-<!-- FIXME: introduce Thokmay's whistle before here -->
 
 "I suddenly find myself wishing you'd come up with a different plan,"
 he said, gathering his legs beneath him.  He pulled his whistle out

@@ -1402,8 +1402,6 @@ ginger tea.  That will set you right in no time."
 were not surprised as we were at the ford."  And with no more ceremony
 than that, he padded off toward the main gate.
 
-<!-- ask about the commander -->
-
 Indy clapped her hands.  "Right.  Everyone else, time for chores."  As
 the children groaned and got to their feet, the tiger's boy finally
 raised his eyes to look at Noxy.
@@ -2602,8 +2600,6 @@ around the corner, just in time to see a shadow disappear out the
 other end.  Who would be out in the rain?  Curious, she hurried to
 follow.
 
-<!-- FIXME: Noxy finds something -->
-
 "Ow!"  Ten steps in, her foot connected with a pile of cobblestones
 that she and Sensy had put there as part of some long-forgotten game.
 The stones clattered as they tumbled over.  Cursing under her breath,
@@ -2650,9 +2646,6 @@ villagers used to stuff mattresses and pillows.
 
 "Get your mother!" Aft ordered, then cupped his hands around his
 mouth.  "Fire!  Fire!  Fire!"
-
-<!-- FIXME: connect Thokmay to the fire -->
-<!-- FIXME: commander uses magic -->
 
 The village was lucky.  That's what everyone told themselves half an
 hour later.  They were lucky that the rain had made everything so wet,
@@ -3897,8 +3890,6 @@ first arrived.
 "It was Kulbinder's idea," Thokmay replied.  "We brought stuff out
 each time we went on patrol."  He hesitated.  "I had to steal some
 of.  I'm sorry about that."
-
-<!-- FIXME: notice things missing earlier. -->
 
 Noxy shivered.  "That's all right.  We should keep moving."  The
 branches around them rustled in the wind.  The sky overhead was

@@ -861,7 +861,7 @@ them.
 over with her mayoral smile firmly in place.
 
 "Greetings, honored, and welcome," she said, bowing her head to the
-commaner.  "We are glad to have you, though saddened by your losses."
+commander.  "We are glad to have you, though saddened by your losses."
 
 The commander inclined his head.  His face was drawn, and beads of
 sweat were pearled on his face despite the cold air, but his voice was
@@ -3242,7 +3242,7 @@ want."
 Indy raised her hand to stop whatever Grappa Gas might have said next.
 "And if we say no?" she asked.
 
-"Then we will insist," the commander said, turning his codl gaze from
+"Then we will insist," the commander said, turning his cold gaze from
 the sergeant to Stale's mayor.  "I'm sorry---I truly am---but what we
 are fighting for is bigger than any one village.  One way or another,
 you are going to carry my army to Chaghan."
@@ -5828,7 +5828,7 @@ whispered loudly to Noxy, rolling his eyes.
 
 The tiger gave his haunch one last lick, stretched, and padded over to
 join the trio.  "If you lot are done with your holiday," he said
-drily, "There's something you should see."
+dryly, "There's something you should see."
 
 Noxy was beyond caring about the noise they made as they waded through
 the waist-high salal and ossefra that carpeted the sinkhole's edge.
@@ -6185,7 +6185,7 @@ and unable to meet anyone's eyes---especially Thokmay's.
 The young bull hadn't been lying.  He seemed to have been born to
 gallop.  Yestevan, Big Blue, and the soldiers fell further and further
 behind.  Noxy had to keep reminding him to stay bunched up so that
-they wouldn't fall through, but he could mind-hear her exhiliration,
+they wouldn't fall through, but he could mind-hear her exhilaration,
 and it seemed to spur him on.
 
 The forest swept by beneath them like flotsam.  Nameless little rivers
@@ -6668,11 +6668,11 @@ stay warm. Ulfmaerr didn't seem to notice, even though his toenails
 were turning blue.
 
 They raced along the glacier. The mountains rose on either side of
-them like Marandine's ancient walls. There were no flowers, nothing
-green, not even any of the gray-brown lichens the cloudherds called
-"belly scrapings". It was like the first day of the world, or the
-last, with nothing around but jagged rocks and glaciers glistening
-like newly-made gems in the sun.
+them like Stale's ancient walls. There were no flowers, nothing green,
+not even any of the gray-brown lichens the cloudherds called "belly
+scrapings". It was like the first day of the world, or the last, with
+nothing around but jagged rocks and glaciers glistening like
+newly-made gems in the sun.
 
 Suddenly Kulbinder stiffened and hissed, "What is that?"
 

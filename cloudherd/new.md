@@ -3217,23 +3217,24 @@ moment it was pandemonium as everyone shouted over one another.  Even
 Indy was waving her arms, Noxy saw.
 
 "We have no choice."  Once again the commander's voice cut through the
-noise like a cold wind.  *It must be a spell,* Noxy suddenly realized.
-Not even her granna at her fiercest could have quelled the turmoil
-like that.  "We have to get to Chaghan.  We can't go through the Herd
-of Trees, not with a royalist regiment and the trees waiting for us,
-so we're going to fly there."
+noise like a cold wind, making Noxy shiver.  Not even her granna at
+her fiercest could have quelled the turmoil like that.  "We have to
+get to Chaghan.  We can't go through the Herd of Trees, not with a
+royalist regiment and the forest too, so we're going to fly there."
 
 "You mean *we're* going to fly you there!" Grappa Gas shouted.  "Well,
-rot that!  We've got *contracts*!  And even if we didn't, there's
-farmers down in Gandan depending on us to bring them rain.  If we go
-kiting off to wherever, folks are going to go hungry!"
+rot that!  We've got *contracts*!  There's farmers down in Gandan
+depending on us to bring them rain.  If we go kiting off to wherever,
+folks are going to go hungry!"
 
 "People are going hungry already."  the commander said.  "And those
 who aren't live in fear that they will, that someone with more money
 than they have will rent some law they've never heard of and use it to
 take half their crop or throw them off their land or have their house
-knocked down to to improve the damned view.  You don't see it up here
-because you've learned to stand together.  And that's what we need you
+knocked down to to improve the damned view."
+
+"You don't see it up here because you've learned to stand together,"
+Sergeant Dorbu cut in, almost pleading.  "And that's what we need you
 to do now---stand together, with us, so that we can keep fighting to
 put the law in your hands where it belongs, so you can do what *you*
 want."
@@ -3241,26 +3242,42 @@ want."
 Indy raised her hand to stop whatever Grappa Gas might have said next.
 "And if we say no?" she asked.
 
-The whole village held its breath, waiting for the answer.  "Then we
-will insist," the commander said.  "I'm sorry---I truly am---but what
-we are fighting for is bigger than any one village.  One way or
-another, you are going to carry my army to Chaghan."
+"Then we will insist," the commander said, turning his codl gaze from
+the sergeant to Stale's mayor.  "I'm sorry---I truly am---but what we
+are fighting for is bigger than any one village.  One way or another,
+you are going to carry my army to Chaghan."
 
-<!-- FIXME: continuity -->
+At that, the crowd erupted.  The villagers shouted at the colonel, the
+soldiers, and Aft, who found himself the bewildered and then irate
+target of a dozen angry people.  "I didn't know what they were
+planning!" he protested with ever-greater frustration.
 
-Noxy broke into a trot.  "I'm here, *anna*, I'm here!"  She flung
-herself into her startled mother's arms.
+The commander watched impassively, paying no more attention to the
+cloudherds' anger than he would have to a few stray raindrops.  Beside
+him, Sergeant Dorbu's face was a study in weary resignation.  Noxy saw
+her mother give the sergeant one contemptuous look before turning her
+back on him.
 
-"Oh daffodil, where have you been?" Indy murmured in her daughter's
-ear, squeezing her.  "I was so worried."
+The commander drew a whistle from his sleeve and held it up.  All
+around the square, soldiers took out their own whistles and raised
+them to their lips.  *Phweee!* The shrill sound cut the air like
+lightnings, making a few people yelp in surprise and a handful of
+children start crying.
 
-Noxy squeezed her in return before letting go and stepping back to
-wipe a stray raindrop from her cheek.  "I'm all right, *anna*.  I'm
-all right."
+"My men will do their best to stay out of your way until the herd
+arrives," the commander said into the silence that followed.  "For
+now, it would be best if you all returned to your homes."
+
+Noxy didn't wait to see if people obeyed.  She ran across the square
+and flung herself into her startled mother's arms.  "Oh daffodil,
+where have you been?" Indy murmured in her daughter's ear, squeezing
+her.  "I was so worried."
+
+Noxy squeezed her in return before and stepping back to wipe a stray
+raindrop from her cheek.  "I'm all right, *anna*.  I'm all right."
 
 "Gifted! Report!" The commander's whipcrack voice shattered the
-moment.  He strode across the square, still gaunt but stronger than
-Noxy had seen him.
+moment.
 
 The tiger's ears flattened against his head.  "I apologize, honored.
 He escaped me."
@@ -3299,10 +3316,10 @@ Granna Fee said.
 thinking.
 
 "I thought so," Granna Fee said firmly.  She steered them past the
-trading hall, where Aft was helping a handful of soldiers put a bar on
-the door and nail the window shutters closed.  He nodded curtly at the
-three women as they went by.  It wasn't until later that Noxy wondered
-why they were putting the bar on the *outside* of the door.
+trading hall, where a handful of soldiers were putting a bar on the
+door and nail the window shutters closed.  One of them nodded curtly
+at the three women as they went by.  It wasn't until later that Noxy
+wondered why they were putting the bar on the *outside* of the door.
 
 Around the corner, past the vegetable gardens and the tanning shed...
 "Aren't we going to your house for tea?" Noxy asked.

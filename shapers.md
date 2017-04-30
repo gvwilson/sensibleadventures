@@ -1,7 +1,7 @@
 ---
 layout: narrow
 title: Shapers and Bots
-permalink: /shapers-and-bots
+permalink: /shapers-and-bots/
 ---
 
 *Shapers and Bots* is a fantasy role-playing game for children aged 8-80.

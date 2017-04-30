@@ -168,11 +168,12 @@ The drudge may allow players to add other skills to their characters.
 * Camping
 * Chemistry
 * Climbing
-* Craft (carpentry, cooking, etc.)
+* Craft (carpentry, sewing, etc.)
 * Dancing
 * Disguise
 * Drawing
 * Driving
+* Escapology
 * Farming
 * Fighting
 * Fine Art (painting, sculpture, etc.)
@@ -181,12 +182,13 @@ The drudge may allow players to add other skills to their characters.
 * History
 * Hunting
 * Hypnotism
+* Juggling
 * Language
 * Lockpicking
-* Magic (including juggling and escapology)
-* Martial Arts
+* Stage Magic
 </div>
 <div class="col-sm-6" markdown="1">
+* Martial Arts
 * Mathematics
 * Mechanics
 * Medicine
@@ -210,7 +212,7 @@ The drudge may allow players to add other skills to their characters.
 * Trapping/Fishing
 * Tunnelling
 * Ventriloquism
-* Weapon (sword, spear, bow, steam pistol, etc.)
+* Weapon (sword, bow, steam pistol, etc.)
 </div>
 </div>
 

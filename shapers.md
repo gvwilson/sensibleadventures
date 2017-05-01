@@ -9,10 +9,10 @@ It is inspired by *Dungeons & Dragons*,
 *Avatar: The Last Airbender*,
 countless stories of talking animals,
 and my daughter.
-Each game has one or more *players* and one *director*.
+Each game has one or more *players* and one *Director*.
 Each player takes on the role of one character,
-while the director plays the part of all the non-player characters.
-(The director is often an adult or the person who created the adventure.)
+while the Director plays the part of all the non-player characters.
+(The Director is often an adult or the person who created the adventure.)
 
 ## Background
 
@@ -34,7 +34,7 @@ and whether the world is saved from a peril.
 
 ## Characters
 
-Every animal character has three *traits* that describe them:
+Every animal character has four *traits* that describe them:
 
 - **Size**: how large are you?
 
@@ -42,13 +42,20 @@ Every animal character has three *traits* that describe them:
 
 - **Coordination**: how coordinated are you?
 
+- **IQ**: how good are you at abstract thinking?
+
 If there were any human beings left,
 an average full-grown human woule have a score of 10 for each trait.
 Averages for different kinds of are listed later.
 
-> In exceptional cases,
-> a character may have separate **Height** and **Weight** traits
-> instead of a single Size trait.
+Note:
+
+1. A character with a low IQ is *not* necessarily stupid.
+   Instead,
+   they are simply less good at (or less interested in) "book learning".
+1. In exceptional cases,
+   a character may have separate **Height** and **Weight** traits
+   instead of a single Size trait.
 
 Every animal character has one extra trait that depends on these three:
 
@@ -73,28 +80,25 @@ so they usually don't need to be written down.
 
 > Note that Smell includes the sense of taste.
 
-Non-player characters (NPCs) may have three extra traits:
+Non-player characters (NPCs) may have two extra traits:
 
 - **Courage**: how brave the character is.
 
 - **Honesty**: how likely the character is to tell the truth.
 
-- **Intelligence**: ability to solve puzzles, do arithmetic, etc.
-
 Player characters (PCs) don't have scores for these
-because it's up to the player to be brave,
-to tell the truth (or not),
-and to solve puzzles.
+because it's up to the player to be brave
+and to tell the truth (or not).
 NPCs only need to be given scores for these traits
 when it's important to the game.
 
 ## Species
 
 Each species of animal character has its own "normal" Size and Coordination scores,
-but all of them have an average Health of 10,
+but all of them have an average Health and IQ of 10,
 and all of them use the same formula for calculating Strength.
 
-| Species   | Size | Coordination | Senses                  | Special            |
+| Species   | Size | Coordination | Special Senses          | Special            |
 | --------- | ---: | -----------: | ----------------------: | ------------------ |
 | bear      |  13  |            8 | Sight=8,<br>Smell=12    |                    |
 | bison     |  12  |            9 | Sight=9                 | horns              |
@@ -110,6 +114,16 @@ and all of them use the same formula for calculating Strength.
 | tiger     |  10  |           12 | Smell=12,<br>Hearing=11 | carnivore          |
 | wolf      |   9  |           11 | Smell=12                |                    |
 | zebra     |  10  |           10 | Smell=11                |                    |
+
+
+*Larrapin is a 15-year-old rabbit.
+Her Size is 4 and her Health is 12, so her Strength is 5.
+Her Coordination is 13 and her IQ is 11.
+Because she is a rabbit,
+her sense of Smell is 12,
+her Hearing is 11,
+and her Sight is 10
+(because rabbits don't have any special score for that).*
 
 ## Shaping
 
@@ -141,6 +155,8 @@ Luck and Time.
 (As far as anyone knows,
 Dream doesn't have an opposite.)
 
+*Larrapin doesn't have any shaping ability that she knows of.*
+
 ## Bots
 
 The Makers built bots to do everything from cleaning floors to mining the ocean floor.
@@ -162,77 +178,110 @@ and would prefer that living creatures didn't talk about it so much.)
 
 ## Skills
 
-Every character has certain skills,
-which are things they're particularly good at.
-Some useful skills are listed below,
-and the director may allow players to add other skills to their characters.
-
+Every character has skills that they're particularly good at.
 A skill is recorded as a *bonus*:
-+1 means a little knowledge or ability,
++1 means a little knowledge,
 +2 is more,
 and so on.
 A score of 4 or more is very good,
 and a score or 6 or higher is generally considered an expert.
 
+Every time a character needs to do something difficult,
+their player or the Director rolls three dice to see if they succeeded or not.
+If the total of the three dice is less than or equal to the number they need,
+they succeed.
+If the total is greater than that number,
+they fail.
+
+The number needed,
+called the *target*,
+is the value of one of the player's traits,
+plus their skill (if they have one),
+minus the difficulty of the task.
+
+Some useful skills are listed below with the trait they add to.
+If two traits are listed,
+the character's basic ability is the average of those two traits rounded down
+(so that it is never less than the lower of their two trait scores).
+If the basic skill is "--",
+it means that characters don't have any natural ability:
+everything has to be learned from scratch.
+
 <div class="row">
 <div class="col-sm-6" markdown="1">
-* Acrobatics
-* Acting (including impersonation)
-* Animal Handling
-* Boating
-* Camouflage
-* Camping
-* Chemistry
-* Climbing
-* Craft (carpentry, sewing, etc.)
-* Dancing
-* Disguise
-* Drawing
-* Driving
-* Escapology
-* Farming
-* Fighting
-* Fine Art (painting, sculpture, etc.)
-* First Aid
-* Gaming
-* History
-* Hunting
-* Hypnotism
-* Juggling
-* Language
-* Lockpicking
-* Stage Magic
+* Acrobatics (CO)
+* Acting (CO+IQ)
+* Animal Handling (ST+CO)
+* Boating (ST+CO)
+* Camouflage (CO)
+* Camping (CO+IQ)
+* Climbing (ST+CO)
+* Craft: carpentry, sewing, etc. (CO)
+* Dancing (CO)
+* Disguise (CO+IQ)
+* Drawing (CO+IQ)
+* Driving (CO)
+* Escapology (CO+IQ)
+* Farming (ST)
+* Fighting (ST+CO)
+* Fine Art: painting, sculpture, etc. (CO+IQ)
+* First Aid (CO+IQ)
+* Gambling (IQ)
+* Hunting (ST+CO)
+* Hypnotism (IQ)
+* Juggling (CO)
+* Lockpicking (CO+IQ)
 </div>
 <div class="col-sm-6" markdown="1">
-* Martial Arts
-* Mathematics
-* Mechanics
-* Medicine
-* Metalwork
-* Music
-* Navigation
-* Persuasion
-* Picking Pockets
-* Reading
-* Riding
-* Robotics
-* Sailing
-* Science
-* Sewing
-* Skating
-* Skiing
-* Stealth
-* Swimming
-* Throwing
-* Tracking
-* Trapping/Fishing
-* Tunnelling
-* Ventriloquism
-* Weapon (sword, bow, steam pistol, etc.)
+* Mechanics (CO+IQ)
+* Medicine (CO+IQ)
+* Metalwork (ST+CO)
+* Music (CO)
+* Navigation (IQ)
+* Persuasion (IQ)
+* Picking Pockets (CO)
+* Riding (ST+CO)
+* Robotics (IQ)
+* Skating (CO)
+* Skiing (CO)
+* Sneaking (CO)
+* Stage Magic (CO+IQ)
+* Swimming (ST+CO)
+* Throwing (ST+CO)
+* Tracking (IQ)
+* Trapping/Fishing (CO)
+* Tunnelling (ST)
+* Ventriloquism (IQ)
+* Weapon: sword, bow, steam pistol, etc. (CO+IQ)
 </div>
 </div>
 
-### Example: Madica
+Characters may also have *knowledge*
+of history, a language, mathematics, or science.
+A character's knowledge of any field is initially zero,
+and must all be learned.
+
+The Director may allow players to choose skills for their characters
+that are not on this list.
+
+*Larrapin doesn't have any bonuses for Acting,
+so her ability is 12,
+which is the average of her Coordination (13) and her IQ (11).
+Having grown up in the mountains,
+though,
+she has learned how to ski very well:
+her natural ability is 13 (her Coordination),
+and her bonus is +3,
+giving her a total skill of 16.*
+
+*Larrapin is currently trying to escape a band of angry (and hungry) wolves.
+The Director decides that ski-jumping over a ravine is a difficulty 6 task.
+Larrapin's target is therefore 16-6, or 10.
+She rolls three dice and gets a 7: success!*
+
+## Example Characters
+
+### Madica
 
 Madica is a teenage fox girl.
 She's a bit on the small side,
@@ -254,7 +303,7 @@ and desperately wants to find someone to teach her how to do more.
 | Strength      |         6 | Stage Magic   |        +2 |
 | Smell         |        12 | Water Shaping |        +2 |
 
-### Example: Rhymes With Orange
+### Rhymes With Orange
 
 Rhymes With Orange was built to clean windows on ultra-tall skyscrapers.
 It has long spidery limbs with suction cups for climbing,

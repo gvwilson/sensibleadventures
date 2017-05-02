@@ -103,18 +103,18 @@ whenever someone expressed even a hint of doubt.
 "Real as gulls and jellies!"
 Real as being hungry and lonely,
 she sometimes added to herself as she grew older.
-Real as being smart with machines and tech like her mother and father had been,
-back before the frozen southern ocean took them away.
+Real as being smart with machines and tech like her mother and father had been
+before the frozen southern ocean took them away.
 
 </em>
 
-Madi woke to the sound of Aunt Naggie banging around in the kitchen.
+Madi woke to Aunt Naggie banging around in the galley.
 She lay in her narrow cot for one final precious warm moment
 before pushing aside the salvaged sleeping bag she used as a cover
 and pulling on a second layer of clothes.
 That banging was her aunt's way of letting Madi know that Uncle Jack was awake.
 If she knew what was good for her,
-she'd be in the kitchen doing something useful before he got there.
+she'd be in the galley doing something useful before he got there.
 
 She tucked her nature book under the cot's foam slab mattress,
 dragged her fingers through her unwashed hair,
@@ -178,3 +178,91 @@ The railroad they were going to build wouldn't be Antarctica's first,
 but the locomotive would be the first designed and constructed on the southern continent.
 And more than anything in the world,
 Madi wanted to be part of it.
+
+"Girl! Girl! Slag it, woman, where's that lazy girl at now?"
+Madi jumped at the sound of Uncle Jack's bellow in the galley below her.
+He'd been out with his mates last night,
+which was Uncle Jack-speak for drinking more than he could handle
+and gambling more than he could afford to.
+Aunt Naggie somehow managed to pry enough out of his grasping hands
+(or, Madi suspected, winkle enough out of his pockets while he was snoring)
+to keep the *Guinevere* afloat,
+but it had been months since they'd had fresh fruit,
+and she couldn't remember the last time there'd even been mention of new clothes
+or replacing the tired little boat's frayed dredging nets.
+
+"Girl!" Uncle Jack shouted again.
+"Get your lazy tail down here *now* or saints help me you won't sit for a *week*!"
+She heard a meaty *bang!* as he slapped the galley table with his good hand.
+
+With one last longing look at the machine shop,
+Madi undogged the hatch beside her and yanked it open.
+"Here, captain," she said over the scrape and squeal of rusty hinges.
+"I was just---"
+
+"You were just lying about like some fairy tale princess,
+and don't try to tell me otherways!"
+Her uncle glared up at her,
+squinting as the bright sky framing her head assaulted his hungover eyes.
+There was a bruise on his forehead that hadn't been there the evening before,
+Madi noticed.
+That might mean a visit from the police later.
+He'd rave on for an hour if they came
+about how the governor was just another rock-hogging idiot
+who would sell them all out to the Dutch or the Zillions
+as soon as she could get a decent price,
+but it would be worth it.
+
+"Your eggs'll be ready in a mo," Aunt Naggie said hurriedly
+just as Uncle Jack was about to unleash another bellow.
+"Do you want a bit of curry on them?
+I think I have a some---
+No, wait, not there..."
+She rattled through the little glass jars that sat,
+each one in its proper place,
+on the shelf beside the galley's double-burner stove.
+
+"Damn right I want curry," he grumbled,
+picking up one of the flat bowls they all used as plates
+and handing it to his wife.
+Madi's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
+
+With a tilt of her frying pan and a single practiced flip of her spatula,
+Aunt Naggie slid two perfectly friend eggs into Uncle Jack's bowl.
+Without even a grunt of thanks,
+he took the last flatbread from the table and disappeared back into the cabin.
+Madi heard glass clink and something gurgle out of a bottle,
+and then the door closed.
+
+Aunt Naggie let out the breath she'd been holding before looking up at her niece.
+"You hungry?" she asked.
+
+"Not really," Madi lied.
+
+"Mm.  Here."
+Her aunt pulled a hard-boiled egg out of the pocket of her apron
+and tossed it up through the hatch.
+Madi snagged it one-handed.
+It was almost as big as her fist,
+and still warm.
+"Once you're done with that,
+you'd best be on that winch cable he's after having tightened."
+She sighed,
+kneading the small of her back with one hand.
+"And he says the knock in the engine is back.
+Best be having a look at that too before it starts to bother him."
+
+"I know what that is,"
+Madi said hurriedly.
+"The reciprocating rod's bent again.
+Mister Mishra will straighten it out if I take it in before he gets busy.
+It won't cost anything,"
+she added hastily as her aunt opened her mouth to object.
+"Not if I do a couple of odd jobs for him."
+
+The corner of her aunt's mouth twitched
+with what might once have turned into an actual smile.
+"Well then, best get to it.
+And stop in at Sandhu's and see what they want for eggs,"
+she added as Madi straightened up.
+"Those were our last ones."

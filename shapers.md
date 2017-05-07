@@ -223,7 +223,6 @@ everything has to be learned from scratch.
 * Driving (CO)
 * Escapology (CO+IQ)
 * Farming (ST)
-* Fighting (ST+CO)
 * Fine Art: painting, sculpture, etc. (CO+IQ)
 * First Aid (CO+IQ)
 * Gambling (IQ)
@@ -251,13 +250,15 @@ everything has to be learned from scratch.
 * Tracking (IQ)
 * Trapping/Fishing (CO)
 * Tunnelling (ST)
+* Unarmed Combat (ST+CO)
 * Ventriloquism (IQ)
 * Weapon: sword, bow, steam pistol, etc. (CO+IQ)
 </div>
 </div>
 
 Characters may also have *knowledge*
-of history, a language, mathematics, or science.
+of history, a language, mathematics, science,
+or some other specialized field.
 A character's knowledge of any field is initially zero,
 and must all be learned.
 
@@ -274,10 +275,19 @@ her natural ability is 13 (her Coordination),
 and her bonus is +3,
 giving her a total skill of 16.*
 
-*Larrapin is currently trying to escape a band of angry (and hungry) wolves.
-The Director decides that ski-jumping over a ravine is a difficulty 6 task.
+*Suppose Larrapin is trying to escape a band of angry (and hungry) wolves.
+The Director decides that ski-jumping over a ravine has a difficulty of 6.
 Larrapin's target is therefore 16-6, or 10.
 She rolls three dice and gets a 7: success!*
+
+## Fighting
+
+Sometimes adventurers are attacked and have to fight their way out of trouble.
+When this happens,
+players must roll dice to score hits on their enemies.
+Their ability is calculated as usual based on their traits
+and their skill with whatever weapon they're using.
+The difficulty, however, depends on the nature of the thing they're trying to hit.
 
 ## Example Characters
 

@@ -331,5 +331,90 @@ The shadows they cast made the compact machines
 and carefully sorted shelves of scrap on the shop floor
 look like battlebots from old movies.
 Madi's heart had been in her throat the first time she ventured between them.
-Now,
-all she saw was their possibilities.
+All she saw now was what they could be turned into.
+
+Sanjay Mishra was sharpening his fingers on a grinding wheel
+in the center of the shop.
+He nodded at Madi
+but didn't try to speak until the last sparks had flown off his fingertips
+and the grinding wheel had come to a halt.
+Pulling his safety goggles up onto his forehead,
+he tugged his real fingers through the tangles in his beard reflectively.
+"Buy, sell, or trade?" he finally asked.
+
+Madi cleared her throat.
+"Trade."
+She held up the bent reciprocating rod.
+"Tangled some flotsam coming in last night.
+The engine over-spun before I could get to it.
+There's no cracks or nothing,"
+she added hastily,
+handing the piece to him.
+"Just needs re-bent and annealed."
+
+"Hm."
+The burly machinist turned the rod over in his hands,
+sighted along its length,
+and then held it up to his good ear and tapped it with his metal fingers.
+Madi had seen him go through this ritual more times than she could count,
+and still didn't know if the quiet metal *tick* was just a bluff,
+or if he really could hear flaws too fine for eyes to see.
+
+He handed the rod back to her.
+"Bend her straight, she'll just bend bent again," he pronounced.
+"What she needs is replacing."
+
+The tension eased out of Madi's shoulders.
+Mishra didn't bargain unless he'd already mostly decided to do something.
+Now it was just a matter of price.
+
+In the end,
+the straightened rod cost her half an hour of sorting scraps for smelting.
+It wasn't the machine work she'd hoped for,
+but she had learned that if she timed her questions right,
+he would take a few minutes to show her how to dog the belaying plate on the laser drill just so,
+or how to line up the gatling hammers
+to rat-a-tat-tat a piece of sheet metal into a graceful springy curve.
+She was careful not to stare at the burn scar where his left ear should have been
+or at the spidery piece of tech attached to his left arm.
+She was equally careful not to look up when his son Jeep came,
+scowling as always,
+to say that lunch was ready
+but *amma* said he had to clean up first.
+
+"You hungry?" Mishra asked,
+spinning the handwheel on the side of the drill
+to lift the laser into its locking position.
+
+"No thanks," Madi said.
+"I brought."
+She held up the egg her aunt had given her.
+
+"Hm."
+Mishra ran his fingers through his beard again.
+"Not much of a meal to grow on."
+
+"It'll do me fine."
+Madi nodded toward the laser drill as casually as she could.
+"You mind I try a couple of pieces while you're out?"
+
+Mishra was shaking his head before she even finished speaking.
+"Nuh uh, girl.
+Nobody touches my darling without I'm there to watch."
+Metal fingers tapped the tabletop next to him.
+"You break that,
+nearest parts are long away Amundsen,
+and nearest after that are all the way up to Taz."
+
+"Aright," Madi said,
+feigning disappointment.
+"How about I use the mechanical one instead?
+Just for my hands to learn,"
+she added hastily.
+"It's not paid work or nothing, I swear.
+I'll just drill some scrap---you can count it all in and out to make sure."
+
+Mishra chuckled.
+"No worry about the scrap, girl.
+And if there's someone paying for work in this town I hain't heard of,
+more power to you."

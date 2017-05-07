@@ -14,7 +14,8 @@ The sky was a perfect blue bowl overhead,
 summer cold instead of winter freezing.
 Her mother and father were stuffing her into the salvaged ecosuit
 that had cost them half a catch.
-"Just in case, love," her mother said.
+"Just in case, love," her mother said,
+forcing a smile but unable to keep the fear out of her voice.
 "Just in case."
 
 The ship's horn blared another warning.
@@ -170,7 +171,7 @@ hoping for some sign of activity.
 Given power and powdered metal and the right plans,
 the printer could cast almost any shape imaginable.
 She had seen some of those shapes in drawings
-laid out on tables in Halley's one restaurant, three coffee shops, and six bars.
+laid out on tables in Halley's one restaurant, three cafés, and six bars.
 She had studied them sidelong,
 afraid of being noticed and told to go away,
 while serious men and women had argued weights and tolerances and expansion coefficients.
@@ -261,8 +262,74 @@ she added hastily as her aunt opened her mouth to object.
 "Not if I do a couple of odd jobs for him."
 
 The corner of her aunt's mouth twitched
-with what might once have turned into an actual smile.
+with what might have turned into an actual smile
+once upon a time.
 "Well then, best get to it.
 And stop in at Sandhu's and see what they want for eggs,"
 she added as Madi straightened up.
-"Those were our last ones."
+"Those were our last ones.
+I'll let your uncle know once he's..."
+She finished the sentence with a shrug.
+
+"Thanks auntie,"
+Madi said gratefully.
+She closed the hatch and hurried aft as quietly as she could,
+praying that the sound of her boots on the deck wouldn't rouse her uncle.
+
+The ship's toolbox was tucked under a bench near the stern.
+She dragged it out onto the deck,
+then reached behind it to grab the bag that held *her* tools,
+the ones she had salvaged and mended
+or been given in return for doing odd jobs
+for people around the harbor who remembered her parents.
+She pushed the toolbox back into place and slung her toolbag over her shoulder,
+tucking the bent reciprocating rod into it and snugging the drawstring tight.
+Three quick steps and a practiced leap took her over the railing onto the dock.
+As she raced toward shore,
+she felt the weight of life on the *Guinevere* lift from her shoulders.
+
+The Antarctic summer didn't have days or nights,
+but ships and ports kept their rhythm under the endless mid-morning sun.
+A pair of old women were awake early to scrape barnacles off long strips of plastic
+they had hung off the docks months before.
+The tweaked barnacles' shells glittered with tiny particles of metal
+they had filtered out of the water.
+Ground down and incinerated,
+the day's haul would be a few specks of copper or manganese
+that could patch some piece of tech to keep it limping along for another season.
+One of the women raised a hand in greeting as Madi went by,
+but neither stopped working.
+
+The three teens arguing over
+how they were going to hang up a jelly dredging net so that they could mend it
+didn't say hello either,
+but Madi didn't expect them to.
+*At least they aren't crossing their fingers and spitting,* she thought.
+Sailors were superstitious,
+and she was a sole survivor.
+People didn't look at her sidelong as often as they once had,
+but on those rare occasions when she could sit and drink a cup of tea
+in one of Halley's cafés,
+she usually had empty chairs on either side of her.
+
+Mishra & Co occupied one half of a long shed.
+The big sliding door along the side wasn't open yet,
+so Madi banged on the smaller door cut into it.
+It scraped open on her third knock.
+
+"Hey Jeep," she said brightly to the scowling boy who opened it.
+"Is your dad here?"
+She held up the bent reciprocating rod by way of explanation.
+
+"He's the back," the boy yawned,
+jerking his thumb over his shoulder
+and making just enough room for Madi to squeeze past him.
+
+The inside of the shed smelled like fish, hot metal, and coal.
+Mis-matched squares of light hung from the ceiling.
+The shadows they cast made the compact machines
+and carefully sorted shelves of scrap on the shop floor
+look like battlebots from old movies.
+Madi's heart had been in her throat the first time she ventured between them.
+Now,
+all she saw was their possibilities.

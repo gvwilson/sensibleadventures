@@ -355,7 +355,7 @@ handing the piece to him.
 "Hm."
 The burly machinist turned the rod over in his hands,
 sighted along its length,
-and then held it up to his good ear and tapped it with his metal fingers.
+then held it up to his good ear and tapped it with his metal fingers.
 Madi had seen him go through this ritual more times than she could count,
 and still didn't know if the quiet metal *tick* was just a bluff,
 or if he really could hear flaws too fine for eyes to see.
@@ -365,7 +365,7 @@ He handed the rod back to her.
 "What she needs is replacing."
 
 The tension eased out of Madi's shoulders.
-Mishra didn't bargain unless he'd already mostly decided to do something.
+Mr. Mishra didn't bargain unless he'd already mostly decided to do something.
 Now it was just a matter of price.
 
 In the end,
@@ -382,7 +382,7 @@ scowling as always,
 to say that lunch was ready
 but *amma* said he had to clean up first.
 
-"You hungry?" Mishra asked,
+"You hungry?" Mr. Mishra asked,
 spinning the handwheel on the side of the drill
 to lift the laser into its locking position.
 
@@ -391,14 +391,14 @@ to lift the laser into its locking position.
 She held up the egg her aunt had given her.
 
 "Hm."
-Mishra ran his fingers through his beard again.
+Mr. Mishra ran his fingers through his beard again.
 "Not much of a meal to grow on."
 
 "It'll do me fine."
 Madi nodded toward the laser drill as casually as she could.
 "You mind I try a couple of pieces while you're out?"
 
-Mishra was shaking his head before she even finished speaking.
+Mr. Mishra was shaking his head before she even finished speaking.
 "Nuh uh, girl.
 Nobody touches my darling without I'm there to watch."
 Metal fingers tapped the tabletop next to him.
@@ -409,12 +409,89 @@ and nearest after that are all the way up to Taz."
 "Aright," Madi said,
 feigning disappointment.
 "How about I use the mechanical one instead?
-Just for my hands to learn,"
+Just so I can learn a bit,"
 she added hastily.
 "It's not paid work or nothing, I swear.
 I'll just drill some scrap---you can count it all in and out to make sure."
 
-Mishra chuckled.
+Mr. Mishra chuckled.
 "No worry about the scrap, girl.
-And if there's someone paying for work in this town I hain't heard of,
+And no worry about paid word.
+If you've found some of that hereabouts that I han't heard of,
 more power to you."
+He rolled his head to loosen the kinks in his neck,
+then jerked his chin at the cabinet behind her.
+"Mind your eyes, aye?"
+
+"Aye," Madi agreed eagerly.
+She had a pair of yellowing old plastic goggles on her face and the drill bit engaged
+before Mr. Mishra reached the door.
+
+Drilling holes wasn't hard---she'd learned how to do that long ago.
+The hard part was drilling them in the right place.
+After picking up and discarding half a dozen pieces of scrap,
+she found one that was just bent enough to be a challenge.
+The first hole only took a minute.
+It then took her another fifteen minutes to measure, mark, measure again,
+swear under her breath,
+find another pair of calipers in the chaos that was the top of Mr. Mishra's toolbench,
+chock the piece,
+re-set it,
+and slowly, evenly, bring the spinning drillbit down until it just barely kissed the metal and---
+
+"What are you still doing here?"
+She jumped and spun around.
+Jeep was leaning against a set of shelves,
+arms crossed and scowl firmly in place.
+
+"I'm practicing,"
+she said defensively.
+"Aren't you supposed to be having lunch or something?"
+
+His scowl deepened.
+"Finished.
+Does my *da* know you're here?"
+
+"Of course he does."
+Madi scratched a sudden itch on her nose,
+then pulled her hand back down to her side.
+Mr. Mishra *did* know,
+and she had nothing to be nervous about.
+
+"Uh huh.  What about your uncle?"
+Jeep straightened up.
+"Bet he doesn't know how you're wasting your time."
+
+"None of your business what my uncle knows and doesn't,"
+Madi said hotly.
+She turned back to the drill,
+placing her foot firmly on the pedal that controlled the motor's speed.
+
+But Jeep wasn't done, not yet.
+He didn't quite bump into her shoulder as he crossed the crowded space to the toolbench.
+"Better all be here," he said darkly.
+"Anything turns up missing---"
+
+"Anything turns up missing,
+your *da* will know for sure it wasn't you as took it,
+because you wouldn't have the first clue what would be worth taking!"
+Madi snapped.
+She cranked the drill bit up into its locked position and switched the machine off.
+"Here!"
+Three quick twists undid the chocks that held her test piece in place.
+She tossed it at him harder than the distance required,
+then took the calipers from the work tray on the side of the drill
+and slapped them back onto the bench.
+"Gimme a sec and I'll sweep up the shavings too,
+just so you can be sure you got everything."
+Without waiting for answer
+she pulled the goggles off her face
+and grabbed the old broom that stood next to a broken sonic press
+like a forgotten sentry.
+
+Jeep watched her sweep,
+resentment and possibly embarrassment written on his face.
+"You missed a bit,"
+he finally said,
+pointing at a random patch of floor before striding past her.
+This time he *did* bump into her shoulder.

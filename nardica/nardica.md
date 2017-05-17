@@ -180,7 +180,7 @@ but the locomotive would be the first designed and constructed on the southern c
 And more than anything in the world,
 Madi wanted to be part of it.
 
-"Girl! Girl! Slag it, woman, where's that lazy girl at now?"
+"Girl! Girl! Slag it, woman, where's that affing girl at now?"
 Madi jumped at the sound of Uncle Jack's bellow in the galley below her.
 He'd been out with his mates last night,
 which was Uncle Jack-speak for drinking more than he could handle
@@ -193,7 +193,7 @@ and she couldn't remember the last time there'd even been mention of new clothes
 or replacing the tired little boat's frayed dredging nets.
 
 "Girl!" Uncle Jack shouted again.
-"Get your lazy tail down here *now* or saints help me you won't sit for a *week*!"
+"Get your affing tail down here *now* or saints help me you won't sit for a *week*!"
 She heard a meaty *bang!* as he slapped the galley table with his good hand.
 
 With one last longing look at the machine shop,
@@ -223,7 +223,7 @@ She rattled through the little glass jars that sat,
 each one in its proper place,
 on the shelf beside the galley's double-burner stove.
 
-"Damn right I want curry," he grumbled,
+"Affing right I want curry," he grumbled,
 picking up one of the flat bowls they all used as plates
 and handing it to his wife.
 Madi's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
@@ -403,7 +403,7 @@ Mr. Mishra was shaking his head before she even finished speaking.
 Nobody touches my darling without I'm there to watch."
 Metal fingers tapped the tabletop next to him.
 "You break that,
-nearest parts are long away Amundsen,
+nearest parts are long away 'Mundsen,
 and nearest after that are all the way up to Taz."
 
 "Aright," Madi said,
@@ -490,8 +490,65 @@ and grabbed the old broom that stood next to a broken sonic press
 like a forgotten sentry.
 
 Jeep watched her sweep,
-resentment and possibly embarrassment written on his face.
+resentment and something that might have been embarrassment written on his face.
 "You missed a bit,"
 he finally said,
-pointing at a random patch of floor before striding past her.
-This time he *did* bump into her shoulder.
+pointing at a random patch of floor before turning and stalking away.
+The door made a bang as he slammed it shut behind him.
+
+Madi emptied the dustpan into the trash when she was done
+leaned the broom back against the sonic press,
+and tossed her goggles in their drawer angrily.
+It wasn't fair:
+Jeep could use the equipment any time he wanted,
+but all he ever did was complain and look for ways not to.
+"What's the point?"
+he'd shrugged the one time she had asked him why.
+"They got tech up along 'Mundsen can do all this ten times faster than human."
+
+"Well, up along 'Mundsen don't help us here," she'd retorted.
+"And anyway, how would you know what they got along there?
+You never ever been so far as Rothera."
+He'd scowled at that like he scowled at everything,
+but hadn't answered.
+
+The sky was exactly as bright as it had been an hour earlier when Madi stepped outside,
+the straightened reciprocating rod safely in an inside pocket of her coat.
+She peeled her egg as she hurried up the street toward the grocery store,
+trying not to get grease from her fingers onto it as she devoured the rubbery white flesh
+and the warm yellow-brown yolk.
+A few people smiled and nodded hello as she went past.
+She nodded back,
+ignoring the others who sighed or shook their heads
+at the sight of yet another half-wild dredger child roaming the town.
+
+Sandhu's grocery store was out of eggs.
+They had onions,
+though,
+and a whole case of dried green peppers that had come in from somewhere left vaguely unspecified.
+Big Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed paper.
+"For your beautiful aunt,"
+she said over Madi's protests,
+just as she did every time she gave her something special for Aunt Naggie.
+
+Little Mrs. Sandhu snorted just as *she* always did.
+"You should take your little presents yourself," she scolded.
+
+Her wife smiled.
+"*La,* but where would be the romance in that?"
+
+Little Mrs. Sandhu snorted again.
+"You just don't don't want all your special friends in the harbor to realize how big a flock they are."
+
+Whatever Big Mrs. Sandhu might have said next was cut short by
+the jingling of the little bell on the store's front door.
+Three heads turned at a cheerful, "Good morning!"
+as the squarest man Madi had ever seen walked in with a smile on his face.
+
+"Square" really was the only word for him.
+He looked almost as wide as he was tall,
+and his broad forehead and square jaw made his face look like it belonged in a picture frame.
+His strong white teeth gleamed against his black skin when he smiled,
+which seemed to be his only expression.
+Add in the small silvery rectangle of tech set into his temple
+and he looked like he had stepped out of an old movie.

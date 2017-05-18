@@ -526,29 +526,141 @@ Sandhu's grocery store was out of eggs.
 They had onions,
 though,
 and a whole case of dried green peppers that had come in from somewhere left vaguely unspecified.
-Big Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed paper.
+Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed paper.
 "For your beautiful aunt,"
 she said over Madi's protests,
 just as she did every time she gave her something special for Aunt Naggie.
 
-Little Mrs. Sandhu snorted just as *she* always did.
+Big Mrs. Sandhu snorted just as *she* always did.
 "You should take your little presents yourself," she scolded.
 
 Her wife smiled.
 "*La,* but where would be the romance in that?"
 
-Little Mrs. Sandhu snorted again.
+Big Mrs. Sandhu snorted again.
 "You just don't don't want all your special friends in the harbor to realize how big a flock they are."
 
-Whatever Big Mrs. Sandhu might have said next was cut short by
+Whatever Little Mrs. Sandhu might have said next was cut short by
 the jingling of the little bell on the store's front door.
 Three heads turned at a cheerful, "Good morning!"
-as the squarest man Madi had ever seen walked in with a smile on his face.
+as the squarest man Madi had ever seen walked in.
 
 "Square" really was the only word for him.
 He looked almost as wide as he was tall,
 and his broad forehead and square jaw made his face look like it belonged in a picture frame.
-His strong white teeth gleamed against his black skin when he smiled,
-which seemed to be his only expression.
-Add in the small silvery rectangle of tech set into his temple
-and he looked like he had stepped out of an old movie.
+His strong white teeth gleamed against his black skin as he smiled,
+add the small silvery rectangle of tech set into his temple
+made him look like he had stepped out of one of the action movies
+that the two Mrs. Sandhus and their friends rented
+to customers they particularly liked.
+
+"Good morning, *sri*," Big Mrs. Sandhu said,
+bowing her head slightly.
+"Is there something we could help you with?"
+
+"Nothing in particular,
+thank you,
+just in need of some supplies.
+Oh,
+and perhaps some advice,
+if that's for sale as well as soy sauce and onions?"
+His twanging accent sounded vaguely 'Merican to Madi,
+though the only 'Merican she had ever actually met
+hadn't done much more than shout and swear at Mr. Mishra
+before stomping off with his broken propellor unmended.
+
+"The advice is free,"
+Little Mrs. Sandhu simpered,,
+wiping her hands on her apron.
+Big Mrs. Sandhu looked sidelong at Madi and rolled her eyes.
+Madi bit back a laugh---Little Mrs. Sandhu's flirting was as famous in Halley
+as her curries and her bargaining skills.
+
+"Excellent,"
+the square man said.
+"I'm just in from South Georgia on the *Taroona*,
+and I'm in need of a place to stay for a few days.
+I don't suppose you could recommend somewhere that isn't too expensive?
+Or even somewhere downright cheap?"
+He spread his hands apologetically.
+"It seems that my luggage went missing in transit."
+
+"Oh you poor *cho*,"
+Little Mrs. Sandhu clucked
+as Big Mrs. Sandhu shook her head.
+
+"The *Taroona*'s crew are a pack of thieves,"
+she said flatly.
+"And worse, I've heard.
+You're lucky if all they nicked was your bags."
+
+The square man sighed.
+"Perhaps, but I have to say, I don't feel particularly lucky.
+I was hoping to set myself up down here,
+but without my tools..."
+He shrugged sadly.
+
+"What kind of tools?" Madi asked.
+She had been about to slip away---as entertaining as it would have been
+to listen to some hard-luck try to con the Mrs. Sandhus,
+her uncle would almost certainly be awake and bellowing for her,
+and she didn't want to leave Aunt Naggie to deal with his ire on her own.
+But just the chance that he might be telling the truth was worth a few more seconds.
+
+The square man grimaced.
+"A couple of half-mil waldoes,
+a sintering laser,
+a set of diffraction lenses,
+a fractal de-ionizer for cleaning up old chips,
+and a---"
+
+"There's no such thing as a fractal de-ionizer,"
+Madi said scornfully.
+
+The square man blinked.
+"Sure there is.
+You take the polarizer out of a medical SQUID
+stick it in a high-conductance fractal mesh,
+and boom---there's your de-ionizer."
+
+Madi frowned.
+"But wouldn't the resonance feedback slag it?"
+
+"If you're careless, sure,"
+the square man admitted.
+"You have to recalibrate the impedance every once in a while
+so that it doesn't overheat,
+but it'll run for years if you take care of it."
+He cocked his head,
+and for a moment Madi felt he was looking at her
+as if she was some strange new machine that he had to repair.
+
+"Well,
+if you two are done with your tech jabber,
+there's a couple of places I can point you to,"
+Big Mrs. Sandhu said briskly.
+"Can't promise they'll be as cheap as you want,
+but they're clean enough
+and you won't wake up in the middle of the night with your kidneys gone."
+
+"Thank you,"
+the square man said absently,
+still studying Madi.
+"And if you don't mind me asking another question,
+where did your daughter learn her tech?
+A lot of people with a lot of years behind them
+wouldn't have thought to worry about the resonance feedback."
+
+"Oh, she's not our daughter,"
+Little Mrs. Sandhu said lightly.
+"She's crew off one of the jelly dredgers."
+
+"Ah."
+The square man nodded as if that explained everything.
+Suddenly he stuck out his hand.
+"Johnson Wales," he said.
+"Pleased to meet you."
+
+Madi hesitated,
+then put out her own hand and shook his.
+"Madica Orens.  Pleased to meet you too."

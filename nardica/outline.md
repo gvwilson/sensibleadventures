@@ -12,14 +12,14 @@ Background
     *   The coal and oil have to be sent under guard
     *   The (mostly foreign) activists who try to destroy it are disparagingly called "druids"
     *   The fact that Nardica is making things worse is mostly joked about
-*   Madi (protagonist) lost her parents years ago in a sea fart
+*   Iffy (protagonist) lost her parents years ago in a sea fart
     *   Bubble of clathrate gas belched from the ocean bottom that sank their ship
     *   The words are a joke, the reality was anything but
     *   "Thar she blows!" (meaning "bubbles sighted") strikes fear into every sailor's heart
 *   Her parents were jelly fishers
     *   Jellyfish have filled the ocean: harvested for fertilizer, and the tweaked ones for fuel
-    *   One of Madi's few possessions is a wildlife book with pictures of all the stinks (extinct creatures)
-    *   Belonged to her grandmother - Madi loves reading the notes scribbled in the margins
+    *   One of Iffy's few possessions is a wildlife book with pictures of all the stinks (extinct creatures)
+    *   Belonged to her grandmother - Iffy loves reading the notes scribbled in the margins
 *   She crews on the _Guinevere_
     *   Ferry boat between Rothera and Halley
     *   Ship belongs to her Aunt Naggie and Uncle Jack (called "Union Jack")
@@ -31,7 +31,7 @@ Background
     *   Reports to the British government in Hobart (England having been overrun by the Dutch)
     *   He's planning to betray Rothera to the Dutch
     *   Needs to get Major Mackles (military commander) and Dr. Jasmine Johel (political/tech) out of town
-*   Madi's love interest is Slack (in the militia)
+*   Iffy's love interest is Slack (in the militia)
 *   In the background are the Green Zillions (the Brazilians)
     *   Eco-militants and pirates
 
@@ -39,7 +39,7 @@ Chapters
 --------
 
 1.  Bad Dreams
-    *   Open with Madi's nightmare about her parents' ship sinking and her improbable rescue
+    *   Open with Iffy's nightmare about her parents' ship sinking and her improbable rescue
         *   She was saved by a salvaged enviro suit
         *   Discover later that its beacon is what brought Wales to them
     *   She wakes to find herself on the _Guinevere_ at dock in Halley
@@ -47,7 +47,7 @@ Chapters
     *   We meet Aunt Naggie and Uncle Jack, and see how badly Uncle Jack treats Aunt Naggie
     *   They run a ferry between (Dutch) Halley and (British) Rothera
     *   Aunt Naggie's special curry - she gets the spice at a shop in Halley
-    *   "Not that jar" (Aunt Naggie smacks Madi's hand away when she goes to season a sandwich) - "That's for special occasions"
+    *   "Not that jar" (Aunt Naggie smacks Iffy's hand away when she goes to season a sandwich) - "That's for special occasions"
     *   Close with her meeting Johnson Wales dockside
 
 2.  Taking on Freight
@@ -56,24 +56,24 @@ Chapters
     *   Uncle Jack isn't interested in passengers who can't pay, but Wales has a phone
     *   "Keyed to me - some Germans seem to want to find out if it'll work with just one thumb, connected or not"
         *   "Germans? You mean Dutch?  Fancy talker..."
-    *   Naggie & Jack go to get supplies, trouble shows up going boat by boat, Madi sneaks out to get them
-    *   Aunt Naggie makes a joke about Madi being happy to get back to see her boyfriend (Uncle Jack snaps at her)
+    *   Naggie & Jack go to get supplies, trouble shows up going boat by boat, Iffy sneaks out to get them
+    *   Aunt Naggie makes a joke about Iffy being happy to get back to see her boyfriend (Uncle Jack snaps at her)
 
 3.  To Rothera
     *   Six-day trip looking over their shoulder
     *   Comment on ever-tech: self-repairing (within limits)
     *   Motor out of the harbor, sail across the Weddell once they're in the wind
     *   Wales looks sadly at the coal engine when Uncle Jack fires it up
-    *   Gives Madi an excuse to strike up a conversation: "Why did you call them German?"
+    *   Gives Iffy an excuse to strike up a conversation: "Why did you call them German?"
     *   Wales explains German is "Deutsch" (first sign of how old he actually is)
     *   Several times a day, Wales uses his phone to check with satellites: no sign of boil
-    *   Wales sees Madi's book
-    *   Third night: Madi has the night watch (hear Jack growl at her, Naggie try to divert him, shows family dynamics)
+    *   Wales sees Iffy's book
+    *   Third night: Iffy has the night watch (hear Jack growl at her, Naggie try to divert him, shows family dynamics)
     *   Hears a soft ping from the phone, Wales talking
-    *   Madi scrambles back to the wheel in time for Wales to barge in: "we need to change course _now_"
+    *   Iffy scrambles back to the wheel in time for Wales to barge in: "we need to change course _now_"
 
 4.  Pirates
-    *   Madi won't without Uncle Jack's say-so
+    *   Iffy won't without Uncle Jack's say-so
     *   Jack comes in, bleary-eyed
     *   Wales tells them there's a ship ahead of them: "Must have been hidden in Larsen Bay"
     *   Jack asks, "What would pirates want with us?"
@@ -94,7 +94,7 @@ Chapters
 
 5.  The Governor
     *   "You will never find a more wretched hive of scum and villainy." - Wales
-    *   Madi bridles.  "It ain't that bad." Wales laughs, tries to explain it's a quote.
+    *   Iffy bridles.  "It ain't that bad." Wales laughs, tries to explain it's a quote.
     *   Jelly fishers with their ultra-fine nets straining goo into vats where it will be boiled down to make slurry for the gas cookers
     *   The smell was like a wall, a hammer, a punch --- like home
     *   Welcoming committee: a dozen hard men with guns and swords (which are really shock sticks - Wales' comment)
@@ -114,21 +114,21 @@ Chapters
 
 6.  Not My Boyfriend
     *   Back at the boat, Aunt Naggie declares that she's going to make curry for dinner
-    *   Only have one day to stock up, so Madi is sent shopping
+    *   Only have one day to stock up, so Iffy is sent shopping
     *   Comments from shopkeepers reveal how handy and trusted she is
-    *   One in particular (half-Zillion): Madi says, "I'll fix yer solar next time, I promise, but I'm on pressing business now..."
+    *   One in particular (half-Zillion): Iffy says, "I'll fix yer solar next time, I promise, but I'm on pressing business now..."
     *   She takes time to find Slack, who's on duty in the salvage district
         *   She has a crush on him (he represents stability and family - his likes her a lot)
         *   He's intimidated by her competence and intelligence
     *   Slack spots one of the Governor's watchers following her (a person and a drone), and wonders why
     *   A few minutes later there's a call for him
-    *   Madi has to rush back to pick up the goods she's ordered
+    *   Iffy has to rush back to pick up the goods she's ordered
     *   The woman whose solar she was going to fix is abrupt and afraid instead of welcoming
         *   WHY?
-    *   Wishes Madi good luck (foreshadowing Zillion spies)
+    *   Wishes Iffy good luck (foreshadowing Zillion spies)
     *   Next morning, two ships ready to sail: the _Guinevere_ and the smaller _Bengal_
     *   Slack is one of the soldiers on the _Guinevere_
-    *   Madi: "What're you doing here?"
+    *   Iffy: "What're you doing here?"
     *   Slack: "Following Major Mackles and some crazy man to the middle of nowhere"
 
 7.  At Sea
@@ -153,7 +153,7 @@ Chapters
     *   Wales speculates (half-joking) that the universe is trying to stop him from getting to his destination
     *   Outburst from Mackles: everybody thinks he's a con man, but they can't take the chance he might not be
     *   Make it clear Mackles suspects the Governor's impending treason and knows why he's been sent out of town
-    *   Madi goes shopping with Aunt Naggie - conversation full of allusions with a shopkeeper
+    *   Iffy goes shopping with Aunt Naggie - conversation full of allusions with a shopkeeper
     *   Woken that "night" by shouting in the street
     *   Coup in Rothera: Governor has declared independence, recognized by the Dutch
     *   Soldiers loyal to the Governor tried to arrest Mackles and Johel
@@ -167,9 +167,9 @@ Chapters
     *   Wales: "Doesn't matter: if the Germans are backing him, he'll have sats watching us"
     *   Through the Scrape to the ice (dozens of little nameless rivers on the way)
     *   Slack weakening despite some tech medicine, but Wales healing unnaturally fast
-        *   Makes Madi resent Wales
-    *   Aunt Naggie tries to comfort Madi, but throws a curry leaf out the window
-    *   Madi mentions it to Wales - Naggie's spying is revealed
+        *   Makes Iffy resent Wales
+    *   Aunt Naggie tries to comfort Iffy, but throws a curry leaf out the window
+    *   Iffy mentions it to Wales - Naggie's spying is revealed
     *   She rants about the Zillions being the only ones who care about the world
     *   And how happy she'll be to be rid of Uncle Jack
     *   Wales inspects the other "leaves" in her jar - asks Mackles how long 'til they reach the railhead
@@ -184,7 +184,7 @@ Chapters
     *   Tells Johel she'll be repatriated to Australia
 
 11. The Decision
-    *   Madi helps Johel break the trio out of prison
+    *   Iffy helps Johel break the trio out of prison
     *   Dr. Johel reveals that her grandmother worked with Wales
         *   She knows that what he's been doing all these years is collecting parts to rebuild whatever is really at the hidden base
     *   She says, "Finish it," then dies of wounds
@@ -193,9 +193,9 @@ Chapters
     *   The Zillions attack
         *   Wales and Mackles used one of Naggie's "curry leafs" to summon them
     *   Wales wakes up the mulcher
-    *   Madi finds a picture of him in the cab with other people
+    *   Iffy finds a picture of him in the cab with other people
     *   Wales is injured again, more severely
-        *   Needs Madi's help to get to the base
+        *   Needs Iffy's help to get to the base
 
 13. The Machine
     *   Wales is two hundred and fifty years old
@@ -206,12 +206,12 @@ Chapters
     *   Big explosion
 
 14. Every Way Is North
-    *   Madi returns to Newcastle
+    *   Iffy returns to Newcastle
     *   The _Guinevere_ seems so small and dirty now - Uncle Jack sitting in the stern, lost
-        *   Madi: "I'm just going to get my stuff"
+        *   Iffy: "I'm just going to get my stuff"
         *   Uncle Jack starts to bluster, she scares him off
-    *   Madi flips through her nature book, notices a scrawl she'd never seen before
+    *   Iffy flips through her nature book, notices a scrawl she'd never seen before
     *   "Got the same spam today as everyone else - some guy claiming he's from the future and that the world is going to melt"
     *   "Like, who doesn't know that, and anyway, what am _I_ supposed to do about it?"
-    *   Madi realizes that people can't fix the past (her parents, the world), but they _can_ make the future better
+    *   Iffy realizes that people can't fix the past (her parents, the world), but they _can_ make the future better
     *   Goes back to the shopkeeper that Aunt Naggie spoke to (a Zillion spy) and signs up

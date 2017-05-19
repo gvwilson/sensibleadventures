@@ -7,7 +7,7 @@ permalink: /nardica/
 
 <em>
 
-Madi had a bad dream that night.
+Iffy had a bad dream that night.
 It was the same bad dream she always had,
 because it wasn't really a dream.
 She was on deck.
@@ -20,7 +20,7 @@ forcing a smile but unable to keep the fear out of her voice.
 "Just in case."
 
 The ship's horn blared another warning.
-Madi jumped and started crying.
+Iffy jumped and started crying.
 She was only half awake---her parents had pulled her out of her cost
 just a few minutes before.
 Her mother hugged her,
@@ -33,30 +33,30 @@ She realized years later that he was scared.
 "She's boiling!" a crewman shouted from the crow's nest.
 "Two points to starboard!"
 
-Madi's mother sealed the last flap on the ecosuit.
+Iffy's mother sealed the last flap on the ecosuit.
 This time her father didn't try to stop her when she hugged her daughter.
-"I love you so much," she said in Madi's ear.
+"I love you so much," she said in Iffy's ear.
 
-"I love you too," Madi replied automatically.
+"I love you too," Iffy replied automatically.
 The bulky suit made it difficult for her to bend her arms,
 but she tried anyway.
 Her father knelt down and put his arms around them both.
 He smelled like engine oil and the soap he always used when he shaved.
-That was Madi remembered most clearly later,
+That was Iffy remembered most clearly later,
 when she had trouble remembering what his face had looked like.
 
 The ship heeled hard as the captain tried to steer them away
 from the seething mass of bubbles ahead.
 "She's going to blow!" the crewman shouted.
 The ship's horn blared one last time,
-and then all Madi could hear was a rushing sound
+and then all Iffy could hear was a rushing sound
 that seemed to come from all around them.
 Sobbing,
 her mother closed the faceplate on the ecosuit.
 
 Without warning,
 the ship staggered and dropped two meters.
-Madi screamed as she fell back to the deck.
+Iffy screamed as she fell back to the deck.
 Her parents landed beside her.
 A great frothing wash of sea water crashed down on top of them.
 She screamed again as it dragged her mother and father
@@ -65,7 +65,7 @@ They grabbed for it,
 but then the ship plummeted again
 as the gas bubbles rising from the ocean floor below
 churned the water into foam.
-The last thing Madi saw before she went under
+The last thing Iffy saw before she went under
 was the crewman who had been in the crow's nest
 flying through the air,
 his arms and legs flapping like broken wings
@@ -110,11 +110,11 @@ before the frozen southern ocean took them away.
 
 </em>
 
-Madi woke to Aunt Naggie banging around in the galley.
+Iffy woke to Aunt Naggie banging around in the galley.
 She lay in her narrow cot for one final precious warm moment
 before pushing aside the salvaged sleeping bag she used as a cover
 and pulling on a second layer of clothes.
-That banging was her aunt's way of letting Madi know that Uncle Jack was awake.
+That banging was her aunt's way of letting Iffy know that Uncle Jack was awake.
 If she knew what was good for her,
 she'd be in the galley doing something useful before he got there.
 
@@ -149,22 +149,22 @@ Two thousand people now called Rothera home,
 dredging in the summer and rendering the catch down for fuel and food in the winter
 or tending to the town's precious greenhouses.
 
-Madi shaded her eyes against the sharp sun.
+Iffy shaded her eyes against the sharp sun.
 Further back from shore,
 where the land began to rise,
 stood a cluster of new buildings.
 Most were just bunkhouses,
 but one was a general store,
-and another---the big one that Madi had watched grow in stages through the spring---was
+and another---the big one that Iffy had watched grow in stages through the spring---was
 a machine shop.
 Shiploads of precious equpiment had arrived throughout the spring
 and been hauled into it:
-forges and presses and a lathe with a spindle thicker than Madi's leg
+forges and presses and a lathe with a spindle thicker than Iffy's leg
 and even a printer hauled south from Australia itself
 in the hold of a destroyer.
 The whole town had turned out when it came into harbor,
 marveling at its sleek, menacing profile and its stubby railguns.
-Madi hadn't given it a second glance once its cargo came ashore.
+Iffy hadn't given it a second glance once its cargo came ashore.
 A printer, an actual printer---it could make anything.
 
 *Almost anything,* she corrected herself as she studied the distant building,
@@ -179,15 +179,15 @@ while serious men and women had argued weights and tolerances and expansion coef
 The railroad they were going to build wouldn't be Antarctica's first,
 but the locomotive would be the first designed and constructed on the southern continent.
 And more than anything in the world,
-Madi wanted to be part of it.
+Iffy wanted to be part of it.
 
 "Girl! Girl! Slag it, woman, where's that affing girl at now?"
-Madi jumped at the sound of Uncle Jack's bellow in the galley below her.
+Iffy jumped at the sound of Uncle Jack's bellow in the galley below her.
 He'd been out with his mates last night,
 which was Uncle Jack-speak for drinking more than he could handle
 and gambling more than he could afford to.
 Aunt Naggie somehow managed to pry enough out of his grasping hands
-(or, Madi suspected, winkle enough out of his pockets while he was snoring)
+(or, Iffy suspected, winkle enough out of his pockets while he was snoring)
 to keep the *Guinevere* afloat,
 but it had been months since they'd had fresh fruit,
 and she couldn't remember the last time there'd even been mention of new clothes
@@ -198,7 +198,7 @@ or replacing the tired little boat's frayed dredging nets.
 She heard a meaty *bang!* as he slapped the galley table with his good hand.
 
 With one last longing look at the machine shop,
-Madi undogged the hatch beside her and yanked it open.
+Iffy undogged the hatch beside her and yanked it open.
 "Here, captain," she said over the scrape and squeal of rusty hinges.
 "I was just---"
 
@@ -207,7 +207,7 @@ and don't try to tell me otherways!"
 Her uncle glared up at her,
 squinting as the bright sky framing her head assaulted his hungover eyes.
 There was a bruise on his forehead that hadn't been there the evening before,
-Madi noticed.
+Iffy noticed.
 That might mean a visit from the police later.
 He'd rave on for an hour if they came
 about how the governor was just another rock-hogging idiot
@@ -227,24 +227,24 @@ on the shelf beside the galley's double-burner stove.
 "Affing right I want curry," he grumbled,
 picking up one of the flat bowls they all used as plates
 and handing it to his wife.
-Madi's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
+Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
 
 With a tilt of her frying pan and a single practiced flip of her spatula,
 Aunt Naggie slid two perfectly friend eggs into Uncle Jack's bowl.
 Without even a grunt of thanks,
 he took the last flatbread from the table and disappeared back into the cabin.
-Madi heard glass clink and something gurgle out of a bottle,
+Iffy heard glass clink and something gurgle out of a bottle,
 and then the door closed.
 
 Aunt Naggie let out the breath she'd been holding before looking up at her niece.
 "You hungry?" she asked.
 
-"Not really," Madi lied.
+"Not really," Iffy lied.
 
 "Mm.  Here."
 Her aunt pulled a hard-boiled egg out of the pocket of her apron
 and tossed it up through the hatch.
-Madi snagged it one-handed.
+Iffy snagged it one-handed.
 It was almost as big as her fist,
 and still warm.
 "Once you're done with that,
@@ -255,7 +255,7 @@ kneading the small of her back with one hand.
 Best be having a look at that too before it starts to bother him."
 
 "I know what that is,"
-Madi said hurriedly.
+Iffy said hurriedly.
 "The reciprocating rod's bent again.
 Mister Mishra will straighten it out if I take it in before he gets busy.
 It won't cost anything,"
@@ -267,13 +267,13 @@ with what might have turned into an actual smile
 once upon a time.
 "Well then, best get to it.
 And stop in at Sandhu's and see what they want for eggs,"
-she added as Madi straightened up.
+she added as Iffy straightened up.
 "Those were our last ones.
 I'll let your uncle know once he's..."
 She finished the sentence with a shrug.
 
 "Thanks auntie,"
-Madi said gratefully.
+Iffy said gratefully.
 She closed the hatch and hurried aft as quietly as she could,
 praying that the sound of her boots on the deck wouldn't rouse her uncle.
 
@@ -298,13 +298,13 @@ they had filtered out of the water.
 Ground down and incinerated,
 the day's haul would be a few specks of copper or manganese
 that could patch some piece of tech to keep it limping along for another season.
-One of the women raised a hand in greeting as Madi went by,
+One of the women raised a hand in greeting as Iffy went by,
 but neither stopped working.
 
 The three teens arguing over
 how they were going to hang up a jelly dredging net so that they could mend it
 didn't say hello either,
-but Madi didn't expect them to.
+but Iffy didn't expect them to.
 *At least they aren't crossing their fingers and spitting,* she thought.
 Sailors were superstitious,
 and she was a sole survivor.
@@ -315,7 +315,7 @@ she usually had empty chairs on either side of her.
 
 Mishra & Co occupied one half of a long shed.
 The big sliding door along the side wasn't open yet,
-so Madi banged on the smaller door cut into it.
+so Iffy banged on the smaller door cut into it.
 It scraped open on her third knock.
 
 "Hey Jeep," she said brightly to the scowling boy who opened it.
@@ -324,26 +324,26 @@ She held up the bent reciprocating rod by way of explanation.
 
 "He's the back," the boy yawned,
 jerking his thumb over his shoulder
-and making just enough room for Madi to squeeze past him.
+and making just enough room for Iffy to squeeze past him.
 
 The inside of the shed smelled like fish, hot metal, and coal.
 Mis-matched squares of light hung from the ceiling.
 The shadows they cast made the compact machines
 and carefully sorted shelves of scrap on the shop floor
 look like battlebots from old movies.
-Madi's heart had been in her throat the first time she ventured between them.
+Iffy's heart had been in her throat the first time she ventured between them.
 All she saw now was what they could be turned into.
 
 Sanjay Mishra was sharpening his fingers on a grinding wheel
 in the center of the shop.
-He nodded at Madi
+He nodded at Iffy
 but didn't try to speak until the last sparks had flown off his fingertips
 and the grinding wheel had come to a halt.
 Pulling his safety goggles up onto his forehead,
 he tugged his real fingers through the tangles in his beard reflectively.
 "Buy, sell, or trade?" he finally asked.
 
-Madi cleared her throat.
+Iffy cleared her throat.
 "Trade."
 She held up the bent reciprocating rod.
 "Tangled some flotsam coming in last night.
@@ -357,7 +357,7 @@ handing the piece to him.
 The burly machinist turned the rod over in his hands,
 sighted along its length,
 then held it up to his good ear and tapped it with his metal fingers.
-Madi had seen him go through this ritual more times than she could count,
+Iffy had seen him go through this ritual more times than she could count,
 and still didn't know if the quiet metal *tick* was just a bluff,
 or if he really could hear flaws too fine for eyes to see.
 
@@ -365,7 +365,7 @@ He handed the rod back to her.
 "Bend her straight, she'll just bend bent again," he pronounced.
 "What she needs is replacing."
 
-The tension eased out of Madi's shoulders.
+The tension eased out of Iffy's shoulders.
 Mr. Mishra didn't bargain unless he'd already mostly decided to do something.
 Now it was just a matter of price.
 
@@ -387,7 +387,7 @@ but *amma* said he had to clean up first.
 spinning the handwheel on the side of the drill
 to lift the laser into its locking position.
 
-"No thanks," Madi said.
+"No thanks," Iffy said.
 "I brought."
 She held up the egg her aunt had given her.
 
@@ -396,7 +396,7 @@ Mr. Mishra ran his fingers through his beard again.
 "Not much of a meal to grow on."
 
 "It'll do me fine."
-Madi nodded toward the laser drill as casually as she could.
+Iffy nodded toward the laser drill as casually as she could.
 "You mind I try a couple of pieces while you're out?"
 
 Mr. Mishra was shaking his head before she even finished speaking.
@@ -407,7 +407,7 @@ Metal fingers tapped the tabletop next to him.
 nearest parts are long away 'Mundsen,
 and nearest after that are all the way up to Taz."
 
-"Aright," Madi said,
+"Aright," Iffy said,
 feigning disappointment.
 "How about I use the mechanical one instead?
 Just so I can learn a bit,"
@@ -424,7 +424,7 @@ He rolled his head to loosen the kinks in his neck,
 then jerked his chin at the cabinet behind her.
 "Mind your eyes, aye?"
 
-"Aye," Madi agreed eagerly.
+"Aye," Iffy agreed eagerly.
 She had a pair of yellowing old plastic goggles on her face and the drill bit engaged
 before Mr. Mishra reached the door.
 
@@ -454,7 +454,7 @@ His scowl deepened.
 Does my *da* know you're here?"
 
 "Of course he does."
-Madi scratched a sudden itch on her nose,
+Iffy scratched a sudden itch on her nose,
 then pulled her hand back down to her side.
 Mr. Mishra *did* know,
 and she had nothing to be nervous about.
@@ -464,7 +464,7 @@ Jeep straightened up.
 "Bet he doesn't know how you're wasting your time."
 
 "None of your business what my uncle knows and doesn't,"
-Madi said hotly.
+Iffy said hotly.
 She turned back to the drill,
 placing her foot firmly on the pedal that controlled the motor's speed.
 
@@ -476,7 +476,7 @@ He didn't quite bump into her shoulder as he crossed the crowded space to the to
 "Anything turns up missing,
 your *da* will know for sure it wasn't you as took it,
 because you wouldn't have the first clue what would be worth taking!"
-Madi snapped.
+Iffy snapped.
 She cranked the drill bit up into its locked position and switched the machine off.
 "Here!"
 Three quick twists undid the chocks that held her test piece in place.
@@ -497,7 +497,7 @@ he finally said,
 pointing at a random patch of floor before turning and stalking away.
 The door made a bang as he slammed it shut behind him.
 
-Madi emptied the dustpan into the trash when she was done
+Iffy emptied the dustpan into the trash when she was done
 leaned the broom back against the sonic press,
 and tossed her goggles in their drawer angrily.
 It wasn't fair:
@@ -513,7 +513,7 @@ You never ever been so far as Rothera."
 He'd scowled at that like he scowled at everything,
 but hadn't answered.
 
-The sky was exactly as bright as it had been an hour earlier when Madi stepped outside,
+The sky was exactly as bright as it had been an hour earlier when Iffy stepped outside,
 the straightened reciprocating rod safely in an inside pocket of her coat.
 She peeled her egg as she hurried up the street toward the grocery store,
 trying not to get grease from her fingers onto it as she devoured the rubbery white flesh
@@ -529,7 +529,7 @@ though,
 and a whole case of dried green peppers that had come in from somewhere left vaguely unspecified.
 Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed paper.
 "For your beautiful aunt,"
-she said over Madi's protests,
+she said over Iffy's protests,
 just as she did every time she gave her something special for Aunt Naggie.
 
 Big Mrs. Sandhu snorted just as *she* always did.
@@ -544,7 +544,7 @@ Big Mrs. Sandhu snorted again.
 Whatever Little Mrs. Sandhu might have said next was cut short by
 the jingling of the little bell on the store's front door.
 Three heads turned at a cheerful, "Good morning!"
-as the squarest man Madi had ever seen walked in.
+as the squarest man Iffy had ever seen walked in.
 
 "Square" really was the only word for him.
 He looked almost as wide as he was tall,
@@ -565,7 +565,7 @@ just in need of some supplies.
 Oh,
 and perhaps some advice,
 if that's for sale as well as soy sauce and onions?"
-His twanging accent sounded vaguely 'Merican to Madi,
+His twanging accent sounded vaguely 'Merican to Iffy,
 though the only 'Merican she had ever actually met
 hadn't done much more than shout and swear at Mr. Mishra
 before stomping off with his broken propellor unmended.
@@ -573,8 +573,8 @@ before stomping off with his broken propellor unmended.
 "The advice is free,"
 Little Mrs. Sandhu simpered,,
 wiping her hands on her apron.
-Big Mrs. Sandhu looked sidelong at Madi and rolled her eyes.
-Madi bit back a laugh---Little Mrs. Sandhu's flirting was as famous in Halley
+Big Mrs. Sandhu looked sidelong at Iffy and rolled her eyes.
+Iffy bit back a laugh---Little Mrs. Sandhu's flirting was as famous in Halley
 as her curries and her bargaining skills.
 
 "Excellent,"
@@ -601,7 +601,7 @@ I was hoping to set myself up down here,
 but without my tools..."
 He shrugged sadly.
 
-"What kind of tools?" Madi asked.
+"What kind of tools?" Iffy asked.
 She had been about to slip away---as entertaining as it would have been
 to listen to some hard-luck try to con the Mrs. Sandhus,
 her uncle would almost certainly be awake and bellowing for her,
@@ -616,7 +616,7 @@ a fractal de-ionizer for cleaning up old chips,
 and a---"
 
 "There's no such thing as a fractal de-ionizer,"
-Madi said scornfully.
+Iffy said scornfully.
 
 The square man blinked.
 "Sure there is.
@@ -624,7 +624,7 @@ You take the polarizer out of a medical SQUID
 stick it in a high-conductance fractal mesh,
 and boom---there's your de-ionizer."
 
-Madi frowned.
+Iffy frowned.
 "But wouldn't the resonance feedback slag it?"
 
 "If you're careless, sure,"
@@ -633,7 +633,7 @@ the square man admitted.
 so that it doesn't overheat,
 but it'll run for years if you take care of it."
 He cocked his head,
-and for a moment Madi felt he was looking at her
+and for a moment Iffy felt he was looking at her
 as if she was some strange new machine that he had to repair.
 
 "Well,
@@ -646,7 +646,7 @@ and you won't wake up in the middle of the night with your kidneys gone."
 
 "Thank you,"
 the square man said absently,
-still studying Madi.
+still studying Iffy.
 "And if you don't mind me asking another question,
 where did your daughter learn her tech?
 A lot of people with a lot of years behind them
@@ -662,6 +662,6 @@ Suddenly he stuck out his hand.
 "Johnson Wales," he said.
 "Pleased to meet you."
 
-Madi hesitated,
+Iffy hesitated,
 then put out her own hand and shook his.
-"Madica Orens.  Pleased to meet you too."
+"Iffelia Orens.  Pleased to meet you too."

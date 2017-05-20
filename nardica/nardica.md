@@ -530,15 +530,18 @@ Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed pa
 "For your beautiful aunt,"
 she said over Iffy's protests,
 just as she did every time she gave her something special for Aunt Naggie.
+"And here, take this too."
+She handed Iffy a small plastic jar with a screw-on lid.
 
 Big Mrs. Sandhu snorted just as *she* always did.
 "You should take your little presents yourself," she scolded.
 
 Her wife smiled.
-"*La,* but where would be the romance in that?"
+"*La,* but where would be the mystery in that?"
 
 Big Mrs. Sandhu snorted again.
-"You just don't don't want all your special friends in the harbor to realize how big a flock they are."
+"You just don't don't want any of your special friends in the harbor to realize
+how big others you have."
 
 Whatever Little Mrs. Sandhu might have said next was cut short by
 the jingling of the little bell on the store's front door.
@@ -663,4 +666,99 @@ Suddenly he stuck out his hand.
 
 Iffy hesitated,
 then put out her own hand and shook his.
-"Iffelia Orens.  Pleased to meet you too."
+"Iffelia Kwan.  Pleased to meet you too."
+
+## Chapter 2
+
+Iffy ran all the way back to the *Guinevere*,
+dodging around the people and machines going about their chores in Halley's narrow streets.
+"Attention! Attention!" scolded the ancient street sweeping bot that everyone called Frenchy
+as she squeezed between it and a rack of silvery roof moss left out to dry in the sun.
+
+The two old women she had seen earlier were still bent over their work when she reached the dock.
+"How's yer haul?" she panted,
+stopping and putting her hands on her knees to catch her breath.
+
+"Not bad," one of the women said.
+She nudged a bucket full of ground-up barnacles with her boot.
+"Pro'ly get thirty grams outta this when it's rendered down."
+Her smile showed more gaps than teeth.
+
+"Good luck," Iffy said.
+She straightened up and walked quickly the rest of the way to the *Guinevere*,
+her lips moving as she practiced what she was going to say to her aunt and uncle.
+
+Metal clanged on metal as she reached the ship.
+"Affing stupid---dammit!"
+Uncle Jack swore,
+a wrench in one hand and a screw cuff in the other.
+Iffy's heart sank.
+He was trying to fix the backstay cable she had mended while they were last out.
+It was a fiddlesome job at the best of times,
+and if he'd been drinking the night before...
+
+Uncle Jack's face darkened as he spotted her.
+"Where'n hell you been, girl?" he demanded,
+waving the wrench at her.
+"There's work as needs done!
+And don't give me any of your excuses!"
+he continued as Iffy opened her mouth.
+"You get your backside up here and earn your keep or so help me!"
+
+"But---"
+
+"Now!"
+Heads turned on nearby ships as Uncle Jack's bellow echoed across the water.
+
+Ears burning,
+Iffy climbed the three-step ladder onto the deck.
+Her heart sank again at the mess waiting for her.
+Her uncle had sawed through the frayed ends of the backstay cable.
+There was no way it would be long enough now to weave back together.
+She would have to swap it for one of the forestay cables,
+which meant an hour at least of winding and unwinding.
+
+Her uncle crossed his arms,
+tapping his wrench against his ribs.
+"Well?  Where've you been?"
+
+"Groceries,"
+Iffy said sullenly.
+She pulled the mended reciprocating rod out of her jacket
+and held it out to him.
+"Got this fixed too."
+
+Uncle Jack plucked it from her hand.
+"Don't see no groceries," he grumbled.
+
+"I'll mind those," Aunt Naggie said from behind Iffy,
+sticking her head up through an open hatch
+like a turtle cautiously checking that the world outside its shell.
+"Did they have eggs?"
+
+"Nope, but I got a piece of pepper."
+Iffy fished it and the onions she had bought out of her jacket's deep pockets
+and handed them to her aunt.
+"Oh, and she said to give you this too."
+She handed over the little jar.
+"What's in it?"
+
+"Just curry,"
+Aunt Naggie said lightly,
+tucking the jar into her apron.
+"Now, did you get anything more to eat?
+I was going to make some noodles for Jack."
+
+"I'm fine,"
+Iffy lied,
+her stomach grumbling.
+"But auntie,
+there was this man at the Sandhu's.
+He's a mechanic,
+a real one,
+'cept he come in on the *Taroona* and they stole his gear.
+He was asking after a place to stay,
+and we got to talking,
+and he said that if he could find work and all,
+he might be looking for an apprentice."
+

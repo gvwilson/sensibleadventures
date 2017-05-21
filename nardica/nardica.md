@@ -661,7 +661,7 @@ Little Mrs. Sandhu said lightly.
 "Ah."
 The square man nodded as if that explained everything.
 Suddenly he stuck out his hand.
-"Johnson Wales," he said.
+"Johnson Tales," he said.
 "Pleased to meet you."
 
 Iffy hesitated,
@@ -743,7 +743,7 @@ and handed them to her aunt.
 She handed over the little jar.
 "What's in it?"
 
-"Just curry,"
+"Stuff and things,"
 Aunt Naggie said lightly,
 tucking the jar into her apron.
 "Now, did you get anything more to eat?
@@ -756,9 +756,85 @@ her stomach grumbling.
 there was this man at the Sandhu's.
 He's a mechanic,
 a real one,
-'cept he come in on the *Taroona* and they stole his gear.
+'cept he come in on the *Taroona* and they upped his gear.
 He was asking after a place to stay,
 and we got to talking,
-and he said that if he could find work and all,
+and he said that if he could get his tools back and find work and all,
 he might be looking for an apprentice."
+
+"An apprentice?
+Well, good for Jeep---and his dad, too.
+It'll do them both the world to get some time away from each other."
+
+"Not Jeep!"
+Iffy exclaimed in annoyance.
+"Me!  I could be his 'prentice!"
+The two Mrs. Sandhus had listened with bemusement
+as her conversation with Mr. Tales---"call me Johnson, please"---leaped
+from de-ionizers to micro-welding the cracked cases of old chips
+to the mended reciprocating rod that Iffy had taken out of her coat to show him.
+It wasn't until Big Mrs. Sandhu cleared her throat
+and suggested pointedly that the conversation might best be continued
+where they *wouldn't* be blocking her aisles
+that Iffy realized how much time had gone by.
+
+Uncle Jack's hand came down heavily on her shoulder.
+He spun her around to face him.
+"You're not going to be anyone's anything,"
+he growled,
+shaking her for emphasis.
+"Not 'til you've paid off every last rand you owe me."
+
+Something inside Iffy snapped.
+"Fair enough," she said coldly,
+knocking his arm away.
+"You show me the accounts so I can see just how much that is
+and I'll get to working on it.
+You tell me how much my food and bunk is,
+and I'll tell you how much for my time keeping this twist of scrap afloat
+when you're too wrung out to do it yourself,
+and we'll see how long it is 'til I'm quit and clear!"
+
+"What we'll see is how well you swim!"
+Uncle Jack roared,
+raising the heavy wrench he was holding like a club.
+
+"No!"
+Aunt Naggie scrambled onto deck and pulled Iffy away from her furious uncle.
+"Jack, don't!
+She's just talking.
+She's not going anywhere."
+
+Uncle Jack shook the wrench at them.
+"I best see more out of both of you than just talking," he spat.
+"Now get me my affing lunch.
+And you!"
+He jabbed a finger at Iffy.
+"Fix that affing cable.
+I want us ready to sail tomorrow."
+
+"She'll do it right away, I promise,"
+Aunt Naggie said.
+Her arm tightened around Iffy's shoulders,
+a silent warning not to say anything.
+
+Uncle Jack stalked off,
+muttering under his breath.
+"You best come below and help me with the noodles,"
+Aunt Naggie said,
+shooing Iffy toward the open hatch.
+"That'll give him some time to calm down."
+
+"Yes auntie,"
+Iffy said,
+her voice only slightly shaky.
+Uncle Jack had never actually hit her---not really.
+But with each passing season,
+as the *Guinevere* slowly fell apart beneath them despite all of Iffy's hard work,
+his one-sided discussions of big deals and "if only"
+had turned into angry rants and sullen silences.
+She didn't know where she would go,
+and she couldn't bear the thought of leaving Aunt Naggie to face him alone,
+but Iffy knew that one day soon she was going to walk down the gangplank
+and never come back.
 

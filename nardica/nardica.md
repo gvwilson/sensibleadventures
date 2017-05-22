@@ -284,14 +284,14 @@ or been given in return for doing odd jobs
 for people around the harbor who remembered her parents.
 She pushed the toolbox back into place and slung her toolbag over her shoulder,
 tucking the bent reciprocating rod into it and snugging the drawstring tight.
-Three quick steps and a practiced leap took her over the railing onto the dock.
+Three quick steps and a practiced leap took her over the railing onto the pier.
 As she raced toward shore,
 she felt the weight of life on the *Guinevere* lift from her shoulders.
 
 The Antarctic summer didn't have days or nights,
 but ships and ports kept their rhythm under the endless mid-morning sun.
 A pair of old women were awake early to scrape barnacles off long strips of plastic
-they had hung off the docks months before.
+they had hung off the piers months before.
 The tweaked barnacles' shells glittered with tiny particles of metal
 they had filtered out of the water.
 Ground down and incinerated,
@@ -675,7 +675,8 @@ dodging around the people and machines going about their chores in Halley's narr
 "Attention! Attention!" scolded the ancient street sweeping bot that everyone called Frenchy
 as she squeezed between it and a rack of silvery roof moss left out to dry in the sun.
 
-The two old women she had seen earlier were still bent over their work when she reached the dock.
+The two old barnacle farmers she had seen earlier
+were still bent over their work when she reached the pier.
 "How's yer haul?" she panted,
 stopping and putting her hands on her knees to catch her breath.
 
@@ -838,3 +839,85 @@ and she couldn't bear the thought of leaving Aunt Naggie to face him alone,
 but Iffy knew that one day soon she was going to walk down the gangplank
 and never come back.
 
+One day, but not today.
+
+The *Guinevere*'s galley wasn't big enough for two people to work side by side,
+so Iffy sat at the little fold-down table
+and watched Aunt Naggie move with the efficiency of long practice.
+Within minutes,
+two thinly-sliced onions sizzled in a battered ceramic frying pan
+while a pot of water came to the boil.
+A handful of ground mushrooms and a splash of soy sauce joined the onions,
+filling the air with a rich aroma that made Iffy's stomach growl again.
+
+"You going to add a bit of the pepper?"
+Iffy asked,
+turning a chopstick over and over in her hands.
+
+"Best save that for some other day,"
+Aunt Naggie replied.
+She hefted a handful of noodles,
+added a few more,
+and dropped them into the pot.
+
+Iffy put the chopstick back on the table and stretched.
+"What about the other stuff?
+That jar Mrs. Sandhu gave me?"
+
+Aunt Naggie froze for a moment,
+then resumed her stirring.
+"That's not for cooking, *cho*.
+It's for my headaches."
+She knocked bits of onion off her spatula into the frying pan
+and glanced over her shoulder at Iffy
+with a brittle smile on her face.
+"Best we don't mention it to your uncle, all right?"
+
+"Sure," Iffy said.
+Suddenly worried,
+she stood up and hugged her aunt from behind.
+"Everything aright?"
+
+Her aunt's shoulders slumped.
+She patted Iffy's arm with her free hand while stirring with the other.
+"Everything's fine, *cho*.
+It's just an old woman kind of thing.
+Nothing we girls need bother your uncle about.
+Now, give me a hand with the pot."
+
+A few minutes later,
+Iffy sat down with her back against the wheelhouse door
+and a steaming bowl of noodles in her lap.
+She bowed her head and said a brief prayer for her parents,
+then began scooping noodles into her mouth.
+Not even the sound of her uncle grumbling belowdecks
+that there ought to be some affing tofu in the noodles
+could spoil the warmth spreading from her knotted belly.
+
+After the noodles were gone,
+she wiped the last drops of sauce out of the bowl with her thumb
+and licked it.
+The faint tang of machinery and oil from her unwashed hand barely registered.
+She sighed.
+She would like nothing better than to close her eyes for a moment,
+or maybe a couple of hours,
+but the forestay cable *did* need mending,
+and she would bet her slightly-too-small boots that
+her uncle had left the engine in pieces for her to put back together.
+She patted her coat to check that the mended reciprocating rod was still in her pocket
+and hauled herself to her feet.
+
+Back where the pier met the shore,
+one of the barnacle farmers raised her hand.
+Iffy waved back.
+One of the old women had a pole across her shoulders
+with a large bucket dangling from each end.
+The other had stacked the smaller buckets on a two-wheeled cart
+and was carefully lowering their precious sheets of plastic back into the sea.
+They would haul in on the next pier tomorrow,
+Iffy knew,
+then the next and the next
+until their circuit brought them back to where they had started.
+They had been doing it since before she was born.
+It kept them fed, but little more,
+and she would be damned and drowned before she would let anything like that become her life.

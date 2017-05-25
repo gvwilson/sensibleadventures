@@ -940,45 +940,69 @@ by the time she got there.
 The smoke had dissipated,
 and there was no sign of fire.
 A scruffy-looking man stood in front of the main door of the warehouse
-arguing loudly with two other men in the dark blue Navy coats.
+arguing loudly with two other men in the dark blue Marine coats.
 "And *I* said I'll open it when my captain tells me to!"
 the man in front of the door said.
 
-Two more Navy men pushed through the crowd.
-The larger of them pointed at the stripes on his sleeve.
+Two more Marines pushed through the crowd.
+The larger of them pointed at the sergeant's stripes on his sleeve.
 "See these?" he demanded.
 "These say this ain't your boat,
 so hang your captain,
 it's on us to see if you're going to blow this place up."
 
-The scruffy-looking man's lip curled.
+The scruffy man's lip curled.
 "Means nothin' to me, mate.
 This here's the *Taroona*'s 'house,
 and you can come in when---hey!"
-He grabbed at the Navy man's arm as he pushed him aside.
+He grabbed at the Marine's arm as he pushed him aside.
 
-"Clear away!"
-The crowd parted as half a dozen more sailors arrived,
+"Clear away!  Clear away, all you!"
+The crowded parted as half a dozen more sailors arrived,
 all of them looking as rough as the man who'd been guarding the door.
 
-The one in front put his hands on his hips.
+The sailor in front put his hands on his hips.
 "Y'aright, Bags?"
 he asked,
-his eyes on the Navy men.
+his eyes on the Marine sergeant.
 
-""m fine,"
-the scruffy-looking man replied,
-straightening up and glaring at the man who'd pushed him out of the way.
+""m fine, cap'n"
+the scruffy sailor replied,
+straightening up and glaring at the sergeant.
 "Just 'splainin' to this lot that there's nothin' here needs their 'tention."
 
-"Anything might be a danger to Halley gets our attention,"
-the Navy man growled.
-"Particularly anything as might turn this place into another Bharati."
+"Anything as might be a danger to Halley gets our attention,"
+the sergeant growled.
+"Particularly anything as might blow up and turn this place into another Bharati."
 
 The crowd murmured in agreement.
 Twenty years before,
 someone's home-brew tech had gone up in flames in Bharati.
 Dozens had died as fire swept through the small town,
 and a hundred more from exposure in the days that followed.
+Iffy had never asked Mr. Mishra about that night,
+but every year,
+on the anniversary,
+he and Little Mrs. Sandhu
+and a handful of others who had survived
+gathered on the dock to toss a handful of precious flowers into the sea.
 
-The *Taroona*'s crew stood their ground.
+The *Taroona*'s crew ignored the crowd.
+One of them hefted a gaff hook.
+Another wrapped a length of chain around his hand,
+unwrapped it,
+and wrapped it again.
+"You heard him,"
+the *Taroona*'s captain said.
+"There's nothin' here as needs your 'tention."
+
+"And *you* heard *me*,"
+the sergeant said,
+pulling a short black shock stick out of the holster on his hip.
+Beside him,
+the other Marines did the same.
+
+"Uh oh," someone muttered.
+Iffy gulped.
+She had seen dock fights before,
+but she'd never been in one.

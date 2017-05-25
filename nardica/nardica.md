@@ -921,3 +921,64 @@ until their circuit brought them back to where they had started.
 They had been doing it since before she was born.
 It kept them fed, but little more,
 and she would be damned and drowned before she would let anything like that become her life.
+
+*BOOM!*
+The explosion sounded like someone slamming the world's biggest box
+down on the world's biggest table.
+Iffy jumped and spun around.
+There!
+An angry column of smoke billowed up into the sky.
+Three---no, four piers over, and from one of the warehouses, not a ship.
+
+A siren wailed.
+Another joined it.
+She heard Uncle Jack's, "What'n the hell?"
+but she had already vaulted over the railing.
+
+A small crowd was milling around on the street in front of the warehouse
+by the time she got there.
+The smoke had dissipated,
+and there was no sign of fire.
+A scruffy-looking man stood in front of the main door of the warehouse
+arguing loudly with two other men in the dark blue Navy coats.
+"And *I* said I'll open it when my captain tells me to!"
+the man in front of the door said.
+
+Two more Navy men pushed through the crowd.
+The larger of them pointed at the stripes on his sleeve.
+"See these?" he demanded.
+"These say this ain't your boat,
+so hang your captain,
+it's on us to see if you're going to blow this place up."
+
+The scruffy-looking man's lip curled.
+"Means nothin' to me, mate.
+This here's the *Taroona*'s 'house,
+and you can come in when---hey!"
+He grabbed at the Navy man's arm as he pushed him aside.
+
+"Clear away!"
+The crowd parted as half a dozen more sailors arrived,
+all of them looking as rough as the man who'd been guarding the door.
+
+The one in front put his hands on his hips.
+"Y'aright, Bags?"
+he asked,
+his eyes on the Navy men.
+
+""m fine,"
+the scruffy-looking man replied,
+straightening up and glaring at the man who'd pushed him out of the way.
+"Just 'splainin' to this lot that there's nothin' here needs their 'tention."
+
+"Anything might be a danger to Halley gets our attention,"
+the Navy man growled.
+"Particularly anything as might turn this place into another Bharati."
+
+The crowd murmured in agreement.
+Twenty years before,
+someone's home-brew tech had gone up in flames in Bharati.
+Dozens had died as fire swept through the small town,
+and a hundred more from exposure in the days that followed.
+
+The *Taroona*'s crew stood their ground.

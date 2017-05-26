@@ -1002,7 +1002,12 @@ pulling a short black shock stick out of the holster on his hip.
 Beside him,
 the other Marines did the same.
 
-"Uh oh," someone muttered.
+"Uh oh," someone muttered beside her.
+"It's gonna be a dock fight."
+
 Iffy gulped.
-She had seen dock fights before,
-but she'd never been in one.
+She had never seen a dock fight,
+not a real one,
+but Uncle Jack had been caught up in one once.
+He had come home bruised and bleeding
+and uncharacteristically quiet.

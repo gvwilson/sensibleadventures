@@ -549,10 +549,10 @@ Three heads turned at a cheerful, "Good morning!"
 as the squarest man Iffy had ever seen walked in.
 
 "Square" really was the only word for him.
-He looked almost as wide as he was tall,
-and his broad forehead and square jaw made his face look like it belonged in a picture frame.
-His strong white teeth gleamed against his black skin as he smiled,
-add the small silvery rectangle of tech set into his temple
+He wasn't much taller than Iffy,
+but three of her could have stood side by side in the span of his shoulders.
+Strong white teeth gleamed against his black skin as he smiled,
+and the small silvery rectangle of tech set into his temple
 made him look like he had stepped out of one of the action movies
 that the two Mrs. Sandhus and their friends rented
 to customers they particularly liked.
@@ -568,9 +568,10 @@ Oh,
 and perhaps some advice,
 if that's for sale as well as soy sauce and onions?"
 His twanging accent sounded vaguely 'Merican to Iffy,
-though the only 'Merican she had ever actually met
-hadn't done much more than shout and swear at Mr. Mishra
-before stomping off with his broken propellor unmended.
+though the only 'Mericans she had ever met in person
+hadn't done much more than swear at Mr. Mishra
+when he wouldn't take a sermon and a blessing in trade
+for fixing their broken propellor.
 
 "The advice is free,"
 Little Mrs. Sandhu simpered,,
@@ -661,7 +662,7 @@ Little Mrs. Sandhu said lightly.
 "Ah."
 The square man nodded as if that explained everything.
 Suddenly he stuck out his hand.
-"Johnson Tales," he said.
+"Johnson Wales," he said.
 "Pleased to meet you."
 
 Iffy hesitated,
@@ -771,7 +772,7 @@ It'll do them both the world to get some time away from each other."
 Iffy exclaimed in annoyance.
 "Me!  I could be his 'prentice!"
 The two Mrs. Sandhus had listened with bemusement
-as her conversation with Mr. Tales---"call me Johnson, please"---leaped
+as her conversation with Mr. Wales---"call me Johnson, please"---leaped
 from de-ionizers to micro-welding the cracked cases of old chips
 to the mended reciprocating rod that Iffy had taken out of her coat to show him.
 It wasn't until Big Mrs. Sandhu cleared her throat
@@ -973,7 +974,7 @@ straightening up and glaring at the sergeant.
 
 "Anything as might be a danger to Halley gets our attention,"
 the sergeant growled.
-"Particularly anything as might blow up and turn this place into another Bharati."
+"Particularly anything as might turn this place into another Bharati."
 
 The crowd murmured in agreement.
 Twenty years before,
@@ -998,16 +999,100 @@ the *Taroona*'s captain said.
 
 "And *you* heard *me*,"
 the sergeant said,
-pulling a short black shock stick out of the holster on his hip.
+drawing his shock stick from the holster on his hip.
 Beside him,
 the other Marines did the same.
 
-"Uh oh," someone muttered beside her.
-"It's gonna be a dock fight."
+"Uh oh," someone said beside her.
+"Dock fight."
 
 Iffy gulped.
-She had never seen a dock fight,
-not a real one,
-but Uncle Jack had been caught up in one once.
-He had come home bruised and bleeding
-and uncharacteristically quiet.
+She had never seen a dock fight---nothing worse than teenagers shoving each other
+and throwing a few punches---but Uncle Jack had been in one
+the last time they were in Rothera.
+He had come back to the *Guinevere* bruised and bloodied
+and uncharacteristically quiet about what had happened.
+When the Marine sergeant pressed the button on his belt
+to make his uniform jacket harden into armor,
+she turned to find somewhere safer to be.
+
+And immediately bumped into Johnson Wales.
+"'Scuse me," she muttered before she realized who it was.
+
+"Of course," he said pleasantly.
+"I was actually just leaving myself.
+Here---would you mind carrying this for me a ways?"
+Without waiting for an answer,
+he handed her a rectangular black toolbox
+with a flip-up handle on its lid,
+stooped to pick up two identical toolboxes from the ground,
+and turned to leave.
+
+"But---wait!"
+Iffy hurried after him,
+the toolbox bumping against her leg.
+
+Wales paused a moment for her to catch up.
+His jacket was unzipped to his waist,
+and a few dew-drops of sweat glistened on his shaved scalp.
+Tiny lights danced briefly across the silvery rectangle in his left template
+and then were still again.
+"Thank you," he said.
+"It's awkward trying to manage all three at the same time."
+
+"No worries," Iffy puffed.
+"These the gear the *Taroona* bikkies upped from you?"
+
+Wales grinned.
+"Everything that matters."
+His smile disappeared as shouting erupted behind her,
+followed by the unmistakable sizzling crack of a shock stick.
+"Come on."
+
+Iffy did her best to keep up with him as he strode along the waterfront.
+*He prob'ly kept the light ones for himself,*
+she grumbled to herself,
+but the complaint was half-hearted.
+Most of the sailors and townsfolk she knew ranged from lean to stringy---the
+cold weather and the sparse Antarctic diet
+didn't give bodies much chance to put on weight.
+Wales' broad shoulders made him look blocky by comparison,
+and the toolboxes seemed much smaller in his hands than in hers.
+
+"Wait up a jif," Iffy finally said.
+Wales stopped as she set her load down on the ground and looked back the way they had come.
+A bend in the shoreline hid the warehouse.
+All she could hear were the usual sounds of Halley's docks:
+distant machinery,
+the crush of waves against the pier,
+and an occasional distant voice that might actually have been
+the cry of a hungry gull.
+
+Iffy nudged the toolbox with her boot.
+"So was that you back there?
+The 'splosion in the warehouse?"
+
+Wales blinked.
+"Why on earth would you think that was me?"
+
+Iffy rolled her eyes.
+"'Cuz they upped your gear and now you got it back?
+And 'cuz they're all prolly goin' to be in lockup
+once the governor's crew finish pawin' through that warehouse,
+now that they got cause to?
+I ain't stupid, you know."
+
+"No you're not,"
+Wales agreed thoughtfully.
+He nodded at the toolbox next to her feet.
+"You OK to carry that a bit further?"
+
+Iffy crossed her arms.
+"Do I get to see what's in it?"
+
+"Sure,"
+Wales chuckled.
+He set down one of the pair he was carrying and stuck out his hand.
+Iffy shook it.
+Picking up their respective loads,
+they walked side by side up the narrow street that led to the Sandhu's grocery store.

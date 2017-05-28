@@ -666,7 +666,7 @@ Suddenly he stuck out his hand.
 "Pleased to meet you."
 
 Iffy hesitated,
-then put out her own hand and shook his.
+then put out her own hand to shake his.
 "Iffelia Kwan.  Pleased to meet you too."
 
 ## Chapter 2
@@ -1093,6 +1093,87 @@ Iffy crossed her arms.
 "Sure,"
 Wales chuckled.
 He set down one of the pair he was carrying and stuck out his hand.
-Iffy shook it.
+Iffy shook it once again.
 Picking up their respective loads,
-they walked side by side up the narrow street that led to the Sandhu's grocery store.
+they walked side by side up the narrow street that led past the Sandhu's grocery store
+to the café where Wales had rented a room.
+
+They sat in the back of the café and drank sweet, strong tea
+as Wales carefully unpacked one of his toolboxes
+and checked each piece of tech it contained.
+Some of the tools looked as good as new,
+though Iffy guessed that they had to be at least a hundred years old---only
+a handful of well-defended labs scattered around the world
+still had the cleanrooms and nano fabs needed to create marvels
+like the fractal diamond-and-copper mesh
+Wales briefly let her hold.
+Other tools were clearly cobbled together from spare parts
+and held together with whatever Wales had been able to find.
+Iffy felt more comfortable with these,
+since pretty much everything in Halley was built the same way.
+
+"What about them two?"
+she asked eagerly
+as Wales carefully repacked the open toolbox.
+
+The square man chuckled.
+"Let's save those for another time."
+He looked past her for a moment,
+the lights in the tech on his temple flickering with activity.
+"The town net says the governor's agents have resolved the disturbance by the dock.
+We should probably get you home."
+
+"Oh crivens," Iffy swore.
+She twisted in her seat to look at the clock over the door and swore again.
+"I shoulda been back an hour ago!"
+She scrambled to her feet.
+
+"Hold on a minute,"
+Wales said,
+patting the air.
+"Just a minute, I promise."
+He sat back in his seat and beckoned for another cup of tea.
+"Tell me more about this ship of yours..."
+
+He locked his toolboxes in his room before they left
+and put a small plastic bear with bright blue eyes on the shelf above them.
+"To keep an eye on things,"
+he said,
+tapping the tech in his temple.
+Iffy nodded
+as if remote vision cameras in old children's toys were an everyday thing for her.
+She didn't ask what the red-speckled globe next to the bear was for,
+but she suspected it would do more than just watch
+if someone broke in.
+
+A pair of gray military drones were hovering over the harbor
+as Iffy and Wales walked down to the pier
+where the *Guinevere* was docked.
+"Keeping an eye on the *Taroona*," Wales guessed,
+shielding his eyes with his hand to study them.
+He sighed.
+"It's about all the governor can do."
+
+"What about the warehouse?"
+Iffy asked.
+"Musta been other stuff in there wasn't theirs."
+
+"I'm sure there was,"
+Wales said drily.
+"But the *Taroona* sails out of Hobart,
+and the last thing the governor wants to do right now
+is give her lords and masters back home in Tasmania
+a reason to poke around in Halley's affairs.
+No,
+they'll be out by morning,"
+he concluded,
+speaking to himself as much as to the frowning tween beside him.
+"Which is yet another reason I need to talk to your uncle."
+
+"You oughta know he don't keep his word 'less it suits him,"
+Iffy blurted.
+"Or 'less he figures you got more haul back of you than he does."
+
+Wales grinned.
+"Thanks for the warning.
+I'll keep it in mind."

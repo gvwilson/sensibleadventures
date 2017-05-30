@@ -1177,3 +1177,90 @@ Iffy blurted.
 Wales grinned.
 "Thanks for the warning.
 I'll keep it in mind."
+
+Ten minutes later Uncle Jack shouted,
+"No!  No affing way!
+We're a jelly boat,
+not the damn ferry!
+You want to skin up along Rothera,
+you can wait on it."
+
+Aunt Naggie gestured frantically at Iffy and Wales from behind her husband's back,
+mouthing, "Go! Go!"
+Wales ignored her,
+his broad smile seeming genuine as he waited out the decktop tempest.
+
+"I understand it's not your usual line of work,"
+he said smoothly when Uncle Jack paused for breath.
+"And if no is your final answer,
+well,
+I'll respect that and take my business elsewhere.
+But!"
+He held up a hand to forestall another explosion.
+"What if I told you I could more than just pay for my passage?"
+
+Uncle Jack snorted.
+He had been dozing when Iffy and Wales had reached the *Guinevere*,
+and from his bloodshot eyes and the smell of his breath
+Iffy guessed that she'd find at least one empty bottle in the hold
+if she went looking for it.
+"Lemme guess---you can sing.
+Or no---you can do magic tricks and turn jellyfish into gold."
+
+"You're not far wrong,"
+Wales agreed.
+"Except it isn't magic,
+and you'll be the one turning jellyfish into gold."
+He tapped the silver tech in his temple.
+"This is a satellite uplink.
+A *fully functional* satellite uplink,"
+he continued before Uncle Jack could interrupt.
+"Which means I can spot patches of boil with half an hour to spare.
+Maybe a full hour, if the sky's clear.
+And *that* means---"
+
+Uncle Jack said a word that sent Aunt Naggie's hands flying to her mouth.
+"Ain't no such thing no more,"
+the *Guinevere*'s captain sneered.
+"'S all 'crypted---everyone knows that."
+
+"Indeed it is."
+Wales nodded.
+"Heavily encrypted.
+There's probably only a couple of dozen downlinks left with the right codes in them.
+Lucky for you,
+this is one of them.
+And I can prove it,"
+he went on,
+sounding for all the world like Big Mrs. Sandhu
+when someone hesitated over a twist of lemon candy.
+"Here."
+
+He closed his eyes.
+"Your beacon is GUIN 40782, is that right?"
+He nodded to himself without waiting for an answer.
+"Your last trip,
+you were at sea nine days.
+You spent most of it dredging over the Berkner Rise."
+
+"You're trashin',"
+Uncle Jack contemptuously.
+"Everyone 'round here dredges the Berk.
+An' she coulda told you how long we was out,"
+he added,
+glaring at Iffy.
+
+"She could have,"
+Wales agreed.
+"But she couldn't have known
+there was a boil twenty kay northeast of you your last day out.
+That's what brought up the jellies the *Whitstable* found.
+Could have been you if you'd known."
+
+Uncle Jack scowled.
+The *Whitstable* was tied up on the next pier,
+its captain overseeing a refit paid for by
+the full holds she had brought back to Halley
+a couple of days after the *Guinevere* had returned.
+Her crew had been celebrating their good fortune in Halley's shops and bars around the clock.
+A load like that would do a lot to get the *Guinevere* back on an even keel.

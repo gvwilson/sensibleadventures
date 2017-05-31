@@ -1251,11 +1251,11 @@ he added,
 glaring at Iffy.
 
 "She could have,"
-Wales agreed.
-"But she couldn't have known
-there was a boil twenty kay northeast of you your last day out.
-That's what brought up the jellies the *Whitstable* found.
-Could have been you if you'd known."
+Wales agreed, opening his eyes.
+"But she couldn't have known what brought up the jellies the *Whitstable* found.
+It was a boil twenty kay northeast of you on your last day out.
+It would have been just over the horizon---if you'd known it was happening,
+you could have been the one to haul them in."
 
 Uncle Jack scowled.
 The *Whitstable* was tied up on the next pier,
@@ -1264,3 +1264,120 @@ the full holds she had brought back to Halley
 a couple of days after the *Guinevere* had returned.
 Her crew had been celebrating their good fortune in Halley's shops and bars around the clock.
 A load like that would do a lot to get the *Guinevere* back on an even keel.
+
+"Could still just be coalin' me,"
+he grumbled,
+scratching his cheek through his uncombed beard.
+
+Wales didn't answer.
+Instead,
+he closed his eyes again.
+A moment later he pointed wordlessly across the harbor.
+Iffy, Uncle Jack, and Aunt Naggie all turned to look.
+
+"You just stretchin' your arm?" Uncle Jack asked
+after a few seconds had passed without anything happening.
+"'Cause I got better things to do than watch you make an affin' fool of yourself.
+And so do you,"
+he added darkly,
+glaring at Iff once again.
+
+Aunt Naggie put her hand on his arm.
+"Jack---look.
+Up there."
+One of the drones Iffy had seen earlier was headed toward them,
+the thin high buzz of its rotors growing louder by the second.
+
+"What?" he demanded,
+shaking her off.
+"They been goin' in circles up there all afternoon."
+He rounded on Wales.
+"An' it feels like you been wastin' my time almost as long,
+so how 'bout you truck yourself back down that gangplank
+and be about your business?"
+
+Wales didn't answer.
+Uncle Jack stepped toward him,
+and for one wild moment Iffy thought he was going to grab Wales and throw him overboard,
+but then Aunt Naggie grabbed his arm.
+"Jack!"
+The drone was diving straight at them.
+
+Everything seemed to happen at once.
+The drone plummeted toward them.
+Aunt Naggie shrieked.
+Uncle Jack swore and shoved her out of his way
+as he reached for the gaff hook that hung on the cabin wall next to them.
+Iffy was about to bolt for the pier when Wales opened his eyes and said,
+"Stop!"
+
+The drone pulled up short,
+its rotors whining with effort.
+"Down,"
+the square man commanded.
+Obediently,
+the drone dropped a meter
+to hover just above eye level.
+
+"What're you doin', you affin' idiot?"
+Uncle Jack bellowed,
+waving his gaff hook at Wales.
+"They got cameras on that thing!
+Soon as they see us, they'll---"
+
+"They can't see anything,"
+Wales told him flatly,
+his eyes fixed on the drone as if he was staring down a surly dog.
+"As far as they know it's just a glitch."
+
+"How are you *doing* that?" Iffy breathed,
+unable to help herself.
+A faint breeze from the drone's rotors brushed her cheeks.
+It was barely moving---if she hadn't known better,
+she would have thought it was strung up with microwire.
+"That's military tech.
+Ain't nobody can hack that."
+
+"This can,"
+Wales said,
+tapping the silver square in his temple.
+He waved his hand as if to brush away a fly.
+With no more instruction than that,
+the drone shot away to resume its patrol.
+
+Wales locked eyes with Uncle Jack.
+"I can get all of it," he said
+in a voice that left no room for doubt or disagreement.
+"Every image,
+every signal,
+all of it,
+encrypted or not.
+And I need to get to Rothera.
+The only question is,
+will that be your good fortune or someone else's?
+I'd rather it was yours, but it's up to you."
+
+Uncle Jack hefted his gaff hook.
+"Jack," Aunt Naggie began.
+
+"Quiet," he snapped,
+still scowling.
+Greed and the ever-present mistrust he felt
+for everything the world put in front of him
+warred briefly on his face.
+"We keep whatever we haul,"
+he finally said.
+"And you keep to your cabin 'less I say otherwise."
+
+"Fair enough,"
+Wales agreed.
+He stuck out his hand.
+
+Iffy held her breath.
+Uncle Jack chewed the inside of his cheeck a moment longer,
+then grabbed it and gave it a single shake.
+"I'm guessin' you'll want to cast off right away,"
+he said sourly.
+
+Wales smiled.
+"Just as soon as I collect my belongings."

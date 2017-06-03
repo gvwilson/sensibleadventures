@@ -1473,7 +1473,7 @@ and move their sorry tails
 and no,
 don't worry about tyin' it down,
 they could do that once they were at sea,
-just put it somewhere for now and get the affin' engines goin'!
+just put it somewhere for now and get the affin' engine goin'!
 
 Ten minutes of careful work that couldn't be rushed
 and the reciprocating rod was back in its place.
@@ -1606,3 +1606,79 @@ She ran her fingers over the flat, still pictures,
 stubbornly trying to keep her eyelids from drooping
 until she couldn't remember why
 and rolled over and fell instantly asleep.
+
+## Chapter 3
+
+It was six days to Rothera.
+Half-way through the first,
+Iffy wondered if they would make it.
+Waves a meter high
+made the *Guinevere* rock from side to side
+in a gentle, surging rhythm that she knew as well as she knew her own heartbeat.
+After motoring for a couple of hours,
+Uncle Jack had ordered the sails run up.
+By the time Iffy woke up
+Halley was just a smudge on the horizon.
+The wind across the Weddell Sea was strong and steady,
+and if it hadn't been for their passenger,
+Iffy and her aunt and uncle might actually have enjoyed
+a rare moment of peace together---or if not peace,
+then at least truce.
+
+*But we do have a passenger,*
+Iffy thought angrily,
+*And if Uncle Jack didn't want one, he should have said no.*
+Wales had stowed his toolboxes
+and his single small satchel of clothes
+in a hastily-cleared storage room,
+then taken a seat on a thwart near the stern.
+As Iffy crammed the odds and ends that had been in the locker
+into whatever other space she could find,
+Aunt Naggie brewed tea
+and Uncle Jack grew slowly more agitated.
+Every time she walked past the main cabin
+she could hear him muttering,
+already regretting the bargain he had made.
+
+"Just stay out of his way for a bit,"
+Aunt Naggie advised worriedly when Iffy clambered down into the galley to get the tea.
+"He ain't used to havin' other folk on board.
+He'll settle in."
+The way she said it made it sound more like a prayer than a prediction,
+but Iffy nodded and climbed back on deck
+with two chipped ceramic mugs of tea tucked into her coat.
+
+"'Bout affin' time," her uncle said sharply
+when she knocked on the cabin door and handed his to him.
+He slurped a mouthful and set it in the ring holder next to the ship's wheel.
+
+Iffy glanced at the control panel.
+Small cameras dotted about the ship showed the engine,
+the hold,
+and the sails.
+Small graphs scattered among the images told her at a glance
+how much fuel they had,
+how much tension their was in the forestays and mainstays,
+and what the wind and the currents around them were doing.
+The most important display,
+though,
+was the sonar.
+Every captain kept a close eye on that---at least,
+every captain who wanted to make it home.
+At the first faint sign of gas bubbling up from the ocean floor,
+they would re-start the engine and run.
+
+Uncle Jack tapped one of the squares on the panel.
+"I want that forestay cable mended today," he ordered.
+
+"Yessir," Iffy said obediently.
+He'd been drinking, she realized.
+She could smell it on his breath,
+and from the way he clutched the wheel to hold himself steady,
+she guessed he'd been at it for a while.
+
+"An' see if that baggage o' yours wants to help,"
+the *Guinevere*'s captain called after her as she turned to go.
+"Or better yet,
+just tell 'im to.
+An' that's an order!"

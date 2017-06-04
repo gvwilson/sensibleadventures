@@ -126,7 +126,7 @@ the sights and sounds and smells of Rothera harbor crashed down on her
 like the waves in her nightmare.
 She stopped for a moment to let her eyes adjust.
 
-To seaward lay the rusting hulk of the aircraft carrier
+To seaward lay the broken hulk of the carrier
 that had driven itself aground a century before
 to create a seawall.
 Dozens of ships and boats bobbed gently up and down in its lee.
@@ -902,7 +902,7 @@ The faint tang of machinery and oil from her unwashed hand barely registered.
 She sighed.
 She would like nothing better than to close her eyes for a moment,
 or maybe a couple of hours,
-but the forestay cable *did* need mending,
+but the backstay cable *did* need mending,
 and she would bet her slightly-too-small boots that
 her uncle had left the engine in pieces for her to put back together.
 She patted her coat to check that the mended reciprocating rod was still in her pocket
@@ -1585,7 +1585,7 @@ before hauling in the gangplank and casting off.
 The engine rumbled and sputtered a bit,
 then settled into the steady thumping
 that was as familiar to Iffy as her own breathing.
-As they rounded the rusting aircraft carrier that formed Halley's seawall,
+As they rounded the broken-backed carrier that formed Halley's seawall,
 the swell beneath them grew stronger.
 
 Uncle Jack took the first watch---he wouldn't entrust the *Guinevere* to anyone else
@@ -1669,7 +1669,7 @@ At the first faint sign of gas bubbling up from the ocean floor,
 they would re-start the engine and run.
 
 Uncle Jack tapped one of the squares on the panel.
-"I want that forestay cable mended today," he ordered.
+"I want that backstay cable mended today," he ordered.
 
 "Yessir," Iffy said obediently.
 He'd been drinking, she realized.
@@ -1680,5 +1680,99 @@ she guessed he'd been at it for a while.
 "An' see if that baggage o' yours wants to help,"
 the *Guinevere*'s captain called after her as she turned to go.
 "Or better yet,
-just tell 'im to.
+just tell 'im I said he was goin' to.
 An' that's an order!"
+
+Wales seemed lost in thought as Iffy approached him.
+He was still sitting on the thwart at the stern
+looking back toward Halley.
+"Of course,"
+he said in reply to Iffy's tentative request for help.
+He stood and smiled.
+"Being useful would be good for me right now."
+
+"You thinkin' 'bout them off the *Taroona*?"
+Iffy asked,
+hastily adding,
+"Not that it's any o' my look-in."
+
+Wales smiled again,
+but his expression was tinged with sadness.
+"No.
+I was thinking about the *Landrieu*.
+The big ship back at Halley,"
+he continued as Iffy gave him a blank look.
+"She was a marvel in her time.
+Fractal carbon ribs,
+a foamed polycomp hull,
+and her core was no bigger than this."
+He held his hands a meter apart.
+"She was the first super-ship to cross the Pacific under sail,
+but things were already falling apart by then."
+He sighed.
+"They only made three more like her.
+Must have broken her captain's heart to run her aground."
+
+"I guess,"
+Iffy said to fill the silence that followed.
+"Can't imagine how I'd feel if somethin' like that happened to the *Guinevere*."
+
+Wales shook his head as if to clear it.
+"I wouldn't worry about it,"
+he said,
+suddenly brisk.
+"Now,
+where's this cable we're supposed to splice?"
+
+Iffy had hoped that Wales would bring out his toolboxes---she was
+itching to examine their contents in detail---but
+he made no move toward the storage room where they were stowed.
+Instead,
+he studied the hacked-off ends of the backstay cable.
+Iffy wanted to tell him that the damage wasn't her fault,
+but she bit back her words.
+There was no way she could tell him that without saying that it had been Uncle Jack,
+and as much as she wanted to impress him,
+no self-respecting sailor would point a finger at a crewmate,
+not in front of an outsider.
+
+"All right,"
+Wales said after a moment.
+"What's the plan:
+splice, clamp, strap, or weld?"
+
+"I was thinkin' I could splice it?"
+Iffy ventured hesitantly.
+At Wales' nod,
+she fished a roll of twisted eight-gauge cable from her bag of odds and ends
+and dug around to find her wire cutter.
+
+The next half hour flew by as Iffy lost herself in the task at hand.
+She had expected Wales to take charge,
+but instead,
+he took her questions and suggestions
+and turned them into action.
+Once they had the first dozen lengths of splice woven into the cable,
+he sat cross-legged on the deck,
+hunched over,
+and pulled the cable's ends together.
+Iffy worked as quickly as she could,
+glancing every few moments at the cords standing out in Wales' neck.
+Uncle Jack wouldn't have been able to hold the cable like that
+for more than a minute.
+Even Mr. Mishra would have struggled,
+but other than his slightly strained breathing,
+Wales seemed unbothered.
+
+Over, through, under, through...
+"There,"
+she said,
+sitting back on her haunches.
+"Let off the strain a bit,
+see if it holds?"
+
+Wales nodded and slowly let his arms relax.
+The splice stretched slightly,
+but then caught and held.
+He looked at her for permission,
+then relaxed with a heartfelt, "Whoosh."

@@ -1775,4 +1775,96 @@ Wales nodded and slowly let his arms relax.
 The splice stretched slightly,
 but then caught and held.
 He looked at her for permission,
-then relaxed with a heartfelt, "Whoosh."
+then dropped the cable on the deck with a whoosh.
+"Do you think that will hold?" he asked,
+crossing his arms so that he could massage his own aching shoulders.
+
+Iffy shrugged.
+"Only one way to find out."
+She hit the switch on the winch beside her.
+The cable zinged as it was wound in,
+then made a sharp *crack!* as it came taut.
+
+"Whoa!"
+Wales exclaimed.
+"Easy there.
+What if the splice hadn't held?"
+
+Iffy shrugged again.
+"Better t' find out now than in a storm."
+She picked up a wrench and whacked the splice a couple of times
+as hard as she could.
+
+Wales blinked.
+"Are you always this, um, direct, when you do repairs?"
+
+Iffy grinned.
+"Pretty much."
+
+There were other chores after that.
+There always were on the *Guinevere*:
+a spidery network of shallow cracks on the mast where it had flexed in a high wind,
+a loose coupling on a bilge pipe,
+the handle on the main hatch that had to be kicked in and out of its locked position.
+Like most of the vessels that called Halley home,
+the ship was more than a hundred years old,
+built before things fell apart
+out of materials that could no longer be made,
+only repaired.
+
+Wales worked beside Iffy the whole time,
+handing her tools,
+holding things steady while she screwed them in
+or used her cherished little laser to put a weld on the weld that held the weld together.
+He somehow managed to keep up a steady stream of questions
+without ever making her feel like he was pestering her.
+She enjoyed every minute of it,
+just like she enjoyed those precious moments
+when Mr. Mishra turned something she'd made over and over in his hands
+and pronounced it well done,
+or when Uncle Jack was sound asleep
+and Aunt Naggie told her stories about when she and Iffy's mother had been little girls in Tasmania
+before the war.
+
+Wales seemed to enjoy the work as well,
+right up until the moment he helped Iffy lift the cover off the backup generator
+near the *Guinevere*'s stern.
+His face fell at the smell coming off its compact, oily bulk.
+"Y'aright?" Iffy asked,
+fanning away the fumes.
+
+"I'm fine,"
+Wales said.
+"I just thought you ran on jelly oil."
+
+"Sure, for the main engine."
+Iffy jerked her chin at the backup.
+"This is just for when it's bust,
+or for haulin' the winches when there's ice 'n' all."
+
+The square-faced man studied her face,
+a forlorn look in his eyes.
+"But Iffelia---I smell *gas*.
+You're burning petroleum, aren't you?"
+
+"'Course we are," Iffy said defensively.
+"Jelly's aright for day to day,
+but it don't give the same kick as gas."
+Her eyes widened.
+"You ain't some kind o' green, are ya?
+Not that I'd mind,"
+she added hastily,
+"But Uncle Jack---he'd put you over the side
+and no mistake.
+He hates Zillions worse'n anything."
+
+Wales sighed heavily.
+"No, I'm not Brazilian.
+And I'm not what you'd call green, either,"
+he added as Iffy opened her mouth to ask.
+"That tide went out a long time ago."
+He squatted on his haunches and looked at the little diesel engine
+as if it were a poisonous snake
+and he wasn't sure if it was dead or alive.
+"Come on.
+Let's get this done."

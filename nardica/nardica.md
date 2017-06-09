@@ -92,7 +92,7 @@ and her grandmother's before that,
 all the way to back when there were still whales and tigers and giraffes.
 She read a few pages every night,
 no matter how tired she was from chores.
-She drew the pictures from memory in the margins of her notes at school,
+She drew the pictures from memory on her tablet at school,
 and on those rare occasions when Uncle Jack was away
 and Aunt Naggie let her have another child come on board to play,
 she would take the book out and tell them all about
@@ -1868,3 +1868,91 @@ as if it were a poisonous snake
 and he wasn't sure if it was dead or alive.
 "Come on.
 Let's get this done."
+
+Aunt Naggie made curry for dinner.
+Wales thanked her,
+then took his up onto deck to eat.
+"It's probably safest for everyone,"
+he explained gently when she protested.
+"My stomach isn't used to the waves yet,
+and being closed in..."
+He smiled,
+thanked her for the dozenth time,
+and left the Kwans to their meal.
+
+"I don't like 'im,"
+Uncle Jack growled.
+He had glared at Wales from the moment he entered the galley
+until the moment he left.
+Iffy eased herself onto the stool opposite him
+as he stabbed a piece of tofu with his fork.
+"Bet there's more'n just the *Taroona*'s crew lookin' for 'im,"
+he mused as he chewed.
+"Hell, I bet there's someone would double what he's payin' us
+for a chance to put their hands to 'im."
+He stabbed another piece of tofu.
+
+Iffy ate in silence,
+head down.
+The safest thing to do when Uncle Jack got a not-quite-honest money-making idea
+was to wait for it to pass---pointing out the holes in his plan
+was practically guaranteed to make him follow through,
+just to prove that no one could tell *him*.
+And while she still knew next to nothing about their passenger,
+she had the feeling that selling him out wouldn't end well for her uncle,
+or,
+more ipmortantly,
+for the *Guinevere*.
+
+She and Aunt Naggie cleaned up after they were done eating.
+"He seems nice,"
+Aunt Naggie observed as she scraped the last traces of sauce off a plate into the sink.
+"Handy, too."
+
+"Mm hm,"
+Iffy agreed around a last mouthful of noodles.
+"Knows all about tools 'n' tech 'n' stuff.
+Might even be able to do somethin' with the autopilot if Uncle Jack'll let 'im."
+
+"Oh now, wouldn't that be nice?"
+Aunt Naggie sighed wistfully.
+"No more sittin' up in the middle of the night."
+
+"But then when would you knit?"
+Iffy asked,
+nudging her aunt with her elbow.
+Aunt Naggie blushed.
+Her "knitting" consisted of two balls of yarn,
+a pair of needles,
+and an endless series of romance novels featuring wealthy men with smoldering eyes
+who didn't realize how empty their rich, idle lives were
+until they met the right woman,
+who was inevitably a poor but honest woman
+and almost always a sailor.
+The books were churned out by a core in Rothera,
+and their implausibility, steamy dialogue, and frequent anachronisms
+only added to the thrill Iffy felt
+whenever she managed to sneak a look at her aunt's tablet.
+
+"Never you mind about my knitting,"
+Aunt Naggie said.
+"Your uncle wants you on night watch tonight,
+so you best get a nap an' I'll wake you in a few."
+She tousled her niece's hair as Iffy groaned,
+then kissed the top of her head.
+"Off with you now."
+
+Wales was back on the thwart at the stern when Iffy got topside,
+his empty bowl of curry set on the deck beside him.
+She hesitated,
+wanting to talk to him some more but not knowing what to say,
+then slipped into the converted storage locker
+that was the only place in the world she could truly call her own.
+Taken by a sudden restlessness,
+she spent five furious minutes rearranging her meager possessions
+before flopping down on her bed and pulling out her mother's nature book.
+The giraffe, the tiger, the wolf, the seal...
+She slammed the book closed,
+tucked it under her pillow,
+and squeezed her eyes shut.
+Sleep was going to be a long time coming.

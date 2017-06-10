@@ -209,7 +209,7 @@ There was a bruise on his forehead that hadn't been there the evening before,
 Iffy noticed.
 That might mean a visit from the police later.
 He'd rave on for an hour if they came
-about how the governor was just another rock-hogging idiot
+about how the mayor was just another rock-hogging idiot
 who would sell them all out to the Dutch or the Zillions
 as soon as she could get a decent price,
 but it would be worth it.
@@ -1078,7 +1078,7 @@ Wales blinked.
 Iffy rolled her eyes.
 "'Cuz they upped your gear and now you got it back?
 And 'cuz they're all prolly goin' to be in lockup
-once the governor's crew finish pawin' through that warehouse,
+once the mayor's crew finish pawin' through that warehouse,
 now that they got cause to?
 I ain't stupid, you know."
 
@@ -1120,7 +1120,7 @@ The square man chuckled.
 "Let's save those for another time."
 He looked past her for a moment,
 the lights in the tech on his temple flickering with activity.
-"The town net says the governor's agents have resolved the disturbance by the dock.
+"The town net says the mayor's agents have resolved the disturbance by the dock.
 We should probably get you home."
 
 "Oh crivens," Iffy swore.
@@ -1152,7 +1152,7 @@ where the *Guinevere* was docked.
 "Keeping an eye on the *Taroona*," Wales guessed,
 shielding his eyes with his hand to study them.
 He sighed.
-"It's about all the governor can do."
+"It's about all the mayor can do."
 
 "What about the warehouse?"
 Iffy asked.
@@ -1161,9 +1161,9 @@ Iffy asked.
 "I'm sure there was,"
 Wales said dryly.
 "But the *Taroona* sails out of Hobart,
-and the last thing the governor wants to do right now
-is give her lords and masters back home in Tasmania
-a reason to poke around in Halley's affairs.
+and the last thing the mayor or the governor in Rothera want to do right now
+is give their lords and masters back home in Tasmania
+a reason to poke around in their affairs.
 No,
 they'll be out by morning,"
 he concluded,
@@ -1951,8 +1951,78 @@ that was the only place in the world she could truly call her own.
 Taken by a sudden restlessness,
 she spent five furious minutes rearranging her meager possessions
 before flopping down on her bed and pulling out her mother's nature book.
-The giraffe, the tiger, the wolf, the seal...
+The giraffe, the tiger, the wolf with her sad, intelligent eyes...
 She slammed the book closed,
 tucked it under her pillow,
 and squeezed her eyes shut.
-Sleep was going to be a long time coming.
+Sleep was a long time coming.
+
+A soft chime from her tablet woke her a couple of hours later.
+Bleary-eyed,
+she sat up,
+stretched,
+and scraped the sleep from the corners of her eyes.
+Her windowless cabin was completely dark,
+but her hands didn't need light to find her clothes on the floor beside her foam slab.
+She pulled them on over the onesie she had slept in,
+slipped her feet into her boots,
+and went out to face another day on the southern ocean.
+
+Aunt Naggie nodded at her when she reached the main cabin.
+"Sleep aright?" she asked.
+
+Iffy yawned and plopped herself onto the stool beside her aunt.
+"Fine.
+How's it lookin'?"
+She studied the control panel for a moment.
+There was a bit too much tension in the mainsail,
+and wind drag over the hull was still
+half again what the manual she had practically memorized said it ought to be,
+but her practiced eyes didn't see anything out of the ordinary.
+She wondered wistfully what it would be like to have tech in her head like Wales did
+so that she could feel the ship the way she felt the sun on her face
+or the sting of the spray on her skin in a high sea.
+She knew it would never happen---tech like that had to be implanted at birth
+so that the brain could make pathways to use it---but
+she had once paid two carefully-hoarded rand to use a VR rig at Halley's midsummer carnival,
+and she had dreamed of *being* the *Guinevere* ever since.
+
+Aunt Naggie nudged her.
+"Wake up, sleepy head," she chided gently.
+Iffy started and straightened.
+Her aunt jerked her chin at the thermos in the ring holder next to the ship's wheel.
+"Fresh made.
+Well, fresh-ish,"
+she amended.
+"But it oughta keep you through your watch."
+
+"Thanks auntie."
+Iffy glanced at the panel again as she stood up
+and did a double take as one of the cameras switched views
+to show Wales sitting on the thwart at the stern.
+"He been there this whole time?"
+
+"Hasn't budged 'cept to visit the necess'ry," Aunt Naggie confirmed.
+"Turned on the sound a while back to ask if he wanted to come in and sit,
+but he was talkin' to himself,
+an' I figured..."
+She shrugged.
+The only other person on board who talked to themself was her husband,
+and it was best not to interrupt him when he did.
+
+Iffy patted her aunt's shoulder.
+"I'll take over," she said,
+reaching past her to press her thumb against the dark glass square beside the control panel.
+After a moment's hesitation it bleeped and blinked green
+to confirm that the transfer of control had been entered into the ship's log.
+Iffy had scrolled through the log once
+A hundred and twenty years since it had last been wiped clean
+(probably, she suspected, because the holds had been full of contraband instead of jellyfish).
+Six watches on an average day at sea,
+and only a few weeks a year tied up or idle:
+it meant more than two hundred thousand handovers,
+each recorded by a thumb press and a little bleep.
+
+As her aunt left,
+Iffy gave the control panel a protective pat.
+"I got you," she whispered.

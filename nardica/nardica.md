@@ -2026,3 +2026,78 @@ each recorded by a thumb press and a little bleep.
 As her aunt left,
 Iffy gave the control panel a protective pat.
 "I got you," she whispered.
+
+She watched through the cameras as Aunt Naggie trudged back to
+the cabin she shared with her husband of twenty years
+and then set a timer.
+The endless light of the Antarctic summer cut sharp reflections into the waves around her
+while she waited.
+She toyed with the idea of playing a sim on the ship's core---a storm,
+maybe,
+or an old-time drill that would send her dodging and weaving through
+a flock of enemy drones---but
+instead she sighed and pulled up some homework.
+Her formal schooling had ended when she was ten
+and money for boarding at the school in Halley ran out.
+Since then her teachers had been tutoring programs
+that she and Aunt Naggie had scrounged, bought, or traded for
+with occasional input from Mr. Mishra
+and the sympathetic but nearly-broke head of Halley's school.
+She raced through the math, science, and engineering,
+tolerated the language lessons,
+and avoided everything to do with business until Aunt Naggie put her foot down.
+
+*Bing!*
+She tapped the control panel to cancel the timer
+and took a deep breath
+before pressing a softly-glowing square next to it.
+"Hey," she said,
+suddenly awkward.
+"Don't mean to innerupt,
+but I got some questions 'bout some tech stuff.
+If you got time,"
+she added hastily,
+wishing as she spoke that she had run a sim instead.
+
+The tiny image of Wales turned its head.
+"You're not interrupting at all," he said,
+speaking directly to the pin-sized camera and microphone set into the railing beside him.
+"And I'm always happy to talk about tech stuff."
+
+A few moments later he knocked on the doorframe.
+"Permission to come aboard?" he asked,
+waiting for Iffy to gesture at the stool next to the ship's wheel
+before seating himself.
+He looked around the pilot house appreciatively.
+"She's beautiful, isn't she?"
+
+"She's aright,"
+Iffy allowed proudly.
+"Hull still mends itself if we give it time,
+an' the 'lectronics are pretty much all good.
+'Cept a couple o' cameras,"
+she added quickly.
+"An' one o' the winch motors ain't from back when.
+We let it get too cold,
+it just stops talkin' to us."
+
+Wales nodded.
+"Probably using silicon for its core instead of diamond.
+Have you ever tried putting a twist coil inside the housing to keep the temperature up?"
+And as easily as that,
+they slid into a conversation that leaped from laser guides
+and the relative merits of fractal carbon and foamed aluminum for ships' hulls
+to tricks for keeping a drill press lined up and steady
+when the building it was in was shaking.
+Iffy was just about to ask what would have made a whole building do that
+and why someone would worry about drilling when it was happening
+when he raised a hand to stop her.
+
+"Hang on."
+He closed his eyes to commune with the satellite passing above them.
+They snapped open a moment later.
+
+"We need to change course,"
+he said urgently,
+surging to his feet.
+"We need to change course *now*."

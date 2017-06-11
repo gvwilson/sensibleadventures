@@ -2101,3 +2101,97 @@ They snapped open a moment later.
 he said urgently,
 surging to his feet.
 "We need to change course *now*."
+
+"What's wrong?" Iffy asked,
+but Wales was already through the door.
+His boots thumped on the deck as he ran sternward
+and pounded on the door of Uncle Jack and Aunt Naggie's cabin.
+
+"Captain!  Captain, please, I need to speak with you!"
+He waited a second,
+then pounded on the door again.
+
+"Uh oh,"
+Iffy muttered,
+watching on the control panel
+as the door flew open
+and an angry Uncle Jack bellowed,
+"You better tell me we're sinkin',
+or I'm puttin' you over the side!
+I was *asleep*!"
+
+"We'll be worse than sinking if we don't change course,"
+Wales said.
+He tapped the tech in his temple.
+"The satellites just told me that a ship has dropped out of stealth
+about sixty kay northwest of us.
+She's still throwing up a lot of dazzle,
+but she's moving fast,
+and she's definitely not here for the jellyfish."
+
+Uncle Jack goggled at him.
+"Pirates?"
+he spluttered.
+
+"I hope so,"
+Wales said grimly.
+"Because if she's not,
+then she's a warship,
+and that means..."
+He shook his head as if to clear it.
+"We need to change course, captain.
+If we head straight into the peninsula,
+I can try to keep us out from under any drones she sends up."
+
+Uncle Jack scowled,
+and for a moment Iffy thought he was going to say no on principle.
+Instead,
+he bellowed,
+"Naggie!
+Up and movin', woman!
+We got trouble!"
+
+Iffy had simmed dozens of chases at sea.
+Sometimes she was the captain of a customs cutter trying to catch a smuggler.
+Other times she was in command of a Zillion catamaran flying across the water under core-trimmed sails
+with a hold full of tweaked food and subversive software.
+Some of the sims had run for hours
+as she played cat and mouse among the jagged islands and reefs of the peninsula.
+She had won more than she had lost,
+but that was little comfort now that the game was real.
+
+Wales winced but said nothing as Uncle Jack fired up the gas engine.
+The *Guinevere* picked up speed as her propellors churned the sea behind them into a white froth.
+His hands danced across the control panel,
+tilting the sails to balance the increased thrust at the stern
+and driving the bilge pumps into high gear.
+The ship swayed more wildly with each passing minute as she traded stability for speed.
+
+"Eighteen degrees west,
+bearing one sixty five,
+at fifty-six kay and change,"
+Wales reported.
+
+"How fast?"
+Uncle Jack growled.
+"Tell me how affin' fast, man."
+
+"Eighteen kay an hour."
+Wales hesitated.
+"Make that twenty.
+She's military for sure."
+
+Uncle Jack horked and spat into the garbage pail by his feet.
+"Don't mean she ain't a pirate.
+Naggie!
+Where's my affin' tea?"
+
+Iffy stepped out of the doorway long enough to let her aunt squeeze past her
+to hand one thermos to her husband
+and a second to Wales.
+She put her arm around Iffy and gave her a squeeze,
+but the frightened expression on her face cancelled out whatever reassurance she meant to give.
+Jelly fishers didn't have much worth stealing besides their ships,
+but the ships themselves were worth enough
+for their captains to make a habit of sailing close by each other
+whenever strangers were in nearby waters.

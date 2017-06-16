@@ -2241,4 +2241,42 @@ she asked breathlessly.
 
 Wales shrugged.
 "She hasn't changed course since we spotted her.
-My bet is either she doesn't know we're here or she doesn't care."
+Either she doesn't know we're here or she doesn't care."
+
+"Or she's jus' waitin' 'til we're in closer to land,"
+Uncle Jack growled.
+"That dazzle she's got up'll cover the both of us
+if she gets us close in by th' rocks."
+He swiped two fingers across the control panel in a futile, angry attempt
+to coax a little more speed out of the *Guinevere*'s rumbling engines.
+
+Wales hefted his toolbox.
+"I might be able to do something about that.
+Excuse me."
+He squeezed past Iffy and Aunt Naggie.
+
+"You best go with him,"
+Aunt Naggie told Iffy in a low voice,
+glancing meaningfully at her husband.
+"I'm going to make some more tea,"
+she continued at a normal volume.
+"And put some food together.
+No sense bein' boarded on an empty stomach."
+
+"Ain't nobody gonna board us,"
+Uncle Jack snapped automatically without taking his eyes off the control panel.
+
+"Yes dear,"
+Aunt Naggie said,
+shooing Iffy ahead of her.
+
+Wales was assembling a drone when Iffy joined him.
+It was small---about the same size as the sentry bot in his room---and covered in some kind of camo
+that changed color to match his hands and coat and the deck
+every time he turned it over.
+With one final twist,
+Wales removed an arm no thicker than a straw
+and placed it carefully back in the toolbox.
+"To cut the weight,"
+he explained to Iffy without looking up.
+"That'll give it more range."

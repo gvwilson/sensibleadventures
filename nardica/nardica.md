@@ -2189,9 +2189,56 @@ Where's my affin' tea?"
 Iffy stepped out of the doorway long enough to let her aunt squeeze past her
 to hand one thermos to her husband
 and a second to Wales.
-She put her arm around Iffy and gave her a squeeze,
+She put her arm around Iffy,
 but the frightened expression on her face cancelled out whatever reassurance she meant to give.
-Jelly fishers didn't have much worth stealing besides their ships,
-but the ships themselves were worth enough
+Jelly fishers didn't have much worth stealing besides their ships.
+Those ships were worth a lot, though---enough
 for their captains to make a habit of sailing close by each other
-whenever strangers were in nearby waters.
+whenever strangers were nearby.
+And while Iffy hadn't paid much attention to the politics of it all,
+she knew that the three-way tension between the Dutch,
+the Zillions,
+and the government in Tasmania had been getting worse.
+
+"Iffelia."
+Wales fished a thumb-sized piece of plastic out of his pocket
+and handed it to her.
+"In my cabin,
+the toolbox with the purple square on the end.
+Can you get it for me, please?
+Swipe this over the handle before you open the door."
+
+The cold spray thrown up by their speed stung her face
+as she ran toward the stern.
+She paused for a breath outside Wales' cabin
+and then brushed the piece of plastic across the door.
+She hesitated a moment,
+waiting for a click or some other indication that something had happened,
+but nothing came.
+
+The three toolboxes lay side by side beneath Wales' cot.
+She pulled out the one she needed,
+turned around,
+and almost screamed at the sight of
+a black spider the size of her hand in the doorway.
+
+No,
+not a spider:
+a bot.
+She heaved a shaky breath as it scuttled across the floor,
+a tiny red light blinking in its midsection with every step.
+Mrs. and Mrs. Sandhu had a sentry bot too,
+though theirs was bigger and slower and missing one leg.
+Iffy tucked the piece of plastic Wales had given her into her pocket.
+She'd ask him for a close-up look later---if they had a "later".
+
+"Thank you,"
+Wales said a few moments later
+when she handed him the toolbox.
+
+"How're we doin'?"
+she asked breathlessly.
+
+Wales shrugged.
+"She hasn't changed course since we spotted her.
+My bet is either she doesn't know we're here or she doesn't care."

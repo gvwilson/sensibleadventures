@@ -2255,7 +2255,7 @@ Wales hefted his toolbox.
 Excuse me."
 He squeezed past Iffy and Aunt Naggie.
 
-"You best go with him,"
+"You best lend him a hand,"
 Aunt Naggie told Iffy in a low voice,
 glancing meaningfully at her husband.
 "I'm going to make some more tea,"
@@ -2264,19 +2264,99 @@ she continued at a normal volume.
 No sense bein' boarded on an empty stomach."
 
 "Ain't nobody gonna board us,"
-Uncle Jack snapped automatically without taking his eyes off the control panel.
+Uncle Jack snapped automatically
+without taking his eyes off the control panel.
+Aunt Naggie shooed Iffy out of the pilot house without replying.
 
-"Yes dear,"
-Aunt Naggie said,
-shooing Iffy ahead of her.
+Wales was on one knee on the deck just outside the door.
+His open toolbox revealed a collection of carefully-packed odds and ends
+that would have made Iffy's mouth water under normal circumstances.
+He didn't look up as she squatted next to him.
 
-Wales was assembling a drone when Iffy joined him.
-It was small---about the same size as the sentry bot in his room---and covered in some kind of camo
+The half-assembled drone in his hands was the same size as the sentry bot in his room
+but skinned with some kind of camo
 that changed color to match his hands and coat and the deck
 every time he turned it over.
-With one final twist,
+With a practiced twist,
 Wales removed an arm no thicker than a straw
 and placed it carefully back in the toolbox.
 "To cut the weight,"
-he explained to Iffy without looking up.
+he explained to Iffy as though resuming an earlier conversation.
 "That'll give it more range."
+
+He removed the other tiny arm and stowed it beside its twin,
+then set the drone down beside him.
+"Probably best if you don't tell your uncle about this part,"
+he said quietly as he used the nail of his left thumb
+to peel the false skin back from the pad of his right forefinger,
+revealing a small patch of silver to match the larger one set in his temple.
+
+Iffy gasped.
+"Are you a trans?"
+
+Wales looked at her with a sad half-smile on his face,
+and for a moment Iffy wondered just how old he really was.
+"You know,
+that used to mean something very different than it does now,"
+he said ruefully.
+But no, I'm not transhuman.
+I just don't like advertising how much technology I have in me.
+It's hard enough having people try to take my head off---if I had to worry
+about whether I was going to wake up with as many fingers as I had when I went to sleep,
+I'd never close my eyes."
+
+He turned his gaze back to his toolbox,
+sighed,
+and pressed his silver fingertip against the side of the toolbox.
+"Sixteen...
+orange...
+kneecap,"
+he said quietly.
+
+Iffy held her breath,
+half-expecting the toolbox to transform itself into---well,
+she didn't know what,
+but *something*.
+Instead,
+a tiny blue light blinked twice in the handle.
+
+Wales let out a breath that Iffy didn't realize he'd been holding
+and lifted the inside out of the toolbox
+to reveal a hidden compartment in the bottom.
+Four pieces of tech that Iffy didn't recognize nestled there in stiff foam
+with half a dozen small cylinders scattered among them.
+Each cylinder was the size and shape of the last join on Iffy's little finger.
+Four empty holes showed where others had once been.
+Using a pair of tweezers spun out of microfine glass fiber,
+Wales carefully plucked one of the cylinders from its resting place
+and inserted it into a hole in the base of the drone.
+
+"'Zat th' batt'ry?" Iff guessed.
+
+Wales shook his head,
+a sadness on his face that Iffy didn't understand.
+"No,
+it's battery is built in.
+This is---this is just in case."
+He set the inside of the toolbox back in place
+to hide the secret compartment
+and tossed the drone into the air.
+
+It rose, started to fall, and then---Iffy blinked.
+She couldn't see any rotors or hear any buzzing or whining.
+The drone just *floated*,
+shimmering slightly as if it was a hologram instead of a physical object.
+
+"It's covered in ionizing impellers,"
+Wales explained without waiting for Iffy to ask.
+"They work better in thin atmospheres than rotors."
+A wry grin tugged at one corner of his mouth.
+I expect it's the last of its kind, too."
+
+A hundred questions crowded together in Iffy's head.
+Before she could ask any of them,
+he jerked his chin toward the horizon and said,
+"Go."
+With no more command than that,
+the drone shot away,
+vanishing almost instantly as its camo made it invisible against the sea and sky.

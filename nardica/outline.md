@@ -215,3 +215,5 @@ Chapters
     *   "Like, who doesn't know that, and anyway, what am _I_ supposed to do about it?"
     *   Iffy realizes that people can't fix the past (her parents, the world), but they _can_ make the future better
     *   Goes back to the shopkeeper that Aunt Naggie spoke to (a Zillion spy) and signs up
+
+- Bharati fire was Wales

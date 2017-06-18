@@ -2176,9 +2176,9 @@ Wales reported.
 Uncle Jack growled.
 "Tell me how affin' fast, man."
 
-"Eighteen kay an hour."
+"Twenty kay an hour."
 Wales hesitated.
-"Make that twenty.
+"Make that twenty-two.
 She's military for sure."
 
 Uncle Jack horked and spat into the garbage pail by his feet.
@@ -2359,4 +2359,112 @@ he jerked his chin toward the horizon and said,
 "Go."
 With no more command than that,
 the drone shot away,
-vanishing almost instantly as its camo made it invisible against the sea and sky.
+vanishing almost instantly as its camo matched the blue, gray, and white
+of the sky, sea, and waves.
+
+Wales locked his toolbox and shoved it against the wall of the pilot house.
+"Shall we watch from inside?" he asked,
+gesturing for Iffy to go ahead of him
+as if he were a character in one of Aunt Naggie's novels
+inviting her onto the dance floor.
+
+Uncle Jack was chewing on the end of his beard as they entered.
+"Well?" he demanded.
+
+Instead of answering,
+Wales pressed his palm against the nearest corner of the control panel.
+The images from the ship's cameras wavered and blinked out,
+to be replaced by a single large picture.
+It took Iffy a moment to recognize the ocean seen from on high
+through a fisheye lens.
+The irregular lines running diagonally across it were wave crests,
+and the spec near the bottom was the *Guinevere*.
+There was a whole lot of nothing around them,
+she realized with a chill.
+
+"Have you sent a distress call?" Wales asked quietly.
+
+Uncle Jack nodded,
+his face grim.
+"Nearest shout I got back is a hunnerd kay east,
+but they're smaller'n we are.
+Halley wasn't much innerested 'til I tol' 'em our friends looked milit'ry.
+Now they're sayin' they'll get a spotter up soon as they can,
+which prob'ly means just in time t' watch us bein' towed away."
+
+"Send the drone's feed directly to Halley,"
+Wales ordered crisply.
+"Tell them it's to go straight to Captain Stirling,
+blue clearance.
+That should wake them up."
+
+Uncle Jack spat out the mouthful of beard he had been chewing on.
+"You're an affing knacker!?"
+he said,
+asking and accusing in the same breath.
+
+"No."
+Wales shook his head without taking his eyes off the display.
+"But I've done business with them in the past."
+His tone changed.
+"Here we go."
+
+The view on the control panel shifted
+as the drone tilted its camera forward
+and narrowed its focus to zoom in on a dark blur
+that squatted on the horizon like a cockroach on a dirty floor.
+Its outline remained blurry even as it grew larger.
+That was the dazzle,
+Iffy guessed---thousands of micro-thin strips of camo
+absorbing and re-emitting light, infrared, radar, and everything else
+that might give reveal the ship's actual position and profile.
+Even blurred,
+she was a frightening sight.
+Where the *Guinevere* stood up in the water,
+proud of being a working ship,
+the intruder was built low and lean,
+the narrow V of her wake betraying the power of her engines.
+
+"How fast is that thing o' yours movin'?" Uncle Jack asked
+as the ship grew larger on the screen.
+
+"Mach three and change,"
+Wales replied.
+"Which will be worth exactly nothing if they spot it.
+Hang on."
+
+The image tilted and swooped.
+Iffy's stomach lurched in sympathy as the drone dove toward the sea below,
+straightening out at the last moment to skim the tops of the waves.
+A trio of graphs suddenly appeared at the top of the feed.
+Wales muttered a curse under his breath.
+"They've got some kind multipath radar rig."
+
+"Is that bad?"
+Iffy asked anxiously.
+
+"It means they know something's out there,
+but they don't have a lock on it.
+I hope,"
+Wales amended fervently.
+"But look---there she is."
+
+"Oh, she's tech,"
+Aunt Naggie breathed from behind them,
+a tray of tea and sandwiches in her hands.
+Iffy could only nod.
+The outline of the ship had suddenly sharpened
+as the drone finally came close enough
+for its image reconstruction software
+to see through its quarry's dazzle.
+
+"She's murder is what she is,"
+Uncle Jack growled.
+The stubby tubes of railguns bristled from domes at her bow and stern.
+The larger tube amidships had to be some sort of cryo cannon,
+Iffy guessed---at least,
+that's what it would be if this was a sim or a movie.
+But the most frightening thing was what *wasn't* there:
+no flag,
+no call numbers,
+nothing to give her any sort of identity.

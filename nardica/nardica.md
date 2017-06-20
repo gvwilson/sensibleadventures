@@ -2468,7 +2468,7 @@ But the most frightening thing was what *wasn't* there:
 no flag,
 no call numbers,
 nothing to give her any sort of identity
-except for the slogan "Este mundo é deus" on her side.
+except for the slogan "Este mundo é de deus" on her side.
 
 "Zillions..."
 Iffy whispered.
@@ -2477,7 +2477,7 @@ The Green Zillions had fought beside Australia and the Dutch and the rest of hum
 in the machine wars,
 but once the bots were defeated,
 they had turned on their allies.
-"Este mundo é deus!" they screamed
+"Este mundo é de deus!" they screamed
 in books and movies and sims.
 "This world is God's!"
 The earth's self-appointed defenders would sacrifice everything

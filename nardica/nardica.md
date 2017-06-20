@@ -2450,7 +2450,7 @@ Wales amended fervently.
 "But look---there she is."
 
 "Oh, she's tech,"
-Aunt Naggie breathed from behind them,
+Aunt Naggie breathed reverently from behind them,
 a tray of tea and sandwiches in her hands.
 Iffy could only nod.
 The outline of the ship had suddenly sharpened
@@ -2467,4 +2467,87 @@ that's what it would be if this was a sim or a movie.
 But the most frightening thing was what *wasn't* there:
 no flag,
 no call numbers,
-nothing to give her any sort of identity.
+nothing to give her any sort of identity
+except for the slogan "Este mundo é deus" on her side.
+
+"Zillions..."
+Iffy whispered.
+Everyone knew those four words---knew them and feared them.
+The Green Zillions had fought beside Australia and the Dutch and the rest of humanity
+in the machine wars,
+but once the bots were defeated,
+they had turned on their allies.
+"Este mundo é deus!" they screamed
+in books and movies and sims.
+"This world is God's!"
+The earth's self-appointed defenders would sacrifice everything
+to undo the damage humanity had done to the planet,
+even their own species.
+When a shaft in a coal mine collapsed
+or a ship with a gas engine went down,
+people blamed Zillion fanatics
+intent on driving humanity back into the stone age.
+
+Without warning the display went blank.
+"What the---" Uncle Jack swore,
+even as the shimmering white broke into snow and the image re-formed.
+
+"EM shockwave,"
+Wales said curtly.
+"The drone's core is shielded,
+but another hit like that will fry the ionizers.
+I'm pulling it back."
+Even as he spoke,
+the ship dwindled into the distance.
+
+"Idjit!"
+Uncle Jack slapped the controls in frustration.
+"You'll lead 'em right to us!"
+
+Wales shook his head.
+"There's a sea ridge about fifteen clicks southwest of their position.
+I'm going to---"
+He stopped himself and cocked his head to the side.
+A second image blossomed on the control panel
+aswirl with false-colored oranges and pinks.
+In the moment it took Iffy to recognize the outline of the coastline in front of them,
+a pair of circled dots blinked into life.
+
+"What th' hell's that?"
+Uncle Jack demanded.
+
+Wales pointed at a splotch of pink that lay between the two dots.
+"That's a boil waiting to happen.
+Not big enough to sink her,
+but enough to slow her down."
+
+Iffy's heart skipped a beat.
+For a moment she was back in the ecosuit,
+back in the water,
+back in her nightmare.
+Then she swallowed drily and shrugged off the hand that Aunt Naggie had put on her shoulder.
+"How ya gonna get them into it?"
+she asked,
+hoping her voice didn't sound as wavery to everyone else
+as it did to her.
+
+Thin white lines appeared and disappeared on the display
+as Wales and the *Guinevere*'s core ran sims
+to explore a thousand possible futures.
+After a couple of seconds,
+their criss-cross confusion locked into place.
+"There,"
+Wales declared.
+"That's our best chance.
+I'll update it as we get more telemetry.
+More data from the drone,"
+he added quickly as Uncle Jack opened his mouth.
+
+"Never thought I'd be steerin' *into* a boil,"
+he muttered
+even as the *Guinevere*'s path began to bend to port.
+He grabbed a sandwich from the tray and gobbled half in a single hasty bite,
+chasing it down with a gulp of tea and a belch.
+Wales took a second ceramic mug and sipped its contents.
+When Aunt Naggie reached over Iffy to take the third and hand it to her niece,
+Iffy looked up at her and mouthed a silent "thank you".

@@ -2528,6 +2528,7 @@ For a moment she was back in the ecosuit,
 back in the water,
 back in her nightmare.
 Then she swallowed drily and shrugged off the hand that Aunt Naggie had put on her shoulder.
+"I'm a'right," she lied.
 
 "Waitin' to happen don't help us," Uncle Jack spat.
 "'Less you got some magic to speed that along."
@@ -2546,10 +2547,198 @@ Wales declared.
 I'll update it as we get more data from the drone."
 
 "Never thought I'd be steerin' *into* a boil,"
-he muttered
-even as the *Guinevere*'s path began to bend to port.
+he grumbled
+even as he bent the *Guinevere*'s path to port.
 He grabbed a sandwich from the tray and gobbled half in a single hasty bite,
 chasing it down with a gulp of tea and a belch.
 Wales took a second ceramic mug and sipped its contents.
-When Aunt Naggie reached over Iffy to take the third and hand it to her niece,
-Iffy looked up at her and mouthed a silent "thank you".
+
+Aunt Naggie reached over Iffy to take the third and handed it to her niece.
+"I'll be down in the galley,"
+she announced,
+turning to go.
+
+"We got plenty o' food, woman."
+Uncle Jack gulped another mouthful of tea.
+
+"Yes, well, um,"
+Aunt Naggie stammered.
+"Don't want to be in th' way."
+She scooped up the tray she had brought and hurried out.
+
+Uncle Jack eyed Iffy,
+clearly expecting her to follow her aunt,
+but said nothing when she straightened up and stood her ground.
+
+Beside her,
+Wales grunted.
+"She's turning faster than I expected.
+I'll update the model."
+The white lines on the screen danced and twisted again,
+settling quickly back into a pattern indistinguishable to Iffy's eyes
+from the original.
+
+Wales grunted again.
+"Nine minutes to optimal position.
+Assuming they're not tweaking the satellite signal just to lure us in."
+
+"Coulda mentioned that earlier," Uncle Jack muttered,
+more out of reflex than conviction.
+
+Soft green digits in the corner of the control panel
+counted down the seconds and minutes.
+The tension in the pilot house stretched
+until Iffy thought it would snap like a rubber band.
+Uncle Jack's knuckles were white on the wheel,
+and try as she might,
+she couldn't quite seem to catch her breath.
+Even Wales seemed to feel it.
+He flew the drone in a back-and-forth sweep as if searching for something,
+never too far in front of the Zillion warship
+but never letting it close in enough to try another shot with its laser.
+
+Eight minutes.
+Seven.
+Six.
+Wales suddenly twisted to look over his shoulder
+through the open door behind him.
+
+"What?" Uncle Jacked snapped.
+
+The 'Merican hesitated, then shook his head.
+"Nothing.
+Just felt like someone had stepped on my grave."
+
+Five minutes.
+Four.
+Three.
+Two.
+One.
+"Show time," Wales said quietly.
+He bowed his head as if in prayer.
+The image on the screen steadied as the drone slowed to a halt.
+The Zillion ship drew closer,
+gray and single-purposed like the shark in Iffy's nature book.
+
+The map of the sea around the *Guinevere* tilted to show depth.
+The ridge on the sea floor lay directly beneath the drone,
+orange splashed with warning pink.
+"Thirty seconds,"
+Wales said.
+Before Iffy could ask, "Until what?"
+the drone dove straight down into the water.
+
+The image from its cameras dimmed and went black
+as the drone left the light behind.
+Two white sparks appeared on the map next to the Zillion ship
+and sped toward the blue dot that marked the drone's position.
+"*Ta ma dé*," Wales swore.
+
+His drone plummeted toward the sea floor
+as the Zillion hunter-killers closed in.
+"C'mon c'mon c'mon," Iffy pleaded
+without realizing she was saying it out loud.
+
+The drone's dot blinked out.
+A balloon of red light expanded where it had been.
+The Zillion sparks tried to curve away,
+but there wasn't time.
+First one then the other disappeared as their trajectories intersected the expanding red blob.
+
+And then the blob touched the sea floor.
+The pink blotch beneath it writhed like a speared fish,
+darkening and spreading as if it was being dragged along.
+Graphs flashed onto the screen,
+probability surfaces dancing in three dimensions
+as the *Guinevere*'s core tried to predict what would happen next.
+
+"Uh oh," Wales said softly.
+On the screen,
+a section of the sea ridge had come loose
+and was slipping slowly into the depths.
+Blue lightning flashed along the edges of the mudslide,
+bright lines connecting and spreading in a sudden spiderweb fracture.
+
+"Come about,"
+Wales snapped at Uncle Jack.
+"Now!"
+
+Iffy's uncle didn't wait to be told twice.
+"I knew this was affin' stupid," he snarled as he spun the wheel.
+The *Guinevere* heeled hard to port.
+Iffy grabbed the door frame to keep her feet.
+"What happened?" she asked.
+
+"Fault line in the ridge,"
+Wales said angrily.
+"The satellite couldn't see it,
+and the last bot to go through must have---"
+
+"You takin' data from *bots*?" Uncle Jacked demanded.
+"Affin' hell, man,
+soon as we're out o' this,
+you're straight over the affin' side!"
+
+Wales didn't answer.
+Instead,
+he closed his eyes and pressed a hand onto the control panel.
+The map and graphs vanished,
+replaced by a grainy image that quickly zoomed in to show
+the now-familiar outline of the Zillion ship.
+"I'm sorry," he whispered as the sea around her started to bubble.
+"I'm so sorry."
+He buried his face in his hands.
+
+Iffy couldn't look away.
+She thought she was going to throw up,
+but she couldn't tear her eyes off the image.
+The mudslide started by the bomb the drone had been carrying
+had broken up a field of barely-frozen clathrates,
+releasing enormous bubbles of methane.
+As they rose to the surface
+they churned the sea into a froth
+too fine to bear the weight of a ship.
+
+Too late,
+her captain realized the danger that had appeared beneath her.
+The ship turned sharply,
+trying to steer for safety,
+and then she wallowed,
+her engines churning as the water beneath her turned to froth.
+That quickly,
+she was gone.
+
+"Saints and their mercies."
+Uncle Jack leaned to the side and spat through the window beside him.
+
+Iffy realized she was crying.
+"Why?"
+She dragged her sleeve across her face.
+"Why'd you have to drown 'em?"
+
+"I didn't mean to,"
+Wales said,
+the weary self-hatred in his voice saying as clearly as words
+that he knew how little that mattered.
+"The sim said it would probably just bubble enough to make them turn around."
+
+"Taff your sims!"
+Iffy shouted.
+"Taff your affin' sims!
+They're *dead*!"
+She turned and stumbled out of the pilot house.
+
+Her feet took her to the galley on auto-pilot.
+She yanked back the hatch and almost fell through.
+"Iffy, sweetie, what's wrong?"
+Aunt Naggie hastily snapped the lid back on the spice jar she was holding
+and wrapped her meaty arms around her niece.
+
+"They're dead," Iffy cried.
+"They're all drowned dead!"
+
+"Oh, sweetie."
+Her aunt hugged her tight,
+rocking her from side to side.
+"Oh, sweetie..."
+

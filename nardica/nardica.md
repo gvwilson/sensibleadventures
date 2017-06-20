@@ -2741,4 +2741,56 @@ and wrapped her meaty arms around her niece.
 Her aunt hugged her tight,
 rocking her from side to side.
 "Oh, sweetie..."
+For a moment Iffy thought she heard another voice,
+but then there were just her tears.
 
+The spotter reached them half an hour later.
+Iffy heard the low buzz of its propellor long before she could see its gossamer wings.
+She had left Aunt Naggie in the galley
+and taken a seat on the thwart at the *Guinevere*'s stern,
+gray thoughts chasing each other aimlessly in her head.
+She had half-hoped that Wales would join her,
+that he'd tell her he'd had no choice,
+that it had been them or the Zillion ship.
+Instead,
+he had disappeared into his cabin instead,
+ignoring Uncle Jack's angry questions about
+what the hell a civilian was doing with a milligram bomb in his affin' luggage.
+
+Iffy stood and stretched,
+then shaded her eyes.
+Why was the spotter approaching from the west?
+Halley lay east of them.
+Unless---
+"Uncle Jack!" she shouted,
+turning and running toward the pilot house.
+"Uncle Jack,
+it's the Zillions!
+They found us again!"
+
+"Hang on a sec,"
+her uncle said a face on to the control panel as she charged into the pilot house.
+"What?"
+
+"Uncle Jack," she panted.
+"There's a Zillion spotter comin' in on us fast!"
+
+"That ain't the Zillions,"
+her uncle said scornfully.
+"That's one of ours come up outta Rothera."
+He jerked his thumb at the face on the screen.
+"Lady here says they been lookin' for us.
+Or more to say,
+they been lookin' for our passenger.
+Seems he's quite a popular fellow."
+
+Iffy goggled at her uncle,
+then looked at the screen.
+An old woman smiled back.
+Her brown face lined with a century of wrinkles,
+and what was left of her hair was pulled back tight on her scalp.
+"Hello,"
+she said.
+"You must be Miz Kwan.
+I'm Doctor Johel,
+and I'm looking forward to meeting you."

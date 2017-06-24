@@ -1,5 +1,6 @@
 <!-- start: 2017-04-22 -->
 <!-- target: 60000 -->
+<!-- deadline: 2017-12-01 -->
 # Nardica<br>by Greg Wilson
 
 ## Chapter 1
@@ -175,7 +176,7 @@ laid out on tables in Halley's one restaurant, three cafés, and six bars.
 She had studied them sidelong,
 afraid of being noticed and told to go away,
 while serious men and women had argued weights and tolerances and expansion coefficients.
-The railroad they were going to build wouldn't be Antarctica's first,
+The railroad they were going to build wouldn't be 'Nardica's first,
 but the locomotive would be the first designed and constructed on the southern continent.
 And more than anything in the world,
 Iffy wanted to be part of it.
@@ -2720,7 +2721,7 @@ She dragged her sleeve across her face.
 Wales said,
 the weary self-hatred in his voice saying as clearly as words
 that he knew how little that mattered.
-"The sim said it would probably just bubble enough to make them turn around."
+"The sim said it would just bubble enough to make them turn around."
 
 "Taff your sims!"
 Iffy shouted.
@@ -2794,3 +2795,84 @@ she said.
 "You must be Miz Kwan.
 I'm Doctor Johel,
 and I'm looking forward to meeting you."
+
+## Chapter 4
+
+They sailed into Rothera two days later
+with the gossamer-winged spotter still tracing lazy circles overhead.
+A pair of low-slung launches had intercepted them a few hours after the Zillion ship went down,
+but neither had come closer than a hundred meters,
+and Iffy didn't know if they had human crews or were being steered by bots.
+
+"You will never find a more wretched hive of scum and villainy,"
+Wales said as they rounded the rocky headland that sheltered 'Nardica's second-biggest city
+from the worst of the winter storms.
+
+Iffy bridled.
+"It ain't that bad."
+
+Wales chuckled.
+"It's a quote from an old movie.
+A *really* old one.
+And no,
+it isn't that bad.
+Or at least,
+it didn't used to be."
+His wry smile vanished as quickly as it had appeared.
+He hadn't spoken much since the sinking
+except to give Uncle Jack updates on the state of the sea floor
+and apologize quietly to Iffy.
+"I'm so, so sorry," he told her quietly
+the evening after it happened.
+
+"No worries,"
+Iffy mumbled awkwardly.
+"Uncle Jack says it woulda been us for drowned if you han't."
+
+He had busied himself doing repairs after that,
+and Iffy had been drawn in despite herself.
+They traced and welded micro-fractures in the main hold's bulkheads,
+cleaned decades-old glitches out of the software that regulated the *Guinevere*'s propellors,
+and recalibrated the tension monitors in the mainsail cables.
+Under other circumstances,
+Iffy would have enjoyed herself more than she had in years.
+
+The free repairs should have made Uncle Jack happy,
+or at least less unhappy.
+Instead,
+every fix seemed to make him resent their passenger more.
+"Never shoulda let 'im set foot on board!"
+he raged at Iffy and Aunt Naggie
+as though the decision had been theirs.
+"And you mark me,
+there'll be nothin' but trouble for us in Rothera."
+
+Thin trails of smoke drew diagonal charcoal lines across the sky above the city.
+Iffy glanced sidelong at Wales,
+but he showed no emotion at the evidence of coal being burned.
+The coal mines were the original source of Rothera's wealth,
+and the reason for both the governor and the navy being headquartered there
+and the Zillions' prowling and raids.
+It was a crime to burn fossil fuel in most parts of the world,
+but when pressed,
+Rothera's citizens would shrug and say, "Damage done,"
+or point out that the whole of 'Nardica would still be covered in ice
+if it weren't for the warming.
+And if cities elsewhere had drowned
+and billions had starved or been driven from their homes
+in the run-up to the machine wars,
+well,
+that was done too.
+
+The wind shifted suddenly,
+and the smell hit them.
+Along with its mines,
+Rothera had a jelly fishing fleet ten times the size of Halley's.
+The reek of tonnes of jellyfish being boiled into goo and rendered down into fuel and fertilizer
+was like a blow to the head.
+Wales wrinkled his nose in disgust,
+but Iffy took a deep breath,
+held it until she thought her lungs might burst,
+and let it out in a whoosh.
+Rothera had been her parents' home port,
+and the wet reeking thud of its air always reminded her of them.

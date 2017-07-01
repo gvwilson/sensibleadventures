@@ -2581,7 +2581,7 @@ from the original.
 
 Wales grunted again.
 "Nine minutes to optimal position.
-Assuming they're not tweaking the satellite signal just to lure us in."
+Assuming they're not skewing the satellite signal just to lure us in."
 
 "Coulda mentioned that earlier," Uncle Jack muttered,
 more out of reflex than conviction.
@@ -2745,6 +2745,8 @@ rocking her from side to side.
 For a moment Iffy thought she heard another voice,
 but then there were just her tears.
 
+## Chapter 4
+
 The spotter reached them half an hour later.
 Iffy heard the low buzz of its propellor long before she could see its gossamer wings.
 She had left Aunt Naggie in the galley
@@ -2796,8 +2798,6 @@ she said.
 I'm Doctor Johel,
 and I'm looking forward to meeting you."
 
-## Chapter 4
-
 They sailed into Rothera two days later
 with the gossamer-winged spotter still tracing lazy circles overhead.
 A pair of low-slung launches had intercepted them a few hours after the Zillion ship went down,
@@ -2844,12 +2844,13 @@ every fix seemed to make him resent their passenger more.
 "Never shoulda let 'im set foot on board!"
 he raged at Iffy and Aunt Naggie
 as though the decision had been theirs.
-"And you mark me,
+"You mark me,
 there'll be nothin' but trouble for us in Rothera."
 
-Thin trails of smoke drew diagonal charcoal lines across the sky above the city.
+Thin trails of smoke drew diagonal charcoal lines across the sky above the city
+as the *Guinevere* approached.
 Iffy glanced sidelong at Wales,
-but he showed no emotion at the evidence of coal being burned.
+but he showed no emotion at the evidence of carbon being thrown into the atmosphere.
 The coal mines were the original source of Rothera's wealth,
 and the reason for both the governor and the navy being headquartered there
 and the Zillions' prowling and raids.
@@ -2865,14 +2866,91 @@ well,
 that was done too.
 
 The wind shifted suddenly,
-and the smell hit them.
+and the city's smell hit them like a wet hammer.
 Along with its mines,
-Rothera had a jelly fishing fleet ten times the size of Halley's.
-The reek of tonnes of jellyfish being boiled into goo and rendered down into fuel and fertilizer
+Rothera had a fishing fleet ten times the size of Halley's.
+The reek of tonnes of jellyfish being boiled into goo and rendered down for fuel and fertilizer
 was like a blow to the head.
 Wales wrinkled his nose in disgust,
 but Iffy took a deep breath,
 held it until she thought her lungs might burst,
 and let it out in a whoosh.
 Rothera had been her parents' home port,
-and the wet reeking thud of its air always reminded her of them.
+and its reek always reminded her of them.
+
+The twin launches shadowing them peeled away as they entered the harbor.
+The spotter banked and turned back out to sea a few moments later,
+the sun sparkling off the solar cells on its wings.
+Iffy watched it go,
+wistfully imagining what it would be like to spend her days in silent solitude,
+watching everything below with the detachment of an angel or a satellite.
+She was pretty sure there wouldn't be much silence or solitude once they docked.
+
+A squad of Marines was waiting for them when they reached their assigned pier.
+Four of them stood in a half-circle around a tiny figure dressed all in black
+with an armored bot the size of Halley's broken-down street sweeper behind them.
+The other Marines had taken up positions
+next to creates and pieces of machinery
+or on the decks of nearby ships.
+The pier was otherwise deserted.
+So were the piers on either side,
+Iffy realized.
+
+"Sharks in the water," Wales murmured beside her
+as a dark mechanical shape swam beneath them.
+He glanced past Iffy as Aunt Naggie came on deck,
+her expression saying everyting that she wasn't,
+and forced a smile.
+Aunt Naggie put her arm around Iffy's shoulders without replying.
+
+The *Guinevere* slowed,
+turning parallel to the pier at the last moment.
+Iffy shrugged off her aunt's arm and hurried forward to throw a line to a waiting Marine.
+As he caught it,
+another Marine leaped across the gap to the *Guinevere*'s stern.
+He made no more sound hitting the deck than a seagull,
+and when he turned to toss the coiled line waiting there to one of his companions,
+Iffy saw the angular bulge of an exoskeleton beneath his parka.
+
+Uncle Jack strode onto the deck and put his hands on his hips.
+"Well," he said after a moment to no one in particular.
+"Let's get this over with."
+With one final glare at Wales,
+he lowered the gangplank and marched across to meet their welcoming committee.
+
+Wales stepped aside to let Aunt Naggie follow her husband
+and then picked up the toolbox with the purple square on the end.
+"Bring those," he said to Iffy,
+nodding at the two remaining toolboxes.
+"And stay close---as long as we don't startle anyone,
+everything will be fine."
+
+Iffy hesitated.
+"It's normal for an apprentice to carry their teacher's gear,"
+Wales explained gently.
+Iffy nodded jerkily,
+her heart racing,
+and followed him down the gangplank with one box handing from each arm.
+
+Doctor Johel stepped forward to greet them.
+"Mister Wales," she said warmly,
+extending her hand.
+"Such a pleasure to see you again."
+Her accent was straight out of an old movie,
+and her eyes sparkled as she and Wales shook hands.
+
+"And Miz Kwan,"
+she continued,
+turning to Iffy and holding out her hand again.
+"A pleasure as well.
+I'm sorry your crossing was so eventful."
+
+"No worries,"
+Iffy mumbled,
+setting down the toolboxes and shaking Doctor Johel's hand gingerly.
+She was half a head shorter than Iffy,
+and her wrinkled brown skin felt like warm plastic.
+Up close,
+the sparkle in her eyes was more than just a trick of the light,
+but Iffy couldn't tell if she was tweaked
+or if the tiny gleaming motes were some kind of tech.

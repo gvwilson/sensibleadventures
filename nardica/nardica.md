@@ -2939,11 +2939,31 @@ extending her hand.
 Her accent was straight out of an old movie,
 and her eyes sparkled as she and Wales shook hands.
 
+"And you, doctor."
+Wales bowed his head slightly before releasing her hand.
+"My apologies again for the commotion I caused."
+
+Doctor Johel made a rude noise in her throat.
+"Long overdue in some people's opinions,"
+she said briskly.
+"The Brazilians have been getting quite daring of late.
+This will certainly give them pause."
+
+Wales inclined his head again.
+"As you say."
+He hesitated.
+"Do you know yet whether the ship had any crew?"
+
+The tiny woman's expression softened slightly.
+"I'm afraid not.
+And even if we did,
+Intelligence might not share that knowledge."
+
 "And Miz Kwan,"
 she continued,
 turning to Iffy and holding out her hand again.
-"A pleasure as well.
-I'm sorry your crossing was so eventful."
+"A pleasure to meet you in person.
+I'm grateful to you for helping Mister Wales get here in one piece."
 
 "No worries,"
 Iffy mumbled,
@@ -2954,3 +2974,78 @@ Up close,
 the sparkle in her eyes was more than just a trick of the light,
 but Iffy couldn't tell if she was tweaked
 or if the tiny gleaming motes were some kind of tech.
+
+"And I'm Jack Ng, thank you for asking,"
+Uncle Jack broke in,
+stepping forward and thrusting his hand out.
+"I'm the captain of the *Guinevere*,
+and what I want to know is,
+who's payin' me?"
+
+"I'm sure the governor will take care of that when you see him,"
+Doctor Johel said,
+pointedly ignoring his hand.
+
+"When I what?  I'm not---will you stop pestering me, woman?"
+He shrugged Aunt Naggie's cautioning hand off his shoulder angrily.
+"I'm not talkin' to the governor about this!
+I was hired for a job,
+plain an' simple.
+I just want paid an' then I'm done with it."
+
+"That will be for the governor to decide,"
+Doctor Johel said with sudden steel in her voice.
+"Luckily,
+he was able to make time in his schedule for you."
+She turned and began to hobble toward shore.
+As she did so,
+the armored bot pivoted smoothly on its heavy treads
+and lowered one of its arms.
+The elderly doctor sat on it as if being carried along a pier
+by a war machine designed for inflicting mayhem was the most natural thing in the world.
+
+"She always did love to put on a show,"
+Wales observed drily.
+He picked up his toolbox and nudged Iffy with his elbow.
+"Come along, apprentice.
+Our day's not over yet."
+
+Half a dozen people stood together at the base of the pier
+under the watchful eyes of another pair of Marines.
+Iffy recognized a couple of them as crew
+from the ships tied up on either side of the *Guinevere*.
+One nodded to Uncle Jack,
+who returned the nod with a grunt,
+but no one said hello.
+
+They followed the armored bot to the harbor gate,
+where a bus painted the same navy blue as the Marines' uniforms waited for them.
+The bot waited patiently as Doctor Johel got to her feet.
+"After you," she said,
+gesturing at the bus's open door.
+Wales dipped his head once again and climbed aboard
+with Iffy, Uncle Jack, and Aunt Naggie behind him.
+
+"Haven't been in one of these in years,"
+Wales said,
+seating himself near the front
+with his toolbox at his feet.
+
+"Ain't never been in one,"
+Iffy confessed
+as she sait on the other side of the aisle from him.
+"They must think pretty highly of you
+to lay on such a fuss."
+
+Wales laughed humorlessly.
+"I suspect that what they think highly of is this,"
+he said,
+nudging his toolbox with his boot.
+"And if they thought they could take it away from me without,
+um,
+consequences,
+I'm pretty sure our welcome would have been much less friendly."
+
+He raised an eyebrow at Doctor Johel.
+The old woman smiled sweetly,
+but said nothing.

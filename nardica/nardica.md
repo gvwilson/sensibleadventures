@@ -3045,7 +3045,76 @@ nudging his toolbox with his boot.
 um,
 consequences,
 I'm pretty sure our welcome would have been much less friendly."
-
 He raised an eyebrow at Doctor Johel.
 The old woman smiled sweetly,
 but said nothing.
+
+Rothera bustled around them as the bus hummed quietly through its streets
+and up the long, gentle slope that led to the governor's mansion.
+The armored bot stayed a steady five meters in front of them,
+its twin turrets swivelling from side to side
+each time they went through an intersection.
+The Marines jogged along beside them,
+their exoskeletons turning each stride into a long, low leap.
+Traffic pulled aside to let them pass,
+and people turned to watch them go by,
+but Iffy didn't see any of the mad scramble
+that a convoy like theirs would cause in Halley.
+If it hadn't been for Uncle Jack muttering under his breath
+and snapping at Aunt Naggie when she tried to shush him,
+she would have thoroughly enjoyed the ride.
+
+As they drew closer to the governor's mansion,
+the three-story cinderblock buildings of the old town
+gave way to newer, brighter construction.
+Foamed glass reflected the blue sky back at itself
+and repeated the anti-aircraft laser turrets that surrounded the mansion
+to create a forest of gangly triple-strutted forms.
+Iffy pressed her face against the bus window and stared hungrily at
+the greenhouses nestled among the turrets' feet.
+Apple and oranges and bananas and flowers---flowers!---made a green riot
+beneath the carefully-insulated panels.
+
+Without warning her stomach rumbled,
+making her blush.
+Doctor Johel smiled from the seat behind Wales.
+"I'm sure lunch will be served,"
+she promised.
+
+"Thanks," Iffy mumbled,
+feeling her uncle's glare on her back.
+Suddenly resentful of his disapproval,
+she asked,
+"So what kind o' doctor are you?"
+
+"The medical kind, originally,"
+the old woman replied,
+turning in her seat to face Iffy.
+"But lately I've been focusing physics and engineering.
+There's still a lot of technology left over from the robot wars that we don't quite understand,
+and it's my department's job to secure it."
+She glanced at Wales.
+"Or destroy it if that's not possible."
+Wales smiled as if Doctor Johel had paid him a compliment.
+They rode the rest of the way in silence.
+
+A fractal-patterned fence surrounded the governor's mansion.
+Its single gate swung open as they approached.
+The armored bot pulled to the side to let the bus go through,
+but the Marines stayed beside them right up to the circular turnaround
+in front of the mansion's main entrance.
+A triangular diamond wedge glistened in the center of the turnaround,
+familiar to Iffy from dozens of pictures.
+"In memory" was engraved on each of its faces.
+In memory of those lost when the ice melted and the sea rose
+and the great cities of the world that was were drowned.
+In memory of those who fell fighting the machines in the war that followed.
+In memory of all the species now extinct,
+the giraffes and tigers and all the others that now existed only in books and movies.
+Iffy paused a moment as she came out of the bus to look at it,
+an unexpected pang in her chest.
+
+"Get along with you," Uncle Jack growled,
+nudging her none too gently.
+With Marines on either side of them,
+they followed Doctor Johel to the mansion's doors and went inside.

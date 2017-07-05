@@ -211,7 +211,7 @@ Iffy noticed.
 That might mean a visit from the police later.
 He'd rave on for an hour if they came
 about how the mayor was just another rock-hogging idiot
-who would sell them all out to the Dutch or the Zillions
+who would sell them all out to the Euros or the Zillions
 as soon as she could get a decent price,
 but it would be worth it.
 
@@ -2197,7 +2197,7 @@ Those ships were worth a lot, though---enough
 for their captains to make a habit of sailing close by each other
 whenever strangers were nearby.
 And while Iffy hadn't paid much attention to the politics of it all,
-she knew that the three-way tension between the Dutch,
+she knew that the three-way tension between the Euros,
 the Zillions,
 and the government in Tasmania had been getting worse.
 
@@ -2474,7 +2474,7 @@ except for the slogan "Este mundo é de deus" on her side.
 "Zillions..."
 Iffy whispered.
 Everyone knew those four words---knew them and feared them.
-The Green Zillions had fought beside Australia and the Dutch and the rest of humanity
+The Green Zillions had fought beside Australia and the Euros and the rest of humanity
 in the machine wars,
 but once the bots were defeated,
 they had turned on their allies.
@@ -3117,4 +3117,80 @@ an unexpected pang in her chest.
 "Get along with you," Uncle Jack growled,
 nudging her none too gently.
 With Marines on either side of them,
-they followed Doctor Johel to the mansion's doors and went inside.
+they followed Doctor Johel through the mansion's doors.
+
+And then waited.
+Iffy wasn't sure what she had been expecting,
+but sitting on a bench---even a very comfortable one,
+with live plants on either side and soft music playing in the background---wasn't it.
+Uncle Jack kept his arms crossed and muttered incessantly,
+glaring at Aunt Naggie whenever she ventured that the governor must be very busy,
+really,
+it wasn't surprising that he couldn't see them right away,
+and she was sure he wouldn't be much longer.
+
+Wales seemed to take it all in stride.
+At one point Iffy thought he had actually fallen asleep,
+but then he grimaced and opened his eyes.
+"They're locked down tight," he sighed quietly,
+tapping the tech in his temple with a finger.
+
+Iffy nodded toward the toolboxes on the floor between them.
+"Least they let you keep your gear."
+
+Wales smiled.
+"There is that," he agreed.
+"And---ah, here we go."
+He stood and brushed his hands on his trousers
+as the door across from them swung open with soft pneumatic whoosh,
+revealing that it was as thick as Iffy's slab mattress.
+Armor?
+Soundproofing?
+She didn't have time to wonder before Doctor Johel came in.
+"The governor will see you now," she said.
+"But I'm afraid you'll have to leave those here."
+
+"Of course,"
+Wales said smoothly,
+nudging his toolbox under the bench with his boot.
+"Shall we say...half an hour?"
+
+"I should think that would be adequate," Doctor Johel replied.
+She stepped to the side and beckoned them through.
+
+"Half an hour 'til what?"
+Iffy whispered to Wales.
+
+"Until the toolbox decides I'm not coming back and does something about it,"
+he answered in a low voice,
+but then he grinned at her widened eyes
+and she didn't know if he was kidding or not.
+
+Ten steps brought them to a windowless office not much larger than the room they had been waiting in.
+Framed photographs on the walls traced the history of Rothera
+from its early days as a research station
+through the opening of the mines
+and its years as a work camp for people that the government in far-off London
+didn't want at home but didn't want to get rid of---at least, not yet.
+The largest picture was of the flag being raised in Hobart
+after that government was driven out by civil war and the Euros.
+The smaller one beneath it showed what was left of London,
+drowned and abandoned to gangs and machines.
+
+A plain wooden desk stood near one wall
+with half a dozen simple wooden chairs in front of it.
+A single Marine who looked all the more dangerous for her lack of obvious tech or tweaks
+gestured for them to sit.
+Iffy expected Doctor Johel to take the seat behind the desk,
+but she sat with them instead.
+
+The Marine studied them for a heartbeat before saying,
+"All clear, sir."
+
+"Thank you, sergeant."
+The words seemed to come out of thin air,
+but then the air behind the desk shimmered
+and---opened up, was the only way Iffy could describe it---to reveal
+a tall man in a formal dark turtleneck,
+slightly stooped with age but still strong,
+his face exactly like the photo that hung in the Sandhu's grocery store.

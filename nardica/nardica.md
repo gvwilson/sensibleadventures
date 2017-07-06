@@ -3188,9 +3188,118 @@ The Marine studied them for a heartbeat before saying,
 "All clear, sir."
 
 "Thank you, sergeant."
-The words seemed to come out of thin air,
-but then the air behind the desk shimmered
+The words seemed to come out of thin air.
+Iffy's jaw dropped as the air behind the desk shimmered
 and---opened up, was the only way Iffy could describe it---to reveal
 a tall man in a formal dark turtleneck,
 slightly stooped with age but still strong,
 his face exactly like the photo that hung in the Sandhu's grocery store.
+
+"Please, as you were,"
+Governor Stern said pleasantly,
+waving Uncle Jack and Aunt Naggie back into their seats
+as they started to rise.
+He nodded at Doctor Johel
+sat somewhat stiffly behind his desk,
+and steepled his fingers.
+"I trust the rest of your trip was less eventful than the...
+incident with our Brazilian neighbors?"
+
+The room was silent as everyone waited for Wales to reply.
+As the moment stretched uncomfortably,
+Uncle Jack cleared his throat.
+"Er, yes, your honor, clear skies 'n' smooth sailin'."
+He bobbed his head.
+If Iffy hadn't known better,
+she would have thought he was actually blushing.
+"Glad t' help.
+Happy to help,
+any time you need."
+
+The governor nodded his head gravely.
+"Thank you, Captain Ng.
+The government appreciates your service.
+And you, Mister Wales,"
+he continued,
+looking directly at Wales for the first time.
+"How was the rest of *your* trip?"
+
+Wales never got to answer.
+Something screamed outside,
+a shrill mechanical sound that ended in the flat crack of an explosion.
+A dozen pop-up displays instantly materialized above the desk,
+aerial views and schematics splashed with red danger markers.
+The Marine took two steps and pressed the gun that was suddenl in her hand
+against Wales' head.
+He raised his hands,
+saying,
+"It's not mine! It's not mine!"
+over and over
+as more Marines poured through the door behind them.
+
+"Sir, it's the G-80,"
+the one in the lead said,
+urgent but calm.
+"It---"
+A second shriek and *crack!* cut off the rest of his sentence.
+"We have to evacuate you, sir,"
+the Marine continued
+as a section of the wall behind the governor's desk slid sideways
+to reveal a ramp leading down into the bedrock below the mansion.
+
+The governor stayed where he was.
+A single swipe of his hand enlarged one of the displays
+to show a top-down view of the front of the mansion
+just in time for them to see Doctor Johel's armored bot fire another micro-missile
+at the swarm of robotic guard bots swarming around it.
+Shriek---*crack!*
+The explosion threw the guard bot twenty meters.
+The larger bot pivoted on its treads and swung one of its arms like a club
+to knock another guard bot into the air.
+
+"Doctor?" the governor asked calmly.
+"You told me its core was secure."
+
+"It was,"
+she replied just as calmly.
+"At least,
+it was against everything I'd ever encountered.
+Mister Wales?"
+
+"Nothing to do with me,"
+Wales replied,
+his hands still in the air
+and his head tilted slightly to one side under the pressure of the Marine's gun
+pressed against the tech in his temple.
+
+"Sir---" the Marine began again.
+
+"In a moment,"
+the governor said sharply,
+his eyes fixed on the display
+as a pair of guard bots charged their larger opponent simultaneously.
+The big armored bot knocked one of them away,
+but the second managed to jam one of its metal claws into a gap in one of its treads.
+
+A bright blue flash dazzled the camera for an instant.
+When it subsided,
+the guard bot lay broken on the ground
+with the tread beside it.
+The single laser burst had cut right through the tread,
+Iffy realized.
+That was enough power to light up every tool in Mister Mishra's shop for a month.
+
+"Well, that's that,"
+Governor Stern said,
+sitting back in his chair.
+Half-crippled,
+unable to do more than pivot in place,
+Doctor Johel's armored bot was no match
+for the remaining guard bots.
+An arm,
+the pop-up micro-missile launcher on its back,
+then its sensors
+and finally its other tread---the guard bots disabled each in turn,
+until finally all their attacker could do
+was spin in a circle
+and wave the one arm still under its control at anything that came near.

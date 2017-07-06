@@ -123,7 +123,7 @@ dragged her fingers through her unwashed hair,
 and undogged the door to the storage locker
 that had been her cabin for the past eight years.
 As she climbed out of the hold onto the *Guinevere*'s deck,
-the sights and sounds and smells of Rothera harbor crashed down on her
+the sights and sounds and smells of Halley harbor crashed down on her
 like the waves in her nightmare.
 She stopped for a moment to let her eyes adjust.
 
@@ -141,11 +141,11 @@ complaining to one another about the cold.
 
 The town watched the harbor like a grumpy old man watching children at play.
 Back when,
-Rothera had been a research station where scientists studied
+Halley had been a research station where scientists studied
 the first warning signs of the big melt.
 The scientists moved their buildings onto the land when the ice disappeared,
 adding more each year as first fishing boats and then jelly dredgers began to call in.
-Two thousand people now called Rothera home,
+Two thousand people now called Halley home,
 dredging in the summer and rendering the catch down for fuel and food in the winter
 or tending to the town's precious greenhouses.
 
@@ -1452,8 +1452,7 @@ I'd know."
 
 Uncle Jack spat over the railing.
 "Ain't nobody here would call the police," he growled,
-though from the look on his face
-Iffy could tell he had been thinking about it.
+the look on his face putting the lie to his words.
 
 Wales nodded and hurried down the gangplank.
 The trio left on the *Guinevere* watched him jog away on the pier.
@@ -1597,6 +1596,14 @@ then shooed Iffy off to get some sleep.
 she said firmly.
 "Let him have his rest now,
 an' you get yours."
+Then she smiled the warm, sad smile that only came out
+when she and her lost sister's child were alone.
+"You'll wanna have plenty o' rest behind you when we get there
+so you can go chasin' after that boy o' yours."
+
+"I ain't got no boy!"
+Iffy protested automatically.
+Her aunt tousled her hair and left.
 
 Iffy stretched out on her narrow bunk
 and paged through her nature book.
@@ -3229,7 +3236,7 @@ Something screamed outside,
 a shrill mechanical sound that ended in the flat crack of an explosion.
 A dozen pop-up displays instantly materialized above the desk,
 aerial views and schematics splashed with red danger markers.
-The Marine took two steps and pressed the gun that was suddenl in her hand
+The Marine took two steps and pressed the gun that was suddenly in her hand
 against Wales' head.
 He raised his hands,
 saying,
@@ -3251,20 +3258,18 @@ The governor stayed where he was.
 A single swipe of his hand enlarged one of the displays
 to show a top-down view of the front of the mansion
 just in time for them to see Doctor Johel's armored bot fire another micro-missile
-at the swarm of robotic guard bots swarming around it.
+at the swarm of four-legged robotic sentries swarming around it.
 Shriek---*crack!*
-The explosion threw the guard bot twenty meters.
+The explosion threw the sentry twenty meters.
 The larger bot pivoted on its treads and swung one of its arms like a club
-to knock another guard bot into the air.
+to knock another sentry into the air.
 
 "Doctor?" the governor asked calmly.
 "You told me its core was secure."
 
 "It was,"
-she replied just as calmly.
-"At least,
-it was against everything I'd ever encountered.
-Mister Wales?"
+she replied, calm but angry.
+"Mister Wales?"
 
 "Nothing to do with me,"
 Wales replied,
@@ -3277,29 +3282,24 @@ pressed against the tech in his temple.
 "In a moment,"
 the governor said sharply,
 his eyes fixed on the display
-as a pair of guard bots charged their larger opponent simultaneously.
+as a pair of sentrys charged their larger opponent simultaneously.
 The big armored bot knocked one of them away,
-but the second managed to jam one of its metal claws into a gap in one of its treads.
+but the second managed to jam a metal claw against one of the turrets its top side.
 
-A bright blue flash dazzled the camera for an instant.
-When it subsided,
-the guard bot lay broken on the ground
-with the tread beside it.
-The single laser burst had cut right through the tread,
-Iffy realized.
-That was enough power to light up every tool in Mister Mishra's shop for a month.
+The image flashed blue for a moment.
+When it reformed,
+the sentry lay broken on the ground.
+The armored bot surged forward,
+its treads grinding the stairs that led up to the mansion's front door.
+Another shriek,
+another explosion,
+and the last thing Iffy saw before her aunt dragged her away
+was the armored bot plunging through the hole
+where the door had been just a moment before.
 
-"Well, that's that,"
-Governor Stern said,
-sitting back in his chair.
-Half-crippled,
-unable to do more than pivot in place,
-Doctor Johel's armored bot was no match
-for the remaining guard bots.
-An arm,
-the pop-up micro-missile launcher on its back,
-then its sensors
-and finally its other tread---the guard bots disabled each in turn,
-until finally all their attacker could do
-was spin in a circle
-and wave the one arm still under its control at anything that came near.
+The Marines hurried them down the stairs
+into a narrow corridor that smelled of sweat and machinery.
+Pipes as thick as Iffy's forearm ran along the ceiling,
+a color-coded mix of water, waste, secure optical cabling,
+and highways for the rat-sized security robots
+that were scurrying madly to the mansion's defense.

@@ -50,7 +50,7 @@ from the seething mass of bubbles ahead.
 "She's going to blow!" the crewman shouted.
 The ship's horn blared one last time,
 and then all Iffy could hear was a rushing sound
-that seemed to come from all around them.
+that seemed to come from all around her.
 Sobbing,
 her mother closed the faceplate on the ecosuit.
 
@@ -1612,14 +1612,47 @@ the tiger,
 the giraffe...
 She ran her fingers over the flat, still pictures,
 stubbornly trying to keep her eyelids from drooping
-until she couldn't remember why
-and rolled over and fell instantly asleep.
+until she couldn't remember why they shouldn't.
+
+<em>
+
+She was on deck.
+The sky was a perfect blue,
+and her mother and father were stuffing her into her ecosuit.
+"Just in case, love," her mother said,
+forcing a smile.
+
+But when the ship's horn blared it wasn't a horn at all
+but the sound of a drill press.
+She was in Mister Mishra's,
+fumbling clumsily to reassemble a mound of chips and gears and actuators
+that she had never seen before.
+Her heart raced as she tried frantically to piece them together.
+This rod into that socket---no,
+that couldn't be right,
+it turned the wrong way
+and didn't leave enough space for the lens,
+because the lens had to go there,
+it had to,
+she didn't know how she knew but she did
+and time was running out.
+
+The whole room heeled hard,
+throwing her off balance.
+"She's going to blow!" Mister Mishra shouted,
+and then all Iffy could hear was a rushing sound
+that seemed to come from all around her.
+
+</em>
+
+She woke drenched in sweat and rolled over,
+hugging her pillow to her chest
+and burying her face in it to muffle her sobs.
+It took her a long time to fall asleep again.
 
 ## Chapter 3
 
 It was six days to Rothera.
-Half-way through the first,
-Iffy wondered if they would make it.
 Waves a meter high
 made the *Guinevere* rock from side to side
 in a gentle, surging rhythm that she knew as well as she knew her own heartbeat.
@@ -3282,24 +3315,95 @@ pressed against the tech in his temple.
 "In a moment,"
 the governor said sharply,
 his eyes fixed on the display
-as a pair of sentrys charged their larger opponent simultaneously.
-The big armored bot knocked one of them away,
-but the second managed to jam a metal claw against one of the turrets its top side.
+as a pair of sentries charged their larger opponent simultaneously.
+The big armored bot knocked one of them away
+and grabbed the second in one of its square claws.
 
 The image flashed blue for a moment.
-When it reformed,
-the sentry lay broken on the ground.
+"EMP?" Doctor Johel gasped disbelievingly.
+"It doesn't have a pulse generator!"
+
+The image reformed.
+The armored bot set the sentry it had caught down on the ground
+as the one it had knocked aside struggled back to its feet.
+The others stood frozen for a moment in a circle around it.
+Then,
+as one,
+they turned toward the mansion.
+
 The armored bot surged forward,
 its treads grinding the stairs that led up to the mansion's front door.
 Another shriek,
 another explosion,
 and the last thing Iffy saw before her aunt dragged her away
-was the armored bot plunging through the hole
+was the sentries throwing themselves through the hole
 where the door had been just a moment before.
 
-The Marines hurried them down the stairs
+"Breach!"
+one of the Marines shouted.
+
+"Really?"
+Wales muttered sarcastically,
+his arms still over his head.
+
+Everything happened very quickly after that.
+One of the Marines opened the door to look down the corridor
+and fell back almost immediately,
+cursing at the sizzling laser burn on her arm.
+Iffy barely had time to snatch up the pair of toolboxes by her chair
+before the other Marines hurried everyone down the stairs behind the governor's desk
 into a narrow corridor that smelled of sweat and machinery.
 Pipes as thick as Iffy's forearm ran along the ceiling,
 a color-coded mix of water, waste, secure optical cabling,
 and highways for the rat-sized security robots
 that were scurrying madly to the mansion's defense.
+
+"Doctor?"
+the governor asked from up ahead of Iffy.
+
+"No idea,"
+she puffed.
+"Nobody ever... managed... to breach the firewalls... on the G-80s...
+during the war.
+And if someone... has a way... to infect... the sentries..."
+
+"It was optical,"
+Wales cut in.
+"That flash.
+It wasn't an EMP.
+It was some kind of machine hypnosis."
+He looked ridiculous with one hand up
+and the other clutching the third toolbox,
+but no one was laughing.
+
+"Shall we discuss this later, sirs?"
+the Marine sergeant said,
+her tone making it clear that she wasn't actually asking a question.
+
+Something chattered behind them.
+Sharp dots stitched across the concrete wall a few centimeters from Iffy's head.
+Aunt Naggie threw herself on her niece.
+"Affin' hell!"
+Uncle Jack roared.
+"Keep movin'!"
+
+Needle fire crackled behind them as two of the Marines turned and began firing,
+their tech and tweaks stuttering the shots to break up any pattern or rhythm.
+"Go!"
+the sergeant ordered,
+half-waving and half-shoving them one by one
+through the door at the end of the corridor.
+
+Wales stumbled and went down on one knee.
+"Sorry,"
+he gasped.
+Dark red blood spurted from twin punctures
+where the sentry's shot had punched through his leg.
+
+The sergeant cursed and grabbed his arm.
+"No!"
+Wales struggled to shake her off.
+"The failsafe...
+It thinks I'm wounded..."
+To Iffy's horror,
+the purple square on the end of the toolbox was blinking.

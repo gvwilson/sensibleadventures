@@ -2392,7 +2392,7 @@ shimmering slightly as if it was a hologram instead of a physical object.
 Wales explained without waiting for Iffy to ask.
 "They work better in thin atmospheres than rotors."
 A wry grin tugged at one corner of his mouth.
-I expect it's the last of its kind, too."
+"I expect it's the last of its kind, too."
 
 A hundred questions crowded together in Iffy's head.
 Before she could ask any of them,
@@ -3044,7 +3044,12 @@ and lowered one of its arms.
 The elderly doctor sat on it as if being carried along a pier
 by a war machine designed for inflicting mayhem was the most natural thing in the world.
 
-"She always did love to put on a show,"
+Aunt Naggie patted the machine as it went by.
+"What are you doin', woman?"
+Uncle Jack grumbled.
+"It ain't an affin' dog."
+
+"It might as well be for the way Doctor Johel looks after it,"
 Wales observed drily.
 He picked up his toolbox and nudged Iffy with his elbow.
 "Come along, apprentice.
@@ -3352,7 +3357,7 @@ and fell back almost immediately,
 cursing at the sizzling laser burn on her arm.
 Iffy barely had time to snatch up the pair of toolboxes by her chair
 before the other Marines hurried everyone down the stairs behind the governor's desk
-into a narrow corridor that smelled of sweat and machinery.
+into a narrow zig-zag corridor that smelled of sweat and machinery.
 Pipes as thick as Iffy's forearm ran along the ceiling,
 a color-coded mix of water, waste, secure optical cabling,
 and highways for the rat-sized security robots
@@ -3400,10 +3405,93 @@ he gasped.
 Dark red blood spurted from twin punctures
 where the sentry's shot had punched through his leg.
 
-The sergeant cursed and grabbed his arm.
+The sergeant took his arm and began to drag him forward.
 "No!"
-Wales struggled to shake her off.
+Wales shook her off.
 "The failsafe...
 It thinks I'm wounded..."
 To Iffy's horror,
-the purple square on the end of the toolbox was blinking.
+the purple square on the end of the toolbox had started blinking.
+
+"Cover me!"
+he ordered the sergeant.
+Without waiting to see if she did,
+he opened the toolbox and began pulling parts out.
+
+"What the hell are you doing? Sir?"
+the Marine demanded incredulously
+even as she raised her gun and began firing back the way they had come.
+The smart bullets zinged and whined around the corners,
+hungry for targets.
+
+"My job," Wales muttered.
+Two skeletal legs,
+a wheel of nested gears only slightly smaller than Iffy's hand,
+a complicated not-quite-a-box to hold it all together---all of a sudden
+Iffy could see the parts in her head,
+see how they all had to fit together.
+
+"Not like that,"
+she said without thinking as Wales clipped a thumb-sized cylinder
+on top of the box.
+"Put it underneath.
+It'll be more stable."
+
+Click---click.
+Wales made the change without hesitation or question,
+turned the little bot over for one last check,
+then flung it past Iffy.
+Its gearwheel spinning madly,
+it scampered up the wall and along the ceiling.
+
+"If that's a bomb---"
+the sergeant began.
+
+"Multi-spectrum microwave laser,"
+Wales said crisply.
+*I know that,* Iffy realized incredulously.
+*How could I know that?*
+
+Wales struggled to his feet with a muttered curse,
+swaying slightly before putting a hand on the wall to steady himself.
+Blood was no longer pumping out of his leg,
+but when he tried to take a step he almost collapsed.
+"Here,"
+the sergeant said.
+She switched her gun to her other hand and slipped under his shoulder.
+
+That was when the lights went out.
+Iffy's heart skipped a beat even as they flickered back to life.
+"That's one," Wales grunted.
+He hopped forward on his good leg,
+gasping as his toolbox bumped against the wounded one.
+The purple light on its end was still blinking.
+
+Something scraped against concrete behind them.
+Iffy spun around as a lone sentry came around the corner.
+The now-empty micro-missile launcher on its back gave it a hunched appearance,
+and the fresh scratches on its side
+where the mansion's mechanical rats had clawed at it
+made its camouflage flicker and jump.
+Twin needle guns on the sides of its head chattered,
+their ammunition spent.
+
+The Marine sergeant pushed Wales away and fired in one smooth motion.
+The sentry jerked as her shot pinged off one of its mechanical knees.
+With a sound that could almost have been a growl
+it launched itself at them.
+
+A small gangly shape dropped from the ceiling
+and landed on its back.
+Iffy had just a moment to recognize the little bot
+that Wales had made just moments ago
+before the lights went out again.
+One second, two, three...
+When they came back to life the sentry lay motionless on its side.
+Wales' creation stood over it,
+the tube that hung from its chassis still pointed at the sentry.
+
+"Could you... could you please get that for me?"
+Wales asked Iffy
+as he slumped down against the wall.
+"I have a feeling we might need it again."

@@ -2340,7 +2340,7 @@ and for a moment Iffy wondered just how old he really was.
 "You know,
 that used to mean something very different than it does now,"
 he said ruefully.
-But no, I'm not transhuman.
+"But no, I'm not transhuman.
 I just don't like advertising how much technology I have in me.
 It's hard enough having people try to take my head off---if I had to worry
 about whether I was going to wake up with as many fingers as I had when I went to sleep,

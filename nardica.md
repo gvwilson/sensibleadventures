@@ -51,7 +51,7 @@ from the seething mass of bubbles ahead.
 "She's going to blow!" the crewman shouted.
 The ship's horn blared one last time,
 and then all Iffy could hear was a rushing sound
-that seemed to come from all around them.
+that seemed to come from all around her.
 Sobbing,
 her mother closed the faceplate on the ecosuit.
 
@@ -124,7 +124,7 @@ dragged her fingers through her unwashed hair,
 and undogged the door to the storage locker
 that had been her cabin for the past eight years.
 As she climbed out of the hold onto the *Guinevere*'s deck,
-the sights and sounds and smells of Rothera harbor crashed down on her
+the sights and sounds and smells of Halley harbor crashed down on her
 like the waves in her nightmare.
 She stopped for a moment to let her eyes adjust.
 
@@ -142,11 +142,11 @@ complaining to one another about the cold.
 
 The town watched the harbor like a grumpy old man watching children at play.
 Back when,
-Rothera had been a research station where scientists studied
+Halley had been a research station where scientists studied
 the first warning signs of the big melt.
 The scientists moved their buildings onto the land when the ice disappeared,
 adding more each year as first fishing boats and then jelly dredgers began to call in.
-Two thousand people now called Rothera home,
+Two thousand people now called Halley home,
 dredging in the summer and rendering the catch down for fuel and food in the winter
 or tending to the town's precious greenhouses.
 
@@ -212,7 +212,7 @@ Iffy noticed.
 That might mean a visit from the police later.
 He'd rave on for an hour if they came
 about how the mayor was just another rock-hogging idiot
-who would sell them all out to the Dutch or the Zillions
+who would sell them all out to the Euros or the Zillions
 as soon as she could get a decent price,
 but it would be worth it.
 
@@ -1453,8 +1453,7 @@ I'd know."
 
 Uncle Jack spat over the railing.
 "Ain't nobody here would call the police," he growled,
-though from the look on his face
-Iffy could tell he had been thinking about it.
+the look on his face putting the lie to his words.
 
 Wales nodded and hurried down the gangplank.
 The trio left on the *Guinevere* watched him jog away on the pier.
@@ -1598,6 +1597,14 @@ then shooed Iffy off to get some sleep.
 she said firmly.
 "Let him have his rest now,
 an' you get yours."
+Then she smiled the warm, sad smile that only came out
+when she and her lost sister's child were alone.
+"You'll wanna have plenty o' rest behind you when we get there
+so you can go chasin' after that boy o' yours."
+
+"I ain't got no boy!"
+Iffy protested automatically.
+Her aunt tousled her hair and left.
 
 Iffy stretched out on her narrow bunk
 and paged through her nature book.
@@ -1606,14 +1613,47 @@ the tiger,
 the giraffe...
 She ran her fingers over the flat, still pictures,
 stubbornly trying to keep her eyelids from drooping
-until she couldn't remember why
-and rolled over and fell instantly asleep.
+until she couldn't remember why they shouldn't.
+
+<em>
+
+She was on deck.
+The sky was a perfect blue,
+and her mother and father were stuffing her into her ecosuit.
+"Just in case, love," her mother said,
+forcing a smile.
+
+But when the ship's horn blared it wasn't a horn at all
+but the sound of a drill press.
+She was in Mister Mishra's,
+fumbling clumsily to reassemble a mound of chips and gears and actuators
+that she had never seen before.
+Her heart raced as she tried frantically to piece them together.
+This rod into that socket---no,
+that couldn't be right,
+it turned the wrong way
+and didn't leave enough space for the lens,
+because the lens had to go there,
+it had to,
+she didn't know how she knew but she did
+and time was running out.
+
+The whole room heeled hard,
+throwing her off balance.
+"She's going to blow!" Mister Mishra shouted,
+and then all Iffy could hear was a rushing sound
+that seemed to come from all around her.
+
+</em>
+
+She woke drenched in sweat and rolled over,
+hugging her pillow to her chest
+and burying her face in it to muffle her sobs.
+It took her a long time to fall asleep again.
 
 ## Chapter 3
 
 It was six days to Rothera.
-Half-way through the first,
-Iffy wondered if they would make it.
 Waves a meter high
 made the *Guinevere* rock from side to side
 in a gentle, surging rhythm that she knew as well as she knew her own heartbeat.
@@ -2198,7 +2238,7 @@ Those ships were worth a lot, though---enough
 for their captains to make a habit of sailing close by each other
 whenever strangers were nearby.
 And while Iffy hadn't paid much attention to the politics of it all,
-she knew that the three-way tension between the Dutch,
+she knew that the three-way tension between the Euros,
 the Zillions,
 and the government in Tasmania had been getting worse.
 
@@ -2301,7 +2341,7 @@ and for a moment Iffy wondered just how old he really was.
 "You know,
 that used to mean something very different than it does now,"
 he said ruefully.
-But no, I'm not transhuman.
+"But no, I'm not transhuman.
 I just don't like advertising how much technology I have in me.
 It's hard enough having people try to take my head off---if I had to worry
 about whether I was going to wake up with as many fingers as I had when I went to sleep,
@@ -2353,7 +2393,7 @@ shimmering slightly as if it was a hologram instead of a physical object.
 Wales explained without waiting for Iffy to ask.
 "They work better in thin atmospheres than rotors."
 A wry grin tugged at one corner of his mouth.
-I expect it's the last of its kind, too."
+"I expect it's the last of its kind, too."
 
 A hundred questions crowded together in Iffy's head.
 Before she could ask any of them,
@@ -2475,7 +2515,7 @@ except for the slogan "Este mundo é de deus" on her side.
 "Zillions..."
 Iffy whispered.
 Everyone knew those four words---knew them and feared them.
-The Green Zillions had fought beside Australia and the Dutch and the rest of humanity
+The Green Zillions had fought beside Australia and the Euros and the rest of humanity
 in the machine wars,
 but once the bots were defeated,
 they had turned on their allies.
@@ -2899,6 +2939,7 @@ Iffy realized.
 
 "Sharks in the water," Wales murmured beside her
 as a dark mechanical shape swam beneath them.
+"And that G-80 isn't just for show."
 He glanced past Iffy as Aunt Naggie came on deck,
 her expression saying everyting that she wasn't,
 and forced a smile.
@@ -2940,11 +2981,31 @@ extending her hand.
 Her accent was straight out of an old movie,
 and her eyes sparkled as she and Wales shook hands.
 
+"And you, doctor."
+Wales bowed his head slightly before releasing her hand.
+"My apologies again for the commotion I caused."
+
+Doctor Johel made a rude noise in her throat.
+"Long overdue in some people's opinions,"
+she said briskly.
+"The Brazilians have been getting quite daring of late.
+This will certainly give them pause."
+
+Wales inclined his head again.
+"As you say."
+He hesitated.
+"Do you know yet whether the ship had any crew?"
+
+The tiny woman's expression softened slightly.
+"I'm afraid not.
+And even if we did,
+Intelligence might not share that knowledge."
+
 "And Miz Kwan,"
 she continued,
 turning to Iffy and holding out her hand again.
-"A pleasure as well.
-I'm sorry your crossing was so eventful."
+"A pleasure to meet you in person.
+I'm grateful to you for helping Mister Wales get here in one piece."
 
 "No worries,"
 Iffy mumbled,
@@ -2955,3 +3016,612 @@ Up close,
 the sparkle in her eyes was more than just a trick of the light,
 but Iffy couldn't tell if she was tweaked
 or if the tiny gleaming motes were some kind of tech.
+
+"And I'm Jack Ng, thank you for asking,"
+Uncle Jack broke in,
+stepping forward and thrusting his hand out.
+"I'm the captain of the *Guinevere*,
+and what I want to know is,
+who's payin' me?"
+
+"I'm sure the governor will take care of that when you see him,"
+Doctor Johel said,
+pointedly ignoring his hand.
+
+"When I what?  I'm not---will you stop pestering me, woman?"
+He shrugged Aunt Naggie's cautioning hand off his shoulder angrily.
+"I'm not talkin' to the governor about this!
+I was hired for a job,
+plain an' simple.
+I just want paid an' then I'm done with it."
+
+"That will be for the governor to decide,"
+Doctor Johel said with sudden steel in her voice.
+"Luckily,
+he was able to make time in his schedule for you."
+She turned and began to hobble toward shore.
+As she did so,
+the armored bot pivoted smoothly on its heavy treads
+and lowered one of its arms.
+Someone had turned the "0" of the "G-80" stencilled on its side
+into a scowling face.
+The elderly doctor sat on it as if being carried along a pier
+by a war machine designed for inflicting mayhem was the most natural thing in the world.
+
+Aunt Naggie patted the machine as it went by.
+"What are you doin', woman?"
+Uncle Jack grumbled.
+"It ain't an affin' dog."
+
+"It might as well be for the way Doctor Johel looks after it,"
+Wales observed drily.
+He picked up his toolbox and nudged Iffy with his elbow.
+"Come along, apprentice.
+Our day's not over yet."
+
+Half a dozen people stood together at the base of the pier
+under the watchful eyes of another pair of Marines.
+Iffy recognized a couple of them as crew
+from the ships tied up on either side of the *Guinevere*.
+One nodded to Uncle Jack,
+who returned the nod with a grunt,
+but no one said hello.
+
+They followed the G-80 to the harbor gate,
+where a bus painted the same navy blue as the Marines' uniforms waited for them.
+The bot waited patiently as Doctor Johel got to her feet.
+"After you," she said,
+gesturing at the bus's open door.
+Wales dipped his head once again and climbed aboard
+with Iffy, Uncle Jack, and Aunt Naggie behind him.
+
+"Haven't been in one of these in years,"
+Wales said,
+seating himself near the front
+with his toolbox at his feet.
+
+"Ain't never been in one,"
+Iffy confessed
+as she sait on the other side of the aisle from him.
+"They must think pretty highly of you
+to lay on such a fuss."
+
+Wales laughed humorlessly.
+"I suspect that what they think highly of is this,"
+he said,
+nudging his toolbox with his boot.
+"And if they thought they could take it away from me without,
+um,
+consequences,
+I'm pretty sure our welcome would have been much less friendly."
+He raised an eyebrow at Doctor Johel.
+The old woman smiled sweetly,
+but said nothing.
+
+Rothera bustled around them as the bus hummed quietly through its streets
+and up the long, gentle slope that led to the governor's mansion.
+The G-80 stayed a steady five meters in front of them,
+its twin turrets swivelling from side to side
+each time they went through an intersection.
+The Marines jogged along beside them,
+their exoskeletons turning each stride into a long, low leap.
+Traffic pulled aside to let them pass,
+and people turned to watch them go by,
+but Iffy didn't see any of the mad scramble
+that a convoy like theirs would cause in Halley.
+Her heart skipped a beat once when she thought she saw a face
+that she was hoping and not hoping to see,
+but then the boy turned his head and she realized it was someone else.
+If it hadn't been that,
+and for Uncle Jack muttering under his breath
+and snapping at Aunt Naggie when she tried to shush him,
+she would have thoroughly enjoyed the ride.
+
+As they drew closer to the governor's mansion,
+the three-story cinderblock buildings of the old town
+gave way to newer, brighter construction.
+Foamed glass reflected the blue sky back at itself
+and repeated the anti-aircraft laser turrets that surrounded the mansion
+to create a forest of gangly triple-strutted forms.
+Iffy pressed her face against the bus window and stared hungrily at
+the greenhouses nestled among the turrets' feet.
+Apple and oranges and bananas and flowers---flowers!---made a green riot
+beneath the carefully-insulated panels.
+
+Without warning her stomach rumbled,
+making her blush.
+Doctor Johel smiled from the seat behind Wales.
+"I'm sure lunch will be served,"
+she promised.
+
+"Thanks," Iffy mumbled,
+feeling her uncle's glare on her back.
+Suddenly resentful of his disapproval,
+she asked,
+"So what kind o' doctor are you?"
+
+"The medical kind, originally,"
+the old woman replied,
+turning in her seat to face Iffy.
+"But lately I've been focusing physics and engineering.
+There's still a lot of technology left over from the robot wars that we don't quite understand,
+and it's my department's job to secure it."
+She glanced at Wales.
+"Or destroy it if that's not possible."
+Wales smiled as if Doctor Johel had paid him a compliment.
+They rode the rest of the way in silence.
+
+A fractal-patterned fence surrounded the governor's mansion.
+Its single gate swung open as they approached.
+The G-80 pulled to the side to let the bus go through,
+but the Marines stayed beside them right up to the circular turnaround
+in front of the mansion's main entrance.
+A triangular diamond wedge glistened in the center of the turnaround,
+familiar to Iffy from dozens of pictures.
+"In memory" was engraved on each of its faces.
+In memory of those lost when the ice melted and the sea rose
+and the great cities of the world that was were drowned.
+In memory of those who fell fighting the machines in the war that followed.
+In memory of all the species now extinct,
+the giraffes and tigers and all the others that now existed only in books and movies.
+Iffy paused a moment as she came out of the bus to look at it,
+an unexpected pang in her chest.
+
+"Get along with you," Uncle Jack growled,
+nudging her none too gently.
+With Marines on either side of them,
+they followed Doctor Johel through the mansion's doors.
+
+And then waited.
+Iffy wasn't sure what she had been expecting,
+but sitting on a bench---even a very comfortable one,
+with live plants on either side and soft music playing in the background---wasn't it.
+Uncle Jack kept his arms crossed and muttered incessantly,
+glaring at Aunt Naggie whenever she ventured that the governor must be very busy,
+really,
+it wasn't surprising that he couldn't see them right away,
+and she was sure he wouldn't be much longer.
+
+Wales seemed to take it all in stride.
+At one point Iffy thought he had actually fallen asleep,
+but then he grimaced and opened his eyes.
+"They're locked down tight," he sighed quietly,
+tapping the tech in his temple with a finger.
+
+Iffy nodded toward the toolboxes on the floor between them.
+"Least they let you keep your gear."
+
+Wales smiled.
+"There is that," he agreed.
+"And---ah, here we go."
+He stood and brushed his hands on his trousers
+as the door across from them swung open with soft pneumatic whoosh,
+revealing that it was as thick as Iffy's slab mattress.
+Armor?
+Soundproofing?
+She didn't have time to wonder before Doctor Johel came in.
+"The governor will see you now," she said.
+"But I'm afraid you'll have to leave those here."
+
+"Of course,"
+Wales said smoothly,
+nudging his toolbox under the bench with his boot.
+"Shall we say...half an hour?"
+
+"I should think that would be adequate," Doctor Johel replied.
+She stepped to the side and beckoned them through.
+
+"Half an hour 'til what?"
+Iffy whispered to Wales.
+
+"Until the toolbox decides I'm not coming back and does something about it,"
+he answered in a low voice,
+but then he grinned at her widened eyes
+and she didn't know if he was kidding or not.
+
+Ten steps brought them to a windowless office not much larger than the room they had been waiting in.
+Framed photographs on the walls traced the history of Rothera
+from its early days as a research station
+through the opening of the mines
+and its years as a work camp for people that the government in far-off London
+didn't want at home but didn't want to get rid of---at least, not yet.
+The largest picture was of the flag being raised in Hobart
+after that government was driven out by civil war and the Euros.
+The smaller one beneath it showed what was left of London,
+drowned and abandoned to gangs and machines.
+
+A plain wooden desk stood near one wall
+with half a dozen simple wooden chairs in front of it.
+A single Marine who looked all the more dangerous for her lack of obvious tech or tweaks
+gestured for them to sit.
+Iffy expected Doctor Johel to take the seat behind the desk,
+but she sat with them instead.
+
+The Marine studied them for a heartbeat before saying,
+"All clear, sir."
+
+"Thank you, sergeant."
+The words seemed to come out of thin air.
+Iffy's jaw dropped as the air behind the desk shimmered
+and---opened up, was the only way Iffy could describe it---to reveal
+a tall man in a formal dark turtleneck,
+slightly stooped with age but still strong,
+his face exactly like the photo that hung in the Sandhu's grocery store.
+
+"Please, as you were,"
+Governor Stern said pleasantly,
+waving Uncle Jack and Aunt Naggie back into their seats
+as they started to rise.
+He nodded at Doctor Johel
+sat somewhat stiffly behind his desk,
+and steepled his fingers.
+"I trust the rest of your trip was less eventful than the...
+incident with our Brazilian neighbors?"
+
+The room was silent as everyone waited for Wales to reply.
+As the moment stretched uncomfortably,
+Uncle Jack cleared his throat.
+"Er, yes, your honor, clear skies 'n' smooth sailin'."
+He bobbed his head.
+If Iffy hadn't known better,
+she would have thought he was actually blushing.
+"Glad t' help.
+Happy to help,
+any time you need."
+
+The governor nodded his head gravely.
+"Thank you, Captain Ng.
+The government appreciates your service.
+And you, Mister Wales,"
+he continued,
+looking directly at Wales for the first time.
+"How was the rest of *your* trip?"
+
+Wales never got to answer.
+Something screamed outside,
+a shrill mechanical sound that ended in the flat crack of an explosion.
+A dozen pop-up displays instantly materialized above the desk,
+aerial views and schematics splashed with red danger markers.
+The Marine took two steps and pressed the gun that was suddenly in her hand
+against Wales' head.
+He raised his hands,
+saying,
+"It's not mine! It's not mine!"
+over and over
+as more Marines poured through the door behind them.
+
+"Sir, it's the G-80,"
+the one in the lead said,
+urgent but calm.
+"It---"
+A second shriek and *crack!* cut off the rest of his sentence.
+"We have to evacuate you, sir,"
+the Marine continued
+as a section of the wall behind the governor's desk slid sideways
+to reveal a ramp leading down into the bedrock below the mansion.
+
+The governor stayed where he was.
+A single swipe of his hand enlarged one of the displays
+to show a top-down view of the front of the mansion
+just in time for them to see Doctor Johel's G-80 fire another micro-missile
+at the swarm of four-legged robotic sentries swarming around it.
+Shriek---*crack!*
+The explosion threw the sentry twenty meters.
+The larger bot pivoted on its treads and swung one of its arms like a club
+to knock another sentry into the air.
+
+"Doctor?" the governor asked calmly.
+"You told me its core was secure."
+
+"It was,"
+she replied, calm but angry.
+"Mister Wales?"
+
+"Nothing to do with me,"
+Wales replied,
+his hands still in the air
+and his head tilted slightly to one side under the pressure of the Marine's gun
+pressed against the tech in his temple.
+
+"Sir---" the Marine began again.
+
+"In a moment,"
+the governor said sharply,
+his eyes fixed on the display
+as a pair of sentries charged their larger opponent simultaneously.
+The big G-80 knocked one of them away
+and grabbed the second in one of its square claws.
+
+The image flashed blue for a moment.
+"EMP?" Doctor Johel gasped disbelievingly.
+"It doesn't have a pulse generator!"
+
+The image reformed.
+The G-80 set the sentry it had caught down on the ground
+as the one it had knocked aside struggled back to its feet.
+The others stood frozen for a moment in a circle around it.
+Then,
+as one,
+they turned toward the mansion.
+
+The G-80 surged forward,
+its treads grinding the stairs that led up to the mansion's front door.
+Another shriek,
+another explosion,
+and the last thing Iffy saw before her aunt dragged her away
+was the sentries throwing themselves through the hole
+where the door had been just a moment before.
+
+"Breach!"
+one of the Marines shouted.
+
+"Really?"
+Wales muttered sarcastically,
+his arms still over his head.
+
+Everything happened very quickly after that.
+One of the Marines opened the door to look down the corridor
+and fell back almost immediately,
+cursing at the sizzling laser burn on her arm.
+Iffy barely had time to snatch up the pair of toolboxes by her chair
+before the other Marines hurried everyone down the stairs behind the governor's desk
+into a narrow zig-zag corridor that smelled of sweat and machinery.
+Pipes as thick as Iffy's forearm ran along the ceiling,
+a color-coded mix of water, waste, secure optical cabling,
+and highways for the rat-sized security robots
+that were scurrying madly to the mansion's defense.
+
+"Doctor?"
+the governor asked from up ahead of Iffy.
+
+"No idea,"
+she puffed.
+"Nobody ever... managed... to breach the firewalls... on the G-80s...
+during the war.
+And if someone... has a way... to infect... the sentries..."
+
+"It was optical,"
+Wales cut in.
+"That flash.
+It wasn't an EMP.
+It was some kind of machine hypnosis."
+He looked ridiculous with one hand up
+and the other clutching the third toolbox,
+but no one was laughing.
+
+"Shall we discuss this later, sirs?"
+the Marine sergeant said,
+her tone making it clear that she wasn't actually asking a question.
+
+Something chattered behind them.
+Sharp dots stitched across the concrete wall a few centimeters from Iffy's head.
+Aunt Naggie threw herself on her niece.
+"Affin' hell!"
+Uncle Jack roared.
+"Keep movin'!"
+
+Needle fire crackled behind them as two of the Marines turned and began firing,
+their tech and tweaks stuttering the shots to break up any pattern or rhythm.
+"Go!"
+the sergeant ordered,
+half-waving and half-shoving them one by one
+through the door at the end of the corridor.
+
+Wales stumbled and went down on one knee.
+"Sorry,"
+he gasped.
+Dark red blood spurted from twin punctures
+where the sentry's shot had punched through his leg.
+
+The sergeant took his arm and began to drag him forward.
+"No!"
+Wales shook her off.
+"The failsafe...
+It thinks I'm wounded..."
+To Iffy's horror,
+the purple square on the end of the toolbox had started blinking.
+
+"Cover me!"
+he ordered the sergeant.
+Without waiting to see if she did,
+he opened the toolbox and began pulling parts out.
+
+"What the hell are you doing? Sir?"
+the Marine demanded incredulously
+even as she raised her gun and began firing back the way they had come.
+The smart bullets zinged and whined around the corners,
+hungry for targets.
+
+"My job," Wales muttered.
+Two skeletal legs,
+a wheel of nested gears only slightly smaller than Iffy's hand,
+a complicated not-quite-a-box to hold it all together---all of a sudden
+Iffy could see the parts in her head,
+see how they all had to fit together.
+
+"Not like that,"
+she said without thinking as Wales clipped a thumb-sized cylinder
+on top of the box.
+"Put it underneath.
+It'll be more stable."
+
+Click---click.
+Wales made the change without hesitation or question,
+turned the little bot over for one last check,
+then flung it past Iffy.
+Its gearwheel spinning madly,
+it scampered up the wall and along the ceiling.
+
+"If that's a bomb---"
+the sergeant began.
+
+"Multi-spectrum microwave laser,"
+Wales said crisply.
+*I know that,* Iffy realized incredulously.
+*How could I know that?*
+
+Wales struggled to his feet with a muttered curse,
+swaying slightly before putting a hand on the wall to steady himself.
+Blood was no longer pumping out of his leg,
+but when he tried to take a step he almost collapsed.
+"Here,"
+the sergeant said.
+She switched her gun to her other hand and slipped under his shoulder.
+
+That was when the lights went out.
+Iffy's heart skipped a beat even as they flickered back to life.
+"That's one," Wales grunted.
+He hopped forward on his good leg,
+gasping as his toolbox bumped against the wounded one.
+The purple light on its end was still blinking.
+
+Something scraped against concrete behind them.
+Iffy spun around as a lone sentry came around the corner.
+The now-empty micro-missile launcher on its back gave it a hunched appearance,
+and the fresh scratches on its side
+where the mansion's mechanical rats had clawed at it
+made its camouflage flicker and jump.
+Twin needle guns on the sides of its head chattered,
+their ammunition spent.
+
+The Marine sergeant pushed Wales away and fired in one smooth motion.
+The sentry jerked as her shot pinged off one of its mechanical knees.
+With a sound that could almost have been a growl
+it launched itself at them.
+
+A small gangly shape dropped from the ceiling
+and landed on its back.
+Iffy had just a moment to recognize the little bot
+that Wales had made just moments ago
+before the lights went out again.
+One second, two, three...
+When they came back to life the sentry lay motionless on its side.
+Wales' creation stood over it,
+the tube that hung from its chassis still aimed at the sentry.
+
+"Could you... could you please get that?"
+Wales asked Iffy weakly
+as he slumped down against the wall.
+"I have a feeling we might need it again."
+
+A medic with two tech fingers on her right hand patched Wales up
+while the governor and Doctor Johel interrogated him.
+No,
+he repeated wearily,
+he had no idea how the G-80 had been compromised,
+or how it had infected the sentries.
+He had just been guessing when he said it was some sort of machine hypnosis.
+No,
+he wouldn't show them what else he had in his toolbox.
+And yes,
+he did realize that made him look like he was hiding something,
+but---he shrugged.
+"That's because I am," he said,
+eyeing his cut-off trouser leg sadly.
+He hadn't flinched when the medic probed his wound
+with a whisker-slim instrument extruded from one of her tech fingers,
+or when she started to fill the hole with pink goo from a squeeze tube.
+He hadn't let go of his toolbox, either.
+
+"The question is, what?"
+The governor paced restlessly as he spoke,
+ignoring Uncle Jack, Aunt Naggie, and Iffy
+and only glancing at Doctor Johel when she spoke.
+"What kind of man has a fully functional military-issue satellite link in his head?"
+
+Wales pushed the medic's hands away.
+"The sort who change the world for you," he said.
+
+Governor Stern stopped and glared at him.
+"Oh really?"
+
+"Really."
+Wales sat up, wincing.
+"Or at least, give you the tools you need to do it yourself."
+When the governor raised an eyebrow,
+he plowed on.
+"There's a research base at the foot of Mount Tyree,
+a couple of hundred klicks inland from Ellsworth.
+Half of it's still under the ice,
+but there's been enough melt to expose the entrance
+and some of the upper works."
+
+The governor closed his eyes.
+His fingers drummed instructions on his thighs for a moment.
+"All right, there's a base."
+He opened his eyes.
+"There are lots of old buildings lying around.
+What makes this one special?"
+
+"It was never really a research base."
+Wales glanced at Doctor Johel.
+"It was a backup ground station for the Niobium network.
+And it's still functional."
+
+"You're lying,"
+Doctor Johel said,
+as calmly as if she ordering a cup of tea.
+"Governor, he---"
+
+The governor shushed her with a wave.
+"Convince me," he said curtly.
+
+Wales closed his eyes
+and reeled off a list of coordinates.
+The numbers meant nothing to Iffy,
+but from the looks on Governor Stern's and Doctor Johel's faces,
+they recognized at least some of them.
+"I can bring up your drones, too," Wales said when he was done.
+"If we can get to the base,
+you can see everything the Brazilians have,
+every moment of the day."
+
+"And you're just going to give that to us out of the goodness of your heart,"
+the governor said flatly.
+
+Wales smiled wanly.
+"Of course not."
+He pointed to the medic.
+"Tell him what you found."
+
+The medic looked at the governor for permission.
+When the old man nodded,
+she said,
+"He's been tweaked, sir.
+Oxygen uptake, metabolic efficiency, chromatin---it'll take a while to sort it all out."
+
+Governor Stern shrugged.
+"And?"
+
+"And every once in a while I need a reboot,"
+Wales said.
+He tapped the tech in his temple.
+"All sorts of digital garbage collects in here.
+If I don't re-set every few years,
+it starts to mess up my nervous system.
+As far as I can tell,
+the base is the last place on Earth with the gear I need."
+
+The governor nodded slowly.
+"Interesting.
+All right.
+Sergeant?"
+
+"Yes sir," the Marine said,
+speaking for the first time since she, Wales, and Iffy had survived the sentry's attack.
+
+"Take these three back to their ship.
+No comms.
+Just until I decide what to do next,"
+he continued
+as Uncle Jack opened his mouth to object.
+"We'll have your supplies restocked while you wait.
+Mister Wales,
+you'll be my guest here."
+
+Wales smiled.
+"I appreciate your hospitality."
+And with that,
+he lay back,
+closed his eyes,
+and almost immediately began to snore.

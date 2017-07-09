@@ -2938,6 +2938,7 @@ Iffy realized.
 
 "Sharks in the water," Wales murmured beside her
 as a dark mechanical shape swam beneath them.
+"And that G-80 isn't just for show."
 He glanced past Iffy as Aunt Naggie came on deck,
 her expression saying everyting that she wasn't,
 and forced a smile.
@@ -3041,6 +3042,8 @@ She turned and began to hobble toward shore.
 As she did so,
 the armored bot pivoted smoothly on its heavy treads
 and lowered one of its arms.
+Someone had turned the "0" of the "G-80" stencilled on its side
+into a scowling face.
 The elderly doctor sat on it as if being carried along a pier
 by a war machine designed for inflicting mayhem was the most natural thing in the world.
 
@@ -3063,7 +3066,7 @@ One nodded to Uncle Jack,
 who returned the nod with a grunt,
 but no one said hello.
 
-They followed the armored bot to the harbor gate,
+They followed the G-80 to the harbor gate,
 where a bus painted the same navy blue as the Marines' uniforms waited for them.
 The bot waited patiently as Doctor Johel got to her feet.
 "After you," she said,
@@ -3096,7 +3099,7 @@ but said nothing.
 
 Rothera bustled around them as the bus hummed quietly through its streets
 and up the long, gentle slope that led to the governor's mansion.
-The armored bot stayed a steady five meters in front of them,
+The G-80 stayed a steady five meters in front of them,
 its twin turrets swivelling from side to side
 each time they went through an intersection.
 The Marines jogged along beside them,
@@ -3105,7 +3108,11 @@ Traffic pulled aside to let them pass,
 and people turned to watch them go by,
 but Iffy didn't see any of the mad scramble
 that a convoy like theirs would cause in Halley.
-If it hadn't been for Uncle Jack muttering under his breath
+Her heart skipped a beat once when she thought she saw a face
+that she was hoping and not hoping to see,
+but then the boy turned his head and she realized it was someone else.
+If it hadn't been that,
+and for Uncle Jack muttering under his breath
 and snapping at Aunt Naggie when she tried to shush him,
 she would have thoroughly enjoyed the ride.
 
@@ -3145,7 +3152,7 @@ They rode the rest of the way in silence.
 
 A fractal-patterned fence surrounded the governor's mansion.
 Its single gate swung open as they approached.
-The armored bot pulled to the side to let the bus go through,
+The G-80 pulled to the side to let the bus go through,
 but the Marines stayed beside them right up to the circular turnaround
 in front of the mansion's main entrance.
 A triangular diamond wedge glistened in the center of the turnaround,
@@ -3295,7 +3302,7 @@ to reveal a ramp leading down into the bedrock below the mansion.
 The governor stayed where he was.
 A single swipe of his hand enlarged one of the displays
 to show a top-down view of the front of the mansion
-just in time for them to see Doctor Johel's armored bot fire another micro-missile
+just in time for them to see Doctor Johel's G-80 fire another micro-missile
 at the swarm of four-legged robotic sentries swarming around it.
 Shriek---*crack!*
 The explosion threw the sentry twenty meters.
@@ -3321,7 +3328,7 @@ pressed against the tech in his temple.
 the governor said sharply,
 his eyes fixed on the display
 as a pair of sentries charged their larger opponent simultaneously.
-The big armored bot knocked one of them away
+The big G-80 knocked one of them away
 and grabbed the second in one of its square claws.
 
 The image flashed blue for a moment.
@@ -3329,14 +3336,14 @@ The image flashed blue for a moment.
 "It doesn't have a pulse generator!"
 
 The image reformed.
-The armored bot set the sentry it had caught down on the ground
+The G-80 set the sentry it had caught down on the ground
 as the one it had knocked aside struggled back to its feet.
 The others stood frozen for a moment in a circle around it.
 Then,
 as one,
 they turned toward the mansion.
 
-The armored bot surged forward,
+The G-80 surged forward,
 its treads grinding the stairs that led up to the mansion's front door.
 Another shriek,
 another explosion,
@@ -3489,9 +3496,131 @@ before the lights went out again.
 One second, two, three...
 When they came back to life the sentry lay motionless on its side.
 Wales' creation stood over it,
-the tube that hung from its chassis still pointed at the sentry.
+the tube that hung from its chassis still aimed at the sentry.
 
-"Could you... could you please get that for me?"
-Wales asked Iffy
+"Could you... could you please get that?"
+Wales asked Iffy weakly
 as he slumped down against the wall.
 "I have a feeling we might need it again."
+
+A medic with two tech fingers on her right hand patched Wales up
+while the governor and Doctor Johel interrogated him.
+No,
+he repeated wearily,
+he had no idea how the G-80 had been compromised,
+or how it had infected the sentries.
+He had just been guessing when he said it was some sort of machine hypnosis.
+No,
+he wouldn't show them what else he had in his toolbox.
+And yes,
+he did realize that made him look like he was hiding something,
+but---he shrugged.
+"That's because I am," he said,
+eyeing his cut-off trouser leg sadly.
+He hadn't flinched when the medic probed his wound
+with a whisker-slim instrument extruded from one of her tech fingers,
+or when she started to fill the hole with pink goo from a squeeze tube.
+He hadn't let go of his toolbox, either.
+
+"The question is, what?"
+The governor paced restlessly as he spoke,
+ignoring Uncle Jack, Aunt Naggie, and Iffy
+and only glancing at Doctor Johel when she spoke.
+"What kind of man has a fully functional military-issue satellite link in his head?"
+
+Wales pushed the medic's hands away.
+"The sort who change the world for you," he said.
+
+Governor Stern stopped and glared at him.
+"Oh really?"
+
+"Really."
+Wales sat up, wincing.
+"Or at least, give you the tools you need to do it yourself."
+When the governor raised an eyebrow,
+he plowed on.
+"There's a research base at the foot of Mount Tyree,
+a couple of hundred klicks inland from Ellsworth.
+Half of it's still under the ice,
+but there's been enough melt to expose the entrance
+and some of the upper works."
+
+The governor closed his eyes.
+His fingers drummed instructions on his thighs for a moment.
+"All right, there's a base."
+He opened his eyes.
+"There are lots of old buildings lying around.
+What makes this one special?"
+
+"It was never really a research base."
+Wales glanced at Doctor Johel.
+"It was a backup ground station for the Niobium network.
+And it's still functional."
+
+"You're lying,"
+Doctor Johel said,
+as calmly as if she ordering a cup of tea.
+"Governor, he---"
+
+The governor shushed her with a wave.
+"Convince me," he said curtly.
+
+Wales closed his eyes
+and reeled off a list of coordinates.
+The numbers meant nothing to Iffy,
+but from the looks on Governor Stern's and Doctor Johel's faces,
+they recognized at least some of them.
+"I can bring up your drones, too," Wales said when he was done.
+"If we can get to the base,
+you can see everything the Brazilians have,
+every moment of the day."
+
+"And you're just going to give that to us out of the goodness of your heart,"
+the governor said flatly.
+
+Wales smiled wanly.
+"Of course not."
+He pointed to the medic.
+"Tell him what you found."
+
+The medic looked at the governor for permission.
+When the old man nodded,
+she said,
+"He's been tweaked, sir.
+Oxygen uptake, metabolic efficiency, chromatin---it'll take a while to sort it all out."
+
+Governor Stern shrugged.
+"And?"
+
+"And every once in a while I need a reboot,"
+Wales said.
+He tapped the tech in his temple.
+"All sorts of digital garbage collects in here.
+If I don't re-set every few years,
+it starts to mess up my nervous system.
+As far as I can tell,
+the base is the last place on Earth with the gear I need."
+
+The governor nodded slowly.
+"Interesting.
+All right.
+Sergeant?"
+
+"Yes sir," the Marine said,
+speaking for the first time since she, Wales, and Iffy had survived the sentry's attack.
+
+"Take these three back to their ship.
+No comms.
+Just until I decide what to do next,"
+he continued
+as Uncle Jack opened his mouth to object.
+"We'll have your supplies restocked while you wait.
+Mister Wales,
+you'll be my guest here."
+
+Wales smiled.
+"I appreciate your hospitality."
+And with that,
+he lay back,
+closed his eyes,
+and almost immediately began to snore.

@@ -1417,7 +1417,7 @@ than a windstorm would on a mountain.
 "It's certainly a possibility,"
 he said crisply.
 "Here."
-He pulled a money out of his jacket
+He pulled a money card out of his jacket
 and thrust it at Uncle Jack.
 "I'll give you that now,
 and the same again when we reach Rothera."
@@ -1429,7 +1429,7 @@ Uncle Jack turned the flat black plastic rectangle over in his hands suspiciousl
 Wales said.
 
 "Six---thousand?"
-Uncle Jack pressed his thumb on the corner of the money.
+Uncle Jack pressed his thumb on the corner of the money card.
 His eyes widened at the blinking figures it displayed.
 He looked up at Wales.
 "You must wanna get out of here pretty badly,"
@@ -1439,7 +1439,7 @@ Wales shrugged.
 "It's no use to me if I can't spend it."
 
 Uncle Jack hesitated a moment,
-then pocketed the money and grunted something unintelligible.
+then pocketed the money card and grunted something unintelligible.
 "Thank you," Wales said.
 "I'll be quick."
 He turned to go,
@@ -1458,7 +1458,7 @@ Wales nodded and hurried down the gangplank.
 The trio left on the *Guinevere* watched him jog away on the pier.
 "That one's trouble,"
 Uncle Jack said flatly,
-glancing at the money one more time before tucking it inside his coat.
+glancing at the money card one more time before tucking it inside his coat.
 He leaned over the railing,
 cleared his throat,
 and spat once more into the water below.
@@ -3614,7 +3614,8 @@ No comms.
 Just until I decide what to do next,"
 he continued
 as Uncle Jack opened his mouth to object.
-"We'll have your supplies restocked while you wait.
+"You can resupply while you wait,
+on the house.
 Mister Wales,
 you'll be my guest here."
 
@@ -3624,3 +3625,74 @@ And with that,
 he lay back,
 closed his eyes,
 and almost immediately began to snore.
+
+## Chapter 5
+
+"I will *not* go *anywhere* without more curry powder!"
+Aunt Naggie said emphatically.
+"Because if I do,
+you'll be the first one to complain."
+She crossed her arms and straightened her back
+like a soldier waiting to be shot.
+
+For a moment Iffy was sure Uncle Jack would explode at her again,
+but to her surprise he back down.
+"Fine," he snapped,
+waving her away.
+"You go get whatever we need.
+I'm gonna look at the engine an' see what th' sainted Mister Wales has gaffled up.
+And take the girl with you,"
+he added as he turned to stalk away.
+"Had enough o' her underfoot for one day."
+
+Aunt Naggie slumped and took a deep breath.
+"Good on you," Iffy said,
+punching her lightly in the shoulder.
+
+Her aunt smiled shakily.
+The Marines had driven them back to the pier half an hour before
+with strict orders not to tell anyone what had happened at the governor's mansion.
+The fact that there was nothing else on the news
+when Uncle Jack brought it up on the *Guinevere*'s control panel
+didn't seem to matter.
+
+One of the Marines had handed Aunt Naggie a black-edged silvery money card
+and told her to use it for whatever they needed.
+"But keep in mind,
+Finance will charge things back to you if it thinks they're luxuries,"
+he added pointedly.
+Uncle Jack scowled at that,
+his all-too-obvious plan to find a bar sunk before it ever set sail.
+
+It only took Aunt Naggie a minute to gather up a trio of sturdy mesh bags
+and an ancient handheld piece of tech that would tell them if anything was toxic.
+After dragging a brush through her close-cropped hair
+and watching sternly while Iffy, protesting, did the same,
+she strode down the gangplank with her niece in tow.
+The Marine stationed there nodded at them as they went past.
+Iffy nodded back,
+wondering if he knew what had happened just a short hour ago
+and whether either of the Marines who had died had been his friends.
+
+Rothera's streets were busy but not crowded.
+Its shops clustered along the harborfront like gulls standing just out of reach of the waves.
+Their signs seemed bigger and brighter than those in Halley.
+Familiar cartoon characters and celebrities from far-off Australia beckoned,
+danced,
+pouted,
+and cracked jokes as people walked by.
+Iffy would have stopped in front of each one,
+but Aunt Naggie hurried past them,
+her expression set.
+She regarded shopping as a competitive sport,
+and Iffy could tell she had no intention of letting Rothera defeat her.
+
+The main market had once been an aircraft hangar.
+A century ago,
+someone with more money than sense had added a spun glass floor two stories above the ground.
+Their attempt to turn the building into "Nardica's Biggest, Bestest Dance Hall!!" had failed almost immediately.
+After a couple of unsuccessful attempts to oust the squatters and refugees who took it over after the war,
+the governor of the time had thrown up her hands and let anyone who could pay two rand a month
+set up a stall.
+Still known as the Dance Hall,
+it reminded Iffy of nothing so much as the picture of an anthill in her mother's nature book.

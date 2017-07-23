@@ -1599,9 +1599,9 @@ an' you get yours."
 Then she smiled the warm, sad smile that only came out
 when she and her lost sister's child were alone.
 "You'll wanna have plenty o' rest behind you when we get there
-so you can go chasin' after that boy o' yours."
+so you can go chasin' after that special friend o' yours."
 
-"I ain't got no boy!"
+"I ain't got no special friend!"
 Iffy protested automatically.
 Her aunt tousled her hair and left.
 
@@ -3110,7 +3110,7 @@ but Iffy didn't see any of the mad scramble
 that a convoy like theirs would cause in Halley.
 Her heart skipped a beat once when she thought she saw a face
 that she was hoping and not hoping to see,
-but then the boy turned his head and she realized it was someone else.
+but then the girl turned his head and she realized it was someone else.
 If it hadn't been that,
 and for Uncle Jack muttering under his breath
 and snapping at Aunt Naggie when she tried to shush him,
@@ -3692,7 +3692,92 @@ A century ago,
 someone with more money than sense had added a spun glass floor two stories above the ground.
 Their attempt to turn the building into "Nardica's Biggest, Bestest Dance Hall!!" had failed almost immediately.
 After a couple of unsuccessful attempts to oust the squatters and refugees who took it over after the war,
-the governor of the time had thrown up her hands and let anyone who could pay two rand a month
-set up a stall.
+the governor of the time had thrown up her hands
+and let anyone who could pay two rand a month set up a stall.
 Still known as the Dance Hall,
-it reminded Iffy of nothing so much as the picture of an anthill in her mother's nature book.
+it reminded Iffy of nothing so much as the animated picture of an anthill in her mother's nature book.
+
+Aunt Naggie tapped her money card on the reader held out by the bored guard at the door
+to pay her ten pence admission fee
+and then paused to take a deep breath.
+"Ah..." she sighed.
+Noticing Iffy's look,
+she tousled her niece's hair.
+"Why'n't you go off an' see what you can find?" she said.
+"Or who, if you've a mind to?"
+
+Iffy felt her cheeks go warm.
+"You sure you don't need me?"
+
+Aunt Naggie glanced around.
+Greenhouse potatoes hung in net bags
+next to stacks of tinned apples.
+Burlap sacks of Cape Town rice piled higher than Iffy was tall
+threatened to topple onto a line of people gossipping with each other
+as they waited their turn to buy ginger, cardamom, and bay leaves
+from a one-legged Russian woman with tweaked hair
+that sparkled red and purple every time she turned her head.
+A surgical bot that had been converted for tailoring stood motionless,
+four skeletal arms at its sides,
+while a man with a shaven head and an enormous beard
+struggled into a coat that was still a size too small for him.
+"I'll be fine,"
+Aunt Naggie said,
+as happy as Iffy ever saw her.
+
+Ten minutes later
+Iffy turned the corner onto Rocking Horse Street
+and hurried toward the stubby dead-end canal
+that Rothera's mechanics used as a repair yard.
+A sleek cutter lay along one side
+while crab-like bots scrambled over its sides
+scraping off the tweaked barnacles that would,
+if left unchecked,
+slowly devour its fractal carbon hull.
+Iffy would normally have stopped to watch,
+but right then she had other things on her mind.
+
+She slowed to a walk as she approached the end of the canal.
+Her heart sank.
+Two people were working side by side in the salvage booth,
+but both were too old to be who she was hoping to see.
+She was about to turn to go when a familiar voice said,
+"Hey, Iffy!"
+
+She whirled around just in time to be caught up in an enormous hug.
+"Hey,"
+Slack said more softly,
+her cheek pressed against Iffy's.
+"Micka tol' me she saw y'all come in,
+an' then I heard about what happen up along th' governor's.
+I's worried about you."
+
+Iffy returned the hug awkwardly.
+Somehow,
+she always felt awkward around Slack,
+especially when they were close enough
+that she could smell whatever it was that Slack used to wash her hair.
+"I'm fine,"
+she said,
+her voice muffled slightly by the rat fur collar on Slack's coat.
+
+She slithered free of the hug and took a step back.
+"I'm fine,"
+she repeated.
+"It was just some bots."
+
+"Just some bots?"
+Slack repeated disbelievingly.
+"It was all over th' news.
+They're sayin' it was like the war come back!"
+
+"They say lots o' things,"
+Iffy scoffed.
+Slack had dyed her hair again, she noticed.
+And she'd done some more embroidery on the cuffs of her coat.
+
+"But what happened?
+And what were you doin' there?"
+Slack slipped her arm through Iffy's
+as if it was the most natural thing in the world
+and began walking toward the end of the canal.

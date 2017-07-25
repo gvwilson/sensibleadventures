@@ -2892,7 +2892,7 @@ as the *Guinevere* approached.
 Iffy glanced sidelong at Wales,
 but he showed no emotion at the evidence of carbon being thrown into the atmosphere.
 The coal mines were the original source of Rothera's wealth,
-and the reason for both the governor and the navy being headquartered there
+and the reason for both the governor and the Marines being headquartered there
 and the Zillions' prowling and raids.
 It was a crime to burn fossil fuel in most parts of the world,
 but when pressed,
@@ -3729,7 +3729,7 @@ Ten minutes later
 Iffy turned the corner onto Rocking Horse Street
 and hurried toward the stubby dead-end canal
 that Rothera's mechanics used as a repair yard.
-A sleek cutter lay along one side
+A sleek Marine cutter lay along one side
 while crab-like bots scrambled over its sides
 scraping off the tweaked barnacles that would,
 if left unchecked,
@@ -3756,7 +3756,7 @@ Iffy returned the hug awkwardly.
 Somehow,
 she always felt awkward around Slack,
 especially when they were close enough
-that she could smell whatever it was that Slack used to wash her hair.
+that she could smell whatever flowery concoction the other girl used to wash her hair.
 "I'm fine,"
 she said,
 her voice muffled slightly by the rat fur collar on Slack's coat.
@@ -3769,15 +3769,90 @@ she repeated.
 "Just some bots?"
 Slack repeated disbelievingly.
 "It was all over th' news.
-They're sayin' it was like the war come back!"
+It looked like it the war come back!"
 
-"They say lots o' things,"
-Iffy scoffed.
-Slack had dyed her hair again, she noticed.
-And she'd done some more embroidery on the cuffs of her coat.
+"It wasn't all that,"
+Iffy said dismissively.
+Slack had changed her tattoos again, she noticed.
+And she'd done some more embroidery on the cuffs of her coat to match.
 
 "But what happened?
-And what were you doin' there?"
+I mean, really happened, not just sim happened."
 Slack slipped her arm through Iffy's
 as if it was the most natural thing in the world
-and began walking toward the end of the canal.
+and began walking toward the blind end of the canal.
+
+Iffy felt into step alongside her,
+desperately hoping that Slack couldn't hear her heart thudding in her chest.
+The Rotheran girl was three years her senior.
+She had been singing on a street corner two blocks from the Dance Hall market
+when Iffy first saw her.
+She hadn't meant to stop,
+but then Slack caught her eye and smiled in the middle of the chorus of *Northwest Passage*
+without missing a beat.
+Iffy had only seen her four times since then,
+but each time had been---
+
+"Sorry?" she said belatedly.
+
+Slack rolled her eyes.
+"I *said*,
+why were you up there?
+You're not *that* fancy."
+
+"I ain't fancy a'tall,"
+Iffy protested automatically.
+"We just kinda got dragged inta things."
+She summarized Johnson Wales and the last few days as briefly as she could,
+skating past what had happened to the Zillion ship
+and her part in assembling the bot that had saved them at the mansion.
+
+Her story still left Slack wide-eyed.
+"Tay bangle, that's a real adventure, innit?"
+She bumped her hip against Iffy's,
+but her tone turned serious as she nodded at the Marine cutter under repair beside them.
+"So's that why we got th' ganky to finish up this 'un?
+'Cuz my dad,
+he thought we had a coupla weeks,
+but the blues come along day b'fore last an' said we gotta be done t' sail soonest."
+
+Iffy gulped.
+Two days past was the day Wales had made the sea boil
+and sent the Zillion ship to the bottom.
+"Yeah, prob'ly," she mumbled.
+
+Slack bumped her hip against Iffy again.
+"Good,"
+she said firmly.
+"'Cuz they're payin' extra, an' we can use the jing.
+Now c'mon---I bet there's tea brewed."
+She unhooked her arm from Iffy's and took the younger girl's hand.
+
+Iffy opened her mouth,
+but before she could say anything,
+Slack squeezed her fingers painfully hard and shot her a warning sidelong glance.
+Iffy's mouth snapped shut.
+Thumb, middle finger, first finger, middle finger...
+She almost stumbled as she recognized the schoolyard code
+that children used to hide what they were saying to teach other
+from adults' cameras and microphones.
+Little finger and fourth finger together,
+middle finger,
+middle and fourth...
+The words and letters took shape in her head as Slack tapped them out.
+The Marines were watching.
+They had left some cheese behind
+(no, that didn't make any sense, Slack must have meant some cameras),
+so they had to be careful what they said.
+
+She squeezed Slack's hand to signal that she understood.
+There was no point trying to spot the cameras---they could be as small as grains of sand
+as long as there were enough of them to relay what they heard and saw
+back to whichever monkey-smart core had been tasked with keeping an eye on the repair yard.
+But when she loosened her grip,
+Slack tightened hers.
+Iffy waited for more taps.
+When they didn't come,
+she realized that her friend was sending a different kind of message.
+She walked the last hundred meters to the salvage booth with a smile on her face
+that would have made her aunt blink in disbelief.

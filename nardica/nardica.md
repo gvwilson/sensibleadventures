@@ -3856,3 +3856,115 @@ When they didn't come,
 she realized that her friend was sending a different kind of message.
 She walked the last hundred meters to the salvage booth with a smile on her face
 that would have made her aunt blink in disbelief.
+
+Slack's father and uncle looked up and said, "G'day," simultaneously
+as Slack pulled aside the splotched canvas curtain
+that hung in the salvage booth's doorway.
+"You gi'n her th' news yen?"
+her father asked,
+his Aussie accent as strong as the tea he poured for Iffy.
+
+Slack rolled her eyes.
+"Daaaad!"
+
+"Sorry,"
+her father said unapologetically.
+Her uncle looked up from his workbench long enough to grin,
+his magnifying glasses making his eyes look cartoon-huge.
+
+"What news?"
+Iffy asked.
+
+Slack hesitated.
+"I got my call-up yesterday," she finally blurted.
+"Whole bunch of us did.
+We got induction tonight."
+
+Iffy's jaw dropped.
+"Tonight?
+What's th' rush?"
+
+Slack shrugged,
+settling herself on a stool next to her own workbench.
+"Dunno.
+Lotsa folk are askin' that,
+but the blues ain't saying',
+'cept that it came straight from th' governor.
+Figure it's got somethin' to do with th' bots attackin' th' mansion?"
+
+"I dunno,"
+Iffy said.
+Anger suddenly welled up inside her.
+"Seems like I don't know nothin' these days."
+
+"Aw, that ain't true,"
+Slack's father said.
+"Here."
+He tossed the piece of tech he'd been patiently scraping clean to Iffy.
+"Bet you know what that's for."
+
+Iffy turned it over in her hands.
+Microparticles of ocean plastic had worked themselves into its tiny intricate gears,
+giving it the all-too-familiar soapy feel of age and neglect.
+Some of the different kinds of plastic would have welded to each other,
+she knew,
+weaving a hard fractal mass through the gears
+that couldn't be pulled out without tearing off their tiny teeth.
+It would take hours of patient work with ice,
+acids,
+and micro-manipulators to tease it all apart,
+and at the end all they'd have would be---
+
+"It's a differential separator pump," she said to Slack's father
+as the shapes came together in her head to form an answer.
+"Prob'ly hooks up to a centrifuge or somethin'
+for filterin' blood durin' surgery."
+
+"Really?"
+Slack's father passed it to his brother,
+who studied it for a moment,
+shrugged as if to say, "Could be,"
+and handed it back.
+
+Slack's father set it back down on his workbench and picked up his long-cold tea.
+"Y'oughta come by more often---there'd be plenty for you t' do,
+an' the missus is alluz happy t'have one more fer dinner."
+
+"Thanks," Iffy mumbled.
+She drained the last of her own tea and stood up.
+"I gotta get back to Aunt Naggie.
+Maybe see you later?"
+
+"Sure," Slack said, smiling again.
+"I'll walk you out."
+
+They held hands all the way up the canal.
+As usual,
+Slack did most of the talking.
+When her induction notice arrived,
+she had fired back a message right away,
+and wouldn't you know it,
+she had to finish the last of her schoolwork anyway,
+which was *so* unfair,
+and anyway,
+what was the point?
+She knew tons more about salvaging old tech than the crufty old core
+that was supposed to be teaching her,
+and whatever she didn't know,
+she could learn from Iffy,
+right?
+
+"I s'pose," Iffy said.
+
+"Oh c'mon."
+Slack bumped her hip against Iffy's one more time.
+"M' dad and Uncle Osman asked two different cores about that piece o' tech.
+Neither of 'em could make sense of it,
+an' then you jus' come right out an' tell 'em what it is."
+
+Iffy mumbled that it was just a guess,
+not wanting to admit to Slack or herself that she had no idea how she had known what it was.
+They said their goodbyes by the bow of the Marine cutter.
+One of the repair bots paused a moment to watch them kiss,
+its simple core wondering who was repairing whom,
+and then Iffy turned to hurry back to the Dance Hall and her aunt.

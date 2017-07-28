@@ -5,9 +5,7 @@
 
 ## Chapter 1
 
-<em>
-
-Iffy had a bad dream that night.
+*Iffy had a bad dream that night.
 It was the same bad dream she always had,
 because it wasn't really a dream.
 She was on deck.
@@ -17,9 +15,9 @@ Her mother and father were stuffing her into the salvaged ecosuit
 that had cost them half a catch.
 "Just in case, love," her mother said,
 forcing a smile but unable to keep the fear out of her voice.
-"Just in case."
+"Just in case."*
 
-The ship's horn blared another warning.
+*The ship's horn blared another warning.
 Iffy jumped and started crying.
 She was only half awake---her parents had pulled her out of her cost
 just a few minutes before.
@@ -28,33 +26,33 @@ but her father pulled her away.
 "There isn't time," he snapped
 as two of the crew ran past them toward the stern.
 At the time she thought he was angry at her for something.
-She realized years later that he was scared.
+She realized years later that he was scared.*
 
-"She's boiling!" a crewman shouted from the crow's nest.
-"Two points to starboard!"
+*"She's boiling!" a crewman shouted from the crow's nest.
+"Two points to starboard!"*
 
-Iffy's mother sealed the last flap on the ecosuit.
+*Iffy's mother sealed the last flap on the ecosuit.
 This time her father didn't try to stop her when she hugged her daughter.
-"I love you so much," she said in Iffy's ear.
+"I love you so much," she said in Iffy's ear.*
 
-"I love you too," Iffy replied automatically.
+*"I love you too," Iffy replied automatically.
 The bulky suit made it difficult for her to bend her arms,
 but she tried anyway.
 Her father knelt down and put his arms around them both.
 He smelled like engine oil and the soap he always used when he shaved.
 That was Iffy remembered most clearly later,
-when she had trouble remembering what his face had looked like.
+when she had trouble remembering what his face had looked like.*
 
-The ship heeled hard as the captain tried to steer them away
+*The ship heeled hard as the captain tried to steer them away
 from the seething mass of bubbles ahead.
 "She's going to blow!" the crewman shouted.
 The ship's horn blared one last time,
 and then all Iffy could hear was a rushing sound
 that seemed to come from all around her.
 Sobbing,
-her mother closed the faceplate on the ecosuit.
+her mother closed the faceplate on the ecosuit.*
 
-Without warning,
+*Without warning,
 the ship staggered and dropped two meters.
 Iffy screamed as she fell back to the deck.
 Her parents landed beside her.
@@ -69,9 +67,9 @@ The last thing Iffy saw before she went under
 was the crewman who had been in the crow's nest
 flying through the air,
 his arms and legs flapping like broken wings
-against the perfect blue sky.
+against the perfect blue sky.*
 
-Her dream stopped then, just like it always did.
+*Her dream stopped then, just like it always did.
 She didn't remember being fished out of the water a day later
 by one of the jelly fleet's luckier ships.
 Its crew said it was a miracle she had survived.
@@ -80,9 +78,9 @@ maybe more,
 but every seal had held.
 It had kept her warm while the thumb-sized motors in the arms and legs
 kept her clear of the after-bubbles
-that would have swallowed a lifeboat.
+that would have swallowed a lifeboat.*
 
-Her Uncle Jack sold it almost as soon as she was back in Rothera.
+*Her Uncle Jack sold it almost as soon as she was back in Rothera.
 "You're going to outgrow it anyway,"
 her Uncle Jack said impatiently over her tearful protests.
 "Gotta pay for your keep somehow 'til you're old enough to earn your way."
@@ -98,17 +96,15 @@ and on those rare occasions when Uncle Jack was away
 and Aunt Naggie let her have another child come on board to play,
 she would take the book out and tell them all about
 *orcinus orca* and *panthera tigris* and her favorite,
-*giraffa camelopardalis*.
+*giraffa camelopardalis*.*
 
-"They were too real!" she said fiercely
+*"They were too real!" she said fiercely
 whenever someone expressed even a hint of doubt.
 "Real as gulls and jellies!"
 Real as being hungry and lonely,
 she sometimes added to herself as she grew older.
 Real as being smart with machines and tech like her mother and father had been
-before the frozen southern ocean took them away.
-
-</em>
+before the frozen southern ocean took them away.*
 
 Iffy woke to Aunt Naggie banging around in the galley.
 She lay in her narrow cot for one final precious warm moment
@@ -1614,15 +1610,13 @@ She ran her fingers over the flat, still pictures,
 stubbornly trying to keep her eyelids from drooping
 until she couldn't remember why they shouldn't.
 
-<em>
-
-She was on deck.
+*She was on deck.
 The sky was a perfect blue,
 and her mother and father were stuffing her into her ecosuit.
 "Just in case, love," her mother said,
-forcing a smile.
+forcing a smile.*
 
-But when the ship's horn blared it wasn't a horn at all
+*But when the ship's horn blared it wasn't a horn at all
 but the sound of a drill press.
 She was in Mister Mishra's,
 fumbling clumsily to reassemble a mound of chips and gears and actuators
@@ -1635,15 +1629,13 @@ and didn't leave enough space for the lens,
 because the lens had to go there,
 it had to,
 she didn't know how she knew but she did
-and time was running out.
+and time was running out.*
 
-The whole room heeled hard,
+*The whole room heeled hard,
 throwing her off balance.
 "She's going to blow!" Mister Mishra shouted,
 and then all Iffy could hear was a rushing sound
-that seemed to come from all around her.
-
-</em>
+that seemed to come from all around her.*
 
 She woke drenched in sweat and rolled over,
 hugging her pillow to her chest

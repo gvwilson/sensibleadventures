@@ -6,9 +6,7 @@ permalink: /nardica/
 
 ## Chapter 1
 
-<em>
-
-Iffy had a bad dream that night.
+*Iffy had a bad dream that night.
 It was the same bad dream she always had,
 because it wasn't really a dream.
 She was on deck.
@@ -18,9 +16,9 @@ Her mother and father were stuffing her into the salvaged ecosuit
 that had cost them half a catch.
 "Just in case, love," her mother said,
 forcing a smile but unable to keep the fear out of her voice.
-"Just in case."
+"Just in case."*
 
-The ship's horn blared another warning.
+*The ship's horn blared another warning.
 Iffy jumped and started crying.
 She was only half awake---her parents had pulled her out of her cost
 just a few minutes before.
@@ -29,33 +27,33 @@ but her father pulled her away.
 "There isn't time," he snapped
 as two of the crew ran past them toward the stern.
 At the time she thought he was angry at her for something.
-She realized years later that he was scared.
+She realized years later that he was scared.*
 
-"She's boiling!" a crewman shouted from the crow's nest.
-"Two points to starboard!"
+*"She's boiling!" a crewman shouted from the crow's nest.
+"Two points to starboard!"*
 
-Iffy's mother sealed the last flap on the ecosuit.
+*Iffy's mother sealed the last flap on the ecosuit.
 This time her father didn't try to stop her when she hugged her daughter.
-"I love you so much," she said in Iffy's ear.
+"I love you so much," she said in Iffy's ear.*
 
-"I love you too," Iffy replied automatically.
+*"I love you too," Iffy replied automatically.
 The bulky suit made it difficult for her to bend her arms,
 but she tried anyway.
 Her father knelt down and put his arms around them both.
 He smelled like engine oil and the soap he always used when he shaved.
 That was Iffy remembered most clearly later,
-when she had trouble remembering what his face had looked like.
+when she had trouble remembering what his face had looked like.*
 
-The ship heeled hard as the captain tried to steer them away
+*The ship heeled hard as the captain tried to steer them away
 from the seething mass of bubbles ahead.
 "She's going to blow!" the crewman shouted.
 The ship's horn blared one last time,
 and then all Iffy could hear was a rushing sound
 that seemed to come from all around her.
 Sobbing,
-her mother closed the faceplate on the ecosuit.
+her mother closed the faceplate on the ecosuit.*
 
-Without warning,
+*Without warning,
 the ship staggered and dropped two meters.
 Iffy screamed as she fell back to the deck.
 Her parents landed beside her.
@@ -70,9 +68,9 @@ The last thing Iffy saw before she went under
 was the crewman who had been in the crow's nest
 flying through the air,
 his arms and legs flapping like broken wings
-against the perfect blue sky.
+against the perfect blue sky.*
 
-Her dream stopped then, just like it always did.
+*Her dream stopped then, just like it always did.
 She didn't remember being fished out of the water a day later
 by one of the jelly fleet's luckier ships.
 Its crew said it was a miracle she had survived.
@@ -81,9 +79,9 @@ maybe more,
 but every seal had held.
 It had kept her warm while the thumb-sized motors in the arms and legs
 kept her clear of the after-bubbles
-that would have swallowed a lifeboat.
+that would have swallowed a lifeboat.*
 
-Her Uncle Jack sold it almost as soon as she was back in Rothera.
+*Her Uncle Jack sold it almost as soon as she was back in Rothera.
 "You're going to outgrow it anyway,"
 her Uncle Jack said impatiently over her tearful protests.
 "Gotta pay for your keep somehow 'til you're old enough to earn your way."
@@ -99,17 +97,15 @@ and on those rare occasions when Uncle Jack was away
 and Aunt Naggie let her have another child come on board to play,
 she would take the book out and tell them all about
 *orcinus orca* and *panthera tigris* and her favorite,
-*giraffa camelopardalis*.
+*giraffa camelopardalis*.*
 
-"They were too real!" she said fiercely
+*"They were too real!" she said fiercely
 whenever someone expressed even a hint of doubt.
 "Real as gulls and jellies!"
 Real as being hungry and lonely,
 she sometimes added to herself as she grew older.
 Real as being smart with machines and tech like her mother and father had been
-before the frozen southern ocean took them away.
-
-</em>
+before the frozen southern ocean took them away.*
 
 Iffy woke to Aunt Naggie banging around in the galley.
 She lay in her narrow cot for one final precious warm moment
@@ -1418,7 +1414,7 @@ than a windstorm would on a mountain.
 "It's certainly a possibility,"
 he said crisply.
 "Here."
-He pulled a money out of his jacket
+He pulled a money card out of his jacket
 and thrust it at Uncle Jack.
 "I'll give you that now,
 and the same again when we reach Rothera."
@@ -1430,7 +1426,7 @@ Uncle Jack turned the flat black plastic rectangle over in his hands suspiciousl
 Wales said.
 
 "Six---thousand?"
-Uncle Jack pressed his thumb on the corner of the money.
+Uncle Jack pressed his thumb on the corner of the money card.
 His eyes widened at the blinking figures it displayed.
 He looked up at Wales.
 "You must wanna get out of here pretty badly,"
@@ -1440,7 +1436,7 @@ Wales shrugged.
 "It's no use to me if I can't spend it."
 
 Uncle Jack hesitated a moment,
-then pocketed the money and grunted something unintelligible.
+then pocketed the money card and grunted something unintelligible.
 "Thank you," Wales said.
 "I'll be quick."
 He turned to go,
@@ -1459,7 +1455,7 @@ Wales nodded and hurried down the gangplank.
 The trio left on the *Guinevere* watched him jog away on the pier.
 "That one's trouble,"
 Uncle Jack said flatly,
-glancing at the money one more time before tucking it inside his coat.
+glancing at the money card one more time before tucking it inside his coat.
 He leaned over the railing,
 cleared his throat,
 and spat once more into the water below.
@@ -1600,9 +1596,9 @@ an' you get yours."
 Then she smiled the warm, sad smile that only came out
 when she and her lost sister's child were alone.
 "You'll wanna have plenty o' rest behind you when we get there
-so you can go chasin' after that boy o' yours."
+so you can go chasin' after that special friend o' yours."
 
-"I ain't got no boy!"
+"I ain't got no special friend!"
 Iffy protested automatically.
 Her aunt tousled her hair and left.
 
@@ -1615,15 +1611,13 @@ She ran her fingers over the flat, still pictures,
 stubbornly trying to keep her eyelids from drooping
 until she couldn't remember why they shouldn't.
 
-<em>
-
-She was on deck.
+*She was on deck.
 The sky was a perfect blue,
 and her mother and father were stuffing her into her ecosuit.
 "Just in case, love," her mother said,
-forcing a smile.
+forcing a smile.*
 
-But when the ship's horn blared it wasn't a horn at all
+*But when the ship's horn blared it wasn't a horn at all
 but the sound of a drill press.
 She was in Mister Mishra's,
 fumbling clumsily to reassemble a mound of chips and gears and actuators
@@ -1636,15 +1630,13 @@ and didn't leave enough space for the lens,
 because the lens had to go there,
 it had to,
 she didn't know how she knew but she did
-and time was running out.
+and time was running out.*
 
-The whole room heeled hard,
+*The whole room heeled hard,
 throwing her off balance.
 "She's going to blow!" Mister Mishra shouted,
 and then all Iffy could hear was a rushing sound
-that seemed to come from all around her.
-
-</em>
+that seemed to come from all around her.*
 
 She woke drenched in sweat and rolled over,
 hugging her pillow to her chest
@@ -2893,7 +2885,7 @@ as the *Guinevere* approached.
 Iffy glanced sidelong at Wales,
 but he showed no emotion at the evidence of carbon being thrown into the atmosphere.
 The coal mines were the original source of Rothera's wealth,
-and the reason for both the governor and the navy being headquartered there
+and the reason for both the governor and the Marines being headquartered there
 and the Zillions' prowling and raids.
 It was a crime to burn fossil fuel in most parts of the world,
 but when pressed,
@@ -3111,7 +3103,7 @@ but Iffy didn't see any of the mad scramble
 that a convoy like theirs would cause in Halley.
 Her heart skipped a beat once when she thought she saw a face
 that she was hoping and not hoping to see,
-but then the boy turned his head and she realized it was someone else.
+but then the girl turned his head and she realized it was someone else.
 If it hadn't been that,
 and for Uncle Jack muttering under his breath
 and snapping at Aunt Naggie when she tried to shush him,
@@ -3615,7 +3607,8 @@ No comms.
 Just until I decide what to do next,"
 he continued
 as Uncle Jack opened his mouth to object.
-"We'll have your supplies restocked while you wait.
+"You can resupply while you wait,
+on the house.
 Mister Wales,
 you'll be my guest here."
 
@@ -3625,3 +3618,346 @@ And with that,
 he lay back,
 closed his eyes,
 and almost immediately began to snore.
+
+## Chapter 5
+
+"I will *not* go *anywhere* without more curry powder!"
+Aunt Naggie said emphatically.
+"Because if I do,
+you'll be the first one to complain."
+She crossed her arms and straightened her back
+like a soldier waiting to be shot.
+
+For a moment Iffy was sure Uncle Jack would explode at her again,
+but to her surprise he back down.
+"Fine," he snapped,
+waving her away.
+"You go get whatever we need.
+I'm gonna look at the engine an' see what th' sainted Mister Wales has gaffled up.
+And take the girl with you,"
+he added as he turned to stalk away.
+"Had enough o' her underfoot for one day."
+
+Aunt Naggie slumped and took a deep breath.
+"Good on you," Iffy said,
+punching her lightly in the shoulder.
+
+Her aunt smiled shakily.
+The Marines had driven them back to the pier half an hour before
+with strict orders not to tell anyone what had happened at the governor's mansion.
+The fact that there was nothing else on the news
+when Uncle Jack brought it up on the *Guinevere*'s control panel
+didn't seem to matter.
+
+One of the Marines had handed Aunt Naggie a black-edged silvery money card
+and told her to use it for whatever they needed.
+"But keep in mind,
+Finance will charge things back to you if it thinks they're luxuries,"
+he added pointedly.
+Uncle Jack scowled at that,
+his all-too-obvious plan to find a bar sunk before it ever set sail.
+
+It only took Aunt Naggie a minute to gather up a trio of sturdy mesh bags
+and an ancient handheld piece of tech that would tell them if anything was toxic.
+After dragging a brush through her close-cropped hair
+and watching sternly while Iffy, protesting, did the same,
+she strode down the gangplank with her niece in tow.
+The Marine stationed there nodded at them as they went past.
+Iffy nodded back,
+wondering if he knew what had happened just a short hour ago
+and whether either of the Marines who had died had been his friends.
+
+Rothera's streets were busy but not crowded.
+Its shops clustered along the harborfront like gulls standing just out of reach of the waves.
+Their signs seemed bigger and brighter than those in Halley.
+Familiar cartoon characters and celebrities from far-off Australia beckoned,
+danced,
+pouted,
+and cracked jokes as people walked by.
+Iffy would have stopped in front of each one,
+but Aunt Naggie hurried past them,
+her expression set.
+She regarded shopping as a competitive sport,
+and Iffy could tell she had no intention of letting Rothera defeat her.
+
+The main market had once been an aircraft hangar.
+A century ago,
+someone with more money than sense had added a spun glass floor two stories above the ground.
+Their attempt to turn the building into "Nardica's Biggest, Bestest Dance Hall!!" had failed almost immediately.
+After a couple of unsuccessful attempts to oust the squatters and refugees who took it over after the war,
+the governor of the time had thrown up her hands
+and let anyone who could pay two rand a month set up a stall.
+Still known as the Dance Hall,
+it reminded Iffy of nothing so much as the animated picture of an anthill in her mother's nature book.
+
+Aunt Naggie tapped her money card on the reader held out by the bored guard at the door
+to pay her ten pence admission fee
+and then paused to take a deep breath.
+"Ah..." she sighed.
+Noticing Iffy's look,
+she tousled her niece's hair.
+"Why'n't you go off an' see what you can find?" she said.
+"Or who, if you've a mind to?"
+
+Iffy felt her cheeks go warm.
+"You sure you don't need me?"
+
+Aunt Naggie glanced around.
+Greenhouse potatoes hung in net bags
+next to stacks of tinned apples.
+Burlap sacks of Cape Town rice piled higher than Iffy was tall
+threatened to topple onto a line of people gossipping with each other
+as they waited their turn to buy ginger, cardamom, and bay leaves
+from a one-legged Russian woman with tweaked hair
+that sparkled red and purple every time she turned her head.
+A surgical bot that had been converted for tailoring stood motionless,
+four skeletal arms at its sides,
+while a man with a shaven head and an enormous beard
+struggled into a coat that was still a size too small for him.
+"I'll be fine,"
+Aunt Naggie said,
+as happy as Iffy ever saw her.
+
+Ten minutes later
+Iffy turned the corner onto Rocking Horse Street
+and hurried toward the stubby dead-end canal
+that Rothera's mechanics used as a repair yard.
+A sleek Marine cutter lay along one side
+while crab-like bots scrambled over its sides
+scraping off the tweaked barnacles that would,
+if left unchecked,
+slowly devour its fractal carbon hull.
+Iffy would normally have stopped to watch,
+but right then she had other things on her mind.
+
+She slowed to a walk as she approached the end of the canal.
+Her heart sank.
+Two people were working side by side in the salvage booth,
+but both were too old to be who she was hoping to see.
+She was about to turn to go when a familiar voice said,
+"Hey, Iffy!"
+
+She whirled around just in time to be caught up in an enormous hug.
+"Hey,"
+Slack said more softly,
+her cheek pressed against Iffy's.
+"Micka tol' me she saw y'all come in,
+an' then I heard about what happen up along th' governor's.
+I's worried about you."
+
+Iffy returned the hug awkwardly.
+Somehow,
+she always felt awkward around Slack,
+especially when they were close enough
+that she could smell whatever flowery concoction the other girl used to wash her hair.
+"I'm fine,"
+she said,
+her voice muffled slightly by the rat fur collar on Slack's coat.
+
+She slithered free of the hug and took a step back.
+"I'm fine,"
+she repeated.
+"It was just some bots."
+
+"Just some bots?"
+Slack repeated disbelievingly.
+"It was all over th' news.
+It looked like it the war come back!"
+
+"It wasn't all that,"
+Iffy said dismissively.
+Slack had changed her tattoos again, she noticed.
+And she'd done some more embroidery on the cuffs of her coat to match.
+
+"But what happened?
+I mean, really happened, not just sim happened."
+Slack slipped her arm through Iffy's
+as if it was the most natural thing in the world
+and began walking toward the blind end of the canal.
+
+Iffy felt into step alongside her,
+desperately hoping that Slack couldn't hear her heart thudding in her chest.
+The Rotheran girl was three years her senior.
+She had been singing on a street corner two blocks from the Dance Hall market
+when Iffy first saw her.
+She hadn't meant to stop,
+but then Slack caught her eye and smiled in the middle of the chorus of *Northwest Passage*
+without missing a beat.
+Iffy had only seen her four times since then,
+but each time had been---
+
+"Sorry?" she said belatedly.
+
+Slack rolled her eyes.
+"I *said*,
+why were you up there?
+You're not *that* fancy."
+
+"I ain't fancy a'tall,"
+Iffy protested automatically.
+"We just kinda got dragged inta things."
+She summarized Johnson Wales and the last few days as briefly as she could,
+skating past what had happened to the Zillion ship
+and her part in assembling the bot that had saved them at the mansion.
+
+Her story still left Slack wide-eyed.
+"Tay bangle, that's a real adventure, innit?"
+She bumped her hip against Iffy's,
+but her tone turned serious as she nodded at the Marine cutter under repair beside them.
+"So's that why we got th' ganky to finish up this 'un?
+'Cuz my dad,
+he thought we had a coupla weeks,
+but the blues come along day b'fore last an' said we gotta be done t' sail soonest."
+
+Iffy gulped.
+Two days past was the day Wales had made the sea boil
+and sent the Zillion ship to the bottom.
+"Yeah, prob'ly," she mumbled.
+
+Slack bumped her hip against Iffy again.
+"Good,"
+she said firmly.
+"'Cuz they're payin' extra, an' we can use the jing.
+Now c'mon---I bet there's tea brewed."
+She unhooked her arm from Iffy's and took the younger girl's hand.
+
+Iffy opened her mouth,
+but before she could say anything,
+Slack squeezed her fingers painfully hard and shot her a warning sidelong glance.
+Iffy's mouth snapped shut.
+Thumb, middle finger, first finger, middle finger...
+She almost stumbled as she recognized the schoolyard code
+that children used to hide what they were saying to teach other
+from adults' cameras and microphones.
+Little finger and fourth finger together,
+middle finger,
+middle and fourth...
+The words and letters took shape in her head as Slack tapped them out.
+The Marines were watching.
+They had left some cheese behind
+(no, that didn't make any sense, Slack must have meant some cameras),
+so they had to be careful what they said.
+
+She squeezed Slack's hand to signal that she understood.
+There was no point trying to spot the cameras---they could be as small as grains of sand
+as long as there were enough of them to relay what they heard and saw
+back to whichever monkey-smart core had been tasked with keeping an eye on the repair yard.
+But when she loosened her grip,
+Slack tightened hers.
+Iffy waited for more taps.
+When they didn't come,
+she realized that her friend was sending a different kind of message.
+She walked the last hundred meters to the salvage booth with a smile on her face
+that would have made her aunt blink in disbelief.
+
+Slack's father and uncle looked up and said, "G'day," simultaneously
+as Slack pulled aside the splotched canvas curtain
+that hung in the salvage booth's doorway.
+"You gi'n her th' news yen?"
+her father asked,
+his Aussie accent as strong as the tea he poured for Iffy.
+
+Slack rolled her eyes.
+"Daaaad!"
+
+"Sorry,"
+her father said unapologetically.
+Her uncle looked up from his workbench long enough to grin,
+his magnifying glasses making his eyes look cartoon-huge.
+
+"What news?"
+Iffy asked.
+
+Slack hesitated.
+"I got my call-up yesterday," she finally blurted.
+"Whole bunch of us did.
+We got induction tonight."
+
+Iffy's jaw dropped.
+"Tonight?
+What's th' rush?"
+
+Slack shrugged,
+settling herself on a stool next to her own workbench.
+"Dunno.
+Lotsa folk are askin' that,
+but the blues ain't saying',
+'cept that it came straight from th' governor.
+Figure it's got somethin' to do with th' bots attackin' th' mansion?"
+
+"I dunno,"
+Iffy said.
+Anger suddenly welled up inside her.
+"Seems like I don't know nothin' these days."
+
+"Aw, that ain't true,"
+Slack's father said.
+"Here."
+He tossed the piece of tech he'd been patiently scraping clean to Iffy.
+"Bet you know what that's for."
+
+Iffy turned it over in her hands.
+Microparticles of ocean plastic had worked themselves into its tiny intricate gears,
+giving it the all-too-familiar soapy feel of age and neglect.
+Some of the different kinds of plastic would have welded to each other,
+she knew,
+weaving a hard fractal mass through the gears
+that couldn't be pulled out without tearing off their tiny teeth.
+It would take hours of patient work with ice,
+acids,
+and micro-manipulators to tease it all apart,
+and at the end all they'd have would be---
+
+"It's a differential separator pump," she said to Slack's father
+as the shapes came together in her head to form an answer.
+"Prob'ly hooks up to a centrifuge or somethin'
+for filterin' blood durin' surgery."
+
+"Really?"
+Slack's father passed it to his brother,
+who studied it for a moment,
+shrugged as if to say, "Could be,"
+and handed it back.
+
+Slack's father set it back down on his workbench and picked up his long-cold tea.
+"Y'oughta come by more often---there'd be plenty for you t' do,
+an' the missus is alluz happy t'have one more fer dinner."
+
+"Thanks," Iffy mumbled.
+She drained the last of her own tea and stood up.
+"I gotta get back to Aunt Naggie.
+Maybe see you later?"
+
+"Sure," Slack said, smiling again.
+"I'll walk you out."
+
+They held hands all the way up the canal.
+As usual,
+Slack did most of the talking.
+When her induction notice arrived,
+she had fired back a message right away,
+and wouldn't you know it,
+she had to finish the last of her schoolwork anyway,
+which was *so* unfair,
+and anyway,
+what was the point?
+She knew tons more about salvaging old tech than the crufty old core
+that was supposed to be teaching her,
+and whatever she didn't know,
+she could learn from Iffy,
+right?
+
+"I s'pose," Iffy said.
+
+"Oh c'mon."
+Slack bumped her hip against Iffy's one more time.
+"M' dad and Uncle Osman asked two different cores about that piece o' tech.
+Neither of 'em could make sense of it,
+an' then you jus' come right out an' tell 'em what it is."
+
+Iffy mumbled that it was just a guess,
+not wanting to admit to Slack or herself that she had no idea how she had known what it was.
+They said their goodbyes by the bow of the Marine cutter.
+One of the repair bots paused a moment to watch them kiss,
+its simple core wondering who was repairing whom,
+and then Iffy turned to hurry back to the Dance Hall and her aunt.

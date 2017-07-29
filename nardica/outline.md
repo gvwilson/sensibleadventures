@@ -31,7 +31,7 @@ Background
     *   Reports to the British government in Hobart (England having been overrun by the Dutch)
     *   He's planning to betray Rothera to the Dutch
     *   Needs to get Major Mackles (military commander) and Dr. Jasmine Johel (political/tech) out of town
-*   Iffy's love interest is Slack (in the militia)
+*   Iffy's love interest is Honesty (in the militia)
 *   In the background are the Green Zillions (the Brazilians)
     *   Eco-militants and pirates
 
@@ -117,19 +117,19 @@ Chapters
     *   Only have one day to stock up, so Iffy is sent shopping
     *   Comments from shopkeepers reveal how handy and trusted she is
     *   One in particular (half-Zillion): Iffy says, "I'll fix yer solar next time, I promise, but I'm on pressing business now..."
-    *   She takes time to find Slack, who's on duty in the salvage district
+    *   She takes time to find Honesty, who's on duty in the salvage district
         *   She has a crush on him (he represents stability and family - his likes her a lot)
         *   He's intimidated by her competence and intelligence
-    *   Slack spots one of the Governor's watchers following her (a person and a drone), and wonders why
+    *   Honesty spots one of the Governor's watchers following her (a person and a drone), and wonders why
     *   A few minutes later there's a call for him
     *   Iffy has to rush back to pick up the goods she's ordered
     *   The woman whose solar she was going to fix is abrupt and afraid instead of welcoming
         *   WHY?
     *   Wishes Iffy good luck (foreshadowing Zillion spies)
     *   Next morning, two ships ready to sail: the _Guinevere_ and the smaller _Bengal_
-    *   Slack is one of the soldiers on the _Guinevere_
+    *   Honesty is one of the soldiers on the _Guinevere_
     *   Iffy: "What're you doing here?"
-    *   Slack: "Following Major Mackles and some crazy man to the middle of nowhere"
+    *   Honesty: "Following Major Mackles and some crazy man to the middle of nowhere"
 
 7.  At Sea
     *   Plan: sail to Ellsworth, train up past Mount Tyree, drive across from the mining camp to the hidden base
@@ -144,7 +144,7 @@ Chapters
         *   And coalers headed up to Rothera, and then in convoy westwards and then north to Australia
     *   Aunt Naggie makes curry for the high table every night, using up her stock of special curry leaves (always one in the middle of the bowl, but not for eating)
     *   And she always insists on clearing those plates and dumping that garbage
-    *   A scene with Slack: awkward teenage romance, he's self-conscious because of his buddies, talk about the mission turns to talk of politics, they fight
+    *   A scene with Honesty: awkward teenage romance, he's self-conscious because of his buddies, talk about the mission turns to talk of politics, they fight
 
 8.  Newcastle
     *   They reach Newcastle
@@ -157,16 +157,16 @@ Chapters
     *   Woken that "night" by shouting in the street
     *   Coup in Rothera: Governor has declared independence, recognized by the Dutch
     *   Soldiers loyal to the Governor tried to arrest Mackles and Johel
-    *   Slack: "I don't know what to do" (his immediate commanding officer is on the Governor's side)
+    *   Honesty: "I don't know what to do" (his immediate commanding officer is on the Governor's side)
     *   Wales to Mackles: "I had a look at the train - it's ready to go"
-    *   They escape to the train and roar out of Newcastle, but Slack and Wales are injured
+    *   They escape to the train and roar out of Newcastle, but Honesty and Wales are injured
 
 9.  By Train
     *   Can't say they raced through the night, since it was always afternoon, but that's what it felt like
     *   Drones chase them; soldier shoots one down, the others back off
     *   Wales: "Doesn't matter: if the Germans are backing him, he'll have sats watching us"
     *   Through the Scrape to the ice (dozens of little nameless rivers on the way)
-    *   Slack weakening despite some tech medicine, but Wales healing unnaturally fast
+    *   Honesty weakening despite some tech medicine, but Wales healing unnaturally fast
         *   Makes Iffy resent Wales
     *   Aunt Naggie tries to comfort Iffy, but throws a curry leaf out the window
     *   Iffy mentions it to Wales - Naggie's spying is revealed

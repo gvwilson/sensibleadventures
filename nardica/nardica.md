@@ -3738,7 +3738,7 @@ She was about to turn to go when a familiar voice said,
 
 She whirled around just in time to be caught up in an enormous hug.
 "Hey,"
-Slack said more softly,
+Honesty said more softly,
 her cheek pressed against Iffy's.
 "Micka tol' me she saw y'all come in,
 an' then I heard about what happen up along th' governor's.
@@ -3746,12 +3746,12 @@ I's worried about you."
 
 Iffy returned the hug awkwardly.
 Somehow,
-she always felt awkward around Slack,
+she always felt awkward around Honesty,
 especially when they were close enough
 that she could smell whatever flowery concoction the other girl used to wash her hair.
 "I'm fine,"
 she said,
-her voice muffled slightly by the rat fur collar on Slack's coat.
+her voice muffled slightly by the rat fur collar on Honesty's coat.
 
 She slithered free of the hug and took a step back.
 "I'm fine,"
@@ -3759,35 +3759,35 @@ she repeated.
 "It was just some bots."
 
 "Just some bots?"
-Slack repeated disbelievingly.
+Honesty repeated disbelievingly.
 "It was all over th' news.
 It looked like it the war come back!"
 
 "It wasn't all that,"
 Iffy said dismissively.
-Slack had changed her tattoos again, she noticed.
+Honesty had changed her tattoos again, she noticed.
 And she'd done some more embroidery on the cuffs of her coat to match.
 
 "But what happened?
 I mean, really happened, not just sim happened."
-Slack slipped her arm through Iffy's
+Honesty slipped her arm through Iffy's
 as if it was the most natural thing in the world
 and began walking toward the blind end of the canal.
 
 Iffy felt into step alongside her,
-desperately hoping that Slack couldn't hear her heart thudding in her chest.
+desperately hoping that Honesty couldn't hear her heart thudding in her chest.
 The Rotheran girl was three years her senior.
 She had been singing on a street corner two blocks from the Dance Hall market
 when Iffy first saw her.
 She hadn't meant to stop,
-but then Slack caught her eye and smiled in the middle of the chorus of *Northwest Passage*
+but then Honesty caught her eye and smiled in the middle of the chorus of *Northwest Passage*
 without missing a beat.
 Iffy had only seen her four times since then,
 but each time had been---
 
 "Sorry?" she said belatedly.
 
-Slack rolled her eyes.
+Honesty rolled her eyes.
 "I *said*,
 why were you up there?
 You're not *that* fancy."
@@ -3799,7 +3799,7 @@ She summarized Johnson Wales and the last few days as briefly as she could,
 skating past what had happened to the Zillion ship
 and her part in assembling the bot that had saved them at the mansion.
 
-Her story still left Slack wide-eyed.
+Her story still left Honesty wide-eyed.
 "Tay bangle, that's a real adventure, innit?"
 She bumped her hip against Iffy's,
 but her tone turned serious as she nodded at the Marine cutter under repair beside them.
@@ -3813,7 +3813,7 @@ Two days past was the day Wales had made the sea boil
 and sent the Zillion ship to the bottom.
 "Yeah, prob'ly," she mumbled.
 
-Slack bumped her hip against Iffy again.
+Honesty bumped her hip against Iffy again.
 "Good,"
 she said firmly.
 "'Cuz they're payin' extra, an' we can use the jing.
@@ -3822,7 +3822,7 @@ She unhooked her arm from Iffy's and took the younger girl's hand.
 
 Iffy opened her mouth,
 but before she could say anything,
-Slack squeezed her fingers painfully hard and shot her a warning sidelong glance.
+Honesty squeezed her fingers painfully hard and shot her a warning sidelong glance.
 Iffy's mouth snapped shut.
 Thumb, middle finger, first finger, middle finger...
 She almost stumbled as she recognized the schoolyard code
@@ -3831,32 +3831,32 @@ from adults' cameras and microphones.
 Little finger and fourth finger together,
 middle finger,
 middle and fourth...
-The words and letters took shape in her head as Slack tapped them out.
+The words and letters took shape in her head as Honesty tapped them out.
 The Marines were watching.
 They had left some cheese behind
-(no, that didn't make any sense, Slack must have meant some cameras),
+(no, that didn't make any sense, Honesty must have meant some cameras),
 so they had to be careful what they said.
 
-She squeezed Slack's hand to signal that she understood.
+She squeezed Honesty's hand to signal that she understood.
 There was no point trying to spot the cameras---they could be as small as grains of sand
 as long as there were enough of them to relay what they heard and saw
 back to whichever monkey-smart core had been tasked with keeping an eye on the repair yard.
 But when she loosened her grip,
-Slack tightened hers.
+Honesty tightened hers.
 Iffy waited for more taps.
 When they didn't come,
 she realized that her friend was sending a different kind of message.
 She walked the last hundred meters to the salvage booth with a smile on her face
 that would have made her aunt blink in disbelief.
 
-Slack's father and uncle looked up and said, "G'day," simultaneously
-as Slack pulled aside the splotched canvas curtain
+Honesty's father and uncle looked up and said, "G'day," simultaneously
+as Honesty pulled aside the splotched canvas curtain
 that hung in the salvage booth's doorway.
 "You gi'n her th' news yen?"
 her father asked,
 his Aussie accent as strong as the tea he poured for Iffy.
 
-Slack rolled her eyes.
+Honesty rolled her eyes.
 "Daaaad!"
 
 "Sorry,"
@@ -3867,7 +3867,7 @@ his magnifying glasses making his eyes look cartoon-huge.
 "What news?"
 Iffy asked.
 
-Slack hesitated.
+Honesty hesitated.
 "I got my call-up yesterday," she finally blurted.
 "Whole bunch of us did.
 We got induction tonight."
@@ -3876,7 +3876,7 @@ Iffy's jaw dropped.
 "Tonight?
 What's th' rush?"
 
-Slack shrugged,
+Honesty shrugged,
 settling herself on a stool next to her own workbench.
 "Dunno.
 Lotsa folk are askin' that,
@@ -3890,7 +3890,7 @@ Anger suddenly welled up inside her.
 "Seems like I don't know nothin' these days."
 
 "Aw, that ain't true,"
-Slack's father said.
+Honesty's father said.
 "Here."
 He tossed the piece of tech he'd been patiently scraping clean to Iffy.
 "Bet you know what that's for."
@@ -3907,18 +3907,18 @@ acids,
 and micro-manipulators to tease it all apart,
 and at the end all they'd have would be---
 
-"It's a differential separator pump," she said to Slack's father
+"It's a differential separator pump," she said to Honesty's father
 as the shapes came together in her head to form an answer.
 "Prob'ly hooks up to a centrifuge or somethin'
 for filterin' blood durin' surgery."
 
 "Really?"
-Slack's father passed it to his brother,
+Honesty's father passed it to his brother,
 who studied it for a moment,
 shrugged as if to say, "Could be,"
 and handed it back.
 
-Slack's father set it back down on his workbench and picked up his long-cold tea.
+Honesty's father set it back down on his workbench and picked up his long-cold tea.
 "Y'oughta come by more often---there'd be plenty for you t' do,
 an' the missus is alluz happy t'have one more fer dinner."
 
@@ -3927,12 +3927,12 @@ She drained the last of her own tea and stood up.
 "I gotta get back to Aunt Naggie.
 Maybe see you later?"
 
-"Sure," Slack said, smiling again.
+"Sure," Honesty said, smiling again.
 "I'll walk you out."
 
 They held hands all the way up the canal.
 As usual,
-Slack did most of the talking.
+Honesty did most of the talking.
 When her induction notice arrived,
 she had fired back a message right away,
 and wouldn't you know it,
@@ -3949,14 +3949,87 @@ right?
 "I s'pose," Iffy said.
 
 "Oh c'mon."
-Slack bumped her hip against Iffy's one more time.
+Honesty bumped her hip against Iffy's one more time.
 "M' dad and Uncle Osman asked two different cores about that piece o' tech.
 Neither of 'em could make sense of it,
 an' then you jus' come right out an' tell 'em what it is."
 
 Iffy mumbled that it was just a guess,
-not wanting to admit to Slack or herself that she had no idea how she had known what it was.
+not wanting to admit to Honesty or herself that she had no idea how she had known what it was.
 They said their goodbyes by the bow of the Marine cutter.
 One of the repair bots paused a moment to watch them kiss,
 its simple core wondering who was repairing whom,
 and then Iffy turned to hurry back to the Dance Hall and her aunt.
+
+The streets around the market were crowded by the time Iffy got back.
+Four Chinese Mormons handed out glossy animated pamphlets
+advertising their church's insurance policies,
+smiling forgiveness at a ragged man whose face and hands were covered with tech both real and fake
+yelling that the Singularity had come,
+they were all living in a simulation,
+the data proved it,
+they just had to look at the data and they would see the truth!
+A bot with a rasping voice and an ancient wooden Nugini mask for a face
+told stories to a circle of wide-eyed children.
+Two bald women who might have been clones but were probably just twins
+wheeled a cart piled high with sheepskins
+past two men arguing beside another cart piled just as high
+with sheets of farmed moss.
+The smell of soy being fried in ginger
+mixed with the wet steamy warmth from rice cookers
+and the salty tang of tweaked seaweed being boiled into soup.
+
+Iffy paused longingly in front of a stall selling rats with startling blue eyes as pets.
+"Or snacks,"
+the man said,
+hastily adding, "Just kidding! Just kidding!"
+when Iffy scowled.
+She held her finger a few millimeters from the front of one of the cages
+for the rat it held to sniff,
+then hurried on her way.
+*One day*,
+she promised herself.
+One day,
+but not while she was on the *Guinevere* and Uncle Jack was her captain.
+He wouldn't eat it---he'd just shout about vermin
+and throw it over the side.
+
+The Dance Hall was just as busy inside as out.
+Iffy tried slipping through the crush the way Honesty did,
+but quickly gave up and resigned herself to moving at the pace
+of the meandering crowd.
+She glanced up as a surveillance drone the size of her hand whined by,
+its dozen crystal eyes observing the crowd
+while its mere presence reminded them that the governor had eyes everywhere.
+"Some all got they riled up,"
+a stall keeper muttered,
+noticing Iffy's look.
+"They 'long by all place today.
+You t'ink it be come by they fight up along th' gov'nor's?"
+
+"I dunno,"
+Iffy said.
+Drones had microphones as well as cameras,
+and the last thing she wanted was to give the governor's cores
+something to think about.
+"'Scuse me."
+She ducked under a tarnished video carpet draped over a line
+and pushed her way into the crowd on the other side.
+
+And froze.
+And ducked back under the carpet again.
+No.
+She must have been mistaken.
+She couldn't have seen what she thought she just saw.
+She shook her head and gingerly pull the video carpet aside.
+
+There,
+just a couple of meters away,
+stood Aunt Naggie.
+And yes,
+she *was* holding hands with a slim dark-haired man
+wearing the dark green uniform of a government ecologist.
+Iffy couldn't hear what they were saying over the bustle of the crowd,
+but from the looks on their faces,
+she was pretty sure they weren't discussing the evaporation cycle
+or how quickly the latest tweaked microbes were turning 'Nardica's rocks into soil.

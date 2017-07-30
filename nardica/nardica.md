@@ -4026,10 +4026,109 @@ She shook her head and gingerly pull the video carpet aside.
 There,
 just a couple of meters away,
 stood Aunt Naggie.
-And yes,
-she *was* holding hands with a slim dark-haired man
-wearing the dark green uniform of a government ecologist.
+She was holding hands with a slim dark-haired man
+wearing the green uniform of a government ecologist.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
-but from the looks on their faces,
-she was pretty sure they weren't discussing the evaporation cycle
-or how quickly the latest tweaked microbes were turning 'Nardica's rocks into soil.
+but from the intense looks on their faces,
+she was pretty sure they weren't discussing
+how quickly the latest batch of tweaked microbes brought in from India
+were turning 'Nardica's barren rocks into soil.
+
+The man in the ecologist uniform pressed something into Aunt Naggie's hand
+and leaned forward to kiss her on the cheek.
+The space above their heads flickered.
+It was another video carpet,
+Iffy realized,
+concealing them from the drones overhead.
+Another flicker,
+and the man stepped back,
+his face now polite and smiling.
+He gestured at the goods piled beside him.
+Aunt Naggie shook her head,
+smiled just as falsely,
+and turned to go.
+
+"Citizens!"
+The mechanical voice cut through the market bustle like a shark through a school of fish.
+"There has been a security violation.
+Remain where you are!"
+A high-pitched alarm began to ping.
+
+The dark-haired man looked up.
+His polite expression slipped
+as first one, then three, then half a dozen drones formed a flock over his stall.
+He spread his hands as if to say,
+"Who, me?"
+He looked past Iffy at the sound of heavy boots.
+Marines were coming,
+visors down and shock sticks in their hands.
+
+The main raised a hand into the air and clenched it to make a fist.
+Without any more sign than that,
+the lights around them flickered and died.
+The drones hovering above him clattered to the floor.
+Still smiling,
+he placed the hand against his temple
+and slumped to the ground, twitching.
+
+Iffy stared in shock.
+He had wiped himself!
+Spies and disappointed lovers did it in sims all the time,
+but things like this didn't happen in real life!
+
+She looked up.
+Aunt Naggie was still standing there,
+shock written on her face.
+Iffy pushed aside the video carpet and walked to her as calmly as she could.
+"Auntie. Auntie! We need to get out of here."
+
+"Iffy?"
+she gaped.
+"What're you---I thought you were down along with that girl o' yours?"
+
+"I was.
+C'mon,
+we need out o' here *now*!"
+She tugged on her aunt's arm.
+Aunt Naggie's mouth worked like a fish gasping for water.
+Frightened and exasperated,
+Iffy took one of the mesh shopping bags out of her aunt's unresisting hands,
+spun her around,
+and dragged her toward the exit.
+
+The lights overhead came back to life.
+A fallen drone on the concrete in front of them buzzed,
+righted itself,
+and flew into the air.
+"Citizens!"
+it shouted.
+"Remain calm!
+There is no cause for alarm!
+This safety notice is brought to you by Volkov's Fish Sauce!"
+
+Iffy hurried her aunt past racks of bicycles
+and rolls of microfiber sailcloth,
+then slowed their pace to match that of the crowd.
+Lots of other shoppers had apparently decided they were done for the day as well.
+"A thief?"
+the man in front of them asked.
+
+"Nah, somethin' medical," the woman beside him replied,
+eyes blinking rapidly as she searched her feed.
+
+The man snorted.
+"Bad case o' the blues is my bet,"
+he muttered.
+His companion shushed him,
+glancing meaningfully at the drones criss-crossing the airabove them.
+
+*We're not gonna make it,*
+Iffy told herself.
+There was no way the drones hadn't seen her aunt
+before the man's tech brought them down.
+But somehow they were at the exit
+and through onto the street.
+"C'mon, let's get home,"
+she said.
+Aunt Naggie nodded without speaking.
+It was only then that Iffy realized she was crying.

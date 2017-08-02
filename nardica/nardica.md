@@ -4125,10 +4125,117 @@ glancing meaningfully at the drones criss-crossing the airabove them.
 *We're not gonna make it,*
 Iffy told herself.
 There was no way the drones hadn't seen her aunt
-before the man's tech brought them down.
+before the stranger's tech brought them down.
 But somehow they were at the exit
 and through onto the street.
 "C'mon, let's get home,"
 she said.
 Aunt Naggie nodded without speaking.
 It was only then that Iffy realized she was crying.
+
+They turned a corner,
+then another,
+and then Aunt Naggie pulled up short.
+"I'm sorry, sweetie," she said,
+wiping her eyes.
+"I'm sorry."
+
+"No worries," Iffy said awkwardly,
+not knowing whether to hug her aunt or not.
+A passerby slowed,
+hesitated,
+and hurried on her way as Iffy glared at her.
+"What happened?
+Who was that man?"
+
+"Sh!"
+Aunt Naggie glanced around fearfully.
+"Not out here."
+
+"But---"
+
+"Later!"
+Aunt Naggie sniffled and wiped her eyes one more time before straightening up.
+"Come on,"
+she said tiredly,
+"We're a'ready late for gettin' back."
+
+Uncle Jack was fuming by the time they reached the *Guinevere*.
+"Can't make up or down o' what he's done to things,"
+he snarled by way of a hello,
+wiping his hands angrily on a greasy rag.
+A double dozen boxes sat in a pile on deck,
+each bearing the Marines' blue crown stamp.
+One had been torn open to reveal strips of plastic for patching seams in the hull,
+another to show fitting for
+a bilge pump that hadn't worked properly in years.
+It was more gear than the old fishing boat had seen
+in as long as Iffy could remember,
+but all Uncle Jack could talk about was
+how the repairs that Wales had made weren't how things ought to be done,
+it looked like core work,
+he was tweaked somehow,
+and how were regular folks supposed to understand a tangle like that?
+
+"Maybe it'll make more sense after dinner,"
+Aunt Naggie ventured.
+
+Uncle Jack snorted.
+"Did you get your precious curry?"
+
+For a moment Iffy thought her aunt was going to start crying again.
+Instead,
+she nodded wordlessly and carried her shopping into the galley.
+
+Iffy watched silently as Aunt Naggie used a knife to take out her feelings on an onion.
+Once it was sizzling in hot oil,
+she cubed a block of jellyfish protein
+and attacked the other vegetables.
+"Anythin' I can do?"
+Iffy finally asked,
+worried and afraid and wanting to help but not knowing how.
+She had never seen her aunt like this,
+not even after the worst of Uncle Jack's rages.
+
+Aunt Naggie swept the carrots and cabbage into the frying pan
+and forced a smile.
+"Thanks, sweetie, but I'm a'right.
+You should prob'ly go topside an' see if you can sort him out."
+
+Iffy stood and put her arms around the woman who had sheltered her from storm after storm.
+"I love you," she blurted.
+
+Aunt Naggie set her knife down and hugged her niece back.
+"I love you too, sweetie."
+
+Iffy gave her another squeeze,
+afraid she might start crying too.
+"Was he---was he someone special?"
+
+Her aunt froze.
+Iffy opened her mouth to say never mind,
+it was none of her business,
+but before she could,
+Aunt Naggie whispered,
+"Yeah, he was."
+She kissed the top of Iffy's head.
+"He was special in a lot o' ways.
+But best if we don't talk to your uncle about any o' them."
+
+"'Course not,"
+Iffy agreed hastily.
+"I just---why'd he do it?
+Why'd he---you know."
+
+Aunt Naggie heaved a sigh.
+"He had a lot goin' on,
+an' a lot o' people countin' on 'im.
+I guess he wanted to keep 'em all safe,
+and wipin' himself was---was just---"
+
+"It's a'right, it's a'right."
+Iffy hugged her aunt again,
+thinking about her parents
+and knowing that sometimes it was okay to lie to people.
+"It's a'right,"
+she repeated in a whisper.

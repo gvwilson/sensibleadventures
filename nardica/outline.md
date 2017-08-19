@@ -1,6 +1,16 @@
 Nardica
 =======
 
+- something special about Iffy (her machine dreams)
+  - when her parents throw her overboard, her mother says "she's not ready"
+  - Aunt Naggie's "curry" includes drugs and nano to suppress Iffy's symptoms
+- one of the governor's counselors is an avatar for Rothera Core, the city AI
+- more discussion of the rest of the world
+  - 'Merica's remaining fortress cities
+  - the superstorm wasteland that had once been Russia's fertile fields
+  - Muslims from China-over-the-Sea doing the pilgrimage in envirosuits
+- people don't use VR because of the risk of (mental) infection "being matrixed"
+
 Background
 ----------
 

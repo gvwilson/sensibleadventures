@@ -4219,23 +4219,108 @@ but before she could,
 Aunt Naggie whispered,
 "Yeah, he was."
 She kissed the top of Iffy's head.
-"He was special in a lot o' ways.
-But best if we don't talk to your uncle about any o' them."
+"Everyone's special,
+but he was extra special.
+In a lot o' ways."
+She sniffled,
+a sound as startling in its own way as an alarm bell ringing.
+"Prob'ly best if we don't talk to your uncle about any o' them."
 
 "'Course not,"
 Iffy agreed hastily.
 "I just---why'd he do it?
 Why'd he---you know."
 
-Aunt Naggie heaved a sigh.
+Aunt Naggie heaved a sigh and turned back to her vegetables.
 "He had a lot goin' on,
 an' a lot o' people countin' on 'im.
 I guess he wanted to keep 'em all safe,
 and wipin' himself was---was just---"
 
 "It's a'right, it's a'right."
-Iffy hugged her aunt again,
-thinking about her parents
-and knowing that sometimes it was okay to lie to people.
+Iffy hugged her aunt again from behind,
+thinking about how sometimes it was okay to tell people things they knew weren't true.
 "It's a'right,"
 she repeated in a whisper.
+
+Uncle Jack complained that the stir fry was salty
+and that the noodles were overcooked.
+He took a second helping anyway,
+finishing it before Iffy and Aunt Naggie were through their first and only
+and then stomping away to check on the ship.
+Iffy would have thrown his dirty plate at his head
+if Aunt Naggie hadn't put a hand on her shoulder.
+
+The Marines arrived just as Iffy was waking up the next morning.
+Two squads of eight in exoskeletons,
+each with a bulky pack on their back,
+and another two squads of regulars
+straining under packs that were only slightly less heavy.
+Dr. Johel came with them,
+and so did Johnson Wales.
+
+"Because Rothera Core ran a few sims,"
+Dr. Johel explained testily to Uncle Jack.
+"A few billion sims, actually,
+and it says this is our best chance of success."
+She gestured at the sleek gray ship that had taken up station
+a few hundred meters away from the pier
+while Iffy slept.
+"You,
+the *Bengal*,
+these soldiers,
+and a couple of spotters---that's what it came up with."
+
+"Well, all I can say is that---"
+Uncle Jack began to bluster.
+
+"You'll get paid,"
+Wales cut in.
+His face was drawn,
+as if he hadn't slept since the attack on the governor's mansion.
+His toolboxes sat on a two-wheeled cart behind him.
+Beside the cart,
+a cadet in a uniform three shades lighter than those of the other Marines stood at attention,
+the top half of her face covered by a dark tactical visor.
+Iffy looked past her to the canvas-covered machinery rolling up the pier to be loaded onto the *Bengal*,
+then looked back in shock.
+It couldn't be.
+It *couldn't* be.
+
+Dr. Johel saw the look on Iffy's face and glanced at the young woman.
+"Ah, yes," she purred.
+"That was another of the core's recommendations."
+She beckoned Wales and the cadet forward.
+"I believe you two know each other?"
+
+"Honesty?"
+Iffy somehow managed to say.
+
+Her friend's expression didn't change.
+"Good morning, Iffelia."
+Her voice was as stiff as her back and shoulders.
+
+"Don't worry,"
+Dr. Johel told Iffy.
+"Everyone's like that after their first induction.
+She'll be herself again in a few days."
+
+"More or less,"
+Wales muttered.
+
+"More or less,"
+Dr. Johel agreed evenly.
+"But it *is* sometimes more."
+
+"Sometimes,"
+Wales agreed tiredly.
+He waved a hand at the gangplank.
+"Just take them up there, please.
+I'll show you where they go."
+
+"Yes sir."
+Without even glancing at her friend,
+Honesty wheeled the cart onto the *Guinevere*.
+Wales trudged up the gangplank behind her.
+After a moment's hesitation,
+Iffy followed them.

@@ -4324,3 +4324,26 @@ Honesty wheeled the cart onto the *Guinevere*.
 Wales trudged up the gangplank behind her.
 After a moment's hesitation,
 Iffy followed them.
+
+Wales' toolboxes went in the cabin he had used on the voyage from Halley.
+He struggled awkwardly out of his coat,
+the wound in his side obviously still bothering him.
+"Maybe later,"
+he said when Iffy asked him if he wanted some tea.
+"I'm going to lie down for a bit first."
+
+"Sure,"
+Iffy said.
+Wales sat on his foam mattress,
+yawned,
+and started to swing his legs up
+before realizing that she was still standing there.
+He searched her face for a moment and sighed.
+
+"Just give her time," he said gently.
+"And don't take anything she says too seriously.
+It's just the programming talking."
+
+Iffy nodded jerkily.
+"Hope you sleep aright."
+She closed the door quietly behind her.

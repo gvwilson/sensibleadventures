@@ -4338,7 +4338,7 @@ Wales sat on his foam mattress,
 yawned,
 and started to swing his legs up
 before realizing that she was still standing there.
-He searched her face for a moment and sighed.
+He searched her face for a moment and then sighed.
 
 "Just give her time," he said gently.
 "And don't take anything she says too seriously.
@@ -4347,3 +4347,89 @@ It's just the programming talking."
 Iffy nodded jerkily.
 "Hope you sleep aright."
 She closed the door quietly behind her.
+
+Honesty was standing straight and stiff by the railing,
+her hands clasped behind her back.
+The cart beside her was lined up perfectly with the side of the ship,
+and the coil of cable on the post at her elbow had been re-coiled
+in loops that Iffy suspected were precisely two meters long,
+or whatever Marine regulations said was best.
+
+"How're you feelin'?" Iffy asked tentatively.
+
+"I'm fine, thank you,"
+Honesty replied without turning her head.
+"How are you?"
+
+"'m okay."
+Iffy's mind spun double-time as she tried to think of something safe to say.
+*Th' hell with it* she thought angrily.
+"Did it hurt?" she blurted.
+"When they inducted you, was it---are y'alright?"
+
+"Not at all."
+Honesty turned to face Iffy.
+A brief smile flitted across her face,
+as sharp and unwarming as the Antarctic sun.
+"Please don't be worried.
+They warned us that we would seem stiff for a while."
+
+Someone whistled down on the pier.
+"Excuse me," Honesty said.
+She grabbed her cart and headed down the gangplank without waiting for a response.
+
+An hour later the *Guinevere* was ready to set sail.
+Uncle Jack protested loudly when he discovered that four of the Marines would be traveling with them,
+and was even louder when they erected a streamlined gray tent near the stern,
+but the Marine commander's indifference was as clear as midwinter ice.
+"Standard procedure,"
+he said sharply.
+"We'll stand watch in pairs.
+Whoever's not on deck can lie in to warm up and mind the gear."
+Exactly what "the gear" was for was left unsaid,
+but judging from its capacitors and gunsight,
+Iffy was pretty sure it wasn't for stargazing.
+
+They cast off without ceremony.
+The *Bengal* fell in behind them,
+three times their size but leaving half their wake.
+For a moment Iffy forgot to feel worried and angry about Honesty and their trip and everything else.
+The warship looked like it had been built yesterday rather than almost a century ago.
+The intricate sensorr-baffling whorls on her hull made Iffy's eyes swim when she looked at them too long,
+but where the *Guinevere* pushed through waves,
+the *Bengal* seemed to somehow slip past them.
+Iffy felt almost hungry thinking about what her engines must look like.
+Three of them,
+two in the stern and one amidships as insurance against a torpedo strike,
+each one with its own broad-mouthed intakes and narrow jet exhausts,
+the channels connecting them full of micro-gears arranged in concentric rings
+to maximize the power-to-thrust ratios of---
+
+Her head swam.
+She clutched the railing to stop herself from falling to the deck
+and squeezed her eyes shut.
+For one long moment she could actually see the *Bengal*'s engines
+as if they were laid out on a screen,
+the parts exploded and zoomed to make every intricate detail clear.
+She swallowed back a sudden wave of nausea.
+She couldn't know that.
+The general principles,
+sure,
+she'd seen those in a dozen different tutorials and reference guides,
+but the details---those were classified.
+Every attempt she had ever dared make to delve into them
+had ended immediately in a screen full of square red warning signs.
+
+"Dammit, girl, what're you doin' lazin' about?"
+Uncle Jack's familiar bellow brought her back to where she was.
+"Get down below and check every one o' those crates
+an' make sure they're strapped in right,
+'cuz if any of 'em tumbles,
+it'll come out o' your hide!"
+
+She struggled to her feet,
+the image of the *Bengal*'s engines already fading.
+"Yessir," she mumbled.
+He harrumphed and pulled his head back into the pilot house
+as she walked shakily astern.
+What was happening to her?

@@ -1212,7 +1212,7 @@ He tapped the silver tech in his temple.
 "This is a satellite uplink.
 A *fully functional* satellite uplink,"
 he continued before Uncle Jack could interrupt.
-"Which means I can spot patches of boil with half an hour to spare.
+"Which means I can spot patches of sea boil with half an hour to spare.
 Maybe a full hour, if the sky's clear.
 And *that* means---"
 
@@ -1250,7 +1250,7 @@ glaring at Iffy.
 "She could have,"
 Wales agreed, opening his eyes.
 "But she couldn't have known what brought up the jellies the *Whitstable* found.
-It was a boil twenty kay northeast of you on your last day out.
+It was a sea boil twenty kay northeast of you on your last day out.
 It would have been just over the horizon---if you'd known it was happening,
 you could have been the one to haul them in."
 
@@ -4433,3 +4433,80 @@ the image of the *Bengal*'s engines already fading.
 He harrumphed and pulled his head back into the pilot house
 as she walked shakily astern.
 What was happening to her?
+
+## Chapter 6
+
+Iffy had spent hours gazing at the pictures in her mother's nature book
+that showed blue tropical oceans full of fish and coral
+and even on one page an octopus that changed color when she touched it.
+The ocean that the *Guinevere* and the *Bengal* sailed through
+in the days following their departure from Rothera looked nothing like that.
+When the sky was blue,
+the sea was a light, liquid gray.
+When clouds rolled in and threatened a storm,
+as they did on their second day out,
+the gray turned somber.
+Even the white crests of the waves seemed dirty.
+
+Iffy's mood sank even further on their fourth (or was it the fifth?) day.
+One of the *Bengal*'s ultralight drones spotted an unevenness in the water.
+After a couple of milliseconds of dithering,
+the warship's core decided it was a sign that a sea boil might be coming,
+so the two ships turned toward shore
+and ran straight into a slick of rotting jellyfish.
+For half an hour the air didn't just smell like wet rot---it *tasted* of it.
+Aunt Naggie boiled a precious spoonful of dried lemon rind to chase the smell out of the galley,
+but dinner's noodles still had an aftertaste of rank seaweed.
+
+"Could be anything,"
+Wales said when Iffy asked him what he thought had happened.
+He had spent most of the first two days in his cabin,
+coming out only to eat and use the toilet
+under the carefully casual supervision of whichever Marine just happened to be outside his door.
+He looked less drained than he had the day after he was shot,
+but he didn't smile at Iffy the way he first had,
+and there'd been no more talk of apprenticing.
+
+Something caught his eye just as Iffy turned to go back to her chores.
+He leaned over the railing, then pointed.
+"See that?"
+
+Iffy looked at the glistening lumps that dotted the waves.
+"What?"
+
+"There and there. And there.
+Looks like some kind of infection has been eating at them."
+He shook his head,
+his expression a mixture of anger and disappointment.
+"Could be natural,
+but more likely someone crisped it up in a lab."
+
+"You think it was the Zillions?"
+Iffy asked.
+
+Wales shook his head.
+"I doubt it.
+They'd go after your coal if they could figure out a way to do it
+without sludging every bit of fertile soil in Antarctica as a side effect,
+but not the jellyfish.
+No,
+this was probably someone local trying to scissor out the genes
+that make them filter microparticles out of the water."
+Catching sight of Iffy's puzzled look,
+he waved his arm at the slick again.
+"That's what they were tweaked to do---collect all the tiny bits of plastic in the water.
+It made sense at the time,
+in a desperate kind of way,
+but then they hybridized with some other tweak for rapid growth and..."
+He shrugged.
+
+"And they took over,"
+Iffy finished.
+"I read about it in school,
+how they ate up everythin' so most o' the fish starved
+an' everythin' fell apart."
+
+Wales nodded.
+"One disaster among many," he said.
+"And every time we try to put it right,
+it seems we just tangle it up worse."

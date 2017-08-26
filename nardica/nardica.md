@@ -3745,10 +3745,10 @@ an' then I heard about what happen up along th' governor's.
 I's worried about you."
 
 Iffy returned the hug awkwardly.
-Somehow,
-she always felt awkward around Honesty,
+She always felt awkward around Honesty,
 especially when they were close enough
-that she could smell whatever flowery concoction the other girl used to wash her hair.
+that she could smell whatever flowery concoction the other girl used to wash her hair,
+but it was a good kind of awkward.
 "I'm fine,"
 she said,
 her voice muffled slightly by the rat fur collar on Honesty's coat.
@@ -4490,23 +4490,91 @@ They'd go after your coal if they could figure out a way to do it
 without sludging every bit of fertile soil in Antarctica as a side effect,
 but not the jellyfish.
 No,
-this was probably someone local trying to scissor out the genes
-that make them filter microparticles out of the water."
+this was probably someone local trying to splice in some genes
+so they would trap more plastic in their body."
 Catching sight of Iffy's puzzled look,
 he waved his arm at the slick again.
-"That's what they were tweaked to do---collect all the tiny bits of plastic in the water.
-It made sense at the time,
-in a desperate kind of way,
-but then they hybridized with some other tweak for rapid growth and..."
-He shrugged.
+"That's what they were originally tweaked for---to filter
+all the tiny bits of plastic out of the water."
 
-"And they took over,"
-Iffy finished.
-"I read about it in school,
-how they ate up everythin' so most o' the fish starved
-an' everythin' fell apart."
+"Like the barnacles filter the metal?"
+Iffy said.
 
 Wales nodded.
-"One disaster among many," he said.
-"And every time we try to put it right,
-it seems we just tangle it up worse."
+"It made sense at the time,
+in a desperate kind of way,
+but it never really worked.
+The only thing that *did* work was the accelerated growth."
+
+"I read about that in school---how
+they ate up everythin' so most o' the fish starved an' everythin' fell apart."
+
+"The clathrate bubbles feed the microorganisms the jellyfish eat,
+which is why the best jelly fishing is where the sea is most likely to boil.
+It's just one more disaster among many.
+And every time we try to put one of them right,
+it seems we just tangle things up worse."
+
+Iffy watched the lumpy slick slide by for a second,
+then reached over and punched his shoulder.
+"For bein' so gloomy," she said firmly.
+"You were a lot more fun when you were all smiley an' such."
+
+The startled look on Wales' face turned into a smile---a real smile,
+the first Iffy had seen since the attack.
+"I'm sure I was," he agreed.
+He turned his back to the ocean and nodded toward his cabin.
+"Want to go make something?"
+
+The Marines had filled the *Guinevere*'s smaller hold with their equipment and sleeping rolls,
+so Iffy and Wales lugged his toolboxes down to the engine room.
+Iffy laid a fresh sheet of sterile plastic down on the narrow shelf that served her as a makeshift workbench
+while Wales pushed two stools against the wall and set one of his toolboxes on them.
+A click,
+a quiet hiss as the airtight seal released,
+and its lid swung up to reveal wonders.
+Gears and knurled slip-rods,
+spools of optical fiber thinner than a human hair,
+four thumb-sized motors with built-in batteries,
+transducers and pressure sensors and an entire tray full of tiny cores the size of sand grains...
+"You could buy the *Guinevere* with this," Iffy said in awe.
+
+"Not quite,"
+Wales said.
+Then he laughed.
+"Or maybe, I don't know.
+The governor wanted to be sure we didn't run short.
+Here."
+He plucked a micro-manipulator out of a recess in the hard foam that lined the lid of the toolbox.
+"How about you build us a hundred-to-one step-up for a fan rotor,
+and I'll get the printer going over there in the corner."
+
+The next hour flew by.
+Iffy knew she should be doing chores,
+but she also knew Uncle Jack had made up those chores just to keep her busy.
+*This* was what she ought to be doing:
+fitting tiny  metal gears and rods together,
+threading control fibers through them,
+and grinding the rough edges off the still-warm plastic housings
+that came out of the efficient little printer Wales had set up.
+Every addition to the motor growing in front of her suggested three more.
+She shuffled them in her mind like cards,
+staring into nothing for long moments as she invented and discarded
+a dozen solutions to her next challenge
+before one clicked into place and she knew,
+she just *knew*,
+that it would work.
+
+She glanced up once and caught Wales looking at her.
+"'S matter?" she asked,
+blinking and then rolling her shoulders
+as she realized that she had been hunched in one position far too long.
+
+"Nothing," he said.
+He punched her shoulder gently.
+"It's just a pleasure to watch you work."
+
+"Thanks," she mumbled,
+her cheeks warming the way they did when Honesty said something nice.
+
+The thought of her friend brought her mood crashing down.

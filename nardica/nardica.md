@@ -4528,7 +4528,7 @@ He turned his back to the ocean and nodded toward his cabin.
 
 The Marines had filled the *Guinevere*'s smaller hold with their equipment and sleeping rolls,
 so Iffy and Wales lugged his toolboxes down to the engine room.
-Iffy laid a fresh sheet of sterile plastic down on the narrow shelf that served her as a makeshift workbench
+Iffy laid a fresh plastic worksheet down on the narrow shelf that served her as a makeshift workbench
 while Wales pushed two stools against the wall and set one of his toolboxes on them.
 A click,
 a quiet hiss as the airtight seal released,
@@ -4641,26 +4641,200 @@ He shook his head.
 You should give her a name."
 
 Iffy hefted her tiny creation.
-"Let's call her the *Giraffe*," she said.
+"Can I call her Giraffe?" she asked.
 
 Wales smiled.
-"So be it.
+"Giraffe it is.
 Come on---she doesn't belong down here."
 
 Wispy gray clouds lay in a clump on the horizon to port when they got back on deck,
 but other than that,
 the skies were clear.
-Iffy took a moment to sync the *Giraffe* with her tablet,
-then tucked the tablet back in her pocket and cleared her throat.
+Iffy took a moment to sync Giraffe with her tablet,
+then cleared her throat.
 "Spin up one tenth," she commanded.
 The little drone's rotors began to whirl.
 
 "Hover."
 Wales flattened his hand.
-The drone hesitated a heartbeat
-and then lifted a centimeter into the air.
+The drone hesitated a heartbeat before lifting a centimeter,
+its rotors humming quietly.
 
-She pointed a finger at the drone.
 "Track."
-As she drew an "S" in the air,
-the drone moved rose and fell to stay in line with her outstretched arm.
+Iffy pointed a finger at the drone,
+then drew an "S" in the air.
+The drone moved rose and fell to stay in line with her outstretched arm.
+
+A smile split her face.
+"Catch!"
+She pulled a scrap of insulating foil from her pocket,
+crumpled it,
+and tossed it into the air.
+Giraffe shot forward,
+its single stick-thin arm unfolding from its base to snatch its prey out of the air.
+
+"Well done,"
+Wales said.
+"She's as solid as a rock."
+
+"Thanks."
+Iffy glanced down at her tablet.
+"Soakin' power faster than I'd like."
+
+Wales made a raspberry.
+Iffy giggled at the incongruous sound.
+"She's beautiful.
+Go on, let her stretch her wings."
+
+Iffy sketched a quick correction to the drone's code on her tablet,
+swiped it across,
+and tucked the tablet into her pocket.
+"Sentry," she ordered.
+"Thirty meters out,
+one minute around.
+Go!"
+
+The drone climbed, banked, and flew away.
+Iffy and Wales pivoted slowly to watch it curve toward the stern
+and burst into a dazzling shatter as one of the Marines standing there
+blew it out of the sky.
+
+"No!" Iffy shrieked.
+
+Wales grabbed her arm as she instinctively started forward.
+"Don't.  Iffy, don't!"
+
+"But---why'd he do that?
+Why'd he *do* that!?"
+She was crying,
+but she didn't care.
+She shrugged Wales off and strode toward the stern.
+
+"What th' hell are you playin' at?"
+she demanded.
+
+The Marine who had shot down her drone looked at her without expression.
+"Orders," he said.
+
+"Orders?
+What orders?"
+She shoved him,
+which had about as much effect as shoving the *Guinevere*.
+"What bloody orders?"
+
+"Doctor Johel's orders,"
+the other Marine said.
+The two men looked nothing alike,
+but they spoke in the same flat voice,
+their inducted accents a century out of date.
+"If it's not ours, burn it."
+
+"Well that *was* ours!
+That was *mine!
+You could have asked before you---I'm talkin' to you!"
+She grabbed for the Marine again as he turned away.
+
+The Marine's hand shot up to catch her wrist.
+He spun Iffy with a quick twist,
+pulling  her arm up behind her back as his other arm clamped around her.
+"Don't."
+
+Iffy struggled.
+"Lemme go!  Lemme *go*!" she shrieked.
+She was only half-aware of Wales reaching for her,
+and of the other Marine stepping in the way.
+
+A sudden sharp *crack!* snapped her back to herself.
+"Mind yourself,"
+Uncle Jack growled,
+levelling the rifle in his hands at the second Marine's chest.
+
+"Captain---"
+the Marine began.
+
+"Shut yer hole."
+Uncle Jack gestured with the rifle.
+"You.
+Let 'er go."
+
+The first Marine released Iffy and took a step back.
+"'s better.
+Now you listen up.
+This is *my* ship.
+You want t' shoot somethin',
+you ask me.
+Not him."
+He jerked his chin toward Wales.
+"And not your precious Doctor Johel,
+and not th' governor himself.
+*I'm* the captain here.
+Got it?"
+
+Neither Marine spoke.
+"I said, have you got that?"
+Uncle Jack bellowed.
+When the Marines still didn't answer he spat over the railing.
+"And you, girl.
+You get back about your chores or I swear..."
+With a final glower at Wales he turned and stalked back to the pilot house,
+cradling the rifle as if it was a squalling infant.
+
+"Come on,"
+Wales said quietly,
+putting his hand on Iffy's arm.
+She started to shrug him off,
+then slumped and nodded,
+her heart still racing.
+Head down,
+she followed him back to the hatch
+and climbed down the short ladder into the engine room.
+
+Wales looked at the parts that still lay on the plastic worksheet and sighed.
+"I'm sorry.
+It was a beautiful little thing."
+
+"'s not your fault," Iffy muttered.
+She started picking up the leftover gears and rods
+but had to stop
+because she couldn't see properly.
+"I'm okay," she lied angrily,
+wiping her eyes on her sleeve as Wales reached for her.
+"I just..."
+
+Wales sat back and waited.
+Iffy wiped her eyes again.
+"I had a rat," she said quietly.
+"Aunt Naggie got me a pair,
+but one of 'em had somethin' wrong with it,
+so I just had the one.
+I called her Giraffe too."
+She sniffled.
+"We didn't tell Uncle Jack.
+He woulda said somethin' stupid about another mouth to feed.
+But she was so smart,
+an' she'd sit in my hand an' eat stuff,
+an' climb up my arm,
+an'..."
+
+She took a deep, shaky breath.
+"An' then one day she was gone.
+I dunno what happened.
+We jus' got back into Halley,
+an' we were all out,
+an' I came back an' she was gone.
+We looked all over for her,
+me an' Aunt Naggie,
+but..."
+She shook her head.
+"I musta left her cage unlocked or somethin'.
+If she got on deck,
+one o' the gulls or somethin' coulda got her and...
+and..."
+
+She clenched her hands into fists.
+"Why's it all got to be so hard?" she asked in anguish.
+"Why's everythin' got to be so messed up?"
+
+"I don't know,"
+Wales replied quietly.
+"I really don't know."

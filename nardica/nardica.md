@@ -4567,7 +4567,7 @@ that it would work.
 
 She glanced up once and caught Wales looking at her.
 "'S matter?" she asked,
-blinking and then rolling her shoulders
+blinking and rolling her shoulders
 as she realized that she had been hunched in one position far too long.
 
 "Nothing," he said.
@@ -4575,6 +4575,92 @@ He punched her shoulder gently.
 "It's just a pleasure to watch you work."
 
 "Thanks," she mumbled,
-her cheeks warming the way they did when Honesty said something nice.
+her cheeks warming the way they did when Honesty complimented her.
 
-The thought of her friend brought her mood crashing down.
+The thought of her friend chilled her mood like a splash of sea water.
+She turned the newly-invented motor over in her hands,
+then passed it to Wales.
+"I think it's ready."
+
+"Just another couple of minutes for the chassis."
+He shifted his toolbox to the floor and seated himself in its place.
+"She really will be all right," he said
+as if he'd been reading her mind.
+
+Iffy shrugged.
+"I know.
+I seen it in stories,
+an' one o' Mister Mishra's nephews got called up last year.
+He was okay after a couple o' weeks.
+Said it was like all the new stuff the core put in his head was so loud
+he couldn't hear his own thinkin' for a while,
+but he was the same annoyin' nonsense after."
+
+The corner of Wales' mouth quirked up.
+"I imagine he was," he said drily.
+"People spent years trying to induct personality changes,
+but it never worked.
+One of the research cores in America spent,
+oh,
+must have been hours thinking about it,
+but couldn't come up with anything either.
+All it's good for is conditioned reflexes."
+He picked up a stray scrap of plastic stock shaped roughly like a bent pencil,
+turned it over,
+and balanced it standing up on the end of his finger.
+
+Iffy goggled.
+"You been inducted?"
+
+Wales grinned.
+"A long time ago.
+Most of it has faded,
+but a few tricks stuck."
+He flipped the plastic end over end
+and put it back in the fold-up box next to his foot.
+
+The silence that followed was as comfortable as being on night watch with Aunt Naggie
+when the sea was calm and both of them had stories to lose themselves in.
+It was broken by the soft *ping* of the printer.
+"Here we go,"
+Wales said,
+opening the lid and lifting the still-warm chassis.
+
+Iffy's motor fit perfectly.
+A pair of metal-cored propellors on magnetic bearings clipped into place on top,
+and then all that was left was lenses for its cameras.
+The finished drone was the size of Iffy's fist
+and weighed no more than a couple of boiled eggs.
+
+She ignored the rumble her stomach brought on by the analogy
+and offered the drone back to Wales.
+"Whaddaya wanna call it?"
+
+He shook his head.
+"All I did was push some buttons on the printer.
+You should give her a name."
+
+Iffy hefted her tiny creation.
+"Let's call her the *Giraffe*," she said.
+
+Wales smiled.
+"So be it.
+Come on---she doesn't belong down here."
+
+Wispy gray clouds lay in a clump on the horizon to port when they got back on deck,
+but other than that,
+the skies were clear.
+Iffy took a moment to sync the *Giraffe* with her tablet,
+then tucked the tablet back in her pocket and cleared her throat.
+"Spin up one tenth," she commanded.
+The little drone's rotors began to whirl.
+
+"Hover."
+Wales flattened his hand.
+The drone hesitated a heartbeat
+and then lifted a centimeter into the air.
+
+She pointed a finger at the drone.
+"Track."
+As she drew an "S" in the air,
+the drone moved rose and fell to stay in line with her outstretched arm.

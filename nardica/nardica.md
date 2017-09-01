@@ -4838,3 +4838,84 @@ She clenched her hands into fists.
 "I don't know,"
 Wales replied quietly.
 "I really don't know."
+
+Doctor Johel paid the *Guinevere* a visit that afternoon,
+her first since leaving port.
+The *Bengal* had two swift gunboats,
+each capable of carrying four Marines in full combat exoskeletons,
+but she chose instead to be carried over by a drone,
+dangling beneath it like a rat being taken away by a hungry gull.
+Two Marines flew beside her,
+looking like mechanical angels instead of prey,
+while one of the ultralight spotters that had been high overhead
+since Rothera fell below the horizon
+circled over them.
+
+The drone set Doctor Johel down on the aft deck without so much as a bump.
+It hovered patiently while she undid the harness she wore over her long coat,
+then folded its twin manipulators back into its under-carriage
+and settled into place on the roof of the pilot house,
+where the *Guinevere*'s Marines had installed a power dock.
+
+Her escorts' landings were not nearly as graceful.
+One of them stumbled as an unexpected heave of the deck threw them off balance.
+*Are they flying manually?* Iffy wondered.
+People sometimes did that in the last desperate moments of stories,
+when the enemy's malware had somehow gotten past their defenses and cripped their cores,
+but she had never seen anyone pilot something themselves in real life.
+Was it a training exercise of some kind?
+
+She was about to ask Wales when the Marine on the left took off her helmet and stood to attention.
+Honesty's hair had grown back to a light fuzz,
+but her face was as empty of feeling as it had been when Iffy had last seen her.
+Her black eye was new,
+though,
+and when she and her partner exchanged salutes with the *Guinevere*'s four Marines,
+sunlight glinted off the silver plastic cast that encased half of her right hand.
+
+Wales nudged Iffy with his elbow.
+"Here," he said quietly,
+knocking his knuckles against the back of her hand.
+She hesitated,
+then clasped his hand long enough for him to pass her something the size of a thimble.
+As the pilot house door banged open behind her,
+she tucked her hands back in her pockets.
+
+Uncle Jack stomped past them without a word.
+He pulled himself up in front of the new arrivals
+with a scowl strong enough to strip paint.
+
+"Permission to come aboard, captain?" Doctor Johel asked,
+unperturbed.
+"And yes,
+I realize it's a bit late to ask,
+but it *is* protocol."
+
+Uncle Jack's mouth snapped shut,
+his complaint stillborn.
+He pointed at the angel wings her escorts had detached from their exoskeletons.
+"Strap 'em down,"
+he growled.
+"They go over th' side,
+y'ain't puttin' it on me."
+He turned his bloodshot glare back on Doctor Johel.
+"Wife's made tea."
+
+The common room where Iffy and Aunt Naggie watched stories together
+when Uncle Jack was out drinking or sleeping off its effects
+only had seats for four.
+Even if it had been the size of the Dance Hall market,
+Iffy wouldn't have been invited.
+Aunt Naggie wasn't invited either.
+She brought in a tray with tea and freshly-steamed dumplings,
+then retreated to the galley,
+closing the door behind her on Uncle Jack,
+Doctor Johel,
+Wales,
+and the Marine who had shot down the drone.
+"You stay out o' the way 'til they're all gone,"
+she urged Iffy under her breath.
+
+Iffy nodded.
+"I'll stay in my cabin," she promised,
+the little earbud Wales had passed to her still in her hand.

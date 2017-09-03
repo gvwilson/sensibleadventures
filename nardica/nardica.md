@@ -3532,7 +3532,7 @@ Wales sat up, wincing.
 When the governor raised an eyebrow,
 he plowed on.
 "There's a research base at the foot of Mount Tyree,
-a couple of hundred klicks inland from Ellsworth.
+a couple of hundred klicks inland from Paddington.
 Half of it's still under the ice,
 but there's been enough melt to expose the entrance
 and some of the upper works."

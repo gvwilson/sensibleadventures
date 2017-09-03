@@ -1,15 +1,50 @@
 Nardica
 =======
 
-- something special about Iffy (her machine dreams)
-  - when her parents throw her overboard, her mother says "she's not ready"
-  - Aunt Naggie's "curry" includes drugs and nano to suppress Iffy's symptoms
-- one of the governor's counselors is an avatar for Rothera Core, the city AI
+- what happens in the market?
+  - need a better scene here than "he fries his own brain"
+  - needs to try to escape with Naggie and Iffy ("a pleasure to finally meet you")
+  - he puts on a bulky cap, telling Aunt Naggie it's just in case
+  - Iffy has to do something here to make a difference to show her growing agency in her own life
+- make the Zillion chase scene bigger and riskier (need more adventure)
+  - Iffy has to do something that helps
+  - first reveal of her emerging abilities
+  - frightens Aunt Naggie enough that she goes to her contact in the market
+- why don't they fly to Ellsworth?
+  - Rothera core calculated their best chance was to sail
+  - use it as an excuse to talk about inscrutability of AI
+  - discover later that it's the governor's plan
+  - he needs time to get his own forces there
+  - Honesty knows about it, but can't tell anyone until her induction wears off
+- Jeep is with the Marines when they reach Paddington, re-inducted
+  - mention in the opening that he hasn't been right since his first induction
+  - post-induction stress disorder (PISD) which Uncle Jack jokes isn't as good as being pissed
 - more discussion of the rest of the world
-  - 'Merica's remaining fortress cities
+  - 'Merica's drowned cities
   - the superstorm wasteland that had once been Russia's fertile fields
-  - Muslims from China-over-the-Sea doing the pilgrimage in envirosuits
-- people don't use VR because of the risk of (mental) infection "being matrixed"
+  - Muslims from China-over-the-Sea doing the pilgrimage to Mecca in envirosuits
+- people don't use VR because of the risk of (mental) infection
+  - being matrixed
+- replace all mentions of stories and shows with games ("people watching games", "romance games", etc.)
+- change the opening so that Iffy is the youngest of several clones
+  - when they throw her overboard, one of them says, "She's not ready..."
+  - her big sisters, not her parents
+  - Naggie and Jack found her, Naggie insisted on keeping her ("my niece")
+  - Iffy wondered if she was some kind of tweaked Zillion spy (saw it in a game)
+  - Aunt Naggie laughs but takes her in to have her tested
+  - told her afterward that the doc said she was clear
+  - but that's when she started making her special curries
+  - turns out the powder is to suppress Iffy's special abilities
+  - Naggie stayed with Jack to raise Iffy, leaves after Paddington
+- the governor's mansion has a statue of a centaur
+  - the governor himself is part machine
+  - Iffy was expecting tank treads or a mechanical arm, but he looks normal
+  - the connection is on the inside
+  - he's one of the last (over a century old)
+  - Wales calls it a lost technology
+  - Doctor Johel corrects him sharply: we know how, we've just lost the tools
+  - turns out he knows what Wales is up to and wants to stop it
+  - he likes the world the way it is
 
 Background
 ----------
@@ -61,7 +96,7 @@ Chapters
     *   Close with her meeting Johnson Wales dockside
 
 2.  Taking on Freight
-    *   Wales needs passage to Rothera and on to Ellsworth
+    *   Wales needs passage to Rothera and on to Paddington
     *   Comes across as possibly a con man
     *   Uncle Jack isn't interested in passengers who can't pay, but Wales has a phone
     *   "Keyed to me - some Germans seem to want to find out if it'll work with just one thumb, connected or not"
@@ -116,7 +151,7 @@ Chapters
     *   Wales knows how to get in - "I'm older than I look" (which Dr. Johel confirms)
         *   When pressed for details, Wales shrugs: "Some kind of tweaking, I guess.  My parents didn't live long enough to tell me the details."
     *   Need to move quickly: the Dutch know something is going on (Wales had a traveling companion)
-    *   Decision: sent two ships down to Ellsworth, march inland ("I'll just hike," says Wales mildly)
+    *   Decision: sent two ships down to Paddington, march inland ("I'll just hike," says Wales mildly)
     *   The _Guinevere_ is to carry soldiers because it's big enough, and because the Governor doesn't know what the crew knows, and doesn't want them talking
     *   "Other choice is to make sure you can't talk"
     *   Wales will travel on another ship with Dr. Johel, who works for the Governor
@@ -142,7 +177,7 @@ Chapters
     *   Honesty: "Following Major Mackles and some crazy man to the middle of nowhere"
 
 7.  At Sea
-    *   Plan: sail to Ellsworth, train up past Mount Tyree, drive across from the mining camp to the hidden base
+    *   Plan: sail to Paddington, train up past Mount Tyree, drive across from the mining camp to the hidden base
     *   Down the coast past the jelly fishers and the little sonar boats out listening for bubbles
     *   Wales: clathrate bubbles feed the microorganisms the jellies eat, which is why the best jellying is where the worst bubbles are
     *   "Used to be fish here, and penguins and seals and whales.  The world shouldn't be like this..."  Meaningful scowl from Jasmine
@@ -156,8 +191,8 @@ Chapters
     *   And she always insists on clearing those plates and dumping that garbage
     *   A scene with Honesty: awkward teenage romance, he's self-conscious because of his buddies, talk about the mission turns to talk of politics, they fight
 
-8.  Newcastle
-    *   They reach Newcastle
+8.  Paddington
+    *   They reach Paddington
     *   As dirty as Rothera was smelly, dominated by the huge mulcher machines that have been idle for decades
     *   Train isn't ready: Mackles is angry, orders it cleared, local officer says, "Yes sir," but insolent
     *   Wales speculates (half-joking) that the universe is trying to stop him from getting to his destination
@@ -169,7 +204,7 @@ Chapters
     *   Soldiers loyal to the Governor tried to arrest Mackles and Johel
     *   Honesty: "I don't know what to do" (his immediate commanding officer is on the Governor's side)
     *   Wales to Mackles: "I had a look at the train - it's ready to go"
-    *   They escape to the train and roar out of Newcastle, but Honesty and Wales are injured
+    *   They escape to the train and roar out of Paddington, but Honesty and Wales are injured
 
 9.  By Train
     *   Can't say they raced through the night, since it was always afternoon, but that's what it felt like
@@ -216,7 +251,7 @@ Chapters
     *   Big explosion
 
 14. Every Way Is North
-    *   Iffy returns to Newcastle
+    *   Iffy returns to Paddington
     *   The _Guinevere_ seems so small and dirty now - Uncle Jack sitting in the stern, lost
         *   Iffy: "I'm just going to get my stuff"
         *   Uncle Jack starts to bluster, she scares him off

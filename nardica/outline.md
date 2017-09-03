@@ -2,10 +2,30 @@ Nardica
 =======
 
 - what happens in the market?
-  - need a better scene here than "he fries his own brain"
-  - needs to try to escape with Naggie and Iffy ("a pleasure to finally meet you")
-  - he puts on a bulky cap, telling Aunt Naggie it's just in case
-  - Iffy has to do something here to make a difference to show her growing agency in her own life
+  - Iffy gets some tech from Honesty's fathers who are worried about her because of the attack on the governor's mansion
+    - anti-core leftovers from the war
+  - Iffy goes to find her aunt
+  - Dance Hall market is a elsy - a Limited Surveillance Zone
+  - talking intently with a dark-haired man at an herbs and spices stall
+  - he looks Zillion
+  - they hold hands - Iffy realizes they are more than just business
+  - can't hear what they say, but he closes up his stall and they walk together toward the back of the market
+  - embarrassed, Iffy pulls out the tech she was given to pass the time
+    - realizes that there are tiny drones overhead
+  - she warns Naggie and Dark Hair
+    - Naggie is flustered
+  - Dark Hair says he's glad to finally meet Iffy
+    - with a shock she realizes that he has her features
+  - nearby stall-holder tells Dark Hair that there are Marines in the SFZ
+    - "Tha think uz gunnin' long by a gov'nor day gone by"
+    - "Ya best fra long away cong mang"
+  - Dark Hair: "too late for that"
+  - Iffy: "No it isn't" suddenly sure that she can knock out the micro-drones before there's enough of them to form a clear image
+  - Dark Hair pulls a bulky cap out of his pocket and puts it on
+    - tells Aunt Naggie it's just in case
+  - Iffy and Aunt Naggie hurry away as inducted shoppers converge
+  - make it tense
+  - video later of the terrorist spy wiping his own memory
 - make the Zillion chase scene bigger and riskier (need more adventure)
   - Iffy has to do something that helps
   - first reveal of her emerging abilities

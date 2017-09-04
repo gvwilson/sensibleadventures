@@ -1,6 +1,6 @@
 <!-- start: 2017-04-22 -->
 <!-- target: 60000 -->
-<!-- deadline: 2017-12-01 -->
+<!-- deadline: 2017-12-15 -->
 # Nardica<br>by Greg Wilson
 
 ## Chapter 1
@@ -11,68 +11,67 @@ because it wasn't really a dream.
 She was on deck.
 The sky was a perfect blue bowl overhead,
 summer cold instead of winter freezing.
-Her mother and father were stuffing her into the salvaged ecosuit
+Third and Second were stuffing her into the salvaged ecosuit
 that had cost them half a catch.
-"Just in case, love," her mother said,
+"Just in case, love," Third said,
 forcing a smile but unable to keep the fear out of her voice.
+She kissed Iffy's forehead and slipped her favorite book into the suit.
 "Just in case."*
 
 *The ship's horn blared another warning.
 Iffy jumped and started crying.
-She was only half awake---her parents had pulled her out of her cost
+She was only half awake---the olders had pulled her out of her cot
 just a few minutes before.
-Her mother hugged her,
-but her father pulled her away.
-"There isn't time," he snapped
+Third hugged her,
+but Second pulled her away.
+"There isn't time," she snapped
 as two of the crew ran past them toward the stern.
-At the time she thought he was angry at her for something.
-She realized years later that he was scared.*
+At the time she thought Second was angry at her for something.
+Years later,
+she realized that her older wasn't angry but afraid.*
 
-*"She's boiling!" a crewman shouted from the crow's nest.
+*"She's boiling!" Fourth shouted from the crow's nest.
 "Two points to starboard!"*
 
-*Iffy's mother sealed the last flap on the ecosuit.
-This time her father didn't try to stop her when she hugged her daughter.
+*Third sealed the last flap on the ecosuit.
+This time Second didn't try to stop her when she wrapped her arms around Iffy.
 "I love you so much," she said in Iffy's ear.*
 
 *"I love you too," Iffy replied automatically.
 The bulky suit made it difficult for her to bend her arms,
 but she tried anyway.
-Her father knelt down and put his arms around them both.
-He smelled like engine oil and the soap he always used when he shaved.
-That was Iffy remembered most clearly later,
-when she had trouble remembering what his face had looked like.*
+Second knelt down and put her arms around them both.
+She smelled like engine oil and the soap she always used when she shaved her head.
+That was Iffy remembered later,
+when she had trouble remembering Second's face.*
 
-*The ship heeled hard as the captain tried to steer them away
+*The ship heeled hard as First tried to steer them away
 from the seething mass of bubbles ahead.
-"She's going to blow!" the crewman shouted.
+"She's going to blow!" Fourth shouted.
 The ship's horn blared one last time,
 and then all Iffy could hear was a rushing sound
 that seemed to come from all around her.
 Sobbing,
-her mother closed the faceplate on the ecosuit.*
+Third closed the faceplate on the ecosuit.*
 
-*Without warning,
-the ship staggered and dropped two meters.
+*The ship staggered and dropped two meters.
 Iffy screamed as she fell back to the deck.
-Her parents landed beside her.
+Second and Third hit the deck beside her.
 A great frothing wash of sea water crashed down on top of them.
-She screamed again as it dragged her mother and father
-back against the metal railing.
+She screamed again as it dragged her olders against the metal railing.
 They grabbed for it,
 but then the ship plummeted again
 as the gas bubbles rising from the ocean floor below
 churned the water into foam.
 The last thing Iffy saw before she went under
-was the crewman who had been in the crow's nest
-flying through the air,
-his arms and legs flapping like broken wings
+was Fourth flying through the air,
+her arms and legs flapping like broken wings
 against the perfect blue sky.*
 
 *Her dream stopped then, just like it always did.
-She didn't remember being fished out of the water a day later
-by one of the jelly fleet's luckier ships.
-Its crew said it was a miracle she had survived.
+She didn't remember being fished out of the frigid Antarctic water a day later
+in the net of a passing jelly fisher.
+Aunt Naggie told her it was a miracle she had survived.
 The ecosuit was a hundred years old,
 maybe more,
 but every seal had held.
@@ -80,16 +79,32 @@ It had kept her warm while the thumb-sized motors in the arms and legs
 kept her clear of the after-bubbles
 that would have swallowed a lifeboat.*
 
-*Her Uncle Jack sold it almost as soon as she was back in Rothera.
+*It was a miracle that she survived,
+but even more of a miracle that she was allowed to stay on the ship that found her.
+The man she learned to call Uncle Jack didn't like children.
+Or animals.
+Or foreigners or the governor or the people who bought his catch
+or the ones who sold him supplies
+or passers-by who looked at him the wrong way
+or didn't have the decency to look at him at all.
+He would have dumped her on the dock and walked away.
+The fishing families and docksiders in Rothera never understood why he didn't,
+and wouldn't have believe that his meek, hesitant wife
+had put her hands on her hips and told him in a cold, flat voice
+that the child was staying or she was leaving,
+which was it going to be?*
+
+*Uncle Jack sold the suit almost as soon as she was back in Rothera.
 "You're going to outgrow it anyway,"
 her Uncle Jack said impatiently over her tearful protests.
 "Gotta pay for your keep somehow 'til you're old enough to earn your way."
-He sold the rest of her parents' belongings too,
-everything except her favorite book.
-It had been her mother's,
-and her grandmother's before that,
+He would have sold Second's book,
+too,
+if Aunt Naggie hadn't misplaced it until he forgot about it.
+It had belong to Second when she was little,
+and to her older before that,
 all the way to back when there were still whales and tigers and giraffes.
-She read a few pages every night,
+Iffy read a few pages every night,
 no matter how tired she was from chores.
 She drew the pictures from memory on her tablet at school,
 and on those rare occasions when Uncle Jack was away
@@ -103,7 +118,7 @@ whenever someone expressed even a hint of doubt.
 "Real as gulls and jellies!"
 Real as being hungry and lonely,
 she sometimes added to herself as she grew older.
-Real as being smart with machines and tech like her mother and father had been
+Real as being smart with machines and tech like her olders had been
 before the frozen southern ocean took them away.*
 
 Iffy woke to Aunt Naggie banging around in the galley.
@@ -1612,8 +1627,8 @@ until she couldn't remember why they shouldn't.
 
 *She was on deck.
 The sky was a perfect blue,
-and her mother and father were stuffing her into her ecosuit.
-"Just in case, love," her mother said,
+and her olders were stuffing her into her ecosuit.
+"Just in case, love," Second said,
 forcing a smile.*
 
 *But when the ship's horn blared it wasn't a horn at all
@@ -1856,8 +1871,8 @@ just like she enjoyed those precious moments
 when Mr. Mishra turned something she'd made over and over in his hands
 and pronounced it well done,
 or when Uncle Jack was sound asleep
-and Aunt Naggie told her stories about when she and Iffy's mother had been little girls in Tasmania
-before the war.
+and Aunt Naggie told her stories about growing up in Tasmania
+in the years just after the war.
 
 Wales seemed to enjoy the work as well,
 right up until the moment he helped Iffy lift the cover off the backup generator
@@ -1983,7 +1998,7 @@ then slipped into the converted storage locker
 that was the only place in the world she could truly call her own.
 Taken by a sudden restlessness,
 she spent five furious minutes rearranging her meager possessions
-before flopping down on her bed and pulling out her mother's nature book.
+before flopping down on her bed and pulling out her older's nature book.
 The giraffe, the tiger, the wolf with her sad, intelligent eyes...
 She slammed the book closed,
 tucked it under her pillow,
@@ -3687,7 +3702,7 @@ After a couple of unsuccessful attempts to oust the squatters and refugees who t
 the governor of the time had thrown up her hands
 and let anyone who could pay two rand a month set up a stall.
 Still known as the Dance Hall,
-it reminded Iffy of nothing so much as the animated picture of an anthill in her mother's nature book.
+it reminded Iffy of nothing so much as the animated picture of an anthill in her older's nature book.
 
 Aunt Naggie tapped her money card on the reader held out by the bored guard at the door
 to pay her ten pence admission fee
@@ -4436,7 +4451,7 @@ What was happening to her?
 
 ## Chapter 6
 
-Iffy had spent hours gazing at the pictures in her mother's nature book
+Iffy had spent hours gazing at the pictures in her older's nature book
 that showed blue tropical oceans full of fish and coral
 and even on one page an octopus that changed color when she touched it.
 The ocean that the *Guinevere* and the *Bengal* sailed through

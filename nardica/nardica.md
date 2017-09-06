@@ -11,8 +11,8 @@ because it wasn't really a dream.
 She was on deck.
 The sky was a perfect blue bowl overhead,
 summer cold instead of winter freezing.
-Third and Second were stuffing her into the salvaged ecosuit
-that had cost them half a catch.
+Second and Third were stuffing her into the salvaged ecosuit
+that had cost them as much as their jelly dredging nets.
 "Just in case, love," Third said,
 forcing a smile but unable to keep the fear out of her voice.
 She kissed Iffy's forehead and slipped her favorite book into the suit.
@@ -70,7 +70,7 @@ against the perfect blue sky.*
 
 *Her dream stopped then, just like it always did.
 She didn't remember being fished out of the frigid Antarctic water a day later
-in the net of a passing jelly fisher.
+in the net of a passing jelly dredger.
 Aunt Naggie told her it was a miracle she had survived.
 The ecosuit was a hundred years old,
 maybe more,
@@ -125,9 +125,10 @@ Iffy woke to Aunt Naggie banging around in the galley.
 She lay in her narrow cot for one final precious warm moment
 before pushing aside the salvaged sleeping bag she used as a cover
 and pulling on a second layer of clothes.
-That banging was her aunt's way of letting Iffy know that Uncle Jack was awake.
+That banging was her foster mother's way of letting Iffy know that Uncle Jack was awake.
 If she knew what was good for her,
-she'd be in the galley doing something useful before he got there.
+she'd be up on deck doing something useful before he stumbled out into the light
+looking for something or someone to yell at.
 
 She tucked her nature book under the cot's foam slab mattress,
 dragged her fingers through her unwashed hair,
@@ -136,8 +137,8 @@ that had been her cabin for the past eight years.
 As she climbed out of the hold onto the *Guinevere*'s deck,
 the sights and sounds and smells of Halley harbor crashed down on her
 like the waves in her nightmare.
-She stopped for a moment to let her eyes adjust.
 
+She stopped for a moment to let her eyes adjust to the light.
 To seaward lay the broken hulk of the carrier
 that had driven itself aground a century before
 to create a seawall.
@@ -145,22 +146,28 @@ Dozens of ships and boats bobbed gently up and down in its lee.
 Some were as old as the carrier,
 patched and re-patched over the years to stay seaworthy.
 Others were newly built,
-solid Aussie steel with motors like the *Guinevere*
-or Zillion bamboo with masts and sails.
+Aussie foam steel with motors like the *Guinevere*
+or Zillion bamboo with bright kite sails furled around triple masts.
 Gulls wheeled overhead in their endless search for scraps,
-complaining to one another about the cold.
+complaining to one another about how cold the Antarctic summer was.
 
 The town watched the harbor like a grumpy old man watching children at play.
-Back when,
+Back before,
 Halley had been a research station where scientists studied
 the first warning signs of the big melt.
-The scientists moved their buildings onto the land when the ice disappeared,
+As the ice disappeared,
+they moved their buildings onto the land,
 adding more each year as first fishing boats and then jelly dredgers began to call in.
 Two thousand people now called Halley home,
-dredging in the summer and rendering the catch down for fuel and food in the winter
-or tending to the town's precious greenhouses.
+dredging during the summer blooms
+and rendering the catch down for fuel and fertilizer.
+When winter came,
+they tended to the town's precious greenhouses
+or sailed north to Taz or 'Tagonia
+to find whatever work might get them through the long dark
+to start the cycle again.
 
-Iffy shaded her eyes against the sharp sun.
+Iffy shaded her eyes against the sharp-edged sun.
 Further back from shore,
 where the land began to rise,
 stood a cluster of new buildings.
@@ -171,17 +178,18 @@ a machine shop.
 Shiploads of precious equipment had arrived throughout the spring
 and been hauled into it:
 forges and presses and a lathe with a spindle thicker than Iffy's leg
-and even a printer hauled south from Australia itself
+and even a proper industrial printer hauled all the way down from China-over-the-Sea
 in the hold of a destroyer.
-The whole town had turned out when it came into harbor,
+The whole town had turned out when the warship came into harbor,
 marvelling at its sleek, menacing profile and its stubby railguns.
 Iffy hadn't given it a second glance once its cargo came ashore.
-A printer, an actual printer---it could make anything.
+Once Halley's cores finished their months-long inspection and let it out of quarantine,
+a printer like that could make anything.
 
 *Almost anything,* she corrected herself as she studied the distant building,
 hoping for some sign of activity.
 Given power and powdered metal and the right plans,
-the printer could cast almost any shape imaginable.
+the printer could cast *almost* any shape imaginable.
 She had seen some of those shapes in drawings
 laid out on tables in Halley's one restaurant, three cafés, and six bars.
 She had studied them sidelong,
@@ -189,32 +197,44 @@ afraid of being noticed and told to go away,
 while serious men and women had argued weights and tolerances and expansion coefficients.
 The railroad they were going to build wouldn't be 'Nardica's first,
 but the locomotive would be the first designed and constructed on the southern continent.
-And more than anything in the world,
-Iffy wanted to be part of it.
 
-"Girl! Girl! Slag it, woman, where's that affing girl at now?"
-Iffy jumped at the sound of Uncle Jack's bellow in the galley below her.
+Iffy wanted to be part of it.
+More than anything in the world,
+she wanted to be part of it.
+But even more than that,
+she wanted to know why her head kept filling with pictures of things the printer *couldn't* make.
+Every time she thought too hard about the plans she had seen,
+strange shapes crowded in on her like waking dreams,
+fractal capacitors and ever-so-slightly irregular gears
+whose off-center spinning would automatically synchronize
+to reduce power loading---she had searched the jungle furtively for matches,
+or for clues that would tell her she was remembering things instead of making them up,
+but everything ended in "not found" or "restricted",
+and after three of those,
+she had stopped looking.
+
+"Girl! Girl! Slag it, wife, where at now dat affing girl?"
+Iffy jumped at Uncle Jack's bellow from the galley below her.
 He'd been out with his mates last night,
 which was Uncle Jack-speak for drinking more than he could handle
 and gambling more than he could afford to.
-Aunt Naggie somehow managed to pry enough out of his grasping hands
-(or, Iffy suspected, winkle enough out of his pockets while he was snoring)
+Aunt Naggie somehow managed to winkle enough out of his pockets while he was snoring
 to keep the *Guinevere* afloat,
-but it had been months since they'd had fresh fruit,
+but it had been weeks since they'd had fresh fruit,
 and she couldn't remember the last time there'd even been mention of new clothes
 or replacing the tired little boat's frayed dredging nets.
 
 "Girl!" Uncle Jack shouted again.
-"Get your affing tail down here *now* or saints help me you won't sit for a *week*!"
-She heard a meaty *bang!* as he slapped the galley table with his good hand.
+"Get down here *now* your affing tail or saints help me you won't sit fra *week*!"
+She heard a meaty *bang!* as he slapped the galley table with his hand.
 
-With one last longing look at the machine shop,
+With one last longing look at the distant machine shop,
 Iffy undogged the hatch beside her and yanked it open.
 "Here, captain," she said over the scrape and squeal of rusty hinges.
 "I was just---"
 
-"You were just lying about like some fairy tale princess,
-and don't try to tell me otherways!"
+"You just lying about alike some fairy tale princess,
+and don't try tell me otherways!"
 Her uncle glared up at her,
 squinting as the bright sky framing her head assaulted his hungover eyes.
 There was a bruise on his forehead that hadn't been there the evening before,
@@ -224,26 +244,27 @@ He'd rave on for an hour if they came
 about how the mayor was just another rock-hogging idiot
 who would sell them all out to the Euros or the Zillions
 as soon as she could get a decent price,
-but it would be worth it.
+then repeat the rant to Aunt Naggie word for word.
 
 "Your eggs'll be ready in a mo," Aunt Naggie said hurriedly
 just as Uncle Jack was about to unleash another bellow.
 "Do you want a bit of curry on them?
 I think I have a some---
 No, wait, not there..."
-She rattled through the little glass jars that sat,
-each one in its proper place,
-on the shelf beside the galley's double-burner stove.
+She rattled through the little glass jars
+that sat on the shelf beside the galley's little two-loop stove,
+each one in its proper place.
 
 "Affing right I want curry," he grumbled,
-picking up one of the flat bowls they all used as plates
-and handing it to his wife.
-Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
+collapsing onto a fold-up chair that squeaked under his weight.
 
+Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
 With a tilt of her frying pan and a single practiced flip of her spatula,
-Aunt Naggie slid two perfectly friend eggs into Uncle Jack's bowl.
-Without even a grunt of thanks,
-he took the last flatbread from the table and disappeared back into the cabin.
+Aunt Naggie slid two perfectly fried eggs into Uncle Jack's bowl.
+Without so much as a grunt in her direction,
+he picked up the basket of naan in the center of table with one hand
+and his plate with the other
+and disappeared back into his cabin.
 Iffy heard glass clink and something gurgle out of a bottle,
 and then the door closed.
 
@@ -252,51 +273,58 @@ Aunt Naggie let out the breath she'd been holding before looking up at her niece
 
 "Not really," Iffy lied.
 
-"Mm.  Here."
-Her aunt pulled a hard-boiled egg out of the pocket of her apron
-and tossed it up through the hatch.
-Iffy snagged it one-handed.
-It was almost as big as her fist,
-and still warm.
-"Once you're done with that,
-you'd best be on that winch cable he's after having tightened."
-She sighed,
+"Course not.
+Here."
+She pulled a hard-boiled egg out of the pocket of her apron
+and tossed it up through the hatch for Iffy to catch one-handed.
+"And here, this too."
+A piece of perfectly-browned naan,
+still warm and slightly sticky with oil,
+appeared out of another pocket in Aunt Naggie's apron.
+
+"Thanks auntie,"
+Iffy said gratefully.
+"You already et?"
+
+"First thing,"
+Aunt Naggie said,
+lying in turn.
+She smiled up at her foster daughter,
 kneading the small of her back with one hand.
-"And he says the knock in the engine is back.
-Best be having a look at that too before it starts to bother him."
+"But once you're done with that,
+you'd best be on that winch cable he's after having tightened.
+And he says the knock in the engine is back.
+Best have a look at that too before it starts to bother him."
 
 "I know what that is,"
-Iffy said hurriedly.
+Iffy said around a mouthful of warm naan.
 "The reciprocating rod's bent again.
 Mister Mishra will straighten it out if I take it in before he gets busy.
 It won't cost anything,"
 she added hastily as her aunt opened her mouth to object.
 "Not if I do a couple of odd jobs for him."
 
-The corner of her aunt's mouth twitched
-with what might have turned into an actual smile
-once upon a time.
-"Well then, best get to it.
+Aunt Naggie nodded.
+"Well, best get to it then.
 And stop in at Sandhu's and see what they want for eggs,"
 she added as Iffy straightened up.
 "Those were our last ones.
-I'll let your uncle know once he's..."
+I'll tell Jack you're off doing chores once he's..."
 She finished the sentence with a shrug.
 
 "Thanks auntie,"
 Iffy said gratefully.
 She closed the hatch and hurried aft as quietly as she could,
-praying that the sound of her boots on the deck wouldn't rouse her uncle.
+praying that the sound of her boots on the deck wouldn't rouse her foster father.
 
 The ship's toolbox was tucked under a bench near the stern.
 She dragged it out onto the deck,
 then reached behind it to grab the bag that held *her* tools,
 the ones she had salvaged and mended
-or been given in return for doing odd jobs
-for people around the harbor who remembered her parents.
+or been given in return for doing odd jobs for people around the harbor.
 She pushed the toolbox back into place and slung her toolbag over her shoulder,
 tucking the bent reciprocating rod into it and snugging the drawstring tight.
-Three quick steps and a practiced leap took her over the railing onto the pier.
+Three quick steps and a one-handed vault took her over the railing onto the pier.
 As she raced toward shore,
 she felt the weight of life on the *Guinevere* lift from her shoulders.
 

@@ -1,6 +1,8 @@
 Nardica
 =======
 
+- call the internet "the jungle" - Wales comments that it's the only one left
+
 - what happens in the market?
   - Iffy gets some tech from Honesty's fathers who are worried about her because of the attack on the governor's mansion
     - anti-core leftovers from the war

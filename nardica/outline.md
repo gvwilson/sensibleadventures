@@ -2,6 +2,9 @@ Nardica
 =======
 
 - call the internet "the jungle" - Wales comments that it's the only one left
+- someone blows up the new machine shop
+  - everyone blames the Zillions trying to stop the coal mining
+  - discover later that it was Wales trying to make the governor believe he needed the satellites
 
 - what happens in the market?
   - Iffy gets some tech from Honesty's fathers who are worried about her because of the attack on the governor's mansion

@@ -318,8 +318,10 @@ She closed the hatch and hurried aft as quietly as she could,
 praying that the sound of her boots on the deck wouldn't rouse her foster father.
 
 The ship's toolbox was tucked under a bench near the stern.
-She dragged it out onto the deck,
-then reached behind it to grab the bag that held *her* tools,
+Its meager collection of items too essential to the ship for Uncle Jack to sell
+rattled as she dragg it out onto the deck.
+After a furtive glance to make sure he wasn't standing behind her,
+she reached behind it to grab the bag that held *her* tools,
 the ones she had salvaged and mended
 or been given in return for doing odd jobs for people around the harbor.
 She pushed the toolbox back into place and slung her toolbag over her shoulder,
@@ -335,10 +337,10 @@ they had hung off the piers months before.
 The tweaked barnacles' shells glittered with tiny particles of metal
 they had filtered out of the water.
 Ground down and incinerated,
-the day's haul would be a few specks of copper or manganese
-that could patch some piece of tech to keep it limping along for another season.
+the day's haul would be a few grams of copper or manganese
+that could keep some old piece of tech limping along for another season.
 One of the women raised a hand in greeting as Iffy went by,
-but neither stopped working.
+but neither said hello or stopped working.
 
 The three teens arguing over
 how they were going to hang up a jelly dredging net so that they could mend it
@@ -350,23 +352,29 @@ and she was a sole survivor.
 People didn't look at her sidelong as often as they once had,
 but on those rare occasions when she could sit and drink a cup of tea
 in one of Halley's cafés,
-she usually had empty chairs on either side of her.
+she made sure to sit in the corner and keep her head down.
+Her dark skin and kinky black hair didn't help matters---Aunt Naggie
+had never found out who her parents were,
+but more than once,
+she had heard people mutter about how Zillions shouldn't be allowed to wander around town
+without a leash.
 
-Mishra & Co occupied one half of a long shed.
+Mishra & Co occupied one half of a long shed
+that looked (and sometimes smelled) like the oldest building in Halley.
 The big sliding door along the side wasn't open yet,
 so Iffy banged on the smaller door cut into it.
 It scraped open on her third knock.
 
-"Hey Jeep," she said brightly to the scowling boy who opened it.
+"Hey Jeep," she said brightly to the scowling teenager who opened it.
 "Is your dad here?"
 She held up the bent reciprocating rod by way of explanation.
 
-"He's the back," the boy yawned,
+"'s the back," Jeep yawned,
 jerking his thumb over his shoulder
 and making just enough room for Iffy to squeeze past him.
 
 The inside of the shed smelled like fish, hot metal, and coal.
-Mis-matched squares of light hung from the ceiling.
+Mis-matched squares of light hung on hair-thin fibers from the ceiling.
 The shadows they cast made the compact machines
 and carefully sorted shelves of scrap on the shop floor
 look like battlebots from old movies.
@@ -376,18 +384,18 @@ All she saw now was what they could be turned into.
 Sanjay Mishra was sharpening his fingers on a grinding wheel
 in the center of the shop.
 He nodded at Iffy
-but didn't try to speak until the last sparks had flown off his fingertips
+but didn't try to speak until the last sparks had flown off his steel nails
 and the grinding wheel had come to a halt.
 Pulling his safety goggles up onto his forehead,
-he tugged his real fingers through the tangles in his beard reflectively.
-"Buy, sell, or trade?" he finally asked.
+he tugged the calloused fingers of his other hand through the tangles in his beard.
+"Buy, sell, or trade?" he asked.
 
 Iffy cleared her throat.
 "Trade."
 She held up the bent reciprocating rod.
 "Tangled some flotsam coming in last night.
 The engine over-spun before I could get to it.
-There's no cracks or nothing,"
+There's no cracks or nothin',"
 she added hastily,
 handing the piece to him.
 "Just needs re-bent and annealed."
@@ -405,18 +413,20 @@ He handed the rod back to her.
 "What she needs is replacing."
 
 The tension eased out of Iffy's shoulders.
-Mr. Mishra didn't bargain unless he'd already mostly decided to do something.
+Mr. Mishra didn't bargain unless he'd already decided that he was going to say 'yes'.
 Now it was just a matter of price.
 
 In the end,
 the straightened rod cost her half an hour of sorting scraps for smelting.
 It wasn't the machine work she'd hoped for,
 but she had learned that if she timed her questions right,
-he would take a few minutes to show her how to dog the belaying plate on the laser drill just so,
+he would take a minute here and there
+to show her how to dog the belaying plate on the laser drill just so,
 or how to line up the gatling hammers
 to rat-a-tat-tat a piece of sheet metal into a graceful springy curve.
 She was careful not to stare at the burn scar where his left ear should have been
-or at the spidery piece of tech attached to his left arm.
+or at the fractal spider's web of articulated metal
+that he wore in place of his left arm.
 She was equally careful not to look up when his son Jeep came,
 scowling as always,
 to say that lunch was ready
@@ -436,14 +446,14 @@ Mr. Mishra ran his fingers through his beard again.
 
 "It'll do me fine."
 Iffy nodded toward the laser drill as casually as she could.
-"You mind I try a couple of pieces while you're out?"
+"You mind I try a couple o' pieces while you're out?"
 
-Mr. Mishra was shaking his head before she even finished speaking.
+Mr. Mishra shook his head.
 "Nuh uh, girl.
 Nobody touches my darling without I'm there to watch."
 Metal fingers tapped the tabletop next to him.
 "You break that,
-nearest parts are long away 'Mundsen,
+nearest parts are long away Amundsen,
 and nearest after that are all the way up to Taz."
 
 "Aright," Iffy said,
@@ -456,8 +466,8 @@ I'll just drill some scrap---you can count it all in and out to make sure."
 
 Mr. Mishra chuckled.
 "No worry about the scrap, girl.
-And no worry about paid word.
-If you've found some of that hereabouts that I han't heard of,
+And no worry about gettin' paid.
+If you've found cash work hereabouts that I han't heard of,
 more power to you."
 He rolled his head to loosen the kinks in his neck,
 then jerked his chin at the cabinet behind her.
@@ -470,15 +480,24 @@ before Mr. Mishra reached the door.
 Drilling holes wasn't hard---she'd learned how to do that long ago.
 The hard part was drilling them in the right place.
 After picking up and discarding half a dozen pieces of scrap,
-she found one that was just bent enough to be a challenge.
+she found one that was bent enough to be a challenge.
 The first hole only took a minute.
 It then took her another fifteen minutes to measure, mark, measure again,
 swear under her breath,
 find another pair of calipers in the chaos that was the top of Mr. Mishra's toolbench,
 chock the piece,
-re-set it,
-and slowly, evenly, bring the spinning drillbit down until it just barely kissed the metal and---
+measure the hole a second time,
+and re-align the piece juuuuust a little.
+A bot could have done the whole thing in less time than it would have taken Iffy to sneeze,
+but bots could be hacked,
+or infected with mutated malware left over from the war.
+"You want it done fast, get a bot,"
+Mr. Mishra always said.
+"You want it done *right*, you get me."
 
+Slowly,
+steadily,
+Iffy brought the spinning drillbit down until it just barely kissed the metal and---
 "What are you still doing here?"
 She jumped and spun around.
 Jeep was leaning against a set of shelves,
@@ -500,7 +519,7 @@ and she had nothing to be nervous about.
 
 "Uh huh.  What about your uncle?"
 Jeep straightened up.
-"Bet he doesn't know how you're wasting your time."
+"Bet he doesn't know how you're wastin' your time."
 
 "None of your business what my uncle knows and doesn't,"
 Iffy said hotly.
@@ -524,11 +543,11 @@ then took the calipers from the work tray on the side of the drill
 and slapped them back onto the bench.
 "Gimme a sec and I'll sweep up the shavings too,
 just so you can be sure you got everything."
+
 Without waiting for answer
 she pulled the goggles off her face
 and grabbed the old broom that stood next to a broken sonic press
 like a forgotten sentry.
-
 Jeep watched her sweep,
 resentment and something that might have been embarrassment written on his face.
 "You missed a bit,"
@@ -549,23 +568,33 @@ he'd shrugged the one time she had asked him why.
 "Well, up along 'Mundsen don't help us here," she'd retorted.
 "And anyway, how would you know what they got along there?
 You never ever been so far as Rothera."
-He'd scowled at that like he scowled at everything,
-but hadn't answered.
+He'd scowled at that like he scowled at everything
+and stalked away to lose himself in yet another game.
+
+It had been a year since Jeep's induction into the Marines.
+Iffy missed the bashful sixteen-year-old he had been,
+who loved to help his mother make curry
+and stammered every time a pretty boy spoke to him.
+"He'll come back eventually,"
+Mr. Mishra said the one time Iffy dared broach the subject,
+his tone making it clear that she shouldn't bring it up again.
+"It just takes some longer to find their way home than others."
 
 The sky was exactly as bright as it had been an hour earlier when Iffy stepped outside,
-the straightened reciprocating rod safely in an inside pocket of her coat.
+the straightened reciprocating rod safely stowed inside her coat.
 She peeled her egg as she hurried up the street toward the grocery store,
 trying not to get grease from her fingers onto it as she devoured the rubbery white flesh
 and the warm yellow-brown yolk.
-A few people smiled and nodded hello as she went past.
+A couple of Aunt Naggie's friends smiled or waved as she went by.
 She nodded back,
 ignoring the others who sighed or shook their heads
-at the sight of yet another half-wild dredger child roaming the town.
+at the sight of a half-wild dredger child inland from
+the invisible line that separated the docks from the rest of town.
 
 Sandhu's grocery store was out of eggs.
 They had onions,
 though,
-and a whole case of dried green peppers that had come in from somewhere left vaguely unspecified.
+and a whole case of dried green peppers that had come in from somewhere unspecified.
 Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed paper.
 "For your beautiful aunt,"
 she said over Iffy's protests,
@@ -577,11 +606,10 @@ Big Mrs. Sandhu snorted just as *she* always did.
 "You should take your little presents yourself," she scolded.
 
 Her wife smiled.
-"*La,* but where would be the mystery in that?"
+"*La,* but where would be the romance in that?"
 
 Big Mrs. Sandhu snorted again.
-"You just don't don't want any of your special friends in the harbor to realize
-how big others you have."
+"You just don't want any of your special friends in the harbor to know about one another."
 
 Whatever Little Mrs. Sandhu might have said next was cut short by
 the jingling of the little bell on the store's front door.
@@ -593,9 +621,9 @@ He wasn't much taller than Iffy,
 but three of her could have stood side by side in the span of his shoulders.
 Strong white teeth gleamed against his black skin as he smiled,
 and the small silvery rectangle of tech set into his temple
-made him look like he had stepped out of one of the action movies
-that the two Mrs. Sandhus and their friends rented
-to customers they particularly liked.
+made him look like he had stepped out of one of the action games
+that the two Mrs. Sandhus and their friends discussed endlessly
+with customers they particularly liked.
 
 "Good morning, *sri*," Big Mrs. Sandhu said,
 bowing her head slightly.
@@ -613,12 +641,12 @@ hadn't done much more than swear at Mr. Mishra
 when he wouldn't take a sermon and a blessing in trade
 for fixing their broken propeller.
 
-"The advice is free,"
-Little Mrs. Sandhu simpered,,
+"Advice is always free here,"
+Little Mrs. Sandhu simpered,
 wiping her hands on her apron.
 Big Mrs. Sandhu looked sidelong at Iffy and rolled her eyes.
 Iffy bit back a laugh---Little Mrs. Sandhu's flirting was as famous in Halley
-as her curries and her bargaining skills.
+as her curries and her hard bargaining.
 
 "Excellent,"
 the square man said.
@@ -630,26 +658,27 @@ He spread his hands apologetically.
 "It seems that my luggage went missing in transit."
 
 "Oh you poor *cho*,"
-Little Mrs. Sandhu clucked
-as Big Mrs. Sandhu shook her head.
+Little Mrs. Sandhu clucked.
 
+Big Mrs. Sandhu shook her head.
 "The *Taroona*'s crew are a pack of thieves,"
 she said flatly.
 "And worse, I've heard.
-You're lucky if all they nicked was your bags."
+You're lucky if all they nicked was your bags and not your kidneys."
 
 The square man sighed.
-"Perhaps, but I have to say, I don't feel particularly lucky.
+"Maybeso,
+but I confess that I don't feel particularly lucky.
 I was hoping to set myself up down here,
 but without my tools..."
 He shrugged sadly.
 
 "What kind of tools?" Iffy asked.
 She had been about to slip away---as entertaining as it would have been
-to listen to some hard-luck try to con the Mrs. Sandhus,
+to listen to some hard-luck drifter try to con the Mrs. Sandhus,
 her uncle would almost certainly be awake and bellowing for her,
 and she didn't want to leave Aunt Naggie to deal with his ire on her own.
-But just the chance that he might be telling the truth was worth a few more seconds.
+But tools---that was worth a few extra seconds.
 
 The square man grimaced.
 "A couple of half-mil waldoes,
@@ -659,7 +688,7 @@ a fractal de-ionizer for cleaning up old chips,
 and a---"
 
 "There's no such thing as a fractal de-ionizer,"
-Iffy said scornfully.
+Iffy cut in scornfully.
 
 The square man blinked.
 "Sure there is.
@@ -674,18 +703,18 @@ Iffy frowned.
 the square man admitted.
 "You have to recalibrate the impedance every once in a while
 so that it doesn't overheat,
-but it'll run for years if you take care of it."
+but if you keep a cryo bath handy as a heat sink..."
 He cocked his head,
-and for a moment Iffy felt he was looking at her
-as if she was some strange new machine that he had to repair.
+looking at Iffy as if she was some strange new machine that he had to repair.
 
 "Well,
 if you two are done with your tech jabber,
 there's a couple of places I can point you to,"
 Big Mrs. Sandhu said briskly.
 "Can't promise they'll be as cheap as you want,
-but they're clean enough
-and you won't wake up in the middle of the night with your kidneys gone."
+but they're clean,
+and humans only,
+and you won't wake up in the middle of the night with any of your parts gone."
 
 "Thank you,"
 the square man said absently,

@@ -268,7 +268,7 @@ and disappeared back into his cabin.
 Iffy heard glass clink and something gurgle out of a bottle,
 and then the door closed.
 
-Aunt Naggie let out the breath she'd been holding before looking up at her niece.
+Aunt Naggie let out the breath she'd been holding before looking up at her foster daughter.
 "You hungry?" she asked.
 
 "Not really," Iffy lied.
@@ -571,7 +571,7 @@ Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed pa
 she said over Iffy's protests,
 just as she did every time she gave her something special for Aunt Naggie.
 "And here, take this too."
-She handed Iffy a small plastic jar with a screw-on lid.
+She handed Iffy a small plastic jar with a sealed lid half-full of dusky orange powder.
 
 Big Mrs. Sandhu snorted just as *she* always did.
 "You should take your little presents yourself," she scolded.
@@ -711,18 +711,19 @@ then put out her own hand to shake his.
 
 ## Chapter 2
 
-Iffy ran all the way back to the *Guinevere*,
-dodging around the people and machines going about their chores in Halley's narrow streets.
-"Attention! Attention!" scolded the ancient street sweeping bot that everyone called Frenchy
-as she squeezed between it and a rack of silvery roof moss left out to dry in the sun.
+Iffy ran all the way back to the docks,
+dodging around the people and bots going about their chores in Halley's narrow streets.
+"Gardez-vous! Gardez-vous!" scolded the ancient street sweeper that everyone called Frenchy
+as she squeezed between its rusty frame
+and a rack of solar roof moss left out to dry in the sun.
 
-The two old barnacle farmers she had seen earlier
+The barnacle farmers she had seen earlier
 were still bent over their work when she reached the pier.
 "How's yer haul?" she panted,
 stopping and putting her hands on her knees to catch her breath.
 
 "Not bad," one of the women said.
-She nudged a bucket full of ground-up barnacles with her boot.
+She nudged a bucket full of barnacles with her boot.
 "Pro'ly get thirty grams outta this when it's rendered down."
 Her smile showed more gaps than teeth.
 
@@ -736,16 +737,16 @@ Uncle Jack swore,
 a wrench in one hand and a screw cuff in the other.
 Iffy's heart sank.
 He was trying to fix the backstay cable she had mended while they were last out.
-It was a fiddlesome job at the best of times,
-and if he'd been drinking the night before...
+It was a fiddly job at the best of times,
+and if he had a hangover...
 
-Uncle Jack's face darkened as he spotted her.
-"Where'n hell you been, girl?" he demanded,
+The scowl on his face turned stormy as he caught sight of her.
+"Where'n hole you been long, girl?" he demanded.
 waving the wrench at her.
 "There's work as needs done!
 And don't give me any of your excuses!"
 he continued as Iffy opened her mouth.
-"You get your backside up here and earn your keep or so help me!"
+"You get up top with your backside and earn your keep or saints help me!"
 
 "But---"
 
@@ -753,16 +754,19 @@ he continued as Iffy opened her mouth.
 Heads turned on nearby ships as Uncle Jack's bellow echoed across the water.
 
 Ears burning,
-Iffy climbed the three-step ladder onto the deck.
-Her heart sank again at the mess waiting for her.
-Her uncle had sawed through the frayed ends of the backstay cable.
-There was no way it would be long enough now to weave back together.
+Iffy climbed the three steps onto the deck.
+Her heart sank a second time when she saw the mess waiting for her.
+Her uncle had undone the screw cuff holding the frayed cable together
+and cut the two ends back.
+There wasn't enough left to weave back together,
+not without shortening the cable by a meter.
 She would have to swap it for one of the forestay cables,
-which meant an hour at least of winding and unwinding.
+which meant an hour at least of unwinding and hauling and---
 
 Her uncle crossed his arms,
-tapping his wrench against his ribs.
-"Well?  Where've you been?"
+tapping his wrench against the sea-stained thermal vest
+that he had worn for as long as Iffy could remember.
+"Well?  Where at you been?"
 
 "Groceries,"
 Iffy said sullenly.
@@ -773,66 +777,66 @@ and held it out to him.
 Uncle Jack plucked it from her hand.
 "Don't see no groceries," he grumbled.
 
-"I'll mind those," Aunt Naggie said from behind Iffy,
+"I just asked her to get a couple of things," Aunt Naggie said from behind Iffy,
 sticking her head up through an open hatch
-like a turtle cautiously checking that the world outside its shell.
+like a turtle cautiously checking that the world outside its shell was safe.
 "Did they have eggs?"
 
-"Nope, but I got a piece of pepper."
+"Nope, but I got you a pepper."
 Iffy fished it and the onions she had bought out of her jacket's deep pockets
 and handed them to her aunt.
-"Oh, and she said to give you this too."
-She handed over the little jar.
+"Oh, and Little Mrs. Sandhu said to give you this."
+She handed over the little jar of orange powder.
 "What's in it?"
 
-"Stuff and things,"
+"Oh, it's her special curry powder,"
 Aunt Naggie said lightly,
 tucking the jar into her apron.
 "Now, did you get anything more to eat?
-I was going to make some noodles for Jack."
+I was going to make some noodles for lunch."
 
 "I'm fine,"
 Iffy lied,
-her stomach grumbling.
+trying to ignore the hungry knot in her stomach and almost succeeding.
 "But auntie,
-there was this man at the Sandhu's.
-He's a mechanic,
-a real one,
-'cept he come in on the *Taroona* and they upped his gear.
+there was this man at the Sandhu's,
+a mechanic come down to work in the machine shop,
+'cept he come in on the *Taroona* and they stole his gear.
 He was asking after a place to stay,
 and we got to talking,
 and he said that if he could get his tools back and find work and all,
 he might be looking for an apprentice."
 
-"An apprentice?
-Well, good for Jeep---and his dad, too.
+"An apprentice?"
+Aunt Naggie echoed.
+"Well, good for Jeep---and his dad, too.
 It'll do them both the world to get some time away from each other."
 
 "Not Jeep!"
-Iffy exclaimed in annoyance.
+Iffy exclaimed.
 "Me!  I could be his 'prentice!"
 The two Mrs. Sandhus had listened with bemusement
 as her conversation with Mr. Wales---"call me Johnson, please"---leaped
-from de-ionizers to micro-welding the cracked cases of old chips
+from de-ionizers
+to different techniques for micro-welding the cracked cases of old cores
 to the mended reciprocating rod that Iffy had taken out of her coat to show him.
 It wasn't until Big Mrs. Sandhu cleared her throat
 and suggested pointedly that the conversation might best be continued
 where they *wouldn't* be blocking her aisles
-that Iffy realized how much time had gone by.
+that Iffy had realized how much time had gone by.
 
 Uncle Jack's hand came down heavily on her shoulder.
-He spun her around to face him.
-"You're not going to be anyone's anything,"
+"You're not gonna be anyone's anything,"
 he growled,
 shaking her for emphasis.
-"Not 'til you've paid off every last rand you owe me."
+"Not 'til you've paid off every last rand you owe us
+for lookin' after you all this time."
 
-Something inside Iffy snapped.
-"Fair enough," she said coldly,
+Something snapped inside Iffy.
+"All right," she said coldly,
 knocking his arm away.
-"You show me the accounts so I can see just how much that is
-and I'll get to working on it.
-You tell me how much my food and bunk is,
+"How 'bout you an' me go ask the *Guinevere* to pull up the accounts
+so I can see just how much that is,
 and I'll tell you how much for my time keeping this twist of scrap afloat
 when you're too wrung out to do it yourself,
 and we'll see how long it is 'til I'm quit and clear!"
@@ -842,7 +846,7 @@ Uncle Jack roared,
 raising the heavy wrench he was holding like a club.
 
 "No!"
-Aunt Naggie scrambled onto deck and pulled Iffy away from her furious uncle.
+Aunt Naggie yanked Iffy back and stepped in front of her irate husband.
 "Jack, don't!
 She's just talking.
 She's not going anywhere."
@@ -862,80 +866,82 @@ a silent warning not to say anything.
 
 Uncle Jack stalked off,
 muttering under his breath.
-"You best come below and help me with the noodles,"
+"You come below and help me with the noodles,"
 Aunt Naggie said,
 shooing Iffy toward the open hatch.
-"That'll give him some time to calm down."
+"That'll give him time to calm down."
 
 "Yes auntie,"
 Iffy said,
 her voice only slightly shaky.
-Uncle Jack had never actually hit her---not really.
+Uncle Jack had never actually hit her---as simple-minded as the *Guinevere*'s core was,
+it would instantly report that to the Marines who doubled as Halley's police.
 But with each passing season,
 as the *Guinevere* slowly fell apart beneath them despite all of Iffy's hard work,
 his one-sided discussions of big deals and "if only"
-had turned into angry rants and sullen silences.
+had turned into angry tirades and sullen silences.
 She didn't know where she would go,
 and she couldn't bear the thought of leaving Aunt Naggie to face him alone,
 but Iffy knew that one day soon she was going to walk down the gangplank
 and never come back.
-
 One day, but not today.
 
-The *Guinevere*'s galley wasn't big enough for two people to work side by side,
-so Iffy sat at the little fold-down table
-and watched Aunt Naggie move with the efficiency of long practice.
+The *Guinevere*'s galley wasn't big enough for two people to do anything side by side
+except get in each other's way,
+so Iffy sat at its little fold-down table
+and watched Aunt Naggie work with the efficiency of long practice.
 Within minutes,
 two thinly-sliced onions sizzled in a battered ceramic frying pan
 while a pot of water came to the boil.
-A handful of ground mushrooms and a splash of soy sauce joined the onions,
-filling the air with a rich aroma that made Iffy's stomach growl again.
+A handful of diced mushrooms and a splash of soy sauce joined the onions,
+filling the air with a rich aroma that tightened the knot in Iffy's stomach.
 
-"You going to add a bit of the pepper?"
+"You going to add a bit o' the curry?"
 Iffy asked,
-turning a chopstick over and over in her hands.
+turning a pair of chopsticks over and over in her hands.
 
-"Best save that for some other day,"
+"That's for special occasions,"
 Aunt Naggie replied.
-She hefted a handful of noodles,
-added a few more,
-and dropped them into the pot.
+She dropped a thick handful of noodles into the pot,
+glanced at her foster daughter,
+and added a few more.
 
-Iffy put the chopstick back on the table and stretched.
-"What about the other stuff?
-That jar Mrs. Sandhu gave me?"
+Iffy put the chopstick back on the table.
+"When do we ever have special occasions?"
+she grumbled.
 
-Aunt Naggie froze for a moment,
-then resumed her stirring.
-"That's not for cooking, *cho*.
-It's for my headaches."
-She knocked bits of onion off her spatula into the frying pan
-and glanced over her shoulder at Iffy
-with a brittle smile on her face.
-"Best we don't mention it to your uncle, all right?"
+Aunt Naggie glanced over her shoulder at Iffy again and smiled.
+"Any time I cook for just the two of us is special for me,"
+she said fondly.
+She knocked bits of onion off her spatula into the frying pan.
+"But best we don't mention that to Uncle Jack, all right?"
 
-"Sure," Iffy said.
-Suddenly worried,
-she stood up and hugged her aunt from behind.
-"Everything aright?"
+"Sure," Iffy said,
+feeling a knot in her chest to match the one in her stomach.
+She stood up and hugged her aunt from behind.
+"You know I wouldn't just leave you, don't you?"
 
-Her aunt's shoulders slumped.
-She patted Iffy's arm with her free hand while stirring with the other.
-"Everything's fine, *cho*.
-It's just an old woman kind of thing.
-Nothing we girls need bother your uncle about.
-Now, give me a hand with the pot."
+Her aunt's shoulders slumped slightly.
+She moved the frying pan off the induction loop
+and turned around to wrap her arms around the young woman
+who had somehow grown so tall.
+"I know, *cho*," she said,
+kissing Iffy's shaved head.
+"But when your chance comes, you take it, aright?"
+She squeezed Iffy.
+"Now, gi's a hand with the pot."
 
 A few minutes later,
 Iffy sat down with her back against the wheelhouse door
 and a steaming bowl of noodles in her lap.
-She bowed her head and said a brief prayer for her parents,
+She bowed her head and said a brief prayer for the olders she could barely remember,
 then began scooping noodles into her mouth.
 Not even the sound of her uncle grumbling belowdecks
 that there ought to be some affing tofu in the noodles
-could spoil the warmth spreading from her knotted belly.
+could spoil the spicy sweet taste in her mouth
+or the slow fade of the knot in her belly.
 
-After the noodles were gone,
+When the noodles were gone
 she wiped the last drops of sauce out of the bowl with her thumb
 and licked it.
 The faint tang of machinery and oil from her unwashed hand barely registered.
@@ -943,25 +949,34 @@ She sighed.
 She would like nothing better than to close her eyes for a moment,
 or maybe a couple of hours,
 but the backstay cable *did* need mending,
-and she would bet her slightly-too-small boots that
-her uncle had left the engine in pieces for her to put back together.
+and it wasn't as if the engine was going to put itself back together---not on a ship
+as simple as the *Guinevere*.
+
 She patted her coat to check that the mended reciprocating rod was still in her pocket
 and hauled herself to her feet.
-
 Back where the pier met the shore,
-one of the barnacle farmers raised her hand.
-Iffy waved back.
-One of the old women had a pole across her shoulders
+one of the old barnacle farmers had balanced a pole across her shoulders
 with a large bucket dangling from each end.
 The other had stacked the smaller buckets on a two-wheeled cart
 and was carefully lowering their precious sheets of plastic back into the sea.
 They would haul in on the next pier tomorrow,
-Iffy knew,
 then the next and the next
 until their circuit brought them back to where they had started.
-They had been doing it since before she was born.
+They had been doing it since before Iffy was born.
 It kept them fed, but little more,
 and she would be damned and drowned before she would let anything like that become her life.
+
+A sketch suddenly materialized somewhere between her eyes and her brain.
+Two toothed wheels to reel in the strips of plastic,
+a sharp-edged scraper to pry the barnacles off,
+a lens connected to a tiny core set just *so* in a wire frame
+to steer the scraper so that it didn't dig into the plastic---the whole thing would only cost a couple of rand,
+and would save the old women a couple of hours every day at least.
+Mr. Mishra had everything except the frame,
+and she could literally see how to print that.
+She could make the whole thing herself,
+she realized with mounting excitement.
+She could make it and sell it to the barnacle farmers and---
 
 *BOOM!*
 The explosion sounded like someone slamming the world's biggest box

@@ -993,48 +993,58 @@ Others joined it.
 She heard Uncle Jack's bellow, "What'n the hell?"
 but she was already racing down the gangplank.
 
-A small crowd was milling around on the street in front of the machine shop
-by the time she got there.
-The smoke had dissipated,
-and there was no sign of fire,
-but the explosion had torn one corner right off the building.
-Plastic boards and twisted foam steel beams lay scattered on the ground
-amidst sparkly shards of broken glass.
+By the time she reached the machine shop,
+a small crowd was milling around on the paved turnaround in front of it.
+The sick knot in her stomach only relaxed a little when she saw that
+the explosion hadn't been in the machine shop itself,
+but in the squat quarantine blockhouse beside it.
+One corner of the building was gone,
+and chunks of masonry and twisted ends of foam steel beams lay scattered on the ground.
 
-A scruffy-looking woman stood in front of the main door of the machine shop
-arguing loudly with two other men in the dark blue Marine uniforms.
+A rough-looking woman stood in front of the quarantine blockhouse's single door.
+arguing loudly with two men in dark blue Marine uniforms.
 "And *I* said I'll open it when my captain tells me to!"
-the woman in front of the door said.
+she said hotly,
+her muscular arms crossed.
 
-Two more Marines pushed through the crowd.
-The larger of them pointed at the sergeant's stripes on his sleeve.
-"See these?" he demanded.
-"These say this ain't your ship,
-so hang your captain,
-it's on us to see if you're going to blow this place up."
+Two more Marines pushed through the crowd,
+their sidekick drones whining faintly over their heads.
+One of them pointed at the sergeant's stripes on his sleeve.
+"Do you see these, citizen?" he demanded.
+"These say that this is not your ship,
+so in accordance with regulations regarding general public safety,
+we are going in to have a look."
 
-The scruffy woman's lip curled.
-"Means nothin' to me, mate.
-You can come in when---hey!"
-She grabbed at the Marine's arm as he pushed her aside.
+The woman's lip curled.
+"In accordance with regulation, is it?"
+she mimicked.
+"Well, that means nothin' to me,
+mate,
+so you an' your brainwashed friends can---oy!"
+She stepped sideways to block the Marine as he moved toward the door.
 
-"Clear away!  Clear away, all you!"
+"Clear away!  Clear away, all o' you!"
 The crowded parted as half a dozen more sailors arrived,
-all of them looking as rough as the woman who'd been guarding the door.
+all of them wearing patched-up variations on the woman's yellow-and-green vest
+with *Taroona* stencilled on the back.
 
-The shaven-headed sailor at the front of the new arrivals put his hands on his hips.
+The shaven-headed woman leading the new arrivals put her hands on her hips.
 "Y'aright, Bags?"
-he asked,
-scowling at the Marine sergeant.
+she asked,
+scowling at the Marine sergeant,
+the crowd,
+and everything else in sight for good measure.
 
-""m fine, cap'n"
-the scruffy sailor replied,
-straightening up and glaring at the sergeant.
-"Just 'splainin' to this lot that there's nothin' here needs their 'tention."
+""Fine, cap'n"
+the first woman replied,
+glaring at the sergeant.
+"Just 'splainin' t' these blues that there ain't nothin' here needs their 'tention."
 
-"Anything as might be a danger to Halley gets our attention,"
-the sergeant growled.
-"Particularly anything as might turn this place into another Bharati."
+"With respect, citizen,"
+the sergeant said,
+his mechanical inducted accent making his calm words all the more ominous,
+"Anything that might be a danger to Halley needs our attention.
+Particularly anything that might turn our beloved city into another Bharati."
 
 The crowd murmured.
 Twenty years before,
@@ -1047,29 +1057,30 @@ on the anniversary,
 he and Little Mrs. Sandhu and their friends
 gathered to toss handfuls of precious flowers into the sea.
 
-The *Taroona*'s crew ignored the mutters of "Too right" and "Let 'em through" from the crowd.
-One of them hefted a gaff hook.
-Another wrapped a length of chain around his hand,
+The *Taroona*'s crew ignored the mutters of "Too right" and "Just let 'em look" from the crowd.
+One hefted a gaff hook.
+Another wrapped a length of chain around her hand,
 unwrapped it,
 and wrapped it again.
-"You heard him,"
-the *Taroona*'s captain said to the Marine sergeant.
-"Contract says this place is ours t' look after
-'til all what we brought in is safely stowed.
-There's nothin' here as needs your 'tention before then."
+"Well, this ain't Bharati,"
+the *Taroona*'s captain said to the sergeant.
+"Contract says it's on us t' take care of everythin' we hauled down from Taz
+'til we're sure it ain't a danger.
+Whatever happened here is on us t' fix."
 
-The sergeant looked pointedly at the debris on the ground.
-"You call *this* safely stowed?"
+The sergeant looked at the debris on the ground.
+"Do you call this 'taking care'?" has asked pointedly.
 The crowd murmured again.
 
-The *Taroona*'s captain crossed his arms.
-"That weren't us or our gear," he said flatly.
-"All our stuff's 'long by the back."
-He looked up at the half dozen drones circling overhead.
-"Just where it's s'posed t' be," he said loudly to the city's eyes and ears.
-"So whatever this was, it weren't us."
+The *Taroona*'s captain crossed her arms.
+"That ain't our doin'," she said firmly.
+"Printer didn't have any feedstock, not yet.
+Couldna made a marble, much less a bomb."
+She looked up at the drones circling overhead.
+"So this was someone messin' around tryin' t' do us outta bein' paid,"
+she said loudly to the city core's eyes and ears.
 
-"I'm glad to hear that,"
+"I am glad to hear that,"
 the sergeant said,
 "But I'm going to have to see for myself."
 He drew his shock stick from the holster on his hip.
@@ -1079,10 +1090,10 @@ The three other Marines beside him did the same.
 "Dock fight."
 
 Iffy gulped.
-She had never seen a fight worse than teenagers shoving each other
-and throwing a few punches,
-but Uncle Jack had been in one the last time they were in Rothera.
-He had come back to the *Guinevere* bruised and bloodied
+She had never seen a fight worse than teenagers shoving each other,
+but Uncle Jack had been in several over the years.
+One the last time they were in Rothera,
+he had come back to the *Guinevere* bruised and bloodied
 and uncharacteristically quiet about what had happened.
 As the Marines uniform jackets hardened into armor,
 she turned to find somewhere safer to be.
@@ -1090,41 +1101,45 @@ she turned to find somewhere safer to be.
 And bumped into Johnson Wales.
 "'Scuse me," she muttered before she realized who he was.
 
-"Of course," he said pleasantly.
+"No worries," he said pleasantly.
 "I was actually just leaving myself.
-Here---would you mind carrying this for me?"
+Here---would you mind carrying this?"
 Without waiting for an answer,
-he handed her a rectangular black toolbox
+he handed her a bulky black box
 with a flip-up handle on its lid
-and stooped to pick up two identical toolboxes from the ground.
+and stooped to pick up its two identical twins from the ground.
+
+"What's this?"
+Iffy asked.
+
+"My tools,"
+Wales said briskly.
+"Now, off we go."
 
 "But---wait!"
 Iffy hurried after him,
 the toolbox bumping against her leg.
 
 Wales paused a moment to let her catch up.
-A few dew-drops of sweat glistened on his shaved scalp.
-"Thanks," he said.
-"It's awkward trying to carry all three at the same time."
-
-"No worries," Iffy puffed.
+A few dew-drops of sweat glistened on his forehead.
 "This the gear the *Taroona* bikkies upped from you?"
+Iffy puffed.
 
 Wales nodded.
 "Everything that matters."
-His smile disappeared as shouting erupted behind her.
 Tiny lights danced briefly across the silvery rectangle in his left template.
-He looked up at the circling drones.
+He looked up at the growing flock of drones.
 "Come on---they've called for reinforcements."
 
 Even as he spoke,
 Iffy heard the sizzling crack of a shock stick.
 Someone shouted an obscenity,
-and suddenly people were hurrying past her,
-heads down and knit caps pulled low in an instinctive but useless attempt
-to conceal their faces from the city's drones and cameras.
+and suddenly people were running past her
+as the sailors and Marines in the turnaround did
+what sailors and Marines have been doing
+for as long as there have been sailors and Marines.
 
-Wales hefted his toolboxes and joined the stream.
+Wales walked quickly without ever breaking into a run.
 Iffy did her best to keep up with him as he strode down the brick-paved street.
 *He prob'ly kept the light ones for himself,*
 she grumbled to herself,
@@ -1135,46 +1150,63 @@ didn't give bodies much chance to put on weight.
 Wales' broad shoulders made him look blocky by comparison,
 and the toolboxes seemed much smaller in his hands than in hers.
 
-"Wait up a jif," Iffy finally said.
+"Hang up a jif," Iffy finally said.
 Wales stopped as she set her load down on the ground and looked back the way they had come.
-A bend in the shoreline hid the warehouse.
-All she could hear were the usual sounds of Halley's docks:
-distant machinery,
-the crush of waves against the pier,
-and an occasional distant voice that might actually have been
-the cry of a hungry gull.
+A bend in the street hid the machine shop,
+the quarantine blockhouse,
+and what Iffy knew would have been a very short fight.
+Between the Marines' inducted fighting skills,
+drones,
+and combat armor,
+the *Taroona*'s sailors would have had about as much chance
+as a snowball in Aunt Naggie's frying pan.
+"Sometimes people fight just so they can tell themselves they did,"
+Aunt Naggie had explained after one of her husband's misadventures.
+"Sometimes trying is the only kind of winning you can hope for."
 
-Iffy nudged the toolbox with her boot.
-"So was that you back there?
-The 'splosion in the warehouse?"
+"Gardez-vous! Gardez-vous!"
+She stepped to the side as the rusty old street sweeper rattled past,
+its battered old cameras swinging from side to side
+slightly out of time with its brooms.
+Once it was past,
+she nudged the toolbox with her boot.
+"So was that you?
+The 'splosion back there?"
 
 Wales blinked.
 "Why on earth would you think that was me?"
 
 Iffy rolled her eyes.
-"'Cuz they upped your gear and now you got it back?
-And 'cuz they're all prolly goin' to be in lockup
-once the mayor's crew finish pawin' through that warehouse,
-now that they got cause to?
-I ain't stupid, you know."
+"'Cuz they upped your gear and then the blockhouse blew up
+an' now you got your stuff back?
+I ain't stupid,"
+she finished,
+scowling.
+Why did grownups always think kids were stupid?
 
 "No you're not,"
 Wales agreed thoughtfully.
 He nodded at the toolbox next to her feet.
 "You OK to carry that a bit further?"
 
-Iffy crossed her arms.
-"Do I get to see what's in it?"
+Iffy crossed her arms
+in unconscious imitation of the *Taroona*'s captain.
+"Not 'less I get to see what's in it."
 
-"Sure,"
 Wales chuckled.
-He set down one of the pair he was carrying and stuck out his hand.
-Iffy shook it once again.
-Picking up their respective loads,
-they walked side by side up the narrow street that led past the Sandhu's grocery store
-to the café where Wales had rented a room.
+"Fair enough.
+But not here---too many eyes."
+He glanced up as one of the city's drones zipped past overhead
+on its way back to its regular patrol route.
 
-They sat in the back of the café and drank sweet, strong tea
+Picking up their respective loads,
+they walked side by side down a narrow side street
+that led behind the Sandhu's grocery store
+to the café where Wales had rented a room.
+The owner nodded at Wales but didn't even glance at Iffy,
+obviously believing that his guests' business was none of his.
+
+They sat in the back and drank sweet, strong tea
 as Wales carefully unpacked one of his toolboxes
 and checked each piece of tech it contained.
 Some of the tools looked as good as new,

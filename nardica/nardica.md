@@ -713,7 +713,7 @@ then put out her own hand to shake his.
 
 Iffy ran all the way back to the docks,
 dodging around the people and bots going about their chores in Halley's narrow streets.
-"Gardez-vous! Gardez-vous!" scolded the ancient street sweeper that everyone called Frenchy
+"Gardez-vous! Gardez-vous!" scolded the ancient maintenance bot that everyone called French Henry
 as she squeezed between its rusty frame
 and a rack of solar roof moss left out to dry in the sun.
 
@@ -1165,10 +1165,50 @@ Aunt Naggie had explained after one of her husband's misadventures.
 "Sometimes trying is the only kind of winning you can hope for."
 
 "Gardez-vous! Gardez-vous!"
-She stepped to the side as the rusty old street sweeper rattled past,
-its battered old cameras swinging from side to side
-slightly out of time with its brooms.
-Once it was past,
+She stepped to the side as French Henry came rattling down the street behind them,
+its dented old cameras swinging from side to side.
+It ground to a halt a few meters away.
+"Ça va bien!" it announced proudly.
+"Ça va tres bien!"
+
+"What's it saying?" Iffy whispered loudly,
+unconsciously backing up to put some distance between herself and the battered old machine.
+Like the rest of the world,
+Halley only tolerated free bots because they needed their labor.
+There were too many stories of bots being driven mad by malware left over from the war
+for people to ever truly trust something as big as French Henry.
+
+But Wales didn't seem bothered in the least.
+"Merci beaucoup, mon vieux," he said gratefully.
+Stooping,
+he opened one of his toolboxes and withdrew something small.
+"Ici.
+C'est a toi."
+
+A hatch popped open on the front of the maintenance bot.
+A small manipulator arm,
+no longer than Iffy's own arm and as skinny as her finger,
+unfolded to reach for the gray metal rectangle in Wales' hand.
+It was a core carrier,
+Iffy realized,
+a tiny magnetic bottle with its own power supply and hardened case
+designed for carrying a bot's quantum brain.
+
+The sweeper's tiny arm folded back into its housing.
+"Merci," it said,
+and then it ground its gears and rolled down toward the docks,
+saying, "Gardez-vous! Gardez-vous!" once more.
+
+"What was *that* all about?" Iffy demanded
+as Wales closed the lid on his toolbox and picked it up again.
+
+Wales shrugged.
+"Just doing an old friend a favor," he said,
+sounding fond and sad at the same time.
+"Come on---we should get going."
+
+Iffy didn't move.
+Instead,
 she nudged the toolbox with her boot.
 "So was that you?
 The 'splosion back there?"
@@ -1178,10 +1218,11 @@ Wales blinked.
 
 Iffy rolled her eyes.
 "'Cuz they upped your gear and then the blockhouse blew up
+an' then the bot that takes care of half o' the gear in town
+just happens to bump into you
 an' now you got your stuff back?
-I ain't stupid,"
-she finished,
-scowling.
+I ain't *stupid*,"
+she finished disgustedly.
 Why did grownups always think kids were stupid?
 
 "No you're not,"

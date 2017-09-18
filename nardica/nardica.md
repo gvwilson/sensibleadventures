@@ -1189,27 +1189,37 @@ A hatch popped open on the front of the maintenance bot.
 A small manipulator arm,
 no longer than Iffy's own arm and as skinny as her finger,
 unfolded to reach for the gray metal rectangle in Wales' hand.
-It was a core carrier,
-Iffy realized,
-a tiny magnetic bottle with its own power supply and hardened case
-designed for carrying a bot's quantum brain.
+It looked like a miniature version of the heat exchangers
+that Mr. Mishra had been repairing the last time the *Guinevere* was in dock.
+As soon as the thought took shape in her head,
+a picture---no, more than that, a full-blown blueprint---materialized as well.
+The heat exchanger belonged *there*,
+in the housing around the maintenance bot's tiny quantum core.
+Except it wasn't really a maintenance bot.
+It was an infiltrator,
+a leftover from the war designed to worm its way through sewers and cooling pipes.
+Half its parts had been replaced by mis-matched odds and ends taken from other bots,
+or hacked together out of scrap metal where the tech to make the originals had been lost,
+but the bot's original design was still there beneath the patchwork.
 
-The sweeper's tiny arm folded back into its housing.
+Her vision disappeared as the sweeper's tiny arm folded back into its housing.
 "Merci," it said,
-and then it ground its gears and rolled down toward the docks,
+rocking back and forth in what might have been the mechanical equivalent of a bow
+before grinding its gears and rolling down the street toward the docks,
 saying, "Gardez-vous! Gardez-vous!" once more.
 
 "What was *that* all about?" Iffy demanded
 as Wales closed the lid on his toolbox and picked it up again.
 
 Wales shrugged.
-"Just doing an old friend a favor," he said,
-sounding fond and sad at the same time.
+"Just a hard-to-find part for an old friend," he said,
+sounding fond and sad at the same time
+as he watched the bot disappear around a corner two streets below them.
 "Come on---we should get going."
 
 Iffy didn't move.
 Instead,
-she nudged the toolbox with her boot.
+she nudged the toolbox nearest her with her boot.
 "So was that you?
 The 'splosion back there?"
 
@@ -1236,9 +1246,11 @@ in unconscious imitation of the *Taroona*'s captain.
 
 Wales chuckled.
 "Fair enough.
-But not here---too many eyes."
-He glanced up as one of the city's drones zipped past overhead
-on its way back to its regular patrol route.
+But not here."
+He glanced up as one of the city's drones zipped past overhead.
+Lights sparkled briefly in the rectangle set into his temple,
+making Iffy wonder how much of the scene below them
+the drones were actually reporting back to Halley's central core.
 
 Picking up their respective loads,
 they walked side by side down a narrow side street

@@ -241,7 +241,7 @@ There was a bruise on his forehead that hadn't been there the evening before,
 Iffy noticed.
 That might mean a visit from the police later.
 He'd rave on for an hour if they came
-about how the mayor was just another rock-hogging idiot
+about how the governor was just another rock-hogging idiot
 who would sell them all out to the Euros or the Zillions
 as soon as she could get a decent price,
 then repeat the rant to Aunt Naggie word for word.
@@ -1186,8 +1186,8 @@ he opened one of his toolboxes and withdrew something small.
 C'est a toi."
 
 A hatch popped open on the front of the maintenance bot.
-A small manipulator arm,
-no longer than Iffy's own arm and as skinny as her finger,
+A slender manipulator arm,
+longer than Iffy's own arm but no bigger around than one of her fingers,
 unfolded to reach for the gray metal rectangle in Wales' hand.
 It looked like a miniature version of the heat exchangers
 that Mr. Mishra had been repairing the last time the *Guinevere* was in dock.
@@ -1202,7 +1202,7 @@ Half its parts had been replaced by mis-matched odds and ends taken from other b
 or hacked together out of scrap metal where the tech to make the originals had been lost,
 but the bot's original design was still there beneath the patchwork.
 
-Her vision disappeared as the sweeper's tiny arm folded back into its housing.
+Her vision disappeared as the sweeper's slender arm folded back into its housing.
 "Merci," it said,
 rocking back and forth in what might have been the mechanical equivalent of a bow
 before grinding its gears and rolling down the street toward the docks,
@@ -1238,54 +1238,75 @@ Why did grownups always think kids were stupid?
 "No you're not,"
 Wales agreed thoughtfully.
 He nodded at the toolbox next to her feet.
-"You OK to carry that a bit further?"
+"Are you okay to carry that a bit further?"
 
-Iffy crossed her arms
-in unconscious imitation of the *Taroona*'s captain.
-"Not 'less I get to see what's in it."
+"Am I what?"
+Iffy asked,
+crossing her arms in unconscious imitation of the *Taroona*'s captain.
+
+Wales smiled briefly.
+"Sorry.
+Are y'aright to carry that down s'far as the caffy?"
+
+Iffy wrinkled her nose.
+"Your accent's horrible," she said witheringly.
+"And sure,
+but only if I get to see what's in it."
 
 Wales chuckled.
 "Fair enough.
-But not here."
+Come on."
 He glanced up as one of the city's drones zipped past overhead.
 Lights sparkled briefly in the rectangle set into his temple,
-making Iffy wonder how much of the scene below them
+making Iffy wonder how much of the scene in the street
 the drones were actually reporting back to Halley's central core.
 
 Picking up their respective loads,
 they walked side by side down a narrow side street
 that led behind the Sandhu's grocery store
 to the café where Wales had rented a room.
-The owner nodded at Wales but didn't even glance at Iffy,
+The owner glanced from Wales to Iffy but said nothing more than,
+"Tea?"
 obviously believing that his guests' business was none of his.
 
-They sat in the back and drank sweet, strong tea
-as Wales carefully unpacked one of his toolboxes
-and checked each piece of tech it contained.
+They sat at a battered stone-topped table and drank sweet, strong tea
+as Wales opened one of the toolboxes Iffy had been carrying
+and carefully unpacked the top layer of its contents.
 Some of the tools looked as good as new,
-though Iffy guessed that they had to be at least a hundred years old---only
-a handful of well-defended labs scattered around the world
-still had the cleanrooms and nano fabs needed to create marvels
-like the fractal diamond-and-copper mesh
-Wales briefly let her hold.
+though Iffy knew that they had to be at least a hundred years old---only
+a handful of well-defended factories scattered around the world
+had the cleanrooms and nano-fabricators needed to create marvels
+like the fractal diamond-and-iridium mesh
+that Wales briefly let her pick up with a pair of fingertip micro-manipulators.
 Other tools were clearly cobbled together from spare parts
 and held together with whatever Wales had been able to find.
 Iffy felt more comfortable with these,
 since pretty much everything in Halley was built the same way.
 
-"What about them two?"
-she asked eagerly
+"What about them?"
+she asked eagerly,
+pointing at a matched pair of asymmetric gears
 as Wales carefully repacked the open toolbox.
 
 The square man chuckled.
 "Let's save those for another time."
 He looked past her for a moment,
 the lights in the tech on his temple flickering with activity.
-"The town net says the mayor's agents have resolved the disturbance by the dock.
-We should probably get you home."
+"The town net says the Marines have resolved the situation by the quarantine shed.
+Apparently the *Taroona*'s crew set off the explosion themselves
+in order to cover their theft of government property,"
+he continued drily.
 
-"Oh crivens," Iffy swore.
-She twisted in her seat to look at the clock over the door and swore again.
+Iffy snorted.
+"I know it was you,"
+she muttered.
+
+Wales blinked at her innocently.
+"I'm sure I have no idea what you mean.
+Anyway---it's probably time you got back home."
+
+Iffy glanced at the timer tattooed on the back of her wrist.
+"Oh crivens," she swore,
 "I shoulda been back an hour ago!"
 She scrambled to her feet.
 
@@ -1293,89 +1314,88 @@ She scrambled to her feet.
 Wales said,
 patting the air.
 "Just a minute, I promise."
-He sat back in his seat and beckoned for another cup of tea.
+He pushed his now-empty mug of tea to one side and leaned forward on the table.
 "Tell me more about this ship of yours..."
 
-He locked his toolboxes in his room before they left
+Wales locked his toolboxes in his room before they left
 and put a small plastic bear with bright blue eyes on the shelf above them.
 "To keep an eye on things,"
 he said,
 tapping the tech in his temple.
 Iffy nodded
 as if remote vision cameras in old children's toys were an everyday thing for her.
-She didn't ask what the red-speckled globe next to the bear was for,
-but she suspected it would do more than just watch
-if someone broke in.
+She didn't know what the red-speckled globe next to the bear was,
+but she suspected it would do more than just watch if someone broke in.
 
 A pair of gray military drones were hovering over the harbor
 as Iffy and Wales walked down to the pier
 where the *Guinevere* was docked.
 "Keeping an eye on the *Taroona*," Wales guessed,
 shielding his eyes with his hand to study them.
-He sighed.
-"It's about all the mayor can do."
+"See there?
+Those are shock guns.
+And those bumps behind them---those are strangle foam bombs or I'm your uncle."
 
-"What about the warehouse?"
+"Why're they just watching?"
 Iffy asked.
-"Musta been other stuff in there wasn't theirs."
+"Any time I seen a dock fight,
+th' Marines've just hauled everyone in for th' governor to sort out."
 
-"I'm sure there was,"
-Wales said dryly.
-"But the *Taroona* sails out of Hobart,
-and the last thing the mayor or the governor in Rothera want to do right now
-is give their lords and masters back home in Tasmania
-a reason to poke around in their affairs.
-No,
-they'll be out by morning,"
+Wales shook his head.
+"The *Taroona* sails out of Hobart,
+and the last thing the governor want to do right now
+is give Tasmania an excuse to poke around down here.
+Odds are the captain and her crew will be back on the dock by morning,"
 he concluded,
 speaking to himself as much as to the frowning tween beside him.
-"Which is yet another reason I need to talk to your uncle."
+"Which is another reason I need to talk to your uncle."
 
 "You oughta know he don't keep his word 'less it suits him,"
 Iffy blurted.
 "Or 'less he figures you got more haul back of you than he does."
 
-Wales grinned.
-"Thanks for the warning.
-I'll keep it in mind."
+Wales nodded.
+"Thanks for the warning,"
+he said solemnly.
+"I'll keep it in mind."
 
 Ten minutes later Uncle Jack shouted,
-"No!  No affing way!
-We're a jelly boat,
-not the damn ferry!
-You want to skin up along Rothera,
-you can wait on it."
+"No affin' way!
+We're a jelly dredger,
+not th' damn ferry!
+You wanna skin up along Rothera,
+you can haul down two piers over an' buy y'self a ticket."
 
 Aunt Naggie gestured frantically at Iffy and Wales from behind her husband's back,
 mouthing, "Go! Go!"
 Wales ignored her,
-his broad smile seeming genuine as he waited out the decktop tempest.
+his broad smile seeming genuine as he waited out the blustery storm that was Uncle Jack.
 
 "I understand it's not your usual line of work,"
-he said smoothly when Uncle Jack paused for breath.
+he said smoothly when the *Guinevere*'s bleary-eyed captain paused for breath.
 "And if no is your final answer,
 well,
 I'll respect that and take my business elsewhere.
 But!"
 He held up a hand to forestall another explosion.
-"What if I told you I could more than just pay for my passage?"
+"What if I told you I could do more than just pay for my passage?"
 
 Uncle Jack snorted.
 He had been dozing when Iffy and Wales had reached the *Guinevere*,
-and from his bloodshot eyes and the smell of his breath
+and from his squint and the smell of his breath
 Iffy guessed that she'd find at least one empty bottle in the hold
-if she went looking for it.
+if she bothered to look for it.
 "Lemme guess---you can sing.
 Or no---you can do magic tricks and turn jellyfish into gold."
 
-"You're not far wrong,"
-Wales agreed.
+"Almost,"
+Wales nodded.
 "Except it isn't magic,
-and you'll be the one turning jellyfish into gold."
+and gold will be all yours."
 He tapped the silver tech in his temple.
 "This is a satellite uplink.
 A *fully functional* satellite uplink,"
-he continued before Uncle Jack could interrupt.
+he continued as Uncle Jack opened his mouth.
 "Which means I can spot patches of sea boil with half an hour to spare.
 Maybe a full hour, if the sky's clear.
 And *that* means---"
@@ -1383,26 +1403,22 @@ And *that* means---"
 Uncle Jack said a word that sent Aunt Naggie's hands flying to her mouth.
 "Ain't no such thing no more,"
 the *Guinevere*'s captain sneered.
-"'S all 'crypted---everyone knows that."
+"'S all 'crypted---everyone knows that.
+'S 'crypted an' th' keys are long gone."
 
-"Indeed it is."
+"It is indeed encrypted."
 Wales nodded.
-"Heavily encrypted.
-There's probably only a couple of dozen downlinks left with the right codes in them.
-Lucky for you,
-this is one of them.
-And I can prove it,"
-he went on,
-sounding for all the world like Big Mrs. Sandhu
-when someone hesitated over a twist of lemon candy.
-"Here."
+"But not all the keys are lost---not quite.
+This here is one of them,
+and I can prove it.
+Here."
 
 He closed his eyes.
 "Your beacon is GUIN 40782, is that right?"
 He nodded to himself without waiting for an answer.
 "Your last trip,
 you were at sea nine days.
-You spent most of it dredging over the Berkner Rise."
+You spent most of it over the Berkner Rise."
 
 "You're trashin',"
 Uncle Jack contemptuously.
@@ -1421,37 +1437,38 @@ you could have been the one to haul them in."
 Uncle Jack scowled.
 The *Whitstable* was tied up on the next pier,
 its captain overseeing a refit paid for by
-the full holds she had brought back to Halley
-a couple of days after the *Guinevere* had returned.
-Her crew had been celebrating their good fortune in Halley's shops and bars around the clock.
-A load like that would do a lot to get the *Guinevere* back on an even keel.
+the hold full of jellyfish she had brought back to Halley
+the day after the *Guinevere* had returned.
+Her crew had been celebrating their good fortune in Halley's shops and bars around the clock ever since.
 
-"Could still just be coalin' me,"
-he grumbled,
-scratching his cheek through his uncombed beard.
+Uncle Jack scratched his cheek through his uncombed beard.
+Iffy could practically hear him thinking that a load like that could pay off the *Guinevere*'s debts
+with more than a bit left over for repairs.
+"You're jus' coalin' me,"
+he grumbled.
 
 Wales didn't answer.
 Instead,
-he closed his eyes again.
-A moment later he pointed wordlessly across the harbor.
+he closed his eyes again and pointed wordlessly across the harbor.
 Iffy, Uncle Jack, and Aunt Naggie all turned to look.
 
 "You just stretchin' your arm?" Uncle Jack asked
-after a few seconds had passed without anything happening.
+after a few seconds passed without anything happening.
 "'Cause I got better things to do than watch you make an affin' fool of yourself.
-And so do you,"
+And so d'you,"
 he added darkly,
-glaring at Iff once again.
+glaring at Iffy once again.
 
 Aunt Naggie put her hand on his arm.
 "Jack---look.
 Up there."
 One of the drones Iffy had seen earlier was headed toward them,
-the thin high buzz of its rotors growing louder by the second.
+the thin high whine of its rotors growing louder by the second.
 
 "What?" he demanded,
 shaking her off.
-"They been goin' in circles up there all afternoon."
+"They been goin' in circles all afternoon.
+Givin' me a headache, they are."
 He rounded on Wales.
 "An' it feels like you been wastin' my time almost as long,
 so how 'bout you truck yourself back down that gangplank
@@ -1459,17 +1476,17 @@ and be about your business?"
 
 Wales didn't answer.
 Uncle Jack stepped toward him,
-and for one wild moment Iffy thought he was going to grab Wales and throw him overboard,
+and for one wild moment Iffy thought he was going to shove Wales overboard,
 but then Aunt Naggie grabbed his arm.
 "Jack!"
 The drone was diving straight at them.
 
 Everything seemed to happen at once.
-The drone plummeted toward them.
+The drone plummeted toward the *Guinevere*.
 Aunt Naggie shrieked.
-Uncle Jack swore and shoved her out of his way
+Uncle Jack swore and shook her off
 as he reached for the gaff hook that hung on the cabin wall next to them.
-Iffy was about to bolt for the pier when Wales opened his eyes and said,
+Iffy was about to throw herself onto the deck when Wales opened his eyes and said,
 "Stop!"
 
 The drone pulled up short,
@@ -1478,7 +1495,7 @@ its rotors whining with effort.
 the square man commanded.
 Obediently,
 the drone dropped a meter
-to hover just above eye level.
+to hover at eye level.
 
 "What're you doin', you affin' idiot?"
 Uncle Jack bellowed,
@@ -1486,17 +1503,19 @@ waving his gaff hook at Wales.
 "They got cameras on that thing!
 Soon as they see us, they'll---"
 
-"They can't see anything,"
+"The core can't see a thing,"
 Wales told him flatly,
 his eyes fixed on the drone as if he was staring down a surly dog.
-"As far as they know it's just a glitch."
+"I'm feeding it a splice of what the other drone is reporting and some recorded footage.
+As far as the town and the governor know,
+our friend here is still exactly where it's supposed to be."
 
-"How are you *doing* that?" Iffy breathed,
+"How're you *doin'* that?" Iffy breathed,
 unable to help herself.
-A faint breeze from the drone's rotors brushed her cheeks.
+The wind from the drone's rotors brushed her cheeks.
 It was barely moving---if she hadn't known better,
 she would have thought it was strung up with microwire.
-"That's military tech.
+"That's *military* tech.
 Ain't nobody can hack that."
 
 "This can,"
@@ -1510,21 +1529,19 @@ Wales locked eyes with Uncle Jack.
 "I can get all of it," he said
 in a voice that left no room for doubt or disagreement.
 "Every image,
-every signal,
-all of it,
+every signal---everything the satellites see,
 encrypted or not.
 And I need to get to Rothera.
 The only question is,
 will that be your good fortune or someone else's?
-I'd rather it was yours, but it's up to you."
+It's up to you."
 
 Uncle Jack hefted his gaff hook.
 "Jack," Aunt Naggie began.
 
 "Quiet," he snapped,
 still scowling.
-Greed and the ever-present mistrust he felt
-for everything the world put in front of him
+Greed and the mistrust he felt for everything the world put in front of him
 warred briefly on his face.
 "We keep whatever we haul,"
 he finally said.
@@ -1536,21 +1553,23 @@ He stuck out his hand.
 
 Iffy held her breath.
 Uncle Jack chewed the inside of his cheek a moment longer,
-then grabbed it and gave it a single shake.
+then grabbed it and gave it a single perfunctory shake.
 "I'm guessin' you'll want to be off right away,"
 he said sourly.
 
-Wales smiled.
-"Just as soon as I collect my belongings."
-
+Wales nodded.
+"Just as soon as I collect my---"
 His face suddenly fell.
+
 "What?" Uncle Jack demanded.
 Wales raised a hand for silence,
 his eyes half-closed.
 
-"Don't you shush me on my ship,"
-Uncle Jack blustered.
-"Not 'less you want to---"
+"Oh no,"
+Uncle Jack blustered,
+drawing himself up to his full height.
+"You don't shush me on my ship,
+not 'less you want to---"
 
 "Someone's trying to break into my room."
 Wales' good humor had vanished.
@@ -1564,25 +1583,23 @@ it'll be the three of us!
 You can go hang!"
 
 Iffy's heart sank.
-She desperately wanted some time with Wales.
-She could learn so much,
-even if he didn't take her as an apprentice.
+She wanted Uncle Jack to say "yes" as badly as she had ever wanted anything.
+Even if Wales didn't take her as an apprentice,
+she knew that she could learn so much.
 She glanced at Aunt Naggie
 and saw the same disappointment mirrored on her lined face.
-If only the square 'Merican hadn't told Uncle Jack what to do---that
+If only the square American hadn't told Uncle Jack what to do---that
 *never* went well.
 
 But her uncle's bluster had no more effect on Wales
 than a windstorm would on a mountain.
-"It's certainly a possibility,"
-he said crisply.
 "Here."
 He pulled a money card out of his jacket
 and thrust it at Uncle Jack.
 "I'll give you that now,
 and the same again when we reach Rothera."
 
-Uncle Jack turned the flat black plastic rectangle over in his hands suspiciously.
+Uncle Jack turned the flat plastic rectangle over in his hands suspiciously.
 "What's it worth?"
 
 "Six thousand rand,"
@@ -1592,14 +1609,16 @@ Wales said.
 Uncle Jack pressed his thumb on the corner of the money card.
 His eyes widened at the blinking figures it displayed.
 He looked up at Wales.
-"You must wanna get out of here pretty badly,"
-he said shrewdly.
+"You must wanna get outta here pretty badly,"
+he mused,
+not even trying to keep his greed off his face.
 
 Wales shrugged.
-"It's no use to me if I can't spend it."
+"It's no use to me if I can't spend it,"
+he said crisply.
+"Now, do you want it or not?"
 
-Uncle Jack hesitated a moment,
-then pocketed the money card and grunted something unintelligible.
+Uncle Jack pocketed the money card and grunted something unintelligible.
 "Thank you," Wales said.
 "I'll be quick."
 He turned to go,
@@ -1607,24 +1626,29 @@ then stopped himself.
 "Just so you know,
 this is still switched on."
 He tapped the tech in his temple.
-"So if anyone were to call the police,
+"So if anyone were to call the Marines,
 I'd know."
 
 Uncle Jack spat over the railing.
 "Ain't nobody here would call the police," he growled,
-the look on his face putting the lie to his words.
+for once telling the truth.
 
 Wales nodded and hurried down the gangplank.
-The trio left on the *Guinevere* watched him jog away on the pier.
+The trio left on the *Guinevere* watched him jog along the pier.
 "That one's trouble,"
 Uncle Jack said flatly,
 glancing at the money card one more time before tucking it inside his coat.
-He leaned over the railing,
+He leaned his elbows on the railing,
 cleared his throat,
 and spat once more into the water below.
-"Get movin', both of you.
-I want us out o' here an' away from whatever trouble's chasin' his stern
-five minutes ago."
+There was more gray in his beard than she remembered,
+Iffy realized,
+and the three-day fuzz on his scalp was further back than it once had been.
+
+Uncle Jack noticed her looking at him.
+"Get movin', both o' you," he growled.
+"I want us out o' here an' away from whatever trouble he's got
+lickety affin' quick."
 
 It normally took a full day to get the *Guinevere* ready to sail,
 but even so,

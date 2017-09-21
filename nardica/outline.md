@@ -1,6 +1,8 @@
 Nardica
 =======
 
+- what's Mr. Mishra's role after the bombing?
+
 - call the internet "the jungle" - Wales comments that it's the only one left
 - someone blows up the new machine shop
   - everyone blames the Zillions trying to stop the coal mining

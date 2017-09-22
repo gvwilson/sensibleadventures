@@ -5,6 +5,8 @@ Nardica
   - Iffy gets a message saying that the Marines have been 'round
   - Jeep is somehow re-inducted
 
+- "Don't be an app"
+
 - call the internet "the jungle" - Wales comments that it's the only one left
 - someone blows up the new machine shop
   - everyone blames the Zillions trying to stop the coal mining

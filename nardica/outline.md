@@ -2,6 +2,8 @@ Nardica
 =======
 
 - what's Mr. Mishra's role after the bombing?
+  - Iffy gets a message saying that the Marines have been 'round
+  - Jeep is somehow re-inducted
 
 - call the internet "the jungle" - Wales comments that it's the only one left
 - someone blows up the new machine shop

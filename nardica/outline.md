@@ -4,6 +4,7 @@ Nardica
 - what's Mr. Mishra's role after the bombing?
   - Iffy gets a message saying that the Marines have been 'round
   - Jeep is somehow re-inducted
+- family scene at dinner where Uncle Jack is the odd one out
 
 - "Don't be an app"
 

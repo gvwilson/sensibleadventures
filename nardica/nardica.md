@@ -2336,18 +2336,23 @@ Since then her teachers had been tutoring programs
 that she and Aunt Naggie had scrounged, bought, or traded for.
 
 That evening,
-the subject was climate change---again.
-Iffy groaned and turned the replay speed to max as the familiar story unfolded.
-Coal then oil then coal again...
-Forests cut down or worn to nothing by drought...
-Fish disappearing as pollution took its toll and currents shifted course,
-to be replaced by the jellyfish that the *Guinevere* now harvested...
-She skipped over the section showing how the warmer waters thawed
-the ancient methane ices on the sea floor,
-releasing even more greenhouse gases into the atmosphere.
+the subject was modern history---again.
+Iffy groaned and turned the interaction speed to maximum as the familiar story unfolded.
+People burned coal, then oil, then coal again...
+Forests were cut down or worn to nothing by drought as the winds shifted...
+Fish disappeared as pollution took its toll and the ecosystem collapsed,
+to be replaced by the jellyfish that now choked the seas...
+She skipped over the section on how the warming caused the ancient clathrate ice on the ocean floor to thaw,
+sending even more greenhouse gases into the atmosphere in an ever-accelerating spiral.
+She knew all she needed to about what giant bubbles could do
+to any ships unlucky enough to be above them.
 
-Suddenly restless once again,
-she took a deep breath and tapped one of the video squares on the control panel.
+She played through half a dozen sims,
+doing worse and worse as she went along.
+Suddenly restless again,
+she closed her homework,
+took a deep breath,
+and tapped one of the video squares on the control panel.
 "Hey," she said,
 her heart in her throat.
 "Don't mean to innerupt,
@@ -2923,15 +2928,7 @@ Wales said angrily.
 "The satellite couldn't see it,
 and it wasn't in the survey data.
 The last bot to go through must have---"
-
-"You takin' data from *bots*?" Uncle Jacked demanded.
-"Affin' hell, man,
-soon as we're out o' this,
-I'm puttin' you over the side!"
-
-Wales didn't answer.
-Instead,
-he closed his eyes and pressed a hand onto the control panel.
+He stopped himself and pressed a hand onto the control panel.
 The map and graphs vanished,
 replaced by a grainy image that quickly zoomed in to show
 the now-familiar outline of the Zillion ship.
@@ -2969,7 +2966,7 @@ She dragged her sleeve across her face.
 Wales said,
 the weary self-hatred in his voice saying as clearly as words
 that he knew how little that mattered.
-"The sim said it would just bubble enough to make them turn around."
+"The sims said it would just bubble enough to make them turn around."
 
 "Aff your sims!"
 Iffy shouted.
@@ -2979,7 +2976,7 @@ She turned and stumbled out of the pilot house.
 
 Her feet took her to the galley on auto-pilot.
 She yanked back the hatch and almost fell through.
-"Iffy, sweetie, what's wrong?"
+"Sweetie, what's wrong?"
 Aunt Naggie wrapped her meaty arms around her niece.
 
 "They're dead," Iffy cried.
@@ -2989,8 +2986,9 @@ Aunt Naggie wrapped her meaty arms around her niece.
 Her aunt hugged her tight,
 rocking her from side to side.
 "Oh, sweetie..."
-For a moment Iffy thought she heard another voice,
-but then there were just her tears.
+For a moment Iffy thought she heard another voice saying, "I love you so much,"
+but then there were just her tears and the hum of the engines
+and the muffled sound of the uncaring sea.
 
 ## Chapter 4
 

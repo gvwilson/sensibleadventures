@@ -1,6 +1,8 @@
 Nardica
 =======
 
+- figure out how Governor Stern and Rothera's core are connected
+
 - what's Mr. Mishra's role after the bombing?
   - Iffy gets a message saying that the Marines have been 'round
   - Jeep is somehow re-inducted

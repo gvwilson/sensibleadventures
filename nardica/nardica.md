@@ -3388,12 +3388,13 @@ Iffy nodded toward the toolboxes on the floor between them.
 Wales smiled.
 "There is that," he agreed.
 "And---ah, here we go."
-He stood and brushed his hands on his trousers
-as the door across from them swung open with soft pneumatic whoosh,
-revealing that it was as thick as Iffy's slab mattress.
+He stood and brushed his hands on his trousers,
+his only sign of nervousness
+as the door across from them swung open with soft pneumatic whoosh.
+It and the wall were as thick as Iffy's slab mattress.
 Armor?
 Soundproofing?
-She didn't have time to wonder before Doctor Johel came in.
+She didn't have time to wonder before Doctor Johel beckoned them to join her.
 "The governor will see you now," she said.
 "But I'm afraid you'll have to leave those here."
 
@@ -3413,7 +3414,7 @@ he whispered back,
 but then he grinned at her widened eyes
 and she didn't know if he was kidding or not.
 
-Ten steps brought them to a windowless office not much larger than the room they had been waiting in.
+The windowless office was not much smaller than the room they had been waiting in.
 Framed photographs on the walls traced the history of Rothera
 from its early days as a research station
 through the opening of the mines
@@ -3438,7 +3439,7 @@ The words seemed to come out of thin air.
 Iffy's jaw dropped as the air behind the desk shimmered
 to reveal a tall man in a formal dark turtleneck,
 slightly stooped with age but still strong,
-his face exactly like the photo that hung in the Sandhu's grocery store.
+his face exactly like the image that hung in the Sandhu's grocery store.
 
 "As you were,"
 Governor Stern said pleasantly,
@@ -3477,7 +3478,6 @@ against Wales' head.
 He raised his hands,
 saying,
 "It's not mine! It's not mine!"
-over and over
 as more Marines poured through the door behind them.
 
 "Sir, it's the G-80,"
@@ -3491,78 +3491,72 @@ as a section of the wall behind the governor's desk slid sideways
 to reveal a ramp leading down into the bedrock below the mansion.
 
 The governor stayed where he was.
-A single swipe of his hand enlarged one of the displays
-to show a top-down view of the front of the mansion
-just in time for them to see Doctor Johel's G-80 fire another micro-missile
+A single swipe of his hand enlarged a top-down display of the front of the mansion
+just in time to show Doctor Johel's G-80 fire another micro-missile
 at the swarm of four-legged robotic sentries swarming around it.
 Shriek---*crack!*
-The explosion threw the sentry twenty meters.
-The larger bot pivoted on its treads and swung one of its arms like a club
+The explosion threw the shattered sentry twenty meters.
+The G-80 pivoted on its treads and swung one of its arms like a club
 to knock another sentry into the air.
 
 "Doctor?" the governor asked calmly.
 "You told me its core was secure."
 
 "It was,"
-she replied, calm but angry.
+she replied,
+her voice icy instead of calm.
 "Mister Wales?"
 
-"Nothing to do with me,"
+"This has nothing to do with me,"
 Wales replied,
 his hands still in the air
-and his head tilted slightly to one side under the pressure of the Marine's gun
-pressed against the tech in his temple.
+and his head tilted slightly
+under the pressure of the Marine's gun against the tech in his temple.
 
 "Sir---" the Marine began again.
 
 "In a moment,"
-the governor said sharply,
-his eyes fixed on the display
-as a pair of sentries charged their larger opponent simultaneously.
-The big G-80 knocked one of them away
-and grabbed the second in one of its square claws.
+the governor said sharply.
+A pair of sentries charged their larger opponent simultaneously.
+The G-80 knocked the first one away
+and grabbed the second with its heavy square claws.
 
 The image flashed blue for a moment.
 "EMP?" Doctor Johel gasped disbelievingly.
 "It doesn't have a pulse generator!"
 
 The image reformed.
-The G-80 set the sentry it had caught down on the ground
-as the one it had knocked aside struggled back to its feet.
-The others stood frozen for a moment in a circle around it.
+The G-80 dropped the sentry it had caught.
+The other sentry bots stood frozen in a circle around it for a moment.
 Then,
 as one,
 they turned toward the mansion.
 
-The G-80 surged forward,
-its treads grinding the stairs that led up to the mansion's front door.
-Another shriek,
-another explosion,
-and the last thing Iffy saw before her aunt dragged her away
-was the sentries throwing themselves through the hole
-where the door had been just a moment before.
+The G-80's treads chewed on the stairs that led up to the front of the mansion.
+The last thing Iffy saw before her aunt dragged her away
+was the sentries charging through the hole the G-80 had just blown in the door.
 
 "Breach!"
 one of the Marines shouted.
 
 "Really?"
 Wales muttered sarcastically,
-his arms still over his head.
+his hands still in the air.
 
 Everything happened very quickly after that.
-One of the Marines opened the door to look down the corridor
-and fell back almost immediately,
-cursing at the sizzling laser burn on her arm.
+One marine opened the door to look down the corridor
+and fell back immediately,
+cursing the sizzling laser burn on her arm.
 Iffy barely had time to snatch up the pair of toolboxes by her chair
 before the other Marines hurried everyone down the stairs behind the governor's desk
 into a narrow zig-zag corridor that smelled of sweat and machinery.
-Pipes as thick as Iffy's forearm ran along the ceiling,
+Pipes ran along the ceiling,
 a color-coded mix of water, waste, secure optical cabling,
-and highways for the rat-sized security robots
+and highways for the rat-sized security bots
 that were scurrying madly to the mansion's defense.
 
 "Doctor?"
-the governor asked from up ahead of Iffy.
+the governor asked from the head of the procession.
 
 "No idea,"
 she puffed.
@@ -3590,18 +3584,17 @@ Aunt Naggie threw herself on her niece.
 Uncle Jack roared.
 "Keep movin'!"
 
-Needle fire crackled behind them as two of the Marines turned and began firing,
-their tech and tweaks stuttering the shots to break up any pattern or rhythm.
+Needle fire crackled behind them again as two of the Marines turned and returned fire,
+their tech and training breaking up any pattern or rhythm in their shots.
 "Go!"
 the sergeant ordered,
-half-waving and half-shoving them one by one
-through the door at the end of the corridor.
+shoving them one by one through the door at the end of the corridor.
 
 Wales stumbled and went down on one knee.
 "Sorry,"
 he gasped.
 Dark red blood spurted from twin punctures
-where the sentry's shot had punched through his leg.
+where a stray shot had punched through his leg.
 
 The sergeant took his arm and began to drag him forward.
 "No!"
@@ -3612,7 +3605,7 @@ To Iffy's horror,
 the purple square on the end of the toolbox had started blinking.
 
 "Cover me!"
-he ordered the sergeant.
+Wales ordered the sergeant.
 Without waiting to see if she did,
 he opened the toolbox and began pulling parts out.
 
@@ -3622,12 +3615,12 @@ even as she raised her gun and began firing back the way they had come.
 The smart bullets zinged and whined around the corners,
 hungry for targets.
 
-"My job," Wales muttered.
+"Start where you are," Wales muttered.
+"Start where you are, use what you have, do what you can."
 Two skeletal legs,
 a wheel of nested gears only slightly smaller than Iffy's hand,
 a complicated not-quite-a-box to hold it all together---all of a sudden
-Iffy could see the parts in her head,
-see how they all had to fit together.
+Iffy could see the parts in her head and how they had to fit together.
 
 "Not like that,"
 she said without thinking as Wales clipped a thumb-sized cylinder
@@ -3637,20 +3630,20 @@ It'll be more stable."
 
 Click---click.
 Wales made the change without hesitation or question,
-turned the little bot over for one last check,
+turned the newly-made bot over for one last check,
 then flung it past Iffy.
-Its gearwheel spinning madly,
-it scampered up the wall and along the ceiling.
+Its gyroscopic gearwheel spinning madly,
+the little machine scampered up the wall and along the ceiling.
 
 "If that's a bomb---"
 the sergeant began.
 
-"Multi-spectrum microwave laser,"
-Wales said crisply.
+"Directional broadband pulse,"
+Wales panted.
 *I know that,* Iffy realized incredulously.
 *How could I know that?*
 
-Wales struggled to his feet with a muttered curse,
+Wales struggled to his feet,
 swaying slightly before putting a hand on the wall to steady himself.
 Blood was no longer pumping out of his leg,
 but when he tried to take a step he almost collapsed.
@@ -3665,7 +3658,7 @@ He hopped forward on his good leg,
 gasping as his toolbox bumped against the wounded one.
 The purple light on its end was still blinking.
 
-Something scraped against concrete behind them.
+Something scraped concrete behind them.
 Iffy spun around as a lone sentry came around the corner.
 The now-empty micro-missile launcher on its back gave it a hunched appearance,
 and the fresh scratches on its side
@@ -3677,17 +3670,15 @@ their ammunition spent.
 The Marine sergeant pushed Wales away and fired in one smooth motion.
 The sentry jerked as her shot pinged off one of its mechanical knees.
 With a sound that could almost have been a growl
-it launched itself at them.
+it threw itself at them.
 
-A small gangly shape dropped from the ceiling
-and landed on its back.
-Iffy had just a moment to recognize the little bot
-that Wales had made just moments ago
+A small shape dropped from the ceiling and landed on its back.
+Iffy had just a moment to recognize Wales' toy bear
 before the lights went out again.
 One second, two, three...
 When they came back to life the sentry lay motionless on its side.
-Wales' creation stood over it,
-the tube that hung from its chassis still aimed at the sentry.
+Wales' toy bear stood over it,
+the blue light in its eyes extinguished.
 
 "Could you... could you please get that?"
 Wales asked Iffy weakly
@@ -3695,14 +3686,14 @@ as he slumped down against the wall.
 "I have a feeling we might need it again."
 
 A medic with two tech fingers on her right hand patched Wales up
-while the governor and Doctor Johel interrogated him.
+while the governor interrogated him.
 No,
 he repeated wearily,
 he had no idea how the G-80 had been compromised,
 or how it had infected the sentries.
 He had just been guessing when he said it was some sort of machine hypnosis.
 No,
-he wouldn't show them what else he had in his toolbox.
+he wouldn't show them what else he had in his toolbox---not yet.
 And yes,
 he did realize that made him look like he was hiding something,
 but---he shrugged.
@@ -3713,34 +3704,32 @@ with a whisker-slim instrument extruded from one of her tech fingers,
 or when she started to fill the hole with pink goo from a squeeze tube.
 He hadn't let go of his toolbox, either.
 
-"The question is, what?"
-The governor paced restlessly as he spoke,
-ignoring Uncle Jack, Aunt Naggie, and Iffy
-and only glancing at Doctor Johel when she spoke.
-"What kind of man has a fully functional military-issue satellite link in his head?"
+"The question is what?"
+The governor paced restlessly as he spoke.
+"And what kind of man has a fully functional mil sat link in his head?"
 
 Wales pushed the medic's hands away.
-"The sort who change the world for you," he said.
+"The sort who can change the world for you," he said.
 
-Governor Stern stopped and glared at him.
+Governor Stern pivoted to face him.
 "Oh really?"
+His eyes sparkled the same way as Doctor Johel's, Iffy suddenly realized.
 
 "Really."
-Wales sat up, wincing.
+Wales straightened up with a wince.
 "Or at least, give you the tools you need to do it yourself."
 When the governor raised an eyebrow,
-he plowed on.
+he continued,
 "There's a research base at the foot of Mount Tyree,
-a couple of hundred klicks inland from Paddington.
+a couple of hundred klicks inland from Paddington South.
 Half of it's still under the ice,
 but there's been enough melt to expose the entrance
 and some of the upper works."
 
-The governor closed his eyes.
-His fingers drummed instructions on his thighs for a moment.
-"All right, there's a base."
-He opened his eyes.
-"There are lots of old buildings lying around.
+The governor's fingers drummed on his thighs for a moment.
+"All right, there's a base,"
+he said as Rothera's core confirmed what Wales had said.
+"But there are a lot of old buildings lying around these days.
 What makes this one special?"
 
 "It was never really a research base."
@@ -3778,7 +3767,7 @@ The medic looked at the governor for permission.
 When the old man nodded,
 she said,
 "He's been tweaked, sir.
-Oxygen uptake, metabolic efficiency, chromatin---it'll take a while to sort it all out."
+Oxygen uptake, metabolic efficiency, chromatin structure---it'll take a while to sort it all out."
 
 Governor Stern shrugged.
 "And?"
@@ -3789,33 +3778,30 @@ He tapped the tech in his temple.
 "All sorts of digital garbage collects in here.
 If I don't re-set every few years,
 it starts to mess up my nervous system.
-As far as I can tell,
-the base is the last place on Earth with the gear I need."
+As far as I know,
+that base is the last place on Earth with the gear I need."
 
 The governor nodded slowly.
-"Interesting.
-All right.
+"Interesting."
+He communed for a moment with the city core,
+then nodded.
+"All right.
 Sergeant?"
 
 "Yes sir," the Marine said,
 speaking for the first time since she, Wales, and Iffy had survived the sentry's attack.
 
 "Take these three back to their ship.
-No comms.
 Just until I decide what to do next,"
 he continued
-as Uncle Jack opened his mouth to object.
+as Uncle Jack opened his mouth.
 "You can resupply while you wait,
-on the house.
+at city expense.
 Mister Wales,
 you'll be my guest here."
 
 Wales smiled.
 "I appreciate your hospitality."
-And with that,
-he lay back,
-closed his eyes,
-and almost immediately began to snore.
 
 ## Chapter 5
 

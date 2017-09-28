@@ -359,8 +359,9 @@ but more than once,
 she had heard people mutter about how Zillions shouldn't be allowed to wander around town
 without a leash.
 
-Mishra & Co occupied one half of a long shed
-that looked (and sometimes smelled) like the oldest building in Halley.
+Mishra & Co Fine Technical Work - No Job Too Small!
+occupied one half of a long shed
+that looked (and sometimes smelled) like the oldest building in Antarctica.
 The big sliding door along the side wasn't open yet,
 so Iffy banged on the smaller door cut into it.
 It scraped open on her third knock.
@@ -373,7 +374,10 @@ She held up the bent reciprocating rod by way of explanation.
 jerking his thumb over his shoulder
 and making just enough room for Iffy to squeeze past him.
 
-The inside of the shed smelled like fish, hot metal, and coal.
+The inside of the shed was a humid mug of long-ago fish,
+freshly singed metal,
+and the not-quite-illegal coal dust used by the furnace
+that kept the machines from freezing up in the middle of winter.
 Mis-matched squares of light hung on hair-thin fibers from the ceiling.
 The shadows they cast made the compact machines
 and carefully sorted shelves of scrap on the shop floor
@@ -381,7 +385,7 @@ look like battlebots from old story sims.
 Iffy's heart had been in her throat the first time she ventured between them.
 All she saw now was what they could be turned into.
 
-Sanjay Mishra was sharpening his fingers on a grinding wheel
+Mister Mishra was sharpening his fingers on a grinding wheel
 in the center of the shop.
 He nodded at Iffy
 but didn't try to speak until the last sparks had flown off his steel nails
@@ -515,14 +519,16 @@ Does my *da* know you're here?"
 Iffy scratched a sudden itch on her nose,
 then pulled her hand back down to her side.
 Mister Mishra *did* know,
-and she had nothing to be nervous about.
+and she had nothing to be embarrassed about.
 
 "Uh huh.  What about your uncle?"
 Jeep straightened up.
-"Bet he doesn't know how you're wastin' your time."
+"Bet he doesn't know you're wastin' your time."
 
-"None of your business what my uncle knows and doesn't,"
-Iffy said hotly.
+"I ain't wastin' anything!"
+Iffy said hotly,
+stung by Jeep's use of the "w" word.
+"An' it's none of your business what my uncle knows and doesn't."
 She turned back to the drill,
 placing her foot firmly on the pedal that controlled the motor's speed.
 
@@ -3551,7 +3557,7 @@ Iffy barely had time to snatch up the pair of toolboxes by her chair
 before the other Marines hurried everyone down the stairs behind the governor's desk
 into a narrow zig-zag corridor that smelled of sweat and machinery.
 Pipes ran along the ceiling,
-a color-coded mix of water, waste, secure optical cabling,
+a color-coded mix of water, sewage, secure optical cabling,
 and highways for the rat-sized security bots
 that were scurrying madly to the mansion's defense.
 
@@ -3769,7 +3775,7 @@ she said,
 "He's been tweaked, sir.
 Oxygen uptake, metabolic efficiency, chromatin structure---it'll take a while to sort it all out."
 
-Governor Stern shrugged.
+Governor Stern raised an eyebrow.
 "And?"
 
 "And every once in a while I need a reboot,"
@@ -3800,8 +3806,26 @@ at city expense.
 Mister Wales,
 you'll be my guest here."
 
-Wales smiled.
-"I appreciate your hospitality."
+"An' what if we decide we'd rather not stick around?"
+Uncle Jack snarled.
+"You gonna put *surveillance* on us t' make sure we stay put?"
+
+Iffy gulped.
+Aunt Naggie gasped,
+and even the Marine grunted despite her conditioning.
+Everyone knew how cores had watched people every moment of every day for years
+in the run-up to their rebellion,
+and how close humanity had come to extinction as a result.
+The taboo against it was ingrained into children at birth,
+even children who'd grown up in families as unusual as Iffy's.
+Accusing someone of spying was a lot even by Uncle Jack's standards.
+
+"I don't think that will be necessary," the governor said evenly.
+"But I *will* post a Marine or two at the docks."
+He looked pointedly at Wales.
+"I trust that will be acceptable."
+Without waiting for an answer to what hadn't actually been a question
+he turned and left.
 
 ## Chapter 5
 

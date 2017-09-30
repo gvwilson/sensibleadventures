@@ -1,6 +1,6 @@
 <!-- start: 2017-04-22 -->
 <!-- target: 60000 -->
-<!-- deadline: 2018-03-15 -->
+<!-- deadline: 2017-12-15 -->
 # Nardica<br>by Greg Wilson
 
 ## Chapter 1
@@ -3694,7 +3694,32 @@ Wales asked Iffy weakly
 as he slumped down against the wall.
 "I have a feeling we might need it again."
 
-A medic with two tech fingers on her right hand patched Wales up
+Iffy only managed two steps before the world swam around her.
+She heard Wales call her name,
+but it was as if he was speaking from unimaginably far away.
+Everything seemed distant and somehow tilted,
+the way it had the one time she had tried drinking one of Uncle Jack's more potent concoctions.
+She turned slowly,
+impossibly slowly,
+wondering who had replaced the walls with schematics.
+"That conduit is going to start leaking if someone doesn't mend it,"
+she tried to say,
+but the words wouldn't come out,
+and even if they did,
+Wales and the Marine had been replaced by schematics too.
+
+She woke up lying on a couch in yet another windowless office.
+Something about the damp air told her she was underground.
+She turned her head.
+"Hey, sleepy head," Aunt Naggie said,
+her soft voice and the gentle hand she put on her foster daughter's forehead
+completely failing to disguise her worry or relief.
+
+"Hey," Iffy replied.
+She started to sit up,
+but let her aunt stop her with only a mumbled protest.
+
+A medic with two tech fingers on her right hand was patching Wales up
 while the governor interrogated him.
 No,
 he repeated wearily,
@@ -3853,12 +3878,11 @@ he turned and left.
 
 ## Chapter 5
 
-"I will *not* go *anywhere* without more curry powder!"
-Aunt Naggie said emphatically.
+"I will *not* go *anywhere* until I've done some shopping!"
+Aunt Naggie said emphatically,
+straightening her back like a soldier expecting to be shot.
 "Because if I do,
 you'll be the first one to complain."
-She crossed her arms and straightened her back
-like a soldier waiting to be shot.
 
 For a moment Iffy was sure Uncle Jack would explode at her again,
 but to her surprise he back down.
@@ -3877,31 +3901,36 @@ punching her lightly in the shoulder.
 Her aunt smiled shakily.
 The Marines had driven them back to the pier half an hour before
 with strict orders not to tell anyone what had happened at the governor's mansion.
-The fact that there was nothing else on the news
-when Uncle Jack brought it up on the *Guinevere*'s control panel
-didn't seem to matter.
-
-One of the Marines had handed Aunt Naggie a black-edged silvery money card
-and told her to use it for whatever they needed.
-"But keep in mind,
-Finance will charge things back to you if it thinks they're luxuries,"
-he added pointedly.
-Uncle Jack scowled at that,
-his all-too-obvious plan to find a bar sunk before it ever set sail.
+The fact that the news on the *Guinevere*'s screens was talking about nothing else didn't seem to matter.
+Half of Antarctica seemed to think it was a stealthy first strike by the Zillions---or second,
+if the writer was counting the explosion at the quarantine shed in Halley.
+The other half was convinced the machines were about to rise again.
+Iffy's heart sank at the sight of a crowd armed with pulse guns and cutting torches
+chasing a maintenance bot through Halley's streets.
+It wasn't French Henry,
+but it would be soon if things didn't calm down.
 
 It only took Aunt Naggie a minute to gather up a trio of sturdy mesh bags
 and an ancient handheld piece of tech that would tell them if anything was toxic.
 After dragging a brush through her close-cropped hair
 and watching sternly while Iffy, protesting, did the same,
-she strode down the gangplank with her niece in tow.
-The Marine stationed there nodded at them as they went past.
-Iffy nodded back,
-wondering if he knew what had happened just a short hour ago
-and whether either of the Marines who had died had been his friends.
+she strode down the gangplank with her foster daughter in tow.
+
+One of the Marines stationed there listened patiently
+as Aunt Naggie explain ed where she was going.
+As she launched somewhat breathlessly into the details of her shopping list,
+he held up a hand to stop her
+and then gave her a black-edged money card.
+"Get whatever you need.
+But keep in mind that Finance will charge things back to you if it thinks they're luxuries,"
+he added,
+glancing pointedly over her shoulder at Uncle Jack.
+The *Guinevere*'s captain scowled at that,
+his all-too-obvious plan to find a bar sunk before it ever set sail.
 
 Rothera's streets were busy but not crowded.
-Its shops clustered along the harborfront like gulls standing just out of reach of the waves.
-Their signs seemed bigger and brighter than those in Halley.
+Its older stores clustered along the harborfront like gulls standing just out of reach of the waves,
+their signs bigger and brighter than those in Halley.
 Familiar cartoon characters and celebrities from far-off Australia beckoned,
 danced,
 pouted,
@@ -3910,40 +3939,42 @@ Iffy would have stopped in front of each one,
 but Aunt Naggie hurried past them,
 her expression set.
 She regarded shopping as a competitive sport,
-and Iffy could tell she had no intention of letting Rothera defeat her.
+and had no intention of letting Rothera get the better of her.
 
-The main market had once been an aircraft hangar.
+The main market had originally been an aircraft hangar.
 A century ago,
 someone with more money than sense had added a spun glass floor two stories above the ground.
-Their attempt to turn the building into "Nardica's Biggest, Bestest Dance Hall!!" had failed almost immediately.
-After a couple of unsuccessful attempts to oust the squatters and refugees who took it over after the war,
-the governor of the time had thrown up her hands
+Their attempt to turn the building into "The Big South's Biggest, Bestest Dance Hall!!" had failed almost immediately.
+After a couple of unsuccessful attempts to oust the squatters who took it over after the war
+(many in possession of surplus weapons,
+combat conditioning,
+and radical political ideas),
+the governor had thrown up his hands
 and let anyone who could pay two rand a month set up a stall.
-Still known as the Dance Hall,
-it reminded Iffy of nothing so much as the animated picture of an anthill in her older's nature book.
+Still called the Dance Hall,
+it reminded Iffy of nothing so much as the picture of an anthill in her older's nature book.
 
-Aunt Naggie tapped her money card on the reader held out by the bored guard at the door
+Aunt Naggie tapped her money card on the reader held out by the bored Marine at the door
 to pay her ten pence admission fee
-and then paused to take a deep breath.
-"Ah..." she sighed.
+and squared her shoulders.
 Noticing Iffy's look,
-she tousled her niece's hair.
+she relaxed slightly and nudged her foster daughter with her elbow.
 "Why'n't you go off an' see what you can find?" she said.
 "Or who, if you've a mind to?"
 
 Iffy felt her cheeks go warm.
 "You sure you don't need me?"
 
-Aunt Naggie glanced around.
+Aunt Naggie looked around.
 Greenhouse potatoes hung in net bags
-next to stacks of tinned apples.
+next to stacks of dried fruit in single-molecule shrink wrap.
 Burlap sacks of Cape Town rice piled higher than Iffy was tall
 threatened to topple onto a line of people gossipping with each other
 as they waited their turn to buy ginger, cardamom, and bay leaves
-from a one-legged Russian woman with tweaked hair
-that sparkled red and purple every time she turned her head.
+from a one-legged woman
+whose tweaked hair that sparkled red and purple every time she turned her head.
 A surgical bot that had been converted for tailoring stood motionless,
-four skeletal arms at its sides,
+its four skeletal arms at its sides,
 while a man with a shaven head and an enormous beard
 struggled into a coat that was still a size too small for him.
 "I'll be fine,"
@@ -3954,9 +3985,9 @@ Ten minutes later
 Iffy turned the corner onto Rocking Horse Street
 and hurried toward the stubby dead-end canal
 that Rothera's mechanics used as a repair yard.
-A sleek Marine cutter lay along one side
+A sleek Marine cutter was tied up on one side
 while crab-like bots scrambled over its sides
-scraping off the tweaked barnacles that would,
+scraping off the weaponized barnacles that would,
 if left unchecked,
 slowly devour its fractal carbon hull.
 Iffy would normally have stopped to watch,
@@ -3964,7 +3995,7 @@ but right then she had other things on her mind.
 
 She slowed to a walk as she approached the end of the canal.
 Her heart sank.
-Two people were working side by side in the salvage booth,
+Two women were working side by side in the salvage booth,
 but both were too old to be who she was hoping to see.
 She was about to turn to go when a familiar voice said,
 "Hey, Iffy!"
@@ -3989,12 +4020,12 @@ her voice muffled slightly by the rat fur collar on Honesty's coat.
 She slithered free of the hug and took a step back.
 "I'm fine,"
 she repeated.
-"It was just some bots."
+"It was just some bots that went rogue."
 
 "Just some bots?"
 Honesty repeated disbelievingly.
 "It was all over th' news.
-It looked like it the war come back!"
+It looked like the war come back around!"
 
 "It wasn't all that,"
 Iffy said dismissively.
@@ -4002,13 +4033,13 @@ Honesty had changed her tattoos again, she noticed.
 And she'd done some more embroidery on the cuffs of her coat to match.
 
 "But what happened?
-I mean, really happened, not just sim happened."
+I mean, really happened, not just officially happened?"
 Honesty slipped her arm through Iffy's
 as if it was the most natural thing in the world
-and began walking toward the blind end of the canal.
+and began walking toward her family's workshop at the end of the canal.
 
 Iffy felt into step alongside her,
-desperately hoping that Honesty couldn't hear her heart thudding in her chest.
+desperately hoping her friend couldn't hear her heart thudding in her chest.
 The Rotheran girl was three years her senior.
 She had been singing on a street corner two blocks from the Dance Hall market
 when Iffy first saw her.
@@ -4023,9 +4054,9 @@ but each time had been---
 Honesty rolled her eyes.
 "I *said*,
 why were you up there?
-You're not *that* fancy."
+You gettin' fancy or somethin'?"
 
-"I ain't fancy a'tall,"
+"I ain't never fancy!"
 Iffy protested automatically.
 "We just kinda got dragged inta things."
 She summarized Johnson Wales and the last few days as briefly as she could,

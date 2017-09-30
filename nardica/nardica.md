@@ -3627,16 +3627,16 @@ a wheel of nested gears only slightly smaller than Iffy's hand,
 a complicated not-quite-a-box to hold it all together---all of a sudden
 Iffy could see the parts in her head and how they had to fit together.
 
-"Not like that,"
-she said without thinking as Wales clipped a thumb-sized cylinder
-on top of the box.
-"Put it underneath.
-It'll be more stable."
+"Lemme do that,"
+she said as Wales's shaking hands dropped a thumb-sized cylinder on the floor.
+She twisted two already-assembled parts around,
+tightened them,
+and clipped the cylinder into the holder they made on the bottom.
+"It'll be more stable like this."
 
-Click---click.
-Wales made the change without hesitation or question,
-turned the newly-made bot over for one last check,
-then flung it past Iffy.
+Wales handed her more parts without hesitation or question.
+When she handed the newly-made bot back to him
+he turned it over for one last check and then flung it past Iffy.
 Its gyroscopic gearwheel spinning madly,
 the little machine scampered up the wall and along the ceiling.
 
@@ -3645,8 +3645,12 @@ the sergeant began.
 
 "Directional broadband pulse,"
 Wales panted.
+"It'll blind them for sure,
+knock them out if we're lucky."
+
 *I know that,* Iffy realized incredulously.
-*How could I know that?*
+*How could I know that?
+How did I know how to put it together?*
 
 Wales struggled to his feet,
 swaying slightly before putting a hand on the wall to steady himself.
@@ -3656,7 +3660,7 @@ but when he tried to take a step he almost collapsed.
 the sergeant said.
 She switched her gun to her other hand and slipped under his shoulder.
 
-That was when the lights went out.
+The lights went out.
 Iffy's heart skipped a beat even as they flickered back to life.
 "That's one," Wales grunted.
 He hopped forward on his good leg,
@@ -3672,8 +3676,8 @@ made its camouflage flicker and jump.
 Twin needle guns on the sides of its head chattered,
 their ammunition spent.
 
-The Marine sergeant pushed Wales away and fired in one smooth motion.
-The sentry jerked as her shot pinged off one of its mechanical knees.
+The Marine pushed Wales away and fired two quick shots.
+The sentry jerked as the shaped needles pinged off one of its mechanical knees.
 With a sound that could almost have been a growl
 it threw itself at them.
 
@@ -3682,8 +3686,8 @@ Iffy had just a moment to recognize Wales' toy bear
 before the lights went out again.
 One second, two, three...
 When they came back to life the sentry lay motionless on its side.
-Wales' toy bear stood over it,
-the blue light in its eyes extinguished.
+The toy bear stood over it,
+the blue light in its eyes fading, fading, gone.
 
 "Could you... could you please get that?"
 Wales asked Iffy weakly
@@ -3700,21 +3704,30 @@ He had just been guessing when he said it was some sort of machine hypnosis.
 No,
 he wouldn't show them what else he had in his toolbox---not yet.
 And yes,
-he did realize that made him look like he was hiding something,
-but---he shrugged.
-"That's because I am," he said,
+he did realize that made him look like he was hiding something.
+"But that's because I am," he said,
 eyeing his cut-off trouser leg sadly.
 He hadn't flinched when the medic probed his wound
-with a whisker-slim instrument extruded from one of her tech fingers,
+with a whisker-slim instrument extruded from one of her metal fingers,
 or when she started to fill the hole with pink goo from a squeeze tube.
 He hadn't let go of his toolbox, either.
 
 "The question is what?"
 The governor paced restlessly as he spoke.
-"And what kind of man has a fully functional mil sat link in his head?"
+"What kind of man has a fully functional mil sat link in his head,
+and an unregistered clone as an apprentice?"
 
-Wales pushed the medic's hands away.
-"The sort who can change the world for you," he said.
+Iffy froze at the word "clone".
+It was something other children had called her when she was little to make her cry,
+something Uncle Jack muttered just loudly enough to be overheard
+when he was in a particularly bad mood.
+"Nothin' to be ashamed of,"
+Aunt Naggie said firmly the one time Iffy talked to her about it.
+"Y'are who y'are, an' I love who y'are, and that's the all of it."
+
+But Wales didn't seem to hear the word, or care.
+He pushed the medic's hands away.
+"The sort of man who can change the world for you," he said.
 
 Governor Stern pivoted to face him.
 "Oh really?"
@@ -3727,28 +3740,33 @@ When the governor raised an eyebrow,
 he continued,
 "There's a research base at the foot of Mount Tyree,
 a couple of hundred klicks inland from Paddington South.
-Half of it's still under the ice,
-but there's been enough melt to expose the entrance
-and some of the upper works."
+It was originally buried under a couple of hundred meters of ice,
+but there's been enough melt to expose the entrance."
 
-The governor's fingers drummed on his thighs for a moment.
+The governor's fingers drummed on his thighs as he queried Rothera's core.
 "All right, there's a base,"
-he said as Rothera's core confirmed what Wales had said.
-"But there are a lot of old buildings lying around these days.
+he said as the core confirmed Wales' information.
+"But sometimes it seems as though everybody who was anybody
+built some kind of secret lab down here.
 What makes this one special?"
 
-"It was never really a research base."
-Wales glanced at Doctor Johel.
+"It was never really a lab.
+Or at least, not just a lab."
+Wales locked eyes with Doctor Johel.
 "It was a backup ground station for the Niobium network.
-And it's still functional."
+And as far as I can tell,
+it's still functional."
 
-"You're lying,"
+"That's ridiculous,"
 Doctor Johel said,
 as calmly as if she ordering a cup of tea.
-"Governor, he---"
+"Governor,
+I was part of the last team that tried to reactivate Niobium.
+I spent years digging into the records,
+and there was no hint in any of them of a backup station."
 
-The governor shushed her with a wave.
-"Convince me," he said curtly.
+The governor raised a hand to interrupt her.
+"Convince me," he ordered Wales.
 
 Wales closed his eyes
 and reeled off a list of coordinates.
@@ -3760,8 +3778,8 @@ they recognized at least some of them.
 you can see everything the Brazilians have,
 every moment of the day."
 
-"And you're just going to give that to us out of the goodness of your heart,"
-the governor said flatly.
+"And you're just going to give that to us out of the goodness of your heart?"
+the governor asked pointedly.
 
 Wales smiled wanly.
 "Of course not."
@@ -3774,17 +3792,24 @@ she said,
 "He's been tweaked, sir.
 Oxygen uptake, metabolic efficiency, chromatin structure---it'll take a while to sort it all out."
 
-Governor Stern raised an eyebrow.
+Governor Stern cocked his head to one side.
 "And?"
+Every tenth person in Antarctica had some sort of genetic tweak,
+most of them inherited from grandparents or great-grandparents
+who had been born at a time when the tech could still be afforded
+by people who weren't rich.
 
 "And every once in a while I need a reboot,"
 Wales said.
 He tapped the tech in his temple.
-"All sorts of digital garbage collects in here.
+"This and my neurological tweaks don't get along as well as they were meant to.
 If I don't re-set every few years,
-it starts to mess up my nervous system.
-As far as I know,
-that base is the last place on Earth with the gear I need."
+my nervous system will start to shut down.
+I used to be able to get what I needed from a lab in Nairobi,
+but since the civil war re-started..."
+He shrugged.
+"As far as I know,
+that base is now the last place on Earth with the gear I need."
 
 The governor nodded slowly.
 "Interesting."

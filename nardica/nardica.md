@@ -83,8 +83,8 @@ that would have swallowed a lifeboat.*
 but even more of a miracle that she was allowed to stay on the ship that found her.
 The man she learned to call Uncle Jack didn't like children.
 Or animals.
-Or foreigners or the governor or the people who bought his catch
-or the ones who sold him supplies
+Or foreigners or the governor or the co-operatives that bought his catch
+or the ones that sold him supplies
 or passers-by who looked at him the wrong way
 or didn't have the decency to look at him at all.
 He would have dumped her on the dock and walked away.
@@ -241,7 +241,7 @@ There was a bruise on his forehead that hadn't been there the evening before,
 Iffy noticed.
 That might mean a visit from the police later.
 He'd rave on for an hour if they came
-about how the governor was just another rock-hogging idiot
+about how the governor was just another tech-headed idiot
 who would sell them all out to the Euros or the Zillions
 as soon as she could get a decent price,
 then repeat the rant to Aunt Naggie word for word.
@@ -1287,8 +1287,7 @@ Wales chuckled.
 Come on."
 He glanced up as one of the city's drones zipped past overhead.
 Lights sparkled briefly in the rectangle set into his temple,
-making Iffy wonder how much of the scene in the street
-the drones were actually reporting back to Halley's central core.
+making Iffy wonder how honestly the drones were reporting the scene to Halley's central core.
 
 Picking up their respective loads,
 they walked side by side down a narrow side street

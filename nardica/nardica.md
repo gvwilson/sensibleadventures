@@ -1,6 +1,6 @@
 <!-- start: 2017-04-22 -->
 <!-- target: 60000 -->
-<!-- deadline: 2017-12-15 -->
+<!-- deadline: 2018-03-01 -->
 # Nardica<br>by Greg Wilson
 
 ## Chapter 1

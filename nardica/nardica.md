@@ -4013,27 +4013,27 @@ She always felt awkward around Honesty,
 especially when they were close enough
 that she could smell whatever flowery concoction the other girl used to wash her hair,
 but it was a good kind of awkward.
+
 "I'm fine,"
 she said,
-her voice muffled slightly by the rat fur collar on Honesty's coat.
-
+her voice muffled slightly by the fake rat fur collar on Honesty's coat.
 She slithered free of the hug and took a step back.
 "I'm fine,"
 she repeated.
-"It was just some bots that went rogue."
+"It was just some bots gone rogue."
 
 "Just some bots?"
 Honesty repeated disbelievingly.
-"It was all over th' news.
-It looked like the war come back around!"
+"Didn't look like that on th' news.
+Looked like the war come back 'round!"
 
 "It wasn't all that,"
 Iffy said dismissively.
-Honesty had changed her tattoos again, she noticed.
+Honesty had changed the tattoos on her cheeks again, she noticed.
 And she'd done some more embroidery on the cuffs of her coat to match.
 
 "But what happened?
-I mean, really happened, not just officially happened?"
+I mean, really happened, not just official happened?"
 Honesty slipped her arm through Iffy's
 as if it was the most natural thing in the world
 and began walking toward her family's workshop at the end of the canal.
@@ -4041,7 +4041,7 @@ and began walking toward her family's workshop at the end of the canal.
 Iffy felt into step alongside her,
 desperately hoping her friend couldn't hear her heart thudding in her chest.
 The Rotheran girl was three years her senior.
-She had been singing on a street corner two blocks from the Dance Hall market
+She had been singing on a street corner across from the Dance Hall market
 when Iffy first saw her.
 She hadn't meant to stop,
 but then Honesty caught her eye and smiled in the middle of the chorus of *Northwest Passage*
@@ -4056,20 +4056,22 @@ Honesty rolled her eyes.
 why were you up there?
 You gettin' fancy or somethin'?"
 
-"I ain't never fancy!"
-Iffy protested automatically.
+"I ain't never gettin' fancy!"
+Iffy protested automatically,
+her accent thickening unconsciously to match her friend's.
 "We just kinda got dragged inta things."
 She summarized Johnson Wales and the last few days as briefly as she could,
 skating past what had happened to the Zillion ship
 and her part in assembling the bot that had saved them at the mansion.
+She still didn't want to think about that...
 
 Her story still left Honesty wide-eyed.
 "Tay bangle, that's a real adventure, innit?"
 She bumped her hip against Iffy's,
 but her tone turned serious as she nodded at the Marine cutter under repair beside them.
 "So's that why we got th' ganky to finish up this 'un?
-'Cuz my dad,
-he thought we had a coupla weeks,
+'Cuz my First,
+she thought we had a coupla weeks f'r th' job,
 but the blues come along day b'fore last an' said we gotta be done t' sail soonest."
 
 Iffy gulped.
@@ -4080,18 +4082,25 @@ and sent the Zillion ship to the bottom.
 Honesty bumped her hip against Iffy again.
 "Good,"
 she said firmly.
-"'Cuz they're payin' extra, an' we can use the jing.
+"'Cuz they payin' extra, an' we can use the jing.
+Second wants t' make another'n,"
+she confided with a grin.
+"So's I'd have a li'l sister.
+Wou'nt that be a thing?
 Now c'mon---I bet there's tea brewed."
 She unhooked her arm from Iffy's and took the younger girl's hand.
 
-Iffy opened her mouth,
-but before she could say anything,
+Iffy's mind whirled.
+Another clone?
+It made sense---Honesty had turned sixteen,
+so they'd be spaced far enough apart to be on the right side of legal---but...
+Before she blurt out any of the dozen questions swirling around in her head,
 Honesty squeezed her fingers painfully hard and shot her a warning sidelong glance.
+
 Iffy's mouth snapped shut.
 Thumb, middle finger, first finger, middle finger...
 She almost stumbled as she recognized the schoolyard code
-that children used to hide what they were saying to teach other
-from adults' cameras and microphones.
+that children used to hide what they were saying to each other from adults.
 Little finger and fourth finger together,
 middle finger,
 middle and fourth...
@@ -4101,47 +4110,57 @@ They had left some cheese behind
 (no, that didn't make any sense, Honesty must have meant some cameras),
 so they had to be careful what they said.
 
-She squeezed Honesty's hand to signal that she understood.
-There was no point trying to spot the cameras---they could be as small as grains of sand
-as long as there were enough of them to relay what they heard and saw
-back to whichever monkey-smart core had been tasked with keeping an eye on the repair yard.
-But when she loosened her grip,
+There was no point trying to spot the cameras---they
+could be as small as grains of sand,
+as long as there were enough of them.
+Each would pass information to the next in low-energy micro-bursts of not-quite-static
+until it reached whatever monkey-smart core the Marines had told to keep an eye on the repair yard.
+That core wouldn't sleep and wouldn't get bored,
+but it couldn't see everything.
+The machine wars migth have ended long ago,
+but the tricks people had used to stay alive and fight back
+still worked---at least,
+Iffy hoped they did.
+
+She squeezed Honesty's hand twice to signal that she understood.
+When she tried to loosen her grip,
 Honesty tightened hers.
 Iffy waited for more taps.
 When they didn't come,
 she realized that her friend was sending a different kind of message.
-She walked the last hundred meters to the salvage booth with a smile on her face
-that would have made her aunt blink in disbelief.
+She walked the last hundred meters to the workshop with a dazed smile on her face
+that would have made her aunt sigh happily.
 
-Honesty's father and uncle looked up and said, "G'day," simultaneously
+Honesty's First and Second looked up and said, "G'day," simultaneously
 as Honesty pulled aside the splotched canvas curtain
 that hung in the salvage booth's doorway.
 "You gi'n her th' news yen?"
-her father asked,
-his Aussie accent as strong as the tea he poured for Iffy.
+her First asked,
+her accent as strong as the tea she poured for Iffy without asking.
 
 Honesty rolled her eyes.
-"Daaaad!"
+"Seriously!?"
 
 "Sorry,"
-her father said unapologetically.
-Her uncle looked up from his workbench long enough to grin,
-his magnifying glasses making his eyes look cartoon-huge.
+her First said unapologetically.
+Her Second looked up from her workbench long enough to grin,
+her magnifying glasses making her eyes look cartoon-huge.
 
 "What news?"
 Iffy asked.
 
-Honesty hesitated.
-"I got my call-up yesterday," she finally blurted.
-"Whole bunch of us did.
-We got induction tonight."
+"I got call-up yesterday," Honesty blurted.
+"Whole bunch of us 'long the docks got 'em.
+We gotta go 'long induction t'night."
 
 Iffy's jaw dropped.
 "Tonight?
 What's th' rush?"
 
 Honesty shrugged,
-settling herself on a stool next to her own workbench.
+settling herself on a stool next to the square meter of workbench
+where she practiced her salvage skills
+on the easier bits and pieces of tech that came her family's way.
 "Dunno.
 Lotsa folk are askin' that,
 but the blues ain't saying',
@@ -4154,37 +4173,39 @@ Anger suddenly welled up inside her.
 "Seems like I don't know nothin' these days."
 
 "Aw, that ain't true,"
-Honesty's father said.
-"Here."
-He tossed the piece of tech he'd been patiently scraping clean to Iffy.
+Honesty's First said.
+Her face and smile were more practiced versions of her grand-younger's.
+Where Honesty had temporary tattoos,
+her First had a fine network of scars left behind by some long-ago accident.
+She tossed the piece of tech she'd been patiently scraping clean to Iffy.
 "Bet you know what that's for."
 
-Iffy turned it over in her hands.
+Iffy caught it and turned it over in her hands.
+It was made of metal, and heavier than she'd have guessed.
 Microparticles of ocean plastic had worked themselves into its tiny intricate gears,
 giving it the all-too-familiar soapy feel of age and neglect.
 Some of the different kinds of plastic would have welded to each other,
-she knew,
 weaving a hard fractal mass through the gears
-that couldn't be pulled out without tearing off their tiny teeth.
+that couldn't be pulled out of them without tearing off their tiny teeth.
 It would take hours of patient work with ice,
 acids,
 and micro-manipulators to tease it all apart,
 and at the end all they'd have would be---
 
-"It's a differential separator pump," she said to Honesty's father
+"It's a differential separator pump," she said to Honesty's First
 as the shapes came together in her head to form an answer.
 "Prob'ly hooks up to a centrifuge or somethin'
 for filterin' blood durin' surgery."
 
 "Really?"
-Honesty's father passed it to his brother,
+Honesty's First passed it to her Second,
 who studied it for a moment,
 shrugged as if to say, "Could be,"
 and handed it back.
 
-Honesty's father set it back down on his workbench and picked up his long-cold tea.
+Honesty's First set it back down on her workbench and picked up her own long-cold tea.
 "Y'oughta come by more often---there'd be plenty for you t' do,
-an' the missus is alluz happy t'have one more fer dinner."
+an' we's alluz happy t'have one more fer dinner."
 
 "Thanks," Iffy mumbled.
 She drained the last of her own tea and stood up.

@@ -4082,11 +4082,10 @@ and sent the Zillion ship to the bottom.
 Honesty bumped her hip against Iffy again.
 "Good,"
 she said firmly.
-"'Cuz they payin' extra, an' we can use the jing.
-Second wants t' make another'n,"
+"'Cuz they payin' up'n'all, an' we can use the jing.
+Second wants t' make another li' sister,"
 she confided with a grin.
-"So's I'd have a li'l sister.
-Wou'nt that be a thing?
+"Wou'nt that be a thing?
 Now c'mon---I bet there's tea brewed."
 She unhooked her arm from Iffy's and took the younger girl's hand.
 
@@ -4110,20 +4109,22 @@ They had left some cheese behind
 (no, that didn't make any sense, Honesty must have meant some cameras),
 so they had to be careful what they said.
 
-There was no point trying to spot the cameras---they
-could be as small as grains of sand,
+There was no point trying to spot the cameras.
+They could be as small as grains of sand,
 as long as there were enough of them.
-Each would pass information to the next in low-energy micro-bursts of not-quite-static
-until it reached whatever monkey-smart core the Marines had told to keep an eye on the repair yard.
+Each would pass information to the next in low-energy bursts of not-quite-static
+until it reached whatever tiny core the Marines had told to keep an eye on the repair yard.
 That core wouldn't sleep and wouldn't get bored,
-but it couldn't see everything.
-The machine wars migth have ended long ago,
+but it couldn't see everything---if people ever thought the governor was using surveillance,
+they'd strike.
+
+She squeezed Honesty's hand twice to signal that she understood.
+The machine wars might have ended long ago,
 but the tricks people had used to stay alive and fight back
 still worked---at least,
 Iffy hoped they did.
 
-She squeezed Honesty's hand twice to signal that she understood.
-When she tried to loosen her grip,
+When Iffy tried to loosen her grip,
 Honesty tightened hers.
 Iffy waited for more taps.
 When they didn't come,
@@ -4131,45 +4132,48 @@ she realized that her friend was sending a different kind of message.
 She walked the last hundred meters to the workshop with a dazed smile on her face
 that would have made her aunt sigh happily.
 
-Honesty's First and Second looked up and said, "G'day," simultaneously
+Honesty's First and Second looked up and said, "G'day, Third," simultaneously
 as Honesty pulled aside the splotched canvas curtain
 that hung in the salvage booth's doorway.
-"You gi'n her th' news yen?"
+"You gi'n her th' bad news yen?"
 her First asked,
 her accent as strong as the tea she poured for Iffy without asking.
 
-Honesty rolled her eyes.
-"Seriously!?"
+Honesty pouted.
+"I's gonna!"
 
 "Sorry,"
 her First said unapologetically.
-Her Second looked up from her workbench long enough to grin,
-her magnifying glasses making her eyes look cartoon-huge.
+Her Second looked up from her workbench long enough to grin.
+The magnifying glasses making her eyes look cartoon-huge
+in a face that showed how beautiful Honesty's would be in a few more years.
 
-"What news?"
+"What bad news?"
 Iffy asked.
 
-"I got call-up yesterday," Honesty blurted.
-"Whole bunch of us 'long the docks got 'em.
-We gotta go 'long induction t'night."
+"My call-up came 'long yesterday," Honesty said reluctantly.
+"Whole bunch o' folk 'long the docks got 'em.
+We gotta go do induction t'night."
 
-Iffy's jaw dropped.
+Iffy's stomach flip-flopped.
 "Tonight?
 What's th' rush?"
 
 Honesty shrugged,
 settling herself on a stool next to the square meter of workbench
-where she practiced her salvage skills
-on the easier bits and pieces of tech that came her family's way.
+where she worked to salvage
+the easier bits and pieces of tech that came her family's way.
 "Dunno.
-Lotsa folk are askin' that,
+Lotsa folk are wonderin' why the quaddy quaddy,
 but the blues ain't saying',
 'cept that it came straight from th' governor.
-Figure it's got somethin' to do with th' bots attackin' th' mansion?"
+Figure it's got somethin' to do with th' bots going gonjy 'long th' mansion?"
 
 "I dunno,"
 Iffy said.
 Anger suddenly welled up inside her.
+Jeep had *changed* when the Marines pumped their rules and tactics into his head.
+What would it do to her friend?
 "Seems like I don't know nothin' these days."
 
 "Aw, that ain't true,"
@@ -4184,33 +4188,36 @@ Iffy caught it and turned it over in her hands.
 It was made of metal, and heavier than she'd have guessed.
 Microparticles of ocean plastic had worked themselves into its tiny intricate gears,
 giving it the all-too-familiar soapy feel of age and neglect.
-Some of the different kinds of plastic would have welded to each other,
-weaving a hard fractal mass through the gears
-that couldn't be pulled out of them without tearing off their tiny teeth.
+The different kinds of plastic would have welded to each other
+to weave a hard fractal mass through the gears
+that couldn't be pulled out of them without damaging their tiny micro-precise teeth.
 It would take hours of patient work with ice,
-acids,
+acid,
+tweaked bacteria,
 and micro-manipulators to tease it all apart,
 and at the end all they'd have would be---
 
-"It's a differential separator pump," she said to Honesty's First
+"It's a differential separator pump," she told Honesty's First
 as the shapes came together in her head to form an answer.
 "Prob'ly hooks up to a centrifuge or somethin'
 for filterin' blood durin' surgery."
 
-"Really?"
-Honesty's First passed it to her Second,
+"'Zat so?"
+Honesty's First said,
+impressed.
+She caught the part when Iffy threw it back to her and passed it to her Second,
 who studied it for a moment,
 shrugged as if to say, "Could be,"
-and handed it back.
+and set it on the to-do rack that lined the wall behind the workbench.
 
-Honesty's First set it back down on her workbench and picked up her own long-cold tea.
+Honesty's First picked up her own long-cold tea.
 "Y'oughta come by more often---there'd be plenty for you t' do,
 an' we's alluz happy t'have one more fer dinner."
 
-"Thanks," Iffy mumbled.
+"Thanks," Iffy mumbled,
+uncomfortable as always with kindness.
 She drained the last of her own tea and stood up.
-"I gotta get back to Aunt Naggie.
-Maybe see you later?"
+"I gotta get back t' help Aunt Naggie do th' shopping."
 
 "Sure," Honesty said, smiling again.
 "I'll walk you out."
@@ -4234,50 +4241,74 @@ right?
 "I s'pose," Iffy said.
 
 "Oh c'mon."
-Honesty bumped her hip against Iffy's one more time.
-"M' dad and Uncle Osman asked two different cores about that piece o' tech.
-Neither of 'em could make sense of it,
-an' then you jus' come right out an' tell 'em what it is."
+Honesty bumped her hip against Iffy's.
+"M' First and Uncle Osman 'long by Pier Nine asked two different cores
+about that piece o' tech she showed you.
+Neither of 'em had a clue what it was,
+an' then you jus' come right out an' tell 'em.
+The stuff you have in your head,"
+she finished admiringly,
+shaking her own in wonder.
 
 Iffy mumbled that it was just a guess,
-not wanting to admit to Honesty or herself that she had no idea how she had known what it was.
-They said their goodbyes by the bow of the Marine cutter.
+not wanting to admit to Honesty or herself that
+she had no idea how she knew half of what she did.
+They said goodbye by the bow of the Marine cutter.
 One of the repair bots paused a moment to watch them kiss,
-its simple core wondering who was repairing whom,
-and then Iffy turned to hurry back to the Dance Hall and her aunt.
+its simple-minded core wondering who was repairing whom,
+then erased the thought as Iffy hurried back into town
+to the Dance Hall and her aunt.
 
-The streets around the market were crowded by the time Iffy got back.
-Four Chinese Mormons handed out glossy animated pamphlets
+The streets around the market were crowded by the time Iffy got there.
+Four Nugini Mormons handed out glossy animated pamphlets
 advertising their church's insurance policies,
-smiling forgiveness at a ragged man whose face and hands were covered with tech both real and fake
-yelling that the Singularity had come,
+smiling forgiveness at a ragged man yelling that the Singularity had come,
 they were all living in a simulation,
 the data proved it,
 they just had to look at the data and they would see the truth!
-A bot with a rasping voice and an ancient wooden Nugini mask for a face
-told stories to a circle of wide-eyed children.
-Two bald women who might have been clones but were probably just twins
-wheeled a cart piled high with sheepskins
+A bot with a rasping voice and an ancient plastic mask for a face
+told stories to a circle of wide-eyed children,
+its cut-out paper puppets dancing as Zuko battled Princess Leia
+while Aang struggled to free Elsa from the grip of the winter she had made.
+Two bald women who might have been twins but were probably just clones
+wheeled a cart piled high with tweaked moss blankets
 past two men arguing beside another cart piled just as high
-with sheets of farmed moss.
+with sheets of diamond so clear that only the rainbows they cast on the ground gave them away.
 The smell of soy being fried in ginger
-mixed with the wet steamy warmth from rice cookers
-and the salty tang of tweaked seaweed being boiled into soup.
+mixed with the wet steamy warmth from rice cookers,
+the salty tang of tweaked seaweed being boiled into soup,
+and the smell of people who washed when they could.
 
-Iffy paused longingly in front of a stall selling rats with startling blue eyes as pets.
-"Or snacks,"
+Iffy paused longingly in front of a stall selling rats with startling blue eyes.
+"They make great pets.
+Or snacks!"
 the man said,
 hastily adding, "Just kidding! Just kidding!"
 when Iffy scowled.
-She held her finger a few millimeters from the front of one of the cages
+"And look!"
+He leaned over and said,
+"Ratty want a cracker?"
+
+"Idjit!"
+the rat squeaked back.
+"Yer an idjit!"
+
+"See?"
+the man said proudly.
+"They come with a hunnert words wired in,
+an' you can teach 'em a coupla hunnert more!"
+
+Iffy held her finger a few millimeters from the front of one of the cages
 for the rat it held to sniff,
 then hurried on her way.
 *One day*,
 she promised herself.
-One day,
-but not while she was on the *Guinevere* and Uncle Jack was her captain.
-He wouldn't eat it---he'd just shout about vermin
-and throw it over the side.
+One day she'd have plants and pets and a workshop
+and Honesty would come by all the time.
+(Even in her daydreams, she didn't dare imagine that they would live together.)
+One day---but not while she was on the *Guinevere* and Uncle Jack was her captain.
+He wouldn't eat it.
+He'd just shout about vermin and throw it over the side.
 
 The Dance Hall was just as busy inside as out.
 Iffy tried slipping through the crush the way Honesty did,

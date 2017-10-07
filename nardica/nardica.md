@@ -1281,7 +1281,7 @@ crossing her arms in unconscious imitation of the *Taroona*'s captain.
 
 Wales smiled briefly.
 "Sorry.
-Are y'aright to carry that down s'far as the caffy?"
+Are you kappa to carry that down s'far as the caffy?"
 
 Iffy wrinkled her nose.
 "That was terrible," she judged witheringly.
@@ -3913,10 +3913,14 @@ but it would be soon if things didn't calm down.
 
 It only took Aunt Naggie a minute to gather up a trio of sturdy mesh bags
 and an ancient handheld piece of tech that would tell them if anything was toxic.
+Iffy slipped a few of her smaller tools into a waistbelt under her coat---if
+she was lucky,
+someone in the market would have mending work she could do for a few rand
+while Aunt Naggie hunted for onions and soy and noodles.
+
 After dragging a brush through her close-cropped hair
 and watching sternly while Iffy, protesting, did the same,
-she strode down the gangplank with her foster daughter in tow.
-
+Aunt Naggie strode down the gangplank with her foster daughter in tow.
 One of the Marines stationed there listened patiently
 as Aunt Naggie explain ed where she was going.
 As she launched somewhat breathlessly into the details of her shopping list,
@@ -4115,9 +4119,10 @@ There was no point trying to spot the cameras.
 They could be as small as grains of sand,
 as long as there were enough of them.
 Each would pass information to the next in low-energy bursts of not-quite-static
-until it reached whatever tiny core the Marines had told to keep an eye on the repair yard.
-That core wouldn't sleep and wouldn't get bored,
-but it couldn't see everything---if people ever thought the governor was using surveillance,
+until it reached whatever bored Marine had been told to keep an eye on the repair yard.
+A core would have done a better job---it wouldn't get bored or doze for just a moment
+despite its induction conditioning---but if people ever thought that
+the governor was using cores for surveillance,
 they'd strike.
 
 She squeezed Honesty's hand twice to signal that she understood.
@@ -4211,14 +4216,60 @@ She caught the part when Iffy threw it back to her and passed it to her Second,
 who studied it for a moment,
 shrugged as if to say, "Could be,"
 and set it on the to-do rack that lined the wall behind the workbench.
+"How 'bout this?"
+
+The machine she passed to Iffy was the size of her two hands put together
+and feather-light.
+Flat and triangular,
+with a rotor fan centered in each corner,
+it was obviously a drone,
+but not any kind that Iffy recognized.
+She turned it over in her hands.
+"Dunno," she admitted.
+
+"Us neither,"
+Honesty's First said cheerfuly.
+"But lookee."
+She keyed a code into the touchpad on the drone's underside.
+With a faint click it split into three pieces,
+each centered on one of the rotors.
+As the pieces rose into the air,
+thin elastic cord unspooled between them to make a net.
+
+"See?
+It's for catchin' birds,"
+Honesty's First declared.
+
+"No it ain't,"
+her Second said,
+obviously resuming a recent discussion.
+"If it were fer that,
+it'd be able to flip sidewise,
+but look."
+She reached over to knock one of the triangle.
+The whole assembly whined and juddered for a second
+as three tiny cores fought for balance.
+
+"Well, maybe it's just off kilter,"
+Honesty's First said defensively.
+"Here, why'n't you have a look at it fer us?
+No, no, take it," she insisted as Iffy started to demur.
+"Bring it along next time you come by.
+Kappa?"
+
+"Kappa,"
+Iffy agreed.
 
 Honesty's First picked up her own long-cold tea.
-"Y'oughta come by more often---there'd be plenty for you t' do,
+"Thanks.
+Y'oughta come by more often---there'd be plenty for you t' do,
 an' we's alluz happy t'have one more fer dinner."
 
 "Thanks," Iffy mumbled,
 uncomfortable as always with kindness.
-She drained the last of her own tea and stood up.
+She drained the last of her own tea,
+clicked the three-part drone back together,
+and stood up.
 "I gotta get back t' help Aunt Naggie do th' shopping."
 
 "Sure," Honesty said.
@@ -4315,10 +4366,12 @@ for the rat it held to sniff,
 then hurried on her way.
 *One day*,
 she promised herself.
-One day she'd have plants and pets and a workshop
-and Honesty would come by all the time.
+One day,
+when she had a workshop of her own
+and she could keep whatever pets and plants she wanted
+and Honesty could come by all the time.
 (Even in her daydreams, she didn't dare imagine that they would live together.)
-One day---but not while she was on the *Guinevere* and Uncle Jack was her captain.
+One day---but not today.
 
 The Dance Hall was just as busy inside as out.
 Iffy tried slipping through the crush the way Honesty somehow did,
@@ -4404,11 +4457,14 @@ their exoskeletons clanking in time.
 The dark man raised a hand into the air and clenched it to make a fist.
 Without any more sign than that,
 the lights nearby flickered and died.
-The drone hovering above him clattered to the floor.
+The video carpet that Iffy was hiding behind flared blue-white and went dark.
+And the drone hovering above them clattered to the floor,
+its core and engines fried by the electromagnetic pulse.
 
 As Iffy pulled the video carpet aside and hurried toward her aunt,
 the dark man turned to her and said,
-"Use what you have,
+"Start where you are,
+use what you have,
 do what you can."
 Still smiling,
 he placed his hand against his temple.
@@ -4426,29 +4482,31 @@ not in real life!
 Not in *her* life!
 
 She looked up.
-Aunt Naggie was still standing there,
-shock written on her face.
-Iffy pushed aside the video carpet and walked to her as calmly as she could.
-"Auntie. Auntie! We need to get out of here."
+Aunt Naggie stood there,
+shock and disbelief turning to grief on her face.
+Iffy stepped forward and took her hand.
+"Auntie.
+Auntie!
+We need to get out of here."
 
 "Iffy?"
-she gaped.
-"What're you---I thought you were down along with that girl o' yours?"
+She gaped.
+"What're you---I thought you were down along with that friend o' yours?"
 
 "I was.
 C'mon,
-we need out o' here *now*!"
+we need t' get outta here *now*!"
 She tugged on her aunt's arm.
 Aunt Naggie's mouth worked like a fish gasping for water.
 Frightened and exasperated,
 Iffy took one of the mesh shopping bags out of her aunt's unresisting hands,
 spun her around,
-and dragged her toward the exit.
+and hauled her toward the exit.
 
 The lights overhead came back to life.
 A fallen drone on the concrete in front of them buzzed,
 righted itself,
-and flew into the air.
+and rose into the air.
 "Citizens!"
 it shouted.
 "Remain calm!
@@ -4462,19 +4520,32 @@ Lots of other shoppers had apparently decided they were done for the day as well
 "A thief?"
 the man in front of them asked.
 
-"Nah, somethin' medical," the woman beside him replied,
-eyes blinking rapidly as she searched her feed.
+"Blue's 'r' sayin' it's somethin' medical," the woman beside him replied,
+eyes blinking rapidly as she searched the feed re-forming in her yellow-tinted glasses.
 
 The man snorted.
-"Bad case o' the blues is my bet,"
+"Bad case o' the runs is my bet,"
 he muttered.
 His companion shushed him,
-glancing meaningfully at the drones criss-crossing the airabove them.
+glancing up meaningfully as a drone buzzed overhead.
 
 *We're not gonna make it,*
-Iffy told herself.
-There was no way the drones hadn't seen her aunt
-before the stranger's tech brought them down.
+Iffy thought despairingly.
+There was no way the drone hadn't seen her aunt
+before the dark man crashed them.
+Her only hope was that with so many in the air,
+the Marines hadn't had time to look at all the video---yet.
+But they would,
+and after what the stranger had done,
+they'd get a warrant to give the data to a core for analysis
+and then her aunt would be well and truly baked.
+
+Iffy took a deep breath.
+One disaster at a time.
+That's what Aunt Naggie always said,
+and now she needed Iffy instead of the other way around.
+There had to be a way out.
+
 But somehow they were at the exit
 and through onto the street.
 "C'mon, let's get home,"
@@ -4588,7 +4659,7 @@ and wipin' himself was---was just---"
 
 "It's a'right, it's a'right."
 Iffy hugged her aunt again from behind,
-thinking about how sometimes it was okay to tell people things they knew weren't true.
+thinking about how sometimes it was kappa to tell people things they knew weren't true.
 "It's a'right,"
 she repeated in a whisper.
 
@@ -4710,7 +4781,7 @@ or whatever Marine regulations said was best.
 Honesty replied without turning her head.
 "How are you?"
 
-"'m okay."
+"'m kappa."
 Iffy's mind spun double-time as she tried to think of something safe to say.
 *Th' hell with it* she thought angrily.
 "Did it hurt?" she blurted.
@@ -4940,7 +5011,7 @@ Iffy shrugged.
 "I know.
 I seen it in stories,
 an' one o' Mister Mishra's nephews got called up last year.
-He was okay after a couple o' weeks.
+He was kappa after a couple o' weeks.
 Said it was like all the new stuff the core put in his head was so loud
 he couldn't hear his own thinkin' for a while,
 but he was the same annoyin' nonsense after."
@@ -5146,7 +5217,7 @@ It was a beautiful little thing."
 She started picking up the leftover gears and rods
 but had to stop
 because she couldn't see properly.
-"I'm okay," she lied angrily,
+"I'm kappa," she lied angrily,
 wiping her eyes on her sleeve as Wales reached for her.
 "I just..."
 

@@ -2231,7 +2231,8 @@ and an endless series of romance novels featuring wealthy strangers with smolder
 who didn't realize how empty their rich, idle lives were
 until they met the right woman,
 who was inevitably a poor but honest sailor.
-The books were churned out by a core in Rothera that had spent the war
+According to Aunt Naggie,
+the books were churned out by a core in Rothera that had spent the war
 feeding disinformation to rebel bots.
 Their implausibility, steamy dialogue, and frequent anachronisms
 only added to the thrill Iffy felt
@@ -4098,8 +4099,9 @@ Honesty squeezed her fingers painfully hard and shot her a warning sidelong glan
 
 Iffy's mouth snapped shut.
 Thumb, middle finger, first finger, middle finger...
-She almost stumbled as she recognized the schoolyard code
-that children used to hide what they were saying to each other from adults.
+She almost stumbled as she recognized the code
+that people had developed to hide what they were saying from robot surveillance,
+and that children now used to keep secrets from adults.
 Little finger and fourth finger together,
 middle finger,
 middle and fourth...
@@ -4119,12 +4121,12 @@ but it couldn't see everything---if people ever thought the governor was using s
 they'd strike.
 
 She squeezed Honesty's hand twice to signal that she understood.
-The machine wars might have ended long ago,
+The machine wars had ground down to a finish years ago,
 but the tricks people had used to stay alive and fight back
 still worked---at least,
 Iffy hoped they did.
 
-When Iffy tried to loosen her grip,
+When Iffy made to loosen her grip,
 Honesty tightened hers.
 Iffy waited for more taps.
 When they didn't come,
@@ -4132,12 +4134,12 @@ she realized that her friend was sending a different kind of message.
 She walked the last hundred meters to the workshop with a dazed smile on her face
 that would have made her aunt sigh happily.
 
-Honesty's First and Second looked up and said, "G'day, Third," simultaneously
+Honesty's First and Second looked up and said, "G'day," simultaneously
 as Honesty pulled aside the splotched canvas curtain
 that hung in the salvage booth's doorway.
 "You gi'n her th' bad news yen?"
-her First asked,
-her accent as strong as the tea she poured for Iffy without asking.
+her First asked
+in an accent as strong as the tea she poured for Iffy without asking.
 
 Honesty pouted.
 "I's gonna!"
@@ -4219,8 +4221,18 @@ uncomfortable as always with kindness.
 She drained the last of her own tea and stood up.
 "I gotta get back t' help Aunt Naggie do th' shopping."
 
-"Sure," Honesty said, smiling again.
-"I'll walk you out."
+"Sure," Honesty said.
+"But you'll come along after an' eat?"
+She poked Iffy in the ribs.
+"Y'always too skinny."
+
+Iffy blushed.
+"I'll ask," she said,
+mumbling again.
+
+Honesty smiled.
+"Aright.
+I'll walk you out."
 
 They held hands all the way up the canal.
 As usual,
@@ -4260,18 +4272,18 @@ then erased the thought as Iffy hurried back into town
 to the Dance Hall and her aunt.
 
 The streets around the market were crowded by the time Iffy got there.
-Four Nugini Mormons handed out glossy animated pamphlets
+Four Indonesian Mormons handed out glossy animated pamphlets
 advertising their church's insurance policies,
 smiling forgiveness at a ragged man yelling that the Singularity had come,
 they were all living in a simulation,
 the data proved it,
 they just had to look at the data and they would see the truth!
 A bot with a rasping voice and an ancient plastic mask for a face
-told stories to a circle of wide-eyed children,
-its cut-out paper puppets dancing as Zuko battled Princess Leia
-while Aang struggled to free Elsa from the grip of the winter she had made.
+told stories to a circle of wide-eyed children.
+Its cut-out paper puppets danced as Zuko battled Princess Leia
+while Aang struggled to free Elsa from the grip of the evil robot Wintermute.
 Two bald women who might have been twins but were probably just clones
-wheeled a cart piled high with tweaked moss blankets
+wheeled a cart piled high with blankets woven from tweaked moss
 past two men arguing beside another cart piled just as high
 with sheets of diamond so clear that only the rainbows they cast on the ground gave them away.
 The smell of soy being fried in ginger
@@ -4295,10 +4307,10 @@ the rat squeaked back.
 
 "See?"
 the man said proudly.
-"They come with a hunnert words wired in,
+"They got a hunnert words when they're born,
 an' you can teach 'em a coupla hunnert more!"
 
-Iffy held her finger a few millimeters from the front of one of the cages
+Iffy held her finger a few millimeters in front of one of the cages
 for the rat it held to sniff,
 then hurried on her way.
 *One day*,
@@ -4307,16 +4319,13 @@ One day she'd have plants and pets and a workshop
 and Honesty would come by all the time.
 (Even in her daydreams, she didn't dare imagine that they would live together.)
 One day---but not while she was on the *Guinevere* and Uncle Jack was her captain.
-He wouldn't eat it.
-He'd just shout about vermin and throw it over the side.
 
 The Dance Hall was just as busy inside as out.
-Iffy tried slipping through the crush the way Honesty did,
-but quickly gave up and resigned herself to moving at the pace
+Iffy tried slipping through the crush the way Honesty somehow did,
+then gave up and resigned herself to moving at the pace
 of the meandering crowd.
-She glanced up as a surveillance drone the size of her hand whined by,
-its dozen crystal eyes observing the crowd
-while its mere presence reminded them that the governor had eyes everywhere.
+She glanced up as a drone the size of her hand whined by,
+its dozen crystal eyes scanning the crowd.
 "Some all got they riled up,"
 a stall keeper muttered,
 noticing Iffy's look.
@@ -4326,71 +4335,95 @@ You t'ink it be come by they fight up along th' gov'nor's?"
 "I dunno,"
 Iffy said.
 Drones had microphones as well as cameras,
-and the last thing she wanted was to give the governor's cores
-something to think about.
+and the last thing she wanted was some stray word of hers catching the governor's attention.
 "'Scuse me."
-She ducked under a tarnished video carpet draped over a line
+She ducked under a tarnished video carpet hanging from a clothesline
 and pushed her way into the crowd on the other side.
 
 And froze.
-And ducked back under the carpet again.
+And ducked back behind the carpet again.
 No.
 She must have been mistaken.
 She couldn't have seen what she thought she just saw.
-She shook her head and gingerly pull the video carpet aside.
+She shook her head and gingerly peeked around the carpet's edge.
 
 There,
 just a couple of meters away,
-stood Aunt Naggie.
-She was holding hands with a slim dark-haired man
-wearing the green uniform of a government ecologist.
+was Aunt Naggie.
+Aunt Naggie,
+and a slim dark man with a shaven head and a small goatee
+wearing the dark green uniform of the old Reclamation Service.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
-but from the intense looks on their faces,
+but from the way they were gazing into each other's eyes,
 she was pretty sure they weren't discussing
 how quickly the latest batch of tweaked microbes brought in from India
 were turning 'Nardica's barren rocks into soil.
 
-The man in the ecologist uniform pressed something into Aunt Naggie's hand
+The man pressed something into Aunt Naggie's hand
 and leaned forward to kiss her on the cheek.
-The space above their heads flickered.
+The space above their heads flickered as he did so.
 It was another video carpet,
 Iffy realized,
-concealing them from the drones overhead.
-Another flicker,
-and the man stepped back,
+playing a few seconds of sim to conceal them from any drones nearby.
+It flickered again as Aunt Naggie pulled the man closer and kissed him for real.
+Iffy's stomach flip-flopped the way it did
+when she read some of the steamier passages in the romances Aunt Naggie loved so much.
+Her stomach flip-flopped again.
+Was this man the mysterious "core" Aunt Naggie claimed wrote those stories?
+
+Even as she dismissed the thought---no one could write that much,
+that fast,
+or that badly---the dark man stepped back,
 his face now polite and smiling.
-He gestured at the goods piled beside him.
+He gestured at one of the smaller video carpets hanging on a display rack beside him
+as if to say,
+"Perhaps this one?"
 Aunt Naggie shook her head,
 smiled just as falsely,
 and turned to go.
 
 "Citizens!"
-The mechanical voice cut through the market bustle like a shark through a school of fish.
-"There has been a security violation.
-Remain where you are!"
-A high-pitched alarm began to ping.
+The stern mechanical voice cut through the market bustle
+like a shriek of metal through a symphony.
+"Remain where you are!
+There is no cause for alarm!
+Repeat, there is no cause for alarm!"
+Even as the voice spoke,
+a high-pitched alarm began to ping.
 
-The dark-haired man looked up.
+The dark man looked up.
 His polite expression slipped
-as first one, then three, then half a dozen drones formed a flock over his stall.
+as the drone that Iffy had seen earlier buzzed lower to circle over his head.
 He spread his hands as if to say,
 "Who, me?"
-He looked past Iffy at the sound of heavy boots.
-Marines were coming,
-visors down and shock sticks in their hands.
+He glanced toward the entrance at the sound of boots and angry shouts.
+Marines were pushing their way through the crowd,
+visors down and shock sticks in their hands,
+their exoskeletons clanking in time.
 
-The main raised a hand into the air and clenched it to make a fist.
+The dark man raised a hand into the air and clenched it to make a fist.
 Without any more sign than that,
-the lights around them flickered and died.
-The drones hovering above him clattered to the floor.
+the lights nearby flickered and died.
+The drone hovering above him clattered to the floor.
+
+As Iffy pulled the video carpet aside and hurried toward her aunt,
+the dark man turned to her and said,
+"Use what you have,
+do what you can."
 Still smiling,
-he placed the hand against his temple
-and slumped to the ground, twitching.
+he placed his hand against his temple.
+As Aunt Naggie shrieked "no!" he clenched it into a fist.
+His eyes rolled up,
+his head snapped back,
+and he slumped to the ground, twitching.
 
 Iffy stared in shock.
 He had wiped himself!
-Spies and disappointed lovers did it in sims all the time,
-but things like this didn't happen in real life!
+Spies and disappointed lovers did it in sims, but---but this was real life!
+People didn't thread microfine wires through their brains
+so that they could scramble their memories,
+not in real life!
+Not in *her* life!
 
 She looked up.
 Aunt Naggie was still standing there,

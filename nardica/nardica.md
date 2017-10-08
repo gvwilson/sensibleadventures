@@ -4265,26 +4265,16 @@ So Iffy had forgiven her,
 and then discovered that she felt relieved that people knew she was different---even
 by clone standards---and didn't seem to care.
 
-"Here, why'n't you have a look at 'em?"
-Honesty's First said.
-"No, no, take 'em," she insisted as Iffy started to demur.
-"Bring 'em along back next time you come by.
-Kappa?"
-
-"Kappa,"
-Iffy agreed,
-replacing the drone in the box and pocketing it.
-
 Honesty's First picked up her own long-cold tea.
-"Thanks.
-Y'oughta come by more often---there'd be plenty for you t' do,
+"Well,
+if anythin' comes t' mind,
+you come by an' scutch us, aright?
+And even if nothin' does---there'd be plenty for you t' do,
 an' we's alluz happy t'have one more fer dinner."
 
 "Thanks," Iffy mumbled,
 uncomfortable as always with kindness.
-She drained the last of her own tea,
-clicked the three-part drone back together,
-and stood up.
+She drained the last of her own tea and stood up.
 "I gotta get back t' help Aunt Naggie do th' shopping."
 
 "Sure," Honesty said.
@@ -4321,8 +4311,8 @@ right?
 "Oh c'mon."
 Honesty bumped her hip against Iffy's.
 "M' First and Uncle Osman 'long by Pier Nine asked two different cores
-about that piece o' tech she showed you.
-Neither of 'em had a clue what it was,
+about that first piece she showed you.
+They neither had a siggy what it was,
 an' then you jus' come right out an' tell 'em.
 The stuff you have in your head,"
 she finished admiringly,
@@ -4417,14 +4407,15 @@ She shook her head and slowly peeked around the carpet's edge.
 There,
 just a couple of meters away,
 stood Aunt Naggie and a slim dark man
-wearing the dark brown uniform of the old Reclamation Service.
+wearing a brown and gray uniform jacket
+with the badge of the old Reclamation Service on the sleeve.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
 but from the way they were looking at each other
 she was pretty sure they weren't discussing
 how quickly the latest batch of tweaked microbes brought in from India
 were turning 'Nardica's barren rocks into soil.
 
-The man pressed something into Aunt Naggie's hand
+The man in the Reclamation officer's jacket pressed something into Aunt Naggie's hand
 and leaned forward to kiss her on the cheek.
 The space above their heads flickered as he did so.
 It was another video carpet,
@@ -4438,7 +4429,7 @@ Was this man the mysterious "core" Aunt Naggie claimed wrote those stories?
 
 Even as she dismissed the thought---no one could write that much,
 that fast,
-or that badly---the dark man stepped back,
+or that badly---the Reclamation man stepped back,
 his face now polite and smiling.
 He gestured at one of the smaller video carpets hanging on a display rack beside him
 as if to say,
@@ -4458,7 +4449,7 @@ there is no cause for alarm!"
 Even as the voice spoke,
 a high-pitched alarm began to ping.
 
-The dark man looked up.
+The Reclamation officer looked up.
 His polite expression slipped
 as the drone that Iffy had seen earlier buzzed lower to circle over his head.
 He spread his hands as if to say,
@@ -4477,7 +4468,7 @@ as someone in the crowd shouted,
 Other voices took up the cry.
 
 Iffy pulled the video carpet aside and ran toward Aunt Naggie
-as the dark man turned back to her.
+as the Reclamation officer turned back to her.
 "You must be gone," he said urgently.
 "You must be gone and safe, now!"
 
@@ -4498,15 +4489,13 @@ spun her around,
 and started hauling her toward the exit.
 
 She got all of two steps before Aunt Naggie dug in her heels.
-"No,"
-she said flatly.
-"Not without Ignacio."
-She looked back at the dark man,
+"No."
+She looked back at the Reclamation officer,
 her jaw set.
 "You want me t' go,
 you gotta come too."
 
-The dark man rolled his eyes.
+The Reclamation officer rolled his eyes.
 "You are a very stubborn woman," he said.
 Even as he spoke he shrugged out of his old uniform jacket,
 pulled a knit cap from one of its pockets to jam on his head,
@@ -4536,7 +4525,7 @@ Iffy's heart sank.
 "What's the good o' runnin'?" she hissed at her aunt.
 "They drones musta seen you."
 
-Ignacio glanced back.
+The Reclamation officer glanced back.
 "Not if this was doing its job,"
 he said quietly,
 tapping his trouser pocket.
@@ -4551,11 +4540,11 @@ Consult your personal devices for further details!"
 
 Every screen that Iffy could see flickered.
 When their images reformed,
-they showed a younger version of Ignacio,
-but instead of a knit cap or a Reclamation uniform,
+they showed a younger version of the Reclamation officer,
+but instead of a brown and gray uniform,
 he was wearing the Zillions' green and gold.
 
-Ignacio pulled his arm out of Aunt Naggie's.
+The Reclamation officer pulled his arm out of Aunt Naggie's.
 "Keep walking," he ordered,
 slipping the square piece of tech from his pocket into her shopping bag.
 Without waiting for an answer he angled through the crowd
@@ -4566,7 +4555,7 @@ One raised a shock stick
 as the other levelled a tangle gun.
 "Halt!" they said in unison.
 
-Iffy thought Ignacio was going to run.
+Iffy thought the Reclamation officer was going to run.
 Instead,
 he raised a hand into the air,
 clenched it to make a fist,
@@ -4620,20 +4609,19 @@ Aunt Naggie glanced around fearfully.
 Aunt Naggie sniffled and wiped her eyes one more time before straightening up.
 "Come on,"
 she said,
-a lifetime of disappointment in her voice.
+the weight of a lifetime in her voice.
 "We're a'ready late for gettin' back."
 
-Uncle Jack was fuming by the time they reached the *Guinevere*.
+Uncle Jack had worked himself into a smoldering rage by the time they reached the *Guinevere*.
 "Can't make up or down o' what he's done to things,"
 he snarled by way of a hello,
 wiping his hands angrily on a greasy rag.
 A double dozen boxes sat in a pile on deck,
 each bearing the Marines' blue crown stamp.
 One had been torn open to reveal strips of plastic for patching seams in the hull,
-another to show fitting for
+another to show a fitting for
 a bilge pump that hadn't worked properly in years.
-It was more gear than the old fishing boat had seen
-in as long as Iffy could remember,
+It was more new parts than the old fishing boat had seen since before Iffy first set foot on her,
 but all Uncle Jack could talk about was
 how the repairs that Wales had made weren't how things ought to be done,
 it looked like core work,
@@ -4643,17 +4631,17 @@ and how were regular folks supposed to understand a tangle like that?
 "Maybe it'll make more sense after dinner,"
 Aunt Naggie ventured.
 
+"Dinner,"
 Uncle Jack snorted.
-"Did you get your precious curry?"
+"Didja get your precious groceries?"
 
-For a moment Iffy thought her aunt was going to start crying again.
+For a moment Iffy thought her aunt would start crying again.
 Instead,
 she nodded wordlessly and carried her shopping into the galley.
 
 Iffy watched silently as Aunt Naggie used a knife to take out her feelings on an onion.
 Once it was sizzling in hot oil,
-she cubed a block of jellyfish protein
-and attacked the other vegetables.
+she cubed a block of soy and attacked the other vegetables.
 "Anythin' I can do?"
 Iffy finally asked,
 worried and afraid and wanting to help but not knowing how.
@@ -4662,14 +4650,19 @@ not even after the worst of Uncle Jack's rages.
 
 Aunt Naggie swept the carrots and cabbage into the frying pan
 and forced a smile.
-"Thanks, sweetie, but I'm a'right.
+"Thanks, sweetie, but I'm aright.
 You should prob'ly go topside an' see if you can sort him out."
 
-Iffy stood and put her arms around the woman who had sheltered her from storm after storm.
+Iffy stood and put her arms around
+the woman who had sheltered her from storms of all kinds
+for most of her life.
 "I love you," she blurted.
 
-Aunt Naggie set her knife down and hugged her niece back.
-"I love you too, sweetie."
+Aunt Naggie set her knife down and hugged her foster daughter back.
+"I love you too, sweetie.
+Always an' forever.
+Don't you ever forget that,
+no matter what."
 
 Iffy gave her another squeeze,
 afraid she might start crying too.
@@ -4683,11 +4676,11 @@ Aunt Naggie whispered,
 "Yeah, he was."
 She kissed the top of Iffy's head.
 "Everyone's special,
-but he was extra special.
+but Ignacio was extra special.
 In a lot o' ways."
 She sniffled,
 a sound as startling in its own way as an alarm bell ringing.
-"Prob'ly best if we don't talk to your uncle about any o' them."
+"Prob'ly best if we don't talk about it in front o' Jack."
 
 "'Course not,"
 Iffy agreed hastily.
@@ -4695,27 +4688,82 @@ Iffy agreed hastily.
 Why'd he---you know."
 
 Aunt Naggie heaved a sigh and turned back to her vegetables.
-"He had a lot goin' on,
-an' a lot o' people countin' on 'im.
+"He had a lot o' people countin' on 'im for a lot o' things.
 I guess he wanted to keep 'em all safe,
-and wipin' himself was---was just---"
+an' scramblin' himself was---was just---"
 
-"It's a'right, it's a'right."
-Iffy hugged her aunt again from behind,
-thinking about how sometimes it was kappa to tell people things they knew weren't true.
-"It's a'right,"
+"It's aright, it's aright."
+Iffy hugged her aunt again.
+"It's aright,"
 she repeated in a whisper.
 
-Uncle Jack complained that the stir fry was salty
+Uncle Jack complained that their was too much curry in the stir fry
 and that the noodles were overcooked.
 He took a second helping anyway,
 finishing it before Iffy and Aunt Naggie were through their first and only
-and then stomping away to check on the ship.
+and then stomping back up the latter to yell at the engine some more.
 Iffy would have thrown his dirty plate at his head
 if Aunt Naggie hadn't put a hand on her shoulder.
 
-The Marines arrived just as Iffy was waking up the next morning.
-Two squads of eight in exoskeletons,
+Later,
+sitting cross-legged on her bed,
+Iffy set the square piece of tech that the Reclamation officer had given her on the mattress.
+*Ignacio,* she told herself.
+His name had been Ignacio.
+She pulled out her tools and went to work.
+
+Fifteen minutes later she sat back, defeated.
+There was a faint line in the bottom of the piece of tech that she just *knew* was an access panel,
+but for the life of her,
+she couldn't figure out how to open it.
+When she tried probing it electronically,
+her home-made wireshark showed nothing but frazzled gibberish.
+Finally she set it aside,
+waved her light off,
+and closed her eyes.
+
+*She was on deck.
+The sky was a perfect blue,
+and Aunt Naggie was stuffing her into her ecosuit.
+"Just in case, love," she said.*
+
+*No,
+Iffy thought,
+and, "No!" she said.
+She wasn't going to go through this again.
+She struggled to pull her arms out of the ecosuit.*
+
+*"It's aright," Honesty said,
+already in hers.
+"It's aright, sweetie, everythin's gonna be aright.
+We're gonna **make** it aright,
+you'll see."*
+
+*The sea began to boil and churn.
+Iffy grabbed hold of Aunt Naggie's leg and held on tight
+as the deck dropped away below her
+and she fell into waking.*
+
+Iffy sat up,
+waved the lights on,
+and picked up the square piece of tech Ignacio had given her.
+It was obvious what she had to do.
+There and there together and then there,
+two presses and a third,
+and *pop!*
+The access panel opened to reveal a battery,
+a fold-up fractal antenna,
+and a crystal core the size of her thumb
+that was probably worth ten times what the *Guinevere* would have fetched brand-new.
+She stared at the tech for a minute,
+wondering how long it would be before someone came looking for it
+and how she would keep Aunt Naggie safe when they did,
+then closed the panel,
+tucked the unit under her mattress,
+and closed her eyes.
+
+The Marines arrived just as Iffy woke up,
+two squads of eight in exoskeletons,
 each with a bulky pack on their back,
 and another two squads of regulars
 straining under packs that were only slightly less heavy.

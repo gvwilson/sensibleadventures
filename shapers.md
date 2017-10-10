@@ -14,6 +14,9 @@ Each player takes on the role of one character,
 while the Director plays the part of all the non-player characters.
 (The Director is often an adult or the person who created the adventure.)
 
+> Note:
+> these rules are derived from Atomic Sock Monkey's PDQ rules.
+
 ## Background
 
 Thousands of years ago,
@@ -31,54 +34,89 @@ You can be a hero, a rogue, or an outright villain,
 and can travel alone or with companions.
 Your choices will determine how the game unfolds.
 
+## Game Mechanics
+
+Every character in *Shapers and Bots* is described by a handful of *traits*.
+Everything a character might want to do---climb a wall,
+sing a song,
+or persuade an angry bear not to throw them overboard---has a *difficulty*.
+Together,
+the two determine the odds of the character doing what they want to do.
+
+Every one of a character's traits has a *rating*
+with a name and an associated *modifier*:
+
+| Trait Rating | Modifier |
+| ------------ | -------: |
+| Very Low     | -4       |
+| Low          | -2       |
+| Average      | 0        |
+| High         | +2       |
+| Very High    | +4       |
+| Extreme      | +6       |
+
+Similarly,
+every difficulty has a level and a *target*:
+
+| Task Difficulty | Target |
+| --------------- | -----: |
+| Trivial         | 3      |
+| Easy            | 5      |
+| Average         | 7      |
+| Hard            | 9      |
+| Challenging     | 11     |
+| Impossible      | 13     |
+
+When a character wants to do something,
+she rolls two six-sided dice (abbreviated "2D")
+and adds the modifier for her trait.
+If the total is equal to or greater than the target for the task,
+she succeeds;
+if it is less,
+she fails.
+
+Here are a couple of examples:
+
+1. Shau Sheu has a High rating for Climbing, and wants to climb an Average wall.
+   She rolls two dice and gets a 3 and a 4.
+   Adding them together, and adding another 2 for her Good rating,
+   gives a total of 9.
+   This is greater than the 7 needed to do an Average task,
+   so she succeeds.
+
+2. Shau Sheu now needs to climb a slippery icefall.
+   The task is challenging,
+   so she needs to get 11 or better to do it.
+   She rolls 2 and 6, adds 2 for her Good rating:
+   nope.
+   The total is only 10,
+   so she slips and falls.
+
 ## Characters
 
-Every animal character has four *traits* that describe them:
+Every character has these four traits:
 
-- **Size**: how large are you?
+- **Size**: how large the character is.
+  In exceptional cases,
+  a character may have separate **Height** and **Weight** traits
+  instead of a single Size trait.
 
-- **Health**: how healthy are you?
+- **Fitness**: how strong and coordinated the character is,
+  i.e.,
+  how athletic they are.
 
-- **Coordination**: how coordinated are you?
+- **Dexterity**: how good the character is at delicate manipulations
+  like picking a lock or playing a musical instrument.
 
-- **IQ**: how good are you at abstract thinking?
+- **IQ**: how good the character is at book learning and puzzle solving.
+  Note that a character with a low IQ is not necessarily stupid.
 
-If there were any human beings left,
-an average full-grown human woule have a score of 10 for each trait.
-Averages for different kinds of characters are listed later.
-
-Note:
-
-1. A character with a low IQ is *not* necessarily stupid.
-   Instead,
-   they are simply less good at (or less interested in) "book learning".
-1. In exceptional cases,
-   a character may have separate **Height** and **Weight** traits
-   instead of a single Size trait.
-
-Every animal character has one extra trait that depends on these three:
-
-- **Strength**: how strong are you?
-
-An animal character's Strength is equal to her Size
-plus or minus one point for each point of difference between her Health and 10.
-(If a character's Height and Weight are listed separately,
-use their Weight when calculating Strength.)
-For example,
-if a character has a Size of 12 and a Health of 12,
-her Strength is 14:
-12 for her Size,
-and an extra 2 because her Health is 2 points greater than 10.
-If that same character had a Health of 6,
-her Strength would be 8:
-12 for her Size,
-minus 4 because of her poor Health.
-
-Every animal character also has scores for **Sight**, **Hearing**, and **Smell**.
-These are all 10 (average) unless otherwise noted,
+All of a character's traits are Average unless otherwise noted.
+Every animal character may also have ratings for **Sight**, **Hearing**, and **Smell**.
+These are all Average too unless otherwise noted,
 so they usually don't need to be written down.
 
-> Note that Smell includes the sense of taste.
+> Note: Smell includes the sense of taste.
 
 Non-player characters (NPCs) may have two extra traits:
 
@@ -94,46 +132,47 @@ when it's important to the game.
 
 ## Species
 
-Each species of animal character has its own "normal" Size and Coordination scores,
-but all of them have an average Health and IQ of 10,
-and all of them use the same formula for calculating Strength.
+Each species of animal character has different "normal" ratings for traits:
 
-| Species   | Size | Coordination | Special Senses          | Special            |
-| --------- | ---: | -----------: | ----------------------: | ------------------ |
-| bear      |  13  |            8 | Sight=8,<br>Smell=12    |                    |
-| bison     |  12  |            9 | Sight=9                 | horns              |
-| elephant  |  14  |            8 | Sight=9                 | prehensile trunk   |
-| fox       |   6  |           12 | Smell=12                | carnivore          |
-| goat      |   7  |           10 |                         | horns              |
-| kangaroo  |  10  |           10 | Smell=11                | leaping            |
-| lion      |  10  |           12 | Smell=12,<br>Hearing=11 | carnivore          |
-| monkey    |   8  |           13 |                         | prehensile tail    |
-| rabbit    |   5  |           12 | Smell=12,<br>Hearing=11 | may go berserk     |
-| raccoon   |   6  |           13 | Sight=11                |                    |
-| rhino     |  13  |            8 | Sight=7,<br>Smell=11    |                    |
-| tiger     |  10  |           12 | Smell=12,<br>Hearing=11 | carnivore          |
-| wolf      |   9  |           11 | Smell=12                | carnivore          |
-| zebra     |  10  |           10 | Smell=11                |                    |
+| Species   | Size      | Fitness   | Dexterity | Sight     | Hearing | Smell | Special            |
+| --------- | --------: | --------: | --------: | --------: | ------: | ----: | ------------------ |
+| bear      | High      | High      | Low       | Low       |         | High  |                    |
+| bison     | High      |           | Very Low  | Low       |         |       | horns              |
+| eagle     | Low       | Very High |           | Very High | High    | Low   | flying             |
+| elephant  | Very High |           |           |           |         |       | prehensile trunk   |
+| fox       | Low       |           | High      | High      |         |       | carnivore          |
+| goat      |           |           |           |           |         |       | horns              |
+| kangaroo  |           | High      |           |           |         |       | leaping            |
+| lion      |           | High      |           |           | High    | High  | carnivore          |
+| monkey    | Low       |           | Very High | High      |         |       | prehensile tail    |
+| rabbit    | Very Low  |           |           |           | High    | High  | may go berserk     |
+| raccoon   | Low       |           | Very High | High      |         |       |                    |
+| rhino     | High      |           | Very Low  | Low       |         | High  |                    |
+| tiger     |           | High      |           |           | High    | High  | carnivore          |
+| turtle    | Low       | Low       | High      | Very Low  |         |       |                    |
+| wolf      |           | High      |           |           | High    | High  | carnivore          |
+| zebra     |           |           |           |           |         |       |                    |
 
 *Example:
-Larrapin is a 15-year-old rabbit.
-Her Size is 4 (a bit small even for a rabbit)
-and her Health is 12 (higher than normal),
-so her Strength is 6.
-Her Coordination is 13 (also somewhat higher than normal for her species)
-and her IQ is 10.
-Because she is a rabbit,
-her sense of Smell is 12 and her Hearing is 11,
-but her Sight is 10
-(because rabbits don't have any special score for that).*
+Larrapin is a 15-year-old rabbit, so her ratings are:*
+
+- *Size: Very Low.*
+- *Fitness: Average*
+- *Dexterity: Average*
+- *IQ: Average*
+- *Sight: Average*
+- *Hearing: High*
+- *Smell: High*
 
 ## Shaping
 
 A small number of animal characters have psychic powers
 that let them control the world with their mind.
-Those who have one of these abilities typically start with a score of 6 or 7,
+This is called *shaping*,
+and is almost always attuned to one aspect of reality.
+Those who have one of these abilities typically start with a rating of Very Low,
 which slowly improves with practice and training.
-The most common abilities are:
+The six most common kinds of shaping are:
 
 -  **Earth**: dirt and stone. Very experienced earth shapers can also shape metal.
 
@@ -147,8 +186,8 @@ The most common abilities are:
 
 -  **Time**: slow things down or speed things up.  (Nobody can stop or reverse time, or see the future.)
 
-It is extremely rare for someone to be able to shape more than one element,
-and no one can shape opposite elements:
+It is extremely rare for someone to be able to do more than one kind of shaping,
+and no one can shape opposites:
 Earth and Air,
 Fire and Water,
 Luck and Time.
@@ -157,26 +196,7 @@ Luck and Time.
 Larrapin is a water shaper.
 Before her grandfather passed away,
 he taught her what little he knew,
-so her score is now 7.*
-
-## Bots
-
-The Makers built bots to do everything from cleaning floors to mining the ocean floor.
-Since the Makers disappeared,
-the bots left behind have improvised repairs however they could
-to keep themselves going.
-The result is that no two bots look or think exactly alike.
-One might have six short legs and a pair of mis-matched claws for arms,
-while another might use two rotor fans to fly,
-but have only a single slender manipulator to pick things up.
-
-Bots have Size and Coordination scores just like living characters,
-but don't have Health:
-they just have Strength instead.
-Their Sight and Hearing scores are 10 by default,
-but only a few bots have any sense of smell or taste.
-(Most regard smell as slightly icky,
-and would prefer that living creatures didn't talk about it so much.)
+so her score is now Low instead of Very Low.*
 
 ## Skills
 
@@ -294,6 +314,23 @@ and their skill with whatever weapon they're using.
 The difficulty, however, depends on the nature of the thing they're trying to hit.
 
 FIXME: fill in.
+
+## Bots
+
+The Makers built bots to do everything from cleaning floors to mining the ocean floor.
+Since the Makers disappeared,
+the bots left behind have improvised repairs however they could
+to keep themselves going.
+The result is that no two bots look or think exactly alike.
+One might have six short legs and a pair of mis-matched claws for arms,
+while another might use two rotor fans to fly,
+but have only a single slender manipulator to pick things up.
+
+Bots have Size, Fitness, Coordination, and IQ scores just like living characters.
+Their Sight and Hearing scores are Average by default,
+but only a few bots have any sense of smell or taste at all.
+(Most regard smell as slightly icky,
+and would prefer that living creatures didn't talk about it so much.)
 
 ## Example Characters
 

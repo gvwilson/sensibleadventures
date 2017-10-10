@@ -9,10 +9,12 @@ It is inspired by *Dungeons & Dragons*,
 *Avatar: The Last Airbender*,
 countless stories of talking animals,
 and my daughter.
+
 Each game has one or more *players* and one *Director*.
-Each player takes on the role of one character,
-while the Director plays the part of all the non-player characters.
-(The Director is often an adult or the person who created the adventure.)
+Each player plays the role of one character,
+while the Director plays all the other characters.
+The Director can be an adult,
+but children age 10 and older can also be Directors.
 
 > Note:
 > these rules are derived from Atomic Sock Monkey's PDQ rules.
@@ -25,11 +27,11 @@ then vanished,
 leaving behind a world full of marvels:
 half-human creatures with strange powers,
 thinking machines that are now their own masters,
-and dark shadows that now threaten both.
+and a gathering evil that now threaten both.
 
 In *Shapers and Bots*,
-you can play the part of a young animal adventurer or a newly-conscious bot
-trying to find its place in the world.
+you play a young animal adventurer or a newly-awoken bot
+in search of adventure.
 You can be a hero, a rogue, or an outright villain,
 and can travel alone or with companions.
 Your choices will determine how the game unfolds.
@@ -43,8 +45,7 @@ has a *difficulty*.
 Together,
 the two determine the odds of the character doing what they want to do.
 
-Every one of a character's traits has a *rating*
-with a name and an associated *modifier*:
+Every traits has a level with an associated *modifier*:
 
 | Trait Rating | Modifier |
 | ------------ | -------: |
@@ -55,8 +56,7 @@ with a name and an associated *modifier*:
 | Very High    | +4       |
 | Extreme      | +6       |
 
-Similarly,
-every difficulty has a level and a *target*:
+Every difficulty also has a level and a *target*:
 
 | Task Difficulty | Target |
 | --------------- | -----: |
@@ -69,33 +69,31 @@ every difficulty has a level and a *target*:
 | Impossible      | 15     |
 
 When a character wants to do something,
-she rolls two six-sided dice (abbreviated "2D")
+she rolls two dice
 and adds the modifier for her trait.
-If the total is equal to or greater than the target for the task,
+If the total is equal to or greater than the tasks' target,
 she succeeds;
 if it is less,
 she fails.
 
-Here are a couple of examples:
+For example,
+suppose that Shau Sheu has a High rating for Climbing, and wants to climb an Average wall.
+She rolls two dice and gets a 3 and a 4.
+Adding them together, and adding another 2 for her Good rating,
+gives a total of 9.
+This is greater than the 7 needed to do an Average task,
+so she succeeds.
 
-1. Shau Sheu has a High rating for Climbing, and wants to climb an Average wall.
-   She rolls two dice and gets a 3 and a 4.
-   Adding them together, and adding another 2 for her Good rating,
-   gives a total of 9.
-   This is greater than the 7 needed to do an Average task,
-   so she succeeds.
+Now suppose she needs to climb a slippery icefall.
+The task is challenging,
+so she needs to get 13 or better to do it.
+She rolls 2 and 6, adds 2 for her Good rating.
+The total is only 10,
+so she slips and falls.
 
-2. Shau Sheu now needs to climb a slippery icefall.
-   The task is challenging,
-   so she needs to get 13 or better to do it.
-   She rolls 2 and 6, adds 2 for her Good rating:
-   nope.
-   The total is only 10,
-   so she slips and falls.
+## Core Traits
 
-## Characters
-
-Every character has an Average rating for these four traits unless otherwise noted:
+Every character has an Average rating for these seven traits by default:
 
 - **Size**: how large the character is.
   In exceptional cases,
@@ -106,16 +104,14 @@ Every character has an Average rating for these four traits unless otherwise not
   i.e.,
   how athletic they are.
 
-- **Dexterity**: how good the character is at delicate manipulations
-  like picking a lock or playing a musical instrument.
+- **Dexterity**: how good the character is with their hands.
+  This determines whether they can pick a lock or play a musical instrument.
 
 - **IQ**: how good the character is at book learning and puzzle solving.
-  Note that a character with a low IQ is not necessarily stupid.
+  A character with a low IQ is not necessarily stupid.
 
-Every character also has ratings for **Sight**, **Hearing**, and **Smell**.
-These are all Average too unless otherwise noted.
-
-> Note: Smell includes the sense of taste.
+- **Sight**, **Hearing**, and **Smell**.
+  Note that Smell includes the sense of taste.
 
 Non-player characters (NPCs) may have two extra traits:
 
@@ -129,29 +125,33 @@ NPCs only need to be given scores for these traits when it's important.
 
 ## Species
 
-Each species of animal character has different "normal" ratings for traits:
+Different species may have different defaults for the core traits:
 
-| Species   | Size      | Fitness   | Dexterity | Sight     | Hearing | Smell | Special            |
-| --------- | --------: | --------: | --------: | --------: | ------: | ----: | ------------------ |
-| bear      | High      | High      | Low       | Low       |         | High  |                    |
-| bison     | High      |           | Very Low  | Low       |         |       | horns              |
-| eagle     | Low       | Very High |           | Very High | High    | Low   | flying             |
-| elephant  | Very High |           |           |           |         |       | prehensile trunk   |
-| fox       | Low       |           | High      |           |         | High  | carnivore          |
-| goat      |           |           |           |           |         |       | horns              |
-| kangaroo  |           | High      |           |           |         |       | leaping            |
-| lion      |           | High      |           |           | High    | High  | carnivore          |
-| monkey    | Low       |           | Very High | High      |         |       | prehensile tail    |
-| rabbit    | Very Low  |           |           |           | High    | High  | may go berserk     |
-| raccoon   | Low       |           | Very High | High      |         |       |                    |
-| rhino     | High      |           | Very Low  | Low       |         | High  |                    |
-| tiger     |           | High      |           |           | High    | High  | carnivore          |
-| turtle    | Low       | Low       | High      | Very Low  |         |       |                    |
-| wolf      |           | High      |           |           | High    | High  | carnivore          |
-| zebra     |           |           |           |           |         |       |                    |
+| Species   | Size      | Fitness   | Dexterity | IQ   | Sight     | Hearing | Smell | Special            |
+| --------- | --------: | --------: | --------: | ---: | --------: | ------: | ----: | ------------------ |
+| bear      | High      | High      | Low       |      | Low       |         | High  |                    |
+| bison     | High      |           | Very Low  |      | Low       |         |       | horns              |
+| eagle     | Low       | Very High |           |      | Very High | High    | Low   | flying             |
+| elephant  | Very High |           |           |      |           |         |       | prehensile trunk   |
+| fox       | Low       |           | High      | High |           |         | High  | carnivore          |
+| goat      |           |           |           |      |           |         |       | horns              |
+| kangaroo  |           | High      |           |      |           |         |       | leaping            |
+| lion      |           | High      |           |      |           | High    | High  | carnivore          |
+| monkey    | Low       |           | Very High | High | High      |         |       | prehensile tail    |
+| rabbit    | Very Low  |           |           |      |           | High    | High  | may go berserk     |
+| raccoon   | Low       |           | Very High |      | High      |         |       |                    |
+| rhino     | High      |           | Very Low  |      | Low       |         | High  |                    |
+| tiger     |           | High      |           |      |           | High    | High  | carnivore          |
+| turtle    | Low       | Low       | High      | High | Very Low  |         |       |                    |
+| wolf      |           | High      |           |      |           | High    | High  | carnivore          |
+| zebra     |           |           |           |      |           |         |       |                    |
+
+Player may raise one trait by one level when they create a character,
+or two traits by one level each if they also *lower* one trait by one level.
 
 *Example:
-Larrapin is a very bright 15-year-old rabbit.*
+Larrapin is a 15-year-old rabbit.
+Her player has raised her IQ from Average to High.*
 
 | Trait     | Rating   |
 | --------- | -------- |
@@ -163,8 +163,86 @@ Larrapin is a very bright 15-year-old rabbit.*
 | Hearing   | High     |
 | Smell     | High     |
 
-Note that her IQ is High rather than Average:
-Larrapin loves to do puzzles and word games.
+*Ynge is a turtle.
+His player has raised his Size and Fitness,
+but has lowered his sense of Smell in exchange.
+
+| Trait     | Rating   |
+| --------- | -------- |
+| Size      | Average  |
+| Fitness   | Average  |
+| Dexterity | High     |
+| IQ        | High     |
+| Sight     | Very Low |
+| Hearing   | Average  |
+| Smell     | Low      |
+
+## Skills
+
+Every character has skills that they're particularly good at.
+Some common skills are listed below
+along with the trait or traits they are based on.
+If a person doesn't have any special training,
+their ability in that skill is equal to their level in that trait
+(or the lower of their traits' levels if several are listed).
+If the base trait is "--" it means that characters don't have any ability at all by default.
+
+| Acrobatics (FI)         | Acting/Disguise (IQ)   | Animal Handling (IQ)    |
+| Boating (--)            | Camouflage (--)        | Camping (FI)            |
+| Climbing (FI)           | Craft ++ (--)          | Dancing (FI)            |
+| Drawing (--)            | Driving (--)           | Escapology (--)         |
+| Farming (--)            | Fighting (FI)          | Fine Art ++ (--)        |
+| First Aid (--)          | Gambling (--)          | Hunting (FI)            |
+| Hypnotism (--)          | Juggling (--)          | Lockpicking (--)        |
+| Mechanics (DX)          | Medicine (--)          | Metalwork (--)          |
+| Music (--)              | Navigation (--)        | Persuasion (IQ)         |
+| Picking Pockets (--)    | Riding (FI)            | Robotics (--)           |
+| Shooting (--)           | Singing (--)           | Skating (FI)            |
+| Skiing (FI)             | Sneaking (FI)          | Stage Magic (DX)        |
+| Swimming (--)           | Throwing (FI)          | Tracking (--)           |
+| Trapping/Fishing (--)   | Tunnelling (--)        | Unarmed Combat (FI)     |
+| Ventriloquism (--)      | Weapon ++ (FI)         |                         |
+
+The skills marked with "++" are actually categories,
+and each skill within the category must be learned separately:
+
+- **Craft**: sewing, woodwork, baking, etc.
+- **Fine Art**: sculpture, painting, etc.
+- **Weapon**: sword, spear, pistol, etc.
+
+Characters may also have knowledge of history, a language, mathematics, science,
+or some other specialized field.
+A character's knowledge of any field is initially zero,
+and must all be learned.
+The Director may allow players to choose skills for their characters
+that are not on this list.
+
+A player may give their character one of the following:
+
+- 5 skills raised 1 level.
+- 3 skills raised 1 level, 1 skill raised 2 levels.
+- 2 skills raised 2 levels, 1 skill raised 1 level.
+- 1 skill raised 3 levels, 2 skills raised 1 level.
+
+When raising skills,
+start counting at Low,
+i.e.,
+giving a character an Average rating for Singing counts as raising it 2 levels, not 3.
+
+*Example:
+Larrapin grew up in the mountains.
+Her player decides to raise her Skiing by 2 levels from Average to Very High,
+her Climbing by 2 levels from Average to Very High,
+and her First Aid to Low.
+(Remember,
+when starting with no base ability,
+Very Low doesn't count as a level.)*
+
+*Example:
+Suppose Larrapin is trying to escape a band of angry foxes.
+The Director decides that ski-jumping over a ravine is Challenging (target 13).
+Larrapin rolls two dice, gets a total of 5, adds 2 for her High ability,
+and tumbles into the ravine!*
 
 ## Shaping
 
@@ -193,58 +271,10 @@ The six most common kinds of shaping are:
 It is *extremely* rare for someone to be able to do more than one kind of shaping.
 
 *Example:
-Larrapin is a water shaper.
+Larrapin is an air shaper.
 Before her grandfather passed away,
 he taught her what little he knew,
 so her score is now Low instead of Very Low.*
-
-## Skills
-
-Every character has skills that they're particularly good at.
-Some common skills are listed below
-along with the trait or traits they are based on.
-If a person doesn't have any special training,
-their ability in that skill is equal to their level in that trait
-(or the lower of their traits' levels if several are listed).
-If the base trait is "--" it means that characters don't have any ability at all by default.
-
-| Acrobatics (FI)               | Acting/Disguise (IQ)                     | Animal Handling (FI,IQ) |
-| Boating (--)                  | Camouflage (--)                          | Camping (FI,DX,IQ)      |
-| Climbing (FI)                 | Craft: carpentry, sewing, etc. (--)      | Dancing (FI)            |
-| Drawing (--)                  | Driving (--)                             | Escapology (--)         |
-| Farming (--)                  | Fine Art: painting, sculpture, etc. (--) | First Aid (--)          |
-| Gambling (--)                 | Hunting (FI)                             | Hypnotism (--)          |
-| Juggling (--)                 | Lockpicking (--)                         | Mechanics (DX)          |
-| Medicine (--)                 | Metalwork (--)                           | Music (--)              |
-| Navigation (--)               | Persuasion (IQ)                          | Picking Pockets (--)    |
-| Riding (FI)                   | Robotics (--)                            | Shooting (--)           |
-| Singing (--)                  | Skating (--)                             | Skiing (--)             |
-| Sneaking (FI)                 | Stage Magic (--)                         | Swimming (--)           |
-| Throwing (FI)                 | Tracking (--)                            | Trapping/Fishing (--)   |
-| Tunnelling (--)               | Unarmed Combat (FI)                      | Ventriloquism (--)      |
-| Weapon: sword, bow, etc. (FI) |                                          |                         |
-
-Characters may also have knowledge of history, a language, mathematics, science,
-or some other specialized field.
-A character's knowledge of any field is initially zero,
-and must all be learned.
-
-The Director may allow players to choose skills for their characters
-that are not on this list.
-
-*Example:
-Larrapin doesn't have any bonuses for Acting and Disguise,
-which means her automatic rating is High (equal to her IQ).
-Having grown up in the mountains,
-though,
-she has learned how to ski very well,
-so her rating is also High.*
-
-*Example:
-Suppose Larrapin is trying to escape a band of angry (and hungry) wolves.
-The Director decides that ski-jumping over a ravine has a difficulty of Challenging (13).
-Larrapin rolls two dice, gets a total of 5, adds 2 for her High ability,
-and tumbles into the ravine!*
 
 ## Conflict
 
@@ -258,7 +288,7 @@ the player has to get a higher score than their opponent.
 *Example:
 Larrapin doesn't have any particular training in hand-to-hand fighting,
 so her rating is Average.
-She has just been tackled by an angry zebra whose rating is High.
+She has just been tackled by an angry monkey whose rating is High.
 Larrapin rolls two dice and gets a total of 8 (with no bonuses).
 The zebra rolls two dice and gets 7,
 but adds a bonus of 2 for a total of 9.

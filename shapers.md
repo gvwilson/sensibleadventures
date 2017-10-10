@@ -208,55 +208,21 @@ their ability in that skill is equal to their level in that trait
 (or the lower of their traits' levels if several are listed).
 If the base trait is "--" it means that characters don't have any ability at all by default.
 
-<div class="row">
-<div class="col-sm-6" markdown="1">
-- Acrobatics (FI)
-- Acting/Disguise (IQ)
-- Animal Handling (FI,IQ)
-- Boating (--)
-- Camouflage (--)
-- Camping (FI,DX,IQ)
-- Climbing (FI)
-- Craft: carpentry, sewing, etc. (--)
-- Dancing (FI)
-- Drawing (--)
-- Driving (--)
-- Escapology (--)
-- Farming (--)
-- Fine Art: painting, sculpture, etc. (--)
-- First Aid (--)
-- Gambling (--)
-- Hunting (FI)
-- Hypnotism (--)
-- Juggling (--)
-- Lockpicking (--)
-- Mechanics (DX)
-</div>
-<div class="col-sm-6" markdown="1">
-- Medicine (--)
-- Metalwork (--)
-- Music (--)
-- Navigation (--)
-- Persuasion (IQ)
-- Picking Pockets (--)
-- Riding (FI)
-- Robotics (--)
-- Shooting (--)
-- Singing (--)
-- Skating (--)
-- Skiing (--)
-- Sneaking (FI)
-- Stage Magic (--)
-- Swimming (--)
-- Throwing (FI)
-- Tracking (--)
-- Trapping/Fishing (--)
-- Tunnelling (--)
-- Unarmed Combat (FI)
-- Ventriloquism (--)
-- Weapon: sword, bow, etc. (FI)
-</div>
-</div>
+| Acrobatics (FI)               | Acting/Disguise (IQ)                     | Animal Handling (FI,IQ) |
+| Boating (--)                  | Camouflage (--)                          | Camping (FI,DX,IQ)      |
+| Climbing (FI)                 | Craft: carpentry, sewing, etc. (--)      | Dancing (FI)            |
+| Drawing (--)                  | Driving (--)                             | Escapology (--)         |
+| Farming (--)                  | Fine Art: painting, sculpture, etc. (--) | First Aid (--)          |
+| Gambling (--)                 | Hunting (FI)                             | Hypnotism (--)          |
+| Juggling (--)                 | Lockpicking (--)                         | Mechanics (DX)          |
+| Medicine (--)                 | Metalwork (--)                           | Music (--)              |
+| Navigation (--)               | Persuasion (IQ)                          | Picking Pockets (--)    |
+| Riding (FI)                   | Robotics (--)                            | Shooting (--)           |
+| Singing (--)                  | Skating (--)                             | Skiing (--)             |
+| Sneaking (FI)                 | Stage Magic (--)                         | Swimming (--)           |
+| Throwing (FI)                 | Tracking (--)                            | Trapping/Fishing (--)   |
+| Tunnelling (--)               | Unarmed Combat (FI)                      | Ventriloquism (--)      |
+| Weapon: sword, bow, etc. (FI) |                                          |                         |
 
 Characters may also have knowledge of history, a language, mathematics, science,
 or some other specialized field.
@@ -272,7 +238,7 @@ which means her automatic rating is High (equal to her IQ).
 Having grown up in the mountains,
 though,
 she has learned how to ski very well,
-so her rating is also High.
+so her rating is also High.*
 
 *Example:
 Suppose Larrapin is trying to escape a band of angry (and hungry) wolves.

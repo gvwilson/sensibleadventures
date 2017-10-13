@@ -4631,7 +4631,7 @@ and how were regular folks supposed to understand a tangle like that?
 "Maybe it'll make more sense after dinner,"
 Aunt Naggie ventured.
 
-"Dinner,"
+"As if,"
 Uncle Jack snorted.
 "Didja get your precious groceries?"
 
@@ -4639,8 +4639,8 @@ For a moment Iffy thought her aunt would start crying again.
 Instead,
 she nodded wordlessly and carried her shopping into the galley.
 
-Iffy watched silently as Aunt Naggie used a knife to take out her feelings on an onion.
-Once it was sizzling in hot oil,
+Iffy watched silently as Aunt Naggie took out her feelings on an onion.
+Once it was diced and sizzling in hot oil,
 she cubed a block of soy and attacked the other vegetables.
 "Anythin' I can do?"
 Iffy finally asked,
@@ -4659,13 +4659,14 @@ for most of her life.
 "I love you," she blurted.
 
 Aunt Naggie set her knife down and hugged her foster daughter back.
-"I love you too, sweetie.
-Always an' forever.
+"I love you too, sweetie,"
+she said softly,
+her cheek pressed against her foster daughter's shaven head.
+"Always an' forever.
 Don't you ever forget that,
 no matter what."
 
-Iffy gave her another squeeze,
-afraid she might start crying too.
+Iffy hung on when her aunt would have let go.
 "Was he---was he someone special?"
 
 Her aunt froze.
@@ -4676,10 +4677,9 @@ Aunt Naggie whispered,
 "Yeah, he was."
 She kissed the top of Iffy's head.
 "Everyone's special,
-but Ignacio was extra special.
+but he was extra special.
 In a lot o' ways."
-She sniffled,
-a sound as startling in its own way as an alarm bell ringing.
+She laughed shakily.
 "Prob'ly best if we don't talk about it in front o' Jack."
 
 "'Course not,"
@@ -4692,10 +4692,10 @@ Aunt Naggie heaved a sigh and turned back to her vegetables.
 I guess he wanted to keep 'em all safe,
 an' scramblin' himself was---was just---"
 
-"It's aright, it's aright."
-Iffy hugged her aunt again.
-"It's aright,"
-she repeated in a whisper.
+"It's aright, auntie, it's aright,"
+Iffy said,
+knowing it was a lie.
+"It's aright."
 
 Uncle Jack complained that their was too much curry in the stir fry
 and that the noodles were overcooked.
@@ -4708,9 +4708,12 @@ if Aunt Naggie hadn't put a hand on her shoulder.
 Later,
 sitting cross-legged on her bed,
 Iffy set the square piece of tech that the Reclamation officer had given her on the mattress.
-*Ignacio,* she told herself.
+*Ignacio,* she reminded herself.
 His name had been Ignacio.
-She pulled out her tools and went to work.
+And if he had been that important to her aunt,
+it didn't matter if he was a Zillion spy or anything else.
+Jaw set,
+she went to work.
 
 Fifteen minutes later she sat back, defeated.
 There was a faint line in the bottom of the piece of tech that she just *knew* was an access panel,
@@ -4746,8 +4749,8 @@ and she fell into waking.*
 
 Iffy sat up,
 waved the lights on,
-and picked up the square piece of tech Ignacio had given her.
-It was obvious what she had to do.
+and picked up the square of tech.
+How could she not have seen it before?
 There and there together and then there,
 two presses and a third,
 and *pop!*
@@ -4763,16 +4766,17 @@ tucked the unit under her mattress,
 and closed her eyes.
 
 The Marines arrived just as Iffy woke up,
-two squads of eight in exoskeletons,
-each with a bulky pack on their back,
-and another two squads of regulars
+or perhaps it was their arrival that woke her.
+Two squads of eight led the way,
+each in a full exoskeleton with a bulky pack on their back,
+followed by two squads of inductees
 straining under packs that were only slightly less heavy.
-Dr. Johel came with them,
-and so did Johnson Wales.
+Dr. Johel came with them on a little motorized scooter
+with Johnson Wales sitting awkwardly on the back.
 
 "Because Rothera Core ran a few sims,"
-Dr. Johel explained testily to Uncle Jack.
-"A few billion sims, actually,
+Dr. Johel explained testily to Uncle Jack as Wales dismounted.
+"A few billion, actually,
 and it says this is our best chance of success."
 She gestured at the sleek gray ship that had taken up station
 a few hundred meters away from the pier
@@ -4780,16 +4784,18 @@ while Iffy slept.
 "You,
 the *Bengal*,
 these soldiers,
-and a couple of spotters---that's what it came up with."
+and a couple of spotters---that's what it says,
+so that's what we're doing."
 
-"Well, all I can say is that---"
+"Well, all *I* can say is that---"
 Uncle Jack began to bluster.
 
 "You'll get paid,"
 Wales cut in.
 His face was drawn,
-as if he hadn't slept since the attack on the governor's mansion.
-His toolboxes sat on a two-wheeled cart behind him.
+as if he hadn't slept since the attack on the governor's mansion,
+and his movements were stiff.
+His toolboxes sat on a two-wheeled cart hitched behind Doctor Johel's scooter.
 Beside the cart,
 a cadet in a uniform three shades lighter than those of the other Marines stood at attention,
 the top half of her face covered by a dark tactical visor.
@@ -4801,7 +4807,7 @@ It *couldn't* be.
 Dr. Johel saw the look on Iffy's face and glanced at the young woman.
 "Ah, yes," she purred.
 "That was another of the core's recommendations."
-She beckoned Wales and the cadet forward.
+She beckoned the cadet forward.
 "I believe you two know each other?"
 
 "Honesty?"
@@ -4827,18 +4833,17 @@ Dr. Johel agreed evenly.
 Wales agreed tiredly.
 He waved a hand at the gangplank.
 "Just take them up there, please.
-I'll show you where they go."
+Iffy can show you where they go."
 
 "Yes sir."
 Without even glancing at her friend,
-Honesty wheeled the cart onto the *Guinevere*.
-Wales trudged up the gangplank behind her.
-After a moment's hesitation,
-Iffy followed them.
+Honesty unhitched the cart and wheeled it up the gangplank.
+Wales gestured for Iffy to follow her,
+then trudged up and onto the *Guinevere* himself.
 
 Wales' toolboxes went in the cabin he had used on the voyage from Halley.
 He struggled awkwardly out of his coat,
-the wound in his side obviously still bothering him.
+his wound obviously still bothering him.
 "Maybe later,"
 he said when Iffy asked him if he wanted some tea.
 "I'm going to lie down for a bit first."
@@ -4849,14 +4854,14 @@ Wales sat on his foam mattress,
 yawned,
 and started to swing his legs up
 before realizing that she was still standing there.
-He searched her face for a moment and then sighed.
-
+He sighed.
 "Just give her time," he said gently.
 "And don't take anything she says too seriously.
 It's just the programming talking."
 
 Iffy nodded jerkily.
-"Hope you sleep aright."
+"I know.
+I just---I hope you sleep aright."
 She closed the door quietly behind her.
 
 Honesty was standing straight and stiff by the railing,
@@ -4864,26 +4869,28 @@ her hands clasped behind her back.
 The cart beside her was lined up perfectly with the side of the ship,
 and the coil of cable on the post at her elbow had been re-coiled
 in loops that Iffy suspected were precisely two meters long,
-or whatever Marine regulations said was best.
+or whatever Marine regulations called for.
 
-"How're you feelin'?" Iffy asked tentatively.
+"Hey,"
+Iffy said tentatively.
+"How're you feelin'?"
 
 "I'm fine, thank you,"
 Honesty replied without turning her head.
 "How are you?"
 
-"'m kappa."
+"'m aright."
 Iffy's mind spun double-time as she tried to think of something safe to say.
 *Th' hell with it* she thought angrily.
 "Did it hurt?" she blurted.
-"When they inducted you, was it---are y'alright?"
+"When they inducted you, was it---are y'aright?"
 
-"Not at all."
+"I'm fine, thank you."
 Honesty turned to face Iffy.
 A brief smile flitted across her face,
-as sharp and unwarming as the Antarctic sun.
-"Please don't be worried.
-They warned us that we would seem stiff for a while."
+as bright and as sharp and as completely without warmth as the Antarctic sun.
+"They warned us that we would seem stiff for a while.
+It's no cause for alarm."
 
 Someone whistled down on the pier.
 "Excuse me," Honesty said.
@@ -4891,14 +4898,14 @@ She grabbed her cart and headed down the gangplank without waiting for a respons
 
 An hour later the *Guinevere* was ready to set sail.
 Uncle Jack protested loudly when he discovered that four of the Marines would be travelling with them,
-and was even louder when they erected a streamlined gray tent near the stern,
-but the Marine commander's indifference was as clear as midwinter ice.
-"Standard procedure,"
-he said sharply.
-"We'll stand watch in pairs.
-Whoever's not on deck can lie in to warm up and mind the gear."
+and was even louder when they erected a gray tent on the deck near the stern,
+but the Marine commander just said,
+"Standard procedure.
+We'll stand watch in pairs,"
+he added.
+"Whoever's not on deck can lie in to warm up and mind the gear."
 Exactly what "the gear" was for was left unsaid,
-but judging from its capacitors and gunsight,
+but judging from the capacitors and gunsight she had seen the Marines carry into the tent,
 Iffy was pretty sure it wasn't for stargazing.
 
 They cast off without ceremony.

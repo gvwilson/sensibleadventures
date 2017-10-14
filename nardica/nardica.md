@@ -3622,7 +3622,7 @@ The smart bullets zinged and whined around the corners,
 hungry for targets.
 
 "Start where you are," Wales muttered.
-"Start where you are, use what you have, do what you can."
+"Start where you are, use what you have, help who you can."
 Two skeletal legs,
 a wheel of nested gears only slightly smaller than Iffy's hand,
 a complicated not-quite-a-box to hold it all together---all of a sudden
@@ -4217,33 +4217,25 @@ shrugged as if to say, "Could be,"
 and set it on the to-do rack that lined the wall behind the workbench.
 "How 'bout these?"
 
-The box she passed to Iffy opened to reveal small balls
-made of fractal carbon fiber
-with rotors the size of Iffy's fingernails in each corner.
-They were obviously drones,
+The box she passed to Iffy opened to reveal squares woven from fractal carbon fiber,
+each the size of her nature book
+and as thin as half a dozen pages together.
+It took her a second to realize that the little grommets patterned across the squares were rotors.
+The sheets were drones,
 but not any kind that Iffy recognized.
-She pulled one free of its hard foam bed and turned it over in her hands.
+She turned one over in her hands.
 "Dunno," she admitted.
+"How d'you switch it on?"
 
-"Us neither,"
+"No idea,"
 Honesty's First said cheerfully.
-"But lookee."
-She flicked the top of the tiny dronelet with her fingernail
-as if shooing away a bug
-and let go of it.
-With a barely perceptible whir,
-its rotors spun into action to keep it floating exactly where it had been.
-When Honesty's First tapped its side,
-it drifted toward Iffy.
-
-"Best guess is they's fer some kinda game,"
-she said.
+"Best guess is they was fer some kinda game."
 
 "Shaw,"
 her Second said,
 looking up from the machine she had spent the last three months trying to reassemble.
 "They's too fine made jarra game.
-I's fer they bin up some kinda survey work from back as settlement times."
+I's fer they bin up some kinda survey mappin'."
 
 "Mebbe,"
 Honesty's First admitted.
@@ -4265,13 +4257,17 @@ So Iffy had forgiven her,
 secretly relieved that someone knew she was different---even
 by clone standards---and didn't seem to care.
 
-When Iffy handed the box of dronelets back,
-Honesty's First waved them away.
-"Hang onto 'em.
-if anythin' comes t' mind,
+When Iffy handed back the box of drones,
+Honesty's First waved her away.
+"Not much use t'us if we can't turn 'em on,"
+she said,
+though Iffy knew the little rotors would be worth a week's grocery bill
+if they were pried out and sold as parts.
+"If anythin' comes t' mind,
 you come by an' gi's the scutch, aright?
 An' even if nothin' does,
-we's alluz happy t'have one more fer dinner."
+we's alluz happy t'have one more fer dinner or a sleepover."
+She winked broadly.
 
 "Thanks," Iffy mumbled,
 uncomfortable as always with kindness.
@@ -4400,7 +4396,7 @@ She ducked under a tarnished video carpet hanging from a clothesline
 and pushed her way into the crowd on the other side.
 
 And froze.
-And ducked back behind the carpet again.
+And ducked back behind the video carpet again.
 She squeezed her eyes shut.
 She must have been mistaken---she couldn't have seen what she thought she just saw.
 She shook her head and slowly peeked around the carpet's edge.
@@ -4415,7 +4411,8 @@ she was pretty sure they weren't discussing
 how quickly the latest batch of tweaked microbes brought in from India
 were turning 'Nardica's barren rocks into soil.
 
-The man in the suit leaned forward to Aunt Naggie on the cheek.
+The man in the suit handed Aunt Naggie something
+and leaned forward to kiss her on the cheek.
 The space above their heads flickered as he did so.
 It was another video carpet,
 Iffy realized,
@@ -4453,10 +4450,9 @@ Someone shouted,
 Other voices took up the cry.
 "Show us yer warrant 'r show us your backside!"
 
-"Great," Iffy muttered.
-"Another affin' dock fight."
-She pulled aside the video carpet she had been hiding behind
-and hurried toward Aunt Naggie just as the salesman said,
+*Great,* Iffy thought, *Another affin' dock fight.*
+She pulled aside the carpet she had been hiding behind
+and hurried toward Aunt Naggie just in time to hear the salesman say,
 "Please, you must get out of here."
 
 Aunt Naggie shook her head.
@@ -4464,29 +4460,140 @@ Aunt Naggie shook her head.
 Then she caught sight of her foster daughter.
 "Iffy?"
 she gaped.
-"What're you---I thought you were down along the docks with that friend o' yours?"
 
-"I was," Iffy said.
-"An' he's right---we gotta get out o' here."
-She spun her foster mother around
-and pushed her toward the exit.
+The salesman's face fell.
+"Iffelia's Fourth?
+What are you doing here?"
+He turned to Aunt Naggie.
+"She mustn't be here!"
+
+"She ain't supposed t' be!"
+Aunt Naggie said helplessly.
+"Iffy---I thought you were down along th' docks?"
+
+"I was," Iffy said defensively.
+"What's goin' on?"
+
+"What's going on is that you two are *leaving*,"
+the salesman said firmly,
+turning Iffy and Aunt Naggie around
+and pushing them toward the exit.
 
 Aunt Naggie dug in her heels.
 "No."
 She turned back to the salesman.
-"You want me t' go,
-you gotta come too."
+"If it ain't safe for us to stay,
+it ain't safe for you neither."
 
-The salesman looked from Aunt Naggie to Iffy and back.
-"This is a bad idea,"
-he sighed.
-He shrugged off his suit jacket
-and pulled a video carpet over his shoulders like a poncho.
+The look on Aunt Naggie's face stopped whatever the salesman had been about to say.
+"*Im awa pfa ta,*"
+he muttered under his breath,
+shrugging off his suit jacket
+and pulling a video carpet over his shoulders like a poncho.
 The image flickered and reformed to show a bright orange parka
-festooned with service badges from the wartime Ecological Service.
-It wouldn't fool anyone up close,
-Iffy realized,
-but it might throw off the drones circling angrily overhead.
+festooned with wartime service badges.
+A knit cap from a nearby box pulled down low over his head sparkled briefly
+before displaying a full head of curly red hair.
+It wouldn't fool a human being,
+not for an instant,
+but the drones overhead weren't allowed to be any smarter than seagulls.
+
+The drones...
+"Wait!"
+Iffy knelt and pulled the box of strange drones out of her pocket.
+"C'mon c'mon c'mon," she muttered.
+"Please, just this once."
+She had never been able to control her flashes of intuition.
+They came when they wanted.
+This was a stupid idea.
+They should be running.
+They should---
+
+And there it was.
+How could she not have seen it before?
+There and there together and then there,
+two presses and a third,
+and *zip!*
+A thin film in the center of the drone peeled back to reveal a foil battery,
+a hair-thin fractal antenna,
+and---
+
+"Shway boo," she whispered unbelievingly.
+The dronelet's crystal core was enormous---almost as big as a grain of rice---and
+the flat, unreflective black that meant it had been grown in orbit.
+If its twins had similar cores,
+the three drones together would be worth as much as the *Guinevere*.
+
+"Iffy, what're you doin?"
+She ignored her foster mother and the alarms and the pressure of the salesman's glare
+as she pulled tools out of her pockets.
+
+"You got any scraps this big?" she asked over her shoulder,
+holding her hands a few centimeters apart for an instant
+before opening two other drones.
+Sure enough,
+their cores were identical.
+
+"Here."
+The salesman handed her half a dozen swatches of video fabric,
+each the size of a handkerchief.
+Iffy measured one against a drone,
+then winced as she pried two of the rotors out of the stiff black fabric.
+She'd never be able to repair the damage,
+not even with the kind of tech she'd seen in Wales' toolboxes,
+but she didn't dare cutting into the drone fabric itself.
+
+It took her a moment to tuck the corners of the video square into the holes she'd made.
+Now for the hard part.
+She closed her eyes and willed the images to come together.
+These bits were the drone---don't worry now about how she knew
+or why she could see its programming as clearly as she could see its hardware---and
+this over here was the video square,
+and that was its connection to the outside world,
+so if she shone a laser *here* and sent a pulse-coded access request,
+then told the drone and the video square to trust each other
+no matter what their other programming said,
+then---
+
+"Gotcha!"
+The dronelet rose, tilted, and levelled
+as the image on its back flickered and steadied to show the top of a woman's head.
+
+The Asian salesman grunted.
+"She really can, can't she?" he said to Aunt Naggie.
+
+Iffy's foster mother nodded.
+"Y'aright?"
+she asked Iffy.
+
+"I'm fine,"
+Iffy lied.
+Her head was swimming.
+Everything around her seemed unreal.
+The stalls were just wireframes.
+The drones overhead were clouds of software,
+patched and patched again to defend against viruses
+until there was only room for the most limited intelligence.
+It was like a badly-written sim.
+
+"Iffy!"
+Aunt Naggie shook her.
+The world blinked back to normal.
+"Iffy,
+c'mon,
+we gotta go."
+
+"I just need a minute."
+Eighty-five seconds later,
+two more awkward patch-ups were humming quietly in the air beside her,
+each showing a different downloaded image.
+She strung a few more verbs together and threw them into the drones' cores
+so that they'd sway a little the way people did when walking
+and stood up.
+She took a deep breath and transmitted one last set of instructions
+to send the drones on their way,
+then said,
+"Let's go."
 
 Iffy stayed close behind Aunt Naggie and the salesman
 as they joined the stream of people heading for the exit.
@@ -4507,14 +4614,17 @@ the drones above boomed,
 We have identified our quarry!
 Your assistance is required!"
 
-Every screen in the Dance Hall went blank.
 "Guess they got their warrant,"
 the man in front of Iffy muttered.
 
-The screens came back to life
-to show a younger version of the salesman.
+Every screen in the Dance Hall blanked for an instant.
+When they came back to life,
+every one showed a younger version of the salesman.
 Instead of a suit,
-he was wearing the green and gold uniform of a Zillion military officer.
+he was wearing the green and gold uniform of the Brazilian Ecological Defense Co-operative.
+
+"You're a Zillion?"
+Iffy gasped.
 
 The salesman pulled his arm out of Aunt Naggie's.
 "Keep walking," he ordered.
@@ -4526,9 +4636,38 @@ One raised a shock stick
 as the other levelled a tangle gun.
 "Citizen! Halt!" they said in unison.
 
-Iffy thought the salesman was going to run.
-Instead,
-he raised a hand into the air,
+The salesman threw himself to the side.
+Whatever had thrown sparkled in the air before blossoming into a galaxy of green-blue stars.
+The Marine's tangle gun burped a web of sticky plastic microfibers.
+Iffy shrieked.
+The shot went wide,
+the gun's auto-sight dazzled by the salesman's counter-measures.
+The couple in front of Iffy and Aunt Naggie fell heavily to the ground,
+shouting and struggling as the tangle net tightened around them.
+
+The salesman vaulted over a counter-top,
+knocked a wok full of steaming noodles aside,
+and pulled up short as another pair of Marines clanked around the corner to block his way.
+
+"Iffy, c'mon, we gotta go!"
+Aunt Naggie tugged her arm.
+
+Iffy shook her off.
+There!
+Her three drones zipped through the air straight for the Marines.
+They spun around,
+their inducted reflexes pulling their weapons up in the face of an unknown new threat
+just long enough for the salesman to look wildly around for another way out.
+
+But there wasn't one.
+Three---no, four---drones were now circling overhead.
+The first Marine had reloaded his tangle gun and was lining up for a shot.
+
+The salesman turned to face Aunt Naggie.
+"Start where you are," he said.
+"Use what you have,
+help who you can."
+He raised a hand into the air,
 clenched it to make a fist,
 and pressed it against his temple.
 As Aunt Naggie shrieked "no!" his head snapped back and he slumped to the ground.
@@ -4536,17 +4675,22 @@ As Aunt Naggie shrieked "no!" his head snapped back and he slumped to the ground
 Iffy gaped in disbelief.
 He had brainwiped himself!
 Spies and disappointed lovers did it in sims, but---but this was real life!
-People didn't scramble their memories in real life!
+People didn't scramble their brains in real life!
 
-A strangled sound pulled her eyes up away from Marines striding forward
-to seize the twitching form on the ground.
-Aunt Naggie stared at the fallen man,
-shock and disbelief on her face.
+Aunt Naggie made a strangled sound as the Marines hurried toward the twitching form on the ground.
 Iffy took her arm.
 "Auntie!"
-She pulled her toward the entrance.
+She tugged at her gently.
 "Auntie,
 we need to get outta here."
+
+"I can't..."
+Shock and disbelief mingled on her face.
+"I can't just *leave* him."
+
+"Auntie, we gotta."
+Iffy took one of the shopping bags from her foster mother's slack grip
+and pulled her into motion.
 
 Somehow they made it to the doors and out onto the street.
 "C'mon, let's get home,"
@@ -4706,33 +4850,7 @@ Iffy grabbed hold of Aunt Naggie's leg and held on tight
 as the deck dropped away below her
 and she fell into waking.*
 
-Iffy sat up,
-waved the lights on,
-and fumbled for the box of dronelets.
-How could she not have seen it before?
-There and there together and then there,
-two presses and a third,
-and *pop!*
-The access panel opened to reveal a battery,
-a hair-thin fractal antenna,
-and---she blinked.
-"Shway boo," she whispered unbelievingly,
-reaching for the magnifier in her tool pouch.
-She fitted it over her right eye,
-zoomed in,
-and zoomed in again.
-No matter how much she magnified,
-the tiny crystal core in the dronelet remained a flat, featureless black.
-
-She leaned back against the cabin wall.
-If the other two drones had the same kind of core,
-they were probably worth as much as the *Guinevere* would have fetched brand-new.
-She weighed the little dronelet in her hand,
-wondering how long it would be before someone came looking for it
-and how she would keep Aunt Naggie safe when they did,
-then closed it up,
-packed it away,
-and waved the light off again.
+FIXME
 
 The Marines arrived just as Iffy woke up,
 or perhaps it was their arrival that woke her.

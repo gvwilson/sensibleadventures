@@ -4217,7 +4217,7 @@ shrugged as if to say, "Could be,"
 and set it on the to-do rack that lined the wall behind the workbench.
 "How 'bout these?"
 
-The box she passed to Iffy opened to reveal three identical triangles
+The box she passed to Iffy opened to reveal small balls
 made of fractal carbon fiber
 with rotors the size of Iffy's fingernails in each corner.
 They were obviously drones,
@@ -4228,53 +4228,54 @@ She pulled one free of its hard foam bed and turned it over in her hands.
 "Us neither,"
 Honesty's First said cheerfully.
 "But lookee."
-She flicked the top of the tiny drone with her fingernail
+She flicked the top of the tiny dronelet with her fingernail
 as if shooing away a bug
 and let go of it.
 With a barely perceptible whir,
 its rotors spun into action to keep it floating exactly where it had been.
 When Honesty's First tapped its side,
-it drifted toward Iffy without rising or falling.
+it drifted toward Iffy.
 
 "Best guess is they's fer some kinda game,"
 she said.
 
 "Shaw,"
 her Second said,
-looking up from the machine she was trying to disassemble.
+looking up from the machine she had spent the last three months trying to reassemble.
 "They's too fine made jarra game.
-I's fer they bin up some kinda place markers fra survey work."
+I's fer they bin up some kinda survey work from back as settlement times."
 
 "Mebbe,"
 Honesty's First admitted.
 Casually,
 looking past Iffy rather than at her,
 she asked,
-"Any o' your notions come along by?"
+"You ain't got fra yer...notions?"
 
 Iffy shook her head.
 She had told Honesty about her occasional flashes of insight,
 then told her off,
 cold and hard,
-when she discovered that she passed the knowledge on to her First and Second.
+when she discovered that her friend had relayed what she'd said to her First and Second.
 "We don't keep secrets on each other,"
 Honesty had said with a shrug.
 "Y'ain't aright along that,
 best we part ways now."
 So Iffy had forgiven her,
-and then discovered that she felt relieved that people knew she was different---even
+secretly relieved that someone knew she was different---even
 by clone standards---and didn't seem to care.
 
-Honesty's First picked up her own long-cold tea.
-"Well,
+When Iffy handed the box of dronelets back,
+Honesty's First waved them away.
+"Hang onto 'em.
 if anythin' comes t' mind,
-you come by an' scutch us, aright?
-And even if nothin' does---there'd be plenty for you t' do,
-an' we's alluz happy t'have one more fer dinner."
+you come by an' gi's the scutch, aright?
+An' even if nothin' does,
+we's alluz happy t'have one more fer dinner."
 
 "Thanks," Iffy mumbled,
 uncomfortable as always with kindness.
-She drained the last of her own tea and stood up.
+She drained the last of her tea.
 "I gotta get back t' help Aunt Naggie do th' shopping."
 
 "Sure," Honesty said.
@@ -4406,156 +4407,126 @@ She shook her head and slowly peeked around the carpet's edge.
 
 There,
 just a couple of meters away,
-stood Aunt Naggie and a slim dark man
-wearing a brown and gray uniform jacket
-with the badge of the old Reclamation Service on the sleeve.
+stood Aunt Naggie and a slim Asian man
+in a brown and gray suit that was probably as old as the *Guinevere*.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
 but from the way they were looking at each other
 she was pretty sure they weren't discussing
 how quickly the latest batch of tweaked microbes brought in from India
 were turning 'Nardica's barren rocks into soil.
 
-The man in the Reclamation officer's jacket pressed something into Aunt Naggie's hand
-and leaned forward to kiss her on the cheek.
+The man in the suit leaned forward to Aunt Naggie on the cheek.
 The space above their heads flickered as he did so.
 It was another video carpet,
 Iffy realized,
-strung between four posts like a canopy
-and playing a few seconds of sim to conceal them from the drones overhead.
+strung between four posts like a canopy to conceal them from the drones overhead.
 It flickered again as Aunt Naggie pulled the man closer and kissed him for real.
+
 Iffy's stomach flip-flopped the way it did
 when she read some of the steamier passages in the romances Aunt Naggie loved so much.
-Was this man the mysterious "core" Aunt Naggie claimed wrote those stories?
-
-Even as she dismissed the thought---no one could write that much,
-that fast,
-or that badly---the Reclamation man stepped back,
-his face now polite and smiling.
-He gestured at one of the smaller video carpets hanging on a display rack beside him
-as if to say,
+The salesman stepped back and forced his features into a bland salesman's smile.
+He gestured at one of the carpets hanging on a display rack beside him.
 "Perhaps this one?"
-Aunt Naggie shook her head,
-smiled just as falsely,
-and turned to go.
+he asked a little too loudly.
 
+Aunt Naggie's reply was cut off by a sudden crackle of static.
 "Citizens!"
-The stern mechanical voice cut through the market bustle
-like a shriek of metal through a symphony.
+The stern mechanical voice cut through the market bustle.
 "Remain where you are!
 There is no cause for alarm!
-This safety notice is brought to you by Volkov's Hot Sauce!
-Volkov's wants you to know,
-there is no cause for alarm!"
-Even as the voice spoke,
-a high-pitched alarm began to ping.
+This safety notice is brought to you by Volkov's Hot Sauce!"
 
-The Reclamation officer looked up.
-His polite expression slipped
-as the drone that Iffy had seen earlier buzzed lower to circle over his head.
-He spread his hands as if to say,
-"Who, me?"
-then glanced toward the entrance at the sound of boots and angry shouts.
-A squad of Marines were clanking their way through the crowd,
+A high-pitched alarm began to ping.
+The salesman looked up
+as the drone that Iffy had seen earlier buzzed lower.
+She glanced toward the entrance at the sound of boots and angry shouts.
+A squad of Marines in exoskeletons were clanking through the crowd,
 visors down and shock sticks in their hands.
 
 "Citizens!
 Remain where you are!
 And try Volkov's---there's nothing hotter this side of the Cairo Crater!"
 The drone jinked sideways to dodge a thrown scrap of bamboo.
-Something clanged off a Marine's exoskeleton
-as someone in the crowd shouted,
-"Where's your warrant!"
+Something clanged off a Marine's exoskeleton.
+Someone shouted,
+"Show us yer warrant!"
 Other voices took up the cry.
+"Show us yer warrant 'r show us your backside!"
 
-Iffy pulled the video carpet aside and ran toward Aunt Naggie
-as the Reclamation officer turned back to her.
-"You must be gone," he said urgently.
-"You must be gone and safe, now!"
+"Great," Iffy muttered.
+"Another affin' dock fight."
+She pulled aside the video carpet she had been hiding behind
+and hurried toward Aunt Naggie just as the salesman said,
+"Please, you must get out of here."
 
-Aunt Naggie grabbed for his hand.
-"I ain't leavin' you!"
+Aunt Naggie shook her head.
+"I ain't leavin' you."
 Then she caught sight of her foster daughter.
 "Iffy?"
-She gaped.
+she gaped.
 "What're you---I thought you were down along the docks with that friend o' yours?"
 
-"I was," she said.
-"Now c'mon---we need t' get outta here like he says!"
-She tugged on her aunt's arm.
-Aunt Naggie's mouth worked like a fish gasping for water.
-Frightened and exasperated,
-Iffy pulled one of the shopping bags out of her aunt's hands,
-spun her around,
-and started hauling her toward the exit.
+"I was," Iffy said.
+"An' he's right---we gotta get out o' here."
+She spun her foster mother around
+and pushed her toward the exit.
 
-She got all of two steps before Aunt Naggie dug in her heels.
+Aunt Naggie dug in her heels.
 "No."
-She looked back at the Reclamation officer,
-her jaw set.
+She turned back to the salesman.
 "You want me t' go,
 you gotta come too."
 
-The Reclamation officer rolled his eyes.
-"You are a very stubborn woman," he said.
-Even as he spoke he shrugged out of his old uniform jacket,
-pulled a knit cap from one of its pockets to jam on his head,
-and grabbed a sample bag filled with small squares of video carpet.
-He handed the squares to Iffy,
-broke the sides off the box,
-and tucked its base into one of the wide side pockets on his trousers.
-Slipping his arm through Aunt Naggie's,
-he smiled and said,
-"Shall we?"
+The salesman looked from Aunt Naggie to Iffy and back.
+"This is a bad idea,"
+he sighed.
+He shrugged off his suit jacket
+and pulled a video carpet over his shoulders like a poncho.
+The image flickered and reformed to show a bright orange parka
+festooned with service badges from the wartime Ecological Service.
+It wouldn't fool anyone up close,
+Iffy realized,
+but it might throw off the drones circling angrily overhead.
 
-Iffy fell in behind them as they joined the stream of people heading for the exit.
-As they passed a rack of bicycles and a stall selling rolls of microfiber sailcloth,
+Iffy stayed close behind Aunt Naggie and the salesman
+as they joined the stream of people heading for the exit.
+As they turned left by a rack of bicycles and a stall selling rolls of microfiber sailcloth,
 a man in front of them asked,
 "Ya pins they trappa thief?"
 
 "Net says they's sweepin' fer some kinda sab," the woman beside him replied,
-eyes blinking rapidly as she searched the feed in her yellow-tinted glasses.
+scanning a feed only she could see through heavy yellow-tinted glasses.
 
-The man snorted.
-"Bad case o' someone din't pay off the blues is my bet,"
-he muttered.
-His companion shushed him,
-glancing up meaningfully as a drone buzzed overhead.
+Her companion snorted.
+"Bad case o' someone din't pay off the blues is more likely."
+His companion shushed him.
 
-Iffy's heart sank.
-"What's the good o' runnin'?" she hissed at her aunt.
-"They drones musta seen you."
+Even as she did so,
+the drones above boomed,
+"Citizens!
+We have identified our quarry!
+Your assistance is required!"
 
-The Reclamation officer glanced back.
-"Not if this was doing its job,"
-he said quietly,
-tapping his trouser pocket.
+Every screen in the Dance Hall went blank.
+"Guess they got their warrant,"
+the man in front of Iffy muttered.
 
-But even as he said it,
-the drones above them stopped telling people to stay where they were
-and try Volkov's Hot Sauce.
-"Citizens!" their voices boomed in unison.
-"We have identified our quarry!
-Your assistance is required!
-Consult your personal devices for further details!"
+The screens came back to life
+to show a younger version of the salesman.
+Instead of a suit,
+he was wearing the green and gold uniform of a Zillion military officer.
 
-Every screen that Iffy could see flickered.
-When their images reformed,
-they showed a younger version of the Reclamation officer,
-but instead of a brown and gray uniform,
-he was wearing the Zillions' green and gold.
+The salesman pulled his arm out of Aunt Naggie's.
+"Keep walking," he ordered.
+Without waiting for a reply he turned right
+toward a stall selling animated toys and compact ship-board cooking equipment.
 
-The Reclamation officer pulled his arm out of Aunt Naggie's.
-"Keep walking," he ordered,
-slipping the square piece of tech from his pocket into her shopping bag.
-Without waiting for an answer he angled through the crowd
-toward a cluster of stalls offering animated toys and compact ship-board cooking equipment.
-
-A pair of Marines stepped out from behind the stall.
+A pair of Marines stepped out from behind it.
 One raised a shock stick
 as the other levelled a tangle gun.
-"Halt!" they said in unison.
+"Citizen! Halt!" they said in unison.
 
-Iffy thought the Reclamation officer was going to run.
+Iffy thought the salesman was going to run.
 Instead,
 he raised a hand into the air,
 clenched it to make a fist,
@@ -4577,7 +4548,7 @@ She pulled her toward the entrance.
 "Auntie,
 we need to get outta here."
 
-Somehow they were through the doors and onto the street.
+Somehow they made it to the doors and out onto the street.
 "C'mon, let's get home,"
 Iffy said.
 Aunt Naggie nodded without speaking.
@@ -4669,33 +4640,25 @@ no matter what."
 Iffy hung on when her aunt would have let go.
 "Was he---was he someone special?"
 
-Her aunt froze.
-Iffy opened her mouth to say never mind,
-it was none of her business,
-but before she could,
-Aunt Naggie whispered,
-"Yeah, he was."
-She kissed the top of Iffy's head.
-"Everyone's special,
-but he was extra special.
+Aunt Naggie kissed the top of Iffy's head.
+"Yeah, he was.
 In a lot o' ways."
 She laughed shakily.
-"Prob'ly best if we don't talk about it in front o' Jack."
+"Prob'ly best if we don't talk about that in front o' Jack, aright?"
 
 "'Course not,"
 Iffy agreed hastily.
-"I just---why'd he do it?
-Why'd he---you know."
+"But---why'd he---you know.
+Why'd he do it?"
+*Why did he think he had to keep you safe?*
+she added in her head.
+*Why do you know people who would do something like that?
+Why didn't I know you did?*
 
-Aunt Naggie heaved a sigh and turned back to her vegetables.
-"He had a lot o' people countin' on 'im for a lot o' things.
-I guess he wanted to keep 'em all safe,
-an' scramblin' himself was---was just---"
-
-"It's aright, auntie, it's aright,"
-Iffy said,
-knowing it was a lie.
-"It's aright."
+"Lotta people were dependin' on him,"
+Aunt Naggie said distantly,
+straightening up and turning back to her cooking.
+"I guess this was the only way he could keep 'em all safe."
 
 Uncle Jack complained that their was too much curry in the stir fry
 and that the noodles were overcooked.
@@ -4707,23 +4670,17 @@ if Aunt Naggie hadn't put a hand on her shoulder.
 
 Later,
 sitting cross-legged on her bed,
-Iffy set the square piece of tech that the Reclamation officer had given her on the mattress.
-*Ignacio,* she reminded herself.
-His name had been Ignacio.
-And if he had been that important to her aunt,
-it didn't matter if he was a Zillion spy or anything else.
-Jaw set,
-she went to work.
-
+Iffy set the box of dronelets that Honesty's First had given her on her mattress
+and went to work.
 Fifteen minutes later she sat back, defeated.
-There was a faint line in the bottom of the piece of tech that she just *knew* was an access panel,
+There was a faint line in the bottom of each dronelet that had to be an access panel,
 but for the life of her,
 she couldn't figure out how to open it.
-When she tried probing it electronically,
+When she tried probing the tiny machines electronically,
 her home-made wireshark showed nothing but frazzled gibberish.
-Finally she set it aside,
-waved her light off,
-and closed her eyes.
+She yawned,
+packed them back in their box,
+and waved her light off.
 
 *She was on deck.
 The sky was a perfect blue,
@@ -4739,31 +4696,43 @@ She struggled to pull her arms out of the ecosuit.*
 *"It's aright," Honesty said,
 already in hers.
 "It's aright, sweetie, everythin's gonna be aright.
-We're gonna **make** it aright,
-you'll see."*
-
-*The sea began to boil and churn.
+We're gonna **make** it aright.
+You'll see."
+With a barely perceptible whir,
+her head detached from the rest of her body and rose into the air.
+Beneath them,
+the sea began to boil and churn.
 Iffy grabbed hold of Aunt Naggie's leg and held on tight
 as the deck dropped away below her
 and she fell into waking.*
 
 Iffy sat up,
 waved the lights on,
-and picked up the square of tech.
+and fumbled for the box of dronelets.
 How could she not have seen it before?
 There and there together and then there,
 two presses and a third,
 and *pop!*
 The access panel opened to reveal a battery,
-a fold-up fractal antenna,
-and a crystal core the size of her thumb
-that was probably worth ten times what the *Guinevere* would have fetched brand-new.
-She stared at the tech for a minute,
+a hair-thin fractal antenna,
+and---she blinked.
+"Shway boo," she whispered unbelievingly,
+reaching for the magnifier in her tool pouch.
+She fitted it over her right eye,
+zoomed in,
+and zoomed in again.
+No matter how much she magnified,
+the tiny crystal core in the dronelet remained a flat, featureless black.
+
+She leaned back against the cabin wall.
+If the other two drones had the same kind of core,
+they were probably worth as much as the *Guinevere* would have fetched brand-new.
+She weighed the little dronelet in her hand,
 wondering how long it would be before someone came looking for it
 and how she would keep Aunt Naggie safe when they did,
-then closed the panel,
-tucked the unit under her mattress,
-and closed her eyes.
+then closed it up,
+packed it away,
+and waved the light off again.
 
 The Marines arrived just as Iffy woke up,
 or perhaps it was their arrival that woke her.

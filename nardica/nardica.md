@@ -4696,8 +4696,6 @@ Somehow they made it to the doors and out onto the street.
 "C'mon, let's get home,"
 Iffy said.
 Aunt Naggie nodded without speaking.
-It was only then that Iffy realized she was crying.
-
 They turned a corner,
 then another,
 and then Aunt Naggie pulled up short.
@@ -4711,8 +4709,7 @@ A passerby slowed,
 hesitated,
 and hurried on her way as Iffy glared at her.
 "What happened?
-Who was he?
-And---"
+Who was he?"
 
 "Sh!"
 Aunt Naggie glanced around fearfully.
@@ -4807,24 +4804,22 @@ straightening up and turning back to her cooking.
 Uncle Jack complained that their was too much curry in the stir fry
 and that the noodles were overcooked.
 He took a second helping anyway,
-finishing it before Iffy and Aunt Naggie were through their first and only
-and then stomping back up the latter to yell at the engine some more.
+finished it before Iffy and Aunt Naggie were through their first and only
+and stomped back up the latter to yell at the engine some more.
 Iffy would have thrown his dirty plate at his head
 if Aunt Naggie hadn't put a hand on her shoulder.
 
 Later,
-sitting cross-legged on her bed,
-Iffy set the box of dronelets that Honesty's First had given her on her mattress
+cross-legged on her bed,
+Iffy set the last of the mysterious drones on her mattress
 and went to work.
 Fifteen minutes later she sat back, defeated.
-There was a faint line in the bottom of each dronelet that had to be an access panel,
-but for the life of her,
-she couldn't figure out how to open it.
-When she tried probing the tiny machines electronically,
+The three she had used in the Dance Hall had understood standard commands,
+but when she tried probing their remaining sibling electronically,
 her home-made wireshark showed nothing but frazzled gibberish.
-She yawned,
-packed them back in their box,
-and waved her light off.
+She yawned and packed it back in its box.
+"Hope you're aright sleepin' on yer own," she whispered,
+then waved her light off.
 
 *She was on deck.
 The sky was a perfect blue,
@@ -4850,7 +4845,98 @@ Iffy grabbed hold of Aunt Naggie's leg and held on tight
 as the deck dropped away below her
 and she fell into waking.*
 
-FIXME
+"Iffy!
+Iffy, wake up!"
+Why was Aunt Naggie shaking her?
+And why did her head hurt so much?
+"Iffy!"
+
+"'m aright," she mumbled.
+She tried to sit up.
+No.
+That was a mistake.
+She tried to tell whoever was shaking her to stop,
+it made the stabbing pain behind her eyes worse,
+but someone had replaced her tongue with a slab of sour tofu.
+All she could do was whimper.
+
+"Iffy, please."
+Strong hands that smelled faintly of soap and onions forced her jaws apart.
+She gagged as a finger pushed something dry and powdery into her mouth.
+It tasted like curry,
+which made just as little sense as everything else that was going on.
+The slosh of water that followed made her splutter.
+She tried to spit it out,
+but those same strong hands wouldn't let her,
+so she swallowed.
+
+"Easy, sweetie, easy."
+Familiar arms held her close.
+It was Aunt Naggie,
+Iffy's fuzzy brain finally told her.
+She was in her cabin on her bed and the lights were on
+and her foster mother was hugging her
+and her mouth tasted *awful*
+but the pain behind her eyes was down from laser drill to poke-with-a-sharp-stick.
+
+"I'm aright,"
+she repeated.
+There was something sticky---when she wiped her face on her sleeve,
+it left a streak of red.
+
+"You scared me, sweetie," Aunt Naggie whispered.
+"I coul'n't lose both of you."
+
+Iffy let out a shaky breath.
+"Glad you din't."
+She worked her tongue in her mouth.
+"Is this curry powder?"
+
+Aunt Naggie wiped her own face and nodded.
+"Mostly.
+There's some medicine in it.
+Ignacio---the fella you met today---he's been gettin' it for me.
+For you, I mean."
+
+A chill ran down Iffy's spine.
+"Medicine for what?"
+
+Aunt Naggie pulled a cloth out of her coat and wiped the nosebleed off Iffy's face.
+"For this,"
+she said quietly.
+"He knew your olders.
+Tol' me they'd picked up somethin' bad somewhere along the way.
+Said you'd get spells as you got older
+less you got treatment.
+Seemed t' be workin',
+'least 'til recently."
+
+She tucked the bloody cloth back into her coat.
+"You been seein' things, ain't ya?
+That's how come you been so good with tech."
+
+Iffy nodded wordlessly.
+The machines had done things to people during the war,
+turned them into weapons and saboteurs and spies,
+sometimes without them even knowing they'd been memed or tweaked.
+Nine tenths of every medical exam Iffy had ever suffered through
+had been checks for things like that.
+It explained everything,
+and now that she knew,
+it was like she'd always known.
+
+Her foster mother gave her one last hug.
+"You go back to sleep," she said as she stood,
+the precious jar of curry powder clutched in her hand.
+"We'll talk on this some more t'morrow."
+
+Iffy nodded,
+her eyes already closing as she lay down.
+She barely noticed Aunt Naggie pulled the covers up over her,
+and was fast asleep by the time she kissed her foster daughter's forehead
+and turned out the light.
+
+## Chapter 6
 
 The Marines arrived just as Iffy woke up,
 or perhaps it was their arrival that woke her.
@@ -5038,8 +5124,6 @@ the image of the *Bengal*'s engines already fading.
 He harrumphed and pulled his head back into the pilot house
 as she walked shakily astern.
 What was happening to her?
-
-## Chapter 6
 
 Iffy had spent hours gazing at the pictures in her older's nature book
 that showed blue tropical oceans full of fish and coral

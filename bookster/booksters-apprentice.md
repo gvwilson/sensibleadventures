@@ -1,6 +1,7 @@
-# The Bookster's Apprentice
-
-## Greg Wilson
+<!-- start: 2017-10-15 -->
+<!-- target: 100000 -->
+<!-- deadline: 2018-12-01 -->
+# The Bookster's Apprentice<br>Greg Wilson
 
 *Take a squat pyramid of rock, seven gallops long, four wide, and a
 gallop high. Lift it into the air, then tilt it back like an old man
@@ -1795,9 +1796,10 @@ he looked like a strange, solemn bird.
 
 The bosun had worked since midnight to build a small pyre of pine logs
 on the heavy gray stones at the garden's center. He stood beside it in
-the blue coat trousers of his office, his square black hat tucked under
-his arm, and nodded to people as they took their places at the wall. No
-one spoke except the smallest children, who were immediately hushed.
+the blue coat and trousers of his office, his square black hat tucked
+under his arm, and nodded to people as they took their places at the
+wall. No one spoke except the smallest children, who were immediately
+hushed.
 
 Gaeston was the last to arrive. His cheeks were dry, his eyes clear. In
 his hands he held a stuffed toy goat, a tiny pair of sandals whose soles
@@ -2392,7 +2394,7 @@ the reason Vurt came to Avaunt in the first place. They were patient
 creatures, slow-moving until prey was in reach, then fast enough to run
 down frightened horses. No one on the mountain knew how this one had
 found its way onto the mountain---an egg lying unnoticed in a sack of
-chocolate beans, perhaps, or some angry Bantangui merchant's trying to
+chocolate beans, perhaps, or some angry Bantangui merchant trying to
 sabotage a rival. It just appeared one day, fully grown and very
 hungry.*
 

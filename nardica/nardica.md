@@ -4938,19 +4938,19 @@ and turned out the light.
 
 ## Chapter 6
 
-The Marines arrived just as Iffy woke up,
-or perhaps it was their arrival that woke her.
-Two squads of eight led the way,
-each in a full exoskeleton with a bulky pack on their back,
-followed by two squads of inductees
-straining under packs that were only slightly less heavy.
-Dr. Johel came with them on a little motorized scooter
+Iffy woke the next morning to the sound of the Marines arriving.
+Two squads of eight came first,
+each wearing a full exoskeleton and carrying a bulky pack.
+Two squads of inductees trudged behind them,
+straining under packs that were only slightly smaller.
+In between,
+Dr. Johel rode a little motorized scooter
 with Johnson Wales sitting awkwardly on the back.
 
 "Because Rothera Core ran a few sims,"
-Dr. Johel explained testily to Uncle Jack as Wales dismounted.
+Dr. Johel explained testily to Uncle Jack as she and Wales dismounted.
 "A few billion, actually,
-and it says this is our best chance of success."
+and it calculated that this configuration gave us our best odds."
 She gestured at the sleek gray ship that had taken up station
 a few hundred meters away from the pier
 while Iffy slept.
@@ -4963,21 +4963,22 @@ so that's what we're doing."
 "Well, all *I* can say is that---"
 Uncle Jack began to bluster.
 
-"You'll get paid,"
-Wales cut in.
-His face was drawn,
-as if he hadn't slept since the attack on the governor's mansion,
-and his movements were stiff.
-His toolboxes sat on a two-wheeled cart hitched behind Doctor Johel's scooter.
+"There's no point arguing,"
+Wales cut in tiredly.
+His face was drawn
+as if he hadn't slept since the attack on the governor's mansion.
+"Iffy, can you please give me a hand with these?"
+
+He patted the toolboxes that sat on a two-wheeled cart hitched behind the scooter.
 Beside the cart,
 a cadet in a uniform three shades lighter than those of the other Marines stood at attention,
-the top half of her face covered by a dark tactical visor.
+her eyes covered by a dark tactical visor.
 Iffy looked past her to the canvas-covered machinery rolling up the pier to be loaded onto the *Bengal*,
 then looked back in shock.
 It couldn't be.
 It *couldn't* be.
 
-Dr. Johel saw the look on Iffy's face and glanced at the young woman.
+Dr. Johel saw the expression on Iffy's face.
 "Ah, yes," she purred.
 "That was another of the core's recommendations."
 She beckoned the cadet forward.
@@ -5003,7 +5004,7 @@ Dr. Johel agreed evenly.
 "But it *is* sometimes more."
 
 "Sometimes,"
-Wales agreed tiredly.
+Wales agreed.
 He waved a hand at the gangplank.
 "Just take them up there, please.
 Iffy can show you where they go."
@@ -5012,9 +5013,9 @@ Iffy can show you where they go."
 Without even glancing at her friend,
 Honesty unhitched the cart and wheeled it up the gangplank.
 Wales gestured for Iffy to follow her,
-then trudged up and onto the *Guinevere* himself.
+then trudged onto the *Guinevere* behind them.
 
-Wales' toolboxes went in the cabin he had used on the voyage from Halley.
+The toolboxes went in the cabin that Wales had used on the voyage from Halley.
 He struggled awkwardly out of his coat,
 his wound obviously still bothering him.
 "Maybe later,"
@@ -5034,19 +5035,38 @@ It's just the programming talking."
 
 Iffy nodded jerkily.
 "I know.
-I just---I hope you sleep aright."
+I just---when Doctor Johel said as sometimes folk come out more than they was,
+what did she mean?"
+
+Wales rolled his head to work a kink out of his neck.
+"Induction training always wears off after a few weeks---that's
+why you still have to do classes and homework.
+But sometimes it rearranges what was there before.
+People make new connections,
+or find new ways to use things they already knew."
+
+"Or see things different than they did?"
+Iffy ventured.
+
+Wales raised his eyebrows.
+"I've never heard of that happening,
+but I suppose it's possible.
+Why---has that happened to someone you know?"
+
+Iffy shook her head.
+"Just wonderin'.
+I hope you sleep aright."
 She closed the door quietly behind her.
 
 Honesty was standing straight and stiff by the railing,
 her hands clasped behind her back.
 The cart beside her was lined up perfectly with the side of the ship,
 and the coil of cable on the post at her elbow had been re-coiled
-in loops that Iffy suspected were precisely two meters long,
-or whatever Marine regulations called for.
+in loops that Iffy suspected were precisely whatever length Marine regulations called for.
 
 "Hey,"
 Iffy said tentatively.
-"How're you feelin'?"
+"How're you doin'?"
 
 "I'm fine, thank you,"
 Honesty replied without turning her head.
@@ -5056,16 +5076,32 @@ Honesty replied without turning her head.
 Iffy's mind spun double-time as she tried to think of something safe to say.
 *Th' hell with it* she thought angrily.
 "Did it hurt?" she blurted.
-"When they inducted you, was it---are y'aright?"
+"When they put th' machine on you, was it---are y'aright?"
 
 "I'm fine, thank you."
 Honesty turned to face Iffy.
-A brief smile flitted across her face,
-as bright and as sharp and as completely without warmth as the Antarctic sun.
-"They warned us that we would seem stiff for a while.
-It's no cause for alarm."
+The smile on her face was as bright and as sharp
+and as completely without warmth as the Antarctic sun.
+"They warned us that people might find Corporal Kibbens somewhat stiff at first.
+That is the persona I've been imprinted with,"
+she added brightly.
+"He served with distinction in the Second Crash Corps during the evacution of Hawaii,
+and was later decorated posthumously for valor during the battle for New Zealand.
+He was an outstanding soldier,
+and I am proud to be his inductee."
 
-Someone whistled down on the pier.
+Iffy gaped.
+It wasn't just Honesty's manner that had changed:
+her accent was different too,
+sharper-edged like the voices from old sims.
+
+She took a step forward,
+some part of her thinking that if only she took Honesty by the shoulders and shook her hard enough,
+or held her hand,
+or kissed her,
+she'd snap out of it and be herself again,
+but before she could make a fool of herself,
+someone whistled from down on the pier.
 "Excuse me," Honesty said.
 She grabbed her cart and headed down the gangplank without waiting for a response.
 

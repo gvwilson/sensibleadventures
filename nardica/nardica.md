@@ -5633,7 +5633,8 @@ He turned his bloodshot glare back on Doctor Johel.
 "Wife's made tea."
 
 The common room where Iffy and Aunt Naggie watched stories together
-when Uncle Jack was out drinking or sleeping off its effects
+when Uncle Jack was out drinking
+or in bed sleeping off its effects
 only had seats for four.
 Even if it had been the size of the Dance Hall market,
 Iffy wouldn't have been invited.
@@ -5644,9 +5645,9 @@ closing the door behind her on Uncle Jack,
 Doctor Johel,
 Wales,
 and the Marine who had shot down the drone.
-"You stay out o' the way 'til they're all gone,"
+"You keep out o' the way 'til they're all gone,"
 she urged Iffy under her breath.
 
 Iffy nodded.
 "I'll stay in my cabin," she promised,
-the little earbud Wales had passed to her still in her hand.
+fingering the little earbud Wales had given her.

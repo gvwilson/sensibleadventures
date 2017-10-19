@@ -4360,14 +4360,17 @@ the rat squeaked back.
 
 "See?"
 the man said proudly.
-"They got a hunnert words when they're born,
-an' you can teach 'em a coupla hunnert more!"
+"You can teach 'em a coupla hunnert words, easy!"
 
-Iffy held her finger a few millimeters in front of one of the cages
-for the rat it held to sniff,
-then hurried on her way.
+"I know,"
+Iffy said wistfully,
+a sudden unexpected pang in her heart.
+She held her finger a few millimeters in front of one of the cages.
+The rat sniffed at it.
+"Idjit," it pronounced in its tiny squeaky voice.
+
 *One day*,
-she promised herself.
+Iffy promised herself as she straightened up and hurried on her way.
 One day,
 when she had a workshop of her own
 and she could keep whatever pets and plants she wanted
@@ -4951,7 +4954,7 @@ with Johnson Wales sitting awkwardly on the back.
 Dr. Johel explained testily to Uncle Jack as she and Wales dismounted.
 "A few billion, actually,
 and it calculated that this configuration gave us our best odds."
-She gestured at the sleek gray ship that had taken up station
+She gestured at the sleek gray destroyer that had taken up station
 a few hundred meters away from the pier
 while Iffy slept.
 "You,
@@ -5105,26 +5108,32 @@ someone whistled from down on the pier.
 "Excuse me," Honesty said.
 She grabbed her cart and headed down the gangplank without waiting for a response.
 
-An hour later the *Guinevere* was ready to set sail.
-Uncle Jack protested loudly when he discovered that four of the Marines would be travelling with them,
-and was even louder when they erected a gray tent on the deck near the stern,
-but the Marine commander just said,
-"Standard procedure.
-We'll stand watch in pairs,"
-he added.
+The *Guinevere* was ready to set sail an hour later.
+Uncle Jack protested loudly
+when he discovered that four of the Marines would be travelling with them.
+His voice went up another notch
+when they started assembling a gray tent on the deck near the stern,
+but the corporal in charge was as indifferent as the cold gray sea.
+"Standard procedure,"
+he said briskly.
 "Whoever's not on deck can lie in to warm up and mind the gear."
 Exactly what "the gear" was for was left unsaid,
-but judging from the capacitors and gunsight she had seen the Marines carry into the tent,
+but judging from the capacitors and gunsight the Marines had carried into the tent,
 Iffy was pretty sure it wasn't for stargazing.
 
 They cast off without ceremony.
 The *Bengal* fell in behind them,
-three times their size but leaving half their wake.
+three times their size but leaving no more wake than
+one of the little robo-tugs that normally swarmed the harbor,
+but had prudently scurried off to their recharging stations
+to let the lean gray destroyer by.
+
 For a moment Iffy forgot to feel worried and angry about Honesty and their trip and everything else.
-The warship looked like it had been built yesterday rather than almost a century ago.
+The *Bengal* looked like it had been built yesterday rather than almost a century ago.
 The intricate sensor-baffling whorls on her hull made Iffy's eyes swim when she looked at them too long,
-but where the *Guinevere* pushed through waves,
-the *Bengal* seemed to somehow slip past them.
+but where the waves beat at the *Guinevere*,
+they slid past the *Bengal* like someone turning their shoulders to avoid bumping into a bully on the street.
+
 Iffy felt almost hungry thinking about what her engines must look like.
 Three of them,
 two in the stern and one amidships as insurance against a torpedo strike,
@@ -5133,29 +5142,26 @@ the channels connecting them full of micro-gears arranged in concentric rings
 to maximize the power-to-thrust ratios of---
 
 Her head swam.
-She clutched the railing to stop herself from falling to the deck
-and squeezed her eyes shut.
-For one long moment she could actually see the *Bengal*'s engines
-as if they were laid out on a screen,
+She clutched the railing and squeezed her eyes shut.
+She could *see* the *Bengal*'s engines as if they were laid out on a screen,
 the parts exploded and zoomed to make every intricate detail clear.
-She swallowed back a sudden wave of nausea.
-She couldn't know that.
-The general principles,
-sure,
-she'd seen those in a dozen different tutorials and reference guides,
-but the details---those were classified.
-Every attempt she had ever dared make to delve into them
-had ended immediately in a screen full of square red warning signs.
 
-"Dammit, girl, what're you doin' lazin' about?"
-Uncle Jack's familiar bellow brought her back to where she was.
-"Get down below and check every one o' those crates
-an' make sure they're strapped in right,
-'cuz if any of 'em tumbles,
-it'll come out o' your hide!"
+She swallowed back her nausea.
+She had studied the general principles in a dozen different lessons,
+but the details---those were classified.
+The one attempt she had ever dared make to delve into them
+had ended in a screen full of square red warning signs
+and a stern lecture from Aunt Naggie the next morning
+when the cease and desist order arrived from Halley's core.
+
+"Dammit, girl, stop lazin' about!"
+Uncle Jack's familiar bellow brought her back to herself.
+"Get down below and make sure every one o' those crates is strapped in right,
+'cuz if any of 'em tumble,
+I'm gonna toss you over the affin' side!"
 
 She struggled to her feet,
-the image of the *Bengal*'s engines already fading.
+her vision of the *Bengal*'s engines already fading.
 "Yessir," she mumbled.
 He harrumphed and pulled his head back into the pilot house
 as she walked shakily astern.
@@ -5163,7 +5169,7 @@ What was happening to her?
 
 Iffy had spent hours gazing at the pictures in her older's nature book
 that showed blue tropical oceans full of fish and coral
-and even on one page an octopus that changed color when she touched it.
+and an octopus that changed color when she touched its image.
 The ocean that the *Guinevere* and the *Bengal* sailed through
 in the days following their departure from Rothera looked nothing like that.
 When the sky was blue,
@@ -5175,34 +5181,31 @@ Even the white crests of the waves seemed dirty.
 
 Iffy's mood sank even further on their fourth (or was it the fifth?) day.
 One of the *Bengal*'s ultralight drones spotted an unevenness in the water.
-After a couple of milliseconds of dithering,
-the warship's core decided it was a sign that a sea boil might be coming,
+After dithering for a millisecond,
+the destroyer's core decided it might mean that a sea boil was brewing,
 so the two ships turned toward shore
-and ran straight into a slick of rotting jellyfish.
-For half an hour the air didn't just smell like wet rot---it *tasted* of it.
+and ran straight into a slick of dead jellyfish.
+For the rest of the day the air didn't just smell like wet rot---it *tasted* of it.
 Aunt Naggie boiled a precious spoonful of dried lemon rind to chase the smell out of the galley,
-but dinner's noodles still had an aftertaste of rank seaweed.
+but dinner's noodles still tasted like rank seaweed.
 
-"Could be anything,"
+"It could be anything,"
 Wales said when Iffy asked him what he thought had happened.
 He had spent most of the first two days in his cabin,
 coming out only to eat and use the toilet
-under the carefully casual supervision of whichever Marine just happened to be outside his door.
-He looked less drained than he had the day after he was shot,
-but he didn't smile at Iffy the way he first had,
+under the carefully casual supervision of whichever Marine just happened to be nearby.
+He looked less drained than he had,
+but he didn't smile,
 and there'd been no more talk of apprenticing.
 
 Something caught his eye just as Iffy turned to go back to her chores.
-He leaned over the railing, then pointed.
 "See that?"
-
-Iffy looked at the glistening lumps that dotted the waves.
-"What?"
-
+He leaned on the railing to point
+at the blistered caps and shredded tentacles drifting below.
 "There and there. And there.
 Looks like some kind of infection has been eating at them."
 He shook his head,
-his expression a mixture of anger and disappointment.
+anger and disappointment on his face.
 "Could be natural,
 but more likely someone crisped it up in a lab."
 
@@ -5211,15 +5214,10 @@ Iffy asked.
 
 Wales shook his head.
 "I doubt it.
-They'd go after your coal if they could figure out a way to do it
-without sludging every bit of fertile soil in Antarctica as a side effect,
-but not the jellyfish.
-No,
-this was probably someone local trying to splice in some genes
-so they would trap more plastic in their body."
-Catching sight of Iffy's puzzled look,
-he waved his arm at the slick again.
-"That's what they were originally tweaked for---to filter
+This was probably someone trying to tweak them so they would trap plastic more efficiently."
+At Iffy's puzzled look,
+he waved his arm toward the slick again.
+"That's why they were originally tweaked---to filter
 all the tiny bits of plastic out of the water."
 
 "Like the barnacles filter the metal?"
@@ -5233,7 +5231,13 @@ The only thing that *did* work was the accelerated growth."
 
 "I read about that in school---how
 they ate up everythin' so most o' the fish starved an' everythin' fell apart."
+Iffy frowned.
+"Never read anything about it bein' so they could trap plastic, though."
 
+Wales shrugged.
+"That was buried pretty deeply after it went wrong.
+Nobody wanted to admit they'd broken the ocean.s"
+He stared bleakly at the ruin in the water.
 "The clathrate bubbles feed the microorganisms the jellyfish eat,
 which is why the best jelly fishing is where the sea is most likely to boil.
 It's just one more disaster among many.
@@ -5251,7 +5255,7 @@ the first Iffy had seen since the attack.
 He turned his back to the ocean and nodded toward his cabin.
 "Want to go make something?"
 
-The Marines had filled the *Guinevere*'s smaller hold with their equipment and sleeping rolls,
+The Marines had filled the *Guinevere*'s hold with their supplies,
 so Iffy and Wales lugged his toolboxes down to the engine room.
 Iffy laid a fresh plastic worksheet down on the narrow shelf that served her as a makeshift workbench
 while Wales pushed two stools against the wall and set one of his toolboxes on them.
@@ -5262,13 +5266,11 @@ Gears and knurled slip-rods,
 spools of optical fiber thinner than a human hair,
 four thumb-sized motors with built-in batteries,
 transducers and pressure sensors and an entire tray full of tiny cores the size of sand grains...
-"You could buy the *Guinevere* with this," Iffy said in awe.
+"You could make practic'ly *anything* with all this," Iffy said in awe.
 
-"Not quite,"
-Wales said.
-Then he laughed.
-"Or maybe, I don't know.
-The governor wanted to be sure we didn't run short.
+Wales chuckled.
+"Maybe.
+The core told the governor to make sure we didn't run short of anything.
 Here."
 He plucked a micro-manipulator out of a recess in the hard foam that lined the lid of the toolbox.
 "How about you build us a hundred-to-one step-up for a fan rotor,
@@ -5300,7 +5302,7 @@ He punched her shoulder gently.
 "It's just a pleasure to watch you work."
 
 "Thanks," she mumbled,
-her cheeks warming the way they did when Honesty complimented her.
+her cheeks warming the way they did when Honesty said something nice to her.
 
 The thought of her friend chilled her mood like a splash of sea water.
 She turned the newly-invented motor over in her hands,
@@ -5315,32 +5317,34 @@ as if he'd been reading her mind.
 Iffy shrugged.
 "I know.
 I seen it in stories,
-an' one o' Mister Mishra's nephews got called up last year.
-He was kappa after a couple o' weeks.
-Said it was like all the new stuff the core put in his head was so loud
-he couldn't hear his own thinkin' for a while,
-but he was the same annoyin' nonsense after."
+an' Jeep's mostly back to how he was.
+Mister Mishra's son,"
+she added.
+"The one time he said anything about it,
+he said it was like all the new stuff the core put in his head was so loud
+he couldn't hear his own thinkin' for a while.
+He's almost the same annoyin' nonsense as he used t' be, though."
 
 The corner of Wales' mouth quirked up.
-"I imagine he was," he said drily.
-"People spent years trying to induct personality changes,
-but it never worked.
-One of the research cores in America spent,
+"I'm glad to hear it," he said drily.
+"One of the research cores in America spent,
 oh,
-must have been hours thinking about it,
-but couldn't come up with anything either.
-All it's good for is conditioned reflexes."
-He picked up a stray scrap of plastic stock shaped roughly like a bent pencil,
-turned it over,
-and balanced it standing up on the end of his finger.
+must have been hours trying to figure out how to induct permanent changes
+without causing breakdowns,
+but it never found anything.
+At least,
+it said it didn't,
+but I sometimes wonder."
+He picked up a stray scrap of plastic stock shaped roughly like a bent pencil
+and tapped it against his forehead.
 
 Iffy goggled.
 "You been inducted?"
 
-Wales grinned.
+Wales smiled.
 "A long time ago.
-Most of it has faded,
-but a few tricks stuck."
+Most of it faded pretty quickly.
+The rest... well."
 He flipped the plastic end over end
 and put it back in the fold-up box next to his foot.
 
@@ -5354,21 +5358,23 @@ opening the lid and lifting the still-warm chassis.
 Iffy's motor fit perfectly.
 A pair of metal-cored propellors on magnetic bearings clipped into place on top,
 and then all that was left was lenses for its cameras.
+
+*Well, ain't you a beauty?* Iffy thought when she was done.
 The finished drone was the size of Iffy's fist
 and weighed no more than a couple of boiled eggs.
-
 She ignored the rumble her stomach brought on by the analogy
 and offered the drone back to Wales.
 "Whaddaya wanna call it?"
 
 He shook his head.
-"All I did was push some buttons on the printer.
-You should give her a name."
+"This one's yours.
+All I did was push some buttons on the printer.
+But you should give her a name."
 
 Iffy hefted her tiny creation.
 "Can I call her Giraffe?" she asked.
 
-Wales smiled.
+Wales nodded solemnly.
 "Giraffe it is.
 Come on---she doesn't belong down here."
 
@@ -5400,16 +5406,17 @@ its single stick-thin arm unfolding from its base to snatch its prey out of the 
 
 "Well done,"
 Wales said.
-"She's as solid as a rock."
+"She's as steady as a rock."
 
 "Thanks."
 Iffy glanced down at her tablet.
-"Soakin' power faster than I'd like."
+"Drawin' power faster than I'd like."
 
 Wales made a raspberry.
 Iffy giggled at the incongruous sound.
-"She's beautiful.
-Go on, let her stretch her wings."
+"She's beautiful,"
+he said firmly.
+"Go on, let her stretch her wings."
 
 Iffy sketched a quick correction to the drone's code on her tablet,
 swiped it across,
@@ -5426,90 +5433,93 @@ blew it out of the sky.
 
 "No!" Iffy shrieked.
 
-Wales grabbed her arm as she instinctively started forward.
+Wales grabbed her arm as she started forward.
 "Don't.  Iffy, don't!"
 
 "But---why'd he do that?
 Why'd he *do* that!?"
-She was crying,
-but she didn't care.
-She shrugged Wales off and strode toward the stern.
+she cried.
+She shrugged Wales off and ran toward the stern.
 
 "What th' hell are you playin' at?"
 she demanded.
 
-The Marine who had shot down her drone looked at her without expression.
-"Orders," he said.
+The Marine who had shot down her drone holstered his pistol without expression.
+"Orders," he said flatly.
 
 "Orders?
 What orders?"
 She shoved him,
 which had about as much effect as shoving the *Guinevere*.
-"What bloody orders?"
+"What affin' orders?"
 
 "Doctor Johel's orders,"
 the other Marine said.
 The two men looked nothing alike,
 but they spoke in the same flat voice,
 their inducted accents a century out of date.
-"If it's not ours, burn it."
+"If it's not one of ours, burn it."
 
 "Well that *was* ours!
-That was *mine!
+That was *mine*!
 You could have asked before you---I'm talkin' to you!"
 She grabbed for the Marine again as he turned away.
 
 The Marine's hand shot up to catch her wrist.
-He spun Iffy with a quick twist,
-pulling  her arm up behind her back as his other arm clamped around her.
-"Don't."
+He spun Iffy around and pulled her arm up behind her back.
+"Don't.
+That's not allowed."
 
 Iffy struggled.
 "Lemme go!  Lemme *go*!" she shrieked.
-She was only half-aware of Wales reaching for her,
-and of the other Marine stepping in the way.
 
-A sudden sharp *crack!* snapped her back to herself.
-"Mind yourself,"
-Uncle Jack growled,
-levelling the rifle in his hands at the second Marine's chest.
+*Crack!*
+The Marines' heads snapped up in unison at the sound.
+Uncle Jack lowered the gaff hook.
+"Let 'er go,"
+he growled.
 
 "Captain---"
 the Marine began.
 
-"Shut yer hole."
-Uncle Jack gestured with the rifle.
-"You.
-Let 'er go."
+*Crack!*
+Uncle Jack struck the bench next to him again.
+"Shut yer hole an' let her go.
+Now."
 
 The first Marine released Iffy and took a step back.
-"'s better.
-Now you listen up.
+"'s better,"
+Uncle Jack growled.
+"Now you listen up.
 This is *my* ship.
 You want t' shoot somethin',
 you ask me.
 Not him."
 He jerked his chin toward Wales.
-"And not your precious Doctor Johel,
-and not th' governor himself.
+"Not your precious Doctor Johel,
+not th' governor himself,
+*me*.
 *I'm* the captain here.
 Got it?"
 
-Neither Marine spoke.
+The Marines studied him
+as expressionlessly as a pair of gulls trying to decide if something might be edible.
 "I said, have you got that?"
 Uncle Jack bellowed.
-When the Marines still didn't answer he spat over the railing.
-"And you, girl.
+
+"Captain,"
+the one who had been holding Iffy acknowledged
+without either agreeing or disagreeing.
+
+"An' you,"
+Uncle Jack glared at Iffy and pointed his gaff hook forward.
 You get back about your chores or I swear..."
-With a final glower at Wales he turned and stalked back to the pilot house,
-cradling the rifle as if it was a squalling infant.
+With a final glower at all and sundry he turned and stalked back toward the bow.
 
 "Come on,"
 Wales said quietly,
 putting his hand on Iffy's arm.
-She started to shrug him off,
-then slumped and nodded,
-her heart still racing.
+She slumped and nodded.
 Head down,
 she followed him back to the hatch
 and climbed down the short ladder into the engine room.
@@ -5539,7 +5549,7 @@ He woulda said somethin' stupid about another mouth to feed.
 But she was so smart,
 an' she'd sit in my hand an' eat stuff,
 an' climb up my arm,
-an'..."
+an' I taught her how to say g'mornin' and g'night an'..."
 
 She took a deep, shaky breath.
 "An' then one day she was gone.
@@ -5568,26 +5578,25 @@ Doctor Johel paid the *Guinevere* a visit that afternoon,
 her first since leaving port.
 The *Bengal* had two swift gunboats,
 each capable of carrying four Marines in full combat exoskeletons,
-but she chose instead to be carried over by a drone,
-dangling beneath it like a rat being taken away by a hungry gull.
+but she chose instead to be carried over by a drone.
 Two Marines flew beside her,
 looking like mechanical angels instead of prey,
 while one of the ultralight spotters that had been high overhead
 since Rothera fell below the horizon
 circled over them.
 
-The drone set Doctor Johel down on the aft deck without so much as a bump.
-It hovered patiently while she undid the harness she wore over her long coat,
+Doctor Johel touched down on the aft deck as gently as a snowflake.
+Her carrier drone hovered patiently over her
+while she undid the harness she wore over her long coat,
 then folded its twin manipulators back into its under-carriage
-and settled into place on the roof of the pilot house,
-where the *Guinevere*'s Marines had installed a power dock.
+and settled into the docking station on the roof of the pilot house.
 
 Her escorts' landings were not nearly as graceful.
 One of them stumbled as an unexpected heave of the deck threw them off balance.
 *Are they flying manually?* Iffy wondered.
 People sometimes did that in the last desperate moments of stories,
 when the enemy's malware had somehow gotten past their defenses and cripped their cores,
-but she had never seen anyone pilot something themselves in real life.
+but she had never seen anyone do it in real life.
 Was it a training exercise of some kind?
 
 She was about to ask Wales when the Marine on the left took off her helmet and stood to attention.
@@ -5596,29 +5605,26 @@ but her face was as empty of feeling as it had been when Iffy had last seen her.
 Her black eye was new,
 though,
 and when she and her partner exchanged salutes with the *Guinevere*'s four Marines,
-sunlight glinted off the silver plastic cast that encased half of her right hand.
+sunlight glinted off the silvery accelerator cast that encased half of her right hand.
 
 Wales nudged Iffy with his elbow.
 "Here," he said quietly,
-knocking his knuckles against the back of her hand.
+rapping the back of her hand with his knuckles.
 She hesitated,
-then clasped his hand long enough for him to pass her something the size of a thimble.
+took the thimble-sized object he passed to her.
 As the pilot house door banged open behind her,
 she tucked her hands back in her pockets.
 
-Uncle Jack stomped past them without a word.
-He pulled himself up in front of the new arrivals
-with a scowl strong enough to strip paint.
-
+Uncle Jack stomped past them to glare at the new arrivals.
 "Permission to come aboard, captain?" Doctor Johel asked,
 unperturbed.
 "And yes,
 I realize it's a bit late to ask,
 but it *is* protocol."
 
-Uncle Jack's mouth snapped shut,
-his complaint stillborn.
-He pointed at the angel wings her escorts had detached from their exoskeletons.
+Half a dozen angry outbursts tripped over each other
+trying to get out of Uncle Jack's mouth at the same time.
+Finally he pointed at the angel wings her escorts had detached from their exoskeletons.
 "Strap 'em down,"
 he growled.
 "They go over th' side,

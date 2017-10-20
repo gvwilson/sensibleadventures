@@ -118,6 +118,8 @@ whenever someone expressed even a hint of doubt.
 "Real as gulls and jellies!"
 Real as being hungry and lonely,
 she sometimes added to herself as she grew older.
+Real as the handwritten comments in the book's margins
+that she spent hours deciphering and daydreaming about.
 Real as being smart with machines and tech like her olders had been
 before the frozen southern ocean took them away.*
 
@@ -1839,8 +1841,8 @@ The orca,
 the tiger,
 the giraffe...
 She ran her fingers over the pictures,
-all the more mysterious because they didn't move or react,
-and stubbornly tried to keep her eyelids from drooping
+sounding out the handwritten comments beside them
+and stubbornly trying to keep her eyelids from drooping
 until she couldn't remember why they shouldn't.
 
 *She was on deck.
@@ -2253,7 +2255,10 @@ then slipped silently into her converted storage locker.
 Taken by a sudden restlessness,
 she spent five minutes rearranging her meager possessions
 before flopping down on her bed and pulling out her older's nature book.
-The giraffe, the tiger, the wolf with her sad, intelligent eyes...
+The giraffe, the tiger, the wolf with his sad, intelligent eyes...
+"Looks like Grandad!!!" was written beside the wolf in tiny curving script.
+Iffy had long ago decided that a girl had written that,
+a girl about her own age who had a family and more than just one friend.
 She slammed the book closed,
 tucked it under her pillow,
 and squeezed her eyes shut,
@@ -5168,8 +5173,7 @@ as she walked shakily astern.
 What was happening to her?
 
 Iffy had spent hours gazing at the pictures in her older's nature book
-that showed blue tropical oceans full of fish and coral
-and an octopus that changed color when she touched its image.
+that showed blue tropical oceans full of fish and coral.
 The ocean that the *Guinevere* and the *Bengal* sailed through
 in the days following their departure from Rothera looked nothing like that.
 When the sky was blue,
@@ -5571,8 +5575,42 @@ She clenched her hands into fists.
 "Why's everythin' got to be so messed up?"
 
 "I don't know,"
-Wales replied quietly.
+he said quietly.
 "I really don't know."
+He turned his head to look at her.
+"But if we can get to Mount Tyree---"
+
+He stopped himself.
+"What?"
+Iffy asked.
+
+Wales shook his head.
+"We knew this was coming,"
+he continued after a moment.
+"The ice melting,
+the fish dying,
+computers watching us every second and getting smarter every day...
+We knew this was coming,
+but we couldn't get anyone to listen.
+They were all wrapped up in their own little problems
+and wouldn't let themselves see that all those problems were connected.
+By the time things were bad enough that they couldn't ignore it any more,
+it was too late."
+
+"I---I was just talkin' about the drone an' Honesty an' stuff,"
+Iffy ventured weakly.
+"Not about th' whole world."
+
+Wales laughed.
+"Sorry.
+I do get carried away sometimes."
+His expression turned serious again.
+"But I'll promise you this, my young apprentice.
+If we get to Mount Tyree,
+and if Niobium Base hasn't been stripped for parts or flooded or burned out,
+and if we can get things to run,
+I promise---everything will be better.
+*Everything.*"
 
 Doctor Johel paid the *Guinevere* a visit that afternoon,
 her first since leaving port.
@@ -5611,7 +5649,7 @@ Wales nudged Iffy with his elbow.
 "Here," he said quietly,
 rapping the back of her hand with his knuckles.
 She hesitated,
-took the thimble-sized object he passed to her.
+then took the thimble-sized object he passed to her.
 As the pilot house door banged open behind her,
 she tucked her hands back in her pockets.
 

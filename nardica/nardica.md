@@ -5689,3 +5689,39 @@ she urged Iffy under her breath.
 Iffy nodded.
 "I'll stay in my cabin," she promised,
 fingering the little earbud Wales had given her.
+
+Iffy had built the lock for her cabin door herself when she was ten.
+After spending a couple of days browsing designs on the net,
+she had milled the parts at Mister Mishra's
+and installed it while her uncle was off with his friends.
+She had never spoken to Aunt Naggie about it,
+but she was pretty sure her foster mother understood why
+the door got stuck sometimes,
+and why Iffy never seemed able to fix it.
+
+She made sure the lock was snibbed before taking the earbud out of her pocket
+and pushed it into her ear.
+It hummed as it hunted the airwaves
+for the faint electronic warble of Wales' signal.
+"Come on, come on," she muttered.
+The Marines all wore scramblers and sniffers,
+and Doctor Johel was undoubtedly even better protected.
+It would be a minor miracle if anything could get past it,
+and a major one if it could do so undetected.
+
+"---in' is,
+you shoulda asked.
+It's *my* ship, dammit."
+Her foster father's voice had a whining edge that Iffy had never heard before.
+
+"Nobody has said otherwise,"
+Doctor Johel replied,
+her "yet" unspoken.
+"And if Iffelia or Commander Wales had told us the drone was theirs
+and let us inspect it,
+I'm sure this could have been avoided."
+
+"Gesture indicating helplessness,*
+a tiny mechanical voice reported.
+Iffy barely noticed.
+*Commander* Wales?

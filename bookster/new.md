@@ -14,7 +14,7 @@ port and starboard flanks. Bash its underside against stationary
 mountains until it's ragged, and let rain, snow, and windblown sand
 weather it for a few thousand years. That is Avaunt.*
 
-*Now put it in motion. Eight months north from Mau Ngapcha to Normous
+*Now put it in motion. Eight months north from Mau Ngapcha to Gandan
 Berth, with half the world's chocolate in its warehouses, along with
 cinnamon, cloves, silk, and cured bamboo as tough as stone. Two weeks
 on the ground, while merchants from all over northern Cherne elbow
@@ -30,7 +30,7 @@ of the Hett's hoarded wealth, and of the plots they must be hatching
 to one day rule the world as the Pilots had.*
 
 *Eventually, an ambitious young prince with few prospects at home
-decided to do more than mutter. The next time Avaunt landed at Normous
+decided to do more than mutter. The next time Avaunt landed at Gandan
 Berth, the rag-tag army he had recruited attacked. Most of the Hett
 were slain outright.  The rest were driven off the mountain with
 nothing but the clothes on their backs. It was barely spring, and
@@ -90,8 +90,9 @@ yanked her arm away before the hungry plant could get a grip on her,
 and quickstepped along the narrow shelf.
 
 Fraederiq slid to a halt two heartbeats behind her. A trickle of
-bloody spit made a dark wet track through the dust on his face. "I'm
-going to throw you over the side, you little cake!" he shouted.
+bloody spit made a dark wet track through the dust on his face. "You
+little lump of nosewax!" he shouted. "I'm going to throw you over the
+side!"
 
 The ledge was barely a handspan wide. Pursued and pursuer both had to
 shuffle, left foot to right, then right forward, hands grabbing

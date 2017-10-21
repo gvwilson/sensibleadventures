@@ -7,11 +7,11 @@ west.  Its single continent is surrounded on all sides by a great
 ocean, whose outer shore, the Worldrim, rises up to hold that sweet
 speck of life as a child might cup a drop of water in her hand.*
 
-*Cherne's history began with the Pilot Angels, and nearly ended with
+*Cherne's history began with the Pilots, and nearly ended with
 them as well.  Powerful and inhuman, their reign ended in a long
 Mutiny that scarred the moon, turned Lake Karaband into a sea of
 glass, and littered the land with strange magic.  When it was over the
-Pilot Angels were gone, leaving the world to carry on as best it
+Pilots were gone, leaving the world to carry on as best it
 could.*
 
 *Now look there, in the north, where the Brumoso Mountains rise above
@@ -102,7 +102,7 @@ the village.
 
 She paused to catch her breath.  Below her lay the ancient walls of
 the fortress of Stale.  Centuries of rain and snow had rounded the
-edges off the Pilot Angels' stonework, making it look like a snow fort
+edges off the Pilots' stonework, making it look like a snow fort
 that was just starting to melt, but it was still as solid as the
 mountains themselves.  The village's two-story wooden houses sheltered
 inside the walls like ducklings in a nest.  Thin licks of smoke rose
@@ -150,7 +150,7 @@ The drum had stopped booming by the time the three children reached
 the gap in the wall where an enormous counterbalanced stone door had
 hung centuries ago.  The wooden replacement that Stale's current human
 inhabitants had put up in its place was as solid as they could make
-it, but still looked like a child's toy next to the Pilot Angels'
+it, but still looked like a child's toy next to the Pilots'
 ancient work.
 
 Inside, it seemed like the whole village was standing in the cobbled
@@ -247,7 +247,7 @@ Jungle of Thind, but it guarded its territory and privileges as
 jealously as a bear guarded her cubs.  Gifted creatures that wanted to
 live in the forest had to do her bidding.  And humans were not welcome
 inside its borders at all, not unless they stuck to the handful of
-roads built long ago by the Pilot Angels.  Travellers who strayed were
+roads built long ago by the Pilots.  Travellers who strayed were
 rarely given warnings, and *never* given second chances.
 
 A cold breeze whipped the sergeant's words across the square as he
@@ -312,7 +312,7 @@ any right he might once have had to rent laws to anyone.  Anyway, if
 they were going to shelter rebels, the king wouldn't care if they'd
 come to Stale or Stale had gone to them.  And anyway again, what would
 other cloudherds say if they heard that Stalers had left men in the
-forest to die?  Angels' names, what would their own folk say when they
+forest to die?  Pilots' names, what would their own folk say when they
 got back from up the mountain?
 
 The argument swirled and churned across the cobblestones.  Little
@@ -1253,7 +1253,7 @@ Noxy bit back a sharp retort.  "Come on," she said, hurrying ahead.
 "We can see more from up top."
 
 The steps lay flush against the side of the wall.  They had been built
-for the Pilot Angels, not for human beings, so each one was as high as
+for the Pilots, not for human beings, so each one was as high as
 Noxy's knee, and so broad that it took her two strides to cross.
 
 Noxy put her left hand on the wall to steady herself each time she
@@ -3200,7 +3200,7 @@ plan was?"
 
 Sergeant Dorbu shook his head.  "On my blood, I did not.  But that
 doesn't matter.  I believe in her, Indy.  She's the first person since
-the Angels to stand up for people like us.  If this is what we have to
+the Pilots to stand up for people like us.  If this is what we have to
 do to win, it's a small price to pay."
 
 Indy finally looked at him.  "Easy to say when you're not the one
@@ -6280,7 +6280,7 @@ still rose in their midst, too proud to fall over even after death.
 An ancient stone bridge straddled the narrow river that ran across one
 half of the clearing.  Still deep in shadow, its heavily-mossed sides
 made it look like some great shaggy beast.  It had to be the work of
-the Pilot Angels, Noxy realized.  No one else would have dared build
+the Pilots, Noxy realized.  No one else would have dared build
 anything so deep in the forest.
 
 "There."  The colonel pointed at a tall pine on the edge of the

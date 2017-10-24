@@ -5709,19 +5709,48 @@ and Doctor Johel was undoubtedly even better protected.
 It would be a minor miracle if anything could get past it,
 and a major one if it could do so undetected.
 
-"---in' is,
-you shoulda asked.
+"---in' right you shoulda asked.
 It's *my* ship, dammit."
-Her foster father's voice had a whining edge that Iffy had never heard before.
+Her foster father's voice had a whining edge
+that Iffy associated with messages from debt collection software
+and the occasional visit from a burly bearded man with steel teeth
+who made sure that gambling debts didn't stay debts for long.
 
 "Nobody has said otherwise,"
 Doctor Johel replied,
 her "yet" unspoken.
 "And if Iffelia or Commander Wales had told us the drone was theirs
 and let us inspect it,
-I'm sure this could have been avoided."
+perhaps this could have been avoided."
 
-"Gesture indicating helplessness,*
-a tiny mechanical voice reported.
+"Speaker makes gesture indicating helplessness,*
+a tiny mechanical voice captioned.
 Iffy barely noticed.
 *Commander* Wales?
+
+"But as a sign of our good intentions,
+we will rotate Corporal Macklin off to the *Bengal*,"
+Doctor Johel continued.
+"Private Honesty will take his place until we reach Paddington South.
+Hopefully this incident will have clarified my team's operating parameters sufficiently
+for us to avoid further unpleasantness."
+
+"In other words,
+the Marines will still shoot anything that isn't theirs,"
+Wales filled in.
+
+Iffy paid no attention to the sound of chairs scraping on the floor as the meeting ended.
+She pulled the earbud out and tossed it on the shelf beside her mattress,
+then scooped it up and tucked it under the mattress instead,
+then pulled it out again and threw it back on the shelf.
+Why had Wales wanted her to listen in on the conversation?
+More importantly,
+what was she going to say to Honesty?
+And what was Honesty going to say to *her*?
+
+She sat down on her bed and pulled out her older's nature book.
+"I wish you could talk,"
+she told the orangutan on the cover.
+Not for the first time,
+she wished she could have a flash of insight now and then
+about what to say to people.

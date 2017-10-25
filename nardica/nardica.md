@@ -5723,7 +5723,7 @@ her "yet" unspoken.
 and let us inspect it,
 perhaps this could have been avoided."
 
-"Speaker makes gesture indicating helplessness,*
+*Speaker makes gesture indicating helplessness,*
 a tiny mechanical voice captioned.
 Iffy barely noticed.
 *Commander* Wales?
@@ -5754,3 +5754,75 @@ she told the orangutan on the cover.
 Not for the first time,
 she wished she could have a flash of insight now and then
 about what to say to people.
+With a sigh,
+she got to her feet.
+
+A whisper of voices from the earbud stopped her.
+She pulled it off the shelf and reinserted it in her ear
+just in time to hear Doctor Johel say,
+"---her olders' abilities?"
+
+"I don't think so,"
+Wales replied.
+*Speaker shakes head,* the caption voice added.
+"She has a lot of natural talent,
+but I haven't seen any sign that there's anything more to her than that."
+
+"Hm."
+*Speaker adopts sceptical expression.*
+"The governor said there was an eighty-five percent chance
+the tweak would have been passed on."
+
+*Speaker sighs.*
+"Jasmine, please---you know I don't like that word."
+
+*Speaker smiles.*
+"I remember you and Grandfather used to argue about it when you came to visit.
+He thought people with modifications should embrace the term and make it their own."
+
+This time Iffy heard the sigh.
+"And as I used to say to him,
+it's easier to feel that way when no one has ever thrown rocks at you.
+But coming back to Iffelia,
+the whole point of your grandfather's work was to create *modifications*
+that couldn't be detected by simple genetic tests.
+Cloning is never perfect---any glitch could have thrown the collaborating genes out of balance."
+*Speaker shakes head.*
+"Or maybe we're just too early.
+Maybe in another couple of years---"
+
+"We don't have another couple of years,"
+Doctor Johel cut in.
+"I'm *old*,
+Johnson,
+and you've already lasted decades longer than you were supposed to."
+
+*Speaker nods.*
+"NASA always did over-engineer things."
+
+*Speakers hug.*
+"I'm glad they did,"
+Doctor Johel said in a muffled voice.
+*Speaker wipes away tear.*
+"Some days I'd give anything to be back in Canterbury
+drinking hot chocolate
+and listening to you and Grandfather set the world right."
+
+"Well,
+you can still have the chocolate,"
+Wales said.
+
+Doctor Johel made a noise.
+"And live in the past?
+No thank you."
+*Hug ends.*
+"What's done is done."
+
+"So they say,"
+Wales replied.
+"So they say."
+
+The earbud chimed softly.
+*Signal ends,* it told Iffy redundantly.
+She took it out and weighed it in her hand,
+even more confused than she had been.

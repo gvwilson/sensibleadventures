@@ -166,8 +166,9 @@ be quite the place on holidays."
 
 Erileine blinked.  "Excuse me?"
 
-"Oh, nothing.  I'd say he was twelve or thirteen.  Could use some new
-clothes and a bath, but he had very nice eyes."
+"Well, if everyone is as popular as you and the bosun...  I'd say he
+was twelve or thirteen.  Could use some new clothes and a bath, but he
+had very nice eyes."
 
 Blushing, Erileine thanked her again and climbed the stairs to her
 room.  The only light came from a sliver of dayglass beside the

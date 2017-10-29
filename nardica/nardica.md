@@ -118,6 +118,8 @@ whenever someone expressed even a hint of doubt.
 "Real as gulls and jellies!"
 Real as being hungry and lonely,
 she sometimes added to herself as she grew older.
+Real as the handwritten comments in the book's margins
+that she spent hours deciphering and daydreaming about.
 Real as being smart with machines and tech like her olders had been
 before the frozen southern ocean took them away.*
 
@@ -1839,8 +1841,8 @@ The orca,
 the tiger,
 the giraffe...
 She ran her fingers over the pictures,
-all the more mysterious because they didn't move or react,
-and stubbornly tried to keep her eyelids from drooping
+sounding out the handwritten comments beside them
+and stubbornly trying to keep her eyelids from drooping
 until she couldn't remember why they shouldn't.
 
 *She was on deck.
@@ -2253,7 +2255,10 @@ then slipped silently into her converted storage locker.
 Taken by a sudden restlessness,
 she spent five minutes rearranging her meager possessions
 before flopping down on her bed and pulling out her older's nature book.
-The giraffe, the tiger, the wolf with her sad, intelligent eyes...
+The giraffe, the tiger, the wolf with his sad, intelligent eyes...
+"Looks like Grandad!!!" was written beside the wolf in tiny curving script.
+Iffy had long ago decided that a girl had written that,
+a girl about her own age who had a family and more than just one friend.
 She slammed the book closed,
 tucked it under her pillow,
 and squeezed her eyes shut,
@@ -5168,8 +5173,7 @@ as she walked shakily astern.
 What was happening to her?
 
 Iffy had spent hours gazing at the pictures in her older's nature book
-that showed blue tropical oceans full of fish and coral
-and an octopus that changed color when she touched its image.
+that showed blue tropical oceans full of fish and coral.
 The ocean that the *Guinevere* and the *Bengal* sailed through
 in the days following their departure from Rothera looked nothing like that.
 When the sky was blue,
@@ -5571,8 +5575,42 @@ She clenched her hands into fists.
 "Why's everythin' got to be so messed up?"
 
 "I don't know,"
-Wales replied quietly.
+he said quietly.
 "I really don't know."
+He turned his head to look at her.
+"But if we can get to Mount Tyree---"
+
+He stopped himself.
+"What?"
+Iffy asked.
+
+Wales shook his head.
+"We knew this was coming,"
+he continued after a moment.
+"The ice melting,
+the fish dying,
+computers watching us every second and getting smarter every day...
+We knew this was coming,
+but we couldn't get anyone to listen.
+They were all wrapped up in their own little problems
+and wouldn't let themselves see that all those problems were connected.
+By the time things were bad enough that they couldn't ignore it any more,
+it was too late."
+
+"I---I was just talkin' about the drone an' Honesty an' stuff,"
+Iffy ventured weakly.
+"Not about th' whole world."
+
+Wales laughed.
+"Sorry.
+I do get carried away sometimes."
+His expression turned serious again.
+"But I'll promise you this, my young apprentice.
+If we get to Mount Tyree,
+and if Niobium Base hasn't been stripped for parts or flooded or burned out,
+and if we can get things to run,
+I promise---everything will be better.
+*Everything.*"
 
 Doctor Johel paid the *Guinevere* a visit that afternoon,
 her first since leaving port.
@@ -5611,7 +5649,7 @@ Wales nudged Iffy with his elbow.
 "Here," he said quietly,
 rapping the back of her hand with his knuckles.
 She hesitated,
-took the thimble-sized object he passed to her.
+then took the thimble-sized object he passed to her.
 As the pilot house door banged open behind her,
 she tucked her hands back in her pockets.
 
@@ -5651,3 +5689,140 @@ she urged Iffy under her breath.
 Iffy nodded.
 "I'll stay in my cabin," she promised,
 fingering the little earbud Wales had given her.
+
+Iffy had built the lock for her cabin door herself when she was ten.
+After spending a couple of days browsing designs on the net,
+she had milled the parts at Mister Mishra's
+and installed it while her uncle was off with his friends.
+She had never spoken to Aunt Naggie about it,
+but she was pretty sure her foster mother understood why
+the door got stuck sometimes,
+and why Iffy never seemed able to fix it.
+
+She made sure the lock was snibbed before taking the earbud out of her pocket
+and pushed it into her ear.
+It hummed as it hunted the airwaves
+for the faint electronic warble of Wales' signal.
+"Come on, come on," she muttered.
+The Marines all wore scramblers and sniffers,
+and Doctor Johel was undoubtedly even better protected.
+It would be a minor miracle if anything could get past it,
+and a major one if it could do so undetected.
+
+"---in' right you shoulda asked.
+It's *my* ship, dammit."
+Her foster father's voice had a whining edge
+that Iffy associated with messages from debt collection software
+and the occasional visit from a burly bearded man with steel teeth
+who made sure that gambling debts didn't stay debts for long.
+
+"Nobody has said otherwise,"
+Doctor Johel replied,
+her "yet" unspoken.
+"And if Iffelia or Commander Wales had told us the drone was theirs
+and let us inspect it,
+perhaps this could have been avoided."
+
+*Speaker makes gesture indicating helplessness,*
+a tiny mechanical voice captioned.
+Iffy barely noticed.
+*Commander* Wales?
+
+"But as a sign of our good intentions,
+we will rotate Corporal Macklin off to the *Bengal*,"
+Doctor Johel continued.
+"Private Honesty will take his place until we reach Paddington South.
+Hopefully this incident will have clarified my team's operating parameters sufficiently
+for us to avoid further unpleasantness."
+
+"In other words,
+the Marines will still shoot anything that isn't theirs,"
+Wales filled in.
+
+Iffy paid no attention to the sound of chairs scraping on the floor as the meeting ended.
+She pulled the earbud out and tossed it on the shelf beside her mattress,
+then scooped it up and tucked it under the mattress instead,
+then pulled it out again and threw it back on the shelf.
+Why had Wales wanted her to listen in on the conversation?
+More importantly,
+what was she going to say to Honesty?
+And what was Honesty going to say to *her*?
+
+She sat down on her bed and pulled out her older's nature book.
+"I wish you could talk,"
+she told the orangutan on the cover.
+Not for the first time,
+she wished she could have a flash of insight now and then
+about what to say to people.
+With a sigh,
+she got to her feet.
+
+A whisper of voices from the earbud stopped her.
+She pulled it off the shelf and reinserted it in her ear
+just in time to hear Doctor Johel say,
+"---her olders' abilities?"
+
+"I don't think so,"
+Wales replied.
+*Speaker shakes head,* the caption voice added.
+"She has a lot of natural talent,
+but I haven't seen any sign that there's anything more to her than that."
+
+"Hm."
+*Speaker adopts sceptical expression.*
+"The governor said there was an eighty-five percent chance
+the tweak would have been passed on."
+
+*Speaker sighs.*
+"Jasmine, please---you know I don't like that word."
+
+*Speaker smiles.*
+"I remember you and Grandfather used to argue about it when you came to visit.
+He thought people with modifications should embrace the term and make it their own."
+
+This time Iffy heard the sigh.
+"And as I used to say to him,
+it's easier to feel that way when no one has ever thrown rocks at you.
+But coming back to Iffelia,
+the whole point of your grandfather's work was to create *modifications*
+that couldn't be detected by simple genetic tests.
+Cloning is never perfect---any glitch could have thrown the collaborating genes out of balance."
+*Speaker shakes head.*
+"Or maybe we're just too early.
+Maybe in another couple of years---"
+
+"We don't have another couple of years,"
+Doctor Johel cut in.
+"I'm *old*,
+Johnson,
+and you've already lasted decades longer than you were supposed to."
+
+*Speaker nods.*
+"NASA always did over-engineer things."
+
+*Speakers hug.*
+"I'm glad they did,"
+Doctor Johel said in a muffled voice.
+*Speaker wipes away tear.*
+"Some days I'd give anything to be back in Canterbury
+drinking hot chocolate
+and listening to you and Grandfather set the world right."
+
+"Well,
+you can still have the chocolate,"
+Wales said.
+
+Doctor Johel made a noise.
+"And live in the past?
+No thank you."
+*Hug ends.*
+"What's done is done."
+
+"So they say,"
+Wales replied.
+"So they say."
+
+The earbud chimed softly.
+*Signal ends,* it told Iffy redundantly.
+She took it out and weighed it in her hand,
+even more confused than she had been.

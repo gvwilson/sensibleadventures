@@ -283,7 +283,7 @@ again.*
 *One of the men held up the bonescuttle's severedhead. Vurt nodded and
 fainted.*
 
-*The emir's doctors in Coriandel could have saved his nearly-severed
+*The emir's doctress in Coriandel could have saved his nearly-severed
 leg. The Avauntois in Starboard Town couldn't. Vurt lay in bed shaking
 with fever for a week. When he woke, a woman was sitting on a stool
 beside his cot, grinding herbs with a pestle and mortar. She soaked

@@ -4841,3 +4841,305 @@ we are all Avauntois now," the assembly erupted with equal measures of
 applause and abuse.*
 
 *But that was later...*
+
+---
+
+The first thing Erileine thought when she woke up was, *I need a night
+jar.* The second was, *Something stinks,* and the third, *Where am I?*
+
+She opened her eyes.  She was lying in an alley.  The air was cold,
+damp, and heavy with the smell of last week's apple cores and chicken
+bones.  The mortar in the wall beside her had crumbled with age.  Moss
+and yellow pinflowers grew in the gaps.
+
+She sat up and rubbed her eyes.  The left one felt odd.  Suddenly she
+looked around wildly.  Razi was gone.  So was Lady Kembe's picture.
+This wasn't even the same alley! And---
+
+"Hello." She whirled around.  The thief was standing a few strides
+away, his back against the wall, the book of Praczny romances in his
+hands.  He closed it and cocked his head to the side.  "You're a
+sight."
+
+"Where am I? Where's Razi?" Erileine asked, struggling to her feet.
+Her vision swam.  Saints, but her head hurt.  And she was hungry---no,
+starving.
+
+"He went to find foot," the boy said.  "But there are soldiers
+everywhere.  I'm supposed to watch you in case they come this way."
+
+"What?" Erileine flexed her left hand.  It wasn't her *eye* that felt
+strange...
+
+The boy nodded at it.  "Is that from healing him?"
+
+"Yeah."  Erileine flexed her fingers experimentally.  She could see
+them moving, but couldn't feel a thing.  She tapped her palm with a
+fingertip.  Nothing.  The meaty base of her thumb? Nothing there,
+either.  Her wrist? Yes, she could feel that.  She made a fist and
+squeezed so hard that her arm trembled.
+
+"You did all right," the thief offered.  "He looked fine."
+
+Erileine smiled weakly.  "To be honest, I would have preferred to let
+Nuu Ciy take care of him.  Do you know where he went?"
+
+The thief rolled his eyes.  "I *said*, he went to get something to
+eat.  But there are soldiers everywhere.  Half the market burned down,
+and they knocked the dock right off the mountain, and everybody is
+supposed to stay indoors.  And they killed the bosun.  I saw his body.
+And Allaere, and the glazer, and a whole house fell down on Unlikely
+Street with people inside." He bunched his shoulders inside his
+oversized jacket.  "Nobody knows what happened to the captain."
+
+"What about the doctress?" Erileine asked, thinking about the magic
+Nuu Ciy had worked on Razi, and about her hand.
+
+The boy's mouth twisted.  He shrugged as if to say, it's no concern of
+mine.
+
+"What are you doing here, anyway?" Erileine asked.
+
+The boy stiffened.  "What do you mean?"
+
+"I mean, what are you doing here? First Razi catches you stealing,
+then you start following me around, then you steal that book, then you
+break into the inn, and now you're---"
+
+"And now he's making sure no soldiers find you.  *La*, which they
+certainly will do if you don't keep your voice down."  Erileine spun
+around.  A tired, unwashed, but very alive Razi held up a battered
+brass pitcher and a handful of flatbread.  "Hungry?"
+
+As the trio washed mouthfuls of stale bread down with warm water,
+Erileine described what Lady Kembe had done.  Razi examined Erileine's
+hand.  "*La*, it seems I owe you my life."
+
+"More like you owe Lady Kembe," Erileine mumbled, gulping the last of
+their meager meal.
+
+"Oh, *la*, my life was hers already, many times over." Razi wiped his
+hands on the hem of his *deel*.
+
+The thief's eyes were as big as marbles.  "Lady Kembe was *here*?"
+
+"No," Erileine and Razi said simultaneously, the first annoyed, the
+second amused.  At the crestfallen look on the boy's face, Razi added,
+"If she could be here, *la*, it would not be so quiet today, I promise
+you."
+
+"So what happened?" Erileine asked, dreading the answer.
+
+Razi sighed.  "Forecastle has been taken.  If there is a window left
+unbroken in the Hardeck, I didn't see it.  The Tinhead soldiers had
+the militia pile their spears and bows in the square, then sent them
+home.  The captain's guards, *la*, they are in the stock pens.  Or the
+infirmary, or dead."
+
+"What about Starboard Town?" Erileine asked anxiously.
+
+"And the captain?" the thief asked.  "Do you know if he's all right?"
+
+Razi shook his head in answer to them both.
+
+"They're not just bandits, are they?" Erileine asked quietly.
+
+Razi shook his head again.  "Bandits do not bring their children with
+them.  Or their cattle.  And banefire, *la*, that is not such magic
+as bandits would use."
+
+Suddenly he raised his finger to his lips.  Footsteps---no, marching.
+Heavy boots, coming closer.  A whistle blew, high-low-high, and was
+answered by another.
+
+Razi caught the thief's arm as he sprinted for the mouth of the alley
+before Erileine had even digested what the sounds meant.  "Trap," the
+bookster mouthed, not letting the boy go until he nodded.
+
+The bookster laced his fingers together to make a stirrup.  Tucking
+the Praczny storybook into his jacket, the thief stepped into it.
+Smoothly, with no sign of the wound that had nearly killed him the day
+before, Razi boosted him up to the window.  He opened the shutter and
+slipped through.
+
+The bookster gestured with his cupped hands at Erileine.  As Razi
+lifted her, she grabbed the window ledge.  Her feet scrabbled
+uselessly on the bricks for a moment before she got her weight through
+the window and fell onto a warped plank floor crusted with ancient
+bird cake.
+
+As she rolled over, the thief tossed one end of a rope out the window.
+The other end was already knotted around a beam.  Razi squirmed
+through the window a few moments later and tossed it back.
+Wordlessly, he untied the knot, coiled the rope, and stowed it in a
+nondescript canvas satchel.  Shouldering the bag, he took a larger one
+off the floor and handed it to Razi.
+
+The bookster put the strap over his shoulder.  "Lead the way," he
+told the thief.
+
+They were in an old warehouse, Erileine discovered.  Pigeons, irvings,
+and other birds had left years of cake on the floor.  The crates
+stacked on the wall opposite the window were new, but everything else
+looked and smelled as if it had been there for years.
+
+"Rooftops are fine in stories," Razi said in a lecturing tone.  "But
+it is hard to move quietly on tiles, and if anyone else is higher than
+you, *la*, bows are not rare things in this world, and arrows are
+difficult to outrun.  It is always better to move under cover."  As he
+spoke, he drew a workman's knife from his bag and gouged the mortar
+away from some of the bricks in the wall near the crates to reveal a
+thick cord.  Grabbing hold of it, he braced his foot against the wall
+and yanked sharply.  As the cord went taut it dislodged even more
+mortar.  A final yank toppled a small section of wall inward for him
+to catch and lower quietly to the floor.
+
+"How are you going to close it up again?" the thief asked, admiring
+the opening into the building next door as if it were a work of art.
+
+"Why would I?" Razi asked.  He gestured for Erileine to squeeze
+through the hole.  "I'd be a fool to ever come back here."
+
+"But what about all the stuff in the crates?" the thief protested.
+
+"It would just slow us down," Razi said.  "Right now, *la*, the most
+important thing is to keep moving." He shooed the thief through the
+hole and followed them on his hands and knees.
+
+The second warehouse was as decrepit as the first.  A flight of stairs
+and a weather-beaten door took them to a tinsmith's backyard forge.
+The smithy's front door looked out onto the yard behind the steam
+baths where Razi had fought the soldiers the day before.  Their
+bodies, and those of the three Avauntois militiamen they had slain,
+were gone.  Dark stains on the cobblestones were all that remained to
+show Erileine that the fight had actually happened.
+
+Razi halted, pressed himself against the wall, and glanced quickly
+around the corner.  "Soldiers," he said quietly.
+
+"There are some loose boards over the window to the pot mender's," the
+thief said.  "Her downstairs has a delivery door on Sweet Icicle
+Street.  It's only a couple of streets from there to the Rabbit."
+
+Razi shook his head.  "We're not going to the Rabbit.  We're going
+straight back to Starboard Town."
+
+For the first time, the thief seemed unsure of himself.  "But...  What
+if..." He left the question unfinished.
+
+Razi put a hand on his shoulder.  "You can do nothing here.  *La*, nor
+can I.  We can help most by making ourselves safe.  Besides, did you
+not say that you wanted to see some more of the world?"
+
+The thiefe wrinkled his nose.  "I didn't mean Starboard Town."
+
+Razi smiled.  "*La*, well, it may be a better place to begin than you
+think.  Come."
+
+It took them half an hour to make a journey that would have been a
+five-minute walk the day before.  Forecastle was deserted.  There were
+no *bouquinnaires* selling grilled whole rabbits on skewers, no dyers
+with indigo-stained arms lugging barrels to and fro, no children
+spinning Bantangui tops or playing dance-with-your-mother on the
+cobblestones.  The town's kites still flew, but the tramp of marching
+feet and the shrill calls of the soldiers whistles were all around.
+
+Razi never hurried.  When he moved, he moved quickly, darting from one
+shadow to another, but he spent more time listening and waiting than
+he did in motion.  Erileine felt a pang of jealousy the first time her
+teacher held up a hand and made a series of quick signs that sent the
+thief back the way they had just come.  The two clearly knew each
+other.  But then why had Razi let the bosun arrest her?
+
+The bookster squatted and duck-walked through a waist-high gap beneath
+a broken wooden gate.  When Erileine followed, she found the bookster
+pressed against the wall, his finger across his lips.
+
+The gate stood at the top of a steep hill.  Below them, Tinhead
+soldiers wer marching from somewhere to somewhere else.  A few wore
+bandages, or had fresh dents or scratches on their armor, but only a
+few.
+
+Erileine began counting.  Four...  eight...  At sixteen a quartet of
+soldiers appeared with a sedan chair on their shoulders.  The man in
+the chair wore the same gray uniform as the soldiers, but no armor or
+helmet.  He sat upright, hands on the chair's padded arms, staring
+straight ahead, swaying only slightly as the chair rocked back and
+forth.  Sunlight glinted momentarily off his eyes, as if off metal,
+and then he was gone.
+
+Another dozen soldiers followed.  Razi waited until they were past,
+then waited some more.  Erileine desperately wanted to straighten
+up---almost as desperately as she wanted to empty her bladder---but he
+waited until Razi signaled to keep moving.
+
+They reached the pot mender's a few minutes later.  As Erileine
+squeezed through the boarded-up window, something tugged at her.  She
+looked down to find a long splinter embedded in the palm of her left
+hand.  She yanked it out, watching blood well up with a curious sense
+of detachment.
+
+"Let me see that," Razi said, pulling a box out from under some rolls
+of rotting canvas and a red jar out of the box.  Unscrewing its lid,
+he scooped out two fingers of something that smelled like bad cheese.
+
+"Like this," he said, smearing it over Erileine's left hand.  "Work it
+in gently, like oiling leather."
+
+"Will it make the feeling come back?" Erileine asked, massaging the
+ointment into her numb skin.
+
+Razi shook his head.  "*La*, no, nothing will do that.  But it will
+stop your skin from going stiff and cracking."
+
+Erileine wrinkled her nose at the smell.  "You have stuff just for
+that?"
+
+The bookster shrugged.  "Actually, it's for cows' udders in winter."
+
+"Oh." Erileine digested that.  She looked around.  "So how many places
+like this do you have?"
+
+"In Forecastle?" Razi turned his hands palms-up.  "Just the two you
+have seen."
+
+"And in Starboard Town?"
+
+The bookster closed his box and sat on its lid.  "That should be
+enough.  Try to use it as much as you normally would, to keep it
+strong."
+
+Erileine let her hands fall to her sides.  She was hungry, and tired,
+and frightened, and the way the thief had rolled his eyes at her
+question was the last straw.  "Bookster---I said, do you have a cache
+like this in Starboard Town too?"
+
+Razi glanced at her.  "Not in, no, but near.  One takes precautions."
+
+In the long, dark hours that followed, as she repeatedly squeezed and
+relaxed her left hand in a vain attempt to take her mind off her empty
+stomach, Erileine wondered what other precautions the bookster had
+taken.  When she wasn't doing that, or worrying about her family, she
+wondered who the invaders were and what they wanted with Avaunt.  The
+spices in Forecastle's warehouses were worth several fortunes, but
+like Razi had said, this wasn't just banditry.
+
+The pot mender's shop smelled of clay and glue.  It wasn't much bigger
+than Papaere Vurt's kitchen: a counter, some shelves, a small kiln,
+and a stairway so steep that it might as well be called a ladder.  The
+thief sat on the floor, slowly turning the pages of the book of
+Praczny stories.  Erileine didn't know if he could read; even if he
+could, there wasn't enough light for it, but he turned the pages
+anyway.  Razi lay on his back near Erileine's feet, his arms behind
+his head, breathing slowly and softly.
+
+Suddenly Erileine could stand it no longer.  She stood up.  "We have
+to get going."
+
+"Two more hours," Razi said without moving.  "It will be dark then."
+
+"But---"
+
+"Two more hours," Razi repeated.  He turned his head to look at
+Erileine.  Erileine sat disconsolately and listened to the pages
+turning slowly behind the counter.

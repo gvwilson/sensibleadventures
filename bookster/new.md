@@ -4220,3 +4220,624 @@ ink on linen once more.  "Should I put it away?"
 
 Razi shook his head.  "*La*, no, I will do it.  Though I'm sure we
 will need it again soon."
+
+---
+
+Erileine was asleep in the chair beside Razi's bed when the infirmary
+door flew open.  The captain strode in with two guardsmen behind him.
+"Is he awake?" he asked brusquely as Erileine stood up, grabbing for
+the book of Praczny romances as it slid out of her lap.  Razi had been
+right---some of the stories were definitely not for her family's ears.
+But she did have several new words to investigate...
+
+"*La*, he is now," Razi said, opening his eyes.  He sat up without any
+apparent difficulty.  "How may I be of help?"
+
+"The damn window won't show me what's in the tunnels," the captain
+snapped.  "It's like trying to look up your own nose.  And your friend
+Thomas and his boat have vanished.  Any chance Lady Kembe could do us
+a turn?"
+
+"*La*, I am sorry, but I have never heard of a spell for looking
+inside a mountain.  Although I wouldn't be surprised if Lady Kembe had
+one for looking up her nose.  She can be rather vain sometimes, and
+since she can't use a mirror..." He settled his head back on his
+pillow.
+
+"Hmph.  What about you?" the captain asked, turning to Erileine.
+
+Erileine gulped.  "Me, *sra*?"
+
+"It was your grandfather that did the bonescuttle, wasn't it? That
+Coriandi fellow?"
+
+"Yes.  Yes, *sra*, it was."
+
+The captain's unblinking gaze remind Erileine of the condors upstairs.
+"Ever been in the tunnels yourself?"
+
+Erileine shook hher head vigorously.  "No, *sra*."
+
+Just then heavy boots pounded on the stone floor.  The militiaman who
+came through the door nearly tripped over his spear as he stopped and
+saluted.  "Captain!" he gasped.  "The well.  On Scissormaker Street,
+*sra*.  Phaelippe saw folk in it! With helmets and swords and all!"
+
+"Did he say how many?" The militiaman shook his head.
+
+"Captain! Where's the captain?" Another voice in the corridor.
+
+"I'm in here, damn it!" the captain bellowed again.
+
+More footsteps.  This time it was a clerk with a misbuttoned jacket.
+"Lame Fish Stairs, *sra*," she said.  "Bosun said to tell you.  He
+sent a couple of squads home to sleep, but somebody attacked them on
+the way."
+
+"What do you mean 'attacked'? And who in the names of the failed
+saints is 'somebody'?"
+
+The clerk shook her head helplessly.  "Bosun didn't say, *sra*.  He's
+headed there now with half of his men.  The rest are still out in the
+square." She swallowed.  "Might be a good idea if you came, *sra*.  No
+one knows what's going on."
+
+"I don't weeping know what's going on either," the captain complained,
+but he was already on his way out the door with his bodyguards behind
+him.
+
+As soon as they were gone, Razi threw back his quilt.  "You'll have to
+help me with my sandals," he told Erileine crisply, sitting up and
+swinging his long, skinny legs off the bed.  "*La*, now where
+is---*ayah*." He braced one hand against the wall, blinked a few
+times, and then reached for the green bottle with the sword-hilt cork
+that stood waiting on the floor.
+
+Erileine opened her mouth to say, "You're not supposed to be up," but
+thought better of it.  "What can I do?" she asked instead.
+
+The bookster took a deep breath.  "Find my sandals."
+
+He moved stiffly as he buckled his belt carefully across his hips, so
+that the heavy green bottle hung down from his side like a scabbard
+once again. "What is that?" Erileine asked.
+
+"It was a present from Lady Kembe." Razi scrunched his toes to settle
+his feet in his sandals.  "Good enough.  Now, everything else into my
+bag."
+
+Erileine hesitated, "Bookster? What do you think is happening?"
+
+His teacher smoothed his *deel*.  "The same thing you do.  I think the
+mountain is being invaded."
+
+The little office they had used the previous evening lay down the
+corridor to their left, but Razi turned right instead.  He walked
+slowly but purposefully, nodding at everyone they passed but never
+breaking stride.
+
+Erileine followed him into a narrow corridor that dead-ended at a
+heavy wooden door.  Razi slipped a flat leather wallet out of his
+sleeve.  Unfolded, it revealed half a dozen odd-shaped metal picks.  A
+moment's work, and the door's lock clicked.  He waved Erileine through
+and closed the door behind them.
+
+Sharp-edged sunlight poured through a barred window high on the wall
+opposite them.  Another sturdy wooden door, barely taller than
+Erileine, stood beneath it.
+
+"Phew!" Erileine wrinkled her nose.  The shelves on all sides of the
+small room were lined with night jars waiting to be carted away.
+
+"*La*, I'm sure some of it is yours," Razi said as he crossed to the
+far wall and untied the door.  Outside lay a single worn gray step and
+an alley barely wide enough for the two-wheeled cart that blocked it.
+Razi cocked his head to one side, then glanced over his shoulder at
+Erileine and smiled.  "What do you think?  Shall we take care of this
+until the regular man comes back?"
+
+Erileine scowled.  "I thought the whole point of becoming a bookster
+was that I wouldn't have to shovel other people's---"
+
+*Whoomp!* The sound of the explosion hit Erileine like a padded club.
+Even as she staggered back, Razi grabbed her arm and dragged her into
+the alley.  In the distance, people started screaming.
+
+"What was that? Bookster, what was that?"
+
+"Quiet." Razi flattened himself against the wall, wincing.
+
+"But---"
+
+"*Quiet*," Razi hissed.  "It was banefire, *la*, what the Bantangui
+called wizard's anger.  Now, stay behind me, and whatever you do, do
+*not* drop Lady Kembe's things."
+
+Razi edged forward on the balls of his feet.  He paused at the corner,
+then glanced around it and pulled his head back in one quick motion,
+like an irving thrusting its beak into a pine tree to snatch a grub.
+
+"Over there," he mouthed to Erileine, pointing to the other side of
+the alley.  Erileine tiptoed across.
+
+From where she huddled against the wall, the alley's mouth was a
+window onto hell.  The blast had blown a hole twenty strides across in
+the market square.  Gobbets of red-orange fire sizzled among the
+scattered bricks.  People ran back and forth, shouting and screaming,
+some trying to help the wounded, others trying to rescue their wares,
+and still others trying to knock down the stalls that were still
+standing so that the fire wouldn't spread.  Militia spears lay
+forgotten on the cobblestones as their owners beat the insolent flames
+with their coats.  Erileine saw a bosun's mate grab a militiaman's arm
+and yell an order.  The man shoved him away, knocking him off his
+feet.
+
+*Thomas!* Erileine suddenly thought.  Anger and fear churned in her
+gut.  Was this the missing magician's work? Had he been in league with
+the soldiers in Tinhead the whole time?
+
+Razi caught Erileine's eyes and shook his head.  "There's nothing you
+can do," he said softly, misreading Erileine's thoughts.  "Now, *la*,
+we must hurry, before they seal the town." He stepped into the street
+and walked briskly away from the destruction.
+
+Erileine's thoughts whirled.  What did he mean, seal the town? And
+shouldn't they be trying to help? People were dying! All of a sudden
+she thought, *What about Starboard Town?* Was it under attack as well?
+What was happening to his maere and paere, to Queçenne and Papaere
+Vurt?
+
+"Erileine!" She jumped. "Now!"
+
+Erileine hurried to match her master's pace.  Fifty strides up the
+street they turned left into an alley that stank of cat.  Razi slipped
+the latch on a gate, ignoring the honking of the irate gander tethered
+next to it, and strode across a yard filled with half-finished benches
+and chairs.
+
+A sharp right turn brought them to another yard, filled like the first
+with furniture in various stages of repair.  The pink roof tiles told
+Erileine where they were: Papaere Leau's steam baths.  She had been
+here with her father the last time the mountain had berthed at Mau
+Ngapcha.
+
+"You! Stop there!" Erileine nearly jumped out of her skin.  Razi
+turned around, his hand resting casually on his sword hilt.
+
+A militiaman stepped out of his hiding place behind a half-finished
+chest of drawers.  "Who are you?" he demanded, his arrow pointed
+straight at Razi's chest.  Two more men stood up behind him, their
+long spears held tightly.
+
+Razi let go of his sword hilt and raised his palms.  "I am Razibendra
+uy-Ossisswe, a bookster.  This is my apprentice, Erileine Saedie é
+Laeuc, from Starboard Town."
+
+The militiaman's aim didn't waver.  "You the one they shot?"
+
+Razi nodded.  "*La*, yes.  Am I about to be shot again?"
+
+"Thinking about it.  What's happening back in the market?"
+
+"It's burning.  The enemy has been seen on Scissormaker Street as
+well."
+
+"I told you," one of the spearmen muttered angrily.
+
+The man with the bow ignored him.  "So you're just walking away from
+it all?"
+
+Razi shrugged helplessly.  "*La*, my wound is still fresh.  I thought
+there would be people in greater need of the sick room this night than
+me, so---"
+
+The archer's eyes widened as the spearman beside him yelled, "Look
+out!"  Razi grabbed Erileine's arm and threw her to the ground,
+whirling in the same motion to face the half-dozen armored soldiers
+who poured onto the street through the bath house doors, two holding
+crossbows, the rest with swords in their hands.  "*Nas na forchem! Na
+forchem!*" the one in front yelled.
+
+Maybe even then there was still a chance.  Maybe if the militia archer
+hadn't been as good, or as lucky, as he was.  Maybe if the Avauntois
+had spoken enough Praczny to understand that the Tinhead sergeant was
+yelling, "Don't shoot them!" But then the militiaman's arrow snickered
+over Erileine's head and took the sergeant in the throat, and whatever
+chances had been in that little yard flew away like frightened birds.
+
+*Whap! Whap!* The Tinhead crossbows sounded like books being slammed
+down on a table.  The quarrels knocked the Avauntois archer back
+against the chest of drawers.
+
+"Aaaaah!" the spearmen yelled.  They charged the invaders, two
+frightened men who had just seen their best friend die against twice
+their own number of swords.
+
+Metal clanked against metal.  A spear clattered to the ground.  A
+man's terrified cry for help was suddenly cut off.
+
+"*Yeshed nausi pra tallein!*" Razi shouted.  "We take no side!"
+
+That quickly, it was over.  Erileine scrambled to her feet, the
+breakfast she hadn't eaten rising in her throat.  One spearman lay
+dead just two strides away.  The other was thrashing on the
+cobblestones, harsh animal sounds escaping from his throat as blood
+spurted out of the gash in his thigh.  The two Tinhead crossbowmen had
+braced their bows against their feet and were cranking the strings
+back into place.
+
+A soldier with blood on his sword gestured at Razi.  "*Nausi bayian?*"
+he demanded.
+
+"Stay behind me," Razi said, stepping in front of Erileine as the
+Tinhead soldiers came toward them.  With a smooth flourish, he drew
+his sword.
+
+It came out of its bottle like silver syrup, shaping itself into a
+sharp-edged whip of mercury.  As Razi lunged at the nearest soldier,
+the blade lengthened and thinned to stab him through the shoulder from
+three strides away.  Snapping it back, Razi stepped forward, turned,
+and slashed a bowman.  Blood spurted from the arm he threw up to block
+the blow.
+
+The bookster lashed out again as the three swordsmen still on their
+feet closed on him.  One got his sword up in time to parry a head cut.
+The liquid blade rang on his like any other.  He jumped back to avoid
+being disemboweled by Razi's backhand, tripped, and went down.
+
+The second soldier swung wildly at Razi's head.  The bookster ducked
+the blow and kicked the man's knee, cracking his sword like a whip
+just thumbs from the third man's eyes.  "Run!" he shouted to Erileine.
+"Run!"
+
+But someone else was shouting, "Avaunt! Avaunt!" A squad of militia
+burst into the courtyard, spears down.  Razi cursed and threw himself
+to the ground.  Arrows whicked through the air.  Erileine screamed in
+terror as they thunked into an overturned table a handspan above her
+head.
+
+*Phweeet!* The Tinhead crossbowman who was still on his feet blew a
+whistle.  Erileine scrambled over to Razi on her hands and knees.
+"Are you---"
+
+"Up," Razi gasped, digging his fingers into Erileine's shoulder.  His
+blade had bunched into a blobby club.  He struggled to his feet, using
+Erileine's shoulder like a drunk would use a handy tree, while swords
+clanged and men shouted and died three strides away.  Together, the
+bookster and his apprentice stumbled back the way they had come.
+
+"Here," Razi said twenty strides later, pushing Erileine into a narrow
+side alley and collapsing on the ground behind her.  They lay there
+for a moment, Erileine panting with fear, Razi's breath rasping.  When
+he took his hand away from his side and looked at it, he winced.
+
+"Are you all right?" Erileine asked anxiously.
+
+"No," Razi said weakly.  "I am not.  It has come open.  Where is the
+inn?"
+
+"I---I don't know.  I mean, I know from the Hardeck, but I don't know
+where we are now."
+
+Razi nodded.  "We will have to find somewhere else.  Help me up."
+Holding Erileine's hand so tightly that it hurt, he somehow got back
+on his feet and pushed his strange liquid sword back into the bottle
+hanging from his belt.  The mercury rippled and gurgled back into its
+strange sheath.
+
+*Whoomp!* Erileine jumped as banefire rumbled behind them.  The
+bookster's grip tightened on his shoulder.  "Sorry," Erileine said.
+The early morning sky was a blinding-bright strip of blue over their
+heads, but the alley around them was still dark.  It was probably
+always dark, Erileine thought, as the damp cold around them crept
+under her shirt.  She stumbled over a loose stone, again over a board
+someone had thrown away, and a third time over something spongy whose
+exact nature she didn't want to think about.  Razi gasped each time.
+"Sorry," Erileine kept saying.  "Sorry."
+
+Finally Razi squeezed her shoulder.  "Here," he said.  "I can't..." He
+put his back against the wall and slid down it to sit on the bare
+earth.
+
+Erileine squatted on her heels beside him.  "What can I do?"  she
+asked anxiously.  "Bookster, what should I do?" She hadn't realized
+that she was crying.
+
+"M'lady," Razi gasped.  "Ask her..."
+
+"Razi?" Erileine shook the bookster's shoulder gently.  "Razi, wake
+up!" Slowly, peacefully, the bookster toppled sideways.
+
+"Razi!" Erileine pulled his collar open and felt for his pulse.  It
+was as quick and as light as a feverish child's.
+
+When she was eight, Erileine hiked down to Starboard Town's lower goat
+pasture.  She wasn't supposed to---it was twice as far from town as
+the upper pasture, at the end of a steep path, and there were places
+where one bad stumble would mean a long slide down a steep, stony
+hill, followed by an even longer drop---but Niquolas had joined
+Fraederiq in taunting her that morning, and she had lost the toy
+dragon Papaere Vurt had made for her out of a few scraps of leather,
+and she just wanted to get as far away from everyone as he could.
+
+She stayed in the pasture, watching the goats and muttering angrily at
+the empty air, until her stomach started to rumble.  As she walked
+back to town, she was so sunk in self-pity that she didn't see the
+rabbit hole until her foot went into it.  "Ow, ow, ow!" She pulled her
+foot out of the hole and tested her weight on it.  Pain shot up her
+leg.
+
+Erileine started to cry, but then, in a moment that stayed with her
+the rest of his life, she stopped.  She wasn't crying because she was
+hurt.  She was crying because she wanted someone to pick her up and
+carry her home, but that wasn't going to happen.  Her maere and paere
+would come looking for her if she wasn't back for dinner, but that was
+hours away.  She stopped crying because it wasn't going to make a
+difference.
+
+So she picked herself up and started limping up the mountain, two
+steps on her good foot, one quick, hopping step on the other.  It was
+half an hour before Donaien and Armaend heard her shouts.  "Well,
+you're a mess, aren't you?" Donaien said, trying to make a joke of it
+while Armaend cut a length of elbow bamboo from a nearby stand to make
+a crutch.
+
+She never told anyone about her epiphany.  What would she have said?
+But there in that alley, kneeling beside the limp, prone figure of her
+teacher, that memory told her what she had to do.
+
+The wooden box, the leather tube, and the knife were all in Razi's
+bag.  She set the stub of the candle from the previous night on the
+cobblestones.  Shaking Lady Kembe's portrait from its tube, she ran
+her fingers along the wall until she found cracks she could jam pins
+into.
+
+And then, the knife.  She couldn't bring himself to cut the hard scab
+that had formed over the previous cut, so she laid the blade beside it
+and pulled.
+
+One drop, two, three...  She touched them to the candle, praying that
+she hadn't missed some vital step, then set it on top of Razi's bag,
+crossed her legs, and waited.
+
+Lady Kembe's picture studied him.  He couldn't imagine her smiling.
+What if she wasn't in her room? What if she was---
+
+*Pop!* A tiny yellow flame appeared.  "Again, you?" Lady Kembe's eyes
+narrowed.  "I did think my Razi was teaching you in books, not magic.
+Where finds he himself?"
+
+Once again, Erileine would have sworn she was there, even though her
+portrait was still just a picture.  "He's bleeding again.  There was a
+fight with some soldiers.  I know, I'm sorry, start at the beginning."
+She took a deep breath and told the story as quickly as she could,
+leaving out only the details that would later wake her up in the
+middle of the night: the sound the militia archer's arrow had made
+when it hit the Tinhead sergeant, the spearman writhing on the
+pavement, trying to hold the wound in his leg closed, the scene in the
+market.  "And now he won't wake up," she finished.  "He's bleeding
+again and I can't wake him up."
+
+Lady Kembe scowled.  "Have you his knife?" Erileine nodded.  "Good.
+Rest a moment where you find yourself." The picture became just a
+picture again, though the candle flame still burned.
+
+*Whoomp!* Banefire thudded in the distance.  *I forgot to ask her
+about Thomas,* Erileine thought.  All of a sudden she felt desperately
+lonely.  What would she do if Razi died? She couldn't just leave his
+teacher's body lying in an alley---there were rats around.  She
+shivered.  Did the Karabandi burn their dead? Or bury them, like the
+Gandan-o? Did Razi have any oaths unaccomplished? The thought of her
+teacher returning as a ghost made her queasy.
+
+And what was happening in Starboard Town? Saints and small stones,
+what was happening to everyone she cared about? What was *going* to
+happen to them?
+
+Lady Kembe's picture came back to life.  "Well and then," she grunted,
+setting a heavy iron bowl down on her desk.  "Have you there his
+knife?"
+
+Erileine picked up the crystal-handled blade.  "Yes, *sra*."
+
+Lady Kembe took a neat stack of white bandages out of the bowl and set
+them on the table.  Next came a knife identical to the one Erileine
+was holding.  She closed her eyes, took a deep breath, and let it out
+slowly.  "Well and then," she said without opening her eyes.  "Here is
+what is needing done.  First, lie my Razi on his back.  Make certain
+of his arm, that it is out of the way.  Yes, as so.  Good.  Now, open
+his cloak.  No, there is in it a tie string which must be undone.  It
+finds itself on the inside.  Higher.  Yes, there.  What? Oh, his self
+and his knots...  No matter, just you cut it.  Yes, with the knife.
+Good.  Now open his cloak...  Oh my."
+
+The wound was a thumb and a half long.  It gaped and closed in time
+with the bookster's panting.  Crusts of old blood clung to it; more
+oozed out as Erileine watched.
+
+"Do you know the depth of it? Well, we shall together discover that,
+then.  Now, hold the knife over the candle.  Look at it carefully.  Is
+there on it any blood? Any dirt? Any fish scales? No? Good.  Are you
+wearing anything yellow? Or can you hear any person singing? Any at
+all, even so faintly? Take a moment, it is of the greatest importance.
+You are certain? Good.  Now we are come to the hard part."
+
+She laid her left arm across the bowl, forearm up, and hefted the
+knife.  "Have you the knife in your right hand? Good.  Now, you must
+put your other hand on the candle flame.  No, not yet, not yet.
+Attend me." She opened her eyes and looked straight into Erileine's.
+"The flame shall not cease with burning.  It shall hurt.  You must be
+ready for that and you *must not* pull it away once we start.  Do you
+understand? The doing of it would probably kill you, and might fairly
+leave me witless."
+
+"I---I don't know if I can do that," Erileine said.
+
+Lady Kembe scowled. "He thought himself that you could and more.  He
+has this much said to me the first day you spent with him."
+
+Erileine swallowed and nodded jerkily.  "Good," Lady Kembe said.  She
+squeezed her left hand into a fist, took another breath, and closed
+her eyes.  "Put your hand over the flame."
+
+Erileine hesitated.  "In haste," Lady Kembe said calmly.  "His death
+has near found him.  It will have him for sure if you cannot do what
+needs done."
+
+Erileine looked at Razi's drawn face.  He couldn't cry for help the
+way Fraederiq had.  *He wouldn't even if he could,* Erileine thought.
+He would just look at Erileine, patient and understanding, waiting for
+her to do the right thing, in nightmare after nightmare.
+
+Erileine squashed her hand down on top of the candle.  The flame stung
+like a wasp.  For a moment she thought that would be all, but then the
+tiny yellow flame bit into her hand like a drill bit.  She clamped her
+teeth together to stifle a scream, and only then realized that her
+right arm had thrust the knife it was holding into the wound in Razi's
+side.  She couldn't feel it at all---it was moving of its own
+volition, probing the wound with the knife.
+
+"Hold!" Lady Kembe snapped.  "Hold fast!" Erileine bit down on another
+scream.  Saints, saints, saints, it hurt.  It hurt like nothing she
+had ever imagined.  She dug her fingers into the candle.  *Don't let
+go, don't let go,* she told herself over and over.  Tears ran down her
+face.  *Don't let go...*
+
+Her right hand swept the blade back and forth over the wound as if
+spreading honey on a piece of bread.  The wound shrank, its sides
+joining and sealing until it had turned into an angry red scar.  She
+nearly fainted when her stomach rumbled at the odor of her own flesh
+being roasted.
+
+Without warning, her right arm went limp.  Whatever force had been
+helping her hold the candle disappeared.  She clutched her hand to her
+chest.  "I'm sorry," she moaned, rocking back and forth.  "I'm sorry,
+I'm sorry..."
+
+"Hush, child, hush, the thing is done." She opened her eyes.  The tiny
+candle flame still lit the alley.  The iron bowl beneath Lady Kembe's
+left arm was half full of blood.  The wound she had cut in her forearm
+was exactly as long and as deep as the one in Razi's side had been.
+
+She dropped her knife into the bowl with a clang and unfolded a
+bandage on the table beside the bowl with her right hand.  "There,"
+she said, laying her arm on the cloth and folding it over gash.  "That
+should keep him whole for a time.  Now, show to me your hand."
+
+Erileine opened her left hand and looked down at it.  Other than a
+smudge of black soot, there wasn't a mark on it.  She flexed her
+fingers.  Something felt odd...
+
+"Hold it up as I may see it," Lady Kembe ordered.  Erileine raised it
+and wiggled his fingers, realizing as she did so that she couldn't
+feel them.
+
+"Hm.  Not of the best, but not of the worst, either.  Some feeling
+should return, if you are patient.  Now, how fares he our Razi?"
+
+The bookster's pulse was slower, but stronger, and his breathing was
+more like that of a sleeping man than a wounded goat.  "He's better.
+What did you do?"
+
+"Magic, of course," Lady Kembe replied shortly.  She unfolded a second
+bandage on her table one-handed.  "You do understand the working of
+it, I hope? That you never have anything for free, but must rather
+always pay for it." She unwrapped her arm, dropped the first
+blood-soaked bandage into the bowl, and set her arm down on the
+second.  "Your hand and my blood for my Razi's life." She glanced up
+at her.  "I count it a bargain."
+
+"Yes, *sra*," Erileine said.  She rapped his knuckles against the
+ground.  Nothing---it was as if her hand was made of wood, like
+Papaere Vurt's leg.
+
+"Be you careful with that," Lady Kembe warned.  "It cannot feel, but
+it is still of flesh as before.  You may easily injure it."
+
+"Yes, *sra*," Erileine repeated.  "What do you want me to do now?"
+
+"Wait.  That is all you can now do." She glanced out her window.  "It
+is only just noon where you find yourself, is it? He will sleep to
+nightfall, or perhaps thereafter, and then be weak but able to walk.
+He will find you somewhere to hide."
+
+Erileine nodded miserably.  She felt light-headed and nauseous.
+*Again*, she thought blearily.  It seemed to have been happening a lot
+recently.  "'right," she mumbled, almost toppling sideways.
+
+Lady Kembe's expression softened.  "Blow out the candle, child, and
+sleep.  Make certain to keep yourself warm---you will else feel as
+badly come evening as he does now.  And child---thank you.  You have
+been brave this night."
+
+Erileine nodded.  She didn't feel brave.  She felt like the world had
+just used her as a night jar.
+
+The candle flame disappeared.  Even as she thought, *I should put all
+of this stuff away*, she rolled onto her side and fell into a deep,
+dreamless sleep.
+
+* * *
+
+*Years later, a young Ruudian bookster named Leif Unruhsson decided to
+make that night the subject of the formal debate the university
+required of him.  He spoke with dozens of people, some for as long as
+it takes to drink a polite cup of chai, others over the course of
+several days.  He even tracked down Jack, the Gifted parrot, who by
+then was living in comfortable retirement at the court of the Sad Duke
+of Anyalcze.  Some of those conversations were quiet, almost
+nostalgic; others quickly turned angry, or dissolved into tears.  The
+bookster nodded and scribbled through them all, untouched by those
+long-ago losses, until a draper with a patch over one eye undid the
+top two buttons on her shirtcoat and drew out the small cloth bag that
+hung around her neck.*
+
+*Wordlessly, she loosened the bag's mouth and spilled its contents on
+the rickety tea-shop table.  A porcelain doll's head; a puzzle piece
+in the shape of a horse, its hindquarters blackened by fire; a simple
+oval locket, the face and most of the gilt long gone.  "It'th all
+tha'th left," she said quietly.  Whatever had ruined her eye had left
+her jaw misshapen as well, unable to reach certain sounds.  She
+pointed at them one by one.  "That wath my daughter'th.  That wath my
+thon'th.  The fire killed them."*
+
+*"And this one?" the bookster asked, tapping the locket gently with
+the feathered end of his pen.  "Whose was that?"*
+
+*The cobbler swept them into her bag and hung it around her neck
+without answering.*
+
+*"Sra? Who did the locket belong to?"*
+
+*"That wath mine.  I won it for thinging when I wath fifteen." Her
+voice was steady.  "I wath going to teash my shildren to thing, but I
+never got the shance."*
+
+*Leif Unruhsson got very, very drunk that night, and spent most of the
+next day sitting in front of the fireplace in the inn where he had
+taken lodging, his notebooks in his lap.  He later wrote, "Twice I
+made to throw them into the flames.  I asked myself, what use is
+scholarship?  What use another dry recitation of kings and wizards,
+wars and treaties, poems written and legends wrought? That was when I
+realized that what truly matters is not describing the world, but
+fixing it."*
+
+*That motto became the introduction to his debate, which the
+university duly rejected.  "These are just stories," one examiner
+wrote disdainfully.  Another scribbled, "Fireside chats with common
+people do not merit a penny whistle, much less a scholar's collar and
+sash," on the twelfth page, and read no further.*
+
+*But others did, especially after Unruhsson died in a daring but
+doomed attempt to steal enchanted weapons from the tomb of Janbinder
+the Great.  The manuscript was copied and passed from hand to hand,
+until three young firebrands in Vaarda (who were later hanged, eaten
+by trolls, and married off to a respectable farming family
+respectively) set it in type.  Lines Leif had written turned up in
+ballads, were quoted by ambitious young councilors, were translated
+into Karabandi and thence into Bantangui.  When Prince Thokmay of
+Gandan stood before the Great Debate and said, "My lords, my ladies,
+we are all Avauntois now," the assembly erupted with equal measures of
+applause and abuse.*
+
+*But that was later...*

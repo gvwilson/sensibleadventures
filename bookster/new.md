@@ -1138,7 +1138,7 @@ Fraederiq's father hadn't said much besides, "Thanks," when Laeuc
 poured him his first glass of Bantangui rum, and, "Leave the bottle,
 will you?" when Laeuc rose to go.
 
-"Well," FIXME finally said, pushing her plate away. "So what does
+"Well," Saedie finally said, pushing her plate away. "So what does
 *sra* bookster think of all this?"
 
 Erileine shrugged. "He doesn't know. He said if anything like this had
@@ -1154,7 +1154,7 @@ nodded and took it out the kitchen door. A moment later, the foursome
 inside the house heard it clang against the water cistern.  A moment
 later, they heard Queçenne's quiet sobs.
 
-"I'll see to her," FIXME said, rising. "Erileine, make sure you wear
+"I'll see to her," Saedie said, rising. "Erileine, make sure you wear
 your coat."
 
 "I'm only going up the street," she protested.
@@ -1323,7 +1323,7 @@ stiffly as a marionette, he took a blue silk hair ribbon from his
 pocket. As he laid it on the pyre, Erileine heard Laeuc whisper, "But
 that's---!"
 
-"Sh!" FIXME elbowed her husband to quiet him, but her eyes were with
+"Sh!" Saedie elbowed her husband to quiet him, but her eyes were with
 Erileine's on Queçenne, whose renewed sobbing told the whole town who
 the hair ribbon had belonged to.
 
@@ -1663,7 +1663,7 @@ window, the morning's chai cooling in a pot on the table between them.
 Armaend shook his head. "Ain't right at all." He stirred some honey
 into his mug and drained it in one noisy gulp. "Come on. Time to go."
 
-Erileine and her father were almost the last ones to arrive.  FIXME
+Erileine and her father were almost the last ones to arrive.  Saedie
 had spotted a stain on Laeuc's shirt too faint to be seen by male eyes
 and insisted that he change. And while your father's doing that,
 Erileine, can't you please comb your hair? Yes, I know you're going to
@@ -4111,7 +4111,7 @@ you?" she asked.  Her lips didn't move---the portrait hadn't come
 alive as they sometimes did in stories---but Erileine heard her as
 clearly as if she were standing a stride away.
 
-She swallowed dryly.  "I'm Erileine, *sra*.  Erileine FIXME é Laeuc,
+She swallowed dryly.  "I'm Erileine, *sra*.  Erileine Saedie é Laeuc,
 of Starboard Town, on Avaunt.  I'm Bookster Razi's apprentice."
 
 Somehow, the portrait frowned without any part of it moving.  "Where

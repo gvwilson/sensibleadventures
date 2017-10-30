@@ -5607,3 +5607,501 @@ Vaszlav snorted.  "Why? So I can have my other eye blackened? No
 thanks."  Standing, he nodded to Erileine.  "Say hello to your
 papaere, will you? He was always a decent fellow." With no more
 goodbye than that, he turned and walked away.
+
+---
+
+The goats in the pasture above Starboard Town watched the trio pass
+from the security of their fenced-in enclosure, as indifferent to the
+invasion as they were to the fat gray clouds threatening rain
+overhead.  Nothing seemed to have changed: kites still flew and smoke
+still rose from chimneys.
+
+"Is there any other way into town?" Razi asked.
+
+Erileine shook her head.  "Not unless we can borrow Thomas's boat."
+
+Razi smiled wryly.  "So the front door it shall be.  But *la*, let us
+not bring too many gifts to the banquet." He handed Erileine the
+leather case containing Lady Kembe's portrait, unslung his strange
+sword, and beckoned to Piaerre.  "On my shoulders," he ordered.  "No,
+standing, not sitting.  I'll steady you."
+
+With a hand around each of her ankles, he slowly stood up.  Piaerre
+grabbed a nearby branch to keep his balance.  "Good, now, do you see
+the cleft in the tree, just above your head?  Yes?  Good.  Erileine,
+pass me the case.  Can you wedge it in?  *La*, no, higher than that.
+Don't be so gentle, it isn't silk.  Good.  Now my sword.  This you can
+be gentle with---we're a thousand gallops and a hundred years away
+from anyone who could make another like it."
+
+The Starboard Town militia ambushed them a hundred strides later,
+where the road snake around the remains of a long-ago landslide.
+"Halt there!" Bosun Uyves bellowed.  Three archers rose out of the
+bushes to their left, while the bosun and two spearmen stepped onto
+the path in front of them.
+
+"Erileine!" Laeuc dropped his spear and rushed forward.  Father and
+daughter hugged one another.  "Oh, love, your mother's been so
+worried."
+
+The bosun waved at the archers to unstring their arrows.  "What in
+five hells has been happening in Forecastle?" he demanded.  Then he
+frowned at Piaerre.  "Do I know you?"
+
+Erileine told their story quickly.  She left out Razi's magic sword
+and Lady Kembe---those parts already seemed like a dream.  Even
+without that, it sounded like a fairy tale: the destruction of
+Tinhead, the banefire that had burned Forecastle market to the ground,
+and then, their discovery that the invaders were Hett.
+
+"Get away," the bosun scoffed.  "The Hett couldn't do something like
+this.  They're not soldiers."
+
+"*La*, these ones are," Razi replied.  "Good ones.  And their
+magicians are even better."
+
+The bosun spat into the bushes.  "Well then, I guess I owe Gaeston an
+apology.  What about the captain?"
+
+The bookster spread his hands.  "*La*, we do not know.  Taken, or
+slain, or in hiding."
+
+"Aye, that's what Jack said.  How long d'you think before they get
+here?"
+
+"I don't know," Razi said.  "But when they come, *la*, I do not think
+there will be much you can do."
+
+"That's our concern, thank you," the bosun replied brusquely.  "Now,
+go get some rest.  And you, boy.  Stay out of trouble."
+
+"Yes, *sra*." Piaerre muttered.
+
+As the travelers turned to go, the bosun clapped Laeuc on the
+shoulder.  "Best you go too, I suppose."
+
+"Thanks, Uyves," Laeuc said, his arm still around Erileine's
+shoulders.
+
+"And Laeuc?  Next time, don't just drop your spear, all right?  Sets a
+bad example."
+
+"Yes, bosun."
+
+Uyves took a big breath and let it out with a whoosh.  "All right, you
+lot, back where you were.  From the sounds of things, the next folk
+down this road won't be so friendly."
+
+People working in the fields ran to meet them as they trudged down the
+mountain.  Saedie almost cracked Erileine's ribs hugging her, then
+surprised herself and everyone else by hugging the bookster and
+Piaerre as well.  Mamaere Mayeule took one look at Piaerre and dragged
+him away.  "Have you *ever* had a bath?" Erileine heard her ask.  The
+next thing she knew, she was home.  Her mother stripped her filthy
+clothes off her as if she were a baby and sent her stumbling upstairs
+to find fresh ones.
+
+Vurt and Queçenne were waiting for her when she came downstairs, along
+with a pot of reheated stew.  After hugging them, Erileine dropped
+herself onto a stool and began gulping down mouthfuls of steaming
+squash, talking around it as coherently as she could.  It burned her
+lips, but she didn't care.
+
+"Easy," her grandfather said, nodding a thank you to Saedie as she
+handed him a mug of tea.  "It'll come back up if you eat too quickly."
+
+Erileine nodded, sucking air into her mouth to cool its contents as
+her grandfather quickly filled her in on what had happened while she
+had been away.  There had been a rockslide when the mountain
+berthed---nobody had been hurt, but it had made kindling out of the
+shearing shed above the goat pasture.  A few house beams had cracked
+or skewed; some crockery had been broken, as has Mamaere Mayeule's
+favorite dayglass lantern.
+
+FIXME: Niquolas
+
+The writing was blocky and awkward.  "The coconuts are under the
+boards in the drying shed I bet they really are worth a lot you will
+see you can keep it all Niq." He had signed it with an elaborate
+curlicued 'N' that took up a quarter of the page.
+
+As her mother took her bowl from the table, Erileine said, "Papaere?
+What are you going to do when the soldiers come?"
+
+Her mother was behind her, so she didn't see her freeze, but his
+grandfather did.  "Don't know," Vurt said.  "Worry about that when
+they get here."
+
+Erileine yawned.  "I just wanted to say, whatever you do, I'll help.
+I'm going to bed now."  She stood, endured another hug from her mother
+without protest, let her grandfather hug her as well, trudged
+upstairs, opened her door, and closed it without going in.
+
+"Well?" her mother asked below.  Erileine could almost hear her cross
+her arms.  "What *are* you going to do?"
+
+"Depends," Vurt answered.
+
+"On?"
+
+"What these fellows want.  How long they plan on staying.  How nasty
+they are.  How many others do more than just talk." Vurt cleared his
+throat.  "Could be none of them do, you know.  Could be this story's
+already over."
+
+"Somebody will do something," Saedie said bitterly.  "Somebody always
+does."
+
+As quietly as she could, Erileine opened her door once more, lay down
+on her bed, and was instantly asleep.
+
+---
+
+Starboard Town's last morning of freedom dawned taut with tension.
+The clouds had moved on without raining, leaving the air close and
+oppressive.  People worked in the fields, or sat on stools outside
+their front doors mending shirts and plaiting bamboo and spoke in low,
+hushed voices, as if waiting for news from a death bed.
+
+Finally Gaeston exploded.  "Everyone's acting like it's all over!" He
+was ankle deep in wet soil, a hoe in his hand.  His spear leaned
+against the terrace wall two strides away.  "This is our home!  Are we
+just going to lie down and let them take it?"
+
+"So what're you going to do?" Laeuc asked.
+
+"Traps," Gaeston confided, lowering his voice.  "We set traps
+everywhere.  Forecastle Road, here in town---everywhere.  Take the
+sons of chocolate merchants one at a time, even things up a little."
+
+"The only traps I know how to make are rabbit traps," Laeuc said.
+"These are pretty big rabbits."
+
+Gaeston growled in disgust.  "You're as bad as the rest of them." He
+attacked the dark soil with his hoe, muttering under his breath.
+
+Meanwhile, the bosun was downing a mug of the strongest tea he had
+ever had.  He and Vurt were sitting behind Mamaere Mayeule's, looking
+at the unmoving forest that was beside the mountain instead of below
+it, their fleece jackets open to let the morning sun warm their
+chests.
+
+"A couple of hours, I guess," Vurt finally said, setting his mug down.
+Mayeule was inside, working her own brand of magic with garlic
+sausages, dried apricots, eggs, and potato bread.  "Want me to start
+checking?"
+
+The bosun nodded heavily.  "Best do.  Thanks." He stood up as Mayeule
+came out with the teapot.  "Oh, no thank you.  That last will keep me
+going all day." He ducked his head to her, as if he was still a
+ten-year-old struggling with his letters in the hopes of getting a
+smile from the teacher, and left them alone.
+
+"He wants you to put the ladder back?" she asked Vurt.
+
+He nodded.  "Quick as I can.  Just in case." He sipped his tea.
+"Didn't know he knew about it."
+
+Mayeule smiled.  "Whole town knows about it."  Vurt's "ladder" was a
+chain of climbing anchors, cleverly concealed loops of rope, and
+sturdy bamboo rungs that ran from his verandah down to the base of the
+mountain.  A goat couldn't have climbed it, but a man could---even a
+one-legged man, if he was patient and careful, and as a matter of
+principle didn't want to pay the captain's duty on a pack full of
+Bantangui spices.  Each time the mountain berthed, Vurt reassembled
+the top fifty strides of his private connection to the world below and
+visited like-minded businessmen on the ground below.  He told himself
+that he did it to set a little aside for his grandchildren.  Only on
+the darkest nights, when he missed his long-gone wife the most, did he
+admit to himself that it was because he'd never really believed a
+mountain could fly.
+
+He squeezed Mayeule's hand.  "I'd best be about it, then."
+
+She squeezed back.  "Best had."
+
+Back in the fields, Queçenne FIXME
+
+"No, no, sh, no, you didn't do anything bad," Queçenne said, wiping
+her eyes.  "I'm just scared."
+
+"I'm scared too," Matthieu said, child's eyes in a grown man's face,
+child's fear in a grown man's voice.  "I don't want to hide."
+
+"We won't have to hide," Queçenne said soothingly. "We---"
+
+"They're here! They're here!" The shouts came from the terraces above
+them.
+
+The soldiers marched into Starboard Town in two columns, their helmets
+gleaming in the sun.  Each man wore a steel breastplate, and had a
+short steel sword belted around his waist.  They were clean-shaven and
+unremarkable: brown-skinned, dark-eyed, neither tall nor short.  Their
+heavy boots made a *tramp, tramp, tramp* Starboard Town had never
+heard before.
+
+Bosun Uyves and five others walked in their midst, their hands tied
+behind them.  They were joined in pairs by ropes tied around their
+necks, so that if one tried to run, or fell, he would drag his partner
+down with him.
+
+As they approached the upper fields, some people ran for town.  Others
+just watched, their hearts echoing the shame and anger written on the
+bosun's face.  There would be no battle for Starboard Town.
+
+Laeuc lay his hoe down on top of his earthing bucket and hopped over
+the fence into the neighboring field.  "What are you planning to do
+with that?" he asked conversationally.
+
+Alone among the Avauntois, Gaeston had picked up his spear.  He shook
+his head wordlessly at his friend's question.  "Come on, put it down,"
+Laeuc said.  "Not here, not now, there's nothing you can do.  Come on,
+put it down." Gently, as if coaxing a sick goat into a pen, Laeuc took
+the weapon from Gaeston's hands and dropped it in the furrow at his
+feet.  That done, he clasped his hands together behind his back,
+squeezing them to stop them shaking.
+
+"Erileine?"  Saedie pounded on her daughter's door.  "Erileine, the
+soldiers are here!"
+
+Erileine sat up and dug sticky grit out of the corners of her eyes.
+"Where's Razi?  And Piaerre---the boy who came with us?"
+
+"He's at Mayeule's.  I don't know where Razi is.  Maybe you should
+just stay here for now."
+
+"I can't, maere.  I have to find Razi." She pulled her good shirt on
+awkwardly, then fumbled with the buttons on her pants.  It was hard to
+do small things when she couldn't feel half her fingers.
+
+"Hold on." Saedie crossed to her, scowling when she tried to block her
+mother's hands.  "Oh, stop fussing.  I've changed your diaper, I can
+do up your pants." She fastened the three buttons and tugged the laces
+on her shirt tight.
+
+"Where did paere put my boots?" she asked.
+
+"I don't know." Saedie followed her down the stairs.  "Erileine, where
+are you going?"
+
+"I told you, I have to find Razi.  He's the only one who speaks enough
+Praczny to talk to them." She veered into the kitchen.  "Is there any
+bread left?"
+
+"Just the heel.  Take it.  I'll make some more later." *If I can*, she
+added mentally.
+
+The light outside dazzled her for a moment.  She bit a mouthful off
+the lump of bread she had taken and shoved the rest into her pocket.
+Here and there on the street, people peered out from behind half-open
+doors.  "Go back inside!" Donaien hissed from the other side of the
+street.  "The soldiers are here!"
+
+"I know." Erileine hurried up the street to Mayeule's.
+
+Razi wasn't there.  Neither were Mayeule or Piaerre.  "Hello?" she
+called.  Her voice echoed slightly in the main room.  She shivered.
+She felt like a ghost, alone after death in a world empty of everyone
+except her.  She opened the door, stepped out, and ran straight into a
+soldier's armoed chest.
+
+"Ooph!" Erileine stumbled back a step.  The soldier eyed her coldly.
+"Go home," she said in badly-accented Avauntois.
+
+Erileine spread her hands and tried to smile despite her thudding
+heart.  "I'm sorry, but I'm looking for my teacher.  I have to---"
+
+"Go home!" the soldier repeated, waving Erileine back down the street.
+
+Erileine swallowed hard.  "*Inesh Praczny pertakken.*" She hoped that
+was right.  "I speak a little Praczny."
+
+The soldier's eyes narrowed.  "*Pertakka arapche be keprelaptekete
+arjo?*"
+
+"Um, *ve nesse arja me.*" Erileine shrugged.  "My teacher speaks it
+better, though.  I'm trying to find him.  My...  teacher..." she
+repeated slowly.  "*Saad*, what's the word for teacher?"
+
+The soldier whistled sharply through his teeth, two quick notes high
+and low.
+
+"*Hara?*" A second soldier walked over to join them.
+
+The first soldier saluted and pointed at Erileine.  "*Arap be Praczny
+pertakken in pidje.*"
+
+The newcomer nodded.  "Yes, I know." It was Jaromir.
+
+A black eye, a scab on the bridge of his nose, and two stitches in his
+upper lip contrasted with his spotless plain gray uniform.  Two silver
+ribbons sewn around its right sleeve were all that distinguished him
+from the other soldiers nearby.  He nodded to Erileine.  "Good
+morning."
+
+Erileine's mouth worked for a moment.  "What are *you* doing here?"
+
+The Hett waited a moment, then quietly said, "Please, finish your
+sentence."
+
+"What?"
+
+Jaromir tsk'd.  "I think you meant to say, what are you doing here,
+**sra**.  Didn't you?"
+
+Erileine stared at him.  *Sra*?  Nobody called a Hett "*sra*", not
+unless they were mocking drunk.  But Jaromir plainly wasn't just a
+Hett any more.  He was a man with a uniform and a sword, and his stony
+look showed what he thought of Erileine's silence.
+
+"Yes, *sra*." Erileine switched back to Praczny, thinking furiously to
+construct her next sentence.  "I is---am---apprentice for language.
+Trade also.  I learn Praczny, Gandan-o, read and write, Bantangui
+also, then Ruudian also."
+
+Jaromir grunted.  "Good.  So where's your teacher?"
+
+"*La*, I am here, honored *sra*."
+
+Erileine felt a flash of spiteful satisfaction as Jaromir started and
+spun around.  The bookster closed the gate to Mamaere Mayeule's back
+yard behind him and bowed gracefully.  He gave no sign that he had
+slept rough the last two nights, or that he had been close to death
+before that.
+
+"Bookster." Jaromir nodded a stiff reply to Razi's bow.  "I am glad to
+see you well.  Some very important people have been worried about
+you."
+
+The bookster raised his eyebrows.  "*La*, I am honored.  I wasn't
+aware that any important people even knew of me."
+
+Once again, Jaromir tsk'd.  "Please, bookster, no fencing.  There
+aren't very many Karabandi on the mountain, and only one who might
+have a quicksilver sword." He held out his hand.  "I apologize, but I
+must take it from you."
+
+Razi raised his palms apologetically.  "*La*, captain, I have no such
+sword.  Truly."
+
+The corner of Jaromir's mouth twitched.  He lowered his hand.  "It's
+lieutenant, bookster, not captain.  A captain would have three
+ribbons.  But I'm sure you know that.  Just as you know that if your
+mistress were not who she is, I'd have your back broken here and now
+for what you did to my comrades."
+
+Erileine held her breath as Razi lowered his hands as well.  "I have
+no mistress, lieutenant.  And I swear by my blood, I do not think I
+have done anything recently to merit a broken back."
+
+One of the soldiers behind him said something in Praczny too quickly
+for Erileine to follow.  Jaromir shook his head.  "*Nesh*.  We have
+orders.  For which *you* should be grateful," he added to Razi, his
+tone level once again.  "We are to send foreigners to Hepje Het as
+soon as possible for disembarking.  Sergeant Burak here will help you
+collect your things." He jerked a thumb at the soldier who had spoken.
+
+"Ah." Razi raised his eyebrows.  "And who, if it is permitted to ask,
+is Hepje Het?"
+
+Jaromir---Lieutenant Jaromir, Erileine corrected himself---smiled
+faintly.  "Not who, where.  Hepje Het is the big town forward." He
+waved a hand to take in the houses around them.  "This is Anapje Het."
+
+Razi blinked.  "*La*, truly?  I have heard it called Starboard Town."
+He gave the name in Avauntois.
+
+The lieutenant shook his head.  "No.  It is Anapje Het.  What these
+people called it no longer matters."
+
+"*La*, truly?" Razi repeated softly.
+
+"Truly.  None of this matters any more." Lieutenant Jaromir waved a
+hand to take in Starboard Town, the mountain, and possibly the whole
+world.
+
+Whatever reply bookster might have given was cut off by a sharp
+three-tone whistle.  The small knot of soldiers behind Lieutenant
+Jaromir instantly drew their swords.  "*Hurtiyet!*" someone shouted,
+"Catch him!"  Erileine whirled around, crying out as Razi pulled her
+out of the way.
+
+Bosun Uyves's escape was short-lived.  Roaring like bulls, he and
+Gaeston's half-brother Marq slammed into the first soldier, knocking
+him to the ground.  They somehow managed to keep their feet for a few
+more steps before the getting tangled in the rope that tied them
+together and tumbling to the cobblestones.
+
+The Hett soldiers kept their swords drawn as Lieutenant Jaromir walked
+over to them.  He barked a question in rapid Praczny.  One of the
+soldiers who had been guarding the Avauntois straightened up and
+slapped his open left hand against his breastplate.  "*Sho!*"
+
+"*Idjen cakhuisa*," Jaromir said.  Shamefaced, the soldier saluted
+again.
+
+"So..." Jaromir said, looking down at the bosun.  "Where did you think
+you were going?  Or was your plan simply to knock us off the mountain
+one by one?"
+
+The bosun let fly with a stream of curses.  "Maggoty goat-fondling
+lackwit cake-eating..."
+
+Jaromir drew his sword and placed its point against the bosun's
+throat.  "I want you to understand something," he said as the bosun's
+words stopped in his throat.  "We are not animals.  None of
+us---*none* of us---will ever do to you what people like you have done
+to the Hett for hundreds of years.  It would be an insult to
+everything we believe."
+
+"But you need to understand, right in your gut, that things have
+changed." He clenched a fist in front of his belly for emphasis as he
+spoke.  "We govern here now, not you, and we will not swallow abuse or
+disobedience any more than you did.  We would give our lives for the
+Great Work.  We will certainly give yours if we have to."
+
+He straightened up, eyes still on the fallen bosun.  "Bookster! Get
+your things.  Sergeant Burak!"
+
+"*Sho!*"
+
+"*In Hepje Het zaue buikken apchala erregan.  Immet na perressagern,
+nesh karpe abj terteperressagern.*"
+
+"*Sho!*" The sergeant slapped his breastplate and nodded curtly at the
+bookster.
+
+Without turning his head, Lieutenant Jaromir said, "Translate what I
+just said."
+
+Erileine hesitated, glancing at the bookster.  Razi nodded.  Erileine
+cleared her throat.  "Go with the bookster to...  to Hepje Het.  Take
+the passages---"
+
+"The tunnels," the lieutenant corrected.
+
+"The tunnels, but not the---I don't know the last word."
+
+"The deep tunnels," Razi supplied.  "Or 'major'.  It's the same word.
+It could even be 'the fundamental tunnels', although---" He cut
+himself off, smiling.  "My apologies.  Once a teacher, always a
+teacher.  Erileine?" The bookster raised his hands, palms forward, and
+inclined his head gravely.  "Please give my regards to your parents,
+and my thanks.  You have been a good student." With no more than that,
+he gathered his *deel* around him and strode away.  Sergeant Burak and
+two others hurried after him.
+
+Erileine stared at the bookster's retreating back, bewildered.  That
+was it?  He was just leaving?  No, it couldn't be.  Razi had to have a
+plan.
+
+"I wouldn't hope for salvation from that quarter." Lieutenant Jaromir
+said, as if he had read Erileine's thoughts.  But no, the Hett was
+speaking to Uyves, and was also watching the bookster walk away.
+"Lady Kembe is every bit as powerful as the stories say, but she is
+just one woman, and very far away.  She will feel us out, and send
+spies, and ask herself, what should I do, but then the Bantangui will
+stir up trouble again, or the Sad Duke will open his mouth when he
+shouldn't, and this will all become something that has already
+happened.  In ten years, people will have to be reminded that it has
+been ten years."

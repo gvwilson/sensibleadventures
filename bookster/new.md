@@ -5143,3 +5143,318 @@ to get going."
 "Two more hours," Razi repeated.  He turned his head to look at
 Erileine.  Erileine sat disconsolately and listened to the pages
 turning slowly behind the counter.
+
+---
+
+In the end, Razi had to wake Erileine from an uncomfortable doze.
+"It's time," he said softly, shaking her shoulder.
+
+The bookster's bag empty lay neatly folded on a shelf.  The tube
+holding Lady Kembe's picture was slung over his shoulder on a cord.
+The rest of his things were hidden in the depths of his *deel*, except
+for the green sword bottle that hung from his belt and a coil of rope
+that he wore over one shoulder and across his chest.
+
+"All clear," the thief whispered loudly from the basement.
+
+"After you.  *La*, and take care with your hand." Razi stepped back to
+let Erileine go first down the steep, narrow steps.
+
+The pot mender's shop had barely been large enough for the three of
+them.  Its basement was even smaller.  The dust mice on the steps were
+big enough to deserve individual names, and gray clumps of cobweb hung
+in the corners.
+
+Razi waited on the bottom stair behind Erileine while the thief
+cracked the delivery door open.  He slipped through and then beckoned
+them forward.
+
+Sweet Icicle Street took its name from the shops at its upper end,
+which Erileine could just make out in the gathering twilight.  Twice a
+week, on Redsday and Greensday, Forecastle's icicleers climbed up the
+shoulder of the mountain overlooking the city.  There, near the peak,
+they scraped hard-packed snow into their buckets, packing it down
+under layers of wood chips.  After sleeping for a few hours wrapped up
+in goat-skin rugs to stay warm, they hiked back down to town, where
+they added drops of lemon, blueberry juice, mango, and other
+carefully-measured flavorings to the ice.
+
+The icicleers were famous for their clannishness and contrariness.
+You couldn't have a wedding in Forecastle without great tubs of
+flavored ice---the icicleers would stand outside the banquet hall
+banging on their buckets and shouting insults.  When people said, "It
+was as quiet as Sweet Icicle Street," they were describing a shouting
+match.
+
+But that evening, the street truly was quiet.  With the mountain at
+rest, there wasn't even a breeze, just the muffled bang of a shutter
+being closed hastily a few houses away.  Someone had seen them.
+*Probably several someones*, Erileine thought nervously.  She hoped
+they were Avauntois.
+
+The sharp-sweet tang of boiled blueberries filled her nostrils as she
+followed Piaerre and Erileine into a narrow gap where one shop didn't
+quite rub shoulders with the next.  The gap led to a small,
+neatly-kept courtyard.  A bamboo lattice gate filled its opposite
+site.  Beyond it, garden sheds watched over patches of vegetables
+fenced with wicker and string to keep out rabbits, and beyond them
+stood pine trees.  They were on the very outskirts of Forecastle.
+
+Even as she realized that, Erileine heard boots on cobblestones.  She
+hurried to take shelter with Razi and Piaerre behind some
+sweet-smelling shrubs in terracotta pots.  Whistles called back and
+forth around them.  Razi patted the air with his hand---keep
+still---and crept silently to the gate.  Ignoring his signal, the
+thief followed suit.  Stung, Erileine followed him.
+
+"They're watching the road," the thief whispered, pointing at a
+glimmer of light escaping from the tin shutter of a lantern hanging on
+a tripod between two of the sheds.  Half a dozen soldiers stood beside
+it, yellow light reflecting off their helmets.
+
+"*La*, and if they're smart, they'll have a few more further down the
+road, without lanterns," Razi muttered.  "My apologies---getting back
+to Starboard Town may prove more difficult than I had thought."
+
+"What about the beanfields behind Conemongers Street?" the thief
+asked.  "We can crawl through the drainage ditches.  That'll get us to
+the pine orchard."
+
+Razi cocked an eyebrow at Erileine.  "I can do it," she whispered,
+nettled that her teacher thought she was the weak link.
+
+"*La*, I'm sure, but---hsst!" The bookster shooed Erileine and the
+thief back from the gate.  Erileine caught a glimpse of a sedan chair
+surrounded by a squad of soldiers, its straight-backed occupant
+staring straight ahead.
+
+A whistle blew, high and shrill.  "*Nettin ya! Nettin ya!*" the man in
+the sedan chair shouted, pointing at the gate.  They had been found.
+
+Razi didn't need to give the order---they ran, like rats scampering
+away from a cat, back to the alley and away.  Panic tightened
+Erileine's chest.  Razi's cache of equipment, the way he knew his way
+around Forecastle's back streets and byways, even his friendship with
+the thief---whether it was habit or Lady Kembe's premonitions, he had
+clearly planned for the worst.  But as they ran out onto Sweet Icicle
+Street, it was also clear that the bookster had run out of plans.
+
+"Psst! Over here!" Razi pulled up sharply, stumbling a step when
+Erileine plowed into him, and again when the thief plowed into her.  A
+dozen strides away, a hand beckoned through a door opened just a
+crack.
+
+They squeezed through.  The door closed behind them with a click.  Two
+men, worried and angry, studied them by the light of a dayglass
+lantern.
+
+"*La*, please, cover it," Razi whispered urgently.  "They will be
+following." The light disappeared.
+
+For a moment, the only sound was their breathing, but then Erileine
+heard the tramp of boots coming closer outside.  She swallowed and
+closed her eyes as the soldiers marched past.
+
+"One blue banana, two blue bananas..." Razi counted the time under his
+breath.  At twenty, he let his breath out in a whoosh.  "Thank you.
+And now, please, the light?"
+
+The sunlight trapped in the dayglass flooded the room.  Their rescuers
+were standing shoulder to shoulder in front of the shop's plank
+counter.  Father and son, or uncle and nephew, they had the same
+unruly black beards and wore the same determined expressions.
+
+Razi raised his palms.  "We bring no hurt," he said.  "Just our thanks
+for giving us refuge."
+
+The older one nodded.  "You're that foreign fellow, aren't you? The
+one that got shot."
+
+Razi bowed slightly.  "I am.  I am Razibendra uy-Ossisswe.  This is my
+apprentice, Erileine Saedie é Laeuc, of Starboard Town.  And Piaerre,
+without whom I am sure we would be wearing fetters at this moment."
+
+Erileine glanced at the thief, belatedly realizing that she'd never
+thought to ask his name.  "What?" the thief whispered belligerently.
+Erileine just shook her head.
+
+"You have any idea who these lot are?" the younger man asked.
+
+Razi shook his head.  "*La*, no.  We spent the day hiding from them."
+
+The older man grunted.  "Same here.  They came around first thing this
+morning, telling everyone we're to stay indoors 'til they say
+otherwise.  Couple of folk tried asking questions, but all they got
+was ironmongery waved in their faces.  We been here since."
+
+Razi nodded gravely.  "And what of the captain? Has there been any
+word?"
+
+The older man shrugged.  "Aivenne---he has the shop next to us---he
+saw some soldiers marching a couple of the captain's guard up False
+Eel Street.  Looked bloodied up, all of them, so he figures there's
+still some fighting going on."
+
+"Not that fighting did us any good last night." The young man's hands
+clenched into fits.  "You figure we'd have a chance if we took them
+one by one?"
+
+Razi shook his head.  "No.  Not just two of you.  What they did
+yesterday, *la*, they are not just soldiers.  They have magicians with
+them, powerful ones."
+
+"Told you it was a stupid idea," the older man muttered.
+
+As the younger man opened his mouth, Razi cleared his throat to
+forestall whatever argument was about to be reawakened.  "But *la*,
+you said you had spoken to your neighbor? Aivenne?"
+
+Still glaring at his older companion, the younger man said, "Yup.  The
+walls here are pretty thin.  Hardly there at all sometimes, if you
+know what I mean."
+
+"Oh, you mean there's a hidden door," Piaerre said off-handedly.  "For
+moving stuff around on tax day so the bosun won't find it."  He
+crossed his arms at the glares from the two men.  "What?"
+
+"Whatever the reason," Razi interrupted smoothly, "If we can make our
+way to the end of the street without actually being *on* the street,
+*la*, it would be a great help."
+
+"And what then?" the younger man sneered.  "Off the mountain like
+ticks off a dying camel?"
+
+"Avaunt isn't dying." Erileine was as surprised as anyone to hear
+herself speak.  "And we're not ticks.  We're going to Starboard Town.
+We'll figure out what happens after that when we get there."
+
+The two men exchanged looks.  Then, without a word being said, they
+turned, took hold of a narrow set of shelves, and pulled them away
+from the wall.  "Careful," the older one said, steadying a heavy glass
+jar.  "Don't know when we'll get more of that."
+
+Through the waist-high hole in the wall, a voice asked, "Huon?  Is
+that you?"
+
+"It's me.  Got some folk want to say hello." The older man waved the
+trio through.
+
+Aivenne, it turned out, was as nervously chattersome as Huon had been
+gruff.  He had a small clay oven, the back of which hung on a
+concealed hinge.  His neighbors, a husband and wife who needed a
+moment to make themselves decent, used a pulley hanging from their
+ceiling to raise the section of floor that covered a crawlspace into
+the next shop.
+
+Razi, Erileine, and Piaerre eventually reached the end of the chain of
+hidden passages.  Some of the shops had been empty, but their
+neighbors knew which screens to slide out of the way and which
+floorboards to lift.  Everyone asked the same questions: Who were the
+invaders? What had the trio seen? Was there any word of the captain?
+Were people fighting back? *Should* they be fighting back?  Each time,
+Razi answered, "I don't know.  *La*, less than you.  None.  No.  No,
+not yet."
+
+In the last shop, a woman with long white hair tied back in a club
+wished them luck.  "Down the bottom of the garden," she said, pointing
+through the slatted shutter she was about to open.  "Don't bother
+trying the gate.  It hasn't opened since before my time."
+
+"Thank you," Razi said, raising his palms.
+
+The woman made a disgusted sound in the back of her throat.  "You can
+thank me by braining one of them when you get a chance."
+
+The garden took them to a street that doubled back twice before
+curving around an outcropping of granite to a storage pond that had
+almost run dry.  The beans on its far side were only ankle high, but
+the ditch that ran between them took Erileine's leg up to the knee.
+The bottom was squelchy with mud and rotting greenery.
+
+"So now we crawl," Razi sighed.  Piaerre wrinkled his nose, but lay
+flat and began wriggling.  Erileine followed suit, gagging the first
+time her weight made a buried twig fling a palmful of mud into his
+face.  He found himself wishing that Lady Kembe's spell had taken his
+sense of smell rather than the feeling in his hand.
+
+The far end of the ditch connected with a larger one built to carry
+runoff to the carp pools.  Erileine cautiously raised her head.  A
+yellow glow moved through the trees fifty strides to their left.
+
+"Do we run for it?" the thief whispered.
+
+Erileine looked over her shoulder at Razi.  The bookster nodded.  "We
+run for it."
+
+"*Hesht! Hesht aue paratte!*" The shout from behind them was
+punctuated by a shrill whistle.  A second whistle took up the call.
+
+"Go!" Razi shouted, sprinting for the pines.  Bean plants caught at
+Erileine's legs as she followed him, redoubling her speed as a
+crossbow quarrel thunked into a tree behind her.
+
+"This way," Razi hissed, plunging into the trees, bending branches out
+of their way and releasing them slowly instead of letting them snap
+back into place.  Erileine moved gingerly, testing the ground with
+each step before putting her weight down.  She had hunted rabbits this
+way since she was eight years old.  She had never expected to be the
+one being hunted.
+
+They reached a rectangular patch where the replanted trees were only
+waist-high.  "Keep to the edge," Razi ordered.
+
+Suddenly Piaerre grabbed Erileine's sleeve.  "Look!" he whispered,
+pointing at the sky.
+
+High above them, the *Presumption* slipped out from behind a cloud,
+banked slightly, and disappeared behind another one.
+
+"Do you think he's looking for us?" Erileine asked Razi.
+
+Razi pursed his lips.  "No.  Not Thomas.  He will just be looking.
+Come on."
+
+It took them half an hour to reach the road.  They saw two squads of
+soldiers, one marching purposefully away from Forecastle, the other
+guarding a double handful of Avauntois.  The prisoners were sitting on
+the ground with their hands tied behind their backs and gags in their
+mouths.  One was sobbing quietly.
+
+Eventually the neat rows of the pine orchard blended into unkempt wild
+forest.  "Rest," Razi said, squatting on his heels.  His eyes were
+very white in the moonlight.  "*La*, a few minutes, no more.  Then we
+walk until morning." He looked at Piaerre.  "Can you keep watch?"
+
+"Sure." He hesitated.  "What should I do if soldiers find us?"
+
+"Surrender," Razi said.  He settled against a tree, and was instantly
+asleep.
+
+Erileine sat on the ground two strides away.  A root dug into her
+backside.  She wriggled, then shuffled sideways to try to find a
+softer spot.  Finally she gave up.  *At least it'll take my mind off
+my hand*, she thought wearily.  The tingling in her wrist had turned
+into an infuriating itch.
+
+"Hoy," she said softly, trying to take her mind off her desire to
+scratch.  "So what's your story?"
+
+Staring into the darkness at the city that lay behind them, the thief
+didn't answer.
+
+"Suit yourself." Erileine picked up a twig and wrote her name in the
+dirt, then wiped it away and closed her eyes.  Writing her name made
+her think of Mamaere Mayeule, who taught the children of Starboard
+Town their abracadabras.  She hoped the spry old woman was all right.
+She and Papaere Vurt had been circling around one another for as long
+as Erileine could remember.  "Just marry her and be done with it,"
+Saedie told Vurt time and again, but that only made him laugh.
+
+*He'll fight*, Erileine thought bleakly.  Some people might not,
+especially once they knew Forecastle had fallen, but Papaere Vurt
+wouldn't care about that.  He'd fight.
+
+Erileine looked down at the numb hand lying in her lap and wriggled
+her fingers.  She had to make sure she kept her hand strong.  She'd
+never be able to use it properly if she didn't, and if she couldn't
+use it properly, she wouldn't be able to help her grandfather.

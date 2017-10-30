@@ -5457,3 +5457,153 @@ Erileine looked down at the numb hand lying in her lap and wriggled
 her fingers.  She had to make sure she kept her hand strong.  She'd
 never be able to use it properly if she didn't, and if she couldn't
 use it properly, she wouldn't be able to help her grandfather.
+
+---
+
+It took them a day and a half to reach Starboard Town---a day and a
+half of not knowing what was happening there, or in Forecastle, or
+anywhere else.  Razi kept them in the trees most of the time.
+Whenever the only way forward was to venture onto the road or grow
+wings, they huddled beneath low-hanging branches and let the
+toothworms sting them until the bookster was satisfied that no one
+else was watching too.
+
+They were halfway to their destination when they heard chopping and
+caught a whiff of smoke.  Cautiously, they edged forward to look.
+
+Fifty strides below, a dozen soldiers were clearing brush from the
+mouth of an old tunnel.  They worked with their helmets off, but kept
+their breastplates on, and their swords and crossbows close to hand.
+They spoke in monosyllables, intent on their labor.
+
+As they watched, one of the soldiers drove his ax into a stump for
+safekeeping and called out to his companions.  They set their axes and
+saws aside to gather in three ragged lines in front of the first
+speaker.  He spread his arms wide, then folded them across his chest
+and bowed his head.  The men facing him imitated him.  As the sun
+touched the western horizon, they began to recite in unison.
+
+A chill ran up Erileine's back.  "What are they doing?" she whispered.
+"Some kind of spell?"
+
+"*La*, I think not," the bookster replied thoughtfully.  "I think they
+are praying."
+
+Erileine blinked.  "Like the Ruudians?" The invaders didn't *look*
+Ruudian.  Their hair was dark, not blond or golden red, and their
+skins weren't pale like those of the loudspoken iron traders who
+visited Avaunt at Gandan Berth.
+
+Razi nodded.  "Except the Ruudians do it when the sun comes up.
+Interesting..."
+
+"What's 'praying'?" Piaerre asked.
+
+"Asking for help," Erileine explained in a whisper.  "Or guidance.  Or
+to be excused if they've done something bad."
+
+Piaerre frowned sceptically.  "Asking who?"
+
+"The whole world, I guess," Erileine said.  The books she had read had
+never been very clear about that.
+
+The ceremony below them ended.  A few men took pans and a kettle from
+their packs and started making dinner while the rest returned to
+chopping.  Wordlessly, the trio slipped back into the forest and
+continued on their way.
+
+They slept in turns that night, and were moving again before dawn.
+Mountain streams quieted their thirst, but the early berries they
+stripped off the bushes weren't enough to ease the ache in Erileine's
+stomach or the throbbing in her head.  She grit her teeth and told
+herself that she wouldn't complain until Piaerre did.
+
+An hour after sunrise, as they neared Starboard Town, Razi raised his
+hand.  "*La*, do you smell?" Erileine sniffed the air.  Pine smoke,
+and the faint, stomach-rumbling tang of food.
+
+"More soldiers?" Piaerre asked.  His hair was one great tangled knot,
+and he started shivering whenever they stopped for more than a few
+moments, but he hadn't complained yet, not even when Erileine slipped
+backward on an awkward climb and stepped on his head.
+
+Razi shrugged.  "The easiest way to know is to look."
+
+Slowly, carefully, they made their way through the trees.  As quiet as
+they were, when they caught sight of the campfire, there was no one in
+sight.
+
+"*La*, not soldiers," Razi said, scuffing dirt onto the fire as he
+scanned the trees around them.  "Perhaps some Hett.  They may not even
+know the mountain has been invaded."
+
+"Can you tell which way they went?" Piaerre asked.
+
+"*La*, if we were in the desert, and I had sand to read, but not
+here."
+
+"There were three of them," Erileine said, tracing a path into the
+trees with a pointing finger.  "The first one had a limp.  The second
+one was left-handed, and was carrying most of their gear.  The third
+one was younger---no more than twelve.  Oh, and the one with the limp?
+He was blind in one eye, too."
+
+Piaerre goggled at him.  Razi's eyebrows rose into the middle of his
+forehead.  "Truly?"
+
+Erileine shrugged, suddenly embarrassed.  "No, I was just making that
+up.  Let's keep going."
+
+Just then, something rustled in the bushes behind Razi.  The bookster
+whipped out his sword as Piaerre grabbed Erileine's sleeve and pulled
+her the other way.
+
+"It's me, it's just me," a familiar voice said shakily.  Arms raised,
+a battered-looking Vaszlav stepped into the clearing.
+
+Razi poured his blade back into its bottle.  "*La*, and what is it
+that has happened to you? Is this Gaeston's doing?" The tinker's face
+was bruised, and his clothes dirty and torn.  A rough splint bound
+three fingers of his right hand together.
+
+"No." The tinker seemed close to tears, whether from shame or
+frustration or relief, Erileine couldn't tell.  "It was the Hett.  The
+ones in the helmets."  He laughed without humor at their expressions.
+"The newcomers. They're all Hett."
+
+His story tumbled out of him while Razi fashioned a fresh splint for
+his hand.  He'd been camping by the little stream that marked the
+half-way point between Forecastle and Starboard Town.  His family was
+supposed to join him there, but they hadn't.  He didn't know where
+they were.  He hoped they were all right.
+
+Then the soldiers came out of the old tunnels.  They were Hett, no
+doubt about that.  They all wore homestones, every single one of them.
+"They asked me why I didn't have one," he said bitterly.  "I told them
+I'd never seen the point.  That's when they started yelling at me."
+Yelling had quickly turned to blows.  How dare he call himself Hett?
+How dare he stand by while *real* Hett gave their lives to reclaim
+their rightful home? How dare he *collaborate* with the very people
+who had stolen it from them? The Great Work was beginning---whose side
+was he going to be on?
+
+"I said I didn't know anything about any great work," he finished.
+"So they gave me one last kick in the backside and sent me on my way."
+
+Razi tied a final knot in the splint on Vaszlav's hand.  "*La*, this
+great work of theirs---did they say what it is?"
+
+The tinker shrugged.  "Not to me."
+
+The bookster nodded.  "And your family," he asked.  "Do you know where
+they would have gone?"
+
+"Maybe," Vaszlav replied, suddenly guarded.  "Why?"
+
+Razi raised his palms in a desert shrug.  "*La*, I only ask.  We are
+returning to Starboard Town.  You would be welcome to join us."
+
+Vaszlav snorted.  "Why? So I can have my other eye blackened? No
+thanks."  Standing, he nodded to Erileine.  "Say hello to your
+papaere, will you? He was always a decent fellow." With no more
+goodbye than that, he turned and walked away.

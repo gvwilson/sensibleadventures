@@ -6105,3 +6105,295 @@ stir up trouble again, or the Sad Duke will open his mouth when he
 shouldn't, and this will all become something that has already
 happened.  In ten years, people will have to be reminded that it has
 been ten years."
+
+---
+
+"Where in the saints' names have you been?" Laeuc demanded when
+Erileine finally arrived home.  The whole family was at the table,
+with Mamaere Mayeule and Piaerre sharing a stool somewhat precariously
+at one end.  The young thief was wearing a plain brown overshirt and
+black pants two sizes too big for him.  His hair hung down in braids
+on either side of his face, which was clean for the first time since
+Erileine had met him.
+
+"I have a new job," she said tiredly, leaning against the wall.  She
+sniffed the air.  "Is there any dinner left?"
+
+"What kind of job?" Laeuc asked.
+
+Erileine shrugged resignedly.  "I'm Lieutenant Jaromir's translator."
+
+The stunned silence that followed was everything Erileine had expected
+it would be.  "His translator?"  her mother spluttered.  "I'll be a
+haunt before you'll be his anything!"
+
+"I don't think I have a choice, maere.  Thanks, papaere." Erileine
+took the plate of grilled squash he passed her and began forking it
+into her mouth.
+
+"Of course you have a choice!  Laeuc, she can't---what will people
+think?"
+
+Laeuc patted the air.  "Hold on, love, let her speak.  Erileine, what
+exactly do they want you to do?"
+
+"It doesn't matter what they want her to do!" Saedie exploded.  "No
+daughter of mine is going to have anything to do with those---those
+*animals*!"
+
+"What do they want you to do?" Papaere Vurt asked.
+
+Erileine swallowed.  "Translate.  Jaromir doesn't need me himself---he
+speaks Gandan-o as well as I do.  But most of the others don't, so I
+have to talk to people for them.  He said I'll be a Local Assistant
+Specialist, Second Grade, so I'll get twenty pence for each day I
+work, and Purplesday off, except in emergencies."
+
+"You're not going to take a single bent penny from them," Saedie said
+fiercely.
+
+"I don't think I have a choice," Erileine repeated.
+
+"What about the bosun?" Papaere Vurt asked.  "What did they do to
+him?"
+
+"They asked him a lot of questions," Erileine blew on the next piece
+of squash to cool it.  After wracking her brain for three hours to
+conjugate Praczny verbs, what she really wanted was mint tea with lots
+of sugar and something inconsequential to read.
+
+But everyone was looking at her, so she laid her fork on her plate and
+collected her thoughts.  "Jaromir wanted to know all kinds of things.
+How many bushels of squash did we grow each year?  Who used the old
+tunnels as cellars?  Who drank too much, who got into fights, had
+anyone ever been a *penteche*, all kinds of things."
+
+"A what?" Laeuc asked.
+
+"A *penteche*.  It's a soldier who fights for whoever will pay him."
+
+"A mercenary," Papaere Vurt translated.  "He wanted to know if anyone
+knew how to fight for real."
+
+The silence that followed was broken only by the purring of the cat in
+Mamaere Mayeule's lap.  Laeuc looked troubled, Queçenne looked
+miserable, Saedie looked angry, and Mayeule and Vurt looked at each
+other, both thinking how unfairly short life was.
+
+"What about the captain?" Piaerre asked.  "Did anyone say anything
+about him?"
+
+Erileine scooped the last slice of grilled squash off her plate.
+"Bosun Uyves asked that too.  Said he wasn't going to answer any more
+questions unless he got some answers.  I thought Jaromir was going to
+get angry, but then he said, why not?"
+
+*Bosun Uyves stood straight and tall, his hands tied behind his back.
+The tinker, who had clearly always been much more than just that, sat
+on the other side of the tavern table, toying absently with the
+homestone around his neck*
+
+*Two soldiers stood guard at Mayeule's door.  A third sat on a bench
+behind Jaromir, taking notes.  Something about her face made the back
+of Erileine's mind itch.*
+
+*"Your first question is probably why we're here," Jaromir said.*
+
+*The bosun made a sound deep in his throat.  "Eat cake.  What have you
+done with the captain?"*
+
+*The Hett shook his head.  "I don't know.  I wasn't at Hepje Het,
+although some of my men were.  They told me that the fighting didn't
+last long, so he may have survived.  If I get word, I promise I will
+tell you."*
+
+*"You can eat your promises, too."*
+
+*Jaromir tsk'd.  "Like it or not, Uyves, you and I are going to have
+to work together.  Your people are going to want to tend their beans,
+and my men have to be able to go about their business without worrying
+about someone putting an ax in them.  If you and I can't get along,
+things could go very, very hard here, and neither of us wants that."*
+
+*He tucked the stone around his neck back under his shirt.  "Now,
+about your irrigation system---we have some ideas that might reduce
+the amount of water you need..." The soldier who was taking notes
+pulled a hand-drawn map from the broad leather envelope at her side
+and passed it to the lieutenant.*
+
+"That's when I recognized her," Erileine said.  "She was here.  Not
+last year, the year before, when we were at Gandan Berth.  She was
+selling portraits, remember?  I think she did one of Niquolas and
+Matthieu." She nodded at her sister.  "You wanted one too, but maere
+said we couldn't afford it."
+
+"What---she wasn't Hett," Queçenne said.
+
+"Of course she wasn't," Piaerre said, with just a hint of the scornful
+tone Erileine was used to.  "Spies are never what they seem to be."
+
+"Razi," Laeuc said suddenly.  "Saints, do you think he was working for
+them?"
+
+"No." Erileine said quickly.  "No, I'm sure he wasn't."
+
+"How can you be so sure?" Vurt asked from behind him.
+
+Erileine and Piaerre looked at each other.  "Because Razi works for
+Lady Kembe," Erileine said resignedly.  "He killed some Hett in
+Forecastle when they attacked."
+
+She used the stunned silence that followed to wipe the last of the
+gravy off her plate with her finger.  "It started just after the
+mountain changed course..."
+
+It took Erileine less time than she'd expected to tell her family
+about the secrets she had been keeping.  Her mother's face grow
+stonier with each passing moment, while her father and sister looked
+at her as if she was a stranger.
+
+When she finished, though, her grandfather put his hand on Erileine's
+shoulder and shook her gently.  "Good job," he said.  "Now, let me see
+that hand of yours."
+
+Erileine held it out, palm up.  Papaere Vurt studied it.  "Doesn't
+look any different."
+
+Erileine shrugged.  "It still tingles a bit.  Right here." She made a
+ring around her wrist with her other hand.  "I have to wiggle the
+fingers every once in a while or it starts itching, too."
+
+"You could try some of the skin cream I bought in Mau Ngapcha,"
+Queçenne volunteered diffidently.  "If you wanted."
+
+Erileine smiled at her sister.  "Thanks.  Maybe in the morning." The
+cream smelled like flowers, even from half a dozen strides away, but
+the old woman who'd sold it to Queçenne had sworn that it would cure
+just about anything except a cold.
+
+"Yes, well..." Laeuc cleared his throat.  "We should think about bed,
+I suppose.  Tomorrow's probably going to be a busy day."
+
+"Um, about that." Erileine cleared her throat.  "Jaromir said that we
+have to tear down anything that's on top of the old tunnels.  He wants
+it done right away."
+
+It took a moment for her words to sink in.  "Tear down---that's
+ridiculous!" Her mother laughed angrily.  "Donaien and Armaend are
+right on top of one.  They use it for a cellar."
+
+"That's what the bosun said.  Jaromir said it didn't matter.  He said
+we'd have to move the smokehouse, too.  The bosun asked him how we'd
+get water if we couldn't use the tunnels, and he said they were going
+to take care of that for us."
+
+"But they can't *do* that!" Saedie spluttered.  "These are our homes!"
+
+"The bosun said that too." And that was when Lieutenant Jaromir got
+angry.  He didn't raise his voice or pound the table, or have his men
+hit the bosun again, but the Hett might have been looking at a weed
+that needed pulling rather than a living, breathing man.
+
+"No, Uyves," he said.  "This isn't your home.  It never was, not
+really.  It's ours.  It always was, and it always will be.  We've been
+away, but we're back now.  I suggest you get used to it."
+
+Vurt, Mayeule, and Piaerre spent the night.  They didn't have a
+choice---when they tried to leave, the Hett patrolling Slip Street
+turned them back.  "Curfew," they said.  It might have been the only
+word of Avauntois they knew.  "Curfew."
+
+Erileine gave up her bedroom, and was less surprised than her mother
+when Vurt and Mayeule announced that they would share it.  She was
+equally unsurprised at how quickly Piaerre hit it off with both of
+them: her grandfather told Piaerre one tall tale after another,
+laughing as Mayeule interrupted every few sentences to correct his
+exaggerations and outright fabrications.  If it hadn't been for the
+occasional whistle on the street, or her mother's raised voice coming
+from her parents' bedroom, it would have been wonderful.
+
+Finally, though, it was time to sleep.  She and Piaerre piled coats
+and spare blankets on the floor downstairs.  "It's like the walk from
+Forecastle all over again," Erileine grumbled, rolling her father's
+spare shirt into a pillow.
+
+"Oh, I'm used to sleeping out," Piaerre said airily.
+
+"What about your family?" Erileine asked.
+
+Piaerre studied the silhouette portrait that hung on the wall.  A
+young Bantangui woman with a shaved head and exaggerated false
+eyebrows had drawn it the winter Erileine turned eight.  Laeuc and
+Saedie's profiles filled the center.  Above them, half as large, were
+Laeuc's parents and Papaere Vurt; Saedie's mother had died a year too
+early to be in the picture.  Queçenne and Erileine were below their
+parents, facing away from each other.  "I don't want to talk about
+them," Piaerre said.
+
+"Why not?"
+
+Piaerre made a face.  "I said, I don't want to talk about it."
+
+"All right." Erileine gave up trying to find a soft spot on her
+makeshift pillow and closed her eyes.  "Sleep well."
+
+"Sleep well."
+
+A minute passed.  "Erileine?"
+
+"Mm?"
+
+"When you helped Razi...  Did it hurt?"
+
+Erileine squeezed her unfeeling hand.  "Yup."
+
+"Oh." A pause.  "A lot?"
+
+"Yup."
+
+"Oh." Another pause.  "I'd have done it for him too, if I'd been
+there."
+
+"I know." This time it was Erileine who paused.  "I think...  I don't
+think I really did it for him, though."
+
+She heard a rustle as Piaerre rolled onto her stomach.  "So who'd you
+do it for?"
+
+Erileine swallowed.  If she'd been able to see him, she would have
+mumbled, "Never mind," but there in the dark, home again after
+everything that had happened, everything that had been stewing in her
+finally bubbled over.  "I did it for--- I did it because when the
+mountain shook the first time, I was standing right next to someone,
+and maybe if I'd done something then, I could have stopped him from
+falling, and...  I thought maybe doing this would, you know, balance
+things somehow."
+
+"Huh.  That's stupid." Piaerre rolled onto his back again.
+
+"Oh really?" Erileine said, stung.
+
+"Mm hm.  Razi says that good and bad aren't like profit and loss.
+They don't add up or cancel out.  They just *are*, and whatever you've
+done, you've done."
+
+"Well, I guess I missed that lesson."
+
+"I guess you did." She heard him yawn.  "But it was still pretty brave
+of you."
+
+An itch woke Erileine a few hours later.  She shifted on her pile of
+blankets, listening to Piaerre's soft nasal snore as she tried to
+figure what wanted scratching.  The itch seemed to be all over at
+once.
+
+*Erileine...* It wasn't a sound.  It was a *knowledge*.  Lady Kembe
+wanted to talk to her...
+
+"Hello?" she whispered.  Piaerre grunted and rolled onto his side.
+
+She waited until she heard him snoring again.  "Hello?" she repeated.
+"My lady?"
+
+*Erileine...* The itch ebbed and vanished.  After a long moment, she
+lay down once more.

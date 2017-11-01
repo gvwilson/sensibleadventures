@@ -6404,3 +6404,300 @@ She waited until she heard him snoring again.  "Hello?" she repeated.
 
 *Erileine...* The itch ebbed and vanished.  After a long moment, she
 lay down once more.
+
+---
+
+A heavy knock on the door woke them just before dawn. Erileine scraped
+the sleep out of her eyes and answered it.
+
+Two Hett soldiers stood there with the bosun. "Rise and shine," Uyves
+said sourly. His hair, normally so carefully tended, looked like a
+goat had been at it. That, and his black eye, made him look like some
+half-mad cousin of the dapper bosun Erileine knew.
+
+"Erileine, who is it?" Her father hurried down the stairs as Piaerre
+slipped silently into the kitchen.
+
+"It's me, Laeuc. The *lieutenant* wants everybody out in the fields."
+The bosun's expression made it clear what he thought of the idea. "And
+he wants Erileine for translating."
+
+Erileine heard footsteps on the stairs her mother joined them. "Laeuc,
+what's happening?" Saedanne asked.
+
+"The soldiers want Erileine out with them. To translate."
+
+Her jaw set. "No. I won't have it. She's just a child, Uyves."
+
+Uyves' hands bunched into fists, and for a moment Erileine thought he
+was going to take a swing at the soldiers beside him.  Then his hands
+unclenched and he said, "It isn't your choice, Sae."
+
+"Then whose is it?" she demanded sharply.
+
+The bosun looked at her levelly. "It's mine. As far as I'm concerned,
+until the captain relieves me, I'm still in charge here, and I say
+Erileine goes with them."
+
+"But---" Saedanne and Laeuc spoke at the same time, stopped, and
+exchanged looks, Saedanne's angry and Laeuc's pleading.
+
+One of the soldiers nudged the other. "*Irre pentelele arpe hebmedji
+sheh kerremerpele*," he said, nodding past the trio in the doorway.
+Erileine twisted around to see Queçenne peeking out of the kitchen.
+The soldier caught her eye and grinned.  She blushed and pulled her
+head back out of sight.  The other soldier laughed.
+
+Erileine didn't understand all of what the soldier had said, but he
+understood enough. "*Ap medji eshweggen*," she said. "Sit firmly on your
+sword." The soldiers just laughed again.
+
+FIXME: bosun tells Erileine to spy on the soldiers.
+
+"Tell them they are to work in the fields as they would on any other
+day," the first one said slowly in Praczny. Erileine nodded and
+translated his words into Gandan-o.
+
+"What if we don't work in the fields?" Papaere Vurt asked. Instead of
+putting on his false leg, he had hobbled downstairs with his pant leg
+knotted below his knee, using an upside-down broom as a crutch. He
+looked older than Erileine had ever seen him---deliberately so, she
+realized. What was her grandfather up to?
+
+The soldier shrugged when Erileine translated Vurt's question. "Tell
+him to stay out of trouble. Now come."
+
+Bosun Uyves knocked on each door in turn.  Sometimes he had to bang
+his fist and bellow to get the fearful inhabitants to answer. Other
+times, the door flew open before his meaty hand even hit it. "They
+want us up in the fields," Erileine said over and over. "Just like any
+other day."
+
+"So we're to be slaves, are we?" Gaeston snarled when his turn came. He
+glared at the soldiers with bloodshot eyes. "Well, I'm not going to be a
+house gelding for them. You tell them that! You tell them this isn't Ini
+weeping Bantang, and they're not the Midnight weeping Admirals!"
+
+"Put a cork in, you idiot," the bosun growled. "This isn't the time or
+the place. And anyway, it's our own food we're growing. Or were you
+planning to eat moss next week?"
+
+Gaeston crossed his arms and leaned against the doorframe. "I'm not
+doing it."
+
+Erileine turned to the soldiers. "*Aweche panja nesh...* um, *nesh
+perwerketeppen ubbo*."
+
+The soldiers glanced at each other. The first one shrugged. The second
+one turned back to Gaeston and kicked him hard between the legs.
+
+As Gaeston doubled over, the first soldier put his hand on Uyves' arm to
+restrain him. "*Bashte,*" he said warningly.
+
+"Eat cake," the bosun spat. "You're a bunch of animals! Hells, you're
+worse than most of the animals I know!"
+
+"Worse than you?" the second soldier asked in strongly accented
+Gandan-o. "Worse than you do all the Hett here?"
+
+With a final glare, Uyves turned to Gaeston. "All right, stand up. A
+walk will shake 'em back into place."
+
+Slowly, painfully, Gaeston straightened up. The look he gave the
+soldiers was filled with venom. He took his coat from the hook by the
+door and shrugged it on, then made a show of closing the door behind
+him.  As he stepped around Erileine, he pretended to stumble slightly.
+Catching hold of her shoulder, he put his mouth next to her
+ear. "Leech," he hissed.
+
+By the time they reached the top of Slip Street the entire town was
+either in the fields or trying to look busy around their edges.
+Hundreds of townspeople, and only three dozen soldiers... For one
+heady moment, Erileine thought about shouting, "Charge!" So what if
+the soldiers had armor and swords? Unless one of them was secretly a
+magician, the townspeople would surely win. She imagined herself
+dodging the soldiers' thrusts, knocking one down, snatching up her
+dropped sword and crying, "Avaunt! Avaunt!"
+
+But how many of the people she had grown up with would die?  And
+anyway, there would just be more soldiers.  In fact, there *were* more
+soldiers. Whe she looked up to the highest terrace, the early morning
+sun gleamed on their helmets. These ones cradled crossbows in their
+arms as they watched the Avauntois pull up weeds and clean out
+irrigation ditches.
+
+Erileine caught the bosun looking at her. She realized her lips had
+been moving. She shook her head, embarrassed. As she turned away,
+Matthieu tugged on his shirt. "Are we allowed to use the stinky
+house?" he asked anxiously.
+
+Erileine smiled reassuringly. "I'm sure we are." He caught the eye of
+a nearby soldier. "*Ippe arenteme ephwe bae cakhuisa?*" The soldier
+shrugged and waved his hand. "Go ahead," Erileine told Mattheiu.
+
+Striding up the path, Lieutenant Jaromir turned his head as Matthieu
+lumbered by. The boy's steps quickened when he saw the lieutenant, as
+if he wanted to break into a run, but stopped himself.  Erileine felt
+a moment of pride.
+
+"Good morning," the lieutenant said to Erileine.
+
+"*Sra*." Watching the soldiers nearby salute, Erileine wondered if she
+was expected to do the same, and what her mother---never mind
+Gaeston---would say if she did.
+
+The lieutenant studied the people in the field. After a moment,
+Erileine realized he was counting them. "Pretty much everyone's here,"
+Erileine offered. "Except the little ones. Mamaere Mayeule has them
+for lessons."
+
+"Yes, I stopped in there on my way up," Jaromir said absently. "And
+your papaere, of course. I passed him on Slip Street. Is something
+wrong with his leg? I've never seen him with a crutch before."
+
+Erileine flushed. "Um, sometimes he doesn't wear it. *Sra*. Says it gives
+him sores if he doesn't give it a rest."
+
+"Mm." Jaromir acknowledged the lie with a nod. "I imagine you were sorry
+to see the bookster leave. I certainly was---he's an interesting man. How
+long had you been his apprentice?"
+
+Erileine shrugged. "Since Mau Ngapcha. He came here to catalog the
+books in the Captain's House, and..."  She shrugged again.
+
+"Mm. How far did he get?"
+
+*I shouldn't shrug so much,* Erileine thought, shrugging.  "Less than
+half, *sra*."
+
+"Mm. Well, I'd like you to keep sorting through them. It would be a
+shame to stop in the middle, and it will help you with your studies."
+
+"*Sra*?"
+
+"Your studies," Jaromir repeated.  "You do still want to be a
+bookster, don't you?" He nodded toward the nearest knot of
+townspeople. "It's probably the best thing you could do to help your
+people."
+
+Erileine hesitated. "*Sra*... If it's all right, I should help my
+family right now. I can start studying again later."
+
+"Mm." The lieutenant nodded. "You don't want to stand out, do you?
+Soldier's pet, and all that." The corner of his mouth twitched.
+"Believe me, I know what that feels like. Try being Hett for a few
+years. You'll learn a lot more about being singled out than you ever
+wanted to."
+
+"Yes, *sra*." Erileine hesitated. "*Sra*?"
+
+"Mm?"
+
+"What is the Great Work?"
+
+Jaromir clapped her on the shoulder. "All in good time."  He nodded to
+Erileine and strode away, ignoring, oblivious to, or perhaps even
+enjoying the sidelong hatred the Avauntois threw his way.
+
+Erileine certainly felt them, though. As she hurried up the path to
+the terrace where her family was working, they felt as hot as the
+desert sun. "Don't blame me," she wanted to shout.  "I didn't want to
+do this," but she knew that would only make things worse.
+
+When she reached the terrace, she grabbed a rake and attacked the
+nearest furrow furiously. "What was that all about?" Laeuc asked.
+
+"He wants me to keep working in the Captain's House," Erileine said. "He
+said it would be the best way to help."
+
+"Help? Help what?"
+
+"Help u," Erileine replied bitterly. "I mean, us. The Avauntois." The
+word sounded strange in her ears.
+
+"Wonderful," her mother said under her breath. "Marq asked me what in
+hell's burning forests you were doing. Gaeston wasn't even that
+polite. I told them you didn't have a choice, they picked you out
+because you knew their language, but I don't think they care." She
+grabbed the base of a thistle and yanked it from the dry soil.
+
+"Did either of them say what they thought I should do instead?"
+Erileine asked bitterly.
+
+"Easy, easy," Laeuc whispered at them urgently. "Let's not fight, all
+right?"
+
+His wife pulled another thistle from the ground. "Just like
+always---let's not fight, let's not disagree, let's try to see *their*
+side. Maybe it's time you started seeing *our* side for once."
+
+Erileine held her breath as her father stood up and brushed his hands
+clean. "Yes, well," he said uncertainly. "So what can you tell us
+about the boy you brought with you? She and Mayeule seem to be getting
+along fine, but..."
+
+"He tried to steal the bosun's wallet when we went to Forecastle.
+They put him in the dungeon, but I think he escaped.  It's all right,"
+she added hastily. "We can trust him. The bookster did."
+
+Saedanne tore another thistle from the ground. "Erileine, until we
+know what's going on, the only people we can trust are ourselves. Do
+you understand? Not this boy you brought with you that no one here has
+ever met before, not the bookster, no one who wasn't born here."
+
+"What about papaere?" Erileine asked bitterly. "He's wasn't born here.
+And come to that, you're only half Avauntois."
+
+"Erileine!" her father said sharply. "You will *not* speak to your
+mother that way."
+
+Erileine looked at the ground sullenly. "Where is Piaerre anyway?"
+
+"Armaend and Donaien took her," Laeuc said curtly.
+
+Erileine looked over at the next field, where Armaend, Donaien, and
+Piaerre were working.  "I have to talk to him," she said.  She walked
+away without looking back, thinking that she'd rather be fighting the
+Hett soldiers than fighting her parents.
+
+Donaien was sitting on an overturned bucket pointing out weeds to
+Piaerre, while Armaend pointed out the ones he missed and Piaerre
+gossipped non-stop about people in Forecastle: who took quick nips
+from a bottle hidden under the counter when there were no customers in
+his shop, whose daughters looked nothing at all like her husband, who
+had shortchanged himself in a complex business deal in Mau Ngapcha...
+
+*They're enjoying his company more than they ever enjoyed mine*,
+Erileine thought sourly. He was certainly better at talking than he
+was at gardening---he had smudges on his face from brushing his hair
+out of her eyes with her dirty hands.  And then she wondered if those
+were accidental, or whether it was something Razi had taught him to
+hide his appearance.
+
+"Clear day," Erileine said, smiling insincerely.  "Can I borrow him
+for a few moments?"
+
+Donaien sat back. "As long as you keep weeding," he said. "Unless they
+said you don't have to?"
+
+"We'll keep weeding," Erileine promised.
+
+"They're fun," Piaerre said, sitting back on his haunches and watching
+the two men as they ambled over to the other side of the field, lost
+in one of their endless domestic not-quite-arguments.
+
+Erileine shrugged. "I suppose." She sat down on Donaien's bucket.
+"Listen, we have to get Razi's things."  Quickly, she told him about
+hearing Lady Kembe's voice in the night.
+
+He nodded. "All right. Do you remember where they are?"
+
+Erileine blinked. "Don't you?"
+
+"There's a lot of trees out there," he said defensively. "If we'd put
+them in someone's basement, or on a roof, I'd remember for sure."
+
+Erileine rolled her eyes. "Fine.  I can get them this afternoon, but
+how are we going to sneak them into town?"
+
+"Leave that to me," Piaerre said confidently.

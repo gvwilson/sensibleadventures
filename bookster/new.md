@@ -5909,7 +5909,7 @@ Razi wasn't there.  Neither were Mayeule or Piaerre.  "Hello?" she
 called.  Her voice echoed slightly in the main room.  She shivered.
 She felt like a ghost, alone after death in a world empty of everyone
 except her.  She opened the door, stepped out, and ran straight into a
-soldier's armoed chest.
+soldier's armored chest.
 
 "Ooph!" Erileine stumbled back a step.  The soldier eyed her coldly.
 "Go home," she said in badly-accented Avauntois.
@@ -6521,7 +6521,7 @@ dropped sword and crying, "Avaunt! Avaunt!"
 
 But how many of the people she had grown up with would die?  And
 anyway, there would just be more soldiers.  In fact, there *were* more
-soldiers. Whe she looked up to the highest terrace, the early morning
+soldiers. When she looked up to the highest terrace, the early morning
 sun gleamed on their helmets. These ones cradled crossbows in their
 arms as they watched the Avauntois pull up weeds and clean out
 irrigation ditches.

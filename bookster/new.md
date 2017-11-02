@@ -6701,3 +6701,287 @@ Erileine rolled her eyes. "Fine.  I can get them this afternoon, but
 how are we going to sneak them into town?"
 
 "Leave that to me," Piaerre said confidently.
+
+---
+
+Erileine offered to share her lunch with Piaerre at midday, but he
+declined.  "Mamaere Mayeule's expecting me," he said, tossing a last
+handful of weeds into the bucket.  "But don't worry---I'll be back in
+time."
+
+Erileine reheased her story on her way to the Captain's House.  *I
+need peace and quiet to study.  And someone needs to check on the
+goats.* When she knocked on the library door, the soldier who had been
+taking notes the night before answered.  "*Eue?*" Erileine started to
+explain what she wanted.  Halfway through her third sentence, the
+soldier said, "*Eshe*," and let her in.
+
+She and another soldier Erileine hadn't seen before had taken over the
+long table in the center of the library.  The books that she and Razi
+had left there lay in neat piles on the floor.  In their place was a
+printed map of Avaunt, crisscrossed with dashed lines that could only
+be tunnels.  As the Hett bent over it, homestones dangled around their
+necks.
+
+Erileine pulled a book from the nearest pile, thanked the soldier, and
+fled.  Back on Slip Street, she willed himself to walk more slowly.
+"Just act normal," she said under his breath, repeating Piaerre's
+parting words.
+
+The soldiers at the edge of town turned him back.  She protested, but
+her Praczny wasn't enough to convince them that a skinny girl with a
+book under her arm had permission to go anywhere.
+
+Back at the beanfields, Lieutenant Jaromir seemed pleased.  "They'd
+have been cleaning underpits for a month if they'd let you by," he
+said approvingly.  He took a flat metal token from his pocket and
+handed it to her.  "Here.  Show them this.  But mind the
+curfew---you're to be indoors by sundown like everyone else."
+
+"Yes, *sra*." Erileine tucked the pass into her copy of *The Customs,
+Laws, and Language of Northern Praczedt: A Guide For Those So
+Fortunate As To Have Been Born Elsewhere*, by A Gentleman.  It was
+just stamped brass, but it felt dirty in her hand.
+
+The soldiers barely glanced at the pass before waving her on.  As she
+walked through the woods, Erileine kept glancing into the trees to see
+if any more soldiers were lurking among them.  She couldn't, but that
+just made her more nervous.
+
+The goals were as uninterested in her as usual.  She found a flat rock
+to sit on, and opened her book.  "*Errebe*...  I was.  Past tense."
+She flexed her hand as she read, wiggling her fingers to ease the
+itching around her wrist until she suddenly remembered that Queçenne
+had pressed some of her precious Bantangui skin cream on her that
+morning.  She fished the brown pottery vial out of her pocket, pulled
+the cork---
+
+---and froze.  "In Marandine, the chief village of the cloudherds, I
+met three men who claimed to be nobility from Anyalcze," she
+whispered.  "They were fleeing prosecution for a crime which they
+swore they had not committed, though in all my travels in that sorry
+country, I have never yet met one who did not deserve prosecution for
+something.  Seeking to avoid...whatever, they came roundabout the
+mountains through a town they called Tin Head."
+
+A chill prickled the small hairs on Erileine's arms.  She put the skin
+cream down and turned the book over to look at its cover.  It couldn't
+be a coincidence.  Was Lady Kembe trying to send her a message? Or was
+picking up this book just some leftover bit of magic intended for the
+bookster?
+
+She opened the book again.  "They came roundabout the mountains
+through a town they called Tin Head.  It is in Anyalcze's lands, but
+not of it, as its people do not recognize the length of its dukes.
+No, wait, that must be 'rule'."  *Its people have some small farming,
+but are miners by love and trade.  The least ill-kept among the
+Praczny said that they worshipped the earth as the Ruudians do the
+sun.  Another disagreed, saying that they worshipped not the earth,
+but some speaking stone they had found in it that was their king and
+oracle.  The third (who was the only one among them able to hold a
+fork properly) agreed with the second, and spoke further of some Great
+Work upon which these people believed themselves embarked.  He knew
+not what it was, but claimed they had invited him to join them in it.
+At which point, his companions grew sullen, wondering aloud why he had
+not spoken of this beforetimes.  For all their pretty accents, I am
+confident that by the time these words are before you, Learned Reader,
+they will separately or jointly have been unheaded as they undoubtedly
+deserve.*
+
+Erileine stared into the distance.  What *was* the "Great Work"? It
+couldn't mean invading the mountain---Lieutenant Jaromir had spoken as
+if it still lay ahead.  As hard as it was to stomach, it seemed that
+conquering Avaunt was just a stepping stone to something else.  But
+what?
+
+She scrambled to her feet, suddenly impatient to be moving.  It only
+took her a few minutes to reach the spot where she, Razi, and Piaerre
+had come out of the forest onto Forecastle Road.  An irving trilled
+nearby.  A bush rustled slightly in answer.  She tensed, then relaxed
+at the white-and-brown flash of a rabbit darting away.
+
+Kneeling, she looked around as she pretended to re-tie her boot lace.
+There was no sign of any Hett soldiers.  There was no more reason to
+delay.  She took a deep breath and chinned herself up onto the first
+branch.  It took her two tries and one near-fall to hook a leg over
+it.  Sap stickied her hands, and pine needles crawled inside her shirt
+as she winced at the noise she was making.
+
+There.  She slung Razi's leather case over her shoulder, then undid
+her fleece vest, and slipped the sword bottle inside.  It was heavier
+than she had expected, and warm, like water left standing in the sun.
+She lowered herself to the ground and brushed as much of the sap off
+her hands as she could.
+
+Ten minutes later she was crouching behind a shrub at the edge of the
+woods on the edge of the lower beanfields, cursing Piaerre in
+Gandan-o, Karabandi, and Praczny.  Where was he? The sun was about to
+kiss the peak of the mountain---any longer, and she'd have to hide
+Razi's things again to get home before curfew.
+
+He came around the corner a moment later pushing a wheelbarrow full
+twigs and thistles.  Erileine sighed with relief.  The only soldier
+she could see was two terraces away, and seemed more interested in
+getting the inside of his nose clean than in a boy doing chores.
+
+Piaerre reached the edge of the field.  "Gosh, how silly of me," he
+said loudly.  "I wasn't supposed to bring this here.  I was supposed
+to take it to the burning pit.  Oh, but it's so heavy.  It would be
+wonderful if someone could help me."
+
+"Sst," Erileine hissed from the woods.  "Piaerre.  Stop it! This isn't
+a game!"
+
+He put his hand to his ear theatrically.  "What's that? It sounded
+like a snake."
+
+"Bring it over here," Erileine whispered loudly.  "Closer to the
+trees."
+
+Piaerre trundled the wheelbarrow closer.  Erileine crept forward and
+tucked the case and bottle under the thistles.  "Are they covered?"
+she whispered.  Piaerre nodded.  "All right.  Is anyone watching?"
+
+Piaerre glanced casually over his shoulder.  "Uh uh."
+
+"Good." Erileine handed him her book.  "Here, take this.  I'll push."
+
+Piaerre looked her up and down.  "You look like you've been sleeping
+in a bush again," he said critically.  "Someone's going to want to
+know why."
+
+Erileine glanced down at herself.  He was right---she was plastered
+with pine needles, bits of twig, and a clump of something that she
+hoped was dirt.  "Great."
+
+Piaerre thrust the book back into her hands.  "Hang on."  He lay down
+on the ground and rolled over a few times.
+
+Erileine gaped at him.  "What are you doing?"
+
+He stood up and studied the twigs and bits of grass that were now
+clinging to his jacket.  "That should do," he said, satisfied.  "Come
+on."
+
+Together, they trundled the wheelbarrow back across the field.  "Looks
+like you two have been busy," one of the soldiers said loudly in
+Praczny as they went past, elbowing his partner in the ribs.  Erileine
+blushed furiously as the other man guffawed.
+
+Queçenne's jaw dropped as she caught sight of her little sister and
+the boy she had brought back from Forecastle, looking as though they
+had been wrestling---or something---on the forest floor.  All Erileine
+could think was that she hoped her mother wouldn't see her before she
+had a chance to clean up.  She would almost rather be tortured by the
+Hett...
+
+Halfway down Slip Street, Erileine turned the wheelbarrow into the
+narrow lane beside Mamaere Mayeule's.  The shutters on the kitchen
+window had been left open.  As they went past, Piaerre slipped the
+case and bottle out from under the trash and pushed them through the
+window.  There was a faint thud as they fell onto the waiting pile of
+blankets.
+
+Back on the street, Erileine felt as though she had an archery target
+pinned between her shoulderblades.  She emptied the wheelbarrow into
+the stone-lined burning pit behind the outhouses, just as she had a
+hundred times before.  She hated the pit's acrid, ashy smell.  Every
+time the mountain berthed at Mau Ngapcha, the townspeople shoveled it
+out and spread its contents on their fields.  It was a dirty, choking
+job.
+
+She sighed loudly.  "What's wrong?" Piaerre asked.
+
+"Nothing."  Erileine shook her head.  "Just missing something I never
+thought I'd miss.  Let's go."
+
+The sun had just touched the mountains as Piaerre wheeled the
+wheelbarrow back to the fields.  Erileine trudged over to her father,
+who was kneeling next to another man.  "Just about done?" Erileine
+asked.
+
+"Just about," Laeuc said.  "But there's someone here who wants to talk
+to you."
+
+The other man carefully patted a handful of earth around the base of
+the squash he had just replanted.  "Hello, Erileine," he said.  "How's
+your hand?"  He stood, brushing the dirt from his hands.  He looked
+completely ordinary, with a round, dark face, dark hair, and a solemn
+expression.
+
+Suddenly, just for an instant, Erileine's eyes refocused.  Orange
+hair, blue eyes, a mocking grin---it was Thomas.
+
+Erileine gasped.  The illusion rippled back into place.  "Best not to
+gawp," he said calmly.  "Don't want any soldiers paying too much
+attention to your long-lost uncle, do we? Now, if you'd be so kind, I
+could use a hand with this." The magician knelt once again and began
+uprooting another squash.
+
+Erileine went down on her knees beside him.  "What are you doing
+here?" she hissed.  "I thought you ran away."
+
+"Flew away, actually," the magician corrected.  "I find it much more
+efficient.  Pass me that trowel, would you?"
+
+Erileine clenched her teeth.  "You tell me what you're doing here, or
+I'm going straight to Lieutenant Jaromir."
+
+"Don't raise your voice to me, whelp." Thomas's voice was as sweet as
+cream.  "And keep in mind, any conversation I have with the good
+lieutenant will almost certainly come around to the subject of your
+left hand.  Oh yes, I know about that---candlemark is easy to see if
+you have the right eyes.  I'll bet the lieutenant would know what it
+was.  As a matter of fact..." Thomas sat back on his haunches, looking
+thoughtful.  "As a matter of fact, I'd be surprised if his masters
+didn't already know about it."
+
+"Really? Then why haven't they already arrested me?"
+
+Thomas shrugged.  "I suppose they've decided that there's no point
+ruffling the good lady's feathers."
+
+Before Erileine could answer, a soldier called, "*Yevve!*" from the
+terrace above them---time's up.  She stood up, brushing the dirt from
+her hands---
+
+---and stumbled as the mountain lurched beneath her.  Someone
+shrieked.  Birds exploded into the air from the trees fifty strides
+away, and a tray of clay winter planting pots toppled over with a
+crash.
+
+Laeuc grabbed his daughter's arm.  "What the hells is happening?"
+
+"We've taking off, obviously," Thomas snapped, surging to his feet.
+"How very inconvenient.  Girl!  Where's your master?"
+
+"The soldiers took him to Forecastle!" Erileine said.
+
+A nasty smile danced a brief jig across Thomas's lips.  "Really?  Did
+they put him in chains? Oh please, tell me they put him in chains."
+
+"No!" Above them, more soldiers were shouting *yevve, yevve!* as they
+walked in a broad line across the field shooing the Avauntois toward
+Slip Street.
+
+Thomas scowled.  "Did he leave her portrait with you?"
+
+"What?"
+
+"Did he leave his picture of Lady Kembe with you?" the magician
+repeated impatiently.  "I need it to talk to her."
+
+"Why would *she* want to talk to *you*?"
+
+Thomas sighed.  "Because I'm here and he isn't.  We *are* all trying
+to save the world, you know."
+
+Erileine hesitated.  "It's at Mamaere Mayeule's," she admitted,
+mentally adding, *But you're not getting his sword.* "I was going to
+use it tonight."
+
+Another shudder ran through the ground.  A breeze had sprung up, not
+strong, but enough to put frightened looks on everyone's faces.  They
+were going straight up.
+
+"I think we may want to try a little earlier," Thomas said.

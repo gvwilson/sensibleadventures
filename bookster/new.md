@@ -6985,3 +6985,268 @@ strong, but enough to put frightened looks on everyone's faces.  They
 were going straight up.
 
 "I think we may want to try a little earlier," Thomas said.
+
+---
+
+Mamaere Mayeule set out the best she had for dinner---spiced pork
+sausages, rice with fresh cauliflower, and a jar of mango chutney that
+she had been saving to give Vurt as a naming day present---but the
+mood around her big table was somber.  Uyves sat glowering beside
+Laeuc, having declared that he'd walk home when they finished eating,
+curfew or no curfew, and take his bruises as they came.  Piaerre was
+upstairs, having refused (much to the magician's amusement) to sit at
+the same table as Thomas.
+
+A cup of strong tea cooled untouched near Thomas's elbow as he told
+them all what he had seen.  Hidden among the clouds aboard the
+*Presumption*, he had watched squads of Hett soldiers fan out from
+boarded-up wells and forgotten basements to cut Forecastle's
+neighborhoods off from one another.  As they took control of the
+streets, a quartet of magicians threw banefire every time the militia
+tried to repulse them.
+
+"It was really quite impressive," he said, as if commenting on a
+children's ball game.  "Especially considering the spell's price."
+
+"Which is what?" the bosun demanded.
+
+Thomas tapped a finger against his temple.  "Your eyes.  Both of
+them."  Erileine thought of the Hett she had seen in the sedan chair
+in Forecastle, but said nothing.
+
+Portside fell next.  There had been real fighting there, but again,
+the outcome was never in doubt.  "What do you mean, real fighting?"
+Saedanne asked.
+
+Thomas cleared his throat.  "Yes.  Well, your side managed to put some
+arrows into the first few Hett they saw, so the rest went back into
+the tunnels and waited for reinforcements.  By the time they arrived,
+the bosun and a few of his friends had made a little fort for
+themselves in a barn."
+
+"So the Hett fired it," Vurt said flatly.  Thomas nodded.
+
+"Oh dear saints," Saedanne breathed.
+
+Then it had been Starboard Town's turn.  Perhaps they had learned from
+Portside, or perhaps their plan had been different all along, but when
+they came, they came in greater numbers.  Thomas hadn't bothered to
+watch them seize Aft Landing.  Instead, he had flown in under the
+cover of the morning fog and set down near Vurt's cottage.
+
+"So why'd you come back?" the bosun asked, sitting back and crossing
+his arms.
+
+In answer, Thomas took a sea shell out of his pocket and passed it to
+Erileine.  Faint seams of pink and gold shone in its ivory white
+whorl.  "Here---listen."
+
+Erileine turned it over.  It was heavier than it looked, and smelled
+faintly sandy.  "Go ahead," Thomas urged her.  "It won't bite."
+
+Erileine held it up to her ear.  At first, all she heard was a rushing
+sound, like air being blown over the mouth of a bottle.  Then,
+faintly, he heard dozens of voices whispering in Gandan-o, Praczny,
+and a dozen other languages.
+
+"What is it?" Laeuc asked as her eyes widened.
+
+"Voices," Erileine said, handing it back to the magician.  "Hundreds
+of voices."
+
+Thomas set the shell on the table.  "Despite what playwrights would
+have us believe, most people don't actually indulge in soliloquies.
+And when they do, well, half of them are practicing what they should
+have said the night before, while the rest are making sure that if
+they're ever made Emir of Coriandel, they'll have an acceptance speech
+ready.  No, thank you." He waved away the teapot Mamaere Mayeule
+lifted.  "But they do talk about useful things once in a while.  You
+just have to be patient.  Like the Hett---as near as I can tell,
+they've been working for over a hundred years to get Avaunt back."
+
+"Back?"  The bosun thumped his fist on the table.  "The mountain is
+*ours*! My great-grandfather's naming day tree is up the top of this
+hill, and his mother's is right next to it!"
+
+"Mm," Thomas nodded.  "But if you walk up the road a little further,
+you might still find some the Hett planted when they lived here."
+
+"That was five hundred years ago! It's our home now!" He pushed
+himself back in his chair and glared at Laeuc, who had been shooting
+worried glances at the front door.
+
+"And if they throw you off tomorrow, will it still be your mountain in
+a hundred years?" Thomas asked.  "Or two hundred?"
+
+"Damned right it will!"
+
+"Enough," Vurt said sharply.  "I want to know how they got the
+mountain to change course.  And what they're going to do now."
+
+"Ah, well," Thomas said, "That's where I have to start speculating.
+It all comes down to something they call the *Uremme Bech*: the Guide
+Stone."
+
+Erileine's breath caught.  What had the book said?  They worshipped
+not the earth, but some speaking stone they found in it that was their
+king and oracle.  "It's 'Pilot Stone'," she corrected.  "Guide is just
+*urem*, not *uremme*." She flushed slightly at Thomas's look.
+
+"Pilot Stone, then.  They found in a mine.  It may even be why they
+started mining in the first place---it spoke to them in their dreams.
+'The world is broken, free me and we will mend it...'"  He waved his
+words away.  "After four hundred years of being pushed around, I
+imagine it was quite seductive."
+
+Whatever angry retort the bosun might have made was cut short by a
+sudden wail from the floor above.  "That's Piaerre!" Erileine
+exclaimed.  As she struggled to untangle her legs from the chair's,
+Mamaere Mayeule hurried up the stairs.  A door opened; there was
+another wail, then sobbing.
+
+Mayeule led the weeping boy down to the common room a moment later
+"He's dead!" Piaerre wailed.  "He's dead!"
+
+"Who's dead?" Mamaere Mayeule asked.  "The bookster?"
+
+"N-no," Piaerre hiccupped wretchedly.  "Th-the captain.  They killed
+him."
+
+"Oh dear saints," Mayeule whispered, folding the boy into her arms.
+
+"Hoy," Laeuc said gently, as if coaxing a kitten out from under a bed.
+"How do you know?"
+
+"Because I *felt* it!" Piaerre pushed Mamaere Mayeule away and wiped
+his nose on his sleeve.
+
+"Sure you did," the bosun muttered disbelievingly, rolling his eyes.
+
+But even as he spoke, Thomas pushed him aside.  "What did you feel?"
+he demanded, ignoring the bosun's glare.  "Tell me, exactly what did
+you feel?"
+
+Piaerre sniffled back his tears.  "It was c-c-cold.  All of a sudden.
+And then it was like---like---"
+
+"Like you were a bell being run?" Thomas demanded.  Piaerre gulped and
+nodded.
+
+The magician straightened up and ran his fingers through his hair.
+"Well, that's that, then, isn't it?" He stabbed a finger at Erileine.
+"I need that portrait---now! And you!" He redirected the finger to
+Uyves.  "Please, tell me you have some weapons hidden away somewhere."
+
+"You don't believe this little snip, do you?" the bosun scoffed.
+
+The corner of Thomas's mouth twitched.  "I'd show a little more
+respect if I were you.  This little snip is your new captain."
+
+FIXME: reactions
+
+Thomas pointed at Erileine.  "The portrait---now."
+
+Erileine took the stairs three at a time.  Evening had fallen; through
+The tube containing Lady Kembe's picture lay on top of a roof beam,
+right where she had told Piaerre to put it.  Standing on the bed, she
+jumped up and tapped it with one hand, catching it as it fell, then
+looked at the window.  The bottle containing Razi's sword stood on the
+sill.  Should she?
+
+"Erileine?"
+
+"Just a beat!" She grabbed the bottle and its belt and hurried back
+downstairs.
+
+"The Hett are all out on the street," she whispered loudly.
+
+"As long as they're not in here," Thomas said, sliding Lady Kembe's
+portrait from its container.  "Now, bosun, if you wouldn't mind
+watching the door?"
+
+Without waiting, the magician rolled the picture flat on the table and
+stood a candle beside it.  He didn't bother with a knife: he just
+pinched the back of his left hand with the thumb and first finger of
+his right and jerked.  Blood welled up where his nails cut the skin.
+
+One drop, two, three...  "Good evening, *sra*," Thomas said, bowing
+politely toward the picture.
+
+"Where is she?" Laeuc whispered.
+
+"Sh!" Erileine patted the air with her hand.  "I'll explain later."
+
+The conversation was brief.  Thomas summarized what he had told the
+Avauntois earlier, adding the news that the captain's son had felt him
+pass.  Yes, he was safe, at least for now.  Yes, Thomas could get him
+off the mountain---assuming, of course, that he could get off himself.
+It was tied up nearby.  No.  No.  Yes, quite a few---they were
+patrolling the street ("There is only one") in pairs.  No.  No.
+
+Then Thomas fell silent, his frown deepening.  "Yes, *sra*," he
+finally said.  "But they'll have to do the rest.  I can't..."  He
+spread his hands apologetically, his sentence trailing off as the
+candle flickered and died.
+
+"Well?" Vurt asked.
+
+Thomas rubbed his eyes.  "Whatever else the Hett believe in, they
+don't appear to believe in wasting time.  Whatever their 'great work'
+is, it's happening tonight, right at the top of the mountain, and she
+wants us to stop it."
+
+"*She* wants *us* to stop it?" Laeuc said incredulously.  "Why not
+you?"
+
+Thomas spread his hands.  "Because, as the bosun keeps saying, it's
+your mountain."
+
+Uyves snorted.  "All right, what are we supposed to do?"
+
+"Lady Kembe says they'll be bringing it to the peak at midnight,"
+Thomas said crisply, his usual insouciance evaporating.  "Our only
+chance is to take the Pilot Stone away from them.  The tunnels run
+most of the way, but the last gallop is out in the open.  I can take
+six of you, no more---if you're lucky, and they're careless, you might
+actually have a ghost's chance of grabbing it."
+
+"And then what?  Smash it?"
+
+"Absolutely not," Thomas said sharply.  "You bring it to me."
+
+"Why not?" Uyves asked.  "One whack with a big enough hammer, and
+that's the end of that."
+
+"Possibly, but that stone is what keeps Avaunt flying.  If you smash
+it, you'll all be part of the landscape a few heartbeats later."
+
+Sudden suspicion turned Erileine's gut cold.  "You want it for
+yourself, don't you?  You want to control the mountain like they've
+been doing!"
+
+Thomas sighed.  "Saints save me from the half-clever.  Yes,
+conceivably, I might---*might*---be able to use it that way.  But why
+would I want to?  Being your captain interests me rather less than
+being a stable boy."
+
+"Then why?" Vurt asked.
+
+"Because I want to know how it works," he said.  He pointed at the
+dayglass lantern in the middle of the table.  "They made that by the
+ton, and all we can do is dig it up and polish it.  We're so *little*
+compared to them.  Now, who's coming?"
+
+It only took a minute to pick names.  Uyves, of course, but not Vurt,
+not through the tunnels one leg.  Laeuc would come, and Gaeston was
+the best archer in Starboard Town, so that meant Marq as his spearman,
+and Armaend and Donaien made six.
+
+The next question was how to get to the *Presumption*.
+
+"You'll want me with you for that," Vurt said.  "I left a few things
+on the stairs in case anyone came snooping."
+
+Uyves nodded.  "Laeuc and I will get Gaeston and Marq.  Erileine, can
+you get up to Donaien and Armaend's without being caught?" Erileine
+nodded.  The bosun looked around the table.  "Well then?  Let's be on
+with it."

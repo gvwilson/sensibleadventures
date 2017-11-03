@@ -7395,3 +7395,183 @@ promise---I'll remember."
 
 Laeuc shifted beside her and put an arm around his daughter's
 shoulders.  Erileine leaned against her father and wept.
+
+As they flew through the night, Erileine remembered a painting she had
+once seen of a pearl diver floating beside a coral reef off the coast
+of Barra Bantang.  Avaunt loomed over the *Presumption* like that
+reef, gray and black in the moonlight.  The braided pines on its
+flanks were solemnly indifferent to their passage; a lonely
+sickle-wing bat flitted across their path with a sound like crumpling
+paper.
+
+Gaeston was the first to speak.  "He'll be missed."
+
+Laeuc nodded heavily.  "He was a good man."
+
+Gaeston shifted on the plank seat.  "What do you think they'll do to
+Vurt?"
+
+Laeuc's arm tightened around his daughter's shoulders.  "I don't
+know."
+
+"Look on the bright side," Thomas said.  He was sitting at the stern,
+one hand on the rudder.  "Fewer of you does mean less chance of being
+spotted."
+
+Gaeston's grip tightened on his spear.  "It doesn't bother you at all,
+does it?" he said levelly.  "Them being dead."
+
+"Don't say that!" Erileine snapped.  "And don't tell me to shush," she
+added to her father, instantly hating herself for sounding petulant.
+
+Thomas jerked his chin at Erileine.  "Look in the cabin, would you?
+There's a jar a little larger than your two fists."
+
+Erileine stood, grabbing the bracket atop the boat's small cabin to
+steady herself.  The door folded inward in the middle like a book.
+She stuck her head inside, blinking in the soft glow of a dayglass
+lantern whose cover had been lifted by a string attached to the door.
+
+The cabin's walls were lined with shelves from floor to ceiling.
+Boxes, jars, bottles, and books stood side by side, held in place by
+fine silk nets.  As she reached for the nearest shelf to steady
+himself, a small ceramic turtle tried to hide behind a larger
+inanimate one.  "Sh," Erileine said softly.  "I won't hurt you."
+
+When Erileine picked up the jar, it vibrated faintly in her hand.  She
+returned to the deck and handed it to Thomas.
+
+"Thank you." Keeping one hand on the rudder, he clamped the jar
+between his knees and twisted the lid.  A pair of glowing dots shot
+out.
+
+"What in the hells are those?" Gaeston demanded.
+
+"They're from the East Pole," Thomas said as the buzzing points of
+light flew away into the night.  "Aren't they marvelous?  They're
+drawn to power like bees to nectar.  If anyone's working magic up here
+tonight, these little darlings will find them."
+
+With a twitch of his hand, the *Presumption* heeled sharply.  The
+Avauntois cursed and grabbed for handholds.  "It would probably best
+if you all held onto something for the next little while," Thomas said
+without taking his eyes off the receding specks of light.  "I don't
+want to lose them."
+
+Thomas had Erileine release another of the magic fireflies a few
+minutes later, and another a few minutes after that.  Each flew
+straight for the mountain's peak.
+
+*Whoomp!* Somewhere high above them, orange light flared and died.
+"Oh saints," Erileine whispered.  She grabbed her father's sleeve.
+"It's banefire! Paere, it's banefire!"
+
+"It most certainly is," Thomas said through gritted teeth.  The
+*Presumption* heeled and slowed.
+
+"What are you doing?" Gaeston asked as the boat drifted closer to the
+mountain.
+
+"Letting you off," the magician replied shortly.
+
+"What?!"
+
+*Whoomp!* Another burst of fire lit the sky above them.  A moment
+later, the acrid tang of burning pine caught inside Erileine's throat.
+
+"I said, I'm letting... you... *off*," Thomas snapped.  "Laeuc, those
+branches up ahead---can you throw a tether around them?  Or would you
+rather just jump?"
+
+Gaeston stood.  The bow in his hands wasn't quite drawn; the arrow
+notched in it wasn't quite pointed at Thomas.  "Tell me we're close,"
+he said.  "Tell me this is part of your plan."
+
+"I have no idea whether we're close or not," Thomas snapped.  "But I
+am not taking this boat any closer to that mess than it is right now.
+Best wishes, good luck, may your grandchildren's grandchildren all
+bear your name, and so on."
+
+Gaeston raised his bow.  "Like hell."
+
+Erileine never found out what would have happened next, because
+Armaend shouted, "Look!"  She whirled around.  A familiar lean figure
+was racing toward them like a leaf blown by a gale.  Moonlight gleamed
+off his shaven head as he leaped over a fallen tree, rolled to his
+feet, and hurtled onward.
+
+His pursuers burst out of the trees behind him a heartbeat later with
+steel in their hands.  One knelt and raised a crossbow.  A branch
+above Razi's head whipped aside as the quarrel struck it, but the
+bookster kept running.
+
+And then, behind them, a bareheaded man raised his arms and clapped
+them together.  *Whoomp!* A ball of fire as big as a house blossomed
+in the sky above the fleeing bookster.
+
+"Run!" Erileine screamed.
+
+Razi ran.  He dove face-first down the side of the mountain.
+Destruction crashed to the ground a hand's breath behind the soles of
+his sandals.  Pine trees exploded as pitch boiled and burst into
+flame.  He was already on his feet, still running.
+
+"He's trapped!" Laeuc shouted, pointing.  Dead ahead, the forest ended
+at the edge of a cliff.
+
+Erileine spun around.  "Pull in closer!"
+
+The magician held the rudder steady.  "No."
+
+Gaeston raised his bow once again.  "You heard her."
+
+Thomas shook his head.  "They'll kill us all."
+
+For a moment, Gaeston didn't move, then--- "No!" Erileine shouted, as
+Gaeston lowered his bow.  Without thinking, she threw herself at
+Thomas.  Her shoulder hit him in the chest.  He cursed and grabbed a guyline
+to save himself from falling.
+
+Erileine threw her weight onto the rudder.  The *Presumption* tilted
+sharply.  Donaien's spear clattered to the deck as he grabbed the
+gunwale with one hand and Armaend with the other.
+
+Twenty strides, ten, five---just as Razi threw himself over the cliff,
+Thomas pulled Erileine out of the steering seat.  "Idiot!" he shouted,
+yanking the rudder as the boat's starboard side scraped against the
+mountain.
+
+*Thud!* Razi hit the sail and fell to the deck.
+
+"Oh hells," Gaeston swore.  Erileine whirled around.  Standing at the
+top of the cliff, the Hett magician raised his hands and brought them
+together.
+
+*Whoomp!* Banefire fell toward them.  Erileine screamed as it splashed
+against something invisible a stride above the mast.  A roiling mass
+of flame slipped around them, past them, fell away behind them as the
+*Presumption* fled into the night.
+
+"Razi!" Erileine knelt beside the bookster and shook him.  "Razi, wake
+up.  Wake up!"
+
+The bookster groaned and opened his eyes.  "*La*..." he groaned.
+
+FIXME
+
+"She saved the bookster, that's what he did," Laeuc said fiercely.
+
+"I mean to me!" Thomas said in a strangled voice.  "I can't read! I
+can't read!" He pointed at Erileine---
+
+---and froze.  "Put it away," Gaeston said, his arrow aimed squarely
+at Thomas's chest.
+
+"But I can't read," Thomas whispered.
+
+Razi sat up unsteadily.  "*La*, that was Idjfikan's Other Device,
+then?" He raised his palms.  "I am grateful for your sacrifice."
+
+"Damn your gratitude." Tears glistened on the magician's cheeks.
+
+Razi lowered his hands and nodded to Erileine.  "Thank you."

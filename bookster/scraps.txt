@@ -752,8 +752,6 @@ anyone who vandalizes the statues inevitably meets a horrible end.
   reawakened; Laeuc, Gaeston, and Piaerre are teleported back to
   Starboard Town, and moments later, the mountain begins to turn over.
 
- 
-
 * Piaerre's growth: he's afraid of fighting Fraederiq, then he doesn't
   want to, then he accepts that he might have to, or something like
   that (parallel the growth of Mae in Air).
@@ -1010,8 +1008,6 @@ anyone who vandalizes the statues inevitably meets a horrible end.
 
 * "They got Iseulle to bed eventually." Even in shock, she wouldn't be
   this passive.
-
- 
 
 (B) Original ending
 
@@ -2157,8 +2153,8 @@ floor.
 soldier-
 
 -and collapsed like a puppet whose strings had been cut. Behind him,
- the magician he'd kicked lowered her arm. "This grows tiresome," she
- gasped.
+the magician he'd kicked lowered her arm. "This grows tiresome," she
+gasped.
 
 The soldier beside her helped her to her feet. "Ede ebpeten," she
 said. "Get him up. And bring them here-all of them."
@@ -2254,7 +2250,7 @@ Anything else he might have said was cut off as the ground lurched,
 throwing them to the ground. Slowly but inexorably, the mountain began
 to turn over.
 
- 
+--- 
 
 "And might one ask how you are planning to get there in time to make
 any sort of difference?" The Avauntois whirled at the voice, Gaeston

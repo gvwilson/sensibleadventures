@@ -1,5 +1,5 @@
 <!-- start: 2017-10-21 -->
-<!-- target: 80000 -->
+<!-- target: 75000 -->
 <!-- deadline: 2017-12-20 -->
 # The Bookster's Apprentice<br>Greg Wilson
 
@@ -7250,3 +7250,148 @@ Uyves nodded.  "Laeuc and I will get Gaeston and Marq.  Erileine, can
 you get up to Donaien and Armaend's without being caught?" Erileine
 nodded.  The bosun looked around the table.  "Well then?  Let's be on
 with it."
+
+---
+
+Unable to watch as her father say an awkward goodbye to her mother,
+Erileine bounded upstairs.  "Here," he said, handing a small book
+bound in faded red leather to Piaerre.  "Something to read while we're
+gone.  Razi gave it to me."
+
+Piaerre opened it.  "*Unprofitable Speculations*," he read aloud.  "By
+His Balance, Eimin di Cuayaçedil."
+
+Thomas rolled his eyes.  "Oh, you *can't* be serious..."
+
+Piaerre hugged the book.  "Thanks."
+
+Erileine nodded, feeling as awkward as her father looked.  "Take care
+of it, all right?  No folded corners or anything." She leaned forward
+and kissed the Captain of Avaunt clumsily on the cheek.
+
+A minute later, with both of the lanterns in the tavern's main room
+covered, they slipped out the back door: Uyves, Thomas, and Laeuc in
+front, Erileine and her grandfather behind them.  Two soldiers stood
+at the top of Slip Street next to a lantern on a stake, just as they
+had the night before.  Another lantern shone unguarded at the bottom
+of the street.  Voices and laughter from the yard of the Captain's
+House, and the sound of an inexpertly-played flute, gave evidence that
+the Hett were making themselves at home.
+
+"Wait!" Erileine hissed.
+
+"What?" the bosun whispered back.
+
+"Just wait." A moment later, she heard the creak of leather and the
+scuff of a boot.
+
+Erileine put her mouth to the bosun's ear.  "The soldiers with the
+lanterns are just a decoy," she whispered.  "There's more by the
+smokehouse.  You'll have to go around."
+
+Uyves exchanged a look with Laeuc.  This wasn't the Erileine they had
+known since childhood.
+
+The night was cold and clear, the moon just a battered sliver in the
+sky.  Stars twinkled around it, as indifferent and aloof as ice
+crystals.  The mountain was flying north, farther than ever from its
+age-old course and from everything the Avauntois had ever known.
+
+Erileine crept from one hiding place to another, huddling where the
+shadows were deepest.  Once she was only ten strides from a soldier
+relieving himself in a wilted vanity garden, but the Hett didn't hear
+her heart pounding behind the woodpile.
+
+Donaien and Armaend's house nestled in a bend in the road like a baby
+in the crook of its mother's arm.  A freshly-painted summer chair
+stood beside the back door.  Gingerly, Erileine stepped onto it and
+rapped her knuckles softly on the upstairs bedroom's shutters.
+"Psst," she hissed through the slats.  "Donaien! Armaend!"
+
+Someone threw back a quilt.  Erileine ducked her head as the shutters
+swung open.
+
+Donaien blinked at her.  "Erileine---what are you doing?  The soldiers
+will---"
+
+"Get dressed," Erileine interrupted.  "And get your climbing harness,
+and your spear.  The bosun's waiting for you.  Both of you."  She
+grabbed at the windowsill to steady himself as the chair shifted
+beneath him.  "We have to save the mountain."
+
+It took less than a minute for the two men to collect their gear, and
+scramble out the window, but it felt like an age to Erileine.  Finally
+Donaien slithered out the window.  Armaend followed him, the harness
+in his hand jingling slightly.
+
+Corner to corner, house by house, one back yard at a time, they crept
+like thieves through the town they had always called home.  A faint
+tang of pine smoke hung in the air, as familiar to Erileine as the
+smell of her own sweat.  A young goat bleated from a rooftop pen; a
+cat darted across the street, startling them into silent immobility
+for a moment.  Somewhere nearby, a soldier laughed at another's joke.
+All around them, people sat in front of their fireplaces or lay awake
+in their beds, wondering where they were bound, and what new disaster
+would befall them tomorrow.
+
+Thomas, Laeuc, Uyves, and Gaeston were waiting in the trees a dozen
+strides past the bottom end of Slip Street.  Two soldiers lay
+awkwardly on the ground beside them, their blood dark on the dark
+ground.  Marq sat beside them, knotting a strip of cloth around a
+wound in his leg.
+
+"Saints---you've killed them!" Armaend gasped.
+
+"Didn't have a choice," Gaeston said gruffly.  "And it's two less
+we'll have to---"
+
+"*Forchem!*" a harsh voice shouted behind them.  A sharp whistle
+pierced the night.
+
+"Go!" the bosun shouted, snatching up a sword that one of the fallen
+soldiers had dropped and turning toward the shout.
+
+*Thunk!* One moment he was standing, the next he was down on the
+ground, his arms flung out at his sides and the feathered end of a
+crossbow quarrel sticking up out of his chest like a lone tree on an
+otherwise barren island.  His sword clattered on the cobblestones at
+Erileine's feet.
+
+*Swick!* Erileine cried out as another bolt whistled past her ear,
+then turned and scrambled down the ladder two rungs at a time.  She
+yelped when her grandfather grabbed her leg.  "Are you all right?" he
+demanded.
+
+"The bosun," Erileine choked.  "He's--- Papaere, they shot him."
+
+Papaere Vurt pushed her forward.  "Go with your paere!" A dozen
+strides away, the *Presumption* bobbed up and down in the air next to
+his verandah.  Gaeston, Donaien, and Armaend were already on board,
+clutching white-knuckled at the gunwales as Laeuc awkwardly climbed in
+beside them.
+
+Erileine raced across the verandah.  Laeuc grabbed her hand and pulled
+her over the gunwale just as someone shouted in pain and surprise at
+the top of the stairs.
+
+The Avauntois all ducked.  "What are you waiting for?" Papaere Vurt
+yelled.  "Get out of here!" He yanked hard on the cord hanging beside
+the latter rungs and was answered by another angry shout.
+
+"Go!" he bellowed again.  Thomas tossed the mooring line into the
+boat's bow and vaulted in after it.  The *Presumption* dipped slightly
+and drifted away from the porch.
+
+The *Presumption* heeled to port to point back the way the mountain
+had come.  There was nothing left of Tinhead except a long scar in the
+earth.  Beyond it, the great stone tower that had been built to await
+the mountain's was a glint among the trees.  Erileine wondered what
+people would make of it a thousand years hence.  Would anyone remember
+why it had been built, or what it had meant?
+
+"I'll remember," Erileine whispered, thinking of the bosun.  The tears
+on her cheeks were cold, but she didn't wipe them away.  "I
+promise---I'll remember."
+
+Laeuc shifted beside her and put an arm around his daughter's
+shoulders.  Erileine leaned against her father and wept.

@@ -1004,12 +1004,17 @@ into the library.
 
 Razi was sitting in his usual place at the narrow table that stretched
 nearly the length of room. The lantern by his elbow shone dull orange,
-its stored daylight exhausted. "Good afternoon, bookster," Erileine
-said, replacing the spent piece of dayglass in the lantern with the
-freshly-charged one.
+its stored daylight exhausted.  Behind him, an inexpert watercolor of
+the Pilot ruins on Avaunt's peak hung next to a much more competent
+rendering in ink of Forecastle seen in three-quarters view.  The rest
+of the walls were shelves packed to bursting with---with everything,
+Erileine had come to realize.
+
+"Clear day, bookster," Erileine said, replacing the spent piece of
+dayglass in the lantern with the freshly-charged one.
 
 Razi looked up from the origami book that lay unfolded on the table in
-front of him. "Clear day. How are you?"
+front of him. "*Shalma'a*. How are you?"
 
 Erileine shrugged, not knowing how to answer the question. "Is that
 Bantangui?" she asked.

@@ -7974,6 +7974,329 @@ He twisted the spear to follow the Hett down, then yanked it free.
 Just that quickly, it was over.  Laeuc lowered his bow, then handed it
 to to Erileine, turned, and threw up.
 
-FIXME: final scene on the mountain peak.
+---
+
+FIXME: get them the rest of the way
+
+Erileine gasped and clutched at the doorframe.  She had thought the
+last room was big...
+
+They were standing on a balcony the size of Starboard Town. The
+downward tilt of the floor made Erileine feel like she was falling
+into space.  Below them lay a huge stone amphitheatre.  Its floor was
+a maze of carved stone benches, waist-high walls, free-standing doors,
+and heavy sculptures that reminded Erileine of the pictures children
+drew of monsters.  Globes of dayglass bigger than any piece Erileine
+had ever seen blazed yellow-white here and there.
+
+And overhead, the pyramid on the mountain's peak was opening like a
+flower.
+
+"There," Razi said, pointing.  A flat-topped pyramid, identical in
+shape to the one o nthe peak, stood in the center of the amphitheatre.
+The Hett had built a wooden stage around it to give themselves a level
+floor.  Their boots drummed on its planks as they hurried back and
+forth between the strange machines that surrounded it.
+
+An eerie blue light rose from one of the machines like steam from a
+kettle.  A face, ten times larger than life and too narrow to be
+human, suddenly appeared above another, its mouth open as if to laugh
+or scream, then vanished.  As it did so, the rumbling suddenly
+stopped.
+
+Razi cursed.  "We must find stairs," he said.
+
+Gaeston caught his sleeve.  "It'll be faster to climb.  Here." Handing
+his spear to Razi, he slipped the coil of rope off his shoulder and
+knotted it around the balcony's stone railing.
+
+"Will it take your weight?" Laeuc asked.
+
+Gaeston shrugged.  "Only one way to find out, isn't there?" He swung
+himself over.
+
+A minute later, the four of them stood together on the amphitheatre's
+tilted floor.  Ahead and below, the Hett hurried about their work.
+
+"La, we have company," Razi whispered, pointing.  Four soldiers were
+marching toward the center stage.  Sitting upright on the sedan chair
+they carried was a middle-aged man in a plain gray uniform.  He swayed
+slightly with the chair's motion, but looked neither right nor left.
+
+Gaeston tightened his grip on his spear.  "One of their magicians?"
+
+Razi nodded.  "Just so.  And *la*, do you see over there?  I think
+they are the others." Two more sedan chairs stood empty next to the
+wooden stage.  A uniformed woman with her hair pulled back in a severe
+white bun was being helped down from a third.  She kept one hand on
+the shoulder of the soldier helping her as he led her over to where
+two others were standing.
+
+Gaeston made a sound in his throat.  "They blind?"
+
+"*La*, not the soldiers," Razi said grimly.  "There are more of them
+than I had hoped."
+
+"Well, I didn't come all this way just to watch them do whatever the
+weeping hells they're going to do!"
+
+"Sh." Razi raised a warning hand.  "Blind is not deaf.  I only meant,
+we cannot simply attack them.  They would reap us like wheat."
+
+"So what do we do?" Laeuc asked.
+
+Razi pointed at the arched doorway the sedan chair had come through.
+"If their magicians came from Forecastle, then the stone should come
+the same route.  Perhaps there will be fewer guarding it than there
+are here."
+
+"And then?"
+
+Razi shrugged eloquently.
+
+They hurried toward the stage, bent nearly double to hide behind the
+stone pews and statues.  *Thummmmm...* Two more machines lit up, one
+purple, the other green. They were the colors of the week, Erileine
+realized.  Red, yellow---one machine for each.
+
+In the center of the stage, Hett soldiers lifted the lid off a bulky
+crate.  Quickly but carefully, they levered its walls apart and
+cleared away matted straw to reveal a statue of a man with ram's horns
+curled on the sides of his head.
+
+"Saints and their mercies," Razi whispered.  "Oh, *la*, saints, if you
+have ever guided us, guide us now."
+
+"What is it?" Laeuc asked, but the bookster was already two strides
+away, as light on his feet as a tiger on the hunt.
+
+Around a wall, through a door, past a statue of a bear with bat wings
+and a snake for a tail, up two stairs and down two more...  With every
+step, Erileine was afraid one of the Hett would look their way, but
+none did.
+
+A fourth machine came to life, adding orange to the swirling light.
+They were a hundred strides from the entrance the Hett wizard had come
+through.  Eighty, fifty, twenty...
+
+Razi pulled up short as a squad of soldiers marched into the room,
+followed by a second and a third.  A gray-haired man, his face
+half-drowned by a heavy beard, followed them, and was in turn followed
+by three more squads.
+
+In his hands, the man held a polished marble casket.  Erileine's heart
+sank.  It had to be the Pilot Stone, but there were almost fifty
+soldiers around it.  There was no way they could---
+
+Razi stood and pitched three blue vials at the soldiers.  Even before
+they hit the floor he was running, his quicksilver sword in his hand.
+
+*Crack!* *Crack!* *Crack!* Darkness billowed up from the shattered
+vials.  As it engulfed the bookster, Laeuc sent an arrow whistling
+through the air at the nearest soldier.  "Could have weeping told us!"
+Gaeston snarled, stepping into guard position as Laeuc drew another
+arrow from the quiver on his hip.
+
+"Erileine!" Laeuc shouted.  "Get behind us!" But his daughter was
+already running toward the inky cloud that had swallowed the bookster.
+
+She held her breath, expecting smoke, but the darkness had no more
+taste or smell than a shadow.  Metal clanged on metal ahead of her.  A
+cry for aid was suddenly cut off.
+
+She banged his shin hard against something as her father shouted her
+name again.  What had she been thinking?  She couldn't help Razi---she
+didn't even know where he was.
+
+Suddenly she slipped on something wet.  "Oof!" She fell clumsily to
+the floor.
+
+"*Ashenope! Ashenope arra te paurenatepe ejo!*" Someone grabbed her
+hand, holding tight when she tried to pull away, and pushed something
+heavy into her arms.
+
+Smooth, heavy, and cool to the touch...  She ran her hands over it,
+already knowing what they would tell her.  Angled sides, rounded
+corners, a flat top: it was the casket the Hett had been carrying.  It
+was the Pilot Stone.
+
+The darkness cleared a moment later to reveal a scene of confusion.
+Razi was on his knees, his hands behind his head, one crossbow against
+his back, another pointed at his chest.  The hilt of his sword lay
+just out of reach in a pool of mercury.  Three men lay in pools of
+their own blood beside him.  A fourth man---the one with the
+beard---had just breathed his last in a similar pool beside Erileine.
+
+Ten strides away, Gaeston and Laeuc looked at the circle of Hett
+soldiers around them and lowered their weapons.  "But I'm damned if
+I'll kneel," Gaeston spat.
+
+A bald Hett with four ribbons tied around his sleeve led one of the
+iron-eyed magicians down from the stage and over to Razi.  "*Auedje ne
+atarappa paurenatepe ke fe iuadje te?*" she demanded coldly.
+
+Razi smiled politely.  "*La*, my apologies, but I don't speak---"
+
+"Yes you do," the Hett magician said in Avauntois.  "Where is it?"
+
+Razi shrugged without taking his hands from his head.  "I swear, I do
+not know."
+
+"All right." She pointed at the two Avauntois.  "Pick one."
+
+"*La*, you have no call to murder those men." Razi said.
+
+"Murder?" The Hett laughed angrily.  "You talk to me of murder?  How
+many men have you killed tonight?"
+
+"I regret that," the bookster replied calmly.  "Truly, I do."
+
+"Tell it to their families," the Hett snarled.  She stabbed an angry
+finger at Razi.  "I am tired of my people dying, do you understand
+that?  I am tired of people who have done no harm in this world being
+beaten by drunks, or driven from their homes by mobs, or robbed blind
+by petty lordlings who know that no one will defend them.  Your
+mistress has done nothing to help us---nothing!---and neither has
+anyone else, so now we are going to help ourselves."
+
+"I grieve for your wounds," Razi said.  "But please, what you are
+doing here---it will not help you.  It will not help anyone."
+
+"Yes it will," she said coldly.  "It will stop us from ever being
+helpless victims again.  Now, where is the stone?"
+
+Razi said nothing.  The woman's jaw tightened.  "Very well.  Colonel!
+That one." She pointed at Laeuc.
+
+The soldier who had led her over to Razi snapped a salute.  Sword in
+hand, he walked ten paces across the tilted stone floor to stand
+beside Erileine's father.
+
+"I will ask you once more," she said softly.  "Or twice, if need be.
+And then it will be your turn."
+
+Razi looked up at her steadily.  "As you will."
+
+She raised her arm.  The Hett soldier brought his sword up.
+
+"No!" Erileine shouted.  The magician whirled around.  Twenty strides
+away, Erileine raised the fist-sized piece of crystal she had taken
+from the casket over her head.  "Let him go, or I'll smash it!"
+
+The soldier glanced at the magician.  She shook her head.  "*Neh.*"
+
+"I'll do it!" Erileine shouted.  "I swear on my blood, I will!"
+
+The magician laughed.  "Go ahead.  But I swear on my blood, if you do,
+there will be nothing left of Starboard Town but ashes when the sun
+comes up."
+
+The moment stretched and stretched.  Laeuc gurgled as the soldier
+pressed his sword a hair's weight harder against his throat.  "Don't
+you weeping dare," Gaeston growled.
+
+Erileine looked at Razi.  The bookster's calm, clear eyes held hers.
+He didn't nod, or shake his head---he just waited.
+
+Erileine sagged.  "All right," she said, lowering the stone in defeat.
+
+As the soldiers stepped forward, Razi lashed out with his foot.  The
+blow caught the magician in the ribs, knocking her backward.  Razi
+snatched up the hilt of his sword and slashed at the nearest soldier.
+
+Who flinched, and then laughed.  "*Teppate me peua netahante adj
+auje,*" he said, pointing at the pool of quicksilver that still lay on
+the floor.
+
+"*La*, I suppose not," Razi said.  He lunged at the soldier---
+
+---and collapsed like a puppet whose strings had been cut.  The
+magician lowered her arm.  "*Ede ebpeten,*" she said coldly.
+
+Rough hands dragged Erileine to the stage and pushed her to her knees
+beside her father and Gaeston.  A limp Razi hit the planks with a thud
+a moment later.
+
+"Now watch," the magician said.  "Watch, so that your mistress will
+know not to meddle here again." She took the stone from the soldier
+holding it and walked across the stage to the pyramid.
+
+The lights above the strange machines on the stage throbbed purple and
+blue, green and yellow, orange and deep red.  The magician joined the
+others in a circle around the ram-horned statue.
+
+Erileine could hear the machines now.  They were singing to each
+other, great long notes that ran from bone-tingling bass to fluting
+whistles that made his ears ring.  The air tingled as the light folded
+around itself and became a shining emptiness too bright to understand.
+The magicians chanted in time with the machines' rhythmic pulse.
+
+And then the Pilot Stone began to shine.  It wasn't too hot, or too
+bright: it was too *real*.  Erileine threw up her arm to cover her
+face, but the light shone right through her---right through the whole
+world.
+
+As one, the magicians on the stage cried out.  Erileine lowered her
+arm just in time to see the light sucked into the top of the statue's
+head, like smoke being inhaled.
+
+The statue opened its eyes and tilted its head to one side.
+«Finally.» The word appeared inside Erileine's head like a sliver of
+ice dropped into a pool of water.  Its eyes were steel marbles,
+Erileine noticed, dazed.  Even without that, and the horns coiled on
+either side of its head where its ears should have been, and its
+hairlessness, and the complete lack of anything male or female between
+its legs, it still wouldn't have passed for human.  It was too
+perfect.
+
+"*Aya! Aya! Aya!*" the Hett shouted.  "It is done! It is done! It is
+done!"
+
+"My lord." Tears ran down the Hett magician's face, but her voice was
+strong.  "My lord, welcome.  Welcome back."
+
+«Who are these?» The statue's thought took in Razi and the Avauntois.
+
+"Unhearing ones, my lord.  They tried to prevent your return."
+
+«They failed.»
+
+"Yes, my lord.  Do you wish them returned to the earth?"
+
+«No.» The statue slowly swept its gaze around the chamber, taking in
+the now-silent machines, the awestruck Hett, and the silent, watchful
+balconies.  «This place is a mess.»
+
+"Yes, my lord."
+
+«It needs mending.»
+
+"Yes, my lord." The magician's voice was exultant.
+
+«This world is damaged.» Each word came perfectly formed into
+Erileine's mind.  «As is this ship.  All needs mending.  There are
+deserts where there should be gardens.  The moon strays from its
+course.»
+
+"Slow poisons rot the heart of the world." The Hett magician spoke the
+words aloud in time with the statue.  Others joined in, some weeping
+with joy.  "The ocean drains away and monsters roam free.  We must
+mend what is broken."
+
+«We must mend what is broken.» the statue agreed.  Its steel gaze fell
+on the Avauntois.  «Go tell the world.  The Great Work begins.»
+
+One moment they were standing in the heart of the mountain.  The next,
+they were on Slip Street outside the gate of the Captain's House.
+"Hoy!" Gaeston grabbed the gate to steady himself.
+
+"Was that...  Was that a Pilot?" Erileine asked in awe.  Razi nodded.
+
+"But they're dead!"
+
+Razi shrugged.  "Not any more."
+
+Anything else he might have said was cut off as the ground lurched.
+Slowly but inexorably, the mountain began to turn over.
 
 *Here ends the first part of The Fall of the Flying Mountain.*

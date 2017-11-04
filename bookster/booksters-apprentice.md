@@ -3006,7 +3006,7 @@ perch upstairs with the birds."
 
 ---
 
-FIXME: riot
+FIXME: anti-Hett riot (show the bigotry).
 
 ---
 
@@ -3016,6 +3016,171 @@ set.  Erileine saw people measure them sidelong as they passed---a
 pale red-headed man in an ever-changing coat, a tall black figure in a
 dust-colored *deel*, and a round-faced brown girl trailing in their
 wake---but no one smiled or said hello.
+
+FIXME: Erileine stays behind.
+
+FIXME: introduce the boat ride.
+
+Forecastle's lone air dock was a weatherbeaten pine shelf, ten strides
+deep and forty long, whose tree-trunk railing posts doubled as
+stanchions. Tiny compared to the four-story monsters at Ruuda-in-Ruuda
+or Yadanapore, it was adequate for the clouds, magic carpets, and more
+unusual visitors the mountain received between its northern and
+southern berths.
+
+FIXME: getting on the boat
+
+Razi tossed his bag into the boat. As he reached for the gunwale, Thomas
+said, "Oh, but wait. What about your apprentice?"
+
+Razi's face twitched. "I beg your pardon?"
+
+Thomas raised his eyebrows innocently at Erileine. "Have you flown
+before?  There's really nothing like it."
+
+Erileine stared at Thomas blankly.  "Um..."
+
+"She will not need to accompany us," Razi said firmly.
+
+"Really? But they're always so *helpful*, your apprentices." The
+magician's smile broadened. "Besides, there ought to be at least one
+Avauntois on board, don't you think? Just to keep us both honest?"
+
+Erileine could almost hear the space between the two men's locked eyes
+crackle.
+
+FIXME: Razi gives in.
+
+With a sigh, Razi slid over to make room as Erileine stepped awkwardly
+into the flying boat.  Thomas slipped the stay cord off the rudder.
+"Sit on the other side," he instructed, his voice serious for
+once. "We'll be off balance otherwise. And hold onto the gunwale.  And
+whatever you do, don't stand up unless you want to fall down.  A long
+way down."
+
+He didn't do anything that Erileine could see, but the sail suddenly
+bellied out, full of wind. The boat rose smoothly and swiftly into the
+air.
+
+Her knuckles white on the gunwale, Erileine peered over the side. *So
+this is what birds see,* she thought.
+
+The Hardeck was a slate-roofed L, the market square a bustling jigsaw
+of color in front of it.  A lake of brown faces looked up, some
+shading their eyes, others pointing or waving.  Forecastle spread out
+around them, gray cobblestones making crooked gray streams between the
+canyon walls of the houses.  Chickens squawked and clucked in rooftop
+coops; smoke rose from a double hundred chimneys, and kites fluttered
+in the wind.  It was different than looking down on the world from
+Avaunt---closer, faster, and a thousand times more exciting.
+
+The boat's green and white pennant snapped above the sail as they
+climbed higher and higher.  Vertigo suddenly rose in her throat as she
+remembered Fraederiq falling ...
+
+Thomas banked to starboard.  "Rather the view, isn't it?" he said
+loudly.  "Shall we go under?"
+
+"What? I mean, pardon?"
+
+"Shall we go under the mountain? It's quite spectacular."
+
+"No," Razi said firmly.  "Just the sides."
+
+Thomas rolled his eyes at Erileine and swung the rudder to the side.
+The *Presumption* came about obediently.  Erileine suddenly realized
+that they were sailing straight into the wind.  She wasn't sure, but
+she thought that was supposed to be impossible.  *Then again,* she
+thought giddily, *We're flying.  In a boat.*
+
+A moment later they weren't over the mountain any more, but beside it.
+Erileine's ears were freezing, but she didn't notice.  The mountain
+was so big, so rich with detail.  The sheet moss that hung on the
+braided pines was northern, as were the pines themselves.  The jungle
+creeper vines that sprouted brown and yellow from tiny cracks in the
+rock were from the south.  The cold killed them off when Avaunt went
+north, but they recolonized it every time the mountain returned to Mau
+Ngapcha.
+
+And the birds---how could she not have realized there were so many
+birds?  Thousands of them nested in every nook and cranny they could
+find, on ledges too narrow even for goats' feet, in the branches, or
+in round nests made of mud and sticks that clung directly to the rock.
+Irvings from the north, blue-crested cockatiels from the south,
+steelbirds with their blood-red beaks, and others Erileine couldn't
+name.  Everything human seemed insignificant compared to the
+mountain's looming bulk.  *We're just fleas on a whale's back,* she
+thought with no regard at all for zoology.
+
+A tawny-crested gull suddenly appeared beside them, wings spread to hold
+the breeze as it tilted its head to study the boat.  No food there, it
+decided, tipping to the side and soaring away with a disappointed cry.
+
+"*La*, over there," Razi said, pointing.  "See?" Two orange-furred
+trolls, mother and child from their size, swung from branch to branch
+through the pines.
+
+"Whoa," Erileine said in awe.
+
+Razi smiled.  "They will have tales to tell when they get home, I think."
+
+Erileine gaped.  "Do you think they're Gifted?"
+
+"Ah? Oh, *la*, no, no, I just meant..." The bookster shook his head,
+amused.  "No, I'm sure they're not.  They would have asked for sanctuary
+by now if they were."
+
+"Oh." Other than Jack, and the condors, and a raccoon who had tried
+and failed to sell bad poetry in Forecastle the year before, Erileine
+had never met a Gifted animal.
+
+"Whoa!" She clutched the gunwale as the boat turned sharply---so
+sharply that even Razi lurched.  "Look!" the magician pointed.
+"There, you see?"
+
+For a moment Erileine didn't understand what he was pointing at, but
+then the darkness on the face of the cliff resolved itself.  It was
+the mouth of a tunnel, too rectangular to be natural.  Like everythng
+left behind by the Pilots, the steps inside were tilted a quarter-arc
+from true.
+
+Beside the tunnel, two men in rough clothes were scrambling up the
+rock face as fast as they could.  Both had axes on their backs, and
+both wore climbing harnesses anchored by long ropes to trees growing
+above the tunnel mouth.  As Erileine watched, they dove into the
+undergrowth and vanished from view.
+
+"Can you take us closer?" Razi asked Thomas.
+
+The magician nodded briskly.  "Your wish is my every desire.  Best to
+hold on, though.  The wind might be a little playful."
+
+"Playful" turned out to be an understatement.  As they neared the
+cliff, the air being shouldered aside by the mountain made the
+*Presumption* dance like a scrap of cinnamon bark in a pot of boiling
+water.  Thomas held them as steady as he could twenty strides away
+from the cliff face while they studied the tunnel mouth.  It had been
+weathered smooth by centuries of southern rain, desert grit storms,
+and northern frost, but inside, the stairs inside could have been cut
+that morning.
+
+A dozen freshly-cut stumps clustered around the tunnel mouth.  *It
+would have been hellish hard work*, Erileine thought.  Dangling in a
+harness as you swung the ax, having to watch that you didn't chop
+through the rope you were hanging on...  They must have been at it for
+hours.
+
+But something else was asking for her attention.  Something about the
+vests the two men had been wearing...  "They're Hett!" she exclaimed,
+immediately adding, "At least, I think so."
+
+Razi studied the mountainside thoughtfully.  "*La*, well, I think this
+deserves the captain's notice, don't you?"
+
+"Indeed," Thomas said.  "Travel is *so* educational, isn't it?" He
+smiled at his passengers and nudged the rudder, setting the boat's
+course forward once again.
+
 
 As they neared the market square, voices shouted in unison.  They
 rounded the corner to discover that half the stalls had been cleared
@@ -3391,19 +3556,11 @@ The guard shook his head again.  "Not without an escort."
 "All right." Erileine thought for a moment.  "Well, if you see the
 bookster, can you please tell him we're at the Sign of the Three
 Rabbits?"  The guard supposed he could do that, so Erileine thanked
-him and headed for Dock Street.
+him and headed for the sky dock.
 
-Forecastle's lone air dock was a weatherbeaten pine shelf, ten strides
-deep and forty long, whose tree-trunk railing posts doubled as
-stanchions. Tiny compared to the four-story monsters at Ruuda-in-Ruuda
-or Yadanapore, it was adequate for the clouds, magic carpets, and more
-unusual visitors the mountain received between its northern and
-southern berths.
-
-A small counterbalanced crane was the dock's only resident when
-Erileine reached it.  The shadows were lengthening, and the cold air
-felt damp.  She shivered and hunched her shoulders so that she could
-bury her chin in the collar of her coat.
+The shadows were lengthening when Erileine reached it, and the cold
+air felt damp.  She shivered and hunched her shoulders so that she
+could bury her chin in the collar of her coat.
 
 The land below was beautiful.  Orange sunset reflected off ponds and
 streams nestled in countless little valleys, the snow on the peaks of
@@ -5800,7 +5957,7 @@ shearing shed above the goat pasture.  A few house beams had cracked
 or skewed; some crockery had been broken, as had Mamaere Mayeule's
 favorite dayglass lantern.
 
-FIXME: Niquolas
+FIXME: Niquolas leaves.
 
 The writing was blocky and awkward.  "The coconuts are under the
 boards in the drying shed I bet they really are worth a lot you will
@@ -5902,7 +6059,7 @@ He squeezed Mayeule's hand.  "I'd best be about it, then."
 
 She squeezed back.  "Best had."
 
-Back in the fields, Queçenne FIXME
+FIXME: Queçenne does something to upset Matthieu
 
 "No, no, sh, no, you didn't do anything bad," Queçenne said, wiping
 her eyes.  "I'm just scared."
@@ -7218,7 +7375,7 @@ Uyves.  "Please, tell me you have some weapons hidden away somewhere."
 The corner of Thomas's mouth twitched.  "I'd show a little more
 respect if I were you.  This little snip is your new captain."
 
-FIXME: reactions
+FIXME: reactions to Piaerre being the captain.
 
 Thomas pointed at Erileine.  "The portrait---now."
 
@@ -7633,7 +7790,7 @@ up.  Wake up!"
 
 The bookster groaned and opened his eyes.  "*La*..." he groaned.
 
-FIXME
+FIXME: reveal the price for Thomas's spell.
 
 "She saved the bookster, that's what he did," Laeuc said fiercely.
 
@@ -7675,7 +7832,7 @@ the sky."
 "Get us into the tunnels," Razi said, almost gently. "We'll do the
 rest."
 
-FIXME
+FIXME: get them to the tunnels.
 
 "There," Razi said, pointing. "That one." For a moment all Erileine
 saw as the cliff, but then the darker patch directly ahead resolved
@@ -7816,5 +7973,7 @@ He twisted the spear to follow the Hett down, then yanked it free.
 
 Just that quickly, it was over.  Laeuc lowered his bow, then handed it
 to to Erileine, turned, and threw up.
+
+FIXME: final scene on the mountain peak.
 
 *Here ends the first part of The Fall of the Flying Mountain.*

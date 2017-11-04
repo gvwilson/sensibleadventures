@@ -2371,11 +2371,21 @@ except sky.
 Paintings from all over Cherne covered the room's rear wall.  Delicate
 yet indestructible ruins from the time of the Pilots, the sun rising
 over a glacier in Anuvatik, tigers and courtiers in mirrored masks
-listening to music on board a palace barge in Thind...  If Erileine
-had looked more closely, she would have realized that none of them
+listening to music on board a palace barge in Thind... None of them
 showed Gandan, Mau Ngapcha, or anywhere else the mountain flew over.
 Generations of captains had collected pictures of scenes they never
 thought to see out their front window.
+
+The only picture from the mountain itself was a scrimshaw plaque
+larger than Erileine was tall, carved out of a single bone of some
+enormous, long-forgotten creature.  The colors etched into its surface
+had faded with age, but they still showed what the ruins on Avaunt's
+peak had looked like before the Pilots fell and the mountain tilted
+backward.  Half a dozen pillars formed a half-circle around a
+flat-topped pyramid the size of a house. A throne rested on top of the
+pyramid, slightly too large for a human being to sit in comfortably.
+The icicleers who climbed the mountain twice a week to bring snow
+back to Forecastle gave the place a wide berth.
 
 "Good afternoon, bosun." Erileine jumped.  She hadn't noticed the two
 men standing in the corner.

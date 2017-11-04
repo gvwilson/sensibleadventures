@@ -1374,13 +1374,74 @@ clean up the ashes if you want. All right?" Gently but firmly, Laeuc
 turned her toward home.
 
 Most people spent that morning repairing the minor damage the
-mountain's shudders had caused. They talked about Fraederiq: what a
+mountain's shudders had caused. They talked about Fraederiq---what a
 shame, so young, what would Gaeston do now, it would be terrible if he
-started drinking again.  It was almost with relief that conversation
-turned to the mountain.  Where do *you* think we're going?  And
-shouldn't we do something, just in case?  Well no, I don't know what,
-but surely there's something.  Yes, I'm sure the captain's thought of
-all of this, but...
+started drinking again---but conversation quickly turned to the
+mountain.  Where do *you* think we're going?  And shouldn't we do
+something, just in case?  Well no, I don't know what, but surely
+there's something.  Yes, I'm sure the captain's thought of all of
+this, but...
+
+Erileine finally fled, unable to listen any more.
+
+She was sitting at the top of the stairs that led down to her
+grandfather's cottage, watching the unfamiliar peaks and hating
+herself, when Niquolas said, "Hoy," behind her hesitantly. Erileine
+grunted without lifting her chin off his knees.
+
+"Whatcha doing?" Niquolas asked.
+
+"Thinking,"
+
+"Oh." There was a pause while Niquolas digested that. "What about?"
+
+Erileine shrugged, then sighed just loud enough to be heard when
+Niquolas sat down beside her.
+
+"You ever wonder what it's like down there?" he asked. When Erileine
+didn't answer, Niquolas continued, "All those cities we never see---I
+bet they don't all look after goats 'n' pull up weeds."
+
+"Bet they do." Erileine wiped her nose on the knee of her trousers.
+"Someone has to."
+
+"Doesn't mean it has to be us. Me and Fraedi... Here, look." He pulled
+something dark and hairy out of his shoulder bag and held it out.
+
+Erileine looked at it sidelong.  A little larger than her two fists
+put together, covered in coarse, dark fibers, with scraped-out
+diamond-shaped eyes and a ragged grin full of carved fangs...  "What
+the cake is that?"
+
+"It's a head," Niquolas said proudly. "For a door soldier. C'mon, you
+remember---I was going to trade some of 'em to the Hett for that thing
+Fraedi wanted."
+
+"Oh. Right."
+
+"We got the coconuts out of the trash after Departure Eve, and we've
+been carving them all different ways. Well, mostly I've been carving,
+but a lot of the ideas were Fraedi's. He figured we could get half a
+ring each for them in Gandan, on account of them being novelty items.
+Maybe more, if we had time to make some helmets for them or
+something."
+
+"Mm." Erileine turned back to the mountains.
+
+After a moment's hesitation, Niquolas put the coconut head back in his
+bag. "Now that he's... Well, I was wondering if..."
+
+Erileine stood up abruptly. "I have to get up to the library," she said.
+"The bookster will be expecting me."
+
+Niquolas scrambled to his feet. "Right." He raised a hand in a half-wave
+to Erileine's back. "Suppose that's more important."
+
+As Erileine reached the first bend in the path, she glanced back.
+Niquolas was still standing at the top of the stairs, staring at the
+peaks below.  Suddenly remorseful, Erileine opened her mouth to call
+out to him, but just as she did, Niquolas threw the carved coconut off
+the mountain.
 
 Just after noon, when most people were sitting down to soup and fried
 squash, a blue and yellow parrot settled on the sill of Bosun Uyves'
@@ -2945,7 +3006,7 @@ perch upstairs with the birds."
 
 ---
 
-FIXME
+FIXME: riot
 
 ---
 
@@ -5736,7 +5797,7 @@ her grandfather quickly filled her in on what had happened while she
 had been away.  There had been a rockslide when the mountain
 berthed---nobody had been hurt, but it had made kindling out of the
 shearing shed above the goat pasture.  A few house beams had cracked
-or skewed; some crockery had been broken, as has Mamaere Mayeule's
+or skewed; some crockery had been broken, as had Mamaere Mayeule's
 favorite dayglass lantern.
 
 FIXME: Niquolas

@@ -3040,21 +3040,44 @@ FIXME: anti-Hett riot (show the bigotry).
 
 ---
 
-FIXME: Erileine stays behind.
-
 The mood on Forecastle's streets the next morning was stretched as
-taut as a violin string.  Everyone was in a hurry, head down, face
-set.  Erileine saw people measure them sidelong as they passed–a pale
-red-headed man in an ever-changing coat, a tall black figure in a
-dust-colored *deel*, and a round-faced brown girl trailing in their
-wake–but no one smiled or said hello.
+taut as a violin string.  People kept their heads down and spoke in
+low voices.  They all jumped when the innkeeper's young son dropped a
+plate, making the boy burst into tears.
 
-Forecastle's lone air dock was a weatherbeaten pine shelf, ten strides
-deep and forty long, whose tree-trunk railing posts doubled as
-stanchions.  Tiny compared to those at Ruuda-in-Ruuda or Yadanapore,
-it was adequate for the clouds, magic carpets, and more unusual
-visitors the mountain received between its northern and southern
-berths.
+The bosun didn't look surprised when Razi said that he was going to
+stay in Forecastle.  "Just for a few days," he promised.  "Until
+things settle."  The bosun's sour look said what he thought the odds
+were of things settling down in a few days.
+
+"Absolutely not," Laeuc said firmly when Erileine asked if she could
+stay too.  "Your mother would skin me and dip me in brine."
+
+"But paere!"  Erileine pleaded.  "I'm his apprentice!"
+
+Laeuc finally relented–he always did–but only after Erileine swore
+that she would go straight to Uncle Regi's if anything happened.  As
+his youngest daughter raced upstairs to grab her pack, he drained the
+last of his tea.  It didn't seem to help the lump in his throat.
+
+Erileine followed Razi through the streets to the Hardeck.  People
+measured them sidelong as they passed–a tall black figure in a
+dust-colored *deel*, and a round-faced brown girl trailing in their
+wake–but no one smiled or said hello.  "Where are we going?" she
+finally asked, puffing slightly as she hurried to keep up with the
+long-legged bookster.
+
+"*La*, the captain has asked Thomas to have a look at the mountain."
+Razi paused to let two squabbling women carrying a heavy chest of
+drawers go by.  "And he asked me to keep an eye on Thomas, so…"
+
+Forecastle's lone air dock lay at the bottom of a stairway that ran
+down the cliff overlooked by the Hardeck.  The dock itself was a
+weatherbeaten pine shelf, ten strides deep and forty long, whose
+tree-trunk railing posts doubled as stanchions.  Tiny compared to
+those at Ruuda-in-Ruuda or Yadanapore, it was adequate for the clouds,
+magic carpets, and more unusual visitors the mountain received between
+its northern and southern berths.
 
 The *Presumption* was the dock's only tenant that morning.  She was
 smaller than Erileine had expected: a single mast with a furled white

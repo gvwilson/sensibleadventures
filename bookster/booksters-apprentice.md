@@ -1778,10 +1778,10 @@ hand.
 
 "I'll keep an eye on everything while you're gone," the old man said.
 
-"Thanks."  The bosun hesitated.  "And one more thing.  That, um,
-ladder of yours.  Think you could get it put back together?"
+"Thanks."  The bosun hesitated.  "And one more thing.  That ladder of
+yours.  Think you could put back together, just in case?"
 
-Vurt's face went blank.  "Didn't know you knew about that."
+Vurt's face went carefully blank.  "Didn't know you knew about that."
 
 The bosun smiled.  "Whole town knows about it."  Vurt's "ladder" was a
 chain of climbing anchors, cleverly concealed loops of rope, and
@@ -1794,12 +1794,12 @@ the top fifty strides of his private connection to the world below and
 visited like-minded businessmen on the ground below.
 
 Vurt nodded.  "I can do that."  The bosun clapped him on the shoulder
-and hurried to catch up with his travelling companions.  Vurt slurped
-his tea.  He had first built the ladder years ago.  He told himself
-that he did it to set a little aside for his grandchildren.  Only on
-the darkest nights, when he missed his long-gone wife the most, did he
-admit to himself that it was because he'd never really believed a
-mountain could fly.
+and hurried to catch up with his travelling companions.  Vurt stared
+into his tea.  Every time the mountain berthed, he told himself that
+he had built his ladder so that he could set a little aside for his
+grandchildren.  Only on the darkest nights, when he missed his
+long-gone wife the most, did he admit to himself that it was because
+he'd never really believed a mountain could fly.
 
 A hundred strides past the last beanfield, conversation died as
 Forecastle Road climbed a dark shoulder of granite to the town's upper
@@ -6078,23 +6078,22 @@ day." He ducked his head to her, as if he was still a ten-year-old
 struggling with his letters in the hopes of getting a smile from the
 teacher, and left them alone.
 
-"He wants you to rig traps on your ladder?" she asked Vurt.
+"He wants you to rig the traps on your ladder?" she asked Vurt.
 
-He nodded.  "Quick as I can.  Just in case." He sipped his tea.
-"Didn't know he knew about that."
+He nodded.  "Quick as I can.  Just in case." Then he frowned.  "Didn't
+know you knew about that."
 
-FIXME
+She squeezed his hand.  "Whole town knows about it."
 
-He squeezed Mayeule's hand.  "I'd best be about it, then."
+The corner of his mouth ticked up.  "I'd best be about it, then."
 
-She squeezed back.  "Best had."
+She squeezed his hand.  "Best had."
 
-Up in the beanfields, 
-
-The clouds had moved on without raining, leaving the air close and
-oppressive.  People worked in the fields, or sat on stools outside
-their front doors mending shirts and plaiting bamboo and spoke in low,
-hushed voices, as if waiting for news from a death bed.
+Up in the beanfields, the clouds had moved on without raining, leaving
+the air close and oppressive.  People worked in the fields, or sat on
+stools outside their front doors mending shirts and plaiting bamboo
+and spoke in low, hushed voices, as if waiting for news from a death
+bed.
 
 Finally Gaeston exploded.  "Everyone's acting like it's all over!" He
 was ankle deep in wet soil, a hoe in his hand.  His spear leaned
@@ -6103,28 +6102,33 @@ just going to lie down and let them take it?"
 
 "So what're you going to do?" Laeuc asked.
 
-"Traps," Gaeston confided, lowering his voice.  "We set traps
-everywhere.  Forecastle Road, here in town–everywhere.  Take the sons
+"I don't know." Gaeston waved his arm.  "Ambush them.  Take the sons
 of chocolate merchants one at a time, even things up a little."
 
-"The only traps I know how to make are rabbit traps," Laeuc said.
-"These are pretty big rabbits."
+A few strides away, Matthieu clutched a half-full bucket of weeds and
+watched the argument with growing concern.  "Wh-what are they?  Mad
+about?" he asked plaintively.
 
-Gaeston growled in disgust.  "You're as bad as the rest of them." He
-attacked the dark soil with his hoe, muttering under his breath.
+"Nothing," Queçenne said beside him.  It was her turn to look after
+Matthieu.  She had pleaded with her mother to have someone else do it,
+but Saedanne had said in her don't-even-start voice that it would do
+Queçenne good to pick herself up and get back to things.
 
-FIXME: Queçenne does something to upset Matthieu
+"B-but–" Matthieu started.
 
-"No, no, sh, no, you didn't do anything bad," Queçenne said, wiping
-her eyes.  "I'm just scared."
+"I said *never mind*!"  Queçenne snapped.  "Saints, could you
+just–oh. Oh, no, I'm sorry."  She got to her feet and put her arms
+around him as he started to cry.
 
-"I'm scared too," Matthieu said, child's eyes in a grown man's face,
-child's fear in a grown man's voice.  "I don't want to hide."
+"I'm scared," Matthieu said, child's eyes in a grown man's face,
+child's fear in a grown man's voice.
 
-"We won't have to hide," Queçenne said soothingly.  "We–"
+"Sh, sh, it's all right," Queçenne said, hugging him.  "I'm sorry.
+I'm sorry.  I shouldn't have said that.  It's just–I'm scared too.  We
+all are."
 
-"They're here!  They're here!" The shouts came from the terraces above
-them.
+And then shouts came from the terraces above them.  "They're here!
+They're here!"
 
 The soldiers marched into Starboard Town in two columns, their helmets
 gleaming in the sun.  Each man wore a steel breastplate, and had a

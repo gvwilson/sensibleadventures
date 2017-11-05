@@ -7839,33 +7839,31 @@ top of the cliff, the Hett magician raised his hands and brought them
 together.
 
 *Whoomp!* Banefire fell toward them.  Erileine screamed as it splashed
-against something invisible a stride above the mast.  A roiling mass
-of flame slipped around them, past them, fell away behind them as the
+against something invisible above the mast.  A roiling mass of flame
+poured around them and past them and then fell away behind them as the
 *Presumption* fled into the night.
 
 "Razi!" Erileine knelt beside the bookster and shook him.  "Razi, wake
 up.  Wake up!"
 
-The bookster groaned and opened his eyes.  "*La*…" he groaned.
+The bookster groaned and put a hand on his head.  "Ouch."  He squeezed
+his eyes shut, then opened them and looked up at Erileine.  "*La*,
+that was well timed."
 
-FIXME: reveal the price for Thomas's spell.
+Whatever Erileine would have said next was cut off by a low moan from
+the stern.  "No.  No no no no…" Thomas was staring down in horror at
+his coat, whose vibrant ever-changing patterns had stilled and dulled
 
-"She saved the bookster, that's what he did," Laeuc said fiercely.
-
-"I mean to me!" Thomas said in a strangled voice.  "I can't read!  I
-can't read!" He pointed at Erileine–
-
-–and froze.  "Put it away," Gaeston said, his arrow aimed squarely at
-Thomas's chest.
-
-"But I can't read," Thomas whispered.
-
-Razi sat up unsteadily.  "*La*, that was Idjfikan's Other Device,
-then?" He raised his palms.  "I am grateful for your sacrifice."
+Razi sat up unsteadily.  "*La*, knocking the fire aside–that was your
+doing?" He clasped his hands in front of his chest and bowed his head.
+"I am grateful for your sacrifice."
 
 "Damn your gratitude." Tears glistened on the magician's cheeks.
 
-Razi lowered his hands and nodded to Erileine.  "Thank you."
+"Oh, get over it," Gaeston said gruffly.  "It was just a fancy coat."
+
+The bookster and the magician turned to look at him.  "No," Razi said
+softly.  "No, it wasn't."
 
 ---
 

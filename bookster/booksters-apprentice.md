@@ -3199,7 +3199,7 @@ see?"
 
 For a moment Erileine didn't understand what he was pointing at, but
 then the darkness on the face of the cliff resolved itself.  It was
-the mouth of a tunnel, too rectangular to be natural.  Like everythng
+the mouth of a tunnel, too rectangular to be natural.  Like everything
 left behind by the Pilots, the steps inside were tilted a quarter-arc
 from true.
 
@@ -7002,7 +7002,7 @@ declined.  "Mamaere Mayeule's expecting me," he said, tossing a last
 handful of weeds into the bucket.  "But don't worry–I'll be back in
 time."
 
-Erileine reheased her story on her way to the Captain's House.  *I
+Erileine rehearsed her story on her way to the Captain's House.  *I
 need peace and quiet to study.  And someone needs to check on the
 goats.* When she knocked on the library door, the soldier who had been
 taking notes the night before answered.  "*Eue?*" Erileine started to
@@ -7989,7 +7989,7 @@ everything else inside the mountain.  "*La*, allow me," the bookster
 said.  He drew something from inside his *deel* and threw it against
 the floor.  It tinkled like breaking glass and started to glow.
 
-"Hoy," Erileine breathed.  The room was enormousthe Captain's House
+"Hoy," Erileine breathed.  The room was enormous–the Captain's House
 would fit into it with room left over for a sizeable garden.  The only
 break in the polished walls was a square opening opposite them,
 identical to the one they had just come through.
@@ -8050,7 +8050,7 @@ And overhead, the pyramid on the mountain's peak was opening like a
 flower.
 
 "There," Razi said, pointing.  A flat-topped pyramid, identical in
-shape to the one o nthe peak, stood in the center of the amphitheatre.
+shape to the one on the peak, stood in the center of the amphitheatre.
 The Hett had built a wooden stage around it to give themselves a level
 floor.  Their boots drummed on its planks as they hurried back and
 forth between the strange machines that surrounded it.

@@ -3010,6 +3010,8 @@ FIXME: anti-Hett riot (show the bigotry).
 
 ---
 
+FIXME: Erileine stays behind.
+
 The mood on Forecastle's streets the next morning was stretched as
 taut as a violin string.  Everyone was in a hurry, head down, face
 set.  Erileine saw people measure them sidelong as they passed---a
@@ -3017,23 +3019,23 @@ pale red-headed man in an ever-changing coat, a tall black figure in a
 dust-colored *deel*, and a round-faced brown girl trailing in their
 wake---but no one smiled or said hello.
 
-FIXME: Erileine stays behind.
-
-FIXME: introduce the boat ride.
-
 Forecastle's lone air dock was a weatherbeaten pine shelf, ten strides
 deep and forty long, whose tree-trunk railing posts doubled as
-stanchions. Tiny compared to the four-story monsters at Ruuda-in-Ruuda
-or Yadanapore, it was adequate for the clouds, magic carpets, and more
-unusual visitors the mountain received between its northern and
-southern berths.
+stanchions. Tiny compared to those at Ruuda-in-Ruuda or Yadanapore, it
+was adequate for the clouds, magic carpets, and more unusual visitors
+the mountain received between its northern and southern berths.
 
-FIXME: getting on the boat
+The *Presumption* was the dock's only tenant that morning.  She was
+smaller than Erileine had expected: a single mast with a furled white
+sail, narrow benches on either side of a low-roofed central cabin only
+slightly larger than a double bed, and a simple plank rudder.  If the
+little boat hadn't been bobbing gently up and down in thin air, she
+wouldn't have given it a second look.
 
-Razi tossed his bag into the boat. As he reached for the gunwale, Thomas
-said, "Oh, but wait. What about your apprentice?"
+Razi tossed his bag into the boat. As he stepped over the gunwale,
+Thomas said, "What about your apprentice?"
 
-Razi's face twitched. "I beg your pardon?"
+Razi froze.  His face twitched. "I beg your pardon?"
 
 Thomas raised his eyebrows innocently at Erileine. "Have you flown
 before?  There's really nothing like it."
@@ -3043,20 +3045,21 @@ Erileine stared at Thomas blankly.  "Um..."
 "She will not need to accompany us," Razi said firmly.
 
 "Really? But they're always so *helpful*, your apprentices." The
-magician's smile broadened. "Besides, there ought to be at least one
-Avauntois on board, don't you think? Just to keep us both honest?"
+magician's smile broadened. "And just think of how educational it will
+be for her.  Your apprentices always learn so *much* when they travel
+with us."
 
 Erileine could almost hear the space between the two men's locked eyes
-crackle.
+crackle.  She bit her lip and tried not to look like a hungry kitten
+when Razi glanced at her.
 
-FIXME: Razi gives in.
+Sighing, Razi slid over to make room.  "*La*, come on then."
 
-With a sigh, Razi slid over to make room as Erileine stepped awkwardly
-into the flying boat.  Thomas slipped the stay cord off the rudder.
-"Sit on the other side," he instructed, his voice serious for
-once. "We'll be off balance otherwise. And hold onto the gunwale.  And
-whatever you do, don't stand up unless you want to fall down.  A long
-way down."
+As Erileine stepped awkwardly into the flying boat, Thomas slipped the
+stay cord off the rudder.  "Sit on the other side," he instructed, his
+voice serious for once. "We'll be off balance otherwise. And hold onto
+the gunwale.  And whatever you do, don't stand up unless you want to
+fall down.  A long way down."
 
 He didn't do anything that Erileine could see, but the sail suddenly
 bellied out, full of wind. The boat rose smoothly and swiftly into the

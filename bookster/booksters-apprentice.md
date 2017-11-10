@@ -3036,7 +3036,10 @@ perch upstairs with the birds."
 
 ---
 
-FIXME: anti-Hett riot (show the bigotry).
+FIXME: anti-Hett riot (show the bigotry); Hett are badly hurt (we see
+the way they've been persecuted); Jaromir is involved (we see that
+he's a fighter); Erileine and Laeuc wonder if they're on the right
+side.
 
 ---
 
@@ -6739,23 +6742,28 @@ Erileine twisted around to see Queçenne peeking out of the kitchen.
 The soldier caught her eye and grinned.  She blushed and pulled her
 head back out of sight.  The other soldier laughed.
 
-Erileine didn't understand all of what the soldier had said, but he
+Erileine didn't understand all of what the soldier had said, but she
 understood enough.  "*Ap medji eshweggen*," she said.  "Sit firmly on
 your sword." The soldiers just laughed again.
 
-FIXME: bosun tells Erileine to spy on the soldiers.
+Uyves put his hand on Erileine's arm. "You do their translating," he
+said quietly. "And then you come find me and tell me *everything* you
+hard, undersood?"
+
+Erileine nodded jerkily. "Yes *sra*."  He squeezed her arm and then
+turned to the soldiers and nodded once, firmly.
 
 "Tell them they are to work in the fields as they would on any other
-day," the first one said slowly in Praczny.  Erileine nodded and
+day," the first soldier said slowly in Praczny.  Erileine nodded and
 translated his words into Gandan-o.
 
 "What if we don't work in the fields?" Papaere Vurt asked.  Instead of
 putting on his false leg, he had hobbled downstairs with his pant leg
-knotted below his knee, using an upside-down broom as a crutch.  He
+pinned below his knee, using an upside-down broom as a crutch.  He
 looked older than Erileine had ever seen him–deliberately so, she
 realized.  What was her grandfather up to?
 
-The soldier shrugged when Erileine translated Vurt's question.  "Tell
+The soldier shrugged when Erileine passed on Vurt's question.  "Tell
 him to stay out of trouble.  Now come."
 
 Bosun Uyves knocked on each door in turn.  Sometimes he had to bang
@@ -7414,26 +7422,38 @@ his nose on his sleeve.
 "Sure you did," the bosun muttered disbelievingly, rolling his eyes.
 
 But even as he spoke, Thomas pushed him aside.  "What did you feel?"
-he demanded, ignoring the bosun's glare.  "Tell me, exactly what did
+he demanded, ignoring the bosun's glare.  "Tell me, what *exactly* did
 you feel?"
 
 Piaerre sniffled back his tears.  "It was c-c-cold.  All of a sudden.
 And then it was like–like–"
 
-"Like you were a bell being run?" Thomas demanded.  Piaerre gulped and
-nodded.
+"Like you were a bell being run?" Thomas demanded.  Piaerre nodded
+miserably.
 
 The magician straightened up and ran his fingers through his hair.
 "Well, that's that, then, isn't it?" He stabbed a finger at Erileine.
-"I need that portrait–now!  And you!" He redirected the finger to
-Uyves.  "Please, tell me you have some weapons hidden away somewhere."
+"I need that portrait *now*!"
 
 "You don't believe this little snip, do you?" the bosun scoffed.
 
 The corner of Thomas's mouth twitched.  "I'd show a little more
 respect if I were you.  This little snip is your new captain."
 
-FIXME: reactions to Piaerre being the captain.
+A stunned silence followed.  Uyves opened his mouth, closed it, opened
+it again, and still didn't manage to get a word out before Piaerre
+fished a small silver medallion out from under his shirt.  The bosun's
+eyes widened at the sight of it.  Straightening up, he saluted, eyes
+focused somewhere slightly left of the shamefaced boy. "*Sra*."
+
+Erileine just gaped. "But–"
+
+"My paere wanted me to learn my way around," Piaerre said, his voice
+not much louder than a whisper. "He said a good captain needs to know
+the bilges as well as–as well as–" He sniffled. "And when Razi showed
+up and wanted to look at all the old stuff here, paere said all right,
+let's make a deal, and that's when he started teaching me stuff.  But
+now he's gone and I don't know what to do."
 
 Thomas pointed at Erileine.  "The portrait–now."
 

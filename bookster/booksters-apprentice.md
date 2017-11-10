@@ -7902,17 +7902,17 @@ starting their Great Work with a ceremony at the mountain's peak that
 night.
 
 "Not much we can do about it now, is there?" Thomas said venomously.
-"After our little adventure back there, they'll have a hundred eyes on
-the sky."
+"After your little adventure back there, they'll have a hundred eyes
+on the sky."
 
-"Get us into the tunnels," Razi said, almost gently.  "We'll do the
-rest."
+"Get us into the tunnels," Razi said gently.  "We'll do the rest."
 
-FIXME: get them to the tunnels.
-
-"There," Razi said, pointing.  "That one." For a moment all Erileine
-saw as the cliff, but then the darker patch directly ahead resolved
-into a shape too regular to be natural.
+The trees that had seemed so wonderful to Erileine on her first flight
+now loomed like haunting spirits, their moon-cast shadows spilling
+down the mountain in an ominous tangle.  Finally Razi pointed.
+"There," he said.  "That one." For a moment all Erileine saw as the
+cliff, but then the darker patch directly ahead resolved into a shape
+too regular to be natural.
 
 Gaeston crouched in the bow as Thomas edged the *Presumption* closer.
 "A little more, a little more… Right." He stepped onto the gunwale and

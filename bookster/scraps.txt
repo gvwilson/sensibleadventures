@@ -1,6 +1,6 @@
 * Move the revelation about Vurt's ladder.
 
-* Bigger reveal for the captain's death and its effect on Piaerre.
+* Bigger reveal for the captain's death and its effect on Erileine.
 
 * Razi's blue vials of darkness need to be revealed earlier.
 
@@ -15,7 +15,7 @@
 * Razi is thrown off the mountain.
 
 * The next morning, many of the Hett are gone (including
-  Jaromir). Piaerre asks what's happening; the woman who is now in
+  Jaromir). Erileine asks what's happening; the woman who is now in
   command (the one who he remembers spying) tells him brusquely that
   they were needed elsewhere to clear land. This starts a swirl of
   rumors among the Avauntois: are the Hett planning to build their own
@@ -34,8 +34,6 @@
   on the trail to hand it over, near the tunnel where he stashes his
   contraband.
 
-* Discuss the fact that the Hett are slowly running out of topsoil.
-
 * Thomas must knock on the door of every room he enters.
 
 * Explain naming days: the person is given back their name on the
@@ -51,10 +49,10 @@
   ghost!"
 
 * Add more (dumb) beasts: pre-modern towns and villages were full of
-  domestic animals.
+  domestic animals.  Use their poop to discuss the fact that the Hett
+  are slowly running out of topsoil.
 
-* Mention the door soldiers (carvings that stand guard beside shop
-  doors in Forecastle and elsewhere).
+* Mention the door soldiers in Forecastle during the riot scene.
 
 * When they first see Tinhead, there's a pyramid in the center of each
   square. Klaues is the one who says, "They look like the mountain."
@@ -63,7 +61,7 @@
 * Every one of the books mentioned the mountain, but only a few said
   anything more than, "It's big, it flies back and forth, and its
   people have no sense of humor." "Do people really think that about
-  us?" Piaerre asked the fourth time he read it. "Oh, la," Razi said
+  us?" Erileine asked the fourth time she read it. "Oh, la," Razi said
   diplomatically, "They don't know you as well as I do."
 
 * The main square in the Forecastle is called Mapmarket Square. The
@@ -77,9 +75,6 @@
 * A banner of snow blown off Avaunt's peak.
 
 * Cutting and drying moss for use in the stinky house.
-
-* Laeuc: "Oh, the Karabandi don't sacrifice chickens. They just scold
-  them severely."
 
 * A painting showing a boxer throwing the same punch forever.
 
@@ -100,7 +95,7 @@
 
 * Steps of the Hardeck worn smooth by a waterfall of feet.
 
-* Piaerre feels guilty about outgrowing his parents (particularly his
+* Erileine feels guilty about outgrowing his parents (particularly her
   father) intellectually, but doesn't want to stop it happening.
 
 * "Malefit" is the opposite of "benefit".
@@ -117,8 +112,8 @@
   stop yourself from crying.
 
 * Feeding dyed grain to chickens to make them lay colored eggs (a
-  story Laeuc told Piaerre when his son was young; Piaerre still has
-  the egg).
+  story Laeuc told Erileine when she was young; Erileine still has the
+  egg).
 
 * "That's like asking which side of a coin is the 'real' one." (Razi
   talking about who's right and who's wrong.)
@@ -126,48 +121,25 @@
 * Jack the Parrot threatening to cake on someone's head. (Use "cake"
   more frequently, and have Piaerre get in trouble for using it.)
 
-* "He could only guess how many hours Vaszlav had spent badgering..."
-  Important character development point, but feels rushed.
-
 * "A narrow bed and a polished teak dresser..." Move this detail up,
   so that it's better integrated.
-
-* "...wondering in its little mind" Shift the POV.
 
 * Mention somewhere that the mountain affects the weather around it
   (but less than the Avauntois think).
 
 * "Today you will finish with those deeds, yes?" Use "ledgers", and
-  make it clear that these are things Piaerre was assigned earlier.
+  make it clear that these are things Erileine was assigned earlier.
 
-* "La, but enough of books for one evening." Have Piaerre be
+* "La, but enough of books for one evening." Have Erileine be
   frustrated by Razi closing the topic, to express the reader's
   frustration at being teased.
 
 * "People falling from a great height..." Too obvious.
 
 * "First, lie my Razi on his back." Why can she see him now, when she
-  couldn't see him when Piaerre spoke to her the first time?
+  couldn't see him when Erileine spoke to her the first time?
 
-* "...and grabbed the window ledge." He needs to be clumsy here: he's
-  still adjusting to his numb hand. Need to comment on it a few more
-  times later, and then have him do something when he gets back to
-  Starboard Town without even realizing (at first) that he's
-  compensating for the numbness.
-
-* "But what about the rest of our things?" Piaerre's first question
-  ought to be about Starboard Town and his family.
-
-* "It took them half an hour..." Piaerre should be noticing how clumsy
-  his hand is during this half hour.
+* "...and grabbed the window ledge." She needs to be clumsy here: she's
+  still adjusting to her numb hand.
 
 * "A piece of cake?" Doesn't work if "cake" is an obscenity.
-
-* "I'll be a haunt before you'll be his anything." Make it clear here
-  that what Elaiene's upset about is the impropriety: appearances
-  instinctively take precedence in her mind over anything else.
-
-* "How many bushels of squash did we grow each year?" Piaerre has to
-  say that he lied (though he doesn't know how much good it will do,
-  given how much they obviously already know). Can't afford for him to
-  be seen as a collaborator.

@@ -3038,8 +3038,9 @@ perch upstairs with the birds."
 
 FIXME: anti-Hett riot (show the bigotry); Hett are badly hurt (we see
 the way they've been persecuted); Jaromir is involved (we see that
-he's a fighter); Erileine and Laeuc wonder if they're on the right
-side.
+he's a fighter); Klaues is injured in the riot while trying to be
+reasonable; Erileine and Laeuc wonder if they're on the right side;
+Razi uses his vial of darkness for the first time.
 
 ---
 

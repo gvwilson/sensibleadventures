@@ -8017,8 +8017,8 @@ identical to the one they had just come through.
 
 They were halfway to it when a whistle blew.  "Run!" Gaeston shouted
 needlessly.  Voices shouted behind them.  Erileine glanced over her
-shoulder.  Soldiers in steel helmets were spilling out of the tunnel
-behind them.
+shoulder as soldiers in steel helmets spilled out of the tunnel behind
+them.
 
 "*Forchem!*" a voice commanded!  *Thwack!  Thwack!* Crossbow quarrels
 whistled past Erileine's ears.
@@ -8029,14 +8029,14 @@ then Armaend–but no, Armaend was down, tugging weakly at the crossbow
 bolt in his side before going limp.
 
 "Armaend!" Donaien shouted.  "Armaend!"  He raised his spear and
-charged at the oncoming soldiers.
+charged back at the oncoming soldiers.
 
-Erileine skidded to a halt.  Her father grabbed her arm.  "Come on!"
-he shouted, pulling her on.  They fled down the corridor ten strides
-behind the others.  Left, right, right again, to a stairway half over
-on its side.
+Erileine skidded to a halt, ready to turn and help, but her father
+grabbed her arm.  "Come on!"  he shouted, pulling her on.  They fled
+down the corridor ten strides behind the others.  Left, right, right
+again, and up a stairway tilted drunkenly on its side.
 
-Razi stopped at the top.  "Make ready," he said quietly.
+Razi stopped at its top.  "Make ready," he said quietly.
 
 "What?"
 
@@ -8045,19 +8045,22 @@ on his spear.  Laeuc nodded jerkily and raised his bow.
 
 Three Hett came around the corner.  They were only ten strides
 away–there was no way Laeuc could miss the first one, or Razi the
-second.  The third one ran at the point of Gaeston's spear, swinging
-his sword to knock it aside, but Gaeston dropped the point and thrust.
-He twisted the spear to follow the Hett down, then yanked it free.
+second.  The third one ran at Gaeston, swinging his sword to knock his
+spear aside, but Gaeston dropped the point and thrust.  He twisted the
+spear to follow the Hett down, then yanked it free.
 
-Just that quickly, it was over.  Laeuc lowered his bow, then handed it
-to to Erileine, turned, and threw up.
+Just that quickly, it was over.  Laeuc looked at the men now lying on
+the stairs, then lowered his bow, turned, and threw up.
 
 ---
 
-FIXME: get them the rest of the way
+There was nothing for them to do after that but follow the fireflies.
+First one and then another flew away without hesitation, always
+leading the upward toward the mountain's peak.
 
-Erileine gasped and clutched at the doorframe.  She had thought the
-last room was big…
+They finally reached a double door twice Erileine's height and wide
+enough to drive a cart through.  Erileine gasped as she followed her
+father through it.  She had thought the last room was big…
 
 They were standing on a balcony the size of Starboard Town.  The
 downward tilt of the floor made Erileine feel like she was falling

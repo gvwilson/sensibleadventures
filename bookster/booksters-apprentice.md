@@ -1088,11 +1088,11 @@ thoughts."
 Erileine closed the book carefully.  "Thank you."
 
 The bookster nodded.  "So," he said, his voice suddenly brisk, "Today
-you will finish with those deeds, yes?  So that tomorrow we may move
-on to things more interesting?"
+you will finish with the ledgers you started yesterday, yes?  So that
+tomorrow we may move on to things more interesting?"
 
-"Yes, bookster." Erileine opened the ledger she had been indexing for
-the past week, drew a lamp closer, and set to work.
+"Yes, bookster." Erileine opened the ledger she had been given to
+index, drew a lamp closer, and set to work.
 
 The room was silent for the next three hours except for the scratching
 of Erileine's pen, the leaf-fall whisper of pages being turned, and
@@ -2178,7 +2178,8 @@ where the resemblance to Starboard Town ended.  Starboard Town's homes
 didn't have glass windows.  Its shops didn't have banners strung
 proudly over their doors proclaiming the quality of the wares within.
 And if Starboard Towners wore silk, it was just an accent laid over
-plain cotton, not a whole shirt or a broad, brightly-colored skirt.
+plain cotton, not a whole shirt or a broad, brightly-colored skirt
+that would have made a peacock jealous.
 
 Forecastle Road's last half-gallop wound through a pine tree
 plantation.  Thin smears of black smoke rose from charcoaling sheds on
@@ -2291,9 +2292,9 @@ bookster replied blandly.
 
 Uyves grinned.  "Well then, lead on."
 
-The market lay in the center of town under the watchful gaze of a
-sprawling, turreted building called the Hardeck.  The captain's clerks
-and mates had their offices on its bottom two floors, while the
+Mapmarket Square lay in the center of town under the watchful gaze of
+the sprawling, turreted building called the Hardeck.  The captain's
+clerks and mates had their offices on its bottom two floors, while the
 captain himself lived on the third, in a suite of rooms that were
 supposed to be as richly decorated as the king's own chambers in
 Gandan.  Gazing at the Hardeck's gray slate roof, Erileine wondered
@@ -2422,11 +2423,12 @@ Good.  He should be upstairs.  You know the way?"
 
 ---
 
-The captain was indeed upstairs–three flights of polished granite
-stairs, to be exact.  The brass handrail beside them had been worn
-shiny-smooth by generations of hands.  Clerks in blue jackets bustled
-past the trio from Starboard Town, squawking "shortage" and
-"inventory" to one another like strange flightless birds.
+The captain was indeed upstairs–three flights of granite stairs worn
+smooth by a slow waterfall of feet.  The brass handrail beside them
+had been worn shiny-smooth by generations of hands.  Clerks in blue
+jackets bustled past the trio from Starboard Town, squawking
+"shortage" and "inventory" to one another like strange flightless
+birds.
 
 Erileine was so busy gawking at the tapestries on the walls and the
 statues frowning sternly between them that she stumbled on every tenth
@@ -3011,10 +3013,15 @@ the city of his birth, while his apprentice wrestled with her
 conscience.  Finally Erileine nodded.  "All right."
 
 "Thank you.  Lady Kembe has dreams sometimes, dreams that are more
-than dreams.  These last few years, they have shown her people falling
-from a great height and a shadow moving across the land.  It could
-mean nothing.  It usually has, in the past–divination is a chancy
-thing.  But still, better to search and not find than not to search.
+than dreams.  These last few years, they have shown her a shadow
+moving across the land.  At first she thought it was a metaphor, but
+of late…" He shrugged.
+
+"So you're here because of a metaphor," Erileine said flatly.
+
+Razi shrugged again.  "I have chased rhymes before, and children's
+games–why not a metaphor?  It could mean nothing–it often has, in the
+past.  But still, better to search and not find than not to search.
 Since she cannot come here herself…"  He turned his palms up.  "Here I
 am."
 

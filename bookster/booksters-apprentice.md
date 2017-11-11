@@ -1088,11 +1088,17 @@ thoughts."
 Erileine closed the book carefully.  "Thank you."
 
 The bookster nodded.  "So," he said, his voice suddenly brisk, "Today
-you will finish with the ledgers you started yesterday, yes?  So that
-tomorrow we may move on to things more interesting?"
+you will finish with the books you started indexing yesterday, yes?
+So that tomorrow we may move on to things more interesting?"
 
 "Yes, bookster." Erileine opened the ledger she had been given to
 index, drew a lamp closer, and set to work.
+
+Every one of the books in the library mentioned the mountain, but only
+a few said anything more than that it was big, it flew back and forth,
+and its people had little sense of humor. "Do people really think that
+about us?" Erileine had asked the fourth time she read it. "Oh, la,"
+Razi had said diplomatically, "They don't know you as well as I do."
 
 The room was silent for the next three hours except for the scratching
 of Erileine's pen, the leaf-fall whisper of pages being turned, and
@@ -2484,9 +2490,17 @@ had faded with age, but they still showed what the ruins on Avaunt's
 peak had looked like before the Pilots fell and the mountain tilted
 backward.  Half a dozen pillars formed a half-circle around a
 flat-topped pyramid the size of a house.  A throne rested on top of
-the pyramid, slightly too large for a human being to sit in
-comfortably.  The icicleers who climbed the mountain twice a week to
-bring snow back to Forecastle gave the place a wide berth.
+the pyramid, too large for anything human to sit in comfortably.
+
+Erileine had seen a more modern painting of the spot in the Captain's
+House in Starboard Landing.  The pillars were long gone, and the
+throne was gone, but the pyramid was still there, tilted at an angle
+like everything left over on the mountain from those days.  The
+icicleers who climbed the mountain twice a week to bring snow back to
+Forecastle gave the place a wide berth.  It wasn't haunted–they would
+have known what to do with ghosts–but like so much of what the Pilots
+had left behind, it reminded people just how inconsequential they
+were.
 
 "Good afternoon, bosun." Erileine jumped.  She hadn't noticed the two
 men standing in the corner.
@@ -3086,7 +3100,7 @@ people laughed.
 Donaien flushed.  Armaend put a hand on his shoulder.  "Nothing
 special about tea," Armaend said.  "Why, my papaere used to boil
 burned bread instead.  Swore the leafy stuff never tasted half as
-rich.  Of course, if the water runs out..."
+rich.  Of course, if the water runs out…"
 
 Before anyone could answer that, there was a sharp rap on the window
 shutter.  "Can you get that, please?" the innkeeper's harried daughter
@@ -3152,9 +3166,9 @@ together so they can claim it's just one."
 
 "So?" Jack pecked a piece of orange peel off the plate that Donaien
 had put in front of him.  "Still shouldn't be allowed.  I don't mind
-Vaszlav and the like---they know their station---but these new
-Hett...they're shifty."  He scratched the side of his head with a
-claw.  "Like cats."
+Vaszlav and the like–they know their station–but these new
+Hett…they're shifty."  He scratched the side of his head with a claw.
+"Like cats."
 
 "Well then, here's to the real Avauntois!" The ponytailed Forecastler
 raised his glass.  Everyone else reached for theirs, saying, "The real

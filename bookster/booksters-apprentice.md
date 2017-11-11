@@ -2212,7 +2212,7 @@ selling.  Her expression was as dark as the blackberry stains on her
 fingers.  "What's happening, where are we going, what if the water
 runs out, on and on and on.  Feh." She spat the gooey remains of the
 cinnamon bark she'd been chewing into a cracked mug.  "The Hett got
-right onto it too, of course.  That Klaues fellow, he was in Market
+right onto it too, of course.  That Klaues fellow, he was in Mapmarket
 Square in a heartbeat, splashing silver around and tossing what-not
 into his wheelbarrow while everyone else was still picking themselves
 up."
@@ -3040,7 +3040,8 @@ FIXME: anti-Hett riot (show the bigotry); Hett are badly hurt (we see
 the way they've been persecuted); Jaromir is involved (we see that
 he's a fighter); Klaues is injured in the riot while trying to be
 reasonable; Erileine and Laeuc wonder if they're on the right side;
-Razi uses his vial of darkness for the first time.
+Razi uses his vial of darkness for the first time; mention the door
+soldiers.
 
 ---
 
@@ -3126,7 +3127,7 @@ the air.
 Her knuckles white on the gunwale, Erileine peered over the side.  *So
 this is what birds see,* she thought.
 
-The Hardeck was a slate-roofed L, the market square a bustling jigsaw
+The Hardeck was a slate-roofed L, Mapmarket Square a bustling jigsaw
 of color in front of it.  A lake of brown faces looked up, some
 shading their eyes, others pointing or waving.  Forecastle spread out
 around them, gray cobblestones making crooked gray streams between the
@@ -3134,6 +3135,13 @@ canyon walls of the houses.  Chickens squawked and clucked in rooftop
 coops; smoke rose from a double hundred chimneys, and kites fluttered
 in the wind.  It was different than looking down on the world from
 Avaunt–closer, faster, and a thousand times more exciting.
+
+And there–colored cobblestones, carefully tended, showed the outline
+of Cherne and the mountain's path across it.  Every morning, rain or
+shine, the captain came out and moved the post showing Avaunt's
+progress.  Erileine searched the square until she found the marker
+amidst some hastily-relocated stalls, ten strides away from the path
+it had been on for centuries.
 
 The boat's green and white pennant snapped above the sail as they
 climbed higher and higher.  Vertigo suddenly rose in her throat as she
@@ -3297,14 +3305,16 @@ the one in the center had pulled the view closer.  Instead of
 mountains fifty gallops away, they were looking at a neat town from
 what appeared to be no more than a few hundred strides.  Its
 buildings, made of gray brick and roofed with dark slate shingles,
-stood in a figure eight around two squares.  Sun glistened on glass in
-the buildings' windows–more glass than Erileine had ever seen–but the
-only sign of life was a lone jay that fluttered away even as they
-watched.
+stood around a paved square as large as the one outside the Hardeck.
+A flat-topped pyramid stood in the square's center, four stories tall
+and crowned with six pillars of dayglass as big as Erileine.  The only
+sign of life was a lone jay that fluttered away even as they watched.
 
-"It's beautiful work," Thomas said, ignoring the view and running a
-gentle fingertip across the glass.  "Absolutely beautiful.
-Korrandarrenduk?"
+"That looks like the mountain," Klaues said, pointing at the pyramid.
+"Same shape, same flat peak…"
+
+"I'm sure," Thomas said, running a gentle fingertip across the window.
+"This is beautiful work.  Korrandarrenduk?"
 
 The captain shook his head.  "Ip of Seyferte.  About three hundred
 years ago.  There used to be another one at Aft Landing, but some
@@ -4073,8 +4083,7 @@ mountain wasn't just clipping the tops of the hills any longer.  It
 was down, grinding implacably toward Tinhead.
 
 Without warning a house collapsed.  One wall of another gave way as
-the town's two cobblestoned squares rippled like blankets being
-shaken.
+the town's cobblestoned square rippled like a blanket being shaken.
 
 "Bosun!" the captain barked.  "Bosun!  Get the birds out!  And send
 Jack, too.  Tell them we've berthed at Tinhead, and need help.  Tell
@@ -4122,14 +4131,14 @@ stopped.  They had berthed.
 ---
 
 Chaos ruled Forecastle.  Children and adults alike cried out in
-terror.  Bosun's mates bawled for order as the militiamen in the
-market square struggled back to their feet, tripping over one
-another's spears.  Fallen lamps scattered shards of broken dayglass
-like burning leaves.  People were thrown down stairs, losing teeth and
-breaking arms.  Lintels cracked, roofs fell in, and a whole row of
-warehouses on Butterjuggle Square collapsed.  Miraculously, both the
-single old man asleep on guard and the young lovers who had snuck in
-for some privacy walked away with nothing worse than scratches.
+terror.  Bosun's mates bawled for order as the militiamen in Mapmarket
+Square struggled back to their feet, tripping over one another's
+spears.  Fallen lamps scattered shards of broken dayglass like burning
+leaves.  People were thrown down stairs, losing teeth and breaking
+arms.  Lintels cracked, roofs fell in, and a whole row of warehouses
+on Butterjuggle Street collapsed.  Miraculously, both the single old
+man asleep on guard and the young lovers who had snuck in for some
+privacy walked away with nothing worse than scratches.
 
 Rumors scampered around like rabbits.  The mountain had crushed an
 entire town when it berthed.  Hundreds were dead, or none, or a
@@ -4238,7 +4247,7 @@ so for them.  Some of the vocabulary is rather…advanced."
 
 Erileine slipped out of the infirmary and hurried along the corridor.
 None of the clerks and guards he passed took any notice of him.
-Outside, half of the militia in the market square had managed to form
+Outside, half of the militia in Mapmarket Square had managed to form
 up, spearmen and archers side by side.  The rest were still milling
 around, shouting for their companions or standing on tiptoe, waving to
 be seen.  *They don't even have proper uniforms*, Erileine thought.
@@ -4319,7 +4328,7 @@ make sure everything was there.  When the boy protested, Erileine
 said, "You told me yourself that you're a thief, remember?"
 
 He had walked with her back to the Hardeck.  The closer they got to
-the market square, the edgier he became, until he slipped away between
+Mapmarket Square, the edgier he became, until he slipped away between
 one step and the next.
 
 Stiff and slow, Razi sat up, then stood.  "Quick," he whispered
@@ -4662,7 +4671,7 @@ the alley.  Erileine tiptoed across.
 
 From where she huddled against the wall, the alley's mouth was a
 window onto hell.  The blast had blown a hole twenty strides across in
-the market square.  Gobbets of red-orange fire sizzled among the
+Mapmarket Square.  Gobbets of red-orange fire sizzled among the
 scattered bricks.  People ran back and forth, shouting and screaming,
 some trying to help the wounded, others trying to rescue their wares,
 and still others trying to knock down the stalls that were still
@@ -5232,9 +5241,9 @@ you."
 
 Razi sighed.  "Forecastle has been taken.  If there is a window left
 unbroken in the Hardeck, I didn't see it.  The Tinhead soldiers had
-the militia pile their spears and bows in the square, then sent them
-home.  The captain's guards, *la*, they are in the stock pens.  Or the
-infirmary, or dead."
+the militia pile their spears and bows in Mapmarket Square, then sent
+them home.  The captain's guards, *la*, they are in the stock pens.
+Or the infirmary, or dead."
 
 "What about Starboard Town?" Erileine asked anxiously.
 
@@ -5270,10 +5279,10 @@ bird cake.
 
 As she rolled over, the thief tossed one end of a rope out the window.
 The other end was already knotted around a beam.  Razi squirmed
-through the window a few moments later and tossed it back.
-Wordlessly, he untied the knot, coiled the rope, and stowed it in a
-nondescript canvas satchel.  Shouldering the bag, he took a larger one
-off the floor and handed it to Razi.
+through the window a few moments later.  Quickly, without a word, the
+thief untied the knot, coiled the rope, and stowed it in a nondescript
+canvas satchel.  Shouldering the bag, he took a larger one off the
+floor and handed it to Razi.
 
 The bookster put the strap over his shoulder.  "Lead the way," he told
 the thief.
@@ -8344,8 +8353,15 @@ strong.  "My lord, welcome.  Welcome back."
 
 "Yes, my lord.  Do you wish them returned to the earth?"
 
-«No.» The statue slowly swept its gaze around the chamber, taking in
-the now-silent machines, the awestruck Hett, and the silent, watchful
+The statue pointed.  «That one.»
+
+"No!" Erileine screamed as two Hett soldiers picked Razi up and
+carried him to the mountain's edge. "No!  Please!  Don't!"  The
+soldiers swung him back and forth once and then heaved him over the
+side.  She buried her face in her father's chest.  "No…"
+
+The statue slowly swept its gaze around the chamber, taking in the
+now-silent machines, the awestruck Hett, and the silent, watchful
 balconies.  «This place is a mess.»
 
 "Yes, my lord."
@@ -8369,15 +8385,16 @@ on the Avauntois.  «Go tell the world.  The Great Work begins.»
 
 One moment they were standing in the heart of the mountain.  The next,
 they were on Slip Street outside the gate of the Captain's House.
-"Hoy!" Gaeston grabbed the gate to steady himself.
+"Hoy!" Gaeston grabbed the gate to steady himself.  "What in all the
+hells was that!?"
 
-"Was that…  Was that a Pilot?" Erileine asked in awe.  Razi nodded.
+"I think that was a Pilot," Erileine said dully.
 
 "But they're dead!"
 
-Razi shrugged.  "Not any more."
+She shrugged.  "Not any more."
 
-Anything else he might have said was cut off as the ground lurched.
-Slowly but inexorably, the mountain began to turn over.
+Anything she might have added was cut off as the ground lurched
+beneath them.  Slowly but inexorably, the mountain began to turn over.
 
 *Here ends the first part of The Fall of the Flying Mountain.*

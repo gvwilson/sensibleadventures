@@ -6081,6 +6081,75 @@ on her bed, and was instantly asleep.
 
 ---
 
+Erileine woke to a gentle, irregular tapping sound, like pebbles
+clattering in a sieve. She slipped on her trousers and shirt, threw
+off her quilt, and padded barefoot down the stairs.
+
+"Ssh!" Queçenne hissed from beside the front door. Her hair was tousled,
+and she had her winter coat on over her nightdress. "Look at it."
+
+Erileine stood on tiptoes to peer through the half-open door over her
+sister's shoulder. The sky was a roiling mass of clouds. They had been
+dozing placidly, letting the wind carry them where it would, when the
+mountain had plowed into them without warning. Now they were
+panicking, dumping water to lighten themselves so that they could get
+out of its way.
+
+But their water wasn't falling as rain. Instead, hailstones the size of
+pearls were bouncing off the cobblestones to lie cold, white, and
+brilliant in the cracks between them. Erileine had never seen anything
+like it.
+
+"Do you think it's a sign?" Queçenne asked, hushed.
+
+Erileine blinked. "Uh, what? No. No, they're just–they're just frozen
+raindrops."
+
+"I know they're frozen raindrops," hr sister hissed. "I mean… I mean
+everything. All of it. Isn't there anything in all those books you
+read?  About what's happening?" She shivered and pulled her coat tight
+around her shoulders. For an unsettling moment she seemed like a
+little girl to Erileine. For that one moment she understood why their
+paere and maere sometimes looked at them so wistfully sometimes.
+
+The sisters watched the hail bounce off the cobblestones a few moments
+longer, until Queçenne said, "I'm going back to bed. If you find out
+anything, will you tell me?"
+
+Erileine smiled in the dark, remembering a Yearagain Eve long ago. "Only
+if you give me one of your painted eggs."
+
+Her sister scowled. "Idiot. You didn't even really know what they'd got
+for me."
+
+Erileine's smile broadened. "No, but it took you three eggs to figure
+that out."  She dodged her sister's half-hearted shoulder punch, then
+stepped out of the way to let her past. She was wearing the hair
+ribbon their father had bought for her in Forecastle, she noticed.
+
+Erileine watched the hail bounce off the cobblestones until the draft
+through the partly-open door raised goosebumps on her arms, then
+stooped and picked up one of the tiny white grains. It felt odd for a
+moment, almost powdery. Then it melted, leaving a slippery film
+between her thumb and finger that evaporated almost instantly.
+
+The drumming subsided and stopped as quickly as it had begun.
+Suddenly tired, she closed the door and tiptoed back upstairs to bed.
+
+As she lay there, curled on her side with her head pillowed on her
+arm, she wondered about the clouds Avaunt had panicked. What if people
+below had been counting on them for rain? She imagined herself as a
+groundling farmer, shaking her fist at the bad luck passing
+indifferently over her head. Her fields were too dry. One good
+rainfall, just one, would bring it to life, but the mountain had
+stolen that chance. If she and her family stayed in their little
+one-mill village they would starve. They loaded everything they had
+onto a cart, but it was all books, everything, piles of them, endless
+lists of verbs flying after each other like tiny birds… Her eyes
+closed again.
+
+---
+
 As Starboard Town's last morning of freedom dawned, the bosun was
 downing a mug of the strongest tea he had ever had.  He and Vurt were
 sitting behind Mamaere Mayeule's, looking at the unmoving forest that

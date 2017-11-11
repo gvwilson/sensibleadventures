@@ -3043,12 +3043,267 @@ perch upstairs with the birds."
 
 ---
 
-FIXME: anti-Hett riot (show the bigotry); Hett are badly hurt (we see
-the way they've been persecuted); Jaromir is involved (we see that
-he's a fighter); Klaues is injured in the riot while trying to be
-reasonable; Erileine and Laeuc wonder if they're on the right side;
-Razi uses his vial of darkness for the first time; mention the door
-soldiers.
+Like people everywhere, the Avauntois preferred the company of their
+own kind. Starboard Towners tended to stay at the Green Pig when in
+Forecastle, or in one of the two smaller hotels next door known as the
+Piglets.  If you were from Portside, you probably closed your eyes in
+the Tattered Flag, which took its name from a song that had been
+popular in Gandan a generation ago; if you'd walked all the way from
+Aft Landing, Im Awre's Bantangui-style hostel on Flat Saddle Street
+was your favorite port of call.  f you were poor, you scrubbed dishes
+in the militia's ordinary room so that you could sleep on its floor.
+And if you were Hett, you found what shelter you could half a gallop
+out of town, next to the tipping grounds where sawdust from the
+mountain's single sawmill was mulched with the contents of
+Forecastle's nightsoil jars before being spread on the town's
+vegetable gardens.
+
+The Starboard Towners were doubled up twice over, nine in rooms meant
+for three, on the Green Pig's upper floor.  At dinner, they talked
+over soup and sweet potato bread with Forecastlers who preferred
+eating out to cooking in.  Who had they seen? What had they bought,
+and for how much? *How* much?  Oh, that was a crime.  "Though you
+can't fault folk," a severe-looking woman said.  "If they weren't
+selling for twice what they ought, they'd never to be able to afford
+anyone else's prices, would they?"
+
+Heads nodded.  Salt, someone else said.  It had been hard to find
+salt, and what could be found was ten times its usual price.  Someone
+else mentioned boot leather.  "And tea," said a third.
+
+"Try the Hett house," another Forecastler said.  He had been silent
+until then, with his head bent over a wooden bowl of stew, and a thick
+gray Darpani-style ponytail hanging over the back of his chair.  "That
+Klaues fellow was the first one down the market when it happened.  Bet
+he's got tea.  *And* salt."
+
+Donaien snorted.  "Let him have it.  You can live without tea, if you
+have to."
+
+"Just like soap, eh?" one of the Starboard Towners jibed.  A few
+people laughed.
+
+Donaien flushed.  Armaend put a hand on his shoulder.  "Nothing
+special about tea," Armaend said.  "Why, my papaere used to boil
+burned bread instead.  Swore the leafy stuff never tasted half as
+rich.  Of course, if the water runs out..."
+
+Before anyone could answer that, there was a sharp rap on the window
+shutter.  "Can you get that, please?" the innkeeper's harried daughter
+called.  A Forecastler untied the latch string and pushed the shutter
+open.
+
+"Much obliged," squawked Jack the parrot, hopping from the window sill
+onto the table.  He shook himself with a quick rustle of feathers,
+preening one wing with quick strokes of his blunt beak as various
+people said hello.
+
+"Hoy!" A man at the next table beckoned to the innkeeper.  "Some
+crackers for our friend here!"
+
+The room instantly went so quiet that Erileine could hear the
+innkeeper's daughter complaining in the kitchen about the looks that
+one of the customers had been giving her.  The silence stretched out
+until the man who had spoken mumbled, "Sorry.  Just making a joke."
+
+"Well, nobody's laughing," someone muttered.
+
+Jack rustled his feathers again.  " So," he squawked brightly, "Who's
+buying the first round?"
+
+Erileine sat silently between her father and Razi as tiny glasses of
+steaming cider arrived, lost in her own thoughts, until she heard her
+name.  "Pardon?" she asked.
+
+"I said, I heard you met the captain today," Jack said.  "In the
+Hardeck."
+
+Erileine nodded.  "And a magician named Thomas who's come up from
+Gandan, and a man named Klaues."
+
+"Awwrk! Figures he'd be there.  His mouth's never more than your
+little finger from the captain's ear."
+
+Erileine hesitated.  "He said he'd been arrested."
+
+A few people laughed.  Puzzled, Erileine looked at her father.  "They
+arrest him every day," Laeuc said.  "Because of his house."
+
+As the innkeeper and his daughter wrestled an iron pot full of bread
+pudding in orange peel sauce onto the table for dessert, the room
+explained, doubling back every half sentence as someone added a
+correction or a detail or an opinion.  Hett weren't allowed to stay in
+town overnight, so Klaues' father, who had been the first Hett on
+Avaunt to have any real money, had built his house just a few steps
+past the boundary stone on Squid Street that marked the official edge
+of Forecastle.  A few years later, an old map had surfaced (or been
+forged–it depended who you asked) that put the boundary sixty strides
+further out.  Rather than toss the Hett out, the captain of the time
+had reached an understanding with them.  Every morning, at dawn, a
+bosun's mate knocked on the front door of the house and announced that
+every Hett inside was under arrest.  And every morning, the house's
+occupants answered with a short string of coins to pay the fine.
+
+"Of course, being Hett, they found a way to play it to their own end,"
+Jack finished.  "There's half a dozen houses there now, all roofed
+together so they can claim it's just one."
+
+"But they still all have to pay the fine every day," Laeuc countered.
+
+"So?" Jack pecked a piece of orange peel off the plate that Donaien
+had put in front of him.  "Still shouldn't be allowed.  I don't mind
+Vaszlav and the like---they know their station---but these new
+Hett...they're shifty."  He scratched the side of his head with a
+claw.  "Like cats."
+
+"Well then, here's to the real Avauntois!" The ponytailed Forecastler
+raised his glass.  Everyone else reached for theirs, saying, "The real
+Avauntois," with varying degrees of enthusiasm–everyone except Razi,
+who smiled slightly but said nothing.
+
+Conversation rambled after that.  When the innkeeper and his daughter
+came to clear the table, Razi wrapped his *deel* around his long legs
+and retired to a bench against the common room wall with a book.
+Erileine followed her father and the other Starboard Towners upstairs
+to their room.
+
+The sliver of cheap orange dayglass the innkeeper had given them threw
+distorted shadows on the walls as they took off their boots, coats,
+and overshirts, wrapped themselves in whatever blankets they had
+brought, and fell asleep on the bed, the floor, in hastily-slung
+hammocks, and Erileine in the corner, legs stretched out, head
+pillowed on a roll of blue goat's wool Laeuc had bought for Gaeston.
+She wondered how many others would have picked up something extra for
+Fraederiq's father as well.  *Most*, she bet herself guiltily.
+Gaeston wasn't popular, but he was still their neighbor.  She should
+get him something as well, and Queçenne too.
+
+She drifted into sleep, and then into dreams.  Fraederiq was so small
+that Erileine could have picked him up with one hand, except he was
+hiding among the pink bougainvilleas blooming in the Captain's House
+garden.  She tried to catch him with the blue blanket she held in her
+outstretched arms, but he bolted through her legs like a rabbit.  She
+shouted after him. Everyone else shouted too, angry that she had let
+the rabbit escape.
+
+It took her a moment to realize that she was awake, and that people
+really were shouting, and to remember where she was.  Men and women
+she'd known all her life were struggling to their feet around her,
+unshuttering dayglass lanterns and asking one another what was going
+on, who was yelling, was there a fire?
+
+There was.  Erileine could smell the smoke.  But the sounds outside
+the hostel's narrow window weren't the sounds of people organizing to
+fight it. They were angrier. And that crash–that was glass being
+shattered.
+
+A glance told her that Razi's hammock was empty and his bag gone.  She
+shoved her feet into her boots, ignoring her father's, "Stay here!"
+and ducked through the crush of grownups trying to get dressed and
+find their belongings and get out of each other's way all at the same
+time.
+
+Downstairs, around the table where she had eaten dinner a few hours
+before, out the door into a stream of people.  "Come on!" someone
+shouted, maybe at her, maybe at themselves, maybe just to shout. The
+sting of smoke was stronger now. Another crash of breaking glass.
+More shouting up ahead, too far away for her to make out words, but
+there was no mistaking the tone, angry and exulting.
+
+A lone bosun's mate tried to stem the tide. "Get back in your beds or
+I'll arrest the lot of you!"  She stepped in front of a bare-legged
+man in a winter-weight coat, reached for his sleeve, was knocked aside
+by someone else.  "Hey!" She spun around, helpless and seething.
+Erileine hurried past her, head down, her heart in her throat. She
+didn't know what was happening, not yet, but she knew it was bad.
+
+Up a dozen broad, shallow stairs, past a man kicking and kicking to
+work cobblestones loose for other people to snatch up, around a corner
+and only then realizing that the flickering light two stories above
+her was flames reflected in windows. There, on the other side of the
+waist-high marker showing where Forecastle had once officially ended,
+the Hett house was burning.
+
+"Bring 'em out! Bring 'em out!" the crowd chanted. Cobblestones flew,
+thumping against walls or sailing through windows already emptied of
+glass.  A tall man with a shaved head wound up and ran forward three
+steps and flung his stone.  The crowd cheered as it sailed up, up, up,
+and groaned as it dropped again just a stride short of the top-most
+window.
+
+A dozen bosun's mates stood in a line between the mob and the house's
+front door.  Erileine swallowed.  The ones anchoring each end had
+spears, and one of the mates in the middle had a bow.  They
+wouldn't–no.  They *couldn't*, not their fellow Avauntois.  This
+couldn't be–
+
+She shrieked and jumped as a hand came down on her shoulder.  "You
+should not be here," Razi said, low and urgent.  "It is not safe."
+
+"But–what happened?"  She flinched as the fire *whoomped* in a
+downstairs room. "Are they-the Hett–did they–"
+
+"*La*, they are out, if not safe," the bookster said, looking past her
+at the burning building. "They have seen such as this before, and were
+ready for it."
+
+"But who…" Erileine faltered. These were *her* people. How could
+they…?
+
+The bookster shrugged, his face expressionless, his hand on her
+shoulder pushing gently to guide her back away from the crush without
+her really realizing that she was moving. "Someone had too much to
+drink.  *La*, or someone has a debt they think they should not have to
+pay, or perhaps one of the Hett didn't step out of the way on the
+street quickly enough.  It is like asking which drop of rain makes the
+dam break."
+
+A shout cut through the night. "Let go of me!" Erileine and a hundred
+others whirled around.  Three men were dragging a struggling fourth
+through the crowd.  It was Klaues, Erileine realized, bloody-faced and
+frightened.
+
+The crowd whooped.  "Throw him in!  Throw him in!"  A hundred voices
+picked up the chant.  The men holding the hapless Hett were beaming as
+if this was a goat-shearing contest and they had just won first prize.
+
+"Stop!" the bosun's mate with the bow bellowed. He notched an arrow,
+raised, aimed, and staggered back as a cobblestone hit him in the
+head.  "Throw him in!" the crowd shouted, pelting the lines of bosun's
+mates with whatever they could grab.
+
+Razi's hand tightened on Erileine's shoulder. "Enough," he said in a
+voice that frightened her in a way the scene in front of her hadn't.
+Stepping away from her, he slipped a hand inside his *deel* and pulled
+out a small blue vial.  "You will go back to the hostel," he ordered.
+She nodded jerkily, but he had already cocked his arm and thrown.
+
+Nobody noticed the little vial sail through the air. Nobody heard it
+shatter on the stones a double stride away from the men holding
+Klaues.  And for the first vital heartbeat, nobody noticed the
+darkness billowing out of it.  It swirled like coffee poured into
+milk.
+
+Shouts turned from anger to panic. What was happening? Had the Hett
+worked a spell? People stumbled back, not noticing Razi run
+light-footed into the darkness instead.
+
+"Line advance!" the chief bosun's mate shouted, seeing his chance.  He
+and his squad locked arms and marched forward.  The crowd swirled and
+broke, the anger of a moment before now confusion.
+
+Erileine turned and ran a double dozen strides, then pulled up short
+in the lee of a pushcart someone had left outside their front door
+overnight.  There!  Even as the patch of inky darkness began to thin,
+Razi emerged on its far side, one arm around Klaus, the Hett's own arm
+over the bookster's shoulder. Erileine waited a moment longer for the
+last of the magical darkness to dissipate and reveal the prone figures
+of the three men who had been holding Klaues. One tried to sit up,
+thought the better of it as the line of bosun's mates reached him, and
+slumped back to the cobblestones.  Razi and Klaues disappeared into an
+alley.  Erileine swallowed the hurt in her throat and joined the
+stream of people who were no longer a mob hurrying back to their
+lives.
 
 ---
 

@@ -1738,7 +1738,7 @@ though I don't suppose he remembered that.
 
 "Id doedn't madder,"
 he said sullenly.
-I wuz'd going to uze id agaid adyway."
+"I wuz'd going to uze id agaid adyway."
 
 That's when the shouting started.
 And that's when Vurt said things a son should never say to his father,
@@ -10338,7 +10338,12 @@ who shrugged eloquently.
 "Stay here," the horse said.
 They walked away.
 
-I sat back down on the lip of the well to wait, ignoring the looks both curious and speculative from the three guardsmen on the other side of the square. What exactly was a well-bred Coriandi lady discussing with a Gifted horse and his down-at-heels Darpani rider? I tried to think of a plausible lie, then of one that didn't simply sound mad.
+I sat back down on the lip of the well to wait,
+ignoring the looks both curious and speculative from the three guardsmen on the other side of the square.
+What exactly was a well-bred Coriandi lady discussing
+with a Gifted horse and his down-at-heels Darpani rider?
+I tried to think of a plausible lie,
+then of one that didn't simply sound mad.
 
 I was still thinking when the horse and the Darpani came back.
 "Yes," the horse told me without preamble.

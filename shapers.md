@@ -136,7 +136,7 @@ The task is Tough,
 so the director rolls 3 dice and gets 1 success.
 The lock clicks open and Shau Sheu staggers out of the room, coughing.
 
-## Core Traits
+## Characteristics and Skills
 
 By default,
 every character has an Average rating for these characteristics:
@@ -159,15 +159,28 @@ every character has an Average rating for these characteristics:
 - **Sight**, **Hearing**, and **Smell**.
   Note that Smell includes the sense of taste.
 
-Non-player characters (NPCs) may have two extra traits:
+If they're going to be an important part of the game,
+extras (non-player characters) may have two more characteristics:
 
 - **Courage**: how brave the character is.
 
 - **Honesty**: how likely the character is to tell the truth.
 
-Player characters (PCs) don't have scores for these
+Players' characters don't have scores for these
 because being brave and telling the truth (or not) are part of the game.
-NPCs only need to be given scores for these traits when it's important.
+
+Characters may also have ratings for these characteristics,
+all of which are Novice level (1 die) by default:
+
+- **Acting**: impersonating people, feigning illness, etc.
+- **Awareness**: noticing little details (a good skill for a detective).
+- **Charisma**: charming people (or intimidating them).
+- **Crafts**: fixing clocks, knitting, and other handicrafts.
+- **Fighting**: hand-to-hand combat.
+- **Healing**: first aid and treating poisons and diseases.
+- **Stealth**: the fine art of not being noticed.
+- **Survival**: making a fire, knowing what's good to eat, etc.
+- **Trivia**: general background knowledge.
 
 ## Species
 

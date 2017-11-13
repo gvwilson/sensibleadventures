@@ -16,8 +16,8 @@ while the Director plays all the other characters.
 The Director can be an adult,
 but children age 10 and older can also be Directors.
 
-> Note:
-> these rules are derived from Atomic Sock Monkey's PDQ rules.
+> These rules are derived from [Third Eye Games][third-eye]'
+> [Pip System][pip-system].
 
 ## Background
 
@@ -38,58 +38,79 @@ Your choices will determine how the game unfolds.
 
 ## Game Mechanics
 
-Every character in *Shapers and Bots* is described by a handful of *traits*.
+Every character in *Shapers and Bots* is described by their *characteristics* and *skills*.
 Everything a character might want to do,
 like climb a wall,
 has a *difficulty*.
 Together,
 the two determine the odds of the character doing what they want to do.
 
-Every traits has a level with an associated *modifier*:
+Characteristics and traits are expressed in how many dice the player gets to roll:
 
-| Trait Rating | Modifier |
-| ------------ | -------: |
-| Very Low     | -4       |
-| Low          | -2       |
-| Average      | 0        |
-| High         | +2       |
-| Very High    | +4       |
-| Extreme      | +6       |
+| Rating      | Number of Dice |
+| ----------- | -------------: |
+| Untrained   |              0 |
+| Novice      |              1 |
+| Hobbyist    |              2 |
+| Competent   |              3 |
+| Expert      |              4 |
+| Outstanding |              5 |
 
-Every difficulty also has a level and a *target*:
+Every difficulty also has a number of dice associated with it:
 
-| Task Difficulty | Target |
-| --------------- | -----: |
-| Trivial         | 3      |
-| Easy            | 5      |
-| Average         | 7      |
-| Difficult       | 9      |
-| Hard            | 11     |
-| Challenging     | 13     |
-| Impossible      | 15     |
+| Difficulty | Number of Dice |
+| ---------- | -------------: |
+| Simple     | 1              |
+| Average    | 2              |
+| Tough      | 3              |
+| Amazing    | 4              |
+| Legendary  | 5              |
 
 When a character wants to do something,
-she rolls two dice
-and adds the modifier for her trait.
-If the total is equal to or greater than the tasks' target,
-she succeeds;
-if it is less,
-she fails.
+her player rolls as many dice as her rating gives her.
+Each 4, 5, or 6 counts as a success.
+The Director then rolls the number of dice indicated by the difficulty
+and adds up the number of successes.
+They then compare scores:
+
+| Outcome                               | Meaning                        |
+| ------------------------------------- | ------------------------------ |
+| Player's score is higher              | Success!                       |
+| Player's score is higher by 3 or more | Epic success                   |
+| Player's score is lower               | Failure                        |
+| Player's score is lower by 3 or more  | Epic failure                   |
+| Tie                                   | Success, but with complication |
+
+> If you don't have enough dice, you can use coins:
+> heads counts as a failure, and tails counts as success.
 
 For example,
-suppose that Shau Sheu has a High rating for Climbing, and wants to climb an Average wall.
-She rolls two dice and gets a 3 and a 4.
-Adding them together, and adding another 2 for her Good rating,
-gives a total of 9.
-This is greater than the 7 needed to do an Average task,
-so she succeeds.
+suppose that Shau Sheu is an Expert climber and is faced with a Tough wall.
+She rolls 4 dice and gets 2, 3, 5, 6, for a total of 2 successes.
+The Director rolls 3 dice and gets 1, 2, 4, for a total of 1 success,
+so Shau Sheu has climbed the wall successfully.
 
 Now suppose she needs to climb a slippery icefall.
-The task is challenging,
-so she needs to get 13 or better to do it.
-She rolls 2 and 6, adds 2 for her Good rating.
-The total is only 10,
-so she slips and falls.
+The difficulty is Legendary,
+so she needs a better score with 4 dice than the Director gets with 5 dice.
+Once again, Shau Sheu gets 2 successes,
+but all 5 of the Director's dice come up successes!
+Since Shau Sheu has lost by 3 or more,
+it is an epic failure:
+she doesn't just fall,
+but a whole section of the ice breaks away with her.
+
+Later,
+having survived the ice fall thanks to quick intervention by a flying bot,
+Shau Sheu needs to climb another Tough wall.
+Once again, she scores 2 successes.
+The Director also scores 2 successes;
+since the result is a tie,
+Shau Sheu has succeeded,
+but has dislodged a stone.
+As it goes tumbling into the depths of the ravine,
+the noise it makes alerts the guards above her.
+Shau Sheu's day is about to get a little more interesting…
 
 ## Core Traits
 
@@ -357,3 +378,6 @@ or gambling to try to win a recharge.
 | Sight     | Average | Navigation   | High      |
 | Hearing   | Low     |              |           |
 | Smell     | None    |              |           |
+
+[pip-system]: https://thirdeyegames.net/pip-system/
+[third-eye]: https://thirdeyegames.net/

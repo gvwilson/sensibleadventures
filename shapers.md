@@ -49,7 +49,6 @@ Characteristics and traits are expressed in how many dice the player gets to rol
 
 | Rating      | Number of Dice |
 | ----------- | -------------: |
-| Untrained   |              0 |
 | Novice      |              1 |
 | Hobbyist    |              2 |
 | Competent   |              3 |
@@ -112,14 +111,39 @@ As it goes tumbling into the depths of the ravine,
 the noise it makes alerts the guards above her.
 Shau Sheu's day is about to get a little more interesting…
 
+### Fluke
+
+If a character has no rating at all,
+they can still succeed by fluke.
+The player rolls a single die:
+if it is a 6,
+it counts as a success,
+and they get to roll again.
+Their score is then the number of 6's they rolled in a row.
+However,
+a 1 at any point is automatically an epic failure.
+
+For example,
+Shau Sheu is trying desperately to open a mag-locked door
+before the gas leaking into the room suffocates her.
+She has no rating at all in lock-picking,
+so she can only succeed by fluke.
+She rolls a 6!
+And another 6!
+And then a 3,
+giving her a total score of 2 successes.
+The task is Tough,
+so the director rolls 3 dice and gets 1 success.
+The lock clicks open and Shau Sheu staggers out of the room, coughing.
+
 ## Core Traits
 
-Every character has an Average rating for these seven traits by default:
+By default,
+every character has an Average rating for these characteristics:
 
 - **Size**: how large the character is.
-  In exceptional cases,
-  a character may have separate **Height** and **Weight** traits
-  instead of a single Size trait.
+  A character may have separate **Height** and **Weight** traits instead
+  if that's a better way to describe the character.
 
 - **Fitness**: how strong and coordinated the character is,
   i.e.,
@@ -128,8 +152,9 @@ Every character has an Average rating for these seven traits by default:
 - **Dexterity**: how good the character is with their hands.
   This determines whether they can pick a lock or play a musical instrument.
 
-- **IQ**: how good the character is at book learning and puzzle solving.
-  A character with a low IQ is not necessarily stupid.
+- **Intellect**: how good the character is at book learning and abstract reasoning.
+  A character with a low intellect is *not* stupid:
+  they just don't like solving logic puzzles.
 
 - **Sight**, **Hearing**, and **Smell**.
   Note that Smell includes the sense of taste.

@@ -7911,7 +7911,7 @@ not through the tunnels one leg.  Laeuc would come, and Gaeston was
 the best archer in Starboard Town, so that meant Marq as his spearman,
 and Armaend and Donaien made six.
 
-The next question was how to get to the *Presumption*.  "I can hlep
+The next question was how to get to the *Presumption*.  "I can help
 with that," Vurt said.  "I left a few presents on the stairs in case
 anyone came snooping."
 

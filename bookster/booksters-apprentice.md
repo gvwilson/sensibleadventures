@@ -1421,8 +1421,8 @@ something dark and hairy out of his shoulder bag and held it out.
 
 Erileine looked at it sidelong.  A little larger than her two fists
 put together, covered in coarse, dark fibers, with scraped-out
-diamond-shaped eyes and a ragged grin full of carved fangs…  "What the
-cake is that?"
+diamond-shaped eyes and a ragged grin full of carved fangs…  "What is
+it?"
 
 "It's a head," Niquolas said proudly.  "For a door soldier.  C'mon,
 you remember–I was going to trade some of 'em to the Hett for that
@@ -3562,9 +3562,9 @@ anything to brighten my day?"
 Razi shook his head.  "*La*, no, not in your library.  But elsewhere…"
 He quickly described the men they had seen.
 
-The captain's expression hardened as the bookster spoke.  "By all the
-failed saints," he swore.  "Klaues swore this was nothing to do with
-his people."
+The captain's expression hardened as the bookster spoke.  "By the
+death of dogs," he swore.  "Klaues promised me this was nothing to do
+with his people."
 
 "*La*, perhaps he is as ignorant of what is being done as we were,"
 Razi suggested.  "From what I am told, the tinker's assistant is new
@@ -5550,59 +5550,65 @@ The bookster laced his fingers together to make a stirrup.  Tucking
 the Praczny storybook into his jacket, the thief stepped into it.
 Smoothly, with no sign of the wound that had nearly killed him the day
 before, Razi boosted him up to the window.  He opened the shutter and
-slipped through.
+wriggled through.
 
 The bookster gestured with his cupped hands at Erileine.  As Razi
-lifted her, she grabbed the window ledge.  Her feet scrabbled
-uselessly on the bricks for a moment before she got her weight through
-the window and fell onto a warped plank floor crusted with ancient
-bird cake.
+lifted her, she grabbed the windowsill.  Her feet scrabbled uselessly
+on the bricks for a moment before she got her weight through the
+window and fell onto a warped plank floor crusted with ancient bird
+cake.
 
 As she rolled over, the thief tossed one end of a rope out the window.
 The other end was already knotted around a beam.  Razi squirmed
 through the window a few moments later.  Quickly, without a word, the
 thief untied the knot, coiled the rope, and stowed it in a nondescript
-canvas satchel.  Shouldering the bag, he took a larger one off the
-floor and handed it to Razi.
+canvas satchel.  Shouldering the bag, he picked up a larger one that
+was waiting on the floor and handed it to Razi.
 
-The bookster put the strap over his shoulder.  "Lead the way," he told
-the thief.
+The bookster slipped its strap over his shoulder.  "Lead the way," he
+ordered.
 
-They were in an old warehouse, Erileine discovered.  Pigeons, irvings,
-and other birds had left years of cake on the floor.  The crates
-stacked on the wall opposite the window were new, but everything else
-looked and smelled as if it had been there for years.
+They were in an old warehouse.  Pigeons, irvings, and other birds had
+left years of cake on the floor.  Everything looked and smelled as if
+it had been there for years.
 
-"Rooftops are fine in stories," Razi said in a lecturing tone.  "But
-it is hard to move quietly on tiles, and if anyone else is higher than
-you, *la*, bows are not rare things in this world, and arrows are
-difficult to outrun.  It is always better to move under cover."  As he
-spoke, he drew a workman's knife from his bag and gouged the mortar
-away from some of the bricks in the wall near the crates to reveal a
-thick cord.  Grabbing hold of it, he braced his foot against the wall
-and yanked sharply.  As the cord went taut it dislodged even more
-mortar.  A final yank toppled a small section of wall inward for him
-to catch and lower quietly to the floor.
+"Rooftops are fine in stories," the thief said to Erileine as if
+reciting a lecture.  "But it's hard to move quietly on tiles, and if
+anyone is above you, arrows are difficult to outrun.  It is always
+better to move under cover."  As he spoke, he drew a workman's knife
+from his bag and gouged the mortar away from some of the bricks in the
+wall near the crates to reveal a thick cord.  Grabbing hold of it, he
+braced his foot against the wall and yanked sharply.  As the cord went
+taut it dislodged even more mortar.  A final yank toppled a small
+section of wall inward for him to catch and lower quietly to the
+floor.
 
-"How are you going to close it up again?" the thief asked, admiring
-the opening into the building next door as if it were a work of art.
+"*La*, well done," Razi said, admiring the newly-made hole as if it
+were a work of art. "How are you going to close it up again?"
 
-"Why would I?" Razi asked.  He gestured for Erileine to squeeze
-through the hole.  "I'd be a fool to ever come back here."
+"Why would I?" the thief asked.  "We'd be fools to ever come back
+here."
 
-"But what about all the stuff in the crates?" the thief protested.
+"But leaving it…"  The bookster pursed his lips like chef tasting an
+apprentice's first omelette. "You make it easy for others to follow
+you."
 
-"It would just slow us down," Razi said.  "Right now, *la*, the most
-important thing is to keep moving." He shooed the thief through the
-hole and followed them on his hands and knees.
+The thief made an exasperated noise in the back of his throat.
+"You're never happy, are you?"
+
+Erileine felt a pang of jealousy as Razi grinned and tousled the boy's
+hair.  "Right now, *la*, the most important thing is to keep moving."
+He shooed Erileine and the thief through the hole and followed them on
+his hands and knees.
 
 The second warehouse was as decrepit as the first.  A flight of stairs
-and a weather-beaten door took them to a tinsmith's backyard forge.
-The smithy's front door looked out onto the yard behind the steam
-baths where Razi had fought the soldiers the day before.  Their
-bodies, and those of the three Avauntois militiamen they had slain,
-were gone.  Dark stains on the cobblestones were all that remained to
-show Erileine that the fight had actually happened.
+and a weather-beaten door took them to a wicker bender's back yard
+filled with corded rolls of rattan and bamboo.  A hole in its fence
+looked out onto the yard behind the steam baths where Razi had fought
+the soldiers the day before.  Their bodies, and those of the three
+Avauntois militiamen they had slain, were gone.  Dark stains on the
+cobblestones were all that remained to show Erileine that the fight
+had actually happened.
 
 Razi halted, pressed himself against the wall, and glanced quickly
 around the corner.  "Soldiers," he said quietly.
@@ -5611,20 +5617,26 @@ around the corner.  "Soldiers," he said quietly.
 thief said.  "Her downstairs has a delivery door on Sweet Icicle
 Street.  It's only a couple of streets from there to the Rabbit."
 
-Razi shook his head.  "We're not going to the Rabbit.  We're going
-straight back to Starboard Town."
+Razi shook his head.  "We're not going to the Rabbit.  We're going to
+Starboard Town."
 
-For the first time, the thief seemed unsure of himself.  "But…  What
-if…" He left the question unfinished.
+"What? Wait!" the thief hissed.  "What about–what about Forecastle?
+What about the captain?"
 
-Razi put a hand on his shoulder.  "You can do nothing here.  *La*, nor
-can I.  We can help most by making ourselves safe.  Besides, did you
-not say that you wanted to see some more of the world?"
+Razi put a hand on his shoulder.  "Piaerre, you can do nothing here.
+*La*, nor can I.  We can help most by making ourselves safe.  Besides,
+did you not say that you wanted to see some more of the world?"
 
 The thief wrinkled his nose.  "I didn't mean Starboard Town."
 
 Razi smiled.  "*La*, well, it may be a better place to begin than you
 think.  Come."
+
+Razi slipped through the hole in the fence. The thief gestured
+impatiently for Erileine to go next.  She paused.  "Paierre?"
+
+The thief made a face.  Erileine grinned and followed Razi into the
+next yard.
 
 It took them half an hour to make a journey that would have been a
 five-minute walk the day before.  Forecastle was deserted.  There were
@@ -5634,9 +5646,9 @@ spinning Bantangui tops or playing dance-with-your-mother on the
 cobblestones.  The town's kites still flew, but the tramp of marching
 feet and the shrill calls of the soldiers whistles were all around.
 
-Razi never hurried.  When he moved, he moved quickly, darting from one
+Razi never rushed.  When he moved, he moved quickly, darting from one
 shadow to another, but he spent more time listening and waiting than
-he did in motion.  Erileine felt a pang of jealousy the first time her
+he did in motion.  Erileine felt another pang of jealousy when her
 teacher held up a hand and made a series of quick signs that sent the
 thief back the way they had just come.  The two clearly knew each
 other.  But then why had Razi let the bosun arrest him?
@@ -5685,9 +5697,10 @@ stop your skin from going stiff and cracking."
 Erileine wrinkled her nose at the smell.  "You have stuff just for
 that?"
 
-The bookster shrugged.  "Actually, it's for cows' udders in winter."
+The corner of the bookster's mouth quirked.  "Actually," he confessed,
+"It's for keeping cows' udders soft in winter."
 
-"Oh." Erileine digested that.  She looked around.  "So how many places
+"Oh." Erileine digested that as she looked around.  "So how many places
 like this do you have?"
 
 "In Forecastle?" Razi turned his hands palms-up.  "Just the two you
@@ -5740,10 +5753,10 @@ In the end, Razi had to wake Erileine from an uncomfortable doze.
 "It's time," he said softly, shaking her shoulder.
 
 The bookster's bag empty lay neatly folded on a shelf.  The tube
-holding Lady Kembe's picture was slung over his shoulder on a cord.
-The rest of his things were hidden in the depths of his *deel*, except
-for the green sword bottle that hung from his belt and a coil of rope
-that he wore over one shoulder and across his chest.
+holding Lady Kembe's picture hung over his shoulder on a cord.  The
+rest of his things were hidden in the depths of his *deel*, except for
+the green sword bottle that hung from his belt and a coil of rope that
+he wore over one shoulder and across his chest.
 
 "All clear," the thief whispered loudly from the basement.
 
@@ -6150,8 +6163,8 @@ Just then, something rustled in the bushes behind Razi.  The bookster
 whipped out his sword as Piaerre grabbed Erileine's sleeve and pulled
 her the other way.
 
-"It's me, it's just me," a familiar voice said shakily.  Arms raised,
-a battered-looking Vaszlav stepped into the clearing.
+"It's me, it's just me," a familiar voice pleaded.  Arms raised,
+Vaszlav stepped into the clearing.
 
 Razi poured his blade back into its bottle.  "*La*, and what is it
 that has happened to you?  Is this Gaeston's doing?" The tinker's face
@@ -6398,17 +6411,30 @@ for me."
 
 Erileine's smile broadened. "No, but it took you three eggs to figure
 that out."  She dodged her sister's half-hearted shoulder punch, then
-stepped out of the way to let her past. She was wearing the hair
-ribbon their father had bought for her in Forecastle, she noticed.
+surprised them both by putting her arms around Queçenne and giving her
+sister an awkward hug.
 
-Erileine watched the hail bounce off the cobblestones until the draft
-through the partly-open door raised goosebumps on her arms, then
-stooped and picked up one of the tiny white grains. It felt odd for a
-moment, almost powdery. Then it melted, leaving a slippery film
-between her thumb and finger that evaporated almost instantly.
+She was wearing the hair ribbon their father had bought for her in
+Forecastle, Erileine noticed.  "I'm sorry about Fraederiq," Erileine
+mumbled into her sister's shoulder.
 
-The drumming subsided and stopped as quickly as it had begun.
-Suddenly tired, she closed the door and tiptoed back upstairs to bed.
+Queçenne froze.  Erileine let go of her, an apology already rising in
+her throat, but her sister pulled her back into the hug and squeezed
+her.  "It wasn't your fault," she said.
+
+The two young women sniffled in unison, both laughing shakily at the
+sound and then again at their own laughter.  "Don't stay up too late,"
+Queçenne said, stepping around Erileine to go back into the house.
+
+"I won't," Erileine promised. She stood and watched the hail bounce
+off the cobblestones until the draft through the partly-open door
+raised goosebumps on her arms, then stooped and picked up one of the
+tiny white grains. It felt odd for a moment, almost powdery. When it
+melted, it left a slippery film between her thumb and finger that
+evaporated almost instantly.
+
+The drumming subsided and stopped as quickly as it had begun.  She
+closed the door and tiptoed back upstairs to bed.
 
 As she lay there, curled on her side with her head pillowed on her
 arm, she wondered about the clouds Avaunt had panicked. What if people

@@ -991,8 +991,7 @@ younger daughter, watching helplessly as his wife gathered their
 oldest child into her arms and made soothing noises.
 
 "I suppose," Erileine said.  It didn't seem right, practicing verbs
-when someone she had known all her life had just died, but what else
-could she do?
+after what had just happened, but what else could she do?
 
 She trudged up Slip Street to the Captain's House, watching sidelong
 to see if anyone's face changed when they caught sight of her.  "It
@@ -1007,13 +1006,20 @@ the morning light and went inside.  Unlacing her boots, she slipped
 her feet into the fleece slippers that waited beside the door and went
 into the library.
 
-Razi was sitting in his usual place at the narrow table that stretched
-nearly the length of room.  The lantern by his elbow shone dull
-orange, its stored daylight exhausted.  Behind him, an inexpert
-watercolor of the Pilot ruins on Avaunt's peak hung next to a much
-more competent rendering in ink of Forecastle seen in three-quarters
-view.  The rest of the walls were shelves packed to bursting with–with
-everything, Erileine had come to realize.
+Razi sat at the narrow table that stretched the length of room, just
+as he had four days a week since his arrival.  He walked to Forecastle
+every Bluesday, leaving after lunch and returning in time for
+Purplesday dinner with Erileine's family.  "*La*, because my belly and
+I spend enough time sitting," he explained when Erileine's mother
+Sehdie asked why.  "And because reading a book is like chewing it–if
+you would truly understand what it said, you need time to digest."
+
+The lantern by Razi's elbow shone dull orange, its stored daylight
+exhausted.  Behind him, an inexpert watercolor of the Pilot ruins on
+Avaunt's peak hung next to a much more competent rendering in ink of
+Forecastle seen in three-quarters view.  The rest of the walls were
+shelves packed to bursting with–with everything, Erileine had come to
+realize.
 
 "Clear day, bookster," Erileine said, replacing the spent piece of
 dayglass in the lantern with the freshly-charged one.
@@ -1285,10 +1291,9 @@ hurried toward home.
 
 ---
 
-Yellowsday, Peridot 13^th^, dawned clear and cold.  Most days did on
-Avaunt.  Except during storms, the only clouds that flew higher than
-the mountain were old gray bulls spread so thin that they could hardly
-be seen.
+The next dawned clear and cold.  Most days did on Avaunt.  Except
+during storms, the only clouds that flew higher than the mountain were
+old gray bulls spread so thin that they could hardly be seen.
 
 But there were no cloud bulls in the sky that morning, no stately
 white heifers pillowed on top of one another, no streaky calves barely
@@ -1729,12 +1734,12 @@ her dayglass night light and waited for dawn.
 
 ---
 
-Greensday, Peridot 14^th^.  Starboard Town woke to discover that the
-mountain had sped up during the night.  The steady half-gallop-an-hour
-breeze of its passage had had become a steady wind that blew people's
-hair back, rattled doors, and made chickens restless in their coops.
-Branches rustled against each other nervously, while overhead, the
-town's kites jerked on their strings as if trying to escape.
+Starboard Town woke to discover that the mountain had sped up during
+the night.  The steady half-gallop-an-hour breeze of its passage had
+had become a steady wind that blew people's hair back, rattled doors,
+and made chickens restless in their coops.  Branches rustled against
+each other nervously, while overhead, the town's kites jerked on their
+strings as if trying to escape.
 
 For the people gathering in front of Mamaere Mayeule's, the mountain
 speeding up somehow felt worse than it changing direction.  The steady
@@ -5652,7 +5657,9 @@ shadow to another, but he spent more time listening and waiting than
 he did in motion.  Erileine felt another pang of jealousy when her
 teacher held up a hand and made a series of quick signs that sent the
 thief back the way they had just come.  The two clearly knew each
-other.  But then why had Razi let the bosun arrest him?
+other, and she would bet every book on Avaunt that he was the real
+reason for Razi's weekly visits to Forecastle.  But then why had Razi
+let the bosun arrest him?
 
 The bookster squatted and duck-walked through a waist-high gap beneath
 a broken wooden gate.  When Erileine followed, she found the bookster
@@ -6424,8 +6431,20 @@ her throat, but her sister pulled her back into the hug and squeezed
 her.  "It wasn't your fault," she said.
 
 The two young women sniffled in unison, laughed shakily at the sound
-and then again at their own laughter.  "Don't stay up too late,"
-Queçenne said, stepping around Erileine to go back into the house.
+and then again at their own laughter.  "It wasn't your fault about
+Niquolas leaving either," Queçenne continued.
+
+"My fault?" Erileine asked, bewildered.  "Why would it be my fault?"
+
+Her sister studied her face.  "His note–he was sweet on you.  Didn't
+you know?"  Queçenne smiled at Erileine's bewildered look.  "You know,
+for someone who's so smart, you can be pretty stupid sometimes."
+
+"I guess so."  Erileine hugged herself.  *Niquolas?* she thought.
+*Really?*
+
+"Anyway, don't stay up too late." Queçenne stepped around her sister
+to go back into the house.
 
 "I won't," Erileine promised. She stood and watched the hail bounce
 off the cobblestones until the draft through the partly-open door

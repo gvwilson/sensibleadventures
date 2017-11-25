@@ -724,7 +724,8 @@ didn't stop to chat.
 The Captain's House watched over Starboard Town from the top of Slip
 Street like a shepherd watching her flock.  The old captain had still
 been living there when Erileine was born.  After his death, it had
-been empty until Razi had arrived to catalog its eclectic collection
+been empty until Razi had arrived one morning with a letter from the
+current captain saying that he was to catalog its eclectic collection
 of old books and yellowing papers.
 
 That morning, the walled garden in front of the house was a riot of
@@ -761,7 +762,8 @@ yourself!" Again and again Fraederiq punched Erileine in the face with
 her own fist.  Hot tears stung Erileine's eyes.  She opened his mouth
 to yell for help.
 
-And without warning, the mountain lurched beneath them.
+And without warning, the mountain lurched beneath them and Erileine
+shook herself free from Fraederiq and started to run.
 
 ---
 
@@ -5458,10 +5460,10 @@ starving.
 "He went to find food," the boy said.  "But there are soldiers
 everywhere.  I'm supposed to watch you in case they come this way."
 
-"What?" Erileine flexed her left hand.  It wasn't her *eye* that felt
-strange…
+"What?" Erileine flexed her left hand.  It wasn't her eye that felt
+strange–it was her hand that couldn't feel anything at all.
 
-The boy nodded at it.  "Is that from healing him?"
+The boy nodded at it.  "Is that from what you did for him?"
 
 "Yeah."  Erileine flexed her fingers experimentally.  She could see
 them moving, but couldn't feel a thing.  She tapped her palm with a
@@ -5472,29 +5474,28 @@ squeezed so hard that her arm trembled.
 "You did all right," the thief offered.  "He looked fine."
 
 Erileine smiled weakly.  "To be honest, I would have preferred to let
-Nuu Ciy take care of him.  Do you know where he went?"
+Nuu Ciy take care of him."
 
-The thief rolled his eyes.  "I *said*, he went to get something to
-eat.  But there are soldiers everywhere.  Half the market burned down,
-and they knocked the dock right off the mountain, and everybody is
-supposed to stay indoors.  And they killed the bosun.  I saw his body.
+The thief scowled.  "Like *she* knows anything," he muttered.
+
+"She did all right when he got shot," Erileine countered.  "Anyway, do
+you know where he went?"
+
+The thief rolled his eyes.  "I *said*, he went to find food.  But
+there are soldiers everywhere.  Half the market burned down, and they
+knocked the dock right off the mountain, and everybody is supposed to
+stay indoors."  He hesitated.  "The bosun's dead.  I saw his body.
 And Allaere, and the glazer, and a whole house fell down on Unlikely
 Street with people inside." He bunched his shoulders inside his
-oversized jacket.  "Nobody knows what happened to the captain."
+oversized jacket.  "I don't know what happened to the captain."
 
-"What about the doctress?" Erileine asked, thinking about the magic
-Nuu Ciy had worked on Razi, and about her hand.
+"What's your name, anyway?" Erileine asked after a moment.
 
-The boy's mouth twisted.  He shrugged as if to say, it's no concern of
-mine.
+The boy stiffened.  "Who wants to know?"
 
-"What are you doing here, anyway?" Erileine asked.
-
-The boy stiffened.  "What do you mean?"
-
-"I mean, what are you doing here?  First Razi catches you stealing,
-then you start following me around, then you steal that book, then you
-break into the inn, and now you're–"
+"Just asking."  Erileine studied him.  "First Razi catches you
+stealing, then you start following me around, then you steal that
+book, then you break into the inn, and now you're–"
 
 "And now he's making sure no soldiers find you.  *La*, which they
 certainly will do if you don't keep your voice down."  Erileine spun
@@ -5573,7 +5574,7 @@ left years of cake on the floor.  Everything looked and smelled as if
 it had been there for years.
 
 "Rooftops are fine in stories," the thief said to Erileine as if
-reciting a lecture.  "But it's hard to move quietly on tiles, and if
+repeating a lecture.  "But it's hard to move quietly on tiles, and if
 anyone is above you, arrows are difficult to outrun.  It is always
 better to move under cover."  As he spoke, he drew a workman's knife
 from his bag and gouged the mortar away from some of the bricks in the
@@ -6422,8 +6423,8 @@ Queçenne froze.  Erileine let go of her, an apology already rising in
 her throat, but her sister pulled her back into the hug and squeezed
 her.  "It wasn't your fault," she said.
 
-The two young women sniffled in unison, both laughing shakily at the
-sound and then again at their own laughter.  "Don't stay up too late,"
+The two young women sniffled in unison, laughed shakily at the sound
+and then again at their own laughter.  "Don't stay up too late,"
 Queçenne said, stepping around Erileine to go back into the house.
 
 "I won't," Erileine promised. She stood and watched the hail bounce

@@ -68,9 +68,9 @@ brightness of the morning, praying that Mamaere Mayeule hadn't left
 any barrels out to air.
 
 Fraederiq was only a dozen strides behind her when Erileine burst into
-the little courtyard behind the tavern.  She jumped over a chair,
-banged her knee against a second without stopping, and pulled herself
-over the stone wall at the rear of the courtyard.  The mountain wasn't
+the little courtyard behind the tavern.  She jumped over a cat, banged
+her knee against a second without stopping, and pulled herself over
+the stone wall at the rear of the courtyard.  The mountain wasn't
 quite as steep there as it was around most of Starboard Town.  It was
 one of those places children were definitely not supposed to play,
 which meant that she knew it as well as her tongue knew her teeth.
@@ -1714,11 +1714,17 @@ compost bucket in his family's back yard.  She raised a hand to wave,
 but Niquolas turned away and pretended not to see her.
 
 After dinner was over and she had scraped the dishes clean, Erileine
-went up to her room and slid under her quilt.  She lay there for a
-moment looking–really looking–at her room for the first time she could
-remember.  The wood-and-leather toys on the shelf by the window seemed
-to have shrunk.  Maybe her mother was right: maybe it was time to pass
-them on to someone else.
+sat with her mother and sister while her father played a few songs on
+the flutes he was carving.  As always, he said it was to make sure
+they were in tune, but Erileine had long since realized that he just
+liked to play.  She laid her head on her mother's shoulder and
+listened to the gentle notes, each as light as a butterfly.
+
+When her father finished, she went up to her room and slid under her
+quilt.  She lay there for a moment looking–really looking–at her room
+for the first time she could remember.  The wood-and-leather toys on
+the shelf by the window seemed to have shrunk.  Maybe her mother was
+right: maybe it was time to pass them on to someone else.
 
 She tossed and turned for hours.  When sleep finally came, it brought
 a new nightmare.  This time, Fraederiq and Niquolas were dangling her
@@ -2691,21 +2697,10 @@ brought with him from the market.  "I imagine not."
 "I'm getting there," the captain said testily.  "Here–what do you make
 of this?" He picked a book up off on the table and passed it to Razi.
 
-The bookster studied the page in front of him for a moment before
-tilting it so that Erileine could see a tinted sketch of a small
-village in a mountain valley.  "Ruudian," the bookster said after a
-moment.  "See the blues?  And the way the trees are just sticks on a
-green background?" Suddenly he laughed.  "*La,* and of course the
-artist has signed it, which helps.  Larren Mehgasdottir…  I don't know
-the name, but from the style, I would guess it to be a hundred years
-old, perhaps somewhat less."
-
-"Mm hm." The captain sipped his chocolate.  "Notice anything special
-about it?"
-
-Razi shook his head.  Erileine started to shake hers as well, then
-hesitated.  There was something familiar about the scene…  "It's just
-like Gandan Berth!" she blurted.  "The big bowl the mountain sits in!"
+The bookster tilted the page in so that Erileine could see a tinted
+sketch of a small village in a mountain valley.  There was something
+familiar about the scene… "It's just like Gandan Berth!" she blurted.
+"The big bowl the mountain sits in!"
 
 The captain nodded.  "That's what I said.  Thomas said some spell or
 other pulled him to it.  If you flip the page over, it's called *The
@@ -2713,30 +2708,27 @@ Mine at Tinhead*."
 
 "Which is where?" the bookster asked, still studying the picture.
 
-"In Praczedt.  Upriver from Anyalcze.  About three weeks away at our
-usual speed, as the parrot flies, though at the rate we're going, we
-could be there in…"
+"Upriver from Anyalcze.  About three weeks away at our usual speed,
+though at the rate we're going, we could be there in…"
 
 "Five days," Klaues volunteered.
 
-"Five days.  Don't suppose there's any mention of the place in any of
-your books, is there?"
+"Five days," the captain repeated.  "Don't suppose there's any mention
+of the place in any of your books, is there?"
 
 "*La*, they're actually your books," Razi corrected mildly.  "And no,
 not that I recall, but we will certainly look."
 
-"Please." The captain set his empty cup on the table.  "But keep it to
+"Do so." The captain set his empty cup on the table.  "But keep it to
 yourself until we know whether there's anything to it.  There's enough
 rumors and what-not kiting around right now."
 
 "On my blood," Razi said, dipping his head slightly.
 
-"Thank you." The captain glanced at Erileine.
+The captain glanced at Erileine.  "Mine too," she said hastily.
 
-"Mine too," she said hastily.
-
-The captain stood and tugged his jacket straight.  "Well then.  Thank
-you for your time."
+He stood and straightened his jacket.  "Well then.  Thank you for your
+time."
 
 Setting the book on the table and standing in turn, Razi bowed
 slightly.  "Thank *you*.  But may I ask, can you perhaps tell me where
@@ -2831,7 +2823,7 @@ Thomas beamed, as if he had been waiting eagerly to meet some famous
 wonder-worker.  "The pleasure, truly, the pleasure."  He folded his
 hands in front of his chest.
 
-"Hello," Erileine said awkwardly.
+"*Shalma'a*," Erileine said awkwardly.
 
 Thomas waited.  When she said nothing more, his smile broadened.  "A
 woman of few words, eh?  Like…  Like…  What was his name?  The boy
@@ -2839,8 +2831,9 @@ from Medef?  Eyeun?"
 
 "Eimin," Razi corrected calmly.
 
-"Of course, of course, Eimin.  Splendid fellow, very resourceful.  How
-is he these days, do you know?"
+"Of course, of course, Eimin.  Splendid fellow, very resourceful.  His
+Karabandi was much better, but of course he had more chance to
+practice, I'm sure.  How *is* he these days, do you know?"
 
 "Studious.  Happy.  Alive.  And yourself?"
 
@@ -2946,16 +2939,17 @@ seen magic before?"
 "Fraederiq broke his arm when we were little.  We were playing dares
 on a swing rope, trying to see who could get the highest, and he fell
 off.  Gaeston walked up here to get the captain's wife, and she came
-and did a spell so that Fraederiq's arm would mend straight." She saw
+and did a spell so that Fraederiq's arm would mend straight."  She saw
 no reason to add that Fraederiq's father had waited almost a week.  By
 the time she reached Starboard Town, his son had been drenched in
 fever, and his arm had been mottled.  That had been just a few months
 after Fraederiq's mother had left; Fraederiq's arguments with his
 father had started almost as soon as he was well enough to stand
-again.  "And there was a rock slide a couple of years ago when we
-berthed in Mau Ngapcha.  The captain hired a Bantangui to make the
-rocks dance themselves into a pile.  He used one of my paere's
-flutes."
+again.
+
+"And there was a rock slide a couple of years ago when we berthed in
+Mau Ngapcha.  The captain hired a Bantangui to make the rocks dance
+themselves into a pile.  He used one of my paere's flutes."
 
 The bookster nodded.  "Well, unless the world has turned upside down
 in the last ten years, you're going to see some more magic done today.
@@ -3193,19 +3187,23 @@ who smiled slightly but said nothing.
 Conversation rambled after that.  When the innkeeper and his daughter
 came to clear the table, Razi wrapped his *deel* around his long legs
 and retired to a bench against the common room wall with a book.
-Erileine followed her father and the other Starboard Towners upstairs
-to their room.
+Laeuc took out a flute; another traveller tuned the battered old erhu
+standing in the corner and joined in, and soon a ragged chorus threw
+the verses of a round back and forth.  And if the cheer was a little
+forced, well, what of it?
 
-The sliver of cheap orange dayglass the innkeeper had given them threw
-distorted shadows on the walls as they took off their boots, coats,
-and overshirts, wrapped themselves in whatever blankets they had
-brought, and fell asleep on the bed, the floor, in hastily-slung
-hammocks, and Erileine in the corner, legs stretched out, head
-pillowed on a roll of blue goat's wool Laeuc had bought for Gaeston.
-She wondered how many others would have picked up something extra for
-Fraederiq's father as well.  *Most*, she bet herself guiltily.
-Gaeston wasn't popular, but he was still their neighbor.  She should
-get him something as well, and Queçenne too.
+When the last song ended, Erileine followed her father and the other
+Starboard Towners upstairs to their room.  The sliver of cheap orange
+dayglass the innkeeper had given them threw distorted shadows on the
+walls as they took off their boots, coats, and overshirts, wrapped
+themselves in whatever blankets they had brought, and fell asleep on
+the bed, the floor, in hastily-slung hammocks, and Erileine in the
+corner, legs stretched out, head pillowed on a roll of blue goat's
+wool Laeuc had bought for Gaeston.  She wondered how many others would
+have picked up something extra for Fraederiq's father as well.
+*Most*, she bet herself guiltily.  Gaeston wasn't popular, but he was
+still their neighbor.  She should get him something as well, and
+Queçenne too.
 
 She drifted into sleep, and then into dreams.  Fraederiq was so small
 that Erileine could have picked him up with one hand, except he was
@@ -3543,7 +3541,7 @@ deserves the captain's notice, don't you?"
 smiled at his passengers and nudged the rudder, setting the boat's
 course forward once again.
 
-As they neared the market square, voices shouted in unison.  They
+As they neared Mapmarket Square, voices shouted in unison.  They
 rounded the corner to discover that half the stalls had been cleared
 away to make a parade ground.  "Hwah!" Forecastle's gray-haired bosun
 and his three mates shouted orders, corrections, encouragement, and
@@ -6136,18 +6134,22 @@ They slept in turns that night.  Piaerre snored, but only faintly.
 The bookster propped himself up one elbow.  "*La*, he does not get on
 with his father.  And even less well with his father's new wife," he
 added with a sigh.  "So he spends as little time with them as he can,
-which means he spends most of his time on the street.  As I once did,"
-he added, stretching out on his back with a sigh.
+which means he spends most of his time on the street."
 
-"Oh."  Erileine digested that for a moment.  "Razi?"
+"Oh.  So why did you let him get arrested?"
+
+The bookster grinned like a mischievous child.  "He needed practice
+escaping.  As I once did."
+
+Erileine digested that for a moment. "Razi?"
 
 "Mm?"
 
 "Do you ever miss your home?"
 
-She felt rather than saw him turn his head to study her.  "Yes," he
-said after a long pause.  "But it has changed a great deal since I
-first left it, and so have I."
+The bookster smiled at that rather than grinning, but his expression
+was tinged with melancholy.  "Yes," he said after a long pause.  "But
+it has changed a great deal since I first left it, and so have I."
 
 He got them moving again before dawn.  Mountain streams quieted their
 thirst, but the early berries they stripped off the bushes weren't
@@ -6650,8 +6652,8 @@ The soldier's eyes narrowed.  "*Pertakka arapche be keprelaptekete
 arjo?*"
 
 "Um, *ve nesse arja me.*" Erileine shrugged.  "My teacher speaks it
-better, though.  I'm trying to find him.  My…  teacher…" she repeated
-slowly.  "*Saad*, what's the word for teacher?"
+better, though.  I'm trying to find him.  My… teacher…" she repeated
+slowly.  "Cake, what's the word for teacher?"
 
 The soldier whistled sharply through his teeth, two quick notes high
 and low.

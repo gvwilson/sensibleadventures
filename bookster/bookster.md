@@ -8252,38 +8252,39 @@ moment."
 "What are you doing?" Gaeston asked as the boat drifted closer to the
 mountain.
 
-"Letting you off," the magician replied shortly.
+"Letting you off," the magician replied curtly.
 
 "What?!"
 
-*Whoomp!* Another burst of fire lit the sky above them.  A moment
-later, the acrid tang of burning pine caught inside Erileine's throat.
+*Whoomp!* Another burst of fire lit the sky above them.  The acrid
+ tang of burning pine caught inside Erileine's throat.
 
 "I said, I'm letting… you… *off*," Thomas repeated, his usual mocking
-humor gone.  "Laeuc, those branches up ahead–can you throw a tether
-around them?  Or would you rather just jump?"
+humor gone.  "Laeuc, those branches up ahead–throw a tether around
+them.  Or would you rather just jump?"
 
 Gaeston stood.  The bow in his hands wasn't quite drawn; the arrow
-notched in it wasn't quite pointed at Thomas.  "Tell me we're close,"
-he said.  "Tell me this is part of your plan."
+notched in it wasn't quite pointed at Thomas.  "Tell me we're close to
+the peak," he said.
 
-"I have no idea whether we're close or not," Thomas snapped.  "But I
-am not taking this boat any closer to that mess than it is right now.
-Best wishes, good luck, may your grandchildren's grandchildren all
-bear your name, and so on."
+"I have no idea whether we're close or not," Thomas snapped, the
+patterns on his jacket swirling angrily.  "But I am not taking this
+boat any closer to that mess than it is right now.  Best wishes, good
+luck, may your grandchildren's grandchildren all bear your name, and
+so on."
 
 Gaeston raised his bow.  "Like hell."
 
 Erileine never found out what would have happened next, because
 Armaend shouted, "Look!"  She whirled around.  A familiar lean figure
-was racing toward them like a leaf blown by a gale.  Moonlight gleamed
-off his shaven head as he leaped over a fallen tree, rolled to his
-feet, and hurtled onward.
+was racing through the trees like a leaf blown by a gale.  Moonlight
+gleamed off his shaven head as he leaped over a fallen log, rolled to
+his feet, and hurtled onward.
 
-His pursuers burst out of the trees behind him a heartbeat later with
-steel in their hands.  One knelt and raised a crossbow.  A branch
-above Razi's head whipped aside as the quarrel struck it, but the
-bookster kept running.
+His pursuers burst into sight behind him a heartbeat later with steel
+in their hands.  One knelt and raised a crossbow.  A branch above
+Razi's head whipped aside as the quarrel struck it, but the bookster
+kept running.
 
 And then, behind them, a bareheaded man raised his arms and clapped
 them together.  *Whoomp!* A ball of fire as big as a house blossomed
@@ -8308,7 +8309,7 @@ Gaeston raised his bow once again.  "You heard her."
 Thomas shook his head.  "They'll kill us all."
 
 For a moment, Gaeston didn't move, then– "No!" Erileine shouted, as
-Gaeston lowered his bow.  Without thinking, she threw herself at
+Gaeston lowered his bow.  Without thinking, she hurled herself at
 Thomas.  Her shoulder hit him in the chest.  He cursed and grabbed a
 guyline to save himself from falling over the side.
 
@@ -8317,9 +8318,9 @@ sharply.  Donaien's spear clattered to the deck as he grabbed the
 gunwale with one hand and Armaend with the other.
 
 Twenty strides, ten, five–just as Razi threw himself over the cliff,
-Thomas pulled Erileine out of the steering seat.  "Idiot!" he shouted,
-yanking the rudder as the boat's starboard side scraped against the
-mountain.
+Thomas grabbed Erileine's collar and pulled her out of his way.
+"Idiot!" he shouted, yanking the rudder as the boat's starboard side
+scraped against the mountain.
 
 *Thud!* Razi hit the sail and fell to the deck.
 
@@ -8341,21 +8342,23 @@ his eyes shut, then opened them and looked up at Erileine.  "*La*,
 that was well timed."
 
 Whatever Erileine would have said next was cut off by a low moan from
-the stern.  "No.  No no no no…" Thomas was staring down in horror at
-his coat.
+the stern.  "No.  No no no no…" Thomas stared down in horror at his
+jacket.  "No, please, come back."
 
 Razi sat up unsteadily.  "*La*, knocking the fire aside–that was your
-doing?" He clasped his hands in front of his chest and bowed his head.
-"I am grateful for your sacrifice."
+doing?" He clasped his hands in front of his chest.  "I am grateful
+for your sacrifice."
 
-"Damn your gratitude." Tears glistened on the magician's cheeks.
+"Damn your gratitude." Tears glistened on the magician's cheeks.  The
+vibrant ever-changing patterns on Thomas's coat had stilled and
+dulled.  "She's gone.  Oh saints, she's gone."
 
-"Oh, get over it," Gaeston said gruffly, realizing as they all had
-that the vibrant ever-changing patterns on Thomas's coat had stilled
-and dulled.  "You can always get another one."
+The bookster bowed his head.  "I am sorry."
 
-The bookster turned to look at him.  "No," Razi said, soft and sad.
-"No, he can't."
+"Oh, get over it," Gaeston said gruffly.  "You can always get another
+coat."
+
+"No," Razi said, soft and sad.  "No, he can't."
 
 ---
 

@@ -1,5 +1,5 @@
 <!-- start: 2017-10-21 -->
-<!-- target: 75000 -->
+<!-- target: 72000 -->
 <!-- deadline: 2017-12-20 -->
 # The Bookster's Apprentice<br>Greg Wilson
 
@@ -6573,13 +6573,10 @@ heavy boots made a *tramp, tramp, tramp* Starboard Town had never
 heard before.
 
 Bosun Uyves and five others walked in their midst, their hands tied
-behind them.  They were joined in pairs by ropes tied around their
-necks, so that if one tried to run, or fell, he would drag his partner
-down with him.
-
-As they approached the upper fields, some people ran for town.  Others
-just watched, their hearts echoing the shame and anger written on the
-bosun's face.  There would be no battle for Starboard Town.
+behind them.  As they approached the upper fields, some people ran for
+town.  Others just watched, their hearts echoing the shame and anger
+written on the bosun's face.  There would be no battle for Starboard
+Town.
 
 Laeuc lay his hoe down on top of his earthing bucket and hopped over
 the fence into the neighboring field.  "What are you planning to do
@@ -6718,9 +6715,9 @@ sword.  Truly."
 
 The corner of Jaromir's mouth twitched.  He lowered his hand.  "It's
 lieutenant, bookster, not captain.  A captain would have three
-ribbons.  But I'm sure you know that.  Just as you know that if your
-mistress were not who she is, I'd have your back broken here and now
-for what you did to my comrades."
+ribbons.  But you know that.  Just as you know that if your mistress
+were not who she is, I'd have your back broken here and now for what
+you did to my comrades."
 
 Erileine held her breath as Razi lowered his hands as well.  "I have
 no mistress, lieutenant.  And I swear by my blood, I do not think I
@@ -6758,14 +6755,14 @@ Jaromir instantly drew their swords.  "*Hurtiyet!*" someone shouted,
 "Catch him!"  Erileine whirled around, crying out as Razi pulled her
 out of the way.
 
-Bosun Uyves's escape was short-lived.  Roaring like bulls, he and
-Gaeston's half-brother Marq slammed into the first soldier, knocking
-him to the ground.  They somehow managed to keep their feet for a few
-more steps before the getting tangled in the rope that tied them
-together and tumbling to the cobblestones.
+Bosun Uyves's escape was short-lived.  Roaring like a bull, he slammed
+into the first soldier, knocking him to the ground.  Somehow he
+managed to keep his feet for a few more steps before stumbling and
+falling to his knees on the cobblestones with his hands still tied
+behind his back.
 
 The Hett soldiers kept their swords drawn as Lieutenant Jaromir walked
-over to them.  He barked a question in rapid Praczny.  One of the
+over to him.  He barked a question in rapid Praczny.  One of the
 soldiers who had been guarding the Avauntois straightened up and
 slapped his open left hand against his breastplate.  "*Sho!*"
 
@@ -6780,11 +6777,10 @@ The bosun let fly with a stream of curses.  "Maggoty goat-fondling
 lackwit cake-eating…"
 
 Jaromir drew his sword and placed its point against the bosun's
-throat.  "I want you to understand something," he said as the bosun's
-words stopped in his throat.  "We are not animals.  None of us–*none*
-of us–will ever do to you what people like you have done to the Hett
-for hundreds of years.  It would be an insult to everything we
-believe."
+throat.  "We are not animals," he said without premable as the bosun's
+words caught in his throat.  "None of us–*none* of us–will ever do to
+you what people like you have done to the Hett for hundreds of years.
+It would be an insult to everything we believe."
 
 "But you need to understand, right in your gut, that things have
 changed." He clenched a fist in front of his belly for emphasis as he
@@ -6808,11 +6804,11 @@ just said."
 
 Erileine hesitated, glancing at the bookster.  Razi nodded.  Erileine
 cleared her throat.  "Go with the bookster to…  to Hepje Het.  Take
-the passages–"
+the–I don't know the next word."
 
 "The tunnels," the lieutenant corrected.
 
-"The tunnels, but not the–I don't know the last word."
+"The tunnels, but not the–I don't know the last word either."
 
 "The deep tunnels," Razi supplied.  "Or 'major'.  It's the same word.
 It could even be 'the fundamental tunnels', although–" He cut himself
@@ -7352,10 +7348,10 @@ nearest furrow furiously.  "What was that all about?" Laeuc asked.
 "Help u," Erileine replied bitterly.  "I mean, us.  The Avauntois."
 The word sounded strange in her ears.
 
-"Wonderful," her mother said under her breath.  "Marq asked me what in
-hell's burning forests you were doing.  Gaeston wasn't even that
-polite.  I told them you didn't have a choice, they picked you out
-because you knew their language, but I don't think they care." She
+"Wonderful," her mother said under her breath.  "Mareille asked me
+what in hell's burning forests you were doing.  Gaeston wasn't even
+that polite.  I told them you didn't have a choice, they picked you
+out because you knew their language, but I don't think they care." She
 grabbed the base of a thistle and yanked it from the dry soil.
 
 "Did either of them say what they thought I should do instead?"
@@ -7956,57 +7952,75 @@ is to take it away from them.  The tunnels run most of the way, but
 the last gallop is out in the open.  If you're lucky, and they're
 careless, you might actually have a ghost's chance of grabbing it."
 
-"And then what?" Uyves demanded. "Smash it?"
+There was an awkward silence as Laeuc and the bosun exchanged
+uncomfortable glances.  "The tunnels?" Laeuc finally asked.
+
+The magician rolled his eyes.  "Yes, the tunnels.  Please don't tell
+me there's some quaint superstition about those going into them never
+been heard from again.  The Hett certainly seem to have come through
+it unscathed."
+
+"It's not that," Laeuc said awkwardly.  "It's just… Can't you take us
+straight to the peak?"
+
+Thomas made a disgusted sound.  "Certainly.  I'm *sure* the Hett
+archers and magicians and what-not wouldn't mind waiting until we land
+before attacking.  Would *sra* like some tea and a foot bath while we
+travel as well?"
+
+"You've made your point," Uyves growled.  "We'll go through the
+tunnels if we have to.  But then what?  Once we have the stone, do we
+just smash it?"
 
 "Absolutely not," Thomas said sharply.  "You bring it to me."
 
-Uyves crossed his arm.  "Smashing it seems a lot simpler."
+Uyves crossed his arms.  "Smashing it seems a lot simpler."
 
-Thomas sighed.  "Of *course* it's *simpler*, but for all you know, that
+Thomas sighed.  "Of *course* it's *simpler*, but for all we know, that
 stone is what keeps Avaunt flying.  If you smash it, you could all be
 part of the landscape a few heartbeats later."
 
-Sudden suspicion turned Erileine's gut cold.  "You want it for
-yourself, don't you?  You want to control the mountain like they've
-been doing!"
+Sudden suspicion coiled in Erileine's cold.  "You want it for
+yourself, don't you?  You want the stone so you can control the
+mountain!"
 
-Thomas sighed.  "Saints save me from the half-clever.  Yes,
-conceivably, I might–*might*–be able to use it that way.  But why
-would I want to?  Being your captain interests me rather less than
-being a stable boy."
+Thomas sighed.  "Saints save me from the half-clever.  No, girl, I
+don't want to control the mountain.  Being your captain interests me
+rather less than being a stable boy."
 
 "Then what do you want the stone for?" Vurt asked.
 
 "Because I want to know how it works," he said simply, and for the
 first time since she had met him, Erileine believed he was being
 completely sincere.  He pointed at the lantern in the middle of the
-table.  "They made dayglass by the ton, and all we can do is dig it up
-and polish it.  We're so *little* compared to them.  Now, who's
-coming?"
+table.  "The Pilots made dayglass by the ton, and all we can do is dig
+it up and polish it.  They made miracles like this mountain, and we
+use it as a glorified pack camel.  We're so *little* compared to them,
+and I don't want to be little any more.  Now, who's coming?"
 
 It only took a minute to pick names.  Uyves, of course, but not Vurt,
-not through the tunnels one leg.  Laeuc would come, and Gaeston was
-the best archer in Starboard Town, so that meant Marq as his spearman,
-and Armaend and Donaien made six.  Thomas would get them as close to
-the peak as he could, then come back and collect Piaerre once they had
-the Pilot Stone.
+not through the tunnels one leg.  Laeuc would come–he didn't look at
+Saedanne when he said it–and Gaeston and Mareille were the best
+archers in Starboard Town, and Armaend and Donaien as spearmen made
+six.  Thomas would get them as close to the peak as he could, then
+come back and collect Piaerre once they had the Pilot Stone.
 
 The next question was how to get past the curfew patrols to the
 *Presumption*.  "I can help with that," Vurt said confidently.  "I
 left some gear at Mayeule's, and a few presents on the stairs in case
 anyone came snooping."
 
-Uyves nodded.  "Laeuc and I will get Gaeston and Marq.  Erileine, can
-you get up to Donaien and Armaend's without being caught?" Erileine
-nodded.  The bosun looked around the table.  "Well then?  Let's be on
-with it."
+Uyves nodded.  "Laeuc and I will get Gaeston and Mareille.  Erileine,
+can you get up to Donaien and Armaend's without being caught?"
+Erileine nodded.  The bosun looked around the table.  "Well then?
+Let's be on with it."
 
 ---
 
 Unable to watch as her father say an awkward goodbye to her mother,
 Erileine bounded upstairs.  "Here," she said when she returned,
-handing a small book bound in faded red leather to Piaerre.
-"Something to read 'til we we get back.  Razi gave it to me."
+handing Piaerre a small book bound in faded red leather.  "Something
+to read 'til we we get back.  Razi gave it to me."
 
 Piaerre opened it.  "*Unprofitable Speculations*," he read aloud.  "By
 His Balance, Eimin di Cuayaçedil."
@@ -8036,17 +8050,17 @@ the Hett were making themselves at home.
 "Just wait." A moment later, she heard the creak of leather and the
 scuff of a boot.
 
-Erileine put her mouth to the bosun's ear.  "The soldiers with the
-lanterns are just a decoy," she whispered.  "There are more by the
-smokehouse.  You'll have to go around."
+Erileine nodded grimly.  "The soldiers with the lanterns are just a
+decoy," she whispered.  "There are more by the smokehouse.  You'll
+have to go around."
 
 Uyves exchanged a look with Laeuc.  This wasn't the Erileine they had
 known since she was a baby.
 
-The night was cold and clear, the moon just a battered sliver in the
-sky.  Stars twinkled around it, as indifferent and aloof as ice
-crystals.  The mountain was flying north, farther than ever from its
-age-old course and from everything the Avauntois had ever known.
+The night was cold and clear, the moon a battered sliver lozenge in
+the sky.  Stars twinkled around it, as cold and aloof as ice crystals.
+The mountain was flying north, farther than ever from its age-old
+course and everything the Avauntois had ever known.
 
 Erileine crept from one hiding place to another, huddling where the
 shadows were deepest.  Once she was only ten strides from a soldier
@@ -8055,7 +8069,7 @@ her heart pounding behind the woodpile.
 
 Donaien and Armaend's house nestled in a bend in the road like a baby
 in the crook of its mother's arm.  A freshly-painted summer chair
-stood beside the back door.  Gingerly, Erileine stepped onto it and
+stood beside their back door.  Gingerly, Erileine stepped onto it and
 rapped her knuckles softly on the upstairs bedroom's shutters.
 "Psst," she hissed through the slats.  "Donaien!  Armaend!"
 
@@ -8067,13 +8081,13 @@ will–"
 
 "Get dressed," Erileine interrupted.  "And get your climbing harness,
 and your spear.  The bosun's waiting for you.  Both of you."  She
-grabbed at the windowsill to steady himself as the chair shifted
+grabbed at the windowsill to steady herself as the chair shifted
 beneath him.  "We have to save the mountain."
 
-It took less than a minute for the two men to collect their gear, and
-scramble out the window, but it felt like an age to Erileine.  Finally
-Donaien slithered out the window.  Armaend followed him, the harness
-in his hand jingling slightly.
+It only took the two men a couple of minutes to collect their gear,
+but it felt like an age to Erileine.  Finally Donaien slithered out
+the window with Armaend behind him, the harness in his hand jingling
+slightly.
 
 Corner to corner, house by house, one back yard at a time, they crept
 like thieves through the town they had always called home.  A faint
@@ -8088,8 +8102,8 @@ would befall them tomorrow.
 Thomas, Laeuc, Uyves, and Gaeston were waiting in the trees a dozen
 strides past the bottom end of Slip Street.  Two soldiers lay
 awkwardly on the ground beside them, their blood dark on the dark
-ground.  Marq sat beside them, knotting a strip of cloth around a
-wound in his leg.
+ground.  Mareille sat beside them, knotting a strip of cloth around a
+wound in her leg.
 
 "Saints–you've killed them!" Armaend gasped.
 
@@ -8127,25 +8141,22 @@ the top of the stairs.
 
 The Avauntois all ducked.  "What are you waiting for?" Papaere Vurt
 yelled.  "Get out of here!" He yanked hard on the cord hanging beside
-the latter rungs and was answered by another angry shout.
+the ladder rungs and was answered by another angry shout.
 
-"Go!" he bellowed again.  Thomas tossed the mooring line into the
-boat's bow and vaulted in after it.  The *Presumption* dipped slightly
-and drifted away from the porch.
+Thomas tossed the mooring line into the boat's bow and vaulted in
+after it.  The *Presumption* dipped slightly and drifted away from the
+porch.  "Go!" Vurt bellowed again.
 
-The *Presumption* heeled to port to turn back the way the mountain had
-come.  There was nothing left of Tinhead except a long scar in the
-earth.  Beyond it, the great stone tower that had been built to await
-the mountain's was a glint among the trees.  Erileine wondered what
-people would make of it a thousand years hence.  Would anyone remember
-why it had been built, or what it had meant?
+"No!" Erileine screamed.  "Papaere, they'll kill you!"
 
-"I'll remember," Erileine whispered, thinking of the bosun.  The tears
-on her cheeks were cold, but she didn't wipe them away.  "I
-promise–I'll remember."
+Something went *snakt!* above them.  A crossbow quarrel thunked into
+the verandah, then another.  Vurt spat a curse, hobble-ran three
+awkward steps, and flung himself over the railing.
 
-Laeuc shifted beside her and put an arm around his daughter's
-shoulders.  Erileine leaned against her father and wept.
+"Gotcha!" He grabbed hold the gunwale with both hands and hauled
+himself on board, a manic grin splitting his face.  As the
+*Presumption* heeled to port, he dropped his trousers and mooned the
+Hett with a whoop.
 
 As they flew through the night, Erileine remembered a painting she had
 once seen of a pearl diver floating beside a coral reef off the coast
@@ -8155,28 +8166,39 @@ flanks were solemnly indifferent to their passage; a lonely
 sickle-wing bat flitted across their path with a sound like crumpling
 paper.
 
-Gaeston was the first to speak.  "He'll be missed."
+Down below, there was nothing left of Tinhead except a long scar in
+the earth.  Beyond it, the great stone tower that had been built to
+await the mountain was already lost among the trees.  Erileine
+wondered what people would make of it a thousand years hence.  Would
+anyone remember why it had been built, or what it had meant?
+
+"I'll remember," Erileine promised, thinking of the bosun.  The tears
+on her cheeks were cold, but she didn't wipe them away.  Laeuc shifted
+beside her and put an arm around his daughter's shoulders.  Erileine
+leaned against her father and wept silently.
+
+Papaere Vurt was the first to speak.  "He'll be missed."
 
 Laeuc nodded heavily.  "He was a good man."
 
 Gaeston shifted on the plank seat.  "What do you think they'll do to
-Vurt?"
+Mareille?"
 
 Laeuc's arm tightened around his daughter's shoulders.  "I don't
 know."
 
 "Look on the bright side," Thomas said.  He was sitting at the stern,
-one hand on the rudder.  "Fewer of you does mean less chance of being
+one hand on the rudder.  "Fewer of you means less chance of being
 spotted."
 
 Gaeston's grip tightened on his bow.  "It doesn't bother you at all,
-does it?" he said levelly.  "Them being dead."
+does it?" he said levelly.  "Uyves being dead.  Or any of this.  You
+don't care who's right and who's wrong."
 
-"Don't say that!" Erileine snapped.  "And don't tell me to shush," she
-added to her father, instantly hating herself for sounding petulant.
-
-Thomas jerked his chin at Erileine.  "Look in the cabin, would you?
-There's a jar a little larger than your two fists."
+"I find it's rather like tossing a coin," Thomas replied lightly.
+"The right side is whichever one lands up.  Now, look in the cabin,
+would you?" he continued to Erileine.  "There's a jar a little larger
+than your two fists."
 
 Erileine stood, grabbing the bracket atop the boat's small cabin to
 steady herself.  The door folded inward in the middle like a book.

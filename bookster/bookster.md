@@ -675,8 +675,8 @@ clapped her on the shoulder.  "Good work, lass."
 hands around her throat…
 
 With a final nod to Vaszlav, Uyves turned back toward Starboard Town.
-As soon as he rounded the corner, Jaromir set his pack down and and
-fished his homestone out of the bushes where he'd thrown it.
+As soon as he rounded the corner, Jaromir set his pack down and fished
+his homestone out of the bushes where he'd thrown it.
 
 "Wonderful," Vaszlav said tiredly.  "Perhaps you could have waited
 until the young *sra* was not here?"
@@ -1134,7 +1134,7 @@ would have looked for their shadows on the ground below.
 
 The air smelled of pine logs burning in kitchen stoves, and of squash
 and beans.  All of a sudden she remembered playing tag in the trees
-when she was little: herself, Queçenne, Niquolas and his slow-wittd
+when she was little: herself, Queçenne, Niquolas and his slow-witted
 brother Matthieu, Fraederiq, Uego who had moved to Portside when his
 mother remarried… She couldn't have been more than seven or eight.
 The mountain must have been near the equator, because darkness had
@@ -1291,7 +1291,7 @@ hurried toward home.
 
 ---
 
-The next dawned clear and cold.  Most days did on Avaunt.  Except
+The next day dawned clear and cold.  Most days did on Avaunt.  Except
 during storms, the only clouds that flew higher than the mountain were
 old gray bulls spread so thin that they could hardly be seen.
 
@@ -1784,7 +1784,7 @@ rest of you, don't get into any trouble while I'm not here to enjoy
 it."  He waved his arm as if sweeping a herd of goats into a pen.
 
 It seemed to Erileine as though everyone who wasn't actually going was
-up to see the travellers leave.  Seized by sudden misgivings, a few
+up to see the travelers leave.  Seized by sudden misgivings, a few
 people pulled on boots and coats, kissed their husbands or wives
 goodbye, and joined the flock trailing after the bosun.
 
@@ -1818,7 +1818,7 @@ the top fifty strides of his private connection to the world below and
 visited like-minded businessmen on the ground below.
 
 Vurt nodded.  "I can do that."  The bosun clapped him on the shoulder
-and hurried to catch up with his travelling companions.  Vurt stared
+and hurried to catch up with his traveling companions.  Vurt stared
 into his tea.  He told people he had built his ladder so that he could
 make a little extra money.  Only on the darkest nights, when he missed
 his long-gone wife the most, did he admit to himself that it was
@@ -1829,7 +1829,7 @@ Forecastle Road climbed a dark shoulder of granite to the town's upper
 goat pasture.  A pair of red-billed steelbirds kept pace with them for
 a time, clacking their beaks to warn the Avauntois away from their
 nest.  Boot soles clomped on stone while the wind slipped cold fingers
-down the travellers' collars, toying with their scarves and rustling
+down the travelers' collars, toying with their scarves and rustling
 the branches around them.
 
 Erileine was sweating by the time they reached the pasture.  Pine
@@ -1913,7 +1913,7 @@ anyone else could speak.  When Razi shook his head, Erileine pointed
 up the mountain's side.  "It was up there, in one of the old tunnels.
 Bosun Uyves' father was there–he was a bosun's mate, wasn't he?"
 
-"That he was," Uyves said, wiping the damp off his moustache.  "It
+"That he was," Uyves said, wiping the damp off his mustache.  "It
 was, what, forty years ago?  Forty-one, now…"
 
 *The bonescuttle whose skull would eventually hang above Vurt's
@@ -2091,7 +2091,7 @@ him that say he found anything else."
 The bosun shrugged.  "No reason to think the boy would turn haunt, but
 no point taking chances."
 
-The travellers fell silent after that.  They were above the treeline,
+The travelers fell silent after that.  They were above the treeline,
 and each breath was a cloud of steam that turned to tiny ice crystals
 in people's nostrils.  Everyone except Razi had put on gloves and
 pulled the flaps of their hats down over their ears.
@@ -2131,7 +2131,7 @@ words about," the bosun said sharply.  "I'll gnaw on Vaszlav's ear the
 next time he's in town.  You want to make any more out of it, take it
 to the Debates.  Now, come on.  I'm hungry."
 
-As the travellers picked their way down to the campground the Hett had
+As the travelers picked their way down to the campground the Hett had
 just fled, Razi stopped a moment to adjust his sandal strap,
 straightening up as Erileine went past.  "*La*, so, are you in the
 mood for a history lesson?" the bookster asked.
@@ -2221,7 +2221,7 @@ Here, the afternoon sun turned a carp pond silver.  There, a vanity
 garden tumbled down a wall, rank upon rank of flowers standing bright
 and proud in defiance of the impending drought.
 
-The travellers dispersed the moment they arrived, some to visit family,
+The travelers dispersed the moment they arrived, some to visit family,
 others hurrying straight to particular shops.  The Forecastlers who
 greeted them seemed cheerful enough, but the second thing out of their
 mouths was invariably, "We don't know either."  The third was usually,
@@ -2607,11 +2607,11 @@ disappearing."
 The captain drummed his fingers on the arm of his chair.  "Hm.  What
 do you think of it?"
 
-Razi sighed.  "To be honest, I rather suspect it was just a traveller's
+Razi sighed.  "To be honest, I rather suspect it was just a traveler's
 tale about Avaunt grown garbled with time and distance.  As I have
 been telling my apprentice, being written does not make a thing true."
 
-"I wish more people shared your scepticism," Klaues said regretfully.
+"I wish more people shared your skepticism," Klaues said regretfully.
 "Here.  Have these shown up in Starboard Town yet?"
 
 He took a sheet of cheap gray paper from his pocket and passed it to
@@ -3188,7 +3188,7 @@ who smiled slightly but said nothing.
 Conversation rambled after that.  When the innkeeper and his daughter
 came to clear the table, Razi wrapped his *deel* around his long legs
 and retired to a bench against the common room wall with a book.
-Laeuc took out a flute; another traveller tuned the battered old erhu
+Laeuc took out a flute; another traveler tuned the battered old erhu
 standing in the corner and joined in, and soon a ragged chorus threw
 the verses of a round back and forth.  And if the cheer was a little
 forced, well, what of it?
@@ -3555,7 +3555,7 @@ course.
 
 The usual pair of guards stood outside the Hardeck's main doors.
 Today, though, they wore helmets and gorgets, and gave the approaching
-travellers a careful up-and-down as they climbed the stairs.
+travelers a careful up-and-down as they climbed the stairs.
 "Magister," one said to Thomas, nodding respectfully while the other
 opened the door.
 
@@ -4167,13 +4167,13 @@ the moon was full, or if the reader whistled the right song?
 
 Defeated, she wrapped the book in her spare shirt and slipped it into
 her satchel, then stripped down to her underclothes and slid her
-skinny legs under the the quilt.  She stared at the little watercolor
-that was the room's sole decoration that showed a boxer stripped to
-the waist throwing the same punch forever.  She would take the book
-back tomorrow after she checked on Razi, she decided.  She closed her
-eyes and tried not to think of the bookster lying on the dock,
-bleeding.  She had just stood there.  He had needed her help, and she
-had just *stood* there.
+skinny legs under the quilt.  She stared at the little watercolor that
+was the room's sole decoration that showed a boxer stripped to the
+waist throwing the same punch forever.  She would take the book back
+tomorrow after she checked on Razi, she decided.  She closed her eyes
+and tried not to think of the bookster lying on the dock, bleeding.
+She had just stood there.  He had needed her help, and she had just
+*stood* there.
 
 Sleep was a long time coming.
 
@@ -5645,7 +5645,7 @@ Razi smiled.  "*La*, well, it may be a better place to begin than you
 think.  Come."
 
 Razi slipped through the hole in the fence. The thief gestured
-impatiently for Erileine to go next.  She paused.  "Paierre?"
+impatiently for Erileine to go next.  She paused.  "Piaerre?"
 
 The thief made a face.  Erileine grinned and followed Razi into the
 next yard.
@@ -6121,7 +6121,7 @@ Interesting…"
 "Asking for help," Erileine explained in a whisper.  "Or guidance.  Or
 to be excused if they've done something bad."
 
-Piaerre frowned sceptically.  "Asking who?"
+Piaerre frowned skeptically.  "Asking who?"
 
 "The whole world, I guess," Erileine said.  The books she had read had
 never been very clear about that.
@@ -6319,7 +6319,7 @@ go get some rest.  And you, boy.  Stay out of trouble."
 
 "Yes, *sra*." Piaerre muttered.
 
-As the travellers turned to go, the bosun clapped Laeuc on the
+As the travelers turned to go, the bosun clapped Laeuc on the
 shoulder.  "Best you go too, I suppose."
 
 "Thanks, Uyves," Laeuc said, his arm still around Erileine's
@@ -6779,7 +6779,7 @@ The bosun let fly with a stream of curses.  "Maggoty goat-fondling
 lackwit cake-eating…"
 
 Jaromir drew his sword and placed its point against the bosun's
-throat.  "We are not animals," he said without premable as the bosun's
+throat.  "We are not animals," he said without preamble as the bosun's
 words caught in his throat.  "None of us–*none* of us–will ever do to
 you what people like you have done to the Hett for hundreds of years.
 It would be an insult to everything we believe."
@@ -7182,7 +7182,7 @@ your sword." The soldiers just laughed again.
 
 Uyves put his hand on Erileine's arm. "You do their translating," he
 said quietly. "And then you come find me and tell me everything you
-heard, undersood?  *Everything.*"
+heard, understood?  *Everything.*"
 
 Erileine nodded jerkily. "Yes *sra*."  He squeezed her arm and then
 turned to the soldiers and nodded once, firmly.
@@ -7397,7 +7397,7 @@ Hett soldiers than fighting her parents.
 
 Donaien was sitting on an overturned bucket pointing out weeds to
 Piaerre, while Armaend pointed out the ones he missed and Piaerre
-gossipped non-stop about people in Forecastle: who took quick nips
+gossiped non-stop about people in Forecastle: who took quick nips
 from a bottle hidden under the counter when there were no customers in
 his shop, whose daughters looked nothing at all like her husband, who
 had shortchanged himself in a complex business deal in Mau Ngapcha…
@@ -7844,7 +7844,7 @@ Mayeule led the weeping boy down to the common room a moment later
 "Who's dead?" Mamaere Mayeule asked, her arm around him.  "The
 bookster?"
 
-"N-no," Piaerre hiccupped wretchedly.  "Th-the captain.  They killed
+"N-no," Piaerre hiccuped wretchedly.  "Th-the captain.  They killed
 him."
 
 "Hoy," Laeuc said gently, as if coaxing a kitten out from under a bed.
@@ -8175,7 +8175,7 @@ Hett with a whoop.
 
 They flew through the night to the sound of the wind, the creaking of
 the rigging, and Vurt cursing quietly under his breath as he tried to
-do up his trousers.  Avaunt loomed over them, a dark nass blocking the
+do up his trousers.  Avaunt loomed over them, a dark mass blocking the
 stars.  The braided pines on its flanks were solemnly indifferent to
 their passage; a startled sickle-wing bat flitted across their path
 and was gone.
@@ -8235,7 +8235,7 @@ out.
 
 "They're from the East Pole," Thomas said as the buzzing points of
 light circled around him, fascinated by the shifting patterns on his
-jacket.  "No, no, shoo.  Shoo."  He brushed them away.  Togther, the
+jacket.  "No, no, shoo.  Shoo."  He brushed them away.  Together, the
 little lights flew away into the night.  "Aren't they marvelous?
 They're drawn to power like bees to nectar.  If anyone's working magic
 up here tonight, these little darlings will find them."
@@ -8506,7 +8506,7 @@ said.  He drew something from inside his *deel* and threw it against
 the floor.  It tinkled like breaking glass and started to glow.
 
 "Wow," Erileine breathed.  The room was enormous–the Captain's House
-would fit into it with space left over for a sizeable garden.  The
+would fit into it with space left over for a sizable garden.  The
 only break in the polished walls was a square opening opposite them,
 identical to the one they had just come through.
 
@@ -8566,7 +8566,7 @@ where it had somehow slid out of the mountainside like a drawer.  Its
 downward tilt made Erileine feel like one false step would send her
 tumbling into space.
 
-Below them lay a huge stone amphitheatre that Erileine recognized from
+Below them lay a huge stone amphitheater that Erileine recognized from
 pictures and paintings filled with carved stone benches, waist-high
 walls, free-standing doors, and heavy sculptures that reminded
 Erileine of the pictures children drew of monsters.  Globes of
@@ -8575,7 +8575,7 @@ yellow-white here and there.  They had made it–they had reached the
 original peak of the mountain.
 
 "There," Razi said, pointing.  A flat-topped pyramid stood in the
-center of the amphitheatre, identical in proportions to the mountain
+center of the amphitheater, identical in proportions to the mountain
 itself and to the one in Tinhead.  Beyond it, what had originally been
 a steep hillside was now a near-vertical cliff.
 
@@ -8599,7 +8599,7 @@ stone railing.
 Vurt shrugged.  "Only one way to find out, isn't there?" He swung
 his false leg over the railing and slithered down the rope.
 
-A minute later, the four of them stood together on the amphitheatre
+A minute later, the four of them stood together on the amphitheater
 floor.  Ahead and below, the Hett hurried about their work.
 
 "*La*, we have company," Razi whispered, pointing.  Four soldiers were
@@ -8796,7 +8796,7 @@ been about to do.
 "I'll do it!" Erileine shouted.  "I swear on my blood I will!"
 
 Jaromir laughed. "Go ahead. That *epfana* has survived fire and
-earthquake alike–it will surve a fall.  And then it will call to us,
+earthquake alike–it will survive a fall.  And then it will call to us,
 and we will find it, and all you will have done is delay us by a few
 days."
 

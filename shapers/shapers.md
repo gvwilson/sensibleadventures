@@ -38,50 +38,47 @@ Your choices will determine how the game unfolds.
 
 ## Game Mechanics
 
-Every character in *Shapers and Bots* is described by their *characteristics* and *skills*.
+Every character in *Shapers and Bots* is described by their *characteristics* and *abilities*.
 Everything a character might want to do,
 like climb a wall,
 has a *difficulty*.
 Together,
 the two determine the odds of the character doing what they want to do.
 
-Characteristics and traits are expressed in how many dice the player gets to roll:
+Characteristics and abilities are measured by how many dice the player gets to roll:
 
-| Rating      | Number of Dice |
-| ----------- | -------------: |
-| Novice      |              1 |
-| Hobbyist    |              2 |
-| Competent   |              3 |
-| Expert      |              4 |
-| Outstanding |              5 |
+| Number of Dice | Rating/Level      |
+| -------------: | ----------------- |
+| 1              | Novice/Very Low   |
+| 2              | Hobbyist/Low      |
+| 3              | Competent/Average |
+| 4              | Expert/High       |
+| 5              | Heroic/Very High  |
 
 Every difficulty also has a number of dice associated with it:
 
-| Difficulty | Number of Dice |
-| ---------- | -------------: |
-| Simple     | 1              |
-| Average    | 2              |
-| Tough      | 3              |
-| Amazing    | 4              |
-| Legendary  | 5              |
+| Number of Dice | Difficulty |
+| -------------: | ---------- |
+| 1              | Simple     |
+| 2              | Average    |
+| 3              | Tough      |
+| 4              | Amazing    |
+| 5              | Legendary  |
 
 When a character wants to do something,
 her player rolls as many dice as her rating gives her.
 Each 4, 5, or 6 counts as a success.
 The Director then rolls the number of dice indicated by the difficulty
-and adds up the number of successes.
+and also adds up the number of successes.
 They then compare scores:
 
 | Outcome                               | Meaning                        |
 | ------------------------------------- | ------------------------------ |
-| Player's score is higher              | Success!                       |
+| Player's score is higher              | Success                        |
 | Player's score is higher by 3 or more | Epic success                   |
 | Player's score is lower               | Failure                        |
 | Player's score is lower by 3 or more  | Epic failure                   |
 | Tie                                   | Success, but with complication |
-
-> If you don't have enough dice, you can use coins:
-> heads counts as a failure, and tails counts as success.
 
 For example,
 suppose that Shau Sheu is an Expert climber and is faced with a Tough wall.
@@ -111,6 +108,9 @@ As it goes tumbling into the depths of the ravine,
 the noise it makes alerts the guards above her.
 Shau Sheu's day is about to get a little more interesting…
 
+> If you don't have dice, you can use coins:
+> heads count as success and tails as failures.
+
 ### Fluke
 
 If a character has no rating at all,
@@ -133,7 +133,7 @@ And another 6!
 And then a 3,
 giving her a total score of 2 successes.
 The task is Tough,
-so the director rolls 3 dice and gets 1 success.
+so the director rolls 3 dice and gets only 1 success.
 The lock clicks open and Shau Sheu staggers out of the room, coughing.
 
 ## Characteristics and Skills
@@ -169,18 +169,17 @@ extras (non-player characters) may have two more characteristics:
 Players' characters don't have scores for these
 because being brave and telling the truth (or not) are part of the game.
 
-Characters may also have ratings for these characteristics,
-all of which are Novice level (1 die) by default:
+Characters start with Novice/Very Low ratings for these core abilities:
 
 - **Acting**: impersonating people, feigning illness, etc.
-- **Awareness**: noticing little details (a good skill for a detective).
 - **Charisma**: charming people (or intimidating them).
 - **Crafts**: fixing clocks, knitting, and other handicrafts.
+- **Detection**: noticing little details (which isn't the same as merely seeing them).
 - **Fighting**: hand-to-hand combat.
 - **Healing**: first aid and treating poisons and diseases.
+- **Knowledge**: general background knowledge of a society or environment.
 - **Stealth**: the fine art of not being noticed.
 - **Survival**: making a fire, knowing what's good to eat, etc.
-- **Trivia**: general background knowledge.
 
 ## Species
 

@@ -109,9 +109,9 @@ Come Round Again
   - "And if that was all it was, the Yith might never have bothered with us."
   - "Except we come back. Ages and ages from now, after the Ck'chk'ck and the Sareeav, after the earth has been frozen for an aeon, we come back."
   - George: "How?"
-  - Robbie (Yith): "That is unknown to us. There is an age of machines. They have reason and purpose, but not minds, so we cannot put ourselves among them."
+  - Robbie (Yith): "That is unknown to us. There is an age of machines. They have reason and purpose, but not minds, so we cannot know them."
   - Robbie (Yith): "They warm the earth and then fill it with all manner of creatures, including humans."
-  - Robbie (Yith): "By the time the people of the water wake from their long frozen sleep, it is done and the machines are gone."
+  - Robbie (Yith): "By the time the people of the water wake from their long frozen sleep, the machines are gone again."
   - George: "What's that got to do with Robbie?"
   - Robbie (Yith): "They are his machines, come back from their long exile among the stars.  We hoped he might tell us."
   - George doesn't know
@@ -125,12 +125,15 @@ Come Round Again
   - Robbie has George get a strange crystalline machine out of the closet
   - George: "Mom's art project?"
   - Robbie (shakes head): "It's something they made. Or they had her make.  It gave me some ideas."
-  - Robbie (laughs): "It's funny. Mom couldn't get her head around computers any more than they can. Maybe that's why they chose her."
+  - Robbie (laughs): "It's funny. Mom couldn't get her head around computers any more than they can."
   - obviously weak, he logs in and puts a couple of documents on the screen
   - Robbie: "When they come, show them this and tell them there's more in a dead man account. If they don't leave you alone..."
-- George finally asks Robbie if he's gay
-  - Robbie laughs: "Probably would have been if I'd ever figured it out. But I did meet someone..."
-  - talks a bit about an Australian physicists named Nevil Kingston-Brown who lives in one of the last outposts of Western civilization in Antarctica in 2500
+  - Robbie talks a bit about an Australian physicists named Nevil Kingston-Brown who lives in one of the last outposts of Western civilization in Antarctica in 2500
+  - Robbie: "The ice is all gone. The oceans are anoxic and spewing hydrogen sulphide into the atmosphere.  They're using replicators to scrub the air."
+  - Robbie: "Someone we met while I was…away…told me they succeed and stabilize things, barely, but then…" shrugs "People do what people do-we start fighting."
+  - Robbie: "An empire called the Tsan-Chan wins, but winning tips the balance, and…"
+  - George: "That's horrible!"
+  - Robbie (gently): "Everyone dies. It's what you do before then that matters."
   - they play some poker after that, and talk about their mother, and about growing up
   - then Robbie sleeps and doesn't wake
 - after the launch, email from Robbie confessing that he's snuck some of George's stories into the code for the space probe

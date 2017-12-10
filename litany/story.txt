@@ -14,10 +14,10 @@ Come Round Again
   - That was in one of his Sherlock Holmes phases
 - story opens with a snippet of D&D-style adventure
   - two brothers fighting against hopeless odds beneath a dying sun
+  - realize it's George telling Robbie the latest installment of the graphic novel he's working on
 - then cuts to George asking the nurse (middle-aged Japanese-American woman) how Robbie is
-  - he's been having episodes where he's lucid and keen to work,
-    but doesn't seem himself
-  - he's always lost himself in his projects, but not like this
+  - he's been having episodes where he's lucid and keen to work, but doesn't seem himself
+  - he has always lost himself in his projects, but not like this
 - George talks to him
   - Robbie confesses that he's amazed by the stuff he's coming up with in these episodes
   - "I won't live to see the launch, but I can dream about it"
@@ -26,8 +26,9 @@ Come Round Again
 - George goes and works on the story he's writing
   - graphic novels used as the basis for video games
   - two brothers, one wounded, in a Sareeav palace uncovered after aeons by retreating ice
-  - now infested with flying polyps
+  - now infested with larval flying polyps
   - wife comes in to ask how Robbie is, George snaps at her and then apologizes
+  - George: "At least he's interested in what I do now…"
 - George comes back a couple of hours later with a deck of cards
   - no point playing chess (Robbie always won) but he was always too honest to be good at poker
   - Robbie is working and distant
@@ -43,7 +44,7 @@ Come Round Again
   - "These things that look like something out of one of George's stories"
   - "Asking me questions about the project"
   - Biczo's ears perk up: what kinds of questions?
-  - Robbie (laughing weakly): "They used to be about the self-replication code, but now all they want to know about is George's stories"
+  - Robbie (laughing weakly): "They used to be about the network code, but now all they want to know about is George's stories"
   - Biczo is taken aback by that
   - George notices the nurse stumbling at that
   - Robbie: "I wonder... Is this some sort of subconscious thing? Me remembering Mom being like this, and wanting her to know how we turned out?"
@@ -83,64 +84,69 @@ Come Round Again
   - Door opens, Robbie says, "Because they are afraid."
   - Biczo starts to stand, falls unconscious
   - The nurse is there propping Robbie up
-  - Robbie (Yith) nods solemnly.  "Hello.  We haven't been properly introduced, but perhaps that can wait."
+  - Yith nods solemnly.  "Hello.  We haven't been properly introduced, but perhaps that can wait."
 - Nurse drives them away in a big old American car chosen (George suspects) not just for its trunk space
-  - George up front with the nurse, Robbie (Yith) lying down in the back
-  - Silence until the nurse says, "Well if we're going to do introductions, I'm Affie."
+  - George up front with the nurse, Yith lying down in the back
+  - Silence until the nurse says, "Well if we're going to do introductions, I'm Aphra.  Call me Affie."
   - George: "Unusual name for..." awkward hand gesture fills in the "someone Asian"
   - nurse: "My mother named me after her best friend."
 - George: "Someone's going to come looking for us"
-  - Robbie (Yith): "Probably. This interference is inconvenient."
+  - Yith: "Probably. This interference is inconvenient."
   - George: "Robbie, what-"
   - nurse: "He's not Robbie right now. He's one of the Great Race."
   - back story as Affie navigates through city traffic
-  - George knows a little about Aeonist theology
+  - George knows a little about Aeonist theology from his mother's books
   - George: "So you're a Yith?"
-  - Robbie (Yith) (to Affie): "Will this cause difficulties?"
+  - Yith (to Affie): "Will this cause difficulties?"
   - Affie: "Not compared to what you did back there.  And he *is* the author of the stories."
   - George: "Wait, what did you do back there? Did you kill them?"
   - Affie (coldly): "No. That's never been their way, or ours, despite what the government tells itself."
-  - Robbie (Yith) (repeating): "Will this cause difficulties?"
+  - Yith (repeating): "Will this cause difficulties?"
   - Affie (gently): "Might be easier if I tell him."
 - Affie: "The Litany teaches us that this is just one age of many, and a short one at that, and we're going to end it ourselves."
   - George: "How?"
-  - Affie nods out the window at the unseasonally warm Toronto winter.
+  - Affie nods out the window at the unseasonally warm Toronto winter
   - Affie: "We have the dubious distinction of being the only species in the Litany to destroy itself."
   - "And if that was all it was, the Yith might never have bothered with us."
   - "Except we come back. Ages and ages from now, after the Ck'chk'ck and the Sareeav, after the earth has been frozen for an aeon, we come back."
   - George: "How?"
-  - Robbie (Yith): "That is unknown to us. There is an age of machines. They have reason and purpose, but not minds, so we cannot know them."
-  - Robbie (Yith): "They warm the earth and then fill it with all manner of creatures, including humans."
-  - Robbie (Yith): "By the time the people of the water wake from their long frozen sleep, the machines are gone again."
+  - Yith: "That is unknown to us. There is an age of machines. They have reason and purpose, but not minds, so we cannot know them."
+  - Yith: "They warm the earth and then fill it with all manner of creatures, including humans."
+  - Yith: "By the time the people of the water wake from their long frozen sleep, the machines are gone again."
   - George: "What's that got to do with Robbie?"
-  - Robbie (Yith): "They are his machines, come back from their long exile among the stars.  We hoped he might tell us."
-  - George doesn't know
+  - George (sudden realization): "They're his machines?"
+  - Yith: "No. Your technology is still too primitive. The progenitors of those machines are created five centuries hence."
+  - Yith: "But the network starts here."
+  - Yith explains why Robbie and not George: "We require a minimum mental capacity to function."
+  - Yith clearly doesn't like a mystery
   - The Yith leaves Robbie
   - Robbie (himself) starts coughing: "Take me home"
-  - Affie: "They'll come back. They always do."
+  - Affie: "They'll come for you. They always do."
   - George (fiercely): "Take us home."
 - back to the house
   - Affie helps George get Robbie inside, then says she's leaving
   - George and Robbie sitting alone in the dark
   - Robbie has George get a strange crystalline machine out of the closet
-  - George: "Mom's art project?"
+  - George: "One of Mom's art projects?"
   - Robbie (shakes head): "It's something they made. Or they had her make.  It gave me some ideas."
   - Robbie (laughs): "It's funny. Mom couldn't get her head around computers any more than they can."
   - obviously weak, he logs in and puts a couple of documents on the screen
   - Robbie: "When they come, show them this and tell them there's more in a dead man account. If they don't leave you alone..."
-  - Robbie talks a bit about an Australian physicists named Nevil Kingston-Brown who lives in one of the last outposts of Western civilization in Antarctica in 2500
-  - Robbie: "The ice is all gone. The oceans are anoxic and spewing hydrogen sulphide into the atmosphere.  They're using replicators to scrub the air."
-  - Robbie: "Someone we met while I was…away…told me they succeed and stabilize things, barely, but then…" shrugs "People do what people do-we start fighting."
-  - Robbie: "An empire called the Tsan-Chan wins, but winning tips the balance, and…"
-  - George: "That's horrible!"
-  - Robbie (gently): "Everyone dies. It's what you do before then that matters."
-  - they play some poker after that, and talk about their mother, and about growing up
-  - then Robbie sleeps and doesn't wake
+  - Robbie talks a bit about an Australian physicists named Nevil Kingston-Brown who lives in Antarctica in 2500
+  - Robbie: "The ice is all gone. The oceans are anoxic and spewing hydrogen sulphide into the atmosphere."
+  - robbie: "They created self-replicating machines to scrub the air."
+  - George: "What's the point?"
 - after the launch, email from Robbie confessing that he's snuck some of George's stories into the code for the space probe
   - like the record on Voyager, but (shrug) more fun
+  - titled "Literarcy Classics" to make sure no one actually reads it
   - hacked the inspection records so that everyone will think someone else checked it
   - so that even when we're both gone, it'll be out there somewhere
-- story closes with one brother in a D&D world grieving at his brother's grave
-  - whispers, "But what do I do now?"
-  - ghost whispers back, "You live."
-  - surviving brother looks at the sun that's not dead yet and sets off
+  - George imagines his stories–their story–traveling for billions of years before returning home
+  - wonders for a moment if there's any point writing any more, since it won't go into space
+  - then remembers his brother's last words: "The point is what you do *now*."
+  - they played some poker after that, and talked about their mother, and about growing up
+  - then Robbie slept and didn't wake
+  - so he picks up his pen
+- story closes with one brother under a dying sun grieving at his brother's grave
+  - dying, but not yet dead
+  - so he shoulders his pack and sets off to see what comes next

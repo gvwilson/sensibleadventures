@@ -10,9 +10,10 @@ peak, while its stern drops so steeply that only goats, birds, and a
 small village called Aft Landing can find a foothold.  Put a town of
 some ten thousand souls on its bow, and smaller towns (not
 villages–their inhabitants are quite definite about that) on its port
-and starboard flanks.  Bash its underside against stationary mountains
-until it's ragged, and let rain, snow, and windblown sand weather it
-for a few thousand years.  That is Avaunt.*
+and starboard flanks.  Bash its underside against ordinary, stationary
+mountains until it's ragged, and let rain, snow, and windblown sand
+weather it for a few thousand years as it travels around the world.
+That is Avaunt.*
 
 *Now put it in motion.  Eight months north from Mau Ngapcha to Gandan
 Berth, with half the world's chocolate in its warehouses, along with
@@ -284,7 +285,7 @@ a plate at her father's elbow.  "Are you going to eat that?"
 it up and squinted at it critically.  "Don't forget you have to finish
 the fence today."
 
-"I won't." Slipping the bread into his pocket, Erileine headed out the
+"I won't." Slipping the bread into her pocket, Erileine headed out the
 front door.
 
 She stood blinking for a moment in the sharp light of the mountain
@@ -2244,7 +2245,7 @@ up."
 
 "Didn't the captain do anything?" Laeuc asked.
 
-She made a face.  "Kind of like asking whether your fingers'll do
+She made a face.  "Kind of like asking whether your fingers will do
 something about your thumb, isn't it?  But you mark me–things keep
 going on like this, the captain will have to do something whether he
 wants to or not."
@@ -3851,7 +3852,7 @@ once more, but the boy was gone.  She shrugged, trying to be
 philosophical.  At least now she could actually go and look at some
 books.
 
-Her father had first taken him to Booksellers' Cross on her eighth
+Her father had first taken her to Booksellers' Cross on her eighth
 naming day.  The booksellers had rolled their eyes at one another, all
 thinking, "Here's another one," as they remembered themselves at her
 age.
@@ -5766,7 +5767,7 @@ turning slowly behind the counter.
 In the end, Razi had to wake Erileine from an uncomfortable doze.
 "It's time," he said softly, shaking her shoulder.
 
-The bookster's bag empty lay neatly folded on a shelf.  The tube
+The bookster's empty bag lay neatly folded on a shelf.  The tube
 holding Lady Kembe's picture hung over his shoulder on a cord.  The
 rest of his things were hidden in the depths of his *deel*, except for
 the green sword bottle that hung from his belt and a coil of rope that
@@ -5810,7 +5811,7 @@ being closed hastily a few houses away.  Someone had seen them.
 they were Avauntois.
 
 The sharp-sweet tang of boiled blueberries filled her nostrils as she
-followed Piaerre and Erileine into a narrow gap where one shop didn't
+followed Piaerre and Razi into a narrow gap where one shop didn't
 quite rub shoulders with the next.  The gap led to a small,
 neatly-kept courtyard.  A bamboo lattice gate filled its opposite
 site.  Beyond it, garden sheds watched over patches of vegetables
@@ -5993,8 +5994,8 @@ The bottom was squelchy with mud and rotting greenery.
 "So now we crawl," Razi sighed.  Piaerre wrinkled his nose, but lay
 flat and began wriggling.  Erileine followed suit, gagging the first
 time her weight made a buried twig fling a palmful of mud into his
-face.  He found himself wishing that Lady Kembe's spell had taken his
-sense of smell rather than the feeling in his hand.
+face.  She found herself wishing that Lady Kembe's spell had taken her
+sense of smell rather than the feeling in her hand.
 
 The far end of the ditch connected with a larger one built to carry
 runoff to the carp pools.  Erileine cautiously raised her head.  A

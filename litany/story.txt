@@ -1,152 +1,92 @@
-Come Round Again
+<!-- start: 2017-12-16 -->
+<!-- target: 5000 -->
+<!-- deadline: 2017-12-31 -->
+# And Should I Fall Behind
+# Greg Wilson
 
-- theme: people and worlds may die,
-  but they live first,
-  and we should celebrate that rather than letting the inevitable spoil enjoyment of today
-- setting is a home in Toronto where a brilliant young man named Robbie is dying of cancer
-- the protagonist is George, his older brother (and best friend)
-  - their mother was a history professor who studied Aeonism and had them on her own
-  - A bully once sneered, "Who calls anyone George these days?"
-    and Robbie replied, "Someone who isn't drunk and beating up his wife all the time."
-    (which was a pretty hard burn for a 10-year-old)
-  - George: "How'd you know his dad's beating up his mom?"
-  - Robbie (shrugging): "You just have to look"
-  - That was in one of his Sherlock Holmes phases
-- story opens with a snippet of D&D-style adventure
-  - two brothers fighting against hopeless odds beneath a dying sun
-  - realize it's George telling Robbie the latest installment of the graphic novel he's working on
-- then cuts to George asking the nurse (middle-aged Japanese-American woman) how Robbie is
-  - he's been having episodes where he's lucid and keen to work, but doesn't seem himself
-  - he has always lost himself in his projects, but not like this
-- George talks to him
-  - Robbie confesses that he's amazed by the stuff he's coming up with in these episodes
-  - "I won't live to see the launch, but I can dream about it"
-  - George: "It's less than a year"
-  - Robbie (coughing): "What a coincidence - I have less than a year."
-- George goes and works on the story he's writing
-  - graphic novels used as the basis for video games
-  - two brothers, one wounded, in a Sareeav palace uncovered after aeons by retreating ice
-  - now infested with larval flying polyps
-  - wife comes in to ask how Robbie is, George snaps at her and then apologizes
-  - George: "At least he's interested in what I do now…"
-- George comes back a couple of hours later with a deck of cards
-  - no point playing chess (Robbie always won) but he was always too honest to be good at poker
-  - Robbie is working and distant
-  - George suddenly recognizes the distance: it used to happen to their mother
-  - chilled, he knows who to talk to
-- next scene he's visiting Agent Biczo, who interviewed them after their mother died
-  - moved to Toronto after he retired from whatever government agency he worked for
-  - "I think I've earned a little peace and quiet"
-  - had made introductions to a couple of people when Robbie was going through a bad patch in his twenties
-  - George: "I think whatever happened to Mom... Is it genetic?"
-- Biczo comes the next day
-  - Robbie confesses that he's been having strange dreams
-  - "These things that look like something out of one of George's stories"
-  - "Asking me questions about the project"
-  - Biczo's ears perk up: what kinds of questions?
-  - Robbie (laughing weakly): "They used to be about the network code, but now all they want to know about is George's stories"
-  - Biczo is taken aback by that
-  - George notices the nurse stumbling at that
-  - Robbie: "I wonder... Is this some sort of subconscious thing? Me remembering Mom being like this, and wanting her to know how we turned out?"
-- He goes back to sleep
-  - George talks to Biczo about his reaction: "What aren't you telling me?"
-  - Biczo says it's nothing to worry about, but he's almost as bad at poker as Robbie
-- George goes back to his story
-  - things have been moved around: "Artists know their desks"
-  - asks his wife, but she knows better than to mess with his stuff
-  - looks at the story he's been working on, crumples up the page and throws it in rage
-  - what's the point?
-  - she holds him while he cries
-- he decides to go back to Robbie's
-  - pair of SUVs parked in front of the house
-  - Biczo is there, pained but resolute: "Sorry, kid, but some people need to talk to your brother"
-  - they bring an unconscious Robbie out in a wheelchair
-  - George: "Where are you taking him?"
-  - Agent: "Not your concern"
-  - George: "But this is Canada! You can't-"
-  - Biczo (tiredly): "They're trying to save the world, kid. They can do whatever they like."
-  - George knows nothing about fighting, but enraged, he takes a swing
-  - Is grabbed, feels a sting, blacks out
-- Wakes up in a hospital bed
-  - Door is locked
-  - Window looks out on a blank brick wall
-  - Nothing in the room he could hurt himself with
-  - Drugged and interrogated for hours about Robbie's work, his stories, the questions
-  - Agent Biczo is there
-  - George: "What have you done with Robbie?"
-  - Biczo: "They're just asking him some questions."
-  - George: "It's not fair! He doesn't have much time left."
-  - Biczo (bitterly): "Have you looked at the world recently, kid? None of us have much time left."
-  - continues under his breath: "But these idiots still think they can stop it..."
-  - George (strucky by a horrible thought): "Did you do this to Mom? When she - when she went away?"
-  - Look on Biczo's face says it all - he's almost as bad at poker as Robbie
-  - George (coldly): "I want to fucking kill you.  Why are you doing this to us?"
-  - Door opens, Robbie says, "Because they are afraid."
-  - Biczo starts to stand, falls unconscious
-  - The nurse is there propping Robbie up
-  - Yith nods solemnly.  "Hello.  We haven't been properly introduced, but perhaps that can wait."
-- Nurse drives them away in a big old American car chosen (George suspects) not just for its trunk space
-  - George up front with the nurse, Yith lying down in the back
-  - Silence until the nurse says, "Well if we're going to do introductions, I'm Aphra.  Call me Affie."
-  - George: "Unusual name for..." awkward hand gesture fills in the "someone Asian"
-  - nurse: "My mother named me after her best friend."
-- George: "Someone's going to come looking for us"
-  - Yith: "Probably. This interference is inconvenient."
-  - George: "Robbie, what-"
-  - nurse: "He's not Robbie right now. He's one of the Great Race."
-  - back story as Affie navigates through city traffic
-  - George knows a little about Aeonist theology from his mother's books
-  - George: "So you're a Yith?"
-  - Yith (to Affie): "Will this cause difficulties?"
-  - Affie: "Not compared to what you did back there.  And he *is* the author of the stories."
-  - George: "Wait, what did you do back there? Did you kill them?"
-  - Affie (coldly): "No. That's never been their way, or ours, despite what the government tells itself."
-  - Yith (repeating): "Will this cause difficulties?"
-  - Affie (gently): "Might be easier if I tell him."
-- Affie: "The Litany teaches us that this is just one age of many, and a short one at that, and we're going to end it ourselves."
-  - George: "How?"
-  - Affie nods out the window at the unseasonally warm Toronto winter
-  - Affie: "We have the dubious distinction of being the only species in the Litany to destroy itself."
-  - "And if that was all it was, the Yith might never have bothered with us."
-  - "Except we come back. Ages and ages from now, after the Ck'chk'ck and the Sareeav, after the earth has been frozen for an aeon, we come back."
-  - George: "How?"
-  - Yith: "That is unknown to us. There is an age of machines. They have reason and purpose, but not minds, so we cannot know them."
-  - Yith: "They warm the earth and then fill it with all manner of creatures, including humans."
-  - Yith: "By the time the people of the water wake from their long frozen sleep, the machines are gone again."
-  - George: "What's that got to do with Robbie?"
-  - George (sudden realization): "They're his machines?"
-  - Yith: "No. Your technology is still too primitive. The progenitors of those machines are created five centuries hence."
-  - Yith: "But the network starts here."
-  - Yith explains why Robbie and not George: "We require a minimum mental capacity to function."
-  - Yith clearly doesn't like a mystery
-  - The Yith leaves Robbie
-  - Robbie (himself) starts coughing: "Take me home"
-  - Affie: "They'll come for you. They always do."
-  - George (fiercely): "Take us home."
-- back to the house
-  - Affie helps George get Robbie inside, then says she's leaving
-  - George and Robbie sitting alone in the dark
-  - Robbie has George get a strange crystalline machine out of the closet
-  - George: "One of Mom's art projects?"
-  - Robbie (shakes head): "It's something they made. Or they had her make.  It gave me some ideas."
-  - Robbie (laughs): "It's funny. Mom couldn't get her head around computers any more than they can."
-  - obviously weak, he logs in and puts a couple of documents on the screen
-  - Robbie: "When they come, show them this and tell them there's more in a dead man account. If they don't leave you alone..."
-  - Robbie talks a bit about an Australian physicists named Nevil Kingston-Brown who lives in Antarctica in 2500
-  - Robbie: "The ice is all gone. The oceans are anoxic and spewing hydrogen sulphide into the atmosphere."
-  - robbie: "They created self-replicating machines to scrub the air."
-  - George: "What's the point?"
-- after the launch, email from Robbie confessing that he's snuck some of George's stories into the code for the space probe
-  - like the record on Voyager, but (shrug) more fun
-  - titled "Literarcy Classics" to make sure no one actually reads it
-  - hacked the inspection records so that everyone will think someone else checked it
-  - so that even when we're both gone, it'll be out there somewhere
-  - George imagines his stories–their story–traveling for billions of years before returning home
-  - wonders for a moment if there's any point writing any more, since it won't go into space
-  - then remembers his brother's last words: "The point is what you do *now*."
-  - they played some poker after that, and talked about their mother, and about growing up
-  - then Robbie slept and didn't wake
-  - so he picks up his pen
-- story closes with one brother under a dying sun grieving at his brother's grave
-  - dying, but not yet dead
-  - so he shoulders his pack and sets off to see what comes next
+*"They're coming," the younger warned,
+eyes closed in concentration as he stretched his eldritch senses to their limits.*
+
+*"Oh really?" the older snapped.
+He shifted his alien black sword to his left hand and drew his blaster with his right.
+It only had a dozen charges left,
+and who knew how effective it would be against the half-dimensional horrors pursuing them,
+but its weight was comforting.*
+
+*Not for the first time,
+he wished his brother was just a little less smart.
+Just a little.
+Just less-smart enough to not be able to piece together
+the strangely-cold shards of a map made when the sun was still yellow
+and–*
+
+"Spoiler."
+Robbie struggled to sit up.
+"That's a spoiler.
+We don't know how old the map is yet, do we?"
+
+"Um…"
+George flipped back a couple of pages and nodded.
+"Okay, good catch.
+That'll be easy to fix–it's just a bit of pencil work.
+You want to keep going?"
+He carefully didn't glance at his brother as he asked.
+
+Robbie settled back on the bed that had been his home for the last two months.
+He claimed he didn't notice the drip tube stuck in his arm any more,
+but whenever George came to visit,
+it always seemed to catch the corner of his eye.
+It,
+and the quiet machine it was connected to,
+and the faint under-smell of sweat and antiseptic
+that reminded him of their mother's final illness in the same room
+twenty years before.
+
+"'Sokay if we take a break?"
+Robbie yawned.
+He gestured at the laptop waiting on the bed tray in his lap.
+"I had a couple of ideas for tweaking the congestion algorithms."
+
+"Sure.
+I'm supposed to get home soon anyway,"
+his brother lied.
+He tucked the loose pages he'd drawn that morning back into his folder and stood up.
+"You need anything?"
+
+Robbie shook his head,
+already opening the laptop.
+"I'm good.
+Say hi to Boots for me."
+
+"'Course.
+She'll come by on the weekend."
+George hesitated,
+just as he always did when the time came to leave.
+They had never been a huggy family,
+but the one time he and Robbie had bumped fists,
+they had both burst out laughing at how ridiculous it felt.
+As far as George could remember,
+that was the last time either of them had laughed.
+"You sure you'll be okay?"
+
+Robbie looked up from the dense tangle of simulation statistics on his screen.
+"You mean, am I going to have another episode?
+No idea.
+But I'm recording my screen and the router is dumping all my traffic off site,
+so if I do,
+maybe I'll be able to figure out what I'm looking for.
+You know,
+when I'm not actually me."
+And then he smiled their mother's smile,
+the smile that meant,
+"I love you but I'd like to get back to work now."
+
+George closed the door quietly behind him,
+went downstairs,
+and slumped into an overstuffed blue chair that had been
+one of Robbie's few additions to the decor.
+He closed his eyes and waited for the tears to come.
+When they finished,
+he wiped his eyes on his sleeve and got shakily to his feet.
+Six pages a day was a punishing pace,
+but this was one deadline he wasn't going to miss.

@@ -4,12 +4,7 @@
 - setting is a home in Toronto where a brilliant young man named Robbie is dying of cancer
 - the protagonist is George, his older brother (and best friend)
   - their mother was a history professor who studied Aeonism and had them on her own
-  - A bully once sneered, "Who calls anyone George these days?"
-    and Robbie replied, "Someone who isn't drunk and beating up his wife all the time."
-    (which was a pretty hard burn for a 10-year-old)
-  - George: "How'd you know his dad's beating up his mom?"
-  - Robbie (shrugging): "You just have to look"
-  - That was in one of his Sherlock Holmes phases
+
 - story opens with a snippet of D&D-style adventure
   - two brothers fighting against hopeless odds beneath a dying sun
   - realize it's George telling Robbie the latest installment of the graphic novel he's working on
@@ -21,6 +16,7 @@
   - "I won't live to see the launch, but I can dream about it"
   - George: "It's less than a year"
   - Robbie (coughing): "What a coincidence - I have less than a year."
+
 - George goes and works on the story he's writing
   - graphic novels used as the basis for video games
   - two brothers, one wounded, in a Sareeav palace uncovered after aeons by retreating ice

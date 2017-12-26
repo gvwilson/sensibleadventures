@@ -1,5 +1,5 @@
 <!-- start: 2017-12-16 -->
-<!-- target: 7500 -->
+<!-- target: 7000 -->
 <!-- deadline: 2017-12-31 -->
 # And Should I Fall Behind
 # Greg Wilson

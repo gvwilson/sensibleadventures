@@ -170,8 +170,8 @@ Hungarian, and his English bent at angles almost as strange as those he
 used in his splines. You searched for him online; all you found was a
 potted biography that said he had fled Europe in middle age. A refugee
 from the rising tide of speeches and uniforms and camps and fires, you
-thought, but no, the timing was wrong: the paper had been published in
-1931. You wondered briefly what he might have been fleeing, then put the
+thought, but no, the timing was wrong: the paper had been published in 1931.
+You wondered briefly what he might have been fleeing, then put the
 thought aside. Later, you would be able to guess.
 
 Three days to understand it. A thirty-hour sprint to turn it into code.

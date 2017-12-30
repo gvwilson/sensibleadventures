@@ -4,6 +4,12 @@ title: Still
 permalink: /still-short/
 ---
 
+<div align="center" markdown="1">
+![On Spec Summer 2010]({{ site.root }}/files/on-spec-summer-2010.png)
+<br/>
+First published in *On Spec* 22/2, Summer 2010.
+</div>
+
 *A lot of my stories aren't true, but this is a true story…*
 
 Once upon a time, there was a young puppet named Still. She wore black
@@ -994,9 +1000,3 @@ But when she reached the top, all she found was a worn old statue with
 the remains of a fierce look carved on its face. She stared at it for a
 long moment, then wrapped the scarf around its neck, climbed back down
 the drainpipe, and went home.
-
-<div align="center" markdown="1">
-![On Spec Summer 2010]({{ site.root }}/files/on-spec-summer-2010.png)
-<br/>
-First published in *On Spec* 22/2, Summer 2010.
-</div>

@@ -4,6 +4,12 @@ title: Controlled Release
 permalink: /controlled-release/
 ---
 
+<div align="center" markdown="1">
+![On Spec Winter 2007]({{ site.root }}/files/on-spec-winter-2007.jpg)
+<br/>
+First published in *On Spec* 19/4, Winter 2007.
+</div>
+
 Maybe you were born that way. Maybe a stray cosmic ray or mutagenic
 molecule slapped hands with one of your parents' DNA days or years
 before your conception.
@@ -351,9 +357,3 @@ is. For the first time, you *feel* something, and you want more.
 
 You smile to yourself. "Controlled" release? You chuckle quietly,
 oblivious to the sound's manic undertone, and start to type.
-
-<div align="center" markdown="1">
-![On Spec Winter 2007]({{ site.root }}/files/on-spec-winter-2007.jpg)
-<br/>
-First published in *On Spec* 19/4, Winter 2007.
-</div>

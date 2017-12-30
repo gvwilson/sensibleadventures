@@ -4,6 +4,12 @@ title: "...But With a Whimper"
 permalink: /but-with-a-whimper/
 ---
 
+<div align="center" markdown="1">
+![On Spec Fall 2007]({{ site.root }}/files/on-spec-fall-2007.jpg)
+<br/>
+First published in *On Spec* 19/3, Fall 2007.
+</div>
+
 The small cottage stood on the shoulder of one of the rounded hills that
 made its particular corner of Sussex a quiet paradise for walkers. Not
 that its single resident walked much any more; seven decades, an
@@ -234,9 +240,3 @@ the back, sir?" he asked quietly.
 The old man didn't answer. His hands were shaking too much to cock the
 pistol. Sparkling dots swam before his eyes as the future strolled
 whistling down the path, leaving a legend behind it.
-
-<div align="center" markdown="1">
-![On Spec Fall 2007]({{ site.root }}/files/on-spec-fall-2007.jpg)
-<br/>
-First published in *On Spec* 19/3, Fall 2007.
-</div>

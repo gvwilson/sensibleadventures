@@ -1,6 +1,3 @@
-<!-- start: 2017-12-16 -->
-<!-- target: 7000 -->
-<!-- deadline: 2017-12-31 -->
 # And Should I Fall Behind
 # Greg Wilson
 
@@ -693,9 +690,9 @@ I'll finish making posters for the fracking protest, and then when you get home�
 "Mm hm?"
 
 She put her lips to his ear and whispered,
-"We can have hot chocolate and watch some *Cowboy Bebop*."
+"We can have hot chocolate and watch some *Buffy*."
 
-It took him half an hour to get out the door.
+It was an hour before he got out the door.
 For the first time in a long time,
 the gray winter drizzle didn't bother him.
 Even the headlines playing in the streetcar's windows couldn't burst his mood.
@@ -778,7 +775,7 @@ He swallowed,
 rubbed his eyes with a clumsy hand,
 and turned his head.
 
-He was lying on a hospital bed.
+A hospital bed.
 A pillow.
 A light blanket the same institutional powder blue as the sheets.
 A plastic scoop-backed chair so featureless it looked like a drawing.
@@ -868,7 +865,7 @@ He doesn't have time for this shit."
 Doctor Biczo snorted.
 "Have you looked at the world recently?
 None of us have much time any more.
-But these idiots still think they can stop it…"
+But these idiots still won't listen…"
 he added under his breath.
 
 George's hands bunched into fists as a thought struck him.
@@ -878,7 +875,7 @@ When she was sick?"
 The look on Doctor Biczo's face gave him his answer.
 "You shitbag,"
 George said coldly.
-"Why are you doing this to us?"
+"Why?"
 
 As if in answer,
 the door behind Doctor Biczo swung open.
@@ -926,9 +923,10 @@ screen after screen showing waveforms,
 false-color images,
 and real-time summaries of social media feeds devoted to the upcoming satellite launch,
 occult conspiracy theories,
-and the seemingly inexorable collapse of the world's ice sheets,
+and the concurrent collapse of the world's ice sheets,
 fishing stocks,
-and insect populations.
+bee populations,
+and willingness to do actually *do* anything.
 
 "Hello,"
 Robbie said calmly.
@@ -941,7 +939,7 @@ This time Robbie's smile reached all the way to his eyes.
 "Those are good questions.
 Perhaps the answers can wait until after our departure?"
 
-George supported Robbie while the nurse hurried on ahead.
+George helped his brother while the nurse hurried on ahead.
 An elevator took them down two floors to a ground floor
 where another man lay unconscious at a reception desk.
 "That's quite a trick,"
@@ -961,14 +959,13 @@ the nurse said,
 "I'm Aphra, by the way.  Call me Affie."
 
 "That's an unusual name,"
-George said,
-immediately feeling awkward.
+George said without thinking.
 
 The nurse smile.
 "My mother named me after her best friend.
 She *was* pretty unusual."
 
-"I guess."
+"I imagine."
 George twisted around in his seat to look at Robbie.
 "Someone's going to come looking for us, you know."
 
@@ -1004,7 +1001,7 @@ his brother's voice said calmly.
 George demanded.
 
 Robbie closed his eyes.
-His lips worked briefly.
+His lips worked briefly as if he was talking to someone unseen.
 "You nicknamed your wife's breasts Arwen and Galadriel,"
 he said.
 
@@ -1021,10 +1018,11 @@ Affie shrugged.
 
 "Wait–they're going to wake up, aren't they?"
 George asked belatedly.
+"I mean, they're not–"
 
-"Of course,"
+"Of course they're going to wake up,"
 Affie replied coldly.
-"Killing has never been our way, despite what the government says."
+"Killing has never been our way, despite what the government keeps telling itself."
 Her expression softened.
 "The Litany teaches us that this is just one age of many,
 and a short one at that.
@@ -1037,7 +1035,7 @@ Affie nodded out the window at the unseasonally warm winter.
 "We have the dubious distinction of being the only race in the Litany to destroy itself.
 And if that was all there was to it,
 the Yith might never have bothered with us.
-Except we come back.
+Except somehow we come back.
 Ages and ages from now,
 after the Ck'chk'ck and the Sareeav,
 after the earth has been frozen for an aeon,
@@ -1053,11 +1051,20 @@ They have reason and purpose,
 but not minds,
 so we cannot know them.
 They warm the earth and fill it with all manner of creatures,
-including your kind.
-By the time the people of the water wake from their long frozen sleep,
+including your kind."
+
+"Tenth will be an age when many races dwell upon the Earth,
+those re-made and those come from afar,
+faces of the Yith and others alike,"
+Affie recited fervently.
+"The work of that aeon will be to make stories of great heroes and foul deeds
+worthy of the archives."
+
+Robbie nodded solemnly.
+"By the time the people of the water wake from their long frozen sleep,
 the machines have returned to the depths of space.
-We have asked the Mi-go to speak with them many times,
-but they are unco-operative,"
+We have asked the Mi-go to speak with them,
+but they are unreliable,"
 he added sourly.
 
 "What's that got to do with Robbie?"
@@ -1072,19 +1079,34 @@ Your technology is still too primitive.
 We believe the machines' progenitors are created five centuries hence.
 But the network begins here,
 and so do many of the things the machines create.
-There are flying ships,
-giant spiders,
-and ray guns,
-all of them taken directly from the stories of this era.
+There are flying ships and zombies and ray guns,
+all of them taken from the stories of this era
+and an improbable number taken from *your* work.
 We do not understand how that is possble."
 
 The distaste in Robbie's voice when he said "ray guns"
 almost made George giggle.
 Whoever or whatever this was in his brother's body,
 it clearly didn't like mysteries.
-"So what–Robbie!"
+"So if it's my work you're interested in,
+not his,
+why…?"
+He gestured helplessly.
 
-His brother slumped sideways.
+"Um."
+The nurse cleared her throat.
+"They can't just project themselves into anyone.
+The vessel has to have a certain, uh, mental capacity?"
+
+George looked from her to Robbie and back again.
+"You're saying I'm not smart enough."
+
+"We did try,"
+Robbie admitted.
+"And you were able to sustain the exchange for several minutes.
+That's really quite good."
+
+Without warning, Robbie slumped sideways.
 For a heart-stopping moment George thought he was dead,
 but then his eyes fluttered and opened.
 He sat up once again,
@@ -1129,37 +1151,19 @@ alone with each other as they had been in one way or another
 ever since their mother died.
 
 Robbie spoke first.
-"Something for you in the air vent,"
-he said,
-gesturing at their old hiding place.
-
-George unscrewed the panel and took out a shoebox
-with "SECRET!" written on top in felt marker.
-Inside was a strange crystalline machine
-that looked like a camera turned inside out.
-
-He passed it to Robbie.
-"One of Mom's art projects?"
-
-Robbie shook his head.
-"It's something they made.
-Or she made when she was one of them.
-Whatever.
-It gave me some ideas."
-He laughed weakly.
 "It's funny.
-They're so much smarter than we are,
+The Yith are so much smarter than we are,
 but they just can't get their heads around computers."
 
 Obviously weak,
-he opened his laptop and dragged a couple of documents onto the screen.
-"When they come,
-show them this.
-Tell them there's more in a dead drop account.
-If they ever bother you and Suyin…"
+he opened his laptop and dragged a document onto the screen.
+"When Biczo comes back,
+show him this.
+Tell him there's more in a dead drop account.
+If he ever bothers you and Suyin…"
 He drew a finger across his throat.
 
-"You can tell them yourself,"
+"You can tell him yourself,"
 George said,
 already knowing it wasn't going to be true.
 
@@ -1205,18 +1209,21 @@ I kinda like the idea of them not knowing things."
 
 Suyin found them there a few hours later,
 Robbie's labored breathing finally silent
-and George sitting in the dark,
-the shattered remains of the crystal device lying by the wall where he'd thrown it.
+and George sitting beside him,
+a sketch of two boys playing poker at a kitchen table
+taking shape in his notebook.
 
 Two months later,
-after the first set of satellites were safely in orbit,
-an email arrived from Robbie.
-"The changes I made to the congestion algorithms freed up some memory,"
-it said.
-"There wasn't time to test any new code,
+after the first set of satellites was safely in orbit,
+an email arrived from Robbie's dead drop account.
+*Sorry I couldn't tell you myself,*
+it said,
+*But I was afraid they might be listening.
+The changes I made to the congestion algorithms freed up some memory.
+There wasn't time to test any new code,
 so I convinced them to put some literature in,
 like the record on Voyager.
-I fiddled the inspection records so that everyone would think someone else had checked it."
+I fiddled the inspection records so that everyone would think someone else had checked it.*
 The files appended to the message were 20th Century literary classics,
 but when George opened the files,
 he laughed for the first time since his brother's death.
@@ -1233,7 +1240,7 @@ so what was the point of writing them?
 But then he remembered what his brother told him,
 after they had talked
 and played one last hand of poker
-to the sound of Bowie tunes from the 1970s.
+to the sound of Bowie and Yes and King Crimson.
 "The point is that it's not over *yet*," Robbie had said.
 "The point is whatever you do *now*."
 
@@ -1242,7 +1249,7 @@ George picked up his pen.
 *He set the last stone on the double cairn,
 wiped the sweat from his face,
 and stepped back.
-His younger brother had held the polyp larvae back long enough
+His younger brother had held the polyps back long enough
 for the mysterious old woman to somehow make them real–at least,
 real enough for a blaster to kill–but the effort had drained them both.
 With her last breath,
@@ -1258,11 +1265,11 @@ had gone wherever such things go.*
 (for he would always think of himself that way)
 shouldered his pack.
 The food and water in the old woman's cave had been carefully packed for travel,
-almost as if she had been expecting him.
-The box of gemstones that had been waiting on the shelf beside them
+as if she had been expecting him.
+The box of gemstones on the shelf beside them
 would let him hire an army and take back the throne–or buy an airship
 and find out what lay beyond the sulfurous sea.
-Maybe he would find answers there.
+Maybe there would be answers there.
 Maybe there would just be more stories.*
 
 *He looked up at the orange sun,

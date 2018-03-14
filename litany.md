@@ -384,7 +384,7 @@ wishing as he'd known he would that he hadn't started whatever he had apparently
 The doctor's ten-year-old BMW smelled faintly of leather and tobacco,
 even though the seats were covered in cordura
 and Biczo didn't seem like the sort to indulge in banned substances.
-They drove four blocks in silence and parked outsie the house.
+They drove four blocks in silence and parked outside the house.
 George waited while the doctor tested the car's doors to make sure they were really locked,
 then followed him inside.
 
@@ -632,7 +632,7 @@ The old woman that stood–*
 a staff in its–*
 
 *–from a shadowed doorway in the wall behind them.
-The dust mask that obscured its face–
+The dust mask that obscured its face–*
 
 *–from a shadowed doorway behind them
 and drew aside the keffiyeh that obscured her face.
@@ -754,7 +754,7 @@ There were colossal round windows and high arched doors,
 and tables as tall as the height of an ordinary room.
 Vast shelves of dark wood lined the walls,
 holding what seemed to be volumes of immense size with strange hieroglyphs on their backs.
-The exposed stonework was dense with carvings curvilinear carvings in the same characters.*
+The exposed stonework was dense with curvilinear carvings in the same characters.*
 
 *He was moving–was being carried–through corridors of stone,
 and up and down gigantic inclined planes
@@ -781,12 +781,12 @@ and turned his head.
 A hospital bed.
 A pillow.
 A light blanket the same institutional powder blue as the sheets.
-A plastic scoop-backed chair so featureless it looked like a drawing.
+A plastic scoop-backed chair so featureless that it looked like a drawing.
 A single square light panel set into the ceiling.
 A small window with a view of a brown brick wall.
 Nothing he could use as a weapon,
 nothing he could hurt himself with.
-For one fleeting moment he wondered if it was some kind of video game,
+For one fleeting moment he wondered if it was some kind of VR,
 but then the faint smell of antiseptic and despair
 washed away the last effects of whatever drug they had used on him.
 He fingered the bruise on his neck,
@@ -807,8 +807,7 @@ his winter coat replaced by a plain black turtleneck.
 A woman in scrubs followed him,
 then another beefy man pushing a stainless steel cart loaded with medical equipment,
 and finally Doctor Biczo.
-"I'm sorry, George," he said.
-"But we need to ask you some more questions."
+"I'm sorry, George," he said, sounding sincere.
 
 He struggled,
 but the two men were stronger than him and had clearly had lots of practice
@@ -820,7 +819,7 @@ knowing it wouldn't do any good,
 and then the part of him that was him floated free,
 giddy and unconcerned
 while the part of him that belonged to the world slumped in the chair
-and chuckled softly at their questions.
+and chuckled softly at how funny their questions were.
 What was Robbie working on?
 What we he *really* working on?
 When had his episodes started?
@@ -834,14 +833,12 @@ he'd never had any episodes like that.
 No,
 he didn't know why Robbie had been running searches for old D&D manuals,
 or why he was re-reading George's graphic novels
-and the illustrated adventures of Conan the Barbarian
-and Leigh Brackett and Jack Vance and–
+and Conan the Barbarian and Leigh Brackett and Jack Vance and–
 
 "You've got it wrong,"
 George said unsteadily as whatever they'd given him wore off.
-His tongue felt like a slab of meat again,
-and his eyes were raw
-as if he'd just pulled an all-nighter.
+His tongue felt like meat again,
+and his eyes were chafed like they were after an all-nighter.
 "He liked poker.
 He only ever played fantasy games 'cause I wanted to.
 He was never really into it."
@@ -884,14 +881,13 @@ As if in answer,
 the door behind Doctor Biczo swung open.
 "Because they are afraid,"
 said the nurse who had been tending Robbie.
-She raised her hand and gulped words
-that were clearly never meant to be uttered by a merely human voice.
-The five-pointed stone star she held shone for an instant.
-With no more warning than that,
+She raised her hand,
+gulping words that were clearly never meant to be uttered by a merely human voice
+as she raised a five-pointed stone star.
+With no more drama than that,
 Doctor Biczo,
 the woman in scrubs,
-and the two guards toppled over,
-unconscious.
+and the two guards toppled over.
 
 George got to his feet unsteadily,
 his mouth working.
@@ -919,8 +915,7 @@ The nurse shrugged.
 "I find it's best not to ask."
 She slipped out from under his arm and turned the handle.
 
-Inside,
-Robbie lay on a bed not much different from his own.
+Robbie lay inside on a bed identical to the one George had woken up on.
 Steelframe racks of scientific instruments surrounded him on three sides,
 screen after screen showing waveforms,
 false-color images,
@@ -928,8 +923,7 @@ and real-time summaries of social media feeds devoted to the upcoming satellite 
 occult conspiracy theories,
 and the concurrent collapse of the world's ice sheets,
 fishing stocks,
-bee populations,
-and willingness to do actually *do* anything.
+and bee populations.
 
 "Hello,"
 Robbie said calmly.
@@ -1010,8 +1004,8 @@ he said.
 
 "Okay,"
 George said weakly.
-"But–we have to tell someone.
-We have to tell *everyone*!"
+"But–this is amazing.
+We have to tell people!"
 
 Robbie looked at Affie.
 "Will this cause difficulties?"
@@ -1041,7 +1035,7 @@ the Yith might never have bothered with us.
 Except somehow we come back.
 Ages and ages from now,
 after the Ck'chk'ck and the Sareeav,
-after the earth has been frozen for an aeon,
+after the earth has been frozen for half a billion years,
 we come back."
 
 George threw up his hands.
@@ -1050,10 +1044,9 @@ George threw up his hands.
 "That is unknown,"
 Robbie said.
 "After the Sareeav there is an age of machines.
-They have reason and purpose,
-but not minds,
+They have intellects but not minds,
 so we cannot know them.
-They warm the earth and fill it with all manner of creatures,
+For some reason they warm the earth and fill it with all manner of creatures,
 including your kind."
 
 "Tenth will be an age when many races dwell upon the Earth,
@@ -1067,8 +1060,7 @@ Robbie nodded solemnly.
 "By the time the people of the water wake from their long frozen sleep,
 the machines have returned to the depths of space.
 We have asked the Mi-go to speak with them,
-but they are unreliable,"
-he added sourly.
+but they are…unwilling."
 
 "What's that got to do with Robbie?"
 George asked helplessly.
@@ -1078,18 +1070,19 @@ The satellites he's been working on."
 
 Robbie shook his head.
 "No.
-Your technology is still too primitive.
-We believe the machines' progenitors are created five centuries hence.
-But the network begins here,
-and so do many of the things the machines create.
+Your technology is still too primitive to commit self-replication."
+His tone of voice placed the word somewhere between cannibalism and incest.
+"We believe the machines' progenitors are created five centuries hence.
+But the network through which the communicate originates here,
+as do many of the things they create.
 There are flying ships and zombies and ray guns,
 all of them taken from the stories of this era
 and an improbable number taken from *your* work.
 We do not understand how that is possble."
 
 The distaste in Robbie's voice when he said "ray guns"
-almost made George giggle.
-Whoever or whatever this was in his brother's body,
+almost matched that for "self-replication".
+Whoever or whatever was in his brother's body,
 it clearly didn't like mysteries.
 "So if it's my work you're interested in,
 not his,
@@ -1106,7 +1099,7 @@ George looked from her to Robbie and back again.
 
 "We did try,"
 Robbie admitted.
-"And you were able to sustain the exchange for several minutes.
+"And you were able to sustain the exchange for several moments.
 That's really quite good."
 
 Without warning, Robbie slumped sideways.
@@ -1234,7 +1227,7 @@ Trolls and mermaids and four-armed green Martians,
 quests and dread empires and heroes armed with blasters
 who nevertheless fought with swords,
 they were all there,
-ready for their billion-year slumber.
+ready to be passed on through the aeons until they came home once again.
 
 George stared at the blank page in front of him.
 The next set of satellites was going up in a month.
@@ -1270,8 +1263,8 @@ shouldered his pack.
 The food and water in the old woman's cave had been carefully packed for travel,
 as if she had been expecting him.
 The box of gemstones on the shelf beside them
-would let him hire an army and take back the throne–or buy an airship
-and find out what lay beyond the sulfurous sea.
+would buy him an army to take back the throne–or an airship
+capable of flying across the sulfurous sea.
 Maybe there would be answers there.
 Maybe there would just be more stories.*
 

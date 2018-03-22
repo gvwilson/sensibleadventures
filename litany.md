@@ -14,8 +14,7 @@ and who knew how effective it would be against the half-dimensional horrors purs
 but its weight was comforting.*
 
 *Not for the first time,
-he wished his brother was just a little less smart.
-Just a little.
+he wished his brother was a little less smart.
 Just less-smart enough to not be able to piece together
 the strangely-cold shards of a map made when the sun was still yellow
 and–*
@@ -151,8 +150,7 @@ the older couldn't imagine any other life.*
 
 *Not that it looked like they had much life left to imagine.
 An adult flying polyp could devour the minds of an entire city in a single night–even
-the Mi-go feared them,
-and the Mi-go feared nothing.
+the Mi-go feared them.
 Knowing that it would take the freshly-hatched larvae pursuing them
 weeks or months to suck their souls dry
 was surprisingly little comfort.
@@ -193,7 +191,21 @@ We went through the pages I did yesterday."
 His shaky laugh was muffled by his wife's hair.
 "Kinda nice that he's taking an interest.
 I just wish…"
-He closed his eyes and waited for the tears to come again.
+He closed his eyes and waited for the tears to come again,
+then brushed his teeth,
+slid into bed beside his wife,
+and closed his eyes as if the world was still a normal place.
+
+When the dream came,
+he knew that it was a dream.
+*He was in an enormous vaulted chamber
+whose arches were lost in the shadows overhead.
+Vast shelves of dark wood lined the walls,
+holding volumes of immense size with strange hieroglyphs on their backs.
+A strange machine formed of vitreous tubes and metal rods hummed beside him,
+or rather did something that would be called humming if it was actually a sound,
+and then the whole scene dissolved into an inchoate swirl of impossible non-Euclidean angles
+and slipped away.*
 
 The next morning was chilly-damp rather than bone-freezing cold.
 The city hadn't seen a real snowstorm all winter,
@@ -231,7 +243,7 @@ his eyes fixed on his laptop's screen.
 "That proved to be an interesting challenge.
 I sent the solution to the team last night.
 I expect it will take them some time to understand,
-so I am using the time to do some research."
+so I am doing some research."
 He turned the laptop around.
 "Do you know what this is?"
 
@@ -297,7 +309,7 @@ The nurse was waiting at the bottom of the stairs.
 
 George thrust his hands into his pockets and studied her.
 "Thanks.
-Have you ever seen-I mean,
+Have you ever seen—I mean,
 have any of your other patients ever…?"
 
 The nurse shook her head,
@@ -319,9 +331,9 @@ He shrugged his arms into his coat on his way out the door,
 pulled his phone from the inside pocket,
 and opened his contact list.
 It had been fifteen years,
-and the man George needed to speak to had been old even then,
-but he still answered on the second ring.
-"You remember the coffee shop on the corner?"
+and the man George needed to speak to hadn't been young,
+but he answered on the second ring.
+"That coffee shop still on the corner?"
 he asked half way through George's third sentence.
 
 "Yeah, but–"
@@ -340,8 +352,8 @@ seating himself across from George
 and setting the paper cup of dime store coffee he'd brought with him on the rickety table.
 
 "Thanks."
-George sipped his own mug of mostly foam.
-suddenly unsure where to start.
+George sipped his own mug of mostly foam,
+not knowing where to start.
 "He's doing okay, I guess.
 He didn't want to do chemo,
 not after what Mom went through,
@@ -366,13 +378,13 @@ How often does it happen?"
 George confessed reluctantly.
 Another patient silence stretched and broke.
 "I know you must be retired by now,
-but I was wondering if you could come by and talk to him and…"
+but I was wondering if you could come by and…"
 He shrugged again,
 unsure what he was really asking for
 beyond a grownup to tell him that everything was going to be all right.
 
 Doctor Biczo snorted.
-"Turns out retired isn't really a thing these days.
+"Retired isn't really a thing these days.
 Sure,
 let's go talk to him."
 He drained his coffee in one long swallow and stood.
@@ -383,7 +395,7 @@ wishing as he'd known he would that he hadn't started whatever he had apparently
 
 The doctor's ten-year-old BMW smelled faintly of leather and tobacco,
 even though the seats were covered in cordura
-and Biczo didn't seem like the sort to indulge in banned substances.
+and Biczo didn't seem like the sort to indulge in illicit substances.
 They drove four blocks in silence and parked outside the house.
 George waited while the doctor tested the car's doors to make sure they were really locked,
 then followed him inside.
@@ -397,7 +409,7 @@ George gestured at Doctor Biczo.
 "Just wanted to get a second opinion on Robbie.
 Is he awake?"
 
-"Yes, but I don't think he–"
+"Yes, but–"
 The nurse stopped abruptly
 as Doctor Biczo finished hanging his coat and turned around.
 She moved aside to clear the stairs,
@@ -437,7 +449,7 @@ The corner of his mouth quirked upward.
 He knew exactly what it felt like to have someone notice that you were reading "that stuff",
 as his mother had indulgently called it.
 When he pointed out that the pictures weren't all that different
-from those in the esoteric old texts she favored,
+from those in the esoteric texts she studied,
 she had laughed and declared a truce.
 
 Robbie was awake.
@@ -464,9 +476,7 @@ He glanced accusingly at George.
 "You terrified her."
 
 Doctor Biczo took off his glasses and rubbed the bridge of his nose.
-"I'm sorry for that.
-But honestly,
-it wasn't me she was frightened of.
+"It wasn't me she was frightened of.
 It was her dreams.
 Or visions, if you want to be pedantic about it."
 
@@ -485,11 +495,11 @@ Doctor Biczo nodded in return.
 Robbie shrugged.
 "It's a desert,
 but the rocks look sculpted–all pillars and arches and shapes like half-melted statues.
-It's like the stuff George draws, or an old album cover."
+It's like the stuff George draws, or an album cover from the 70s."
 
 "A desert?"
 Doctor Biczo frowned.
-"That's a new one."
+"That's…unusual."
 
 "I know, right?"
 Robbie nodded at his laptop.
@@ -506,7 +516,7 @@ Robbie answered his brother first.
 Turns out Mom wasn't the only one this happened to.
 There have been a bunch of cases.
 There was a professor named Peaslee just before the first World War–Mom
-had some of his son's books.
+had one of his son's diaries.
 And there was another prof back in the fifties,
 and a couple of other people."
 He locked eyes with Doctor Biczo.
@@ -515,7 +525,7 @@ He locked eyes with Doctor Biczo.
 George's heart sank.
 "Come on, not this again.
 Mom didn't join anything.
-That was just part of her research.
+That was just research.
 She was never a believer."
 
 Robbie's hands tightened into fists.
@@ -566,8 +576,8 @@ you know,
 alien humans,
 and some are just…aliens."
 He looked into a distance that wasn't there in the room.
-"I think we're all going somewhere.
-A caravan, maybe, or a pilgrimage."
+"We've all been…summoned.
+I don't know how I know that, but I do."
 
 Doctor Biczo nodded.
 "Thank you, Robbie.
@@ -577,11 +587,9 @@ turning to George and putting out his hand.
 
 "Sure,"
 George said, shaking it.
-"Is this–do you think this is whatever Mom had?"
+"Is this–do you think this is what Mom had?"
 
-Doctor Biczo shook his head.
-"I don't know what this is," he confessed.
-He glanced at a visibly-tired Robbie.
+Doctor Biczo shrugged and glanced at a visibly-tired Robbie.
 "I'll give you two a moment."
 
 George closed the door quietly after the doctor left.
@@ -598,8 +606,7 @@ his eyes closed.
 Robbie yawned without opening his eyes.
 "Yeah.
 You think this is this some kind of subconscious thing?
-Me remembering Mom being like this,
-and wanting to go wherever she went?"
+Me remembering Mom being like this and wanting to go wherever she went?"
 
 "I thought you didn't believe in the subconscious,"
 George replied,
@@ -611,12 +618,11 @@ George shook Doctor Biczo's hand once again.
 "So should I be worried?"
 
 The doctor shook his head.
-"I don't think so.
-It's probably just a side effect of his medication."
+"It's probably just a side effect of his medication."
 
 "Sure,"
 George said,
-not believing a word.
+not believing it.
 He thought about checking on the nurse,
 who had retreated to the kitchen,
 but grabbed his coat and followed the doctor out the door instead.
@@ -700,7 +706,7 @@ For the first time in a long time,
 the gray winter drizzle didn't bother him.
 Even the headlines playing in the streetcar's windows couldn't burst his mood.
 
-But the trio of black SUVs on the street outside the house could.
+But the trio of black SUVs on the street outside the house did.
 His phone bleebled as he approached
 to warn him that he was entering an active law enforcement zone
 and could be subject to fines, imprisonment, or both if he didn't–
@@ -746,25 +752,24 @@ His clumsy punch caught the doctor on the jaw and them both by surprise.
 
 A strong arm wrapped around him.
 Something cold and sharp pricked his neck,
-and darkness fell.
+and the world went away.
 
 *He was in an enormous vaulted chamber
-whose arches were lost in the shadows overhead.
-There were colossal round windows and high arched doors,
+with colossal round windows,
+high arched doors,
 and tables as tall as the height of an ordinary room.
-Vast shelves of dark wood lined the walls,
-holding what seemed to be volumes of immense size with strange hieroglyphs on their backs.
-The exposed stonework was dense with curvilinear carvings in the same characters.*
+The exposed stonework was dense with curvilinear carvings that he somehow knew were writing.*
 
-*He was moving–was being carried–through corridors of stone,
-and up and down gigantic inclined planes
+*The scene swirled, dissolved, and re-formed.
+He was moving through stone corridors,
+up and down gigantic inclined planes,
 past trap doors sealed with metal bands
-that he somehow knew were never to be opened.
-Somehow he was brought to a strange machine formed of vitreous tubes and metal rods.
-It hummed,
-or rather did something that would be called humming if it was actually a sound,
-and then the whole scene dissolved into an inchoate swirl of impossible non-Euclidean angles
-and slipped away.*
+that he somehow knew were never to be opened.*
+
+*The scene jumped again.
+He was lying next to the strange rod-and-tube machine.
+He sensed something akin to frustration
+as everything dissolved and slipped away once again.*
 
 His next thought took a while to form.
 *I'm awake.*
@@ -816,20 +821,17 @@ The woman in scrubs swabbed his arm and stuck a needle in his arm
 without once looking at his face.
 He shouted and swore,
 knowing it wouldn't do any good,
-and then the part of him that was him floated free,
-giddy and unconcerned
+and then the part of him that was him floated free
 while the part of him that belonged to the world slumped in the chair
 and chuckled softly at how funny their questions were.
 What was Robbie working on?
 What we he *really* working on?
 When had his episodes started?
 What did he talk about when he wasn't himself?
-Had George ever had episodes like that?
 
-His "no" earned an exchange of looks between Doctor Biczo and the woman in scrubs,
-followed by a second injection.
+Every "I don't know" brought an exchange of looks between Doctor Biczo and the woman in scrubs.
 No,
-he'd never had any episodes like that.
+he'd never had any episodes like that himself.
 No,
 he didn't know why Robbie had been running searches for old D&D manuals,
 or why he was re-reading George's graphic novels
@@ -838,7 +840,7 @@ and Conan the Barbarian and Leigh Brackett and Jack Vance and–
 "You've got it wrong,"
 George said unsteadily as whatever they'd given him wore off.
 His tongue felt like meat again,
-and his eyes were chafed like they were after an all-nighter.
+and his eyes were chafed like he'd pulled an all-nighter.
 "He liked poker.
 He only ever played fantasy games 'cause I wanted to.
 He was never really into it."
@@ -847,7 +849,8 @@ He was never really into it."
 Doctor Biczo mused.
 "Or someone does."
 
-George straightened up.
+George straightened up,
+the anger that the drugs had pushed away returning.
 "Where is he?
 What have you done with him?"
 
@@ -865,7 +868,7 @@ He doesn't have time for this shit."
 Doctor Biczo snorted.
 "Have you looked at the world recently?
 None of us have much time any more.
-But these idiots still won't listen…"
+But people still won't listen…"
 he added under his breath.
 
 George's hands bunched into fists as a thought struck him.
@@ -882,7 +885,7 @@ the door behind Doctor Biczo swung open.
 "Because they are afraid,"
 said the nurse who had been tending Robbie.
 She raised her hand,
-gulping words that were clearly never meant to be uttered by a merely human voice
+gulping words that were clearly never meant to come out of a human mouth
 as she raised a five-pointed stone star.
 With no more drama than that,
 Doctor Biczo,
@@ -921,7 +924,7 @@ screen after screen showing waveforms,
 false-color images,
 and real-time summaries of social media feeds devoted to the upcoming satellite launch,
 occult conspiracy theories,
-and the concurrent collapse of the world's ice sheets,
+and the ongoing collapse of the world's ice sheets,
 fishing stocks,
 and bee populations.
 
@@ -968,7 +971,7 @@ George twisted around in his seat to look at Robbie.
 
 "Probably,"
 his brother agreed.
-"This interference is inconvenient."
+"It is inconvenient."
 
 "Inconvenient?
 Robbie,
@@ -1030,8 +1033,8 @@ so killing people seems…pointless."
 
 Affie nodded out the window at the unseasonally warm winter.
 "We have the dubious distinction of being the only race in the Litany to destroy itself.
-And if that was all there was to it,
-the Yith might never have bothered with us.
+And if that was all we accomplished,
+the Yith might never have taken an interest in us.
 Except somehow we come back.
 Ages and ages from now,
 after the Ck'chk'ck and the Sareeav,
@@ -1053,14 +1056,13 @@ including your kind."
 those re-made and those come from afar,
 faces of the Yith and others alike,"
 Affie recited fervently.
-"The work of that aeon will be to make stories of great heroes and foul deeds
-worthy of the archives."
+"The work of that aeon will be to make tales worthy of the archives."
 
 Robbie nodded solemnly.
 "By the time the people of the water wake from their long frozen sleep,
-the machines have returned to the depths of space.
-We have asked the Mi-go to speak with them,
-but they are…unwilling."
+the machines will have returned to the depths of space.
+We will ask the Mi-go to speak with them,
+but they will be…unwilling."
 
 "What's that got to do with Robbie?"
 George asked helplessly.
@@ -1072,35 +1074,33 @@ Robbie shook his head.
 "No.
 Your technology is still too primitive to commit self-replication."
 His tone of voice placed the word somewhere between cannibalism and incest.
-"We believe the machines' progenitors are created five centuries hence.
+"The machines' progenitors are created five centuries hence.
 But the network through which the communicate originates here,
 as do many of the things they create.
 There are flying ships and zombies and ray guns,
-all of them taken from the stories of this era
-and an improbable number taken from *your* work.
+an improbable number of which are taken from this time period.
 We do not understand how that is possble."
 
 The distaste in Robbie's voice when he said "ray guns"
 almost matched that for "self-replication".
 Whoever or whatever was in his brother's body,
 it clearly didn't like mysteries.
-"So if it's my work you're interested in,
-not his,
-why…?"
-He gestured helplessly.
+"So if that's what you're interested in,
+why use him?
+Why not me?"
 
 "Um."
 The nurse cleared her throat.
 "They can't just project themselves into anyone.
-The vessel has to have a certain, uh, mental capacity?"
+The vessel has to have a certain, uh, mental capacity."
 
 George looked from her to Robbie and back again.
 "You're saying I'm not smart enough."
 
-"We did try,"
+"We have tried,"
 Robbie admitted.
 "And you were able to sustain the exchange for several moments.
-That's really quite good."
+That's actually quite good."
 
 Without warning, Robbie slumped sideways.
 For a heart-stopping moment George thought he was dead,
@@ -1114,7 +1114,7 @@ and started to cough.
 the nurse said.
 "How're you feeling?"
 
-"I've been better," Robbie admitted weakly.
+"Been better," Robbie admitted weakly.
 
 The nurse nodded.
 "I'll get you home."
@@ -1124,9 +1124,10 @@ No no no."
 George shook his head.
 "That's the first place they'll look for you."
 
-"Let them look,"
-the dying man said wearily.
-"There's not much more they can do."
+"Not for a while,"
+the dying man said,
+slumping down in the seat.
+"And a while is all we need."
 
 Back at the house,
 Affie helped George get Robbie inside,
@@ -1135,7 +1136,8 @@ then said she was leaving.
 she promised,
 fingering the stone that hung once again around her neck.
 
-George just nodded.
+George nodded,
+knowing somehow that no-one else was going to be needed.
 He had called Suyin,
 apologized for his overnight disappearance,
 promised to explain everything,
@@ -1147,10 +1149,6 @@ alone with each other as they had been in one way or another
 ever since their mother died.
 
 Robbie spoke first.
-"It's funny.
-The Yith are so much smarter than we are,
-but they just can't get their heads around computers."
-
 Obviously weak,
 he opened his laptop and dragged a document onto the screen.
 "When Biczo comes back,
@@ -1180,7 +1178,7 @@ How can that be fine?"
 
 Robbie's breath whistled slightly as he breathed.
 "I met someone when I was…away.
-Another switcheroo.
+Someone like me.
 He's an Australian physicist named Kingston-Brown.
 Lives in Antarctica about five hundred years from now.
 The ice is all gone.
@@ -1217,7 +1215,7 @@ it said,
 *But I was afraid they might be listening.
 The changes I made to the congestion algorithms freed up some memory.
 There wasn't time to test any new code,
-so I convinced them to put some literature in,
+so I convinced management to put some literature in,
 like the record on Voyager.
 I fiddled the inspection records so that everyone would think someone else had checked it.*
 The files appended to the message were 20th Century literary classics,
@@ -1227,7 +1225,8 @@ Trolls and mermaids and four-armed green Martians,
 quests and dread empires and heroes armed with blasters
 who nevertheless fought with swords,
 they were all there,
-ready to be passed on through the aeons until they came home once again.
+ready to be passed on through the aeons until humanity's distant mechanical descendants
+brought them home once again.
 
 George stared at the blank page in front of him.
 The next set of satellites was going up in a month.
@@ -1246,8 +1245,8 @@ George picked up his pen.
 wiped the sweat from his face,
 and stepped back.
 His younger brother had held the polyps back long enough
-for the mysterious old woman to somehow make them real–at least,
-real enough for a blaster to kill–but the effort had drained them both.
+for the mysterious old woman to somehow make them real enough for a blaster to kill,
+but the effort had drained them both.
 With her last breath,
 the old woman had whispered something in his brother's ear.
 His eyes had widened.
@@ -1260,10 +1259,9 @@ had gone wherever such things go.*
 *The older brother
 (for he would always think of himself that way)
 shouldered his pack.
-The food and water in the old woman's cave had been carefully packed for travel,
+The food and water in the old woman's cave had been packed for travel,
 as if she had been expecting him.
-The box of gemstones on the shelf beside them
-would buy him an army to take back the throne–or an airship
+The box of gems beside them would buy him an army to take back the throne–or an airship
 capable of flying across the sulfurous sea.
 Maybe there would be answers there.
 Maybe there would just be more stories.*
@@ -1271,3 +1269,15 @@ Maybe there would just be more stories.*
 *He looked up at the orange sun,
 dying but not yet dead,
 and set off to find out what would happen next.*
+
+---
+
+<div align="center" markdown="1">
+This story is set in the world [Ruthanna Emrys](http://www.ruthannaemrys.com/) created
+for "[The Litany of Earth](https://www.tor.com/2014/05/14/the-litany-of-earth-ruthanna-emrys/)"
+and *[Winter Tide](https://www.tor.com/2017/01/09/excerpts-ruthanna-emrys-winter-tide-chapter-1/)*,
+<br/>
+and is dedicated to the memory of [my brother, Jeff Wilson](http://third-bit.com/2018/03/20/goodbye-jeff.html).
+<br/>
+I'm glad he got to read it before he left.
+</div>

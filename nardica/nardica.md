@@ -96,7 +96,7 @@ which was it going to be?*
 
 *Uncle Jack sold the suit almost as soon as she was back in Rothera.
 "You're going to outgrow it anyway,"
-her Uncle Jack said impatiently over her tearful protests.
+he said impatiently over her tearful protests.
 "Gotta pay for your keep somehow 'til you're old enough to earn your way."
 He would have sold Second's book,
 too,
@@ -109,9 +109,8 @@ no matter how tired she was from chores.
 She drew the pictures from memory on her tablet at school,
 and on those rare occasions when Uncle Jack was away
 and Aunt Naggie let her have another child come on board to play,
-she would take the book out and tell them all about
-*orcinus orca* and *panthera tigris* and her favorite,
-*giraffa camelopardalis*.*
+she would take the book out and tell them all about _orcinus orca_ and _panthera tigris_
+and her favorite, _giraffa camelopardalis_.*
 
 *"They were too real!" she said fiercely
 whenever someone expressed even a hint of doubt.

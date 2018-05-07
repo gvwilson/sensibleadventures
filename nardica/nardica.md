@@ -1,6 +1,6 @@
 <!-- start: 2017-04-22 -->
 <!-- target: 60000 -->
-<!-- deadline: 2018-03-01 -->
+<!-- deadline: 2018-09-01 -->
 # Nardica<br>by Greg Wilson
 
 ## Chapter 1
@@ -12,21 +12,21 @@ She was on deck.
 The sky was a perfect blue bowl overhead,
 summer cold instead of winter freezing.
 Second and Third were stuffing her into the salvaged ecosuit
-that had cost them as much as their jelly dredging nets.
+that had cost them as much as one of their jelly dredging nets.
 "Just in case, love," Third said,
 forcing a smile but unable to keep the fear out of her voice.
-She kissed Iffy's forehead and slipped her favorite book into the suit.
+She kissed Iffy's forehead and slipped her little clone's favorite book into the suit.
 "Just in case."*
 
 *The ship's horn blared another warning.
-Iffy jumped and started crying.
-She was only half awake---the olders had pulled her out of her cot
-just a few minutes before.
-Third hugged her,
-but Second pulled her away.
-"There isn't time," she snapped
-as two of the crew ran past them toward the stern.
-At the time she thought Second was angry at her for something.
+Iffy started crying.
+Her olders had pulled her out of her cot just a few minutes before,
+and she was only half awake.
+
+Third hugged her again before Second pulled her away.
+"There isn't time," the older clone snapped
+as one of the hired crew ran past them toward the stern.
+At the time Iffy thought Second was angry at her for something.
 Years later,
 she realized that her older wasn't angry but afraid.*
 
@@ -42,40 +42,38 @@ The bulky suit made it difficult for her to bend her arms,
 but she tried anyway.
 Second knelt down and put her arms around them both.
 She smelled like engine oil and the soap she always used when she shaved her head.
-That was Iffy remembered later,
-when she had trouble remembering Second's face.*
+That was what Iffy remembered afterward---that,
+and the stench of methane rising from the sea.*
 
-*The ship heeled hard as First tried to steer them away
-from the seething mass of bubbles ahead.
+*The ship heeled hard as First tried to steer their ship out of
+the seething mass of bubbles forming around them.
 "She's going to blow!" Fourth shouted.
 The ship's horn blared one last time,
-and then all Iffy could hear was a rushing sound
-that seemed to come from all around her.
+and then all Iffy could hear was a rushing sound.
 Sobbing,
 Third closed the faceplate on the ecosuit.*
 
-*The ship staggered and dropped two meters.
+*The ship staggered and fell two meters.
 Iffy screamed as she fell back to the deck.
-Second and Third hit the deck beside her.
+Second and Third landed in a tangle beside beside her.
 A great frothing wash of sea water crashed down on top of them.
-She screamed again as it dragged her olders against the metal railing.
+Iffy screamed again as it dragged her olders against the metal railing.
 They grabbed for it,
 but then the ship plummeted again
 as the gas bubbles rising from the ocean floor below
 churned the water into foam.
 The last thing Iffy saw before she went under
-was Fourth flying through the air,
+was Fourth tumbling through the air,
 her arms and legs flapping like broken wings
 against the perfect blue sky.*
 
 *Her dream stopped then, just like it always did.
 She didn't remember being fished out of the frigid Antarctic water a day later
-in the net of a passing jelly dredger.
+by a passing jelly dredger.
 Aunt Naggie told her it was a miracle she had survived.
 The ecosuit was a hundred years old,
-maybe more,
-but every seal had held.
-It had kept her warm while the thumb-sized motors in the arms and legs
+but its seals had held,
+and it had kept her warm while the thumb-sized motors in its arms and legs
 kept her clear of the after-bubbles
 that would have swallowed a lifeboat.*
 
@@ -83,32 +81,33 @@ that would have swallowed a lifeboat.*
 but even more of a miracle that she was allowed to stay on the ship that found her.
 The man she learned to call Uncle Jack didn't like children.
 Or animals.
-Or foreigners or the governor or the co-operatives that bought his catch
+Or foreigners or the governor or the co-operatives that bought the jellyfish he caught
 or the ones that sold him supplies
 or passers-by who looked at him the wrong way
 or didn't have the decency to look at him at all.
-He would have dumped her on the dock and walked away.
+He would have dropped her on the dock and walked away.
 The fishing families and docksiders in Rothera never understood why he didn't,
-and wouldn't have believe that his meek, hesitant wife
+and wouldn't have believe that his meek, long-suffering wife
 had put her hands on her hips and told him in a cold, flat voice
 that the child was staying or she was leaving,
 which was it going to be?*
 
-*Uncle Jack sold the suit almost as soon as she was back in Rothera.
+*So Iffy stayed,
+but not the ecosuit.
+Uncle Jack sold it almost as soon as they got back to Rothera.
 "You're going to outgrow it anyway,"
-he said impatiently over her tearful protests.
-"Gotta pay for your keep somehow 'til you're old enough to earn your way."
-He would have sold Second's book,
-too,
+he growled impatiently over her tearful protests.
+"Gotta pay for your keep somehow."
+He would have sold the book that Second had tucked into the suit as well
 if Aunt Naggie hadn't misplaced it until he forgot about it.
-It had belong to Second when she was little,
-and to her older before that,
-all the way to back when there were still whales and tigers and giraffes.
+It had belong to Third when she was little,
+and to Second before that,
+all the way to back to a time when there were still whales and tigers and giraffes.
 Iffy read a few pages every night,
 no matter how tired she was from chores.
 She drew the pictures from memory on her tablet at school,
 and on those rare occasions when Uncle Jack was away
-and Aunt Naggie let her have another child come on board to play,
+and another child could come on board to play with her,
 she would take the book out and tell them all about _orcinus orca_ and _panthera tigris_
 and her favorite, _giraffa camelopardalis_.*
 
@@ -123,7 +122,7 @@ Real as being smart with machines and tech like her olders had been
 before the frozen southern ocean took them away.*
 
 Iffy woke to Aunt Naggie banging around in the galley.
-She lay in her narrow cot for one final precious warm moment
+She lay in her narrow cot for one final precious moment of warmth
 before pushing aside the salvaged sleeping bag she used as a cover
 and pulling on a second layer of clothes.
 That banging was her foster mother's way of letting Iffy know that Uncle Jack was awake.
@@ -131,23 +130,23 @@ If she knew what was good for her,
 she'd be up on deck doing something useful before he stumbled out into the light
 looking for something or someone to yell at.
 
-She tucked her nature book under the cot's foam slab mattress,
+She tucked her nature book into the slit she had cut in the cot's foam mattress to keep it safe,
 dragged her fingers through her unwashed hair,
 and undogged the door to the storage locker
 that had been her cabin for the past eight years.
-As she climbed out of the hold onto the *Guinevere*'s deck,
-the sights and sounds and smells of Halley harbor crashed down on her
+As she climbed out of the hold onto the deck of the *Guinevere*,
+the sights and sounds and smells of Halley harbor splashed over her
 like the waves in her nightmare.
 
 She stopped for a moment to let her eyes adjust to the light.
 To seaward lay the broken hulk of the carrier
 that had driven itself aground a century before
-to create a seawall.
+to create a seawall for the town's harbor.
 Dozens of ships and boats bobbed gently up and down in its lee.
 Some were as old as the carrier,
 patched and re-patched over the years to stay seaworthy.
 Others were newly built,
-Aussie foam steel with motors like the *Guinevere*
+Aussie foam steel like the *Guinevere*
 or Zillion bamboo with bright kite sails furled around triple masts.
 Gulls wheeled overhead in their endless search for scraps,
 complaining to one another about how cold the Antarctic summer was.
@@ -158,41 +157,43 @@ Halley had been a research station where scientists studied
 the first warning signs of the big melt.
 As the ice disappeared,
 they moved their buildings onto the land,
-adding more each year as first fishing boats and then jelly dredgers began to call in.
+adding more each year as fishing boats and then jelly dredgers began to call in.
 Two thousand people now called Halley home,
-dredging during the summer blooms
+hauling jellyfish out of the water during their summer blooms
 and rendering the catch down for fuel and fertilizer.
 When winter came,
 they tended to the town's precious greenhouses
 or sailed north to Taz or 'Tagonia
 to find whatever work might get them through the long dark
-to start the cycle again.
+so that they could start the cycle again.
 
 Iffy shaded her eyes against the sharp-edged sun.
-Further back from shore,
-where the land began to rise,
-stood a cluster of new buildings.
-Most were just bunkhouses,
+A cluster of new buildings was taking shape on the inland edge of town.
+Some were just bunkhouses,
 but one was a general store,
 and another---the big one that Iffy had watched grow in stages through the spring---was
 a machine shop.
 Shiploads of precious equipment had arrived throughout the spring
-and been hauled into it:
-forges and presses and a lathe with a spindle thicker than Iffy's leg
+and been carted through its double-wide doors:
+forges,
+presses,
+a lathe with a spindle thicker than Iffy's leg,
 and even a proper industrial printer hauled all the way down from China-over-the-Sea
-in the hold of a destroyer.
+in the hold of a heavily-armed destroyer.
 The whole town had turned out when the warship came into harbor,
-marvelling at its sleek, menacing profile and its stubby railguns.
+marvelling at its sleek profile and its stubby railguns.
 Iffy hadn't given it a second glance once its cargo came ashore.
-Once Halley's cores finished their months-long inspection and let it out of quarantine,
-a printer like that could make anything.
+Once Halley's cores finished their months-long inspection and let the printer out of quarantine,
+it would be able to make anything that anyone could imagine.
 
-*Almost anything,* she corrected herself as she studied the distant building,
-hoping for some sign of activity.
-Given power and powdered metal and the right plans,
-the printer could cast *almost* any shape imaginable.
-She had seen some of those shapes in drawings
-laid out on tables in Halley's one restaurant, three cafés, and six bars.
+------
+
+*Almost anything,* she corrected herself as she studied the distant building.
+Given power and powdered metal,
+the only limitation on what the printer could make
+would be the plans people gave it.
+She had seen some of those plans on tablets and printouts
+in Halley's one restaurant, three cafés, and six bars.
 She had studied them sidelong,
 afraid of being noticed and told to go away,
 while serious men and women had argued weights and tolerances and expansion coefficients.

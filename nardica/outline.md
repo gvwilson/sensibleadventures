@@ -1,6 +1,11 @@
 Nardica
 =======
 
+- make the captain of the *Taroona* the minor villain
+  - chases them to get back "his" equipment
+  - his ship is sunk, not the Zillions
+- quote bits of poetry from the book to foreshadow the addition
+
 - figure out how Governor Stern and Rothera's core are connected
 
 - what's Mr. Mishra's role after the bombing?

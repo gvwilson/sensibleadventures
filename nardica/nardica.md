@@ -163,7 +163,7 @@ hauling jellyfish out of the water during their summer blooms
 and rendering the catch down for fuel and fertilizer.
 When winter came,
 they tended to the town's precious greenhouses
-or sailed north to Taz or 'Tagonia
+or sailed north to Tasmania or Patagonia
 to find whatever work might get them through the long dark
 so that they could start the cycle again.
 
@@ -178,64 +178,60 @@ and been carted through its double-wide doors:
 forges,
 presses,
 a lathe with a spindle thicker than Iffy's leg,
-and even a proper industrial printer hauled all the way down from China-over-the-Sea
+and an industrial printer hauled all the way from China-over-the-Sea
 in the hold of a heavily-armed destroyer.
 The whole town had turned out when the warship came into harbor,
-marvelling at its sleek profile and its stubby railguns.
-Iffy hadn't given it a second glance once its cargo came ashore.
-Once Halley's cores finished their months-long inspection and let the printer out of quarantine,
+marvelling at its sleek profile and its stubby railguns,
+but Iffy hadn't given it a second glance once its cargo came ashore.
+Once Halley's core finished its months-long check for malware
+and let the printer out of quarantine,
 it would be able to make anything that anyone could imagine.
-
-------
-
-*Almost anything,* she corrected herself as she studied the distant building.
 Given power and powdered metal,
 the only limitation on what the printer could make
 would be the plans people gave it.
-She had seen some of those plans on tablets and printouts
-in Halley's one restaurant, three cafés, and six bars.
+
+She had seen some of those plans on tablets and printouts spread out on the tables
+of Halley's one restaurant, three cafés, and six bars.
 She had studied them sidelong,
 afraid of being noticed and told to go away,
 while serious men and women had argued weights and tolerances and expansion coefficients.
-The railroad they were going to build wouldn't be 'Nardica's first,
-but the locomotive would be the first designed and constructed on the southern continent.
+The railroad they were going to build wouldn't be the continent's first,
+but the locomotive would be the first designed and constructed in 'Nardica.
 
-Iffy wanted to be part of it.
-More than anything in the world,
-she wanted to be part of it.
+She wanted to help make that happen more than she had ever wanted anything.
 But even more than that,
 she wanted to know why her head kept filling with pictures of things the printer *couldn't* make.
 Every time she thought too hard about the plans she had seen,
-strange shapes crowded in on her like waking dreams,
-fractal capacitors and ever-so-slightly irregular gears
-whose off-center spinning would automatically synchronize
+strange shapes appeared behind her eyes like the after-images of dreams.
+Fractal capacitors and ever-so-slightly irregular gears
+whose off-center spin would automatically synchronize
 to reduce power loading---she had searched the jungle furtively for matches,
 or for clues that would tell her she was remembering things instead of making them up,
-but everything ended in "not found" or "restricted",
+but every search ended in "not found" or "restricted",
 and after three of those,
-she had stopped looking.
+she had been too afraid to keep looking.
 
-"Girl! Girl! Slag it, wife, where at now dat affing girl?"
+"Girl! Girl! *Wang ba*, wife, where's that affing girl now?"
 Iffy jumped at Uncle Jack's bellow from the galley below her.
 He'd been out with his mates last night,
 which was Uncle Jack-speak for drinking more than he could handle
 and gambling more than he could afford to.
-Aunt Naggie somehow managed to winkle enough out of his pockets while he was snoring
+Aunt Naggie somehow managed to winkle enough out of his phone while he was snoring
 to keep the *Guinevere* afloat,
 but it had been weeks since they'd had fresh fruit,
 and she couldn't remember the last time there'd even been mention of new clothes
-or replacing the tired little boat's frayed dredging nets.
+or of upgrading the tired little boat's frayed dredging nets.
 
 "Girl!" Uncle Jack shouted again.
-"Get down here *now* your affing tail or saints help me you won't sit fra *week*!"
+"Get your affing tail down here *now* or saints help me you won't sit for a *week*!"
 She heard a meaty *bang!* as he slapped the galley table with his hand.
 
 With one last longing look at the distant machine shop,
 Iffy undogged the hatch beside her and yanked it open.
-"Here, captain," she said over the scrape and squeal of rusty hinges.
+"Here, Uncle Jack," she said over the scrape and squeal of rusty hinges.
 "I was just---"
 
-"You just lying about alike some fairy tale princess,
+"You were just lying about like some fairy tale princess,
 and don't try tell me otherways!"
 Her uncle glared up at her,
 squinting as the bright sky framing her head assaulted his hungover eyes.
@@ -243,13 +239,12 @@ There was a bruise on his forehead that hadn't been there the evening before,
 Iffy noticed.
 That might mean a visit from the police later.
 He'd rave on for an hour if they came
-about how the governor was just another tech-headed idiot
-who would sell them all out to the Euros or the Zillions
-as soon as she could get a decent price,
+about how the governor was just another tech puppet
+who would sell them all out to the Zillions as soon as he could get a decent price,
 then repeat the rant to Aunt Naggie word for word.
 
 "Your eggs'll be ready in a mo," Aunt Naggie said hurriedly
-just as Uncle Jack was about to unleash another bellow.
+as Uncle Jack opened his mouth to unleash another bellow.
 "Do you want a bit of curry on them?
 I think I have a some---
 No, wait, not there..."
@@ -257,18 +252,18 @@ She rattled through the little glass jars
 that sat on the shelf beside the galley's little two-loop stove,
 each one in its proper place.
 
-"Affing right I want curry," he grumbled,
-collapsing onto a fold-up chair that squeaked under his weight.
+"Shadding right I want curry," he grumbled,
+leaning back on a fold-up chair that squeaked under his weight.
 
 Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
 With a tilt of her frying pan and a single practiced flip of her spatula,
 Aunt Naggie slid two perfectly fried eggs into Uncle Jack's bowl.
-Without so much as a grunt in her direction,
-he picked up the basket of naan in the center of table with one hand
+Without so much as a grunt of acknowledgment,
+he took the entire basket of naan from the center of table in one hand
 and his plate with the other
 and disappeared back into his cabin.
-Iffy heard glass clink and something gurgle out of a bottle,
-and then the door closed.
+Iffy heard glass clink and something gurgle out of a bottle
+even before the door closed.
 
 Aunt Naggie let out the breath she'd been holding before looking up at her foster daughter.
 "You hungry?" she asked.
@@ -286,17 +281,17 @@ appeared out of another pocket in Aunt Naggie's apron.
 
 "Thanks auntie,"
 Iffy said gratefully.
-"You already et?"
+"You eaten already?"
 
 "First thing,"
 Aunt Naggie said,
 lying in turn.
 She smiled up at her foster daughter,
 kneading the small of her back with one hand.
-"But once you're done with that,
-you'd best be on that winch cable he's after having tightened.
-And he says the knock in the engine is back.
-Best have a look at that too before it starts to bother him."
+"But you'd best get that in you quickly
+and start work on that winch cable he's after having tightened.
+And he says the knock in the engine is back---best have a look at that too
+before it starts to bother him."
 
 "I know what that is,"
 Iffy said around a mouthful of warm naan.
@@ -307,9 +302,9 @@ she added hastily as her aunt opened her mouth to object.
 "Not if I do a couple of odd jobs for him."
 
 Aunt Naggie nodded.
-"Well, best get to it then.
+"If you say so.
 And stop in at Sandhu's and see what they want for eggs,"
-she added as Iffy straightened up.
+she added as Iffy reached for the hatch.
 "Those were our last ones.
 I'll tell Jack you're off doing chores once he's..."
 She finished the sentence with a shrug.
@@ -317,10 +312,10 @@ She finished the sentence with a shrug.
 "Thanks auntie,"
 Iffy said gratefully.
 She closed the hatch and hurried aft as quietly as she could,
-praying that the sound of her boots on the deck wouldn't rouse her foster father.
+praying that the sound of her boots on the deck wouldn't draw her foster father's attention.
 
 The ship's toolbox was tucked under a bench near the stern.
-Its meager collection of items too essential to the ship for Uncle Jack to sell
+Its meager collection of items too essential for Uncle Jack to sell
 rattled as she dragged it out onto the deck.
 After a furtive glance to make sure he wasn't standing behind her,
 she reached behind it to grab the bag that held *her* tools,
@@ -328,8 +323,9 @@ the ones she had salvaged and mended
 or been given in return for doing odd jobs for people around the harbor.
 She pushed the toolbox back into place and slung her toolbag over her shoulder,
 tucking the bent reciprocating rod into it and snugging the drawstring tight.
+
 Three quick steps and a one-handed vault took her over the railing onto the pier.
-As she raced toward shore,
+As she hurried toward shore,
 she felt the weight of life on the *Guinevere* lift from her shoulders.
 
 The Antarctic summer didn't have days or nights,
@@ -341,25 +337,39 @@ they had filtered out of the water.
 Ground down and incinerated,
 the day's haul would be a few grams of copper or manganese
 that could keep some old piece of tech limping along for another season.
-One of the women raised a hand in greeting as Iffy went by,
-but neither said hello or stopped working.
 
-The three teens arguing over
-how they were going to hang up a jelly dredging net so that they could mend it
-didn't say hello either,
-but Iffy didn't expect them to.
+One of the women straightened and raised a hand in greeting as Iffy went by.
+"Beautiful day," she said. "You headed into town?"
+
+"Sure am," Iffy agreed, not wanting to slow down for a conversation.
+
+The old woman nodded.
+"You mind you be careful, aye?
+The *Taroona* came in yesterday,
+and there's already been a coupla bust-ups with those *gaisi* pirates."
+
+"Thanks *má*," Iffy said dutifully.
+"Good luck with your barnacles."
+The old woman smiled and bent back to her work,
+the silvery tattoos on her shaved head glistening in the sun.
+
+The three teens at the head of the pier
+arguing over how best to hang up a net for mending
+glanced at her as she went by but didn't say anything.
+Iffy didn't expect them to.
 *At least they aren't crossing their fingers and spitting,* she thought.
 Sailors were superstitious,
 and she was a sole survivor.
-People didn't look at her sidelong as often as they once had,
+People didn't look at her sidelong like they had when she was little
+and the loss of her family's ship still fresh,
 but on those rare occasions when she could sit and drink a cup of tea
 in one of Halley's cafés,
-she made sure to sit in the corner and keep her head down.
-Her dark skin and kinky black hair didn't help matters---Aunt Naggie
-had never found out who her parents were,
-but more than once,
-she had heard people mutter about how Zillions shouldn't be allowed to wander around town
-without a leash.
+she made sure to find a seat in the corner and keep her head down.
+Her dark skin and kinky black hair didn't help matters.
+As tensions between the Ecofederacion and the Aussie government in Tasmania had increased,
+she heard more people mutter that Zillions shouldn't be allowed to wander around town without a leash.
+
+-----
 
 Mishra & Co Fine Technical Work - No Job Too Small!
 occupied one half of a long shed
@@ -744,7 +754,7 @@ Suddenly he stuck out his hand.
 
 Iffy hesitated,
 then put out her own hand to shake his.
-"Iffelia Kwan.  Pleased to meet you too."
+"Fifth Kwan.  Pleased to meet you too."
 
 ## Chapter 2
 
@@ -2509,7 +2519,7 @@ she knew that the tension between the Zillions
 and the loose coalition of governors and factory cores that ruled Antarctica
 had been getting worse.
 
-"Iffelia."
+"Fifth."
 Wales fished a plastic chip out of his pocket and handed it to her.
 "In my cabin,
 the toolbox with the purple square on the end.
@@ -4470,7 +4480,7 @@ Then she caught sight of her foster daughter.
 she gaped.
 
 The salesman's face fell.
-"Iffelia's Fourth?
+"Kwan's Fifth?
 What are you doing here?"
 He turned to Aunt Naggie.
 "She mustn't be here!"
@@ -4996,7 +5006,7 @@ She beckoned the cadet forward.
 Iffy somehow managed to say.
 
 Her friend's expression didn't change.
-"Good morning, Iffelia."
+"Good morning, Kwan's Fifth."
 Her voice was as stiff as her back and shoulders.
 
 "Don't worry,"
@@ -5719,7 +5729,7 @@ who made sure that gambling debts didn't stay debts for long.
 "Nobody has said otherwise,"
 Doctor Johel replied,
 her "yet" unspoken.
-"And if Iffelia or Commander Wales had told us the drone was theirs
+"And if Fifth or Commander Wales had told us the drone was theirs
 and let us inspect it,
 perhaps this could have been avoided."
 
@@ -5783,7 +5793,7 @@ He thought people with modifications should embrace the term and make it their o
 This time Iffy heard the sigh.
 "And as I used to say to him,
 it's easier to feel that way when no one has ever thrown rocks at you.
-But coming back to Iffelia,
+But coming back to Fifth,
 the whole point of your grandfather's work was to create *modifications*
 that couldn't be detected by simple genetic tests.
 Cloning is never perfect---any glitch could have thrown the collaborating genes out of balance."

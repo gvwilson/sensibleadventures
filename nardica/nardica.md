@@ -348,7 +348,7 @@ The old woman nodded.
 The *Taroona* came in yesterday,
 and there's already been a coupla bust-ups with those *gaisi* pirates."
 
-"Thanks *má*," Iffy said dutifully.
+"Thanks," Iffy said dutifully.
 "Good luck with your barnacles."
 The old woman smiled and bent back to her work,
 the silvery tattoos on her shaved head glistening in the sun.
@@ -366,44 +366,42 @@ but on those rare occasions when she could sit and drink a cup of tea
 in one of Halley's cafés,
 she made sure to find a seat in the corner and keep her head down.
 Her dark skin and kinky black hair didn't help matters.
-As tensions between the Ecofederacion and the Aussie government in Tasmania had increased,
-she heard more people mutter that Zillions shouldn't be allowed to wander around town without a leash.
-
------
+As tensions between the Ecofederacion do Brasil and the Australian government in Tasmania had increased,
+she heard more and more people mutter that Zillions shouldn't be allowed to wander around town without a leash.
 
 Mishra & Co Fine Technical Work - No Job Too Small!
 occupied one half of a long shed
-that looked (and sometimes smelled) like the oldest building in Antarctica.
-The big sliding door along the side wasn't open yet,
+that looked (and sometimes smelled) like the oldest building in Halley.
+The big sliding door that took up half its front wasn't open yet,
 so Iffy banged on the smaller door cut into it.
 It scraped open on her third knock.
 
-"Hey Jeep," she said brightly to the scowling teenager who opened it.
+"Hey Jeep," she said brightly to the scowling teenager inside.
 "Is your dad here?"
 She held up the bent reciprocating rod by way of explanation.
 
-"'s the back," Jeep yawned,
+"'s the back," Jeep muttered,
 jerking his thumb over his shoulder
 and making just enough room for Iffy to squeeze past him.
 
 The inside of the shed was a humid mug of long-ago fish,
 freshly singed metal,
-and the not-quite-illegal coal dust used by the furnace
-that kept the machines from freezing up in the middle of winter.
-Mis-matched squares of light hung on hair-thin fibers from the ceiling.
+and the not-quite-illegal coal dust Mister Mishra used in
+the furnace that kept the machines from freezing up in the winter.
+Mis-matched lighting squares hung on hair-thin fibers from the ceiling.
 The shadows they cast made the compact machines
 and carefully sorted shelves of scrap on the shop floor
-look like battlebots from old story sims.
-Iffy's heart had been in her throat the first time she ventured between them.
-All she saw now was what they could be turned into.
+look like battlebots from old war sims.
+Iffy's heart had been in her throat the first time she ventured among them.
+All she saw now was what they could make---what *she* could make.
 
 Mister Mishra was sharpening his fingers on a grinding wheel
 in the center of the shop.
 He nodded at Iffy
 but didn't try to speak until the last sparks had flown off his steel nails
-and the grinding wheel had come to a halt.
+and the wheel had come to a halt.
 Pulling his safety goggles up onto his forehead,
-he tugged the calloused fingers of his other hand through the tangles in his beard.
+he tugged the calloused fingers of his real hand through the tangles in his beard.
 "Buy, sell, or trade?" he asked.
 
 Iffy cleared her throat.
@@ -425,11 +423,11 @@ and still didn't know if the quiet metal *tick* was just a bluff,
 or if he really could hear flaws too fine for eyes to see.
 
 He handed the rod back to her.
-"Bend her straight, she'll just bend bent again," he pronounced.
-"What she needs is replacing."
+"She'll be right enough once she's straightened," he pronounced.
+"But it's going to cost you."
 
 The tension eased out of Iffy's shoulders.
-Mister Mishra didn't bargain unless he'd already decided that he was going to say 'yes'.
+Mister Mishra didn't bargain unless he'd already decided that he was going to say "yes".
 Now it was just a matter of price.
 
 In the end,
@@ -448,13 +446,12 @@ scowling as always,
 to say that lunch was ready
 but *amma* said he had to clean up first.
 
-"You hungry?" Mister Mishra asked,
-spinning the handwheel on the side of the drill
+"You hungry?" Mister Mishra asked
+as he spun the handwheel on the side of the drill
 to lift the laser into its locking position.
 
-"No thanks," Iffy said.
-"I brought."
-She held up the egg her aunt had given her.
+"No thanks," Iffy said,
+holding up the egg her aunt had given her.
 
 "Hm."
 Mister Mishra ran his fingers through his beard again.
@@ -462,20 +459,20 @@ Mister Mishra ran his fingers through his beard again.
 
 "It'll do me fine."
 Iffy nodded toward the laser drill as casually as she could.
-"You mind I try a couple o' pieces while you're out?"
+"You mind I try a couple of pieces while you're out?"
 
 Mister Mishra shook his head.
 "Nuh uh, girl.
-Nobody touches my darling without I'm there to watch."
+Nobody touches my darling without I'm here to watch."
 Metal fingers tapped the tabletop next to him.
 "You break that,
-nearest parts are long away Amundsen,
-and nearest after that are all the way up to Taz."
+I'll have to send up to Amundsen for parts,
+and odds are they'll have to send all the way up to Taz."
 
 "Aright," Iffy said,
 feigning disappointment.
 "How about I use the mechanical one instead?
-Just so I can learn a bit,"
+Just for learning,"
 she added hastily.
 "It's not paid work or nothing, I swear.
 I'll just drill some scrap---you can count it all in and out to make sure."
@@ -483,11 +480,11 @@ I'll just drill some scrap---you can count it all in and out to make sure."
 Mister Mishra chuckled.
 "No worry about the scrap, girl.
 And no worry about gettin' paid.
-If you've found cash work hereabouts that I han't heard of,
+If you've found cash work hereabouts that I haven't heard of,
 more power to you."
 He rolled his head to loosen the kinks in his neck,
-then jerked his chin at the cabinet behind her.
-"Mind your eyes, aye?"
+then waggled the digits of his artificial hand.
+"Mind your eyes and fingers, aye?"
 
 "Aye," Iffy agreed eagerly.
 She had a pair of yellowing old plastic goggles on her face and the drill bit engaged
@@ -500,16 +497,15 @@ she found one that was bent enough to be a challenge.
 The first hole only took a minute.
 It then took her another fifteen minutes to measure, mark, measure again,
 swear under her breath,
-find another pair of calipers in the chaos that was the top of Mister Mishra's toolbench,
+find another pair of calipers in the chaos on top of Mister Mishra's toolbench,
 chock the piece,
 measure the hole a second time,
-and re-align the piece juuuuust a little.
-A bot could have done the whole thing in less time than it would have taken Iffy to sneeze,
-but bots could be hacked,
-or infected with mutated malware left over from the war.
-"You want it done fast, get a bot,"
-Mr. Mishra always said.
-"You want it done *right*, you get me."
+and re-align everything juuuuust a little.
+A bot could have done the whole thing in seconds,
+but bots could be hacked or infected with mutated malware left over from the war.
+"You want it done fast, you use a bot,"
+Mister Mishra always said.
+"You want it done *right*, you use me."
 
 Slowly,
 steadily,
@@ -540,7 +536,7 @@ Jeep straightened up.
 "I ain't wastin' anything!"
 Iffy said hotly,
 stung by Jeep's use of the "w" word.
-"An' it's none of your business what my uncle knows and doesn't."
+"And it's none of your business what my uncle knows and doesn't."
 She turned back to the drill,
 placing her foot firmly on the pedal that controlled the motor's speed.
 
@@ -575,7 +571,7 @@ The door made a bang as he slammed it shut behind him.
 
 Iffy emptied the dustpan into the trash when she was done
 leaned the broom back against the sonic press,
-and tossed her goggles in their drawer angrily.
+and tossed her goggles into their drawer angrily.
 It wasn't fair:
 Jeep could use the equipment any time he wanted,
 but all he ever did was complain and look for ways not to.
@@ -586,28 +582,41 @@ he'd shrugged the one time she had asked him why.
 "Well, up along 'Mundsen don't help us here," she'd retorted.
 "And anyway, how would you know what they got along there?
 You never ever been so far as Rothera."
-He'd scowled at that like he scowled at everything
-and stalked away to lose himself in yet another game.
+He scowled at that like he scowled at everything
+before disappearing into his room to lose himself in yet another game.
 
 It had been a year since Jeep's induction into the Marines.
 Iffy missed the bashful sixteen-year-old he had been,
 who loved to help his mother make curry
 and stammered every time a pretty boy spoke to him.
 "He'll come back eventually,"
-Mr. Mishra said the one time Iffy dared broach the subject,
+Mister Mishra said the one time Iffy broached the subject,
 his tone making it clear that she shouldn't bring it up again.
 "It just takes some longer to find their way home than others."
 
-The sky was exactly as bright as it had been an hour earlier when Iffy stepped outside,
+The sky was the same stark blue it had been an hour earlier when Iffy stepped outside,
 the straightened reciprocating rod safely stowed inside her coat.
 She peeled her egg as she hurried up the street toward the grocery store,
-trying not to get grease from her fingers onto it as she devoured the rubbery white flesh
+trying not to get grease from her fingers on it as she devoured the rubbery white flesh
 and the warm yellow-brown yolk.
 A couple of Aunt Naggie's friends smiled or waved as she went by.
 She nodded back,
-ignoring the others who sighed or shook their heads
-at the sight of a half-wild dredger child inland from
-the invisible line that separated the docks from the rest of town.
+ignoring the others who shook their heads
+at the sight of a scruffy little jelly dredger loose on the street without adult supervision.
+
+A commotion down a side street caught her ear.
+Someone was singing off-key.
+Another voice joined in,
+then a third,
+and then glass broke on stone.
+"Bloody pirates," a passer-by muttered to his companion.
+"Governor shoulda sunk the *Taroona*, not let her berth."
+
+The second man elbowed him hard,
+glancing upward at a sentry drone buzzing overhead.
+"I'm sure the governor knows what's best,"
+he said loudly.
+Iffy kept her eyes on the cobblestones in front her and hurried on her way.
 
 Sandhu's grocery store was out of eggs.
 They had onions,

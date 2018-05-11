@@ -296,7 +296,7 @@ before it starts to bother him."
 "I know what that is,"
 Iffy said around a mouthful of warm naan.
 "The reciprocating rod's bent again.
-Mister Mishra will straighten it out if I take it in before he gets busy.
+Mr. Mishra will straighten it out if I take it in before he gets busy.
 It won't cost anything,"
 she added hastily as her aunt opened her mouth to object.
 "Not if I do a couple of odd jobs for him."
@@ -386,7 +386,7 @@ and making just enough room for Iffy to squeeze past him.
 
 The inside of the shed was a humid mug of long-ago fish,
 freshly singed metal,
-and the not-quite-illegal coal dust Mister Mishra used in
+and the not-quite-illegal coal dust Mr. Mishra used in
 the furnace that kept the machines from freezing up in the winter.
 Mis-matched lighting squares hung on hair-thin fibers from the ceiling.
 The shadows they cast made the compact machines
@@ -395,7 +395,7 @@ look like battlebots from old war sims.
 Iffy's heart had been in her throat the first time she ventured among them.
 All she saw now was what they could make---what *she* could make.
 
-Mister Mishra was sharpening his fingers on a grinding wheel
+Mr. Mishra was sharpening his fingers on a grinding wheel
 in the center of the shop.
 He nodded at Iffy
 but didn't try to speak until the last sparks had flown off his steel nails
@@ -427,7 +427,7 @@ He handed the rod back to her.
 "But it's going to cost you."
 
 The tension eased out of Iffy's shoulders.
-Mister Mishra didn't bargain unless he'd already decided that he was going to say "yes".
+Mr. Mishra didn't bargain unless he'd already decided that he was going to say "yes".
 Now it was just a matter of price.
 
 In the end,
@@ -446,7 +446,7 @@ scowling as always,
 to say that lunch was ready
 but *amma* said he had to clean up first.
 
-"You hungry?" Mister Mishra asked
+"You hungry?" Mr. Mishra asked
 as he spun the handwheel on the side of the drill
 to lift the laser into its locking position.
 
@@ -454,14 +454,14 @@ to lift the laser into its locking position.
 holding up the egg her aunt had given her.
 
 "Hm."
-Mister Mishra ran his fingers through his beard again.
+Mr. Mishra ran his fingers through his beard again.
 "Not much of a meal to grow on."
 
 "It'll do me fine."
 Iffy nodded toward the laser drill as casually as she could.
 "You mind I try a couple of pieces while you're out?"
 
-Mister Mishra shook his head.
+Mr. Mishra shook his head.
 "Nuh uh, girl.
 Nobody touches my darling without I'm here to watch."
 Metal fingers tapped the tabletop next to him.
@@ -477,7 +477,7 @@ she added hastily.
 "It's not paid work or nothing, I swear.
 I'll just drill some scrap---you can count it all in and out to make sure."
 
-Mister Mishra chuckled.
+Mr. Mishra chuckled.
 "No worry about the scrap, girl.
 And no worry about gettin' paid.
 If you've found cash work hereabouts that I haven't heard of,
@@ -488,7 +488,7 @@ then waggled the digits of his artificial hand.
 
 "Aye," Iffy agreed eagerly.
 She had a pair of yellowing old plastic goggles on her face and the drill bit engaged
-before Mister Mishra reached the door.
+before Mr. Mishra reached the door.
 
 Drilling holes wasn't hard---she'd learned how to do that long ago.
 The hard part was drilling them in the right place.
@@ -497,14 +497,14 @@ she found one that was bent enough to be a challenge.
 The first hole only took a minute.
 It then took her another fifteen minutes to measure, mark, measure again,
 swear under her breath,
-find another pair of calipers in the chaos on top of Mister Mishra's toolbench,
+find another pair of calipers in the chaos on top of Mr. Mishra's toolbench,
 chock the piece,
 measure the hole a second time,
 and re-align everything juuuuust a little.
 A bot could have done the whole thing in seconds,
 but bots could be hacked or infected with mutated malware left over from the war.
 "You want it done fast, you use a bot,"
-Mister Mishra always said.
+Mr. Mishra always said.
 "You want it done *right*, you use me."
 
 Slowly,
@@ -526,7 +526,7 @@ Does my *da* know you're here?"
 "Of course he does."
 Iffy scratched a sudden itch on her nose,
 then pulled her hand back down to her side.
-Mister Mishra *did* know,
+Mr. Mishra *did* know,
 and she had nothing to be embarrassed about.
 
 "Uh huh.  What about your uncle?"
@@ -590,19 +590,20 @@ Iffy missed the bashful sixteen-year-old he had been,
 who loved to help his mother make curry
 and stammered every time a pretty boy spoke to him.
 "He'll come back eventually,"
-Mister Mishra said the one time Iffy broached the subject,
+Mr. Mishra said the one time Iffy broached the subject,
 his tone making it clear that she shouldn't bring it up again.
 "It just takes some longer to find their way home than others."
 
 The sky was the same stark blue it had been an hour earlier when Iffy stepped outside,
 the straightened reciprocating rod safely stowed inside her coat.
 She peeled her egg as she hurried up the street toward the grocery store,
-trying not to get grease from her fingers on it as she devoured the rubbery white flesh
-and the warm yellow-brown yolk.
+trying not to get machine grease on it
+as she devoured the rubbery white flesh and the warm yellow-brown yolk.
 A couple of Aunt Naggie's friends smiled or waved as she went by.
 She nodded back,
 ignoring the others who shook their heads
-at the sight of a scruffy little jelly dredger loose on the street without adult supervision.
+at the sight of a scruffy little jelly dredger in a stained coat
+wearing boots two sizes too big for her.
 
 A commotion down a side street caught her ear.
 Someone was singing off-key.
@@ -621,13 +622,13 @@ Iffy kept her eyes on the cobblestones in front her and hurried on her way.
 Sandhu's grocery store was out of eggs.
 They had onions,
 though,
-and a whole case of dried green peppers that had come in from somewhere unspecified.
+and a whole case of dried green peppers that had come in from somewhere carefully left unspecified.
 Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed paper.
 "For your beautiful aunt,"
 she said over Iffy's protests,
 just as she did every time she gave her something special for Aunt Naggie.
 "And here, take this too."
-She handed Iffy a small plastic jar with a sealed lid half-full of dusky orange powder.
+She handed Iffy a small plastic jar half-full of orange-red curry powder.
 
 Big Mrs. Sandhu snorted just as *she* always did.
 "You should take your little presents yourself," she scolded.
@@ -636,7 +637,7 @@ Her wife smiled.
 "*La,* but where would be the romance in that?"
 
 Big Mrs. Sandhu snorted again.
-"You just don't want any of your special friends in the harbor to know about one another."
+"You just don't want your special friends in the harbor to know about each another."
 
 Whatever Little Mrs. Sandhu might have said next was cut short by
 the jingling of the little bell on the store's front door.
@@ -646,11 +647,11 @@ as the squarest man Iffy had ever seen walked in.
 "Square" really was the only word for him.
 He wasn't much taller than Iffy,
 but three of her could have stood side by side in the span of his shoulders.
-Strong white teeth gleamed against his black skin as he smiled,
-and the small silvery rectangle of tech set into his temple
+The small silvery rectangle of tech set into his temple
 made him look like he had stepped out of one of the action games
 that the two Mrs. Sandhus and their friends discussed endlessly
-with customers they particularly liked.
+with customers they particularly liked,
+and strong white teeth gleamed against ink-black skin when he smiled.
 
 "Good morning, *sri*," Big Mrs. Sandhu said,
 bowing her head slightly.
@@ -664,16 +665,16 @@ and perhaps some advice,
 if that's for sale as well as soy sauce and onions?"
 His twanging accent sounded vaguely 'Merican to Iffy,
 though the only 'Mericans she had ever met in person
-hadn't done much more than swear at Mister Mishra
+hadn't done much more than swear at Mr. Mishra
 when he wouldn't take a sermon and a blessing in trade
-for fixing their broken propeller.
+for fixing a broken drone rotor.
 
 "Advice is always free here,"
 Little Mrs. Sandhu simpered,
 wiping her hands on her apron.
 Big Mrs. Sandhu looked sidelong at Iffy and rolled her eyes.
 Iffy bit back a laugh---Little Mrs. Sandhu's flirting was as famous in Halley
-as her curries and her hard bargaining.
+as her smuggled vegetables and her hard bargaining.
 
 "Excellent,"
 the square man said.
@@ -685,12 +686,12 @@ He spread his hands apologetically.
 "It seems that my luggage went missing in transit."
 
 "Oh you poor *cho*,"
-Little Mrs. Sandhu clucked.
+Little Mrs. Sandhu clucked sympathetically.
 
 Big Mrs. Sandhu shook her head.
-"The *Taroona*'s crew are a pack of thieves,"
+"The *Taroona*'s crew are *bura badi*, the lot of them,"
 she said flatly.
-"And worse, I've heard.
+"Thieves and pirates and worse.
 You're lucky if all they nicked was your bags and not your kidneys."
 
 The square man sighed.
@@ -702,8 +703,8 @@ He shrugged sadly.
 
 "What kind of tools?" Iffy asked.
 She had been about to slip away---as entertaining as it would have been
-to listen to some hard-luck drifter try to con the Mrs. Sandhus,
-her uncle would almost certainly be awake and bellowing for her,
+to listen to a hard-luck drifter try to con the Mrs. Sandhus,
+her uncle would almost certainly be awake soon,
 and she didn't want to leave Aunt Naggie to deal with his ire on her own.
 But tools---that was worth a few extra seconds.
 
@@ -711,7 +712,7 @@ The square man grimaced.
 "A couple of half-mil waldoes,
 a sintering laser,
 a set of diffraction lenses,
-a fractal de-ionizer for cleaning up old chips,
+a fractal de-ionizer for cleaning the scruff off old cores,
 and a---"
 
 "There's no such thing as a fractal de-ionizer,"
@@ -719,7 +720,7 @@ Iffy cut in scornfully.
 
 The square man blinked.
 "Sure there is.
-You take the polarizer out of a medical SQUID
+You take the polarizer out of a micromagnetic resonator,
 stick it in a high-conductance fractal mesh,
 and boom---there's your de-ionizer."
 
@@ -729,18 +730,23 @@ Iffy frowned.
 "If you're careless, sure,"
 the square man admitted.
 "You have to recalibrate the impedance every once in a while
-so that it doesn't overheat,
-but if you keep a cryo bath handy as a heat sink..."
-He cocked his head,
-looking at Iffy as if she was some strange new machine that he had to repair.
+so that it doesn't overheat.
+But if you keep some liquid nitrogen handy..."
+
+"...you can drain off the excess thermal every few minutes,"
+Iffy finished,
+the solution suddenly clear and flawless in her head.
+
+"Exactly."
+The newcomer cocked his head,
+looking at Iffy as if she was some strange machine he had to repair.
 
 "Well,
 if you two are done with your tech jabber,
 there's a couple of places I can point you to,"
-Big Mrs. Sandhu said briskly.
+Big Mrs. Sandhu cut in briskly.
 "Can't promise they'll be as cheap as you want,
 but they're clean,
-and humans only,
 and you won't wake up in the middle of the night with any of your parts gone."
 
 "Thank you,"
@@ -749,7 +755,7 @@ still studying Iffy.
 "And if you don't mind me asking another question,
 where did your daughter learn her tech?
 A lot of people with a lot of years behind them
-wouldn't have thought to worry about the resonance feedback."
+wouldn't have thought to worry about the resonance feedback problem."
 
 "Oh, she's not our daughter,"
 Little Mrs. Sandhu said lightly.
@@ -763,7 +769,7 @@ Suddenly he stuck out his hand.
 
 Iffy hesitated,
 then put out her own hand to shake his.
-"Fifth Kwan.  Pleased to meet you too."
+"Fifth of Ang Kwan, but call me Iffy.  I'm pleased to meet you too."
 
 ## Chapter 2
 
@@ -872,7 +878,7 @@ It'll do them both the world to get some time away from each other."
 Iffy exclaimed.
 "Me!  I could be his 'prentice!"
 The two Mrs. Sandhus had listened with bemusement
-as her conversation with Mister Wales---"call me Johnson, please"---leaped
+as her conversation with Mr. Wales---"call me Johnson, please"---leaped
 from de-ionizers
 to different techniques for micro-welding the cracked cases of old cores
 to the mended reciprocating rod that Iffy had taken out of her coat to show him.
@@ -1028,7 +1034,7 @@ a sharp-edged scraper to pry the barnacles off,
 a lens connected to a tiny core set just *so* in a wire frame
 to steer the scraper so that it didn't dig into the plastic---the whole thing would only cost a couple of rand,
 and would save the old women a couple of hours every day at least.
-Mister Mishra had everything except the frame,
+Mr. Mishra had everything except the frame,
 and she could literally see how to print that.
 She could make the whole thing herself,
 she realized with mounting excitement.
@@ -1107,7 +1113,7 @@ Twenty years before,
 someone's home-brew tech had gone up in flames in Bharati.
 Dozens had died as fire swept through the small town,
 and a hundred more from exposure in the days that followed.
-Iffy had never asked Mister Mishra about that night,
+Iffy had never asked Mr. Mishra about that night,
 but every year,
 on the anniversary,
 he and Little Mrs. Sandhu and their friends
@@ -1246,7 +1252,7 @@ A slender manipulator arm,
 longer than Iffy's own arm but no bigger around than one of her fingers,
 unfolded to reach for the gray metal rectangle in Wales' hand.
 It looked like a miniature version of the heat exchangers
-that Mister Mishra had been repairing the last time the *Guinevere* was in dock.
+that Mr. Mishra had been repairing the last time the *Guinevere* was in dock.
 As soon as the thought took shape in her head,
 a picture---no, more than that, a full-blown blueprint---materialized as well.
 The heat exchanger belonged *there*,
@@ -1872,7 +1878,7 @@ forcing a smile.*
 
 *But when the ship's horn blared it wasn't a horn at all
 but the sound of a drill press.
-She was in Mister Mishra's,
+She was in Mr. Mishra's,
 fumbling clumsily to reassemble a mound of chips and gears and actuators
 that she had never seen before.
 Her heart raced as she tried frantically to piece them together.
@@ -1897,7 +1903,7 @@ was the space where a miniaturized core could---*
 
 *The whole room heeled hard,
 throwing her off balance.
-"She's going to blow!" Mister Mishra shouted.
+"She's going to blow!" Mr. Mishra shouted.
 and then all Iffy could hear was a rushing sound
 as the ship fell away beneath her into a pit of churning foam.*
 
@@ -2073,7 +2079,7 @@ waiting for him to say it was time for a break,
 but he didn't.
 *Uncle Jack wouldn't have been able to hold the cable like that for more than a minute,*
 she thought.
-Even Mister Mishra would have struggled,
+Even Mr. Mishra would have struggled,
 but Wales seemed unbothered.
 
 Over, through, under, through...
@@ -2130,7 +2136,7 @@ He somehow managed to keep up his steady stream of questions
 without ever making her feel like he was pestering her.
 She enjoyed every minute of it,
 just like she enjoyed those precious moments
-when Mister Mishra turned something she'd made over and over in his hands
+when Mr. Mishra turned something she'd made over and over in his hands
 and pronounced it well done,
 or when Uncle Jack was sound asleep
 and Aunt Naggie told her stories about growing up in Tasmania in the years after the war,
@@ -5711,7 +5717,7 @@ fingering the little earbud Wales had given her.
 
 Iffy had built the lock for her cabin door herself when she was ten.
 After spending a couple of days browsing designs on the net,
-she had milled the parts at Mister Mishra's
+she had milled the parts at Mr. Mishra's
 and installed it while her uncle was off with his friends.
 She had never spoken to Aunt Naggie about it,
 but she was pretty sure her foster mother understood why

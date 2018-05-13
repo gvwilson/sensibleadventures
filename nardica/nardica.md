@@ -859,7 +859,7 @@ plucking the jar from Iffy's fingers and tucking it into her apron.
 "Did you get anything more to eat?
 I was going to make some noodles for lunch."
 
-"It's okay, I'm not hungry,"
+"It's kappa, I'm not hungry,"
 Iffy lied.
 "But auntie,
 there was a man at the Sandhu's,
@@ -1158,15 +1158,13 @@ The three other Marines beside him did the same in unison.
 "Shad," someone said beside her.
 "It's gonna be a dock fight."
 
-------
-
 Iffy gulped.
 She had never seen a fight worse than teenagers shoving each other,
 but Uncle Jack had been in several over the years.
-One the last time they were in Rothera,
+The last time they were in Rothera,
 he had come back to the *Guinevere* bruised and bloodied
 and uncharacteristically quiet about what had happened.
-As the Marines uniform jackets hardened into armor,
+As the Marines' uniform jackets hardened into armor,
 she turned to find somewhere safer to be.
 
 And bumped into Johnson Wales.
@@ -1178,31 +1176,23 @@ Here---would you mind carrying this?"
 Without waiting for an answer,
 he handed her a bulky black box
 with a flip-up handle on its lid
-and stooped to pick up its two identical twins from the ground.
+and stooped to pick up its two identical twins.
 
-"What's this?"
-Iffy asked.
+"What---?"
+Iffy started to ask.
 
-"My tools,"
-Wales said briskly.
-"Now, off we go."
+"Ssh!"
+Wales cut her off and looked up at the drones circling overhead.
+Without warning,
+their buzzing stopped
+and they dropped out of the sky.
 
-"But---wait!"
-Iffy hurried after him,
-the toolbox bumping against her leg.
-
-Wales paused a moment to let her catch up.
-A few dew-drops of sweat glistened on his forehead.
-"This the gear the *Taroona* bikkies upped from you?"
-Iffy puffed.
-
-Wales nodded.
-"Everything that matters."
-Tiny lights danced briefly across the silvery rectangle in his left template.
-He looked up at the growing flock of drones.
-"Come on---they've called for reinforcements."
-
-Even as he spoke,
+"Oy! That weren't us!" the *Taroona*'s captain shouted,
+but it was too late.
+As the Marines' sidekick drones clattered and cracked on the cobblestones,
+the sergeant blew his whistle.
+His squad's programming kicked in.
+As one, they charged the sailors in front of them.
 Iffy heard the sizzling crack of a shock stick.
 Someone shouted an obscenity,
 and suddenly people were running past her
@@ -1210,33 +1200,51 @@ as the sailors and Marines in the turnaround did
 what sailors and Marines have been doing
 for as long as there have been sailors and Marines.
 
-Wales walked quickly without ever breaking into a run.
-Iffy did her best to keep up with him as he strode down the brick-paved street.
+"Come on,"
+Wales urged Iffy.
+She hurried after him,
+the toolbox bumping against her leg.
+
+Wales ducked into the first side alley and paused to let her catch up.
+A few dew-drops of sweat glistened on his forehead.
+"This the gear the *Taroona* bikkies upped from you?"
+Iffy puffed,
+setting the toolbox down at her feet.
+
+Wales nodded.
+"Everything that matters."
+Tiny lights danced briefly across the silvery rectangle in his left template.
+He looked up as an angry drone buzzed overhead.
+Another followed it a moment later.
+"Come on---they've called for reinforcements.
+We'd be better of somewhere else when they arrive."
+
+Wales led her out the other end of the alley
+and onto a street lined with single-story houses made of laser-cut stones
+with tweaked blue-green moss tracing their mortared joints.
+Iffy did her best to keep up with him as he strode back toward the center of town.
 *He prob'ly kept the light ones for himself,*
-she grumbled to herself,
+she thought resentfully,
 but the complaint was half-hearted.
-Most of the sailors and townsfolk she knew ranged from lean to stringy---the
-cold weather and the sparse Antarctic diet
+The sailors and townsfolk she knew ranged from lean to stringy---cold weather
+and the sparse Antarctic diet
 didn't give bodies much chance to put on weight.
 Wales' broad shoulders made him look blocky by comparison,
 and the toolboxes seemed much smaller in his hands than in hers.
 
 "Hang up a jif," Iffy finally said.
 Wales stopped as she set her load down on the ground and looked back the way they had come.
-A bend in the street hid the machine shop,
-the quarantine blockhouse,
-and what Iffy knew would have been a very short fight.
 Between the Marines' inducted fighting skills,
-drones,
-and combat armor,
+their drones,
+and their armor,
 the *Taroona*'s sailors would have had about as much chance
 as a snowball in Aunt Naggie's frying pan.
 "Sometimes people fight just so they can tell themselves they did,"
-Aunt Naggie had explained after one of her husband's misadventures.
+Aunt Naggie had explained after one of Uncle Jack's misadventures.
 "Sometimes trying is the only kind of winning you can hope for."
 
 "Gardez-vous! Gardez-vous!"
-She stepped to the side as French Henry came rattling down the street behind them,
+She stepped to the side as French Henry came rattling up the street toward them,
 its dented old cameras swinging from side to side.
 It ground to a halt a few meters away.
 "Ça va bien!" it announced proudly.
@@ -1245,8 +1253,8 @@ It ground to a halt a few meters away.
 "What's it saying?" Iffy whispered loudly,
 unconsciously backing up to put some distance between herself and the battered old machine.
 Like the rest of the world,
-Halley only tolerated free bots because they needed their labor.
-There were too many stories of bots being driven mad by malware left over from the war
+Halley tolerated free bots because they needed their labor,
+but there were too many stories of machines being driven mad by malware left over from the war
 for people to ever truly trust something as big as French Henry.
 
 But Wales didn't seem bothered in the least.
@@ -1268,12 +1276,12 @@ The heat exchanger belonged *there*,
 in the housing around the maintenance bot's tiny quantum core.
 Except it wasn't really a maintenance bot.
 It was an infiltrator,
-a leftover from the war designed to worm its way through sewers and cooling pipes.
+a leftover from the war designed to worm its way through sewers and outflow pipes.
 Half its parts had been replaced by mis-matched odds and ends taken from other bots,
 or hacked together out of scrap metal where the tech to make the originals had been lost,
 but the bot's original design was still there beneath the patchwork.
 
-Her vision disappeared as the sweeper's slender arm folded back into its housing.
+Her vision disappeared as the bot's slender arm folded back into its housing.
 "Merci," it said,
 rocking back and forth in what might have been the mechanical equivalent of a bow
 before grinding its gears and rolling down the street toward the docks,
@@ -1299,7 +1307,7 @@ Wales blinked.
 
 Iffy rolled her eyes.
 "'Cuz they upped your gear and then the blockhouse blew up
-an' then the bot that takes care of half o' the gear in town
+an' then the bot that takes care of the town's gut pipes
 just happens to bump into you
 an' now you got your stuff back?
 I ain't *stupid*,"
@@ -1317,19 +1325,21 @@ crossing her arms in unconscious imitation of the *Taroona*'s captain.
 
 Wales smiled briefly.
 "Sorry.
-Are you kappa to carry that down s'far as the caffy?"
+Arra kappa t' carry at down s'far as the caffy?"
 
-Iffy wrinkled her nose.
-"That was terrible," she judged witheringly.
+Iffy wrinkled her nose at his exaggerated accent.
+"That was *terrible*," she judged witheringly.
 "And sure,
 but only if I get to see what's in it."
 
 Wales chuckled.
 "Fair enough.
 Come on."
-He glanced up as one of the city's drones zipped past overhead.
+He glanced up as one last drone zipped past overhead.
 Lights sparkled briefly in the rectangle set into his temple,
 making Iffy wonder how honestly the drones were reporting the scene to Halley's central core.
+
+------
 
 Picking up their respective loads,
 they walked side by side down a narrow side street

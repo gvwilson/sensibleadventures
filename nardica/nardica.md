@@ -1339,47 +1339,42 @@ He glanced up as one last drone zipped past overhead.
 Lights sparkled briefly in the rectangle set into his temple,
 making Iffy wonder how honestly the drones were reporting the scene to Halley's central core.
 
-------
-
-Picking up their respective loads,
-they walked side by side down a narrow side street
-that led behind the Sandhu's grocery store
+Picking up their loads,
+they walked side by side down a narrow street
+that ran behind the Sandhu's grocery store
 to the café where Wales had rented a room.
-The owner glanced from Wales to Iffy but said nothing more than,
+The owner glanced from Wales to Iffy to the toolboxes they carried but said nothing more than,
 "Tea?"
-obviously believing that his guests' business was none of his.
 
-They sat at a battered stone-topped table and drank sweet, strong tea
-as Wales opened one of the toolboxes Iffy had been carrying
-and carefully unpacked the top layer of its contents.
+They sat at a battered stone-topped table and drank the sweet, strong brew he put in front of them
+as Wales opened the toolbox Iffy had been carrying
+and carefully checked its contents.
 Some of the tools looked as good as new,
 though Iffy knew that they had to be at least a hundred years old---only
 a handful of well-defended factories scattered around the world
-had the cleanrooms and nano-fabricators needed to create marvels
-like the fractal diamond-and-iridium mesh
-that Wales briefly let her pick up with a pair of fingertip micro-manipulators.
-Other tools were clearly cobbled together from spare parts
-and held together with whatever Wales had been able to find.
+still had the cleanrooms and nano-fabricators needed to create marvels
+like the fractal iridium mesh
+that Wales briefly let her inspect through a monocle made from a single perfectly-formed diamond.
+Other tools were clearly cobbled together from whatever spare parts Wales had been able to find.
 Iffy felt more comfortable with these,
 since pretty much everything in Halley was built the same way.
 
 "What about them?"
 she asked eagerly,
-pointing at a matched pair of asymmetric gears
+pointing at a nested set of asymmetric gears
 as Wales carefully repacked the open toolbox.
 
 The square man chuckled.
 "Let's save those for another time."
-He looked past her for a moment,
-the lights in the tech on his temple flickering with activity.
-"The town net says the Marines have resolved the situation by the quarantine shed.
-Apparently some Zillion saboteurs set off the explosion
-as part of an attempt to make off with government property,"
-he continued drily.
+He looked past her for a moment
+as the lights in the tech on his temple flickered with activity.
+"The town says the Marines have resolved the situation by the quarantine shed---the explosion
+was apparently a result of faulty maintenance on an outflow pipe that hadn't been registered in the town plans.
+Oh, and the disturbance involving the crew of an unnamed Australian vessel has been peacefully resolved."
 
 Iffy snorted.
-"I know it was you,"
-she muttered.
+"Faulty maintenance my blue thumbs.
+I know that was you."
 
 Wales blinked at her innocently.
 "I'm sure I have no idea what you mean.
@@ -1387,7 +1382,7 @@ Anyway---it's probably time you got back home."
 
 Iffy glanced at the timer tattooed on the back of her wrist.
 "Oh crivens," she swore,
-"I shoulda been back an hour ago!"
+"I shoulda been home an hour ago!"
 She scrambled to her feet.
 
 "Hold on a minute,"
@@ -1402,27 +1397,29 @@ and put a small plastic bear with bright blue eyes on the shelf above them.
 "To keep an eye on things,"
 he said,
 tapping the tech in his temple.
-Iffy nodded
-as if remote vision cameras in old children's toys were an everyday thing for her.
-She didn't know what the red-speckled globe next to the bear was,
+Iffy nodded---remote vision cameras in children's toys were an everyday thing,
+even for someone who had grown up as poor as she had.
+She didn't know what the red-speckled globe Wales set next to the bear was for,
 but she suspected it would do more than just watch if someone broke in.
 
-A pair of gray military drones were hovering over the harbor
+A pair of bulky gray drones were hovering over the harbor
 as Iffy and Wales walked down to the pier
 where the *Guinevere* was docked.
 "Keeping an eye on the *Taroona*," Wales guessed,
 shielding his eyes with his hand to study them.
-"See there?
-Those are shock guns.
-And those bumps behind them---those are strangle foam bombs or I'm your uncle."
+"See those stubby cones?
+Those are ultrasonic pulse guns.
+One shriek from those and you'll have a headache for a week.
+And those bumps behind them---those probably spray strangle foam."
 
 "Why're they just watching?"
 Iffy asked.
-"Any time I seen a dock fight,
-th' Marines've just hauled everyone in for th' governor to sort out."
+"Why don't the Marines just haul everyone in for th' governor to sort out?"
+
+------
 
 Wales shook his head.
-"The *Taroona* sails out of Hobart.
+"The *Taroona* FIXME
 The governor probably thinks her crew were responsible for the quarantine shed blowing up,
 but the last thing he wants right now
 is to give Tasmania an excuse to poke around down here.

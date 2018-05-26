@@ -1187,7 +1187,7 @@ Without warning,
 their buzzing stopped
 and they dropped out of the sky.
 
-"Oy! That weren't us!" the *Taroona*'s captain shouted,
+"That weren't us!" the *Taroona*'s captain shouted,
 but it was too late.
 As the Marines' sidekick drones clattered and cracked on the cobblestones,
 the sergeant blew his whistle.
@@ -1205,9 +1205,26 @@ Wales urged Iffy.
 She hurried after him,
 the toolbox bumping against her leg.
 
-Wales ducked into the first side alley and paused to let her catch up.
+"Oy!" a voice shouted.
+"You there! You're not goin' anywhere with that!"
+A rangy man in a yellow-and-green vest with a half-star tattooed on his face
+shoved a couple of people out of his way and grabbed Wales by the arm.
+
+Wales didn't even break stride.
+*Crunch!*
+The toolbox in his left hand hit the *Taroona* crewman in the knee.
+*Crack!*
+The one in his right swung up to connect with the sailor's chin as he doubled over.
+*Thud!*
+The sailor hit the cobblestones in a heap.
+
+"Follow me," Wales said,
+and this time there was no mistaking the fact that it was an order.
+They joined the flow of people hurrying to get away from the fight.
+
+Wales ducked into a side alley a few moments later.
 A few dew-drops of sweat glistened on his forehead.
-"This the gear the *Taroona* bikkies upped from you?"
+"This what the *Taroona* bikkies upped from you?"
 Iffy puffed,
 setting the toolbox down at her feet.
 
@@ -1216,7 +1233,7 @@ Wales nodded.
 Tiny lights danced briefly across the silvery rectangle in his left template.
 He looked up as an angry drone buzzed overhead.
 Another followed it a moment later.
-"Come on---they've called for reinforcements.
+"Come on---the Marines have called for reinforcements.
 We'd be better of somewhere else when they arrive."
 
 Wales led her out the other end of the alley
@@ -1612,7 +1629,8 @@ Greed and the mistrust he felt for everything the world put in front of him
 warred briefly on his face.
 "We keep whatever we haul,"
 he finally said.
-"And you keep to your cabin 'less I say otherwise."
+"An' the moment we tie up,
+you're off the ship an' I've never heard of you."
 
 "Fair enough,"
 Wales agreed.
@@ -1679,7 +1697,7 @@ greed written on his face.
 
 "It's no use to me if I can't spend it,"
 Wales said crisply.
-"Now, do you want it or not?"
+"Now, do we still have a deal?"
 
 Uncle Jack pocketed the card and grunted something unintelligible.
 "Thank you," Wales said.
@@ -1788,8 +1806,7 @@ Aunt Naggie said.
 
 "I said, ne'er mind!"
 He slapped the railing with his hand.
-"Now, where's that friend o' yours, girl?
-'Cuz if all this has been some kinda joke..."
+"Now, where's our high-rollin' troublemaker got to?"
 
 Five minutes crawled by,
 each one tenser than the last.
@@ -1797,8 +1814,8 @@ Iffy didn't take a full breath until Wales appeared at the end of the pier
 with one toolbox in each hand,
 the third slung over his shoulder on a strap,
 and a small travelling pack on his back.
-Iffy scurried down the gangplank and ran to him.
 
+Iffy scurried down the gangplank and ran to him.
 "Thank you,"
 Wales said as she took one of the boxes from his hand.
 "I keep telling myself I should rig something up to carry them,
@@ -1817,13 +1834,14 @@ and studied the red blotch a moment.
 Huh."
 He put the rag back in his pocket and began limping toward the *Guinevere*.
 
-"But what happened?"
+"What happened?"
 Iffy asked as she fell into step beside him.
 "Was someone really tryin' to break into your room?
+Were they from the *Taroona*?
 Did you get punched up?
 An' what's wrong with your leg?"
 
-"Oh, everything had mostly sorted itself out by the time I got there,"
+"Oh, everything was mostly sorted out by the time I got there,"
 Wales said vaguely.
 "And my leg's bothered me for years.
 I keep meaning to get it looked at,
@@ -1842,9 +1860,24 @@ before hauling in the gangplank and casting off.
 The engine rumbled and coughed for a moment as they pulled away from the pier,
 then settled into the steady thumping
 that was as familiar to Iffy as her own breathing.
-When they rounded the broken-backed carrier that was Halley's seawall a few minutes later,
-the swell beneath them grew stronger,
-and the tension Iffy hadn't realized she was carrying in her shoulders began to ease.
+
+They were halfway across the harbor when a klaxon blared *brrrap! brrrap!*
+Iffy ran to the stern in time to see a flock of drones converge on a pier
+six along from where the *Guinevere* had been berthed.
+A single ship lay alongside it,
+long and low and gray and dangerous---the *Taroona*.
+Iffy shaded her eyes with her hand.
+The ship looked like it was casting off,
+but no,
+a pair of Marine boats were blocking her path,
+and a platoon of blue-armored figures were trotting toward the pier.
+Whatever else happened,
+it didn't look like they'd have to worry about that particular bunch of Aussie pirates.
+
+Still,
+the tension in Iffy's shoulders didn't easy
+until they rounded the broken-backed carrier that was Halley's seawall a few minutes later
+and the swell beneath them grew stronger.
 
 Uncle Jack took the first watch,
 grumbling that they were probably going to be hauled in by the Marines

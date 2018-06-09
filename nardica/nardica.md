@@ -629,7 +629,7 @@ Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed pa
 she said over Iffy's protests,
 just as she did every time she gave her something special for Aunt Naggie.
 "And here, take this too."
-She handed Iffy a small plastic jar half-full of orange-red powder.
+She handed Iffy a small plastic jar half-full of tiny dark leaves.
 
 Big Mrs. Sandhu snorted just as *she* always did.
 "You should take your little presents yourself," she scolded.
@@ -850,10 +850,10 @@ like a turtle cautiously checking that the world outside its shell was safe.
 Iffy fished it and the onions she had bought out of her jacket's deep pockets
 and handed them over.
 "Oh, and Little Mrs. Sandhu said to give you this."
-She held up the little jar of orange powder.
+She held up the little jar of leaves.
 "What's in it?"
 
-"Oh, it's her special curry powder,"
+"Oh, it's her special tea blend,"
 Aunt Naggie said lightly,
 plucking the jar from Iffy's fingers and tucking it into her apron.
 "Did you get anything more to eat?
@@ -960,11 +960,13 @@ while a pot of desalinated water came to the boil.
 A handful of diced mushrooms and a splash of soy sauce joined the onions,
 filling the air with a rich aroma that tightened the knot in Iffy's stomach.
 
-"You going to add a bit o' the curry?"
+The knot turned into an ache as Aunt Naggie poured hot water into a teapot.
+"Is that Mrs. Sandhu's special blend?"
 Iffy asked,
-turning a pair of chopsticks over and over in her hands.
+turning a pair of chopsticks over and over in her hands
+as the rich aroma of the tiny brown leaves mixed with the smell of the cooking.
 
-"That's for special occasions,"
+"Special tea for special occasions,"
 Aunt Naggie replied,
 tucking the little jar at the back of her spice shelf.
 She dropped a thick handful of noodles into the pot,
@@ -1210,16 +1212,14 @@ the toolbox bumping against her leg.
 A rangy man in a yellow-and-green vest with a half-star tattooed on his face
 shoved a couple of people out of his way and grabbed Iffy by the arm.
 
-Without thinking she spun around, swinging the toolbox in a sharp arc.
-*Crack!*
-Its rising edge clipped the *Taroona* crewman in the knee.
-"Ow!
-Shadding hack, ya wheezy scaper, I'm gonna---"
+And there it was in her head,
+like a wireframe of a machine in a homework assignment labelled with angles and velocities.
+Before she even realized what she was doing she spun around,
+swinging the toolbox in a sharp arc.
+Its rising edge hit the *Taroona* crewman beneath his knee with a crack.
 
-But Iffy never got to find out what the sailor was gonna,
-because Wales was right there beside her swinging the toolbox in his right hand
-to connect with the side of the sailor's head.
-*Thud!*
+"Aargh! Shadding hack, ya wheezy---"
+The toolbox in Wales' right hand connected with the side of sailor's head with a thud.
 The Aussie hit the cobblestones in a heap.
 
 "Run!" Wales urged as two more sailors caught sight of their fallen comrade
@@ -1231,28 +1231,31 @@ but the toolbox was heavy and awkward
 and the women chasing her were half again her height
 and they could knock people aside instead of going around them
 or pushing in between them
-and a voice yelled, "Gotcha!"
-and---
+and what had just happened?
+How could she have *seen* what she needed to do?
 
-"*Gardez-vous!*"
-She screamed as a tubby rust-stained snake of a bot reared up in front of her.
+Just as a voice yelled, "Gotcha!"
+another shouted "*Gardez-vous!*"
+Iffy screamed as a tubby rust-stained snake of a bot reared up in front of her.
 The sailor who had just been about to grab her skidded to a halt on the cobblestones
 and was knocked sprawling as her partner slammed into her from behind.
 
-"Rogue!" someone in the crowd shouted
-as French Henry snapped a claw-tipped arm in front of the fallen sailor's face.
+"Mad bot! Mad bot!" the second sailor shouted,
+dodging back as French Henry swung a heavy manipulator at her.
 
 "Come on!"
-Wales put his hand on Iffy's back to urge her forward.
-They joined the flow of people running to get away from the fight.
+Wales pulled her into the scatter of people running in panic to get away from
+a robot gone rogue.
 
-Wales ducked into a side alley a few moments later.
+For a few moments all Iffy could do was try not to stumble and fall.
+Just when she couldn't hold onto the toolbox any longer,
+Wales dragged her into a side alley.
 A few dew-drops of sweat glistened on his forehead.
-"Are you all right?" he asked.
+"Are you all right?" he panted.
 
-Iffy let the toolbox drop to the ground and doubled over to catch her breath.
+Iffy dropped the toolbox on the ground and doubled over to catch her breath.
 "No, I'm not aright,"
-she snapped angrily.
+she snapped angrily---or would have if she wasn't wheezing so hard.
 "I just about got my chomper clocked in a dock fight!
 And what's this?"
 She whacked the toolbox with the toe of her boot,
@@ -1312,13 +1315,13 @@ He reached into a pocket inside his jacket and withdrew something small.
 "*Ici. C'est a toi.*"
 
 A hatch popped open on the front of the maintenance bot.
-A slender manipulator arm,
+A slender manipulator,
 longer than Iffy's own arm but no bigger around than one of her fingers,
 unfolded to reach for the gray metal rectangle in Wales' hand.
 It looked like a miniature version of the heat exchangers
 that Mr. Mishra had been repairing the last time the *Guinevere* was in dock.
 As soon as the thought took shape in her head,
-a picture---no, more than that, a full-blown blueprint---materialized as well.
+a full-blown blueprint materialized as well.
 The heat exchanger belonged *there*,
 in the housing around the maintenance bot's tiny quantum core.
 Except it wasn't really a maintenance bot.
@@ -1344,10 +1347,9 @@ as he watched the bot disappear around a corner two streets below them.
 "Come on---we should get going."
 
 "Uh huh.
-Must be pretty hard to find
-for it to take a chance on bein' dissed
+Must be pretty affing hard to find
+for it to take a chance on bein' scrapped
 for scaring people like it did back there."
-
 When Wales didn't answer,
 she gave the toolbox next to her another nudge with her boot.
 "So was that you?
@@ -1376,7 +1378,7 @@ crossing her arms in unconscious imitation of the *Taroona*'s captain.
 
 Wales smiled briefly.
 "Sorry.
-Arra kappa t' carry at down s'far as the caffy?"
+Arra kappa t' carry at down s'far the caffy?"
 
 Iffy wrinkled her nose at his exaggerated accent.
 "That was *terrible*," she judged witheringly.
@@ -1742,10 +1744,16 @@ then stopped himself.
 this is still switched on."
 He tapped the tech in his temple.
 "So if you try to call the Marines,
-I'll hear before they do."
+I'll just cut you off.
+Your call, I mean,"
+he added as an afterthought.
 
-Uncle Jack spat over the railing.
-"Ain't nobody here would call the affin' blues," he growled,
+Iffy's breath caught.
+Was he *threatening* Uncle Jack?
+That wasn't going to end well.
+
+But her foster father just spat over the railing.
+"Ain't nobody here gonna call the affin' blues," he growled,
 for once telling the truth.
 
 Wales nodded and strode down the gangplank.
@@ -1762,8 +1770,36 @@ and the three-day fuzz on his shaved scalp had crept further and further away fr
 
 Uncle Jack noticed her looking at him.
 "Get movin'," he barked.
-"An' you too, woman.
-I want us out o' here an' away from whatever's chasin' him soon as he's back."
+"An' you too, woman,"
+he added to Aunt Naggie.
+"I want us out o' here an' away from whatever's chasin' him soon as he's back."
+He strode away, still muttering to himself.
+
+Aunt Naggie and Iffy whooshed out their breath at the same time.
+"You gonna tell me what's going on?"
+Aunt Naggie asked.
+
+Iffy shrugged helplessly.
+"I dunno, auntie.
+'Struth, I dunno.
+There was a fight up along by quarantine,
+an' French Henry got into it,
+and..."
+*And I saw how to tag someone twice my size,*
+she almost added.
+All of a sudden she felt tired,
+as if her bones were made of concrete.
+
+Something in her expression caught Aunt Naggie's eye.
+She put her hand on Iffy's forehead.
+"Just be still," she said,
+stern and worried at the same time.
+After a moment she took her hand away,
+but her expression didn't change.
+"How about you get started and I'll make us both some tea?"
+
+"Tea would be nice,"
+Iffy said gratefully.
 
 It normally took a full day to get the *Guinevere* ready to sail,
 but the money in Uncle Jack's pocket seemed to make him believe
@@ -2279,9 +2315,9 @@ She would normally have let the engine run for a few minutes to test it,
 but the thought of Wales not saying anything if she did
 made her decide not to.
 
-Aunt Naggie made curry for dinner.
+Aunt Naggie made curry and tea for dinner.
 "Just for you," she whispered,
-shaking a little of Mrs. Sandhu's special curry powder onto Iffy's
+placing a steaming mug of sweetened dark tea in front of her foster daughter
 when Uncle Jack's back was turned
 and then tucking the jar back into her apron.
 The smell of synthetic coconut milk,
@@ -3157,7 +3193,7 @@ A pair of low-slung launches intercepted them just as Rothera took shape on the 
 Other than that,
 they didn't see a single other vessel.
 "Governor's orders," Aunt Naggie told Iffy,
-passing her a hard-boiled egg doused in Mrs. Sandhu's special curry powder.
+passing her a hard-boiled egg.
 "That's what Jack says---everyone's been told to stay outta the way 'til we're berthed."
 
 Her meager lunch inside her,
@@ -4964,7 +5000,8 @@ All she could do was whimper.
 "Iffy, please."
 Strong hands that smelled faintly of soap and onions forced her jaws apart.
 She gagged as a finger pushed something dry and powdery into her mouth.
-It tasted like curry,
+It tasted bitter,
+like tea,
 which made just as little sense as everything else that was going on.
 The slosh of water that followed made her splutter.
 She tried to spit it out,
@@ -4991,11 +5028,11 @@ it left a streak of red.
 Iffy let out a shaky breath.
 "Glad you din't."
 She worked her tongue in her mouth.
-"Is this curry powder?"
+"Are these tea leaves?"
 
 Aunt Naggie wiped her own face and nodded.
-"Mostly.
-There's some medicine in it.
+"Sort of.
+There's some medicine in 'em.
 Ignacio---the fella you met today---he's been gettin' it for me.
 For you, I mean."
 
@@ -5028,7 +5065,7 @@ it was like she'd always known.
 
 Her foster mother gave her one last hug.
 "You go back to sleep," she said as she stood,
-the precious jar of curry powder clutched in her hand.
+the precious jar of tea clutched in her hand.
 "We'll talk on this some more t'morrow."
 
 Iffy nodded,

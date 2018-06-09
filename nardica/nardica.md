@@ -1264,8 +1264,8 @@ Wales nodded.
 Tiny lights danced briefly across the silvery rectangle in his left template.
 He looked up as an angry drone buzzed overhead.
 Another followed it a moment later.
-"Let's go.
-The Marines have called for reinforcements---we'd be better of somewhere else when they arrive."
+"Come on---the Marines have called for reinforcements.
+We'd be better of somewhere else when they arrive."
 
 Wales led her out the other end of the alley
 and onto a street lined with single-story houses made of laser-cut stones

@@ -628,8 +628,9 @@ Little Mrs. Sandhu sliced a thumb-sized piece off one and wrapped it in waxed pa
 "For your beautiful aunt,"
 she said over Iffy's protests,
 just as she did every time she gave her something special for Aunt Naggie.
-"And here, take this too."
-She handed Iffy a small plastic jar half-full of tiny dark leaves.
+"And here, take this too.
+A little of the special curry mix she likes so much."
+She handed Iffy a small plastic jar half-full of orange-brown powder.
 
 Big Mrs. Sandhu snorted just as *she* always did.
 "You should take your little presents yourself," she scolded.
@@ -850,10 +851,10 @@ like a turtle cautiously checking that the world outside its shell was safe.
 Iffy fished it and the onions she had bought out of her jacket's deep pockets
 and handed them over.
 "Oh, and Little Mrs. Sandhu said to give you this."
-She held up the little jar of leaves.
-"What's in it?"
+She held up the little jar of curry.
+"She said it's her special blend."
 
-"Oh, it's her special tea blend,"
+"Oh, that's kind of her,"
 Aunt Naggie said lightly,
 plucking the jar from Iffy's fingers and tucking it into her apron.
 "Did you get anything more to eat?
@@ -960,15 +961,15 @@ while a pot of desalinated water came to the boil.
 A handful of diced mushrooms and a splash of soy sauce joined the onions,
 filling the air with a rich aroma that tightened the knot in Iffy's stomach.
 
-The knot turned into an ache as Aunt Naggie poured hot water into a teapot.
-"Is that Mrs. Sandhu's special blend?"
+The knot turned into an ache as Aunt Naggie added a few pinches of spice.
+"Is that Mrs. Sandhu's mix?"
 Iffy asked,
-turning a pair of chopsticks over and over in her hands
-as the rich aroma of the tiny brown leaves mixed with the smell of the cooking.
+turning a pair of chopsticks over and over in her hands.
 
-"Special tea for special occasions,"
+"Mm hm,"
 Aunt Naggie replied,
 tucking the little jar at the back of her spice shelf.
+"Special flavor for special occasions."
 She dropped a thick handful of noodles into the pot,
 glanced at her foster daughter,
 and added a few more.
@@ -1786,17 +1787,19 @@ There was a fight up along by quarantine,
 an' French Henry got into it,
 and..."
 *And I saw how to tag someone twice my size,*
-she almost added.
-All of a sudden she felt tired,
-as if her bones were made of concrete.
+she almost added but didn't.
+Bots weren't the only ones infected with malware during the war,
+and talking about her visions with anyone---even Aunt Naggie---would mean
+admitting to herself that there was something in her head that didn't belong there.
 
-Something in her expression caught Aunt Naggie's eye.
+But something in her expression caught Aunt Naggie's eye.
 She put her hand on Iffy's forehead.
-"Just be still," she said,
+"Just be still," she shushed,
 stern and worried at the same time.
 After a moment she took her hand away,
 but her expression didn't change.
-"How about you get started and I'll make us both some tea?"
+"There's no fever.
+How about you start getting us ready and I'll make us something quick to eat?"
 
 "Tea would be nice,"
 Iffy said gratefully.
@@ -1830,14 +1833,15 @@ and the torn end had ripped open an unlucky sailor's cheek.
 
 She scrambled up the ladder that connected the engine room to the deck.
 "Ready here,"
-she called,
-panting.
+she called.
 
 Aunt Naggie coiled the last stayline and shoved it into a canvas bag,
 then shoved the bag into a storage locker that doubled as a bench
 and dogged the seat-lid shut.
 "That's all for me too."
-She thumped the cabin wall with her fist.
+She handed Iffy half a sandwich---curried egg---and waited
+the ten seconds it took her foster daughter to wolf it down
+before thumping the cabin wall with her fist.
 "Good when you are, Jack," she shouted,
 businesslike as she always was when something needed to be done.
 
@@ -2315,9 +2319,9 @@ She would normally have let the engine run for a few minutes to test it,
 but the thought of Wales not saying anything if she did
 made her decide not to.
 
-Aunt Naggie made curry and tea for dinner.
+Aunt Naggie made noodles for dinner.
 "Just for you," she whispered,
-placing a steaming mug of sweetened dark tea in front of her foster daughter
+spooning a bit of powder onto her foster daughter's serving
 when Uncle Jack's back was turned
 and then tucking the jar back into her apron.
 The smell of synthetic coconut milk,
@@ -5000,8 +5004,7 @@ All she could do was whimper.
 "Iffy, please."
 Strong hands that smelled faintly of soap and onions forced her jaws apart.
 She gagged as a finger pushed something dry and powdery into her mouth.
-It tasted bitter,
-like tea,
+It tasted spicy,
 which made just as little sense as everything else that was going on.
 The slosh of water that followed made her splutter.
 She tried to spit it out,
@@ -5028,13 +5031,14 @@ it left a streak of red.
 Iffy let out a shaky breath.
 "Glad you din't."
 She worked her tongue in her mouth.
-"Are these tea leaves?"
+"Is this---is this curry powder?"
 
 Aunt Naggie wiped her own face and nodded.
 "Sort of.
-There's some medicine in 'em.
-Ignacio---the fella you met today---he's been gettin' it for me.
-For you, I mean."
+There's medicine in it.
+Ignacio---the fella you met today---he's been makin' it for me.
+For you, I mean.
+Gets it to me through Mrs. Sandhu."
 
 A chill ran down Iffy's spine.
 "Medicine for what?"
@@ -5065,7 +5069,7 @@ it was like she'd always known.
 
 Her foster mother gave her one last hug.
 "You go back to sleep," she said as she stood,
-the precious jar of tea clutched in her hand.
+the precious jar of curry powder clutched in her hand.
 "We'll talk on this some more t'morrow."
 
 Iffy nodded,

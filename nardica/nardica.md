@@ -3178,6 +3178,8 @@ for their drones' failure to record anything.
 
 Even as they watched,
 the Zillion ship blurred and vanished as its camo reformed.
+The faint spiderweb tracery of her rigging glinted in the sun,
+then it too was gone.
 "Why'd they---"
 Iffy felt lightheaded.
 "Why'd they kill 'em all like that?"
@@ -3205,25 +3207,30 @@ Aunt Naggie hugged her tight,
 rocking her from side to side.
 "Oh, sweetie..."
 For a moment Iffy thought she heard another voice saying, "I love you so much,"
-but then there were just her tears and the hum of the engines
+but then there were just her sobs and the hum of the engines
 and the muffled sound of the uncaring sea.
 
 ## Chapter 4
 
-The spotter reached them half an hour later.
-She had left Aunt Naggie in the galley
-to sit on the thwart at the *Guinevere*'s stern
-and let gray thoughts chase each other aimlessly in her head.
-She half-hoped that Wales would join her
-and tell that her he'd had no choice,
-that it had been them or the Zillion ship.
-Instead,
+Her tears eventually stopped,
+as tears always do.
+After one last hug,
+Iffy left Aunt Naggie in the galley
+and sat on the thwart at the *Guinevere*'s stern,
+gray thoughts chasing each other aimlessly in her head.
+She half-hoped that Wales would sit with her so that she would have someone to be angry at,
+but instead,
 he disappeared into his cabin,
 ignoring Uncle Jack's angry questions about
-what the hell a civilian was doing with a gram of antimatter in his affin' luggage.
+what the hell a civilian was doing with a bomb in his affin' luggage.
+*Wait 'til you find out about the other ones,*
+she thought dully.
 
-Iffy stood and shaded her eyes,
-searching the sky until she was the wispy smudge of the spotter's gossamer wings.
+Sunk in misery,
+it took her a moment to realize that something was moving above the horizon.
+She stood and shaded her eyes,
+squinting against the dazzle from the waves
+until she was sure she was seeing the wispy smudge of a spotter drone's gossamer wings.
 Why was it approaching from the west?
 Halley lay east of them.
 Unless---
@@ -3231,7 +3238,7 @@ Unless---
 sprinting toward the pilot house.
 "Uncle Jack,
 it's the Zillions!
-They found us again!"
+They're comin' back for us!"
 
 "Hang on a sec,"
 her uncle said to a face on to the control panel as she charged in.
@@ -3240,9 +3247,9 @@ her uncle said to a face on to the control panel as she charged in.
 "Uncle Jack," she panted.
 "There's a Zillion spotter comin' in!"
 
-"That ain't the Zillions,"
+"That ain't Zillion,"
 her uncle said scornfully.
-"That's one of ours outta Rothera."
+"It's outta Rothera."
 He jerked his thumb at the face on the screen.
 "Lady here says they been lookin' for us.
 Or leastways,
@@ -3253,26 +3260,44 @@ Iffy looked from her uncle to the screen.
 An old woman smiled back.
 Her brown face was lined with a century of wrinkles,
 and what was left of her hair was plastered against her scalp
-in a style that Iffy had only ever seen in her homework.
+in a style that Iffy had only ever seen in homework for her history class.
 "Hello,"
-she said.
+the face said.
 "You must be Miz Kwan.
 I'm Doctor Johel.
 I'm looking forward to meeting you."
 
-They sailed into Rothera two days later.
+They reached Rothera two days later.
 The spotter stayed traced lazy circles overhead,
-its insect-eye cameras and microscopic core ceaselessly searching for signs of more trouble.
-Every time Wales emerged for a few minutes to get some food or use the toilet,
-Uncle Jack made a point of asking whether "his" satellites were doing the same.
-Wales just shook his head and retreated to his cabin.
+its insect-eye cameras and microscopic core searching ceaselessly for signs of more trouble.
+Each time Wales emerged from his cabin for a few minutes to get some tea or use the toilet,
+the spotter drifted closer to the *Guinevere*
+like a gull that had spotted someone eating a sandwich.
+Wales paid no attention to it,
+and little more to Iffy and her foster parents.
+"Good morning",
+"excuse me",
+and "no thank you"
+were all he seemed to have the energy to say.
 
-A pair of low-slung launches intercepted them just as Rothera took shape on the horizon.
-Other than that,
-they didn't see a single other vessel.
+They threaded their way through the narrow passage
+between Adelaide Island and the Antarctic Peninsula,
+past mats of tweaked seaweed left over from someone's failed attempt to start a sea farm,
+and there it was:
+Rothera.
+The capital of Australia's Antarctic territory was ten times the size of Halley,
+home port for the fleet that glared across the Drake Passage at the southernmost tip of South America
+and the Zillion marauders who called it home.
+
+A pair of low-slung launches intercepted them as they rounded the rocky point
+where the scavenged remains of the original research station still stood.
+Normally bustling with warships, freighters, fishing boats, tugs, and water taxis,
+Rothera's harbor seemed unnaturally quiet.
 "Governor's orders," Aunt Naggie told Iffy,
-passing her a hard-boiled egg.
-"That's what Jack says---everyone's been told to stay outta the way 'til we're berthed."
+passing her a hard-boiled egg liberally dusted with curry powder.
+"That's what Jack says---everyone's been told to stay outta the way 'til we tie up.
+Seems we scared 'em,"
+she added bleakly.
 
 Her meager lunch inside her,
 Iffy went back on deck.

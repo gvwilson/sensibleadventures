@@ -3115,21 +3115,46 @@ Uncle Jack said quietly.
 
 But no---there she was, still afloat!
 She wasn't a jelly dredger or a cargo hauler.
-She had been built to withstand gas attacks and swarms of tweaked wasps
+She had been built to withstand gunfire and scalpel mines
 and the storms of the great southern ocean.
-She bobbed and wallowed,
+She bobbed and wallowed like an oversized bath toy,
 her deadly grace gone,
-but she stayed afloat.
+but as the water that had tried to claim her sluiced off her sides,
+she turned toward the *Guinevere*.
+Twin jets of white steam spurted from her stern
+as her engines briefly lifted above the waves,
+and then the *Taroona* surged forward once again.
 
-And then a streak out of nowhere slammed into her.
-Yellow-red flame jetted from her side.
-Another hit, and another,
-these two close to the waterline,
-and then something exploded inside the ship
-as the thunder from the first explosion reached them.
+"Crap,"
+Wales said under his breath.
+
+Uncle Jack said something louder and much worse.
+"I knew you were trouble," he snarled at Wales
+as he reached for the control panel.
+
+Wales caught his wrist.
+"What are you doing?"
+
+"Cutting the affing engines!"
+Uncle Jack yanked his arm free,
+his face as red as Iffy had ever seen it.
+"You can't sink 'em and we can't outrun 'em
+so the only thing we got left is to run up the white affin' flag
+and hope you're all they take!
+And if you ever lay hands to me again on *my* ship,
+I'll---"
+
+*BOOM!*
+Without warning,
+yellow-red flame jetted from the *Taroona*'s side.
+Iffy shrieked as a second barely-seen streak hit the Aussie ship,
+then a third,
+these two just above the waterline as the *Taroona* heeled sideways under the force of the blows.
+Something exploded inside the ship,
+kicking her sideways like a child's toy.
 
 "Ya killed 'em,"
-Iffy whispered unbelievingly.
+Iffy whispered unbelievingly as the fearsome raider broke in two.
 She dragged her sleeve across her face.
 "Ya killed 'em all.
 Why'd ya do that?"
@@ -3144,37 +3169,40 @@ Uncle Jack said flatly,
 pointing out the window.
 
 Five hundred meters away,
-another ship had appeared out of nowhere,
-its camo briefly disrupted by the missiles it had just launched.
+a ship had appeared out of nowhere,
+its camo briefly disrupted by the missiles it had launched.
 Where the *Taroona* and the *Guinevere* were metal,
-this one was shaped out of tweaked bamboo.
-Her sails were a confusion of odd geometries,
+the newcomer was made of tweaked bamboo.
+Her dozen sails were a tangle of fractal geometry
 too complex to be managed or even really understood by a merely human mind.
 Her green and yellow pennant
-and the words *Este mundo é de deus* painted on her side
+with the slogan *Este mundo é de deus*
 proclaimed to all who she was,
-while her guns and missile racks said just as plainly what she had been built for:
+while her railguns and missile racks said just as plainly what she had been built for:
 war.
 
 "Zillions..."
 Iffy whispered.
-Everyone knew those words---knew them and feared them.
+Everyone knew the words on that flag---knew them and feared them.
 Brazil had fought beside the rest of humanity when the machines rebelled,
 but had turned on their allies once the bots were defeated.
-"Este mundo!" they screamed
-in books and sims.
+"*Este mundo!*" they screamed in sim after sim,
+always scheming,
+always the villains.
 "This world is God's!"
 The earth's self-appointed defenders would sacrifice everything
 to undo the damage humanity had done to the Earth.
 When a shaft in a coal mine collapsed
-people blamed Zillion fanatics intent on driving the world back into the stone age.
+people blamed Zillion saboteurs intent on driving the world back into the stone age.
 When a mutant fungus turned the contents of a greenhouse into sludge,
-people demanded that the governors *do* something.
+all its owner had to do was say, "It must have been them!"
+for people to demand that the governors *do* something.
 And when a Zillion trader was brave enough or stupid enough
 to go more than a block or two from Halley's market
 and woke up in hospital,
 everyone just nodded straight-faced at the Marines' equally straight-faced apologies
-for their drones' failure to record anything.
+for the inexplicable glitch in their drones' recording
+that left them unable to identify anyone who might have been involved.
 
 Even as they watched,
 the Zillion ship blurred and vanished as its camo reformed.
@@ -3184,15 +3212,28 @@ then it too was gone.
 Iffy felt lightheaded.
 "Why'd they kill 'em all like that?"
 
-"They saw a shot and took it,"
+"Because they could,"
 Wales replied wearily.
+"There's no way they could get past the *Taroona*'s defenses when she was running at spec,
+but knocked off balance the way she was..."
+He shrugged.
+"They saw a shot---they took it."
 
 "A shot *you* gave 'em,"
 Uncle Jack said accusingly,
-quick as always to make it someone else's fault.
+quick as always to make sure trouble was someone else's fault.
 "There's gonna be hell to pay for this."
+He slapped at the control panel to put the *Guinevere* in a tight turn---even he wouldn't leave people in the water.
 
-Suddenly Iffy needed to be somewhere else---anywhere else.
+But then something flashed brighter than the sun in ragged metal that had been the *Taroona*'s stern.
+A low rumble swept across the *Guinevere*,
+whitecaps chasing each other in its wake.
+Uncle Jack swore again,
+and for a moment Iffy thought he was going to hit Wales.
+Instead,
+he slapped the control panel to turn them back toward Rothera.
+
+All of a sudden Iffy needed to be somewhere else---anywhere else.
 She threw open the door of the pilot house and stumbled out into the endless hard light of the southern summer.
 Her feet took her to the galley on auto-pilot.
 She pulled open the hatch and fell into her foster mother's arms.
@@ -3268,10 +3309,10 @@ I'm Doctor Johel.
 I'm looking forward to meeting you."
 
 They reached Rothera two days later.
-The spotter stayed traced lazy circles overhead,
+The spotter traced lazy circles above them the whole way,
 its insect-eye cameras and microscopic core searching ceaselessly for signs of more trouble.
 Each time Wales emerged from his cabin for a few minutes to get some tea or use the toilet,
-the spotter drifted closer to the *Guinevere*
+the gossamer-winged drone drifted closer to the *Guinevere*
 like a gull that had spotted someone eating a sandwich.
 Wales paid no attention to it,
 and little more to Iffy and her foster parents.

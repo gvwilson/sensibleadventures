@@ -3223,15 +3223,30 @@ He shrugged.
 Uncle Jack said accusingly,
 quick as always to make sure trouble was someone else's fault.
 "There's gonna be hell to pay for this."
-He slapped at the control panel to put the *Guinevere* in a tight turn---even he wouldn't leave people in the water.
+He slapped at the control panel to put the *Guinevere* in a tight turn.
 
-But then something flashed brighter than the sun in ragged metal that had been the *Taroona*'s stern.
-A low rumble swept across the *Guinevere*,
-whitecaps chasing each other in its wake.
+"Wait---no!
+We can't go back for them."
+Wales reached for the panel.
+
+Uncle Jack slapped his hand away.
+"I'm not leavin' 'em in the affin' water!"
+
+Wales shook his head.
+"It's too late.
+Look."
+There,
+on the panel in front of them,
+another pink blotch was rising from the ocean floor.
+It churned and reformed as the *Guinevere*'s simple-minded sonar tried and failed
+to make sense of a maelstrom of bubbles,
+and then it reached the surface
+and the broken remains of the *Taroona* disappeared.
+
 Uncle Jack swore again,
 and for a moment Iffy thought he was going to hit Wales.
 Instead,
-he slapped the control panel to turn them back toward Rothera.
+he swiped his hand across the control panel to turn them back toward Rothera.
 
 All of a sudden Iffy needed to be somewhere else---anywhere else.
 She threw open the door of the pilot house and stumbled out into the endless hard light of the southern summer.

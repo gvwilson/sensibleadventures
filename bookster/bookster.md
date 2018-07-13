@@ -1,19 +1,16 @@
-<!-- start: 2017-10-21 -->
-<!-- target: 72000 -->
-<!-- deadline: 2017-12-20 -->
 # The Bookster's Apprentice<br>Greg Wilson
 
 *Take a squat pyramid of rock, four gallops square and two gallops
 tall.  Lift it into the air, then tilt it back like an old man looking
-up at a rooftop, so that its leading edge rises gently to the central
-peak, while its stern drops so steeply that only goats, birds, and a
-small village called Aft Landing can find a foothold.  Put a town of
-some ten thousand souls on its bow, and smaller towns (not
+up at a passing cloud, so that its leading edge rises gently to the
+central peak, while its stern drops so steeply that only goats, birds,
+and a small village called Aft Landing can find a foothold.  Put a
+town of some ten thousand souls on its bow, and smaller towns (not
 villages–their inhabitants are quite definite about that) on its port
-and starboard flanks.  Bash its underside against ordinary, stationary
-mountains until it's ragged, and let rain, snow, and windblown sand
-weather it for a few thousand years as it travels around the world.
-That is Avaunt.*
+and starboard flanks.  Bash its underside against the peaks of a few
+ordinary earth-bound mountains, then let rain, snow, and windblown
+sand weather it for a few thousand years as it travels around the
+world.  That is Avaunt.*
 
 *Now put it in motion.  Eight months north from Mau Ngapcha to Gandan
 Berth, with half the world's chocolate in its warehouses, along with
@@ -22,41 +19,42 @@ on the ground, while merchants from all over northern Cherne elbow
 past each other to make bargains, and then another eight months in the
 air with grain, cider, wool, and steel for the south.*
 
-*When the Pilots ruled the world, Avaunt roamed across the world.
-After they destroyed themselves, it was taken over by wild-eyed
-tinkers with a fascination for the Pilots' strange machines.  They
-called themselves the Hett, and as the years passed, the people who
-lived below them regarded them with growing suspicion.  Stories spread
-of the Hett's hoarded wealth, and of the plots they must be hatching
-to one day rule the world as the Pilots had.*
+*When the Pilots ruled the world, Avaunt roamed the world over.  After
+they destroyed themselves, it was taken over by wild-eyed tinkers with
+a fascination for the Pilots' strange machines.  They called
+themselves the Hett, and as the years passed, the people who lived
+below them regarded them with growing suspicion.  Stories spread of
+the Hett's hoarded wealth, and of the plots they must be hatching to
+one day rule the world as the Pilots had.*
 
 *Eventually, an ambitious young prince with few prospects at home
 decided to do more than mutter.  The next time Avaunt landed at Gandan
 Berth, the rag-tag army he had recruited attacked.  Most of the Hett
-were slain outright.  The rest were driven off the mountain with
-nothing but the clothes on their backs.  It was barely spring, and
-bitterly cold. Few survived.*
+were slain.  The rest were driven off the mountain with nothing but
+the clothes on their backs.  It was barely spring, and bitterly
+cold. Few survived.*
 
-*The Hett's storied wealth turned out to consist of scrap metal and
-books no one knew how to read.  Undeterred, the prince retitled
-himself the Captain of Avaunt, made his lieutenants bosuns, and gave
-the Hett's houses and farms to his followers.  Most of them smoked,
-drank, or gambled away their gifts, but the rest settled down to
-trade, raise families, and watch the world slip past beneath them.*
+*The Hett's storied wealth turned out to consist of goats, scrap
+metal, and books no one knew how to read.  Undeterred, the prince
+retitled himself the Captain of Avaunt, made his least untrustworthy
+followers his bosuns, and gave the Hett's houses and farms to rest.
+Most of them smoked, drank, or gambled away their gifts, but the rest
+settled down to trade, raise families, and watch the world slip past
+beneath them.*
 
 *Now, look closer.  There, in Starboard Town.  Five hundred years have
 passed; it is Redsday, the 11th of Peridot, 1261.  A girl is running
 for her life.  She just felt the mountain shake for the first time in
 centuries, but that's not what she's afraid of.  She's afraid of what
-the boy chasing her will do to her if he gets his hands on her.*
+the boy chasing her will do to her if he catches her.*
 
 Erileine raced down Slip Street twenty strides in front of her
 pursuer.  She paid no attention to the frightened looks on the faces
-of people she flew by.  "What just happened?" they asked one another.
-The ground had shaken–had there been an avalanche?  But then why
-hadn't there been any noise?  No one had noticed yet that the sun lay
-fifteen degrees away from where it had been.  No one had realized that
-for the first time since the Pilots fell, the flying mountain had
+of the people she hurtled by.  "What just happened?" they asked one
+another.  The ground had shaken–had there been an avalanche?  But then
+why hadn't there been any noise?  No one had noticed yet that the sun
+lay fifteen degrees away from where it had been.  No one had realized
+that for the first time since the Pilots fell, the flying mountain had
 changed course mid-flight.
 
 Past Donaien and Armaend's; past Fraederiq's house, where his father
@@ -69,15 +67,16 @@ brightness of the morning, praying that Mamaere Mayeule hadn't left
 any barrels out to air.
 
 Fraederiq was only a dozen strides behind her when Erileine burst into
-the little courtyard behind the tavern.  She jumped over a cat, banged
-her knee against a second without stopping, and pulled herself over
-the stone wall at the rear of the courtyard.  The mountain wasn't
-quite as steep there as it was around most of Starboard Town.  It was
-one of those places children were definitely not supposed to play,
-which meant that she knew it as well as her tongue knew her teeth.
-There was a narrow ledge thirty strides below that led to her
-papaere's cottage.  She'd be safe if she could get there.  Safe for
-the moment, anyway, and she could worry about what to do later then.
+the little courtyard behind the tavern.  She startled a cat, jumped
+over a stool, banged her knee against a second without stopping, and
+pulled herself over the stone wall at the rear of the courtyard.  The
+mountain wasn't quite as steep there as it was around most of
+Starboard Town.  It was one of those places children were definitely
+not supposed to play, which meant that she knew it as well as her
+tongue knew her teeth.  There was a narrow ledge thirty strides below
+that led to her papaere's cottage.  She'd be safe if she could get
+there.  Safe for the moment, anyway, and she could worry about
+afterward once she was she sure had one.
 
 Fraederiq hardly broke stride as he flung himself over the wall behind
 her.  Erileine glanced over her shoulder as she slipped and slid down
@@ -87,8 +86,8 @@ going to be close…
 
 "Whoa!" she cried, almost sliding past the ledge before her sturdy
 boots found purchase.  She grabbed hold of a strangle vine for
-balance, yanked her arm away before the hungry plant could get a grip
-on her, and quickstepped along the narrow shelf.
+balance, yanked her arm away before the hungry plant could wrap itself
+around her, and quickstepped along the narrow shelf.
 
 Fraederiq slid to a halt two heartbeats behind her.  A trickle of
 bloody spit made a dark wet track through the dust on his face.  "You
@@ -115,7 +114,7 @@ and tried to twist free, her shirt pulling free of her trousers as
 Fraederiq yanked her back.
 
 Fraederiq's ugly grin widened.  He let go of the roots he was holding
-and pulled his hand back for a blow.
+and pulled his hand back for a punch.
 
 As he did so, the mountain shuddered again.  Fraederiq's eyes widened
 in sudden terror as he lost his balance.  He let go of Erileine and
@@ -130,12 +129,12 @@ Erileine clung to the mountain.  "No, no, no…" she moaned, squeezing
 her eyes shut so hard that speckles swirled beneath their lids.  Her
 arms tried to drive her fingers into the rock, to root her in the
 mountain so that she wouldn't fall too.  This couldn't be happening.
-Fraederiq couldn't be gone, not like that.  How could Fraederiq just
-*fall*?  And–and why hadn't she reached out to grab him?
+Fraederiq couldn't be gone, not like that.  How could he just *fall*?
+And why hadn't she reached out to grab him?
 
 She bit her lip, her body shuddering as she tried to control her sobs.
 She had to tell someone.  She had to get out of there before the
-mountain shook again.
+mountain shook again.  And all of a sudden she needed to pee, badly.
 
 She took a deep, unsteady breath and forced her hands to relax, only
 then realizing that they were sticky with blood.  She had scraped her
@@ -143,7 +142,8 @@ palms and fingers raw on the mountain.  Her forehead too–she must have
 ground her face against the cliffside.
 
 She turned her head to see how far it was to the end of the ledge.
-Twenty strides, maybe less.  She could do that.  She had to.
+Twenty strides, maybe less.  She couldn't do it.  She couldn't move,
+but she had to.
 
 She stood there, the wind of the mountain's passage ruffling her hair,
 until she stopped shaking.  With her face and chest pressed against
@@ -159,14 +159,14 @@ her breakfast rose in her throat.
 
 A minute later, she spat in a vain attempt to clear the taste from her
 mouth, then wiped dust, sweat, blood, and tears from her face with the
-tail of her shirt.  What–Pilots and saints, what was she going to tell
-Fraederiq's father?
+tail of her shirt.  Saints and their creations, what was she going to
+tell Fraederiq's father?
 
 Erileine stumbled shakily toward her papaere's cottage.  Pine branches
 slapped her face in silent reproach.  She had been right there.  Why
 hadn't she just put out her hand?  He might have pulled her off the
 mountain with him, but that would be better than– better than– She
-doubled over, heaving.
+doubled over, heaving again.
 
 Vurt was on his verandah, cursing in a flat monotone when his
 granddaughter stumbled out of the trees.  "Eri!" he exclaimed,
@@ -196,8 +196,8 @@ mountain?"
 
 "I don't know," Vurt said grimly.  "But it knocked me right over.  And
 look." He pointed at the sky.  The sun was almost hidden behind the
-roof of his cottage.  "We've changed course.  I'm guessing it's about
-a quarter of an arc.  If your paere didn't still have my
+roof of his cottage.  "We're off course.  I'm guessing it's about a
+quarter of an arc.  If your paere didn't still have my
 weeping-be-damned sextant, I'd know better." His face darkened.  "Now,
 tell me what happened."
 
@@ -220,7 +220,7 @@ run up the stairs that led from Vurt's cottage to the lower end of
 Starboard Town's single street.
 
 Vurt caught her arm.  "Hang on a heartbeat.  You can't go up there
-looking like that–you'll give your mother a fright.  Go inside and
+looking like that–you'll give your maere a fright.  Go inside and
 clean up a bit.  There's water in the jug." He pushed his
 granddaughter toward the cottage's front door, then stooped over to
 pick up his crossbow, wincing as his knee cracked.
@@ -238,9 +238,9 @@ loaded crossbow in his hands, and the polished teak fangs of the
 ankle-biter sticking out of the worn leather pack on his back.
 "Starting a war?"
 
-Vurt's frown turned to an angry.  "Funny girl.  I'd rather have it and
-not need it than need it and not have it, that's all.  Now come on."
-He turned toward the stairs.
+Vurt's frown turned to an angry scowl.  "Funny girl.  I'd rather have
+it and not need it than need it and not have it, that's all.  Now come
+on."  He turned toward the stairs.
 
 Erileine hesitated.  "What's wrong?" Vurt asked.
 
@@ -290,32 +290,32 @@ front door.
 
 She stood blinking for a moment in the sharp light of the mountain
 morning.  It was earlier than she'd thought–Slip Street was almost
-empty.  She was tempted to go back to bed, or to sit and watch her
-father carve, but then she heard a rooster crow from Armaend and
-Donaien's yard.  Her mother would be up soon, and would undoubtedly be
-able to find chores for an idle child.  If her sister Queçenne was the
-only one in the house…  She took a deep breath.  Wood smoke, the tang
-of pine, and a hint of spring–it was a fine day for her sister to do
-chores.
+empty.  She was tempted to go back inside to sit with her father and
+watch him carve, but then she heard a rooster crow from Armaend and
+Donaien's yard.  Wood smoke and the ever-present tang of pine trees
+hung in the spring air.  Her mother would be up soon, and would
+undoubtedly think it was a fine day for doing chores.  Erileine
+grinned.  If her sister Queçenne was the only one in the house to do
+them, so much the better.
 
 Slip Street ran the length of Starboard Town, as crooked as a dropped
 piece of string.  It was paved from top to bottom with rounded gray
 cobblestones, each as large as Erileine's two hands put together.
-Weeding them was the bosun's favorite punishments for minor offenses,
-which meant that Erileine had pulled up more burlicks and snowdelions
-than most of Starboard Town's children, invariably muttering, "But I
-didn't mean to," under her breath.
+Weeding between them was the bosun's favorite punishments for minor
+offenses, which meant that Erileine had pulled up more burlicks and
+snowdelions than any two of Starboard Town's other children,
+invariably muttering, "But I didn't mean to," under her breath.
 
 The houses crowded shoulder-to-shoulder on either side of the street
 had steep roofs for the snows of northern winters and large shuttered
 windows to let in the breeze during the hot southern summers.  Their
-whitewashed walls were spackled with brightly-painted doors, each
-unique: orange and gray, blue and red, a diamond pattern of black on
-gold.  Wooden soldiers, each one half Erileine's height, stood guard
-beside the doors in uniforms sewn from scraps and rags.  Every
-storyteller on the mountain had a different explanation for the
-custom; all anyone really knew was that they made them because their
-grandparents had.
+whitewashed walls held brightly-painted doors, each unique: orange and
+gray, blue and red, a diamond pattern of black on gold.  Wooden
+soldiers half Erileine's height stood guard beside the doors in
+matching uniforms sewn from scraps and rags.  Every storyteller on the
+mountain had a different explanation for the custom; all anyone really
+knew was that they made them because their grandparents had, and their
+grandparents before them.
 
 Above the narrow street flew the town's kites.  The townspeople
 launched them when the mountain left Mau Ngapcha, with wishes written
@@ -339,7 +339,7 @@ to Mamaere Mayeule's.
 
 Vaszlav was just starting to set up when Erileine arrived.  "Clear
 day, young *sra*," the old Hett tinker puffed, slipping his heavy pack
-off his shoulders and touching his hairline respectfully.
+off his shoulders and ducking his head respectfully.
 
 "'Day, Vaszlav," Erileine replied.  "Did you find the other Farberre
 book?"
@@ -361,9 +361,9 @@ second Hett had come up behind her.  "Clear day," Erileine said
 politely.
 
 The Hett nodded.  "And to you." He was younger than Vaszlav–perhaps in
-his twenties, or early thirties.  Where the older Hett was wiry, the
+his twenties or early thirties.  Where the older Hett was wiry, the
 newcomer looked as sturdy as a cart ox, with the top two buttons of
-his shirt undone, and a sleeveless vest over top of it instead of the
+his shirt undone and a sleeveless vest over top of it instead of the
 full coat that Vaszlav wore no matter what weather the mountain was
 flying through.  His curly hair and dark eyes were as unremarkable as
 his homespun clothes, but there was a stillness about him that
@@ -386,19 +386,20 @@ Jaromir was.  Bored, Erileine counted the cobblestones beneath her
 feet.  Two, four, six… eighteen, twenty–Slip Street was twenty
 cobblestones wide.  She frowned.  How many there were on the whole
 street?  Her papaere or the bookster would have thought it would be
-fun to figure it out.  Not the townspeople around her, though–they
-would just roll their eyes and trade amused looks with each other.
+fun to figure it out with her.  Not the townspeople around her,
+though–they would just roll their eyes and trade amused looks with
+each other.
 
 Or worse.  Her stomach sank as she saw Fraederiq and Niquolas coming
 toward her.  The three of them had been friends when they were
 younger, but then Fraederiq's mother had run off, intoxicated (some
 said) by the whispered poetry of a Bantangui cinnamon merchant, and
-weary (said others) of her husband's endless arguments.  Now sixteen,
-Fraederiq hadn't just grown taller and stronger: he'd grown angry too,
-angry at the whole world.  As always, Niquolas had followed suit,
-rolling up his sleeves the way Fraederiq did, throwing stones when
-Fraederiq threw them, and sneering at whatever stirred the older boy's
-displeasure that day.
+weary (said others) of her husband's endless dissatisfaction with
+everything and everyone.  Now fifteen, Fraederiq hadn't just grown
+taller and stronger: he'd grown angry too, angry at the whole world.
+As always, Niquolas had followed suit, rolling up his sleeves the way
+Fraederiq did, throwing stones when Fraederiq threw them, and sneering
+at whatever stirred the older boy's displeasure that day.
 
 As the only other child their age in Starboard Town, and with a head
 full of odd facts, Erileine was resigned to being their favorite
@@ -424,11 +425,11 @@ Fraederiq's eyes narrowed.  "Who's he?" he asked, pointing at Jaromir.
 "Huh.  Another stupid newcomer.  My paere says there's too many new
 Hett on the mountain."
 
-Erileine shrugged again.  Fraederiq's father, Gaeston, said many
-things, few of them kind.  She was saved from having to think of
-another noncommittal answer by the ringing of Vaszlav's chime.  "Clear
-day, good morning, *mingala ba*," he said, as he always did.  "Please,
-good *sra*, how many I help you today?"
+Erileine shrugged again.  Fraederiq's father Gaeston said many things,
+few of them kind.  She was saved from having to think of another
+noncommittal answer by the ringing of Vaszlav's chime.  "Clear day,
+good morning, *mingala ba*," he said, as he always did.  "Please, good
+*sra*, how may I help you today?"
 
 Erileine cast a quick eye over the odds and ends on display, seeing
 nothing she hadn't seen before.  As she turned to go, Fraederiq caught
@@ -442,7 +443,7 @@ you think of that barrette?" he asked.
 good?  My paere says a lot of what the Hett sell is junk.  I don't
 want to waste good money on junk."
 
-Bemused, Erileine looked at the little hair clip.  It didn't look like
+Bemused, Erileine looked at the little barrette.  It didn't look like
 much of anything to her, just two fingers of polished wood held
 together by a bent tin spring.  "I guess it's all right to me."
 
@@ -456,7 +457,7 @@ Erileine blinked.  "Um… I don't know," she said weakly.
 Fraederiq scowled.  "Come on.  She's your sister, you ought to know."
 
 Erileine shrugged helplessly.  Sharing a house with Queçenne didn't
-mean she knew how her sister *thought*.  "I don't know," she repeated.
+mean she knew how her sister thought.  "I don't know," she repeated.
 "Why don't you ask her?" *Or jump off the mountain,* she added to
 herself.  The thought that Fraederiq might care what Queçenne liked
 and didn't like was deeply unsettling.
@@ -497,39 +498,48 @@ going to pay a fortune for them, you'll see."
 words.  "Perhaps we could take a look at some before making any
 agreement?"
 
-"Hells, keep the damned thing." Fraederiq tossed the barrette at
-Vaszlav.
+As Niquolas opened his mouth to reply, Fraederiq cut in.  "Why? Do you
+think our work isn't good enough for you?"
 
-As quick as a cobra, Jaromir snatched it out of the air and put it
-back in its place on the stall.
+The burly Hett shrugged.  "How can I know until I have seen them?"
 
-Erileine caught her breath.  What Fraederiq had done had been rude,
-but what Jaromir had done had been a challenge, and Hett didn't
-challenge Avauntois, not if they knew what was good for them.
+"Well, they're better than most of the junk *you're* selling!"
+Niquolas protested.
 
-She glanced at Fraederiq, expecting to see the glare she had been on
-the receiving end of so many times herself.  Instead, the corner of
-Fraederiq's mouth had curled up.  "Nice catch," he said.  Without
-another word he turned and walked away, whistling.
+The Hett shrugged again.  "Then perhaps we should be more careful in
+general."
 
-Erileine's heart sank.  She knew that whistle.  It meant that
-Fraederiq had a plan, and that was never good news.
+Erileine caught her breath.  Hett didn't talk that way to Avauntois,
+not if they knew what was good for them.
+
+Fraederiq scowled.  "Hells, keep the damned thing."  He tossed the
+barrette at Jaromir, deliberately throwing it too low to catch.  It
+bounced off the Hett's knee and fell to the cobblestones.  Without
+saying a word, Jaromir stooped to pick it up and replaced it on the
+stall's shelves.
+
+The corner of Fraederiq's mouth curled up.  "Nice catch," he said.
+Without another word he turned and walked away, whistling, with
+Niquolas hurrying along behind him.
+
+Erileine's heart sank.  She knew that look and that whistle.  They
+meant that Fraederiq had a plan, and that was *never* good news.
 
 ---
 
 Erileine spent the rest of the morning mending the bamboo fence that
-kept the rabbits out of her family's vegetable garden.  When the
-Hett's chimes sounded at noon to signal that his visit was over, she
-hung her hammer on the fence and squeezed into the narrow gap between
-her house and the one next to it.
+kept the rabbits out of her family's vegetable garden.  When Vaszlav
+rang his chimes at noon to signal that his visit was over, she hung
+her hammer on the fence and squeezed into the narrow gap between her
+house and the one next to it.
 
-The sweat on Erileine's face and arms chilled instantly in the cool
-shadows.  She inched toward Slip Street.  If she stopped just *here*,
-she could see Fraederiq's house without being seen herself.
+The sweat on her face and arms chilled instantly in the cool shadows.
+She inched toward Slip Street.  If she stopped just *here*, she could
+see Fraederiq's house without being seen herself.
 
-Vaszlav and Jaromir trudged past with their packs on their backs.  A
-heartbeat later, the door Erileine was watching opened.  Fraederiq
-stepped onto the street and set off after the two Hett.
+Vaszlav and Jaromir trudged past with their reassembled packs on their
+backs.  A heartbeat later, the door Erileine was watching opened.
+Fraederiq stepped onto the street and set off after the two Hett.
 
 "Great," Erileine muttered.  Now what was she going to do?  Tell the
 bosun that she didn't like the look Fraederiq had on his face three
@@ -542,10 +552,10 @@ Badette's bedraggled front garden.  Erileine's heart sank.  That was
 the shortcut to the upper goat pasture–Fraederiq was definitely trying
 to catch up with the Hett, out of sight of the rest of the town.
 
-"Afternoon, young bookster.  Shouldn't you be up at the captain's
-house?" The booming voice made Erileine jump.
+"Afternoon, young bookster.  Shouldn't you be up at the Captain's
+House?" The booming voice made Erileine jump.
 
-"Afternoon, bosun." She touched her fingers to his hairline in a
+"Afternoon, bosun." She touched her fingers to her hairline in a
 hurried salute.  "I'm, um, I'm mending the fence."
 
 The bosun raised his eyebrows.  "Really?  Looked to me like you were
@@ -555,10 +565,11 @@ standing in the middle of the street."
 me,* she thought bleakly.  "It's just, I think there's a problem."
 
 If Erileine hadn't sounded so miserable, the bosun wouldn't have
-believed her.  After all, this was the girl who once claimed that
-she'd been kidnapped by a pack of banana trolls.  But when Erileine
-mentioned Jaromir catching the thrown barrette, the bosun nodded.
-"Heard about that," he grunted.  "Damn cheeky of him."
+believed her.  After all, this was the girl who once claimed that she
+hadn't hung the laundry up to dry because she had been kidnapped by a
+pack of banana trolls.  But when Erileine mentioned Jaromir catching
+the thrown barrette, the bosun nodded.  "Heard about that," he
+grunted.  "Damn cheeky of him."
 
 "Yes, *sra*," Erileine said, not sure whether the bosun was referring
 to Fraederiq or Jaromir.
@@ -574,7 +585,7 @@ things?
 
 There was an even shorter shortcut to the pasture, one that involved
 scrambling up a near-vertical rock face near the pit where the
-villagers dumped the gleanings from their toilets.  Once at the top,
+villagers dumped the gleanings from their outhouses.  Once at the top,
 the bosun reached down, grabbed Erileine's wrist, and pulled her up
 like a sack of yams.  He tapped his finger to his lips, then slipped
 into the trees.  Erileine followed helplessly.
@@ -624,7 +635,7 @@ under your own sail, you will be chopping wood until your hands bleed.
 Understood?"
 
 "Yes, *sra*," Fraederiq said sullenly, touching his finger to his
-hairline.
+hairline grudgingly.
 
 The bosun pushed him away.  "Good.  Now be off with you."
 
@@ -692,9 +703,9 @@ explanations as there were stones, and as many complaints about the
 practice as there were Avauntois who would rather not have any Hett on
 the mountain at all.
 
-As a sop to the more outspoken among them, the captain had ordered a
+To quiet the angrier of his citizens, the captain had ordered a
 handful of homestones tested for magic.  When none was found, he
-banned them anyway, ordering a fine for a first offense, and expulsion
+banned them anyway, ordering a fine for a first offense and expulsion
 from the mountain for a second.  *And here I am looking at one*,
 Erileine thought.  She should have stuck to mending the fence.
 
@@ -703,24 +714,26 @@ Erileine thought.  She should have stuck to mending the fence.
 "Thank you, young *sra*," the Hett replied gratefully.  "Now, if you
 will excuse us?  We will be two days to Forecastle with these packs."
 
-"Sure.  See you in two weeks." She raised a hand in farewell.
+"Sure.  Safe journey." She half-raised a hand in farewell.
 
-Suddenly aware that she was going to be late for her lesson at the
-captain's house, Erileine walked quickly.  She jumped as a macaw
-squawked at her from a branch overhead, instantly angry at it for
-making her heart pound.  Stooping, she picked up a stone and threw it
-at the brightly colored bird.  "Go home," she said loudly.  The macaw
-squawked again and flapped away, wondering in its little bird mind why
-the trees smelled so strange and why the nights were so cold.  A few
-jungle creatures were always caught on the mountain when it left Mau
-Ngapcha.  Sometimes the townspeople caught them and sold them as pets
-or delicacies at Gandan Berth.  Better that than letting them starve
-or freeze to death, they told one another.
+She turned and walked back toward town, her pace quickening as she
+realized that she was going to be late for her lesson at the Captain's
+House.  She jumped as a macaw squawked at her from a branch overhead,
+instantly angry at it for making her heart pound.  Stooping, she
+picked up a stone and threw it at the brightly colored bird.  "Go
+home," she said loudly.  The macaw squawked again and flapped away,
+wondering in its little bird mind why the trees smelled so strange and
+why the nights were so cold.  A few jungle creatures were always
+caught on the mountain when it left Mau Ngapcha.  The townspeople
+caught them and sold them as pets or delicacies at Gandan Berth when
+they could.  Better that than letting them starve or freeze to death,
+they told one another.
 
-Erileine heaved a sigh of relief when she reached Slip Street.  People
-were stringing beans and weeding potatoes in the terraced fields on
-either side of town.  She waved hello to the few who noticed her, but
-didn't stop to chat.
+Erileine heaved a sigh of relief when she reached Slip Street, having
+half-expected Fraederiq to ambush her on the way.  People were
+stringing beans and weeding potatoes in the terraced fields on either
+side of town.  She waved hello to the few who noticed her, but didn't
+stop to chat.
 
 The Captain's House watched over Starboard Town from the top of Slip
 Street like a shepherd watching her flock.  The old captain had still
@@ -735,7 +748,7 @@ busy ecstasy.  Erileine paused at its front gate–the only iron gate in
 Starboard Town–to catch her breath.  As she reached for the latch, a
 meaty fist struck the side of her head.
 
-She yelped, staggering under the blow.  Strong hands grabbed her
+She yelped, staggering under the blow.  Strong hands took hold of her
 jacket and pulled her into the shadowed alley next to the garden wall.
 
 Erileine oophed as Fraederiq slammed her against the stone wall.  "You
@@ -754,17 +767,18 @@ to stick…  your nose… where it doesn't… belong?"  Fresh blows
 punctuated the sentence.
 
 "Let me go!  Let me go or I'll tell!" Erileine threw a desperate punch
-of her own.  He was as surprised as Fraederiq when it grazed the older
-boy's cheek.
+of her own.  She was as surprised as Fraederiq when it caught him in
+the eye.
 
-Fraederiq caught Erileine's wrist and drove Erileine's hand into her
+Fraederiq grabbed Erileine's wrist and drove Erileine's hand into her
 own face.  "Ow!  Oh, stop, Erileine!  Stop, please, you'll hurt
 yourself!" Again and again Fraederiq punched Erileine in the face with
-her own fist.  Hot tears stung Erileine's eyes.  She opened his mouth
+her own fist.  Hot tears stung Erileine's eyes.  She opened her mouth
 to yell for help.
 
-And without warning, the mountain lurched beneath them and Erileine
-shook herself free from Fraederiq and started to run.
+And without warning, the mountain lurched beneath them.  Fraederiq
+stumbled and fell to one knee.  Erileine yanked herself away and
+started to run.
 
 ---
 
@@ -787,11 +801,12 @@ better safe than sorry."
 
 "Safe from what?" someone asked.
 
-Vurt scowled.  "If I knew, I wouldn't be standing here, would I?"
+Vurt scowled.  "If I knew that I'd have brought enough for all of
+you."
 
-"Let's just keep our ideas to ourselves," the bosun said loudly,
-glaring at the crowd.  "And thank your favorite saints that we got off
-with nothing worse than sprained ankles and broken crockery."
+"Let's not all go crazy at once," the bosun said loudly, glaring at
+the old man.  "And let's just thank our favorite saints that we got
+off with nothing worse than sprained ankles and broken crockery."
 
 Erileine felt as though she was going to throw up again.  Before she
 could speak, someone spun her around and pulled her into a hug.  "Eri!
@@ -808,7 +823,7 @@ one was really hurt."
 "I wish that was true," Vurt said.  He caught the bosun's eye.
 
 The scowl fell from Uyves' face as Vurt's words sunk in.  "Quiet!" he
-bellowed.  "Quiet, dammit!"
+ordered.  "Quiet, dammit!"
 
 His tone accomplished what volume alone could not.  As the crowd fell
 silent, Vurt stepped forward to put his hand on Gaeston's arm.  "I'm
@@ -828,12 +843,12 @@ Without warning, Gaeston knocked Vurt's arm away.  "Hold on, there,"
 the bosun said sternly, grabbing Gaeston's sleeve.  "Just hold on.  It
 isn't *his* fault."
 
-"What the hells was my boy doing down by *your* place?" Gaeston
+"What the hells was my boy doing down by your place?" Gaeston
 demanded.
 
-"Never mind that," the bosun ordered.  "Get your climbing gear.
-Laeuc, Donaien–everyone, get rigged and get moving." With a speed born
-of many late-night searches for missing goats, the bosun quickly
+"Never mind that," the bosun ordered.  "Laeuc, Donaien–everyone, get
+your climbing gear and get moving." With a speed born of many
+late-night searches for missing goats, the townspeople quickly
 organized a search party.
 
 Erileine stood silently beside her mother, forgotten in the rush.  She
@@ -856,9 +871,9 @@ his palms, which were a startling pink.  In place of the Avauntois'
 boots, trousers, shirts, and colorfully-embroidered vests, he wore a
 tan ankle-length robe that he called a *deel*, a wide woven leather
 belt, and thick-soled sandals.  He had arrived in Starboard Town just
-after it left Mau Ngapcha four months ago with a note from the captain
-saying that he was to inspect and catalog the house's library.
-Erileine had become his apprentice three days later.
+after it left Mau Ngapcha four months ago with a note saying that he
+was to inspect and catalog the contents of the library in the
+Captain's House.  Erileine had become his apprentice three days later.
 
 As always, the expression on Razi's face was somehow cheerful and
 melancholy at the same time.  He dipped his head toward the bosun.  "I
@@ -946,38 +961,34 @@ thirsty before."
 Razi shrugged.  "Everything has its first time." He reached for the
 map, but the bosun stopped him.
 
-"Leave it here," Uyves said.  "Anything else *does* happen, we'll want
-to have another look."
+"Leave it here," Uyves said.  "If anything else happens, we'll want to
+have another look."
 
 He raised his voice so that it would carry to the crowd outside.
 "Captain's probably already figured out what's going on.  My bet is,
 Jack or one of the condors is already halfway here to tell us what's
 what.  'Til we know, there's nothing we can do, so I want you all to
 just go about your business.  Clean up what you can, fix anything
-that's broke…"  He paused a moment.  "I'll say the *tehanu* for
+that's broken…"  He paused a moment.  "I'll say the *tehanu* for
 Fraederiq tomorrow morning.  Anyone wants to add anything to the pyre,
 talk to Gaeston before then."
 
-At that, the crowd began to break up.  Erileine stared at the map.  The
+The crowd began to break up.  Erileine stood a moment longer and
+studied the map as she studied so many others in recent years.  The
 Brumosos curved across northern Cherne, then strode boldly down its
-east coast, past Praczedt and Thind to the long peninsula of Barra
-Bantang.  The blue line showing the mountain's usual course ran from
-Mau Ngapcha in the southeast to Gandan Berth in the northwest.  If
-Avaunt kept going northeast instead, through the Brumosos, they'd
-could reach the sea in a month.
+east coast through Praczedt to peter out in the long peninsula of
+Barra Bantang.  The blue line that showed the mountain's usual course
+ran from Mau Ngapcha in the southeast to Gandan Berth in the
+northwest.  If Avaunt went northeast instead, they would reach the sea
+in just a few weeks.
 
-But what if it turned again?  It could take them…anywhere.  The
-enormity of the thought dizzied her.  The Staircase Kingdom at the
-East Pole, or Garheim in the north, or even further, to Anuvatik–they
-could just keep flying forever.
+But what if it turned again?  It could go *anywhere*. The enormity of
+the thought dizzied her.  The Staircase Kingdom at the East Pole, or
+Garheim in the north, or even further, to Anuvatik–what was to stop
+them from wandering forever like the fabled Cursed Caravan, caught in
+its perpetual sandstorm in the depths of the Karaband?
 
-The thought made her mouth go dry.  Condors and griffins, cloudherds
-and the occasional wild-eyed balloonist–they could carry news and a
-few light luxuries up to the mountain, but not water.  Once the great
-cisterns that lay inside the mountain ran dry, they would be at the
-mercy of the rain and snow.
-
-She traced a line across the map with his finger east, past Sullair
+She traced a line across the map with her finger east, past Sullair
 and over the ocean.  What if Avaunt went all the way to the Worldrim
 and just kept going, past where the last stream fell forever into
 nothing, past the last rogue cloud blown far from its herd, and out
@@ -1337,7 +1348,7 @@ immediately hushed.
 Gaeston was the last to arrive.  In his hands he held a stuffed toy
 goat, a tiny pair of sandals whose soles had been worn thin by
 countless adventures in the village's gardens, and the embroidered
-shirt that Fraederiq had worn on his sixteenth naming day a few months
+shirt that Fraederiq had worn on his fifteenth naming day a few months
 before.  Erileine's heart twisted at the sight of it.  She remembered
 Fraederiq standing as straight as a piece of bamboo while he swore to
 observe Avaunt's laws and obey the captain and his appointed officers

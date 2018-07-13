@@ -999,8 +999,8 @@ The world suddenly seemed very small.
 
 Queçenne burst into tears when her mother told her what had happened
 to Fraederiq.  "You'd best go up to your lessons," Laeuc told his
-younger daughter, watching helplessly as his wife gathered their
-oldest child into her arms and made soothing noises.
+younger daughter, watching helplessly as his wife gathered their older
+daughter into her arms and made soothing noises.
 
 "I suppose," Erileine said.  It didn't seem right, practicing verbs
 after what had just happened, but what else could she do?
@@ -1010,12 +1010,12 @@ to see if anyone's face changed when they caught sight of her.  "It
 wasn't my fault," she wanted to say, but there was no one to say it
 to.
 
-The purple lumens in the Captain's House garden filled the air with a
-wet peppery smell.  *I should trim them back,* she thought for the
-third time in as many days.  She took a brick of dayglass from the
-tray in the garden where she had left it the night before to soak up
-the morning light and went inside.  Unlacing her boots, she slipped
-her feet into the fleece slippers that waited beside the door and went
+The purple lumens in the garden of the Captain's House filled the air
+with a wet peppery smell.  *I should trim them back,* she thought for
+the third time in as many days.  She took a brick of dayglass from the
+tray by the door where she had left it the day before to soak up some
+more sunlight and went inside.  Unlacing her boots, she slipped her
+feet into the fleece slippers that waited beside the door and went
 into the library.
 
 Razi sat at the narrow table that stretched the length of room, just
@@ -1023,15 +1023,15 @@ as he had four days a week since his arrival.  He walked to Forecastle
 every Bluesday, leaving after lunch and returning in time for
 Purplesday dinner with Erileine's family.  "*La*, because my belly and
 I spend enough time sitting," he explained when Erileine's mother
-Saedanne asked why.  "And because reading a book is like chewing it–if
+Saedanne asked why.  "And because reading a book is like eating it–if
 you would truly understand what it said, you need time to digest."
 
-The lantern by Razi's elbow shone dull orange, its stored daylight
-exhausted.  Behind him, an inexpert watercolor of the Pilot ruins on
-Avaunt's peak hung next to a much more competent rendering in ink of
-Forecastle seen in three-quarters view.  The rest of the walls were
-shelves packed to bursting with–with everything, Erileine had come to
-realize.
+The lantern by Razi's elbow shone dull orange, its captured daylight
+almost exhausted.  Behind him, an inexpert watercolor of the Pilot
+ruins on the peak of Avaunt hung next to a much more competent ink
+rendering of Forecastle seen in three-quarters view.  The rest of the
+walls were shelves packed to bursting with–with everything, Erileine
+had come to realize.
 
 "Clear day, bookster," Erileine said, replacing the spent piece of
 dayglass in the lantern with the freshly-charged one.
@@ -1039,12 +1039,14 @@ dayglass in the lantern with the freshly-charged one.
 Razi looked up from the origami book that lay unfolded on the table in
 front of him.  "*Shalma'a*.  How are you?"
 
-Erileine shrugged, not knowing how to answer the question.  "Is that
-Bantangui?" she asked.
+Erileine shrugged, not knowing how to answer the question.  "Fine,"
+didn't seem right, but neither did, "Someone I've known all my life
+just died and I think it's my fault," so instead she asked, "Is that
+Bantangui?"
 
 "*La*, it is." Razi pushed it across to his apprentice.  Golden
-curlicues and ruby zigzags danced around the elegant calligraphy on
-the delicate mulberry-paper page.  "The shapes and colors tell you
+curlicues and ruby zigzags danced around the brown-black calligraphy
+on the delicate mulberry-paper page.  "The shapes and colors tell you
 what you should feel as you read it.  The green means sadness, and
 these sapphire dots?  They are for irony.  Whatever the poem says,
 *la*, you are supposed to feel its opposite."
@@ -1058,12 +1060,13 @@ say?"
 
 Razi grinned.  "That the writer feels woe, such woe as no one has ever
 felt before, at their lover's departure.  But *la*, the more woe they
-feel, the more sapphire they use." He folded the book and dropped it
-into the crate he referred to as the compost heap.  If it had been
-interesting, he would have had Erileine catalog it and put it back on
-the shelves that lined the library's walls.  If it had been *really*
-interesting, he would have spent an hour going through it, talking
-aloud while Erileine made notes and asked questions.
+feel, the more sapphire they use." He folded the book and placed it
+carefully in the crate he referred to as the "someday" pile.  If it
+had been interesting, he would have had Erileine catalog it and put it
+back on the shelves that lined the library's walls.  If it had been
+*really* interesting—magic or history or both—he would have spent an
+hour going through it, talking aloud while Erileine made notes and
+asked questions.
 
 The captains of Avaunt had been retiring to Starboard Town for two
 hundred years.  In four months, Razi and Erileine had sorted one wall
@@ -1072,11 +1075,13 @@ and two more walls, and what Razi called "the easy part" would be
 done.  Then they would start the research he had come to do in the
 first place.  Where had each book come from?  Who had drawn each map,
 signed each contract, scribbled notes in the margins of each yellowed
-tax receipt?  And what light could they cast on the centuries
-immediately following the fall of the Pilots?  "Everything that has
-happened since has been footnotes to that time," Razi had explained
-the first day Erileine started work for him.  "If we would truly
-understand who we are, *la*, we must first understand those years."
+tax receipt?  And what light could they cast on the dark centuries
+following the Pilots' civil war and disappearance, when heroes did
+battle with monsters only to turn into monsters themselves?
+"Everything that has happened since has been footnotes to that time,"
+Razi had explained the first day Erileine started work for him.  "If
+we would truly understand who we are, *la*, we must first understand
+those years."
 
 He reached for a small volume bound in faded red leather and set it in
 front of Erileine.  "*Unprofitable Speculations*," she haltingly read
@@ -1094,10 +1099,10 @@ they are reborn as themselves…" Her voice trailed off.
 
 "Go on," her teacher said mildly.
 
-Erileine blinked.  She was *not* going to start crying.  "When people
-die, they are reborn as themselves, to live their lives over once
-again.  This they must do, time without number, until they have lived
-it–I'm sorry, I don't know that word."
+Erileine blinked.  She was *not* going to start crying again.  "When
+people die, they are reborn as themselves, to live their lives over
+once again.  This they must do, time without number, until they have
+lived it–I'm sorry, I don't know that word."
 
 "*Ipfa'ana*," Razi said.  "Or *ibfa khana*, in the southern form.  It
 means properly."
@@ -1116,13 +1121,14 @@ The bookster nodded.  "So," he said, his voice suddenly brisk, "Today
 you will finish with the books you started indexing yesterday, yes?
 So that tomorrow we may move on to things more interesting?"
 
-"Yes, bookster." Erileine opened the ledger she had been given to
-index, drew a lamp closer, and set to work.
+"Yes, bookster." Erileine opened the first of the ledgers in her work
+pile, turned the lamp slightly to move a shadow out of her way, and
+set to work.
 
 Every one of the books in the library mentioned the mountain, but only
 a few said anything more than that it was big, it flew back and forth,
 and its people had little sense of humor. "Do people really think that
-about us?" Erileine had asked the fourth time she read it. "Oh, la,"
+about us?" Erileine had asked the fourth time she read it. "Oh, *la*,"
 Razi had said diplomatically, "They don't know you as well as I do."
 
 The room was silent for the next three hours except for the scratching
@@ -1139,21 +1145,21 @@ old diary he had spent the greater part of the afternoon deciphering.
 
 Erileine traded her slippers for her boots and let herself out
 quietly.  The horizon had already eaten half the sun; the fat orange
-blob that remained looked like a ball of yarn someone had sat on.  A
-herd of clouds was passing in the distance, their bellies purple-gray
-with unshed rain.  If she had been at her grandfather's, Erileine
-would have looked for their shadows on the ground below.
+blob that remained looked as ready for bed as Erileine suddenly felt.
+A herd of clouds was passing in the distance, their bellies
+purple-gray with unshed rain.  If she had been at her grandfather's,
+Erileine would have looked for their shadows on the ground below.
 
 The air smelled of pine logs burning in kitchen stoves, and of squash
-and beans.  All of a sudden she remembered playing tag in the trees
-when she was little: herself, Queçenne, Niquolas and his slow-witted
-brother Matthieu, Fraederiq, Uego who had moved to Portside when his
-mother remarried… She couldn't have been more than seven or eight.
-The mountain must have been near the equator, because darkness had
-fallen as suddenly as a lid being put on a pot.  They had talked a
-little too loudly in the dark on their way back to town until
-Fraederiq said, "I can smell dinner." Laughing, they had raced the
-rest of the way.
+and beans cooking in iron pots.  All of a sudden she remembered
+playing tag in the trees when she was little: herself, Queçenne,
+Niquolas and his slow-witted brother Matthieu, Fraederiq, Uego who had
+moved to Portside when his mother remarried… She couldn't have been
+more than seven or eight.  The mountain must have been near the
+equator, because darkness had fallen as suddenly as a lid being put on
+a pot.  They had talked a little too loudly in the dark on their way
+back to town until Fraederiq said, "I can smell dinner." Laughing,
+they had raced the rest of the way.
 
 She wiped her eyes on her sleeve and set off for home.
 
@@ -1170,7 +1176,9 @@ whispered, "I'm sorry," her sister nodded without looking up.
 The adults were as quiet as the children as they mopped up eggs with
 hunks of crumbly potato bread.  There had been no word from the
 captain.  In its absence, speculation had swirled about all afternoon,
-leaving the whole town exhausted in its wake.
+leaving the whole town exhausted in its wake.  "Be better off doing
+some militia drill," Vurt had grumbled, earning himself a "shush!" and
+an elbow in the ribs from Mamaere Mayeule.
 
 Laeuc was doubly tired after sitting with Gaeston for an hour.
 Fraederiq's father hadn't said much besides, "Thanks," when Laeuc
@@ -1185,22 +1193,22 @@ had ever happened before, everybody would probably already know about
 it."
 
 "He's probably right," she said briskly.  She pushed the stew crock
-toward Erileine.  "Take that up for the bookster.  Queçenne, why don't
-you tidy up?"
+toward Erileine.  "Here, take this up for him—I'm sure he could use a
+good dinner.  Queçenne, why don't you tidy up?"
 
 Having to scrape egg off her mother's precious cast-iron pan would
 normally have sent Queçenne into a blue sulk.  That evening, she just
-nodded and took it out the kitchen door.  A moment later, the foursome
-inside the house heard it clang against the water cistern.  A moment
-later, they heard Queçenne's quiet sobs.
+nodded and took it out the kitchen door.  A moment later it clanged
+against the water cistern.  A moment after that, the foursome at the
+table heard Queçenne's quiet sobs.
 
 "I'll see to her," Saedanne said, rising.  "Erileine, make sure you
 wear your coat."
 
 "I'm only going up the street," she protested.
 
-"Do as your maere says," Laeuc sighed.  Vurt grunted, his elbow on the
-table and his chin on his fist.
+"Do as your maere says," Laeuc sighed.  Vurt only grunted, his elbow
+on the table, his chin on his fist, and his eyes hooded.
 
 Warm yellow light was still dribbling out between the slats of the
 shutters on the library window when she reached the Captain's House.
@@ -1241,10 +1249,10 @@ finger and pinched the faint wisp of smoke coiling up from its wick.
 "*La*, that *does* smell good.  Please, to sit, to sit.  We'll talk
 while I eat."
 
-He attacked the tepid stew as if he hadn't eaten in a week.  "Here,"
-he said through a mouthful of food, pulling an old book with a faded
-blue leather cover off the top of the pile on the table.  "I found
-this in the back.  Have you seen it?"
+He attacked the stew as if he hadn't eaten in a week.  "Here," he said
+through a mouthful of food, pulling an old book with a faded blue
+leather cover off the top of the pile on the table.  "I found this in
+the back.  Have you seen it?"
 
 Erileine shook her head.  "What is it?"
 
@@ -1299,7 +1307,7 @@ door closed.  Erileine looked up.  Diwei, the Western Star, should
 have been almost directly above the chimney of the Captain's House.
 Instead, it glittered a double handspan to the left.  Wishing there
 was still stew in the pot she was carrying to keep her hands warm, she
-hurried toward home.
+hurried toward home once more.
 
 ---
 
@@ -1307,7 +1315,7 @@ The next day dawned clear and cold.  Most days did on Avaunt.  Except
 during storms, the only clouds that flew higher than the mountain were
 old gray bulls spread so thin that they could hardly be seen.
 
-But there were no cloud bulls in the sky that morning, no stately
+But there were no bull clouds in the sky that morning, no stately
 white heifers pillowed on top of one another, no streaky calves barely
 able to hold themselves together.  There was just the sky paling to
 gray as the sun rose in the wrong place.
@@ -1320,30 +1328,43 @@ eyes without starting to cry again.
 
 She twitched at the sound of a lammergeier calling somewhere high
 above, threw back her quilt, and stood up.  She wasn't getting back to
-sleep, so she might as well make tea for her parents and sister.
+sleep, so she might as well make a pot of tea.
+
+Her grandfather had beaten her to it.  Sitting at the table in the
+clothes he had worn the day before, but with his mustache combed and
+oiled and his nails trimmed and as clean as they ever were, he waited
+for Erileine to sit before pouring her a cup of tea and stirring it
+with a piece of crushed sugar cane to sweeten it.
+
+"You want to talk about it?" he asked gently as Erileine warmed her
+hands on the mug.
+
+She shook her head.  Vurt nodded.  "That's all right.  I never do
+either."  He sipped his own tea.  "Walk up with me?"  Erileine nodded,
+and after that, they sat together in silence.
 
 As the sun rose, the people of Starboard Town gathered at a walled
 garden on the hill behind the Captain's House.  It was a quiet, tidy
 place, overlooked by the blue maples and braided pines that the
 townspeople planted on their children's naming days.  People took
 pride in being able to point to their grandfather's grandmother's
-tree.  "Still straight and tall," they would say, not knowing that the
+tree.  "Still straight and tall," they would say.  A few knew that the
 beams in Starboard Town's first houses had been made from the naming
-day trees of the Hett who had lived there before them.
+day trees of the Hett who had lived there before them, but only a few.
 
 Everyone wore their best clothes, but came barefoot.  No one knew
-why–it was just how things were done.  Women brought babies on their
-hips, while the town's oldest man, Papaere Badette, was carried up the
-hill in a wicker chair.  Wrapped in a long black coat whose wide
-sleeves had gone out of style thirty years before, he looked like a
-strange, solemn bird.
+why–it was just how things were done, even in winter.  Women brought
+babies on their hips, while Papaere Badette, the town's oldest man,
+was carried up the hill in a wicker chair.  Wrapped in a long black
+coat whose wide sleeves had gone out of style thirty years before, he
+looked like a strange, solemn bird.
 
-The bosun had worked since midnight to build a pyre of pine logs on
+The bosun had worked since before dawn to build a pyre of pine logs on
 the heavy gray stone at the center of the garden.  He stood beside it
 in the blue coat and trousers of his office, his square black hat
 tucked under his arm, and nodded to people as they took their places
-at the wall.  No one spoke except the smallest children, who were
-immediately hushed.
+around the garden wall.  No one spoke except the smallest children,
+who were immediately hushed.
 
 Gaeston was the last to arrive.  In his hands he held a stuffed toy
 goat, a tiny pair of sandals whose soles had been worn thin by
@@ -1367,14 +1388,14 @@ with Erileine's on Queçenne, whose renewed sobbing told the whole town
 who the hair ribbon had belonged to.
 
 Gaeston stepped back and saluted the bosun.  Uyves returned the salute
-gravely.  Hungry and cold, a baby began to cry.  "What?  What?"
-Papaere Badette asked.  His granddaughter shushed him gently.
+gravely.  A baby began to cry.  "What?  What?"  Papaere Badette asked.
+His granddaughter shushed him gently.
 
 Gaeston took the smoldering torch the bosun handed him and touched it
 to the logs.  The crowd held its breath.  The flame hesitated a
 moment, then began to spread.  Everyone exhaled with relief, except
-the hungry baby, who was still crying.  The flame had caught.
-Fraederiq was at rest.
+the baby, whose mother was nursing him to keep him quiet.  The flame
+had caught.  Fraederiq was at rest.
 
 As dark smoke wrote its message of loss and grief on the sky, the
 bosun cleared his throat.  "When I die, I shall give back to the world
@@ -1403,14 +1424,14 @@ his daughter.  "It wasn't your fault.  You can come back later and
 help clean up the ashes if you want.  All right?" Gently but firmly,
 Laeuc turned her toward home.
 
-Most people spent that morning repairing the minor damage the
+The townspeople spent that morning repairing the minor damage the
 mountain's shudders had caused.  They talked about Fraederiq–what a
 shame, so young, what would Gaeston do now, it would be terrible if he
 started drinking again–but conversation quickly turned to the
 mountain.  Where do *you* think we're going?  And shouldn't we do
 something, just in case?  Well no, I don't know what, but surely
 there's something.  Yes, I'm sure the captain's thought of all of
-this, but…
+this, but still—poor Fraederiq, what a shame.
 
 Erileine finally fled, unable to listen any more.
 
@@ -1591,10 +1612,10 @@ Razi raised his eyebrows.  "You *are* my apprentice, aren't you?"
 Erileine glanced at her parents.  "Go ahead," Laeuc said.  Erileine
 hurried after her teacher and the bosun into the Captain's House.
 
-They gathered around a small map that Razi had found in a book on the
-medicinal properties of fungi.  "Not much room for us to get through,
-is there?" the bosun said, tapping the inverted V's that marked the
-Brumosos.
+They gathered around a small map of northern Cherne that Razi had
+found in a book on the medicinal properties of fungi.  "Not much room
+for us to get through, is there?" the bosun said, tapping the inverted
+V's that marked the Brumosos.
 
 The bookster shrugged.  "*La*, there are gaps and passes–perhaps we
 will go through one of those.  *Sra* parrot, does the captain perhaps
@@ -1607,7 +1628,7 @@ Razi inclined his head.  "Jack, then.  And if I might ask another
 question?  The captain's wife–did she feel anything yesterday?"
 
 The parrot shook his head.  "Not that anyone's told me.  But as far as
-I know, her magic's about healing, so…"  He ruffled his wings in a
+I know, her magic's all for healing, so…"  He ruffled his wings in a
 birdy shrug.
 
 Razi closed the book and set it aside.  "Well, please convey my
@@ -1624,9 +1645,9 @@ Berth.  Perhaps it will fly higher still when we reach the Brumosos.
 Or perhaps crashing is the wrong way to think of it.  Perhaps the
 mountain is in season to mate."
 
-He grinned boyishly at the look on Erileine's face.  "Oh, come, I
-cannot be the only one to think of that?  Perhaps the mountain is like
-a goat in spring.  Stranger things have happened."
+He grinned boyishly at the look on Erileine's face.  "Oh come, am I
+the only one to think of that?  Perhaps the mountain is like a goat in
+spring.  Stranger things have happened."
 
 "Not around here," Erileine muttered, embarrassed.
 
@@ -1652,12 +1673,13 @@ Erileine looked at him in dismay.  "But that could take forever!"
 "Yes, it could." Razi slid another book back into its place on the
 shelf.  "But sometimes that's just what you have to do."
 
-Erileine chased words all afternoon while Razi reshelved books.  Every
-once in a while he set a volume on the table instead to shape a rough
-map of Cherne: those from Ruuda at the north end, those from Ini
-Bantang and Barra Bantang at the south, the Ninety-Nine Kingdoms in
-the west, and a scant handful from Praczedt and Thind to the east.  A
-lone volume of Karabandi poetry occupied the center.
+Erileine chased words all afternoon while Razi sorted books into
+piles.  Every once in a while he set a volume on the table instead to
+shape a rough map of Cherne: those from Ruuda at the north end, those
+from Thind, Ini Bantang, and Barra Bantang at the south, the Ninety
+Kingdoms in the west, and a scant handful from Praczedt to the east.
+A lone volume of Karabandi poetry occupied the center with a pair of
+spell books beside it.
 
 The dozenth time Erileine looked up, two glinting pieces of brass
 caught her eyes.  "What are those for?"
@@ -1678,7 +1700,7 @@ handspan from the coins.  It seemed very small.
 They worked through the last of the afternoon, pausing only to answer
 the call of nature.  For a time, someone chopped firewood outside, and
 someone else trundled a cart past the Captain's House, but the only
-sounds in the library were those of pages being turned, and chairs
+sounds in the library were those of pages being turned and chairs
 creaking as their occupants shifted their weight.
 
 A knock on the door made them both start.  "Hello?" Laeuc called as he
@@ -1732,20 +1754,30 @@ they were in tune, but Erileine had long since realized that he just
 liked to play.  She laid her head on her mother's shoulder and
 listened to the gentle notes, each as light as a butterfly.
 
-When her father finished, she went up to her room and slid under her
-quilt.  She lay there for a moment looking–really looking–at her room
-for the first time she could remember.  The wood-and-leather toys on
-the shelf by the window seemed to have shrunk.  Maybe her mother was
-right: maybe it was time to pass them on to someone else.
+"Want to try it?" Laeuc asked when he finished.  She sat up, took the
+flute from him, and raised it to her lips. A tentative breath brought
+a fluttering, wavering note that steadied as she blew harder.  Her
+father picked up another and joined her in a simple round.
+
+When they finished, she went up to her room and slid under her quilt.
+She lay there for a moment looking–really looking–at her room for the
+first time she could remember.  A cage for a pet rat who had escaped
+and never been found, a picture of the great library in Gandan, the
+dozen books she actually owned, the wood-and-leather toys on the shelf
+by the window that seemed somehow to have shrunk in the past year…
+She pulled the quilt tighter around her shoulders.  Maybe her mother
+was right: maybe it was time to pass the toys on to someone else.
 
 She tossed and turned for hours.  When sleep finally came, it brought
 a new nightmare.  This time, Fraederiq and Niquolas were dangling her
 out the upstairs back window at Mamaere Mayeule's.  One boy held each
 of her legs; each time she tried to grab the window sill, they relaxed
-their grip for a moment, making her whimper with terror.  It had
+their grip for a moment, making her shriek with terror.  It had
 actually happened, a year or so ago.  Niquolas had eventually said he
 was tired of the game, and insisted that they pull her in.  In her
-dream, though, Erileine was hanging over the edge of the mountain.
+dream, though, Erileine hung over the edge of the mountain, not over
+Mamere Mayeule's courtyard, and no one heard her cries and came to
+rescue her.
 
 She woke with a small cry.  Dizzy with sweat, she fixed her eyes on
 her dayglass night light and waited for dawn.

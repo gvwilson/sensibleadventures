@@ -3605,7 +3605,7 @@ and his three mates shouted orders, corrections, encouragement, and
 abuse as a dozen squads of spearmen and archers lunged and knelt, drew
 and released.
 
-The usual pair of guards stood outside the Hardeck's main doors.
+A pair of guards stood outside the Hardeck's main doors as usual.
 Today, though, they wore helmets and gorgets, and gave the approaching
 travelers a careful up-and-down as they climbed the stairs.
 "Magister," one said to Thomas, nodding respectfully while the other
@@ -3616,7 +3616,7 @@ with Razi and Erileine in his wake.
 
 The captain was in the Grand Hall, his hands clasped behind his back,
 a frown furrowing his forehead.  He turned away from the window as
-they entered.  "Bookster, magister," he nodded.  "Have you found
+they entered.  "Magister, bookster," he nodded.  "Have you found
 anything to brighten my day?"
 
 Razi shook his head.  "*La*, no, not in your library.  But elsewhere…"
@@ -3630,9 +3630,10 @@ with his people."
 Razi suggested.  "From what I am told, the tinker's assistant is new
 to the mountain."
 
-The captain scowled.  "I doubt many people will think that far.
-Anyway, it looks like we're headed for Tinhead after all.  Take a
-look." He gestured at the window.
+The captain scowled.  "I doubt many people will care about that,
+especially after last night's madness.  Anyway, it looks like we're
+headed for Tinhead after all.  See for yourself." He gestured at the
+window.
 
 Erileine followed the line of the captain's pointing finger.  The
 mountains in front of them were ridged and ragged like a crumpled
@@ -3642,39 +3643,40 @@ steadied again.
 
 "Oh, well done," Thomas murmured appreciatively.  The panes to the
 left and right showed what they had a moment before, but the one in
-the center had pulled the view closer.  Instead of mountains fifty
+the center had pulled the view closer.  Instead of mountains a hundred
 gallops away, they were looking at a neat town from what appeared to
-be no more than a few hundred strides.  Its buildings, made of gray
-brick and roofed with dark slate shingles, stood around a paved square
+be no more than a tenth of that distance.  Buildings made of gray
+brick and roofed with dark slate shingles stood around a paved square
 as large as the one outside the Hardeck.  A flat-topped pyramid stood
-in the square's center, four stories tall and crowned with six pillars
-of dayglass as big as Erileine.  The only sign of life was a lone jay
+in the square's center, two stories tall and crowned with six pillars
+of dayglass as tall as Erileine.  The only sign of life was a lone jay
 that fluttered away even as they watched.
 
-"That looks like the mountain," Klaues said, pointing at the pyramid.
-"Same shape, same flat peak…"
+"That looks like the one on the peak," Klaues said, pointing at the
+pyramid.  "Same shape, same flat top…"
 
-"I'm sure," Thomas said, running a gentle fingertip across the window.
-"This is beautiful work.  Korrandarrenduk?"
+"Amazing," Thomas said, ignoring the Hett to run a gentle fingertip
+across the window.  "This is beautiful work.  Korrandarrenduk?"
 
-The captain shook his head.  "Ip of Seyferte.  There used to be
-another one at Aft Landing, but some Bantangui pirate smashed it to
-bits about a hundred years ago."
+The captain shook his head.  "Ip of Seyferte.  There was another one
+at Aft Landing, but some Bantangui pirate smashed it to bits about a
+hundred years ago."
 
 The pattern on Thomas's jacket froze for a moment.  "May he be reborn
 to misery a thousand thousand times," the magician said, smoothing his
 lapels as gently as someone would pet a frightened cat.  "Do you mind
 me asking its price?"
 
-The captain shrugged.  "My name.  And I can't leave the mountain."
+The captain shrugged.  "My name.  And I can't ever leave the
+mountain."
 
 "Ah." Thomas nodded sympathetically.  "Ip was never one to use a pin
 when a lance would do."
 
 "*La*, captain, can you move the focus?" Razi interrupted.
 
-The captain nodded.  "Yes.  But only to things that you could see that
-are in view anyway."
+The captain nodded.  "Yes.  But only to things that would be in view
+anyway."
 
 Razi pursed his lips.  "*La*, so, where is the picture of Tinhead?
 The one from the book?"
@@ -3682,12 +3684,12 @@ The one from the book?"
 The captain jerked his thumb at the wall.  "I stuck it up there next
 to the whales."
 
-Razi blinked.  "*La*, you tore it out of the book?"
+Razi blinked.  "You tore it out of the book?"
 
 "No, of course not.  I used a razor.  Why?"
 
 Razi stared at the captain.  "Perhaps…  perhaps in future a copy would
-suffice, yes?" he said stiffly.
+suffice?" he said stiffly.
 
 The captain and Thomas exchanged amused looks as Razi took the page
 down from the wall.  He held it up in front of the window, glancing
@@ -3716,7 +3718,7 @@ a great disappointment."
 taken years to build that thing!  Do you think someone's been planning
 this for that long?"
 
-Thomas shrugged.  "Who can say?  A closer look might give us some
+Razi shrugged.  "Who can say?  A closer look might give us some
 answers."
 
 The captain frowned.  "I could send one of the condors."
@@ -3735,8 +3737,7 @@ swaying gently in the afternoon breeze, Erileine could have believed
 it was some strange kind of painting.  "All right.  Do you want a
 couple of my men along, just in case?"
 
-"I'm sure we'll be fine," Thomas said politely.  "If we leave now, we
-ought to have enough light to find our way back." He gestured toward
+"I'm sure we'll be fine," Thomas said politely.  He gestured toward
 the door.  "After you?"
 
 Razi pulled a string of coins out of the sleeve of his *deel*.  "Take
@@ -3748,11 +3749,10 @@ large, and a bath above all other things."  He smiled reassuringly.
 
 A few minutes later, Erileine stood alone on the Hardeck's steps.  She
 hefted the string of coins.  It was more money than she had ever held
-in her life.  Somewhere with a hot bath *would* be nice.  Somewhere
-with a hot bath and some books would be even nicer.
+in her life.  Somewhere with a hot bath *would* be nice.
 
-Erileine didn't think of herself as shy, but he had never had to ask a
-stranger for directions before.  She had always been able to follow
+Erileine didn't think of herself as shy, but she had never had to ask
+a stranger for directions before.  She had always been able to follow
 her father through the streets and alleys that doubled back on
 themselves, met at odd angles, or, in the case of the one she was now
 on, dead-ended against the front door of a bootmaker's.
@@ -3768,8 +3768,8 @@ in pieces or stood upside down on lasts before them.  A samovar as big
 as a goat's head took up one entire end of the table.  The sugary
 smell coming from it made Erileine's stomach grumble.
 
-Erileine cleared her throat.  "Clear day.  I'm, um, we're visiting.
-From Starboard Town."
+She cleared her throat.  "Clear day.  I'm, um, we're visiting.  From
+Starboard Town."
 
 "With the bosun?" the woman on Erileine's left asked immediately.
 
@@ -3785,22 +3785,22 @@ the bosun's favorite when he's here, isn't that right, Gisaelle?  Very
 quiet for those who don't want to be disturbed." She elbowed the other
 woman in the ribs.
 
-Gisaelle blushed.  "It's a very good inn," she said, a little weakly.
+Gisaelle blushed.  "It has very good food," she said defensively.
 
-The first woman snorted.  "I'm sure.  Anyway, two up on your left to
-the cordwainer's, go down the alley, left again to the stairs by the
-flower seller, top of the stairs.  Not far at all, isn't that right,
-Gisaelle?"
+The first woman snorted.  "Any food tastes good after exercise.
+Anyway, two up on your left to the cordwainer's, go down the alley,
+left again to the stairs by the flower seller, top of the stairs.  Not
+far at all, isn't that right, Gisaelle?"
 
 "Far enough for people who don't want other people sticking their
-noses into things that are none of their business," the woman on the
-left said sharply.
+noses into things that are none of their business," the second woman
+replied sharply.
 
 When they wanted a scare, Avauntois children told each other about a
 house in Aft Landing (or maybe Portside, it depended who was telling
-the story).  There was nothing behind its back door but empty air, and
+the story).  There was nothing beyond its back door but empty air, and
 when children were nosy, the evil magician (or Hett, or ghost) who
-lived there sent them out back to fetch firewood.
+lived there sent them through it unawares to fetch firewood.
 
 Erileine felt like she had just stepped through that door.  She raised
 her palms with a hasty, "Thank you, ladies, that's very helpful, much
@@ -3808,8 +3808,8 @@ appreciated," and fled.
 
 A grin split her face as she walked toward the cordwainer's.  She
 would *definitely* have to ask the bosun about his boots when he got
-home.  Of course, the story would be better if he knew the name of the
-shop…
+home.  Of course, the story would be better if she knew the name of
+the shop…
 
 She turned impulsively at the thought.  The small figure two dozen
 strides behind her instantly turned around as well.  "Hoy!" Erileine
@@ -3834,7 +3834,7 @@ residents.  The old woman snoring in a wicker rocking chair on the
 balcony above the door made the picture complete.
 
 Erileine yanked the braided cord that hung by the door.  A drum
-thumped inside, but no one answered.  He pulled the cord again,
+thumped inside, but no one answered.  She pulled the cord again,
 harder.
 
 The snoring stopped.  "Who is it?" a voice yawned.
@@ -3858,7 +3858,7 @@ whoever had carved them.  The old woman certainly knew Bosun Uyves.
 Very popular, the bosun was.  Easy to see why, with shoulders like
 his, and that smile, and of course everyone said he was such a good
 dancer, not that she had ever had a chance herself, her dancing days
-were far behind her, just as Erileine's were still in front of er.
+were far behind her, just as Erileine's were still in front of her.
 She did dance, didn't she?  With anyone in particular yet?  No?  Oh,
 that would come, that would come, not to worry.  Why, she herself had
 been fifteen the first time someone had asked her to dance.  A
@@ -3866,22 +3866,23 @@ vagabond, he turned out to be, not like the bosun, but of course she
 couldn't have known that at the time.  Now, did she want to leave
 those bags with her, or in the room?  Oh, yes, the room had a lock, of
 course, and not just for when they were berthed at Gandan or Mau
-Ngapcha, no, sad to say, the mountain had thieves of its own,
-indwellers most of them, or Hett, the saints alone knew why the
-captain let either onto the mountain, not that she was questioning his
-judgment, of course, he was a fine captain, though his predecessor
-*had* been much firmer about such things.  That camp of theirs by the
-sawdust tips was as good as being a little town of its own now, wasn't
-it?  And that house on Squid Street, well, it shouldn't be allowed,
-not that it was her place to decide that, of course, the captain knew
-his business, he was a fine man, just as Bosun Uyves was a fine, fine
-man, very popular, and easy to see why, of course, with shoulders like
-his, and that smile…
+Ngapcha, no, sad to say, the mountain had thieves of its own, Hett and
+what-not, the saints alone knew why the captain let them stay on the
+mountain, not that she was questioning his judgment, of course, he was
+a fine captain, though his predecessor *had* been much firmer about
+such things.  That camp of theirs by the sawdust tips was as good as
+being a little town of its own now, wasn't it?  And that house on
+Squid Street, well, it shouldn't be allowed, particularly not if they
+were going to use it for (she lowered her voice) *magic*, like they
+had the night before, but of course it wasn't her place to decide
+that, of course, the captain knew his business, he was a fine man,
+just as Bosun Uyves was a fine, fine man, very popular, and easy to
+see why, of course, with shoulders like his, and that smile…
 
 Her words splashed over Erileine like the monsoon rains of Mau
 Ngapcha.  She kept smiling and saying, "Yes, *sra*," and "Thank you,"
-and turning toward the door, but the torrent of words didn't stop
-until she backpedalled onto the street.
+and turning toward the door, but the torrent didn't stop until she
+backpedalled onto the street.
 
 And so Erileine found herself alone in the biggest town on Avaunt with
 time on her hands and money in her pocket.  Emboldened by her success
@@ -3895,22 +3896,21 @@ in the world–at least, that's what she hoped.  She peered into shop
 windows, stopped to study herself in the half-height mirror chained to
 the wall in front of a tailor's, and doubled back on her own trail
 half a dozen times.  She never looked directly at the ragged figure
-trailing in her wake.  It was just like trying to round up Mamaere
+trailing in her wake.  It was just like trying to catch Mamaere
 Mayeule's cat: you had to get *it* to chase *you*…
 
-But eventually her shadow disappeared.  Disappointed, she doubled back
-once more, but the boy was gone.  She shrugged, trying to be
-philosophical.  At least now she could actually go and look at some
-books.
+But eventually her shadow disappeared.  She doubled back once more,
+but the boy was gone.  Disappointed, she tried to be philosophical.
+At least now she could actually go and look at some books.
 
 Her father had first taken her to Booksellers' Cross on her eighth
-naming day.  The booksellers had rolled their eyes at one another, all
-thinking, "Here's another one," as they remembered themselves at her
-age.
+naming day.  The booksellers had rolled their eyes at one another as
+she wandered in awe from stall to stall, all thinking, "Here's another
+one," and remembering themselves at her age.
 
 Novels, pamphlets, diaries… Poetry, medicine, recipes, magic, and law…
 Gandan-o, Ruudian, Uwsian, Bantangui, Praczny, and languages Erileine
-didn't yet recognize…  Lost among the petrified learning, the frozen
+didn't even recognize…  Lost among the petrified learning, the frozen
 elsewheres and elsewhens, she took no more notice of time passing than
 she did of her own breathing.
 
@@ -3951,10 +3951,11 @@ The bookseller glanced at the book, then at Erileine.  "Two rings a
 half and sixpence, not a fingernail less." He shrugged again.  "I
 can't sell it for less than I paid, can I?"
 
-"I suppose not," Erileine said, defeated.  She could probably find
-something that se could afford, but after deciding she wanted the
-stories, anything else would feel second best.  And anyway, it was
-getting late.  She should get back to the Hardeck and wait for Razi.
+"Well, you *could*," Erileine muttered, knowing she was defeated.  She
+could probably find something that she could afford, but after
+deciding she wanted the stories, anything else would feel second best.
+And anyway, it was getting late.  She should get back to the Hardeck
+and wait for Razi.
 
 Two new guards stood at the Hardeck's front doors.  As far as they
 were concerned, young Starboard Towners belonged in Starboard Town
@@ -3978,14 +3979,14 @@ The shadows were lengthening when Erileine reached it, and the cold
 air felt damp.  She shivered and hunched her shoulders so that she
 could bury her chin in the collar of her coat.
 
-The land below was beautiful.  Orange sunset reflected off ponds and
-streams nestled in countless little valleys, the snow on the peaks of
-the mountains around Avaunt, and the clouds grazing near the horizon.
-It could have been the approach to Gandan Berth, except there wasn't a
-road or a building in sight.  Traders from all over the Nine Marches
-would be on their way to meet Avaunt at that centuries-old rendezvous.
-How many of them already knew that the mountain wasn't going to be
-there?
+The land below was beautiful.  Orange sunset reflected off the ponds
+and streams nestled in countless little valleys, the snow on the peaks
+of the mountains around Avaunt, and the clouds grazing near the
+horizon.  It could have been the approach to Gandan Berth, except
+there wasn't a road or a building in sight.  Traders from all over the
+Ninety Kingdoms would be on their way to meet Avaunt at that
+centuries-old rendezvous.  How many of them already knew that the
+mountain wasn't going to be there?
 
 There!  That dot.  She brought her hand up to shield her eyes.  It had
 to be Thomas's flying boat, the *Presumption*.  She was coming in
@@ -3997,8 +3998,9 @@ kicked them under the railing so that they dangled over the side.
 
 The *Presumption* was only fifty strides away when Erileine realized
 that something was sticking out of her hull.  Her belly went cold.  It
-was an arrow, but as thick around as her arm.  Splinters starred the
-planks around its puncture like a frozen shout of pain.
+was an arrow, but as long as her arm and as thick as two of her
+fingers.  Splinters starred the planks around its puncture like a
+frozen shout of pain.
 
 Thomas steered the *Presumption* in close, yelling, "Clear away!"
 Erileine scrambled back.  As the flying boat thudded against the
@@ -4017,9 +4019,9 @@ over here." He hopped back into the boat.
 "But where's Razi?" Erileine repeated.  Panic was like cold soup in
 her throat.
 
-Thomas crouched down.  "Come on," he grunted, "Stop messing up my
-boat." He straightened, his right arm around Razi's back, his left
-holding the bookster's arm across his shoulders.
+Thomas crouched down.  "Right here," he grunted, "Busy messing up my
+boat as usual." He straightened, his right arm around Razi's back, his
+left holding the bookster's arm across his shoulders.
 
 "*La*, so, put down a rug next time," Razi mumbled.  His *deel* was
 slick with blood.  More leaked through the fingers he had pressed
@@ -4037,26 +4039,32 @@ be compost.  As it is…"
 
 "As it is?" the captain prompted.
 
-His wife was a head shorter than Erileine, but carried herself as if
-she was as big as the mountain.  She dried her hands on a scrap of
-cotton and dropped it into a shallow copper bowl whose sides were
-sticky with Razi's blood.  She sighed and started untying her apron.
-"As it is, he'll live, unless he does it again."
+His wife was shorter than Erileine, but carried herself as if she was
+as big as the mountain.  She dried her hands on a scrap of cotton and
+dropped it into a shallow copper bowl whose sides were sticky with
+Razi's blood.  She sighed and started untying her apron.  "As it is,
+he'll live unless he does it again."
 
 "Thank you, love." The infirmary on the ground floor of the Hardeck
 was as big as the Grand Hall.  Two dozen wooden beds lined one wall;
 the other was completely taken up with shelves.  Bandages and spools
 of strong cotton thread stood next to trays of scalpels and
 wicked-looking bone saws.  Night had fallen, so the only light came
-from pieces of dayglass set in bamboo sconces above the beds.
+from pieces of expensive yellow-white dayglass set in bamboo sconces
+above the beds.
 
 Nuu Ciy had stitched Razi's wound closed as carefully as Papaere Vurt
 would stitch up a torn boot, and about as gently.  She had muttered
 small spells the whole time, pleas for strength and wards against
 infection that made her hands glisten faintly.  Erileine wondered what
-she was giving up on Razi's behalf: a little more of her sense of
-smell, perhaps, or her memory of the bright blue dress she had worn on
-her tenth naming day.
+she has given up on Razi's behalf: her ability to taste garlic,
+perhaps, or her memory of the colors in the dress she had worn on her
+tenth naming day.  If she was smart and careful and had planned ahead,
+her losses would all be things she could live without.  She would
+write them down somewhere safe and pore over them when the time came
+to give up something more.  *And one day that book will be on the
+shelves in the Captain's House,* Erileine thought, just like the ones
+she herself had pored over.
 
 Through it all, Thomas sat on the bed next to Razi's, watching Nuu
 Ciy's work with professional curiosity and occasionally muttering to
@@ -4069,16 +4077,18 @@ third time.
 
 "But why can't *you* fix him!?" she pleaded.
 
-"Because I like being able to open doors for myself," the magician
-snapped.  "And having to return to this dreary venue once a year for
-the rest of my life would be unspeakably tiresome.  Now, are you going
-to do something useful, or shall we sit back and wait for those
+"Because every spell that might be useful would cost me far more than
+I am willing to give up, especially with so much mundane help just a
+few steps away," the magician snapped.  "Rushing around and saving
+people–that's not really what magicians do, you know.  That kind of
+thing is better left to the booksters of this world.  Now, are you
+going to do something useful, or shall we sit back and wait for those
 imbecile condors?"
 
 Erileine had gone for help.
 
-As Nuu Ciy's assistants scrubbed streaks of blood off her arms, the
-captain turned to Thomas.  "So, there was no warning at all?"
+As Nuu Ciy's assistant scrubbed streaks of blood off the doctress's
+arms, the captain turned to Thomas.  "So there was no warning at all?"
 
 Thomas shook his head.  "None.  As I said before–twice, I believe–we
 were still a gallop from town.  They must have hidden siege bows in
@@ -4091,18 +4101,22 @@ being clever.  "And there was just the one shot?"
 Thomas's shrug was echoed by the rippling pattern on his jacket.
 "There may have been more afterward, but I turned tail the instant we
 were hit.  It's rather vexing, you know.  I put a lot of work into
-that boat–it will take ages to mend her."
+getting that boat looking the way it did–it will take *ages* to mend
+her."  The pattern on his jacket rippled in agreement.
 
-The guard at the door cleared his throat meaningfully.  "What?"  the
-captain barked.
+The captain scowled.  "At the rate we're going, we'll be there
+tomorrow."
 
-"Chief Steward, *sra*.  Wants to know if you'll want dinner brought
-down."
+Even as he spoke the words, the guard at the door cleared his throat
+meaningfully.  "What?"  the captain barked.
 
-"Saints.  No, I'll take it upstairs as usual.  You might as well get
-back to your post.  Oh, and Eamile?  No telling tales, understood?"
+"Chief Steward, *sra*.  Wants you to know we've sped up again."
 
-"Yes, *sra*." The guard saluted sharply, right fist to left breast.
+Thomas barked a single short laugh.  "Saints," the captain cursed.
+"Tell him I'll be up in a heartbeat.  Oh, and Eamile?  No telling
+tales about any of this, understood?"
+
+"Yes, *sra*." The guard saluted sharply.
 
 The captain sighed again.  A hundred people had seen Razi carried into
 the Hardeck, unconscious and dripping blood.  By now, half the town
@@ -4142,7 +4156,7 @@ Thomas smiled indulgently.  "Now, now.  There's really no need to
 speak that way."
 
 "He could have *died!*" The angry words were out of Erileine's mouth
-before she knew he was going to say them.
+before she knew she was going to say them.
 
 Thomas nodded.  "Yes, he could have.  He could have died yesterday,
 too, or the day before.  Would that have been my fault too?"
@@ -4154,17 +4168,13 @@ to do was reach out.*
 
 Thomas sighed theatrically.  "It escapes me, truly, why supposedly
 educated people believe that magicians can just snap their fingers and
-set the world right.  Every spell I might have used would have cost me
-far more than I was willing to give up, especially with so much
-mundane help just a few steps away.  Rushing around and saving
-people–that's not really what magicians do, you know.  That kind of
-thing is better left to the booksters of this world."
+set the world right."
 
 "Did you tell his last apprentice that too?" Erileine asked bitterly.
 
-Thomas smiled thinly.  "No.  No, what I told *him* was that if I ever
-saw him again, I'd put his eyes out with my thumbs." He nodded
-farewell politely and, whistling, went on his way.
+Thomas smiled thinly.  "No.  What I told *him* was that if I ever saw
+him again, I'd put his eyes out with my thumbs." He nodded farewell
+politely and, whistling, went on his way.
 
 Erileine's anger dissipated as quickly as it had come, leaving her
 cold and tired.  She bought a sausage on a stick and a strip of flat
@@ -4206,26 +4216,25 @@ very nice eyes."
 
 Blushing, Erileine thanked her again and climbed the stairs to her
 room.  The only light came from a sliver of dayglass beside the
-window.  It was cheap stuff, so orange that it was almost red, and
-didn't cast nearly enough to read by, but she sat on her bed with the
-book open in her lap anyway.  It had to have been the thief.  But why
-would he give her a book?  Unless he planned to tell the militia that
-she had stolen it.  No, that didn't make any sense.  The old woman
-would tell them where it had come from.
+window.  It was cheap stuff, orange instead of yellow-white and not
+really bright enough to read by, but she sat on her bed with the book
+open in her lap anyway.  It had to have been the thief.  But why would
+he give her a book?  Unless he planned to tell the militia that she
+had stolen it.  No, that didn't make any sense.  The old woman would
+tell them where it had come from.
 
 She riffled its pages, then turned it upside down and shook it.
 Nothing.  Invisible ink?  Magic writing that would only show up when
-the moon was full, or if the reader whistled the right song?
+the moon was full, or if she whistled the right song?
 
 Defeated, she wrapped the book in her spare shirt and slipped it into
 her satchel, then stripped down to her underclothes and slid her
-skinny legs under the quilt.  She stared at the little watercolor that
-was the room's sole decoration that showed a boxer stripped to the
-waist throwing the same punch forever.  She would take the book back
-tomorrow after she checked on Razi, she decided.  She closed her eyes
-and tried not to think of the bookster lying on the dock, bleeding.
-She had just stood there.  He had needed her help, and she had just
-*stood* there.
+skinny legs under the quilt.  She stared at the watercolor of a boxer
+throwing the same punch forever that was the room's sole decoration.
+She would take the book back tomorrow after she checked on Razi, she
+decided.  She closed her eyes and tried not to think of the bookster
+lying on the dock, bleeding.  She had just stood there.  He had needed
+her help, and she had just *stood* there.
 
 Sleep was a long time coming.
 
@@ -4258,12 +4267,12 @@ said.  She pulled her right foot out of her left boot and took a deep
 breath.  "Do you have someone you can be with?  Just in case?"
 
 "There's my son-by-marriage," she said uncertainly.  "He's remarried
-now, but he's just two streets away.  But he hates fuss–I don't want
-to be a fuss."
+now, but he's just two streets away.  But I don't want to be a
+bother."
 
-Erileine almost laughed.  She was pretty sure this wouldn't be counted
-as fussing.  "I'm sure he won't mind," she said, knotting her laces
-and grabbing her satchel.  "But I have to get to the Hardeck."
+Erileine almost laughed.  She doubted that this would be counted as
+being a bother.  "I'm sure he won't mind," she said, knotting her
+laces and grabbing her satchel.  "But I have to get to the Hardeck."
 
 She ran through the streets of Forecastle like a rabbit with a lynx on
 its tail.  The streets seemed even more tangled in the dark.  Twice
@@ -4314,7 +4323,7 @@ fingers twitched.
 
 "Bookster!" she whispered loudly.  "Are you awake?"
 
-The bookster's eyes fluttered.  "Eimin?"
+The bookster's eyes fluttered.  "My lady?"
 
 "Bookster?"
 
@@ -4335,9 +4344,8 @@ what to do.
 The dark man chuckled weakly.  "*La*, I do not think that is the
 phrase I would use.  Have you water?"
 
-There was, a pitcher on the table where Nuu Ciy's bowl had been.
-Erileine poured some into a heavy brown pottery mug and held it up
-gingerly.
+There was a pitcher on the table where Nuu Ciy's bowl had been.
+Erileine poured some into a heavy pottery mug and held it up gingerly.
 
 Razi sipped and made a face.  "There's poppy in this."
 
@@ -4367,7 +4375,7 @@ shuddered beneath her.  A painting fell from the wall, missing her by
 a handspan.  She tripped at the top, banging her knee painfully
 against the floor, but hobbled on.
 
-The Grand Hall was as full as the market square.  He squeezed between
+The Grand Hall was as full as the market square.  She squeezed between
 two guards, ducked under a clerk's elbow, and found herself just
 inches from the magic window.
 
@@ -4389,7 +4397,7 @@ Deer and gaur fled in panic side by side with chameleon bears, the
 Gifted among them shouting panicked orders.  Nests and burrows were
 crushed as Avaunt ground the earth beneath it.
 
-Suddenly there was silence, as the mountain cleared a ridge and the
+Suddenly there was silence as the mountain cleared a ridge and the
 land momentarily dropped away beneath them.  "Look!" half a dozen
 voices shouted needlessly.  There, nestled in a bowl-shaped valley,
 lay Tinhead, its neat streets and tidy houses peaceful in the
@@ -4401,21 +4409,20 @@ magic to see, Erileine thought dazedly.  Another few moment and they
 could have seen the soldiers with their own eyes.
 
 And soldiers they clearly were, on the road that wound up the steep
-hills standing guard behind the town, real soldiers with polished
-steel helmets on their heads, heavy packs on their backs, and swords
-at their sides.  Some had their shoulders against the rear ends of
-carts, while others bawled silently at heavy-laden mules, but most
-just marched.
+hills behind the town, real soldiers with polished steel helmets on
+their heads, heavy packs on their backs, and swords at their sides.
+Some had their shoulders against the rear ends of carts, while others
+bawled silently at heavy-laden mules, but most just marched.
 
 The captain passed his hand over the window again.  There were more
 carts further up the mountain, heavier ones, with four wheels instead
 of two, piled high with furniture, chickens in coops, children, a very
 pregnant woman, an elderly couple dressed in the same gray wool as
-everyone else.  As the image swept by, Erileine saw one boy, as
-pale-skinned as a Ruudian, jump up and point toward town.  The old man
-sitting beside him on the cart's plank seat turned to look back at the
-houses the mountain was about to crush.  *I hope you're as frightened
-as we are,* Erileine thought grimly.
+everyone else.  As the image swept by, Erileine saw one boy,
+pale-skinned like a Ruudian, jump up and point toward the town below.
+The old man sitting beside him on the cart's plank seat turned to look
+back at the houses the mountain was about to crush.  *I hope you're as
+frightened as we are,* Erileine thought grimly.
 
 "Come on, where is it?" the captain growled.  Another pass, another
 scene.  The gray tower they had seen the day before was now an
@@ -4464,10 +4471,9 @@ The captain's gaze snapped back to the window.  "Bosun!" he bellowed.
 "Where is the damned weeping bosun?" He grabbed a clerk's arm.  "Go
 and find him!"
 
-Erileine turned back to the window, clutching her satchel to her
-chest.  Ten heartbeats, five…  The town disappeared below the window's
-lower edge.  Erileine imagined he felt an especially hard bump as
-Avaunt ground Tinhead into gravel.
+Erileine turned back to the window.  Ten heartbeats, five…  The town
+disappeared below the window's lower edge.  Erileine imagined she felt
+an especially hard bump as Avaunt ground Tinhead into gravel.
 
 Suddenly the mountain slowed.  Erileine was thrown forward against the
 window, along with everyone else in the room.  Miraculously, it held.

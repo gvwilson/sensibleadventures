@@ -42,7 +42,7 @@ Most of them smoked, drank, or gambled away their gifts, but the rest
 settled down to trade, raise families, and watch the world slip past
 beneath them.*
 
-*Now, look closer.  There, in Starboard Town.  Five hundred years have
+*Now, look closer.  There, in Starboard Town.  Four hundred years have
 passed; it is Redsday, the 11th of Peridot, 1261.  A girl is running
 for her life.  She just felt the mountain shake for the first time in
 centuries, but that's not what she's afraid of.  She's afraid of what
@@ -4492,11 +4492,11 @@ on Butterjuggle Street collapsed.  Miraculously, both the single old
 man asleep on guard and the young lovers who had snuck in for some
 privacy walked away with nothing worse than scratches.
 
-Rumors scampered around like rabbits.  The mountain had crushed an
-entire town when it berthed.  Hundreds were dead, or none, or a
-thousand vengeful Hett ghosts had come to eat everyone's souls.  The
-magician Thomas had stolen the spell that kept the mountain flying,
-and the captain wanted his head.
+Rumors scampered around like frightened rats.  The mountain had
+crushed an entire town when it berthed.  Hundreds were dead, or none,
+or a thousand vengeful Hett ghosts had come to eat everyone's souls.
+The magician Thomas had stolen the spell that kept the mountain
+flying, and the captain wanted his head.
 
 Amidst the confusion, Erileine jostled her way downstairs and ran
 pell-mell back to the infirmary.  The bookster's face was drawn, but
@@ -4531,9 +4531,10 @@ Razi nodded meekly in defeat.  "Come," he said to Erileine, shuffling
 his feet as he turned around.  "Back to prison."
 
 Erileine had to help Razi sit on the edge of the bed, then help him
-again to lie flat.  "*La*, I am fine," the bookster winced.
+again to lie flat.  "*La*, please, do not fuss, I am fine," the
+bookster winced.
 
-"You don't *look* fine," Erileine said, secretly glad that the
+"Well, you look awful," Erileine said, secretly glad that the
 captain's wife had caught them.  "Do you want some water?"
 
 "Please.  *La*, wait." Razi shook his head.  "Not from the jug.  I
@@ -4559,10 +4560,11 @@ for me is the large one."
 
 Erileine swallowed dryly.  "I'm not a magician."
 
-Razi smiled weakly.  "Neither am I.  The spell is in the candles, and
-in the picture that is in the case.  Lady Kembe paid their price when
-she made them–you don't have to worry about your teeth falling out, or
-having to stand on your head when you make water."
+Razi smiled weakly.  "Neither is anyone until they make their first
+bargain.  Don't worry—most of the magic this will need is in the
+candles and the picture that are in the case.  Lady Kembe paid their
+price when she made them–you don't have to worry about your teeth
+falling out, or having to stand on your head when you make water."
 
 "I wasn't," Erileine lied.  "I just…" She shrugged.
 
@@ -4586,9 +4588,9 @@ pulled out the collection of Praczny tales.  "How about this?" she
 asked.
 
 Razi took it from her flipped through the pages.  His eyebrows went
-up.  "'Oh, Sieur Artan, the sun will burn out before I give my heart
-to any man but you.'  Erileine, I would never have guessed your tastes
-were so…purple."
+up.  "'Oh, Artan, the sun will burn out before I give my heart to any
+man but you.'  Erileine, I would never have guessed your tastes were
+so…purple."
 
 Erileine felt her ears burning.  "It's for my maere and sister," she
 mumbled.  "I thought I could read it to them.  For practice."
@@ -4602,7 +4604,7 @@ None of the clerks and guards she passed took any notice of her.
 Outside, half of the militia in Mapmarket Square had managed to form
 up, spearmen and archers side by side.  The rest were milling around,
 shouting for their companions or standing on tiptoe, waving to be
-seen.  *They don't even have proper uniforms*, Erileine thought.  The
+seen.  *They don't even have proper uniforms*, she thought.  The
 spearmen wore vests and helmets of bootsole leather.  The soldiers in
 Tinhead had all been in armor.
 
@@ -4615,15 +4617,15 @@ again, but the old woman didn't appear.  She stepped back and looked
 up at the little balcony.  If she could get up there, and if that door
 wasn't locked…  But how?
 
-"She went to stay with her son-by-marriage." Erileine whirled around
-at the voice behind him.  The thief boy was standing a few strides
-away in the mouth of the narrow alley that ran between the inn and the
-house beside it.
+"She went to stay with the family three doors down." Erileine whirled
+around at the voice behind him.  The thief boy was standing a few
+strides away in the mouth of the narrow alley that ran between the inn
+and the house beside it.
 
 "What are you doing here?" Erileine demanded.
 
-The boy scowled.  "That's none of your business.  Now, do you want to
-get in or not?"
+The boy scowled.  "None of your business.  Do you want to get in or
+not?"
 
 Erileine opened her mouth to say 'no', and instead said, "Yes.  It's
 really important.  The bookster needs his things."
@@ -4657,10 +4659,10 @@ bag in his arms.  "Can you catch?" he asked.
 
 ---
 
-The guards at the Hardeck's doors waved Erileine through.  Inside, the
-confusion had ripened into a more purposeful kind of madness.
-What-ifs had been replaced by orders given, clarified, countermanded,
-and repeated.
+This time the guards at the Hardeck's doors waved Erileine through.
+Inside, the confusion had ripened into a more purposeful kind of
+madness.  What-ifs had been replaced by orders given, clarified,
+countermanded, and repeated.
 
 The infirmary was as busy as a tavern on Departure Eve.  A pair of
 nurses held a screaming clerk down while Nuu Ciy tried to get the
@@ -4704,11 +4706,11 @@ lowered himself creakily onto the stool behind the room's battered old
 writing stand.
 
 "Tie it closed," he ordered.  Erileine fastened the door shut as Razi
-opened his bag and took out a cylinder of black leather as long and as
-thick as his forearm.  Silver stitching decorated both of its ends and
-the seam on its side.  A wooden box came next, and then the knife.
-Its short silver blade had a single edge.  Its handle was a piece of
-crystal, worn smooth like a pebble in a mountain stream.
+opened his bag and took out a scroll-sized cylinder of black leather.
+Silver stitching decorated both of its ends and the seam on its side.
+A wooden box came next, and then the knife.  Its handle was a piece of
+crystal, worn smooth like a pebble in a mountain stream, and its short
+silver blade had a single edge.
 
 Erileine licked her lips.  All the scene needed was a skull with
 glowing eyes, a black rat in a wicker cage, and a Gifted troll named
@@ -4764,29 +4766,29 @@ be three separate drops.  That's right.  Now, put the knife down on
 the table.  If you look in my bag, you should find a roll of bandage."
 
 Just as Erileine handed the roll of white cotton to Razi, a tiny flame
-appeared on the candle wick, and a presence enter the room.  There was
-no other way to describe it: Erileine *knew* another person was there.
+appeared on the candle wick, and a presence entered the room.
 
-She she looked over her shoulder at Lady Kembe's picture, the most
-powerful magician in Cherne looked back at her quizzically.  "Who are
-you?" she asked.  Her lips didn't move–the portrait hadn't come alive
-as they sometimes did in stories–but Erileine heard her as clearly as
-if she were standing a stride away.
+There was no other way to describe it: Erileine *knew* another person
+was there.  She glanced up at Lady Kembe's picture.  The most powerful
+magician in Cherne looked back at her disapprovingly.  "Who is
+yourself?"  she asked.  Her lips didn't move–the portrait hadn't come
+alive as they did in stories–but Erileine heard her as clearly as if
+she were standing a stride away.
 
 She swallowed dryly.  "I'm Erileine, *sra*.  Erileine Saedanne é
 Laeuc, of Starboard Town, on Avaunt.  I'm Bookster Razi's apprentice."
 
 Somehow, the portrait frowned without any part of it moving.  "Where
-is he?  Why not does he speak with myself himself?"  The candle flame
-flickered in time with her words.
+finds himself?  Why not does himself speak with myself?"  The candle
+flame flickered in time with her words.
 
 "He's here, *sra*." Erileine gestured, not knowing whether she could
 see or not.  "He was bowshot.  Yesterday.  In Thomas's boat.  We
 berthed at Tinhead an hour ago.  There were soldiers waiting for us.
 I think they're going into the tunnels, but I don't know for sure."
 
-"Hold, hold," Lady Kembe said.  "Begin you from the beginning.  My
-Razi has been shot?"
+"Hold, hold," Lady Kembe said.  "Begin yourself from the beginning.
+My Razi has been shot *again*?"
 
 The story of the day's events tumbled out in pieces.  The more
 Erileine talked, the more clearly she saw Lady Kembe.  She was older
@@ -4795,8 +4797,9 @@ strength.  Her *deel* was white instead of brown, and she had heavy
 rings on all of her fingers.
 
 By the time Erileine finished, those fingers were drumming on her
-desk.  "You are certain they were truly men?" she demanded.  "Those
-the soldiers whom you saw?"
+desk.  "You are certain they were truly men?" she demanded, her accent
+and grammar somehow less ancient with every sentence.  "Those the
+soldiers whom you saw?"
 
 "Yes, *sra*." The scent of the candle was making Erileine dizzy.
 
@@ -4863,7 +4866,7 @@ on?"
 
 "No.  She would tell us if she did.  She is not the kind to send
 anyone into battle blindfolded.  *La*, don't look so worried, it is
-just a figure of speech.  Now, let us see if sneaking back into bed is
+just a figure of speech.  Now, let us see if sneaking back to bed is
 as easy as sneaking out.  You need to sleep–we both of us do."
 
 "Sure." Erileine didn't need convincing.  Her eyelids were so heavy…
@@ -4880,8 +4883,8 @@ about that–you should sleep."
 Erileine nodded, looking again at the sketch on the wall.  It was just
 ink on linen once more.  "Should I put it away?"
 
-Razi shook his head.  "*La*, no, I will do it.  Though I'm sure we
-will need it again soon."
+Razi shook his head.  "I will do it.  Though *la*, I am sure we will
+need it again soon."
 
 ---
 
@@ -4977,8 +4980,9 @@ corridor to their left, but Razi turned right instead.  He walked
 slowly but purposefully, nodding at everyone they passed but never
 breaking stride.
 
-Erileine followed him into a narrow corridor that dead-ended at a
-heavy wooden door.  Razi slipped a flat leather wallet out of his
+Erileine followed him down a flight of stairs into a narrow corridor
+that dead-ended at a heavy wooden door, wondering briefly how he knew
+his way around so well.  Razi slipped a flat leather wallet out of his
 sleeve.  Unfolded, it revealed half a dozen odd-shaped metal picks.  A
 moment's work, and the door's lock clicked.  He waved Erileine through
 and closed the door behind them.
@@ -5000,9 +5004,9 @@ until the regular man comes back?"
 Erileine scowled.  "I thought the whole point of becoming a bookster
 was that I wouldn't have to shovel other people's–"
 
-*Whoomp!* The sound of the explosion hit Erileine like a padded club.
-Even as she staggered back, Razi grabbed her arm and dragged her into
-the alley.  In the distance, people started screaming.
+*Whoomp!* The sound of the explosion hit Erileine like a padded club,
+staggering her. Razi grabbed her arm and pulled her up the alley
+toward the street.  In the distance, people started screaming.
 
 "What was that?  Bookster, what was that?"
 
@@ -5052,9 +5056,9 @@ Vurt?
 
 Erileine hurried to match her master's pace.  Fifty strides up the
 street they turned left into an alley that stank of cat.  Razi slipped
-the latch on a gate, ignoring the honking of the irate gander tethered
-next to it, and strode across a yard filled with half-finished benches
-and chairs.
+the latch on a gate, ignoring the honking of the irate guard goose
+tethered next to it, and strode across a yard filled with
+half-finished benches and chairs.
 
 A sharp right turn brought them to another yard, filled like the first
 with furniture in various stages of repair.  The pink roof tiles told
@@ -5062,12 +5066,13 @@ Erileine where they were: the steam baths.  She had been here with her
 father the last time the mountain had berthed at Mau Ngapcha.
 
 "You!  Stop there!" Erileine nearly jumped out of her skin.  Razi
-turned around, his hand resting casually on his sword hilt.
+turned around, his hand resting casually on the sword hilt sticking
+out of the bottle on his belt.
 
-A militiaman stepped out of his hiding place behind a half-finished
-chest of drawers.  "Who are you?" he demanded, his arrow pointed
-straight at Razi's chest.  Two more men stood up behind him, their
-long spears held tightly.
+A militiaman stepped out from behind a half-finished wardrobe.  "Who
+are you?" he demanded, his notched arrow pointed at Razi's chest.  Two
+more men who had been hiding with him took places at his side, their
+long spears held in white-knuckled grips.
 
 Razi let go of his sword hilt and raised his palms.  "I am Razibendra
 uy-Ossisswe, a bookster.  This is my apprentice, Erileine Saedanne é
@@ -5098,12 +5103,13 @@ who poured onto the street through the bath house doors, two holding
 crossbows, the rest with swords in their hands.  "*Nas na forchem!  Na
 forchem!*" the one in front yelled.
 
-Maybe even then there was still a chance.  Maybe if the militia archer
-hadn't been as good, or as lucky, as he was.  Maybe if the Avauntois
-had spoken enough Praczny to understand that the Tinhead sergeant was
-yelling, "Don't shoot them!" But then the militiaman's arrow snickered
-over Erileine's head and took the sergeant in the throat, and whatever
-chances had been in that little yard flew away like frightened birds.
+Maybe even then there had still been a chance.  Maybe if the militia
+archer hadn't been as good or as lucky as he was.  Maybe if the
+Avauntois had spoken enough Praczny to understand that the Tinhead
+sergeant was yelling, "Don't shoot them!" But when the militiaman's
+arrow snickered over Erileine's head and took the sergeant in the
+throat, whatever chances had been in that little yard flew away like
+frightened birds.
 
 *Whap!  Whap!* The Tinhead crossbows sounded like books being slammed
 down on a table.  The quarrels knocked the Avauntois archer back
@@ -5215,17 +5221,17 @@ When she was eight, Erileine hiked down to Starboard Town's lower goat
 pasture.  She wasn't supposed to–it was twice as far from town as the
 upper pasture, at the end of a steep path, and there were places where
 one bad stumble would mean a long slide down a steep, stony hill,
-followed by an even longer drop–but Niquolas had joined Fraederiq in
-taunting her that morning, and she had lost the toy dragon Papaere
-Vurt had made for her out of a few scraps of leather, and she just
+followed by an even longer drop–but she had lost the toy dragon
+Papaere Vurt had made for her out of a few scraps of leather, and
+Niquolas had joined Fraederiq in taunting her about it, and she just
 wanted to get as far away from everyone as he could.
 
 She stayed in the pasture, watching the goats and muttering angrily at
 the empty air, until her stomach started to rumble.  As she walked
 back to town, she was so sunk in self-pity that she didn't see the
 rabbit hole until her foot went into it.  "Ow, ow, ow!" She pulled her
-foot out of the hole and tested her weight on it.  Pain shot up her
-leg.
+foot out of the hole and tested her weight on it.  Pain shot through
+her ankle.
 
 Erileine started to cry, but then, in a moment that stayed with her
 the rest of his life, she stopped.  She wasn't crying because she was
@@ -5239,8 +5245,8 @@ So she picked herself up and started limping up the mountain, two
 steps on her good foot, one quick, hopping step on the other.  It was
 half an hour before Donaien and Armaend heard her shouts.  "Well,
 you're a mess, aren't you?" Donaien said, trying to make a joke of it
-while Armaend cut a length of elbow bamboo from a nearby stand to make
-a crutch.
+while Armaend cut a length of bamboo from a nearby stand to make a
+crutch.
 
 She never told anyone about her epiphany.  What would she have said?
 But there in that alley, kneeling beside the limp, prone figure of her
@@ -5252,9 +5258,8 @@ cobblestones.  Shaking Lady Kembe's portrait from its tube, she ran
 her fingers along the wall until she found cracks she could jam pins
 into.
 
-And then, the knife.  She couldn't bring herself to cut the hard scab
-that had formed over the previous cut, so she laid the blade beside it
-and pulled.
+And then, the knife.  She couldn't bring herself to pry up the scab on
+the previous cut, so she laid the blade beside it and pulled.
 
 One drop, two, three…  She touched them to the candle, praying that
 she hadn't missed some vital step, then set it on top of Razi's bag,
@@ -5282,13 +5287,13 @@ Lady Kembe scowled.  "Have you his knife?" Erileine nodded.  "Good.
 Rest a moment where you find yourself." The picture became just a
 picture again, though the candle flame still burned.
 
-*Whoomp!* Banefire thudded in the distance.  *I forgot to ask her
-about Thomas,* Erileine thought.  All of a sudden she felt desperately
-lonely.  What would she do if Razi died?  She couldn't just leave his
-teacher's body lying in an alley–there were rats around.  She
+*Whoomp!* Banefire thudded in the distance.  All of a sudden she felt
+desperately lonely.  What would she do if Razi died?  She couldn't
+just leave his body lying in an alley–there were rats around.  She
 shivered.  Did the Karabandi burn their dead?  Or bury them, like the
-Gandan-o?  Did Razi have any oaths unaccomplished?  The thought of her
-teacher returning as a ghost made her queasy.
+Uwsians and Garheimmen were supposed to?  Did Razi have any oaths
+unaccomplished?  The thought of her teacher returning as a ghost made
+her queasy.
 
 And what was happening in Starboard Town?  Saints and small stones,
 what was happening to everyone she cared about?  What was *going* to
@@ -5329,8 +5334,7 @@ put your other hand on the candle flame.  No, not yet, not yet.
 Attend me." She opened her eyes and looked straight into Erileine's.
 "The flame shall not cease with burning.  It shall hurt.  You must be
 ready for that and you *must not* pull it away once we start.  Do you
-understand?  The doing of it would probably kill you, and might fairly
-leave me witless."
+understand?  The doing of it could kill you and leave me witless."
 
 "I–I don't know if I can do that," Erileine said.
 
@@ -5400,13 +5404,13 @@ The bookster's pulse was slower, but stronger, and his breathing was
 more like that of a sleeping man than a wounded goat.  "He's better.
 What did you do?"
 
-"Magic, of course," Lady Kembe replied shortly.  She unfolded a second
-bandage on her table one-handed.  "You do understand the working of
-it, I hope?  That you never have anything for free, but must rather
-always pay for it." She unwrapped her arm, dropped the first
-blood-soaked bandage into the bowl, and set her arm down on the
-second.  "Your hand and my blood for my Razi's life." She glanced up
-at her.  "I count it a bargain."
+"Magic," Lady Kembe replied shortly.  She unfolded a second bandage on
+her table one-handed.  "You do understand the working of it, I hope?
+That you never have anything for free, but must rather always pay for
+it." She unwrapped her arm, dropped the first blood-soaked bandage
+into the bowl, and set her arm down on the second.  "Your hand and my
+blood for my Razi's life." She glanced up at her.  "I count it a
+bargain."
 
 "Yes, *sra*," Erileine said.  She rapped her knuckles against the
 ground.  Nothing–it was as if her hand was made of wood, like Papaere
@@ -5418,7 +5422,7 @@ it is still of flesh as before.  You may easily injure it."
 "Yes, *sra*," Erileine repeated.  "What do you want me to do now?"
 
 "Wait.  That is all you can now do." She glanced out her window.  "It
-is only just noon where you find yourself, is it?  He will sleep to
+is only just morning where you find yourself, is it?  He will sleep to
 nightfall, or perhaps thereafter, and then be weak but able to walk.
 He will find you somewhere to hide."
 
@@ -5426,10 +5430,9 @@ Erileine nodded miserably.  She felt light-headed and nauseous.
 *Again*, she thought blearily.  It seemed to have been happening a lot
 recently.  "'right," she mumbled, almost toppling sideways.
 
-Lady Kembe's expression softened.  "Blow out the candle, child, and
-sleep.  Make certain to keep yourself warm–you will else feel as badly
-come evening as he does now.  And child–thank you.  You have been
-brave this night."
+Lady Kembe's expression softened.  "Sleep, child, sleep.  But make
+certain you keep yourself warm–you will else feel as badly come
+evening as he does now.  And child–thank you.  You have been brave."
 
 Erileine nodded.  She didn't feel brave.  She felt like the world had
 just used her as a night jar.
@@ -5440,18 +5443,18 @@ dreamless sleep.
 
 ---
 
-*Years later, a young Ruudian bookster named Leif Unruhsson decided to
-make that night the subject of the formal debate the university
-required of him.  He spoke with dozens of people, some for as long as
-it takes to drink a polite cup of chai, others over the course of
-several days.  He even tracked down Jack, the Gifted parrot, who by
-then was living in comfortable retirement at the court of the Sad Duke
-of Anyalcze.  Some of those conversations were quiet, almost
-nostalgic; others quickly turned angry, or dissolved into tears.  The
-bookster nodded and scribbled through them all, untouched by those
-long-ago losses, until a draper with a patch over one eye undid the
-top two buttons on her shirtcoat and drew out the small cloth bag that
-hung around her neck.*
+*Years later, a young Ruudian bookster named Leif's Unruh decided to
+make that day the subject of the formal debate the university required
+him to prepare to become a bookster.  He spoke with dozens of people,
+some for as long as it takes to drink a polite cup of chai, others
+over the course of several days.  He even tracked down Jack, the
+Gifted parrot, who by then was living in comfortable retirement at the
+court of the Sad Duke of Anyalcze.  Some of those conversations were
+quiet, almost nostalgic; others quickly turned angry, or dissolved
+into tears.  The bookster nodded and scribbled through them all,
+untouched by those long-ago losses, until a draper with a patch over
+one eye undid the top two buttons on her shirtcoat and drew out the
+small cloth bag that hung around her neck.*
 
 *Wordlessly, she loosened the bag's mouth and spilled its contents on
 the rickety tea-shop table.  A porcelain doll's head; a puzzle piece
@@ -5474,7 +5477,7 @@ without answering.*
 voice was steady.  "I wath going to teash my shildren to thing, but I
 never got the shance."*
 
-*Leif Unruhsson got very, very drunk that night, and spent most of the
+*Leif's Unruh got very, very drunk that night, and spent most of the
 next day sitting in front of the fireplace in the inn where he had
 taken lodging, his notebooks in his lap.  He later wrote, "Twice I
 made to throw them into the flames.  I asked myself, what use is
@@ -5489,17 +5492,18 @@ wrote disdainfully.  Another scribbled, "Fireside chats with common
 people do not merit a penny whistle, much less a scholar's collar and
 sash," on the twelfth page, and read no further.*
 
-*But others did, especially after Unruhsson died in a daring but
+*But others did, especially after Leif's Unruh died in a daring but
 doomed attempt to steal enchanted weapons from the tomb of Janbinder
 the Great.  The manuscript was copied and passed from hand to hand,
 until three young firebrands in Vaarda (who were later hanged, eaten
 by trolls, and married off to a respectable farming family
-respectively) set it in type.  Lines Leif had written turned up in
-ballads, were quoted by ambitious young councilors, were translated
-into Karabandi and thence into Bantangui.  When Prince Thokmay of
-Gandan stood before the Great Debate and said, "My lords, my ladies,
-we are all Avauntois now," the assembly erupted with equal measures of
-applause and abuse.*
+respectively) set it in type.  Lines Leif's Unruh had written turned
+up in ballads, were quoted by ambitious young councilors, were
+translated into Karabandi and thence into Thindi, where they were
+promptly labelled seditious.  When Prince Thokmay of Gandan stood
+before the Great Debate and said, "My lords, my ladies, we are all
+Avauntois now," the assembly erupted with equal measures of applause
+and abuse.*
 
 *But that was later…*
 
@@ -5508,19 +5512,18 @@ applause and abuse.*
 The first thing Erileine thought when she woke up was, *I need a night
 jar.* The second was, *Something stinks,* and the third, *Where am I?*
 
-She opened her eyes.  She was lying in an alley.  The air was cold,
-damp, and heavy with the smell of last week's apple cores and chicken
-bones.  The mortar in the wall beside her had crumbled with age.  Moss
-and yellow pinflowers grew in the gaps.
+The answer was an alley.  The air was cold, damp, and heavy with the
+smell of last week's apple cores and chicken bones.  The mortar in the
+wall beside her had crumbled with age.  Moss and yellow pinflowers
+grew in the gaps.
 
 She sat up and rubbed her eyes.  The left one felt odd.  Suddenly she
 looked around wildly.  Razi was gone.  So was Lady Kembe's picture.
 This wasn't even the same alley!  And–
 
-"Hello." She whirled around.  The thief was standing a few strides
-away, his back against the wall, the book of Praczny romances in his
-hands.  He closed it and cocked his head to the side.  "You're a
-sight."
+"Hoy." She whirled around.  The thief was standing a few strides away,
+his back against the wall, the book of Praczny romances in his hands.
+He closed it and cocked his head to the side.  "You're a sight."
 
 "Where am I?  Where's Razi?" Erileine asked, struggling to her feet.
 Her vision swam.  Saints, but her head hurt.  And she was hungry–no,
@@ -5554,13 +5557,13 @@ The thief rolled his eyes.  "I *said*, he went to find food.  But
 there are soldiers everywhere.  Half the market burned down, and they
 knocked the dock right off the mountain, and everybody is supposed to
 stay indoors."  He hesitated.  "The bosun's dead.  I saw his body.
-And Allaere, and the glazer, and a whole house fell down on Unlikely
-Street with people inside." He bunched his shoulders inside his
+And Allaere, and the glazer, and a whole house fell down on Rose
+Noodle Street with people inside." He bunched his shoulders inside his
 oversized jacket.  "I don't know what happened to the captain."
 
-"What's your name, anyway?" Erileine asked after a moment.
+"What's your name?" Erileine asked after a moment.
 
-The boy stiffened.  "Who wants to know?"
+The boy stiffened.  "None of your business."
 
 "Just asking."  Erileine studied him.  "First Razi catches you
 stealing, then you start following me around, then you steal that
@@ -5619,14 +5622,14 @@ bookster mouthed, not letting the boy go until he nodded.
 The bookster laced his fingers together to make a stirrup.  Tucking
 the Praczny storybook into his jacket, the thief stepped into it.
 Smoothly, with no sign of the wound that had nearly killed him the day
-before, Razi boosted him up to the window.  He opened the shutter and
-wriggled through.
+before, Razi boosted him up to the window.  The thief opened the
+shutter and wriggled through.
 
 The bookster gestured with his cupped hands at Erileine.  As Razi
 lifted her, she grabbed the windowsill.  Her feet scrabbled uselessly
 on the bricks for a moment before she got her weight through the
 window and fell onto a warped plank floor crusted with ancient bird
-cake.
+droppings.
 
 As she rolled over, the thief tossed one end of a rope out the window.
 The other end was already knotted around a beam.  Razi squirmed
@@ -5639,19 +5642,18 @@ The bookster slipped its strap over his shoulder.  "Lead the way," he
 ordered.
 
 They were in an old warehouse.  Pigeons, irvings, and other birds had
-left years of cake on the floor.  Everything looked and smelled as if
-it had been there for years.
+left years of droppings on the floor.  Everything looked and smelled
+as if it had been there for years.
 
 "Rooftops are fine in stories," the thief said to Erileine as if
 repeating a lecture.  "But it's hard to move quietly on tiles, and if
 anyone is above you, arrows are difficult to outrun.  It is always
 better to move under cover."  As he spoke, he drew a workman's knife
 from his bag and gouged the mortar away from some of the bricks in the
-wall near the crates to reveal a thick cord.  Grabbing hold of it, he
-braced his foot against the wall and yanked sharply.  As the cord went
-taut it dislodged even more mortar.  A final yank toppled a small
-section of wall inward for him to catch and lower quietly to the
-floor.
+wall to reveal a thick cord.  Grabbing hold of it, he braced his foot
+against the wall and yanked sharply.  As the cord went taut it
+dislodged even more mortar.  A final yank toppled a small section of
+wall inward for him to catch and lower quietly to the floor.
 
 "*La*, well done," Razi said, admiring the newly-made hole as if it
 were a work of art. "How are you going to close it up again?"
@@ -5660,8 +5662,8 @@ were a work of art. "How are you going to close it up again?"
 here."
 
 "But leaving it…"  The bookster pursed his lips like chef tasting an
-apprentice's first omelette. "You make it easy for others to follow
-you."
+apprentice's first omelette and finding it lacking in salt. "You make
+it easy for others to follow you."
 
 The thief made an exasperated noise in the back of his throat.
 "You're never happy, are you?"
@@ -5703,7 +5705,8 @@ Razi smiled.  "*La*, well, it may be a better place to begin than you
 think.  Come."
 
 Razi slipped through the hole in the fence. The thief gestured
-impatiently for Erileine to go next.  She paused.  "Piaerre?"
+impatiently for Erileine to go next.  She paused.  "Piaerre?  That's a
+nice name."
 
 The thief made a face.  Erileine grinned and followed Razi into the
 next yard.
@@ -5855,11 +5858,11 @@ they added drops of lemon, blueberry juice, mango, and other
 carefully-measured flavorings to the ice.
 
 The icicleers were famous for their clannishness and contrariness.
-You couldn't have a wedding in Forecastle without great tubs of
-flavored ice–the icicleers would stand outside the banquet hall
-banging on their buckets and shouting insults.  When people said, "It
-was as quiet as Sweet Icicle Street," they were describing a shouting
-match.
+You couldn't have a wedding in Forecastle without tubs of flavored
+ice–the icicleers would stand outside the banquet hall banging on
+their buckets and shouting insults if anyone tried.  When people said,
+"It was as quiet as Sweet Icicle Street," they were describing a
+shouting match.
 
 But that evening, the street truly was quiet.  With the mountain at
 rest, there wasn't even a breeze, just the muffled bang of a shutter
@@ -5907,13 +5910,13 @@ A whistle blew, high and shrill.  "*Nettin ya!  Nettin ya!*" the man
 in the sedan chair shouted, pointing at the gate.  They had been
 found.
 
-Razi didn't need to give the order–they ran, like rats scampering away
-from a cat, back to the alley and away.  Panic tightened Erileine's
-chest.  Razi's cache of equipment, the way he knew his way around
-Forecastle's back streets and byways, even his friendship with the
-thief–whether it was habit or Lady Kembe's premonitions, he had
-clearly planned for the worst.  But as they ran out onto Sweet Icicle
-Street, it was also clear that the bookster had run out of plans.
+Razi didn't need to give the order–they ran like rats, back to the
+alley and away.  Panic tightened Erileine's chest.  Razi's cache of
+equipment, the way he knew his way around Forecastle's back streets
+and byways, even his friendship with the thief–whether it was habit or
+Lady Kembe's premonitions, he had clearly planned for the worst.  But
+as they ran out onto Sweet Icicle Street, it was also clear that the
+bookster had run out of plans.
 
 "Psst!  Over here!" Razi pulled up sharply, stumbling a step when
 Erileine plowed into him, and again when the thief plowed into her.  A
@@ -5950,10 +5953,6 @@ Razi bowed slightly.  "I am.  I am Razibendra uy-Ossisswe.  This is my
 apprentice, Erileine Saedanne é Laeuc, of Starboard Town.  And
 Piaerre, without whom I am sure we would be wearing fetters at this
 moment."
-
-Erileine glanced at the thief, belatedly realizing that she'd never
-thought to ask his name.  "What?" the thief whispered belligerently.
-Erileine just shook her head.
 
 "You have any idea who these lot are?" the younger man asked.
 
@@ -6044,33 +6043,29 @@ thank me by braining one of them when you get a chance."
 
 The garden took them to a street that doubled back twice before
 curving around an outcropping of granite to a storage pond that had
-almost run dry.  The beans on its far side were only ankle high, but
-the ditch that ran between them took Erileine's leg up to the knee.
-The bottom was squelchy with mud and rotting greenery.
+almost run dry.  The beans on its far side were only knee high, but
+Erileine's foot sank up to her ankle in the ditch that ran between
+them.  Its bottom was squelchy with mud and rotting greenery.
 
-"So now we crawl," Razi sighed.  Piaerre wrinkled his nose, but lay
-flat and began wriggling.  Erileine followed suit, gagging the first
-time her weight made a buried twig fling a palmful of mud into his
-face.  She found herself wishing that Lady Kembe's spell had taken her
-sense of smell rather than the feeling in her hand.
+"*La*, I grow tired of this," Razi sighed.  Piaerre wrinkled his nose,
+but lay flat and began wriggling.  Erileine followed suit, gagging the
+first time a buried twig flung a palmful of mud onto her face.  She
+found herself wishing that Lady Kembe's spell had taken her sense of
+smell rather than the feeling in her hand.
 
 The far end of the ditch connected with a larger one built to carry
 runoff to the carp pools.  Erileine cautiously raised her head.  A
-yellow glow moved through the trees fifty strides to their left.
+yellow glow moved through the trees fifty strides to her left.
 
 "Do we run for it?" the thief whispered.
 
-Erileine looked over her shoulder at Razi.  The bookster nodded.  "We
-run for it."
+Razi shook his head.  "We cannot outrun crossbows.  Keep going."
 
-"*Hesht!  Hesht aue paratte!*" The shout from behind them was
-punctuated by a shrill whistle.  A second whistle took up the call.
+They reached the tree line long minutes later.  Working in silence,
+Razi and Piaerre cut down the bean plants nearest the ditch so that
+the trio could slither out of the ditch without making too much.
 
-"Go!" Razi shouted, sprinting for the pines.  Bean plants caught at
-Erileine's legs as she followed him, redoubling her speed as a
-crossbow quarrel thunked into a tree behind her.
-
-"This way," Razi hissed, plunging into the trees, bending branches out
+"This way," Razi hissed once they were standing.  He bent branches out
 of their way and releasing them slowly instead of letting them snap
 back into place.  Erileine moved gingerly, testing the ground with
 each step before putting her weight down.  She had hunted rabbits this
@@ -6093,9 +6088,9 @@ Come on."
 
 It took them half an hour to reach the road.  They saw two squads of
 soldiers, one marching purposefully away from Forecastle, the other
-guarding a double handful of Avauntois.  The prisoners were sitting on
-the ground with their hands tied behind their backs and gags in their
-mouths.  One was sobbing quietly.
+guarding a double handful of arborists and charcoleers.  The prisoners
+were sitting on the ground with their hands tied behind their backs
+and gags in their mouths.  One was sobbing quietly.
 
 Eventually the neat rows of the pine orchard blended into unkempt wild
 forest.  "Rest," Razi said, squatting on his heels.  His eyes were
@@ -6143,7 +6138,7 @@ of not knowing what was happening there, or in Forecastle, or anywhere
 else.  Razi kept them in the trees most of the time.  Whenever the
 only way forward was to venture onto the road or grow wings, they
 huddled beneath low-hanging branches and let the toothworms sting them
-until the bookster was satisfied that no one else was watching too.
+until the bookster was satisfied that no one was watching.
 
 They were halfway to their destination when they heard chopping and
 caught a whiff of smoke.  Cautiously, they edged forward to look.
@@ -6193,11 +6188,11 @@ They slept in turns that night.  Piaerre snored, but only faintly.
 "What's his story?" Erileine asked when Razi woke her to stand watch.
 
 The bookster propped himself up one elbow.  "*La*, he does not get on
-with his father.  And even less well with his father's new wife," he
-added with a sigh.  "So he spends as little time with them as he can,
-which means he spends most of his time on the street."
+with his father, and even less well with his father's new wife.  So he
+spends as little time with them as he can, which means he spends most
+of his time on the street."
 
-"Oh.  So why did you let him get arrested?"
+"Oh.  So why did you get him arrested?"
 
 The bookster grinned like a mischievous child.  "He needed practice
 escaping.  As I once did."
@@ -6262,14 +6257,13 @@ her the other way.
 Vaszlav stepped into the clearing.
 
 Razi poured his blade back into its bottle.  "*La*, and what is it
-that has happened to you?  Is this Gaeston's doing?" The tinker's face
-was bruised, and his clothes dirty and torn.  A rough splint bound
-three fingers of his right hand together.
+that has happened to you?" The tinker's face was bruised, and his
+clothes dirty and torn.  A rough splint bound three fingers of his
+right hand together.
 
-"No." The tinker seemed close to tears, whether from shame or
-frustration or relief, Erileine couldn't tell.  "It was the Hett.  The
-ones in the helmets."  He laughed without humor at their expressions.
-"The newcomers.  They're all Hett."
+"It was the Hett.  The newcomers."  The tinker seemed close to tears,
+whether from shame or frustration or relief, Erileine couldn't tell.
+"Don't you know?  They're all Hett."
 
 His story tumbled out of him while Razi fashioned a fresh splint for
 his hand.  He'd been camping by the little stream that marked the
@@ -6331,7 +6325,7 @@ Piaerre grabbed a nearby branch to keep his balance.  "Good, now, do
 you see the cleft in the tree, just above your head?  Yes?  Good.
 Erileine, pass me the case.  Can you wedge it in?  *La*, no, higher
 than that.  Don't be so gentle, it isn't silk.  Good.  Now my sword.
-This you can be gentle with–we're a thousand gallops and a hundred
+This you can be gentle with–we're a thousand gallops and a thousand
 years away from anyone who could make another like it."
 
 The Starboard Town militia ambushed them a hundred strides later,
@@ -6360,8 +6354,8 @@ this.  They're not soldiers."
 "*La*, these ones are," Razi replied.  "Good ones.  And their
 magicians are even better."
 
-The bosun spat into the bushes.  "Well then, I guess I owe Gaeston an
-apology.  What about the captain?"
+The bosun spat into the bushes.  "Damn them whoever they are.  What
+about the captain?"
 
 The bookster spread his hands.  "*La*, we do not know.  Taken, or
 slain, or in hiding."
@@ -6396,8 +6390,9 @@ People working in the fields ran to meet them as they trudged down the
 mountain.  Saedanne almost cracked Erileine's ribs hugging her, then
 surprised herself and everyone else by hugging the bookster and
 Piaerre as well.  Mamaere Mayeule took one look at Piaerre and dragged
-him away.  "Have you *ever* had a bath?" Erileine heard her ask.  The
-next thing she knew, she was home.  Her mother stripped her filthy
+him away.  "Have you *ever* had a bath?" Erileine heard her ask.
+
+The next thing she knew, she was home.  Her mother stripped her filthy
 clothes off her as if she were a baby and sent her stumbling upstairs
 to find fresh ones.
 
@@ -6414,9 +6409,9 @@ Erileine nodded, sucking air into her mouth to cool its contents as
 her grandfather quickly filled her in on what had happened while she
 had been away.  There had been a rockslide when the mountain
 berthed–nobody had been hurt, but it had made kindling out of the
-shearing shed above the goat pasture.  But a few house beams had
-cracked or skewed, and some crockery had been broken, as had Mamaere
-Mayeule's favorite dayglass lantern.
+shearing shed above the goat pasture.  A few house beams had cracked
+or skewed, and some crockery had been broken, but that was the worst
+of it.
 
 Papaere Vurt slid a folded piece of paper across the table to
 Erileine.  "Niquolas wanted me to give this to you," he said gruffly.
@@ -6509,9 +6504,8 @@ that out."  She dodged her sister's half-hearted shoulder punch, then
 surprised them both by putting her arms around Queçenne and giving her
 sister an awkward hug.
 
-She was wearing the hair ribbon their father had bought for her in
-Forecastle, Erileine noticed.  "I'm sorry about Fraederiq," Erileine
-mumbled into her sister's shoulder.
+"I'm sorry about Fraederiq," Erileine mumbled into her sister's
+shoulder.
 
 Queçenne froze.  Erileine let go of her, an apology already rising in
 her throat, but her sister pulled her back into the hug and squeezed
@@ -6629,9 +6623,10 @@ They're here!"
 The soldiers marched into Starboard Town in two columns, their helmets
 gleaming in the sun.  Each man wore a steel breastplate, and had a
 short steel sword belted around his waist.  They were clean-shaven and
-unremarkable: brown-skinned, dark-eyed, neither tall nor short.  Their
-heavy boots made a *tramp, tramp, tramp* Starboard Town had never
-heard before.
+unremarkable: brown-skinned, dark-haired, neither tall nor short.
+Their heavy boots made a *tramp, tramp, tramp* Starboard Town hadn't
+heard since the ancestors of the Avauntois had capured the mountain
+four hundred years before.
 
 Bosun Uyves and five others walked in their midst, their hands tied
 behind them.  As they approached the upper fields, some people ran for
@@ -6696,7 +6691,7 @@ except her.  She opened the door, stepped out, and ran straight into a
 soldier's armored chest.
 
 "Ooph!" Erileine stumbled back a step.  The soldier eyed her coldly.
-"Go home," she said in badly-accented Gandan-o.
+"Go home," he said in badly-accented Gandan-o.
 
 Erileine spread her hands and tried to smile despite her thudding
 heart.  "I'm sorry, but I'm looking for my teacher.  I have to–"
@@ -6711,7 +6706,7 @@ arjo?*"
 
 "Um, *ve nesse arja me.*" Erileine shrugged.  "My teacher speaks it
 better, though.  I'm trying to find him.  My… teacher…" she repeated
-slowly.  "Cake, what's the word for teacher?"
+slowly.  "Saints, what's the word for teacher?"
 
 The soldier whistled sharply through his teeth, two quick notes high
 and low.
@@ -6737,7 +6732,7 @@ sentence."
 "What?"
 
 Jaromir tsk'd.  "I think you meant to say, what are you doing here,
-**sra**.  Didn't you?"
+*sra*.  Didn't you?"
 
 Erileine stared at him.  *Sra*?  Nobody called a Hett "*sra*", not
 unless they were mocking drunk.  But Jaromir plainly wasn't just a
@@ -6805,9 +6800,9 @@ people called it no longer matters."
 
 "*La*, truly?" Razi repeated softly.
 
-"Truly.  None of this matters any more." Lieutenant Jaromir waved a
-hand to take in Starboard Town, the mountain, and possibly the whole
-world.
+"Truly."  Lieutenant Jaromir waved a hand to take in Starboard Town,
+the mountain, and possibly the whole world.  "Whatever name these
+people gave it is now in the past, and that past has ended."
 
 Whatever reply bookster might have given was cut off by a sharp
 three-tone whistle.  The small knot of soldiers behind Lieutenant
@@ -6833,14 +6828,14 @@ again.
 you were going?  Or was your plan simply to knock us off the mountain
 one by one?"
 
-The bosun let fly with a stream of curses.  "Maggoty goat-fondling
-lackwit cake-eating…"
+The bosun let fly with a stream of curses.  "Maggoty lackwit
+goat-fondling…"
 
 Jaromir drew his sword and placed its point against the bosun's
 throat.  "We are not animals," he said without preamble as the bosun's
-words caught in his throat.  "None of us–*none* of us–will ever do to
-you what people like you have done to the Hett for hundreds of years.
-It would be an insult to everything we believe."
+words ended in an indrawn hiss.  "None of us–*none* of us–will ever do
+to you what people like you have done to the Hett for hundreds of
+years.  It would be an insult to everything we believe."
 
 "But you need to understand, right in your gut, that things have
 changed." He clenched a fist in front of his belly for emphasis as he
@@ -6916,8 +6911,8 @@ it would be.  "His translator?"  her mother spluttered.  "I'll be a
 haunt before you'll be his anything!"
 
 "I don't think I have a choice, maere.  Thanks, papaere." Erileine
-took the plate of grilled squash he passed her and began forking it
-into her mouth.
+took the plate of grilled squash her grandfather passed her and began
+forking it into her mouth.
 
 "Of course you have a choice!  Laeuc, she can't–what will people
 think?"
@@ -7035,14 +7030,14 @@ She used the stunned silence that followed to wipe the last of the
 gravy off her plate with her finger.  "It started just after the
 mountain changed course…"
 
-It took Erileine less time than she'd expected to tell her family
-about the secrets she had been keeping.  Her mother's face grow
-stonier with each passing moment, while her father and sister looked
-at her as if she was a stranger.
+It took Erileine less time than she'd expected to tell her family what
+had happened and what she had done.  Her mother's face grew stonier
+with each passing moment, while her father and sister looked at her as
+if she was a stranger.
 
-When she finished, though, her grandfather put his hand on Erileine's
-shoulder and shook her gently.  "Good job," he said.  "Now, let me see
-that hand of yours."
+But when she finished, her grandfather put his arm around her
+shoulders and gave her a squeeze.  "Good job," he said.  "Now, let me
+see that hand of yours."
 
 Erileine held it out, palm up.  Papaere Vurt studied it.  "Doesn't
 look any different."

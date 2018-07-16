@@ -208,8 +208,8 @@ w-would have caught me if I'd come straight down Slip Street, so I–"
 She broke off, unable to meet her papaere's eyes.
 
 Vurt waited, his face expressionless.  "I went over her back wall,"
-Erileine finished dully.  "He came after me.  We were halfway here when
-it happened."
+Erileine finished dully.  "He came after me.  We were halfway here
+when it happened."
 
 Vurt studied his granddaughter's face.  "You know you're not supposed
 to go there."
@@ -1064,8 +1064,8 @@ feel, the more sapphire they use." He folded the book and placed it
 carefully in the crate he referred to as the "someday" pile.  If it
 had been interesting, he would have had Erileine catalog it and put it
 back on the shelves that lined the library's walls.  If it had been
-*really* interesting—magic or history or both—he would have spent an
-hour going through it, talking aloud while Erileine made notes and
+*really* interesting---magic or history or both---he would have spent
+an hour going through it, talking aloud while Erileine made notes and
 asked questions.
 
 The captains of Avaunt had been retiring to Starboard Town for two
@@ -1193,8 +1193,8 @@ had ever happened before, everybody would probably already know about
 it."
 
 "He's probably right," she said briskly.  She pushed the stew crock
-toward Erileine.  "Here, take this up for him—I'm sure he could use a
-good dinner.  Queçenne, why don't you tidy up?"
+toward Erileine.  "Here, take this up for him---I'm sure he could use
+a good dinner.  Queçenne, why don't you tidy up?"
 
 Having to scrape egg off her mother's precious cast-iron pan would
 normally have sent Queçenne into a blue sulk.  That evening, she just
@@ -1431,7 +1431,7 @@ started drinking again–but conversation quickly turned to the
 mountain.  Where do *you* think we're going?  And shouldn't we do
 something, just in case?  Well no, I don't know what, but surely
 there's something.  Yes, I'm sure the captain's thought of all of
-this, but still—poor Fraederiq, what a shame.
+this, but still---poor Fraederiq, what a shame.
 
 Erileine finally fled, unable to listen any more.
 
@@ -1902,8 +1902,8 @@ was the roof of the Captain's House and a few household kites.  In the
 distance, a herd of clouds was raining on the plains below.  *At least
 _they_ have water*, Erileine thought.
 
-"Do you think they know?" she asked no one in particular.  "Down below,
-I mean.  That we're off course?"
+"Do you think they know?" she asked no one in particular.  "Down
+below, I mean.  That we're off course?"
 
 "They know," the bosun said firmly.  "Can't move a mountain around
 without people noticing."
@@ -1958,8 +1958,8 @@ anyone else could speak.  When Razi shook his head, Erileine pointed
 up the mountain's side.  "It was up there, in one of the old tunnels.
 Bosun Uyves' father was there, wasn't he?"
 
-"That he was," Uyves said, wiping the damp off his mustache.  "It
-was, what, forty years ago?  Forty-one, now…"
+"That he was," Uyves said, wiping the damp off his mustache.  "It was,
+what, forty years ago?  Forty-one, now…"
 
 *The bonescuttle whose skull would eventually hang above Vurt's
 fireplace was what brought him to Avaunt.  They were patient
@@ -3296,8 +3296,8 @@ I'll arrest the lot of you!"  She stepped in front of a bare-legged
 man in a winter-weight coat, reached for his sleeve, was knocked aside
 by someone else.  "Hey!" She spun around, helpless and seething.
 Erileine hurried past her, head down, her heart in her throat. She
-didn't know what was happening, but something told her it was bad—very
-bad.
+didn't know what was happening, but something told her it was
+bad---very bad.
 
 Up a dozen broad, shallow stairs, past a man kicking and kicking to
 work cobblestones loose for other people to snatch up, around a corner
@@ -3384,8 +3384,8 @@ thought the better of it as the line of bosun's mates reached him, and
 slumped back to the cobblestones.
 
 Razi and Klaues disappeared into an alley.  Erileine swallowed the
-ache in her throat and joined the stream of people—no longer a
-mob—hurrying back to their lives.
+ache in her throat and joined the stream of people---no longer a
+mob---hurrying back to their lives.
 
 ---
 
@@ -3936,8 +3936,8 @@ things left on the mountain, books.  Beans and wool, they're what's in
 fashion these days." He snorted, sawing delicately at the book's
 binding with a scaling knife.
 
-Erileine sighed.  A half-ring, and she might have bought it.  But three
-rings!
+Erileine sighed.  A half-ring, and she might have bought it.  But
+three rings!
 
 She scowled.  "A half-ring and eightpence."
 
@@ -4561,7 +4561,7 @@ for me is the large one."
 Erileine swallowed dryly.  "I'm not a magician."
 
 Razi smiled weakly.  "Neither is anyone until they make their first
-bargain.  Don't worry—most of the magic this will need is in the
+bargain.  Don't worry---most of the magic this will need is in the
 candles and the picture that are in the case.  Lady Kembe paid their
 price when she made them–you don't have to worry about your teeth
 falling out, or having to stand on your head when you make water."
@@ -5775,8 +5775,8 @@ that?"
 The corner of the bookster's mouth quirked.  "Actually," he confessed,
 "It's for keeping cows' udders soft in winter."
 
-"Oh." Erileine digested that as she looked around.  "So how many places
-like this do you have?"
+"Oh." Erileine digested that as she looked around.  "So how many
+places like this do you have?"
 
 "In Forecastle?" Razi turned his hands palms-up.  "Just the two you
 have seen."
@@ -6462,8 +6462,9 @@ Erileine woke to a gentle, irregular tapping sound, like pebbles
 clattering in a sieve. She slipped on her trousers and shirt, threw
 off her quilt, and padded barefoot down the stairs.
 
-"Ssh!" Queçenne hissed from beside the front door. Her hair was tousled,
-and she had her winter coat on over her nightdress. "Look at it."
+"Ssh!" Queçenne hissed from beside the front door. Her hair was
+tousled, and she had her winter coat on over her nightdress. "Look at
+it."
 
 Erileine stood on tiptoes to peer through the half-open door over her
 sister's shoulder. The sky was a roiling mass of clouds. They had been
@@ -6472,8 +6473,8 @@ mountain had plowed into them without warning. Now they were
 panicking, dumping water to lighten themselves so that they could get
 out of its way.
 
-But their water wasn't falling as rain. Instead, hailstones the size of
-pearls were bouncing off the cobblestones to lie cold, white, and
+But their water wasn't falling as rain. Instead, hailstones the size
+of pearls were bouncing off the cobblestones to lie cold, white, and
 brilliant in the cracks between them. Erileine had never seen anything
 like it.
 
@@ -6493,11 +6494,11 @@ The sisters watched the hail bounce off the cobblestones a few moments
 longer, until Queçenne said, "I'm going back to bed. If you find out
 anything, will you tell me?"
 
-Erileine smiled in the dark, remembering a Yearagain Eve long ago. "Only
-if you give me one of your painted eggs."
+Erileine smiled in the dark, remembering a Yearagain Eve long
+ago. "Only if you give me one of your painted eggs."
 
-Her sister scowled. "Idiot. You didn't even really know what they'd got
-for me."
+Her sister scowled. "Idiot. You didn't even really know what they'd
+got for me."
 
 Erileine's smile broadened. "No, but it took you three eggs to figure
 that out."  She dodged her sister's half-hearted shoulder punch, then
@@ -7450,10 +7451,10 @@ Hett soldiers than fighting her parents.
 
 Donaien was sitting on an overturned bucket pointing out weeds to
 Piaerre, while Armaend pointed out the ones he missed and Piaerre
-gossiped non-stop about people in Forecastle: who took quick nips
-from a bottle hidden under the counter when there were no customers in
-his shop, whose daughters looked nothing at all like her husband, who
-had shortchanged himself in a complex business deal in Mau Ngapcha…
+gossiped non-stop about people in Forecastle: who took quick nips from
+a bottle hidden under the counter when there were no customers in his
+shop, whose daughters looked nothing at all like her husband, who had
+shortchanged himself in a complex business deal in Mau Ngapcha…
 
 *They're enjoying his company more than they ever enjoyed mine*,
 Erileine thought sourly.  He was certainly better at talking than he
@@ -8559,8 +8560,8 @@ said.  He drew something from inside his *deel* and threw it against
 the floor.  It tinkled like breaking glass and started to glow.
 
 "Wow," Erileine breathed.  The room was enormous–the Captain's House
-would fit into it with space left over for a sizable garden.  The
-only break in the polished walls was a square opening opposite them,
+would fit into it with space left over for a sizable garden.  The only
+break in the polished walls was a square opening opposite them,
 identical to the one they had just come through.
 
 They were halfway across the tilted floor when an all-too-familiar
@@ -8649,8 +8650,8 @@ stone railing.
 
 "Will it take your weight?" the bookster asked.
 
-Vurt shrugged.  "Only one way to find out, isn't there?" He swung
-his false leg over the railing and slithered down the rope.
+Vurt shrugged.  "Only one way to find out, isn't there?" He swung his
+false leg over the railing and slithered down the rope.
 
 A minute later, the four of them stood together on the amphitheater
 floor.  Ahead and below, the Hett hurried about their work.
@@ -8812,7 +8813,7 @@ ourselves."
 helpless victims again.  Now, *where is the stone?*"
 
 Panic rose in Erileine's throat.  She fumbled with the latch on the
-casket, haste making her fingers clumsy.  *Snick.*  She lifted the
+casket, haste making her fingers clumsy.  *Snick.* She lifted the
 lid–it was heavier than she had expected.
 
 Inside, a clear crystal the size of her fist rested in a cast-iron

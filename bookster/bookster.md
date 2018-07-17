@@ -985,7 +985,7 @@ in just a few weeks.
 
 But what if it turned again?  It could go *anywhere*. The enormity of
 the thought dizzied her.  The Staircase Kingdom at the East Pole, or
-Garheim in the north, or even further, to Anuvatik---what was to stop
+Ruuda in the north, or even further, to Anuvatik---what was to stop
 them from wandering forever like the fabled Cursed Caravan, caught in
 its perpetual sandstorm in the depths of the Karaband?
 
@@ -1771,19 +1771,66 @@ past year…  She pulled the quilt tighter around her shoulders.  Maybe
 her mother was right: maybe it was time to pass the toys on to someone
 else.
 
-She tossed and turned for hours.  When sleep finally came, it brought
-a new nightmare.  This time, Fraederiq and Niquolas were dangling her
-out the upstairs back window at Mamaere Mayeule's.  One boy held each
-of her legs; each time she tried to grab the window sill, they relaxed
-their grip for a moment, making her shriek with terror.  It had
-actually happened, a year or so ago.  Niquolas had eventually said he
-was tired of the game, and insisted that they pull her in.  In her
-dream, though, Erileine hung over the edge of the mountain, not over
-Mamere Mayeule's courtyard, and no one heard her cries and came to
-rescue her.
+She listened as her parents murmured to each other too quietly for her
+to hear and put themselves to bed.  A shutter creaked, and then the
+house was still.
 
-She woke with a small cry.  Dizzy with sweat, she fixed her eyes on
-her dayglass night light and waited for dawn.
+Moving slowly, Erileine slid off her cotton-and-straw mattress and
+pulled out the book that lay waiting beneath it.  She let out a silent
+sigh of relief.  She hadn't exactly stolen the book from the Captain's
+House, only borrowed it, but she wasn't completely sure her mother
+would understand the difference.
+
+The polished brass cylinder her grandfather had given her as a nameday
+give was on the windowsill where she had left it.  Easing gingerly
+back into bed, she unscrewed its lid.  The captured sunlight that
+poured out of the sliver of dayglass inside made a circle of light on
+the handwritten pages she had been trying to decipher for the last
+week.
+
+But "decipher" wasn't the right word.  The book was written in
+Gandan-o, so she could read it just fine; it was making sense of it
+that escaped her.  Page after page described how its anonymous author
+had bargained away everything from a single toenail to the ability to
+tie a knot in a piece of red thread, all in exchange for magic, but
+nowhere did it say who they had bargained with or how.
+
+Did magicians make deals with ghosts?  When she asked Razi, as
+casually as she could, he pursed his lips.  "*La*, in Anuvatik, or so
+the Ruudians say.  But not elsewhere---civilized people do not trouble
+the dead."
+
+"But then who?" Erileine asked in frustration.  "When magicians say
+they're making bargains, who are they making bargains *with*?"
+
+The corner of the bookster's mouth quirked.  "If you ask two
+magicians, they will give you three answers.  The Pilots, even though
+they are gone?  But then who did the Pilots bargain with for their
+powers?  Or perhaps some secret part of their own souls, or some
+invisible Author who will rewrite the story we all live in if asked to
+politely?"
+
+He shrugged.  "All anyone knows for sure is that there is always a
+price, and that anyone who is hasty or careless when making their
+bargains always winds up wishing that they had been neither."
+
+She gave up on the book the second time her eyes jerked open.
+Suddenly weary, she capped her little dayglass light, slid the book
+back under her mattress, and rolled over.
+
+Sleep came quickly, and with it a half-familiar nightmare.  Fraederiq
+and Niquolas were dangling her out the upstairs back window at Mamaere
+Mayeule's.  One boy held each of her legs; each time she tried to grab
+the window sill, they relaxed their grip for a moment, making her
+shriek with terror.  It had actually happened, a year or so ago.
+Niquolas had eventually said he was tired of the game, and insisted
+that they pull her in.  This time, though, Erileine hung over the edge
+of the mountain, not over Mamere Mayeule's courtyard, and no one heard
+her cries and came to rescue her.
+
+She woke with a small cry.  Dizzy with sweat, she groped for her
+light, then shone it on the ceiling, dim but comforting, and waited
+for dawn.
 
 ---
 
@@ -5299,7 +5346,7 @@ picture again, though the candle flame still burned.
 desperately lonely.  What would she do if Razi died?  She couldn't
 just leave his body lying in an alley---there were rats around.  She
 shivered.  Did the Karabandi burn their dead?  Or bury them, like the
-Uwsians and Garheimmen were supposed to?  Did Razi have any oaths
+Uwsians and Ruudians were supposed to?  Did Razi have any oaths
 unaccomplished?  The thought of her teacher returning as a ghost made
 her queasy.
 

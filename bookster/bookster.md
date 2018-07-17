@@ -6199,18 +6199,25 @@ use it properly, she wouldn't be able to help her grandfather.
 It took them a day and a half to reach Starboard Town---a day and a
 half of not knowing what was happening there, or in Forecastle, or
 anywhere else.  Razi kept them in the trees most of the time.
-Whenever the only way forward was to venture onto the road or grow
-wings, they huddled beneath low-hanging branches and let the
-toothworms sting them until the bookster was satisfied that no one was
-watching.
+Whenever the only way forward was to venture onto the path, they
+huddled beneath low-hanging branches and let the toothworms sting them
+until the bookster was satisfied that no one was watching.
+
+Erileine's stomach grumbled for the first few hours, then turned into
+a hard, painful lump.  Her head ached and she felt grimy, even after
+peeling out of her clothes and washing off the worst of the mud.  Razi
+and Piaerre did the same, or at least she presumed they did---by
+unspoken agreement, it was the one time they were out of each other's
+sight.
 
 They were halfway to their destination when they heard chopping and
 caught a whiff of smoke.  Cautiously, they edged forward to look.
 
 Fifty strides below, a dozen soldiers were clearing brush from the
-mouth of an old tunnel.  They worked with their helmets off, but kept
-their breastplates on, and their swords and crossbows close to hand.
-They spoke in monosyllables, intent on their labor.
+mouth of an old tunnel that probably hadn't seen daylight in
+centuries.  They worked with their helmets off, but kept their
+breastplates on, and their swords and crossbows close to hand.  They
+spoke in monosyllables, intent on their labor.
 
 As they watched, one of the soldiers drove his ax into a stump for
 safekeeping and called out to his companions.  They set their axes and
@@ -6268,14 +6275,33 @@ Erileine digested that for a moment. "Razi?"
 "Do you ever miss your home?"
 
 The bookster smiled at that rather than grinning, but his expression
-was tinged with melancholy.  "Yes," he said after a long pause.  "But
-it has changed a great deal since I first left it, and so have I."
+was melancholy.  "Yes, very much.  But it has changed a great deal
+since I left it, and so have I.  *Shalma te*, apprentice." He lay back
+down and closed his eyes.
 
-He got them moving again before dawn.  Mountain streams quieted their
-thirst, but the early berries they stripped off the bushes weren't
-enough to ease the ache in Erileine's stomach or the throbbing in her
-head.  She grit her teeth and told herself that she wouldn't complain
-until Piaerre did.
+"*Shalma te*," Erileine echoed.
+
+She studied the stars through the branches above them as her
+companions slept.  Diwei was a steady blue-green dot to the west.
+Shiwu was hidden by the trees, but she could see Chefu just above the
+horizon.  She shivered.  She had loved to go star-watching with her
+father when she was younger, but they'd had a warm fire to come home
+to.
+
+*I'd give anything for a fire right now,* she thought despondently.
+
+«Anything?»
+
+She froze.  She hadn't heard the one-word question, but she knew, she
+*knew*, that someone or something had asked, and would reply if she
+answered.  She swallowed dryly and let the moment pass.
+
+Razi got them moving again before dawn.  Mountain streams quieted
+their thirst, but the early berries they stripped off the bushes
+weren't enough to ease the ache in Erileine's stomach or the throbbing
+in her head.  She didn't mention the not-a-voice she had not-heard
+during the before.  Instead, she grit her teeth and told herself that
+she wouldn't complain until Piaerre did.
 
 An hour after sunrise, as they neared Starboard Town, Razi raised his
 hand.  "*La*, do you smell?" Erileine sniffed the air.  Pine smoke,

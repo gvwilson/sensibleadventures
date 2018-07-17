@@ -1960,12 +1960,14 @@ without people noticing."
 
 Razi nodded.  Despite the die-hard patches of snow lurking among the
 rocks, his feet were bare in his thick-soled desert sandals, though he
-had tied the wrist strings of his *deel*, and belted it more tightly
-around his waist to keep the warmth in.  "*La*, it will be like the
-tale of the camel in the crib.  There will be meetings---kings and
-princes, ministers and magicians, all twittering at each other like
-birds.  What does it mean, who will advantage by it…  Heh." He
-sniggered like a little boy who has heard a dirty joke.
+had tied the wrist strings of his *deel* and belted it more tightly to
+keep the warmth in.  His pack was half the size of the bosun's; an
+ancient sword hilt stuck out of a green glass bottle strapped to one
+side, and a plain black umbrella was strapped to the other.  "*La*, it
+will be like the tale of the camel in the crib.  There will be
+meetings---kings and princes, ministers and magicians, all twittering
+at each other like birds.  What does it mean, who will advantage by
+it…  Heh." He sniggered like a little boy who has heard a dirty joke.
 
 "Glad you find it funny," Donaien said a little sourly.  "Can't say I
 see the joke myself."
@@ -3332,11 +3334,11 @@ the hostel's narrow window weren't the sounds of people organizing to
 fight it. They were angrier. And that crash---that was glass being
 shattered.
 
-A glance told her that Razi's hammock was empty and his bag gone.  She
-shoved her feet into her boots, ignoring her father's, "Stay here!"
-and ducked through the crush of grownups trying to get dressed and
-find their belongings and get out of each other's way all at the same
-time.
+A glance told her that Razi's hammock was empty and his pack was gone.
+She shoved her feet into her boots, ignoring her father's, "Stay
+here!"  and ducked through the crush of grownups trying to get dressed
+and find their belongings and get out of each other's way all at the
+same time.
 
 Downstairs, around the table where she had eaten dinner a few hours
 before, out the door into a stream of people.  "Come on!" someone
@@ -3381,18 +3383,19 @@ downstairs room. "Are they- The Hett--- Did they---"
 
 "*La*, they are out, if not safe," the bookster said, looking past her
 at the burning building. "They have seen such as this before, and were
-ready for it."
+ready for it."  The green glass bottle that had been strapped to his
+pack hung from his belt, the sword hilt still jammed into it.  His
+eyes were hooded like a hunting bird's.
 
 "But who…" Erileine faltered. These were her people. How could they do
 something like this?
 
-The bookster shrugged, his face expressionless, his hand on her
-shoulder pushing gently to guide her back away from the crush without
-her really realizing that she was moving. "Someone had too much to
-drink.  *La*, or someone has a debt they think they should not have to
-pay, or perhaps one of the Hett didn't step out of the way on the
-street quickly enough.  It is like asking which drop of rain makes the
-dam break."
+The bookster shrugged, his hand on her shoulder pushing gently to
+guide her back away from the crush without her really realizing that
+she was moving. "Someone had too much to drink.  *La*, or someone has
+a debt they think they should not have to pay, or perhaps one of the
+Hett didn't step out of the way on the street quickly enough.  It is
+like asking which drop of rain makes the dam break."
 
 A shout cut through the night. "Let go of me!" Erileine and a hundred
 others whirled around.  Three men were dragging a struggling fourth
@@ -3414,10 +3417,10 @@ Stepping away from her, he slipped a hand inside his *deel* and pulled
 out a small blue vial.  "You will go back to the hostel," he ordered.
 She nodded jerkily, but he had already cocked his arm and thrown.
 
-Nobody in the crowd noticed the little vial sail through the
-air. Nobody heard it shatter on the stones two strides away from the
-men holding Klaues.  And for the first vital heartbeat, nobody noticed
-the darkness billowing out of it, blacker than a starless night.
+Nobody in the crowd noticed the little vial sail through the air.
+Nobody heard it shatter on the stones two strides away from the men
+holding Klaues.  And for the first vital heartbeat, nobody noticed the
+darkness billowing out of it, blacker than a starless night.
 
 But then they did, and shouts turned from anger to panic. What was
 happening? Had the Hett worked a spell? People stumbled back as Razi
@@ -3485,13 +3488,15 @@ its northern and southern berths.
 
 The *Presumption* was the dock's only tenant that morning.  She was
 smaller than Erileine had expected, with a single mast with a furled
-white sail and narrow benches on either side of a low-roofed central
-cabin only slightly larger than a double bed.  If it hadn't been for
-her oversized ruddier, she wouldn't have attracted a second glance at
-the river dock in Gandan.
+white sail, narrow benches on either side of a low-roofed central
+cabin only slightly larger than a double bed, and an oversized
+ruddier.  If she had been floating in the water instead of bobbing up
+and down in thin air, she wouldn't have attracted a second glance at
+the great river dock in Gandan.
 
 Razi tossed his bag into the boat.  As he stepped over the gunwale,
-Thomas said, "What about your apprentice?"
+the green glass bottle swinging on his hip, Thomas said, "What about
+your apprentice?"
 
 Razi froze.  His face twitched.  "I beg your pardon?"
 
@@ -3546,7 +3551,7 @@ for centuries.
 
 The boat's green and white pennant snapped above the sail as they
 climbed higher and higher.  Vertigo suddenly rose in her throat as she
-remembered Fraederiq falling …
+remembered Fraederiq falling…
 
 Thomas banked to starboard.  "Rather the view, isn't it?" he said
 loudly.  "Shall we go under?"
@@ -3941,7 +3946,7 @@ backpedalled onto the street.
 And so Erileine found herself alone in the biggest town on Avaunt with
 time on her hands and money in her pocket.  Emboldened by her success
 in finding the Three Rabbits, she asked a man walking by with a rack
-of skewered chickens over his shoulder for directions.  Booksellers'
+of skewered chickens over his shoulder for directions.  Dreamers'
 Cross?  Down that way was fastest.  Erileine ducked to avoid being
 clouted by a dead chicken as he turned to describe the route.
 
@@ -3957,18 +3962,19 @@ But eventually her shadow disappeared.  She doubled back once more,
 but the boy was gone.  Disappointed, she tried to be philosophical.
 At least now she could actually go and look at some books.
 
-Her father had first taken her to Booksellers' Cross on her eighth
-naming day.  The booksellers had rolled their eyes at one another as
-she wandered in awe from stall to stall, all thinking, "Here's another
+Her father had first taken her to Dreamers' Cross on her eighth naming
+day.  The booksellers had rolled their eyes at one another as she
+wandered in awe from stall to stall, all thinking, "Here's another
 one," and remembering themselves at her age.
 
 Novels, pamphlets, diaries… Poetry, medicine, recipes, magic, and law…
 Gandan-o, Ruudian, Uwsian, Bantangui, Praczny, and languages Erileine
-didn't even recognize…  Lost among the petrified learning, the frozen
-elsewheres and elsewhens, she took no more notice of time passing than
-she did of her own breathing.
+didn't even recognize…  Lost among the petrified learning, the failed
+and forgotten spells, and a lifetime's worth of elsewheres and
+elsewhens, she took no more notice of time passing than she did of her
+own breathing.
 
-She leafed through every Praczny book she found, finally selecting a
+She leafed through every Gandan-o book she found, finally selecting a
 tract on the rights of Gifted animals and a collection of romantic
 stories full of noble knights who left their loves behind for seven
 years while they quested after tin rings that held their parents'
@@ -4068,7 +4074,8 @@ dock with another length of line in his hand, heedless of the
 half-gallop of empty air below him.  "It's not that he would be much
 of a loss," he said as he tied the boat fast.  "But *she* would never
 believe that I didn't have a hand in it.  Here, get that gangplank
-over here." He hopped back into the boat.
+over here." He hopped back into the boat, the pattern on his jacket
+roiling in agitation.
 
 "But where's Razi?" Erileine repeated.  Panic was like cold soup in
 her throat.
@@ -4081,9 +4088,9 @@ left holding the bookster's arm across his shoulders.
 slick with blood.  More leaked through the fingers he had pressed
 against his side.
 
-He and Thomas stumbled down the gangplank like drunkards.  As they
-reached the dock, the bookster tripped over his own unsteady feet and
-collapsed.
+He and Thomas stumbled down the gangplank like drunkards, the bottle
+slung from Razi's belt making the picture complete.  As they reached
+the dock, the bookster tripped over his own feet and collapsed.
 
 ---
 
@@ -4133,11 +4140,11 @@ third time.
 
 "Because every spell that might be useful would cost me far more than
 I am willing to give up, especially with so much mundane help just a
-few steps away," the magician snapped.  "Rushing around and saving
-people---that's not really what magicians do, you know.  That kind of
-thing is better left to the booksters of this world.  Now, are you
-going to do something useful, or shall we sit back and wait for those
-imbecile condors?"
+few steps away," the magician snapped, his jacket making an emphatic
+jagged pattern in agreement.  "Rushing around saving people---that's
+not really what magicians do, you know.  That kind of thing is better
+left to heroes like him.  Now, are you going to do something useful,
+or shall we sit back and wait for those imbecile condors?"
 
 Erileine had gone for help.
 
@@ -4153,11 +4160,12 @@ us."
 The captain's scowl showed what he thought of Tinhead's inhabitants
 being clever.  "And there was just the one shot?"
 
-Thomas's shrug was echoed by the rippling pattern on his jacket.
-"There may have been more afterward, but I turned tail the instant we
-were hit.  It's rather vexing, you know.  I put a lot of work into
-getting that boat looking the way it did---it will take *ages* to mend
-her."  The pattern on his jacket rippled in agreement.
+Thomas shrugged, as if the question was no more important than whether
+he preferred his apples cut or quartered.  "There may have been more
+afterward, but I turned tail the instant we were hit.  It's rather
+vexing, you know.  I put a lot of work into getting that boat looking
+the way it did---it will take *ages* to mend her."  The pattern on his
+jacket swirled in agreement.
 
 The captain scowled.  "At the rate we're going, we'll be there
 tomorrow."
@@ -4227,8 +4235,8 @@ set the world right."
 
 "Did you tell his last apprentice that too?" Erileine asked bitterly.
 
-Thomas smiled thinly.  "No.  What I told *him* was that if I ever saw
-him again, I'd put his eyes out with my thumbs." He nodded farewell
+Thomas smiled thinly.  "No.  I told *him* that if he ever got in my
+way again I'd put his eyes out with my thumbs." He nodded farewell
 politely and, whistling, went on his way.
 
 Erileine's anger dissipated as quickly as it had come, leaving her
@@ -4383,7 +4391,7 @@ The bookster's eyes fluttered.  "My lady?"
 "Bookster?"
 
 "*La*, Erileine…" Razi struggled to sit up, then let his head fall
-back on his pillow.  "When is?"
+back on his pillow.  "When is't?"
 
 "It's morning.  Almost, anyway.  You're in the infirmary, in the
 Hardeck.  Bookster, we're berthing!"
@@ -4422,8 +4430,9 @@ The room trembled slightly.  Erileine clutched the bedframe wide-eyed.
 bookster tried once more to sit up.  Erileine rushed forward to help
 him, but the bookster fell back again before he could.
 
-"Go," Razi said.  "*La*, go, the magic window.  Find news.  I will
-dress."
+"Go," Razi said, reaching for the leather belt and sword-hilted bottle
+that someone had carefully stowed under the table beside his bed.
+"*La*, go, the magic window.  Find news.  I will dress."
 
 Erileine took the stairs to the Grand Hall three at a time.  They
 shuddered beneath her.  A painting fell from the wall, missing her by
@@ -4609,17 +4618,17 @@ should put on some clean underclothes."
 
 Erileine hesitated.  "Are those your…your meditation candles?"
 
-"You mean, am I going to cast a spell?" Razi shook his head.  "*La*, I
-am afraid not.  Getting my things is just the small favor.  Using them
+"You mean, am I going to do magic?" Razi shook his head.  "*La*, I am
+afraid not.  Getting my things is just the small favor.  Using them
 for me is the large one."
 
 Erileine swallowed dryly.  "I'm not a magician."
 
 Razi smiled weakly.  "Neither is anyone until they make their first
-bargain.  Don't worry---most of the magic this will need is in the
-candles and the picture that are in the case.  Lady Kembe paid their
-price when she made them---you don't have to worry about your teeth
-falling out, or having to stand on your head when you make water."
+bargain.  Don't worry---most of what this will need is in the candles
+and the picture that are in the case.  Lady Kembe paid their price
+when she made them---you don't have to worry about your teeth falling
+out or having to stand on your head when you make water."
 
 "I wasn't," Erileine lied.  "I just…" She shrugged.
 
@@ -4639,8 +4648,7 @@ chuckled.  "It's a pity I don't have anything to read.  This would be
 a wonderful time to catch up."
 
 Erileine slid his satchel off his shoulder, undid the drawstring, and
-pulled out the collection of Praczny tales.  "How about this?" she
-asked.
+pulled out the collection of tales.  "How about this?" she asked.
 
 Razi took it from her flipped through the pages.  His eyebrows went
 up.  "'Oh, Artan, the sun will burn out before I give my heart to any
@@ -4725,9 +4733,9 @@ upper and lower halves of his shin to line up.  A woman with iron-gray
 hair waited stoically on the next bed, the cloth she held over one eye
 red and getting redder.
 
-Amazingly, Razi was asleep, the book of Praczny stories open on his
-chest.  Erileine set her teacher's bag on the floor and sat down
-gingerly at the foot of the bed.  Razi's eyes opened.
+Amazingly, Razi was asleep, the book of stories open on his chest.
+Erileine set her teacher's bag on the floor and sat down gingerly at
+the foot of the bed.  Razi's eyes opened.
 
 "*La*, there you are." Razi yawned.  "Did you have any trouble?"
 
@@ -4768,9 +4776,9 @@ crystal, worn smooth like a pebble in a mountain stream, and its short
 silver blade had a single edge.
 
 Erileine licked her lips.  All the scene needed was a skull with
-glowing eyes, a black rat in a wicker cage, and a Gifted troll named
-Ygor rubbing his hands together malevolently, and it could have been
-put on stage.  "So, what do I do?"
+glowing eyes, a black rooster in a wicker cage, and a Gifted troll
+named Ygor rubbing his hands together malevolently, and it could have
+been put on stage.  "So, what do I do?"
 
 The first step was to take a sketch of Lady Kembe out of the tube and
 pin it to the wall.  The woman it showed was as bald as Razi,
@@ -5010,7 +5018,7 @@ help me with my sandals," he told Erileine crisply, sitting up and
 swinging his long, skinny legs off the bed.  "*La*, now where
 is---*ayah*." He braced one hand against the wall, blinked a few
 times, and then reached for the green bottle with the sword-hilt cork
-that stood waiting on the floor.
+that stood on the floor.
 
 Erileine opened her mouth to say, "You're not supposed to be up," but
 thought better of it.  "What can I do?" she asked instead.
@@ -5019,7 +5027,7 @@ The bookster took a deep breath.  "Find my sandals."
 
 He moved stiffly as he buckled his belt carefully across his hips, so
 that the heavy green bottle hung down from his side like a scabbard
-once again.  "What is that?" Erileine asked.
+once again.  "What is that, anyway?" Erileine asked.
 
 "It was a present from Lady Kembe." Razi scrunched his toes to settle
 his feet in his sandals.  "Good enough.  Now, everything else into my

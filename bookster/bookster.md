@@ -1354,12 +1354,13 @@ tree.  "Still straight and tall," they would say.  A few knew that the
 beams in Starboard Town's first houses had been made from the naming
 day trees of the Hett who had lived there before them, but only a few.
 
-Everyone wore their best clothes, but came barefoot.  No one knew
-why---it was just how things were done, even in winter.  Women brought
-babies on their hips, while Papaere Badette, the town's oldest man,
-was carried up the hill in a wicker chair.  Wrapped in a long black
-coat whose wide sleeves had gone out of style thirty years before, he
-looked like a strange, solemn bird.
+Everyone wore their best clothes and something the same colors as the
+wooden house soldier---a scarf, a shirt, a brooch, whatever they had.
+No one knew why they did it; it was just how things were done.
+Mothers brought babies in nursing slings, while Papaere Badette, the
+town's oldest man, was carried up the hill in a wicker chair.  Wrapped
+in a long black coat whose wide sleeves had gone out of style thirty
+years before, he looked like a strange, solemn bird.
 
 The bosun had worked since before dawn to build a pyre of pine logs on
 the heavy gray stone at the center of the garden.  He stood beside it
@@ -1853,11 +1854,12 @@ Armaend shook his head.  "Ain't right at all." He stirred his mug to
 get the honey off the bottom and drained it in one noisy gulp.  "Come
 on.  Time to go."
 
-Erileine and her father were almost the last ones to arrive.  Saedanne
-had spotted a stain on Laeuc's shirt too faint to be seen by male eyes
-and insisted that he change.  And while your father's doing that,
-Erileine, can't you please comb your hair?  Yes, I know you're going
-to be wearing a hat, what has that got to do with it?  Honestly…
+Erileine and her father were almost the last ones to arrive.  As he
+patted their house soldier on its head for luck, Saedanne spotted a
+stain on Laeuc's shirt too faint to be seen by male eyes and insisted
+that he change.  And while your father's doing that, Erileine, can't
+you please comb your hair?  Yes, I know you're going to be wearing a
+hat, what has that got to do with it?  Honestly…
 
 "There's Razi," Erileine said.  "Can we walk with him?"
 
@@ -6576,9 +6578,9 @@ panicking, dumping water to lighten themselves so that they could get
 out of its way.
 
 But their water wasn't falling as rain. Instead, hailstones the size
-of pearls were bouncing off the cobblestones to lie cold, white, and
-brilliant in the cracks between them. Erileine had never seen anything
-like it.
+of pearls were bouncing off roofs and cobblestones and painted wooden
+house soldiers to lie cold, white, and brilliant in the cracks between
+them. Erileine had never seen anything like it.
 
 "Do you think it's a sign?" Queçenne asked, hushed.
 
@@ -7291,13 +7293,39 @@ down once more.
 
 ---
 
-A heavy knock on the door woke them just before dawn.  Erileine
+Noise from the street woke her a few hours later.  Something creaked,
+and then there was a sound like wood snapping.  A muffled curse
+followed, followed by the knock and clatter of someone trying to do a
+heavy chore as quietly as they could.  She slipped out of bed and
+peeked through her curtain without opening it.
+
+A pair of soldiers stood on the street below next to a
+wheelbarrow---Papaere Badette's wheelbarrow, the big one that
+everybody borrowed when their own was too small.  For one
+gut-wrenching moment she thought it was full of children's bodies, but
+then she realized they were house soldiers.  The Hett were prying the
+painted wooden soldiers off each house in turn.
+
+A sudden motion in the window across the street made her duck.
+Someone else was watching too.  She swallowed.  Should she wake her
+parents or her grandfather and tell them?  *They won't be able to do
+anything,* she told herself despairingly.  With an unexpected ache in
+her chest, she slid back into bed.
+
+---
+
+A heavy knock on the door woke her again just before dawn.  Erileine
 scraped the sleep out of her eyes and answered it.
 
 Two Hett soldiers stood there with the bosun.  "Rise and shine," Uyves
 said sourly.  His hair, normally so carefully tended, looked like a
 goat had been at it.  That, and his black eye, made him look like some
 half-mad cousin of the dapper bosun Erileine knew.
+
+Erileine craned her neck to look around him.  Her face fell.  It
+hadn't been a dream---the wooden soldier that had stood guard by her
+front door her whole life was gone.  Uyves caught her eye and nodded
+grimly.
 
 "Erileine, who is it?" Her father hurried down the stairs as Piaerre
 slipped silently into the kitchen.
@@ -7329,8 +7357,8 @@ exchanged looks, Saedanne's angry and Laeuc's pleading.
 One of the soldiers nudged the other.  "*Irre pentelele arpe hebmedji
 sheh kerremerpele*," he said, nodding past the trio in the doorway.
 Erileine twisted around to see Queçenne peeking out of the kitchen.
-The soldier caught her eye and grinned.  She blushed and pulled her
-head back out of sight.  The other soldier laughed.
+The soldier smiled broadly at her.  She blushed and pulled her head
+back out of sight.  The other soldier laughed.
 
 Erileine didn't understand all of what the soldier had said, but she
 understood enough.  "*Ap medji eshweggen*," she said.  "Sit firmly on
@@ -7357,10 +7385,9 @@ The soldier shrugged when Erileine passed on Vurt's question.  "Tell
 him to stay out of trouble.  Now come."
 
 Bosun Uyves knocked on each door in turn.  Sometimes he had to bang
-his fist and bellow to get the fearful inhabitants to answer.  Other
-times, the door flew open before his meaty hand even hit it.  "They
-want us up in the fields," Erileine said over and over.  "Just like
-any other day."
+his fist and bellow to get someone to answer.  Other times, the door
+flew open before his meaty hand even hit it.  "They want us up in the
+fields," Erileine said over and over.  "Just like any other day."
 
 "So we're to be slaves, are we?" Gaeston snarled when his turn came.
 He glared at the soldiers with bloodshot eyes.  "Well, I'm not going
@@ -7402,13 +7429,18 @@ Catching hold of her shoulder, he put his mouth next to her ear.
 "Leech," he hissed.
 
 By the time they reached the top of Slip Street the entire town was
-either in the fields or trying to look busy around their edges.
-Hundreds of townspeople, and only three dozen soldiers… For one heady
-moment, Erileine thought about shouting, "Charge!" So what if the
-soldiers had armor and swords?  Unless one of them was secretly a
-magician, the townspeople would surely win.  She imagined herself
-dodging the soldiers' thrusts, knocking one down, snatching up her
-dropped sword and crying, "Avaunt!  Avaunt!"
+either in the fields or trying to look busy around their edges.  Angry
+groups of three and four muttered to each other about the missing
+house soldiers.  The Hett had piled them in the burning pit by the
+outhouses.  Why would they do that?
+
+As Erileine looked around, she counted.  There were hundreds of
+townspeople, and only three dozen soldiers… For one heady moment, she
+thought about shouting, "Charge!" So what if the soldiers had armor
+and swords?  Unless one of them was secretly a magician, the
+townspeople would surely win.  She imagined herself dodging the
+soldiers' thrusts, knocking one down, snatching up her dropped sword
+and crying, "Avaunt!  Avaunt!"
 
 But how many of the people she had grown up with would die?  And
 anyway, there would just be more soldiers.  In fact, there *were* more
@@ -7658,8 +7690,8 @@ mountains through a town they called Tin Head."
 A chill prickled the small hairs on Erileine's arms.  She put the skin
 cream down and turned the book over to look at its cover.  It couldn't
 be a coincidence.  Was Lady Kembe trying to send her a message?  Or
-was picking up this book just some leftover bit of magic intended for
-the bookster?
+was picking up *this* book just some leftover bit of magic intended
+for the bookster?
 
 She opened the book again.  "They came roundabout the mountains
 through a town they called Tin Head.  It is in Anyalcze's lands, but
@@ -7775,7 +7807,13 @@ blankets.
 Back on the street, Erileine felt as though she had an archery target
 pinned between her shoulderblades.  She emptied the wheelbarrow into
 the stone-lined burning pit behind the outhouses, just as she had a
-hundred times before.  She hated the pit's acrid, ashy smell.  Every
+hundred times before, and sadly surveyed the clutter of broken wooden
+house soldiers.  She couldn't see her family's, but that one was
+Donaien and Armaend's---they had repainted it and their door in yellow
+and blue when they got married.  And that one over there with its arm
+broken off, that had been Mareille's, and…
+
+She shook her head.  She hated the pit's acrid, ashy smell.  Every
 time the mountain berthed at Mau Ngapcha, the townspeople shoveled it
 out and spread its contents on their fields.  It was a dirty, choking
 job.
@@ -7832,43 +7870,55 @@ Thomas shrugged.  "I suppose they've decided that there's no point
 ruffling the good lady's feathers."
 
 Before Erileine could answer, a soldier called, "*Yevve!*" from the
-terrace above them---time's up.  She stood up, brushing the dirt from
-her hands---
+terrace above them---it's time.  She stood up, brushing the dirt from
+her hands.  Why were they stopping?  There was still at least an hour
+of daylight left.
 
----and stumbled as the mountain lurched beneath her.  Someone
-shrieked.  Birds exploded into the air from the trees fifty strides
-away, and a tray of clay winter planting pots toppled over with a
-crash.
+"*Yevve! Yevve!*"  She looked around as other Hett soldiers took up
+the cry.  Some thumped the butts of their spears on the ground.
+Others clapped in time, exultant smiles on their faces.  "*Yevve!*"
 
-Laeuc grabbed his daughter's arm.  "What the hells is happening?"
+"What are they doing?" her father asked.
+
+"I don't know," she said.  "I think---"
+
+She shrieked and stumbled as the mountain suddenly lurched beneath
+her.  Birds exploded into the air from the trees fifty strides away,
+and a tray of clay winter planting pots toppled over with a crash.
+
+Laeuc grabbed his daughter's arm.  "What the hells is happening
+*now*?"
 
 "We've taking off, obviously," Thomas snapped, surging to his feet.
 "How very inconvenient.  Girl!  Where's your master?"
 
-"The soldiers took him to Forecastle!" Erileine said.
+"They took him to Forecastle!" Erileine said.
 
 A nasty smile danced a brief jig across Thomas's lips.  "Really?  Did
 they put him in chains?  Oh please, tell me they put him in chains."
 
-"No!" Above them, more soldiers were shouting *yevve, yevve!* as they
-walked in a broad line across the field shooing the Avauntois toward
-Slip Street.
+Around them, the Hett soldiers were clapping and cheering, hugging
+each other with tears streaming down their faces while a sergeant
+bawled at them to pick up their damn spears and get back to their
+posts.  A slight breeze tugged at Erileine's hair.  Three rows over,
+Matthieu started to cry.
 
 Thomas scowled.  "Did he leave her portrait with you?"
 
-"What?"
+"What?" Erileine looked at him blankly, too overwhelmed to make sense
+of his question.
 
-"Did he leave his picture of Lady Kembe with you?" the magician
+"Did Razi leave his picture of Lady Kembe with you?" the magician
 repeated impatiently.  "I need it to talk to her."
 
 "Why would *she* want to talk to *you*?"
 
-Thomas sighed.  "Because I'm here and he isn't.  We *are* all trying
-to save the world, you know."
+Thomas sighed.  "Because I'm here and he isn't.  We're all trying to
+save the same world, you know."
 
 Erileine hesitated.  "It's at Mamaere Mayeule's," she admitted,
 mentally adding, *But you're not getting his sword.* "I was going to
-use it tonight."
+try to use it tonight."
 
 Another shudder ran through the ground.  A breeze had sprung up, not
 strong, but enough to put frightened looks on everyone's faces.  They

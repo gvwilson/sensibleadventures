@@ -3199,7 +3199,7 @@ The Starboard Towners were doubled up twice over, nine in rooms meant
 for three, on the Green Pig's upper floor.  At dinner, they talked
 over soup and sweet potato bread with Forecastlers who preferred
 eating out to cooking in.  Who had they seen? What had they bought,
-and for how much?  *How much?* Oh, that was a crime.
+and for how much?  *How much?*  Oh, that was a crime.
 
 "Though you can't fault folk," a severe-looking woman said.  "If they
 weren't selling for twice what they ought, they'd never to be able to
@@ -8160,28 +8160,35 @@ Uyves snorted in disgust.  "All right, how?"
 
 "Lady Kembe says they're bringing the Pilot Stone to the peak at
 midnight," Thomas said crisply, his usual insouciance gone.  "And no,
-I don't know how she knows.  She thinks your best chance is to ambush
-them in the tunnels before they get there.  If you're lucky, and
-they're careless, you might actually have a ghost's chance of grabbing
-it."
+I don't know how she knows.  But that seems to be the key to all of
+this.  If you can get your hands on it, perhaps…"  His shrug showed
+how much trust he put in that 'perhaps'.
 
-There was an awkward silence as Laeuc and the bosun exchanged
-uncomfortable glances.  "The tunnels?" Laeuc asked.
+The bosun and Vurt exchanged grim looks.  "No telling where it is
+now," the old man said.  "Which means we'll have to do it at the
+peak."
 
-The magician rolled his eyes.  "Yes, the tunnels.  Please don't tell
-me there's some quaint superstition about those going into them never
-been heard from again.  The Hett certainly seem to have come through
-it unscathed."
+"Where all the weeping Hett are going to be," Uyves finished.  "We
+won't stand a chance."
 
-"It's not that," Laeuc said awkwardly.  "It's just… Can't you take us
-straight to the peak?"
+"Or you could try ambushing them in the tunnels," Thomas offered.  He
+rolled his eyes at the expressions around the table.  "Yes, the
+tunnels.  Please don't tell me there's some quaint superstition about
+those going into them never been heard from again.  The Hett certainly
+seem to have come through it unscathed."
 
-Thomas made a disgusted sound that was echoed in dripping splotches by
-the pattern on his jacket.  "Certainly.  I'm sure the Hett archers and
-magicians and what-not wouldn't mind waiting until we land before
-attacking.  If you ask politely, do you think they'll come at you one
-at a time like they'll have to in the tunnels?  And would *sra* like
-some tea and a foot bath while we travel as well?"
+"It's not that," Laeuc said awkwardly.  "It's just…"  It's just that
+we've spent our whole lives on a mountain under the open sky, he
+didn't finish, and being underground makes us feel like we're being
+smothered.
+
+Thomas made a disgusted sound that was echoed by dripping splotches in
+the pattern on his jacket.  "Well then by all means let's go straight
+to the peak.  I'm sure the Hett archers and magicians and what-not
+wouldn't mind waiting until we land before attacking.  If you ask
+politely, do you think they'll come at you one at a time like they
+would in the tunnels?  And would *sra* like some tea and a foot bath
+while we travel as well?"
 
 "You've made your point," Uyves growled.  "We'll go through the
 tunnels if we have to.  But then what?  Once we have the stone, do we
@@ -8571,15 +8578,15 @@ that was well timed."
 Whatever Erileine would have said next was cut off by a low moan from
 the stern.  "No.  No no no no…" Thomas stared down in horror at his
 jacket.  "No, please, give her back---please, I didn't mean it, I
-didn't mean it."  The vibrant ever-changing patterns on Thomas's coat
-had stilled.
+didn't mean it, I just didn't have time to make a better bargain.
+Please, please, give her back…"  The vibrant ever-changing patterns on
+Thomas's coat had stilled.
 
-Razi sat up unsteadily.  "*La*, knocking the fire aside---that was
-your doing?"  He clasped his hands in front of his chest.  "I am
-grateful for your sacrifice."
+Razi sat up unsteadily and clasped his hands in front of his chest.
+"*La*, I am sorry for your loss, and grateful for your sacrifice."
 
 "Damn your gratitude." Tears glistened on the magician's cheeks.
-"She's gone.  Saints, she's gone."
+"She's gone.  Saints, she's gone.  What have I done?"
 
 "Oh, get over it," Gaeston said gruffly.  "You can always get another
 coat."
@@ -8589,7 +8596,8 @@ coat."
 ---
 
 "We traveled underground," the bookster told them as a stone-faced
-Thomas steered them through the night.  The Hett had taken him through
+Thomas steered them through the night, his stilled jacket neatly
+folded on the bench beside him.  The Hett had taken him through
 tunnels as busy as an anthill, intending perhaps for him to tell Lady
 Kembe and the rest of the world just how pointless it would be to
 fight them.  Entire families were scraping the accumulated muck of
@@ -8599,8 +8607,9 @@ next.
 
 Razi didn't tell them how he had escaped, or where the fresh cut on
 his left cheek had come from.  But as he buckled his sword bottle
-around his *deel*, he confirmed what Thomas had said.  The Hett were
-starting their Great Work at the mountain's peak that night.
+around his *deel* after a grateful "thank you" to Erileine, he
+confirmed what Thomas had said.  The Hett were starting their Great
+Work at the mountain's peak that night.
 
 "Not much we can do about it now, is there?" Thomas said venomously.
 "After your little adventure back there, they'll have a hundred eyes
@@ -8614,8 +8623,8 @@ something she can do."
 gunwale, his polished court manner peeled away by grief.  "She'd like
 that."
 
-"Go and see her," Razi repeated gently.  "She helped me, and I did far
-worse things than you."  The magician set his jaw but didn't reply.
+"Go and see her," Razi repeated gently.  "I did far worse than you,
+and she helped me."  The magician set his jaw but didn't reply.
 
 They flew in silence after that, climbing steadily.  The trees that
 had seemed so wonderful to Erileine on her first flight now loomed
@@ -8655,8 +8664,7 @@ Razi was the last to debark.  He took the rope from Gaeston, coiled
 it, and tossed it back into the bow.  The *Presumption* drifted away
 slowly until the wind bellied her sails.  "Go and see her," Razi urged
 one last time as Thomas put his weight to the rudder.  The magician
-didn't even glance at him as the boat turned and flew away into the
-night.
+didn't even glance at him as he turned the boat and flew away.
 
 Gaeston watched it go with calculating eyes.  "We can't let him have
 the stone.  You know that, don't you?"
@@ -8708,7 +8716,68 @@ Eventually Gaeston clambered to his feet and took his bow from his
 pack, restringing it while Laeuc screwed the two halves of his spear
 together and Vurt made sure that his sword was loose in his scabbard.
 Without a word being said, he picked up his lantern once again and set
-off.  Behind him, the others followed suit.
+off.
+
+Laeuc stayed seated.  "*La*, we must go," Razi said.
+
+Erileine's father took a deep, shuddering breath.  "I don't think I
+can," he said, his face ghostly in the dayglass lantern's light.
+"I---I'm sorry, I can't breathe in here.  I need some air.  I need to
+get some---"
+
+"*Heshe*, *heshe*," the bookster soothed, as if Laeuc was a frightened
+young goat.  "Close your eyes a moment.  It will pass."
+
+"Come on, man, scrape it off,"  Gaeston said impatiently.  "If I can
+do it, you can do it.  Come on!"
+
+Laeuc was breathing in short, shallow puffs.  *He's panicking,*
+Erileine realized, the thought stirring her own guts with cold
+fingers.  He was clutching his spear the way she had clutched the side
+of the mountain the day Fraederiq fell.  They needed to get moving.
+*He* needed to get moving---she was sure he'd be all right once he was
+back on his feet and doing something.  She needed to do something, but
+what could *she* do?
+
+And there it was again, the not-a-voice that she had not-heard when
+she had so desperately wanted a fire on their way back to Starboard
+Town.  «Something?»  It was a question and an offer all in one, an
+invitation and an opening bid.  Did she want her father to walk?  Was
+it worth being able to walk herself?
+
+*No!* She recoiled from the idea.  Not walk?  They'd be in the same
+mess they were in or worse, only it would be forever.  *But I'd give
+up dancing,* she thought.  She'd never been any good at it, and didn't
+enjoy it half as much as Queçenne.  She'd give up dancing to get her
+father up and moving.
+
+But that wasn't enough for whatever she was not-talking to.  What
+about the use of her hand---her good one?  No---and no again when it
+asked about her candlemarked hand.  Just one finger?  Maybe---no,
+absolutely not, not if she had to cut it off herself.
+
+Then she looked at her father and saw the flute sticking up
+incongruously out of his pack and knew what price she would pay to
+help him.  Whatever it was caught her thought and found it acceptable.
+An instant later, something she had never consciously noticed was
+gone.
+
+She swallowed hard.  "Paere?  Are you all right?"
+
+"Does he *look* all right?" Gaeston snapped angrily.
+
+But Laeuc drew a shuddering breath and nodded.  "I---what just
+happened?"  He struggled to his feet, oophing as his daughter embraced
+him.
+
+She turned her head to lay it against his chest for a moment, closing
+her eyes so she wouldn't have to meet Razi's questioning look.  Her
+fingers brushed briefly over the top of the flute.  She had loved
+playing music with him.  She'd miss that.
+
+"Come on," she said, stepping back and wiping her eyes on her sleeve
+and trying very hard not to think about the fact that she had just
+done magic.  "We have to get going."
 
 A hundred strides, two… Erileine had no idea what time it was, what
 direction they were heading, or what they would do when they got

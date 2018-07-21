@@ -8781,17 +8781,9 @@ done magic.  "We have to get going."
 
 A hundred strides, two… Erileine had no idea what time it was, what
 direction they were heading, or what they would do when they got
-there.  All she knew was that the tilted walls felt like they were
-closing in on her.  She wondered if her father and Laeuc felt it too.
-They must.  They had lived their lives under the open sky just like
-she had.  That's how people were meant to live, not closed in like
-this with walls all around them and darkness waiting to swallow them
-the moment they dropped their lanterns.
-
-She took a deep breath.  Her papaere was managing, and so was Razi.
-She could too.  And anyway, they had bigger things to worry about than
-suffocating underground.  "Steal the stone" was even less of a plan
-than the heroes in stories usually had.
+there.  But her father was managing now, so she could too.  *At least
+until we get there,* she added to herself.  "Steal the stone" was even
+less of a plan than the heroes in stories usually had.
 
 Gaeston stopped abruptly, raising his hand to halt the others behind
 him.  Something rumbled in the distance.  There was a slight breeze,
@@ -8802,7 +8794,8 @@ Bookster, Vurt, you---cake, you do whatever you want."
 The passage opened onto a room tilted at the same disquieting angle as
 everything else inside the mountain.  "*La*, allow me," the bookster
 said.  He drew something from inside his *deel* and threw it against
-the floor.  It tinkled like breaking glass and started to glow.
+the floor.  It tinkled like breaking glass, flooding the room with
+light that came from everywhere and nowhere.
 
 "Wow," Erileine breathed.  The room was enormous---the Captain's House
 would fit into it with space left over for a sizable garden.  The only
@@ -8826,203 +8819,226 @@ crossbow bolt in his side before going limp.
 "Gaeston!" Laeuc shouted.  "Gaeston!"
 
 Vurt grabbed his collar and dragged him onward.  "Come on!"  he
-shouted.  They fled down the corridor ten strides behind the others.
-Left, right, right again, and up a stairway tilted drunkenly on its
-side.
+shouted.  They ran down the corridor ten strides behind Razi and
+Erileine.  Left, right, right again, and up a stairway tilted
+drunkenly on its side.
 
 Razi stopped at its top.  "Make ready," he said quietly.  Vurt hefted
-his sword grimly.
+his sword, the smile on his face just an animal baring teeth.
 
 Three Hett came around the corner.  There was no way Razi's
-quicksilver sword could have missed the first one, or Laeuc's spear
-the secon.  The third stumbled on him as he went down, just in time
-for Vurt to take a stumping step forward and swing.
+quicksilver sword could miss the first one, or Laeuc's spear the
+second.  The third stumbled over his fallen companions, just in time
+for Vurt to lunge forward and swing.
 
-Erileine looked at the three men lying dead on the stairs, turned, and
-threw up.
+Erileine looked at the three men lying dead on the stairs and threw
+up.
 
 ---
 
 There was nothing for them to do after that but follow the fireflies.
 First one and then another flew away without hesitation, always
-leading the upward toward the mountain's peak.
+leading the upward toward the mountain's peak.  The tilted tunnel
+floors made Erileine's back ache, and every time they had to negotiate
+a flight of stairs, she was sure she was going to twist an ankle.
 
-Their weary feet brought them to a double door twice Erileine's height
-and wide enough to drive a cart through.  Erileine gasped as she
-followed her father through it and onto a balcony the size of
-Mapmarket Square.  Fresh scrapes and loose dirt on its otherwise
-polished surface showed where it had somehow slid out of the
-mountainside like a drawer.  Its downward tilt made Erileine feel like
-one false step would send her tumbling into space.
+They finally reached a double door twice Erileine's height and wide
+enough to drive a cart through.  The crisp smell of fresh mountain air
+beyond it was almost as good as the cold drink she had been craving
+for the previous half hour.  Razi eased the door open, tapped his
+fingers together in front of his lips to signal 'be quiet', and
+slipped through.  Vurt and her father followed, and then it was
+Erileine's turn.
 
-Below them lay a huge stone amphitheater that Erileine recognized from
-pictures and paintings filled with carved stone benches, waist-high
-walls, free-standing doors, and heavy sculptures that reminded
-Erileine of the pictures children drew of monsters.  Globes of
-dayglass bigger than any piece Erileine had ever seen blazed
-yellow-white here and there.  They had made it---they had reached the
-original peak of the mountain.
+She gasped as she stepped onto a balcony the size of Mapmarket Square.
+Fresh scrapes and loose dirt on its otherwise polished surface showed
+where it had somehow slid out of the mountainside like a drawer.  Its
+downward tilt made Erileine feel like one false step would send her
+tumbling into space.
+
+Below them lay a stone amphitheater that Erileine recognized from
+pictures and paintings.  Even after centuries of theft, neglect, and
+occasional vandalism, it was still full of carved stone benches,
+waist-high walls, free-standing doors that led nowhere, and heavy
+misshapen sculptures that looked more like the pictures children drew
+of monsters than like anything Erileine had ever seen.  Globes of
+dayglass on newly-erected wooden pillars blazed yellow-white among
+them.  They had made it---they had reached the mountain's peak.
 
 "There," Razi said, pointing.  A flat-topped pyramid stood in the
 center of the amphitheater, identical in proportions to the mountain
-itself and to the one in Tinhead.  Beyond it, what had originally been
-a steep hillside was now a near-vertical cliff.
+itself and to the pyramid they had briefly seen in Tinhead.  Beyond
+it, what had originally been a steep hillside was now a near-vertical
+cliff.
 
 The Hett had built a wooden stage around the pyramid to give
-themselves a level workspace.  Their boots drummed on its planks as
-they hurried back and forth between the strange devices that
-surrounded it.  An eerie blue light rose from one of the machines like
-steam from a kettle.  A face, ten times larger than life and too
-narrow to be human, suddenly appeared above another, its mouth open as
-if to laugh or scream, then vanished.
+themselves a level workspace.  Their boots drummed on it as they
+hurried back and forth between devices that looked even more
+unsettling than the age-old statues.  An eerie blue light rose from
+one machine like steam from a kettle.  A face ten times larger than
+life and too narrow to be human suddenly appeared above another, its
+mouth open to laugh or scream, then vanished.
 
-The rumbling suddenly stopped.  Razi cursed.  "We must find a way
-down," he said.
+The rumbling suddenly stopped.  Vurt cursed.  "We have to find a way
+to get down there."
 
-Vurt caught his sleeve.  "Here." Sheathing his sword, he slipped the
-coil of rope off his shoulder and knotted it around the balcony's
-stone railing.
-
-"Will it take your weight?" the bookster asked.
-
-Vurt shrugged.  "Only one way to find out, isn't there?" He swung his
+Razi caught his sleeve. "*La*, allow me."  Bottling his sword, he
+slipped a coil of rope off his shoulder and knotted it around the
+balcony's stone railing.  Without bothering to test it, Vurt swung his
 false leg over the railing and slithered down the rope.
 
-A minute later, the four of them stood together on the amphitheater
-floor.  Ahead and below, the Hett hurried about their work.
+A minute later, the four of them crouched together on the amphitheater
+floor behind a pedestal twice Erileine's height.  Ahead and below, the
+Hett hurried about their work unawares.
 
-"*La*, we have company," Razi whispered, pointing.  Four soldiers were
-marching toward the center stage.  Sitting upright on the sedan chair
-they carried was a middle-aged man in a plain gray uniform.  He swayed
-slightly with the chair's motion, but looked neither right nor left.
+"*La*, look there," Razi whispered, pointing.  Four soldiers marched
+toward the center stage with a sedan chair on their shoulders.  The
+uniformed man sitting on it swayed slightly with the its motion, but
+looked neither right nor left.
 
 Vurt tightened his grip on his sword.  "One of their magicians?"
 
 Razi nodded.  "Just so.  And *la*, do you see over there?  I think
-they are the others." Two more sedan chairs stood empty next to the
-wooden stage.  A uniformed woman with her hair pulled back in a severe
-white bun was being helped down from a third.  She kept one hand on
-the shoulder of the soldier helping her as he led her over to where
-two others were standing.
+they are the others."  Two more sedan chairs stood empty next to the
+wooden stage.  An elderly woman with her hair pulled back in a severe
+white bun stepped down from a third.  She shook off the hand of a
+soldier who moved to help her and strode proudly toward the pyramid.
 
 Vurt made a sound in his throat.  "You sure they're blind?"
 
-"*La*, they are, but not the soldiers," Razi said grimly.  "There are
-more of them than I had hoped."
+"Yes, but not the soldiers," Razi said grimly.  "There are more of
+them than I had hoped."
 
-"So what do we do?" Erileine asked.
+"So what do we do?" Erileine asked.  She had stopped counting after
+forty---there didn't seem to be any point knowing exactly how hopeless
+their mission was.
 
-Razi pointed at the arched doorway the sedan chair had come through.
-"If their magicians came from Forecastle, then the stone should come
-the same route.  Perhaps there will be fewer guarding it than there
-are here."
+Razi pointed at the square tunnel mouth that the sedan chair had come
+through.  "*La*, if the magician came from Forecastle, then perhaps
+the stone will come the same route.  If we are careful, we could move
+closer---see there, the statue that looks like a sand miser wrestling
+an octopus?  We could hide behind that to wait for it."
 
 "And then?" Vurt asked.
 
 Razi shrugged.  What was there to say?
 
-They hurried toward the doorway Razi had spotted, bent nearly double
-to hide behind the stone pews and statues as they worked their way
-closer and closer to the cliff's edge.
+They crept toward the tunnel mouth Razi had pointed out, bent nearly
+double to stay as concealed as they could.  Erileine was sure someone
+would see them, but the Hett who weren't busy preparing for whatever
+they were about to do had their eyes on the sky, crossbows ready in
+their hands.
 
-*Thummm…* Two more machines lit up, one purple, the other green.  They
-were the colors of the week, Erileine realized.  Red, yellow---one
-machine for each day.  *Or maybe people named the days after the
-colors,* she thought.  When the Pilots were involved, anything was
-possible.
+*Thummm…* Two more machines lit up, one purple, one green.  They were
+the colors of the week, Erileine realized.  Red, yellow, orange,
+green, blue, purple---there was one machine for each day.  *Or maybe
+people named the days after the colors,* she thought.  When the Pilots
+were involved, anything was possible.
 
 In the center of the stage, Hett soldiers lifted the lid off a bulky
 crate.  Quickly but carefully, they levered its walls apart and
 cleared away matted straw to reveal a statue of a man with ram's horns
 curled on the sides of his head.
 
-"Saints and your creations," Razi whispered.  "Oh, *la*, if you have
-ever sought balance in this world, help us find it now."
+"By all the named saints and their wondrous creations," Razi
+whispered.  "Oh, *la*, you who raised us up, if you have ever sought
+balance in this world, help us find it now."
 
 "What is it?" Vurt asked, but the bookster was already two strides
 away, as light on his feet as a hunting tiger.
 
-Around a wall, through an empty doorway, past a statue of a bear with
-a bat's wings and a snake for a tail, up two stairs and down two more…
-With every step, Erileine was afraid one of the Hett would look their
-way, but their attention was focused on the pyramid and the machines
-around it.  She glanced left.  A handful of stumps on the cliffside
-showed where the Hett had cleared trees.  There was nothing beyond
-that except the forest far below.
+Around a wall, through an empty door frame, past a statue of a bear
+with a bat's wings and a biting snake for a tail, up two stairs and
+down two more…  A fourth machine *thummed* to life, adding orange to
+the swirling light.  They were a hundred strides from the tunnel that
+the Hett wizard had come through.  Eighty, fifty, twenty…
 
-A fourth machine came to life, adding orange to the swirling light.
-They were a hundred strides from the entrance the Hett wizard had come
-through.  Eighty, fifty, twenty…
-
-Razi pulled up short as a squad of soldiers emerged from an opening in
-the ground, then a second.  A gray-haired man, his face half-drowned
-by a heavy beard, followed them, and was followed in turn by a third
-squad.
+Razi pulled up short as a quartet of soldiers emerged from the
+opening, then a second.  A gray-haired man, his face half-drowned by a
+heavy beard, followed them, and was followed in turn by a third squad.
 
 In his hands, the bearded man held a polished steel casket.
-Erileine's heart sank.  It had to be the Pilot Stone, but there were a
-dozen soldiers around it.  There was no way they could---
+Erileine's heart sank.  It had to be the Pilot Stone, but there was no
+way the four of them could get past the dozen soldiers around it.
+They'd never even *reach* the soldiers---they'd be cut down by
+crossbows at the first shout of alarm.
 
 Razi stood and threw three blue vials in high arcs one after another.
-Even before they hit the floor he was running, his quicksilver sword
-in his hand.
-
-"Hells!" Laeuc swore.  "You could have told us you were going to---"
+Even before they hit the floor he was running toward them, his
+quicksilver sword in his hand.
 
 *Crack!* *Crack!* *Crack!* Darkness billowed up from the shattering
-vials.  "Stay here!" Vurt ordered, but his granddaughter was already
-running into the inky darkness that had swallowed the bookster.
+vials.  Vurt whooped and charged after the bookster.
 
-She held her breath, expecting smoke, but just as in Forecastle the
-night of the riot, the darkness had no more taste or smell than a
-shadow.  Metal clanged on metal ahead of her.  A cry for aid was
-suddenly cut off.
+"Erileine! No!" Laeuc shouted, reaching for her a heartbeat too late
+as she swallowed her terror and ran into the inky darkness that had
+swallowed the bookster and her grandfather.
 
-She banged her shin hard against something as her grandfather shouted
-her name again.  What had she been thinking?  She couldn't help
-Razi---she didn't even know where he was.
+Erileine held her breath as she entered the darkness, expecting the
+choking smell of smoke, but just as in Forecastle on the night of the
+riot, the darkness had no more taste or smell than a shadow.  Metal
+clanged on metal ahead of her.  A cry for aid was suddenly cut off.
+
+She banged her shin hard against something as her father shouted her
+name again.  What had she been thinking?  She couldn't help Razi---she
+didn't even know where he was.
 
 Suddenly she slipped on something wet.  "Oof!" She fell clumsily to
 the floor.
 
-"*Ashenope!  Ashenope arra te paurenatepe ejo!*" Someone grabbed her
-hand, holding tight when she tried to pull away, and pushed something
-heavy into her arms.
+"*Ashenope!  Ashenope arra te paurenatepe ejo!*"
 
-FIXME: Erileine replies
+Her mind raced.  "*Ije! Atneseppe te!*"
 
-Smooth, heavy, and cool to the touch…  She ran her hands over it,
+"*Arra!*" Run!  Whoever it was grabbed her arm, pulled her forward,
+and pushed something heavy into her arms.
+
+Smooth, heavy, unnaturally cool and slick…  She ran her hands over it,
 already knowing what they would tell her.  Angled sides, rounded
 corners, a flat top: it was the casket the Hett had been carrying.  It
 was the Pilot Stone.
 
-The darkness cleared a few moments later to reveal a scene of
-confusion.  Razi was on his knees, his hands behind his head, one
-crossbow against his back, another pointed at his chest.  The hilt of
-his sword lay just out of reach in a pool of quicksilver.  Ten strides
-away from him, Erileine's father and grandfather stood back to back
-surrounded by a circle of Hett.
+"*Arra!*" the voice repeated.  She heard a wet cough, then a final
+wheezing rattle, and then she was alone.  She hugged the casket to her
+chest, rose first to her knees and then to her feet.
 
-Two men lay beside the bookster, one groaning and the other silent.  A
-third man---the one with the beard---lay motionless next to Erileine
-with a surprised look on his face.  She swallowed her nausea and slid
-back behind the base of a nearby statue, the casket heavy in her
-hands.  She glanced over her shoulder.  The cliff's edge was only
-three long steps away.
+The magical darkness cleared to reveal a scene of chaos.  The bearded
+man's body lay motionless beside her.  She had slipped on his blood,
+she realized vaguely.  It was on her clothes.  She would have to wash
+them.
 
-"Drop your sword," a familiar voice barked.  "*Now*, old man, or I
-swear we will drop you."  Jaromir strode forward, fury on his face and
-a naked blade in his hand.
+She looked up.  By pure chance, she was hidden behind a pedestal whose
+statue had long since been stolen, smashed, or thrown off the
+mountain.  She ducked her head and peered around the corner.
 
-Erileine shrank back and squeezed her eyes shut.  He couldn't.  He
-couldn't---not her papaere.
+Razi was on his knees ten strides away, his hands behind his head, one
+crossbow against his back, another pointed at his chest from two
+strides away.  The hilt of his sword lay just out of reach in a pool
+of quicksilver.  Two bodies lay beside it.
 
-Jaromir halted in front of Razi and Vurt.  "*Auedje ne atarappa
-paurenatepe ke fe iuadje te?*" he demanded coldly.
+Ten strides away from him, Erileine's father and grandfather stood
+back to back surrounded by a circle of Hett.  Somehow they had found
+each other in the darkness and not tried to run each other through by
+mistake.
+
+With that thought, the world came back into focus.  She looked at the
+casket in her arms.  She had to get rid of it and its contents before
+she was discovered.  The amphitheater ended in a cliff just twenty
+strides away.  Heart in throat, she began to pick her way toward it.
+
+"Drop your weapons *now*!" a familiar voice barked.  "Do it, or I
+swear we will drop you."  Jaromir strode out of the tunnel mouth, fury
+on his face and a sword in his hand.  Laeuc lowered his spear.  A
+moment later, he elbowed his father-in-law hard in the ribs.
+Reluctantly, Vurt set his sword down at his feet, his face twisted in
+anger.
+
+Jaromir halted in front of Razi.  "*Auedje ne atarappa paurenatepe ke
+fe iuadje te?*" he demanded coldly.
 
 Razi smiled politely.  "*La*, my apologies, but I don't speak---"
 
-"Yes you do," the Hett said in angry Gandan-o.  "Where is it?"
+"Yes you do," the Hett said in angry Gandan-o.  "Where is the stone?"
 
 Razi shrugged.  "I swear, I do not know."
 
@@ -9041,114 +9057,114 @@ good men dead here by your hand!"
 Jaromir put the tip of his sword under Razi's chin.  "I am tired of my
 people dying, do you understand that?  I am tired of people who have
 done no harm in this world being beaten by drunks, or driven from
-their homes by mobs, or robbed blind by petty lordlings who know that
-no one will defend them.  Your mistress has done nothing to help
-us---nothing!---and neither has anyone else, so now we are going to
-help ourselves."
+their homes by mobs, or robbed blind by petty lords who know that no
+one will hold them to account, not for the likes of us.  Your mistress
+has done nothing to help us---nothing!---and neither has anyone else,
+so now we are going to help ourselves."
 
 "I grieve for the wrongs done to you and your people," Razi said.
-"But please, what you are doing here---it will not help you."
+"But please, this will not---"
 
-"Perhaps not," the Hett said.  "But it will stop us from ever being
-helpless victims again.  Now, *where is the stone?*"
+He tilted his head back as Jaromir raised the tip of his sword.
+"Where. Is. The. Stone?"
 
 Panic rose in Erileine's throat.  She fumbled with the latch on the
-casket, haste making her fingers clumsy.  *Snick.* She lifted the
-lid---it was heavier than she had expected.
+casket, haste making her fingers clumsy.  *Snick.* She lifted the lid.
 
-Inside, a crystal the size of her fist rested in a cast-iron
-spiderweb.  Tiny veins of color pulsed inside the it.  The hair on
-Erileine's arm stood up.  She could *feel* the power coming out of the
-casket like a giant soundless heartbeat in time with the pulses of
-color.
+Inside, a plain gray stone the size of her fist rested in a cast-iron
+spiderweb.  She didn't know what she had expected, but it wasn't
+something as plain as this.  But then she could suddenly feel the
+power coming out of the casket like a giant soundless heartbeat in
+time with the pulses of color from the machines by the
+pyramid. No---that was wrong.  The *machines* were pulsing in time
+with the *stone*.
 
-She looked up just as Jaromir's patience snapped.  "Very well.
-Sergeant!"
+She looked back just as Jaromir's patience snapped.  "Very well.
+Sergeant!"  A nearby soldier snapped a salute.  Jaromir pointed at
+Vurt.  "Make ready."
 
-A nearby soldier snapped a salute.  Jaromir pointed at Vurt.  "Make
-ready."  Drawing his sword, the soldier crossed the tilted stone floor
-to stand behind Erileine's grandfather.  When the old man turned to
-face him, the soldier grabbed his shoulder, spun him back around, and
-forced him to his knees, a sword pressed against his neck.
+Drawing his sword, the soldier stepped into place behind Erileine's
+grandfather.  When the old man turned to face him, the soldier grabbed
+his shoulder, spun him back around, and forced him to his knees.
 
-"I will ask you once more," Jaromir said to Razi softly.  "And then it
-will be your turn."
+"I will ask you again," Jaromir said to Razi softly.  "And then once
+more, and then it will be your turn."
 
 Razi looked up at him steadily.  "All things in balance."
 
 Jaromir's jaw tightened.  He raised his arm.  The Hett soldier brought
 his sword up.
 
-"No!" Erileine shouted.  Jaromir whirled around as she stood up and
-raised the open casket.  "Let them go or I'll throw this over the
-side!"
+"No!" Erileine shouted.  Jaromir whirled around as she stood up at the
+edge of the cliff and raised the open casket.  "Let them go or I'll
+throw this over the side!"
 
 "*Neh!*" Jaromir said, raising his hand to stop the half-dozen
-crossbowmen who had just aimed their weapons from doing what they had
-been about to do.
+crossbowmen who had just aimed their weapons at her.  If she fell
+backward, she and casket would both go over the edge.
 
-"I'll do it!" Erileine shouted.  "I swear on my blood I will!"
+"Let them go!" Erileine shouted.  "Let them go or I'll drop it, I
+swear on my blood I will!"
 
-Jaromir laughed. "Go ahead. That *epfana* has survived fire and
-earthquake alike---it will survive a fall.  And then it will call to
-us, and we will find it, and all you will have done is delay us by a
-few days."
+Jaromir laughed. "Go ahead. The *Uremme Bech* survived the Pilots'
+war---it will survive a fall.  And then it will call to us, and we
+will find it, and all you will have done is delay us by a few days."
 
-The moment stretched and stretched.  Vurt gurgled as the soldier
-pressed his sword a hair's weight harder against his throat.  He
-nodded at her, his back straight, his gaze unwavering.
+She hesitated.  "Erileine…" her father pleaded.  Vurt caught her eye
+and nodded, his back straight, his gaze unwavering.
 
-Erileine sagged.  "All right," she said, lowering the casket in
-defeat.  As the soldiers nearest her hurried forward, she reached into
-the casket and yanked the stone out of the casket.
+Erileine sagged.  As the soldier behind Vurt lowered his sword, she
+reached into the casket and yanked the stone out of the casket.
 
-"*Neh!*" Jaromir shouted as lightning flashed up her arm.  She spun
-around, pulling back her arm to fling the stone over the cliff---
+Or tried to.  The moment her candlemarked hand touched the stone,
+something larger than the mountain---something as big as the whole
+world---noticed her, considered her briefly, and moved its attention
+elsewhere.  She wanted to pull the covers over her head and hide from
+it.  She wanted to beg it to come back and hold her close forever.
 
----and collapsed on the floor as her muscles went limp.  The stone
-rolled out of her unfeeling hand.  Her head lolled to the side.
-There, on the platform around the pyramid, one of the Hett magicians
-lowered her arms.
+Lightning sparked up her arm.  She collapsed on the floor, her muscles
+limp.  As her head lolled to the side, the plain gray stone slipped
+out of her hand.
 
-"*Teppate me peua netahante adj auje,*" Jaromir ordered.  Rough hands
-picked Erileine up and carried her across the stone floor to lay her
-back down beside Razi.  As quickly as the paralysis had happened, it
-left, its sudden absence leaving her shivering uncontrollably.
+"*Teppate me peua!  Netahante adj auje!*" Jaromir ordered.  Rough
+hands picked Erileine up and carried her across the stone floor to lay
+her down beside Razi.  The paralysis vanished as quickly as it had
+happened, its sudden absence leaving her shivering uncontrollably.
 
 "Now watch," Jaromir said.  "Watch, so that your people will know what
 change has come." Drawing a pair of gloves from his belt, he picked up
-the Pilot Stone and carried it to the pyramid.  He bowed to the
-magician who had cast the spell on Erileine.  Bowing in return, she
-took it from him and mounted the stage.
+the Pilot Stone and carried it to the pyramid.  He bowed to the four
+magicians waiting there.  Bowing in return, the gray-haired woman took
+it from him and mounted the stage.
 
-The lights above the strange machines surrounding them throbbed purple
-and blue, green and yellow, orange and deep red.  The magician joined
-her three companions in a circle around the ram-horned statue that now
-stood on the pyramid's flat top, a pair of bamboo struts bracing it so
-that it didn't topple over.
+The lights above the strange machines throbbed purple and blue, green
+and yellow, orange and deep, deep red.  The magician joined her
+companions in a circle around the ram-horned statue that now stood on
+the pyramid's flat top, a pair of bamboo struts bracing it so that it
+didn't topple over.
 
 Erileine could hear the machines now.  They were singing to each
 other, great long notes that ran from bone-tingling bass to fluting
-whistles that made her ears ring.  The air tingled as the light folded
+whistles that pierced her ears.  The air tingled as the light folded
 around itself and became a shining emptiness too bright to understand.
 The magicians chanted in time with the machines' rhythmic pulse.
 
-And then the Pilot Stone began to shine---*really* shine.  It wasn't
-too bright to look at: it was too *real*.  Erileine threw up her arm
-to cover her face, but the light went right through them---right
+And then the Pilot Stone began to shine, except that wasn't right.  It
+wasn't glowing: it was becoming more *real*.  Erileine threw up her
+arm to cover her face, but the not-light went right through it---right
 through the whole world.
 
 As one, the magicians on the stage cried out.  Erileine lowered her
 arm just in time to see the light sucked into the statue's mouth like
-smoke being inhaled.
+smoke being inhaled.  The statue opened its eyes and tilted its head
+to one side.
 
-The statue opened its eyes and tilted its head to one side.
-«Finally.» The word appeared inside Erileine's head like a sliver of
-ice dropped into a pool of water.  Its eyes were steel marbles,
-Erileine noticed, dazed.  Even without that, and the horns coiled on
-either side of its head where its ears should have been, and its
+«Good.» The word appeared inside Erileine's head like a sliver of ice
+dropped into a pool of water.  Its eyes were steel marbles, Erileine
+noticed, dazed.  Even without that, and the horns coiled on either
+side of its head where its ears should have been, and its
 hairlessness, and the complete lack of anything male or female between
-its legs, it was still too perfect to pass for human.
+its legs, it was still too perfect to ever be mistaken for human.
 
 "*Aya!  Aya!  Aya!*" the Hett shouted.  "It is done!  It is done!  It
 is done!"
@@ -9164,73 +9180,72 @@ strong.  "My lord, welcome.  Welcome back."
 
 "Yes, my lord."
 
-The statue pointed.  «That one is mis-made.  It should not be.  Return
-it to the world.»
+The statue pointed.  «Return that one to the world.»
 
 "No!" Erileine screamed as two Hett soldiers took Razi by the arms and
 pulled him to the cliff's edge. "No!  Please!  Don't!"
 
-The bookster turned his head to look at her.  "Be well," he said.
-With a sudden shrug he pulled free from the soldiers holding him, took
-three quick steps, and flung himself over the cliff.
+The bookster turned his head to look at her.  "Be well, apprentice,"
+he called.  With a sudden twisting shrug he pulled free from the
+soldiers holding him, and flung himself over the cliff.
 
 "No!" Erileine screamed.  "No, please…" She buried her face in her
-father's chest.
+grandfather's chest.
 
-The statue slowly swept its gaze around the chamber, taking in the
-now-silent machines and the reverent Hett.  «This place is a mess.»
+The statue swept its gaze around the chamber, taking in the now-silent
+machines and the reverent Hett.  «This place is a mess.»
 
 "Yes, my lord," the magician replied.
 
 «It needs mending.»
 
-"Yes, my lord." The magician's voice was exultant.
+"*Yes*, my lord." The magician's voice was exultant.
 
-«This ship is broken.» Each word came perfectly formed into Erileine's
-mind.  «As is this world.  There are deserts where there should be
-gardens.  The moon strays from its course.»
+«This world is broken.» Each word came perfectly formed into
+Erileine's mind.  «There are deserts where there should be gardens.
+The moon strays from its course.»
 
-"Slow poisons rot the heart of the world." The Hett magician spoke the
+"Slow poison rots the heart of the world." The Hett magician spoke the
 words aloud in time with the statue.  Others joined in, some weeping
-with joy.  "The ocean drains away and monsters roam free.  We must
-mend what is broken."
+with joy.  "The ocean drains away and monsters roam free.  It falls to
+us to mend it."
 
-«We must mend what is broken.» the statue agreed.  Its steel gaze fell
+«It falls to us to mend it.» the statue agreed.  Its steel gaze fell
 on the Avauntois.  «Go tell the world.  The Great Work begins.»
 
-One moment they were standing in the heart of the mountain.  The next,
-they were on Slip Street outside the gate of the Captain's House.
+One moment they were standing at the peak of the mountain.  The next,
+they were on Slip Street outside the front door of their house.
 
-"Erileine!"  Laeuc rushed forward and pulled his daughter into a hug.
-"Oh, love, I was so worried."
+The door flew open.  "Erileine!"  Saedanne rushed forward and pulled
+her daughter into a hug.  "Oh, love, I was so worried."  Hot on her
+heels, Queçenne threw herself at her father.
 
-"Hoy!" Vurt grabbed Laeuc's arm.  "How in the saints' names did you
-get here?"
+Saedanne squeezed Erileine.  "What happened?  How did you get here?"
 
-"I don't know," Laeuc said, his voice muffled by his daughter's hair.
-"One heartbeat I was sitting there with Gaeston while they tried to
-decide what to do with me, and the next---" He gestured weakly.
+"I don't know," Erileine said, her voice muffled by her mother's
+shoulder.  "We were up at the peak, and---" She *wasn't* going to cry.
 
-"And Gaeston?" Vurt asked.
+"Wait."  Her mother looked past her at her husband.  "Where's Gaeston?
+Where's the bookster?"
 
-Laeuc shook his head wordlessly, then stepped back, still holding his
-daughter.  "What happened to you?  Where's Razi?"
+Laeuc shook his head wordlessly, his elder daughter still in his
+arms.  Vurt put his hand on his son-in-law's shoulder.
 
-"He's gone," Erileine said dully, too exhausted to feel it.
-Fraederiq, the captain, Uyves, Gaeston, and now Razi---it was too much
-to feel all at the same time.
+"They're gone," Erileine said dully.  Her throat ached from the effort
+of not crying.  Fraederiq, the captain, Uyves, Gaeston, Razi---even
+without the reanimated statue and whatever it was that had briefly
+touched her when she touched the stone, it was too much.
 
-"Never mind the bookster," Vurt said.  "What in the saints' names was
-that---that *thing*?"
+"Never mind that now," Vurt said gruffly.  "What the hells was that
+*thing* they woke up?"
 
-"I think that was a Pilot," Erileine said.  Her throat ached from the
-effort of not crying.
+"I think that was a Pilot," Erileine said.
 
-"But they're all dead!" her grandfather protested.
+"A Pilot?  But they're all dead!" her grandfather protested.
 
 Erileine shrugged.  "Not any more."
 
 Anything she might have added was cut off as the ground lurched
-beneath them.  Slowly but inexorably, the mountain began to turn over.
+beneath them.  Slowly but inexorably, the mountain began to tip over.
 
 *Here ends the first part of The Fall of the Flying Mountain.*

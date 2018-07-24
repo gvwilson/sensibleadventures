@@ -4,184 +4,195 @@
 
 "Once upon a time there was a young man." That's how stories usually
 start, but it's never the truth---not really. That young man must have
-had a family---why not start with how they met? Or how the village he
-grew up in was founded? And that crafty old magician he saves from
-pirates---how'd she wind up in a little boat all on her own out in the
-middle of the ocean? And what about the pirates? They must have had
-families and childhoods. Hell, the hero's boots probably have a story
-too if you only knew how to ask them.
+had parents---why not start with how they met? Or how the village he
+grew up in was founded? And the crafty old magician who gave him three
+wishes because he saved her from pirates---how'd she wind up in a
+little boat all on her own out in the middle of the ocean? And what
+about the pirates? They must have had families and childhoods and
+wishes and all. Hell, the hero's boots probably have a story too if
+you only knew how to ask them.
 
 So I guess that's why we say, "Once upon a time." It's like the first
-dab of paint when you're doing a portrait, or the first onion when
-you're making a stew. It isn't necessarily the most important part of
-what you're eventually going to wind up with---it's just where you
-started, because you have to start somewhere.
+dab of paint on a wall, or the onion you chop up and fry when you're
+making a flat-pan stew. It isn't necessarily the most important part
+of what you eventually wind up with---it's just what you started with,
+because you have to start somewhere.
 
-My first onion is the siege of Armaq. Coriandel and Ossisswe promised us
-all pensions when we signed up, but gratitude's a vaporous thing. Ten
-years after Armaq's walls finally came down, you could stand at the
+My first onion is the siege of Armaq. Coriandel and Ossisswe promised
+us all pensions when we signed up, but gratitude's a vaporous
+thing. Ten years after Armaq surrendered, you could stand at the
 Ordinary Gate of the emir's palace in Coriandel from dawn to dusk
-wearing a veteran's collar and a chestful of medals and end the day with
-nothing more than pity to take home.
+wearing a veteran's collar and have nothing more than pity for dinner
+at the end of the day.
 
-So I found other employment, or it found me. It was exciting stuff, and
-gave me a chance to travel, but was all very much pay-as-you-go work,
-and didn't leave any weight in my purse for long. The third time I had
-to quit lodgings by the back door, I decided to shuck it in and look for
-something better.
+So I found other employment, or it found me. It was exciting stuff---I
+got to see the world, and save a few bits of it---but was all very
+much pay-as-you-go. The third time I had to quit lodgings by the back
+door because someone remembered my face with something other than
+kindness, I decided to shuck it in and look for something better.
 
-What I found instead was a saddle for my backside to polish driving
-cattle from Darp down to Coriandel. It was restful at first, especially
-after what else I'd been doing. Bandits, lions, an occasional
-gargoyle---it seemed a short price for fresh tortillas every morning, a
-four-hour watch every night, and nobody trying to open my throat.
+What I found was a saddle for my backside to polish driving cattle
+from Darp down to Coriandel. It was restful at first.  Bandits, lions,
+an occasional gargoyle---they seemed like a fair price for fresh
+tortillas every morning, a night watch every other night, and nobody
+trying to open my throat.
 
-But then that damn stupid calf went and got itself lost. A day's ride
-south of Dry Weeping there's a stretch of ground that's littered with
-bits of carving all jumbled together. It's Pilot work, a statue garden
-or something stranger, all fallen to pieces. The trail only cuts across
+But then that stupid calf went and wandered off. There's this stretch
+of ground a day's ride south of Dry Weeping that's littered with bits
+of carving all jumbled together. It's Pilot work, a statue garden or
+something stranger that's fallen to pieces. The trail only cuts across
 a corner, but that's still two gallops of marble arms and legs and
 things that I hope to hell weren't meant to be faces, all cracked and
 weathered and never quite the same from one trip to the next.
 
 We came through it just past when spring turns to summer, and I guess
 all the fresh green had made us a little head-lazy. When evening came
-round, the caravaneer counted horns by twos like always. All of a sudden
-she started squalling about how there was a calf missing, one of her
-prize calves, though if you listened to her they were all prize calves.
-I'd been slowest getting unsaddled, so I got to go look for it.
+'round, the caravaneer counted horns by twos like she always did. All
+of a sudden she started squalling about how there was a calf missing,
+one of her best calves, though if you listened to her they were all
+her best calves.
 
-Sure enough, I found a sand miser's pit about half a gallop behind us,
-just a hundred strides off the trail. The calf was standing on the edge,
-worried enough about being that far from its mother that he wasn't
-taking that last step, but still listening to whatever it is sand misers
-say to cows. All I heard was whispering about fresh water and fresher
-women, so I threw a couple of rocks into the pit to break its
-concentration and put a rope on the calf so I could lead him back to the
-herd.
+I'd been slowest getting unsaddled, so I got to go look for it.  Sure
+enough, I found a sand miser's pit about half a gallop behind us, just
+a couple of dozen strides off the trail. The calf was standing near
+the edge, listening to whatever it is sand misers say to cows but
+worried enough about being that far from his mother that he wasn't
+taking that long last step. All I heard was whispers about fresh water
+and fresher women, so I threw a couple of rocks into the pit to break
+its concentration and threw a rope around the calf's nceck.
 
-And wouldn't you know, the damned thing went and kicked me in the mouth.
-My own idiot fault for getting 'round back of him, but still, it wasn't
-much of a thank you for saving his life.
+And wouldn't you know, the damn stupid thing went and kicked me in the
+face.  I was an idiot for going 'round the back of him, but still, it
+wasn't much of a thank you for saving his life.
 
 If it had been the caravaneer's first drive down from the Black Grass,
-she'd have probably given me the calf in debt for my broken tooth. But
+she'd probably have given me the calf in debt for my broken tooth. But
 no, she'd seen civilization and learned that generosity isn't good
 business. I got a pat on the back and a thank you, and some herbs that
-didn't smother the pain nearly enough, and then it was get your tent
-pegged and the fence up, I'm not paying you to sit and gaffle.
+didn't smother the pain nearly as much as I'd have liked, and then it
+was get your tent pegged and the fence up, I'm not paying you to sit
+and gaffle.
 
-Which is how I wound up in Coriandel sucking the stump of a broken tooth
-at the end of another trek. I should have been happy---the city was
-still celebrating the new emir's coronation, and I had a fresh string of
-silver in my pocket. On the other hand, getting that tooth pulled was
-going to eat half of what I''d just earned, and then where would I be?
-Right back where I'd started. Three months of hard work---three months
-in the saddle---and I was right back where I'd puking well started.
+Which is how I wound up in Coriandel sucking the stump of a broken
+tooth at the end of another long ride. I should have been happy---the
+city was still celebrating the new emir's coronation, and I had a
+fresh string of silver in my pocket. On the other hand, getting the
+stump of that tooth pulled was going to eat half of what I'd just
+earned, and then where would I be?  Right back where I'd started.
+Three months of hard work and I was right back where I'd puking well
+started---again.
 
-My second onion is the damn caravaneer deciding that I couldn't keep the
-horse I'd been riding. She wasn't anything special, but she had a decent
-gait, and the way I was raised, if you rode a horse all the way from the
-Black Grass down through the desert, you could fairly expect that it
-would be yours.
+So that's my first onion.  My second is the caravaneer deciding that I
+couldn't keep the horse I'd been riding. She wasn't anything special,
+but she had a decent gait, and the way I was raised, if you rode a
+horse all the way from the Black Grass down through the desert, you
+could fairly expect to keep it at the end of the trip.
 
-Not this time. "The horse?" says the caravaneer, smiling like the kind
-of dream a sand miser would put in a young man's head. "We conversed
-never about the horse. But here, I generous. You may have this." And she
-points at a nag that even a Thindi wouldn't have ridden. No idea where
-she found it---it sure as both hells hadn't done the trek with us---but
-one of her nephews had already put a saddle on it, and three more of
-them had just casually drifted over to stand nearby in case I made a
-fuss.
+But not this time. "The horse?" said the caravaneer, smiling like
+something out of the kind of dream a sand miser would put in a young
+man's head. "She and he are never speak about the horse. But here, she
+is generous. He may have this." And she points at a nag that even a
+Thindi wouldn't have ridden. No idea where she found it---it sure as
+both hells hadn't come down from the Black Grass with us---but one of
+her nephews had already put my saddle on it, and three more of them
+had just casually drifted over to stand nearby in case I made a fuss.
 
-I didn't live through the siege of Armaq by being stupid. I smiled right
-back at her, gave the biggest of her nephews a nod, and turned around to
-go and find a doctress for my tooth and a bottle of something I'd regret
-for afterward.
+I didn't live through the siege of Armaq by being stupid about odds. I
+smiled back at her as well as I could, gave the biggest of her nephews
+a nod, and turned around to go and find a doctress for my tooth and a
+bottle of something I'd regret for afterward.
 
-And there they were, not a hundred paces away, the most beautiful horses
-you've ever seen, twin mares---twins, mind you---and a stallion being
-led into a little paddock hard by the guard post at the Market Gate.
-Take my eyes if I'm lying, they were something the Pilots might have
-made, all three of them with white ribbons braided into their manes.
+And there they were, not thirty strides away, the most beautiful
+horses you've ever seen.  Twin mares---twins, mind you---and a
+stallion being led into a little paddock hard by the guard post at the
+Market Gate.  Take my eyes if I'm lying, they looked like something
+the Pilots might have made, proud-necked and high-stepping and all
+three of them with white ribbons braided into their manes.
 
-Folk around me stared open-mouthed, and I'm not ashamed to say I did
-too. The two Brown Grass Darpani who'd joined up with us a month after
-we started got down on their knees and pressed their foreheads into the
-dirt to give them a full honor. The shoulders they had---the horses, I
-mean, not the Darpani---and the way they walked all high-necked and
-proud... I hadn't seen their equal since the emir of Armaq rode out to
-be hanged the day the siege ended.
+Some of the folk around me were staring at them like kids staring at a
+bowl of sweet ice, and I'm not ashamed to say my jaw dropped too. The
+two Brown Grass Darpani who'd joined up with us a month back got down
+on their knees and pressed their foreheads into the dirt to give them
+a full honor. The shoulders they had---the horses, I mean, not the
+Darpani---and the way they walked... I hadn't seen their equal since
+the emir of Armaq rode out to be hanged.
 
-I joined the crowd gathering at the paddock fence and nodded to the two
-Darpani as they dusted off their knees. They were wearing the same
-clothes they'd worn the whole trip---leather vests, wool trousers that
-came halfway up to their ribs, and heavy sandals. They were brothers,
-maybe, or cousins, or something we don't have a word for---you can't
-beat the Darpani when it comes to making family complicated. We'd gotten
-to know each other the way you do when there's no one else to talk to
-except your horse, and they'd been steady in a couple of tricky spots.
+I joined the crowd gathering at the paddock fence and nodded to the
+two Darpani as they dusted off their knees. They were wearing the same
+clothes they'd worn the whole trip---leather vests with lace-up sides,
+wool trousers that came halfway up to their ribs, and heavy sandals.
+They were brothers, maybe, or cousins, or something we don't have a
+word for---you can't beat the Darpani when it comes to making family
+complicated.  We'd gotten to know each other the way you do when
+there's no one else to talk to except your horse, and they'd been
+steady in a couple of tricky spots.
 
-The taller one looked over at the nag I'd been given, then back at me. I
-shrugged *what can you do?* "More worried now about getting this tooth
-done," I mumbled around my swollen jaw. "You two have plans?" Turned out
-they didn't---probably didn't even know how to *make* plans somewhere
-that had buildings taller than a man on horseback---so I told them how
-to find me and left them eyeing their new-found loves.
+The taller one looked over at the nag I'd been given, then back at
+me. I shrugged *what can you do?* "More worried now about getting this
+tooth done," I mumbled around my swollen jaw. "You two have plans?"
+Turned out they didn't---probably didn't even know how to *make* plans
+somewhere that had buildings taller than a man on horseback---so I
+told them where I'd be and how to get there without getting lost and
+left them to admire their new-found loves.
 
-It was a hot day, with just a couple of runaway clouds in a baking blue
-sky. A dry wind caught the dust kicked up by the cattle and kicked it
-around some more. I blew the grit out of my nose, gave the bored
-guardsman at the Market Gate a penny, got a dab of dye on the back of my
-hand, and headed into the city.
+It was a hot day, with just a couple of runaway clouds in a baking
+blue sky. A dry wind caught the dust kicked up by the cattle and
+kicked it around some more. I blew the grit out of my nose, gave the
+bored guardsman at the Market Gate a sequin, got a dab of dye on the
+back of my hand in return, and headed into the city.
 
-Truth told, I felt a bit like a kitten running between someone's legs
-going through the gate. Coriandel wouldn't be more than a small
-neighborhood in a city like Haricot or Amprakash, but it was as busy as
-an anthill that morning. There were cattle drovers down from the high
-plains of Darp, spice merchants and silversmiths up from Thind, and some
-Hett clustered around a smithy-wagon arguing over the saints alone knew
-what, all in the first fifty strides. I hardly notice it now, but after
-five months with nothing but grass and the back ends of cows to look at
-it, the commotion half made me drunk. And after nothing but wood smoke
-and fresh turds and a whiff of patchouli off the Darpani, it stank.
+Truth told, after five months getting up to the Black Grass and back,
+I felt a bit like a kitten running between someone's legs going
+through the gate. Coriandel wouldn't have been more than a small
+neighborhood in a city like Haricot or Amprakash, but it was as busy
+as an anthill that morning. There were cattle drovers down from the
+high grass of Darp, spice merchants and silversmiths up from Thind,
+and some Hett clustered around a smithy-wagon arguing over the saints
+alone knew what, all in the first fifty strides. I hardly notice it
+now, but after having nothing but the back ends of cows to look at it
+for so long, the commotion half made me drunk. And after nothing but
+wood smoke and fresh turds and a whiff of patchouli off the Darpani,
+it stank.
 
-The strangest part was being among buildings again. Coriandel is all
-brick, painted white to keep off the heat. It's as blinding as a salt
-pan when the sun's high, and the only way to tell one building from the
-next is the doors---a red fish with a human head on one, a hand in the
-middle of a spider web on the next. Their roof tiles are different
-colors too. You can't see it from the street, but from up on Palace Hill
-they spell out, "May Fate Smile Upon Coriandel The Jewel Of The
-Karaband." No one I've ever met knows whether it's part of an old spell
-or just left over from some long-ago coronation, but they keep it as it
-is just in case.
+The strangest part was being among buildings again. They're all brick
+in Coriandel, painted white to keep off the heat. It's as blinding as
+a salt pan when the sun's high, and the only way to tell one house
+from the next is the doors---a red fish with a human head on one, a
+hand in the middle of a spider web on the next. Their roof tiles are
+different colors too. You can't see it from the street, but from up on
+Palace Hill they spell out, "May Fate Smile Upon Coriandel The Jewl Of
+The Karaband." No one I've ever met knows why it's misspelled, or
+whether it's part of an old spell or just left over from some long-ago
+coronation, but the Coriandi keep it as it is just in case.
 
 I found the doctress I needed three streets along from the market. She
 was a little cargo-caste Bantangui woman with her hair up in a turban
-and twin serpents painted on the backs of her hands with henna. She gave
-me poppy in wine to keep me still, then dug the broken root of the tooth
-out of my jaw with a lot more arm than you'd guess someone her size
-would have. It hurt like hell, even with the poppy, but as she kept
-reminding me, it was better than letting it fester.
+and twin serpents tattooed on the backs of her hands. She painted some
+poppy syrup on my tongue to keep me still, then dug the broken root of
+the tooth out of my jaw with a stronger arm than you'd guess someone
+her size would have. It hurt like hell, even with the poppy, but as
+she kept reminding me, it was better than letting it fester.
 
 Once she was done I took myself along to the little brew-and-stew next
-door. I couldn't hardly taste my food, what with blood in my mouth and
-being dizzy from the poppy, but boiled apricots and mushy rice were all
-I could manage until my jaw healed up a bit.
+door where I'd taken an upstairs room once or twice. I couldn't hardly
+taste my food, what with blood in my mouth and being dizzy from the
+poppy, but on the other hand, boiled apricots and mushy rice weren't
+something I'd particularly liked even as a baby.
 
-I had gulped down half the plate when the Darpani came in. They stood
-there until I pointed at the chairs across the table from me. When the
-old soldier who ran the place came to ask them what they wanted, they
-both looked at me. "Same as me," I said around my swollen jaw, the
-poppy, and a mouthful of rice. "On my count."
+I'd forced down half the plate by the time the Darpani came in. They
+stood there until I pointed at the chairs across the table from me,
+Cup on the left, Strap on the right, the same way they rode and slept
+and everything else.  When the old soldier who ran the place came to
+ask them what they wanted, they both looked at me. "Give 'em some goat
+kebabs," I said around my swollen jaw, the poppy, and a mouthful of
+rice. "On my count."
 
 They exchanged glances. The taller one was Cup---Cup Rainbow Reaching. I
 never knew the full name of the other one's name, but he called himself
 Strap. "They have money," he said proudly.
 
-"Yeah, well, this one's my dig. Here." I pushed the bottle I'd bought
-over to him. "Wash away the dust."
+"Yeah, well, this one's my dig. Here." I wiped the mouth of the bottle
+I'd bought and slid it across to him. "Wash away the dust."
 
 And so we got to talking, and just like that, my onions were stewed.
 Sure, some of it was the drink and the poppy, but some part of me had
@@ -189,117 +200,131 @@ decided that if I was going to get kicked in the head, it might as well
 be for something better than a pauper's pyre. Never did find out what
 their reasons were---I'd have said high spirits for most young men, but
 they had the look soldiers get when they've lost so many friends that
-they've lost themselves as well. Never did find out...
+they've lost themselves as well. Never did find out what their story
+was---wish that I had.
 
-But however it was, by the time the bottle was done we had decided to
-ride those horses. Those white ribbons in their manes meant no one ever
-had, and it's powerful luck to be the first one up on a horse like
-that---the kind of luck that the Darpani and I needed.
+Whatever it was, by the time the bottle was done we had decided to
+ride those horses. Those white ribbons in their manes meant no one
+ever had, and it's powerful luck to be the first one up on a horse
+like that---the kind of luck that the Darpani and I both felt we could
+use right then.
 
 So we ate and talked and drank until the sun went down, then sat and
-listened for a bit to the conversations around us, them because sitting
-and listening is practically a sport for the Darpani, and me because the
-poppy had finally caught up with me. The locals talked mostly about how
-glorious the coronation had been, and who was beating who in the
-*umram*, and about a bonescuttle that had come up from the Tombs and was
-taking beggars off the street. It had torn up a couple of guardsmen too,
-one man said, and I winced. Bonescuttles are as smart as they are ugly,
-and the poison in their tails burns you from the inside out.
+listened for a bit to the conversations around us, them because
+sitting and listening is practically a sport for the Darpani, and me
+because the poppy had finally caught up with me. The locals talked
+mostly about how glorious the coronation had been, and who was beating
+who in the *umram*, and about a bonescuttle that had come up from the
+Tombs and taken a couple of beggars off the street. It had torn up a
+couple of guardsmen too, one man said.
 
-Eventually the owner realized we'd stopped buying and pushed us out the
-door. The Darpani headed back to the paddock to give it an eye while I
-went back to the doctress and spent what was left of my pay. I tried
-haggling, but she could tell I'd pay extra for a bit of forgetting, so I
-left with what I needed in my purse and nothing else.
+I winced.  I'd never had the misfortune to run into a bonescuttle
+myself, but I'd heard stories.  They were as smart as they were ugly,
+and the poison in their tails would burn you from the inside out.
 
-I got back to the paddock just as the palace drums beat evening curfew.
-Cup and Strap were waiting for me. Not actually waiting, you understand,
-not standing about like pillars in the desert for everyone to see. No,
-they were just mending gear and chewing on coconut rind, minding their
-own business with one eye on the sun and the other on the paddock where
-four horses stood together beneath a plain yellow awning.
+Eventually the owner realized we'd stopped buying and pushed us out
+the door. The Darpani headed back to the paddock to give it an eye
+while I went back to the doctress and spent what was left of my pay. I
+tried haggling, but she could tell I'd pay extra for a bit of
+forgetting, so I left with what I needed in my pocket and nothing
+else.
 
-Four, not three. The newcomer looked to be about ten years old. He was
-heavy around the shoulders, with a scar on his rump, and definitely not
-gelded. I hunkered down on my haunches beside the Darpani and raised my
-eyebrows.
+I got back to the paddock just as the palace drums started beating
+evening curfew.  Cup and Strap were waiting for me.  Not actually
+waiting, you understand, not standing about like pillars in the desert
+for everyone to see.  No, they were just mending their gear and
+chewing on bits of coconut rind, minding their own business with one
+eye on the sun and the other on the paddock where four horses stood
+together beneath a plain yellow awning.
 
-Cup pursed his lips. "A war mount," he said quietly. "From the Green
-Grass, but away many years. He has many battles, but is not in the
-desert some months."
+Four, not three. The newcomer was heavy around the shoulders, with a
+scar on his rump, and definitely not gelded---no white ribbons for
+this one.  I hunkered down on my haunches beside the Darpani and
+raised my eyebrows.
+
+Cup pursed his lips. "A war mount," he said quietly, as sure about the
+horse as he had been bewildered by the city's streets. "From the Green
+Grass, but away some years, maybe ten. He has many battles, but is not
+in the desert some months."
 
 I accepted a piece of coconut from Strap with a nod of thanks. "Well
-then, let's hope he's being sold for stud, because anyone who rides a
-horse like that is someone I'd rather not meet on business."
+then, let's hope he's being sold for stud, because I'd rather not meet
+anyone who rides a horse like that on business."
 
-Cup shrugged again, not worried or just not caring. I wiped my hands on
-my trousers. "I'll be back just after the third hour." I clapped him on
-the shoulder and went off to find the caravaneer.
+Cup shrugged again, not worried or just not caring. I wiped my hands
+on my trousers. "I'll be back just after the third hour." I clapped
+him on the shoulder and went off to find the caravaneer.
 
 Caravaneers have twice as many rules as anyone I've ever met. Some of
 them make sense, like letting the cattle get a smell of you before
-deciding whether to take you on. And not letting Hett travel with the
-caravan---well, everyone knows they're cursed.
+deciding whether to take you on. And not letting Hett travel with you
+more than three days at a time---well, everyone knows they're cursed.
 
-But they all have different notions about what to do with you when your
-hire was done. Some didn't mind you hanging about for a bit, especially
-if you did well for them and they might like to take you on again.
-Others wanted you out of the way as soon as possible, on the principle
-that the hardest thief to guard against was the person who had built
+But they all have different notions about what to do with you when
+your hire was done. Some don't mind you hanging about for a bit,
+especially if you did well for them and they might like to take you on
+again.  Others want you out of the way as soon as possible, on the
+principle that the hardest thief to guard against is the one who built
 your fence.
 
 This one scowled a bit when I asked if I could sleep alongside that
 night, but then her husband came at her with yet another question---he
-couldn't tie his own bootlaces without asking her something---so she
-just waved me away. I set my roll far enough away from the Darpani that
-it wouldn't look like we were together and closed my eyes. My jaw was
-throbbing, and I felt squeamish from the blood I'd swallowed and what
-I'd been drinking, but it only took me a few minutes to slip under the
-waves and start snoring. After the night raids and fire ghosts at Armaq,
-I could probably sleep through the Pilots' Return.
+couldn't tie his own bootlaces without asking her whether it was left
+over right or right over left---so she just waved me away. I set my
+roll far enough away from the Darpani that it wouldn't look like we
+were together and closed my eyes. My jaw was still throbbing, and I
+felt squeamish from the blood I'd swallowed and the gargoyle piss I'd
+been drinking, but it only took me a few minutes to slip under the
+waves.  I've always been a good sleeper---I could probably snore my
+way through the Pilots' Return.
 
-Strap woke me by pinching my toe. I'd laid my poncho loose over myself,
-so I slipped it off without making any sound.
+Strap woke me by pinching my toe. I'd laid my poncho loose over myself
+for a blanket, so I slipped out from under it without making a sound.
 
-The horses at one end of the paddock, the three beauties together with
-the warhorse a few strides away. Two guards had been set to watch them,
-but sure enough, they were both in the not-really-here frame of mind
-that creeps over you when it's the middle of the night and drifting a
-bit won't necessarily mean waking up dead.
+The horses were at one end of the paddock, the three beauties together
+with the warhorse a few strides away. Two guards had been set to watch
+them, but sure enough, they were both in the not-really-here frame of
+mind that creeps over you when it's the middle of the night and
+drifting a bit won't necessarily mean waking up dead.
 
 I soaked a couple of rags in what the doctress had given me. Cup and
-Strap took one each and faded into the night. I gave them a hundred
-heartbeats to work their way around back of the paddock, then walked
-over to the guards with a smile on my face. This and that and a bit of
-the other, and the Darpani lowered them to the ground, fast asleep.
+Strap took one each and disappeared into the night.  I gave them a
+hundred heartbeats to work their way around back of the paddock, then
+walked over to the guards with a smile on my face. This and that and a
+bit of the other, and the Darpani lowered them to the ground, fast
+asleep.
 
-We waited a dozen heartbeats to make sure they'd stay that way, grinning
-at each other like kids, then crept forward to the fence. The two mares
-were right there, head to tail just out of reach. I was about to slip
-under the fence when the warhorse ambled over. He was a big fellow, gray
-with a black sock and a black dapple on his neck.
+We waited a dozen heartbeats to make sure they'd stay that way,
+grinning at each other like naughty kids, then crept forward to the
+fence. The three beauties were right there, head to tail to head just
+out of reach.
 
-"Sh," Cup hushed softly. "Sh, sh, sh. Nothing to claw at you here,
-friend to the world. Nothing to claw at you here." I kept my mouth
-shut---if it's horses, it's best left to the Darpani.
+I was about to haul myself over the fence when the warhorse ambled
+over. He was a big fellow, gray with a black sock and a black dapple
+on his neck.
+
+"Sh," Cup hushed softly beside me. "Sh, sh, sh. Nothing to claw at you
+here, friend to the world. Nothing to claw at you here." I kept my
+mouth shut---you'd have to be three kinds of fool to get in the way
+when a Darpani is dealing with a horse.
 
 The stallion looked at him with big brown eyes. "Sh..." Cup soothed.
 "Peace, friend, companion. No lions, no fire, nothing to claw at you
 here. Sh, sh, sh."
 
-The gray nodded his head, then shook himself and ambled back to the
-center of the paddock. Cup and I exchanged triumphant grins. We slipped
-over the fence---
+The gray nodded his head, then whinnied and ambled back to the center
+of the paddock. Cup and Strap and I exchanged grins. We slipped over
+the fence---
 
----and the warhorse bellowed, "Guards! Guards!" and as the Darpani would
-say, we were well and truly roasted.
+---and the warhorse bellowed, "Guards! Guards!" and just like that, my
+onions were well and truly stewed
 
 -----
 
 ## Then: Sweet in the Corral
 
-...and they were well and truly roasted. Their lookout made to bolt, but
-the *real* guards up on the roof were on their feet by then, bows
+...and they were well and truly stewed. Their lookout made to bolt,
+but the *real* guards up on the roof were on their feet by then, bows
 raised. The Karabandi, Ishad, didn't drop his knife until they put an
 arrow in the ground at his feet. I hope he could tell I was smiling at
 him.

@@ -1,6 +1,7 @@
 ---
 layout: narrow
-title: And Should I Fall Behind
+title: "And Should I Fall Behind"
+author: "Greg Wilson"
 permalink: /fall-behind/
 ---
 

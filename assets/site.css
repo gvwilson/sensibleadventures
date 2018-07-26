@@ -25,3 +25,9 @@ blockquote {
 ol, ul {
     padding-left: 1.2em;
 }
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #000000;
+}

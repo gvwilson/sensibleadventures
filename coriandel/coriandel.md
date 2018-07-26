@@ -1,6 +1,6 @@
 # Beneath Coriandel<br>Greg Wilson
 
-## Then: Ishad's Onions
+## Down When: Ishad's Onions
 
 "Once upon a time there was a young man." That's how stories usually
 start, but it's never the truth---not really. That young man must have
@@ -317,323 +317,325 @@ of the paddock. Cup and Strap and I exchanged grins. We slipped over
 the fence---
 
 ---and the warhorse bellowed, "Guards! Guards!" and just like that, my
-onions were well and truly stewed
+onions were well and truly stewed.
 
 -----
 
-## Then: Sweet in the Corral
+## Down When: Sweet in the Corral
 
-...and they were well and truly stewed. Their lookout made to bolt,
-but the *real* guards up on the roof were on their feet by then, bows
-raised. The Karabandi, Ishad, didn't drop his knife until they put an
-arrow in the ground at his feet. I hope he could tell I was smiling at
-him.
+Well and truly stewed. Their lookout made to bolt, but the *real*
+guards on the roof were on their feet by then, their bows raised. The
+Karabandi, Ishad, did not drop his knife until they put an arrow in
+the ground at his feet.  I smiled at him, though I do not know if he
+recognized it for such---most humans are not as good at understanding
+the experssions of animals as they think.
 
-My name is Sweet. It's not a horse name. Horses don't give themselves
-names. Cats do, the Gifted ones, or so they claim. Of course, cats say
-all sorts of things. I don't trust them, especially not the big ones.
-They're shifty.
+My name is Sweet. It is not a horse name---horses do not give
+themselves names. Cats do, the Gifted ones, or so they say. Of course,
+cats say all manner of things. I do not trust them, especially not the
+big ones.  I find them to be shifty.
 
 I was born wild, up toward the high end of the Sprained River valley.
-Been away a lot longer than I was there, but magic me back with a
-blindfold on, and I'd know it in a heartbeat from the way its grass
-smells and the sound of frogs in the rushes.
+I have been away much longer than I was there, but were you to magic
+me back with a blindfold on, I would know it in a heartbeat from the
+smell of the grass and the sound of frogs in the rushes.
 
 I was eight months old when Finger Paper Rolling and her cousins snuck
-up on my herd in the middle of the night with halters and hobbles. They
-split off a dozen of us, whooping and whistling to drive us into a box
-wash with sides so steep we couldn't scramble out. Finger got a loop of
-rope around my neck and snagged the other end on a dwarf spruce. It just
-about took my head off when it went taut. I'd half-way bitten through it
-before she got a hobble around my ankles. I tried to bite her instead
-then, but she just laughed and danced away.
-
-After we got to know each other, she told me that her band had half a
-dozen spots like that up and down the river. They never used any of them
-more than once in a handful of years, though, so that herds wouldn't
-learn they were dangerous. Humans make a big fuss about having thumbs
-and all, but I think the real reason they rule the world is that most of
-them can remember things like traps from one season to the next. Of
-course, that doesn't mean they always stay out of them.
+up on my herd in the middle of the night with halters and hobbles.
+They split off a dozen of us, whooping and whistling to drive us into
+a box wash with sides so steep that we could not scramble out. Finger
+set a loop of rope around my neck and snagged the other end on a dwarf
+spruce. It almost took my head off when it went taut. I had bitten
+half-way through it before she got a hobble around my ankles. I tried
+to bite her instead then, but she just laughed and danced away.
 
 Finger and her cousins sold the other horses they caught, but she kept
-me for herself because of my size. She thought I might have a little
-charger in my blood, maybe from a cavalry remount that wandered off
-during some war or other. She knew I was special right away because I
-learned so quickly. A week after she broke me to saddle, she could steer
-me with her knees. Two days after that, I knew all her whistles---kneel,
-back up, stand. Truth was, I liked learning. I'd been starving for it,
-not knowing what I was hungry for. And there she was, teaching me, and
-best of all, *talking* to me.
+me for herself because of my size and good looks.  She thought I might
+have a little charger in my blood, perhaps from from a cavalry remount
+who had wandered off during some war or other. She knew that I was
+special right away because I learned so quickly. A week after she
+broke me to saddle, she could steer me with her knees. Two days after
+that, I knew all of her whistles---kneel, back up, stand.  The truth
+was that I liked learning, that I had been starving for it without
+knowing what I hungered for, and there she was, teaching me and best
+of all *talking* to me.
 
-I don't know when her words started to join up in my head, but I do
-remember the first time I talked back. She had been trying to get me to
-jump over a fire. I didn't want to, so I said, "No." That's what people
-said when they didn't want something, wasn't it? Finger was so surprised
-that she almost swallowed her tongue. Then she threw her arms around my
-neck and started crying. I remember being confused and wondering what
-I'd done wrong.
+I do not know when her words began to join up in my head, but I do
+remember the first time I talked back. She had been trying to get me
+to jump over a fire.  I did not want to, so I said, "No."  That was
+what you said when you did not want something, was it not? Finger was
+so surprised that she almost swallowed her tongue. Then she threw her
+arms around my neck and began to cry. I was so upset at upsetting her
+that I began to cry as well.
 
-After she wiped her eyes she took me to her ride chief. She tried for an
-hour to get me to say 'no' again, but I was so embarrassed by the
-commotion that I wouldn't until he offered me a crust of dried honey.
-Then I said, "Sweet." Everyone started to laugh, so it was another full
-day before she could get me to say anything more. Kind of funny now,
-looking back on it, but at the time, I had no idea I was one in a
-thousand. I was just lucky I'd been found by a tribe that treasured
-Gifted animals instead of thinking we're cursed.
+After she wiped her eyes she took me to her ride chief. She tried for
+an hour to get me to say "no" again, but I was so embarrassed by the
+commotion that I would not speak until he gave me a crust of clotted
+honey.  Then I said, "Sweet." Everyone laughed, so it was another full
+day before she could get me to say anything more.  It is funny now,
+looking back, but I had no idea that being able to speak meant I was
+one in a thousand, or how lucky I was that I had been found by a tribe
+that treasured the Gifted instead of thinking us cursed.
 
-I met Oro five years later. Finger was dead by then. Wasn't riding me
-when it happened. Wouldn't have happened if she had been, but I was on
-my own on the other side of the herd getting a heavy-bellied cow back
-into line. A bunch of hotheads from Smoke Rein Choking's band
-grasswhacked us, whooping and hollering, trying to stir up some
-confusion so they could steal a calf to brag over. One of them threw a
-bagful of bee burrs into the herd, and the whole mess stampeded. Finger
-and two others were trampled.
+I met Oro five years later.  Finger was dead by then.  A pair of
+hotheads from Smoke Rein Choking her band had grasswhacked us,
+whooping and hollering and throwing bee burrs left and right to cause
+a stampede so that they could steal a calf to brag over.  I was only a
+few strides away from her when a heavy-bellied cow knocked her over.
+I stood over her, screaming at her ride-mates as the herd thundered
+past to come and help her up, please, help her, and then at my death
+to come when I realized that hers had found her.
 
-I nearly broke a leg trying to get to her. It would have been the death
-of me, in amongst those stupid cows, but I wouldn't have minded. Not if
-it had bought her the half-dozen heartbeats she needed to get out of the
-way.
+Smoke Rein Choking gave over the pair who had come thieving when she
+saw Finger her funeral pyre. I held my temper a whole day before
+kicking one in the ribs. The next day day I accidentally knocked over
+a cooking pot and splashed hot oil onto the other.  That evening, the
+ride chief took me aside and told me it would be best if I went and
+saw a bit of the world. It is bad manners to abuse a judgment slave,
+and she would owe their families lives in return if I killed them.
 
-The pair who'd come thieving gave themselves up for slaves when they saw
-the funeral pyres. I held my temper a whole day before kicking one in
-the ribs and breaking the other's knee. A couple of days later I knocked
-over a cooking pot and splashed hot oil onto them.
+She thought I would argue, but in truth I did not mind the thought of
+leaving.  Finger always talked about seeing the rest of everything.
+"Waves on the ocean," she would say. "Waves on the ocean before we
+die."  With her gone, all I could do was see them for her.
 
-That evening, the ride chief took me aside and told me that it might be
-an idea if I saw a bit of the world. It's bad manners to abuse a
-judgment slave, not to mention what he'd owe their families if I killed
-them. Truth was, I didn't mind the thought of leaving. Finger always
-talked about seeing the world when it was just the two of us. "Waves on
-the ocean," she'd say. "We'll see waves on the ocean before we die."
-Honestly, with her gone, I couldn't think of anything better to do.
+A week later, when the ride chief her nephew took salt with a caravan
+to Coriandel, I took my lick as well. As a scout, not as a mount---no
+one but Finger had ever put a saddle on me, and if I had stayed with
+the band, I doubt I would ever have worn one again.
 
-A week later, when one of the ride chief's nephews took salt with a
-caravan to Coriandel, I took my lick as well. As a scout, mind, not as a
-mount. No one but Finger had ever put a saddle on me. If I had stayed
-with the band, I doubt I would ever have worn one again.
+But as soon as we were moving, I noticed a skinny Karabandi eyeing me.
+He did not stare, but every time I looked over I caught him looking
+back. By the second evening out I had enough, so I asked him if I was
+growing feathers. He laughed, apologized, said no, he was sorry, he
+was just trying to figure out a polite way to ask me a question. "Is
+someone still in the Grasses?" I asked. He said yes. "Then someone
+should make of it an odd-stride trirain."
 
-But as soon as we were moving, I noticed this skinny Karabandi giving me
-the eye. He didn't stare, but every time I looked over I caught him
-looking back. Second evening out I'd had enough, so I asked him if I was
-growing feathers. He laughed, apologized, said no, he was sorry, he was
-just trying to figure a polite way to ask me a question. "Is someone
-still in the Grasses?" I asked. He said yes. "Then someone should make
-of it an odd-stride trirain."
+That shut him up. The Darpani do not care much for books---I still
+cannot read, though I know my name when I see it. But poetry, that is
+grass and water, air and rain and the smell of honey.  Stirrup rhymes
+and sondelays, half-lampoons and dirges---the Darpani know more ways
+to put words together than the rest of Cherne put together. Of all
+those ways, trirains are the hardest to get right, and odd-stride
+trirains will tie you up like knotgrass.
 
-That shut him up. The Darpani aren't much for books---I still can't
-read, though I know my name when I see it. But poetry, that's grass,
-that's water, that's air and rain and the smell of honey to the Darpani.
-Stirrup rhymes and sondelays, half-lampoons and dirges---the Darpani
-know more ways to put words together than the rest of Cherne put
-together. Of all those ways, trirains are the hardest to get right, and
-odd-stride trirains will tie you up like knotgrass.
-
-But he did it. Fifth day on the trail, evening meal, the whole troop
-around us, he came over to me, went down on one knee, and recited:
+But he did it. Come the evening on our fifth day riding together, with
+the whole troop around us, he went down on one knee and recited:
 
 > Oh thou, proud stallion, swift wind made flesh
-> Humbly, seeking only to better the lot of your kind, I ask
+>
+> Humbly, seeking only to better the lot of your kind, he asks
+>
 > How may best your rider serve you?
 
-It's just words in Karabandi. You can't even tell it's odd-stride. But
-it isn't half bad in Darpani. It isn't half bad at all.
+It is just words in Karabandi. You cannot even tell that it is
+odd-stride. But it is not half bad in Darpani. It is not half bad at
+all.
 
 The whole troop whistled and snapped their fingers. He kept his head
-down to hide his grin. I pawed the ground. "They applaud," I said, just
-in case he couldn't tell what I was doing "But they still not know what
-someone is actually asking for." Which of course brought more laughter.
+down to hide his grin. I pawed the ground. "He Applauds," I said, just
+in case he could not tell what I was doing "But he still does not know
+what someone is actually asking for." Which of course brought more
+laughter.
 
-Well, it turned out that his name was Oro, and what he wanted was riding
-lessons. He was good in the saddle, but he wasn't Darpani. Who better to
-teach him than a horse?
+It turned out that his name was Oro, and what he wanted was riding
+lessons. He was good in the saddle, but he was not Darpani. Who better
+to teach him than a horse?
 
 If he had offered me money, I would have emptied my rump on his boots.
 Instead, he offered to teach me Karabandi. And to help me find a
 position when we reached Coriandel.
 
-"They question whether assistance will be needed," I said haughtily. "Or
-how much assistance one of your station could offer." I had never seen a
-paved street or a building taller than a man on horseback, but I knew
-that Gifted animals were rare. I fancied myself the emira's parade
-mount, nothing less. I knew it would take me a while to meet people who
-knew the people who arranged such things, but I was sure I would get
-there eventually. He, on the other hand, looked like he hadn't eaten a
-good meal since he was old enough to shave. How much help could he be?
+"He doubts assistance will be needed," I said haughtily. "And
+questions how much assistance one of your station could offer."  I had
+never seen a paved street or a building taller than a man on
+horseback, but I knew that Gifted animals were rare. I fancied myself
+the emira her parade mount, nothing less. I vaguely knew that it might
+take me a while to meet people who knew the people who arranged such
+things, but I was sure it would all somehow take care of itself. He,
+on the other hand, looked like he had not eaten a good meal since he
+was old enough to shave. How much help could he be?
 
 The Karabandi paid no more attention to my rudeness than he would have
-to a spring shower. "They apologize for not having made a proper
-introduction," he said, bowing slightly. "They are of the House of
+to a spring shower. "He apologizes for not having made a proper
+introduction," he said, bowing slightly. "He is of the House of
 Iandel, its principal line." I whinnied with surprise, which made him
-smile again. He was a damned emir-in-waiting of Coriandel.
+smile. He was a damned emir-in-waiting of Coriandel.
 
-We spent eight years together, driving cattle and carrying messages for
+We spent six years together, driving cattle and carrying messages for
 people too cheap or too suspicious to trust the post or magicians and
-leaving a trail of pistachio shells behind us. He couldn't get enough of
-them---he didn't drink much, and wasn't a slave to coffee the way some
-humans were, but he'd go a week without meat for a bag of pistachios.
+leaving a trail of pistachio shells behind us. He could not get enough
+of them---he only drank sparingly, and was not a slave to coffee or
+chocolate the way some humans were, but he would go a week without
+meat for a bag of pistachios.
 
 One of the messages we carried took us to Armaq, where we got caught up
 in the siege. Oro slept beside me every night for three months with his
 sword in his hand. He used it too, more than once. Gifted or not, I
-would have been someone's dinner if he hadn't.
+would have been someone their dinner if he had not.
 
-We managed to escape before Armaq fell, thanks to one of Lady Kembe's
-agents. We saved his life, sort of, and somehow wound up doing her
-errands. It was mostly quiet---help someone out a bit here, keep an eye
-on someone there---but what wasn't quiet was bloody. Oro lost a couple
-of toes, I had a bite taken out of my rump, and we both nearly had our
-souls stolen a couple of times.
+We managed to escape before Armaq fell, thanks to one of Lady Kembe
+her agents. We saved his life, sort of, and somehow thereby wound up
+doing her errands. It was mostly quiet---help someone out a bit here,
+keep an eye on someone there---but what was not quiet was bloody. Oro
+lost a couple of toes, I had a bite taken out of my rump, and we both
+nearly had our souls stolen a couple of times.
 
-Then Oro's aunt decided it was time to catch up on her gardening and
-leave the running of the city to someone else. She summoned all of the
+Then Oro his aunt decided it was time to return to her gardening and
+leave the running of the city to someone else. She summoned the
 in-waitings back to Coriandel and told them that the royal collar had
 made its choice. "You have been brave, and studious, and you have made
 beautiful things, each according to your nature," she said. "Your city
-is proud of you, but the collar can only be borne by one. Oro, you take
-the burden after me."
+is proud of you, but the collar can only be borne by one. Oro, you
+shall take the burden after me."
 
 Well, I had never heard him speak like he spoke to her that afternoon.
-It wasn't fair---there was so much he still wanted to do! Why couldn't
-one of his sibs or cousins do it? Why couldn't their uncle? He loved
+It was not fair---there was so much he still wanted to do! Why could
+one of his sibs or cousins not do it? Why not their uncle? He loved
 juristry! And on, and on.
 
-He gave in eventually course. The collar wouldn't have picked him if
-there was any chance of him doing otherwise. "Duty," she said, and that
-was that. It's a hard word, even harder when someone says it to you as
-if you needed reminding.
+He gave in eventually, of course. The collar would not have picked him
+if there was any chance of him doing otherwise. "Duty," she said, and
+that was that. It is a hard word, even harder when someone says it to
+you as if you need reminding.
 
-His aunt relented a little in the end and gave him---us---two more years
-of freedom. We did so much in those years that I sometimes wondered if
-he was trying to get killed just to spite her. We hunted statues in
-Praczedt, drank moonlight on Year-Again Eve in the royal palace in
-Gandan... About the only place we didn't go was the Flying Mountain, and
-that was only because he took pity on me---horses don't like heights.
+His aunt relented a little in the end and gave him---us---one more
+year of freedom.  We did so much in that year that I sometimes
+wondered if he was trying to get killed to spite her. We hunted
+statues in Praczedt, drank moonlight on Year-Again Eve in the royal
+palace in Gandan... About the only place we did not go was the Flying
+Mountain, and that was only because he took pity on me---horses are
+not overly fond of heights.
 
-And yes, I finally got to see the ocean. Wave after wave, with the gulls
-overhead and that salt-fish smell in my nostrils... Horses can't cry,
-but we can mourn. I waded in up to my knees and said a prayer for
-everything Finger never had a chance to see, then turned north and
-carried Oro to his duty.
+And yes, I finally got to see the ocean. Wave after wave, with the
+gulls overhead and that salt-rot smell in my nostrils... Horses cannot
+cry, but we can mourn. I waded in up to my knees and said a prayer for
+Finger, then turned north and carried Oro to his duty.
 
-Two years to the day, we were back in Coriandel. I was in his coronation
-parade, the parade mount I'd dreamed of being. I had gilt tassels in my
-mane, and a fine bronze chain around my neck to let the world know that
-I was a person, not some dumb beast, and I would have given the world to
-be anywhere else.
+A year to the day, we returned to Coriandel. I was in his coronation
+parade, the royal mount I had dreamed of being. I had gilt tassels in
+my mane, and a fine bronze chain around my neck to let the world know
+that I was a person, not some dumb beast, and I would have given the
+world to be anywhere else.
 
 The whole city turned out to cheer. They always cheer when someone new
-takes the throne. I sometimes wonder how it makes the person who's
+takes the throne. I sometimes wonder how that makes the person who is
 stepping down feel.
 
-I was three paces behind him and a pace to his left when his aunt hung
-the royal collar around his neck. It looked like a plain iron chain, no
-thicker than a strip of willow. Eighteen years she had worn it. Eighteen
-years of unrelenting duty, of the collar whispering in her ear night and
-day, of never really trusting another human being. It was no wonder she
+I was three paces behind him and a pace to his left when his aunt
+fastened the royal collar around his neck. It looked like square
+plates of plain iron, hinged to be flexible and lined on the inner
+side with silk.  Eighteen years she had worn it. Eighteen years of
+unrelenting duty, of the collar whispering in her ear night and day,
+of never really trusting another human being. It was no wonder she
 burst into tears when she took it off.
 
-Oro didn't when she hung it round his neck. Some do, I'm told, but not
+Oro did not weep when she hung it round his neck. Some do, but not
 him. He stood straight and proud like always, but the look on his
-face... The spell that keeps Coriandel's emirs honest goes all the way
-back to Pilot times. It wasn't made for people.
+face... The spell that keeps the emirs of Coriandel honest was forged
+in the time of the Pilots.  They were not people, and their magic was
+not made to be gentle.
 
 His aunt and uncle bowed to him. Silk and linen rustled as the nobles
-and ambassadors and what-not followed suit. As he settled onto the
-throne, his aunt turned and left the room with his uncle at her side, on
-their way to exile.
+and ambassadors and what-not behind them followed suit. As he settled
+himself on the throne, his aunt turned and left the room with her
+husbands on either side of her, three people suddenly unneeded by the
+city they had served.
 
-He dealt with important matters first. He confirmed his aunt's ministers
-in their posts, ordered the palace thieves to take a vacation, declared
-a one-month holiday on market gate fees, and commissioned a coronation
-portrait to hang in the Long Hall. Every few moments he cocked his head
-to listen to a voice no one else could hear.
+He dealt with important matters first. He confirmed his aunt her
+ministers in their posts, ordered the palace thieves to take a
+vacation, declared a one-month holiday on market gate fees, and
+commissioned a coronation portrait to hang in the Long Hall. Every few
+moments he cocked his head to listen to the collar whisper in a voice
+no one else could hear.
 
-Then he called for me. I didn't kneel to him. He told me before the
+Then he called for me. I did not kneel to him. He told me before the
 ceremony that he never wanted me to. But I did bow my head until he
 said, "Up, friend."
 
 I heard a new weight in his voice. Some people say the royal collar
-makes its wearer's hair go white in an instant, but that's a lie. The
-changes are all inside. The Oro who did a handstand on my back in a
-courtyard in Gandan to impress a girl he'd only just seen was gone.
+makes its wearer their hair go white in an instant, but that is a
+lie. The changes are all inside. The Oro who did a handstand on my
+back in Gandan to impress a girl he had not yet even spoken to was
+gone.
 
 "My life to serve you, my emir," I said.
 
 He nodded and gestured at a lanky man standing a few strides away from
 me. "My Master of Stables tells me that I am sending three horses to
-Ossisswe. A wedding gift, I believe---two mares and a stallion. It would
-please me if you would accompany them, and give my warm regards to my
-royal cousin."
+Ossisswe as a gift.  Two mares and a stallion, I believe---it would
+please me if you would accompany them, and congratulate my cousin on
+his wedding."
 
-Exile. The new emir was tossing the old emir-in-waiting's disreputable
-companion away. "Of course, Your Highness," I said.
+Exile. The new emir was setting aside the disreputable companion of
+the old emir-in-waiting. "Of course, Your Highness," I said.
 
 The corner of his mouth twitched. "You would serve me also by
 remembering to my royal cousin in Ossiswe that the first colt out of
 each mare is mine, as are any fortunate enough to be born Gifted. It
 would please me if you would return with them when they are of age."
 
-My heart started beating again. Not exile, then, just...separation.
-Horses can't smile, but he knew what my ears were saying. "My life to
-serve you," I repeated.
+My heart started beating again. Not exile, then, just separation while
+he settled into his new role.  Horses cannot smile, but he knew what
+my ears were saying. "My life to serve you," I repeated.
 
-I didn't really think about the mares until I met them the next day.
+I did not really think about the mares until I met them the next day.
 Then I could think about nothing else. They were beautiful. No, they
-were *wonderful*. You wouldn't understand. You can only see them through
-human eyes. The way they moved, the way their necks arched...
+were *wonderful*. You would not understand. You can only see them
+through human eyes. The way they moved, the way their necks
+arched---they were not just a gift to the emir his cousin.  They were
+a gift to *me*.
 
-Oro's Master of Stables introduced me to my charges in the riding ring
-behind the palace. They were happy to see me, of course. So was the
-stallion after I made it clear who was in charge. The ungifted are
-always happier with a Gifted around. They can tell we're smarter, even
-if they aren't really smart enough to understand what "smart" actually
-means.
+The Master of Stables introduced me to them in the riding ring behind
+the palace. They were happy to see me, of course. So was the stallion
+after I made it clear who was in charge. The ungifted are always
+happier with a Gifted around. They can tell we are smarter than they
+are, even if they are not smart enough to understand what "smarter"
+actually means.
 
-That's how I came to be in the paddock that afternoon when the Karabandi
-and the two Darpani started eyeing my wards. They would have known who I
-was if they'd been in the city longer, but they still had road dust in
-their hair. The Darpani looked clanless, probably on the run from a
-slave judgment. The Karabandi moved like a big cat. He didn't sneak
-around---he just drifted like a piece of wood minding its own business
-in the middle of a stream.
+That is how I came to be in the paddock that afternoon when the
+Karabandi and the two Darpani started eyeing my wards. They would have
+heard who I was if they had been in the city more than a day or two,
+but they still had road dust in their hair. The Darpani looked
+clanless, probably on the run from a slave judgment.
 
-I could almost smell the trouble boiling off him, so I had a quiet word
-with the Master of Stables. Putting a couple of half-wits in uniform as
-decoys was an old trick---it tickled to use it again.
+The Karabandi moved like a big cat. He did not sneak around---he just
+drifted like a piece of wood minding its own business in the middle of
+a stream.  I could almost smell the trouble boiling off him, so I had
+a quiet word with the Master of Stables. Putting a couple of half-wits
+in uniform as decoys was one of Oro his old tricks---it tickled me to
+use it.
 
-And sure enough, not long past moonrise, the Karabandi's snoring
-suddenly stopped. A couple of minutes later there was a bit of grunting
-as the Darpani put the two chuckleheads to sleep.
+And sure enough, not long past moonrise, the Karabandi his snoring
+suddenly stopped. A couple of minutes later there was a bit of
+grunting as the Darpani put the two chuckleheads to sleep.
 
 I ambled over to the Darpani, as innocent as could be. "Sh," he said
 soothingly. "Peace, friend, companion. No lions, no fire, nothing here
 to claw at you. Sh, sh, sh."
 
-No cause for alarm? Heh. I ambled back to the middle of the paddock,
-just in case they got any ideas with those knives of theirs, then
-shouted for help.
+No cause for alarm? Heh. No cause for *me*, perhaps.  I ambled back to
+the middle of the paddock, just in case they got any ideas with those
+knives of theirs, then shouted for help.
 
 I waited until the real guards had the three of them on their knees
-before coming over to taunt them. Finger taught me how to taunt---it's
-practically another kind of poetry up on the grass. "They ask," I said
-to the first Darpani genially, "Who now claws at who?"
+before coming over to taunt them. Finger taught me how to taunt---it
+is practically another kind of poetry up on the grass. "He asks," I
+said to the first Darpani genially, "Who now claws at who?"
 
-He tried to get up. The guards pushed him back onto his knees. "Their
-blade kisses the throats of your offspring one by one," he spat.
+He tried to get up. The guards pushed him back onto his knees, and
+suddenly he laughed.
 
-I snorted. Suddenly the Karabandi laughed.
-
-"What's so funny?" I asked.
+"What is so funny?" I asked.
 
 "Life," he said, the last dregs of the laugh still in his voice. "What
 can you do about it?"
 
-The guards took them away to the palace. I didn't need to ask what would
-happen next---they had tried to steal from the emir. I went back to my
-post in the middle of the paddock and waited for sunrise.
+The guards took them away to the palace. I did not bother to ask what
+would happen next---they had tried to steal from the emir, and Oro was
+never by nature a forgiving man.  I went back to my post in the middle
+of the paddock and waited for sunrise.
 
 -----
 

@@ -1952,7 +1952,7 @@ They stopped to rest when the road leveled off.  Erileine turned and
 looked back the way they had come.  All he could see of Starboard Town
 was the roof of the Captain's House and a few household kites.  In the
 distance, a herd of clouds was raining on the plains below.  *At least
-_they_ have water*, Erileine thought.
+__they__ have water*, Erileine thought.
 
 "Do you think they know?" she asked no one in particular.  "Down
 below, I mean.  That we're off course?"

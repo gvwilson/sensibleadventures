@@ -1,6 +1,6 @@
 # Beneath Coriandel<br>Greg Wilson
 
-## Down When: Ishad's Onions
+## Back When: Ishad's Onions
 
 "Once upon a time there was a young man." That's how stories usually
 start, but it's never the truth---not really. That young man must have
@@ -238,8 +238,8 @@ eye on the sun and the other on the paddock where four horses stood
 together beneath a plain yellow awning.
 
 Four, not three. The newcomer was heavy around the shoulders, with a
-scar on his rump, and definitely not gelded---no white ribbons for
-this one.  I hunkered down on my haunches beside the Darpani and
+nasty scar on his rump, and definitely not gelded---no white ribbons
+for this one.  I hunkered down on my haunches beside the Darpani and
 raised my eyebrows.
 
 Cup pursed his lips. "A war mount," he said quietly, as sure about the
@@ -319,194 +319,205 @@ the fence---
 ---and the warhorse bellowed, "Guards! Guards!" and just like that, my
 onions were well and truly stewed.
 
------
+## Back When: Sweet in the Corral
 
-## Down When: Sweet in the Corral
-
-Well and truly stewed. Their lookout made to bolt, but the *real*
-guards on the roof were on their feet by then, their bows raised. The
-Karabandi, Ishad, did not drop his knife until they put an arrow in
-the ground at his feet.  I smiled at him, though I do not know if he
-recognized it for such---most humans are not as good at understanding
-the experssions of animals as they think.
+*La*, they were well and truly stewed. Their lookout made to bolt, but
+the guards---the real ones on the roof---were on their feet in an
+instant, their bows raised. The Karabandi, Ishad, dropped not his
+knife until they put an arrow in the ground at his feet.  I smiled at
+him, though I do not know if he recognized it for such---most humans
+are not as good at understanding the expressions of animals as they
+think.
 
 My name is Sweet. It is not a horse name---horses do not give
 themselves names. Cats do, the Gifted ones, or so they say. Of course,
 cats say all manner of things. I do not trust them, especially not the
 big ones.  I find them to be shifty.
 
-I was born wild, up toward the high end of the Sprained River valley.
-I have been away much longer than I was there, but were you to magic
-me back with a blindfold on, I would know it in a heartbeat from the
-smell of the grass and the sound of frogs in the rushes.
+I was born wild, up along the high end of the Sprained River valley.
+I have been away more years than I was there, but were you to magic me
+back blindfolde, I would know where I was in a heartbeat from the
+particular smell of its grass and the sound of frogs in the rushes.
 
 I was eight months old when Finger Paper Rolling and her cousins snuck
-up on my herd in the middle of the night with halters and hobbles.
-They split off a dozen of us, whooping and whistling to drive us into
-a box wash with sides so steep that we could not scramble out. Finger
-set a loop of rope around my neck and snagged the other end on a dwarf
-spruce. It almost took my head off when it went taut. I had bitten
-half-way through it before she got a hobble around my ankles. I tried
-to bite her instead then, but she just laughed and danced away.
+up on my herd in the middle of the night with bee burrs and hobbles.
+They split half a dozen of us from the rest, whooping and whistling to
+drive us into a box wash with sides so steep that we could not
+scramble out. Finger set a loop of rope around my neck and snagged the
+other on a dwarf spruce. It almost took my head off when it went
+taut.
+
+I had bitten half-way through the rope before she managed to set a
+hobble around my ankles. I tried to bite her then, but she just
+laughed and danced away.
 
 Finger and her cousins sold the other horses they caught, but she kept
-me for herself because of my size and good looks.  She thought I might
-have a little charger in my blood, perhaps from from a cavalry remount
-who had wandered off during some war or other. She knew that I was
-special right away because I learned so quickly. A week after she
-broke me to saddle, she could steer me with her knees. Two days after
-that, I knew all of her whistles---kneel, back up, stand.  The truth
-was that I liked learning, that I had been starving for it without
-knowing what I hungered for, and there she was, teaching me and best
-of all *talking* to me.
+me for herself---for my good looks, she told me afterward, though I am
+no more handsome than I should be.  She thought I might have a little
+charger in my blood, perhaps from a cavalry remount who had wandered
+off during some war or other.
 
-I do not know when her words began to join up in my head, but I do
-remember the first time I talked back. She had been trying to get me
-to jump over a fire.  I did not want to, so I said, "No."  That was
-what you said when you did not want something, was it not? Finger was
-so surprised that she almost swallowed her tongue. Then she threw her
-arms around my neck and began to cry. I was so upset at upsetting her
-that I began to cry as well.
+She knew that I was special right away because I learned so quickly. A
+week after she first set a saddle on me, she could steer me with her
+knees. Two days after that, I knew all of her whistles---kneel, back
+up, stand.  The truth was that I liked learning, that I had been
+starving for it without knowing what I craved, and there she was,
+teaching me and best of all *talking* to me.
+
+I do not remember when or how her words first began to join together
+in my head, but I do remember the first time I talked back. She had
+been trying to get me to jump over a fire.  I did not want to, so I
+said, "No."  That was what you said when you did not want something,
+was it not? Finger was so surprised that she almost swallowed her
+tongue. Then she threw her arms around my neck and began to cry. I was
+so upset by this---already so in love with her---that I began to cry
+as well.
 
 After she wiped her eyes she took me to her ride chief. She tried for
-an hour to get me to say "no" again, but I was so embarrassed by the
+an hour to get me to speak again, but I was so embarrassed by the
 commotion that I would not speak until he gave me a crust of clotted
-honey.  Then I said, "Sweet." Everyone laughed, so it was another full
-day before she could get me to say anything more.  It is funny now,
-looking back, but I had no idea that being able to speak meant I was
-one in a thousand, or how lucky I was that I had been found by a tribe
-that treasured the Gifted instead of thinking us cursed.
+honey.  Then I said, "Sweet." Everyone laughed and cheered, so it was
+another full day before she could get me to say anything more.  It is
+funny now, but I had no idea then that being being Gifted meant I was
+one in a thousand, or how lucky I was that I had been found by people
+that treasured animals who could speak instead of thinking us cursed.
 
-I met Oro five years later.  Finger was dead by then.  A pair of
-hotheads from Smoke Rein Choking her band had grasswhacked us,
-whooping and hollering and throwing bee burrs left and right to cause
-a stampede so that they could steal a calf to brag over.  I was only a
-few strides away from her when a heavy-bellied cow knocked her over.
-I stood over her, screaming at her ride-mates as the herd thundered
-past to come and help her up, please, help her, and then at my death
-to come when I realized that hers had found her.
+I met Oro five years later.  Finger was dead by then.  Two hotheads
+from Smoke Rein Choking her band had grasswhacked us, whooping and
+hollering and throwing bee burrs left and right to stampede our herd
+so that they could steal a calf to brag over.  I was only a few
+strides away from her when a panicked cow knocked her over.  I stood
+over her, screaming at her ride-mates as the herd thundered past to
+come and help her up, please, help her, and then at my death to come
+take me when I realized that hers had taken her.
 
-Smoke Rein Choking gave over the pair who had come thieving when she
-saw Finger her funeral pyre. I held my temper a whole day before
-kicking one in the ribs. The next day day I accidentally knocked over
-a cooking pot and splashed hot oil onto the other.  That evening, the
-ride chief took me aside and told me it would be best if I went and
-saw a bit of the world. It is bad manners to abuse a judgment slave,
-and she would owe their families lives in return if I killed them.
+Smoke Rein Choking brought us the pair who had come thieving when she
+saw the smoke from the funeral pyre. I waited a whole day before
+kicking one in the teeth. The next day day I knocked over a cooking
+pot and splashed hot oil onto the other.  That evening, the ride chief
+took me aside and told me as gently as she could that it would be best
+if I went and saw a bit of the world. It is bad manners to abuse a
+judgment slave, and she would owe their families lives in return if I
+killed them.
 
 She thought I would argue, but in truth I did not mind the thought of
-leaving.  Finger always talked about seeing the rest of everything.
-"Waves on the ocean," she would say. "Waves on the ocean before we
-die."  With her gone, all I could do was see them for her.
+leaving.  Finger had always dreamed about seeing the rest of
+everything.  "Waves on the ocean," she would say. "Waves on the ocean
+before we die."  With her gone, I could think of no purpose except to
+go and see them for her.
 
-A week later, when the ride chief her nephew took salt with a caravan
-to Coriandel, I took my lick as well. As a scout, not as a mount---no
-one but Finger had ever put a saddle on me, and if I had stayed with
-the band, I doubt I would ever have worn one again.
+A week later, when the ride chief her nephew took salt and service
+with a caravan to Coriandel, I took a lick as well. As a scout, not as
+a mount---no one but Finger had ever been astride me, and if I had
+stayed with the band, I doubt I would ever have borne another rider.
 
-But as soon as we were moving, I noticed a skinny Karabandi eyeing me.
-He did not stare, but every time I looked over I caught him looking
-back. By the second evening out I had enough, so I asked him if I was
-growing feathers. He laughed, apologized, said no, he was sorry, he
-was just trying to figure out a polite way to ask me a question. "Is
-someone still in the Grasses?" I asked. He said yes. "Then someone
-should make of it an odd-stride trirain."
+But as soon as we were on the trail, I noticed a skinny Karabandi
+eyeing me.  He did not stare---you do not stare at a Darpani unless
+you want a fight, and horse or not, I was Darpani---but every time I
+looked over I caught him looking back. By the second evening out it
+was making my withers itch, so I asked him if I was growing feathers.
+He laughed, apologized, said no, he was sorry, he was just trying to
+find a polite way to ask me a question. "Is it a question, or a
+favor?" I asked. He admitted it was the latter. "Then someone should
+make of it an odd-stride trirain."
 
-That shut him up. The Darpani do not care much for books---I still
-cannot read, though I know my name when I see it. But poetry, that is
-grass and water, air and rain and the smell of honey.  Stirrup rhymes
-and sondelays, half-lampoons and dirges---the Darpani know more ways
-to put words together than the rest of Cherne put together. Of all
-those ways, trirains are the hardest to get right, and odd-stride
-trirains will tie you up like knotgrass.
+That shut him up. The Darpani love nothing so much as poetry.  That is
+grass and water to us, air and rain and the smell of honey.  Stirrup
+rhymes and sondelays, half-lampoons and dirges---we know more ways to
+make words dance than the rest of Cherne put together. Of all those
+ways, trirains are the hardest to get right, and odd-stride trirains
+will tie you up like knotgrass.
 
-But he did it. Come the evening on our fifth day riding together, with
-the whole troop around us, he went down on one knee and recited:
+But he did it. Come the evening of our fifth day, with the whole troop
+around us, he went down on one knee and recited:
 
 > Oh thou, proud stallion, swift wind made flesh
 >
-> Humbly, seeking only to better the lot of your kind, he asks
+> Humbly, seeking only to better the lot of your kind, someone asks
 >
 > How may best your rider serve you?
 
-It is just words in Karabandi. You cannot even tell that it is
-odd-stride. But it is not half bad in Darpani. It is not half bad at
+It is just words in Karabandi.  You cannot even tell that it is
+odd-stride.  But it is not half bad in Darpani. It is not half bad at
 all.
 
 The whole troop whistled and snapped their fingers. He kept his head
-down to hide his grin. I pawed the ground. "He Applauds," I said, just
-in case he could not tell what I was doing "But he still does not know
-what someone is actually asking for." Which of course brought more
-laughter.
+down to hide his grin. I pawed the ground. "There is applause," I
+said, just in case he could not tell what I was doing "But there is
+still confusion about what someone is actually asking for." Which of
+course brought more laughter.
 
 It turned out that his name was Oro, and what he wanted was riding
 lessons. He was good in the saddle, but he was not Darpani. Who better
 to teach him than a horse?
 
-If he had offered me money, I would have emptied my rump on his boots.
-Instead, he offered to teach me Karabandi. And to help me find a
-position when we reached Coriandel.
+If he had offered me money, I would have emptied my rump on the boots
+he wore.  Instead, he offered to teach me Karabandi. And to help me
+find a position when we reached Coriandel.
 
-"He doubts assistance will be needed," I said haughtily. "And
-questions how much assistance one of your station could offer."  I had
-never seen a paved street or a building taller than a man on
-horseback, but I knew that Gifted animals were rare. I fancied myself
-the emira her parade mount, nothing less. I vaguely knew that it might
-take me a while to meet people who knew the people who arranged such
-things, but I was sure it would all somehow take care of itself. He,
-on the other hand, looked like he had not eaten a good meal since he
-was old enough to shave. How much help could he be?
+"There is doubt that such assistance will be needed," I said
+haughtily.  "And questions about how much assistance one of your
+station could offer."  Oh, I was proud then.  I had never seen a paved
+street or a building taller than a man on horseback, but I knew that
+Gifted animals were rare. I fancied myself a parade mount for the
+emira herself, nothing less. I vaguely knew that it might take me a
+while to arrange such a thing, but I was sure that the details would
+all somehow take care of themselves. He, on the other hand, looked
+like he had not eaten a good meal since he was old enough to
+shave. How much help could he be?
 
 The Karabandi paid no more attention to my rudeness than he would have
-to a spring shower. "He apologizes for not having made a proper
-introduction," he said, bowing slightly. "He is of the House of
-Iandel, its principal line." I whinnied with surprise, which made him
-smile. He was a damned emir-in-waiting of Coriandel.
+to a spring shower. "An apology is given for not having made a proper
+introduction," he said, bowing slightly. "Who stands before you is of
+the House of Iandel, its principal line." I whinnied with surprise,
+and heard exclamations in the crowd around us. He was a damned
+emir-in-waiting of Coriandel.
 
 We spent six years together, driving cattle and carrying messages for
-people too cheap or too suspicious to trust the post or magicians and
-leaving a trail of pistachio shells behind us. He could not get enough
-of them---he only drank sparingly, and was not a slave to coffee or
-chocolate the way some humans were, but he would go a week without
-meat for a bag of pistachios.
+people too frightened or too suspicious to trust the post, leaving a
+trail of pistachio shells behind us. He only drank sparingly, and was
+not a slave to coffee or chocolate the way some humans were, but he
+would go a week without meat for a bag of pistachios.
 
-One of the messages we carried took us to Armaq, where we got caught up
-in the siege. Oro slept beside me every night for three months with his
-sword in his hand. He used it too, more than once. Gifted or not, I
-would have been someone their dinner if he had not.
+One of the messages we carried took us to Armaq, where we got caught
+up in the siege. Oro slept beside me every night for weeks with sword
+in hand. He used it too, and more than once---people grew desperate
+toward the end, and Gifted or not, I would have been a meal.
 
-We managed to escape before Armaq fell, thanks to one of Lady Kembe
-her agents. We saved his life, sort of, and somehow thereby wound up
-doing her errands. It was mostly quiet---help someone out a bit here,
+We managed to escape before Armaq fell, thanks to an agent of Lady
+Kembe.  We saved the life of the agent, sort of, and somehow thereby
+wound up doing the errands of Lady Kembe. The work was mostly quieter
+than stories would have you believe---help someone out a bit here,
 keep an eye on someone there---but what was not quiet was bloody. Oro
 lost a couple of toes, I had a bite taken out of my rump, and we both
 nearly had our souls stolen a couple of times.
 
-Then Oro his aunt decided it was time to return to her gardening and
-leave the running of the city to someone else. She summoned the
-in-waitings back to Coriandel and told them that the royal collar had
-made its choice. "You have been brave, and studious, and you have made
-beautiful things, each according to your nature," she said. "Your city
-is proud of you, but the collar can only be borne by one. Oro, you
-shall take the burden after me."
+Then the emira decided it was time to take up gardening and leave the
+running of the city to someone else. She summoned the in-waitings back
+to Coriandel and told them that the royal collar had made its
+choice. "You have been brave, and studious, and made beautiful things,
+each according to your nature," she said. "Your city is proud of you,
+but the collar can only be worn by one. Oro shall take the burden
+after me."
 
 Well, I had never heard him speak like he spoke to her that afternoon.
 It was not fair---there was so much he still wanted to do! Why could
 one of his sibs or cousins not do it? Why not their uncle? He loved
-juristry! And on, and on.
+juristry! And on and on like he was a child rather than a road-worn
+hand-in-the-shadow for the most powerful magician in the world.
 
 He gave in eventually, of course. The collar would not have picked him
 if there was any chance of him doing otherwise. "Duty," she said, and
-that was that. It is a hard word, even harder when someone says it to
-you as if you need reminding.
+that was that. It is a hard word to hear, even harder when someone
+says it to you as if you need reminding.
 
-His aunt relented a little in the end and gave him---us---one more
-year of freedom.  We did so much in that year that I sometimes
-wondered if he was trying to get killed to spite her. We hunted
-statues in Praczedt, drank moonlight on Year-Again Eve in the royal
-palace in Gandan... About the only place we did not go was the Flying
-Mountain, and that was only because he took pity on me---horses are
-not overly fond of heights.
+But his aunt relented a little and gave him---us---one more year of
+freedom.  We did so much in that year that I began to wonder if he was
+trying to get killed just to spite her. We hunted statues in Praczedt,
+drank moonlight on Year-Again Eve in the royal palace in
+Gandan... About the only place we did not go was the Flying Mountain,
+and that was only because he took pity on me---horses are not overly
+fond of heights.
 
 And yes, I finally got to see the ocean. Wave after wave, with the
 gulls overhead and that salt-rot smell in my nostrils... Horses cannot
@@ -515,58 +526,57 @@ Finger, then turned north and carried Oro to his duty.
 
 A year to the day, we returned to Coriandel. I was in his coronation
 parade, the royal mount I had dreamed of being. I had gilt tassels in
-my mane, and a fine bronze chain around my neck to let the world know
-that I was a person, not some dumb beast, and I would have given the
-world to be anywhere else.
+my mane and a fine bronze chain around my neck to show that I was a
+person, not some dumb beast, and I would have given the world to be
+anywhere else.
 
 The whole city turned out to cheer. They always cheer when someone new
-takes the throne. I sometimes wonder how that makes the person who is
-stepping down feel.
+takes the throne. They never think how it makes the person who is
+leaving it feel.
 
 I was three paces behind him and a pace to his left when his aunt
 fastened the royal collar around his neck. It looked like square
 plates of plain iron, hinged to be flexible and lined on the inner
-side with silk.  Eighteen years she had worn it. Eighteen years of
-unrelenting duty, of the collar whispering in her ear night and day,
-of never really trusting another human being. It was no wonder she
-burst into tears when she took it off.
+side with plain white cotton.  Eighteen years she had worn
+it. Eighteen years of unrelenting duty, of the collar whispering in
+her ear night and day, of never really trusting another human
+being. It was no wonder she wept when she took it off.
 
 Oro did not weep when she hung it round his neck. Some do, but not
 him. He stood straight and proud like always, but the look on his
 face... The spell that keeps the emirs of Coriandel honest was forged
-in the time of the Pilots.  They were not people, and their magic was
-not made to be gentle.
+in the time of the Pilots.  They were not people, and even the dregs
+of their magic is hard for mere people to bear.
 
 His aunt and uncle bowed to him. Silk and linen rustled as the nobles
 and ambassadors and what-not behind them followed suit. As he settled
 himself on the throne, his aunt turned and left the room with her
 husbands on either side of her, three people suddenly unneeded by the
-city they had served.
+city they had served for so long.
 
-He dealt with important matters first. He confirmed his aunt her
-ministers in their posts, ordered the palace thieves to take a
-vacation, declared a one-month holiday on market gate fees, and
-commissioned a coronation portrait to hang in the Long Hall. Every few
-moments he cocked his head to listen to the collar whisper in a voice
-no one else could hear.
+He dealt with important matters first. He confirmed ministers in their
+posts, ordered the palace thieves to take a vacation, declared a
+one-month holiday on market gate fees, and commissioned a coronation
+portrait to hang in the Long Hall. Every few moments he cocked his
+head to listen to the collar whisper in a voice no one else could
+hear.
 
-Then he called for me. I did not kneel to him. He told me before the
-ceremony that he never wanted me to. But I did bow my head until he
-said, "Up, friend."
+Then he called for me. I did not kneel. He told me before the ceremony
+that he never wanted me to do that. But I did bow my head until he
+said, "Rise, friend."
 
 I heard a new weight in his voice. Some people say the royal collar
-makes its wearer their hair go white in an instant, but that is a
-lie. The changes are all inside. The Oro who did a handstand on my
-back in Gandan to impress a girl he had not yet even spoken to was
-gone.
+makes the hair of its wearer go white in an instant, but that is a
+lie. The changes are all inside. The Oro who did a handstand in Gandan
+as I gallopped through the streets to impress a girl he had not yet
+even spoken to was gone.
 
 "My life to serve you, my emir," I said.
 
-He nodded and gestured at a lanky man standing a few strides away from
-me. "My Master of Stables tells me that I am sending three horses to
-Ossisswe as a gift.  Two mares and a stallion, I believe---it would
-please me if you would accompany them, and congratulate my cousin on
-his wedding."
+He nodded and gestured at a lanky man standing nearby. "My Master of
+Stables tells me that I am sending three horses to Ossisswe as a gift.
+Two mares and a stallion, I believe---it would please me if you would
+accompany them, and congratulate my cousin on his wedding."
 
 Exile. The new emir was setting aside the disreputable companion of
 the old emir-in-waiting. "Of course, Your Highness," I said.
@@ -637,9 +647,7 @@ would happen next---they had tried to steal from the emir, and Oro was
 never by nature a forgiving man.  I went back to my post in the middle
 of the paddock and waited for sunrise.
 
------
-
-## Then: Cup Rainbow Reaching Follows a Madman into Hell
+## Back When: Cup Rainbow Reaching Follows a Madman into Hell
 
 The name of my name is Cup Rainbow Reaching. I was a coward. Only once,
 but it was enough to damn me. Now I am a ghost.
@@ -651,22 +659,26 @@ and ours asked a grass thrower for judgment. She said the man would have
 lived thirty more years, so my mother's-side cousin and I were set
 fifteen years of slavery each. Fifteen years with no names for our
 names. Fifteen years as *lelosini*, flesh without meaning. We were
-little older than that ourselves. To our shame we fled, riding south in
-the night. Our families did not pursue us. Our cowardice made us dead to
-them. If we ever returned, we would be staked and burned as is right to
-do with the other walking dead.
+little older than that ourselves.
 
-We rode for two weeks to a place where the people of the grass meet with
-other people to trade. There were Karabandi there who needed riders to
-help drive their cattle to market. They did not care that we were
-cowards and clanless, so the bargain was quickly made.
+To our shame we fled, riding south in the night. Our families did not
+pursue us. Our cowardice made us dead to them. If we ever returned, we
+would be staked and burned as is right to do with the walking dead.
 
-A night and a day after that ride ended, my mother's-side cousin and I
-knelt in chains with the Karabandi Ishad before the emir of Coriandel. I
-do not remember why we wanted to ride those horses so badly. I think we
-were drunk from despair as much as from wine. All those people, and the
-city, and our lives blown away from us like seeds in the wind. We might
-as easily have become monks or drunkards.
+We rode for two weeks to a place where the people of the grass meet
+with the people of houses to trade. There we met Karabandi who needed
+riders to help drive their cattle to market. They did not care that we
+were cowards and clanless, so the bargain was quickly made.
+
+A day and a night after that ride ended, my mother's-side cousin and I
+knelt in chains with the Karabandi Ishad before the emir of Coriandel.
+I do not remember why we wanted to ride those horses.  They were
+beautiful, but there are many beautiful horses in the world to ride.
+I think in truth that we were drunk from despair as much as from
+wine. All those people, and the city, and our lives blown away from us
+like seeds in the wind. We might have become monks or beggars thinking
+only of their next puff of red smoke.  Instead, we tried to steal
+horses from royalty.
 
 The emir was young in body but heavy in spirit. His skin was as black as
 the Karabandi's, and he had a narrow jaw and knife-straight nose. His
@@ -678,13 +690,13 @@ bills.
 Kneeling in front of him I could see that he wore sandals instead of
 boots and that his toenails were neatly trimmed. He did not look up from
 his papers. "The collar is displeased," he said as he turned over a
-page. "To do this to a gift is hardly a well-named act."
+page. "To do this to a gift is...disrespectful."
 
 My mother's-side cousin and I did not speak. What was there to say?
 
-But the Karabandi had words. He always had words. "Well, yes, that's one
-way of looking at it, Your Highness, but desperate times make desperate
-men."
+But the Karabandi had words. He *always* had words. "Well, yes, that's
+one way of looking at it, Your Highness, but desperate times make
+desperate men."
 
 The emir looked up. "Indeed?" he said, raising his eyebrows slightly. "I
 had not realized the times were desperate."
@@ -699,31 +711,32 @@ There was indeed a silver tray of pomegranates on the table beside his
 tea, and music from a bass flute and oudh coming from somewhere I could
 not see. What I *could* see was the emir's frown.
 
-"And what *is* the common life like these days?" he asked, as relaxed as
-a lion watching a rabbit.
+"And what *is* the common life like these days?" he asked, a lion
+trying to decide if a rabbit is worth chasing or not.
 
 "Oh, it's hard, Your Highness, harder than you know. Why, look at us.
-Months we spent, driving cattle down from Darp, and what do we get? Look
-here." He turned his head and screwed up his face so the emir could see
-the gap in his teeth. "'ou 'ee? Lost that tooth in service, and there's
-my pay gone getting the stump dug out. And it's not like my pension's
-going to help me."
+Months we spent, driving cattle down from Darp, and what do we get?
+Look here." He turned his head and screwed up his face so the emir
+could see the gap in his teeth. "'ou 'ee? Lost that tooth in service,
+and there's my pay gone getting the stump dug out. And it's not like
+my pension's going to help me."
 
-"Your pension?" the emir asked with a faint sigh.
+"Your pension," the emir sighed, not letting it be a question.
 
-The Karabandi nodded vigorously. "Armaq, Your Highness, not that anyone
-cares about that now. Disgraceful how gratitude evaporates once people
-don't need you any more."
+The Karabandi nodded vigorously. "Armaq, Your Highness, not that
+anyone cares about that now. Disgraceful how gratitude evaporates once
+people don't need you any more."
 
-"Mm." The emir put his elbows on his desk and his chin on his steepled
-fingers. "And which side were you on at Armaq?"
+"Mm." The emir steepled his fingers. "And which side were you on at
+Armaq?"
 
 "I was in your mother's service, of course," the Karabandi said,
 affronted. "Third Regiment Ordinary."
 
-"Mm." The emir nodded as if agreeing. "I was there too. Start to finish,
-as you say. With the Sadine Free Company. As was my
-companion-in-wandering, whom I believe you met last night."
+"Mm." The emir nodded as if agreeing. "I was there too. Start to
+finish, as you say.  An irregular attached to the Sadine Free
+Company. Along with my companion-in-wandering, whom I believe you met
+last night."
 
 "The Sadines? But they were---"
 
@@ -733,55 +746,56 @@ choice."
 There was a heartbeat of silence and then the Karabandi laughed, short
 and strong, as he had when we were captured. The emir raised his
 eyebrows. "Forgive me, Your Highness," the Karabandi said, still
-chuckling. But like the Bantangui say, *im awa pfa ta*."
+chuckling. "But like the Bantangui say, *im awa pfa ta*."
 
-"'Oh no, not this again'?" the emir translated. The Karabandi nodded,
+"Oh no, not this again?" the emir translated. The Karabandi nodded,
 his what-can-you-do-about-the-world smile still on his face.
 
 "Well, I rejoice in your amusement," the emir said dryly. "And by
-nature, I am a lenient man. Being new to the royal collar, however, I am
-counseled to show sternness, and as those horses are a gift to a fellow
-monarch, I am instructing my Master of Juristry that your right arms be
-flensed. I will further instruct him that you then be shown to the
+nature, I am a lenient man. Being new to the royal collar, however, I
+am counseled to show sternness, and as those horses are a gift to a
+fellow monarch, I am instructing my Master of Juristry to flense your
+right arms. I will further instruct him that you then be shown to the
 city's gates. After all, if times are as hard as you say, the city can
 hardly afford to feed three more crippled beggars." He nodded at the
 guards behind us, and turned his attention once more to the papers on
 his desk.
 
 I understood then, or thought I did, why Fate had brought us to this
-city. The magic that takes skin whole from a living person to heal the
-wounds of another might have saved the man that my mother's-side cousin
-and I killed. He and I exchanged looks. This was just.
+city. The flensing that takes skin whole from a living person to heal
+the wounds of another might have saved the man that my mother's-side
+cousin and I killed. For us to be punished with this was just. My
+mother's-side cousin and I exchanged brief nods.  This was just.
 
-But then the Karabandi, a curse be upon his name, spoke again. "Huh. Now
-I understand why your lot lost Armaq."
+But then the Karabandi, a curse be upon his name, spoke again.  "Huh.
+Now I understand why your lot lost Armaq."
 
 The emir's pen stopped moving. "Indeed?"
 
-"Yup." He shifted his weight on the polished stone floor. "You were like
-those fine-bred idiots that take fencing classes because they're
-fashionable. Step step here, step step there, not a foot out of place
-until you look down and your guts are all over the floor. You cared more
-about the rules than you did about winning."
+"Yup." He shifted his weight on the polished stone floor. "You were
+like those fine-bred idiots that take fencing classes because they're
+fashionable.  Step step here, step step there, not a foot out of place
+until you look down and your guts are all over the floor. You cared
+more about good form than you did about winning."
 
 The emir set his pen down carefully. "Indeed? And would you rather we
 had sent plague and soulsuckers among you? Some did counsel that."
 
-"'Course not, 'course not." The Karabandi shook his head. "But there was
-a lot you could have done that you didn't. Sooner or later, an army that
-doesn't take any chances is going to lose. And if you'll forgive me
-saying so, I'm guessing the same is true for emirs." The Karabandi
-shrugged expressively.
+"'Course not, 'course not." The Karabandi shook his head. "But there
+was a lot you could have done that you didn't. Sooner or later, an
+army that doesn't take any chances is going to lose. And if you'll
+forgive me saying so, I'm guessing the same is true for emirs." The
+Karabandi shrugged expressively.
 
-It was a dangerous game. The emir knew the Karabandi was trying to herd
-him, just as the Karabandi knew there were worse punishments than having
-an arm flensed. I should have spoken. I should have told the emir that
-my mother's-side cousin and I would take the punishment we were due and
-be done with it, but I did not. Coward that I was, again, I did not.
+It was a dangerous game. The emir knew the Karabandi was trying to
+herd him, just as the Karabandi knew there were worse punishments than
+having an arm flensed. I should have spoken. I should have told the
+emir that my mother's-side cousin and I would take the punishment we
+were due and be done with it, but I did not, coward that I was.
 
 "Now take us, for example," the Karabandi continued, rushing his words
-as the emir opened his mouth to speak. "Three men who know which end of
-a knife to hold, and you're just going to throw us away. What's the
+before the emir could say anything. "Three men who know which end of a
+knife to hold, and you're just going to throw us away. What's the
 sense in that? If we were smugglers, would you burn our goods or sell
 them?"
 
@@ -790,15 +804,16 @@ pile on his left and studied it. "You are Ishad?"
 
 The Karabandi nodded. "I am."
 
-"Mm. So what would you have me do, Ishad? Since you seem to have
+"Mm.  So what would you have me do, Ishad? Since you seem to have
 appointed yourself one of my ministers."
 
-"Use us, m'lord," the Karabandi said earnestly. "We did no harm. Didn't
-do any good either, I admit that, but let us earn it out."
+"Use us, Your Highness," the Karabandi said earnestly. "We did no
+harm. Didn't do any good either, I admit that, but let us earn it
+out."
 
-"Healing the worthy wounded seems a fair way to me to 'earn it out',"
-the emir observed. "In fact, two of my mother's---of *my* guards could
-use your assistance even now."
+"Healing the worthy wounded seems a fair way to me to earn it out, as
+you put it" the emir observed. "In fact, two of my mother's---of *my*
+guards could use your assistance even now."
 
 "Ah." The Karabandi nodded wisely. "The two the bonescuttle carved up?"
 
@@ -806,11 +821,11 @@ I felt a chill, as if someone had said my true name. Bonescuttles are
 *iyemnelili*, mis-made and evil. Better an arm stripped of skin than
 dealing with such. Even the Karabandi must have known that.
 
-But no, he was still talking. "Been nipping at you for a while now,
-hasn't it? Heard folk talking last night. They say it took a beggar
-child the day after you put your collar on. Not much for luck, that.
-Probably go down well in the market, you giving some down-and-outs a
-chance to make amends by bringing you its head."
+But he was still talking. "Been nipping at you for a while now, hasn't
+it? Heard folk talking last night. They say it took a beggar child the
+day after you put your collar on. Not much for luck, that.  Probably
+go down well in the market, you giving some down-and-outs a chance to
+make amends by bringing you its head."
 
 The emir steepled his fingers again. "Are you proposing that I send you
 and your companions to destroy this creature, and then set you free?"
@@ -827,32 +842,31 @@ would have to set a dozen of my men to watching you to make sure you did
 not flee. I hope you will agree, they would be better set to chasing it
 themselves."
 
-"They will not flee." My mother's-side cousin spoke for the first time.
+"No one will flee." My mother's-side cousin spoke for the first time.
 
 The emir cocked his head to one side, listening to a voice from the
-royal collar that only he could hear.
+royal collar that only he could hear.  "But you have fled before, have
+you not?" he finally asked, almost gently. "How then should I trust
+you not to do so again?"
 
-"But you have fled before, have you not?" he finally asked, almost
-gently. "How then should I trust you not to do so again?"
-
-"They will not flee," my mother's-side cousin repeated firmly, raising
-his eyes to meet the emir's.
+"No one will flee," my mother's-side cousin repeated firmly, raising
+his eyes to meet the emir's.  "They are done with running away."
 
 "Mm." The emir drummed the desk with his fingers, then nodded. "Very
 well. But I'm not going to put a dozen men in harm's way just to hold
-you to your word." He scribbled on our piece of paper, beckoning to one
-of the guards with his other hand as he did so. "I will therefore amend
-your sentence. In accordance with Coriandel's ancient law, I command
-that you be sent down into the Tombs, to receive there whatever Fate has
-chosen for you. Uh uh---let me finish, Ordinary Ishad of the Third
-Regiment. My Master of Arms shall give you what weapons and provisions
-he deems appropriate, and my Master of Thieves will share with you what
-knowledge she has of the beneath. If you kill the bonescuttle, your debt
-to the city will be settled. If not..." He shrugged. "Perhaps the
-creature will leave my people be for a day or two if it has you three to
-gnaw on."
+you to your word." He scribbled on our piece of paper, beckoning to
+one of the guards with his other hand as he did so. "I will therefore
+amend your sentence. In accordance with Coriandel's ancient law and
+the prerogatives of my station, I command that you be sent down into
+the Tombs, to receive there whatever Fate has chosen for you. Uh
+uh---let me finish, Ordinary Ishad of the Third Regiment. My Master of
+Arms shall give you what weapons and provisions he deems appropriate,
+and my Master of Thieves will share with you what knowledge she has of
+the beneath. If you kill the bonescuttle, your debt to the city will
+be paid. If not..." He shrugged. "Perhaps the creature will leave my
+people be for a day or two if it has you three to gnaw on."
 
-"Underground!?" the Karabandi protested. "M'lord, these two are
+"Underground!?" the Karabandi protested. "Your Highness, these two are
 grasslanders! You can't send them underground---they'll go mad!"
 
 Perhaps it was a ploy, to impress the emir that he would think first of
@@ -879,120 +893,120 @@ you into stew meat if you try to go through it."
 
 The guards untied our bonds, pushed us inside, and slammed the barred
 door closed behind us. My mother's-side cousin and I immediately fell
-upon the Karabandi. "Wait! What are you---guards! Guards!" he cried. In
-the time it took the guards to unlock the door again I split the
-Karabandi's lip and got a black eye in return. They pulled us off him
-and chained us to the wall. We spent the rest of the morning glaring at
-each other from opposite sides of the yard.
+upon the Karabandi. "Wait! What are you---oy, get off me!"
 
-Noon brought a skinny old woman with sharp eyes who declared herself the
-emir's Master of Thieves. "Don't know much more about the Tombs than
-your average street-corner storymonger," she admitted cheerfully,
-offering us bits of coconut rind to chew. "They'll put you through the
-first door at moonrise, and wait for you at the other. You could just
-sit and wait, take your beating when you get out and count yourself
-lucky. No? Well, all right then, here's how it lies."
+In the time it took the guards to unlock the door again I split the
+Karabandi's lip and got a black eye in return. They pulled us off him
+and chained us to the wall. We spent the rest of the morning glaring
+at each other from opposite sides of the yard.
+
+Noon brought a skinny old woman with sharp eyes who declared herself
+the emir's Master of Thieves. "Don't know much more about the Tombs
+than your average storymonger," she admitted cheerfully, offering us
+bits of coconut rind to chew. "They'll put you through the first door
+at moonrise, and wait for you at the other. You could just sit and
+wait, take your beating when you get out and count yourself lucky. No?
+Well, all right then, here's how it lies."
 
 She sketched on the floor with a piece of charcoal while she and the
-Karabandi talked. My mother's-side cousin listened. I closed my eyes. We
-weren't coming out. I knew that. I felt it in my bones. Evil creatures
-would devour us. Others would take our souls. This was Fate's punishment
-for our flight. It was bitter, but I would eat what was set before me.
+Karabandi talked. My mother's-side cousin listened. I closed my
+eyes. We weren't coming out. I knew that. I felt it in my bones. Evil
+creatures would devour us. Others would take our souls. This was
+punishment for our flight. It was bitter, but I would eat what was set
+before me.
 
 I slipped in and out of sleep, as if in the saddle on a long journey.
 The old woman's words salted my dreams. There was a bridge; I must not
-reply to those who spoke to me as I crossed it. And a garden of lights.
-And then the way out.
+reply to those who spoke to me as I crossed it. And a garden of
+lights.  And then the way out.
 
 "...beside the inside stairs. Probably didn't used to be under water,
-but it is now. Dive in there, and the current should carry you through
+but it is now. Dive in there, and the current will carry you through
 to a little pool. The other door will open there at moonset. Should be
 about dawn tomorrow. If you aren't there in time, well..." The elderly
 thief shrugged. "Nobody knows what wanders around down there between
-moonset and moonrise, but that's because no one's ever come out to talk
-about it."
+one moonrise and the next, but that's because no one's ever come out
+to talk about it."
 
-"Thank you, mother," the Karabandi said as she stood. "If you see Master
-Armorer, could you send him along? And maybe ask your friends at the
-gate about lunch? I'm as flat as an empty wineskin."
+"Thank you, mother," the Karabandi said as she stood. "If you see
+Master Armorer, could you send him along? And maybe ask your friends
+at the gate about lunch? I'm as flat as an empty wineskin."
 
 The thief smiled at his cockiness, bowed slightly, and left. The
 Karabandi studied the lines she had drawn on the floor, trying to
 memorize the rough map.
 
-I did not need to die to learn patience. To be Darpani is to be patient.
-Grass grows. A journey is as long as it is. Evening comes at sundown,
-every day. Chewing on fingernails and muttering under your breath as the
-Karabandi did does not make things happen sooner.
+I did not need to die to learn patience. To be Darpani is to be
+patient.  Grass grows. A journey is as long as it is. Evening comes at
+sundown, every day. Chewing on fingernails and muttering under your
+breath like the Karabandi did does not make things happen sooner.
 
-A servant brought us bread, water, cheese, and dates. The armorer showed
-up a few mouthfuls later. He made us stand, stretch, squeeze his
-forearm, and toss a heavy stick from hand to hand. He went away, then
-returned with an armload of steel. My mother's-side cousin and I took
-knives and short barbed spears, weapons a man would use to hunt. The
+A servant brought us bread, water, cheese, and dates. The armorer
+showed up a few mouthfuls later. He made us stand, stretch, squeeze
+his forearm, and toss a heavy stick from hand to hand. He went away,
+then returned with steel. My mother's-side cousin and I took knives
+and short barbed spears, weapons a man would use to hunt. The
 Karabandi took a helmet, a leather breastplate and greaves, a straight
-sword as long as his arm, and a dagger with a horned cross-piece. Brass
-dayglass lanterns with shutters, some twine, an extra knife each, a
-rough hemp bag for any trophies we might take... My heart began to beat
-more quickly, but we spoke little. What would we have said? If your
-horse gallops, you hold on. The Karabandi whistled a little tune as he
-swung the sword in slow arcs to test its weight. He stopped after I
-glared at him.
+sword as long as his arm, and a dagger with a horned cross-piece.
+Brass dayglass lanterns with shutters, some twine, an extra knife
+each, a rough hemp bag for any trophies we might take... My heart
+began to beat more quickly, but we spoke little. What would we have
+said? If your horse gallops, you hold on. The Karabandi whistled a
+little tune as he swung the sword in slow arcs to test its weight. He
+stopped after I glared at him.
 
 Coriandel is built on three hills. The emir's palace stands on the
-highest. Its central tower can be seen from dozens of gallops away, long
-before the rest of the city.
+highest.  Its central tower can be seen from dozens of gallops away,
+long before the rest of the city.
 
-The second is called the Hundred Houses Hill. Nobles and wealthy
-merchants live there, beside the emir's ministers and ambassadors from
-other lands.
+The second is the Hundred Houses Hill. Nobles and wealthy merchants
+live there beside the emir's ministers and ambassadors from other
+lands.
 
 The Tombs lie beneath the third hill, the lowest of the three. It lies
 west of the palace, so that we walked straight into the setting sun to
-reach it. The river that is Coriandel's life flows out of a crack in its
-side. Heavy bars and spider-silk nets lie across it to stop the worst of
-the underneath from coming to the surface. Somehow the bonescuttle had
-found a way past them, or knew some other path to the surface.
+reach it. The river that is Coriandel's life flows out of a crack in
+its side. Heavy bars and spider-silk nets lie across it to stop the
+worst of the underneath from coming to the surface. Somehow the
+bonescuttle had found a way past them, or knew some other path to the
+surface.
 
-The buildings around us grew smaller and poorer as we climbed the hill.
-Children paused their games to watch us pass. Their mothers stood with
-folded arms, scowling at the guardsmen who marched beside us.
+The buildings around us grew smaller and poorer as we climbed the
+stairs to its low peak.  Children paused their games to watch us
+pass. Their mothers stood with folded arms, scowling at the guardsmen
+who marched beside us.
 
 By the time we reached the steps that led down into the tombs, a small
-crowd had formed behind us. As the emir's guards undid our bonds someone
+crowd had formed behind us. As the guards undid our bonds someone
 called out, "Your luck with you," in Darpani. The Karabandi waved. My
 mother's-side cousin and I did not.
 
 Down we went into the cool darkness, into hell. The guards' lanterns
-shone yellow-bright. We kept ours shuttered, saving the trapped daylight
-for real need. Down and down, to a passage as wide as a street beneath
-an arched roof. The air smelled wet, and I heard water ahead.
-
-They are a wonder, the tunnels beneath Coriandel. They were from Pilot
-times, and had seen much. I could tell that even when I was alive.
+shone yellow-bright. We kept ours shuttered, saving their trapped
+daylight for later need. Down and down, to a passage as wide as a
+street beneath an arched roof. The air smelled wet, and I heard water
+ahead.
 
 The passage ended at a round pool. We boarded a small rowboat. The
 Karabandi took the oars. My brother and I sat in the middle, and two
-guardsmen sat in the stern to bring the boat back. A gentle current
-carried us into a narrow passage whose walls glistened damply. Small
-things splashed in the water. Once, something too quick to see flitted
-overhead. I sat and watched the Karabandi row.
+guardsmen took places in the stern to bring the boat back. A gentle
+current carried us into a narrow tunnel whose walls glistened damply.
+Small things splashed in the water. Once, something too quick to see
+flitted overhead. I sat and watched the Karabandi row.
 
-The Karabandi was the first out when we reached the stairs. He steadied
-the boat as my mother's-side cousin and I disembarked. The guards passed
-us our weapons. "Luck," one said. The Karabandi knocked fists with him
+He was the first out when we reached the stairs, steadying the boat as
+my mother's-side cousin and I disembarked. The guards passed us our
+weapons. "Luck," one said curtly. The Karabandi knocked fists with him
 and pushed the boat back into the current.
 
-They waited until the walls began to glow before leaving us. We were
+They waited until the walls began to glow before rowing away. We were
 halfway up the stairs by then, the Karabandi in the lead.
 
-Like an eye blinking open, the wall became a door. The Karabandi pulled
-his long braids back and knotted them into a club. "Eyes and ears," he
-said crisply, drawing his sword. "And if you ever want to see sunshine
-again, don't drop your damn lanterns. Ready?" We nodded and followed him
-to our deaths.
-
------
+Like an eye blinking open, the wall became a door. The Karabandi
+pulled his long braids back and knotted them into a club. "Eyes and
+ears," he said crisply, drawing his sword. "And if you ever want to
+see sunshine again, don't drop your damn lanterns. Ready?" We nodded
+and followed him to our deaths.
 
 ## Now: Vurt at the Moonrise Door
 

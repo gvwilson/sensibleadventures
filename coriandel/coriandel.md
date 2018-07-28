@@ -1,6 +1,6 @@
 # Beneath Coriandel<br>Greg Wilson
 
-## Back When: Ishad's Onions
+## Then: Ishad's Onions
 
 "Once upon a time there was a young man." That's how stories usually
 start, but it's never the truth---not really. That young man must have
@@ -319,7 +319,7 @@ the fence---
 ---and the warhorse bellowed, "Guards! Guards!" and just like that, my
 onions were well and truly stewed.
 
-## Back When: Sweet in the Corral
+## Then: Sweet in the Corral
 
 *La*, they were well and truly stewed. Their lookout made to bolt, but
 the guards---the real ones on the roof---were on their feet in an
@@ -647,7 +647,7 @@ would happen next---they had tried to steal from the emir, and Oro was
 never by nature a forgiving man.  I went back to my post in the middle
 of the paddock and waited for sunrise.
 
-## Back When: Cup Rainbow Reaching Follows a Madman into Hell
+## Then: Cup Rainbow Reaching Follows a Madman into Hell
 
 The name of my name is Cup Rainbow Reaching. I was a coward. Only once,
 but it was enough to damn me. Now I am a ghost.
@@ -1014,111 +1014,118 @@ and followed him to our deaths.
 
 "What?"
 
-"I said, I didn't kill it." Ishad sculls a stroke to get the rowboat
-round a corner, his eyes on the tunnel wall so he won't have to meet my
-disbelieving stare. "One of the Darpani did. At least, I think he did.
-Don't know for sure. Careful with the lantern."
+"I said, I didn't kill it." Ishad sculls a couple of strokes to get
+the rowboat round a corner, his eyes on the tunnel wall so he won't
+have to meet my disbelieving stare. "One of the Darpani did.
+Leastways, I think he did.  Don't know for sure. Careful with the
+lantern."
 
-"I'm being careful." The battered brass lantern balanced on my knees is
-our only light. Its yellow light glistens on Ishad's bald head, and on
-the damp stone beside us. I have another one in my pack, but I need to
-save the light. "What do you mean, you didn't kill it?"
+"I'm being careful." The battered brass lantern balanced on my knees
+is our only light.  Its captured daylight glow reflects off Ishad's
+bald head and the damp stone beside us. I have second lamp in my pack,
+but I'm saving it. "What do you mean, you didn't kill it?"
 
-He rubs his nose against his shoulder. "Gone deaf, lad? I said, I didn't
-kill it. The Darpani fellow did. And be careful with that damned
-lantern!"
+He rubs his nose against his shoulder. "Gone deaf, lad? I said, I
+didn't kill it. The Darpani fellow did. And be careful with that
+damned lantern!"
 
 "I'm being careful! But---what about all your stories? How could
-you---frogs on stilts, old man, how could you lie to everyone all these
-years?"
+you---saints on stilts, old man, how could you lie to everyone all
+these years?"
 
 "Hang on, hang on. Lying, now, that's a cruel word." He nods as if
-agreeing with something I'd said, then rubs his nose against his
-shoulder again. The motion makes our little stolen boat bob up and down
-slightly. "Though I couldn't argue with 'exaggerating'. 'Exaggerating'
-would be fair. Anyway, it's really sort of your fault."
+agreeing with something I said, then rubs his nose against his
+shoulder again. The motion makes our little stolen rowboat bob up and
+down slightly, which makes me just a little more queasy than I already
+was. "Though I couldn't argue with exaggerating.  Exaggerating would
+be fair. Anyway, it's really sort of your fault."
 
-"Mine!?" I'm on my way into the Tombs to kill a bonescuttle just like he
-did twenty years ago. Hell of a time to discover that he hadn't, and
-what do I do about it? I squawk like a parrot. If my stupid oath wasn't
-nagging me, and if I didn't know how quickly he could move, I would
-whack him with our spare oar.
+"Mine!?" I'm on my way into the Tombs to kill a bonescuttle just like
+he did twenty years ago.  It's a hell of a time to discover that he
+actually didn't, and what do I do about it? I squawk like a parrot. If
+I didn't know how quickly he could move, and if I wasn't afraid that
+the commotion would attract the wrong kind of attention, I would whack
+him with our spare oar.
 
-"Yup." Ishad sculls a stroke. "The way it started was, when I came back
-with its head, everyone was so pleased that they just assumed I'd done
-the honors. All I had to do was be modest and say, oh, it weren't such a
-thing. Never actually told anyone I'd done the killing. But then you
-came along. You wanted to hear about it every time your mother brought
-you over. Kicked up a mayhem fit to wake the dead if I wouldn't tell you
-the story." He chuckles. "I sort of turned it into a fairy tale, telling
-it to you that way. You even used to dress up for it, remember? Put a
-stew pot on your head for a helmet, waved a shinbone around for a
-sword..."
+"Yup." Ishad sculls another stroke. "The way it started was, when I
+came back with its head, everyone was so pleased that they just
+assumed I'd done the honors. All I had to do was be modest and say,
+oh, it weren't such a thing. Never actually *told* anyone I killed it,
+least not as I remember. But then you came along. You wanted to hear
+about it every time you saw me. Kicked up mayhem fit to call the
+Pilots back if I wouldn't tell you the story." He chuckles.  "I sorta
+turned it into a fairy tale, telling it to you that way. You even
+dressed up for it one time, remember? Put a stew pot on your head for
+a helmet, waved a shinbone around for a sword..."
 
 "Mind your head," I interrupt.
 
 "Thanks." He ducks a low-hanging bulge of the tunnel roof.
 
-My hands tighten on the haft of the spear that lies across my knees
-beside the lantern. It won't be much use if the things that live in the
-water take a fancy to us, but having it ready eases the itch from my
-oath that makes me want to scratch the inside of my head with my
-fingernails. Eases it a bit, anyway.
+My hands tighten on the haft of the spear that lies on my knees next
+to the lantern. It won't be much use if the things that are supposed
+to live in the water below us wake up, but having it ready eases the
+itch from my oath a little---just enough that I only want to scratch
+the inside of my skull instead of gouging out my eyes with my
+fingernails.
 
-The worst part is, I should have expected this. After all, he's been
-playing that particular trick on me since our very first lesson. I'll be
+The worst part is, I should have seen this coming.  He's been pulling
+this particular trick on me since our very first lesson. I'll be
 practicing a new step or parry, and whack, he'll throw in some
-goat-crazy twist as if it's as normal as dates for breakfast. And then,
-when it's all over, he'll say, "You know, the last fellow who tried that
-lost an ear."
+goat-crazy twist as if it's as normal as dates for breakfast. And when
+it's all over and I'm lying in the dirt like an idiot, he'll say, "You
+know, the last fellow who tried that lost an ear."
 
-"So what about all the passes you've had me practicing for the last four
-days?" I ask. I can hear the anger bubbling in my voice. "What about
-'sidestep and put the point into its neck'? Or 'get it to reach for you,
-then take its claw off'? Did you make all that up as well?"
+"So what about all the combinations you've had me practicing for the
+last four days?" I ask. I can hear the anger bubbling in my voice,
+which only makes me angrier. "What about 'sidestep and put the point
+into its neck'? Or 'get it to reach for you, then take its claw off'?
+Did you make all that up as well?"
 
-"Nothing wrong with those passes," he says firmly, dodging my point the
-way he'd dodge a sword swing. "Should work a charm. You just remember
-you're smarter than it is. Way you're going to beat it is, you're going
-to out-think it. Everything else is just how."
+"Nothing wrong with those combinations," he says firmly, dodging my
+point the way he would dodge a sword swing. "Should work a charm. You
+just remember you're smarter than it is. Way you're going to beat it
+is, you're going to out-think it. Everything else is just how."
 
-"Sacking hells, Ishad, spare me the platitudes!" I thump my spear on the
-gunwale in frustration.
+"Weeping hells, Ishad, spare me the platitudes!" I thump my spear on
+the gunwale in frustration.
 
 "Keep your voice down!" he whispers loudly, scowling. "There's worse
 things than bonescuttles down here."
 
-I spit into the bottom of the boat, but swallow whatever I'd been about
-to say. The Tombs beneath Coriandel are filled with the Pilots'
-leftovers. All manner of things live there, or kind of live, each after
-its own fashion. From time to time the gleaners who scour the canals
-near Tombs Hill find bits of them in the water: tentacles hanging from
-bat wings, skulls with fingers where the eyes should be, pale worms as
-thick as my arm that sizzle and smoke in the sunlight. A lot of those
-bits have teeth marks on them.
+I spit into the bottom of the boat, but swallow whatever I'd been
+about to say. The Tombs beneath Coriandel are full of the Pilots'
+leftovers.  All manner of things live there, or kind of live, each
+after its own fashion. From time to time the gleaners who scour the
+canals near Tombs Hill find bits of them in the water: tentacles
+growing on bits of broken statues, skulls with fingers where the eyes
+should be, pale worms as thick as my arm that sizzle and smoke in the
+sunlight. A lot of those bits have bite marks on them.
 
-"So why are you telling me this now?" I ask, mostly to take my mind off
-remembering some of the pictures Kerrem had insisted on showing me.
+"So why are you telling me this now?" I ask, mostly so that I won't
+think about the drawings that Kerrem had insisted on showing me of the
+things that might have left those bite marks.
 
-He shrugs without missing a stroke. "Want you out of this alive, I
+He shrugs, still not meeting my eyes. "Want you out of this alive, I
 guess."
 
 "You guess?"
 
-The bitterness in my voice makes him look at me, really look at me, for
-the first time since he started rowing. "Don't be like that, lad.
-There's a whole world of strangeness up ahead. The way I figure, you go
-in there thinking you have all the answers, you'll most likely wind up
-dead. You go in there knowing you don't know anything, you might come
-out alive. Maybe."
+The bitterness in my voice makes him look at me, really look at me,
+for the first time since he started rowing. "Don't be like that, lad.
+There's a whole world of strangeness up ahead. The way I figure, you
+go in there thinking you have all the answers, you most likely won't
+come out. You go in there knowing you don't know anything, then maybe
+I won't have to go tell your mother you got yourself killed."  He
+looks away.  "It's a conversation I'd rather not have."
 
 He rows on while I digest that.
 
-The tunnel's roof rises into the darkness above us, the channel between
-its glass-smooth walls growing wider and wider. I can tell we're getting
-closer to the door by the way the oath has calmed down to a dull itch in
-the back of my skull. "So how did he kill it?" I ask. "The Darpani, I
-mean."
+The tunnel's roof rises into the darkness above us, the channel
+between its time-smoothed walls growing wider and wider. I can tell
+we're getting closer to the door by the way the oath has quietened
+down to a dull itch in the back of my skull. "So how did he kill it?"
+I ask. "The Darpani, I mean."
 
 Ishad shrugs. "Put a spear in its neck, I think. Not that they really
 have necks, but the plates don't quite overlap on the underside. I
@@ -1126,11 +1133,11 @@ figure that's your best bet---get it to lunge at you, then go up and
 underneath. Better odds than going up against its claws with a sword."
 He sounds like he's trying to convince himself as much as me.
 
-Sloosh, sloosh, sloosh go the oars. Something gloops in the water behind
-us. I twist around but can't see it. Being sent into the Tombs is
-technically a death sentence under Coriandi law. Hells, people sometimes
-ask to be beheaded instead, thinking it'll be cleaner and faster. Me,
-I'm a volunteer...
+Sloosh, sloosh, sloosh go the oars. Something gloops in the water
+behind us. I twist around but can't see it. Being sent into the Tombs
+counts as capital punishment under Coriandi law. Hells, people
+sometimes ask to be flensed instead, thinking it'll be cleaner and
+faster. Me, I'm a volunteer...
 
 Which reminds me... I slip my hand under my leathers and pull out the
 letter I wrote that morning. "Here---can you give this to Sehdie?"
@@ -1145,24 +1152,29 @@ I shrug. "It might get wet."
 
 The corner of his mouth quirks up the way it does when he actually
 thinks something is funny. He plucks the letter from my hand and tucks
-it into the top of his boot. "You have everything you need?"
+it into his boot.  He's wearing an old pair I haven't see before,
+square-toed lace-ups that look the same age the tunnels around us, or
+maybe even older.  "You have everything you need?"
 
-"Yeah. Except an honest teacher. But it's a bit too late to look for one
-now, I suppose." I know I sound like a petulant child, but my oath is
-driving me mad. It's like a sneeze that won't come out, a full bladder
-on a cold morning, and rough wool on a hot day all at once.
+"Yeah. Except an honest teacher. But it's a bit too late to look for
+one now, I suppose." I know I sound like a petulant child, but my oath
+is driving me mad. It's like a sneeze that won't come out, a full
+bladder on a cold morning, and rough wool on a hot day all at once.
 
-The bottom of the rowboat scrape against stone. Ishad sculls two more
+The bottom of the rowboat scrapes against stone. Ishad sculls two more
 strokes, then pulls in the oars and twists around to check our course.
 "Almost there. You wait 'til she's steady before you get out."
 
-I nod. There's less than a stride of open water between our boat and the
-tunnel walls now. The ceiling is lost in the darkness over our heads.
-The lantern paints shimmering silver on the ripples on the water.
-Something drips steadily and patiently. The Darpani believe that water
-will wear the world down to nothing one day, and that when it's gone,
-the Last Man will fall endlessly through the void. At that moment, deep
-underground, I understand how he'll feel when that time comes.
+I nod. There's less than two strides of open water between our
+gunwales and the tunnel walls now, but the ceiling is lost in the
+darkness over our heads.  The lantern paints shimmering gold on the
+ripples on the water.  Something somewhere drips steadily and
+patiently.
+
+The Darpani believe that water will wear the world down to nothing one
+day, and that when it's gone, the Last Man will fall endlessly through
+the void. At that moment, deep underground, I understand how he'll
+feel when that time comes.
 
 And then the walls curve away and we're in a cavern as big as the
 *umram* and I see the Moonrise Stairs. They climb straight out of the
@@ -1171,68 +1183,73 @@ the top step is barely wide enough to stand on with both feet. Nothing
 holds them in place---they just *are*.
 
 The boat bumps to a halt against a submerged step. Looking over the
-side, I see the stairs continue down into the depths below us. Ishad
-sculls to turn the boat sideways before pulling in the oars and hopping
-out onto the bottom step with the bow line in his hand. "Careful," he
-cautions, gripping the gunwale with his other hand.
+side, I see the stairs continue down into the depths.  The original
+floor of the tunnel lies somewhere far below us.  It has been flooded
+for centuries, but the stairs are still exactly where the Pilots left
+them.
 
-"I'm being careful." I hand him my spear, then my sword and pack, then
-stand unsteadily.
+Ishad sculls to turn the boat sideways before pulling in the oars and
+hopping out onto the bottom step with the bow line in one hand.
+"Careful," he cautions, gripping the gunwale with his other.
+
+"I'm being careful." I set the lantern on the thwart beside me and
+hand him my spear, then my sword and pack, and then stand unsteadily.
 
 "Keep your weight low."
 
 "I've *got* it," I mutter. There aren't more than a couple of dozen
 people in Coriandel who could beat me in a fair fight on level ground,
-but I've never been in a boat before---you can ride a little raft on the
-canal for a copper bezel or two on holidays, but I've never bothered.
-The damn thing twitches from side to side each time I take a step like a
-horse trying to shy away a fly. It seems like a very fragile way to get
-from one place to another.
+but I've never been in a boat before---you can ride barges on the
+canal for a copper bezel or two on holidays and drink yourself silly,
+but I've never bothered.  The damn thing twitches from side to side
+each time I take a step like a horse trying to shy away a fly. It
+seems like a very fragile way to get from one place to another.
 
-But I still shake Ishad off when he reaches out to steady me as I
-clamber onto the step beside him. My pack goes onto my shoulders and my
-sword belt goes around my waist. "Must be pretty close to moonrise."
+But as I clamber onto the step, I still shake Ishad off when he
+reaches out to steady me. My pack goes onto my shoulders and my sword
+belt goes around my waist. "Must be pretty close to moonrise."
 
-He nods as he hands me back my spear. "Must be."
+He nods as he hands me my spear. "Must be."
 
 "I should get going."
 
-He nods again. "You should." He punches my chest lightly. "You keep your
-wits down there, all right? Remember, I got through, and I'm not half as
-smart as you. Just---"
+He nods again. "You should." He punches my chest lightly. "You keep
+your wits handy in there, all right? Remember, I got through it, and
+I'm not half as smart as you. Just---"
 
 "I'll be all right," I say brusquely.
 
 He nods. "I know you will." He raises his palms to me in a formal
-salute. "May Death be too distracted by more pressing business to give
-you Her attention."
+salute.  "May your death be too distracted by more pressing business
+to notice you."
 
 "Thanks." I cinch my belt a little tighter. "I'll see you tomorrow." I
 start up the stairs without waiting for an answer. It's almost
-moonrise---the walls around us are starting to glow a faint blue-white,
-just like Kerrem said they would. The door at the top of the stairs will
-open the instant the moon clears the horizon and close when its trailing
-edge does the same. I don't have to hurry, but I do anyway.
+moonrise---the walls around us are starting to glow a faint
+blue-white, just like Kerrem said they would. The door at the top of
+the stairs will open the instant the moon clears the horizon, then
+close behind me when its trailing edge does the same. I don't have to
+hurry, but I do.
 
 Kerrem told me that magicians and jurists argue about whether moonrise
 is the moment you could first see the moon if you were standing at the
 entrance to the Tombs, or the moment you could see it from the top of
-the stairs if the stone overhead were suddenly to vanish, or whether
-it's when it would have been when the Pilots still ruled the world,
-before the Mutiny took the tops off the mountains east of Coriandel. I
-don't care. The door will open, I'll go through and kill the
-bonescuttle, Kerrem will write a poem about it, my damn head will stop
-itching, Sehdie's father will let me marry her, and we 'll all live
-happily ever after. And up will become down, black will become white,
-and the emir's thieves will stop collecting taxes.
+the stairs if the hill overhead were suddenly to vanish.  They also
+argue about whether it's *our* moonrise, or when it would have been
+before the Pilots' last battle took the tops off the mountains east of
+Coriandel. I don't care. The door will open, I'll go through and kill
+the bonescuttle, my damn head will stop itching, Kerrem will write a
+poem about my adventures, Sehdie and I will get married, and we 'll
+all live happily ever after. And up will become down, black will
+become white, and the emir's thieves will stop collecting taxes.
 
 Ishad calls out to me when I'm halfway up the steps. "Vurt!"
 
 I turn around. He's sculled a couple of strides away from the stairs.
 The walls are glowing more brightly now, and I can see him clearly. He
-holds up my letter. "Sorry, lad. Soaked it when I got back in the boat.
-Guess you'll have to tell her yourself after all." I can't see his face,
-but I know he's grinning.
+holds up my letter. "Sorry, lad. Soaked it when I got back in the
+boat.  Guess you'll have to tell her yourself after all." I can't see
+his face, but I know he's grinning.
 
 "I wish you taught archery, old man," I call back. "And I wish I had a
 bow right now."
@@ -1241,26 +1258,26 @@ He laughs. I shake my head and keep climbing.
 
 I'm not afraid of heights. I stole eggs from birds' nests on Palace
 Mount when I was little, and played hawk and hares on the rooftops
-around the market. Every few years a kid falls trying to jump across an
-alley that's a little too wide, and the emir issues yet another decree
-banning the game, but it's like telling the wind not to blow.
+around the market when I was older. Every few years a kid falls trying
+to jump across an alley that's a little too wide, and the emir issues
+yet another decree banning the game, but it's like telling the wind
+not to blow.
 
 So I'm not afraid of heights, but I still stay near the middle of the
 stairs and try not to look over the side. It's like being in a dream.
 The cavern's walls have been polished, once by magic and a second time
-by water. The soft blue-white light they give off leaves me shadowless,
-like a figure in a child's drawing. The only things that seem real are
-the spear in my hand and the scuff of my boots on the steps.
+by water. The soft blue-white light they give off leaves me
+shadowless, like a figure in a child's drawing. The only things that
+seem real are the spear in my hand and the scuff of my boots on the
+steps.
 
-Fifty steps, then thirty, then ten. I stop one stair below the top. The
-wall in front of me is rock solid when I touch it---
+Fifty steps, then thirty, then ten. I stop one stair below the
+top. The wall in front of me is solid rock---
 
----and then suddenly it's an open door, a simple empty rectangle between
-before and after. Stairs identical to the ones I just climbed go down
-into the Tombs---the actual Tombs---on the other side. The bonescuttle
-is down there somewhere. I swallow and go looking for it.
-
------
+---and then suddenly it's a simple empty rectangle between before and
+after. Stairs identical to the ones I just climbed lead down into the
+Tombs---the actual Tombs---on the other side. The bonescuttle is
+waiting for me. I swallow and go looking for it.
 
 ## Now: Patience Slumbers
 

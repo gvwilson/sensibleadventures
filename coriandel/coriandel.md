@@ -1282,18 +1282,16 @@ waiting for me. I swallow and go looking for it.
 ## Now: Patience Slumbers
 
 I am patient. I snack on fish and worms and little things with many
-legs. I eat bigger things when they come my way, and I wait for my love
-to return.
+legs. I eat bigger things when they come my way, and I wait for my
+love to return.
 
-Something woke me, but I cannot eat it a second time, and it cannot harm
-me. I would ignore it and go back to sleep, but I hear paddling.
-Paddling means people. People means I might get a proper meal of
+Something I ate has awoken me, but I cannot eat it a second time, and
+it cannot harm me.  I would go back to sleep, but I hear paddling.
+Paddling means people, and people mean I might get a proper meal of
 sun-warmed flesh.
 
 Might. Most lose their way on the other side of the door, or are eaten
 by something less patient than me. Time will tell.
-
------
 
 ## In Between: Onnemeno and the Rats
 

@@ -1518,62 +1518,75 @@ whirligigs in the corners and a gulper sack on the wall with a bit of
 melon rind as bait. The gulper was empty. So was the first whirligig,
 but the second one---
 
-"Hello there," I said softly to the raccoon jawing on the trap's
-wicker bars. He was no more than a yearling, black and sandy gray with
-a white flash in the middle of his forehead. I checked the walls
-carefully. No sign of an ambush. Nothing stirring in the rafters. I
-reached for the trap.
+"Well, hello there," I said softly to the raccoon chewing at the
+trap's wicker bars. He was no more than a yearling, black and sandy
+gray with a white flash in the middle of his forehead. I checked the
+walls carefully. No sign of an ambush. Nothing stirring in the
+rafters. I reached for the trap.
 
-"Hello yourself," a tiny voice squeaked. I whirled around. Four beady
+"Hello yourself," said a voice behind me. I whirled around. Four beady
 eyes met mine. A fowling bow that might have been the twin of mine was
-pointed at my chest. The little rotters had been hiding under one of
-the piles of skins. They must have dragged the bow up during the
-night, though the Pilots alone know how they cocked it.
+pointed at my chest. The two raccoons wrestling with it had been
+hiding under one of the piles of skins. Pilots alone know how they
+cocked it.
 
-I let out a slow breath.  Stay relaxed, that was the key.  The quarrel
-in their bow wasn't big enough to kill me, but---I thought about the
-lady's molt on my own quarrel and let out another slow breath.
+I let out a slow breath.  The quarrel in their bow wasn't big enough
+to kill me, but---I thought about the lady's molt on my own quarrel
+and let out another slow breath.
 
-"Now, don't mind us," one of them squeaked. "Just carry on as you
-were.  You *were* releasing him, weren't you?"
+"Oh, don't mind us," one of them said in a burr-edged northern accent.
+"Just carry on as you were.  You *were* releasing him, weren't you?"
 
-"Of course," I lied.  Damn the Gifted.  And damn these two in
-particular.  They were the nightmare and shame of every rat catcher on
-the east side of the city.  They'd arrived from somewhere up north a
-couple of years before full of wild talk about Gifted rights and
-reparations owed. When the emir told them to move on, they went
-underground instead and started playing vigilante.
+Releasing him?  "Uh..."  I started to lower my arms.  "That's not the
+deal."
+
+"Nuh nuh."  The raccoon patted the bow.  "We're fairly short-sighted,
+you know.  Best if you keep those up where we can see them."
+
+Damn the Gifted.  And damn these two in particular.  They were the
+nightmare and shame of every rat catcher in the city.  They'd arrived
+a couple of years before full of wild talk about Gifted rights and
+reparations and six other kinds of madness. When the emir told them to
+move on, they went underground instead and started playing vigilante.
 
 A rat catcher I sometimes worked for when I couldn't find anything
 better was one of their first victims. He'd somehow come to own the
-gambling debts of a Gifted camel.  She couldn't pay up, so my mate
-sold the debt on to some Bantangui to haul cotton.  When the camel
-started squalling about how that was illegal, the Bantangui would make
-a slave of her as soon as they were out of the city, he took a cudgel
-to her to teach her some manners.
+gambling debts of a Gifted camel.  She couldn't pay up, so the catcher
+sold the debt on to some Bantangui who had cotton to haul.  When the
+camel started squalling about how that was illegal, the Bantangui
+would make a slave of her as soon as they were out of the city, he
+took a cudgel to her to teach her some manners.
 
 Well, that very night, the raccoons left one of his own cross-splice
 traps in the night jar under his bed. He lived, but he never walked
 the same way afterward.  The emir's guards didn't do more than take
-his name---he doesn't care much for slavers---but word got around
-pretty quickly in the profession that anyone who hurt one of the
-Gifted had better watch themselves.
+his name---His Highness doesn't care much for slavers---but word got
+around pretty quickly that anyone who hurt one of the Gifted had
+better watch themselves.
 
-All of that flashed through my mind as I reached for the knot that
-held the whirligig closed, and then *thwack!* The quarrel hit the wall
-a handspan above my head.  My guts just about let go. "Hey!"
+All of that flashed through my mind as I put my arms back up in the
+air.  But... "Come on," I said as reasonably as I could under the
+circumstances.  "You know how this works.  I have to have *something*
+to show for my time or I'm going to be out of work."
 
-"Sorry!" a little voice squeaked. "My paw slipped."
+Whatever the raccoons might have said was cut off by a flat *thwack!*
+The quarrel hit the wall a handspan above my head.
 
-I turned and raised my own bow. One of the raccoons had scampered
-away, but the second was still hunkered down on the skins. I aimed at
-her. "Huh.  This little scrap of trouble must mean a lot to you."
+My guts just about let go.  I ducked half a heartbeat too late.  "What
+the hell what that for!?"
+
+"Sorry!" the raccoon squeaked. "My paw slipped."
+
+The hell with this.  I raised my own bow and aimed it.  One of the
+raccoons had scampered away, but the second was still hunkered down on
+the skins. I lined up a shot on her flank.  "This little scrap of
+trouble must mean a lot to you."
 
 Her tail twitched. "He does."
 
 "Why? Is he Gifted?"
 
-"No. But he's my son."
+"No. But he *is* my son."
 
 We stared at each other for a few heartbeats. Finally I sighed and
 lowered my bow. "Rot and salt. All right, hang on." I undid the knot

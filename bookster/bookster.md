@@ -4220,7 +4220,7 @@ her own in the biggest town on the mountain with a string of coins in
 her pocket.  This time, though, the sky was dark, and her teacher was
 unconscious with twenty-two fresh stitches in his side.  She supposed
 she should go back to the Three Rabbits, but the thought of lying
-alone in her room was unbearable.  Maybe he should go to Uncle Regi's
+alone in her room was unbearable.  Maybe she should go to Uncle Regi's
 instead, if she could figure out how to get there.
 
 "Well, then." Erileine turned as Thomas ambled down the steps.  "Quite

@@ -1297,69 +1297,73 @@ by something less patient than me. Time will tell.
 
 He always knew how to find trouble, even as a baby. Our first two got
 into scrapes about as often as other children, but if Vurt saw a cat's
-tail, he had to pull it just so he could show us where it had scratched
-him. "I was only playing," he would say. "But the cat didn't know that,"
-I would tell him. His answer was always, "Well, it should have."
+tail, he had to pull it just so he could show us where it had
+scratched him. "I was only playing," he would say. "But the cat didn't
+know that," I would tell him. His answer was always, "Well, it should
+have."
 
 It should have. And later, other children should have---should have
-wanted to play kabbadi instead of tag, should have wanted him to be the
-hawk for hawk and hares, should have, should have, should have. He was
-always angry, always hurt, always wondering why everyone else kept
+wanted to play *kabbadi* instead of tag, should have wanted him to be
+the hawk for hawk and hares, should have, should have, should have. He
+was always angry, always hurt, always wondering why everyone else kept
 getting it wrong.
 
 The only place he seemed to fit in was next door at Ishad's. From the
-moment he was old enough to manage the ladder on his own he went up onto
-the roof to watch the bravos at their lessons. I put a rush mat up there
-for him eventually, and Meshash made a sun shade out of an old cloak and
-some wicker she salvaged at the market's edge. Some days we could hear
-his feet on the roof as he imitated their drills with a stick in his
-hand. Other times he lay on his belly for hours with his chin on his
-forearms, watching the men below learn how to fight---how to cripple and
-kill without being crippled or killed. Sometimes he fell asleep up
-there. I couldn't carry him down the ladder, so I just put a blanket
-over him and left him until morning.
+time he was old enough to manage the ladder he went up onto the roof
+to watch the neighborhood bravos learn how to make holes in one
+another with sharp bits of metal. I eventually put a rush mat up there
+for him, and Meshash made a sun shade out of an old cloak and some
+wicker she salvaged at the market's edge so his head wouldn't bake.
+Some days we'd hear his footsteps on the roof as he imitated their
+drills with a stick in his hand. Other times he lay on his belly for
+hours with his chin on his forearms, watching the men and women below
+learn how to cripple and kill without being crippled or killed.
+
+And sometimes he fell asleep up there. I couldn't carry him down the
+ladder, so I just put a blanket over him and left him until morning.
 
 He started lessons himself on his eighth name day. He was two years
 younger than anyone else in his class, but already knew five salutes,
-nine parries, and three dirty tricks. At least, he thought he did. "I've
-never seen such a collection of bad habits in my life!" Ishad bellowed.
-"Where'd you learn to stand like that? Gaaah."
+nine parries, and three dirty tricks.  At least, he thought he did.
+"I've never seen such a collection of bad habits in my life!"  Ishad
+bellowed.  "Where'd you learn to stand like that? Gaaah."
 
 Vurt didn't cry until he got home. "I'm never going back!" he sobbed,
-angry and ashamed. But next morning he was up before dawn with a scowl
-on his face fit to frighten a troll. He put his feet where Ishad told
-him to, tucked his elbows in, and mastered every single trick the old
-braggart knew.
+angry and ashamed. But next morning he was up at dawn with a scowl on
+his face fit to frighten a troll. He put his feet where Ishad told him
+to, tucked his elbows in, and mastered every single combination the
+old braggart knew.
 
-By the time he was ten he could rattle off the names of everyone who had
-won a chain in the *umram* since the emir took the throne. He could tell
-you what their favorite weapons were, what passes they used, probably
-even what they had for dinner. I took him there once in a while when we
-could afford it. It was never really my cup of tea, and truth be told,
-we never really *could* afford it, but it was worth it just to get him
-to sit with me for an hour.
+By the time he was ten he could rattle off the names of everyone who'd
+won a chain in the *umram* since the emir put on the royal collar. He
+could tell you what their favorite weapons were, what combinations
+they used, probably even what they had for dinner and how often they
+crapped. I took him to see the fights once in a while when we could
+afford it. It was never my cup of tea, and truth be told, we never
+really *could* afford it, but it was the only time we could sit
+together for more than a few minutes without getting into some kind of
+argument.
 
-He still came out ratcatching with me in the afternoons, at least for
-the first few years. I was firm---he had to learn the trade, or there'd
-be no more lessons. He sulked and argued like the ten-year-old he was,
-but this was one thing I wouldn't let his mother bend me on. His older
-brother and sister were already making respectable livings---they were
-ten years older than him, and living with others their own age. If he
-put half as much thought into traps and poisons as he did into feints
-and lunges, then by the time he was sixteen or seventeen, he could earn
-enough catching rats four days a week to move out like they had, and how
-he spent his time after that would be his own damned business.
+What we argued about most was ratcatching.  Our deal was that he had
+to learn the trade, or there'd be no more lessons with Ishad. He
+sulked about it like the youngest child he was, but this was one thing
+I wouldn't let his mother bend me on. His older brother and sister
+were already out making their own way in the world. If he put half as
+much thought into traps and poisons as he did into feints and lunges,
+then by the time he was sixteen or seventeen he could earn enough
+catching rats to find a room somewhere like they had, and how he spent
+his time after that would be his own damned business.
 
 He was thirteen when he came home bloody-nosed from a fight in the
-market and announced that wasn't going to happen. "Onne!" Meshash cried.
-"Onne, come quick, he's hurt!" I was in the back whittling a strip of
-bamboo to make a spring post for a gulper sack. I sighed, put my knife
-and the bamboo on my workbench, and headed inside to find out what he'd
-gotten himself into this time.
+market and announced that wasn't going to happen. "Onne!" Meshash
+cried.  "Onne, come quick, he's hurt!" I was in the back whittling a
+strip of bamboo to make a spring post for a gulper sack. I sighed, put
+my knife and the bamboo on my workbench, and headed inside to find out
+what he'd gotten himself into this time.
 
 Meshash had him on a stool. His nose was still bleeding---there were
-drips on his shirt and the floor. "I' aw' righd," he protested, but she
-wouldn't be pushed away.
+drips on his shirt and the floor. "I' aw' righd," he protested, but
+she wouldn't be pushed away.
 
 "What happened?" I asked.
 
@@ -1370,38 +1374,39 @@ this?"
 
 "Dunno," he mumbled.
 
-"I'm going to get the guard," Meshash said. "Onne, you stay with him."
+"I'm going to get the guardsmen," Meshash said. "Onne, you stay with
+him."
 
-"No! No' the guard! I'll be awrighd!" Vurt tried to stand up. I pushed
-him back onto the stool, harder than I meant to.
+"No! No' the guardsben! I'w be awrighd!" Vurt tried to stand up. I
+pushed him back onto the stool, harder than I meant to.
 
-"Tell us what happened," I said flatly, "Or I'll get the guard myself."
+"Tell us what happened," I said flatly, "Or I'll get them myself."
 
-It was like pulling teeth, but we finally got the story. Two boys, older
-than him, had been making jokes.
+It was like pulling teeth, but we finally got the story. Two boys,
+older than him, had been making jokes.
 
 "What kind of jokes?" Meshash asked.
 
-"'Boud radcadgers," he said sullenly. They had taken lessons from Ishad
-for a year or two before giving up, but still remembered Vurt. When they
-saw him trying on plated gloves in the market, they had---
+"'Boud radcadgers," he said sullenly. They had taken a few lessons
+from Ishad a year or two back, and remembered Vurt. When they saw him
+trying on plated gloves in the market, they had---
 
 "Plated gloves? You mean for fencing?"
 
 "I was jus' drying theb od," he said defensively. The cloth he was
-holding to his face was soaked red by this point. Meshash sluiced it in
-a pan of water, wrung it out, and put it back on his face.
+holding to his face was soaked red by this point. Meshash sluiced it
+out in a pan of water, wrung it dry, and put it back on his face.
 
 But yes, he admitted, they were for fencing. The two boys had started
-making jokes about how tough Coriandel's rats must be if you needed gear
-like that to handle them.
+making jokes about how tough Coriandel's rats must be if you needed
+gear like that to handle them.
 
-"They jusd would'd stob," he said, and my mind went back to my last-ever
-day of school. They just wouldn't stop either. D'you kiss them? Betcha
-do. Your girlfriend's a rat, isn't she, rat boy? I would have quit even
-without that---I could count money well enough, and sign my name, and
-anyway, with my father trampled the year before, my mother needed me
-working.
+"They jusd would'd stob," he said, and my mind went back to my
+last-ever day of school. They just wouldn't stop either. D'you kiss
+them? Betcha do. Your girlfriend's a rat, isn't she, rat boy? I would
+have quit even without that---I could count money well enough, and
+sign my name, and anyway, with my father gone into the desert the year
+before with the scribbles, my mother needed me working.
 
 "So what did you do?" Meshash asked him.
 
@@ -1411,79 +1416,78 @@ Vurt shrugged. "Hid 'em."
 walked away."
 
 "I did!" he protested. "Bud they cabe abder be." He walked away, they
-came after him, and by the time it was over his nose was broken and his
-bag was gone.
+came after him, and by the time it was over his nose was broken and
+his bag was gone.
 
-"They stole your bag? Your good bag?" Meshash asked, a stricken look on
-her face. She had spent a month making that bag for him, though I don't
-suppose he remembered that.
+"They stole your bag? Your good bag?" Meshash asked, a stricken look
+on her face. She had spent a month making that bag for him, though I
+don't imagine he remembered that.
 
 "Id doedn't madder," he said sullenly. "I wuz'd going to uze id agaid
 adyway. I'b neber going radcadging again."
 
 That's when I started shouting. And that's when Vurt said things a son
-should never say to his father, and I said things a father should never
-say to his son. What was wrong with catching rats? It was an honorable
-trade, even if people did say things sometimes. Was it beneath him? Was
-he ashamed of doing it? Was he ashamed of *me*? I was catching rats
-before he was born. If it wasn't good enough for him, then maybe his own
-family wasn't either.
+should never say to his father, and I said things a father should
+never say to his son. What was wrong with catching rats? It was an
+honorable trade, even if people did say things sometimes. Was it
+beneath him? If it wasn't good enough for him, then maybe his own
+family wasn't either. Was he ashamed of us?
 
-Meshash tried to quiet us both down, just like she always did, but this
-storm had been brewing a long time. I worked hard my whole life to give
-my children better than I had. They grew up in a proper house instead of
-shacks that rented each room to a different family, cash in advance and
-the latrine's down the street. They had proper gear too, steel wire and
-cumin seed instead of twine and pigeon droppings. I wasn't going to let
-him throw all of that away for some fancy-dancing dream of people
-cheering him in the *umram*. Saints on stilts, if I heard one more word
-about it, I would thrash him!
+Meshash tried to quiet us both down, just like she always did, but
+this storm had been brewing a long time. I worked hard my whole life
+to give my children better than I had. They grew up in a proper house
+with a courtyard out back instead of in shacks that rented each room
+to a different family, cash in advance and the latrine's down the
+street. I gave them proper gear to get started with too, steel wire
+and cumin seed instead of twine and pigeon droppings scraped off the
+spice merchant's back wall. I wasn't going to let him throw all of
+that away for some fancy-dancing dream of people cheering him in the
+*umram*. Saints on stilts, if I heard one more word about it, I would
+thrash him!
 
 He stood up. "You cad try," he said, turning his body sideways and
-bringing his hands up to guard.
+bringing his hands up in fists.
 
-I almost did it. I would have put him over my knee and spanked him like
-I did when he was four years old, but Meshash saved him the
+I almost did it. I would have put him over my knee and spanked him
+like I did when he was four years old, but Meshash saved him the
 embarrassment. "Stop it!" she wept, stepping between us. "Both of you!
-Just... just stop it!"
+Just stop it!"
 
-Neither of us could stand to see her cry. I suddenly realized that I was
-breathing hard. Vurt lowered his arms uncertainly. "I'b goi'g to bed,"
-he announced abruptly, and stalked away. My wife and I looked at each
-other. What were we going to do now?
+Neither of us could stand to see her cry. I suddenly realized that I
+was breathing hard. Vurt lowered his arms uncertainly. "I'b goi'g to
+bed," he announced abruptly, and stalked away. My wife and I looked at
+each other. What were we going to do now?
 
 I didn't like what Meshash came up with, but I didn't have anything
 better to offer, so I cleaned the bowl and wrung out the cloth she had
-used on Vurt's nose while she went next door to talk to Ishad. I was in
-the back trying to finish making my gulper sack when she returned.
+used on Vurt's nose while she went next door to talk to Ishad. I was
+in the back trying to finish making my gulper sack when she returned.
 
 "What did he say?" I asked.
 
-She sat down in her usual place on the other side of the salvaged table
-we used as a workbench. The lines on her face hadn't been there
+She sat down in her usual place on the other side of the salvaged
+table we used as a workbench. The lines on her face hadn't been there
 twenty-five years before, and there was silver in her straight black
 hair now, but she was still as beautiful as the first time I saw her
-grinding coffee beans in her mother's stall in the market. "He said Vurt
-can pay for his lessons by cleaning up and helping out with the
+grinding coffee beans in her mother's stall in the market. "He said
+Vurt can pay for his lessons by cleaning up and helping out with the
 children." She shrugged, tired after a long day and weary of worrying
 about her youngest.
 
 I grunted. "Maybe we should ask if he wants to adopt him."
 
-"That's not funny," she said sharply.
+"That's not funny," she said sharply, still on the edge of tears.
 
-I put the knife and bamboo down on the table. She was still on the edge
-of tears.
-
-"I know. I'm sorry." I reached across the table and took her hand.
+I put the knife and bamboo down on the table.  "I know. I'm sorry." I
+reached across the table and took her hand.
 
 She nodded. We sat there for a few moments, listening to the evening
 birds and the occasional bray from the donkey knacker's yard two doors
 down. Finally she sighed and took her hand from mine. "I'm going to
 bed."
 
-"All right. I'll be up in a bit." I picked up my whittling knife and the
-half-finished spring post and went back to work.
+"All right. I'll be up in a bit." I picked up my whittling knife and
+the half-finished spring post and went back to work.
 
 Vurt and Meshash were both up and gone before me the next morning, him
 next door to Ishad's and her off to buy figs as a treat for dinner. I
@@ -1491,93 +1495,95 @@ swallowed the bread, hard cheese, and cold beans she had left for me,
 then picked up my bag and headed off to work.
 
 My first stop was the bakery down the end of the street. I had four
-traps under their floor, and six more in the rafters where they hung
-sacks of flour and bread. I didn't bother to string my fowling bow as I
-was checking them---the baker's cat wasn't Gifted, but she would have
-had her back up if there was anything skulking about.
+traps under their floor, and six more in the rafters where the baker
+hung sacks of flour and bread. I didn't bother to string my fowling
+bow as I was checking them---the baker's cat wasn't Gifted, but she
+would have had her back up if there was anything skulking about.
 
 My second stop was a leatherworker's yard. "Thought it were one of the
-apprentices, but they all swear 'tisn't," he had said when he hired me.
-He still had an Ossiss accent, though he'd been in Coriandel longer than
-I'd known Meshash.
+'prentices, but they all swear 'tisn't," he had said when he hired me.
+He still had a hard Ossiss accent, though he'd been in Coriandel
+longer than I'd known Meshash.
 
 He wasn't there that morning, but one of the apprentices was. "Here to
 check the traps," I told her. She waved me into the back of the shop.
 
 I gave my eyes a few moments to adjust. Animal skins were stacked in
-untidy piles like sheets of bark. The place reeked of dye and the camel
-piss they use for curing.
+untidy piles like sheets of bark. The place reeked of acrid dyes and
+the camel piss they use for curing.
 
-I strung the fowling bow and loaded a pair of quarrels with lady's molt
-and arsenic paste smeared on their barbs. I had three traps here, two
+I strung the fowling bow and loaded a quarrel with lady's molt and
+arsenic paste smeared on their barbs. I had three traps here, two
 whirligigs in the corners and a gulper sack on the wall with a bit of
 melon rind as bait. The gulper was empty. So was the first whirligig,
 but the second one---
 
-"Hello there," I said softly to the raccoon jawing on the trap's wicker
-bars. He was no more than a yearling, black and sandy gray with a white
-flash in the middle of his forehead. I checked the walls carefully. No
-sign of an ambush. Nothing stirring in the rafters. I reached for the
-trap.
+"Hello there," I said softly to the raccoon jawing on the trap's
+wicker bars. He was no more than a yearling, black and sandy gray with
+a white flash in the middle of his forehead. I checked the walls
+carefully. No sign of an ambush. Nothing stirring in the rafters. I
+reached for the trap.
 
 "Hello yourself," a tiny voice squeaked. I whirled around. Four beady
 eyes met mine. A fowling bow that might have been the twin of mine was
-pointed at my chest. The little rotters had been hiding under one of the
-piles of skins. They must have dragged the bow up during the night,
-though the Pilots alone know how they cocked it.
+pointed at my chest. The little rotters had been hiding under one of
+the piles of skins. They must have dragged the bow up during the
+night, though the Pilots alone know how they cocked it.
 
-"Hello, ladies," I said nonchalantly. Stay relaxed, that was the key.
-The quarrel in their bow wasn't big enough to kill me, but they wouldn't
-have gone to all this trouble without thinking of that.
+I let out a slow breath.  Stay relaxed, that was the key.  The quarrel
+in their bow wasn't big enough to kill me, but---I thought about the
+lady's molt on my own quarrel and let out another slow breath.
 
-"Now, don't mind us," one of them squeaked. "Just carry on as you were.
-You were releasing him, weren't you?"
+"Now, don't mind us," one of them squeaked. "Just carry on as you
+were.  You *were* releasing him, weren't you?"
 
-"Of course," I lied. Damn the Gifted. And damn these two in particular.
-They were the nightmare and shame of every rat catcher on the east side.
-They'd arrived from somewhere up north a few years before full of wild
-talk about Gifted rights and reparations owed. When the emira as was
-didn't listen to them, they went underground. Tripwires and razor blades
-and all manner of unpleasantry meant a poor night's sleep for anyone who
-raised their hand or a whip to any of the Gifted.
+"Of course," I lied.  Damn the Gifted.  And damn these two in
+particular.  They were the nightmare and shame of every rat catcher on
+the east side of the city.  They'd arrived from somewhere up north a
+couple of years before full of wild talk about Gifted rights and
+reparations owed. When the emir told them to move on, they went
+underground instead and started playing vigilante.
 
 A rat catcher I sometimes worked for when I couldn't find anything
-better found that out the hard way. He'd somehow come to own the
-gambling debts of a Gifted dromedary. The creature said the note was a
-forgery, so my mate locked it up to teach it some sense. The next day,
-the raccoons left one of his own cross-splice traps in the night jar
-under his bed. He lived, but he never walked the same way afterward.
+better was one of their first victims. He'd somehow come to own the
+gambling debts of a Gifted camel.  She couldn't pay up, so my mate
+sold the debt on to some Bantangui to haul cotton.  When the camel
+started squalling about how that was illegal, the Bantangui would make
+a slave of her as soon as they were out of the city, he took a cudgel
+to her to teach her some manners.
 
-All of that flashed through my mind as I reached for the knot that held
-the whirligig closed. I'd hear the bowstring snick, but I wouldn't have
-time to duck before the quarrel hit me. If they'd used lady's molt, I
-might make it to the front of the shop before my guts let go, but I
-wouldn't make it home.
+Well, that very night, the raccoons left one of his own cross-splice
+traps in the night jar under his bed. He lived, but he never walked
+the same way afterward.  The emir's guards didn't do more than take
+his name---he doesn't care much for slavers---but word got around
+pretty quickly in the profession that anyone who hurt one of the
+Gifted had better watch themselves.
 
-*Thwack!* The quarrel hit the wall a hand's width above my head, and my
-guts just about did let go. "Hey!"
+All of that flashed through my mind as I reached for the knot that
+held the whirligig closed, and then *thwack!* The quarrel hit the wall
+a handspan above my head.  My guts just about let go. "Hey!"
 
 "Sorry!" a little voice squeaked. "My paw slipped."
 
-I turned and raised my own bow. One of the raccoons had scampered away,
-but the second was still hunkered down on the skins. I aimed at her. "Is
-he worth dying for?"
+I turned and raised my own bow. One of the raccoons had scampered
+away, but the second was still hunkered down on the skins. I aimed at
+her. "Huh.  This little scrap of trouble must mean a lot to you."
 
-Her tail twitched. "I think so."
+Her tail twitched. "He does."
 
 "Why? Is he Gifted?"
 
-"No. He's my son."
+"No. But he's my son."
 
 We stared at each other for a few heartbeats. Finally I sighed and
-lowered my bow. "Rot and salt. All right, hang on a moment." I undid the
-knot at the top of the trap one-handed and twisted the wicker so the
-little bastard could squeeze out. He scurried away as if his tail was on
+lowered my bow. "Rot and salt. All right, hang on." I undid the knot
+at the top of the trap one-handed and twisted the wicker so the little
+bastard could squeeze out. He scurried away as if his tail was on
 fire.
 
-"Satisfied?" I asked. Silence. I turned around. She was gone. So was her
-fowling bow. I uncocked mine carefully and slipped the quarrels back
-into their case.
+"Satisfied?" I asked. Silence. I turned around. She was gone. So was
+her fowling bow. I uncocked mine and carefully slipped the quarrel
+back into their case.
 
 "Catch anything?" the apprentice asked me on my way out.
 
@@ -1586,7 +1592,7 @@ into their case.
 "Well, better luck next time."
 
 The morning sun was blinding after the dark of indoors. I squeezed my
-eyes shut and waited for my hands to stop shaking.
+eyes shut and waited for my heart to stop pounding in my ears.
 
 When Vurt was little, he used to ride up to bed on my shoulders. Every
 night, I told him to watch his head, and every night he giggled and
@@ -1598,11 +1604,8 @@ heart would break. It seemed to me like he'd been climbing stairs
 without me ever since.
 
 I wiped my face with my sleeve. It didn't matter if he was a rat
-catcher, a duelist, or a dung shoveler, he was still my son.
-
-I picked up my bag and set off for my next job.
-
------
+catcher, a duelist, or a dung shoveler, he was still my son.  I picked
+up my bag and set off for my next job.
 
 ## Recently: Eleñima Disapproves of Her Niece
 

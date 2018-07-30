@@ -3993,7 +3993,7 @@ souls, or magicians who were wrongly imprisoned for necromancy, only
 to be saved (or doomed) when a king in waiting fell in love with them.
 She weighed them in her hands, then put the tract back where she had
 found it.  Her mother and Queçenne would prefer the stories, she told
-herself, not admitting to herself that she'd enjoy them too.
+herself, not admitting that she'd enjoy them too.
 
 "Three rings," the bookseller said when Erileine asked its price.
 
@@ -4442,7 +4442,7 @@ The room trembled slightly.  Erileine clutched the bedframe wide-eyed.
 
 "Another…?  *Ye mashe aue*, we're berthing?" At Erileine's nod the
 bookster tried once more to sit up.  Erileine rushed forward to help
-him, but the bookster fell back again before he could.
+him, but the bookster fell back again before she could.
 
 "Go," Razi said, reaching for the leather belt and sword-hilted bottle
 that someone had carefully stowed under the table beside his bed.
@@ -5301,7 +5301,7 @@ where one bad stumble would mean a long slide down a steep, stony
 hill, followed by an even longer drop---but she had lost the toy
 dragon Papaere Vurt had made for her out of a few scraps of leather,
 and Niquolas had joined Fraederiq in taunting her about it, and she
-just wanted to get as far away from everyone as he could.
+just wanted to get as far away from everyone as she could.
 
 She stayed in the pasture, watching the goats and muttering angrily at
 the empty air, until her stomach started to rumble.  As she walked
@@ -5926,13 +5926,13 @@ them forward.
 
 Sweet Icicle Street took its name from the shops at its upper end,
 which Erileine could just make out in the gathering twilight.  Twice a
-week, on Redsday and Greensday, Forecastle's icicleers climbed up the
-shoulder of the mountain overlooking the city.  There, near the peak,
-they scraped hard-packed snow into their buckets, packing it down
-under layers of wood chips.  After sleeping for a few hours wrapped up
-in goat-skin rugs to stay warm, they hiked back down to town, where
-they added drops of lemon, blueberry juice, mango, and other
-carefully-measured flavorings to the ice.
+week, Forecastle's icicleers climbed up the shoulder of the mountain
+overlooking the city.  There, near the peak, they scraped hard-packed
+snow into their buckets, packing it down under layers of wood chips.
+After sleeping for a few hours wrapped up in goat-skin rugs to stay
+warm, they hiked back down to town, where they added drops of lemon,
+blueberry juice, mango, and other carefully-measured flavorings to the
+ice.
 
 The icicleers were famous for their clannishness and contrariness.
 You couldn't have a wedding in Forecastle without tubs of flavored
@@ -7249,7 +7249,7 @@ there."
 "I know." This time it was Erileine who paused.  "I think…  I don't
 think I really did it for him, though."
 
-She heard a rustle as Piaerre rolled onto her stomach.  "So who'd you
+She heard a rustle as Piaerre rolled onto his stomach.  "So who'd you
 do it for?"
 
 Erileine swallowed.  If she'd been able to see him, she would have

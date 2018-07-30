@@ -167,7 +167,7 @@ coronation, but the Coriandi keep it as it is just in case.
 
 I found the doctress I needed three streets along from the market. She
 was a little cargo-caste Bantangui woman with her hair up in a turban
-and twin serpents tattooed on the backs of her hands. She painted some
+and crossed bones tattooed on the backs of her hands. She painted some
 poppy syrup on my tongue to keep me still, then dug the broken root of
 the tooth out of my jaw with a stronger arm than you'd guess someone
 her size would have. It hurt like hell, even with the poppy, but as
@@ -1622,309 +1622,345 @@ up my bag and set off for my next job.
 
 ## Recently: Eleñima Disapproves of Her Niece
 
-I didn't realize at first that it was the sign I had been waiting for. I
-*did* know that I would have to do something about it. I mean, honestly,
-a rat catcher? People of quality don't even *know* rat catchers. We
-certainly don't have liaisons with them. Even if I hadn't had plans for
-my niece, I wasn't about to let her disgrace herself that way.
+I didn't realize at first that it was the sign for which I had been
+waiting so long, though I did of course know right away that I would
+have to do *something* about it. I mean, truly, a rat catcher?
+Persons of quality don't even *know* rat catchers.  They certainly
+don't have liaisons with them.  Gardeners perhaps, or guardsmen---they
+can be quite dashing in their uniforms.  But a *rat catcher*?  Even if
+I hadn't had plans for my niece, I certainly wouldn't let her disgrace
+herself and our family in such a manner as *that*.
 
-But my first reaction was, yet again, to sigh. Sometimes it seemed as
-though correcting Sehdie's willfulness had become a full-time
-occupation. Why, just a few weeks earlier she asked if she could have
-her hair straightened in that horrible northern style. "Of course not,"
-I told her. "You will leave it curly, and you will wear it short, like a
-princess." Oh, auntie, she said, but I will look so old-fashioned.
-"Never you mind about that," I said. And then just to show her that I
-*did* love her, despite her flightiness, I went to her father and told
-him *quite firmly* that his daughter needed another new outfit for the
-picnic season. He almost choked on his melon when the seamstress's
-accounting arrived, but no matter---Sehdie looked splendid,
-straight-backed and long-necked with sequins on her sleeves like tiny
-stars. Just a few, of course---nothing reveals a lack of quality like
-gaudiness---but oh, how all those "fashionable" girls seethed at the
-attention she got. Young men lined up five at a time for a chance to
-recite poetry to her. Not that I let them, of course---it would have
-swelled her head.
+But my first reaction was, yet again, to sigh.  Correcting Sehdie's
+willfulness had somehow become a full-time occupation of late.  Why,
+just a few weeks before the incident in question she asked if she
+could have her hair straightened in that horrible northern style. "Of
+course not," I told her. "You will leave it curly, and you will wear
+it short, like a princess." Oh, auntie, she said, but I will look so
+old-fashioned.  "Never you mind about that," I told her.  "Taste and
+breeding are *never* old-fashioned."
 
-They lined up for my sister in her day, and not just five at a time. My
+And then just to show her that I *did* love her, despite her
+flightiness, I went to her father and told him *quite firmly* that she
+needed a new outfit for the picnic season.  He almost choked on his
+pomegranate when the seamstress's accounting arrived, but no
+matter---Sehdie looked splendid, straight-backed and long-necked with
+stars in her eyes like the sequins on her sleeves. Just a few sequins,
+of course---nothing reveals a lack of quality like gaudiness---but oh,
+how all those "fashionable" girls seethed at the attention she got
+after that. Young men and women lined up three at a time to recite
+poetry to her. Not that I let them, of course---it would have gone to
+her head.
+
+They lined up for my sister in her day, and not just in threes. My
 dear Awbé---always the sweetest-smelling flower in the garden, but
-always (dare I say it?) just a little flirtatious. Not me, though. I was
-the sensible one, my dear sister's shadow and conscience. *I* was the
-one who kept track of all the stories her suitors told her so I could
-trap them in their own mistruths and exaggerations. Oh, they didn't like
-me for that, not half as much as they liked her. Still, there were balls
-and picnics, afternoons and evenings in the royal garden on Palace Hill
-looking down on the city as the sun set.
+always (dare I say it?) just a *teensy* bit flirtatious. Not me,
+though.  I was the sensible one, my dear sister's shadow and
+conscience.  *I* was the one who kept track of all the stories her
+suitors told her so that I could reveal their mistruths and
+exaggerations to her.  Oh, they didn't like me for that, not one bit,
+but duty is duty.  Awbé might not always have appreciated everything I
+did for her, but between the balls and the picnics, and the afternoons
+and evenings in the royal garden on Palace Hill looking down on the
+city as the sun set, well, one can't complain.
 
 I thought it would last forever. I thought we would be *together*
-forever, but the next thing I knew, my beloved sister was betrothed. And
-to salt loss with insult, I was to be her handmaid! Her handmaid, if you
-will! I wailed, I wept, I threw myself at my mother's feet and begged
-her, no, please, not that, but she wouldn't budge. "Perhaps it will
-teach you a little humility," she said, as if *I* was the proud one.
+forever, but suddenly one day my beloved sister was betrothed
+to---well.  He was a good listener, or so Awbé said, and who am I to
+judge the heart of another?
 
-And so my fate was written: a room overlooking the rear courtyard in my
-sister's husband's house, sweet with the smell of potted jacarandas and
-unspent reams. Still, it *did* mean that we spent almost every moment
-together when she was heavy with Sehdie, embroidering for the baby-to-be
-and gossiping as we always had. I fetched her sweetened lemon juice when
-she asked for it, and spooled her thread for her like a good sister
+But to salt loss with insult, my mother announced that I was to be my
+sister's handmaid!  Her handmaid, if you will!  I rather carried on at
+the news, wailing and weeping and throwing myself at my mother's feet
+and begging her, no, please, not that, but she wouldn't budge.
+"Perhaps it will teach you a little humility," she said, as if *I* was
+the proud one.
+
+And so my fate was written, or so I thought: a room overlooking the
+rear courtyard in my sister's husband's house, sweet with the smell of
+potted jacarandas and unspent dreams.  The only consolation was that I
+got to spent almost every moment with her when she was heavy with
+Sehdie, embroidering for the baby-to-be and gossiping as we had when
+it was just the two of us. I fetched her sweetened lemon juice when
+she asked for it, and spooled thread for her like a good sister
 should, and I was happy, *truly* happy.
 
-Then Sehdie was born and Awbé forgot all about me. "New mothers are
-always like that," our housekeeper told me, huffing and muttering when I
-pointed out that her wisdom had *not* been sought. It would have
-passed---I'm sure it would have---but Awbé had her accident and all of a
-sudden I was truly, *horribly* alone. I wept day after day, just like my
-baby niece, but without a housekeeper to comfort me. It was months
-before I could face the world, and *years* before Fortune's grace gave
-me reason to hope once again.
+Then Sehdie was born and Awbé...Awbé forgot all about me. "New mothers
+are always like that," the housekeeper told me, huffing and muttering
+when I pointed out that her wisdom had *not* been sought. It would
+have passed---I'm sure of it---but Awbé had her accident and all of a
+sudden I was truly, *horribly* alone. I wept day after day, just like
+my baby niece, but without a housekeeper to comfort me. It was weeks
+before I could face the world, and *years* before the saints gave me
+reason to hope once again.
 
-It wasn't by Fortune's grace that I found out about the rat catcher,
-though. I allowed Sehdie to have friends visit once a week so that she
-could practice her Bantangui and dance steps. I gave them time to
-settle, then slipped into the little storage cupboard next to her room
-to listen to what they were saying. It was not spying---I will not have
-it said that I was so poorly bred as to *spy*. But not everyone in the
-Hundred Houses had been raised as well as she had, and with her mother
-gone, it was my responsibility to make sure she didn't stray.
+It wasn't by the grace of the saints that I found out about the rat
+catcher, though. I allowed Sehdie to have friends visit once a week so
+that she could practice her Bantangui and dance steps. I gave them
+time to settle in, then slipped into the little storage cupboard next
+to her room to listen to what they were saying. It was not spying---I
+will not have it said that I was so poorly bred as to *spy*.  But not
+everyone in the Hundred Houses had been raised by a firm hand, and
+with her mother gone, it was my responsibility to make sure she didn't
+stray.
 
 "Did you see how he fought today?" her friend Cathé said breathlessly.
 She was always breathless, that one, and no wonder with so much of her
-stuffed into those too-bright silks she favored. "He was like a wild
-stallion! Tessor never had a chance!"
+stuffed into those too-bright foreign silks she favored. "He was like
+a wild stallion! Tessor never had a chance!"
 
 Tessor? I frowned. Tessor Pennetanda é Pue had been one of her many
 suitors that season---a bit dissolute, but from a very respectable
 family. He fought in the *umram* from time to time, or so I had heard.
-But whatever would Sehdie have been doing there? She was supposed to be
-at her music lesson, not watching bravos whack each other with sticks.
-And who was the 'he' who had beaten him?
+But whatever would Sehdie have been doing there? She was supposed to
+be at her music lesson, not watching bravos beat each other with
+sticks.
 
 "Yes, he was wonderful, wasn't he?" I heard Sehdie flop down on her
-chaise---her mother's chaise, as I still thought of it.
+chaise---her mother's chaise, as I still thought of it---and made a
+mental note to catch her doing it at some point so that I could
+correct her.
 
-"Do you want to go and see him again tomorrow?" Cathé asked, undoubtedly
-thinking her tone was arch.
+"Do you want to go and see him again tomorrow?" Cathé asked,
+undoubtedly thinking her tone was arch.
 
-"Why not?" Sehdie replied nonchalantly. "Maybe Mareña will want to come
-with us this time."
+"Why not?" Sehdie replied nonchalantly. "Maybe Mareña will come with
+us this time."
 
-Now, I am as loyal a subject of our emir as you'll find, but I must say,
-he isn't nearly as firm about some things as his aunt had been. Women
-certainly weren't allowed into the *umram* when *I* was young. Oh, I
-know that Awbé and her friends bribed the gatekeepers once or twice when
-I wasn't there to remind them all that dueling wasn't something a true
-lady of quality would be interested in, and I've heard that some women
-found their way in through means best not discussed, but the thought
-that my niece might be frequenting such a place was...distasteful. I
-owed it to her to find out more.
+Now, I am as loyal a subject of our emir as you'll find, but I must
+say, he isn't nearly as firm about some things as his aunt used to be.
+Women certainly weren't allowed into the *umram* when *I* was young.
+Oh, I know that Awbé and her friends bribed the gatekeepers once or
+twice when I wasn't there to remind them all that dueling wasn't
+something a true lady of quality would be interested in, and I've
+heard that *some* people used other means best not discussed to
+persuade the gatekeepers to look the other way, but the thought that
+my niece might frequent such a place was...distasteful. I owed it to
+her to find out more.
 
 I smiled and made small talk with her at dinner that evening while my
-brother-by-marriage grunted an occasional ‟Is that so?" or ‟Really?"
-without actually listening to us. She was well-mannered, as I had taught
-her to be, but I could tell from the look in her eyes that her mind
-wasn't really on what I was saying. She was restless, and for a
-seventeen-year-old woman, restless is the same thing as dangerous.
+brother-by-marriage grunted an occasional "Is that so?" or "Really?"
+without actually listening to us. She was as well-mannered as I had
+taught her to be, but I could tell from the look in her eyes that her
+mind wasn't really on what I was saying. She was restless, and in a
+seventeen-year-old, restless is the same thing as dangerous.
 
 The next morning, after Sehdie left for her lessons, I had my houseman
-Nednan escort me six streets to Shau Sheu's. I walked more quickly than
-I should have, so to my embarrassment, I was perspiring faintly by the
-time I reached her front door. I paused a moment so the houseman could
+Rojyar escort me six streets to Shau Sheu's. I walked more quickly
+than I should have, so to my embarrassment, I was perspiring faintly
+by the time I reached her front door. I paused a moment to let Rojyar
 fan me while I composed myself.
 
-Shau Sheu's home was built by a family of coffee merchants some years
-before I was born. It lay just off Hundred Houses Hill, in a
-neighborhood more opulent than tasteful. The front courtyard was paved
-with pale pink sandstone. Darker blocks outlined the arched entrance at
-the front and the inner arch that led to the private courtyard in the
-rear. A mechanical oudh played softly in the corner, and the air smelled
-faintly of sandalwood and foreign spices.
+Shau Sheu's home lay just outside the Hundred Houses proper, in a
+neighborhood I would call comfortable rather than tasteful. Its front
+courtyard was paved with pale pink sandstone. Darker blocks outlined
+the arched entrance at the front and the inner arch that led to the
+private courtyard in the rear. A mechanical oudh played softly in the
+corner, and the air smelled faintly of sandalwood and foreign spices.
 
 Shau Sheu's houseman greeted me at her front gate with a full bow. It
 was only mid-morning, but half a dozen ladies of quality had already
 taken places on the shaded chaises in the front courtyard. I exchanged
 pleasantries with those I knew and nodded graciously to those I didn't
-while I waited for the houseman to convey my message to his mistress. We
-were all of a certain age, and all here for the same things: coffee and
-conversation, advice on marriage, divorce, fashion, and dalliance, and
-most of all, someone who would listen, *really* listen, while you poured
-out your heart... We got all that and more from Shau Sheu, and her bills
-were *so* discreet.
+while I waited for the houseman to convey my message to his mistress.
+We were all of a certain age, and all here for the same things: coffee
+and conversation, advice on marriage, divorce, fashion, and dalliance,
+and most of all, someone who would listen, *really* listen, while you
+poured out your heart... Shau Sheu gave us all that and more, and her
+bills were *so* discreet.
 
-The houseman returned. "The honored mistress would welcome your company,
-honored mistress," he said solemnly. Out of the corner of my eye, I saw
-one of the gossipers pout. I smiled inside. She would just have to wait.
+The houseman returned. "The honored mistress would welcome your
+company, honored mistress," he said solemnly. Out of the corner of my
+eye, I saw one of the gossipers pout. I smiled inside. She would just
+have to wait.
 
 Shau Sheu was relaxing on her roof beneath a brightly-colored parasol.
-She rose and smiled as I reached the top of the stairs, looking hardly a
-day older than she had when we first met. Her hair was still silky
-black, without a single silver thread. The corners of her mouth creased
-ever so slightly when she smiled, but they had always done that, and the
-wrinkles still vanished when her face became solemn once again.
+She rose and smiled as I reached the top of the stairs, looking hardly
+a day older than she had when we first met. Her hair was still silky
+black, without a single silver thread. The corners of her mouth
+creased ever so slightly when she smiled, but they had always done
+that, and the creases still vanished when her face became solemn once
+again.
 
 We touched palms and kissed each others' cheeks, then sat while her
-housekeeper filled our thimbles with rich, dark coffee. We talked about
-little nothings for a few moments, just old friends settling in for a
-real conversation. Then I set my coffee aside and told her what I had
-overheard.
+housekeeper filled our thimbles with rich, dark coffee. We talked
+about little nothings for a few moments, just old friends settling in
+for a real conversation. Then I set my coffee aside and told her what
+I had overheard.
 
 "A bravo?" she mused, tracing the line of her jaw with the tip of one
-finger as she often did when she was thinking. It had been twenty years
-since she fled Ini Bantang for Coriandel, and despite my gentle hints,
-she still painted her nails. That morning they glistened white against
-her rich brown skin.
+finger as she often did when she was thinking.  It had been twenty
+years since she fled Ini Bantang for Coriandel, and despite my gentle
+hints, she still painted her nails. That morning they glistened white
+against her rich brown skin.
 
 "So it seems," I sighed. "Honestly, I don't know what this city is
 coming to. You certainly wouldn't have seen a young woman of quality
 making eyes at a bravo in *my* day."
 
-"Really?" She arched one perfectly-shaped eyebrow. "I seem to recall you
-telling me once about a picnic you and your sister rather enjoyed with a
+"Really?" She arched one perfectly-shaped eyebrow. "I seem to recall
+you telling me once about a picnic you and your sister enjoyed with a
 couple of bravos of your own."
 
-I blushed. ‟Well, that was---" And then her words collided with each
-other in my head and I gasped aloud. Could it---could this be it? Could
-it *finally* be *time*?
+I blushed. "Well, that was---" And then her words collided with each
+other in my head and I gasped aloud. Could it---could this be it?
+Could it *finally* be *time*?
 
-‟Cherished, are you all right?" Shau Sheu asked, leaning forward to
+"Cherished, are you all right?" Shau Sheu asked, leaning forward to
 place her hand on my arm.
 
-‟A bravo..." I breathed. ‟Just like Awbé's. And she's the right age,
+"A bravo..." I breathed. "Just like Awbé's. And she's the right age,
 she's *exactly* the right age. Do you think...?" I couldn't finish the
 question.
 
-Shau Sheu's eyes widened as she realized what I was saying. She took her
-hand back and studied me, her normal look of commiseration and gentle
-amusement replaced by one more serious. "Perhaps," she finally said. She
-sipped her coffee. "Time will tell."
+Shau Sheu's eyes widened as she realized what I was saying. She took
+her hand back and studied me, her normal look of sympathy and
+understanding replaced by one more serious. "Perhaps," she finally
+said. She sipped her coffee. "Time will tell."
 
-Time will tell. She had been saying that for years. She had warned me at
-the start that her special kind of magic would take a long time, but I
-hadn't realized it would be *this* long.
+Time will tell. She had been saying that for years. She had warned me
+at the start that her special kind of magic would be slow, but I
+hadn't realized it would be *this* slow, and---well.  Even a woman of
+quality can become impatient.
 
-Her housekeeper arrived at just that moment with a small bowl of sugared
-almonds. She was Bantangui as well, older than Shau Sheu, but still
-black-haired and graceful. I had never learned her name.
+Her housekeeper arrived at just that moment with a small bowl of
+sugared almonds. She was Bantangui as well, older than Shau Sheu, with
+the shaved head of one of their servant caste and rather vulgar
+tattoos of crossed bones on the backs of her hands.  One of Shau
+Sheu's other clients claimed that meant she was a pirate, but another
+said no, it meant she had been a doctress of some sort.  Neither took
+it well when I reminded them that it was undignified to speculate
+about the staff of another's house.
 
-She cleared her throat. Shau Sheu glanced at her, raising one eyebrow.
-Her housekeeper ducked her head slightly. "I have heard..." she
-ventured, setting the beaten silver bowl on the table beside the coffee.
-"In the *umram*. Vurt, his name is. He has already won five chains. His
-father is a rat catcher. I believe he is fighting again today."
+The housekeeper cleared her throat. Shau Sheu glanced at her, raising
+one eyebrow.  Her housekeeper ducked her head slightly. "Honored, I
+have heard..." she ventured, setting the beaten silver bowl on the
+table beside the coffee.  "In the *umram*. Vurt, his name is. He has
+already won five chains.  I believe he is fighting again today,
+honored."
 
-A rat catcher? Sehdie was interested in a *rat catcher*? "Thank you," I
-said, nodding my dismissal, my voice was colder than it should have
-been. The housekeeper ducked her head again and removed herself.
+Shau Sheu pursed her lips.  "Is anything said of his family?"
 
-"Well," Shau Sheu said diplomatically a moment later. "Perhaps there has
-been a misunderstanding. Perhaps your niece was referring to someone
-else. I'm sure she wouldn't..." Her voice trailed off.
+The housekeeper ducked her head again.  "I believe his father is a rat
+catcher, honored."
+
+A rat catcher? Sehdie was---a *rat catcher*? "Thank you," I said, my
+voice was colder than perhaps it should have been. The housekeeper
+ducked her head a third time and removed herself.
+
+"Well," Shau Sheu said diplomatically a moment later. "Perhaps there
+has been a misunderstanding. Perhaps your niece was referring to
+someone else. I'm sure she wouldn't..." Her voice trailed off.
 
 "Of course not," I said brightly. I sipped my coffee. "Mm, but this is
 wonderful. I really must send my cook to yours for lessons."
 
-Between the almonds and further pleasantries it was half an hour before
-I collected Nednan and left. The mid-day sun beat on the parasol he held
-over my head, driving passers-by into the narrow shadows at the side of
-the street. When I was young, it would have been considered vulgar for a
-woman of my station to walk rather than ride. The emir's mother set a
-fashion for it, though, and I myself have always found it
-invigorating---it gives one time to think.
+Between the almonds and further pleasantries it was half an hour
+before I collected Rojyar and left. The mid-day sun drove passers-by
+into the narrow shadows at the side of the street, beating down on the
+parasol he held over my head with all the vigor of a washerwoman
+beating stains out of cotton.  When I was young, it would have been
+considered vulgar for a woman of my station to walk rather than ride
+in a sedan chair. The emira-that-was set a fashion for it, though, and
+I myself have always found it invigorating---it gives one time to
+think.
 
 I certainly thought about many things during the walk home from Shau
 Sheu's. As we approached my brother-by-marriage's house, I announced
 that I found myself desiring more air.
 
-Nednan nodded his obedience without speaking. It had always been one of
-his better traits, not speaking. He was discreet as well as efficient,
-and in all the years I have lived in that house, I have only twice had
-to have him beaten. Not like our housekeeper. If I were truly her
-mistress, I would---ah, but if wishes were tears, the whole world would
-drown.
+Rojyar nodded his obedience without speaking. It had always been one
+of his better traits, not speaking. He was discreet as well as
+efficient, and in all the years since Awbé and I had moved into her
+husband's house, I had only twice had to have him beaten.  He would
+keep what he saw to himself, I was sure of it.
 
 We continued briskly through the city streets, me with my arms tucked
-into my sleeves, Nednan a pace behind me, the parasol bobbing slightly
+into my sleeves, Rojyar a pace behind me, the parasol bobbing slightly
 over my head. Merchants nodded to me as they passed, mindful I suppose
 of future business, and a beggar called to us from his perch above the
-door of an alms house. He hopped down nimbly enough when Nednan held up
-a copper---proof again that most of them could find employment if they
-really wanted to. But our emir permits them to ply their trade, and I
-suppose it's better than having them forming mobs and burning down
-honest people's homes, as I have heard they do elsewhere.
+door of an alms house. He hopped down nimbly enough when Rojyar held
+up a copper bezel---proof again that most of them could find
+employment if they really wanted to. But our emir permits them to ply
+their trade, and I suppose it's better than having them forming mobs
+and burning down honest people's homes as I have heard they do
+elsewhere.
 
-We skirted the edge of Hundred Houses Hill. The buildings around us grew
-sturdier and more practical. Doctresses and cabinet makers replaced
-goldsmiths and jurists, and were in turned replaced by saddle menders
-and less reputable jurists. The streets narrowed as well, until the
-buildings on either side were close enough for people to stretch awnings
-between them for shade.
+The buildings around us grew sturdier and more practical as we went
+east.  Doctresses and cabinet makers replaced goldsmiths and jurists,
+and were in turned replaced by saddle menders and less reputable
+jurists. The streets narrowed as well, until the buildings on either
+side were close enough for people to stretch awnings between them.
+The shade was rather welcome, as I found myself perspiring again.
 
 Soon enough we found ourselves at the *umram*. It was smaller than I
 expected. The arena itself was an oval, twenty-five strides long and
-twenty across, with common benches under rickety pigeon-spattered roofs
-on the long sides, and proper seating at either end.
+twenty across, with common benches under rickety pigeon-spattered
+roofs on the long sides, and proper seating at either end.
 
-"We will observe," I told Nednan. "Discreetly."
+"We will observe," I told Rojyar. "Discreetly."
 
-"Yes, honored mistress." He spoke with the one-eyed man who stood at the
-entrance. Coins changed hands. A few minutes later I lowered myself
-gingerly onto a particularly uncomfortable wooden chaise. I tried not to
-speculate about who might have sat on its thin cotton cushions before
-me.
+"Yes, honored mistress." He spoke with the one-eyed man who stood at
+the entrance. Coins changed hands. A few minutes later I lowered
+myself gingerly onto a particularly uncomfortable wooden seat and
+tried *not* to speculate about who might have sat on its thin cotton
+cushions before me.
 
 We waited in silence for the next match to begin. After a few moments,
-the man on the chaise behind me---a complete stranger---cleared his
-throat and leaned forward. "Your pardon, honored mistress, but might one
+the man seated behind me---a complete stranger---cleared his throat
+and leaned forward. "Your pardon, honored mistress, but might one
 request that a parasol be withdrawn, the better to aid the view of
 others present?"
 
-I didn't turn my head. "Nednan, has an introduction taken place?"
+I didn't turn my head. "Rojyar, has an introduction taken place?"
 
 "No, honored mistress," he replied stolidly.
 
 "I thought not." Honestly, some people have no manners to speak of.
 
-I waited. We can be patient, old women. Oh yes, I'm old. I can see it in
-men's eyes on the street, or when I enter a room. I can see it most
-clearly when Sehdie enters a room with me. I am old, but what stories do
-I have to tell for all my years? "She did her best to make her niece a
-proper lady." I wanted a better story than that. I *deserved* a better
-story than that, and maybe, just maybe, the time had finally come for it
-to be written.
+I waited. We can be patient, old women. Oh yes, I'm old. I can see it
+in men's eyes on the street, or when I enter a room. I can see it most
+clearly when Sehdie enters a room with me. I am old, but what stories
+do I have to tell for all my years? "She did her best to make her
+niece a proper lady." I wanted a better story than that. I *deserved*
+a better one, and perhaps, just perhaps, the time had finally come for
+me to write it.
 
-So I waited through two noisy matches until *he* came out to the oval.
-Vurt Meshash é Onnemeno, Vurt of Meshash the mother, of Onnemeno the
-father. A nothing, the kind of person one wouldn't even notice if one
-didn't have to, whose greatest dream was no doubt to win a place in some
-merchant's personal guard and escape the alleys he had been born in.
+So I waited through two noisy, vulgar displays of bravos beating each
+other with sticks until *he* came out to the oval.  Vurt Meshash é
+Onnemeno, Vurt of Meshash the mother, of Onnemeno the father. A
+nothing, the kind of person one wouldn't even notice if one didn't
+have to, whose greatest dream was no doubt to win a place at the
+stirrup of some foreign leather merchant no better bred than himself
+and escape the alleys he had been born in.
 
 A few in the common seats cheered when he was announced. He was young,
 not tall, bare-armed and confident in the blazing sun. Handsome too, I
-suppose, if one likes them dark and swaggering, with a chip on his
-shoulder as big as Palace Hill. I could see how a girl Sehdie's age
-might be taken by him.
+suppose, if one likes them dark and swaggering, and I could see the
+chip on his shoulder from where I was sitting. I could also see how an
+impressionable girl Sehdie's age might be taken by him, but---truly, I
+thought I had done better with her.  I truly did.
 
-His opponent that day was new to Coriandel's *umram*. A village bravo, I
-guessed, hoping to catch some caravaneer's eye. They fought with long
-staves, each tipped with a brush dipped in red paint so the judge could
-see where the pretend spear-head had struck. I didn't watch the bout
-(which, I must say, was mercifully brief). Instead, I studied the common
-benches one eager face at a time.
+His opponent that day was new to Coriandel's *umram*. A village bravo,
+I guessed, hoping to catch some caravaneer's eye. They fought with
+long staves, each tipped with a brush dipped in red paint so the judge
+could see where the pretend spear-head had struck. I didn't watch the
+bout (which, I must say, was mercifully brief). Instead, I studied the
+common benches one eager face at a time.
 
 There. Three together, veiled and hatted. They might have been
 Bantangui, except for the fourth who stood behind them. That was my
-brother-by-marriage's senior clerk's junior houseman, watching the bout
-as eagerly as his three charges.
+brother-by-marriage's senior clerk's junior houseman, cheering the
+bout as keenly as his three charges.
 
-"Is something wrong, honored mistress?" Nednan asked. I must have been
-grinding my teeth---a disgraceful habit, I know, but from time to time,
-one forgets oneself.
+"Is something wrong, honored mistress?" Rojyar asked. I must have been
+grinding my teeth---a disgraceful habit, I know, but from time to
+time, one forgets oneself.
 
-"The third bench, on the right, half-way up, where the blue-and-green
-pennant hangs. Is that one not familiar to you?"
+"On the right, half-way up, where the blue-and-green pennant hangs. Is
+that one not familiar to you?"
 
-Nednan sucked air in through his teeth. "He is seen," he muttered.
+Rojyar sucked air in through his teeth. "He is seen," he muttered.
 
 "One trusts words will be spoken," I sniffed pointedly.
 
@@ -1933,27 +1969,29 @@ would burn, and by tomorrow, a certain junior houseman would find
 himself in search of new employment. He was supposed to escort them to
 their lessons and then home. This---*this* was outrageous!
 
-The boy, Vurt, bowed to the judge, then turned and bowed to my Sehdie.
-Not to the common benches together, and not to her companions (I will
-not call them "friends", who would let her make a fool of herself in so
-public a place). No, he bowed to *her*, to Sehdie, and she raised her
+A cheer went up as Vurt scored his third and final touch.  He bowed to
+the judge, then turned and bowed to my Sehdie.  Not to the common
+benches together, and not to her companions---I will not use the word
+"friend" for anyone who would let her embarrass herself in public in
+such a manner. No, he bowed to *her*, to Sehdie, and she raised her
 hand and waved back to him.
 
-And then I saw *him*. It was as if a ghost had stepped through me. He
-was older and balding, but still broad across the shoulders, and when he
-hopped over the railing onto the *umram*'s sandy floor and walked over
-to Vurt, I knew his walk.
+And then I saw *him* and felt a chill as if a ghost had stepped
+through me. He was older, and the last of his hair was gone, but he
+was still broad across the shoulders, and when he hopped over the
+railing onto the *umram*'s sandy floor and walked over to Vurt, I knew
+his walk.
 
 It was Ishad.
 
-"We are done here," I announced as calmly as I could, standing. Nednan
-bowed his head without speaking. He had seen Sehdie and Vurt. He would
-assume that was why I was unsteady. He didn't know about Ishad. He
-*couldn't* know. No one could. I would be ruined. But seeing him meant I
-was right. *I was right*, I kept repeating to myself. *I was right. It
-is time. It is finally time.*
+"I have seen everything I need to," I announced as calmly as I could,
+standing. Rojyar bowed his head without speaking. He had seen Sehdie
+and Vurt. He would assume that was why I was unsteady. He didn't know
+about Ishad. He *couldn't* know. No one could. But him being here
+meant I was right. *It's time,* I kept repeating to myself. *It is
+time. It is finally time.*
 
-I marched out of the *umram* looking neither left nor right. Nednan
+I marched out of the *umram* looking neither left nor right. Rojyar
 hurried to keep pace with me. "Stop that," I said sharply, hearing him
 mutter, "Excuse us, pardon us," to passers-by.
 
@@ -1962,8 +2000,6 @@ mutter, "Excuse us, pardon us," to passers-by.
 Vurt Meshash é Onnemeno, I thought, and Ishad. Well, well, well. As I
 hurried home through streets nearly emptied by the sun's glare, I
 smiled.
-
------
 
 ## Now: Vurt's Oath
 
@@ -2072,7 +2108,7 @@ Ishad had told me that. *Just breathe,* I thought. *Just this once, just
 breathe.*
 
 Out of the corner of my eye I saw his houseman step into the courtyard
-from whatever discreet corner he'd been lurking in. Nednan, that was his
+from whatever discreet corner he'd been lurking in. Rojyar, that was his
 name. I was sure I could best him, despite the heavy baton in his hand,
 but then her father could have me called on for assault. Calmly,
 calmly... "I have spoken with your daughter, and---"
@@ -2141,7 +2177,7 @@ around and disappearing into the room behind her.
 Sehdie's father glared at me. "How dare you?" he spat, tossing the
 handkerchief to the ground petulantly. "How dare you swear a blood oath
 in my house? I am a respectable man, and there are laws about such
-things! Do you hear me? There are---oh, to the Moon with you! Nednan,
+things! Do you hear me? There are---oh, to the Moon with you! Rojyar,
 summon my jurist. ‛I will slay this creature, and see your daughter set
 free from this place.' Those were his words, were they not? His exact
 words?"
@@ -2623,7 +2659,7 @@ well, it would be as bad as the time Hemmeté came rushing in with her
 over-shawl torn, and I certainly didn't want to be subjected to *that*.
 
 I waited until a little before my usual hour the next morning, then
-collected a few things and had Nednan escort me to Shau Sheu's house as
+collected a few things and had Rojyar escort me to Shau Sheu's house as
 usual. "Inform your mistress that I would have a few moments with her
 privately," I told her houseman. He bowed and took himself inside,
 returning a moment later to say that his honored mistress had been
@@ -2751,7 +2787,7 @@ This was my life!
 She finally relented. "I might know a man. Who might know someone who
 could do what you ask. I will inquire. Discreetly, of course."
 
-"Of course," I said sweetly. I told myself that I would have Nednan put
+"Of course," I said sweetly. I told myself that I would have Rojyar put
 a little extra in the purse the next time her bill came.
 
 I heard footsteps behind me. It was her housekeeper, coming to tell her
@@ -2777,7 +2813,7 @@ her own sleeve. "Now, shall we join the others?"
 
 Shau Sheu led me downstairs. I didn't see her pass the papers to her
 houseman as he bowed us into her front courtyard, but when I left an
-hour later, he passed them back to me while Nednan was wrestling with
+hour later, he passed them back to me while Rojyar was wrestling with
 the parasol. I tried very hard not to think about them as I walked
 briskly home. I had practiced that almost as much as I had made Sehdie
 practice her diction.
@@ -2814,7 +2850,7 @@ tumble for a bracelet or some silk ribbons. I had watched for signs, but
 had never managed to find any. As I poured Sehdie some lassi, I made a
 note to myself to pay even closer attention.
 
-Bluesday afternoon, four days after my visit, Nednan brought me the word
+Bluesday afternoon, four days after my visit, Rojyar brought me the word
 I had been waiting for. He tapped the wall outside my room gently.
 "Honored mistress?"
 
@@ -2823,7 +2859,7 @@ I had been waiting for. He tapped the wall outside my room gently.
 He cleared his throat. "Mistress Shau Sheu requests the pleasure of your
 company this evening, honored mistress. At moonrise."
 
-"Send word that she may expect me. Oh, and Nednan? Your master is away
+"Send word that she may expect me. Oh, and Rojyar? Your master is away
 this evening, is he not? With his turtling friends?"
 
 "I believe so, honored mistress. They are entertaining a fellow
@@ -2841,15 +2877,15 @@ there, of course, but I still felt it was important to look my best. One
 should for special occasions.
 
 My brother-by-marriage left for his readery an hour before sunset. I
-waited until dark, then had Nednan summon a guardsman to walk with us to
-Shau Sheu's. I was careful to instruct Nednan not to tip one bezel more
+waited until dark, then had Rojyar summon a guardsman to walk with us to
+Shau Sheu's. I was careful to instruct Rojyar not to tip one bezel more
 than normal. Nothing arouses suspicion among the common people more than
 generosity.
 
 The guardsman thumped Shau Sheu's door drum for us. Her houseman
 answered. "Will you be returning this evening?" the guardsman asked me.
 
-I nodded to Nednan. "Perhaps near the middle hour," he replied. "The
+I nodded to Rojyar. "Perhaps near the middle hour," he replied. "The
 honored mistress will send me for you." The guardsman nodded to him
 (though he should have nodded to me), waited for us to enter, and went
 upon his way.
@@ -4030,7 +4066,7 @@ wall.
 
 "Are you all right?" the first asked solicitously.
 
-‟Yes, I'b awrighd. Thags." I slid down the wall until I was sitting with
+"Yes, I'b awrighd. Thags." I slid down the wall until I was sitting with
 my legs straight out in front of me. I was getting blood on my shirt.
 Couldn't do that---it would stain. I did the three buttons at its collar
 and pulled it off over my head. A spatter of blood landed on my chest
@@ -6460,7 +6496,7 @@ discovers you... Go, please."
 
 "Palace Mount?"
 
-She pulled her robe even tighter around her shoulders. ‟There's a
+She pulled her robe even tighter around her shoulders. "There's a
 picnic. My aunt arranged it. I tried to make excuses, but she is set on
 it. But the day after---I might be able to get away then. I'll go to
 Cathé's after lessons. Look for me there."
@@ -8102,7 +8138,7 @@ as his master. What could it mean except that my time had finally come?
 And then it all fell to pieces. I woke up and Sehdie was gone. She was
 gone. She had left me. After all I had---
 
-"She must have gone through the window," Nednan said, pointing at the
+"She must have gone through the window," Rojyar said, pointing at the
 open shutters.
 
 "I can see that!" I snapped. I felt unsteady. Tiny little spots danced
@@ -8112,7 +8148,7 @@ our mother had given Awbé wasn't by her bed. For just one moment I felt
 a pang of hope. Perhaps she had been abducted. A robbery gone wrong,
 or---
 
-"There's a note," Nednan said. He knelt with a grunt and tugged it out
+"There's a note," Rojyar said. He knelt with a grunt and tugged it out
 from under my sandal. "It's addressed to the honored sir."
 
 "Give me that!" I snatched it from his hands and broke the dab of wax
@@ -8127,7 +8163,7 @@ she!? I had been waiting so *long*! With a cry, I picked up a candelilla
 at the top of the stairs and threw it into the courtyard. Its pot
 shattered, scattering dry brown soil. There were more on the stepped
 sidewall that followed the stairs down to the courtyard. *Crack!*
-*Crash!* Each one made a different sound. I heard Nednan behind me,
+*Crash!* Each one made a different sound. I heard Rojyar behind me,
 begging me to stop, please, honored mistress, but I ignored him. Idiot.
 Didn't he understand?
 
@@ -8143,7 +8179,7 @@ Strong hands took hold of me. "Honored mistress, please, stop. Stop,
 stop, please." I saw a flash of yellow headscarf as the housekeeper
 snuck a glance around the corner of the kitchen window.
 
-"Let go of me! Let go!" I shrieked, but Nednan wouldn't, not until I
+"Let go of me! Let go!" I shrieked, but Rojyar wouldn't, not until I
 stopped struggling. When he finally released me I spun around and
 slapped him across the face.
 
@@ -8167,7 +8203,7 @@ have her hands full, I thought. Then I giggled. I didn't have a
 housekeeper any more. That was funny.
 
 Someone thumped the drum by the front gate. I straightened my morning
-robe and hurried to the gate. It was Nednan, with three city guards
+robe and hurried to the gate. It was Rojyar, with three city guards
 wearing blue-and-black sashes. "Praise Chance," I said. I unlatched the
 gate. "Did he tell you? My niece, Sehdie. She---last night. Or this
 morning, early. She---I thought there might have been a burglary, but
@@ -8215,7 +8251,7 @@ Well, I wouldn't. After everything else that had happened that morning
 courtyard would have been just too much. I slammed the gate closed,
 threw the bolt, turned my back on them, and walked away.
 
-Of course, I forgot that Nednan still had his key, the traitor. Everyone
+Of course, I forgot that Rojyar still had his key, the traitor. Everyone
 betrays you in the end, you know, except the ones who can't wait that
 long. When the bolt snicked behind me I tried to run upstairs to my
 room, but they were too fast. One of the guardsmen took one arm, another
@@ -8223,8 +8259,8 @@ took the other. "Hush, hush, honored mistress, we won't hurt you. We
 just want to help." I felt so humiliated. How could it all have gone so
 wrong? There was only one person I could trust.
 
-Nednan had followed the guardsmen into the courtyard. I stopped
-struggling and smiled at him as brightly as I could. "Nednan. Nednan,
+Rojyar had followed the guardsmen into the courtyard. I stopped
+struggling and smiled at him as brightly as I could. "Rojyar. Rojyar,
 I'm---" Oh, it was so *hard* to say, but what else could I do? "I'm
 sorry. For hitting you. But never mind that now. I need you to go to
 Shau Sheu's. Go and fetch her immediately, do you understand? Tell her

@@ -1,4 +1,4 @@
-# Beneath Coriandel<br>Greg Wilson
+%# Beneath Coriandel<br>Greg Wilson
 
 ## Then: Ishad's Onions
 
@@ -1617,8 +1617,8 @@ heart would break. It seemed to me like he'd been climbing stairs
 without me ever since.
 
 I wiped my face with my sleeve. It didn't matter if he was a rat
-catcher, a duelist, or a dung shoveler, he was still my son.  I picked
-up my bag and set off for my next job.
+catcher, a duelist, or a dung shoveler.  He was still my son.  I
+picked up my bag and set off for my next job.
 
 ## Recently: Eleñima Disapproves of Her Niece
 
@@ -2004,126 +2004,140 @@ smiled.
 ## Now: Vurt's Oath
 
 I swallow hard and step through the Moonrise Door. It's a stupid thing
-to do, but I've done plenty of stupid things before. That fight in the
-market when I was thirteen, for example. I should have just told my
-father I didn't want to be a rat catcher and given my traps and gear to
-my brother and sister instead of picking a fight with two boys twice my
-size. Ishad set my nose, but it didn't heal straight. Kerrem says it
-looks dashing, but it's really just crooked.
+to do, but I've done stupid things before. That fight in the market
+when I was thirteen, for example. I should have just told my father
+that I didn't want to be a rat catcher.  I could have given my traps
+and gear to my brother and sister instead of picking a fight with two
+guys twice my size.  That's what Ishad said when he set my nose.  It
+didn't heal straight.  Kerrem says it looks dashing, but it's really
+just crooked.
 
-Falling in love with Sehdie was stupid too. It wasn't as if she was the
-only pretty girl who snuck into the *umram* to watch the fights. Most of
-them would have been thrilled out of their skirts to have a five-chain
-champion as a sweetheart. If I'd asked Kerrem, he would have said it was
-just like me to only want something I couldn't have, so I didn't ask.
+Falling in love with Sehdie was stupid too. It wasn't as if she was
+the only pretty girl who snuck into the *umram* to watch the fights.
+Most of them would have been thrilled out of their skirts to have a
+five-chain champion as a sweetheart, but I hardly even saw them after
+I saw her.  Kerrem says it's just like me to only want something I
+can't have, but Kerrem says a lot of things.
 
-But a blood 0ath to kill the bonescuttle? That's the salt-stupidest
-thing I have ever done. The oath is like an itch I can't reach or a name
-I can't quite remember. I haven't slept properly in days. Every meal
-sits in my stomach like a stone, and it's getting worse.
+Still, a blood oath to kill the bonescuttle? That's the salt-stupidest
+thing I've ever done. The oath is like an itch I can't reach or a name
+I can't quite remember. I haven't slept properly in days, every meal
+sits in my stomach like a stone, and it's getting worse.  Ishad says
+he's never seen one take hold so hard or so fast, and if *he's*
+worried, I should probably be dropping turds in my trousers.
 
-The steps lead down to a cavern larger than the one I just left. The
-wall is still glowing moon-blue behind me, but it's starting to fade,
-and the only other light is from the dayglass in my lantern. Kerrem
-would think it's poetic. Such is life, he'd say, a spark of light in the
-darkness. I don't know what my spear, my boots, or the knot in my gut
-would represent, but I'm sure he'd find a way to work them in.
+The steps lead down to a cavern larger than the one I just came
+through.  The wall is still moon-blue behind me, but the glow is
+starting to fade, and the only other light is from the dayglass in my
+lantern.  Kerrem would probably think it's poetic.  Such is life, he'd
+say, a spark of light in the darkness. I don't know what my spear, my
+boots, or the knot in my gut would represent, but I'm sure he'd find a
+way to work them in.  I wish he was here.
 
-The air grows colder as I make my way down to the cavern floor. The only
-sounds are my boots on the steps, the faint squeaking from my pack, and
-the steady drip from overhead. The floor is studded with damp, stony
-warts where those drips land. In the middle there's a still, dark pool.
-That will be my way out, if I live long enough to use it. I walk around
-it and head for the Bridge of Shame.
+The air gets colder as I trudge down the steps. The only sounds are my
+boots on the steps, the faint squeaking from my pack, and the steady
+drip from overhead.
 
-I've known all my life that there's another world beneath Coriandel, but
-I didn't really understand what that meant until I started looking at
-the maps that Kerrem borrowed or "borrowed" from his bookster friends.
-Most were chronicles of people who went under and survived, and they
-mostly agreed with Ishad's stories. On the far side of the cavern
-there's a gate that leads to the Bridge of Shame. Once I'm past that
-there's a stone garden with a well in its center. "Stick to the walls,"
-Kerrem told me, tracing the route with his finger. "A few nicks and
-scrapes won't kill you, but the things down that well surely will."
+The cavern floor is studded with damp, stony warts where those drips
+land.  There's a dark pool in the middle of it.  That will be my way
+out, if I live long enough to use it. I walk around it and head for
+the Bridge of Shame.
 
-Beyond the garden there's another gate, and then the undercity proper.
-If Fate loves me, I'll find the bonescuttle there. All I have to do is
-kill it, retrace my steps, and get past whatever is lurking in the pool
-these days, and I'll be free of my oath. And then---
+I've known all my life that there's another world beneath Coriandel,
+but I didn't really understand what that meant until I started looking
+at the maps that Kerrem borrowed or "borrowed" from his bookster
+friends.  Most were written by people who went under and survived, and
+most of them agreed with stories Ishad told. On the far side of the
+cavern there's a gate that leads to the Bridge of Shame. Once I'm past
+that there's a stone garden with a well in its center. "Stick to the
+walls," Kerrem told me, tracing the route with his finger. "A few
+nicks and scrapes won't kill you, but the things down the bottom of
+that well surely will.  If it even *has* a bottom," he added.  I
+punched him in the shoulder for that, but my heart wasn't in it.  He
+really was trying to help.
 
-I shake my head and try to ignore the faint, frightened squeaks coming
-from my pack. I have plenty to worry about before I get to "and then".
+Beyond the stone garden there's another gate, and then the undercity
+proper.  If the saints love me, I'll find the bonescuttle there. All I
+have to do is kill it, retrace my steps, get past whatever is in the
+pool these days, and I'll be free of my oath. And then---
 
-But my thoughts keep flying away from me like they do before a fight in
-the *umram*. Sehdie's father isn't a bad man. He just thinks his
-daughter can do better than a rat catcher's youngest son. And he's
-right. Half the young men in the Hundred Houses want to fall in love
-with her. They write poems and feel sorry for themselves without ever
-having spoken to her. She could have the best oudh player in the whole
-Karaband, or either under-captain of the Emir's Guard, or an idle posher
-like Tessor Pennetanda é Pue, who's going to inherit a mansion on
-Nobles' Hill some day that's only one room smaller than the royal
-palace. Sehdie's father wouldn't laugh at *him* if he said, "I wish to
-share a life with your daughter."
+I shake my head and tell the faint, frightened squeaks coming from my
+pack to shush. I have plenty to worry about before I get to "and
+then".
 
-But he laughed at me. "You?" We were in the public courtyard of his
-house. It was modest enough, considering how high he was in the emir's
-service. Dwarf lemon trees in pots stood in the corners. He did me the
-courtesy of standing when his housekeeper showed me in, but didn't offer
-me anything to drink. I introduced myself, Vurt Meshash é Onnemeno art'
-Ishad---Vurt of Meshash the mother, Onnemeno the father, apprenticed to
-Ishad but not indentured.
+But my thoughts keep flying away from me like they do before a match
+in the *umram*. Sehdie's father isn't a bad man. He just thinks his
+daughter can do a thousand times better than a rat catcher's youngest
+son, and he's right. Half the young fancies in the Hundred Houses want
+to fall in love with her. They write poems and feel sorry for
+themselves without ever having spoken to her. She could have the best
+oudh player in the whole of the Karaband, or either under-captain of
+the emir's guard, or an idle posher like Tessor Pennetanda é Pue who's
+going to inherit a mansion on Nobles' Hill some day that's only one
+room smaller than the royal palace. Sehdie's father wouldn't laugh at
+*him* if he said, "I wish to share a life with your daughter."
 
-"You and my daughter? Pfah!" He's taller than me, heavy-set, with just a
-fringe of wiry white hair above his ears. Looking at accounts for thirty
-years has given him a squint.
+But he laughed at me. "You?" We were in the front courtyard of his
+house. It was modest enough considering how high he was in the emir's
+service, with dwarf lemon trees in pots in the corners and a single
+stick of incense burning in the central garden in memory of Sehdie's
+mother. He did me the courtesy of standing when his housekeeper showed
+me in, but didn't offer me anything to drink. I introduced myself,
+Vurt Meshash é Onnemeno art' Ishad, Vurt of Meshash the mother,
+Onnemeno the father, apprenticed to Ishad but not indentured, and
+then---
+
+"You and my daughter? Pfah!" He's taller than me, heavy-set, with just
+a fringe of wiry white hair above his ears. Looking at accounts all
+his life has given him a squint.
 
 "I wish to share a life with your daughter," I repeated as calmly as I
 could. "And I have reason to believe, honored sir, that she wishes to
 share one with me."
 
 That got his attention. Sehdie told me once, laughing, that if a week
-went by without someone asking to marry her, her father would wonder if
-she was ill. A proposal had even arrived by proxy once from a carpet
-maker in Dry Weeping. She had never been to Coriandel, but had heard
-about Sehdie from a cousin.
+went by without someone proposing, her father would wonder if she was
+ill. An offer had even arrived by proxy once from a carpet maker in
+Dry Weeping. She had never even been to Coriandel, but had heard about
+Sehdie from a cousin.
 
-Proposing marriage with no hope of success was something young men were
-expected to do. But claiming that the offer was welcome was an entirely
-different sack of rats. Her father's eyes narrowed. "Reason? What
-reason?"
+Proposing marriage with no hope of success was something young men and
+women were expected to do. But claiming that the offer was welcome was
+an entirely different sack of rats. Her father's eyes narrowed.
+"Reason?  What reason?"
 
 My pulse raced, but I kept my voice steady. "I have spoken with your
-daughter, honored sir. About my feelings for her. And she has spoken to
-me about hers. I believe that---"
+daughter, honored sir. About my feelings for her. And she has spoken
+to me about hers. I believe that---"
 
 "Feelings? Pfah! My daughter doesn't have feelings. Or if she does,
-she's far too sensible to speak of them." He took a little bell from the
-table beside his reading stool and rang it sharply. "My man will show
-you out."
+she's far too sensible to speak of them." He took a little bell from
+the table beside his reading stool and rang it sharply. "My man will
+show you out."
 
-"But I am not done, honored sir." Calmly, I told myself. I unclenched my
-hands. Lose your temper, lose the fight. I couldn't count how many times
-Ishad had told me that. *Just breathe,* I thought. *Just this once, just
-breathe.*
+"But I am not done, honored sir." Calmly, I told myself. I unclenched
+my hands. Lose your temper, lose the fight, that's what Ishad always
+said.  Well, one of the things he always said.  *Just breathe,* I
+thought. *Just this once, just breathe.*
 
 Out of the corner of my eye I saw his houseman step into the courtyard
-from whatever discreet corner he'd been lurking in. Rojyar, that was his
-name. I was sure I could best him, despite the heavy baton in his hand,
-but then her father could have me called on for assault. Calmly,
+from whatever discreet corner he'd been lurking in. Rojyar, that was
+his name. I was sure I could best him, despite the heavy baton in his
+hand, but then her father could have me called on for assault. Calmly,
 calmly... "I have spoken with your daughter, and---"
 
-"That may be, but you will not do so again. Am I understood?" He laughed
-angrily. "You! What are you to her? Eh? And what kind of life would you
-share with her? What are you, boy, a bricklayer? A coffee seller? Will
-you have her stand in a stall in the market roasting coffee for whoever
-passes by? Or will she grind the beans, while you do the roasting?"
+"That may be, but you will not do so again. Am I understood?" He
+laughed angrily. "You! What are you to her? Eh? And what kind of life
+would you share with her? What are you, boy, a bricklayer? A coffee
+seller? Will you have her stand in a stall in the market roasting
+coffee for whoever passes by? Or will she grind the beans, while you
+do the roasting?"
 
-"He is a rat catcher." The voice came from above us, from a middle-aged
-woman in a severe black robe who was watching us from a balcony. Her jaw
-was a little too heavy for her to be called beautiful, but her vowels
-were perfect. It was Sehdie's aunt, the one who was never happy with
-anything.
+"He is a rat catcher." The voice came from above us, from a
+middle-aged woman in a severe black robe who was watching us from a
+balcony. Her jaw was a little too heavy for her to be called
+beautiful, but her vowels were perfect. It was Sehdie's aunt, the one
+who was never happy with anything.
 
 "A rat catcher?" Sehdie's father spluttered. "Traps and poisons and
 waiting around sewer mouths with a hammer in your hand to murder
@@ -2131,63 +2145,67 @@ whatever poor Gifted beast comes crawling out? What kind of life is
 that?"
 
 Lose your temper, lose the fight. I lost the fight. "Not much of one,
-honored sir, to be honest. But at least it would get her out of the cage
-you keep her in."
+honored sir, to be honest. But at least it would get her out of the
+cage you keep her in."
 
-"Cage? What cage?" He waved a hand to take in the elegant courtyard. "I
-have given her everything her mother would have wanted for her. What
-would you give her? I wager that rag is the best shirt you own, if not
-the only one. It would not buy her grapes for her breakfast, never mind
-the perfume she uses in a single bath."
+"Cage? What cage?" He waved a hand to take in the elegant courtyard.
+"I have given her everything her mother would have wanted for her.
+What would you give her? I wager that rag is the best shirt you own,
+if not the only one. It would not buy her grapes for her breakfast.
+Never mind the perfume she uses in a single bath," he added under his
+breath.
 
-"Love makes what paths it needs," I quoted. Kerrem would have been proud
-of me for that, though a little hurt to hear his favorite shirt spoke of
-that way.
+"Love makes what paths it needs," I quoted. Kerrem would have been
+proud of me for remembering that line, though a little hurt to hear
+his favorite shirt spoke of that way.
 
-"And what ‛paths' are these?" asked Sehdie's aunt from on high. "Will
-you bring her the jewels of the Sad Prince? Or turn magician and conjure
-up what you cannot afford to buy honestly? No, wait, a thought, a
-thought. This underbeast that lately does plague the city---will you
-slay it to win the emir's favor, like that braggart master of yours once
-did?"
+"And what paths are these?" asked Sehdie's aunt from on high. "Will
+you bring her the jewels of the Sad Prince? Or become a magician and
+conjure up what you cannot afford to buy honestly? No, wait, a
+thought, a thought. This underbeast that lately does plague the
+city---will you slay it to win the emir's favor, like that braggart
+master of yours once did?"
 
-"If needs be," I replied steadily, too angry to sound angry.
+"If needs be," I replied angrily, not thinking to wonder why someone
+like her would know who Ishad was.
 
-"Braggart," she said flatly. "You are all of a kind, braggarts and liars
-and debauchers and cheats. You could no more slay that beast than you
-could bring my poor niece's daughter back to us."
+"Braggart," she said flatly. "You are all of a kind, braggarts and
+liars and debauchers and cheats. You could no more slay that beast
+than you could bring my poor sister back to us."
 
 "No?" I drew my knife from my belt and cut across my left palm. "On my
-blood, I swear, I will slay this creature and see your daughter set free
-from this place."
+blood, I swear, I will slay the bonescuttle and see your daughter
+free."
 
-"What? No, no!" Sehdie's father pulled a white cotton handkerchief from
-his sleeve, hoping I think to stop the bleeding, but he was too late.
-One drop, two, a third---it was done. All of a sudden I tasted copper in
-my mouth. A chill stiffened my spine as a sudden urge to be elsewhere
-took hold of me. There was something I needed to do...
+"What? No, no!" Sehdie's father pulled a white cotton handkerchief
+from his sleeve, hoping I think to stop the bleeding, but he was too
+late.  One drop, two, a third---it was done. All of a sudden I tasted
+copper in my mouth. A chill stiffened my spine as a sudden urge to be
+elsewhere took hold of me. There was something I needed to do...
 
-I raised my hand and spread my fingers to show the wound already healed
-and scarred. The oath had taken. One in a thousand, once in a
-lifetime---everyone gave different odds, but everyone knew the sign.
+I raised my hand and spread my fingers, thinking, *Saints, what have I
+done now?* The wound had already healed and scarred. The oath had
+taken. One in a thousand, once in a lifetime---everyone gave different
+odds, but everyone knew the sign.
 
-Sehdie's aunt's gasped, then of all things she giggled before spinning
-around and disappearing into the room behind her.
+Sehdie's aunt's gasped, then giggled like a little girl.  Clapping her
+hands over her mouth to stifle herself, she spun around and
+disappeared into the room behind her.
 
 Sehdie's father glared at me. "How dare you?" he spat, tossing the
-handkerchief to the ground petulantly. "How dare you swear a blood oath
-in my house? I am a respectable man, and there are laws about such
-things! Do you hear me? There are---oh, to the Moon with you! Rojyar,
-summon my jurist. ‛I will slay this creature, and see your daughter set
-free from this place.' Those were his words, were they not? His exact
-words?"
+handkerchief to the ground petulantly. "How dare you swear a blood
+oath in my house? I am a respectable man, and there are laws about
+such things! Do you hear me? There are---oh, to the Moon with you!
+Rojyar, summon my jurist. 'I will slay this creature, and see your
+daughter free.' Those were his words, were they not? His exact words?"
 
 "Yes, honored sir," the houseman replied solemnly. "His exact words."
 
-I realized that I was still holding my knife. I pulled my own kerchief
-from my sleeve to wipe it and slipped it back into its sheath, then
-wiped the blood from my hand. The back of my head was itchy. "Honored
-sir," I said, bowing. "We will speak again."
+I realized that I was still holding my knife. I pulled the kerchief I
+had also borrowed from Kerrem out of my sleeve, wiped it, and slipped
+it back into its sheath, then wiped the blood from my hand. The back
+of my head was itchy. "Honored sir," I said, bowing. "We will speak
+again."
 
 He pursed his lips. "I doubt it," he replied. There was no pity in his
 eyes, no respect. I really was just a rat catcher's son to him, no
@@ -2196,92 +2214,98 @@ out.
 
 Ishad was furious. "At least you didn't swear to do it barehanded," he
 grunted, painting my brand-new scar with some foul-smelling grease the
-Darpani used on cows' udders so that it wouldn't bind. "Or blindfolded."
+Darpani used on cows' udders so that it wouldn't tighten as it
+finished healing. "Or blindfolded."
 
 "Cork it, old man," I said, then yelped as he dug his thumb into my
 palm. "Ow!"
 
-He glared at me, just as Sehdie's father had. I sometimes think there is
-a secret school where they train old men to look and sound like that.
+He glared at me, just as Sehdie's father had. I sometimes think there
+is a secret school that trains old men to look and sound like that.
 Their scowls, their grunts of disapproval---they're too much alike for
 it to just be chance.
 
 We were sitting in his rear courtyard. It was long and narrow, a
 brick-floored rectangle barely wide enough for our two stools and the
-side table where he kept his salves and polishes and a few foul-smelling
-concoctions that could serve as either. Rough wooden shelves took up
-half of one wall. Blunted weapons were stacked on them haphazardly, some
-probably half as old as the city itself. A dozen crosses on heavy
+side table where he kept his salves and polishes and a few
+foul-smelling concoctions that could serve as either. Rough wooden
+shelves took up half of one wall.  The blunted weapons stacked on them
+were probably half as old as the city itself. A dozen crosses on heavy
 pedestals stood against the other wall. Padded leather armor hung on
-each one, drying out after the day's lessons. I could smell them even
-above the reek of the Darpani grease. Ishad kept promising to tear out
-their quilted cotton linings and put in fresh ones, but never actually
-got around to it.
+each one to dry out after the day's lessons. I could smell them even
+above the reek of the Darpani grease. Ishad kept promising to replace
+their quilted cotton linings, but never got around to it.
 
 I smelled onions frying next door as well. My mother was starting
-dinner. "And at least you didn't swear you'd do it tonight," Ishad
-grumbled. "Think you can hold it off a few days? Might be able to find a
-magician desperate enough to try and break it for you. If not here, then
-there's this grass thrower I used to know up in Ossisswe..."
+dinner.  "And at least you didn't swear you'd do it tonight," Ishad
+grumbled. "Think you can sit on it for a few days? Might be able to
+find a magician desperate enough to try and break it for you. If not
+here, then there's this grass thrower I used to know up in
+Ossisswe..."
 
-I shook my head. "I don't think so." The itch, the feeling that I had to
-be up and doing something, something important, was growing worse by the
-hour. I kept fighting the urge to bang the back of my head against a
-wall to ease it.
+I shook my head. "I don't think so." The itch, the feeling that I had
+to be up and doing something, something important, was growing worse
+by the hour. I wanted to bang the back of my head against a wall to
+ease it.
 
-"Well, no, no, think on it a moment." Ishad raised a finger. "You said
-you would slay the creature, and see the girl free. Right? Not, ‛and see
-her set free'. So technically you have two tasks, not one. We can worry
-about the ‛free' bit later. Hells, maybe we can find a magician to bend
-the oath on that. I bet---"
+He sat back and frowned.  "You sure?  I've met folk that had blood
+oaths hanging over them.  From what they said and what else I heard,
+they had weeks or even more before it got so bad that they couldn't
+sit still."  His frown deepened.  "Never heard of one coming on as
+quickly as this."
 
-"Give it a rest, Ishad. I can't afford a magician good enough to fix
-this. And even if I could, what would I say to Sehdie? I can't---"
+"Give it a rest," I snapped.  "I can't afford a magician good enough
+to take this off me. And even if I could, what would I say to Sehdie?
+I can't---"
 
 "Damn Sehdie!" he exploded. The jar of salve jumped as he thumped the
 table. "And damn you for an idiot, swearing an idiot oath like that.
 This is your soul we're talking about here, lad, not just some painted
 froth of a girl."
 
-I stood. "Call her that again, and we will see whether you have anything
-left to teach me."
+I stood. "Call her that again, and we will see whether you have
+anything left to teach me."
 
 He glared back at me, then sighed and shook his head. "Idiot," he
-repeated wearily. "Go on, go home. Get some food in you. I'll think on
-this. Gaaah..."
+repeated wearily, at me or maybe at himself. "Go on, go home, get some
+food in you. I'll think on this. Gaaah..."
 
-I had to tell my mother. She would have heard soon enough anyway. A
-blood oath for love? The houseman might keep his mouth shut, but the
-rest of the staff had probably been watching too, which meant the tale
-would have gone halfway across Coriandel before I reached Ishad's.
+I got up reluctantly.  Getting food meant telling my mother, and I
+really didn't want to do that.  I had too, though---she would hear
+about it soon enough if I didn't, and I wanted to make sure she didn't
+get some version that had me off to fight the dragon. A blood oath for
+love? The houseman might keep his mouth shut, but the rest of the
+staff would have been watching too, which meant the tale was probably
+halfway to Ossisswe before I reached Ishad's.
 
-And of course I had to tell Kerrem why there was blood on his kerchief,
-which would normally be the same thing as hiring a troupe of balladeers.
-Sehdie's father would be the villain, of course, a cruel monster who
-kept his daughter locked away with the rest of his treasure. In fact, by
-all accounts he was a decent man, despite what he thought of people like
-me. He hadn't remarried after Sehdie's mother died, and had kept his
-wife's sister in his home long after he could have turned her out.
+I told Kerrem first.  I had to---he needed his shirt back, and I had
+to explain why there was blood on his kerchief.  His first thought was
+to turn it into a ballad.  Sehdie's father would be the villain, of
+course, a cruel monster who kept his daughter locked away with the
+rest of his treasure. In fact, by all accounts he was a decent man,
+despite what he thought of people like me. He hadn't remarried after
+Sehdie's mother died, and had kept his wife's sister in his home long
+after he could have turned her out.
 
 Sehdie's aunt was the real monster, at least according to Sehdie. She
-was as bitter as melon rind. She didn't think anything good had happened
-since the emir's aunt passed on the collar, and insisted Sehdie dress as
-though she was living back in her own younger days. She even made Sehdie
-take lessons in diction and deportment. "I swear she keeps a list
-somewhere," Sehdie told me. "Everyone in Coriandel is on it, and every
-time they forget to roll an ‛R', she puts a little tick beside their
-name."
+was as bitter as a banana peel. She didn't think anything good had
+happened since the emir's aunt passed on the collar, and insisted
+Sehdie dress in clothes that even I knew had long since gone out of
+style.  And she made Sehdie take lessons in diction and deportment. "I
+swear she keeps a list somewhere," Sehdie told me the first time we
+were alone together. "Everyone in Coriandel is on it, and every time
+they forget to roll an 'R', she puts a little tick beside their name."
 
-I left all of that out of the story when I told my mother what I'd done.
-She didn't cry---she wasn't the crying kind. But the look on her face...
-I'm the youngest, born years after my brother and my sisters. "Late for
-Luck," they say, but I had disappointed her so many times. Slipping out
-my window at night to watch Ishad teach city guardsmen how to fight
-dirty, when my sister had set herself to weaving traps for a few extra
-bezels from the day she was apprenticed. Getting into fights whenever
-someone made a joke about rat catchers, when my brother had been as
-peaceful as an old donkey. She didn't know why I was so restless, any
-more than I did. And now this.
+I left all of that out when I told my mother what I'd done.  She
+didn't cry---she wasn't the crying kind. But the look on her face...
+I'm the youngest, born years after my brother and my sisters. "Late
+for Luck," they say, but I had disappointed her so many times.
+Slipping out my window at night to watch Ishad teach city guardsmen
+how to fight dirty, when my sister had been weaving traps for a few
+extra bezels from the day she was apprenticed. Getting into fights
+whenever someone made a joke about rat catchers, when my brother was
+as peaceful as an old donkey. She didn't know why I was so restless,
+any more than I did. And now this.
 
 She shook her head. "I wish---" She stopped herself before saying it,
 just like she always did. *I wish your father was here.*
@@ -2292,75 +2316,80 @@ went over to my mother and put my arms around her.
 
 We ate in silence, black beans and fried onions on couscous with a bit
 of soft cheese and yesterday's peppers. I scraped the pots and dishes
-clean with a wet rag and a handful of sand, then rinsed them and went to
-bed.
+clean with a damp rag and a handful of sand, then rinsed them and went
+to bed.
 
 The cut on my hand was a faint smooth line by morning. I had secretly
-hoped that it would magically vanish overnight, then been ashamed of my
+hoped that it would somehow vanish overnight, then been ashamed of my
 cowardice. A few mouthfuls of cold couscous with a fried egg didn't
-improve my mood. Neither did a workout in Ishad's yard. Sword and spear,
-footwork exercises, fifty times up the rope that hung against his
-wall---it usually calmed me down, but not with that damn itch in the
-back of my head.
+improve my mood. Neither did a workout in Ishad's yard. Sword and
+spear, footwork exercises, fifty times up the rope that hung against
+his wall---it usually calmed me down, but it seemed that nothing could
+make the itch in the back of my head go away.
 
-A few of his paying students sparred with me after I was done pushing
-myself. I fenced with them furiously, one on one or one against two,
-while Ishad shouted himself hoarse. "Pick up your feet! Yes, those feet,
-the big flat ones at the ends of your legs! And follow through, damn it!
-No, no, from the same side, backhand, or he'll---gaaah."
+A few of his paying students sparred with me after I finished my
+warmup. I fenced with them furiously, one on one or one against two,
+while Ishad shouted himself hoarse. "Pick up your feet! Yes, those
+feet, the big flat ones at the ends of your legs! And follow through,
+damn it!  No, no, from the same side, backhand, or he'll---gaaah."
 
 Kerrem showed up as the last of them were sponging the sweat out of
-their armpits. "It's Fate," he said, trying to find a bright side as
-always. "Sehdie, the bonescuttle, your oath... It's Fate. It has to be."
+their armpits. "It's fate," he said, trying to find a bright side as
+always. "Sehdie, the bonescuttle, your oath... It's fate. It has to
+be."
 
-"Three cheers for Fate," I said sourly. I was doing slow drills, out,
-across, up, and back down, over and over again, watching the tip of my
-sword for the first sign of trembling.
+"Well then three cheers for fate," I said sourly. I was doing slow
+drills, out, across, up, and back down, over and over again, watching
+the tip of my sword for the first sign of trembling.
 
 "I'm serious." He stood, wincing as his knee cracked. "What if the whole
 point of Ishad's life was to make you ready for this? I mean, him
 killing a bonescuttle, you being born right next door, and now another
 bonescuttle---it can't be a coincidence."
 
-"You're right---it's not a coincidence. It's idiocy." Ishad was back. He
-had his breastplate on, and was sweating freely in the morning heat.
-"Now come on with you. Time's wasting." We would be able to practice for
-another hour at most before the sun drove us indoors to eat and rest.
+"You're right---it's not. It's idiocy." Ishad was back. He had his
+breastplate on, and was sweating freely in the morning heat.  "Let's
+see if we can seat a bit of it out of you."  We practiced for an hour
+before the sun drove us indoors to eat and rest.  That was when Ishad
+started teaching me all those stupid combinations.
 
-Time *was* wasting. I felt it with every breath. Kerrem said his whole
-family had argued it around and around when they got word. They all
-agreed: I had to see the oath through or my soul would wander unbound
-until some dark thing ate it or some kind-hearted magician laid it to
-rest.
+But he was right---time *was* wasting. I felt it with every breath.
+Kerrem said his whole family had argued it around and around when they
+got word, and had agreed that had to see the oath through or my soul
+would wander unbound until some dark thing ate it or some kind-hearted
+magician laid it to rest.
 
-But maybe Kerrem was right. Maybe Fate *had* brought the bonescuttle. It
-was a dangerous foe, shaped like a scorpion but armored like a tortoise,
-with claws as big as my two hands put together. Its barbed tail and the
-lower parts of its legs were fleshless, just pale bone overlaid with dry
-tendons.
+They're not short on imagination, Kerrem's family, but maybe this time
+they were right.  Maybe fate *had* brought the bonescuttle. It was a
+dangerous foe, shaped like a scorpion but armored like a tortoise,
+with claws as big as my two hands put together. Its barbed tail and
+the lower parts of its legs were fleshless, just dry tendon over naked
+bone.
 
-And it was smart---smart enough to drag its prey back to the Tombs
-instead of picking them apart where it caught them. The first few times
-goats disappeared, people assumed it was a thief or one of the Gifted.
-But then it took an orphaned beggar with a bent leg. She screamed, but
-the people who live near Tombs Hill aren't the sort to come out at night
-when they hear screaming.
+And it was smart---not Gifted smart, but smart enough to drag its prey
+back to the Tombs instead of picking them apart where it caught them.
+The first few times goats disappeared, people probably assumed it was
+ust an unlicensed thief or someone hungry enough to risk the wrath of
+the guild.
 
-It was just chance that a leather mender saw it dragging her body into
-an abandoned warehouse. He threw stones at it, but they just bounced
-off, and anyway, her body was already smoldering from the bonescuttle's
-poison. The city guards blocked up the crack in the warehouse floor, but
-the bonescuttle just found another way to the surface. Another goat, and
-then a caravaneer sleeping rough between rides, taken in his sleep three
-streets from where the beggar girl died.
+Then it took an orphaned beggar with a bent leg. She screamed, but the
+people who live near Tombs Hill aren't the sort to come out at night
+when they hear screaming.  It was just chance that a leather mender
+saw it dragging her body into an abandoned warehouse. He threw stones
+at it, but they just bounced off, and anyway, her body was already
+smoldering from the bonescuttle's poison.
 
-I shake my head to clear it. I can die like they did if I don't keep my
-wits about me. I've reached the tunnel that leads to the Bridge of
-Shame. Its floor is polished stone, unmarked by time or dripping water.
-You could drive two carts through it side by side, and my lantern's
-light seems even smaller than it had. I heft my spear and keep moving.
+The city guards blocked up the crack in the warehouse floor, but the
+bonescuttle just found another way to the surface. Another goat, and
+then a caravaneer sleeping rough between rides, taken in his sleep
+three streets from where the beggar girl died.
 
------
+I shake my head to clear it. I'll die like they did if I don't keep my
+wits about me.  I've reached the tunnel that leads to the Bridge of
+Shame.  Its floor is polished stone, unmarked by time or dripping
+water.  You could drive two carts through it side by side, and my
+lantern's light seems even smaller than it did in the cavern behind
+me. I heft my spear and keep moving.
 
 ## Now: Kerrem Brings Two Guardsmen a Drink
 

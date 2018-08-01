@@ -2395,108 +2395,116 @@ me. I heft my spear and keep moving.
 
 Some stories have to be dragged into the world. No, they're like...
 telling them is like building a house in a sandstorm. Like a breech
-birth. Like... like a simile that won't come right.
+birth. Like... saints, like a simile that won't come right.
 
 Other stories write themselves, and Vurt's is one of those. I felt it
 the first day I met him, and by the time we were old enough to shave I
-was sure of it. He was born for adventure. Think of it: he is the
-youngest son of a humble family, handsome when he isn't scowling, and he
-just happens to have a craggy old hero living next door to teach him
-swordplay. It's perfect.
+was sure of it. He was born for adventure: the youngest son of a
+humble family, handsome when he isn't scowling, and he just happens to
+have a craggy old hero living next door to teach him swordplay. It's
+perfect.
 
-I'm actually a bit disappointed that Ishad isn't going to go all the way
-into the Tombs with him, back to the scene of his own triumph. He could
-take a poisoned blow throwing himself between Vurt and the bonescuttle's
-sting, then reveal that he is Vurt's real father before expiring with
-one last rattling breath. It would be like something out of a Bantangui
-puppet play, or one of those Ruudian novels my next-to-oldest sister
-loves so much.
+I'm actually a bit disappointed that Ishad isn't going to go all the
+way into the Tombs with him, back to the scene of his own triumph. He
+could throw himself between Vurt and the bonescuttle's sting, then
+reveal that he is Vurt's real father before expiring in our young
+hero's arms.  The Ruudian novels that my next-to-oldest sister loves
+so much are full of scenes like that, and they're very popular.
 
-Not that I wish Ishad dead. He is good company, and the rogues who drop
-by his house to cadge a glass from him are full of stories. But if Vurt
-survives, and comes looking for me, well, my chances will be a lot
-better if Ishad isn't there to do his thinking for him...
+Not that I wish Ishad dead. He's good company, and the rogues who drop
+by his house to cadge a glass from him are full of quotable stories.
+And if Vurt comes looking for me after all of this is over, I'll
+probably want Ishad there to calm him down.
 
-My family are booksters. We are account keepers and writers of letters,
-oaths, and wills. I grew up in a house filled with paper and
+My family are booksters. We are account keepers and writers of oaths,
+letters, and wills. I grew up in a house filled with paper and
 disputation, one of six children and innumerable cousins in ordinary,
-cousins by marriage, and cousins by it being the simplest thing to call
-the daughter of your mother's sister's husband's brother who lives only
-a pot's throw away and is always underfoot. I slept at the foot of my
-oldest brother's bed until I was six, and counted myself lucky not to
-have to sleep under the stairs like a magician in a children's story.
+cousins by marriage, and cousins by it being the simplest thing to
+call the daughter of your mother's sister's husband's brother who
+lives a pot's throw away and is always underfoot. I slept at the foot
+of my oldest brother's bed until I was six, and counted myself lucky
+after that not to have to sleep under the stairs like an apprentice
+magician in a children's story.
 
 Vurt's home seemed as quiet as the desert by comparison. In my house,
 people never just talked. They declaimed, with one hand on their heart
-and the other uplifted in a dramatic pose taken from the frontspiece of
-some play or other. And they used words like "scoundrel" in everyday
-conversation. When Vurt's parents talked, on the other hand, they just
-talked, or at least they did when his father was still alive. Did you
-finish plugging that hole in the baker's storeroom wall? Did the coffee
-merchant come to see you about the poison we laid down last week? She
-thinks it must be stale---there are rat droppings all around it. How
-much longer do you think it will be until we can afford to repaint the
-rear courtyard?
+and the other uplifted in a dramatic pose taken from the frontspiece
+of some play or other. And they used words like "scoundrel" in
+everyday conversation. When Vurt's parents talked, on the other hand,
+they just talked, or at least they did when his father was still
+alive. Did you finish plugging the hole in the baker's storeroom wall?
+Did the coffee merchant come to see you about the poison we laid down
+last week? She thinks it must be stale---there are rat droppings all
+around it. How much longer do you think it will be until we can afford
+to repaint the rear courtyard?
 
-They were happy to let me sit there and soak up that beautiful silence.
-And they fed me, which aspiring poets are always grateful for. I helped
-Vurt learn numbering and the abracadabra, and got browned onions and
-raisins in return.
+They were happy to let me sit there and soak up that beautiful
+silence.  And they fed me, which aspiring poets are always grateful
+for. I helped Vurt learn numbering and the abracadabra, and got
+browned onions and raisins in return.  (My father wasn't a bad cook,
+but he couldn't read a recipe without wanting to try it out, and since
+we usually couldn't afford the actual ingredients, we ate a lot of
+unfortunate experiments at my house.  Brown onions and raisins were
+very comforting after pickled kangaroo sausages with stewed fennel.)
 
-We met at Ishad's. My father decided one day that I needed to learn a
-modicum of the physical arts. That was his phrase: "a modicum of the
-physical arts." There was an argument, of course. My mother quoted
-Cuyver, "A man's sum is fixed by the stars of his birth / It lies to him
-only to choose the disposing thereof," while my father cited
-Arramettemerruk, "Sense and spirit are as two horses harness'd together
-/ Match pace and pull, or the carriage goes astray."
+I met Vurt at Ishad's. My father decided one day that I needed to
+learn a modicum of the physical arts. That was his exact phrase: "a
+modicum of the physical arts." There was an argument, of course. My
+mother quoted Cuyver, "A man's sum is fixed by the stars of his birth
+/ It lies to him only to choose the disposing thereof," while my
+father cited Arramettemerruk, "Sense and spirit are as two horses
+harness'd together / Match pace and pull, or the carriage goes
+astray."
 
 My oldest-but-one sister, who is the only sensible one in the family
 (despite her taste in novels) eventually interrupted to point out that
 lessons in swordplay cost money, actual real money, which was not as
 easily found in our house as good grammar or split hairs. Unwilling to
-concede defeat because of something so mundane, my father put on his
-long coat and went to speak with the swordsmaster himself. He would
-write letters and review oaths, he said. No money needed change hands
-(which meant that his lack of it would conveniently not be an issue).
-They pressed their palms together, and it was done. I would henceforth
+concede defeat because of mere facts, my father put on his long coat
+and went to speak with the swordsmaster himself. He would write
+letters and review oaths, he said. No money needed change hands (which
+meant that his lack of it would conveniently not be an issue).  They
+pressed their palms together, and it was done. I would henceforth
 spend an hour every Redsday, Yellowsday, and Bluesday morning learning
-how to pummel my fellow human beings into submission.
+how to pummel my fellow human beings.
 
-And so I found myself the next day in Ishad's front courtyard with two
-wood- and-leather dummies, a rack of wicked-looking implements, and
-half-a-dozen boys who to my young eyes all appeared to be hardened
-criminals. I was not a gutterside brawler. I never boxed ears, bloodied
-noses, or held another boy's face in a horse trough until he raised
-three fingers in surrender. I was a *poet*, and very much out of place.
+And so I found myself the next day in Ishad's front courtyard looking
+sidelong at two wood-and-leather dummies, a rack of wicked-looking
+implements, and half-a-dozen boys who to my young eyes all appeared to
+be hardened criminals. I was not a gutterside brawler. I never boxed
+ears, bloodied noses, or held another boy's face in a horse trough
+until he raised three fingers in surrender. I was a *poet*, and very
+much out of place.
 
 Ishad stumped into the courtyard, wiping his shaved head with a scrap of
 towel. "*Heshidi*," he said curtly.
 
 "*He mashe sidi*," we replied in unison. I knew that much, at least. I
-looked sidelong at the boy to my right. He was a palm shorter than me,
-with his head shaved in imitation of his teacher's. I caught him
-glancing at me. We both looked away immediately, embarrassed in the way
-strangers are by eye contact.
+studied the boy to my right as surreptitiously as I could. He was a
+palm shorter than me, with his head shaved in imitation of his
+teacher's. I caught him glancing at me. We both looked away
+immediately, embarrassed in the way strangers are by eye contact.
 
-"Mountain Stream parries to start today," Ishad announced. "Teshwe, you
-pair with the new boy. Vurt, you're with Aaru."
+"Mountain Stream parries to start today," Ishad announced. "Teshwe,
+you pair with the new boy. Vurt, you're with Aaru."
 
-So, the boy next to me was Vurt. And Teshwe was the heavy one with a
-scar running through his eyebrow and two missing teeth. "*He sidi*," I
-said politely, the greeting of equals to equals.
+So, the boy next to me was Vurt. And Teshwe was the heavy one with two
+missing teeth that I didn't think had fallen out of their own
+accord. "*He sidi*," I said politely, the greeting of equals to
+equals.
 
-"*He*," he grunted rudely as he strode past me to the rack on the wall.
-He picked up a wooden staff with quilted cotton wrapped around its ends
-and a pair of leather gloves with small wooden plaques sewn onto their
-backs. I followed his lead, feeling foolish and afraid. I took the
-smallest pair of gloves I could find, but they still made me feel like a
-carnival clown in giant's clothes. They stank, too, of old sweat and
-softening oil. And the staffs were heavier than they looked. I learned
-later that their ends were weighted with three thumbs of iron.
+"*He*," he grunted rudely as he strode past me to the rack on the
+wall.  He picked up a wooden staff with quilted cotton wrapped around
+its ends and a pair of leather gloves with small wooden plaques sewn
+onto their backs. I followed his lead, feeling foolish and afraid. I
+took the smallest pair of gloves I could find, but they still made me
+feel like a carnival clown in giant's clothes. They stank, too, of old
+sweat and softening oil. And the staffs were heavier than they
+looked. I learned later that their ends were weighted with three
+thumbs of iron.
 
-We squared off, Teshwe with his back to our teacher, me with my heart in
-my throat. "*Nais*!" Ishad called sharply. Up came the staffs, mine
+We squared off, Teshwe with his back to our teacher, me with my heart
+in my throat. "*Nais*!" Ishad called sharply. Up came the staffs, mine
 last. "*Ehhhh... teh*!"
 
 Teshwe snapped his staff sideways. Mine flew from my hands to clatter on
@@ -2505,113 +2513,119 @@ it again. Remember, empty hands---"
 
 "Full grave!" the other boys said in unison. I picked up my staff, my
 cheeks burning, and raised it again. *Crack! Clatter...* Teshwe bared
-his teeth. Ishad glared at me. I picked up my staff and raised it again,
-holding it with all my strength.
+his teeth. Ishad glared at me. I picked up my staff and raised it
+again, holding it with all my strength.
 
 This time Teshwe put his weight behind his blow. *Crack! Clatter...*
-"Ow!" My staff bounced end-over-end and struck Vurt's leg. I blurted a
-quaking apology, afraid that the two of them would now beat me together
-and even more afraid that I would start crying.
+"Oy!" My staff bounced end-over-end and struck Vurt's leg. I blurted a
+quaking apology, afraid that the two of them would now beat me
+together and even more afraid that I would start crying.
 
 Vurt stepped back from his opponent with a small bow and picked up my
 staff. "Hm," he said, sighting along its length. "I think I see the
-problem. Here." He thrust his staff at me. I skipped back a step before
-I realized he was handing it to me.
+problem. Here." He thrust his staff at me. I skipped back a step
+before I realized he was handing it to me.
 
-I took it from him gingerly. He clucked his tongue at Teshwe and raised
-my staff slowly to guard. "*Teh*!" he said sharply.
+I took it from him gingerly. He clucked his tongue at Teshwe and
+raised my staff slowly to guard. "*Teh*!" he said sharply.
 
 Scowling, Teshwe glanced at Ishad for guidance. Our teacher shrugged.
 The other boys had all stopped to watch, half-raised staffs forgotten.
-Teshwe brought his up, paused for a heartbeat, then snapped it sideways
-with a grunt.
+Teshwe brought his up, paused for a heartbeat, then snapped it
+sideways with a grunt.
 
-*Crack! Clatter...* "You see?" Vurt said, stooping to pick up the staff
-he had very obviously just dropped. "It was slippery. It was no wonder
-you dropped it. Why don't you use mine with Aaru for a bit? It'll do my
-grip good to work with yours."
+*Crack! Clatter...* "You see?" Vurt said, stooping to pick up the
+staff he had very obviously just dropped. "It was slippery. It was no
+wonder you dropped it. Why don't you use mine with Aaru for a bit?
+It'll do my grip good to work with yours."
 
-Two weeks later, Teshwe was gone and Vurt and I were best friends. Ishad
-took all kinds in his courtyard, but none with a brand on their cheek,
-and Teshwe had been caught lifting a pair of candlesticks from a
-coralsmith's.
+Two weeks later, Teshwe was gone and Vurt and I were best friends.
+Ishad took all kinds in his courtyard, but none with a brand on their
+cheek, and Teshwe had been caught lifting a pair of candlesticks from
+a coralsmith's.
 
 I stopped going to lessons after a year, but not Vurt. He had a
 gift---anyone could see that. He paid for his lessons by helping Ishad
 with the younger students, the eight-year-olds for whom lessons were
-more an organized game than anything else. When he wasn't doing that, he
-fenced with boys two and three years his senior. He was as fierce as a
-hawk, and he hated losing---just hated it. "Up!" Ishad would bellow.
-"Up, up, get your blade up! No, not that high! You're not trying to give
-him a haircut, you oaf! And where are your feet? Stupid, stupid,
-stupid." Sometimes he forgot himself, and then we learned new words as
-well as new blocks and attacks. Ruudian, Gandani, Darpani, Bantangui...
-By the time I was thirteen, I could tell you to commit indecent crimes
-in all of them.
+more an organized game than anything else. When he wasn't doing that,
+he fenced with boys two and three years his senior. He was as fierce
+as an angry ferret, and he hated losing almost as much as he seemed to
+love being yelled at.
 
-And by thirteen, I knew what Fate had written for me. Vurt was going to
-be a hero, and I was going to be his poet. Just ask yourself, who would
-Arshad would be without Terremaktikak? How famous would Lady Kembe be
-without Juan di Perçalle's *Fourteen Nights on Glass*? Cuyver even
-argued that poets make heroes, a point which was not weakened by her
-retraction following Boru the Beheader's offer to demonstrate that
-heroes could unmake poets.
+"Up!" Ishad would bellow.  "Up, up, get your blade up! No, not that
+high! You're not trying to give him a haircut, you oaf! And where are
+your feet?  Stupid, stupid, stupid." Sometimes he forgot himself, and
+then we learned new words as well as new blocks and attacks. Ruudian,
+Gandani, Darpani, Bantangui...  By the time he was thirteen, Vurt
+could tell me how to commit indecent crimes in all of them.  I wrote
+them all down, of course, and if I hadn't left my notes where my
+mother could find them, I could probably have made a few bezels
+renting them to my friends.
+
+And by the time *I* was thirteen, I knew what I was meant to do. Vurt
+was going to be a hero, and I was going to be his poet. Just ask
+yourself, who would Arshad would be without Terremaktikak? How famous
+would Lady Kembe be without Juan di Perçalle's *Fourteen Nights on
+Glass*? Cuyver even argued that poets make heroes, though admittedly
+she retracted her statement following Boru the Beheader's offer to
+demonstrate that heroes could unmake poets.
 
 Vurt the Victorious. He scowled when I called him that after his first
-win in the *umram*. "Don't," he said shortly. "Luck might hear."
+win in the *umram*. "Don't," he said shortly.
 
-"So what? If Fate has already decided..."
+"Why not?  It's meant to be, I'm sure of it."
 
-He shook his head, trying to scowl but unable to stop his grin. He held
-up the chain he had just won and shook it so that the links jingled. It
-was the sort of thing you would hang a lamp from, but it meant that he
-had won three matches in a single day. They were all against boys his
-own age, none yet eighteen, but it was all I needed. I had the first
-twenty verses of *The Ballad of Vurt Victorious* composed before dinner.
-It scans better that way, Vurt Victorious rather than Vurt *the*
-Victorious. And it left me room in case Fate had decided on some other
-name after all. Even if he were, oh, I don't know, Vurt the Valorous, or
-Vurt the Very Brave, he could still be victorious.
+He shook his head, trying to scowl but unable to stop his grin. He
+held up the chain he had just won and shook it so that the links
+jingled. It was the sort of thing you would hang a lamp from, but it
+meant that he had won three matches in a single day. They were all
+against boys his own age, none yet eighteen, but it was all I needed.
+I had the first twenty verses of *The Ballad of Vurt Victorious*
+composed before dinner.  It scans better that way, Vurt Victorious
+rather than Vurt *the* Victorious. And it left me room in case fate
+had decided on some other name after all. Even if he were, oh, I don't
+know, Vurt the Valorous, or Vurt the Very Brave, he could still be
+victorious.
 
-Four years later, almost to the day, I am playing my part in a very
-different story than the one I imagined by walking up to a pair of
-guardsmen on Tombs Hill with two bottles in my hands. They are standing
-at the mouth to the undercity, wearing bored looks that say, "I know
-you're guilty, I just can't be bothered to figure out what you're guilty
-of." I am as frightened as I was that first day at Ishad's. What Vurt
-and Ishad and I are doing could get us all flensed, or put in chains and
-sold to the Bantangui. I wouldn't have agreed to any of it if I didn't
-feel so guilty about my own plans for the night.
+Four years later, I am playing my part in a very different story than
+the one I imagined.  The two guardsmen on Tombs Hill are wearing bored
+looks that say, "I know you're guilty, I just can't be bothered to
+figure out what you're guilty of." I am as frightened as I was that
+first day at Ishad's. What Vurt and Ishad and I are doing could get us
+flensed, or put in chains and sold to the Bantangui. I wouldn't have
+agreed to any of it if I didn't feel so guilty about my own plans for
+the night.
 
-The sun has just kissed the horizon. I take care not to step on the
-guardsmen's shadows, not wishing to give offense. "Good evening," I say,
-as brightly as I can. I shake the bottles gently to make them gurgle.
+The sun has just kissed the horizon. "Good evening," I say as brightly
+as I can, shaking the bottles in my hands gently to make them gurgle.
 "Dry work, isn't it?"
 
-The guard on my left turns his head and spits carefully onto the
-hard-packed earth. The one on my right looks at me disdainfully. "You
+The guard on my left looks at me disdainfully. The one on my right
+turns his head and spits carefully onto the hard-packed earth. "You
 don't think we're going to drink any of that, do you?"
 
-"What? This? Oh, no, no," I say, feigning shock. "Not on duty, of course
-not."
+"What? This? Oh, no, no," I say, feigning shock. "Not on duty, of
+course not."
 
 The guard who spat scratches his nose. "Thinks we're fools, Mirtan."
 
 The other one nods and draws his sword in one smooth motion. "Fools.
-Just out of curiosity, what's in it? Poppy and cinnamon? Widow's tears?"
+Just out of curiosity, what's in it? Poppy and cinnamon? Widow's
+tears?"
 
-"What? What do you mean?" I squeak. A poet's voice should never squeak.
-"It's just wine! I swear!"
+"What? What do you mean?" I squeak. A poet's voice should never
+squeak.  "It's just wine! I swear!"
 
-The guard on my left sighs. "Did you hear that, Mirtan? He swears. What
-is it about this uniform that makes every bright spark in the city think
-its wearers are idiots? Eh? Can you tell me that? Is it the helmet?"
+The guard on my left sighs. "Did you hear that, Mirtan? He swears.
+What is it about this uniform that makes every bright spark in the
+city think its wearers are idiots? Eh? Can you tell me that? Is it the
+helmet?"
 
 "I think it's the sash," Mirtan says. "Can't take a man in a sash
 seriously." He points the tip of his sword at me. "On your knees."
 
-"But---but I've done nothing wrong!" I gabble. The bottles gurgle again
-slightly as my arms shake. "I just---"
+"But---but I've done nothing wrong!" I gabble. The bottles gurgle
+again slightly as my arms shake. "I just---"
 
 "You just thought you could walk up here, a total stranger to us both,
 and we'd say oh, thank you, what nice wine that it, how kind of you to
@@ -2623,56 +2637,56 @@ did, as I'm trying very hard not to look at anything else. "Too many
 fairy tales, that's what I think it is. Guards are always stupid in
 fairy tales."
 
-"I find they're not so smart in life either," Ishad says quietly in his
-ear. He presses the flat of his knife against the guard's throat. "Now,
-if you would do me the kindness of sheathing your blade? Please?"
+"I find they're not so smart in life either," Ishad says quietly,
+pressing the flat of his knife against the guard's throat. "Now, if
+you would do me the kindness of sheathing your blade?  Please?"
 
 I don't see him tense, but his partner does. "Mirtan!" he snaps,
-ignoring Vurt's sword, the point of which is now uncomfortably close to
-his kidney. "Don't do it. You'll enjoy your pension a lot less if your
-widow's spending it on someone else."
+ignoring Vurt's sword, the point of which is now uncomfortably close
+to his kidney. "Don't do it. You'll enjoy your pension a lot less if
+your widow's spending it on someone else."
 
 Mirtan reverses his sword slowly and slides it back into its sheath.
 "Won't be much of a pension when the captain finds out we were taken
 this easily," he says sourly.
 
-Ishad nods sympathetically. "Sorry about that. Now, put yours hands back
-here, would you? Ah, where's that cord? Lad, do you have the---no, here
-it is. Arms crossed, please. No, no, at the wrists, don't be clever."
+Ishad nods sympathetically. "Sorry about that.  Now, put yours hands
+back here, would you? Ah, where's that cord? Lad, do you have
+the---right. Arms crossed, please. No, no, at the wrists, don't be
+clever."
 
 The guard does as he's told. Vurt ties the first guard's wrists
-together, then the second's, and then ties them together. Ishad glances
-at his work and grunts. "Good. Now, I'm sure you gentlemen will be more
-comfortable sitting. No, just here is fine. Thank you." Ishad steps
-back. "What do you think, lad?"
+together, then the second's, and then uses a third length of cord to
+loop them together.  Ishad glances at his work and grunts. "Good. Now,
+I'm sure you gentlemen will be more comfortable sitting. No, just here
+is fine. Thank you."  Ishad steps back. "What do you think?"
 
 "Let's just go." Vurt has taken the two halves of his spear from the
-sleeve in the side of his pack and screwed them together. He thumps its
-butt on the ground. "The moon will be up soon."
+sleeve in the side of his pack and screwed them together. He thumps
+its butt on the ground. "The moon will be up soon."
 
-"I suppose so." Ishad raises his palms to me. "Thanks, lad. Best be off.
-You'll not want to be here when they find their feet."
+"I suppose so." Ishad raises his palms to me. "Thanks, lad. Best be
+off.  You'll not want to be here when they find their feet."
 
 I nod. "Good hunting," I say to Vurt, and immediately wince. It's the
-kind of thing bad actors said in worse plays. I composed a few couplets
-this morning to speed him on his way, but now that we're here, I realize
-that poetry is best saved for afterward, when you know how things end.
-Not that Vurt and I will have an afterward after what I'm planning.
+kind of thing bad actors said in worse plays. I composed a few
+couplets this morning for exactly this moment, but now that we're
+here, I realize that poetry is best saved for afterward, when you know
+how things end.  Not that Vurt and I are going to have an afterward.
 
-"Thanks." Vurt hefts his spear impatiently. "Now come on, let's go." He
-and Ishad hurry down the steps without a backward glance.
+"Thanks." Vurt hefts his spear impatiently. "Now come on, let's go."
+He and Ishad hurry down the steps without a backward glance.
 
-The horizon has eaten half the sun. The first breath of evening caresses
-my cheek with a cool hand. The guards' shoulders twitch as they wrestle
-with their bonds. They're going to be free in a few minutes, and if I'm
-here when that happens, I won't be. "Here," I say, setting the wine
-bottles on the stones at my feet. "My oath on it, there really is
-nothing in them save what the vintner put there."
+The horizon has eaten half the sun. The first breath of evening
+caresses my cheek with a cool hand. The guards' shoulders twitch as
+they wrestle with their bonds. They're going to be free in a few
+minutes. "Here." I set the wine bottles on the stones at my feet. "My
+oath on it, there really is nothing in them except wine.  It's the
+best I could afford."
 
 The first one doesn't even look at me. The second one, Mirtan, clears
-his throat and spits on the bottles. Wordless, ashamed, and very
-frightened by what I'm about to do, I turn and hurry back toward the
-city.
+his throat and spits on the bottles. Ashamed and excited, I turn and
+hurry back into the city.
 
 -----
 

@@ -1653,9 +1653,9 @@ poetry to her. Not that I let them, of course---it would have gone to
 her head.
 
 They lined up for my sister in her day, and not just in threes. My
-dear Awbé---always the sweetest-smelling flower in the garden, but
-always (dare I say it?) just a *teensy* bit flirtatious. Not me,
-though.  I was the sensible one, my dear sister's shadow and
+cherished Awbé---always the sweetest-smelling flower in the garden,
+but always (dare I say it?) just a *teensy* bit flirtatious. Not me,
+though.  I was the sensible one, my cherished sister's shadow and
 conscience.  *I* was the one who kept track of all the stories her
 suitors told her so that I could reveal their mistruths and
 exaggerations to her.  Oh, they didn't like me for that, not one bit,
@@ -2688,46 +2688,57 @@ The first one doesn't even look at me. The second one, Mirtan, clears
 his throat and spits on the bottles. Ashamed and excited, I turn and
 hurry back into the city.
 
------
-
 ## Recently: Has Eleñima's Moment Arrived?
 
 I waited until the next day to tell Shau Sheu. It is one thing to to
 hope that your plans will bear fruit. It is quite another to hold that
-fruit in your hand and wonder if you dare to peel it.
+fruit in your hand and wonder if you dare peel it, and---I needed to
+be sure.  After so long, I needed to be sure.
 
-I also didn't want to give her other ladies cause to gossip. They would,
-horribly, given the slightest excuse. Going to see her twice in one day,
-well, it would be as bad as the time Hemmeté came rushing in with her
-over-shawl torn, and I certainly didn't want to be subjected to *that*.
+I also didn't want to provide her other ladies with any cause for
+gossip.  They would, horribly, and at the slightest provocation.
+Going to see her twice in one day, well, it would be as bad as the
+time Hemmeté rushed in with her over-shawl torn and her hair lopsided,
+and I certainly didn't want to subject myself to *that*.
 
-I waited until a little before my usual hour the next morning, then
-collected a few things and had Rojyar escort me to Shau Sheu's house as
-usual. "Inform your mistress that I would have a few moments with her
-privately," I told her houseman. He bowed and took himself inside,
-returning a moment later to say that his honored mistress had been
-expecting me. Expecting me? My insides fluttered. What did she know?
-*How* did she know?
+So I slept on it, though it would be more truthful to say that I
+tossed and turn on it.  I hadn't allowed myself to think about Ishad
+for, oh, for years.  That night it all came flooding back: the
+excitement, the confusion, the anger, and yes, the shame.  He had made
+a fool of me, or rather, I had made a fool of myself.  To see him like
+that, and to see my niece making eyes at his young protégé---I doubt I
+closed my eyes for more than a few moments all night.
 
-I followed the houseman up to the roof. Shau Sheu greeted me warmly, as
-she always did. We seated ourselves on chaises under tastefully-striped
+I didn't let the household staff see any of this, of course.  They
+gossip too, horribly, I'm sure of it.  Instead, I waited until
+precisely my usual hour the next morning, then collected a few things
+from my brother-by-marriage's office and had Rojyar escort me to Shau
+Sheu's house as if it were a perfectly normal day.  "Inform your
+mistress that I would have a few moments with her privately," I told
+her houseman. He bowed and took himself inside, returning a moment
+later to say that his honored mistress had been expecting
+me. Expecting me?  My insides fluttered.  What did she know?  *How*
+did she know?
+
+I followed the houseman up to the roof. Shau Sheu greeted me as warmly
+as ever and we seated ourselves on chaises under tastefully-striped
 awnings. Her housekeeper brought us coffee in tiny blue-and-white
-thimble cups on a beaten silver tray. I waited until she had removed
-herself before speaking. Then the words tumbled out of me as if I were a
-flighty teenager.
+thimbles on a beaten silver tray.
 
-"I saw him---them. In the *umram*. Yesterday. Sehdie and the boy, Vurt,
-and---and Ishad. Ishad was there. He's the boy's teacher."
+I waited until she had removed herself before speaking. Then the words
+tumbled out of me as if I were a flighty teenager.  "I saw him---them.
+In the *umram*. Yesterday. Sehdie and the boy, Vurt, and---and Ishad.
+Ishad was there. He's the boy's teacher."
 
 Shau Sheu's eyes widened. "Really? Are you sure?"
 
 I nodded. "After the fight. He didn't see me. Oh, cherished, do you
 think--- Is this---"
 
-"Hush, dear, hush." She stood and came over to put her hand on my
+"Hush, cherished, hush." She stood and came over to put her hand on my
 shoulder. I clutched it as if I were drowning, biting my other hand to
 hold back the tears I never let anyone see, not even her. I had been
-waiting *so long*, and now I was so afraid.
+waiting *so long*...
 
 "Hush, hush." Shau Sheu patted my shoulder gently. "Everything's going
 to be all right. Everything. This is a good sign, a wonderful sign. It
@@ -2738,42 +2749,45 @@ means we're getting closer."
 "Of course. Oh, Eleñima, cherished Eleñima, hush." She sat down beside
 me on the chaise and put her arm around my shoulder.
 
-"It's just... Nothing seemed to be happening. I was... I was starting to
-wonder if..."
+"It's just... Nothing seemed to be happening. I was... I was starting
+to wonder if..."
 
-"You were starting to wonder if anything ever would?" She gave me *that*
-look, indulgent and fond and slightly exasperated. I could *see* how
-much she cared for me, my best and only friend. "I told you when we
-started that it would take a long time. But you see? You did everything
-right. You brought her up just like you were, dressed her like you were
-dressed, made sure she sounded like you, and here we are." She shook me
-gently. "Here we are! You should be excited!"
+"You were starting to wonder if anything ever would?" She gave me
+*that* look, indulgent and fond and slightly exasperated. I could
+*see* how much she cared for me, my best and only friend. "I told you
+when we started that it would take a long time. But you see? You did
+everything right. You brought her up just like you were, dressed her
+like you were dressed, made sure she sounded like you, and here we
+are." She shook me gently. "Here we are! You should be excited!"
 
 I wiped my eyes. "I am. Oh, cherished, I am. I just..." I let out a
 shaky breath, which turned into something like a laugh. "I just wasn't
 expecting it to happen *now*."
 
-"Well, what do they say---Fate is what happens when you're making other
-plans?" She squeezed my shoulders once more---she was surprisingly
-strong, for such a tiny woman---then went back to her own chaise. "Now,
-tell me all about it."
+"Well, what do they say---Fate is what happens when you're making
+other plans?" She squeezed my shoulders once more---she was
+surprisingly strong for such a tiny woman---then went back to her own
+chaise. "Now, tell me everything."
 
-She sipped her coffee as I recounted everything I had seen the day
-before. Ishad was older, of course, and bald now, but he still looked as
-strong as a bull. And the boy looked so much like him. But of course he
-had too, didn't he? He was Sehdie's Ishad, her heartbreaker, the rogue
-who would ruin *her* life without a second thought.
+She sipped her coffee as I recounted what I had seen the day before.
+Ishad was older, of course, and bald now, but he still looked as
+strong as a bull. And the boy looked so much like him. But of course
+he had too, didn't he? He was Sehdie's Ishad, her heartbreaker, the
+rogue destined to ruin *her* life and then walk away without a second
+thought.
 
-We sat in silence for a few moments after I finished. A line of
-silver-bright clouds drifted past overhead, on their way to Ossisswe or
-somewhere even deeper in the desert. I had never been to Ossisswe---I
-had never been *anywhere*. But now... If the slow spell Shau Sheu and I
-had started all those years ago really was working, maybe I would
-finally get to travel. To love. To *everything*.
+We sat in silence after I finished. A line of silver-bright clouds
+drifted past overhead on their way to Ossisswe or somewhere even
+deeper in the desert. I had never been to Ossisswe---I had never gone
+*anywhere*. But now... If the special magic Shau Sheu had started
+working for me all those years ago really was blossoming, maybe I
+finally would travel. Maybe I would finally have adventures, and love,
+and---and *everything*.
 
 "Oomph." Shau Sheu bent in her chair to touch her toes, then
-straightened up and picked up her empty coffee thimble. "So what do you
-think we should do next?"
+straightened up and picked up her empty coffee thimble. "So what do
+you think we should do next?" she asked, rolling it between her
+fingers.
 
 My insides fluttered again. "Don't you know?"
 
@@ -2781,42 +2795,47 @@ She brushed the coffee thimble back and forth across her cheek. "Oh, I
 have some ideas, but the most important thing now is what *you* think
 should happen. Here, close your eyes for a moment. Now breathe slowly.
 Remember your exercises. Slowly, calmly... That's right. That's right.
-Calmly... Listen to my voice. There is nothing but my voice. Now, bring
-Sehdie into your mind. You can see her face---she looks just like you
-did. You can hear her speak---she sounds just like you did. You are
-practically the same person. You will *become* the same person. Can you
-imagine it?"
+Calmly... Listen to my voice. There is nothing but my voice. Now,
+bring Sehdie into your mind. You can see her face---she looks just
+like you did. You can hear her speak---she sounds just like you
+did. You are practically the same person. You will *become* the same
+person. Can you imagine it?"
 
 I could. Of course I could. I had been practicing for years. It was my
 part of the illicit Bantangui magic that Shau Sheu had taught me years
-ago, the secret she had fled to Coriandel to keep safe.
+ago, the secret art she had fled to Coriandel to keep safe and had
+only ever shared with me.  A chance to life my live over, to choose a
+different path, just as Shau Sheu had done.
 
 "Good. Now, think about Ishad. Think about the first moment you saw him.
 What do you remember?"
 
 "The picnic," I said dreamily. *Where he raised my hopes just to dash
-them,* I didn't add. Awbé had told me that the man she was seeing had a
-friend, a rogue who was famous that season for having ventured into the
-undercity and slain a---
+them,* I didn't add. Awbé had told me that the man she was seeing had
+a friend, a rogue who was famous that season for having ventured into
+the undercity and slain a---
 
-My eyes snapped open. My hand flew to my mouth. "What is it?" Shau Sheu
-asked.
+My eyes snapped open. My hand flew to my mouth. "What is it?" Shau
+Sheu asked.
 
-"That's it!" I said. "That's the final step. Ishad's boy has to go into
-the Tombs just like he did."
+"That's it!" I said. "That's the final step. Ishad's boy has to go
+into the Tombs just like he did."
 
-"Really? Are you sure?"
+"Really?" she said, just a hint of doubt in her voice.  "Are you
+sure?"
 
-"Yes!" Shau Sheu was wonderful, but sometimes she wasn't quite as quick
-as she could have been. "Yes, I'm sure. That's what he has to do.
-Except---except he must fail where Ishad succeeded."
+"Yes!" Shau Sheu was wonderful, but sometimes it fell to me to see the
+connections between things and the best way forward. "Yes, I'm sure.
+That's what he has to do.  Except---except he must fail where Ishad
+succeeded."
 
-The moment I said it, I knew it was the truth. I was as sure of it as I
-was of my own name. Where Ishad had succeeded, his prize student had to
-fail. That was what the spell needed.
+Even as I said it, I *knew* it was the truth.  Where Ishad had
+succeeded, his prize student had to fail. That was what we needed to
+complete the spell.
 
-"Mm." Shau Sheu nodded slowly. "I see. But you know, underbeasts don't
-come up to the surface very often. It could be a long wait."
+"Mm." Shau Sheu nodded slowly. "I see. But you know, cherished,
+underbeasts don't come up to the surface very often. It could be a
+long wait."
 
 "Then we will have one summoned," I said firmly. "Oh, cherished Sheu,
 surely you can...?"
@@ -2825,13 +2844,14 @@ Shau Sheu shook her head. "No, no, not me."
 
 "But you must!" I argued, I pleaded, I demanded, more insistent with
 every refusal. I knew it was ill-mannered, but this was *important*.
-This was my life!
 
-She finally relented. "I might know a man. Who might know someone who
-could do what you ask. I will inquire. Discreetly, of course."
+She finally relented.  Most people do if you are firm.  "I might know
+a man.  Who might know someone who could do what you ask. I will
+inquire.  Discreetly, of course."
 
-"Of course," I said sweetly. I told myself that I would have Rojyar put
-a little extra in the purse the next time her bill came.
+"Of course," I said, sweet where I had been stormy. I told myself that
+I would have Rojyar put a little extra in the purse the next time her
+bill came.
 
 I heard footsteps behind me. It was her housekeeper, coming to tell her
 that her other ladies had arrived. "I will be down in a moment," she
@@ -2846,26 +2866,27 @@ well. We must tread very carefully. You must not let anyone suspect."
 "I won't," I promised. I started to withdraw my hand, but Shau Sheu
 squeezed it.
 
-"Oh. Oh, yes, of course," I said, flustered. I slipped the papers I had
-taken from my brother-by-marriage's desk out of my sleeve and handed
-them to her. "Are these the ones you wanted?"
+"Oh. Oh, yes, of course," I said, flustered. I slipped the papers I
+had taken from my brother-by-marriage's desk out of my sleeve and
+handed them to her. "Are these the ones you wanted?"
 
-Shau Sheu scanned them quickly. "Yes. Yes, these are exactly the ones.
-Thank you. Thank you so much." The letters and invoices disappeared into
-her own sleeve. "Now, shall we join the others?"
+She scanned them quickly. "Yes. Yes, these are exactly the ones.
+Thank you. Thank you so much." The letters and invoices disappeared
+into her own sleeve. "Now, shall we join the others?"
 
 Shau Sheu led me downstairs. I didn't see her pass the papers to her
 houseman as he bowed us into her front courtyard, but when I left an
-hour later, he passed them back to me while Rojyar was wrestling with
+hour later, he slipped them back to me while Rojyar was wrestling with
 the parasol. I tried very hard not to think about them as I walked
-briskly home. I had practiced that almost as much as I had made Sehdie
-practice her diction.
+briskly home. I had practiced *that* almost as much as I had practiced
+not thinking about Ishad.
 
 I waited patiently for Shau Sheu to send word. Two days passed, then a
-third. I busied myself overseeing the cook, correcting Sehdie's posture,
-and chasing after the housekeeper to tell her yes, even the corners of
-the upstairs steps need to be swept. Honestly, a whole family of
-skiddlers could have hidden in the dust she left behind.
+third. I busied myself overseeing the cook, correcting Sehdie's
+diction and posture, and chasing after the housekeeper to tell her
+yes, even the corners of the upstairs steps need to be swept.
+Honestly, a whole family of skiddlers could have hidden in the dust
+that woman left behind.
 
 "Would you please stop fussing!" my brother-by-marriage barked at me
 that evening. "You're driving me mad with your to and fro." We were at
@@ -2874,33 +2895,34 @@ back to the kitchen to be grilled on *both* sides.
 
 I sniffed. "You are far too lax on that woman," I said.
 
-The cook's son would normally have helped with the evening meal, but his
-wife had given birth a few days previously, and he had still not
-returned. Still, that hardly excused his mother being slipshod.
-
-"I'm sure she's doing the best she can with only one pair of hands," my
-brother-by-marriage said.
+"I'm sure she's doing the best she can with only one pair of hands,"
+my brother-by-marriage said.  The cook's son would normally have
+helped with the evening meal, but his wife had given birth a few days
+previously, and he had still not returned. Still, that hardly excused
+his mother being slipshod.
 
 I sniffed again. "Is that what you would say if one of your clerks
 miscounted a few sequins?"
 
-"Pfah!" He helped himself to some more dates and chewed moodily. Not for
-the first time, I wondered whether there was anything between him and
-the cook. She was as common as dung, and even in her prime she wouldn't
-have been one grain the beauty my sister was. Still, he was a man, and
-one of no little means, and her sort wouldn't think twice about a little
-tumble for a bracelet or some silk ribbons. I had watched for signs, but
-had never managed to find any. As I poured Sehdie some lassi, I made a
-note to myself to pay even closer attention.
+"Pfah!" He helped himself to some more dates and chewed moodily. Not
+for the first time, I wondered whether there was anything between him
+and the cook. She was as common as dung, and even in her prime she
+wouldn't have been one grain the beauty my sister was. Still, he was a
+man, and one of no little means, and her sort wouldn't think twice
+about a little tumble for a bracelet or some silk ribbons, and I
+doubted he would have enough character to say no to fruit that fell in
+his lap I had watched for signs, but had never managed to find any. As
+I poured Sehdie some lassi, I made a note to myself to pay even closer
+attention.
 
-Bluesday afternoon, four days after my visit, Rojyar brought me the word
-I had been waiting for. He tapped the wall outside my room gently.
-"Honored mistress?"
+Bluesday afternoon, four days after my visit, Rojyar brought me the
+word I had been waiting for. He tapped the wall outside my room
+gently.  "Honored mistress?"
 
 "Yes?" I said through the door curtain.
 
-He cleared his throat. "Mistress Shau Sheu requests the pleasure of your
-company this evening, honored mistress. At moonrise."
+He cleared his throat. "Mistress Shau Sheu requests the pleasure of
+your company this evening, honored mistress. At moonrise."
 
 "Send word that she may expect me. Oh, and Rojyar? Your master is away
 this evening, is he not? With his turtling friends?"
@@ -2908,25 +2930,26 @@ this evening, is he not? With his turtling friends?"
 "I believe so, honored mistress. They are entertaining a fellow
 aficionado from Ossisswe this evening. The master intends to read a
 letter from a correspondent in Mau Tinnemanthan on breeding
-blue-quartered hoan kiem in captivity."
+blue-quartered *hoan kem* in captivity."
 
-"Yes, quite. Well, I'm sure we need not trouble him with my comings and
-goings."
+"Yes, quite. Well, I'm sure we need not trouble him with my comings
+and goings."
 
 "Honored mistress." I heard rather than saw him bow.
 
-I hummed a little song as I made ready. No one of society would be
-there, of course, but I still felt it was important to look my best. One
-should for special occasions.
+I hummed a little song as I made ready. No one of quality would be
+there, of course, but I still felt it was important to look my
+best. One should for special occasions.
 
-My brother-by-marriage left for his readery an hour before sunset. I
-waited until dark, then had Rojyar summon a guardsman to walk with us to
-Shau Sheu's. I was careful to instruct Rojyar not to tip one bezel more
-than normal. Nothing arouses suspicion among the common people more than
-generosity.
+My brother-by-marriage left to attend his ridiculous little gathering
+an hour before sunset. I waited until dark, then had Rojyar summon a
+guardsman to walk with us to Shau Sheu's. I was careful to instruct
+Rojyar not to tip one bezel more than normal.  Nothing arouses
+suspicion among the common people more than generosity.
 
 The guardsman thumped Shau Sheu's door drum for us. Her houseman
-answered. "Will you be returning this evening?" the guardsman asked me.
+answered. "Will you be returning this evening?" the guardsman asked
+me.
 
 I nodded to Rojyar. "Perhaps near the middle hour," he replied. "The
 honored mistress will send me for you." The guardsman nodded to him
@@ -2935,44 +2958,46 @@ upon his way.
 
 Shau Sheu's houseman led me across her front courtyard to the rear of
 her house. I had been visiting her salon for fifteen years, but had
-never been into its private portions. I was curious to see how sparsely
-decorated it was. I don't think it was because she lacked the means to
-do more, although I had sometimes suspected her situation was more
-straitened than she let on. A small portrait of a group of people I
-didn't recognize, a landscape of the Sea of Glass at dawn, a Bantangui
-festival mask, a broken sword... I might have paused a moment to study
-them, but then I saw who was waiting for me and very nearly turned
-around and left.
+never been into its private portions before. I was curious to see how
+sparsely decorated it was. I don't think it was because she lacked the
+means to do more, although I had sometimes suspected her situation was
+more straitened than she let on. A small portrait of a group of people
+I didn't recognize, a village seascape at dawn, a Bantangui festival
+mask, a broken sword... I might have paused a moment to study them,
+but then I saw who was waiting for me and very nearly turned around
+and left.
 
 "Cherished Shau!" I said, shocked. "Is this some kind of joke? Because
 if it is, it's in very poor taste."
 
-"Eleñima, dear, I would never make a joke about something like this."
-She bowed her head and spread her arms, palms up. "May I give you the
-name of this one's name, which is called Saddle Stone Gasping."
+"Eleñima, cherished, I would never make a joke about something like
+this."  She bowed her head and spread her arms, palms up. "May I give
+you the name of this one's name, which is called Saddle Stone
+Gasping."
 
 The little Darpani madman bobbed his head in a grotesque imitation of
-her grace, grinning. He was missing his front teeth, whether as the
-price of a spell or from falling drunk off a horse. "This needs a
-magician," I said tightly. "Not some--- some---"
+proper deference, grinning. He was missing his front teeth, whether as
+the price of a spell or from falling drunk off a horse I'm sure I
+couldn't say. "This needs a magician," I said tightly. "Not some---
+some---"
 
 "This one will do what you want done," he interrupted in surprisingly
 coherent Coriandi. "But we begin. The moon scratches at the horizon."
 
 There was nothing for it. I would have to trust my fortune to
-this---this *person*. Shau Sheu obviously thought he was competent, but
-still... The first thing Darpani magicians trade for power is their
-sanity. I read that in a novel when I was a girl, and I'm sure the
-author wouldn't have written it if it weren't true.
+this---this *person*. Shau Sheu obviously thought he was competent,
+but still... The first thing Darpani magicians trade for power is
+their sanity. I read that in a novel when I was a girl, and I'm sure
+the author wouldn't have written it if it weren't true.
 
-The Darpani held out his hand. For a moment I thought he expected me to
-pay him---as if I would ever actually hand someone like him money
-myself---but then Shau Sheu said, "Give him the things, Eleñima."
+The Darpani held out his hand. For a moment I thought he expected me
+to pay him, as if I would ever actually hand someone money myself, but
+then Shau Sheu said, "Give him the things, Eleñima."
 
-I took the leather wrist guard I had found in Sehdie's jewelry box from
-my sleeve and passed it to him. It was black, stitched with dark blue
-thread, and slightly stiff with dried sweat and despairing saints knew
-what else. I was sure it belonged to the boy.
+I took the leather wrist guard I had found in Sehdie's jewelry box
+from my sleeve and passed it to him. It was black, stitched with dark
+blue thread, and slightly stiff with dried sweat and despairing saints
+knew what else. I was sure it belonged to the boy.
 
 The Darpani sniffed it as if to see whether it was fit to eat. Then he
 grinned again, the teeth he still had surprisingly white against his
@@ -2980,46 +3005,46 @@ worn brown face. "It satisfies," he pronounced. "And so, to begin."
 
 Four tiny braziers stood in a diamond on the floor to mark the four
 corners of the world, one silver, one glass, one bone, and one of dark
-mahogany. The Darpani lit each one in turn, muttering under his breath,
-then drew a handful of straw---yes, common straw---from the pouch at his
-belt and tossed it into the air.
+mahogany. The Darpani lit each one in turn, muttering under his
+breath, then drew a handful of common straw from the pouch at his belt
+and tossed it into the air.
 
-He studied the blades intently as they fluttered to the floor. "Bah." He
-threw another handful, then a third, studying each in turn. It looked no
-different to me than the others, but it seemed to satisfy him. He
-stepped into the center of the diamond and sat, his feet crossed beneath
-him. Closing his eyes, he began to chant a breathy phrase over and over
-again, fingering the wrist guard as he did so.
+He studied the blades intently as they fluttered to the floor. "Bah."
+He threw another handful, then a third, studying each in turn. It
+looked no different to me than the others, but it seemed to satisfy
+him. He stepped into the center of the diamond and sat, his feet
+crossed beneath him. Closing his eyes, he began to chant a breathy
+phrase over and over again, fingering the wrist guard as he did so.
 
-Suddenly he stopped and cocked his head to one side. "Heh? Neh. Neh neh
-neh." He shook his head and waved whatever he was arguing with away
-before resuming his chant.
+Suddenly he stopped and cocked his head to one side. "Heh? Neh. Neh
+neh neh." He shook his head and waved whatever he was arguing with
+away before resuming his chant.
 
 On and on he went, bargaining with the other world. After a time I
 leaned my head close to Shau Sheu's to ask whether one night was going
-to be enough, but she brought her finger up to her lips to shush me. She
-seemed fascinated by what he was doing. I must admit, it was very
-different from any magic I had ever seen before. No jurists poring over
-the wording of oaths, no careful calculation of trades and balances,
-just an old man bartering some fraction of himself away in exchange for
-a favor from the infinite.
+to be enough, but she brought her finger up to her lips to shush
+me. She seemed fascinated by his antics. I must admit, it was very
+different from any magic I had ever seen before. No jurists poring
+over the wording of oaths, no careful calculation of trades and
+balances, just an old man bartering some fraction of himself away in
+exchange for a favor from the infinite.
 
-It was an hour at least before he struck a bargain that pleased him. He
-touched his palms to his forehead to seal it, then stood with a popping
-of knees and dropped the wrist guard into the brazier in front of him.
+It took him several long minutes to strike a bargain that pleased him.
+He touched his palms to his forehead to seal it, then stood with a
+popping of knees and handed the wrist guard back to me.
 
-"To be done," he whispered. Shau Sheu told me later that was his spell's
-price---he would never again be able to raise his voice. It seemed a
-small loss to me. "It calls the *iyemnelili* from underneath."
+"To be done," he whispered. Shau Sheu told me later that was his
+spell's price---he would never again be able to raise his voice. It
+seemed a small loss to me. "It calls the *iyemnelili* from
+underneath."
 
-Shau Sheu folded her arms across her chest, each hand touching the
-opposite shoulder. "To thank the one who has done this."
+Shau Sheu bowed to him. "To thank the one who has done this."
 
-The Darpani grinned. "To be grateful for thanks, but more grateful still
-for payment." Shau Sheu smiled back and handed him a string of silver
-bezels. He counted them with his fingertip before slipping them into a
-fold of his belt, then bobbed his head at me and showed himself out,
-whistling contentedly.
+The Darpani grinned. "To be grateful for thanks, but more grateful
+still for payment." Shau Sheu smiled back and handed him a string of
+silver bezels. He counted them with his fingertip before slipping them
+into a fold of his belt, then bobbed his head at me and showed himself
+out, whistling contentedly.
 
 Shau Sheu doused the braziers one by one. "Well," she said tiredly. "I
 hope you're satisfied."

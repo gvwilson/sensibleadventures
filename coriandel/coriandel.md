@@ -3052,124 +3052,147 @@ hope you're satisfied."
 "No, not yet." I smiled. It was late, and I still had to walk home. "But
 I expect I shall be soon."
 
------
+## Recently: Shau Sheu Contemplates Murder
 
-## Recently: Shau Sheu Frets
-
-That stupid woman. That vain, self-righteous, altogether horrible woman.
-My masters in the Fleet of Ghosts taught me how to deal with lechers
-(tantalize and then distract them), patriots (convince them that someone
-else is the real traitor), and outright idiots (give them pretty toys).
-There was never a word about the sheer mind-destroying tedium of
-listening to a middle-aged woman prattle on, week after week for years,
-about the sorry state of the world and what she wouldn't give to be
-fifteen again. Every time I sat through another lecture on the decay of
-the world, I swore that if I was ever allowed to leave that dry, dusty
-village and return to the sea, I would prepare a tutorial on the
-subject. "Equanimity in the Face of Tedium", by An Agent.
+That stupid woman. That vain, self-righteous, altogether horrible
+woman.  My masters in the Fleet of Ghosts taught me how to deal with
+lechers (tantalize and then distract them), patriots (convince them
+that someone else is the real traitor), and outright idiots (give them
+pretty toys).  There was never a word about the sheer mind-destroying
+tedium of listening to a middle-aged woman prattle on, week after week
+for years, about the sorry state of the world and what she wouldn't
+give to be seventeen again.  Every time I sat through another lecture
+on the decay of the world, I swore that if I was ever allowed to leave
+that dry, dusty village they called "the jewel of the Karaband" and
+return to the sea, I would prepare a tutorial on the subject.
+"Equanimity in the Face of Tedium", by An Agent.
 
 The Fleet would never use it, of course. Poison, disguise, black
-magic--- those are exciting. Those are reasons to become a spy. Boredom?
-How many young Bantangui would join the Fleet of Ghosts for the promise
-of boredom?
+magic---those are exciting. Those are reasons to become a spy.
+Boredom?  How many young Bantangui would join the Fleet of Ghosts for
+the promise of boredom?
 
 I cannot remember who first introduced Eleñima to my salon, though it
 will be recorded in code somewhere among my poetry and recipes. She
-doubtless thought herself composed, but her too-quick smile and darting
-eyes gave her away.
+doubtless thought herself composed, but her too-quick smile and
+darting eyes betrayed her nervousness.
 
 My housekeeper Oë made the usual inquiries in the vegetable market the
-next morning. "She is the sister-by-marriage of a junior functionary in
-the emir's court," she reported while pouring my morning tea. "He was
-recently widowed, leaving a daughter."
+next morning. "She is the sister-by-marriage of a junior functionary
+in the emir's court," she reported while pouring my morning tea. "He
+was recently widowed, leaving a daughter."
 
 I arched an eyebrow. "Was it the woman's work, to have her sister's
 husband? Or the man's, to have the sister?"
 
-Oë shook her head as she poured my morning coffee. "That is doubted. She
-is as sour as her sister was sweet."
+Oë shook her head as she poured my morning coffee. "That is doubted.
+The houseman I spoke with finds her as sour as her sister was sweet."
 
-"Hm." I raised my thimble to my lips. "Perhaps. Her brother-by-marriage.
-He does what?"
+"Hm." I raised my thimble to my lips. "Her brother-by-marriage.  He
+does what?"
 
-Oë picked up the brass tray. "Taxation. Most particularly, that relating
-to trade, what they call 'customs'."
+Oë picked up the brass tray. "He keeps accounts for the Ministry of
+Theft.  Most particularly for matters relating to trade, what they
+call 'customs'."
 
 I smiled and sipped my coffee.
 
-It took me five months to figure out how to crack her open. Five months
-of pleasantries and commiseration, five months of listening to her petty
+It took me five months to figure out how to seduce her. Five months of
+pleasantries and commiseration, five months listening to her petty
 little grievances. If I had known there would be another sixteen years
 of it, I swear, I would have risked my life and soul and lied to the
 admirals. "A false trail," I would have said. "She exaggerated her
 brother-by-marriage's importance. She is not reliable. She is mad. I
-must sink her to protect my work. Oh, please, please, let me." Oë would
-have done it gladly. I have never, not among crew-caste Bantangui or
-even Thindi royalty, seen anyone be as cutting to a servant as *that
-woman*.
+must sink her to protect my work. Oh, please, let me sink her, just
+this one."  Oë would have done it gladly. I have never, not among
+crew-caste Bantangui or even Thindi royalty, seen anyone be as cutting
+to a servant as *that woman*.
 
-But no, I had been trained too well. Do no more than is necessary---that
+But no, I had been trained too well. Do only what is necessary---that
 was one of the first lessons our teachers beat into us, along with
 loyalty, patience, and the importance of dying in silence. The Four
-Paramount Virtues of a Spy---even now, I could probably recite the whole
-tutorial from memory. Coriandel had welcomed me, a poor woman of noble
-birth who had supposedly fled an arranged marriage to a man thrice my
-age, but that didn't mean the emir's own spies were not watching me. I
-had to be cautious.
+Paramount Virtues of a Spy---even now, I could probably recite the
+whole tutorial from memory. Coriandel had welcomed me, to all eyes
+just a poor woman of noble birth fleeing an arranged marriage to a man
+thrice my age, but that didn't mean the emir's spies were not watching
+me. I had to be cautious.
 
-And besides, if she could be cracked, she could prove to be a very tasty
-nut indeed. Her brother-by-marriage had never been a particularly social
-man. After his wife's death, he fell into the habit of bringing papers
-home with him at mid-day so he could work in the afternoon and evening.
-Supply requisitions from guard posts on the Great Southern Road,
-complaints about underpayment from saddlesmiths in Gandan that just
-happened to detail exactly how many horses Coriandel could field... It
-would be a rich catch for the admirals. But how to get her to give it to
-us?
+And besides, if she could be seduced, she could prove to be a very
+profitable venture.  Oë made further inquiries.  Eleñima's
+brother-by-marriage had never been a particularly social man. After
+his wife's death, he fell into the habit of bringing papers home with
+him so he could work in the afternoon and evening.  Supply
+requisitions from guard posts on the Great Southern Road, complaints
+about underpayment from saddlesmiths in Gandan that just happened to
+detail exactly how many horses Coriandel hoped to bring down from Darp
+in the coming season... It would be a rich catch for the admirals. But
+how to get her to give it to us?
 
-In the end, it was Oë who came up with a plan. We fell to talking one
-night, and just like that, Eleñima's onions were stewed. Some of it was
-the wine---Oë and I didn't indulge when we were working, but what kind
-of pirates would we be if we never indulged? We ate and talked and drank
-and made love until the sun went down, then sat and listened to the city
-like our sailor forebears would have listened to the sea.
+In the end, it was Oë who came up with a plan. Some of it was the
+wine---Oë and I didn't indulge when we were working, but what kind of
+pirates would we be if we never indulged at all?  We ate and talked
+and drank and made love until the moon grew weary and slid behind the
+horizon, then lay in each other's arms and listened to the city the
+way we had once listened to the wind and the waves and the gulls.
 
-The next time Eleñima came to one of my gatherings, I wandered over to
-where she was admiring (or at least studying) one of my old dance masks,
-and murmured, "Cherished, if I may have a word? After the others have
-gone?"
+Oë propped herself up on one elbow.  "You could send her to me," she
+murmured, resuming a conversation that she had so pleasantly
+interrupted.  "Make up some story about the restorative properties of
+secret Bantangui massage techniques, and let me listen to her
+grumbling for a while."
+
+I kissed her.  "You are a treasure, but no, she is too sensible of her
+station.  She would never talk to a mere servant."
+
+Oë punched me lightly for that.  Like me, she was crew caste---the
+admirals would never trust a cargo caste with their secrets---and
+while she played the role of servant dutifully, she did not like to be
+reminded of it.
+
+I kissed her again to show that I meant no insult.  "But if you could
+find a way for us to trade places, I would not say no.  On and on and
+on she goes, all her missed opportunities and how everyone has let her
+down, all of it the world's failing and none of it her own.  I beseech
+the Pilots to give her niece a better life."
+
+Oë stilled.  "Perhaps it is not you and I who should trade places,"
+she mused.
+
+The next time Eleñima came to one of my gatherings, I sidled over to
+her as she was admiring (or at least frowning at) one of my old dance
+masks and murmured, "Cherished, if I may have a word? After the others
+have gone?"
 
 She frowned. "Is anything the matter?"
 
-"No, of course not," I soothed. "I just... Well, I may have an answer
-for a question you asked me some days ago. But I would rather discuss it
+"Of course not," I soothed. "I just... Well, I may have an answer to a
+question you asked me some days ago. But I would rather discuss it
 privately."
 
-When the drums on Palace Mount beat noon, my other guests straggled out
-in twos and threes. Eleñima hung back, a social smile frozen on her
-face. "More coffee?" I asked sweetly.
+When the drums on Palace Mount beat noon, my other guests straggled
+out in twos and threes. Eleñima hung back, a social smile frozen on
+her face. "More coffee?" I asked sweetly.
 
 "Please," she said. We reclined on chaises, our feet on cushioned
-stools. I let the moments swim past. When she opened her mouth to speak,
-I spoke first.
+stools. I let the moments swim past. When she opened her mouth to
+speak, I spoke first.
 
 "I have been thinking about what you said. About wishing you could go
 back, have your years over again. Do you remember?"
 
-She nodded. Her smile was still in place, though her eyes were wary.
-"Yes, of course." She sighed. "Perhaps I should have studied to be a
-magician."
+She nodded, her smile was still in place, her eyes wary.  "Yes, of
+course," she sighed. "Perhaps I should have studied to be a magician."
 
 Right on cue, Oë entered with the coffee service. "What strange fate
 that you should say that," I said. "Because I did."
 
 "You---oh, no, no sugar in mine. I have mentioned that, I believe?"
-Eleñima waved Oë away. My housekeeper ducked her head and withdrew, no
-doubt to re-check her supply of poisons.
+Eleñima waved Oë away. She ducked her head and withdrew, no doubt to
+re-check her supply of poisons.
 
-I cleared my throat. "Yes, I studied magic. A little. Not like it's
-practiced here, of course. None of this chanting and having your hair
-fall out and what-not. No, I studied what we Bantangui call 'slow
+I cleared my throat. "Yes, I studied magic. A little.  Not as it is
+practiced here.  None of this vulgar chanting and having your hair
+fall out and what-not.  No, I studied what we Bantangui call 'slow
 magic'. Spells that take years to work, but are so subtle that hardly
 anyone would notice."
 
@@ -3178,147 +3201,166 @@ since Oë and I had just made it up.
 
 I coughed. "It's... Well, it's not considered quite proper, and of
 course I couldn't tell anyone when I came here. I would be in ever so
-much trouble if people found out."
+much trouble if people found out.  Even back home..."  I looked away
+from her as if ashamed.  "It's why I fled.  Not the marriage.  My
+family has passed this secret knowledge down through generations, and
+when the admirals caught wind of it---well."  I spread my palms as if
+to say, here I am.
 
-"I understand. But I never thought... I mean, I would never have guessed
-that you---"
+"Oh, cherished, that's *awful*," she gasped.  "I would never have
+thought... I mean, I would never have guessed that you---"
 
 "Exactly," I said warmly. "You would never have guessed, and neither
-would anyone else. Slow and subtle. And powerful, too. Which brings us
-to your problem."
+would anyone else, and I trust you to keep it a secret.  You will,
+won't you?  Please?"
 
-"My problem?"
+Of course she would.  Of *course* she would.  And it meant so much
+to her that I had shared this.
+
+"I... I felt I had no choice," I confessed.  I thought briefly about
+letting a single tear dribble down my cheek, but even she might have
+grown suspicious at that.  "It was the only way I could think of to
+help you with your problem."
+
+"My problem?" she asked blankly.
 
 "Mm. Or let us say, your desire. Would you truly like to have a chance
 to live your life over again? A chance to do it right? Well, I think
 that just might be possible."
 
 I spun her a story. It made no sense at all, and anyone who knew even
-the least thing about how magic actually worked would have laughed 'til
-they cried, but she didn't realize I was feeding her fish guts instead
-of caviar. It all hinged on her niece Sehdie. If she grew up exactly as
-Eleñima had---the same clothes, the same lessons, everything as it had
-been---then when the moment came... I spread my hands. "Poof. She will
-become you. You will become her. Her possibilities will be your
-possibilities."
+the least thing about how magic actually worked would have laughed
+until they cried, but she didn't realize I was feeding her fish guts
+instead of caviar. It all hinged on her niece Sehdie. If she grew up
+exactly as Eleñima had---the same clothes, the same lessons,
+everything as it had been---then when the moment came... I spread my
+hands. "Poof. She will become you. You will become her. Her
+possibilities will be your possibilities."
 
-My lie was as gentle as a wave caressing a beach, and that was all it
-took. She was hooked. Dear, *cherished* Shau, she said. This was---this
-was the nicest thing anyone had ever done for her, even her dear sister.
-Tears welled up in her eyes. I clucked and handed her a linen napkin,
-trying not to let her fingers touch mine for fear I might shudder. Not a
-moment's thought for her niece. Not a single question about what would
-happen to *her*.
+My nonsense was as gentle as a wave caressing a beach, and that was
+all it took. The fact that it made absolutely no sense didn't
+matter---she was hooked.
 
-"Oh, how can I ever repay you?" she blubbered.
+Dear, *cherished* Shau, she said. Tears welled up in her eyes. I
+clucked and handed her a linen napkin, trying not to let her fingers
+touch mine for fear I might shudder. Not a moment's thought for her
+niece. Not a single question about what would happen to *her*.
+
+This was the nicest thing anyone had ever done for her, even her dear
+sister.  "How can I ever repay you?" she blubbered.
 
 I squeezed her hand gently. "You don't need to, Eleñima. This is what
-friends do for each other. This is what friends are for. Although..." I
-hesitated.
+friends do for each other. Although..."  I hesitated.
 
 "Yes?" She dabbed her cheeks with the napkin (she would never do
 anything so crude as to wipe them).
 
-I looked away, as if what I was about to say made me uncomfortable.
-"Well, I try not to let it show, but I am in rather a...situation. My
-family, you know... They have disowned me. And of course I can expect
+I looked away again, as if what I was about to say made me
+uncomfortable.  "Well, I try not to let it show, but I am in rather
+a...situation. My family disowned me. And of course I can expect
 nothing from the man I was to marry."
 
 "But what of your get-togethers? Surely you must... I mean..."
 
 I shrugged. "Not everyone can afford to be as generous as you are, my
-dear. But I dare not refuse them entry in case it should cost me the
+dear. But I dare not refuse anyone entry in case it should cost me the
 custom of others." Which was true enough---for all her faults, she was
 never late settling her bill.
 
 "Well, I don't have much---" she started.
 
-"Sh, sh." I took a chance and patted her hand. "I couldn't ask you for
-more money. I wouldn't take it if you offered. But... Well, I have a few
-friends here in the city, caravaneers and the like. If I could get them
-word now and again about, oh, I don't know, changes in regulations,
-which way disputes were likely to be settled, that sort of thing... I
-wouldn't feel at all badly about taking *their* money."
+"Sh, sh." I took a chance and patted her hand. "I couldn't possibly
+ask you for more money. I wouldn't take it if you offered.  But...
+Well, I have an acquaintance here in the city, a caravaneer who helped
+me on my journey. If I could get him word now and again about, oh, I
+don't know, changes in regulations, which way disputes were likely to
+be settled, that sort of thing... I wouldn't feel at all badly about
+taking *his* money."
 
 And so it was done. At first she just brought me scraps---a month-old
-summary of a judgment that had already been made public, a note from one
-minister to another complaining about the cost of maintaining the
-garrison at Dry Weeping, a plea for reinstatement of a customs exemption
-from a Gifted bullock who had served in one of the emir's mother's wars.
-There were a few small gems among them, but most I could have gleaned by
-going through household trash.
+summary of a judgment that had already been made public, a note from
+one minister to another complaining about the cost of maintaining the
+garrison at Dry Weeping, a plea for reinstatement of a customs
+exemption from a Gifted bullock who had served in one of the emir's
+mother's wars.  There were a few gold sequins among them, but most I
+could have gleaned by going through household trash.
 
-Over time I gradually grew more demanding. Oh, how much better the rear
-courtyard would look if only I could afford silver tassels for the
-curtains in those windows. And wouldn't our get-togethers be so much
-more civilized with a little music? Something quiet, something refined,
-like the emira listens to. Of course, these things cost money, and---oh,
-he does? Mm... Yes, I do know someone who would be interested, though of
-course how anyone can actually be interested in soldiers' boots is
-beyond me. We had a giggle at that, and the next day, I had two hours to
-copy out the entire resupply inventory for the Coriandi infantry.
+Over time I gradually grew more demanding. Oh, how much better the
+rear courtyard would look if only I could afford silver tassels for
+the curtains in those windows. And wouldn't our get-togethers be so
+much more civilized with a little music? Something quiet, something
+refined, like the emira listens to. Of course, these things cost
+money, and---oh, he does? Mm... Yes, I do know someone who would be
+interested, though of course how anyone can actually be interested in
+soldiers' boots is beyond me. We had a salacious giggle at that, and
+the next day, Oë spent two hours copying out the entire resupply
+inventory for the Coriandi infantry.
 
 The faceless admirals of the Fleet of Ghosts devoured it and demanded
-more. A decade after being humiliated by a rag-tag alliance of Karabandi
-emirs who had, against all odds, put aside their differences to lay
-siege to Armaq, they were getting ready to try again. Year after year,
-the papers Eleñima borrowed from her brother-by-marriage's study painted
-a picture of how strong the Coriandi forces were, who their best
-commanders were, which of the other desert emirates would stand with
-them, and which could be pried away by threats, bribery, or blackmail. I
-had other sources as well, of course, and I'm sure the admirals had
-other agents in the city, but every recipe I sent back to my "aunt"
-(whom I pictured as a room full of patient shaven-headed scholars
-somewhere in the Admiralty's coral labyrinth) was another arrow fletched
-and set aside for the coming battle.
+more. A decade after being humiliated by a rag-tag alliance of
+Karabandi emirs who had, against all odds, put aside their differences
+to lay siege to Armaq, they were getting ready to try again. Year
+after year, the papers Eleñima brought from her brother-by-marriage's
+study painted a picture of how strong the Coriandi forces were, who
+their best commanders were, which of the other desert emirates would
+stand with them, and which could be pried away by threats, bribery, or
+blackmail. I had other sources as well, of course, and I knew the
+admirals had other agents in the city, even if I didn't know who they
+were, but every recipe I sent back to my "aunt" (whom I pictured as a
+room full of patient shaven-headed clerks somewhere in the Admiralty's
+coral labyrinth) was another arrow fletched and set aside for the
+coming battle.
 
 And then Eleñima's niece (for whom I had developed no small measure of
 sympathy) fell in love with an *umram* duelist. Eleñima was
 convinced---completely, irrevocably convinced---that this was a Sign
-with a shouted 'S'. Our spell must be working!
+with a shouted 'S'. Our ridiculous, impossible spell must be working!
 
-I tried to calm her down, but she was not for calming, not this time. I
-had no choice but to promise that I would do what she asked. I would
-have someone call a bonescuttle just like the one that "her" rogue had
-slain. She sobbed her thanks and left. I ordered Oë to draw me a hot
-bath, then sent her to speak to a Darpani grass thrower I had done
-business with several times before.
+I tried to calm her down, but she was not to be calmed, not this time.
+I had no choice but to promise that I would have someone call a
+bonescuttle just like the one that "her" rogue had slain. She sobbed
+her thanks and left. I asked Oë to draw me a very hot bath, then sent
+her to speak to a clanless Darpani I had done business with several
+times before.
 
 I played hostess three times in the week after he traded his voice to
-bring forth the monster Eleñima desired. The first occasion was a small
-commemoration for a woman who had died the year before. Her family and
-friends ate and drank and told stories about her, laughing as her
-youngest son imitated the way she had fumbled with her shawl when she
-was upset. There were a few tears, but only a few---she had passed
-peacefully after a full life, and that it always something to be
-treasured.
+bring forth the monster Eleñima desired. The first occasion was a
+small commemoration for a woman who had died the year before. Her
+family and friends ate and drank and told stories about her, laughing
+as her youngest son imitated the way she had fumbled with her shawl
+when she was upset. There were a few tears, but only a few---she had
+passed peacefully after a full life, and that is always something to
+be treasured.
 
-The second occasion was my usual gathering, women of a certain age with
-gossip to trade and errant children to sigh over. I didn't earn much
-from them, but most of my other business grew out of that gathering. I
-was worried that Eleñima would come as usual, but thankfully she stayed
-away.
+The second occasion was one of my usual gatherings, women of a certain
+age with gossip to trade and errant children to sigh over. I didn't
+earn much from them, but most of my other business grew out of those
+tedious tea parties. I was worried that Eleñima would come as she
+usually did, but thankfully she stayed away.
 
-The third occasion was frankly unpleasant. Two merchants had spent much
-of the preceding year suing and counter-suing over a poorly-worded
-contract for lentils. Lentils, of all things. With nothing but more
-juristry in front of them, they had decided to try to mend bridges. The
-whole evening was like that play by Fuçentes in which everyone knows
-something disagreeable about everyone else. They circled around each
-other sulkily, barely speaking until the last almond-stuffed date was
-gone, then went home to order their jurists to redouble their efforts.
+The third occasion was frankly unpleasant. Two merchants had spent
+much of the preceding year suing and counter-suing over a
+poorly-worded contract for lentils. Lentils, of all things. With
+nothing but more juristry in front of them, they had decided to try to
+mend bridges. The whole evening was like that play by Fuçentes in
+which everyone knows something disagreeable about everyone else. They
+circled around each other sulkily, barely speaking until the last
+almond-stuffed date was gone, then went home to order their jurists to
+redouble their efforts.
 
 While I was busy keeping up appearances, Oë asked questions in the
 market and around the *umram*. In truth, talking to people was her
-greatest pleasure. Before she came inland disguised as a doctress she
-had only ever spoken to other cargo-caste slaves and her teachers. I
-sometimes thought she had become a spy just to hear new voices.
+greatest pleasure.  She was an orphan, and had been given to the
+admirals as an infant.  Before she came inland disguised as a doctress
+she had only ever spoken to her fellow students and her teachers.  She
+confessed once that she had mastered four languages just for the
+pleasure of being able to talk to strangers.
 
 A week to the day after Eleñima's visit, Oë returned from the market
-with a hard look on her face. "Last night," she said. "Just a goat." She
-dumped the evening's vegetables and a headless chicken on the kitchen
-table. "Mistress, we have to do something. It won't stick to goats for
-long. There will be questions."
+with a hard look on her face. "Last night," she said. "Just a goat."
+She dumped the evening's vegetables and a lifeless chicken on the
+kitchen table. "It won't stick to goats for long. There will be
+questions."
 
 "I know." I gnawed my lip. "I know. But what?"
 
@@ -3330,38 +3372,39 @@ table and studied its blade. "No," I said. "Not that."
 "I know. But it is too late. The thing is here now. Killing her won't
 break its summons."
 
-Another week passed. Another goat was taken, then a beggar, and then two
-guardsmen were injured trying to kill it. I shouldn't have let it bother
-me, but I became terribly polite. The regular house staff knew nothing
-about what was going on, but they began tiptoeing around, afraid of my
-smile. Eventually I retreated to the upper floor to spare them.
+Another week passed. Another goat was taken, then a beggar, and then
+two guardsmen were injured trying to dispatch it. I shouldn't have let
+it bother me, but I became terribly polite. The house staff, who knew
+nothing of my secret life, began to tiptoe around and scurry away
+whenever I smiled. Eventually I retreated to the upper floor to spare
+them.
 
 I kept two rooms there in Bantangui style. One was for entertaining
-lovers and other special guests. It was decorated with gold and jade and
-chalcedony, teak and exotic glass, silk and tiny flowers. It was small,
-an intimate place where people could unburden themselves. I heard the
-most mundane things there, and the most horrible.
+lovers and other special guests. It was decorated with gold and jade
+and chalcedony, teak and exotic glass, silk and tiny flowers. It was
+small, an intimate place where people could unburden themselves. I
+heard the most mundane things there, and the most horrible.
 
-My other room was even smaller. A narrow futon on slats took up half of
-it. A stool and a knee-high wall chest took most of what is left. The
-window was just a slit, too high to see through, too narrow for even a
-child to squeeze through. I was just like the cabin I had been given on
-my uncle's barge when I turned fourteen. A cabin of my own---I had been
-so excited. It didn't have a door, of course---young women aren't
-allowed doors---but it meant I was special, and destined for better
-things than mending sails and tending chickens.
+The other room was even smaller. A narrow futon on slats took up half
+of it. A stool and a knee-high wall chest took most of what is
+left. The window was just a slit, too high to see through, too narrow
+for even a Gifted monkey to squeeze through. I was just like the cabin
+I had been given on my uncle's barge when I turned fourteen. A cabin
+of my own---I had been so excited. It didn't have a door, of
+course---young women aren't allowed doors---but it meant I was
+special, and destined for better things than mending sails and tending
+chickens.
 
 I was there, reading and daydreaming about those simpler days, when Oë
 brought me word. The niece's young man had sworn a blood oath to kill
-the creature the grass thrower had summoned. "Last night," Oë said. "I
-have it from a guardsman who was sent to bring his master for
-questioning."
+the creature the Darpani had summoned. "Last night," Oë said. "I have
+it from a guardsman who was sent to bring his master for questioning."
 
 I stared at the page in front of me. A blood oath? For a moment I
 wondered if there might be something to the lie I had been telling
-Eleñima all these years. Could all of her wishing actually have---no. I
-shook my head. Oë and I had stewed the notion of a "slow spell"
-ourselves. This was just coincidence. It had to be.
+Eleñima all these years. Could all of her wishing actually---no.  I
+shook my head. Oë and I had cooked up the nonsense notion of a "slow
+spell" ourselves. This was just coincidence.
 
 Still, no matter what happened next, Eleñima would expect a miracle.
 When she didn't get one, she might finally begin to doubt me. "Make

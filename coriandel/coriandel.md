@@ -1,4 +1,4 @@
-%# Beneath Coriandel<br>Greg Wilson
+# Beneath Coriandel<br>Greg Wilson
 
 ## Then: Ishad's Onions
 
@@ -1062,11 +1062,11 @@ a helmet, waved a shinbone around for a sword..."
 
 "Thanks." He ducks a low-hanging bulge of the tunnel roof.
 
-My hands tighten on the haft of the spear that lies on my knees next
-to the lantern. It won't be much use if the things that are supposed
-to live in the water below us wake up, but having it ready eases the
-itch from my oath a little---just enough that I only want to scratch
-the inside of my skull instead of gouging out my eyes with my
+My hands tighten on the haft of the spear that lies across my knees
+next to the lantern. It won't be much use if the things that are
+supposed to live in the water below us wake up, but having it ready
+eases the itch from my oath a little---just enough that I only want to
+scratch the inside of my skull instead of gouging out my eyes with my
 fingernails.
 
 The worst part is, I should have seen this coming.  He's been pulling
@@ -1133,7 +1133,7 @@ figure that's your best bet---get it to lunge at you, then go up and
 underneath. Better odds than going up against its claws with a sword."
 He sounds like he's trying to convince himself as much as me.
 
-Sloosh, sloosh, sloosh go the oars. Something gloops in the water
+*Sloosh, sloosh, sloosh* go the oars. Something gloops in the water
 behind us. I twist around but can't see it. Being sent into the Tombs
 counts as capital punishment under Coriandi law. Hells, people
 sometimes ask to be flensed instead, thinking it'll be cleaner and
@@ -1152,9 +1152,9 @@ I shrug. "It might get wet."
 
 The corner of his mouth quirks up the way it does when he actually
 thinks something is funny. He plucks the letter from my hand and tucks
-it into his boot.  He's wearing an old pair I haven't see before,
-square-toed lace-ups that look the same age the tunnels around us, or
-maybe even older.  "You have everything you need?"
+it into his boot.  He's wearing an old-fashioned pair I haven't see
+before, square-toed lace-ups that look the same age the tunnels around
+us, or maybe even older.  "You have everything you need?"
 
 "Yeah. Except an honest teacher. But it's a bit too late to look for
 one now, I suppose." I know I sound like a petulant child, but my oath
@@ -3410,22 +3410,13 @@ Still, no matter what happened next, Eleñima would expect a miracle.
 When she didn't get one, she might finally begin to doubt me. "Make
 preparations," I instructed Oë. "You may get to sink her after all."
 
------
+## Recently: Ishad Speaks to Old Friends
 
-## Ishad Speaks to Old Friends
-
-I went to Lady Kembe for help when Vurt told me what he'd sworn to do.
-Might not have when I was his age, but I learned the hard way that
-there's no shame asking for a hand when you're overmanned. A real
-fight's not a round in the *umram*, with rules and judges and a spear
-tip that's just a brush dipped in red paint. Plus, we might not have
-parted on the best of terms, but I knew the lady wasn't one to hold a
-grudge. What's the point, when you're going to outlive everyone anyway?
-
-Meshash came to see me that night. *Thump thump thump* went my door
-drum, and there she was, silver now in her black hair, lines on her face
-that weren't there twenty years before, but still beautiful. I stepped
-aside to let her past and closed the gate behind her.
+Meshash came to see me that night. *Thump thump thump* on my door
+drum, same as always, and there she was, silver now in her black hair,
+lines on her face that weren't there twenty years before, but still
+beautiful. I stepped aside to let her past and closed the gate behind
+her.
 
 We looked at each other for a few heartbeats. I sighed. "He told you."
 
@@ -3436,11 +3427,11 @@ Better than I was at his age, and I made it."
 
 "I know. But there are so many stories... Can't you...?"
 
-"What? Do it for him?" I snorted, even though I'd been asking myself the
-same thing. "It's his oath, Meshash. His blood."
+"What? Do it for him?" I snorted, even though I'd been asking myself
+the same thing. "It's his oath, Meshash. His blood."
 
-"But it's your blood too," she said hopelessly. And there, it was said,
-the one thing we never spoke of, the thing neither of us had mentioned
+"But it's your blood too," she said hopelessly. And there it was, the
+one thing we never spoke of, the thing neither of us had mentioned
 since that night she told me that she was staying with Onnemeno. We
 weren't sure---a magician could have told us, if we'd wanted to hire
 one---but the timing was right, and he had my shoulders and my speed.
@@ -3448,134 +3439,144 @@ Might have had my nose too, if it hadn't been for that beating he took
 when he was thirteen.
 
 If I was stronger, I would have hugged her. But I'm a coward when it
-comes to women's tears, and that well ran dry a long time ago. I rolled
-my head to one side to work a kink out of my neck. "So what do you want
-me to do?" I asked.
+comes to women's tears, and that well ran dry a long time ago. I
+rolled my head to one side to work a kink out of my neck. "So what do
+you want me to do?" I asked.
 
-"Whatever you can," she said quietly. She stepped up to me and kissed my
-cheek softly, not asking or offering anything, just a kiss. The gate
-clicked shut softly behind her.
+"Whatever you can," she said quietly. She stepped up to me and kissed
+my cheek softly, not asking or offering anything, just a kiss. The
+gate clicked shut softly behind her.
 
-That night, in the small hour between moonset and sunrise, I pried three
-tiles up from my kitchen floor. The case was still there, a brown
-leather tube as long as your arm stitched with thread the color of a dry
-scab. Old habit made me replace the tiles before taking it into the rear
-courtyard. I didn't expect any guardsmen or assassins to come drumming
-on my door, but Luck loves a careful man.
+So later that night, in the small hour between moonset and sunrise, I
+pried three tiles up from my kitchen floor. The case was still there,
+a brown leather tube as long as your arm stitched with thread the
+color of a dry scab. Old habit made me replace the tiles before taking
+it into the rear courtyard. I didn't expect any guardsmen or assassins
+to come drumming on my door, but the saints love a careful man.
 
 I pulled Lady Kembe's picture from the tube, unrolled it, and laid it
 face up on the little table against the wall. I had to put a couple of
 daggers and half a brick on the corners to keep it from rolling up
-again.
+again.  I hoped she wouldn't mind.
 
-There was still a stump of candle in the tube as well. I lit it and set
-it down next to the picture. It had been, what, twenty years? No, more
-than that, twenty-one. Twenty-one years since I last spoke to her. I
-wondered if she would listen.
+There was still a stump of candle in the tube as well. I lit it and
+set it down next to the picture. It had been, what, twenty years? No,
+more than that, twenty-one. Twenty-one years since I last spoke to
+her. I wondered if she would listen.  We didn't part on the best of
+terms, but I didn't think she was one to hold a grudge.  What's the
+point when you're going to outlive everyone anyway?
 
-I stared into the candle flame, counting heartbeats. It's funny, the way
-you can suddenly realize that your shoulders are tense. I took a long,
-slow breath and willed them to relax. Just relax...
+A quick twitch of my knife on the back of my forearm, and I let three
+drops of blood fall into the flame.  I stared into it as I waited,
+counting heartbeats. It's funny, the way you can suddenly realize that
+your shoulders are tense. I took a long, slow breath and willed them
+to relax. Just relax...
 
-And suddenly she was there. The picture was still just a picture, but it
-was also her sitting in her study in Ossisswe. I saw a shelf of books on
-the wall to her left and a latticework window on her right. She still
-looked forty, although I knew she was at least five times that. Her head
-was completely bald, and her loose robe was open just enough for me to
-see the flaming wings tattooed on her neck.
+And suddenly she was there. The picture was still just a picture, but
+it was also her sitting in her study in Ossisswe. I saw a shelf of
+books on the wall to her left and a latticework window on her right.
+She still looked forty, although I knew she was at least ten times
+that. Her head was completely bald, and her loose robe was open just
+enough for me to see the flaming wings tattooed on her neck.
 
-Her teeth gleamed white against her black skin when she smiled. "Hello,"
-she said. "It's been a long time."
+Her teeth gleamed white against her black skin when she smiled.
+"I greet you," she said. "It have been a lang time."
 
 I dipped my head. "M'lady."
 
-"I seen han old swallow a-chase a young'un ye'erday. I wondered if that
-might be you." She still pronounced 'wondered' with three syllables,
-'won-der-ed', and still called me Swallow. I never knew why, but it
-could have been worse. There was a merchanteer with three ships under
-his rod and warehouses in Seyferte and Ensworth who had worked for her
-for years. She called *him* things that would start a fight in polite
-company.
+"I han see an old swallow a-chase a young'un ye'erday. I wondered if
+that maight be you, my hain Swallow come back a me." She pronounced
+'wondered' with three syllables, 'won-der-ed', and for some reason, I
+had always been "Swallow" to her.  It could have been worse---I met a
+merchanteer with three ships under his rod and warehouses in Gandan
+and Nyengmo who had worked for her most of his life.  What she called
+*him* would start a fight in polite company.
 
 I cleared my throat. "I crave a favor, m'lady."
 
-"Oh, but certain you do." She took her red book down from its place on
+"Oh, but certain y' do." She took her red book down from its place on
 the shelf and thumbed through it. "Swallow... Swallow... Here we be.
 Maun, I do not appear to be a-debt of your this present time." She set
-the book aside without closing it. "So what have you offer?"
+the book aside without closing it. "So what y' havvy offer?"
 
 "Information," I said bluntly.
 
-Lady Kembe was the most powerful magician in Ossisswe, maybe the most
-powerful in Cherne. She hadn't left her house in two hundred years. She
-couldn't eat cooked food, or wear leather, or tie her own shoes, and
-those were just the things I knew about. She had probably traded away a
-thousand other everyday things, things you or I would take for granted,
-each loss bringing her some scrap of power or understanding. You don't
-do that for two hundred years without learning how to bargain like a
-Darpani ride master who's down to his last spavined mule.
+Lady Kembe was the most powerful magician in Cherne, but she hadn't
+left her house in four hundred years. She couldn't eat cooked food, or
+wear leather, or tie her own shoes, and those were just the things I
+knew about. She had probably traded away a thousand other everyday
+things, things you or I would take for granted, each loss bringing her
+some scrap of power or understanding. You don't do that for four
+hundred years without learning how to bargain like a Darpani ride
+master who's down to her last spavined mule.
 
 She steepled her fingers in front of her lips. "Tell me."
 
-I bobbed my head again. "M'lady." I gave her the quick version, as if I
-was reporting to an impatient sergeant. Vurt, the girl, his oath, the
-bonescuttle. "A breath," she interrupted. "A bonescuttle, in Coriandel?"
+I bobbed my head again. "M'lady." I gave her the quick version, as if
+I was reporting to an impatient sergeant. Vurt, the girl, his oath,
+the bonescuttle. "A breath," she interrupted. "A bonescuttle, in
+Coriandel?"
 
 "Yes, m'lady. Just like before."
 
 She drummed her fingers on her desk. "That... that does knot me
-somewhat. The stars are completely wrong for a bonescuttle to be about."
+summat.  The stars are completely wrong for a bonescuttle to be
+about."
 
 "They probably can't see the stars down in the Tombs, m'lady."
 
 The corner of her mouth quirked. "I will tell such jokes as need told
-tonight, Swallow, thank you."
+tonight, Swallow."
 
-"M'lady." Her accent was almost present day now. I wondered who she had
-been talking to before me that would dredge up speech a hundred years
-gone.
+"M'lady." Her accent was almost present day now. I wondered who she
+had been talking to before me that would dredge up speech two hundred
+years gone.
 
 Her fingers drummed again, a light three-against-two rhythm. "Hm. I
-shall make inquiries of that. Now, what do you want?"
+shall make inquiries of that. Now, what do y' want?"
 
-I shrugged. "Your help for the boy, m'lady. He goes down there, he's not
-coming back."
+I shrugged. "Your help for the boy, m'lady. He goes down there, he's
+not coming back."
 
 "Why not? You did."
 
-I shrugged again. "I had Armaq, m'lady. And Ensworth, and that thing
-down in Thind. They all taught me to fight dirty. All he's had is the
-umram, and a couple of fist-ups here and there." I hesitated. "I'm
+I shrugged again. "I had Armaq, m'lady. And Chaghan, and that business
+down in Thind when the river changed course and that bit of swamp
+drained.  They all taught me to fight dirty. All he's had is the
+*umram* and a couple of fist-ups here and there." I hesitated. "I'm
 afraid for him, m'lady. Dead afraid."
 
-She raised her eyebrows. "My, my. This most strongly is not the
-harrow-the-hindmost rogue I remember. Whatever happened to the Swallow
-Stone-heart of old?"
+She raised her eyebrows. "My, my. This is not the harrow-the-hindmost
+rogue I remember. Whatever happened to the Swallow Stoneheart of old?"
 
 I ignored her jibe. "I'll earn it, m'lady, my blood on that. There's a
-lot of Bantangui here these days. Call themselves traders, but I meet a
-few now and again that know more swordplay than any honest trader I've
-ever met."
+lot of Bantangui here these days. Call themselves traders, but I meet
+a few now and again that know more swordplay than any honest trader
+I've ever met."
 
-She snorted faintly. "Exactly how many honest traders have you met?"
+She snorted faintly. "Exactly how many honest traders have y' met?"
 
-She's like rain sometimes, Lady Kembe is. Cold rain, the kind that drips
-down the back of your neck in the middle of the night when you're on
-watch in the middle of nowhere. You can't stop it, so either you learn
-to ignore it or you go mad. "I could watch 'em for you, m'lady. Friendly
-up to one or two of 'em, let 'em talk, keep my ear to the wind."
+She's like rain sometimes, Lady Kembe is. Cold rain, the kind that
+drips down the back of your neck in the middle of the night when
+you're on watch in the middle of nowhere. You can't stop it, so either
+you learn to ignore it or you go mad. "I could watch 'em for you,
+m'lady.  Friendly up to one or two of 'em, let 'em talk, keep my ear
+to the wind."
 
-She pursed her lips and shook her head. "Thank you, Swallow, but no. I
+She pursed her lips and shook her head. "Thank y', Swallow, but no. I
 have all the people I need in Coriandel. And I am not as worried about
-the Bantangui as I once was." Pat patta pat went her fingers. "No, if we
-strike a bargain, I will needs have something a little more direct."
+the Bantangui as I once was." Pat patta pat went her fingers. "No, if
+we strike a bargain, I will needs have something a little more direct
+of y'."
 
 Direct. That meant rooftops at night, throats cut in alleys, cunning
 little twists of silver and feathers slipped into people's pockets
-without them knowing. "I'm not as young as I was, m'lady. Not sure I can
-be as much help as I used to be."
+without them knowing. "I'm not as young as I was, m'lady. Not sure I
+can do as much of that as I used to, but you'll have my best, I
+swear."
 
-"We'll see," she said crisply. "The boy. What is his name?"
+"We'll see what's needed," she said crisply. "The boy. What is his
+name?"
 
 "Vurt. Vurt Meshash é Onnemeno. He's my neighbors' boy."
 
@@ -3583,50 +3584,83 @@ be as much help as I used to be."
 
 "Yes, m'lady."
 
-Never try to lie to a magician, not even by leaving things out. Not one
-like Lady Kembe. Her eyes grabbed mine like a hawk snatching up a
-rabbit. I could no more have looked away than I could have kissed my own
-ear.
+Never try to lie to a magician, not even by leaving things out. Not
+one like Lady Kembe. Her eyes grabbed mine like a hawk snatching up a
+rabbit.  I could no more have looked away than I could have kissed my
+own ear.
 
 "Mmm... So that's what softened your stony heart, is it?" She sounded
 amused.
 
 Lose your temper, lose the fight. "He's a good lad, m'lady," I said
-stolidly, able to breathe again. "Could be of use to you, one day, if
-he's not dead."
+stolidly. "Could be of use to you, one day, if he's not dead."
 
-"Yes, well, today is not yet that day, is it? Still..." *Pat patta pat.*
-"All right. Bring me his boots. I will decide what I want in exchange
-later. Have we a bargain?"
+"Yes, well, today is not yet that day, is it? Still..." *Pat patta
+pat.* "All right. I will decide your obligation later.  Have we a
+bargain?"
 
-"His boots, m'lady?" That earned me a raised eyebrow. "Yes, m'lady.
-Thank you."
+I didn't hesitate.  "Yes, m'lady.  Thank you."
 
-She snorted again. "You've been away too long, Swallow. You ought to
+She snorted again. "Y' have been away too long, Swallow. Y' ought to
 know better than to thank a magician before hearing her price."
 
 "Don't much care about the price this time," I said, and it was the
-truth. I put my hand out and smothered the candle flame. Her picture was
-suddenly a picture again. I nearly fell off my stool. I felt like I had
-been fighting in full armor since moonrise. Gaaah. Old meat, old
-bones... Still, I put her picture away before falling into bed. I don't
-think the emir's guard would have flensed me for talking to her, but
-like I said, Luck loves a careful man.
+truth.
 
-I woke far too soon. At first I thought the pounding was in my head.
-Then I realized someone was thumping my door drum. I was still fully
-dressed, so I splashed a little water on my face and dragged my carcass
-to the front courtyard.
+Just that quickly, her picture was just a picture again.  I put my
+hand out to smother the candle flame and nearly fell off my stool. I
+felt like I had been fighting in full armor since moonrise. Gaaah. Old
+meat, old bones... Still, I put her picture away before falling into
+bed.  Like I said, the saints love a careful man.
 
-Guardsmen. Three of them, a sergeant with ribbons around his sleeve and
-two men-at-ordinary. "You're Ishad?" the sergeant asked.
+Her voice woke me an hour later.  «Ishad...» I looked over blearily at
+the empty pillow beside me.  «Ishad...»
+
+It took me a minute to dig out the tube and unroll her picture.  No
+need for the blood and the candle, not if she was calling me.
+"M'lady?"
+
+She was still sitting at her desk, but had a cup of tea now, and a
+loose scarf around her neck.  "Are y'awake, Swallow?"
+
+"Yes, m'lady," I lied.
+
+"I've spoken with them an' all.  They say you're to fetch yourself
+some boots."
+
+I rubbed my eyes.  "Boots, m'lady?"
+
+"Aye."  She yawned suddenly.  "The first person as mentions boots to
+you, y'take theirs an' wear them when y' boy goes underneath.  That's
+as best I can do."
+
+"But---I'm sorry, m'lady, I don't understand."
+
+"Y' din't come t' me for understandin'," she snapped.  "Y' came t' me
+fra help, and that's m' help.  First person as mentions boots, an' y'
+wear 'em into the underneath."
+
+"Yes, m'lady.  Thank you."  Saints damn all magicians for their
+cryptic nonsense, though I suppose they're just trying to spend as
+little of themselves as they have to.  I stuffed her picture back into
+its tube for a second time, perhaps not quite as gently as I might
+have, and fell into bed once again.
+
+The next time I woke up was far too soon. At first I thought the
+pounding was in my head.  Then I realized someone was thumping my door
+drum. I was still fully dressed, so I splashed some tepid water on my
+face and dragged my carcass to the front courtyard.
+
+Guardsmen. Three of them, a sergeant with ribbons around his sleeve
+and two men-at-ordinary. "You're Ishad?" the sergeant asked.
 
 I nodded blearily. "Yup. If you're here for lessons, I only have two
-spaces open right now, Orangeday morning first thing. You can come back
-then if you want."
+spaces open right now, Orangeday morning first thing. You can come
+back then if you want."
 
-The sergeant took a heavy gold signet ring from his pocket and held it
-up for me to see. "Not here for lessons. Captain wants a word with you."
+The sergeant took a heavy iron signet ring from his pocket and held it
+up for me to see. "Not here for lessons. Captain wants a word with
+you."
 
 Of course he did. I rubbed my eyes. "All right. Can I put on a clean
 shirt?"
@@ -3637,79 +3671,83 @@ I cleared my throat and spat into the potted shrub next to the door.
 "Well, I guess I don't really need the shirt then."
 
 "As you please." He snapped his fingers and pointed at the lock on the
-gate. "But we'll have a look about in any case."
+gate. "But we'll still have a look about."
 
 Their look about wasn't half as thorough as mine would have been. They
-measured my weapons for length, poked around to make sure I didn't have
-any bows hidden away, sniffed around in my kitchen and bedroom, even
-took a quick tour of my roof. They didn't spot the loose tiles, though,
-or find either of the bags I kept packed and ready against unexpectedly
-finding it necessary to be elsewhere. Ensworth, say, or some little
-cloudherd village in the Brumosos, somewhere Coriandel law didn't reach.
+measured my weapons for length, poked around to make sure I didn't
+have any bows hidden away, sniffed around in my kitchen and bedroom,
+even took a quick tour of my roof. They didn't spot the loose tiles,
+though, or find either of the bags I kept packed and ready against
+unexpectedly finding it necessary to be elsewhere. Ruuda, say, or some
+little cloudherd village in the Brumosos---somewhere Coriandi law
+didn't reach and Coriandi guardsmen wouldn't bother traveling to.
 
-By the time they were done I had washed my face, eaten some olives and a
-stale crust of flatbread, rubbed my teeth with a salty cloth to clean
-them, and put on my other shirt. A few people looked on curiously as the
-three of them marched me down to the Market Gate guardhouse, but most of
-those we passed ignored us. Crack-of-dawn "inquiries" had become more
-common as raids on the caravans that were the city's life blood had
-grown bolder. Everyone knew the bandits had to have spies in Coriandel
-itself, but so far, the caravaneers' demands that something be done had
-produced nothing.
+By the time they were done I had washed my face properly, eaten some
+olives and a stale crust of flatbread, rubbed my teeth with a salty
+cloth to clean them, and put on my other shirt. A few people looked on
+curiously as the three of them marched me down to the Market Gate
+guardhouse, but most of those we passed ignored us. Crack-of-dawn
+"inquiries" had become more common as raids on the caravans that were
+the city's life blood had grown bolder.  Everyone with half a wit
+could tell that the bandits had to have spies in Coriandel, but so
+far, the caravaneers' demands that something be done had produced
+nothing.
 
-"I know the way," I told the sergeant when we reached the guardhouse. He
-stayed with me anyway. They had taken me to the side stairs, which was
-either a good sign or a bad one depending on who was on the roof.
+"I know the way," I told the sergeant when we reached the guardhouse.
+He stayed with me anyway. They had taken me to the side stairs, which
+was either a good sign or a bad one or maybe not a sign at all.
 
 "Sir." The sergeant thumped his fist against his chest and handed the
 signet ring back to the captain.
 
 "Thank you, sergeant. Dismissed." The captain set the ring down on the
-little morning table beside his chaise. We were out under the open sky,
-just the two of us. A writing desk with a worn leather stool, the
+little morning table beside her chaise. We were out under the open
+sky, just the two of us. A writing desk with a worn leather stool, the
 chaise, the morning table, and two heavy northern-style sabers in a
 display rack stood together in the middle of the roof. Potted plants
 guarded the corners. It could have been a spacious office, except for
 the lack of a roof and the drop to the street on all sides.
 
-"Must be hell on your paperwork when it rains," I said, jutting my chin
-at the writing desk.
+"Must be hell on your paperwork when it rains," I said, jutting my
+chin at the writing desk.
 
-Captain Leis raised his eyebrows. "And when, I beg you, did it last rain
-in Coriandel?" He was heavier around the middle than the men he had sent
-to fetch me, but there was still plenty of muscle in his arms. I
-remembered them from the *umram*. Most men wouldn't be able to swing
-those sabers he was so fond of for more than a minute. He could go three
-matches with them, one right after the other, and still have something
-left.
+Captain Leis raised her eyebrows. "And when, I beg you, did it last
+rain in Coriandel?"  She was heavier around the middle than the men
+she had sent to fetch me, but there was still plenty of muscle in her
+arms. I remembered them from the *umram*.  Most women wouldn't be able
+to swing those sabers she was so fond of for more than a minute. She
+could go three matches with them, one right after the other, and still
+have something left.
 
-We studied each other for a moment, like the dueling opponents we had
-once been. From where he was sitting he must have been looking straight
-up my nose. I resisted the urge to pick it.
+We studied each other for a moment, like the dueling opponents and
+occasional lovers we had once been. From where she was sitting she
+must have been looking straight up my nose. I resisted the urge to
+pick it.
 
-"Been a while," he finally said.
+"Been a while," she finally said.
 
 I shrugged. "Guess we've both been busy."
 
-"Guess so." He sighed. "His Highness would like to know what you were
-doing this morning. And please---" he held up a finger. "Please, don't
-say, 'sleeping'."
+"Guess so." She sighed. "His Highness would like to know what you were
+doing this morning. And please---" She held up a finger. "Please,
+don't say 'sleeping'."
 
 "Well, I'm sorry if I woke His Highness. Didn't realize he---"
 
 "No," Captain Leis said sharply. "No, no, no. You know perfectly well
 what I mean. If this had actually come to His Highness's personal
-attention, we wouldn't be having this chat here, would we? Now, what you
-were doing, and why shouldn't I care?"
+attention, we wouldn't be having this chat here, would we? Now, what
+you were doing, and why shouldn't I care?"
 
-Muscle beneath the fat and teeth in his smile. The royal collar of
-Coriandel is cursed, but it's a useful curse for those willing to pay
-its price. Among other things, it makes its wearer a good judge of
-character. There are no sloppy, easily-bribed guard captains in this
-city. Mean, yes, if whoever sits on the throne wants mean, but never
-stupid and *never* soft. Leis had at least one magician working for him,
-probably more. Should have known they'd sniff out my little chat with
-Lady Kembe. Only question was, could they tell what it was they smelled?
+The royal collar of Coriandel is cursed, but it's a useful curse for
+those willing to pay its price. Among other things, it makes its
+wearer a good judge of character. There are no sloppy, easily-bribed
+guard captains in this city. Mean, yes, if whoever sits on the throne
+wants mean, but never soft and *never* stupid.  Given the caravan
+raids, of course Leis would have a magician working for her---at least
+one, probably more.  I should have known they would sniff out my chat
+with Lady Kembe.  The only question was, could they tell what it was
+they smelled?
 
 "Student of mine swore an oath yesterday, a blood oath. I was trying
 to---"
@@ -3718,7 +3756,7 @@ to---"
 
 I shook my head reluctantly. "No. Spur of the moment."
 
-"A blood oath?"
+"A *blood* oath?"
 
 "Yeah. There's this girl, and---"
 
@@ -3726,75 +3764,82 @@ I shook my head reluctantly. "No. Spur of the moment."
 mean, those of us who serve him take a dim view. He dislikes them
 personally. They complicate governance."
 
-"Is that what they do? My, my... I'll have to remember that. Anyway,
-like I was saying, there's this girl, and her father's not fond of the
-boy, and, well, now he's got a bonescuttle to kill."
+"Is that so? My, my... I'll have to remember that. Anyway, like I was
+saying, there's this girl, and her father's not fond of the boy, and,
+well, now he's got a bonescuttle to kill."
 
-He glowered at me. "Tell me you're trying to be funny."
+She glowered at me. "Tell me you're trying to be funny."
 
 I shook my head. "Upon my life," I said, raising one hand.
 
 "Did you put him up to this?"
 
-"Gaaah." I counted to three slowly. "No. Didn't, and wouldn't have. It's
-a damn stupid oath."
+"Me!?  No!  No, I didn't, and I wouldn't have. It's a damn stupid
+oath."
 
-"Yes, it is, isn't it?" He drummed his fingers, just as Lady Kembe had
-done a few hours ago. "So. This morning?"
+"Yes, it is, isn't it?" She drummed his fingers, just as Lady Kembe
+had done a few hours ago. "So. This morning?"
 
 I shrugged. "Just wanted to find out what's going to happen. Learned a
-little from a Darpani grass thrower, years gone by. Asked Luck how she's
-feeling about the boy, what his chances are, whether there's anything I
-can do." I shrugged again. It was no wonder my shoulders had been so
-tense last night, with all the shrugging I was doing. "Turned out I
-didn't know as much as I thought I did. It kind of got out of control a
-little. No harm done, but..." I let my voice trail off.
+little from a Darpani grass thrower, years gone by. Asked how the
+saints are feeling about the boy, what his chances are, whether
+there's anything I can do." I shrugged again. It was no wonder my
+shoulders had been so tense last night, with all the shrugging I was
+doing. "Turned out I didn't know as much as I thought I did. It kind
+of got out of control a little. No harm done, but..." I let my voice
+trail off.
 
-"I see. An unjuristed oath, unlicensed magic... Anything else to spoil
-my coffee this morning?"
+"I see. A wild oath, wild magic... Anything else to spoil my coffee
+this morning?"
 
 "No, captain." It was like being back at Armaq. Did you take extra
 rations, Ordinary Ishad? No, sir. Come on, Ordinary, they were there
 before your watch. Three men have sworn to that. And the man after you
 is the one who reported them missing. No, sir, it wasn't me, sir.
 
-The captain's fingers went *pat patta pat*. Maybe it was a new fashion
-that had passed me by. "Well. Come with me." He stood. He was still
-light on his feet for one so heavy. I beat him three touches to none the
-last time we faced each other in the *umram*. I doubted a real fight
-would be as one-sided.
+The captain's fingers went *pat patta pat*. Maybe drumming your
+fingers was a new fashion that had passed me by. "Well. Come with me."
+She stood.  She was still light on her feet for one so solid. I beat
+her three touches to one the last time we faced each other in the
+*umram*, but that was years ago. I doubted a real fight would be as
+one-sided.
 
-We ambled over to the roof's edge, for all the world like two old
-comrades in arms out for an early-morning stroll. The market spread out
-below us, shops and stalls and open yards, people dawdling or hurrying,
-cattle, fine jewelry, dates, figs, silks, jugglers, and above it all the
-smell of dung and frying onions. When the Darpani brings their herds
-down in the fall it's the most chaotic place in the world. Even when
-they're not around, it's never silent, never still. I'll never grow
-tired of it.
+We ambled over to the roof's edge like occasional lovers having a look
+at the world before going out to face it. The market spread out below
+us, shops and stalls and open yards, people dawdling or hurrying,
+cattle, fine jewelry, dates, figs, silks, jugglers, and above it all
+the smell of dung and frying onions. When the Darpani bring their
+herds down in the fall it's chaos. Even when they're not around it's
+never silent, never still, and I'll never grow tired of it.
 
-We watched it in silence for a few moments. Without turning his head, he
-said, "Do I have to give you a speech?"
+We watched it in silence for a few moments. Without turning her head,
+she said, "Do I have to give you a speech?"
 
 I shook my head. "No, captain."
 
-He nodded. "Good. Can't imagine I could say anything you hadn't heard
+She nodded. "Good. Can't imagine I could say anything you hadn't heard
 before. I'll step on you if I have to, and they'll have to scrape hard
-to get you off my boot. Understood?"
+to get you off my boots. Understood?"
 
-"Yes, captain."
+And there it was.  "Yes, captain," I said stolidly, lowering my eyes
+like the dutiful ordinary soldier I had never actually been.  Sure
+enough, she was wearing a pair of old-fashioned boots, square-toed
+lace-ups.  I remembered them from the *umram*, or rather, from after,
+the first time we celebrated a good match together.  They were her
+lucky boots, she told me as I tried to pull them off her, both of us
+drunk and already half out of our clothes.
 
-He nodded. "Good luck with the boy."
+She nodded to me. "Good luck with the boy."
 
-I resisted the urge to thump my chest. "Thank you, sir."
+I resisted the urge to salute. "Thank you."
 
-I took myself back down the stairs and home. I could feel my bed calling
-me, like Vurt's oath must have been calling him. Gaaah. If I could have
-slept through the next few days, I would have, but you can't beg a favor
-from the likes of Lady Kembe, then go back and say, "Mind holding your
-tea a moment while I take a nap?" Some coffee would help, though. There
-were probably students waiting at my gate, wondering where the old man
-was. And I had a pair of boots to steal.
+I took myself back down the stairs and home. I could feel my bed
+calling me, like Vurt's oath must have been calling him. Gaaah. If I
+could have slept through the next few days, I would have, but you
+can't beg a favor from the likes of Lady Kembe, then go back and say,
+"Mind holding your tea a moment while I take a nap?" Some coffee would
+help, though. There were probably students waiting at my gate,
+wondering where the old man was. And I had a pair of boots to steal.
 
 -----
 

@@ -518,7 +518,7 @@ stallion, I believe---it would please me if you would accompany them, and
 congratulate my cousin on his wedding."
 
 Exile. The new emir was setting aside the disreputable companion of the old
-emir-in-waiting. "Of course, Your Highness," I said.
+emir-in-waiting. "Of course, Your Grace," I said.
 
 The corner of his mouth twitched. "You would serve me also by remembering to my
 royal cousin in Ossiswe that the first colt out of each mare is mine, as are any
@@ -628,7 +628,7 @@ is...disrespectful."
 My mother's-side cousin and I did not speak. What was there to say?
 
 But the Karabandi had words. He *always* had words. "Well, yes, that's one way
-of looking at it, Your Highness, but desperate times make desperate men."
+of looking at it, Your Grace, but desperate times make desperate men."
 
 The emir looked up. "Indeed?" he said, raising his eyebrows slightly. "I had not
 realized the times were desperate."
@@ -645,7 +645,7 @@ music from a bass flute and oudh coming from somewhere I could not see. What I
 "And what *is* the common life like these days?" he asked, a lion trying to
 decide if a rabbit is worth chasing or not.
 
-"Oh, it's hard, Your Highness, harder than you know. Why, look at us.  Months we
+"Oh, it's hard, Your Grace, harder than you know. Why, look at us.  Months we
 spent, driving cattle down from Darp, and what do we get?  Look here." He turned
 his head and screwed up his face so the emir could see the gap in his
 teeth. "'ou 'ee? Lost that tooth in service, and there's my pay gone getting the
@@ -653,9 +653,9 @@ stump dug out. And it's not like my pension's going to help me."
 
 "Your pension," the emir sighed, not letting it be a question.
 
-The Karabandi nodded vigorously. "Armaq, Your Highness, not that anyone cares
-about that now. Disgraceful how gratitude evaporates once people don't need you
-any more."
+The Karabandi nodded vigorously. "Armaq, Your Grace, not that anyone cares about
+that now. Disgraceful how gratitude evaporates once people don't need you any
+more."
 
 "Mm." The emir steepled his fingers. "And which side were you on at Armaq?"
 
@@ -672,7 +672,7 @@ companion-in-wandering, whom I believe you met last night."
 
 There was a heartbeat of silence and then the Karabandi laughed, short and
 strong, as he had when we were captured. The emir raised his eyebrows. "Forgive
-me, Your Highness," the Karabandi said, still chuckling. "But like the Bantangui
+me, Your Grace," the Karabandi said, still chuckling. "But like the Bantangui
 say, *im awa pfa ta*."
 
 "Oh no, not this again?" the emir translated. The Karabandi nodded, his
@@ -731,8 +731,8 @@ The Karabandi nodded. "I am."
 "Mm.  So what would you have me do, Ishad? Since you seem to have appointed
 yourself one of my ministers."
 
-"Use us, Your Highness," the Karabandi said earnestly. "We did no harm. Didn't
-do any good either, I admit that, but let us earn it out."
+"Use us, Your Grace," the Karabandi said earnestly. "We did no harm. Didn't do
+any good either, I admit that, but let us earn it out."
 
 "Healing the worthy wounded seems a fair way to me to earn it out, as you put
 it" the emir observed. "In fact, two of my mother's---of *my* guards could use
@@ -753,7 +753,7 @@ The emir steepled his fingers again. "Are you proposing that I send you and your
 companions to destroy this creature, and then set you free?"
 
 The Karabandi shook his head vigorously. "I haven't proposed anything, Your
-Highness. But since you mention it---"
+Grace. But since you mention it---"
 
 The emir brought the palm of his hand down flat on his desk. Wisely, oh just
 that once wisely, the Karabandi darkened his mouth. "This is not a fairy tale,"
@@ -785,7 +785,7 @@ you kill the bonescuttle, your debt to the city will be paid. If not..." He
 shrugged. "Perhaps the creature will leave my people be for a day or two if it
 has you three to gnaw on."
 
-"Underground!?" the Karabandi protested. "Your Highness, these two are
+"Underground!?" the Karabandi protested. "Your Grace, these two are
 grasslanders! You can't send them underground---they'll go mad!"
 
 Perhaps it was a ploy, to impress the emir that he would think first of his
@@ -1418,7 +1418,7 @@ out of the city, he took a cudgel to her to teach her some manners.
 
 Well, that very night, the raccoons left one of his own cross-splice traps in
 the night jar under his bed. He lived, but he never walked the same way
-afterward.  The emir's guards didn't do more than take his name---His Highness
+afterward.  The emir's guards didn't do more than take his name---His Grace
 doesn't care much for slavers---but word got around pretty quickly that anyone
 who hurt one of the Gifted had better watch themselves.
 
@@ -3386,16 +3386,15 @@ straight up my nose. I resisted the urge to pick it.
 
 I shrugged. "Guess we've both been busy."
 
-"Guess so." She sighed. "His Highness would like to know what you were doing
-this morning. And please---" She held up a finger. "Please, don't say
-'sleeping'."
+"Guess so." She sighed. "His Grace would like to know what you were doing this
+morning. And please---" She held up a finger. "Please, don't say 'sleeping'."
 
-"Well, I'm sorry if I woke His Highness. Didn't realize he---"
+"Well, I'm sorry if I woke His Grace. Didn't realize he---"
 
 "No," Captain Leis said sharply. "No, no, no. You know perfectly well what I
-mean. If this had actually come to His Highness's personal attention, we
-wouldn't be having this chat here, would we? Now, what you were doing, and why
-shouldn't I care?"
+mean. If this had actually come to His Grace's personal attention, we wouldn't
+be having this chat here, would we? Now, what you were doing, and why shouldn't
+I care?"
 
 The royal collar of Coriandel is cursed, but it's a useful curse for those
 willing to pay its price. Among other things, it makes its wearer a good judge
@@ -3416,8 +3415,8 @@ I shook my head reluctantly. "No. Spur of the moment."
 
 "Yeah. There's this girl, and---"
 
-"His Highness takes a dim view of wild oaths, Armsmaster. And I don't mean,
-those of us who serve him take a dim view. He dislikes them personally. They
+"His Grace takes a dim view of wild oaths, Armsmaster. And I don't mean, those
+of us who serve him take a dim view. He dislikes them personally. They
 complicate governance."
 
 "Is that so? My, my... I'll have to remember that. Anyway, like I was saying,
@@ -8177,24 +8176,24 @@ could, my cheeks burning.
 "So." The emir picked up another pistachio. *Crack.* *Toss.* *Click-click* as
 the shell bounced across the floor. "You made it."
 
-"Yes, Your Highness." I kept my head down.
+"Yes, Your Grace." I kept my head down.
 
 "And your companion made it as well, I hear." He cocked his head to one side a
 moment. "That's his second time, isn't it?"
 
 Well, technically, he didn't actually go into the Tombs themselves this time. He
 found another way down to the pool and was there waiting for me when I came
-out. But all I said was, "Yes, Your Highness."
+out. But all I said was, "Yes, Your Grace."
 
 "Hm. Brave man. Are you a brave man too?"
 
 Twelve hours earlier I would have said yes, but that was before the
-bridge. "Depends, Your Highness."
+bridge. "Depends, Your Grace."
 
 "Oh?" He steepled his fingers under his chin, frowning as if trying to place my
 face. "On what?"
 
-I shrugged. "I don't run from fights, Your Highness, but I'm not sure that's the
+I shrugged. "I don't run from fights, Your Grace, but I'm not sure that's the
 same thing as being brave."
 
 He picked up another pistachio. "Not it isn't," he said softly, his mind
@@ -8203,13 +8202,13 @@ obviously elsewhere.
 Soft-soled shoes scuffed the stones behind me. The emir straightened up.
 "Well?" he barked. "Do you have her?"
 
-"No, Highness." I didn't turn to look at the speaker. "The madwoman's houseman
-went to her seeking help for his mistress. She and her maid chose poison."
+"No, Grace." I didn't turn to look at the speaker. "The madwoman's houseman went
+to her seeking help for his mistress. She and her maid chose poison."
 
 "Of course they did." The prince sighed. "Do what you need to, then prepare
 their bodies with all honors. We'll make a gift of them for the ambassador."
 
-"Highness." Soft steps receded. What had that all been about? Nothing to do with
+"Grace." Soft steps receded. What had that all been about? Nothing to do with
 me, whatever it was. Madwomen and poison---that was someone else's story.
 
 The emir sat brooding on his throne. One tiddle tum tum, two tiddle tum
@@ -8233,7 +8232,7 @@ Still? I shrugged. "Yes, m'lord, I suppose."
 eat today, and it would be a shame to let them go to the hogs."
 
 I stared at him for a moment. Where had I heard that before? "Thank you, Your
-Highness."
+Grace."
 
 I ducked my head and followed the guards out of the audience chamber. It must
 have been in one of Ishad's stories, or in one of the books Kerrem read to me

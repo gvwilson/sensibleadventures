@@ -3492,74 +3492,76 @@ I take a nap?" Some coffee would help, though. There were probably students
 waiting at my gate, wondering where the old man was. And I had a pair of boots
 to steal.
 
------
-
 ## Lady Kembe Has a Sleepless Night
 
 Ah, Swallow. I knew he would come back one day. The quiet life fit him no better
 than a turban a tiger. But truly, had it been so long? I must suppose. When you
-have two hundred and seventy eight years, it is no thing to miscount a decade
+have four hundred and seventy eight years, it is no thing to miscount a decade
 here and there.
 
-And a young to protect now. Ah, ah, Swallow. You mind me of my own
-awakening. Not enough, revenge. Not enough to save myself. Not even enough
-perhaps to save the world, but what else but to try?
+And a young to protect now. Ah, ah, Swallow. You mind me of my own awakening.
+Not enough, revenge. Not enough to save myself. Not even enough perhaps to save
+the world, but what else save to try?
 
 Oh yes, I still remember my young days. I did not use *that* spell for long
 life, such that steals a day from you each time you sleep, so the span of life
 you remember is never longer than it was the day you struck your bargain. And
-not Markham of Capligan's little trick neither, that ages you only such times as
-someone shows you kindness. Many more a few choose that one, most often those as
-were weedy children and had themselves pushed around at play. They tell to
-themselves stories making stony towers of art in the wilderness and perfecting
-their art in silent isolation, but all I have known who take that path go mad in
-time from the loneliness of it.
+not the little compact of Yangkey of Lhabde neither, that ages you only such
+times as someone shows you kindness.  Many more a few choose that one, most
+often those as were weedy children and had themselves bullied at play. They tell
+to themselves stories of making stony towers of art in the wilderness and
+perfecting their art in silent isolation, but all I have known who take that
+path go mad in time from the loneliness of it.
 
-I had forty years when I chose my own proper path. I was rich and somewhat close
-to famous, new settled in this house. It felt the right time.
+I had seventy years when I chose my own proper path. I was rich and somewhat
+close to famous, new settled in this house. It felt the right time.
 
 My bargain was to give over traveling. And I step outside these walls, the years
-I have hidden from will come down on me. My heart will shrivel up like a prune,
+I have hidden from will come down on me.  My heart will shrivel like a prune,
 the flesh will fall from my bones, and I will thank that you not think about my
 bowels, though some of my esteemed colleagues would pay gold and diamonds to see
-it happen, strictly out of professional interest.
+it happen---strictly of professional interest, or such would they say.
 
 Those waiting years were perched outside my window that night as I sat in my
 study and stared at the wall. A bonescuttle... Names of the sea, why a
-bonescuttle above ground in such season? They were of the underearth, liking
-open sky and fresh air not at all. I drummed my fingers on my desk. Something
-had driven it into the upper air, or someone had called it. But then why a
-bonescuttle? If for murder, then better a lion or gargoyle.
+bonescuttle above ground in such season?  Or at all?  They were creatures of the
+underearth, liking open sky and fresh air not at all. I drummed my fingers on my
+desk. Something had driven it, or someone had called it. But then why a
+bonescuttle? Why not a lion, or a gargoyle, or to wreak true havoc, some small
+crawling obscenity as would plant seeds of madness in the unsuspecting.  Or a
+simple plague.  Saints and Pilots, on some days I would trade touch and taste
+alike for a simple plague.
 
 Unless... Ishad. My Swallow. He killed one, some years gone. That was how he
 came to stay in Coriandel, was it not? Or did I misremember?
 
-I frowned. Magicians have tried since time to make a spell of perfect
-memory. None of us having ever found one, the real secret of a happy old age is
-the keeping of good notes.
+I frowned. Magicians have tried since time to make a spell of perfect memory.
+None of us having ever found one, the true secret of a happy old age is the
+keeping of good notes.
 
 I closed my eyes and pictured the book I needed. Black leather, two hands tall
 and a thumb joint thick, with "Swallow" written in gold on the spine. Slightly
 dusty, most likely, but the leather still supple...  I could almost smell it,
-and then I *could* smell it. I opened my eyes.  It lay on my desk, having been
-a-shelf in my basement.
+and then I *could* smell it.  When I opened my eyes, it lay obediently on my
+desk, having been a-shelf in my basement moments before.
 
-I paged through it to remind myself of Ishad's interrupted story. He had made
-half a dozen jobs for me in as many years, but emptied his pockets as quickly as
-I filled them. I had no note of how he came to Coriandel, but somehow he tangled
-himself up in a scheme to steal some of Oro's horses. Oro---no, Emir Oro, I
-ought to remember that---sent him into the Tombs with two Darpani. He emerged of
-the morning bearing the bonescuttle's head and a lock of hair from one of his
-companions.
+I paged through it to remind myself of Ishad and his interrupted story. He had
+carried half a dozen tasks for me in as many years, but emptied his pockets as
+quickly as I filled them. I had no note of how he came to Coriandel, but somehow
+he tangled himself up in a scheme to steal some horses of Oro---no, Emir Oro, I
+must need remember that.  He sent Ishad into the Tombs with two Darpani. He
+emerged of the morning bearing the head of the bonescuttle and a lock of hair.
 
-I frowned again. He burned the lock of hair with the proper words, my younger
-self had written, but what of the other Darpani? And his spirit was still down
-there, it might have driven the bonescuttle to the surface. *Armnepeteli*, they
-would name it, a ghost's desire riding out in flesh.
+I frowned again. My younger self did write that he burned the lock of hair with
+the proper words, but what of the second Darpani? And his spirit was still in in
+the underearth, it might have driven the bonescuttle to the surface.
+*Armnepeteli*, they would name it, the desire of a ghost inspiring flesh to
+action through dreams and whispers.
 
 But no, that felt infirm. Perhaps a year after his death, or at the birth of a
-child, but after so years? I made quick sums in my head. The stars were nothing
-like they had been then.
+child, but after so many years? I took another book from the shelf beside me,
+one rather printed in Gandan than penned by me, and made quick sums in my
+head. The stars were shaped not at all as they had been then.
 
 So, someone had called the creature. Who and why? Or rather, why, which would
 tell me who. My finger went *pat patta pat* as I stirred possibilities in my
@@ -3569,128 +3571,150 @@ crimes. She made a hat out of my cat, *pat patta pat*. She cooked my ears in
 garlic, *pat patta pat*. She---
 
 I stilled my fingers. Why that song? Earlier, before that I spoke with Swallow,
-I had been humming the one my housekeeper sang as she swept.  Why a different
-song now? Why *that* song?
+I had been humming one as my housekeeper sang when sweeping.  Why a different
+song now?  And why that one?
 
 I studied myself in the mirror that hung next to my desk. I was completely bald,
 price of the first spell my grandfather taught me. It was the first he had
 learned, and his aunt before him, and her mother-by-marriage before her. That
-spell was why my people called magicians *igbe ye*, "bald strength". The
-Seyfertoise word was *sorçir* from an older word *surreppeçiere* "one who
-whispers". And in Ruuda, I would be an *ælfwif*, a "wind wife". They are
-seafarers, the Ruudians, full of small spells for calling winds or hiding from
-them.
+spell was why my people called magicians *igbe ye*, "bald strength". The Aranese
+word was *sorçir* from an older word *surreppeçiere*, "one who whispers". And in
+Ruuda, I would be an *ælfwif*, a "wind wife". They are seafarers, the Ruudians,
+forever making small bargains to call winds or hide from them.
 
 I felt it again then, that feather-light touch of certainty that meant I was on
 the right track. Was this something to do with the Ruudians? No.  With the sea?
-With hiding? With wives? With---yes. This was a story of evil stepmothers, or
-partly.
+With hiding? With wives? With---truly?  I snorted. This was a story of evil
+stepmothers, or partly, and oh, would the balladeers not rejoice should they
+learn of it.
 
 I stood and re-tied the waist string of my trousers. They were made of light
-cotton dyed with alternating stripes of black and dark blue. My tribe's colors,
-though only scholars and I remembered that. The Mrulu killed most of us and sold
-the rest into slavery so they could grow coffee on our land. It was still a new
-thing in the north at such years, the black gold that brought far more of the
-metal kind than cassava or rice. Their spies had come first among us to find our
-weaknesses, then---
+cotton dyed with alternating stripes of black and dark blue.  The colors of my
+tribe, though only scholars and I remembered such now. The Emrulu killed the
+greater part of us and sold into slavery the rest so they could grow coffee on
+our land. It was still a new thing in the north at such years, the black gold
+for which would be given far more than cassava or rice. Their spies had come
+first among us to find our weaknesses, then---
 
-Spies. That was part of it too. I snorted and shook my head. Spies and evil
-stepmothers? What was this that Ishad had dropped into my stew? I needed some
-fresh air.
+Spies. That was part of it too. I snorted again and shook my head. Spies and
+evil stepmothers? What nonsense was this that Ishad had brought to me? I needed
+some fresh air.
 
-As most houses in the Karaband, mine was two stories tall and shaped like a
-figure eight. The front courtyard was for public occasions, and was all most of
-my helpers ever saw. They brought me hither news and did what I bade them, and
-received gold, magic, and information in return.  It was a business arrangement,
-nothing more.
+As most houses in the Karaband, mine had two stories in height and was shaped
+around two courtyards.  That in the front was for public occasions, and was as
+much as most of my helpers ever saw. They brought hither news and did such as I
+bade them, and received gold, magic, and information in return.  It was a
+business arrangement, nothing more.
 
 A few, like Swallow, I invited to sit with me in the courtyard at the back. Some
-years I filled it with lush green plants to remind myself of the lost jungle of
-my youth. Other years I took pity on my housekeeper and kept just a few cacti
+years I filled it with lush green plants as to remind myself of the jungle of my
+lost youth. Other years I took pity on my housekeeper and kept but a few cacti
 and potted shrubs. These were much easier to water, and did not drop sticky sap
 on the paving stones.
 
-That year, a wicker cage full of exotic birds filled the center of the
-courtyard. The sadies and ao aos inside it were asleep with their heads tucked
-under their wings, though the toadingales still burped softly to one another. I
-looked in at them and felt another certainty. Caged birds...
+That year, a wicker cage for exotic birds filled the center of the courtyard.
+The sadies and ao aos inside it were asleep with their heads tucked under their
+wings, though the toadingales still burped softly to one another. I looked in at
+them and felt another certainty. Caged birds...
 
 I leaned my forehead against the wicker and sighed. I knew a dozen spells for
 discovering things unknown, all of them more direct than the one I was using
-this night. Idjfikan's Device gave you true answers to three questions asked
+this night.  That of Idjfikan gave you true answers to three questions asked
 three times, but only worked if you sent an innocent to their doom that day. The
-Baker's Gift brought the answer to your door, but doubled your appetite. Maerie
-of Ensworth used it four times and ended her day choking on a currant bun, or so
-they say.
+Gift of the Baker brought the answer to your door, but doubled your appetite.
+Maerie of Praczedt used it four times and ended her life choking down a
+hundredth currant bun, or so they say.
 
 The spell I was using was subtlety next to them. It told me nothing
 directly. Instead, it twinged me with certainty whenever I stumbled over a piece
-of the puzzle, leaving to me to tie them together. The price was very
-reasonable---if I wanted a knot to stay tied, I had a housekeeper, did I not?
-And it was fun, in a way, the game of weaving together threads from a thousand
-stories to make a whole garment.
+of whatever puzzle ailed me, leaving to me to make of them a whole. The price
+was very reasonable---if I wanted a knot to stay tied, I had a housekeeper, did
+I not?  And it was fun, in a way, the game of weaving together threads from a
+thousand stories to make a garment.
 
 I wandered as restless as a ghost for what was left of the night. My thoughts
-ranged blew hither and yon, from the stick and string games of my childhood to a
-joke a future king of Ensworth once made about fencing, from the growing
-political tension in Ruuda to whether I could find any baklava in my kitchen
-without waking my housekeeper. It turned out that I could, and by then I had the
-beam of my story. There was a girl kept caged by her aunt, and Ishad's boy, and
-there had been something between Ishad and the aunt.
+blew hither and yon, from the stick and string games of my childhood to a joke a
+future king of Uws once made about fencing, from the growing political tension
+in Ruuda to whether I could find any baklava in my kitchen without waking my
+housekeeper.  It turned out that I could, and by then I had the ribs of my
+story. There was a girl kept caged by her aunt, and the boy of whom Ishad had
+spoken, and there had been something between Ishad and the aunt.
 
-Had that been the all of it I would have spelled the boy's boots for remembrance
-of the time Ishad spent in my private courtyard and been done with it. But every
-thought of the girl twinged. I felt as though I ought to know her. Sehdie... The
-name meant nothing. I wrote it on a lettuce leaf and fed it to one of my
-turtles, then dipped its feet in ink. Its slow reptilian calligraphy sketched
-the answer to my question.  The name meant nothing yet, but it would. She and I
-would know each other. A day would come when she would be right and I would be
-wrong, but not if she stayed in Coriandel, and not if she stayed with the boy.
-The world and I needed her to be elsewhere, and with someone else.
+Had that been the all of it I would have sent some luck to the boy for
+remembrance of the visits Ishad had made to my private courtyard, and of how we
+spent them, and been done with it. But every thought of the girl twinged. I felt
+as though I ought to know her. Sehdie... The name meant nothing. I wrote it on a
+lettuce leaf and fed it to one of my turtles, then dipped its feet in ink. Its
+slow reptilian calligraphy sketched the answer to my question.  The name meant
+nothing yet, but it would. She and I would know each other. A day would come
+when she would be right and I would be wrong, but not if she stayed in
+Coriandel, and not if she stayed with the boy.  The world needed her to be
+elsewhere, and she needed to be with someone else.
 
 And something more still nagged beneath that knowledge, a stillness like the
 quiet around the grass where a tiger lurks. Someone was hiding something, which
-was far more interesting than a bitter old woman trying to steal her niece's
-life away.
+was far more interesting than a bitter old woman trying to smother the spirit of
+her niece from bitterness at her own waste of a life.
 
 It took me four hours to slither past that blank unknowing. Four hours, two
 handfuls of very rare incense, three silver nails, and I would never be able to
 drink strong spirits from a clean glass again, but I knew what I was facing. The
 Bantangui were back in Coriandel.
 
-Rot them. Rot and ruin rain down upon them. I spent fifty years tripping up
-their attempts to put their hands to the throat of trade across the Karaband. I
+Rot them. Rot and ruin rain down upon them. I spent fifty years tripping their
+attempts to put their hands to the throat of trade across the Karaband. I
 thought they had learned their lesson, but no. They were behind this, which
-meant that once again I would have to do something, because that was the price
-of my greatest spell. I had always to do what I thought was right.
+meant that once again I would have to do something, because that was the price I
+had agreed to. I had always to do what I thought was right.
 
 It had seemed an excellent bargain when I made it, young and sure, but after
 wars and ruined lives and notebook shelved upon notebook full of conspiracy,
-intrigue, and misunderstanding, I was no longer sure. That spell had helped me
-break the Mrulu, so that no other little girl would see them hack her parents to
-pieces, or be beaten whenever she spoke above the whisper allowed to slaves. But
-the civil war in Thind might have ended a century ago if not for my
-unyielding. Occam the Bloody might never have become king.
+intrigue, and misunderstanding, I might no longer claim certainty.  It had
+helped me break the Emrulu, so that no other little girl would see them hack her
+parents to pieces, or be beaten whenever she spoke above the whisper allowed to
+slaves. But the civil war in Thind might have ended in a decade saving three had
+I been able to do other than what my conscience dictated, and Ifan Bloody would
+never have risen to the collar of Uws.
 
 I touched the wings tattooed on my neck. Those who saw them believed them part
-of a spell, but they were not. I put them on myself after Occam's Bath. If
-anyone else from my tribe had still been alive, they would have understood.
+of a spell, but they were not. I put them on myself after Ifan's March. Had
+anyone else from my tribe still lived, they would have understood.
 
-I woke after dawn in a chaise beside my birds, the hope of fresh coffee in my
-nostrils. "I hope you haven't been here all night," my housekeeper scolded as
-she set down her tray. "That robe's nothing for the chill."
+What followed I would never commit to a page, not even my own notebooks.  Others
+have tried to write of magic, of what it is to strike bargains and of who or
+what they are struck with.  Poets have learned magic, magicians have learned
+poetry, and all have failed to make meaning of it in words.  Even to call it a
+bargain is wrong, but to call it such is older than me, older even perhaps than
+the Pilots.  I gave of myself my knowing of the word for "blue" in Aranese,
+never again to be mastered, and in return was given direction that meant nothing
+to me and less to Ishad when I woke him to instruct him in it.
 
-"I'm fine," I yawned. She was a fifth my age, but fussed over me like a mother
+Boots.  The first person to speak of such to him, he was to take theirs and wear
+them into the underearth.  I had not any idea why---that knowing would have cost
+me far more than the simple instruction, and every old magician must by needs
+not be greedy, or they will neither be old.
+
+So I told Ishad, and sat myself to listen to my toadingales burp, and wondered.
+One word of Aranese was far less a price than I had expected to pay.  Was
+something or someone easing my passage?  If so, was it a trap laid by the
+Bantangui, or by some jealous colleague?
+
+I woke after dawn, still in the chaise beside my birds, the hope of fresh coffee
+in my nostrils. "I hope you haven't been here all night," my housekeeper scolded
+as she set down her tray. "That robe's nothing for the chill."
+
+"I live," I yawned. She was a fifth my age, but fussed over me as would a mother
 hen. "Some baklava would help warm me, though."
 
 I loved the early hours of the day. They made everything fresh, full of hope and
 possibility. My two apprentices would be stirring soon, Thomas and the
-silversmith's boy. I yawned. The silversmith's boy was coming along fine, but
-Thomas was a problem. Smart, ambitious, impatient---I doubted he would see
+silversmith girl. I yawned. The silversmith girl did progress as she should, but
+Thomas was now a problem. Smart, ambitious, impatient---I doubted he would see
 twenty, despite his talent. He was of the sort to make a bad bargain, to take on
 too many spells too quickly and discover that one with another meant that food
-could never pass his lips or some such thing. He would trust his bald strength
-too greatly, and then I would have to find another apprentice.
+could never pass his lips or some such thing. He would trust his own bald
+strength too greatly, and then I would have to make certain that his ghost
+rested and find another to teach.
 
 My housekeeper brought me fresh warm yogurt in a plain porcelain bowl.  Wonder
 of wonders, she brought a new lemon as well. "Where found you this?" I asked.
@@ -3698,33 +3722,35 @@ of wonders, she brought a new lemon as well. "Where found you this?" I asked.
 She scowled to hide a smile. "Never you mind. There'll be flat cakes and dates
 in a moment too." She spoils me, just as did her father and grandmother.
 
-I slept again once the sun found me, then washed my face and other parts and
-returned to my study. I set both pieces of dayglass out on the walkway to soak
-up some sunlight, willed the book I had fetched last night back to its place on
-the shelf in the basement, and opened the shutters. I could just tell Oro. He
-was as touchy about Coriandel's independence as his mother had been.
+I drowsed again once the sun found me, then washed my face and other parts and
+returned to my study, still troubled by the ease with which I had for Ishad
+found an answer. I set both pieces of dayglass out on the walkway to soak up
+some sunlight, willed the book I had fetched last night back to its place on the
+shelf in the basement, and opened the shutters. I could just tell Oro. He was as
+touchy about the independence of his city as had been his mother.
 
-But too he was touchy about his own independence, and with cause. No ruler wants
-a two hundred and seventy eight year old magician looking over their
+But also he was touchy about his own independence, and with cause. No ruler
+wants a four hundred and seventy eight year old magician looking over their
 shoulder. How then?
 
 I climbed to the roof to watch my neighbors and their housekeepers walk down to
 the Lame Gate market. Melons and courgettes, sacks of barley and little bags of
 almonds, a new edge on a pair of scissors or some thread to embroider a wedding
-shawl... I could borrow Thomas's eyes and ears and send him out for the day to
-join them, but he would resent me for it. I could only see through his eyes when
-he had them closed, and hear through his ears only when he stopped them up to
-make himself deaf. He would hate to sit such in the market just so I could take
-in a little bit of the world I kept trying to save.
+shawl... I could borrow from Thomas his eyes and ears and send him out for the
+day to join them, but he would resent me for it. I could only see through his
+eyes when he had them closed, and hear through his ears only when he stopped
+them up to make himself deaf. He would hate to sit such in the market just so I
+could take in a little bit of the world I kept trying to save.
 
 I sighed, closed the shutters, and went to the cabinet opposite the window and
 opened the drawer marked "Wave". A poem inscribed on a scrap of leather lay
-inside, along with a few other odds and ends of his. It had been Tulip's drawer
-before him, and---whose before that? I couldn't remember. I knew I had it
-written down somewhere, though.
+inside, along with a few other odds and ends of his.  The drawer h been for
+Tulip before him, and---whose before that? I could not remember.  It would be
+scribed somewhere, but no matter, no matter.
 
 I sat down at my desk and set the bracelet in front of me. One long, slow
-breath, and I looked up at my mirror and said, "Wave, I need to speak with you."
+breath, and then I looked up at my mirror and said, "Wave, I need to speak with
+you."
 
 -----
 

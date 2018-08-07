@@ -2896,8 +2896,9 @@ Right on cue, Oë entered with the coffee service. "What strange fate that you
 should say that," I said. "Because I did."
 
 "You---oh, no, no sugar in mine. I have mentioned that, I believe?"  Eleñima
-waved Oë away. She ducked her head and withdrew, no doubt to re-check her supply
-of poisons.
+waved Oë away. She ducked her head and withdrew, no doubt to re-check the supply
+of poisons she kept in a satchel she had stolen for me from a beggar boy in the
+marketplace.
 
 I cleared my throat. "Yes, I studied magic. A little.  Not as it is practiced
 here.  None of this vulgar chanting and having your hair fall out and what-not.
@@ -3754,89 +3755,93 @@ you."
 
 -----
 
-## Vurt's Gloves
+## Then: Vurt's Gloves
 
 Ishad told me once that you can't ever know the whole story about anything. You
 can't even say that you know the important bits, because the bits that are
 important to you aren't necessarily important to everyone else.
 
-"So what's the point?" I asked. I was holding a wet towel against my nose, so my
-words came out muffled.
+"So whad's th' poind?" I asked. I was holding a wet towel against my nose, which
+made my words come out muffled.  That, and the fact that my nose was broken at
+the time.
 
 He shrugged. "Better half a meal than none. Don't press so hard, it's not a
 tourniquet."
 
-"I don't think it's doing any good."
+"I do't thig id's doig ady good."
 
-"Would have if you'd come to see me right away," he said sharply. "Here, let me
-have another look."
+"Well, you'd be doing a damn sight better if you'd come to see me right away,"
+he said sharply. "Let me have another look."
 
-I took the towel away and looked at him defiantly. My nose was starting to
-swell. If I turned my head too quickly, it took the insides of my ears a moment
-to catch up.
+I took the towel away and glared at him defiantly. My nose had swollen and was
+changing color. If I turned my head too quickly, it took the insides of my ears
+a moment to catch up.
 
-Ishad shook his head. "Bloody mess. What were you doing looking at gloves,
-anyway? I've got plenty of old gloves you can borrow."
+Ishad shook his head. "Bloody mess.  Why were you looking at gloves, anyway?
+I've got plenty of old ones you can borrow."
 
-Which wasn't the point, but at thirteen I didn't expect grownups to
-understand. I hadn't really gone to the market that day to look for gloves. I
-just hadn't wanted to go home after school. Kerrem had just been put in charge
-of the group I was in. He'd been trying to teach us fractions all week, but I
-couldn't make soup or stew out of them. Being stupid made me feel angry.
+Which wasn't the point, but at thirteen I didn't expect grownups to understand.
+I hadn't really gone to the market that day to look for gloves. I just hadn't
+wanted to go home.  Kerrem had taken over teaching the group I was in at school.
+He'd been explaining fractions to us all week, but I still couldn't make soup or
+stew out of them, and being stupid made me feel too angry for chores.
 
-What was worse, Kerrem obviously loved teaching as much as he loved reading and
-poetry and all the rest of it. He'd get his bookster''s license the day he
-turned sixteen, marry someone who knew more about Darpani clan ballads than she
-did about cooking, and live happily ever after. And me? I was going to be a rat
-catcher like my father, just one step up from cleaning gutters or selling
-coffee.
+What made it worse was that Kerrem obviously loved teaching as much as he loved
+reading and poetry and all the rest of it. He'd get his bookster''s license the
+day he turned sixteen, marry someone who knew more about Darpani clan ballads
+than she did about cooking, and live happily ever after. And me? I was going to
+be a rat catcher like my father, just one step up from cleaning gutters or
+tanning leather.
 
-So instead of going home to work on spring traps and mineral powders, I turned
-left on Second Moon Street, spent five minutes stacking boxes for Aziz's mother
-in exchange for a tangerine, and lost myself in the market. There were
-marionettes from Ensworth and Colway with swords and shields in their hands, and
+So instead of going home to make spring traps and stupid mineral powders, I
+turned left on Second Moon Street, spent five minutes stacking boxes for Aziz's
+mother in exchange for a tangerine, and lost myself in the market. There were
+marionettes from Chaghan and Gandan with swords and shields in their hands, and
 a matching pair of newly-made swords at Old Gallant's, and flags of all sizes,
 and riding cloaks whose silk linings were as red as blood, and there, tied
-together with a length of black ribbon, a pair of dueling gloves exactly the
-right size for my hands.
+together with a length of black ribbon, a pair of dueling gloves exactly my
+size.
 
 The gloves were black goatskin leather with thin steel plates sewn on the
 backs. The palms were sanded and whipped to give a sure grip. They probably cost
-more than my parents earned in two busy weeks.
+more than my parents earned together in two busy weeks.
 
-I studied them hungrily. The ribbon that held them together was looped through
-the wicker shelf they lay on to stop passers by picking them up.  The stall
-keeper was busy talking to a Darpani about mending a hat. He glanced at me but
-didn't shoo me away, so I put my satchel down and fingered the top glove. The
-leather was just the slightest bit stiff so that the gloves would mold
-themselves to their wearer's hands. I'd outgrow them in a year, but so what?
-Girls would pay a lot more attention in that year to a young bravo in gloves
-like those than they would to an apprentice rat catcher.
+I don't know if I drooled or not. The ribbon that held them together was looped
+through the wicker shelf they lay on to stop passers by picking them up.  The
+stall keeper was busy talking to a Darpani about mending a hat. He glanced at me
+but didn't shoo me away, so I put my satchel down and fingered them. The leather
+was just the slightest bit stiff so that the gloves would mold themselves to
+their wearer's hands. I'd outgrow them in a year, but so what?  Girls would pay
+a lot more attention to a young bravo in gloves like those than they would to an
+apprentice rat catcher.
 
-That's when the two boys who'd been walking by started making jokes about how
-tough Coriandel's rats must be if you needed gear like that to handle them. Or
-maybe the rats weren't tough. Maybe the rat catcher's boy was just scared of
-getting nipped or scratched. Maybe he should try gardening instead. Oh, no,
-wait, then there would be thistles and thorns.
+That's when the two boys behind me started making jokes about how tough
+Coriandel's rats must be if you needed gear like that to handle them.  They were
+from the school up the street from mine, one with proper wooden shutters on its
+windows and a teacher who was actually sober most of the time.  I don't know why
+the recognized me, but it was pretty clear from the sneers and sniggers that
+they did.
+
+Yeah, Coriandel's rats must be pretty tough.  Or maybe the rats weren't tough.
+Maybe the rat catcher's boy was just scared of getting his pretty little hands
+scratched.  Maybe he should try gardening instead. Oh, no, wait, then there
+would be thistles and thorns.
 
 "The easiest fights to win are the ones you don't have," Ishad told me, time and
-time again. Besides, they were older than me---fourteen or fifteen---and there
+time again. Besides, they were older than me---fifteen or sixteen---and there
 were two of them. I picked up my satchel and walked away, but they followed me.
 
-Looking back, I guess they were just bored. Or maybe they were like me.  Maybe
-they couldn't afford any of the things they wanted either, and pushing someone
-like me around was just a way to take their minds off it for a while. Whatever
-the reason, they kept pace a few strides behind me, still cracking jokes. If I
-was that afraid of rats, I must sleep with a night light. Or with my
-mother. Yeah, that was it---I probably still slept with my mother. Hey, maybe
-that's what the gloves were for...
+Looking back, I guess they were just bored. Or maybe they couldn't afford the
+things they wanted either, and pushing someone around was a way to take their
+minds off it for a while. Whatever the reason, they kept pace a few strides
+behind me, still cracking jokes. If I was that afraid of rats, I must sleep with
+a night light. Or with my mother. Yeah, that was it---I probably still slept
+with my mother. Hey, maybe that's what the gloves were for...
 
-That's when I discovered that sometimes walking away isn't the right thing to
-do. Kerrem put it into words for me later. "Sometimes," he said, trying his best
-to look profound, "Sometimes violence does less harm to your soul than silence."
+I asked Ishad afterward if he'd ever actually walked away from any fights.
+"Plenty," he said.  "Well, some.  A few, anyway.  I must have done."
 
-I didn't know anything about souls. All I knew was that I'd had enough.  Five
-strides ahead, a narrow alley ran off to my right between a warehouse and a
+Five strides ahead, a narrow alley ran off to my right between a warehouse and a
 tinsmith's. With a quick glance over my shoulder, I ducked into it as if to run
 away, dropped my satchel on the cobblestones, and kicked the first boy in the
 plums as he came around the corner.
@@ -3848,13 +3853,13 @@ for---"
 
 A hand grabbed my shoulder and dragged me off him. I had just a glimpse of the
 first boy's face before his forehead crunched into my nose. I staggered back,
-tripped over the boy I'd thrown, and fell.
+tripped over the boy I'd thrown to the ground, and fell on my bony young ass.
 
-The first boy helped the second one up as I scrambled back up. I backed away as
-they advanced, murder written on their faces. I didn't know yet that my nose was
-broken, but I was half blind from the pain. There were two of them, each a few
-gourds heavier than me. Their arms were longer than mine, and they were smart
-enough to split up, one on each side of the alley.
+The first boy helped the second one up as I scrambled back to my feet. I backed
+away as they advanced, murder written on their faces. I didn't know yet that my
+nose was broken, but I was half blind from the pain. There were two of them,
+each a few gourds heavier than me. Their arms were longer than mine, and they
+were smart enough to split up, one on each side of the alley.
 
 I spat out the blood that had dripped into my mouth. This was going to hurt.
 
@@ -3876,32 +3881,33 @@ over my head. A spatter of blood landed on my chest and slid down toward my
 navel. Another joined it.
 
 "I'b sorry," I said, sniffling. Nobody answered. I looked up from my misery. The
-two women were gone. So was my satchel.
+two women were gone. So was my weeping stupid satchel.
 
 It took a moment for that to register. My satchel was gone. The book Kerrem had
-loaned me the month before was in it. So was all my rat catching gear---my
-traps, my poisons, the guaranteed odorless cotton thread my mother had given me
-for my birthday, everything. I struggled to my feet and looked down the
-alley. It wasn't there. Of course it wasn't---it had been right there, where I'd
-dropped it, right next to where the two women had been standing.
+loaned me the month before was in it. So was my rat catching gear---my traps, my
+poisons, the guaranteed odorless cotton thread my mother had given me for my
+birthday, everything. I struggled to my feet and looked down the alley. It
+wasn't there. Of course it wasn't---it had been right there, where I'd dropped
+it, right next to where the two women had been standing.
 
-I covered my bloody face with my hand and poked my head out of the alley's
-mouth. Nothing. I couldn't see them. Of course I couldn't. They had just stolen
-my satchel. They weren't just going to hide around the corner so that they could
+I covered my bloody face with my hand and poked my head out of the alley.
+Nothing. I couldn't see them. Of course I couldn't. They had just stolen my
+satchel. They weren't just going to hide around the corner so that they could
 jump out at me and say "boo!" No, odds were that they were going to sell what
 they could and throw the rest into a pig trough. And if I ever saw them again,
 they'd look me right in the eye and swear on their unborn grandchildren that
 they didn't know what I was talking about.
 
 I don't know how long I stood in that alley. Not long, probably. I thought about
-running away. I could stow away with a northbound caravan, like Ishad did when
-he was my age. Or I could bash my face with a brick a few times to make things
-look so bad that my parents wouldn't even ask about my satchel. Instead, I
-kicked the wall a few times, then put my shirt back on. To hell with running
-away. I said it out loud: "To hell with running away." And to hell with being a
-rat catcher, too. I was going to be somebody that people would cross the street
-rather than rob.  I was going to be the kind of person who deserved to wear a
-fine pair of gloves.
+running away. I could sign on with a southbound caravan, like Ishad did when he
+was my age, and take my chances that they wouldn't sell me for a slave as soon
+as they crossed the mountains into Barra Bantang. Or I could bash my face with a
+brick a few times to make things look so bad that even my father wouldn't ask me
+about my satchel. Instead, I kicked the wall a few times, then put my shirt back
+on. To hell with running away. I said it out loud: "To hell with running away."
+And to hell with being a rat catcher, too. I was going to be somebody that
+people would cross the street rather than rob.  I was going to be the kind of
+person who deserved to wear a fine pair of gloves.
 
 -----
 

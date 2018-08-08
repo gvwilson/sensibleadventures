@@ -3907,7 +3907,7 @@ And to hell with being a rat catcher, too. I was going to be somebody that
 people would cross the street rather than rob.  I was going to be the kind of
 person who deserved to wear a fine pair of gloves.
 
-## Sehdie in the Umram
+## Recently: Sehdie in the Umram
 
 Stories always have a lot to say about heroes, but what about their prizes? What
 about the emir whose curse the heroine lifts, or the princess that the handsome
@@ -4222,15 +4222,13 @@ giddy in the darkness. I closed my eyes and imagined all the things he could
 have said to me and what I could have said to him in return until I drifted on a
 cloud into dreams.
 
------
-
-## A Conversation in an Alley
+## Recently: A Conversation in an Alley
 
 "So you just shoved the flowers at her and ran away?"
 
 "I didn't run away!"
 
-"Well what did you do?"
+"Well then what *did* you do?"
 
 "I did what you told me to! I took her flowers!"
 
@@ -4238,19 +4236,20 @@ cloud into dreams.
 
 "Like what? What was I supposed to say?"
 
-"Saints and all their mercies. The whole point is to say something to her! You
-don't just shove a bunch of flowers at a girl and then disappear into the
-night. Well, all right, maybe you can get away with that the once, but you're
-supposed to stick around long enough to talk to her, at least a little."
+"Saints and their inventions. The whole point is to say something to her! You
+don't just shove a bunch of flowers at a girl and then disappear into the night.
+Well, all right, maybe you can get away with that the once, but you're supposed
+to stick around long enough to talk to her, at least a little."
 
 "Well, thanks for letting me know. Shame you didn't think to tell me
 beforehand."
 
 "Saints. All right, listen. No, listen with your mouth closed. It's not the end
 of the world. The next time you see her, tell her that you thought you heard
-someone coming and you didn't want to endanger her reputation. That ought to be
-romantic enough. No, wait, on second thought, just tell her you thought you
-heard something in the alley.  Better not remind her about her reputation."
+someone coming and you didn't want to, to, to jeopardize her reputation. That
+ought to be romantic enough. No, wait, on second thought, just tell her you
+thought you heard something in the alley.  Better not remind her about her
+reputation."
 
 "What do you mean? There's nothing wrong with her reputation!"
 
@@ -4303,7 +4302,7 @@ on someone?"
 "Saints in sandals, would you lighten up? I was just spouting."
 
 "No, I'm serious, what did you mean? And don't just sigh at me and give me that
-'I'm so tired' look. I really want to know."
+look. I really want to know."
 
 "Really?"
 
@@ -4335,9 +4334,9 @@ ever laugh."
 around, either. Even when we were kids, you were always scowling at everyone."
 
 "Saints, what is this? Was there some sort of proclamation, and I'm the only one
-who didn't hear it? 'All hearken, all hearken, his royal highness the Emir Oro,
-third of that name, hereby declares that today is Coriandel's first annual
-festival of kicking Vurt when he's down.' I think I'd remember hearing that."
+who didn't hear it? 'All hearken, all hearken, His Grace the Emir Oro, third of
+that name, hereby declares that today is the first annual festival of kicking
+Vurt when he's down.' I think I'd remember hearing that."
 
 "Keep... your... voice... down! And give me back that damned bottle. I thought
 you said you didn't want to show up at Ishad's all stinky-breath tomorrow."
@@ -4352,19 +4351,19 @@ didn't tell you to say something sweet to her instead of just---"
 
 "Thump me? Saints, now who's twelve?"
 
-"Don't even know why I'm listening to you. I mean, what the hells makes you such
-an expert on women?"
+"I don't even know why I'm listening to you anyway. I mean, what the hells makes
+you such an expert on women?"
 
-"I have two brothers, three sisters, and more cousins than a camel has
-fleas. Half of them write poetry, and the rest can probably recite every tragic
-soliloquy written in the last two hundred years. I've seen them in love, out of
-love, next door to love, puking up their guts in love's outhouse---you name it,
-I've seen it."
+"I have two brothers, three sisters, and more cousins than a camel has fleas.
+Half of them write poetry, and between them the rest can probably recite every
+tragic soliloquy written in the last two hundred years. I've seen them in love,
+out of love, next door to love, puking up their guts in love's outhouse---you
+name it, I've seen it."
 
-"But you've never been in love yourself, have you? Have you? Aah, there, you
-see? You're like one of those snots who shows up at the umram and sniffs at us
-and says, tsk tsk, poor form, you really should put a little more vigor into
-those strokes, except they've never held a sword in their life."
+"But you've never been in love yourself, have you? Have you? Ah, there, you see?
+You're like one of those snots who shows up at the umram and sniffs at us and
+says, tsk tsk, poor form, you really should put a little more vigor into those
+strokes, except they've never held a sword in their life."
 
 "All right, I've had enough of this. No, seriously, I've had enough. You asked
 me to help you. I gave you the best advice I had. If it didn't work out, I'm
@@ -4398,23 +4397,19 @@ three weeping years ago! I'm surprised you even remember."
 "You remember. You remembered as soon as I mentioned it. And I bet all of
 Ishad's other students remember too."
 
-"You think so? Well, what I think they'll remember is that you won your first
-four umram matches in a row, and only lost the fifth one because the referee was
-so besotted with that redhead from Colway that he practically came out there to
-help him."
+"You think so? Well, what I think they remember is that you won your first four
+*umram* matches in a row, and only lost the fifth one because the referee was so
+besotted with that redhead from Ruuda that he practically came out there to
+swing his sword for him."
 
 "It wasn't quite that bad."
 
-"It weeping was so that bad!"
-
-"Sh, keep your voice down!"
-
-"I will not! Damn it, Vurt, why do you always chew on yourself like this? You
-want to know what I remember? I remember you walking half an hour out of your
-way every day for three weeks just so you'd happen to be on Six Ears Square when
-those Darpani kids were on their way to the market. Nobody tried to tar their
-faces with you ten strides behind them, did they? And you didn't even know their
-names!"
+"It weeping was so that bad!  Damn it, Vurt, why do you always chew on yourself
+like this? You want to know what I remember? I remember you walking half an hour
+out of your way every day for three weeks just so you'd happen to be on Six Ears
+Square when those Darpani kids were on their way to the market. Nobody tried to
+tar their faces with you ten strides behind them, did they? And you didn't even
+know their names!"
 
 "String Flute Coughing and Milk Bear In Summer."
 
@@ -4424,10 +4419,10 @@ names!"
 Salt Later's nephews. He was the one who broke his neck, remember? The first
 time I was in a three-on-three?"
 
-"Oh. Well, that just proves my point, doesn't it? You didn't owe him
-anything. Hells, you hardly even knew him---you just drew the same team on the
-odds. But you went out of your way every day for three weeks to keep his nephews
-out of trouble. That's what people remember."
+"Oh. Well, that just proves my point, doesn't it? You didn't owe him anything.
+Hells, you hardly even knew him---you just drew the same team on the odds. But
+you went out of your way every day for three weeks to make sure nobody would
+bully his nephews. *That's* what people remember."
 
 "..."
 
@@ -4439,10 +4434,9 @@ out of trouble. That's what people remember."
 
 "Well then what did I say?"
 
-"Oh, saints. Would you just weeping let someone say something nice about you
-once in a while? Please? Look, if it makes things easier, just pretend I'm
-talking about some other goat-stubborn sock-clutching cheese-bellied lackwit
-instead."
+"Oh, saints. Would you just weeping let someone give you a compliment once in a
+while? Please? Look, if it makes things easier, just pretend I'm talking about
+some other goat-stubborn sock-clutching cheese-bellied lackwit instead."
 
 "Sure. Sure, I can do that. Do you think Sehdie's laughing at him, too?"
 

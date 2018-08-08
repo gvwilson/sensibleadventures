@@ -3753,8 +3753,6 @@ I sat down at my desk and set the bracelet in front of me. One long, slow
 breath, and then I looked up at my mirror and said, "Wave, I need to speak with
 you."
 
------
-
 ## Then: Vurt's Gloves
 
 Ishad told me once that you can't ever know the whole story about anything. You
@@ -3909,8 +3907,6 @@ And to hell with being a rat catcher, too. I was going to be somebody that
 people would cross the street rather than rob.  I was going to be the kind of
 person who deserved to wear a fine pair of gloves.
 
------
-
 ## Sehdie in the Umram
 
 Stories always have a lot to say about heroes, but what about their prizes? What
@@ -3918,82 +3914,82 @@ about the emir whose curse the heroine lifts, or the princess that the handsome
 blacksmith's son rescues? What is life like for them?
 
 I knew the answer. It was like suffocating, and it grew worse every...
-single... day. Oh, it wasn't my father's fault. He always had his nose in his
-accounts, or one of the books from his reading circle. He barely noticed me any
-more. But my aunt... I know I should have been grateful, but I just wanted to
-scream at her. "I'm not a dress-up doll! I'm not a little girl any more! Just
+single... day.  Oh, it wasn't my father's fault. He always had his nose in his
+accounts, or one of the books from his turtling friends. He barely noticed me
+any more. But my aunt... I know I should have been grateful, but I just wanted
+to scream at her. "I'm not a dress-up doll! I'm not a little girl any more! Just
 leave me alone!" I never did, of course. I was too well-mannered.
 
 Sometimes I imagined throwing stones at her. Not pebbles, but big solid ones the
 size of pears. I saw a stone that size hit a man in the head once in the market
 when I was little. He didn't get up afterward, but I was sure my aunt would. She
-would stand up and brush herself off and say, "Oh, darling, can't you please be
-a little more considerate?  Please? For your mother's sake, if not for mine?
+would stand up and brush herself off and say, "Oh, darling, can't you *please*
+be a little more considerate?  Please? For your mother's sake, if not for mine?
 We'd want her to be proud of you, wouldn't we?"
 
 My girlfriends were just more pillows piled on my face. When I tried to explain
 how I felt they sighed sympathetically and made little cooing-dove noises and
 then said, "Do you think I should wear my orange scarf with this dress? Or the
-black one with the sand pearl fringe?" It made me want to scream. It made me
-want to throw rocks at them too. Most of all, it made me want a story of my own.
+black one with the sand pearl fringe?"  It made me want to throw rocks at them
+too. Most of all, it made me want a story of my own.
 
-The first time I saw Vurt, I thought, "He could save me." My girlfriends and I
+The first time I saw Vurt, I thought, "*He* could save me." My girlfriends and I
 were supposed to be at lessons, but Cathé's houseman had taken us to the *umram*
 instead. She bribed him with one of her silver rings the first time, but then
 she told him that if he didn't take us again, she would say that he had stolen
 it. He was angry, but what could he do? And anyway, he liked the fights even
 more than we did.
 
-It was Purplesday, which meant the *umram* would be crowded. We wore
-disguises---we didn't strictly need to any more, but dressing up was half the
-excitement. There are so many plays and poems and songs and stories about
+It was Purplesday, which meant the *umram* would be crowded. We wore disguises
+even though we didn't need to, because dressing up was supposedly half the
+excitement.  There are so many plays and poems and songs and stories about
 enemies who fall in love because they're disguised the first time they meet. Or
 about brothers who fight a duel, and then the winner throws himself out a window
 in remorse when he realizes who he has killed. Or people who meet a powerful
 magician who is traveling incognito, and get her some water or save her from a
-pack of squirrels and get three spells in return. Ever since I was a little,
+pack of squirrels and get three wishes in return. Ever since I read that story,
 I've known what I would wish for. "Fly me away from here, and you can keep the
 other two."
 
-Cathé grabbed my arm and pointed when Vurt stepped onto the sand. "Oh, now look
-at him," she breathed. For a moment I didn't see what she was so excited
-about. He wasn't tall, and his hair wasn't down to his shoulders like
-Tessor's. But when he stalked over to his starting board I thought, "Oh, my." He
-moved like a cat dancer, up on the balls of his feet.
+Cathé grabbed my arm and pointed at Vurt when he stepped onto the sand. "Oh, now
+look at him," she breathed. For a moment I didn't see what she was so excited
+about. He wasn't tall, and his hair wasn't down to his shoulders like Tessor's.
+But when he stalked over to his starting board I thought, "Oh, my." He moved
+like a cat dancer, up on the balls of his feet.
 
 Then someone in the crowd yelled something vulgar. He looked up---straight at
 us, or so it seemed---and grinned, and oh my again.
 
 The fight was over almost before it started. The judge clapped his hands three
 times. On the third clap, Vurt lunged forward and spun his spear around like a
-staff. His opponent's spear flew from his hands. "Wayway!"  the judge yelled,
+staff. His opponent's spear flew from his hands. "*Wayway!*" the judge yelled,
 "Disarmed!" People clapped or booed depending on whether they appreciated Vurt's
 skill or had been hoping for a longer fight. Vurt bowed to the judge and walked
 back to his stall.
 
-"He's... tasty," I breathed. Cathé gasped and giggled at the same time.  She was
-sweating lightly. Her false beard made her face look even rounder than it was.
+"Well isn't *he* tasty?" I breathed. Cathé gasped and giggled at the same time.
+She was sweating lightly. Her false beard made her face look even rounder than
+it was.
 
 She touched my arm and pointed again. "Isn't that Kerrem Bashko é...  é..."
 
 "Zermelo," I finished for her. Yes, it was. He was in the stands beside Vurt's
 stall, leaning over the railing to talk with one hand flapping in the air to
 illustrate whatever he was saying. His mother had been our writing teacher when
-we were little. He came with her sometimes to help us learn the abracadabra or
-read us stories. He was only a couple of years older than I was, though back
+we were little. He came with her sometimes to help us learn our abracadabras or
+to read us stories. He was only a couple of years older than I was, though back
 then he seemed very grown up.
 
-I gathered my robe in one hand and stood up. Cathé's houseman looked at me
+I gathered my robe in one hand and got to my feet. Cathé's houseman looked at me
 suspiciously. "Where are you going, honored miss?"
 
 "To say hello to an old friend," I said in my aunt's voice. He opened his mouth
-to protest (which servants *never* do when my aunt speaks to them). I cut him
-off with, "You will stay here and watch over your charge," then nodded at Cathé
-and hurried away.
+to protest, which servants *never* do when my aunt speaks to them. I cut him off
+with, "You will stay here and watch over your charge," then nodded at Cathé and
+hurried away.
 
-I picked my way past people fanning themselves as they ate dried figs or
-reminiscing about bouts they had seen years before I was born. I tried to appear
-dignified as I made my way to the other end of the stands. One or two people
+I picked my way past people fanning themselves as they ate dried figs and
+reminisced about bouts they had seen years before I was born. One or two people
 winked at me knowingly---we were hardly the only girls there wearing
 beards---but I ignored them.
 
@@ -4004,7 +4000,8 @@ where he rubbed the side of his nose was finally gone. He wore a simple brown
 knee-length coat over a collarless white shirt and white trousers. The strap on
 one of his sandals didn't quite match the strap on the other.
 
-He bowed as I approached. "Honored miss," he said solemnly.
+He bowed as I approached. "Honored miss," he said solemnly.  Then his eyes
+widened.  "Sehdie?"
 
 "Sh!" I hissed. "I'm in disguise!"
 
@@ -4014,9 +4011,8 @@ Vurt fight just now? Wasn't he magnificent?"
 "I suppose. I don't really know much about it." I hesitated. "Do you know him?"
 
 "Of course. We have the same teacher. Had, I mean. I stopped lessons last
-year. But I still see him every couple of days. I, um, I help him
-sometimes. With his taunts. I mean, I make them up for him, to yell at his
-opponents."
+year. But I still see him every couple of days. I, um, I help him sometimes.
+With his taunts. I mean, I make them up for him, to yell at his opponents."
 
 I couldn't help myself. I giggled, then covered my mouth with my hand.  "You're
 a... you're a tauntster?"
@@ -4034,8 +4030,9 @@ you?' I mean, Terremaktikak wrote a whole taunting epic for Arshad."
 
 Kerrem cleared his throat. "Yes, well, I think it's a good idea, but Vurt's not
 quite as keen. Afraid the judge might hobble him for unnecessary delay if he
-starts his bouts with a half-hour recitation."  He sighed theatrically. "Sad
-times / When people sip Art / Who should bathe in it."
+spends half an hour enumerating the flaws in his opponent's ancestors."  He
+sighed theatrically. "Sad this age / When people sip Art / Who should bathe in
+it."
 
 I frowned. "That's Udiwar, isn't it?"
 
@@ -4060,11 +4057,13 @@ mine. From some years ago."
 
 "I didn't know you had friends," Vurt replied absently. He was still looking at
 my eyes. Right into my eyes. His were as black as sand pearls. He had a scar on
-his lip, not a big one, just an old split that had needed a stitch or two. And
-another one above his right eyebrow. His nose was bent a bit to one side, but in
-a good way, and his hair was cut so short that his scalp gleamed through it. He
-was very handsome. If he smiled, I would--- He smiled. "But I'm glad to discover
-my error." He raised his palms to me and bowed. "May I challenge for you?"
+his lip, not a big one, just an old split that had needed a stitch or two.  And
+another one above his right eyebrow. His nose was bent to one side, but in a
+good way, and his hair was cut so short that his scalp gleamed through it. He
+was handsome. If he were to smile, I would say he was very handsome.
+
+He smiled. "But I'm glad to discover my error." He raised his palms to me and
+bowed. "May I challenge for you?"
 
 Oh, my heart. "Challenge for me? Valiant sir, you are presumptuous." No, no,
 that was my aunt talking, that was my aunt. I didn't want to be my aunt. "But if
@@ -4076,7 +4075,8 @@ it pleases you to do so..."
 forgotten about him. "A lady whose other friends seem bent on rescuing her."
 
 What? I tore my eyes away from Vurt. Rusty old spoons, Kerrem was right.  Cathé
-was puffing up the steps behind Vurt, her houseman and the others in tow.
+was puffing up the steps behind Vurt, her houseman and the rest of our
+ridiculous little troupe in tow.
 
 Vurt lowered his hands and nodded solemnly. "For a lady," he repeated.  He
 turned and shouldered past my friends.
@@ -4090,26 +4090,33 @@ packed earth floor. Kerrem hesitated for a second, then sat beside me.
 "But, Sehdie!" Cathé threw Kerrem a look. "We have to go! We'll be in trouble if
 we're late!"
 
-"Not yet," I repeated firmly. I gathered my robe around my legs.
+"Not *yet*," I repeated firmly. I gathered my robe around my legs.
 
-Well, she fussed, and her houseman fussed, and my other friends fussed, but I
-wasn't going to be fussed, not then. People around us started hissing, "Usti!
-Usti!" which Kerrem explained is what Darpani say to make their animals sit. So
-they sat and fretted through two more fights until the judge bellowed, "A
-challenge! For a lady!"
+Well, she fussed, and her houseman fussed, and everyone fussed, but for once I
+wasn't going to be fussed. People around us started hissing, "*Usti!* *Usti!*"
+which Kerrem told me was something Darpani say to make their animals sit. So
+they sat and fussed through two more bouts until the judge bellowed, "A
+challenge!  For a lady!"
 
 Well, the crowd liked that, even before they heard who the challenger was. For a
 moment I thought no one would take him up on it, but another duelist stepped out
-of the stalls and saluted. He was a northerner, pale-skinned and long-haired, a
-mercenary or perhaps a caravan guard hoping to earn a few coins or find a new
-employer. He and Vurt took their places on the starting boards.
+of the stalls and saluted. He was a northerner, pale-skinned and long-haired.
+"A caravan guard down from Vaarda, lost his wages at the race track," Kerrem
+said, consulting a little notebook he had taken out of his sleeve.  "He'll be
+hoping to earn a few coins, but what he really wants is to catch the eye of some
+merchant and get hired to go back north."
 
-My heart was pounding. No one had ever fought for me before. Oh, I mean, there
-had been fistfights to see who could pour my punch at picnics---Cathé and the
-others had told me all about it. They were jealous, but proud too, just like my
-aunt was proud of my posture and enunciation. Saints, my enunciation. I felt
-like a featherless parrot sometimes, reciting poetry over and over while she
-corrected the trill of my R's and the shush of my Th's.
+I arched an eyebrow at him.  "Do you keep notes on *all* the pretty young men?"
+I asked.
+
+I thought he would blush, but instead he nodded seriously.  "Every one that Vurt
+might go up against."
+
+The northerner and Vurt took their places on the starting boards.  My heart was
+pounding. No one had ever fought for me before. Oh, I mean, there had been a
+poetry duel once to see who could pour my punch at a picnic.  Cathé and the
+others had been jealous, but proud too, just like my aunt was proud of my
+posture and enunciation.
 
 But no one had ever fought a challenge for me in the *umram*. It was like
 something out of a ballad. I sat right on the edge of the bench, my hands
@@ -4119,82 +4126,83 @@ The judge clapped his hands. Once... twice... On the third clap, the northerner
 stepped back into a crouch and brought his spear up to guard two-handed. He had
 obviously seen Vurt's previous fight.
 
-Vurt brought his own spear up in a strange overhand grip, almost a
-salute. Beside me, Kerrem sucked in his breath. "Oh, no."
+Vurt brought his own spear up in a strange overhand grip, almost a salute.
+Beside me, Kerrem sucked in his breath. "Oh, no."
 
 "What? What's happening?"
 
 Kerrem shook his head. "He's showing off, that's what's happening. It's a good
-thing Ishad isn't here. He'd take strips off him."
+thing Ishad isn't here."
 
 Vurt and the northerner shuffle-stepped around each other slowly, ignoring the
-crowd's taunts and whistles. The northerner feinted at Vurt. He didn't
-flinch. The northerner feinted again, then lunged straight at Vurt's face. Vurt
-slipped to the side, his spear still up in that strange grip.
+crowd's taunts and whistles. The northerner feinted at Vurt. He didn't flinch.
+The northerner feinted again, then lunged straight at Vurt's face. Vurt slipped
+to the side, his spear still up in that strange grip.
 
 Feint and dodge, lunge and parry, around and around. The whistles grew louder. A
 piece of melon hit the sand a few strides away from them.  "It'll be sundown
-soon!" someone yelled. "And dawn soon after that!"  someone else added.
+soon!" someone yelled. "And dawn soon after that!" someone else added.
 
 Feint, dodge, and then suddenly Vurt attacked. He knocked the northerner's spear
 a thumb to the side with his forearm and kicked him hard in the chest. The
 northerner went back a step, his spear already slashing across to take the leg
 Vurt was standing on. But it wasn't there. Vurt was flying, rolling over in
-mid-air with his spear as a counterbalance. His feet hit the ground, and the tip
-of his spear went *splat* in the middle of the northerner's chest.
+mid-air with his spear as a counterbalance. The painted brush on the end of his
+spear went *splat* in the middle of the northerner's chest just an instant
+before his feet hit the ground.
 
 Oh, the crowd roared. They roared, and I clapped so hard that I bruised my
 hands. Kerrem just shook his head.
 
 Cathé pulled my arm. "Sehdie. Come on, we have to go!"
 
-I stood up as gracefully as I could. My heart was pounding so hard I was afraid
-my ribs might break. "Would you please thank him for me?" I said to Kerrem. "And
+I stood and gave Kerrem a slight bow. "Would you please thank him for me?  And
 give him my apologies, that I was unable to stay and thank him myself?"
 
-He stood and sighed theatrically. "Of course." He raised his palms. "I'm sure
-we'll see each other again soon."
+He sighed theatrically as he stood and bowed back. "Of course." He raised his
+palms. "I'm sure we'll see each other again soon."
 
 But we didn't, not for a whole week. Cathé was furious with me for keeping us
-there so late, although nothing happened because of it. I think she was jealous,
+there so late, although nothing happened because of it.  She was jealous too,
 really jealous instead of jealous-proud. When we go to picnics, boys talk to her
 to ask about me. It's not my fault---I certainly don't encourage them---but I
 understand why it hurts her feelings. This must have been ten times worse than
 that.
 
-She forgave me eventually, like she always did. A week later we were back on the
-common benches. Kerrem sat beside us, and spent the whole time explaining the
-fine points of each fight to me, and then arguing good-naturedly about them with
-Cathé's houseman. A few people clapped for Vurt when he came into the stands
-after his last fight. He raised his palms to us, held up a short string of coins
-to show Kerrem, and then sat down just a little closer to me than he should
-have. We didn't talk for long, or say very much. How could we, with my friends
-and Kerrem and the houseman pretending so hard not to be listening? He told me
-about his fights, and I asked questions, and during the long pauses we looked
-down at our feet, each of us intensely aware of how close the other was.
+She forgave me eventually.  She always did, which just made me feel worse.  A
+week later we were back on the common benches.  Kerrem sat beside us the whole
+time, explaining the fine points of each fight to me and arguing good-naturedly
+about them with Cathé's houseman. A few people clapped for Vurt when he came
+into the stands after his last fight. He raised his palms to us, held up a short
+string of coins to show Kerrem, and then sat beside just a little closer than
+was proper. We didn't talk for long, or say very much. How could we, with my
+friends and Kerrem and the houseman pretending so hard not to listen? He told me
+about his fights, and I asked whatever questions I could think, and during the
+long pauses we looked down at our feet, each of us intensely aware of how close
+the other was.
 
-As he stood he whispered, "Answer at your window tonight." My window? Oh Luck
-and Fate and all their dark children, what was he going to do? He couldn't come
-to my window! He could--- He might--- He was a rogue, a prize fighter, no more
-respectable than his teacher.
+As he stood he whispered, "Answer at your window tonight." My window?  What in
+the Pilots' names was he thinking? He couldn't come to my window! He could--- He
+might--- He was a rogue!  A prize fighter!  If my aunt found out, she would---
+Actually, I had no idea what she would do, but I was sure it would be horrible.
 
-Who was, I must say, hardly respectable at all. Once Kerrem described him, I
-remembered seeing him at other matches, a bottle and a glass on the bench beside
-him, bellowing and cursing from the moment one of his students stepped onto the
+"Boy!"  I jumped at the shout.  It was his teacher.  Kerrem had pointed him out
+to me the second time I came to the *umram*, not that I could have missed him.
+He bellowed and cursed from the moment one of his students stepped onto the
 floor. "Pick up your feet, lad! Yes, those feet, yours, they're not that heavy!
 Oh, for the love of---you're embarrassing me again! Do you hear? You're
 embarrassing me!" People laughed at him as much as with him, but he didn't seem
-to care.
+to care as long as his students won more than they lost.
 
-Vurt didn't seem to either, the first time I saw Ishad do it to him. He actually
-stopped in the middle of the fight as if to yell something back. It was a trick,
-of course, and oh, the crowd booed when his opponent fell for it.
+Vurt didn't seem to care either.  The first time I saw Ishad yell at him, he
+actually stopped in the middle of the fight as if to yell something back. It was
+a trick, of course, and oh, the crowd laughed when his opponent fell for it.
 
-What do you wear for your first after-hours suitor? I couldn't dress up.  If my
-aunt suspected for even a heartbeat that---no, I couldn't dress up. And besides,
-dressing up wasn't the point, was it?
+"Answer at your window."  What do you wear for your first after-hours suitor?  I
+couldn't dress up---my aunt watched me like a hawk, so I daren't do anything out
+of the ordinary. And besides, dressing *up* wasn't the point, was it?
 
-In the end, I put on the simple sleeveless shift that I wore in the steam baths,
+In the end, I put on the simple sleeveless shift that I wore in the steam baths
 and an embroidered Bantangui housecoat that my aunt's society woman gave me when
 I turned sixteen. And then I sat and waited.  And waited. And waited.
 
@@ -4202,10 +4210,11 @@ He knocked on my window just after moonrise. I opened the shutters but did not
 unlock the grille. He hung from the roof beam one-handed and held up some
 flowers. "For you," he said, as if they might have been for someone else. I had
 to pull them through the grille one at a time. Our fingers touched, just
-briefly, and then he pulled himself back up onto the roof and disappeared. I
-waited until I was sure he was gone and then pushed the flowers back out through
-the grille. I wouldn't have been able to explain them away if my aunt found them
-in my room.
+briefly, and then he pulled himself back up onto the roof and disappeared.
+
+I waited until I was sure he was gone and then pushed the flowers back out
+through the grille. I wouldn't have been able to explain them away if my aunt
+found them in my room.
 
 I lay in bed afterward with my arms up so that my hands were beside my head on
 my pillow. The smell of Vurt's flowers on them, jasmine and oleander, made me

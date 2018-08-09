@@ -4462,98 +4462,95 @@ yourself in the dragon's mouth I'm not going to stop you."
 
 "Good night."
 
------
-
 ## Cup Rainbow Reaching Remembers Lights Among Trees
 
-Hell is a place with no sky, no breeze, no sweet grass, and no fresh water. Hell
-begins with cold stone steps leading down into a great cavern whose walls
-sparkle with false stars. Hell is the door behind you turning into a blank stone
-wall and dank, damp air in your nostrils.
+Hell has no sky, no breeze, no sweet grass, and no fresh water. Hell has cold
+stone steps leading down into a great cavern whose walls sparkle with false
+stars. Hell is the door behind you turning into a blank stone wall and stale
+damp air in your nostrils.
 
 The Karabandi, Ishad, knelt to unshutter his lantern. "Get yours out as well,"
-he ordered my mother's-side cousin, taking command as if it were his
-right. "Save the third one for in case." Trapped sunlight spilled out in the
-room, making sharp-edged shadows all around us.
+he ordered my mother's-side cousin, taking command as if by right.  "Save the
+third one for in case."  Trapped sunlight spilled out in the room, making
+sharp-edged shadows all around us.
 
 Three men with two shadows each, we looked around at the cavern floor.  It was
 pimpled like a boy's face. The Karabandi scuffed a stony blotch with his foot
-and glanced up. "See?" he said, pointing. "It's just from the water
-dripping. Like a salt skid. Nothing to worry about." Still, he took care to step
-around them, as did we.
+and glanced up. "See?" he said, pointing. "It's just from the water dripping.
+Like a salt skid. Nothing to worry about."  Still, he took care to step around
+them, as did we.
 
-The cavern floor glistened damply in our lanterns' light. Small things fluttered
-about us for a moment like tiny butterflies with wings as clear as pond
-ice. They scattered when something larger flew past above our heads. The
-Karabandi moved quickly, lightly, his eyes never still.
+The cavern floor glistened with damp in the light of our lanterns.  Small things
+fluttered around us for a moment like tiny butterflies with wings as clear as
+pond ice. They scattered when something larger flew past above our heads. The
+Karabandi ignored them.  He moved like a hunting cat, his eyes never still.
 
 The cavern wall curved down to meet the floor fifty strides from the bottom of
-the stairs. An arched opening was cut into it, twice the height of a man on
-horseback. Narrow leaves and bony fingers were etched into the stone around
-it. Twenty strides of echoing tunnel brought us to a broad stone bridge with
-waist-high walls on each side. Squat stone figures crouched on them: manticores
-with their tails in their mouths, devils with their hands over their ears, a
-thing I cannot name holding the screaming head of a man in its tentacles. I
-could not see a roof above us, but when my mother's-side cousin and I looked
-over the wall, his lantern reflected off water ten strides below.
+the stairs.  An arched opening was cut into it, twice the height of a man on
+horseback, surrounded by carvings of narrow leaves and bony fingers.  Twenty
+strides of echoing tunnel on its other side brought us to a broad stone bridge
+with a waist-high wall on each side. Squat stone figures crouched on them:
+gargoyles with their tails in their mouths, stilt fishers with their hands over
+their ears, a thing I cannot name holding the screaming head of a man in its
+tentacles. I could not see a roof above us, but when my mother's-side cousin and
+I looked over the side, the light of his lantern reflected off water ten strides
+below.
 
-"Stay in the middle," the Karabandi said. "And remember what the thief
-said. Whatever happens, don't talk back."
+"Stay in the middle," the Karabandi said sharply. "And remember what the thief
+said.  Whatever happens, don't talk back."
 
-We started forward. A breeze blew the smell of lye and stagnant water into my
-nose. As we moved forward, we saw that the wall opposite us was carved to look
-like the face of a sorrowing woman. The bridge ran into her mouth like a stone
-tongue. When I looked back, I saw that the wall behind us was carved to look
-like the face of a cackling crone.
+We started forward.  A breeze blew the smell of lye and stagnant water into my
+nose.  As we moved forward, our lanterns showed us that the far side of the
+bridge was carved to look like the face of a sorrowing woman. The bridge ran
+into her mouth like a stone tongue. When I looked back, I saw that the wall
+behind us was carved to look like a man about to weep.
 
-Suddenly the Karabandi twitched as if someone had brushed his neck with a
-feather. A moment later, a voice almost too faint to hear whispered in my
-ear. "Who took the honey that was to be thy grandfather's name-day gift?"
+The Karabandi suddenly twitched as if someone had brushed his neck with a
+feather.  A moment later, a voice almost too faint to hear whispered in my ear.
+"Who took the honey that was to be a name-day gift for thy grandfather?"
 
-My heart stumbled. I had been six years old, or perhaps seven. My grandfather
+My heart stumbled.  I had been six years old, or perhaps seven.  My grandfather
 had been on his death bed, his belly swollen with a knotted tumor that made the
 grass throwers cluck their tongues and shake their heads. All he wanted for his
 seventieth name-day was some blueberry honey, but I stole the last jar. I was
-angry that everyone was paying him so much attention and me so little. It was so
-sweet that I could only eat a few fingerfuls. I buried the rest in the roots of
-a dry aspen, afraid that I might be found out if I kept it. He died three days
-later.
+angry that everyone was giving him so much attention and me so little.  I only
+ate a few fingerfuls, then buried the rest in the roots of a dry aspen, afraid
+that I would be found out if I kept it. He died three days later.
 
 Two steps later there was another voice, another question, another shame. "Who
-told his friends he had lain with Cord Leaf Laughing? Who made water when the
-bull charged? Who lied to his father about the broken stirrup? Who fled? Who
+told his friends he had lain with Cord Leaf Grateful?  Who made water when the
+bull charged?  Who lied to his father about the broken stirrup?  Who fled?  Who
 flees yet?"
 
-Left, right, left, right. "Whatever happens, don't answer," the emir's thief had
-warned us, "And don't run. Not unless you really, really have to." But the
-voices grew louder, two or three speaking at once, putting to word things that
-should never have been done.
+Left, right, left, right. "Whatever happens, don't answer," the thief had warned
+us, "And don't run." But the voices grew louder, two or three speaking at once,
+putting into words things that should never have been done.
 
 Suddenly another voice, a deeper one, hissed, "Who feigned a pull in his leg so
-Roderick would have to lead the charge that day? Who threw the rock that put out
-Iya's tooth?" These were not my shames. Were they they Karabandi's? And if I
+Wolodmyr would have to lead the charge that day? Who threw the rock that put out
+Eya's tooth?"  These were not my shames. Were they they Karabandi's?  And if I
 could hear his...
 
-"Keep moving!" the Karabandi said roughly. "Oh, there was a shepherd from
-Selmaneia, Five fingers on each hand..." It was an old song for counting sheep
-and cattle, and for keeping one's mind on track when killing sand misers. I
-joined in, and my mother's-side cousin as well.  We sang, then shouted, hurrying
-in time with our words, but still the voices grew louder. They were speaking
-past our ears now, straight into our souls, sucking our strength one secret at a
+"Keep moving!" the Karabandi ordered.  "Oh, there was a shepherd from Selmaneia,
+five fingers on each hand..." It was an old song for counting sheep and cattle,
+and for keeping one's mind on the track when hunting sand misers. My
+mother's-side cousin and I joined in.  We sang, then shouted, our footsteps in
+time with our words, but still the voices grew louder. They were speaking past
+our ears now, straight into our souls, washing away our strength one secret at a
 time.
 
 We were ten strides short of the end of the bridge when a voice, woman-soft,
 asked a question of my mother's-side cousin that I will not repeat. "To be a
 lie!" he blurted, right in the middle of the verse. Oh, my cousin.
 
-Something stirred below us, something old, something that had never walked on
-sweet grass or felt sunlight splash on its face. "Run!" the Karabandi bellowed,
-and we ran like boys racing a midsummer, leather sandals slapping stone.
+Something stirred below us, something that had never walked on sweet grass or
+felt sunlight splash on its face. "Run!" the Karabandi bellowed, and we ran like
+boys racing a midsummer, leather sandals slapping stone.
 
 The Karabandi reached the sorrowing mouth at the end of the bridge first. He
 whirled around, lantern in one hand, sword in the other, though steel would be
-of no use against the thing below us. "Go! Go!" he yelled as my mother's-side
-cousin and I charged past him.
+of no use against the thing rising from the water. "Go! Go!" he yelled as my
+mother's-side cousin and I charged past him.
 
 Another short tunnel, and then more stairs, wide enough for three men to stand
 side by side at the base but narrowing as they rose. At their top, a gate made
@@ -4562,33 +4559,33 @@ through. One, two, three, we went, the Karabandi last, grunting as he scraped
 his leather breast-and-back between the gate and the wall.
 
 We stood together for a moment, panting like blown horses. The Karabandi laughed
-shakily. "Well, that was a thing, wasn't it? Should tell the emir to bring his
+shakily. "Well, that was a thing, wasn't it?  The emir should bring his
 ministers down here, find out all their secrets.  'Course, then they'd know all
 of his."
 
 "To be fools to come," my mother's-side cousin muttered.
 
-The Karabandi sighed. "It was just a joke, lad. There's easier ways for him
-to---"
+The Karabandi clapped him on the shoulder.  "Come on, lad, it was just a joke.
+There's easier ways for him to---"
 
-"Not the emir. This one and his companions." My mother's-side cousin's cheeks
+"Not the emir. Someone and his companions." My mother's-side cousin's cheeks
 were wet. "To be lost, when we die down here."
 
 I snapped my fingers to scare his words away. "To see the open sky again," I
 promised softly. He knew I had no right to make such a promise in such a place,
 but he touched his hand to his heart anyway.
 
-The Karabandi led the way again. These walls were not speckled like those in the
-first chamber. Instead, they were made of rough black stone that drank our
-lanterns' light as the desert drinks spilled water. We jumped, all three of us,
-when something rattled the gate behind us, but pressed on.
+The Karabandi led the way again. These walls were not speckled with false stars
+like those in the first chamber.  They were made of rough black stone that drank
+our lanterns' light as the desert drinks spilled water. We jumped, all three of
+us, when something rattled the gate behind us, but pressed on.
 
-At the end of the passage lay another chamber, smaller than the first but still
-large enough to hold a hundred horses. What we saw there sent me back to when I
-was just eight years old and had only one name for my name.
+At the end of the passage lay another chamber, smaller than the one before but
+large enough still to hold a hundred horses. What we saw there sent me back to
+when I was just eight years old and had only one name for my name.
 
-My father woke me one morning before dawn. "To be quiet," he whispered in my ear
-so as not to wake my baby sister. "To be dressed and outside."
+My father woke me one morning before dawn. "Someone is quiet," he whispered in
+my ear so as not to wake my baby sister. "Someone is dressed and outside."
 
 I slipped out of our tent a few moments later with my boots on my feet, my
 poncho under my arm and sleep still in my eyes. My father was already atop his
@@ -4600,25 +4597,25 @@ clouds grazing high above us in a clear blue sky. The land rose steadily. My
 father kept his bow across his lap in case of lions or gargoyles, but none
 troubled us.
 
-My father was a quiet man, but that day words fell from him like snowflakes in a
+My father was a quiet man, but words fell from him that day like snowflakes in a
 blizzard. He pointed out the tufts of grass that marked rabbit warrens, named
 the birds, told me how to brew a tea from the yellow-white flowers beside our
 path to make my breath sweet when the time came to dance with a woman. I
 listened carefully, my cheek against his back, my arms around him. Sometimes I
 asked a question, just to keep his words swirling around me. I think I slept
-too, my hands tucked into his belt to stop me from falling.
+too, my hands tucked into his belt to stop myself from falling.
 
 We reached the edge of the forest just before sunset. I slithered down from the
 horse. My father dismounted behind me, his bow still in his hand. He made water
 against the side of a tree so that the horse would know not to stray, then led
 me into the forest.
 
-I had never been among so many trees in my life. I felt like a small frog
-looking up at sharp-billed wading cranes. But I was not afraid, not as long as I
-had my father's hand to hold. Birds I did not know scolded us from the
-branches. Squirrels' claws scratched on bark. Something scurried away from us,
-changed course, cut across the narrow path we were following---a cat, I think,
-black and brown, with a short, thick tail.
+I had never been among trees so large in my life. I felt like a frog looking up
+at sharp-billed wading cranes. But I was not afraid, not as long as I had my
+father's hand to hold. Birds I did not know scolded us from the branches.
+Squirrels' claws scratched on bark. Something scurried away from us, changed
+course, cut across the narrow path we were following---a cat, I think, black and
+brown, with a short, thick tail.
 
 "Here," my father finally said. The trees around us were strange to me.  Their
 bark was gray, like birch, but glassy fruits the size of pheasant eggs hung in
@@ -4631,14 +4628,14 @@ of fallen leaves as old as the world. "What are these?" I asked.
 "Hush," he said. "Wait."
 
 The sun slipped down toward the horizon. The forest slowly grew dark.  Its
-sounds changed as day birds went to their nest and evening birds woke. Something
-larger than a cat pushed branches out of the way in the distance. My father
-picked up his bow then, but whatever it was went its own way and he relaxed
+sounds changed as day birds went to their nests and evening birds woke.
+Something larger than a cat pushed branches out of the way in the distance. My
+father picked up his bow, but whatever it was went its own way and he relaxed
 again.
 
-The sky darkened and darkened until the trees were just black on black.
-Suddenly a tiny light sparked a few strides away. I thought it was a firefly,
-but it was red-orange instead of blue-green and did not move.
+The sky darkened until the trees were just black on black.  Suddenly a tiny
+light sparked a few strides away. I thought it was a firefly, but it was
+red-orange instead of blue-green and did not move.
 
 Another dot of light came to life, then another and another. In twos and threes,
 then tens, then hundreds, the fruit on the trees around us lit up. Red, orange,
@@ -4653,23 +4650,23 @@ lights above us. One by one the little stars disappeared, devoured by the hungry
 night fliers. "For their seeds," my father whispered in my ear. "They shine to
 tell the bats hello, I am ripe, take my flesh and my seed with it."
 
-"It's like... It's like they're eating a rainbow," I whispered reverently. My
+"It's like... It's like they are eating a rainbow," I whispered reverently. My
 father squeezed my shoulders.
 
 We watched until the lights faded or were eaten and the bats fluttered away. My
-father must have carried me back through the darkness. I do not remember. I only
-know that I woke the next morning with my cheek against the soft, rich forest
-floor, the horse eyeing me from two strides away, my father singing softly under
-his breath. When we returned to camp that evening, he told my mother that my
-name had its second name now, Rainbow to go with Cup.
+father must have carried me sleeping through the darkness. I do not remember. I
+only know that I woke the next morning with my cheek against the soft, rich
+forest floor, the horse eyeing me from two strides away, my father singing
+softly under his breath. When we returned to camp that evening, he told my
+mother that my name had its second name now, Rainbow to go with Cup.
 
 Whoever built the stone garden that greeted us beneath Coriandel must have seen
-a grove like the one I remembered. The trees were carved from marble and
-chalcedony. Their leaves were fashioned from brass, bronze, and pewter, and the
-fruit that hung from their branches must have been gems or some kin to
-dayglass. They caught the light from our lanterns and multiplied it a
-thousandfold, each throwing it to the next so that we stood in a frozen
-whirlwind of brightly-colored sparks.
+a grove like the one I remembered. The trees were carved from marble and jade.
+Their leaves were fashioned from brass, bronze, and pewter, and the fruit that
+hung from their branches must have been gems or some kin to dayglass.  They
+caught the light from our lanterns and multiplied it a thousandfold, each
+throwing it to the next so that we stood in a frozen whirlwind of
+brightly-colored sparks.
 
 "Well, isn't this just a sight?" the Karabandi breathed. "There would have been
 birds too, y'know. And snakes and the like, all cogs and gears and springs."
@@ -4677,16 +4674,16 @@ birds too, y'know. And snakes and the like, all cogs and gears and springs."
 "There... hrrrk. There still are. But... hrrk. If you want to see them... You
 need to know the magic... word."
 
-We spun about. The *iyemnelili* that stood there might have been human once. Or
-it might have been made of human blood mixed with fouler things. Its legs and
-arms were too long for its short body, and its face looked as if it had melted
-and re-set like wax. It wore the rags of what had once been a rich robe, and had
-lidless silver balls for eyes.
+We spun about. If the *iyemnelili* that stood there had been meant to appear
+human, its maker had been a poor artist.  Its legs and arms were too long for
+its body, and its face looked as if it had melted and re-set like wax. It wore
+the rags of what had once been a rich robe, and had lidless silver balls for
+eyes.
 
 Its voice scraped like a rusty hinge. "Hrrrk. Yes, they're still here.  Birds
 and bees, snakes and spiders, even a fox. Don't suppose you know... hrrk. What a
-fox is, do you? But they won't come out to play.  Not...hrrk. Not with you. Not
-unless you say the magic word."
+fox is, do you?  All gone, all gone.  But they won't come out to play.  Not...
+hrrk. Not with you. Not unless you say the magic word."
 
 "Magic word, is it? Oh, well. That's a shame." The Karabandi spoke lightly, but
 kept his sword up. "Grieve to say we're not magicians. If you happened to know
@@ -4696,46 +4693,47 @@ where we might find a bonescuttle, though, we'd thank you for your aid."
 skinny shoulders. "But you must say the...hrrk. Magic word. You must, you must,
 you must."
 
-"Ware my back," the Karabandi muttered, as if Darpani needed to be told to watch
-for ambush. The *iyemnelili* kept coming, hunched over, one hand up to shield
-its eyes from our lanterns. "Now, I think that's close enough, don't you? Seeing
-as we've just met?"
+"Ware my back," the Karabandi muttered, as if we needed to be told to watch for
+ambush.  The *iyemnelili* kept coming, hunched over, one hand up to shield its
+eyes from our lanterns.  "Now, I think that's close enough, don't you? Seeing as
+we've just met?"
 
 "You must... hrrk. Say it. Say it!" The thing thrust a hand beneath its robe and
 drew forth a knobby thigh bone. "Say it!"
 
-The Karabandi might have felt conversational, but I did not. I lunged at it,
-snapping the point of my spear sideways to knock the bone from the thing's
-hands. My spearpoint passed through it as your hand would pass through
-smoke. The apparition vanished.
+The Karabandi might have felt conversational, but I did not. I lunged, snapping
+the point of my spear sideways to knock the bone from the thing's hands.  My
+spearpoint passed through it as your hand would pass through smoke.  The
+apparition vanished.
 
-"Gaaah." The Karabandi growled disgustedly, then straightened out of his
-fighting crouch and grinned. "Should have known. They set seemings on us at
-Armaq, wyrms and undead and what-not, all just---"
+"Gaaah," the Karabandi growled disgustedly, straightening out of his fighting
+crouch and rolling his head from side to side to work a kink out of his neck.
+"Should have known. They set seemings on us at Armaq, wyrms and undead and
+what-not, all just---"
 
-My mother's-side cousin screamed his battle scream as the real *iyemnelili*
-lunged at him from behind a tree. It swung its bone club at his head. He ducked
-under the blow and slashed with his spear. The creature twisted, its joints
-popping.
+My mother's-side cousin screamed a battle cry as the real *iyemnelili* lunged at
+us from behind a tree. It swung its bone club at his head. He ducked under the
+blow and slashed with his spear. The creature twisted, its joints popping.
 
 "Say it! Say it!" it shrieked. Without thinking I thrust my spear into it
-two-handed. The point found the thing's throat. I twisted. Something
-crunched. The creature fell to the floor like a bundle of loose twigs. I pulled
-my spear free. There was no blood.
+two-handed.  The point found the thing's throat. I twisted. Something crunched.
+The creature fell to the floor like a bundle of loose twigs. I pulled my spear
+free. There was no blood.
 
 "Is it over?" the Karabandi asked, his back to us, trusting us to do what needed
 to be done while he guarded against a second ambush.
 
-"To be done," I said. My mother's-side cousin raised one finger at me, counting
+"It is done," I said. My mother's-side cousin raised one finger at me, counting
 the kill as we had counted rabbits as children.
 
 And then the creature on the floor rolled over onto its feet and came at me
-again. I clubbed it with the butt of my spear, knocking it past me, but its hand
-caught my arm. Cruel claws tore cloth and skin. It bared ragged teeth in a
-snarl. Its mouth opened wider than should have been possible.
+again.  I clubbed it with the butt of my spear, knocking it past me, but its
+hand caught my arm. Cruel claws tore cloth and skin. It bared ragged teeth in a
+snarl, its mouth opening and opening like a snake's.
 
-The Karabandi's sword took its head from its shoulders. Its body dropped to the
-floor again. Its head landed a stride away and rolled a stride further.
+The Karabandi's sword took its head from its shoulders with a single whistling
+stroke. It dropped to the floor again. Its head bounced on the floor a stride
+away and rolled a stride further.
 
 The Karabandi raised his sword for a second blow. When the creature did not
 move, he set his lantern on the floor, swigged a quick mouthful of water from
@@ -4743,31 +4741,30 @@ his canteen, and picked up his lantern once again, his sword at guard the whole
 time. "Well then, that wasn't so bad, was it? Come on."
 
 I pressed my hand to my arm, then examined it in the light from my mother's-side
-cousin's lantern. It was sticky, but the creature's claws had only cut skin, not
-flesh. "To be away from here," my mother's-side cousin urged quietly. "To fear
-the smell of blood will draw other things."
+cousin's lantern. It was sticky, but the creature's claws had only torn skin,
+not muscle.  "Away from here," my mother's-side cousin said quietly.  "The smell
+of blood will draw other things."
 
 I nodded, then jumped as the creature's body turned itself over and began
-scrabbling around on the floor like a drunkard looking for a dropped coin. My
+scrabbling around on the floor like a drunkard looking for a dropped sweet. My
 mother's-side cousin and I looked at the Karabandi. He shrugged. "Leave it." We
-stepped wide around the twisted thing. As we passed, I kicked its head as hard
-as I could. Up it flew, like a child's ball, to lodge in the branches of a
-nearby tree.
+stepped wide around the unnatural thing. As we passed, I kicked its head as hard
+as I could. Up it flew like a child's ball to lodge in the branches of a nearby
+tree.
 
-There was a well in the middle of the garden of lights. The emir's thief
-described it to us as big enough for an elephant. "You really don't want to fall
-in," she said, as if we might have thought to do so.
-
-Another silver gate waited for us on the far side of the garden, another black
+There was a well in the middle of the garden of lights. The emir's thief had
+described it as being big enough for an elephant. "You really don't want to fall
+in," she said, as if we might have thought to do so.  We gave it a wide berth.
+Another silver gate waited for us on the far side of the garden, another
 passage, and more stairs, down and down. At their end lay the tombs of those who
-had ruled the Karaband after the Mutiny. Ruled badly, for the most part,
-wielding ancient scavenged sorceries that they did not understand until they too
-destroyed themselves. We remember, even when those who live in cities forget or
-pretend to forget.
+had ruled the Karaband after the Pilots. Ruled badly, for the most part,
+throwing ancient scavenged sorceries that they did not understand at once
+another until they too destroyed themselves. The Darpani remember them, even if
+those who live in cities have forgotten.
 
-The Karabandi drank another mouthful from his canteen. "Ready?" he asked us once
-again. I have wondered since what he would have said or done if we had told him
-"no". But instead, we nodded and followed him.
+The Karabandi swallowed another mouthful from his canteen. "Ready?" I have
+wondered since what he would have said or done if we had said "no". But instead,
+we nodded and followed him.
 
 -----
 

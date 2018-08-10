@@ -4766,60 +4766,61 @@ The Karabandi swallowed another mouthful from his canteen. "Ready?" I have
 wondered since what he would have said or done if we had said "no". But instead,
 we nodded and followed him.
 
------
-
 ## Oro Shares Some Pistachios
 
-Seventeen years after putting on the royal collar, I still missed him.  Every
-day. When I sent him to Seyferte, I really did mean to call him back in a
-year. I would be settled on the throne by then, with men I could trust to watch
-his flank in case any of Coriandel's enemies tried to bruise me by bleeding him.
+When I sent him to Ossisswe, I thought I would call him back in a year.  I would
+be settled on the throne by then, with men I could trust to watch his flank in
+case any of Coriandel's enemies tried to bruise me by bleeding him.
 
-But a year turned into two, then five and ten. Each time I thought of him, I
-told myself it wasn't the right time. Not yet.
+But a year turned into two, then five and ten. Each time I thought of him, the
+collar told me it wasn't the right time, not yet.  And seventeen years after
+putting it on, I still missed him.
 
 The morning finally came when my Minister of Propriety begged an audience to go
-over preparations for arranging a meeting to discuss how best to celebrate yet
-another anniversary of my ascension to the throne.  Seventeen years... How could
-it be seventeen years? What had I been doing all that time?
+over preparations for arranging a meeting to discuss how best assemble a
+committee that would decide on the process to be used to determine who would be
+in charge of arranging celebration of yet another anniversary of my ascension to
+the throne.  My mind wandered as he spoke---or fled, rather, as it was wont to
+do whenever I subject to the drone of that singularly joyless man.  How could it
+be seventeen years? What had I been doing all that time?
 
 The royal collar immediately began whispering in my ear. The Pin Street aqueduct
-had been repaired. Families living in South Tombside had clean water for the
-first time in a generation. I had negotiated a truce between the Run Laughing
-and Arrow Eagle Darpani, and it even seemed to be holding. The untidy tangle of
-customs governing trade in cattle had been replaced (in theory, if not yet in
-practice) by sensible, consistent laws written in easily-remembered
+had been repaired, which meant that families living in South Tombside had clean
+water for the first time in a generation. I had negotiated a truce between the
+Run Laughing and Arrow Eagle Darpani that seemed to be holding. The untidy
+tangle of customs governing trade in cattle had been replaced (in theory, if not
+yet in practice) by sensible, consistent laws written in easily-remembered
 couplets. One of the city's more notorious ghosts had been laid to rest. A new
-guard post on the Great Southern Road was nearing completion.
+fort on the Great Southern Road was nearing completion.
 
-I shook my head to clear it. "Yes, whenever you think best," I told Propriety,
+I shook my head to clear it. "Whatever you think best," I told Propriety,
 clapping my hands to clear the room. I stared moodily at the pre-dawn pearling
-the sky outside my window as she led half a dozen honest, competent, and rather
+the sky outside my window as he led half a dozen honest, competent, and rather
 dull people out of the room.
 
 "Bah." I said it aloud. All of a sudden I couldn't bear to sit.
 
 My Master of Thieves found me sitting beneath an ornamental lemon tree in one of
-the small courtyards on the south side of the palace purpose-built for discreet
-amorous liaisons. He was a colorless man, balding and instantly forgettable. An
-Ossisswean by birth, he had married into a family of knitters, only afterward
-revealing his true profession to them. He wasn't nearly as good at conversation
-as the skinny old woman who had preceded him, but on the other hand, he wasn't
-dead.
+the small courtyards on the south side of the palace that I suspect was
+purpose-built for discreet amorous liaisons. He was a colorless man, balding and
+instantly forgettable. An Ossisswean by birth, he had married into a family of
+knitters, only afterward revealing his true profession to them. He wasn't nearly
+as good at conversation as the skinny old woman who had preceded him, but on the
+other hand, he wasn't dead.
 
 "My lord." He raised his palms to me in desert fashion.
 
 "I want to go out tomorrow," I said without preamble. "Unaccompanied."  My
-collar immediately began complaining. I ignored it. I deserved a morning to
+collar immediately began to complain. I ignored it. I deserved a morning to
 myself.
 
-The thief pursed his lips. Third time in as many months, he didn't say.  "Does
-my lord have any preferences regarding disguise?"
+The thief pursed his lips. This was the third time in as many months, he didn't
+say.  "Does Your Grace have any preferences regarding disguise?"
 
-"My lord would appreciate it if you didn't speak to him like a jurist trying to
-tell a society matron that her innocent young daughter is four months overdue,"
-I snapped. "But no, I don't. Something simple." I waved him away and went back
-to brooding.
+"Your Grace would appreciate it if you didn't sound like a jurist trying to tell
+a society matron that her innocent young daughter is four months overdue," I
+snapped.  "But no, I don't. Something simple." I waved him away and went back to
+brooding.
 
 "Something simple" turned out to be a red-and-brown striped overcloak that might
 once have doubled as a horse blanket, a plain black turban, sandals with stained
@@ -4835,39 +4836,43 @@ some on me anyway. I would try to shake them off, though he would be out the
 back door with a notch in his ear if I managed to.  There was a time when I
 could slip through a crowd like a greasy eel, but not after seventeen years
 (seventeen years!) listening to deputy assistant customs factors debate the
-merits of their pet proposals for reforming the tax on donkey spit.
+merits of their pet proposals for reforming the tax on donkey turds.  (There
+actually is one.  I don't enforce it unless I am particularly unhappy with
+someone.)
 
 He escorted me to a side yard where two washerwomen were wrestling the lids off
 tubs full of steaming, soapy water. I caught one of them eyeing me, and returned
 her look boldly. She blushed and ducked her head, obviously imagining from the
-company I kept that I was an assassin off to dab spider venom on some foreign
-spy or some such nonsense. Ah, if only...
+company I kept that I was an assassin off to dab spider venom on the back of
+some foreign spy's neck or some such nonsense. Ah, if only...
 
-Past the laundry yard was a larger one where half a dozen servants were setting
-pieces of dayglass on shelves to catch the morning light. Some were tinged with
-red and orange, and a few were greenish-blue, but most had the clear yellow cast
-that meant quality and expense. Recharged, they would shine through the night in
-my kitchens and privies and yes, my dungeons too.
+Past the laundry yard was a larger square where half a dozen servants were
+setting dayglass on shelves to catch the morning light. A few pieces were tinged
+red and orange, and a few more were greenish-blue, but most had the clear yellow
+cast that meant quality and expense. Recharged, they would shine through the
+night in my kitchens and privies and yes, my dungeons too.
 
 And then the gate. The blessed, welcome gate. Its guards ignored me. I paused a
 moment to take a deep breath---freedom!---before shouldering my way through the
-stream of people walking up to the palace from the city below. Two old women
-compared notes on the shortcomings of a third who wasn't present. A carpenter's
-apprentice laughed at a silk mender's jest, his eyes and thoughts on what lay
-beneath her slightly-too-well-fitted shift. An old man with a case of veneer
-samples stopped to catch his breath and shake a stone from his sandal. A woman
-with a baby in a sling at her waist paused to wait for him. The air was still
-cool, but the early sun made the white-painted walls on either side of the
-street almost too brilliant to look at.
+stream of people walking past the palace. Two old women compared notes on the
+shortcomings of a third who wasn't present. A carpenter's apprentice laughed at
+a silk mender's jest, his eyes and thoughts clearly on what lay beneath her
+slightly-too-well-fitted shift. An old man with a tightly-strapped sheaf of
+veneer stopped to catch his breath and shake a stone from his sandal. A woman
+with a baby in a sling at her waist---his daughter, perhaps, or perhaps even his
+granddaughter---paused to wait for him. The air was not yet hot, but the early
+sun already made the white-painted walls on either side of the street almost too
+brilliant to look at.
 
 Half a stride outside the waist-high wall that marked the official boundary of
-the palace grounds, an enterprising young Ossisswean was offering people strips
-of chicken cooked in hot oil with cumin seeds from a rickety fry stall. I gave
-her a slotted wooden penny for three skewers, not caring that I burned the roof
-of my mouth on my first bite, and another for a double handful of
-pistachios. Cracking pistachios and dropping the shells on the ground was a
-delicious little act of rebellion when I was young. Now, I bought some every
-time I fled the palace. When they were gone, it was time for me to return.
+the palace grounds, an enterprising young woman was offering people strips of
+chicken cooked in hot oil with cumin seeds. I gave her a slotted wooden sequin
+for three skewers, not caring that I burned the roof of my mouth on my first
+bite, and another for a double handful of roasted pistachios. Cracking
+pistachios and dropping the shells on the ground was a delicious little act of
+rebellion when I was young.  I bought some every time I fled the palace in
+memory of a time when "duty" was just a word.  When they were gone, it would be
+time for me to return.
 
 I followed my feet downhill to Half Brush Square, where a portly man wearing a
 stained sash was overseeing a queue of people waiting for their turn at the
@@ -4876,21 +4881,22 @@ fined once for drunkenness.
 
 I closed my eyes for a moment, just listening. Where next? The glasswrights'
 market, where they sold perfect replicas of fish and exotic flowers? The Aranese
-quarter, to listen to a disputation on Balanced philosophy? Or the cloudherd's
-yard near Tomb Hill?
+quarter, where I might find momentary solace in a disputation on Balanced
+philosophy? Or the cloudherd's yard near Tomb Hill?
 
 The cloudherd's yard. I doubted any clouds would be there, but the walk would
 take me through parts of the city I hadn't seen in a year or two.  With a quick
-glance over my shoulder to check on the one-eyed beggar who'd been following me
-since the fryer's stall, I slipped between a beard trimmer's salon and a shop
+glance over my shoulder to check that the carpenter's apprentice and silk mender
+were still behind me, I slipped between a beard trimmer's salon and a shop
 selling flags and hurried away.
 
 Pen and Scissors Street... the shambles around the dried vegetable market... a
-flight of crumbling steps that had no name I'd ever learned, and I was in Six
-Ears Square. I paused at the top to make a mental note about the stairs. Someone
-might pay for the stairs' repair in exchange for putting their name on them.
+crumbling flight steps the collar whispered had never been named, and there I
+was in Six Ears Square. I paused at the top to make a mental note about the
+stairs.  Someone might pay for their repair in exchange for putting their name
+on them.
 
-A pack of boys loitered in the square. Two of them were juggling---badly---while
+A pack of boys loitered in the square. Two of them were juggling badly while
 another walked toe-to-heel around the rim of the dry fountain in the square's
 center and the rest played call-me-names-and-I'll-push-you. Their clothes said
 their families were poor, but they looked well fed. And from the way they kept
@@ -4903,54 +4909,51 @@ to meet your eyes than you are to meet mine. A tuft of breeze tossed a sharp
 tang past my nostrils. Tar? Yes, hot tar, in the cracked jar the two biggest
 boys were trying to hide behind their legs.  You could do a lot of things with
 hot tar. Seal a tent seam against windblown sand, proof a piece of wood against
-termites, or dump it over someone's head. That would burn going on and tear skin
+termites, or slather it on someone's skin, where it would burn going on and tear
 coming off.
 
-As if cued by my thought, the door they had been watching swung. Two Darpani
-boys stepped out and squinted in the sunlight. Twelve and fourteen, I guessed,
-though they might have been older. Their hair was cut short, city style, but
-their leggings and vests were straight from the plains. Brothers just down from
-the Black Grass, perhaps, their father and mother working in the tanneries or
-slaughterhouses while their sons learned arithmetic and the abracadabra.
+As if on cue, the door they had been watching swung. Two Darpani boys stepped
+out and squinted in the sunlight. Ten and twelve, I guessed, though they might
+have been older. Their hair was cut short, city style, but their leggings and
+vests were straight from the plains. Brothers just down from the Black Grass,
+perhaps, their father and mother working in the tanneries or slaughterhouses
+while their sons learned arithmetic and their abracadabras.
 
 This was what the gang had been waiting for. They bunched together as the older
-Darpani took his brother's hand and started toward the steps I had just
-climbed. One of the gang picked up a rock. Another slipped a length of bamboo
-from under his robe. "Naneen!" one of the Coriandi boys said loudly,
-mis-pronouncing the insult.
+Darpani took his brother's hand and started toward the steps I had just climbed.
+One of the gang picked up a rock. Another slipped a length of bamboo from under
+his robe. "*Naneen!*" one of the Coriandi boys said loudly, mis-pronouncing the
+insult.
 
 The younger Darpani boy trembled. Even if his older brother hadn't steadied him,
-though, I doubt he would have run. Twelve was old enough to be fool-brave.
+though, I doubt he would have run. Ten was old enough to be fool-brave.
 
-"Naneen! Naneen!" Other boys repeated the cry. I scanned the shuttered windows
+"*Naneen! Naneen!*" Other boys repeated the cry. I scanned the shuttered windows
 overlooking the square. The boys' parents had probably left for work before
-dawn, but somebody would be watching. Somebody would be held responsible.
+dawn, but somebody would be watching.  *Which means that somebody will be held
+to account,* I promised myself.
 
-Just as I filled my lungs to shout, another boy, a Coriandi, stepped onto the
-square. He must have been waiting behind the old lemon tree in the corner. I
-tensed. An ambush?
+Just as I filled my lungs to shout, another boy, a Coriandi, stepped out of an
+alley behind the two boys. I tensed. An ambush?
 
-But no. The newcomer didn't so much as nod at the Darpani, nor they at
-him. Instead, he drew a wooden practice sword, saluted the empty air in front of
-him, and set his feet in Third Stance and began a fencing drill. Cut, cut,
-lunge, parry, step. Cut, cut, lunge, parry, and step again.
+But no. The newcomer didn't so much as nod at the Darpani, nor they at him.
+Instead, he drew a wooden practice sword, saluted the empty air in front of him,
+set his feet in Third Stance, and began a fencing drill. Cut, cut, lunge, parry,
+step. Cut, cut, lunge, parry, and step again.
 
 The gang hesitated. The Coriandi boy wouldn't have lasted five heartbeats if
 they had rushed him, but as they were nerving themselves to do it he switched to
-a double-time drill, cut-cut-cut and *shout*.  The look on his face said that if
-he started, he wouldn't stop until someone dropped him.
+a double-time drill, cut-cut-cut and *shout*.  The look on his face would have
+made a gargoyle hesitate.
 
 I couldn't help myself. I burst out laughing. The boys in the gang gang jumped
-as if I had clanged a gong, then scattered.
+as if I had clanged a gong, then scattered as I began to applaud. "Bravo," I
+said, chuckling. "Well played."
 
-I clapped. "Bravo," I said, chuckling. "Well played."
+The boy with the practice sword straightened up, breathing hard, and saluted me
+as the two boys hurried away whispering to each other.  "Thank you."
 
-The boy with the practice sword straightened up, breathing hard. "As you say."
-He would have been sixteen.
-
-"Wait." I strode over, patting the air to stop him from leaving. "I meant what I
-said. That was very well played." I nodded the way the two Darpani boys had
-gone. "Are they friends of yours?"
+I nodded the way the Darpani had gone. "Friends of yours?"
 
 The boy shrugged. "Not really. I met their uncle once."
 
@@ -4959,7 +4962,7 @@ The boy shrugged. "Not really. I met their uncle once."
 The boy looked away. "Yeah. He broke his neck."
 
 A Darpani with a broken neck... The royal collar whispered the most likely
-answer in my ear. "In the umram?"
+answer in my ear. "In the *umram*?"
 
 The boy nodded.
 
@@ -4972,25 +4975,25 @@ anybody's fault. We were three-on-three, luck of the draw. Tessor and some idiot
 from Armaq doubled on him. He tried to roll out between them, and..." Another
 shrug.
 
-"How long ago was this?"
+"How long ago was this?" I asked, though the collar had already told me.
 
 "About a month."
 
 "And you've been coming here ever since?"
 
-He nodded. "Came by once just to... I don't know. Just to look."
+Yet another shrug. "Came by once just to... I don't know. Just to look, I
+guess."
 
 It was easy to fill in what he he hadn't said. Just to look. Just to see what
-happened after you died. Did the world notice? Did anything change?  Or were the
-Bantangui right? Did the world just repeat itself, over and over, without ever
-noticing that it was doing so?
+happened. Did the world notice? Did anything change?  Or were the Bantangui
+right? Did the world repeat itself, over and over, without ever noticing that it
+was doing so?
 
-"And those sandal-lickers you chased off were on them like gargoyles on a dead
-sheep?"
+"And those sandal-lickers you chased off had decided they were fair game?"
 
-His nodded, his mouth set.
+He nodded instead of shrugging, his mouth set.
 
-I scanned the shuttered windows again. "And everyone else decided not to see it,
+I glanced up at the shuttered windows. "And everyone decided not to see it,
 because they'd rather have cockroaches in their soup than Darpani on their
 square."
 
@@ -5002,8 +5005,8 @@ collar approved.
 The boy seemed a little taken aback at my curse. "They didn't actually do
 anything," he said defensively. "They were just---"
 
-"They were just nerving themselves up to it." I gestured at his practice sword
-he still had in his hand. "Which is why you came back."
+"They were just winding themselves up to it." I gestured at the practice sword
+he still held. "Which is why you came back."
 
 "I guess. Wouldn't have seemed right, not doing anything." Which was what Sweet
 said to Lady Kembe on a sunny morning so many years ago after we unknowingly
@@ -5020,13 +5023,13 @@ would be a shame for them to go to the hogs."
 
 He hesitated a moment, trying to see the trap, but took them. "Thank you."
 
-I raised my palms to him. "No, thank you." He returned my smile a trifle
-uncertainly.
+I raised my palms to him. "Not at all.  Thank *you*." He returned my smile a
+trifle uncertainly.
 
-I sighed as he walked away. I could have had my Master of Thieves' shadows
-follow him, but to what end? I didn't need to know how his story turned out, any
-more than he needed to know mine. My city had reminded me who and why I was, as
-it always did. It was time to go back to work.
+I could have had my Master of Thieves' shadows find out who he was, but to what
+end? I didn't need to know how his story turned out, any more than he needed to
+know mine. My city had reminded me who I was and why I still wore the collar. It
+was time to go back to work.
 
 I found myself whistling on my way back down the nameless steps. Perhaps I would
 have them repaired myself. The treasury could afford it. And if that dry

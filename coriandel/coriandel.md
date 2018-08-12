@@ -5036,204 +5036,209 @@ have them repaired myself. The treasury could afford it. And if that dry
 fountain was replaced by a statue, Six Ears Square might even become slightly
 fashionable. A statue of a horse, perhaps...
 
------
+## Recently: Sweet's Return
 
-## Sweet's Return
-
-Felt strange, going back to Coriandel. My heart beat a little faster as we
-crested the last rise and saw the city. The palace still shone white on its
-hill, the houses of the wealthy shone back from theirs, and the fruit trees and
-millet fields outside the city walls were so green that they almost hurt my
-eyes.
+My heart beat a little faster as we crested the last rise and saw Coriandel laid
+out in the valley below us. The palace still shone white on its hill, the houses
+of the wealthy shone back from theirs, and the fruit trees and millet fields
+outside the city walls were so green that they made my eyes water.
 
 My human, Buckle, waited patiently for me to take it all in. Seventeen years
 since I left with twin mares and a stallion behind me. Eight years since my last
 visit. "How do I look?" I asked quietly.
 
 Buckle leaned forward in his saddle and patted the side of my head.  "Fine," he
-said. "Couldn't see it myself if I hadn't put it there."  Which meant that no
-one in the world except possibly his grandmother would be able to tell that the
-white blaze on my forehead and the sock on my rear left leg weren't real.
+said. "Someone could not see it himself if he had not put it there."  Which
+meant that no one in the world except possibly his grandmother would be able to
+tell that the white blaze on my forehead and the sock on my rear left leg
+weren't real.
 
 Buckle had touched up the dye job every few days on the road. I didn't for a
-moment think that we would run into Oro, but some of his rumormongers might have
-recognized me if I had come to Coriandel as myself. I didn't want that. I didn't
-want Oro to have to talk to me just because I was there. He could find me easily
-enough if he wanted to talk to me. I no longer hoped that he would.
+moment think that we would run into Oro---emirs aren't in the habit of wandering
+the kinds of side streets and back alleys that we frequented---but some of his
+rumormongers might have recognized me if I had come to Coriandel as myself. I
+didn't want that. I didn't want him to have to talk to me just because I was
+there. He could find me easily enough if he ever wanted to.
 
 "You ready?" Buckle asked, tucking his djellaba back in place.
 
 "Of course." I picked up my hooves and hurried to catch up with the rest of the
-troop.
+caravan.
 
 Lady Kembe spoke my name halfway down the hill. It felt like someone tickling my
 ears with a piece of straw. I flicked them back and held them there, the signal
 I had taught Buckle years before. He sighed theatrically, spat onto the
-hard-baked earth, and said aloud to no one in particular, "To sell this one for
-a lion's breakfast, it should take a stone in its hoof one more time."
+hard-baked earth, and said aloud to no one in particular, "Someone swears he
+will sell this one for a lion's breakfast, he should take a stone in his hoof
+one more time."
 
 I ambled over to the side of the road to let the goats behind us pass.  As
-Buckle dismounted, I whispered, "Not so thick next time. You sound fresh off the
-blackgrass."
+Buckle dismounted, I whispered, "Not so thick next time. You sound like you're
+fresh off the Black Grass."
 
 "Sorry, honored sir," he whispered back contritely, slipping his hand into a
 saddle bag to pull out a candle stub and a cloth-wrapped mirror.  The mirror
 wasn't anything special, although Buckle occasionally used it for signaling. The
 cloth, on the other hand...
 
-I glanced around. "All right." He lit the candle with a quick twist of his
+I glanced around. "All right." He lit the candle with a quick snap of his
 fingers and held the cloth up in front of me. The embroidered portrait of Lady
 Kembe solidified almost instantly.
 
 "Good morning, Wave," she said. She was in her study, as always.
 
-I nodded. "Lady." I had always been "Wave" to her. I had no idea why.
+I nodded. "*Sra*." I had always been "Wave" to her. I had no idea why.
 
 "How goes your journey?"
 
-"Well enough, lady." One of our little caravan's guards had knifed another over
-a girl who didn't like either of them. A would-be saint from Ruuda had
-sleepwalked into a sand miser's pit. Not bad, considering.
+"Well enough, *sra*." One of our little caravan's guards had knifed another over
+a girl who didn't like either of them. A self-proclaimed saint from Ruuda had
+sleepwalked into a sand miser's pit, taking whatever mad inventions he might
+have conceived with him. Not bad, overall---I'd certainly had worse journeys.
 
 "And you are now how far from Coriandel?"
 
-"About three gallops, lady. We'll be in the fields soon."
+"About three gallops, *sra*. We'll be in the fields soon."
 
 "Good. I need you to find someone for me." She quickly gave me one of her usual
-half-useful descriptions: young, human, female, with two friends, one of them
-fat, had slept with a rag dog every night until she was ten, fond of Ruudian
-romance novels but not supposed to read them, stronger inside than out, and oh
-yes, if I stood near a statue of a horse at mid-day, I would see her crossing
-the square.
+maddening descriptions: young, human, female, with two friends, had slept with a
+rag dog every night until she was ten, fond of Ruudian romance novels that she
+wasn't supposed to read, stronger inside than out, and oh yes, if I stood near a
+statue of a horse at mid-day, I would see her crossing the square.
 
-"Do you have a particular statue in mind?" I asked sourly.
+"Do you have a particular statue in mind, *sra*?" I asked sourly.
 
-An eyebrow went up. "There is only one in Coriandel that I know of," she replied
-evenly. "Anything else?"
+An eyebrow went up. "There is only one statue of a horse in Coriandel that I
+know of," she replied evenly. "Anything else?"
 
-"Yes. What am I supposed to do with her when I find her?"
+"Yes, *sra*. What am I supposed to do with her when I find her?"
 
-"La, yes, I forgot." She shook her head and made a small mark on the page in
+"*La*, yes, I forgot." She shook her head and made a small mark on the page in
 front of her. Did she keep track of the number of times she forgot things? It
-wouldn't be her strangest habit. "You're to get her out of
-Coriandel. Soon. Today would be best. This evening, in fact."
+wouldn't be her strangest habit. "You're to get her out of Coriandel.  Soon.
+Today would be best. This evening, in fact.  Yes, this evening."
 
-"What do I tell her?"
+"Yes, *sra*.  What reason do I give her?"
 
-Lady Kembe frowned. "Tell her that you're going to free her."
+Lady Kembe frowned. "Tell her that you're going to set her free."
 
-Marvelous. "Does it matter if anyone knows she's gone?"
+Marvelous. "Yes, *sra*.  Does it matter if anyone knows that she's gone?"
 
-Lady Kembe smiled lazily. "Oh, someone will notice, I'm sure." She paused,
-weighed matters far too complicated to share with a mere horse.  "Ensworth, I
-think. Yes, Ensworth. Have your man talk to the cloudherds.  That would be the
-quickest way."
+Lady Kembe smiled.  Cats smile that way sometimes, especially the big ones.  I
+still don't like them.  "Oh, someone will notice, I'm sure." She paused,
+weighing matters far too complicated to share with a mere horse.  "She should go
+west, I think.  Yes, to Araña.  Have your man talk to the cloudherds.  That
+would be the quickest way."
 
-"Lady." I dipped my head again, sighing inside. She was very fond of flying,
-Lady Kembe was. Buckle could have bought a second horse for the girl to ride, or
-we could have cut off her hair and dressed her as a contemplative on her way to
-some desert fastness to meditate on the meaning of meaning, but no, Lady Kembe
-had to fly her away on a cloud. I didn't imagine she would think it was all that
-wonderful if she had ever actually done it. I certainly didn't.
+"Yes, *sra*." I dipped my head again, sighing inside. She was very fond of
+flying, Lady Kembe was. Buckle could have bought a second horse for the girl to
+ride, or we could have cut off her hair and dressed her as a contemplative on
+her way to some desert fastness to meditate on the meaning of meaning, but no,
+Lady Kembe wanted her to fly away on a cloud. She probably wouldn't think it was
+quite so wonderful if she had ever actually done it.
 
 "Oh, and Wave?"
 
-"Lady?"
+"*Sra*?"
 
 "Do you remember Swallow?"
 
-Swallow? It took me a moment to remember who she meant. Swallow was Ishad, the
-fencing master Oro had sent into the Tombs. "Yes, lady?" I made it a question.
+Swallow? It took me a moment to fit the name to a person. Swallow was the
+fencing master that Oro had sent into the Tombs. He had been one of her hands in
+the world before Oro and I entered her service.  "Yes, *sra*?" I made it a
+question.
 
 "Good." She nodded once, firmly. "Under no circumstances is his boy to come with
 her."
 
-"Yes, lady."
+"Yes, *sra*."
 
-We caught up with the rest of our troop just as they reached the Market
-Gate. "To have caught a stone in his hoof," Buckle explained to the guardsmen,
-his accent no thicker than it should have been. Two copper pennies for him, and
-one for me, bought us each the dab of lime-colored dye that would let us stay in
-the city until dawn.
+We caught up with the rest of our troop just as they reached the Market Gate.
+"This one has caught a stone in his hoof," Buckle explained to the guardsmen,
+his accent no thicker than it should have been. Two copper sequins for him and
+one for me bought us each the dab of cheap lime-colored dye that would let us
+stay in the city until dawn.
 
-I carried Buckle through the streets of Coriandel, exchanging glances now and
+I carried Buckle through the streets of Coriandel, exchanging signs now and
 again with other Gifted animals. There's a whole world beneath the human world
-where news is carried by smell, or by the way a cat twists its tail when not
-talking to you. We may not like each other, but if we didn't hang together,
-humans would likely eat us separately.  *Trouble?* I asked silently. *No
-trouble,* a donkey signed back. *Do you know of any?* There were guardsmen
-about, in pairs and threes, but no more than usual. If Elijene the parrot had
-still been alive, she could have filled both my ears with gossip and rude jokes,
-but her death had found her since my last visit to Coriandel.
+where news is carried by smell, or by the way a cat twists its tail when very
+pointedly ignoring you. We may not like each other, but if we didn't help one
+another, humans would likely eat us separately.  *Trouble?* I asked silently.
+*No trouble,* a donkey signed back. *Do you know of any?*  I flicked my tail
+in the way that meant "no" and kept going.
 
-The sun was almost directly above our heads by the time we reached the Dubious
-Fiddler. "Tie me up here," I muttered to Buckle. "Not too tight.  I'll need a
-stall for the night. And a blanket---and shake it out this time."
+There were guardsmen about, in pairs and threes, but no more than usual. If
+Ajwapetala the parrot had still been alive, she would have filled both my ears
+with gossip and rude jokes, but her death had found her since I last snuck into
+the city.
 
-Buckle looped my reins over the hitching post outside the Fiddler. To the casual
-eye I would look tied, but if I shook my head the right way they would fall
-loose and I could gallop away. Or amble. I ambled more these days than I had
-when I was young. It got me places galloping never had.
+The sun was almost directly over us by the time we reached Trampling Square.
+"Tie me up here," I muttered to Buckle. "Not too tight.  I'll need a stall for
+the night. And a blanket---one without fleas this time."
+
+Buckle looped my reins over a hitching post that was still just barely in
+shadow. To the casual eye I would look tied, but if I shook my head the right
+way they would fall loose and I could gallop away. Or amble. I mostly ambled
+these days. It got me places galloping never had.
 
 *Boom. Boom. Boom.* The palace drums beat noon. I watched people hurry back and
 forth across the square and tried very hard not to look at the statue Oro had
-put up a couple of years before. The wyrm it showed me trampling had actually
-been about half again larger, and my mane had been quite so neatly trimmed at
-the time. I caught Buckle grinning, and half-heartedly tried to kick him.
+put up when he had the square rebuilt. The wyrm it showed me trampling had
+actually been about half again larger than the one carved in stone, and my mane
+had not been nearly so neatly trimmed at the time. I caught Buckle grinning, and
+half-heartedly tried to kick him.
 
-And there she was. It had to be her. Slender, with a face as round and as
-beautiful as the moon, in a simple black dress, girls on either side chattering
-to her. And yes, one of them was the solid that Buckle was fond of. Time to
-amble.
+And there she was. It had to be her. Slender in a simple black dress, with a
+face as round and as beautiful as a peach and a girlfriend on either side
+chattering to her. Time to amble.
 
-I shook my head and backed away from the hitching post. The trio stopped at a
-sweetcake shop, so narrow that the proprietor could barely fit his shoulders
-through his own window. I kept my head down---if you don't make eye contact,
-people won't see you---and came up silently behind them.
+I shook my head to make my reins fall free and backed away from the hitching
+post. The trio stopped at a sweetcake shop, so narrow that the proprietor could
+barely fit his shoulders through his own window. I kept my head down---if you
+don't make eye contact, humans won't notice you---and came up behind them.
 
-"But we'll be late again!" the solid one protested.
+"But we'll be late again!" the larger girl on the left protested.
 
-My mark rolled her eyes. "Who cares? By the time we get back to your house,
-we'll have honey all over our fingers." She sat down on one of the shop's little
-three-legged stools without waiting for an answer and turned so she could watch
-the passers-by in the square.
+My mark rolled her eyes. "What does it matter?  Besides, if we *don't* eat them
+here, we'll have honey all over our fingers when we get to your house." She sat
+down on one of the shop's little three-legged stools without waiting for an
+answer and turned so she could watch the passers-by in the square.
 
 "Oh!" She nearly fell backward off the stool as I nipped the sweet baklava out
 of her hand. It was delicious. She stared at me in disbelief as her friends
-burst into giggles.
+burst into shocked giggles.
 
-Right on cue, Buckle came running over. "To weep from shame," he blurted, his
-blackgrass accent as thick as cheese. "Bad horse!" He clouted my nose a little
-harder than our little play called for.  "Please, to apologize." He fumbled a
-few coins out of his purse. "To choose, yes? To choose?"
+Buckle ran to us, wringing his hands. "Someone weeps from shame," he blurted,
+his Black Grass accent as thick as cheese. "Bad horse!" He clouted my nose a
+little harder than necessary.  "Please, he apologizes." He fumbled a few coins
+out of his purse. "Someone will have another, yes?  Another?"
 
 The girl protested, but Buckle would not be put off. He would be shamed if she
 didn't let him buy her a fresh piece. No, his entire clan would be shamed. Oh,
 and the things he would do to his horse. Cat food! Glue!  Gelding with blunt
 scissors! Oh, begging the honored mistress's pardon for saying that (Buckle even
 managed a blush at this point). Please, the honor would be his. And besides, it
-would make him feel young again, to spend a little money on such a
-beautiful---oh, thank you, thank you, honored mistress. Please, come show me
-which you want.
+would make him feel young again, to buy a sweet for such a sweet lady.  Oh,
+thank you, thank you, honored mistress. Please, come show me which you want.  It
+was nearly enough to make me bring the baklava back up.
 
 Buckle made a show of gathering up my reins and dragging me along behind him so
-I wouldn't annoy the girl's friends. "Another baklava," the girl told the
-vendor, who had been watching the proceedings with about as much interest as you
-would expect. He put the sugary pastry on a grape leaf and handed it to her. My
-muzzle was only a palm's width from her ear as she took it. "Don't say
-anything," I whispered. "I'm Gifted. I'm here to set you free."
+I wouldn't annoy the girl's friends. "Another," the girl told the vendor, who
+had been watching the proceedings with just as little interest as you would
+expect. He put the sugary pastry on a grape leaf and handed it to her. My muzzle
+was only a palm's width from her ear as she took it. "Don't say anything," I
+whispered. "I'm Gifted. I'm here to set you free."
 
 She stiffened. For a moment I thought she was going to turn dramatic, but
-instead she brought the baklava up to her lips. "How?" she whispered loudly from
-behind her sweet.
+instead she brought the baklava up to her lips. "How?" she whispered loudly.
 
 "It's a long story. Where can we talk?"
 
 She hesitated. "Not here. Can you follow me home?"
 
 A dusty Darpani on a broken-down horse, following a beautiful young woman
-through the wealthiest districts of Coriandel? "No. Do you know the old well on
-Quiet Saints Street? Can you be there in an hour?"
+through the streets of Coriandel? "No. Do you know the well on Quiet Saints
+Street? Can you be there in an hour?"
 
 "I'll try."
 
@@ -5245,50 +5250,38 @@ it. Wonderful girl, she let me have it.
 She shrugged off her friends' comments. ("Seeeehdie, don't you see? It was a
 trick! That man just wanted you to buy his horse some food!") As they swallowed
 the last of their sweets and brushed the crumbs from their fingertips I eyed my
-statue once again. Something by Oro's feet caught my eye. Curious, I
-clip-clopped closer for a look.
+statue once again. Something by Oro's feet caught my eye. Curious, I ambled
+closer for a look.
 
-Pistachio shells. The sculptor had detailed a dozen pistachio shells on the
-ground near Oro's feet.
+Pistachio shells. There were pistachio shells on the plinth near Oro's feet.
 
-I whinnied. Buckle was there in a heartbeat. "What's wrong?"
-
-I nodded at the replica of Oro. "What's that in his hand?"
-
-Buckle squinted for a moment. "Looks like nuts."
-
-"That's what I thought." He sure as hell hadn't had any nuts in his hands when
-we were fighting the wyrm.
+I whinnied. "What?" Buckle muttered under his breath.  I shook my head.  Lots of
+people ate pistachios.  I was foolish to think it meant something.
 
 Sehdie sat waiting for us on the stone lip of the well on Quiet Saints Street,
-petting the wiry moss that grew in shallow buckets around its edge. A guardhouse
-stood watch on one side of the square. Three bravos in freshly-pressed sashes
-who had been eyeing her eyed us instead as we clip-clopped across the
-cobbles. Buckle slid out of the saddle and busied himself with a string puzzle
-he had bought in Ensworth while I told her who I was and who I served.
+gently stroking the wiry moss that grew in shallow buckets around its edge. A
+guardhouse stood watch on one side of the square. Three bravos in
+freshly-pressed sashes who had been eyeing her eyed us instead as we
+clip-clopped across the cobbles. Buckle slid out of the saddle and busied
+himself with a string puzzle he had bought in Ossisswe while I told her who I
+was and who I served.
 
 "But why me?" she asked.
 
-"Magician's ways," Buckle said without looking up. "We are snowflakes in their
-blizzard, leaves in their storm."
+"Why sun and rain?" Buckle asked rhetorically without looking up. "We are
+snowflakes in their blizzard, leaves in their storm."
 
 I sighed. "What my melodramatic friend is saying is, she has her reasons. I
-promise you, they're good ones. They have to be good ones.  Now, are you
-coming?"
+promise you, they're good ones. They have to be.  Now, are you coming?"
 
 She hesitated. "Can I bring someone?"
 
-"No."
-
-Her face set. "Then no in return."
-
-Rust and ruin. Why do humans always make things so complicated? "All
-right. Maybe. Who?"
+Rust and ruin. Why do humans always make things so complicated? "It depends who
+it is."
 
 She twisted her sleeves in her hands. "There's this boy..."
 
-I shook my head. "Nope. She was very specific about that. Ishad's boy stays
-here."
+I shook my head. "No. She was very specific about that. Ishad's boy stays here."
 
 She looked at me miserably. "It's not him."
 

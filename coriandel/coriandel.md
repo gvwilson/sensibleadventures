@@ -4757,10 +4757,12 @@ described it as being big enough for an elephant. "You really don't want to fall
 in," she said, as if we might have thought to do so.  We gave it a wide berth.
 Another silver gate waited for us on the far side of the garden, another
 passage, and more stairs, down and down. At their end lay the tombs of those who
-had ruled the Karaband after the Pilots. Ruled badly, for the most part,
-throwing ancient scavenged sorceries that they did not understand at once
-another until they too destroyed themselves. The Darpani remember them, even if
-those who live in cities have forgotten.
+had ruled the Karaband after the Pilots. Ruled badly for the most part, throwing
+ancient scavenged sorceries that they did not understand at once another until
+they too destroyed themselves. The Darpani remember them, even if others choose
+not to.  We remember the cities that Those Before lived in, and how they fell
+and burned, and why people should live under the sky and own no more than they
+can carry.
 
 The Karabandi swallowed another mouthful from his canteen. "Ready?" I have
 wondered since what he would have said or done if we had said "no". But instead,
@@ -5285,56 +5287,56 @@ I shook my head. "No. She was very specific about that. Ishad's boy stays here."
 
 She looked at me miserably. "It's not him."
 
------
-
-## Cup Rainbow Reaching Remembers the Taste of Plums
+## Then: Cup Rainbow Reaching Remembers the Taste of Plums
 
 My mother called my name "Cup". My father added "Rainbow". A grass thrower gave
 my name its third name. In the winter of my thirteenth year, I fasted for three
-days before going into the dark tent with two other boys. We gave the grass
+days before going into the men's tent with two other boys. We gave the grass
 thrower our childhoods, then drank smoke until our souls flew away from our
 bodies. As we lay on the ground at her feet, she tossed blades of grass into the
-air and studied how they fell about us. When we woke, she told us how we would
-die.
+air and argued with the Other as they fell. When we woke, she told us how we
+would die.
 
 "You will die coughing," she said to the first boy. He bowed his head,
 disappointed.
 
-"You will die sleeping," she said to the second. He bowed his head as well.
+"You will die sleeping," she said to the second. He bowed his head as well.  His
+death might come to him like an old friend at the end of a long life, or on the
+blade of a cut-throat's knife in a raid---there was no way to know.
 
 "And you." She spoke to me last. "You will die reaching."
 
 I bowed my head. *Reaching?* I wondered blearily. Reaching what? The end of a
 journey? For a horse's reins? It would take me the rest of my life to find out.
 
-My mother's-side cousin's death found him first. His name's name was Strap Plum
-Burning. It is a hard name, Burning, but he bore it well. As we entered the
-place of the dead I nudged him with my elbow. "To be too damp here for anything
-to catch fire," I joked. He rolled his eyes at me. The Karabandi glanced back at
-us, curious to know what we were saying. We returned his look stony-faced, as we
-had once returned our uncle's when he discovered yellow yarn woven into his
-horse's tail.
+My mother's-side cousin's death found him before mine found me. His name's name
+was Strap Plum Burning. It is a hard name, Burning, but he bore it well. As we
+entered the place of the dead I nudged him with my elbow. "At least somewhere is
+too damp for a fire," I joked. He rolled his eyes at me. The Karabandi glanced
+back at us, curious to know what we were saying. We returned his look
+stony-faced, as we had once returned our uncle's when he discovered yellow yarn
+woven into his horse's tail.
 
 The place of the dead was like a crooked dream of the city above us. Its
 buildings were misshapen toys. Statues of frowning men and serene women filled
 its streets instead of people. We walked quietly, the Karabandi in front, my
 mother's-side cousin and I side by side behind him, our eyes never still. It
-smelled stale, like a blanket that has not been unrolled for a season.
+smelled stale, like a blanket that had not been unrolled for many seasons.
 
-The street led us to an empty square. A domed building stood on our
-left. Another with a columned front stood to our right, while a third that
-looked like a fallen windmill blocked our path. The Karabandi paused. "Well?" he
-asked. "Any sparks on anyone's tinder?"
+The street led us to an empty square. A domed building stood on our left.
+Another with a columned front stood to our right, while a third that looked like
+a fallen windmill blocked our path. The Karabandi paused. "Well?" he asked. "Any
+sparks on anyone's tinder?"
 
 We shook our heads. It would take an army and a lifetime to search every dark
 corner in that place. The Karabandi sucked on his teeth. "Then I guess we do
-this the hard way. Where's that third lantern?"
+this the old-fashioned way. Where's that third lantern?"
 
-I unshuttered it while the Karabandi boosted my mother's-side cousin up to the
-roof of a nearby tomb. It was sloped to shed rain that would not fall here until
-the world above was worn away. He scrambled up to its peak. We shielded our
-lanterns and waited for his eyes to adjust to the darkness, then uncovered them
-as he slithered back down the side of the tomb.
+I unshuttered it while the Karabandi boosted my mother's-side cousin up onto a
+nearby tomb. Its roof was sloped to shed rain that would not fall here until the
+world above was worn away. He scrambled up to its peak. We shielded our lanterns
+and waited for his eyes to adjust to the darkness, then uncovered them as he
+slithered back down the side of the tomb.
 
 "Nothing," he reported, dropping back onto the paving stones beside us.
 
@@ -5345,17 +5347,17 @@ My mother's-side cousin took his place beside a statue of a lion wearing
 spectacles. I stood with my back against the wall of the tomb twenty paces
 away. We set our lanterns down a few hands away so that we would not
 accidentally kick them. The Karabandi hooked his to his belt, pulled his left
-sleeve back with his teeth, and drew his sword across the back of his wrist.
+sleeve back with his teeth, and drew his sword across the back of his forearm,
+far enough from his wrist that the blood would not make his grip slippery.
 
-A dark splatter of blood fell on the stones at his feet. He held his arm
-straight out before him, palm up, squeezing and relaxing his fingers as if
-tickling a cow's udder. When he judged enough had fallen he took a twist of
-cloth from his pocket and tied it around his wrist, using his teeth to pull it
-tight. Then he drew his dagger, the horned one he called a swordbreaker, and
-waited.
+A dark splatter fell on the stones at his feet. He held his arm straight out
+before him, palm up, squeezing and relaxing his fingers as if tickling a cow's
+udder. When he judged enough had fallen he took a twist of cloth from his pocket
+and tied it around his wrist, using his teeth to pull it tight, then drew his
+horned dagger.
 
-We waited, breath after breath, but nothing came. Finally the Karabandi lowered
-his sword and dagger.
+We waited, slow breath upon slow breath, but nothing stirred. Finally the
+Karabandi lowered his blades.
 
 "Gaaah. This is useless."
 
@@ -5364,66 +5366,64 @@ My mother's-side cousin picked up his lantern. "To try somewhere else?"
 "I suppose. Maybe it---behind you!"
 
 The bonescuttle lunged out of the shadows, chittering and snapping its claws. It
-was shaped like a scorpion but as large as a small horse, low against the ground
-with a wicked barbed tail arching over its back. The lower parts of the legs
-were fleshless bone, and its head had sideways jaws like the small evils you
-find under rocks in the desert.
+was shaped like a scorpion but as large as a mule, low against the ground with a
+wicked barbed tail arching over its back. The lower parts of the legs were
+fleshless bone, and its jaws worked sideways like those of the small evils that
+live under rocks in the desert.
 
 My mother's-side cousin dropped his lantern and threw himself sideways.  A claw
-the size of my head snapped shut where his neck had been. The lantern glass
-shattered. The broken dayglass flared like a tiny sun as trapped light rushed
-out.
+the size of my head snapped shut where his neck had been. The lantern shattered,
+and the broken dayglass flared like a tiny sun as its trapped sunlight spilled
+out and was lost.
 
-The Karabandi was on the thing even before my cousin rolled to his feet.  He
-bellowed and swung his sword overhand at its claw. The creature snatched its arm
-back, snapping at him with the other in the same motion. The Karabandi knocked
-the second claw sideways, dropping his useless dagger to take his sword
-two-handed.
+The Karabandi swung his sword overhand at the creature's claw even as my
+mother's-side cousin rolled to his feet. The creature snatched its arm back,
+snapping at him with the other in the same motion. The Karabandi knocked the
+second claw sideways, dropping his useless dagger to grip his sword two-handed.
 
 My mother's-side cousin jabbed his spear in between two of the bonescuttle's
-legs. Its tail snapped across his face, cutting him open from temple to jaw. I
-was on it then, screaming.
+legs. Its tail whipped across his face, cutting him open from temple to jaw.
 
-My full weight was behind that thrust. My spear scored the hard shell on its
-back but did not break through. As it slipped off I ran straight into the
-creature, tripping over it as my knees hit its side. I tumbled headlong onto the
-stones beyond it. For just one heartbeat my face was a hand's width from it. Its
-breath was as foul as a week-old corpse, but its eyes were human---whatever else
-the rest of it was, its eyes were human. I screamed again and rolled away. Its
-jaws clacked shut where my nose had been.
+I fell on it with a scream.  My full weight was behind my thrust, but my spear
+only scored the hard shell on its back. As it slipped off I ran straight into
+the creature.  I tumbled headlong over it onto the stones. For just one
+heartbeat my face was a hand's width from it. Its breath was as foul as a
+week-old corpse, but its eyes were human---whatever else the rest of it was, its
+eyes were human. I screamed again and rolled away. Its jaws clacked shut where
+my nose had been.
 
-"Hai!" the Karabandi shouted, swinging at its head. My mother's-side cousin was
-behind it now, out of reach of its tail, one side of his face masked in
-blood. He shoved his spear into the joint of its rear left leg. Something
+"*Hai!*" the Karabandi shouted, swinging at its head. My mother's-side cousin
+was behind it now, out of reach of its tail, one side of his face sheeted with
+blood.  He shoved his spear into the joint of its rear left leg.  Something
 crunched.
 
 It screeched and twisted around. My mother's-side cousin's spear was pulled from
 his grasp. The bonescuttle's tail snapped down like a spring trap and buried its
-curved black tip in his shoulder. My mother's-side cousin wrapped his arms
-around it and bent forward like a wrestler trying to break his opponent's back.
+curved black tip in his shoulder. He wrapped his arms around it and bent forward
+like a wrestler trying to break his opponent's back.
 
-"Hai!" the Karabandi shouted again. His sword came down squarely in the middle
+"*Hai!*" the Karabandi shouted again. His sword came down squarely in the middle
 of the creature's back and crunched through its shell. The Karabandi kicked one
 of its knee joints and yanked his blade back.  Something like blood spurted from
 the wound.
 
 I was on my feet. Chips of dayglass from the broken lantern still sparkled a
-stride away. I jabbed my spear at the creature's face. "Hai!"  I yelled in
-imitation of the Karabandi. "Hai hai!"
+stride away. I jabbed my spear at the creature's face. "*Hai!*" I yelled in
+imitation of the Karabandi. "*Hai hai!*"
 
-The creature chittered and reared back on its rearmost legs. The Karabandi's
-sword whistled beneath it just a thumb away from its chest.  It twisted like a
-cat to pull its tail out of my mother's-side cousin's arms and fled.
+The creature chittered and reared up on its hindmost legs. The Karabandi's sword
+whistled just a thumb beneath its chest.  It twisted like a cat to pull its tail
+out of my mother's-side cousin's arms and fled.
 
 My mother's-side cousin fell to the ground next to his spear. I dropped to my
 knees beside him and rolled him onto his back. Half his face was hidden by
 blood. More gushed from the wound in his shoulder. He was already dripping with
 sweat.
 
-"To be..." he gasped. "To be..."
+"Someone..." he gasped. "Someone is..."
 
-"To be quiet," I said softly. I took his hand. It was like holding a piece of
-meat hot off a spit.
+"Someone should be still," I said softly. I took his hand. It was like holding a
+piece of meat hot off a spit.
 
 The Karabandi set his lantern down beside us. My mother's-side cousin's whole
 body spasmed as the bonescuttle's poison worked its way into his bones. He made
@@ -5432,28 +5432,27 @@ a little sound in his throat.
 The Karabandi tapped my shoulder. I didn't look up. He tapped me again, just as
 gently, and offered me a short knife that he had taken from his belt.
 
-I shook my head. "To not be our way."
+I shook my head. "This is not our way."
 
-I felt rather than saw him nod. "I'll do it if you don't want his blood on you."
+He nodded. "I'll do it if you don't want his blood on you."
 
-I shook my head again. "To have been foretold. To be as it must be."
+I shook my head again. "This has been foretold. It is as it must be."
 
 My mother's-side cousin clutched my arm. I bent over him. "What... is the
 name... of my name?" he gasped.
 
 "The name of your name is Strap Plum Burning," I answered. Tears streamed down
-my cheeks, small streams beside the river of sweat coming from him.
+my cheeks, tiny streams next to the river of sweat pouring off him.
 
 "And what... is my... name?"
 
 I set my spear down and raised my palms to him. "I do not know."
 
-He smiled. His breath was coming in short gasps and his teeth sounded like they
-were cracking against one another, but he smiled. "Then I...  will be... born
-again."
+He smiled. His breath came in short gasps and his teeth sounded like they were
+cracking against one another, but he smiled. "Then I...  will be... born again."
 
-"You will be born again," I agreed. He had kept his name hidden from his
-death. He would return.
+"You will be born again," I agreed. He had kept his name hidden from his death.
+He would return.
 
 The last chip of glass from the broken lantern flickered and died. I waited
 until he stopped shivering, then put up my hand. "To take that knife now," I
@@ -5461,38 +5460,38 @@ said. The Karabandi handed it to me wordlessly. I cut a lock of my mother's-side
 cousin's hair and tied it to make a *semtep*.  On impulse I cut a second one as
 well and handed it to the Karabandi along with his knife.
 
-"To burn this in sunlight," I said.
+"Someone will burn this in sunlight," I said.
 
-He nodded. "In sunlight."
+He nodded solemnly. "In sunlight."
 
 I wiped the head of my spear against the dead man's leg, then stood and walked
 back to my waiting lantern.
 
 "Where are you going?" the Karabandi asked.
 
-I picked up my lantern. "To have a trail now. To follow it to its end."
+I picked up my lantern. "Someone has a trail now. Someone will follow it to its
+end."
 
 The Karabandi raised a hand. "Hang about. We don't need to go chasing after
-it. All we have to do is stay here." He jerked a thumb back over his
-shoulder. "They always come back to their kills."
+it. All we have to do is stay here." He jerked a thumb back over his shoulder.
+"It'll come back to its kill."
 
 I picked up my lantern without looking at either the Karabandi or the dead
-man. "To not use this as bait," I said softly.
+man. "Someone will not use this as bait," I said softly.
 
-"I know, I know, but you eat what Luck puts in front of you or you go hungry,
+"I know, I know, but you eat what luck puts on the table or you go hungry,
 right?"
 
-I can use a spear one-handed. I brought it around so that its barbed head lay
-against his throat. "To not 'eat' any of what is here."
+I can use a spear one-handed. I brought it around so that its head lay against
+his heck. "Someone will not 'eat' any of what is here."
 
 He stood very still. "I understand," he said, speaking as calmly as I had. "But
 if we go chasing after it, we're just giving it a chance to ambush us."
 
 I stepped back a pace, stretching out my arm to keep the head of my spear
-against his throat. "To stay or follow as you choose."
-
-I turned and walked away. I thought he would argue with me, but he did not. He
-knew what it meant for a Darpani to turn his back on someone.
+against his throat. "You may stay or follow as you choose."  I turned and walked
+away. I thought he would argue with me, but he did not. He knew what it meant
+for a Darpani to turn his back on someone.
 
 I walked along the dark street with my lantern in one hand and my spear in the
 other. What the thing used for blood glistened on the stones. My grief was like

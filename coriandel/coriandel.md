@@ -5499,19 +5499,17 @@ a plum stone stuck in my throat. He brought me some once when I was sick, sweet
 and juicy red. Our uncle beat him for stealing them, but they were the most
 delicious thing I ever tasted.
 
------
-
-## Meshash Waits for Sunrise
+## Now: Meshash Waits for Sunrise
 
 Bringing back the bonescuttle's head made Ishad famous, at least for a while. He
-borrowed some silver against that fame from a moneylender on Third Shelf Street,
-and the next thing Onnemeno and I knew we were living next door to a fencing
-studio.
+borrowed some silver against that fame from the Bantangui moneylender on Third
+Shelf Street, and the next thing Onnemeno and I knew we were living next door to
+a brawling studio.
 
-At first, I was the one who disapproved. Our daughter had just turned sixteen,
-and I remembered that age well enough to know that a courtyard full of bravos
-next door was going to be a short ride to grandparenthood. Onne just
-grunted. "She's a sensible girl," he said.  "She'll be all right."
+At first I was the one who disapproved. Our daughter had just turned sixteen,
+and I remembered that age well enough to know that being next door to a
+courtyard full of bravos was going to be a short ride to grandparenthood.  Onne
+just grunted. "She'll be fine," he said.  "She's a sensible girl."
 
 He was right. Our two oldest were like him, as practical as shovels. But the
 sounds from next door made me curious.
@@ -5525,57 +5523,60 @@ sounds from next door made me curious.
 "Saints in their sandals, man, you're moving like a constipated chicken!"
 
 A constipated chicken? I had bread in the oven, but it would bake without me,
-and I could sew the buttons back on Onne's good shirt just as easily on the roof
+and I could mend the little tear in Onne's good shirt just as easily on the roof
 as I could in our rear courtyard...
 
 At first I sat with my legs in the ladder well, just listening, but then I told
-myself I was being foolish. If I just wanted to listen, I could have stayed
-downstairs. And anyway, if they were doing something improper, well, the sooner
-I found out about it, the better.
+myself I was being foolish---I could have listened just as well from downstairs
+and been more comfortable while doing it.
 
-Ishad caught sight of me as soon as I stood up. "Good morning!" He raised his
-practice sword in salute and sketched a small bow. The five men in the courtyard
-with him paused to study me.
+Ishad spotted me as soon as I stood up. "Good morning!" He raised his practice
+sword in salute and sketched a small bow. The five men in the courtyard with him
+paused to study me.
 
 "Good morning to you also," I replied politely, tightening my grip on my sewing.
 
 He waited a moment, then smiled broadly. "Can I help you with anything?"
 
-"No," I said primly. "I just wanted to see what a constipated chicken looked
-like."
+"No thank you," I said primly. "I just wanted to see what a constipated chicken
+looked like."
 
 They laughed at that. One of them even whistled, though Ishad punched his
 shoulder for it. "Back to work," he ordered them. He was still smiling as he
 raised his sword to begin another drill.
 
-After that, it seemed that there was always some reason for me to be up
-there. The light was better in the morning, or there was a breeze in the
-afternoon. Occasionally I saw some other women on their roofs as well.  We waved
-at each other, but we never mentioned it when we met each other in the street,
-just as we never mentioned it to our husbands. Like them, I was always back
-downstairs in time to cook dinner.
+After that, it seemed that there was always some reason for me to be up there.
+The light was better in the morning, or there was a breeze in the afternoon.
+Occasionally I saw some other women on their roofs as well.  We nodded to each
+other, but never mentioned it when we met in the street, just as we never
+mentioned it to our husbands. Like them, I was always back downstairs in time to
+cook dinner.
 
-One day he was waiting for me on the roof. He had leaned a ladder against his
-courtyard wall and was sitting with his back to me, and his legs dangling in the
-air. "Quite a view," he said over his shoulder. "I can see why you like it so
-much."
+And then one day he was waiting for me on the roof.  When I came up through the
+ladderwell he was sitting with his back to me, his legs dangling over the edge
+beside the ladder he had placed against the wall. "Quite a view," he said
+without turning his head. "I can see why you like it so much."
 
-I had a choice then. I could have gone and sat beside him. Instead, I said, "I
-hope you enjoy it as much as I have," and went back downstairs to start washing
-dates for dinner. And when Onnemeno got home that evening, tired and sweaty, I
-fed him lamb stew and then led him into the bedroom as if we were newlyweds once
-again.
+I could have gone and sat beside him. Instead, I said, "I hope you enjoy it as
+much as I have," and went back downstairs to start washing dates for dinner. And
+when Onnemeno got home that evening, tired and sweaty, I fed him lamb stew and
+then led him into the bedroom as if we were newlyweds once again.
 
-I loved my husband. There were so many things I wanted him to say to me that I
-knew he never would, but when I lay in bed later that night, silent tears on my
-face, he put his arm over me and mumbled in my ear without ever waking up. He
-was a good man, as good as he knew how to be.
+I loved my husband. He was a good man, as good as he knew how to be. There were
+so many things I wanted him to say to me that he never thought to, and so many
+adventures I wanted to us to have that we never did, but when I lay in bed that
+night, silent tears on my face, he put his arm over me and mumbled in my ear
+without ever waking up, and in the morning he brought me a cup of tea, just like
+he did every day we were married, and to hell with what other men might say if
+they found out.
 
 Vurt was born nine months later. Sometimes, when I was nursing him, I sat on the
 roof with my legs in the ladderwell, invisible to the men in the courtyard next
-door, listening to their shouts and scuffles. I wondered afterward if that was
-when my youngest son fell in love with the sound of swordplay. Oh please, Luck,
-if you have ever loved anyone, love him. Please, love him.
+door, listening to their shouts and scuffles. I wonder sometimes if that was
+when my youngest son fell in love with the sound of swordplay.
+
+Oh please, Pilots and saints, if you have ever loved anyone, love him. Please,
+watch over him tonight and bring him home safe to me.
 
 -----
 

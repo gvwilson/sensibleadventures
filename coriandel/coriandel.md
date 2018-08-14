@@ -5578,327 +5578,327 @@ when my youngest son fell in love with the sound of swordplay.
 Oh please, Pilots and saints, if you have ever loved anyone, love him. Please,
 watch over him tonight and bring him home safe to me.
 
------
-
-## Ishad on the Stairs
+## Now: Ishad on the Stairs
 
 Damn magicians. Damn them to rot forgotten for a thousand harrowing years. Oh
-yes, Lady Kembe was very helpful, very helpful indeed. A spell on Vurt's boots
-to guide him, thank you very much, that's wonderful. But wait---there's another
-way to reach the Moonset Door? A secret way known only to those whose souls are
-attuned to the mysteries of the underearth or some such blather? Why yes, thank
-you very much, I *would* like to be there to help him when he comes through.
+yes, Lady Kembe was very helpful, very helpful indeed.  Steal a pair of boots
+for no apparent reason from an ex-lover who just happens to be a captain in the
+emir's guard---yes, m'lady, that's very helpful, no reason needed.  Climbing
+walls and skulking on rooftops in the middle of the night is just what my old
+back needs to loosen it up, thank you very much for the opportunity.  Oh, and
+for the distraction---being chased by that bloody Gifted falcon the guard has
+working for them these days certainly took my mind off the likelihood of being
+eaten alive by a giant leech or---
 
-Too weeping bad those mysteries didn't remind her to tell me the rest of it.
+Gaaah.  And oh, she says, I forgot to mention, there's another way to reach the
+Moonset Door, a secret way known only to those whose souls are attuned to the
+mysteries of the underearth or some such blather.  Why yes, m'lady, thank you
+very much, that actually *is* very helpful, seeing as how it means I can be
+there to give him a hand when he comes through, if he makes it that far.
 
-After the door disappeared behind Vurt I rowed back to where we'd started,
-half-expecting to find a squad of the emir's finest waiting for me. I secured
-the boat to an old iron ring set in the stone, then shuttered my lantern and sat
-alone in the darkness. It was peaceful, even when something went *gloop* a dozen
-strides away. Didn't really expect to see sunlight again just then. Hated the
-thought. Hated the idea of never drinking a glass of cider on my roof at sunset
-again, or never kissing another woman. No more music, no more curried apricots,
-no more---hells, no more feeling sorry for myself. It was time to go to work.
+Too weeping bad those mysteries didn't remind her to tell me anything else.
 
-Lady Kembe's secret path was a series of handholds in the far wall. Each one
-appeared to be nothing more than a timeworn crack in the rock, but if you knew
-to look, you could see that each was within reach---barely---of the next. I
-shouldered my pack, hung my lantern on my belt, and started climbing.
+After the door disappears behind Vurt I row back to where we started,
+half-expecting to find a squad of the emir's finest waiting for me. I tie the
+boat to a rusty iron ring set in the stone, then shutter my lantern and sit in
+the darkness. It's peaceful, even when something goes *gloop* a dozen strides
+away.  I don't really expect to see sunlight again.  I hate the thought.  I
+always hate it, the idea of never drinking a glass of cider on my roof at sunset
+again or never kissing another woman. No more music, no more curried apricots,
+no more---hells, no more feeling sorry for myself.  That's probably what I'll
+miss most if this goes shitways.
 
-Up and up again, then across. What had seemed like just another shadow on the
-wall turned out to be a narrow cleft. I moved like a sailor topping a mast in
-high seas, three points secure while a single hand or foot moved. The handholds
-soon grew slime-slippery with condensation. I stopped cursing Lady Kembe, the
-bonescuttle, and the day I was born, and concentrated on wedging my hands and
-feet into the cracks as firmly as I could.
+Lady Kembe's "secret way" is a bunch of handholds in the wall. Each one looks on
+its own to be just another timeworn crack in the rock, but if someone has told
+you the secret, you can see how they're placed within reach of each other---just
+barely, but I've done worse. I shoulder my pack, hang my lantern on my belt, and
+start climbing.
 
-A narrow ledge gave me a few moments to catch my breath. My heart was pounding,
-and damn me for an old man, my arms were shaking.
+Up, up again, then across. What I thought was a shadow on the wall turns out to
+be a narrow cleft. I move like a sailor topping a mast in high seas, three
+points secure while a single hand or foot moves. The handholds are
+slime-slippery with condensation. After slipping for a third time I stop cursing
+Lady Kembe, the bonescuttle, and the day I was born so as I can concentrate on
+wedging my hands and feet into the cracks.
 
-The ledge disappeared two strides in front of me, just where the cleft
-narrowed. There were no more handholds---that would have been too easy---so it
-was time for some back-and-brace work.
+A narrow ledge gives me a moment to catch my breath. My heart is pounding, and
+damn me for an old man, my arms are shaking.  *Gloop*.  "Sorry to disappoint
+you," I mutter to whatever is in the water below me.
 
-I shrugged my pack off my right shoulder so that it hung from the crook of my
-left elbow. It wasn't heavy, but it did awkward things to my balance. A deep
-breath for courage, then I leaned back to put my shoulders against the wall and
-began shuffling along the ledge, trying very hard not to think about what might
-be lurking in the water below.
+The ledge disappears two strides in front of me, just where the cleft
+narrows. There are no more handholds---that would be too easy---so it's time for
+some back-and-brace work.
 
-By the time the ledge narrowed to nothing, the soles of my boots were pressed
+I shrug my pack off my right shoulder so that it hangs from the crook of my left
+elbow. It's not heavy, but it does awkward things to my balance. A deep breath
+for courage, then I lean back to put my shoulders against the wall and start
+shuffling along the ledge.  My glooping friend might not be disappionted after
+all.
+
+By the time the ledge narrows to nothing, the soles of my old boots are pressed
 against the rock like hungry piglets against their mother's belly. Right foot,
-left foot, each one planted against the rock, then wriggle my shoulders along a
-handspan or two and start again. Saints painting pictures, but it was hard work.
+left foot---plant each one against the rock, then wriggle my shoulders along a
+handspan or two and start again. Saints painting pictures, but it's hard work.
 
-And then I dropped my damned pack. When the ledge reappeared I got my boots back
-onto it without any trouble, but when I straightened up and reached for a
-handhold my left foot slipped, and it was the pack or me.
+And then I drop my damned pack.  When the ledge reappears I get my boots back
+onto it without any trouble, but as I straighten up and reach for a handhold my
+left foot slips, and it's the pack or me.
 
-There was a splash as it hit the water, and more splashing as whatever had been
-waiting for me gulped it down. "May you choke," I said bitterly. The bag had
-held four bags of lemonwood ash and two of burned chilies. Throwing them on your
-trail would kill your scent, so I figured if I threw some into these pools,
-maybe it would distract whatever was down there. It probably wouldn't have
-worked, but I'd never know now.
+There's a splash as it hits the water, and more splashing as Saint Gloop gulps
+it down.  I say a few words in Darpani, then a few in Uwsian and a bit of
+Praczny I learned during the siege.  My bag had four bags of lemonwood ash and
+two of burned chilies in it. Dusting your trail with them will make even a
+gargoyle lose your scent.  I figured if I threw some into these pools it might
+distract whatever lives down here here. It probably wouldn't have worked, but
+I'll never know now.  And that stuff wasn't cheap.
 
-The ledge beneath my feet widened into a proper path as the cleft opened onto a
-second chamber. I swung my lantern slowly from side to side. The wall to my
-right was perhaps twenty strides away. In front, the dark water ended against a
-stone walkway raised a handspan above the waterline with a stride-wide channel
-in its center.
+The ledge beneath my feet widens into a proper path as the cleft opens onto a
+second chamber, just as Lady Kembe promised. I unclip my lantern from my belt
+and swing it slowly from side to side. The wall to my right is twenty strides
+away, more or less. In front, the dark water ends against a stone walkway raised
+a handspan above the waterline with a stride-wide channel in its center.
 
-The ledge angled down toward the walkway. I was almost on it before I realized
-there was nothing on its other side except empty air. I was standing on the top
-of a dam. The whispered roar I had been hearing was water splashing against
-stone an unguessable distance below.
+The ledge angles down toward the walkway. I'm almost on it before I realize that
+there's nothing on its other side except empty air. I'm standing on the top of a
+weeping dam. The whispered roar I've been hearing is water splashing against
+stone somewhere far below.
 
-I whistled despite myself. "Well, this is unexpected," I said to no one.  I drew
-my sword and started to lean out for a look, then lay flat on the stone instead
-and slid forward to peer over the edge.
+I whistle despite myself. "Well, this is unexpected," I say to no one.  I draw
+my sword and start to lean out for a look, then lay flat on the stone instead
+and slide forward to peer over the edge.
 
-The dam face angled out below me. Stairs wide enough for one man to walk on
-comfortably zigzagged back and forth across it into the darkness below.
+The dam face angles out below me. Stairs wide enough for one man to walk on
+zigzag back and forth across it into the darkness.  I sit up and pick a scrap of
+dinner from between my teeth. I could start straight down, but what's the rush?
+Vurt is going to be a while. I take my lucky whetstone out of my pocket and run
+it along the length of my sword. *Sssshink.* The blade doesn't need a fresh
+edge---I saw to it just a few hours ago---but my nerves do.  *Sssshink.
+Sssshink.* It's a comforting sound.
 
-I sat up and picked a scrap of dinner from between my teeth. I could have
-started straight down, but what was the rush? Vurt was going to be a while. I
-took my lucky whetstone out of my pocket and ran it along the length of my
-sword. *Sssshink.* The blade didn't need sharpening---I'd seen to it that
-afternoon---but my nerves did. *Sssshink. Sssshink.* It was a comforting sound.
+I'd give just about anything to be at home, or even in a comfortable cell, but
+as I heard a man in Praczedt say just before he was hanged, you can't uncook an
+egg. I never found out if that was just a saying, or whether he had actually
+been condemned for doing something culinary.  It was possible---a week after I
+left, the count ordered his chef's right hand cut off for putting cilantro in an
+omelet.
 
-I would have given just about anything right then to be at home, or even in a
-comfortable cell, but as I heard a man in Praczedt say just before they hanged
-him, you can't uncook a piece of meat. I never found out whether that was just a
-colorful saying, or whether he had actually been condemned for some obscure
-culinary offence. It was possible---the count who ruled that particular corner
-of the world had ordered his chef's right hand cut off for putting cilantro in
-an omelet, and might have had equally strong views about overdone roasts.
+*Sssshink.* I touch the whetstone to my forehead Darpani-style to thank it for
+its help, then drop it back in my pocket and stand up and stretch.  I recognize
+the dam face, of course. I saw it years ago, looking up from below. The Moonset
+Door is down there, which means Vurt will be too. Lantern in one hand, sword in
+the other, I head down to meet him.
 
-*Sssshink.* I touched the whetstone to my forehead Darpani-style to thank it for
-its help, then dropped it back in my pocket and stood up.  I'd recognized the
-dam face, of course. I'd seen it years ago, looking up from below. The Moonset
-Door was down there, which meant Vurt would be too. Lantern in one hand, sword
-in the other, I started down to meet him.
+I try not to think about anything in particular as I trudge down the steps, but
+of course it's no use. I've gone soft since Armaq. Back then, all we let
+ourselves think was, "Just one more morning."  Thinking any further than that
+felt greedy. Just one more morning, one more day of not being dead before all
+the days when you will be.
 
-I tried not to think about anything in particular as I went, but it was no
-use. I'd gone soft since Armaq. Back then, all we let ourselves think was, "Just
-one more morning." We never thought any further than that, in case Luck thought
-we were being greedy. Just one more morning, one more chance.
+But Armaq was a long time ago, and I've gone soft since then. I should be
+listening for trouble, but instead I'm thinking about seeing Meshash last night.
 
-But Armaq was a long time ago, and I'd gone soft since then. I should have been
-listening for movement, but instead I was remembering the night before when I
-slipped into the house next to mine, quiet as a ghost, to put Vurt's boots back
-in their place by the door.
-
-"Ishad." I froze. She was standing in the courtyard door, barefoot, in a plain
+"Ishad." I froze. She was standing in the courtyard door, barefoot in a plain
 brown nightrobe. I couldn't see it, but I knew that her hair would be tied back
 with a piece of white string.
 
-"Hello, Meshash," I said softly.
+"Hello, 'Shash," I said softly.
 
-She jerked her chin toward the boots I had just set down. "For Luck?"
+She jerked her chin toward the boots I had in my hands. "For luck?"
 
-"Something like that." She waited, just looking at me.
+"Something like that."
 
-"I'm going to take him down to the Tombs," I said reluctantly. "And I'm going to
-bring him back. I asked a favor of someone I used to know. If that's not enough,
-nothing would be."
+She waited, just looking at me, beautiful and sad and strong.  "I'm going to go
+under with him," I tell her. "And I'm going to bring him back.  I promise.  I
+asked a favor of someone I used to know. If that's not enough..."  I shrugged.
+We both know that sometimes nothing is.
 
-You'd think we were both teenagers, the way we acted around each other.  She had
-lines around her eyes and her mouth now, but was still the most beautiful woman
-I had ever seen. She should have run away with me, but her other children needed
-her, and she truly did love her husband. He was gone now, but we were who we
-were, two people who had never done anything more than be awkward around each
-other.
+You'd think we were both teenagers, the way we act around each other.  She has
+lines around her eyes and her mouth now, but she's still---gaaah.  She's still
+Meshash. She could have run away with me, but her other children needed her, and
+she truly did love her husband. He's gone now, but we're who we are, two people
+who had never done anything more than be awkward around each other.
 
-That's what I was thinking about as I trudged down the steps on the face of the
-dam. About Meshash, and about Vurt pushing himself harder than a child ought to,
-practicing in his rear courtyard until I bellowed, "If you're going to make that
-much noise, you might as well come over here anyway!" Please, Death, take me if
-you want, but don't take him. Not over a stiff-necked stuck-up like that girl he
-thought he was in love with.
+That's what I'm thinking about as I trudge down through the darkness. About
+Meshash, and about Vurt practicing in his rear courtyard with a piece of bamboo
+until I bellowed, "If you're going to make that much noise, you might as well
+come over here anyway!"  Please, Death, take me if you want, but don't take him.
+Not over a stuck-up flower like that girl he thinks he's in love with.
 
-But that wasn't fair. I didn't know anything about her except the little I'd
-pried out of Vurt, and the little more I'd found out doing my own
-reconnaissance. "Polite enough," the coffee seller told me, "But the way she
-talks and dresses, you'd think the emir's grandfather was still on the throne."
-She leered. "Bit young for you these days, isn't she? You'd do better trying to
-thaw her aunt, if you ask me."
+But that's not fair. I don't know anything about her except the little I pried
+out of Vurt, and the little more I found out doing my own bit of reconnaissance.
+"Polite enough," the coffee seller told me, "But the way she talks and dresses,
+you'd think the emir's aunt was still on the throne."  She leers at me. "Bit
+young for you these days, isn't she? You'd do better trying to thaw her aunt, if
+you ask me."
 
-"Thank you but no," I laughed. Her aunt was the one from that awful picnic on
-Palace Mount, the equinox after I came out of the Tombs. An Enswer lad had
-introduced us, Peter or Piotr, one of those unmusical northern names. He and I
-fought a couple of times in the *umram*, then became friends. He fell for a silk
-merchant's daughter---Awmé? Awbé?  Something like that. She was already
-betrothed, but he didn't mind. And she had a sister. "Almost as pretty as she
-is," he said.
+"Thank you but no," I laugh. Her aunt was the one from that awful picnic on
+Palace Mount a few months after I came out of the Tombs.  One of the fellows I
+met in the *umram* introduced us, Peter or Piotr, one of those unmusical
+northern names. He and I fought a couple of times, then became friends. He fell
+for a silk merchant's daughter---Awmay?  Awbé?  Something like that. She was
+already betrothed, but he didn't mind if she didn't, and she had a
+sister. "Almost as pretty as she is," he promised.
 
-It was awful. The one Peter was in love with had a sharp tongue, but meant
-nothing by it. The sister, though---nothing was good enough for her, nothing and
-no one, certainly not all the "odds and sorts setting up shop in Coriandel these
-days". Hah---I remembered her saying that, and the look on her face when I told
-her that I was thinking of setting up a shop myself.
+It was awful. The one Petr---that was his name, Petr---the one he had his eye on
+had a sharp tongue but meant nothing by it. The sister, though---nothing was
+good enough for her, nothing and no one, certainly not all the "odds and sorts
+setting up shop in Coriandel these days". Hah---I remembered her saying that,
+and the look on her face when I told her that I was thinking of setting up a
+shop myself.
 
-Still, she was pretty enough, and very jealous of the attention Peter was giving
+Still, she was pretty enough, and very jealous of the attention Petr was giving
 her sister. We ate and drank, and I told all my usual stories, and somehow we
-wound up in the rooms Peter was renting, upstairs over a coffee house called the
+wound up in the rooms Petr was renting, upstairs over a coffee house called the
 Wings of Good Fortune. I would probably just have fallen asleep, to tell you the
-truth, but when she heard her sister and Peter next door, well, like I said, she
-was jealous. Peter and I walked them home around midnight, and I never saw her
-again.
+truth, but when she heard her sister and Petr next door, well, like I said, she
+was jealous. Petr and I snuck them home in the small hours, and I never saw her
+again.  I don't know if she even remembered me.
 
-I had forgotten completely about her until Vurt met Sehdie. It could just be
-coincidence, but how could you ever know? You'd have to get everyone in the
-world to tell you everything they knew, and even then, you wouldn't have all of
-it unless you could get the stones and the ocean to speak as well. All you can
-ever do is pick a few pieces and stitch them together however makes best sense.
+The stairs make long, shallow traverses across the dam face, a hundred and
+twenty steps from landing to landing. The blocks are some gray stone I don't
+recognize, with joints so fine they're almost impossible to make out.  It's not
+Pilot work, but it's better than anything anyone I've ever met could do today.
 
-The stairs made long, shallow traverses across the dam face, a hundred and
-twenty steps from landing to landing. The blocks were some gray stone I didn't
-recognize, and the joints so well made they were almost impossible to see.
+I'm two-thirds of the way down when I see something waiting for me on the next
+switchback. It looks like the dwarf oak in the emir's public garden up on Palace
+Mount, and it's as out of place down here as I am.
 
-I was two-thirds of the way down from the seventh landing when I saw something
-waiting for me on the eighth. It looked like the dwarf oak in the emir's public
-garden up on Palace Mount. What in the saints' names was it doing down here?
+I glance over the side. The drop to the next flight of steps won't kill me, but
+I'll break my ankle if I land wrong.  I bring my sword up to guard and start
+down again slowly.  No more daydreaming, old man.  Eyes front, and ears wide
+open to listeni for anything or anyone trying to hide in the faint splash of
+water hitting water below.
 
-I glanced over the side. The drop to the next flight of steps wouldn't kill me,
-but I would break my ankle if I landed wrong. I would have taken the chance when
-I was young.
+You'd think at my age I would have learned something about traps. Twenty steps
+from the tree, I glance over the edge again to see what the jump looks like.
+Just as I do, something moves in the air above me. I spin around and slash. My
+blade catches meat. Whatever it is misses me by a palm's width, hitting the edge
+of the stairs instead and falling over the side.
 
-I started down again slowly. I kept my sword at guard, listening for any sounds
-trying to hide in the faint splash of water hitting water below.
+I spin around again in time to see something ripple down out of the tree and
+flow up the stairs toward me. It's as long as I am tall, jointed like a shell
+worm, fungus-white, with a dozen legs on each side and a round mouth with teeth
+all around. If its kind has a name, I had no idea what it is. And I have no idea
+how it manages to speak with a mouth like that, but it does.
 
-You think at my age I would have learned something about traps. Twenty steps
-above the tree, I glanced over the edge again to see what the jump looked
-like. Just as I did so, something moved in the air above me. I spun around and
-slashed. My blade caught meat. Whatever it was missed me by a palm's width,
-hitting the edge of the stairs instead and falling over the side.
+"Am I hurt?" it whispers.
 
-I spun around again, just in time to see another one ripple down out of the tree
-and flow up the stairs toward me. It was as long as I am tall, jointed like a
-shell worm, fungus-white, with a dozen legs on each side and a round mouth with
-teeth all around. If its kind had a name, I had no idea what it was. And I have
-no idea how it managed to speak, but it did.
+"Somewhat," an answering voice whispers from below.
 
-"Am I hurt?" it whispered.
+"Oh dear. How unpleasant." The one in front of me scuttles up the wall.  I can't
+hear the other one, but if this one can climb, then---
 
-"Somewhat," another voice whispered from below.
+I leap aside. The one I cut ripples up onto the stairs where I was standing a
+heartbeat ago.  Its teeth clatter. "I missed," it whispers.
 
-"Oh dear. How unpleasant." The one in front of me scuttled up the wall.  I
-couldn't hear the other one, but if this one could climb, then---
-
-I leaped to one side. The one I had cut rippled up onto the stairs where I had
-been standing. Its teeth clacked. "I missed," it whispered.
-
-"Can I reach it?" the one above me asked.
+"Can I reach it?" the one above me asks.
 
 Damn me for losing my pack. There was black oil in there as well as ashes, two
 bottles of it with rags in their mouths, just the thing for vermin. Heroes in
 ballads never lose their damn packs. Eyes and swords and lovers, oh, never be a
-hero's lover, not if you want to live to the end of the song, but packs? You
+hero's lover, not if you want to live to the end of the poem, but packs? You
 would think they were glued on.
 
-The two creatures came at me together, one on the wall high to my right, the
-other up the steps at my feet. The one on the wall went past me. I couldn't
-watch it without taking my eyes off the wounded one. They were stacking my
-funeral pyre with both hands, as the Darpani would say, and there's only one way
-out of a trap like that.
+The two creatures come at me together, one on the wall high to my right, the
+other up the steps at my feet. The one on the wall goes past me. I can't watch
+it without taking my eyes off the wounded one. They're stacking my funeral pyre
+with both hands, as the Darpani would say, and there's only one way out of a
+trap like that.
 
-"Hai!" I shouted. The creature in front of me reared up and lunged like a
-snake. I cut across and down, knocking it out of my way just long enough for me
-to leap past it. But as I turned with the blow, I missed my footing. *Oh, you
-idiot,* I thought as I fell. *You stupid, clumsy amateur.*
+"*Hai!*" I shout. The creature in front of me rears up and lunges like a cobra.
+I cut across and down, knocking it out of my way just long enough for me to leap
+past it.  But as I turn with the blow, my saints-be-damned boot slips. *Oh, you
+idiot,* I think as I tumble onto the steps.  *You stupid, clumsy amateur.*
 
 It's hard enough falling on a floor. The drop's a lot longer on steps, and steps
-have edges. If I hadn't bounced against the wall as I went down, it would have
-been all over. As it was, I heard my head crack against stone. I heard
-it. Without thinking, I rolled to my left and dropped to the next flight, just
-as the underbeast lunged at me again.
+have edges, but I'm lucky, kind of, I hear my head crack against the wall as I
+go down. I *hear* it. Without thinking, I roll to my left and drop to the next
+flight of steps, just as the underbeast lunges at me again.
 
-Somehow I landed upright, but my right foot rolled sideways, and something
-inside my ankle snapped. I went down in a heap, but hung onto my sword and
-lantern.
+Somehow I land upright, but my right foot rolls sideways and something inside my
+ankle snaps. I go down in a heap, but manage to hang onto my sword and lantern.
 
-I lay there panting, cold sweat on my face, my sword point-up in case one of the
-things dropped on me. I was dead. I knew I was dead. *I'm sorry,* I thought. *I
-did my best.*
+I lie there panting, cold sweat on my face, my sword point-up in case one of the
+things wants to drop on me.  I'm dead.  There's no way I'm not dead.  *I'm
+sorry,* I think. *I tried.*
 
-Feet scuttled on stone above me. I rolled over with a groan and stood on my left
-leg. My right ankle made me want to puke. The tree was just a few steps higher
-up the steps. If I could reach it, I could lean against it.
+Feet scuttle on stone above me. I roll over with a groan and stand on my left
+leg.  The pain in my right ankle makes me want to puke. The tree is just a few
+steps higher up the steps. If I can get that far, maybe I can lean against it.
+If they can't get behind me, and they're dumb enough to come at me one at a
+time---who am I kidding?  I'm still a dead man.
 
-Bones lay underneath it---ribs, shins, a skull, all picked clean. There was a
-spear there too, a hunting spear with a barbed head.
+There are bones under the tree---ribs, shins, a skull, all picked clean. There's
+a spear too, a hunting spear with a barbed head.
 
-"Is it disturbing my toys?" a voice whispered.
+"Is it disturbing my toys?" a voice whispers.
 
-"It is thinking about it," the same voice answered.
+"It is thinking about it," the same voice answers.
 
-"They're not yours," I said loudly. I knew that spear, even if its head was
-rusty. I hadn't seen it in twenty years, but I knew it. It was the Darpani's.
+"They're not yours," I grunt. I know that spear, even if its head is a little
+bit rusty. I haven't seen it in twenty years, but I know it. It's the one the
+Darpani was carrying the last time I was down this way.
 
-I hooked my lantern onto my belt and bent over awkwardly. "It is touching my
-toys!" a whispering voice protested. *Damn right,* I thought. I picked up the
-skull and hefted its weight. It was Cup's.  Don't ask me how I knew, I just
-did. And don't ask me how his bones climbed three flights of stairs. The last
-time I had seen him was down at the water's edge, and he wasn't going anywhere
-from there.
+I hook my lantern onto my belt and bend over awkwardly. "It is touching my
+toys!" a whispering voice protests.  *Damn right,* I think. I pick up the skull
+and hefted its weight.  It's him---it's Cup.  Don't ask me how I know, I just
+do.  The last time I saw him was down at the water's edge, and he wasn't going
+anywhere from there.
 
-"I'm sorry, lad," I said softly. "I truly am."
+"I'm sorry, lad," I say softly.  These whatevers must have carried him up here.
+The thought makes me suddenly, stupidly, angry.
 
 "It is playing with my toys! It shouldn't play with my toys!"
 
-"It's not a damn toy!" I yelled. "It's a friend of mine! Now put a cork in it!"
+"He's not a damn toy!" I yell. "He's a friend of mine! Now put a cork in it!"
 
-They came clattering at me then, both of them, hissing. "You want it?  Here!" I
-threw Cup's skull up into the air. One of them screeched and reared back to
-catch it, and I did something I would beat a student blue for doing. I threw my
-sword at it.
+They come clattering at me then, both of them, hissing. "You want it?  Here!" I
+throw Cup's skull up into the air. One of them screeches and rears back to catch
+it, and I do something I would beat a student blue for doing. I throw my sword
+at it.
 
 I use a straight blade. You can do a lot of tricks with one that's curved, but
-they don't throw well, and to tell the truth, this wasn't the first time I'd
-thrown mine. I'd have to remember to beat myself blue if I made it back to the
-surface.
+they don't throw well, and to tell the truth, this isn't the first time I've
+thrown mine. I'll have to remember to beat myself blue again if I make it back
+to the surface.
 
-It took the creature point-first right between a pair of legs. It fell flat on
-its ugly back with the sword sticking up out of its belly. The second one threw
-itself at me, mouth gaping. Cup's spear was out of reach, but I already had my
-lantern in my hand. I punched with it as hard as I could.
+It takes the creature point-first right between two of its legs. It falls flat
+on its ugly back with the sword sticking up out of its belly. The second one
+flings itself at me, mouth gaping. Cup's spear was out of reach, but I have a
+lantern in my hand, so I roar and punch the creature with it as hard as I can.
 
-The creature gagged on broken glass. I bellowed and pulled my hand out of its
-mouth. Bloody bits of gleaming glass flew everywhere. The thing writhed on the
-stone, bashing its head against the wall. I hopped over to Cup's spear, picked
-it up, reversed it, and buried it in the creature's back.
+The creature gags on broken glass. I bellow and pull my hand out of its mouth.
+There are bloody bits of glass everywhere. The thing writhes on the stone,
+bashing its head against the wall. I hop over to Cup's spear, graceful as
+always, pick it up, reverse it, and bury it in the creature's back.
 
-The thing twisted and snapped a little, but that was just its limbs not knowing
-that it was dead yet. And then everything was still and dark, completely
-dark. My lantern was gone, my pack was gone, my ankle was broken or near enough,
-and my sword---I needed my sword.
+The thing twists and snaps a little, but that's just its legs not knowing that
+it's dead yet. And then everything is still and dark, completely dark. My
+lantern is gone, my pack is gone, my ankle is broken or near enough, and my
+sword---I need my sword.
 
-I hopped two steps toward where the first creature had fallen, but damn me if it
-wasn't gone. The sword's weight must have rolled it over the side. If Luck loved
-me, it would be on the next flight of steps.
+I hop over to where the first creature ought to be, but damn me if it isn't
+gone. The sword's weight must have rolled it over the side. With a little bit of
+luck, it will be on the next flight of steps.
 
-I rooted around in my pockets. Wonderful things, pockets. The Darpani invented
-them. Much more practical than wallets and sporrans. Twine, a lock pick, a
-whistle... Ah ha. I pulled out my spare dayglass lens and flipped open the
-cover. It wasn't nearly as bright as the lantern, but the polished silver on its
-back bounced the light back to the front. I swept the beam slowly across the
-steps. There was still no weeping sword, but there beside me was Cup's skull.
+I root around in my pockets. Wonderful things, pockets. The Darpani invented
+them.  Much more practical than wallets and sporrans.  Twine, a lock pick, a
+whistle...  Ah ha.  I pulled out my spare dayglass lens and flip open the cover.
+It's not nearly as bright as the lantern, but there is polished silver on its
+back side.  I swept its faint beam slowly across the steps. There's no sign of
+my weeping stupid sword, but there beside me is Cup's skull.
 
-I picked i up. "Well," I said, "Here we are again." I felt light-headed, the way
-you do just before exhaustion turns your bones to lead. "Forgot to tell you, I
-burned your friend's lock of hair. Wish I'd taken one of yours. I'm sorry about
-that."
+I pick it up. "Well," I say, "Here we are again." I feel light-headed, the way
+you do just before exhaustion turns your bones to lead. "Oh, before I forget, I
+burned that lock of hair you gave me---the one from your cousin. Wish I'd taken
+one of yours. I'm sorry about that."
 
-There's strength in blood and bone. Or maybe he had been waiting for me.  I
-don't know. I just know that something suddenly prickled on the back of my
-neck. For a moment I thought it was the underbeasts' mother coming to finish
-what its children had begun, but then I felt a particular kind of chill, one you
-never forget.
+There's strength in blood and bone. Or maybe he was waiting for me.  I don't
+know. I just know that something suddenly prickles on the back of my neck, and
+then I feel a particular kind of chill, one you never forget.
 
-I put his skull down carefully and cleared my throat. "Cup Rainbow Reaching," I
-said. I raised my hands in the darkness, palms out, and bowed my head. "I greet
-you."
+I put his skull down carefully and clear my throat. "Cup Rainbow Reaching," I
+say, raising my hands in the darkness, palms out, my head bowed. "I greet you."
 
 -----
 

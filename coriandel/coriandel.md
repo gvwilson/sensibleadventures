@@ -1166,7 +1166,7 @@ me. I swallow and go looking for it.
 I am patient. I snack on fish and worms and little things with many legs. I eat
 bigger things when they come my way, and I wait for my love to return.
 
-Something I ate has awoken me, but I cannot eat it a second time, and it cannot
+Something I ate has woken up, but I cannot eat it a second time, and it cannot
 harm me.  I would go back to sleep, but I hear paddling.  Paddling means people,
 and people mean I might get a proper meal of sun-warmed flesh.
 
@@ -5900,62 +5900,66 @@ then I feel a particular kind of chill, one you never forget.
 I put his skull down carefully and clear my throat. "Cup Rainbow Reaching," I
 say, raising my hands in the darkness, palms out, my head bowed. "I greet you."
 
------
+## Now: Patience Wakes
 
-## Patience Wakes
+Something splashes in the water above me on the other side of the dam. A distant
+cousin of mine swallows it and swims back to its lair.  Was it alive?  No, I did
+not hear thrashing or shouting, and there is no tang of blood in the water, just
+dyed cotton, glass, and spices.
 
-Something splashed in the water high above me on the other side of the dam. A
-distant cousin of mine swallowed it whole and swam back to its lair. Something
-alive? No, I had not heard it wriggling, and there was no tang of blood in the
-water falling into my pool, just dyed cotton, metal, glass, and oil.
+Ah, but what is this? Footsteps? No one has come down *those* stairs in a very
+long time. Two legs, and boots. He---or she? No, from the stride it is a he.
+And he smells familiar.  I remember him---he has been here before.  I hate
+remembering. It is an enemy of patience, and I must be patient.
 
-Ah, but what was this? Footsteps? No one had come down the stairs in a very long
-time. Two legs, and boots. He---or she? No, from the stride it was a he. And he
-smelled familiar. He had been here before. I remembered him. I hate
-remembering. It is the enemy of patience.
+The scavenger nearly deals with him. I hear its halves chattering to each other
+and its little clawed feet.  A blade bites flesh.  One half splashes into my
+pool. It wis still twitching despite the sword in its belly. I open my jaws. The
+sword's sandshaw leather grip adds a piquant note to the tang of metal and the
+warm salty satisfaction of flesh.
 
-He stopped to speak to the echo of my previous meal, words words words, then
-more steps. There are one thousand four hundred and forty eight stairs between
-the top of the dam and my pool. There were one thousand five hundred and seventy
-when I first made the pool my home. Another few dozen centuries and the water on
-my side of the dam would reach the top, and then I could go and look for my lost
-love.
+Now he is speaking to the echo of my previous meal.  Words, words, words...
+Words are another enemy of patience.  Words and thoughts and change, they would
+all poison my patience the way those who made this place once tried to poison
+me and my kin.
 
-The scavengers nearly dealt with him. I heard their chatter and their little
-clawed feet, A blade bit flesh and one of them splashed into my pool. It was
-still twitching despite the sword in its belly. I opened my jaws. The sword's
-sandshaw leather grip added a piquant note to the taste of metal and flesh.
+There is a long silence. I wonder if the man has died, but then I feel a faint
+thumping through stone and water. Is he clubbing the scavenger's corpse?  No, he
+is limping his way down the stairs.  That is promising...
 
-There was a long silence. I wondered if they had killed each other, the second
-scavenger and the man, but then I felt a strange thumping. Was he clubbing the
-scavenger's corpse? No, that was him. He was too badly injured to walk. Better
-and better, with the best yet to come.
+There are one thousand four hundred and forty eight stairs between the top of
+the dam and my pool. There were one thousand five hundred and seventy when I
+first made the pool my home. Another ten thousand years or so and the water on
+my side of the dam will reach the top, and then I can go and find my lost love.
+But until then, I must eat what the darkness brings me.  I let the current pull
+me away from my customary perch into the center of the pool.  I am patient, but
+I am hungry as well.
 
-The patient prepare. As the man slowly made his way down the steps, I let the
-current pull me away from my perch into the center of the pool.
+## Now: Boots in Darkness
 
------
+*Clump clump...  clump clump...* We are awake now, more or less.  We have been
+asleep for a long time, but we are awake now.  *Clump clump...  clump clump...*
+We know the way.  We don't know where it leads, but can tell whenever he tries
+to turn away from it.
 
-## Boots in Darkness
+*Clump clump... clump clump...* Even if he wasn't limping, He wouldn't notice us
+guiding him.  No one ever does.  We are ever so slightly heavier when he chooses
+a wrong turn, ever so slightly lighter when he takes the right one, and when he
+pauses to catch his breath, we place his feet just so, just so.  He does not
+always go where we want---they never do---but raindrops can wear away mountains.
 
-*Clump clump clump clump.* We are awake now, vaguely. We have been asleep for a
-long time, but we are awake now. *Clump clump clump clump.* We know the way. We
-don't know where it leads, but can tell whenever he tries to turn away from it.
-
-*Clump clump clump clump.* He doesn't notice us guiding him. We are heavier when
-he chooses a wrong turn, lighter when he takes the right one. When he shifts his
-weight from leg to leg we turn him ever so slightly.
-
-We are supposed to *clump clump clump clump* through the dark old places deep
-under the earth. Not that they are really so dark or so deep. The well in the
-stone garden, now... If someone dropped us into that, we might fall right out
-the bottom of the world. No more *clump clump clump clump* for us.
+We cannot remember why we want to *clump clump clump clump* through the dark old
+places deep under the earth.  Not that they are really so dark or so deep.  The
+well in the stone garden, now... If someone dropped us into that, we might fall
+right out the bottom of the world. No more *clump clump clump clump* for us.
 
 How do we know this? Have we been here before? We must have been. Were we boots
-then? No. We were not, but we cannot remember what we were.
+then? No. We were not, but we cannot remember what we were.  Remembering is an
+enemy of patience, and we need to be patient.  We have needed to be patient for
+a long, long time.
 
-It doesn't matter. Tonight we are boots, *clump clump clump clump* from here to
-where we need to be.
+But that doesn't matter. Tonight we are boots, *clump clump clump clump* from
+here to where we need to be.
 
 -----
 

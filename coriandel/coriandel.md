@@ -5897,8 +5897,8 @@ There's strength in blood and bone. Or maybe he was waiting for me.  I don't
 know. I just know that something suddenly prickles on the back of my neck, and
 then I feel a particular kind of chill, one you never forget.
 
-I put his skull down carefully and clear my throat. "Cup Rainbow Reaching," I
-say, raising my hands in the darkness, palms out, my head bowed. "I greet you."
+I put his skull down carefully, clear my throat, and put my fingers in my
+ears. "Cup Rainbow Reaching," I say, my head bowed. "I greet you."
 
 ## Now: Patience Wakes
 
@@ -5961,137 +5961,137 @@ a long, long time.
 But that doesn't matter. Tonight we are boots, *clump clump clump clump* from
 here to where we need to be.
 
------
+## Now: Vurt in Darkness
 
-## Vurt in Darkness
+Before I crossed that bridge I would have told you that I was proud of who I was
+and what I've made of myself.  I come from a family of rat catchers, but I won
+five chains in the *umram* before I was twenty.
 
-Before I crossed that bridge I would have told you that I was proud of who I
-was---of what I had made of myself. I came from a family of rat catchers, but I
-had won five chains in the *umram* before I was twenty.
-
-Then the voices started. Ishad and Kerrem warned me they would remind me of
+Then the voices started. Ishad and Kerrem warned me they would talk about
 everything I regretted doing, but they didn't. Instead, they told me all the
-things I regretted *not* doing, things I had barely even admitted to
-myself. After two dozen steps my guts were knotted and I was sweating like I was
-back in the *umram*, grappling hand-to-hand with---
+things I regretted *not* doing, things I had barely even admitted to myself.
+After two dozen steps my guts were knotted and I was sweating like I was back in
+the *umram*, grappling hand-to-hand with---
 
 I pushed the thought down and kept going. Saints and all their pain, what must
 it have been like hundreds of years ago, when the magic on the bridge was fresh?
 What must it have been like to take the ashes of someone you loved down into the
-Tombs with those voices reminding you of everything you should have said but
+Tombs and have those voices remind you of everything you should have said but
 didn't, or did but shouldn't have done?
 
-I bent over and dry heaved as soon as I stepped off the bridge. When I legs
-stopped shaking I picked up my lantern and moved on.
+I bend over and heave as soon as I step off the bridge. When my legs stop
+shaking I pick up my lantern and move on.
 
-The lights on the trees in the stone garden were everything Ishad said they
-would be. He didn't tell me there would be cobwebs, though. They hung in filmy
-gray sheets that swayed gently as I passed.
+The lights on the trees in the stone garden are everything Ishad said they would
+be. He didn't tell me there would be cobwebs, though.  They hang in filmy gray
+sheets that sway gently as I pass.
 
-The tunnel that led to the Tombs was on the far side of the garden.  Ishad
-warned me to stay close to the wall, but somehow I found my feet taking me
-toward the well in the garden's center instead.
+The tunnel that leads to the Tombs is on the far side of the garden.  Ishad
+warned me to stay close to the wall and away from the well in the center, but
+then I realize that the cobwebs aren't just swaying---they're reaching for me.
+The only way to avoid them is to skirt as close to the well as I can and hope
+I'm not being herded.
 
-The well's mouth was made of irregular, tightly-fitted stones, and reached
-half-way up my thighs. I set my lantern on it and leaned over for a look. I
-don't know what I hoped to see---it was as black as one of Kerrem's ink pots.
+The well mouth is made of irregular, tightly-fitted stones, and reaches half-way
+up my thighs. I set my lantern on it and lean over for a look. I don't know what
+I hope to see---it's as black as one of Kerrem's ink pots---but something stirs
+the cobwebs behind me as I straighten up.
 
-Something stirred the cobwebs behind me as I straightened up. I hesitated. My
-sword was on my hip, but I had my spear in my right hand.  I picked up my
-lantern with my left and turned around casually as if to walk back the way I had
-come. There was nothing there except the cobwebs and the tiny lights glittering
-on the trees.
+My sword is on my hip, but my spear is already in my right hand.  I pick up my
+lantern with my left and turned around as if to walk back the way I came.
+There's nothing there except the cobwebs and the tiny lights glittering on the
+trees.
 
-I felt the stir again behind me on the other side of the well. How had it moved
-that fast? Or were there two of them? I slid my hand down the haft of my spear
-and started walking toward the exit.
+I feel motion again behind me on the other side of the well. How did it move
+that fast? Or are there two of them? I slide my hand down the haft of my spear
+and head for the exit.  Steady pace, steady breathing...  Ishad has more sayings
+than a camel has fleas, but "give 'em nothing" is one worth listening to.
 
-The prickling on the nape of my neck grew stronger. Something, or someone, was
-approaching. Suddenly I whirled and went down on one knee, sweeping my spear up
-and across in an infantry parry with the lantern out to the side for balance.
+The prickling on the nape of my neck grows stronger. Something, or someone, is
+approaching.  Left, right---I whirl around and go down on one knee, sweeping my
+spear up and across in an infantry parry with the lantern out to the side for
+balance.
 
-The cobwebs around me lifted like the skirts of a Hett dancer, then drifted
-silently back into place like shrouds. The garden was empty and still except for
-me and my panting.
+The cobwebs around me lift like a dancer's skirts, then drift silently back into
+place like shrouds. The garden is empty and still except for me and my
+breathing.
 
-The feeling that something was behind me, coming closer, grew stronger by the
-heartbeat. I spun around again. Shadows capered across the wall.  Fear squirmed
-like cold jelly in my gut. "Show yourself!" I said boldly.  No one answered.
+But the feeling that something is behind me and coming closer grows stronger by
+the heartbeat.  I spin around again.  Shadows caper across the wall.  Fear worms
+in my gut. "Show yourself!" I command.  Nothing answers.
 
-I swallowed dryly. The back of my neck still tingled as if a cold breeze had
-slipped its fingers down under my collar. Childhood stories welled up inside
-me. "They always come from behind," my father had told me.
+I swallow dryly.  The maddening itch of my oath has been replaced by a cold
+tingling. Childhood stories bubble beneath it. "They always come from behind,"
+my father told me.
 
 "Behind what?" I asked.
 
 "Behind everything," he said.
 
-I set the lantern down on the lip of the well but kept my spear pinned against
-my body with one elbow. Empty hands, full grave, that was what Ishad said. I
-jammed my fingers into my ears. "Show yourself!" I said again. I had to be deaf
-to this world if I wanted to hear the next.
+I set the lantern down on the lip of the well but keep my spear pinned against
+my body with one elbow. Empty hands, full grave---that's another of Ishad's
+sayings.  I jam my fingers into my ears. "Show yourself!" I say again. I have to
+be deaf to this world if I want to hear the next.
 
-The cobwebs stirred as if someone was pressing themselves against them from the
-other side. A hand, an arm, the outline of a face... A man-shape stood there,
-taller than me, wiry and still. The cobweb only reached to his knees, so he
-looked as though he was floating.
+The cobwebs stir as if someone is pressing against them from the other side. A
+hand, an arm, the outline of a face... A man-shape stands there, taller than me,
+wiry and still. The cobwebs only reach to his knees, so he looks as though he is
+floating.
 
-The ghost raised its hands in greeting, palms toward me. I raised my own. The
-cobweb drew it clearly enough for me to see its lips move. I put my fingers back
-in my ears.
+The ghost raises his hands in greeting, palms toward me. I raise my own. The
+cobwebs outline him clearly enough for me to see his lips move. I put my fingers
+back in my ears.
 
-"...place. To return to the light. The light. To return..." it whispered.
+"...place. To return to the light. The light. To return..." he whispers.
 
-"Forgive me, honored sir, but I cannot." I spoke softly, not knowing if it could
-hear me. "I am oath-sworn to destroy an underbeast that plagues the world above,
-a bonescuttle. I cannot return until I am done this."
+"Forgive me, honored sir, but I cannot." I speak softly, not knowing if he can
+hear me. "I swore an oath to kill a bonescuttle.  I have to do that first.  I'm
+sorry."
 
-Something that no longer breathed struggled to shape breath in my ears.
-"Bones... In sunlight..."
+Something that no longer breathes struggles to make words.  "Bones... In
+sunlight..."
 
-"I'm sorry," I said. We have a duty to release the dead, but what could I do? It
-could have been dead a year or a thousand, tied to the world by some unavenged
-evil or loosely-worded oath. Even if I were a magician, it might take me a
-lifetime to find the spilled blood or childhood toy that was its anchor. But I
-wasn't, and I only had one night, and a bonescuttle to kill.
+"I'm sorry," I say for a third time.  We have a duty to release the dead, but
+what can I do? He could have been dead a year or a thousand, tied to the world
+by some unavenged evil or badly-worded oath. Even if I were a magician, it might
+take me a lifetime to find the spilled blood or childhood toy that keeps him
+anchored.  But I'm not, and I only have one night and a bonescuttle to kill.
 
-I drew my fingers from my ears and picked up my lantern. I bowed my head for a
-moment, then let my feet carry me away.
+I draw my fingers from my ears and pick up my lantern. I bow my head for a
+moment and turn to go, knowing that if I ever have to cross that damned bridge
+again, the voices will shame me for this.
 
-Then something really did move. I was on guard in an instant. A misshapen body
-crawled into the light a few strides away, patting the ground carefully as if
-searching for something. Its trunk was too short and too round for its arms and
-legs, and its head---its head was missing.
+Then something really does move. I'm on guard in an instant. A misshapen body
+crawls into the light a few strides away, patting the ground carefully as if
+searching for something. Its trunk is too short and too round for its arms and
+legs, and its head is missing.
 
-It must have sensed something, me or the light from my lantern, because it froze
-with one hand in the air. I held my breath. It slowly lowered its hand and
-resumed its patient search. I waited until it crawled back out of the light
-before going on my way. I still see it in my dreams sometimes, and then wake in
-a cold sweat, knowing that it will still be crawling around down there long
-after I am ashes and forgotten.
+It must sense something, me or the light from my lantern, because it freezes
+with one hand in the air. I hold my breath. It slowly lowers its hand and
+resumes its patient search. I waited until it crawls back out of the light
+before going on my way, knowing that I'm going to see it in my dreams sometimes,
+and then wake in a cold sweat, knowing that it will still be crawling around
+down there long after I am ashes and forgotten.
 
-The gate on the other side of the garden was open. Its bars were made of silver
-that had dripped and run like hot wax. Maybe it was supposed to be art. Sehdie
-or Kerrem might have known.
+The gate on the other side of the garden is open. Its bars are made of something
+silver that has dripped and run like hot wax. Maybe it's supposed to be
+art. Sehdie or Kerrem would know.
 
-I checked my lantern. It seemed just as bright as ever. Six hours until
-sunrise. Six hours to find the bonescuttle, kill it, and be gone. At least my
-oath didn't itch as much as it had.
+I slip through the gate and into the mausoleum. The walls are plain white
+stone---white for purity, white for death. The floor is tiled in black and
+white, and the ceiling is too high for my lantern's light to reach.  When I
+glance back, I see that something with clawed feet gouged furrows into the stone
+around the gate yesterday or a thousand years ago.  They're deep gouges, and
+widely spaced.  I hope it wasn't yesterday.
 
-I slipped through the gate and into the mausoleum. The walls were plain white
-stone---white for purity, white for death. The ceiling was too high for my
-lantern's light to reach, and the floor was tiled in black and white. Something
-with clawed feet had gouged deep furrows long ago across them near the entrance.
-
-Something moth-sized fluttered past overhead. I suddenly felt as lonely as the
-Last Man, and wondered what Sehdie was doing at that moment. Was she burning
-sweet herbs in a candle and whispering my name over and over to remind Luck that
-I needed aid?
+I jump as something moth-sized flutters past overhead. I suddenly feel as lonely
+as the Last Man, and wonder what Sehdie is doing.  Is she burning sweet herbs in
+a candle and whispering my name over and over to remind the saints that I could
+use some of their attention?
 
 She told me that's what she was doing during my last fight at the *umram*, when
 I beat the Ruudian for the silver chain. I looked for her on the common benches
-before the bout started. I looked and looked, but she wasn't there. "Where is
-she?" I asked Kerrem.
+before the bout started, but she wasn't there. "Where is she?" I asked Kerrem.
 
 "I still don't know," he said patiently. "But that's the second time the judge
 has raised the flag for you. If you don't get out there, you're going to be a
@@ -6100,7 +6100,7 @@ chain lighter."
 The *umram* floor was hard and bright after the shadows of the starting stall. I
 beat the Ruudian, argued with Ishad, wiped myself down with a lime-scented cloth
 while definitely *not* looking at Tessor Penne é Pue oiling his arms and chest
-for his next match and went looking for Sehdie.
+for his next match and went to fin Sehdie.
 
 She wasn't in the stands. She wasn't with her friends at the little
 coffee-and-sweetcake shop near the statue of the emir's old horse. I searched
@@ -6109,38 +6109,37 @@ of myself. Finally, an hour after sunset, I climbed up to her window while he
 watched down below for guardsmen.
 
 I rapped my knuckles on the shutter. "Ssss..." I hissed. "Sehdie!" I heard her
-stir beyond. "Sehdie! It's me, Vurt!" Which was a foolish thing to say. Who else
-would it be in the middle of the night, hanging by one hand from a roof beam
-outside her bedroom window?
+stir. "Sehdie! It's me, Vurt!" Which was a foolish thing to say. Who else would
+it be in the middle of the night, hanging one-handed from a roof beam outside
+her window?
 
-"Vurt?" she whispered through the window. She undid the catch and pulled the
-shutter open. Moonlight trickled down her hair like honey and splashed off the
-blossom-orange silk robe she had pulled tight around her. "Vurt, what are you
-doing here? They'll take your fingers if they catch you!"
+"Vurt?" she whispered. She undid the catch and pulled the shutter open.
+Moonlight trickled down her hair like honey and splashed off the blossom-orange
+silk robe she had pulled tight around her. "Vurt, what are you doing here?
+They'll take your fingers if they catch you!"
 
-"Where were you?" I whispered through the window grille. "I looked everywhere
-for you."
+"Where were you?" I whispered through the grille. "I looked everywhere for you."
 
 "I was here. I... I couldn't bear to watch. I was afraid you would... I was
-burning rosemary and cinnamon for Luck."
+burning rosemary and cinnamon for luck."
 
-"What?" Why had she been afraid? What did she have to be afraid of? The oddsters
-had given the Ruudian three to two odds against me. He was four years my senior,
-light on his feet for all his muscle, and had been blooded in real fights
-against bandits near the Herd of Trees. Sehdie knew all of that. Ishad knew it
-too. When I told him I had put my name up for the challenge he said,
-"Good. It'll do you good to lose one." But then I won. He yelled at me for the
-chances I took, but I won.
+"What?"  Why had she been afraid? What did she have to be afraid of?  The
+oddsters had given the Ruudian three to two odds against me. He was four years
+my senior, light on his feet for all his muscle, and had been blooded in real
+fights against bandits in the Herd of Trees. Sehdie knew all of that. Ishad knew
+it too. When I told him I had put my name up for the challenge he said, "Good.
+It'll do you good to lose one." But I won. He yelled at me for the chances I
+took, but I won.
 
 "How did you do?" Sehdie asked.
 
-I pulled the silver chain I had won out from under my shirt with my free
-hand. "By decision," I admitted, turning it over so that it sparkled in the
-moonlight. "But it was unanimous."
+I pulled the silver chain I had won out from under my shirt with my free hand.
+"By decision," I admitted, turning it over so that it sparkled in the moonlight.
+"But it was unanimous."
 
 "Oh, Vurt, that's wonderful!" She glanced over her shoulder fearfully.  "But you
-must go. You must! My father sleeps lightly these days. If he discovers
-you... Go, please."
+must go. You must! My father sleeps lightly these days. If he discovers you...
+Go, please."
 
 "When can I see you?"
 
@@ -6159,13 +6158,13 @@ She touched hers to them, glancing over her shoulder again. Something clinked
 like a candlestick being set on a table. She gasped. "Quickly, go!" She closed
 the shutter so quickly that she almost took off one of my fingers herself.
 
-She had never told me to go before---never. All I could think was that her aunt
-had somehow found out about us. The next afternoon, I wandered the streets of
-the Hundred Houses with a couple of Kerrem's books under my arm, trying hard to
-look like a down-at-luck running someone else's errands for a string of
-pennies. I saw her walking home just before sunset. Her father's houseman was
-beside her, holding a parasol over her head as if she were as old as her
-aunt. She walked proudly, like a princess being led to a dungeon.
+She had never told me to go before. All I could think was that her aunt had
+somehow found out about us. The next afternoon, I wandered the streets of the
+Hundred Houses with a couple of Kerrem's books under my arm, trying hard to look
+like a down-at-luck running someone else's errands for a string of pennies. I
+saw her walking home just before sunset. Her father's houseman was beside her,
+holding a parasol over her head as if she were as old as her aunt. She walked
+proudly, like a princess being led to a dungeon.
 
 I went to Cathé's house the day after, but she wasn't there. I went back the
 next day as well, just in case I had misunderstood, but she wasn't there then
@@ -6178,57 +6177,56 @@ I went back to her window, too. I tapped on her shutter as loudly as I dared,
 more loudly than I should have, but there was no answer. So I pulled myself back
 up onto the roof beam and crept away like a defeated army.
 
-I went to see her father two days later, and then---gaaah. I hefted my
-spear. Spears I understood. I would worry about Sehdie when the morning
-came. About Sehdie and---and what the voices had said. Right now, I had work to
-do.
+I went to see her father two days later, and then---gaaah. I heft my spear.  I
+understand spears a lot better than I do people.  I'll worry about Sehdie when
+the morning comes. About Sehdie and about what the voices said on the bridge.
+I'll worry about it all in the morning because if I worry about it now I won't
+*have* a morning.
 
-Mausoleums and monuments crowded together around me, an entire city in which
-nothing living stirred. There were squat towers built to withstand century-long
-sieges and houses so delicate that they reminded me of the Bantangui racing
-kites I had seen in puppet shows. A few looked more like strange machines, pumps
-and wheels and I know not what.
+Mausoleums and monuments jostle shoulders around me, an entire city in which
+nothing living stirs.  There are squat towers built to withstand century-long
+sieges and houses so delicate that they remind me of Bantangui racing kites. A
+few look more like strange machines, pumps and wheels and the saints alone know
+what else.
 
-Statues stood among them, some half my height, others three or four times larger
-than life. Men in strange armor with impractical spikes at the joints, smiling
+Statues stand among them, some half my height, others three or four times larger
+than life.  Men in strange armor with impractical spikes at the joints, smiling
 women in solemn robes, animals with delicate curlicue patterns carved around
-their mouths to show that they had been Gifted with speech.
+their mouths to show that they have the gift of speech.  They're beautiful and
+frightening and completely useless.  "Well," I say to no one, "Bonescuttle,
+bonescuttle, hither to me."  Then I swear at myself for reciting a children's
+rhyme.
 
-"Well," I said to no one, "Bonescuttle, bonescuttle, hither to me," and
-immediately I felt embarrassed for reciting a children's rhyme in that solemn
-place.
+Finding the bonescuttle would be like trying to find a lost ring in the market
+if Ishad hadn't thought ahead. I slip my pack from my shoulders and set it on a
+nearby plinth. A man whose braided beard stretches to his waist scowls down at
+me as I untie the flap.
 
-Finding the bonescuttle would have been like trying to find a lost ring in the
-market if Ishad hadn't thought ahead. I slipped my pack from my shoulders and
-set it on a nearby pedestal. A man whose braided beard stretched to his waist
-scowled down at me as I untied the flap.
+Rope, chalk dust for my hands, two good knives, two more cheap ones because you
+can never have enough knives, oil, honey bread, a skin of water, and there, at
+the bottom, six fat rats biting each other and the reed bars of their cage with
+equal enthusiasm.  "Bonescuttles won't eat what they haven't killed themselves,"
+Ishad told me.  "A day dead or a heartbeat, it doesn't matter to them. If they
+didn't kill it, they won't eat it. So it's live bait or none."
 
-Rope, chalk dust for my hands, two good knives, oil, honey bread, a skin of
-water, and there, at the bottom, six fat rats biting each other and the reed
-bars of their cage with equal enthusiasm. "Bonescuttles won't eat what they
-haven't killed themselves," Ishad told me. "A day dead or a heartbeat, it
-doesn't matter to them. If they didn't kill it, they won't eat it. So it's live
-bait or none."
-
-I opened the top of the cage and snatched out a rat. Its teeth caught on my
-leather gloves. The dab of goat's blood on the rat's forehead had dried and gone
-crusty, but the smell was still unnaturally strong. So was the feeling that the
-rat ought to have been too big to pick up. I didn't know where Ishad had gone to
-have them spelled, but the magic felt strong enough to me. From fifty paces
-away, they would even look like goats. It ought to be enough to make the
+I open the top of the cage and grab a rat. Its teeth catch on my leather gloves.
+The dab of goat's blood on the rat's forehead had dried and gone crusty, but the
+smell is still strong.  So is the feeling that the rat is somehow too big to
+pick up. I didn't know where Ishad went to have them spelled, but from fifty
+paces away, they should even look like goats. It ought to be enough to make the
 bonescuttle drool.
 
-I took a length of string from my pocket, slipped it under the struggling
-creature's forearms, and cinched it tight. Tiny eyes glared at me. I looked up
-at another nearby statue. One hand was folded across his chest. The other was
-raised, palm forward. It could have been a greeting, or a farewell, or a
-blessing. Just then, it was a handy place to tie the other end of the string.
+I take a length of string from my pocket, slip it under the rat's forearms, and
+cinch it tight. Tiny eyes glare at me. I look up at another nearby statue.  One
+hand is folded across his chest. The other is raised, palm forward. It could be
+a greeting, or a farewell, or a blessing.  Right now, it's a handy place to tie
+a piece of string.
 
-Twist and squeak as it would, the rat could not reach the cord to gnaw its way
-free. I tied another rat to the tail of a horse twenty strides away, and a third
-around the handle of a scroll that was being eternally read by a woman who
-seemed slightly amused by the words before her. Then I swung myself up onto an
-empty pedestal to wait.
+For all its twisting and squeaking, the rat can't reach the cord to gnaw its way
+free.  I tie another rat to the tail of a horse twenty strides away, and a third
+around the handle of a scroll being eternally read by a woman who seems slightly
+amused by whatis in front of her. Then I swing myself up onto an empty plinth to
+wait.
 
 -----
 

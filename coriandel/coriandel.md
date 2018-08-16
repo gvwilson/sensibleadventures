@@ -879,7 +879,7 @@ The Tombs lie beneath the third hill, the lowest of the three. It lies west of
 the palace, so that we walked straight into the setting sun to reach it. The
 river that is Coriandel's life flows out of a crack in its side. Heavy bars and
 spider-silk nets lie across it to stop the worst of the underneath from coming
-to the surface. Somehow the bonescuttle had found a way past them, or knew some
+to the surface. Somehow the *iyemnelili* had found a way past them, or knew some
 other path to the surface.
 
 The buildings around us grew smaller and poorer as we climbed the stairs to its
@@ -5368,7 +5368,7 @@ My mother's-side cousin picked up his lantern. "To try somewhere else?"
 
 "I suppose. Maybe it---behind you!"
 
-The bonescuttle lunged out of the shadows, chittering and snapping its claws. It
+The *iyemnelili* lunged out of the shadows, chittering and snapping its claws. It
 was shaped like a scorpion but as large as a mule, low against the ground with a
 wicked barbed tail arching over its back. The lower parts of the legs were
 fleshless bone, and its jaws worked sideways like those of the small evils that
@@ -5384,7 +5384,7 @@ mother's-side cousin rolled to his feet. The creature snatched its arm back,
 snapping at him with the other in the same motion. The Karabandi knocked the
 second claw sideways, dropping his useless dagger to grip his sword two-handed.
 
-My mother's-side cousin jabbed his spear in between two of the bonescuttle's
+My mother's-side cousin jabbed his spear in between two of the *iyemnelili*'s
 legs. Its tail whipped across his face, cutting him open from temple to jaw.
 
 I fell on it with a scream.  My full weight was behind my thrust, but my spear
@@ -5401,7 +5401,7 @@ blood.  He shoved his spear into the joint of its rear left leg.  Something
 crunched.
 
 It screeched and twisted around. My mother's-side cousin's spear was pulled from
-his grasp. The bonescuttle's tail snapped down like a spring trap and buried its
+his grasp. The *iyemnelili*'s tail snapped down like a spring trap and buried its
 curved black tip in his shoulder. He wrapped his arms around it and bent forward
 like a wrestler trying to break his opponent's back.
 
@@ -5429,7 +5429,7 @@ sweat.
 piece of meat hot off a spit.
 
 The Karabandi set his lantern down beside us. My mother's-side cousin's whole
-body spasmed as the bonescuttle's poison worked its way into his bones. He made
+body spasmed as the *iyemnelili*'s poison worked its way into his bones. He made
 a little sound in his throat.
 
 The Karabandi tapped my shoulder. I didn't look up. He tapped me again, just as
@@ -6811,40 +6811,38 @@ The rush of recollection dims, leaving me with just a memory of a memory and the
 name of a name. "Cup Rainbow Reaching," I say softly.  "Thank you, honored
 sir. Thank you for your gift."
 
------
-
-## Cup Rainbow Reaching Earns His Name
+## Then: Cup Rainbow Reaching Earns His Name
 
 The Karabandi believe many strange things. They believe that it is good to die
 in your sleep. They believe rain causes baldness, when every sensible person
 knows that it makes hair grow. Strangest of all, they believe that there is only
-one Death.
+one death.
 
-We know better. We know that we each have our own death. It is born when we are
-born, nearby or far away. Our deaths spend their whole lives tracking us,
-seeking to be reunited. We say, "Her death was born far away," to mean, "She
-lived a long life," or, "The child's death was born in the same tent," to mean a
-baby never drew breath.
+The Darpani know better. We know that we each have our own death. It is born
+when we are born, nearby or far away. Our deaths spend their whole lives
+tracking us, seeking to be reunited. We say, "Her death was born far away," to
+mean, "She lived a long life," or, "The child's death was born of the same
+mother," for a baby that never draws breath.
 
-The *iyemnelili* was my death. I lost its trail once when it climbed onto the
-base of one statue and leaped to the base of another, but I found it again soon
-enough. I did not spare any thoughts for the Karabandi. He would stay where he
-was or follow me as he thought best.  All I cared was that my lantern shone
-clear and strong. It would tell the creature that I was coming. It would think
-me weak, that I needed light in this dark place. It would hide and pounce. But I
-would not be weak. I would be ready.
+My death rode on the back of the *iyemnelili*. I lost its trail once when it
+climbed onto the base of one statue and leaped to the base of another, but found
+it again soon enough. I did not spare any thought for the Karabandi. He would
+stay where he was or follow me as he thought best.  All I cared was that my
+lantern shone clear and strong. It would tell the creature that I was coming. It
+would think me weak, that I needed light in this dark place. It would hide and
+pounce. But I was not weak, and I would be ready.
 
-The sticky green smears led up a gentle hill to a great house with an arched
-doorway. I stepped cautiously through the arch into its front courtyard. The
-windows that looked down onto it were just outlines in the stone, complete with
-carved shutters. There were carved plants, too, gleaming white, with metal
-leaves. Stone vines climbed a stone trellis to the roof in the corner. When I
-looked more closely I even saw a shiny metal spider, no larger than the last
-joint of my thumb, sitting in the middle of a web made of spun silver. I
-shivered. These people should have burned their dead instead of hanging on to
-them as a miser hangs on to worn-out boots.
+The sticky glistening smears left by its leaking wounds led up a gentle slope to
+a great house. I stepped cautiously through its arched doorway into a courtyard.
+The windows that looked down onto it were just outlines in the stone, but
+complete with carved shutters. There were carved plants, too, gleaming white
+with metal leaves.  Stone vines climbed a stone trellis to the roof in the
+corner.  When I looked more closely I even saw a shiny metal spider, no larger
+than the last joint of my thumb, sitting in the middle of a web made of spun
+silver. I shivered. These people should have burned their dead instead of
+hanging on to them as a miser hangs on to worn-out boots.
 
-I eyed the carved vines. They seemed fragile, but the bonescuttle might still
+I eyed the carved vines. They seemed fragile, but the *iyemnelili* might still
 have been able to climb them. I saw no other way onto the roof---the false
 windows were too shallow for handholds---so I put my foot on the lowest vine and
 tested it with my weight. It held for a moment, then broke with a sharp crack. I
@@ -6858,73 +6856,71 @@ entrance, then stopped. Tiny silver threads hung in the doorway like a net,
 twinkling in my lantern's light.
 
 I reversed my spear and poked it into the doorway. Nothing happened. I swept it
-slowly from side to side. There was a gentle tug. The bottom two thumbs of the
-haft fell away. The bonescuttle would not have had to tear me to pieces if I had
-tried to run through the arch. Those threads would have turned me into
-bite-sized chunks of meat.
+from side to side. I felt a gentle tug, and then the bottom two thumbs of the
+haft fell away. The *iyemnelili* would not have had to tear me to pieces if I had
+run through the arch.  The spider's web would have turned me into bite-sized
+chunks of meat.
 
 *Plink plink.* The spider plucked the same two notes on its web. I stepped back
-into the middle of the courtyard with my spear up. A sticky patch glistened on
-the paving stones at my feet. The bonescuttle was here, and I was trapped. Which
-was no different from the situation a moment before, except for the size of the
-trap.
+into the middle of the courtyard with my spear up.  A fresh splash of gore
+glistened on the paving stones at my feet. The *iyemnelili* was here, and I was
+trapped. Which was no different from the situation a moment before, except for
+the size of the trap.
 
 There was only one other exit, a smaller archway that led through the middle of
-the house to another courtyard at its rear. I poked the roof of the arch with my
-spear. There were no corners or crannies for anything to hide in. I slid through
-it with my back against one side.
+the house to a second courtyard.  I poked the roof of the arch with my spear,
+then slid through with my back against one side.
 
-The rear courtyard was filled with statues of men and women in strange
-costumes. They stood in twos and fours with tall cups in their hands as if
-conversing with one another. All of them had houses instead of heads---this
-house, the house I was in. The models rested on their shoulders with the front
-arch for a mouth and the upstairs windows for eyes.
+The rear courtyard was filled with statues of men and women in strange costumes.
+They stood in twos and fours with tall cups in their hands as if conversing with
+one another. All of them had houses instead of heads---this house, the house I
+was in. The models rested on their shoulders with the front arch for a mouth and
+the upstairs windows for eyes.
 
-A long, low table lay in the center of the courtyard. A woman's form lay on it,
+A long, low table lay in the center of the courtyard.  A woman's form lay on it,
 larger than the others but carved from the same gleaming white stone and dressed
-in the same flowing costume. She had no head at all, but her hands clasped a
+in the same flowing costume. She had no head at all, but her hands clasped the
 model of the house that lay on her belly.
 
-Doorways on either side of the courtyard led into the house. I would not have
+Doorways on either side of the courtyard led into the building. I would not have
 room inside to use my spear properly, but I had no choice. The creature could
-afford to wait. I could not.
+afford to be patient. I could not.
 
-I chose the door on my right. Inside was a small room with a desk and a
-chair. Carved papers lay on the desk and floor as if scattered by the
-wind. Small bones lay discarded in the corner. They were not carvings, but were
-not fresh, either. Perhaps the bonescuttle was like the golden mink, that
-carried the bones and pelts of its prey away from its nest after regurgitating
-them.
+I chose the door on my right. Inside was a small room with a desk and a chair.
+Carved papers lay on the desk and floor as if scattered by the wind. Small bones
+lay discarded in the corner. They were not carvings, but were not fresh, either.
+Perhaps the *iyemnelili* was like the golden mink, that carried the bones and
+pelts of its prey away from its nest after regurgitating them.
 
 The next room held neither furniture nor bones, just a large stone disk cracked
 from edge to edge. The third room had a loom strung with silver thread. I did
-not touch it, though I think it was just silver, and not enchanted spider silk.
+not touch it, though I think it was just silver, not the cutting silk of the
+spider's trap.
 
-I do not know where the bonescuttle hid, but somehow it managed to creep up to
-the doorway in the dozen heartbeats I spent studying the loom. It lunged at me
-as I stepped back into the courtyard, grabbed my right thigh with both claws,
-and cut me to the bone.
+I do not know how, but somehow the *iyemnelili* managed to creep up to the
+doorway in the dozen heartbeats I spent studying the loom. It lunged at me as I
+stepped back into the courtyard, grabbed my right thigh with both claws.
 
 I screamed and hit it over the head with the haft of my spear. That was all I
 could do. I could not get my spear back enough to stab it before I fell.
 
-My lantern shattered on the stones. The bonescuttle lashed its tail at me,
+My lantern cracked on the stones. The *iyemnelili* snapped its tail at me,
 striking my spear. I twisted it around somehow and thrust up under its jaw,
 still screaming. Its barbed head hit soft flesh. Instead of rearing back, the
-bonescuttle let go of my leg with one claw and clamped it around my ankle. I
+*iyemnelili* let go of my leg with one claw and clamped it around my ankle. I
 screamed again as it ground through flesh, through tendon, through bone. Its
 claw pincered shut. It had cut my foot right off.
 
-I twisted my spear, driving its head deeper into the bonescuttle. My world was
-nothing but the pain in my leg and my arms pushing the spearhead up through the
-underside of the bonescuttle's jaw. I twisted it again. Something
-tore. Something burning wet splattered on my hands.
+I twisted my spear, driving its head deeper into the creature. My world was
+nothing but the pain in my leg and my arms pushing the spear up through the
+underside of the *iyemnelili*'s jaw.
 
-Suddenly the bonescuttle pulled back, tearing my spear from my hands. As the
-light from the shattered dayglass in my lantern died away, it clutched the haft
-in its claws and pulled it out. Clumps of flesh clung to its barbed head. The
-bonescuttle staggered sideways as if drunk and then toppled over. Its legs
-clattered against the stones a moment and were still.
+I twisted it again. Something tore.  Something burning wet splattered on my
+hands.  The *iyemnelili* pulled back, tearing my spear from my hands. As the
+light from the broken dayglass in my lantern died away, it clutched the haft of
+my spear in its claws and pulled. Clumps of flesh clung to its barbed head as it
+came out. The *iyemnelili* staggered sideways as if drunk and then toppled
+over. Its legs clattered against the stones a moment and were still.
 
 It was dead, but I was dead too. I knew it, but I untied the rope that held my
 pants on and twisted it around my leg just below my knee. I used my knife sheath
@@ -6941,14 +6937,14 @@ coughed, trying to laugh. I knew my death had found me, even if he didn't. He
 sat back on his heels and studied me for a moment, then stood and raised his
 sword.
 
-*Thwack. Thwack.* He dropped the bonescuttle's head into the sack that hung from
+*Thwack. Thwack.* He dropped the *iyemnelili*'s head into the sack that hung from
 his belt. "Right," he muttered. "Now for the hard part."
 
 I wanted to shake my head, but even that was too much. My leg hurt---oh, it
 hurt, like I had never imagined anything could hurt. I wanted to crawl away from
 that hurt, to hide, to wriggle out of my body and leave it behind. I ground my
-teeth. I would whimper if I tried to speak, and I did not want to die
-whimpering.
+teeth. I would whimper if I tried to speak, but the name of my name was not Cup
+Rainbow Whimpering, so I ground my teeth together.
 
 "Here." The Karabandi handed me my spear and picked me up in his arms as he
 would a child. I almost retched from the pain. Just one more breath, I told
@@ -6956,37 +6952,37 @@ myself. Just one more breath without screaming, for your pride, just one more...
 
 The lantern at the Karabandi's waist swung back and forth in time with his
 steps. Shadows swayed around us, left, right, left, right. Blood from my ruined
-leg dripped onto my other calf. I lost myself, came to, lost myself again. The
-silver spider web was gone. Darkness. He passed a body. I barely recognized the
-dead man as I slipped into darkness again.
+leg dripped onto my other calf. I lost myself, came to, lost myself again.
+Statues. Darkness. He passed a corpse. I barely recognized it as having once
+been my mother's-side cousin before I slipped into darkness again.
 
 Somehow we were back at the bridge that had led us into the Tombs. The Karabandi
 had to rest then. He set me down as gently as he could and slumped on the stones
 beside me, panting.
 
-"To... leave..." I whispered.
+"...leave..." I managed to whisper.
 
 He shook his head. "Too late for that, isn't it?" Suddenly he chuckled.  "But
 I'll tell you, it would have been easier if that thing had taken your whole leg
 off. You'd weigh less."
 
-He poured some water in my mouth from his canteen and took a long swallow
+He poured some water in my mouth from his canteen and took a long swallow for
 himself. I held onto my spear through it all with both hands like a sleepy child
 holding a rag toy.
 
 The thing he had beheaded was gone from the garden of lights. Something murmured
-in the well that lay at its center, but the Karabandi was too alive to hear
-it. The voices on the bridge whispered at us again as we crossed over, though
-the thing in the abyss below did not stir. I paid them no attention. I would
-find out soon enough what the real reckoning was for the shameful things I had
-done in life. As for the Karabandi, he might as well have been an ox pulling a
-plow for all the sign he gave of hearing them.
+in the well that lay at its center, but the Karabandi was still too alive to
+hear it.  The voices on the bridge whispered at us again as we crossed over,
+though the thing in the abyss below did not stir. I paid them no attention. I
+would find out soon enough what the real reckoning was for the shameful things I
+had done in life. As for the Karabandi, he might as well have been an ox pulling
+a plow for all the sign he gave of hearing them.
 
 There must have been more stairs, but I do not remember them. Small things
 fluttered around us, just outside the lantern's light, drawn by the smell of the
 blood dripping from my leg. I remember a crab-clawed beetle as big as my hand
 scurrying across the stones in front of us. For a moment, I thought it was the
-bonescuttle again. I struggled weakly in the Karabandi's arms, trying to get my
+*iyemnelili* again. I struggled weakly in the Karabandi's arms, trying to get my
 spear up, but the effort was too much for me.
 
 Somehow we were back in the chamber with the stone warts on the floor.  The
@@ -7006,39 +7002,38 @@ I shook my head weakly. "Cannot..."
 He shook me. "Yes you can. Cup. Cup! You can do it, I know you can. But you have
 to do it yourself. I can't carry you for this bit."
 
-He was an idiot. Did he really think I would turn coward now that my death had
-found me? I tried again. "Cannot... blood... in the water.  Smell... Draw
+He was an idiot. My death had found me---there was no need for him to whistle
+for his.  I tried again. "Cannot... blood... in the water.  Smell... Draw
 them..."
 
-He sighed. "I know it will. But we made it this far, right? Here, look."  He
-pulled a coil of rope from his bag and unwound it. "I'll go through first. You
-give me, what, twenty breaths, then you tug on this. I'll pull you through. All
-right?"
+"I know it will," he said.  "But we made it this far, right? Here, look."  He
+pulled a coil of rope from his bag and unwound it. "I'll go through first. Give
+me, what, twenty breaths, then I'll pull you through. All right?"
 
 He slipped the end of the rope under my back without waiting for an answer and
-started to knot it over my chest. "Too... short..." I gasped.  I pushed his
-hands away weakly. "To go... through... Trail rope...  behind..."
+started to knot it over my chest. I pushed his hands away weakly.  "Too...
+short..." I gasped.  "Go... through... trail rope..."
 
-He sat back on his heels, then nodded slowly. "All right. But don't you wait too
-long. You hear me? Damned if I'll have you in my dreams for the rest of my
-life."
+He sat back on his heels, then nodded reluctantly. "All right. But don't you
+wait too long, you hear me? Damned if I'll have you in my dreams for the rest of
+my life."
 
-He emptied everything from his bag except the bonescuttle's head. A stopped
-glass jar with a dozen matches went into one pocket, a candle wrapped in waxed
-paper into the other, along with the twist of hair he had taken from the dead
-man who had been my mother's-side cousin. He re-slung his sword belt over one
-shoulder and under the opposite arm so that the blade hung down behind his
-back. He made sure the blade was loose in the scabbard, then shouldered his pack
-once again. He might have been something from the depths himself then, something
-hunchbacked with an evil familiar on his shoulder whispering in his ear.
+He emptied everything from his bag except the *iyemnelili*'s head. A twist of
+wax paper around a dozen matches went into one pocket and a stub of candle into
+the other, along with the twist of hair he had taken from the dead man who had
+been my mother's-side cousin. He re-slung his sword belt over one shoulder and
+under the opposite arm so that the blade hung down behind his back. He made sure
+it was loose in its scabbard, then shouldered his pack once again. He looked
+like an *iyemnelili* himself then, a hunchback with an evil fetch on his
+shoulder whispering in his ear.
 
-He gripped my shoulder for a moment. "May Luck look on you kindly, or be
-distracted by more pressing business," he said formally. He took a deep breath,
-then another, and dove into the pool.
+He gripped my arm for a moment. "May luck look on you kindly, or be distracted
+by more pressing business," he said formally. He took a deep breath, then
+another, and dove into the pool.
 
 I watched the rope trail after him. The end disappeared into the water, and then
-everything was still. I almost laughed once again. He was an idiot. I am
-Darpani. We live on the grasslands. When would I have learned to swim?
+everything was still. I almost laughed. He was an idiot. I am Darpani. We live
+on the grasslands. When would I have learned to swim?
 
 But when did a Darpani learn surrender, either? I bit my tongue to keep myself
 awake. Twenty, thirty, *la iy la iy*, like a child's counting song. I reached a
@@ -7047,10 +7042,10 @@ he was dead. I dragged myself to the pool's edge and fell in, my spear still in
 my hands.
 
 I expected the water to be cold, but it was as warm as milk fresh from the
-udder. I let myself sink, not knowing what else to do. I opened my eyes for a
+udder.  I let myself sink, not knowing what else to do. I opened my eyes for a
 moment. The world around me was as black as the inside of a womb.
 
-A current caught me. I banged my head against the side of the pool as it swept
+The current caught me. I banged my head against the side of the pool as it swept
 me into a tunnel. I flailed my arms slowly as it pulled me along.  Something
 brushed against them. The rope? No, it was slick with slime, and twitched away
 from my grasp. In a sudden moment of clarity, I realized that I had been wrong
@@ -7060,14 +7055,14 @@ hell. This was. I needed to breathe, but I could not. Not yet. Not yet.
 My ruined leg bumped against something hard. I belched bubbles in a muffled
 scream. I needed to breathe. I was going to. I had to. I was out of the current,
 rising, pawing weakly at the water. My head broke the surface. I gasped for
-air. I saw light, just a faint pinprick of light from the Karabandi's candle. He
-called to me. The rope splashed into the water an arm's length away. I grabbed
-it with one hand, still holding my spear with the other.
+air. I saw light, just a faint pinprick from the Karabandi's candle. He called
+to me. The rope splashed into the water. I let go of my spear and grabbed it
+with both hands.
 
 The Karabandi pulled on the rope, dragging me through the water to safety. "Hold
-on, lad, hold on!" he urged, as if I might let go.
+on, lad, hold on!" he urged.
 
-As I reached for his hand, jaws closed around my waist. I opened my mouth to
+And as I reached for him, jaws closed around my waist. I opened my mouth to
 scream one last time, then everything went away.
 
 -----

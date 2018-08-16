@@ -6705,112 +6705,110 @@ vest on, and her hair back under a rag, she looks like---she looks beautiful.
 
 "Almost." She leans forward and kisses me.  "There. Now we can go."
 
------
+## Now: Vurt Receives a Gift
 
-## Vurt Receives a Gift
+I sit on my plinth with my lantern shuttered and wait for the bonescuttle. The
+three rats hanging from the statues around me squeak angrily in the dark. The
+other three scratch at the reed bars of their cage and squeak back. The thick
+funk of goat fills the air.  If I close my eyes and let my mind wander I can
+almost hear bleating. But if I do that, I'll probably wind up dead.
 
-I sat on my pedestal with my lantern shuttered, waiting for the bonescuttle. The
-three rats hanging from the statues around me squeaked angrily in the dark. The
-other three scratched at the reed bars of their cage and squeaked back. The
-thick, meaty smell of goat filled the air.  If I closed my eyes and let my mind
-wander, I could almost hear bleating. But of course if I did that, I'd probably
-wind up dead.
-
-I ran my forefinger up and down the flat of my blade. The metal was solid and
-reassuring. My spear lay across my pack, ready to be snatched up. It was like
+I run my forefinger up and down the flat of my blade. The metal is solid and
+reassuring. My spear lies across my pack, ready to be snatched up. It's like
 waiting for the referee to call my name in the *umram*, except---
 
-The back of my neck prickled. I stood silently, picking up the lantern but
-leaving it shuttered. Something was there---I could feel it. I held my breath,
-sword ready, listening for the click of claws on stone.  Nothing. Nothing but
-the rats.
+The back of my neck prickles. I stand silently, picking up the lantern but
+leaving it shuttered. Something is there---I can feel it. I hold my breath,
+sword ready, listening for the click of claws on stone.  There's nothing but the
+rats.
 
-Turn fear into questions. Ishad taught me that. If you're scared of the man
-standing on the other side of the *umram*, ask yourself why. Is it because he's
-big? Then think about ways to use his size against him. Is it because of his
-reputation? Then think about that reputation, about how he fights and what the
-last guy he beat did wrong.
+Turn your fear into a question, Ishad says. If you're scared of the man standing
+on the other side of the *umram*, ask yourself why. Is it because he's big? Then
+think about ways to use his size against him. Is it because of her reputation?
+Then think about how she fights and what the last brawler she beat did wrong.
 
-I opened my mouth wide, so that my breathing wouldn't make any sound.  Could I
-hear anything? No, just the rats. Could I feel a breeze? In Kerrem's stories,
-the hero always feels the wyrm's breath on his neck just before it strikes. But
-no, no breath of air. And since the rats were still squeaking, I guessed they
-couldn't hear anything either.
+I open my mouth wide so that my breathing wouldn't make any sound.  Can I hear
+anything? No, just the rats. Can I feel a breeze? In Kerrem's stories, the hero
+always feels the wyrm's breath on his neck just before it strikes. But no,
+there's not a breath of air. And since the rats are still squeaking, they
+probably can't hear anything either, which means that what I'm feeling is either
+nerves or something else, something like the ghost I saw pressed against the
+cobwebs.
 
-I saw motion in the darkness out of the corner of my eye, like heat wavering
-over a fire. I turned my head slowly. I couldn't see anything when I looked
-straight at it, but it was there again when I looked away.
+Even as I think that, there's a flicker of motion in the darkness eye, like heat
+wavering over a fire. I turn my head slowly. I can't see anything when I look
+straight at it, but it's there again when I look away.
 
-I held my lantern away from my body and flicked the shutter open with my
-thumb. Trapped sunlight spilled out into the darkness to dazzle whatever was
-creeping up on me. Nothing. Nothing and no one except the rats and the statues.
+I hold my lantern away from my body and flick the shutter open with my thumb.
+Trapped sunlight spills out into the darkness to dazzle whatever is trying to
+creep up on me.  Still nothing. Nothing and no one except the rats and the
+statues.
 
-I set the lantern down and pulled a little cloth bag of chalk dust out of my
-pack, undoing the knot in the drawstring with my teeth. Dust rose into the back
-of my nostrils. I wrinkled my nose and snorted faintly to kill the sneeze, then
-sprinkled a double fingerful of chalk into the air.
+I set the lantern down, pull a little cloth bag of chalk dust out of my pack,
+and undo the knot in the drawstring with my teeth. Dust rises into the back of
+my nostrils. I wrinkle my nose and snort faintly to kill the sneeze, then
+sprinkle a double fingerful of white powder into the air.
 
-The white powder started to settle earthwards, but changed its mind.  Slowly,
-the white smudge took on the shape of a tall man with a spear in his hands. My
-ghost was back.
+It starts to settle earthwards, then changes its mind.  Slowly, the dusty white
+smudge takes on the shape of a tall man with a spear in his hands. My ghost is
+back.
 
-Without warning it whipped its spear up and lunged at my head. I jumped back,
-tripped over my pack, and fell off the pedestal just as the bonescuttle pounced.
+Without warning it whips its spear up and lunges at my head. I jump back, trip
+over my pack, and fall to the floor just as the bonescuttle pounces.
 
-Chalk dust splashed against the bonescuttle's chest as the ghost speared it. My
-pack and spear hit the stones beside me. I rolled to my feet and slashed
-awkwardly with my sword. The bonescuttle's claw closed on the blade and wrenched
-it from my hands. Metal clanged as it landed in the darkness a few strides away.
+Chalk dust splashes against the bonescuttle's chest as the ghost spears it. My
+pack and spear hit the stones beside me.  I roll to my feet and slash awkwardly
+with my sword. The bonescuttle's claw closes on the blade and wrenches it out of
+my hands. Metal clangs as it hits the floor a few strides away.
 
-I scrambled backward, stumbling over my pack once again. Where in the hells was
-my spear? I grabbed my pack and leaped up beside the statue of the woman reading
-the scroll.
+I scramble backward, stumbling over my pack once again.  Where in the hells is
+my spear? I grab my pack and leap up beside the statue of the woman reading the
+scroll.
 
-The ghost's outline blurred as it lunged a second time. The bonescuttle snapped
-at it. The lantern was between its legs. If the bonescuttle broke the glass, I
-would die down here in darkness. I could only think of one thing to do. I pulled
-the cage of rats from my pack and threw it over the bonescuttle's head.
+The ghost's outline blurs as it lunged a second time. The bonescuttle snaps at
+it. The lantern is between its legs. If the bonescuttle breaks the glass, I will
+die down here in darkness. I can only think of one thing to do. I pull the cage
+of rats from my pack and throw it over the bonescuttle's head.  It rears up on
+its hind four legs, snatches the squeaking snack out of the air, and scuttles
+away.
 
-It reared up on its hind four legs, twisted like a cat, and went after an easier
-supper. Luck must have felt guilty for having gotten me into this mess.
+My chest heaves. Where in the *hells* is my sword? Stupid, stupid, stupid,
+losing it.  No one has ever disarmed me in the *umram*, no one. I can't even
+remember which way the bonescuttle threw it. Empty hands, full grave---if this
+is the best I can do, I deserve to lose my head.
 
-My chest heaved. Where was my sword? Stupid, stupid, stupid, losing it.  No one
-had ever disarmed me in the *umram*, no one. I couldn't even remember which way
-the bonescuttle had thrown it. Empty hands, full grave---if that was the best I
-could do, I deserved to lose.
+The ghost is still standing by the plinth I was sitting on, beckoning to me
+urgently.  I put my hands over my ears. "My thanks, honored sir," I whisper.
 
-The ghost was still standing by the pedestal, beckoning to me urgently.  I put
-my hands over my ears. "My thanks, honored sir," I whispered.
+"...to follow..." It's no more a sound than the stirring in the darkness before
+I unshuttered my lantern was a vision. "...to finish..."
 
-"...to follow..." It was no more a sound than the stirring in the darkness
-before I unshuttered my lantern had been a vision. "...to finish..."
+"Yes, honored sir, I will. Just---give me a heartbeat, all right?" I take my
+hands from my ears. I have to get a weapon.
 
-"Yes, honored sir, I will. Just give me a heartbeat, all right?" I took my hands
-from my ears. I had to get my weapons.
+My sword is lying against a low, curved wall. My spear is next to it. I sheathe
+the first and heft the second.  Its reach will serve me better than a sword's
+edge, not that either is going to do me much good now. The rats were my one
+clever idea---well, Ishad's more than mine. With them gone---
 
-I found my sword lying against a low, curved wall. My spear was a few strides
-away. I sheathed the first and hefted the second. Its reach would serve me
-better than a sword's edge, not that either was going to do me much good
-now. The rats had been my one clever idea. Now---
+The back of my neck prickles again. I whip my spear around. It swishes through
+the ghost's head, making eddies in the chalk dust. It's fainter than it
+as. "Sorry, honored sir," I say.
 
-The back of my neck prickled again. I whipped my spear around. It swished
-through the ghost's head, making eddies in the chalk dust. It was fainter than
-it had been. "Sorry, honored sir," I said.
+It raises a palm as if to say, "Never mind." Then it steps into me.
 
-It raised a palm to me as if to say, "Never mind." Then it stepped into me.
+It's like ice water flooding into my bones. I gasp for breath, but can't fill my
+lungs. I feel my heart hesitate, confused about whether it's supposed to keep
+beating or not.
 
-It was like ice water flooding into my bones. I gasped for breath, but couldn't
-fill my lungs. I actually felt my heart hesitate, confused about whether it was
-supposed to keep beating or not.
+And just like that it's over. There's nothing left of the ghost but chalk dust
+on my clothes and a little glowing pearl of memory wedged in my mind. I remember
+tracking the bonescuttle to its lair. Not this one, the other one. This one is
+its hatchling. I killed its mother. This one's lair is up ahead, in a strange
+house.
 
-And just as suddenly it was over. There was nothing left of the ghost but chalk
-dust on my clothes and a little glowing pearl of memory wedged in my mind. I
-remembered tracking the bonescuttle to its lair once before. Not this one, the
-other one. This one was its hatchling. I had killed its mother. This one's lair
-was up ahead, in a strange house.
-
-The rush of recollection dimmed, leaving me with just a memory of a memory. And
-the name of a name. "Cup Rainbow Reaching," I said softly.  "Thank you, honored
+The rush of recollection dims, leaving me with just a memory of a memory and the
+name of a name. "Cup Rainbow Reaching," I say softly.  "Thank you, honored
 sir. Thank you for your gift."
 
 -----

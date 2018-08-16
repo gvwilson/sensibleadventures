@@ -6372,34 +6372,29 @@ I glanced down at the *umram*'s sandy floor. Yes he was. I kissed the fingertips
 of my right hand and waved, as he'd told me other bravos ladies' did. Eyes as
 dark as midnight pools... Oh, this was going to be complicated.
 
------
-
-## Kerrem Accepts New Employment
+## Now: Kerrem Accepts New Employment
 
 The philosopher Yeyebé argued that people (and the Gifted too, I suppose,
-although he never said it explicitly) don't ever actually think. Instead, they
-just realize that they have already thought. It was like that with me and
-Sehdie. We never planned to fall in love. We certainly never planned to run away
-together. It was just a game to pass the time while we waited for Vurt's bouts
+although she never said it explicitly) don't ever actually think. Instead, they
+just realize what they have already thought. It was like that for me and Sehdie.
+We never planned to fall in love. We certainly never planned to run away
+together. It was just a game to pass the time while we sat through Vurt's bouts
 in the *umram*. How would she get away from her aunt? How would we travel? Where
 would we most like to go? Not Ruuda---it was far too cold. Not Darp---neither of
 us knew how to ride. And definitely not Ini Bantang or Barra Bantang. Even
-playing make believe, we knew that we'd both be someone's property the evening
-of the day we arrived.
+playing make believe, we knew that we'd be taken as slaves the day we arrived.
 
-But Ensworth---Ensworth would be nice. Apple blossoms in the spring, leaves that
-changed color in the fall, ships bigger than houses in the harbor, and right in
-the middle of it all, the world's biggest library, shelf after shelf of books
-just crying out to be read.
+But Gandan---Gandan would be nice. Apple blossoms in the spring, leaves that
+changed color in the fall, ships on the river, the flying mountain bringing
+treasure from the south every year, and right in the middle of it all, the
+world's biggest library, shelf after shelf of books just waiting to be read.
 
 Then Vurt would finish his fight, or Cathé would come back with another bag of
-sweets, and our little game would fall to pieces like a cheap carnival mask. Her
-father might not live on Palace Mount, but he was still one of the emir's
-ministers. He would hire men to track us down and bring her back---her horrible
-aunt would see to it. They would have the law on their side, too. In Coriandel,
-children owe their parents a debt for raising them. My parents forgave mine when
-I turned sixteen, but her father hadn't forgiven hers. "Not until you marry,"
-her aunt had said with a sniff. "It wouldn't be proper."
+sweets, and our little game would fall to pieces like a cheap carnival mask.
+Sehdie's father was one of the emir's senior clerks.  He didn't splash his money
+around like some in the Hundred Houses, but a runaway daughter?  He would hire
+every bravo and rogue within a hundred gallops to track us down and bring her
+back---her horrible aunt would see to it.
 
 The horse turned all of that upside down. It was a baking hot afternoon.  I was
 supposed to be rewriting an apprenticeship agreement for a toy maker, but in the
@@ -6408,36 +6403,38 @@ middle of it I remembered that I had promised to return Ivanisha's copy of
 a wiry Darpani in a sweat-stained leather vest and heavy sandals stepped in
 front of me.
 
-"To be Kerrem the bookster, then?" he asked.
+"Someone is then Kerrem the bookster?" he asked.
 
 I gave him a startled look. "Um, yes, yes, I'm Kerrem. Pleased to make your
-acquaintance." I tucked the books under my arm and raised my palms to him.
+acquaintance." I tucked the books under my arm and raised my palms to him.  Most
+Darpani can't read---the more poetic among them say that words trapped are words
+slaughtered---but they still need contracts written and letters sent.
 
-He pressed his against them. "To have been searching for you." He took his elbow
-and steered me over against the wall. "To find somewhere around here for
-discreet conversation?"
+He pressed his palms against mine politely. "Someone has been searching for
+you."  He took my arm and steered me out of the way of passersby. "Someone is
+able to spare a few heartbeats for a discreet conversation?"
 
-"Um, well, I would like to, certainly, but I'm supposed to be meeting a
-friend. It's a rather important matter, and I don't want to---"
+"Um, well, I would like to, certainly, but I'm supposed to be meeting a friend.
+It's a rather important matter, and I don't want to---"
 
 He squeezed my arm, not gently. "This is a rather important matter too," he said
-softly, his blackgrass accent gone. "Seeing as how it's the rest of your life
+softly, his Black Grass accent gone. "Seeing as how it's the rest of your life
 we'll be talking about."
 
 My first thought was *he's a thief*, but what thief in his right mind (or even
 out of it) would risk his neck for the few pennies a worn-at-the-elbows young
-bookster might have in his purse?
+bookster might have in his purse?  My second thought was, *he's a scandal
+monger---someone has found out about Sehdie and Vurt and wants to buy the story
+from me.* I tried to shake him off indignantly, but he squeezed my arm again so
+hard that I yelped. "I work for someone I would rather not name," he said
+softly.  "Your friend's oath has been brought to her attention. She would like
+to help. My name on it, I bring no hurt or harm to you or yours."
 
-My second thought was, *he's a scandal monger---someone has found out about
-Sehdie and Vurt and wants to buy the story from me.* I tried to shake him off
-indignantly, but he squeezed my elbow again so hard that I yelped. "I work for
-someone I would rather not name," he said softly.  "Your friend's oath has been
-brought to her attention. She would like to help. My name on it, you will not be
-harmed if you bring no harm."
+I swallowed, my mouth suddenly dry. "All right," I said.
 
-I swallowed, my mouth suddenly dry. It is one thing to write about rogues. It is
-another to have one stare you down. "All right," I said.  He nodded, took his
-hand from my elbow, and waved me ahead of him.
+He smiled and looped his arm through mine as if we were new lovers or old
+friends.  "Excellent."  Side by side, we rejoined the flow of people going
+wherever their destinies next needed them to be.
 
 The horse was waiting for us outside a hostel called the Dubious Fiddler. His
 reins were looped over a post, and his rump twitched every few heartbeats,
@@ -6448,28 +6445,28 @@ you, stop staring. It gives me a headache.  You've already given me one today."
 done, that has---"
 
 "Be quiet." He sighed. "Humans... So, here's how the grass falls." He told his
-story quickly. There was a cloud leaving for Ensworth tomorrow night. Lady Kembe
+story quickly. There was a cloud leaving for Gandan tomorrow night. Lady Kembe
 wanted Sehdie on it, but Sehdie wouldn't go without me. My mind got the hiccups
 right then. She wouldn't go without me. She wouldn't---
 
 "Are you listening?" the horse asked abruptly.
 
-"My apologies again, honored sir. I, I lost myself there a moment."
-Sehdie. Ensworth. Together. "I don't know what to say."
+"My apologies again, honored sir, I lost myself there a moment."  Sehdie.
+Gandan. Together. "I don't know what to say."
 
-"Then say 'yes'," he said sourly. "That will let us both get out of this heat."
+"Then say yes," he said sourly. "That will let us both get out of this heat."
 
 "But what does---I mean, my service to Lady Kembe, but how can I possibly---"
 
 "You can't. It's the girl she's interested in." The Darpani muttered something
 too low for me to catch. The horse pawed the ground. "All right, there is
-something you can do. There's some property of hers that she wants
-returned. Now, don't worry, she's not asking you to turn thief. It is hers, it
-just---well, it's complicated. And I'm sure she'll be expecting you to run a few
-errands for her once you're in Ensworth."
+something you can do. There's some property of hers that she wants returned.
+Don't worry, she's not asking you to turn thief.  It belongs to her.  She just
+loaned it to someone, and now she needs it back. And I'm sure she'll be
+expecting you to run a few errands for her once you're in Gandan."
 
-"What kinds of errands?" I asked cautiously. Being a magician's fetch never ends
-well in stories---never.
+"What sort of errands?" I asked cautiously. Being a magician's fetch never ends
+well in stories.
 
 The horse flicked his tail. "Watching people. Telling her what you see.  Folding
 little paper birds and leaving them on windowsills."
@@ -6477,7 +6474,7 @@ little paper birds and leaving them on windowsills."
 "Sometimes cutting throats," the Darpani chipped in. The horse kicked his
 shin. "Ow!"
 
-"No throats. I promise." The horse eyed me. "What do you say?"
+"No throats, I promise." The horse eyed me. "What do you say?"
 
 What did I say? What could I say? "Sure. Yes. I mean, yes, absolutely, I would
 be honored to---"
@@ -6491,8 +6488,8 @@ you. This is..." I spread my hands. "Thank you."
 "You're welcome." The horse flicked his tail. "Don't be late."
 
 "I won't be." As I turned to go, I caught sight of the statue in the center of
-the square. I had seen it thousands of times, of course. The emir's companion
-during his wandering days, et cetera, et cetera.
+the square. I had seen it before, of course. The emir's companion during his
+wandering days, et cetera, et cetera.
 
 I hesitated. "Honored sir---forgive me, but you look familiar. Are you from
 here?"
@@ -6504,122 +6501,121 @@ Evening came. I distracted the guards as Vurt and Ishad had asked me to, then
 hurried back into the city. Yes, I knew that I was betraying a friend. People do
 that sometimes. But he never listened to her, not the way I did. He never sat
 there and held her hand and listened to what she had to say. He didn't know how
-much poetry was in her heart, just waiting to fly out. All he saw was a
-beautiful prize to be won. She deserved better than that.
+much poetry was in her heart, just waiting to fly out. All he saw was a prize to
+be won. She deserved better than that.
 
 Amazing, isn't it, what we can justify when we want to?
 
-I walked down Candlemenders' Road thinking, "I may never see this again." My
-family wouldn't mind as long as I wrote regularly. My oldest brother went to Dry
-Weeping eight years ago, and my sister (not the one whose engagement was broken
-off) had gone caravaneering to Darp and never returned. She sent us letters
-twice a year, full of gossip about horses and quirks of contracts. My father
-sent copies back to her with minor corrections written in the margins. It was
-his way of saying that he loved her, I suppose.
+As I walk down Candlemenders' Road I think, "I may never see this again." My
+family won't mind as long as I write regularly. My oldest brother went to Dry
+Weeping eight years ago, and my sister (not the one who broke off her
+engagement) went caravaneering to Darp and didn't come back. She sends us
+letters twice a year, full of gossip about quirks of contracts and mad Praczny
+saints trying to persuade the Darpani to try their new saddles. My father sends
+copies back to her with minor corrections written in the margins. It's his way
+of saying that he loves her, I suppose.
 
-I made just one stop, at Aziz's. Stealing my best friend's girl was one thing,
-but stealing books was quite another. "Now remember---" I started.
+I make just one stop, at Aziz the bookseller's.  Running off with my best
+friend's girl is one thing, but running off with someone's books is quite
+another. "Now remember---" I start.
 
-"I never saw you," he said. We studied together, back when he wanted to grow up
-to be a magician. "And I have no idea where you went, or what you were planning
-to do. Which is the truth."
+"I never saw you," he says. We studied together, back when he wanted to grow up
+to be a magician. "And I have no idea where you've gone, or what you were
+planning to do. Which is the truth."
 
-I raised my palms to him. "I'll write."
+I raise my palms to him. "I'll write."
 
-He raised his back. "I'll read."
+He raises his back. "I'll read."
 
-My next stop was at Ishad's. I had to force myself not to glance around as I
-fumbled with the lock on his front gate. Across, down, down again, and in---no,
-no, it was across, down, across again, and in. The worn brass cylinder came
-apart in my hands. I dropped the pieces in my pocket, leaving the gate slightly
-ajar behind me.
+My next stop is at Ishad's. I have to force myself not to glance around as I
+fumble with the lock on his front gate. Across, down, down again, and in---no,
+no, it's across, down, across again, and in. The worn brass cylinder comes apart
+in my hands. I drop the pieces in my pocket, leaving the gate slightly ajar
+behind me.
 
-Cool moonlight turned Ishad's whitewashed kitchen blue. The three loose tiles in
-the floor were right where the horse had said they would be.  The shallow trough
-beneath them held a battered leather tube, thirty Ruudian silver marks, a
-stiletto, and a dried husk a scorpion beetle had shed last week or last year. I
-reached for the tube, but pulled my hand back. Poison darts? Razors spun by
-clockwork? If half of Vurt's bragging about Ishad was true, there could be
-anything in that hole.
+The last light of day fills Ishad's whitewashed kitchen with a dim warmth. The
+three loose tiles in the floor are right where the horse said they would be.
+The shallow trough beneath them holds a battered leather tube, thirty Ruudian
+silver marks, a stiletto, and a dried husk that a scorpion beetle shed last week
+or last year. I reach for the tube, but pull my hand back.  Poison darts?
+Razors spun by clockwork?  Knowing Ishad, there could be anything in that hole.
 
-In the end, I used a broom to lever the tube out of the ground. Nothing snapped,
-fizzed, or fell on my head. I turned the tube over in my hands.  It looked like
-a map case, or something a Thindi merchant would store scrolls in. I was tempted
-to open it, but *ab*, there wasn't time, *ra*, it belonged to a magician, and
-*ca*, it would be just like Ishad to leave his cache unguarded and then booby
-trap the case itself. I replaced the tiles, nearly soiled myself when the broom
-toppled over with a clatter, stood it up again, put the lock on the front gate
-back together, and hurried away.
+In the end, I use a broom to lever the tube out of the ground. Nothing snaps,
+fizzes, or falls on my head.  I turn the tube over in my hands.  It looks like a
+map case or something a Thindi merchant would store scrolls in. I'm tempted to
+open it, but *ab*, it's none of my business, *ra*, it belongs to the most famous
+magician in the world, and *ca*, it would be just like Ishad to leave his cache
+unguarded and then booby trap the case itself. I replace the tiles, nearly soil
+myself when the broom topples over with a clatter, stand it up again, put the
+lock on the front gate back together, and hurry away.
 
-The evening had turned to night by the time I reached Sehdie's. As an unmarried
-daughter, Sehdie's room was in the section between the public and private
-courtyards, one floor up, with a single window looking out on the world. Her
-aunt wouldn't even have allowed her the window once she started to fill out, but
-for once her father stood up for her. "It's been her room since she was
-born. She can stay there if she wants," he said, and wouldn't budge. I don't
-think he ever really got over his wife's death. He wanted things to stay just as
-they had been, forever.
+The moon has just peeked over the horizon by the time I reach Sehdie's. As an
+unmarried daughter, Sehdie's room is in the section between the public and
+private courtyards, one floor up, with a single window looking out on the
+world. Her aunt wouldn't even have allowed her the window once she started to
+fill out, but for once her father stood up for her. "It has been her room since
+she was born. She can stay there if she wants," he said, and wouldn't budge. I
+don't think he ever really got over his wife's death, or knew what to do with
+his daughter.
 
-When Vurt wanted to talk to Sehdie he climbed a lemon tree three houses away,
-walked along a dividing wall, pulled himself up onto a stable, jumped to their
-neighbor's roof, and jumped again to catch a beam so he could get onto hers. Not
-being Vurt, I had taken a few moments earlier to stow a ladder beside the
-stable. It had paint and tar spattered on its rungs, just the sort of thing a
-trusting tradesman might leave lying around in a nice neighborhood. I didn't
-look particularly tradesmanlike (at least, I hoped I didn't), but I hung my pack
-on a peg near the stable door, picked up the ladder, and walked as confidently
-as I could into the narrow alley that ran between Sehdie's house and her
-neighbor's.
+When Vurt wants to talk to Sehdie he climbs a lemon tree three houses away,
+walks along a dividing wall, pulls himself up onto a stable, jumps to their
+neighbor's roof, and jumps again to catch a beam so he can get onto hers. Not
+being Vurt, I took a few moments earlier to stow a ladder beside the stable. It
+has paint and tar spattered on its rungs, just the sort of thing a trusting
+carpenter or glazier might leave in a nice neighborhood if she was coming back
+the next day to finish a job. I don't look particularly tradesmanlike, and it's
+the middle of the weeping night, but I hang my pack on a peg near the stable
+door, pick up the ladder, and walk as casually as I can into the narrow alley
+that runs between Sehdie's house and her neighbor's.
 
-A few moments and a bruised knee later, I was face to face with a peach-colored
-shutter. It was nicely made, fitted instead of glued, nicely stained, and very
-locked.
+A few moments and a bruised knee later, I'm face to face with a peach-colored
+shutter. It is nicely made, fitted instead of glued, and very locked.
 
-I had expected that. What I hadn't expected was to hear muttering through its
-slats. "But no, she'd rather spend her time with trash like that
-rogue. Honestly, Awbé, I don't know if this is going to work. Shau Sheu promises
-and promises, but I just don't know."
+I expected that. What I didn't expect was to hear muttering through its slats.
+"But no, she'd rather spend her time with trash like that rogue. Honestly, Awbé,
+I don't know if this is going to work. Shau Sheu promises and promises, but I
+just don't know."
 
-My heart skipped a beat. Awbé was Sehdie's mother, so this must be her aunt,
-Eleñima. I had no idea who Shau Sheu was. At that moment I didn't actually care
-so long as the conversation ended quickly. I felt very exposed, pressed against
-the wall in the gathering darkness. One glance from a passer-by and I'd spend
-the rest of the night explaining myself to some bored guard captain. Rest of the
-night? Who was I fooling? He'd stop listening after three heartbeats and have
-his men toss me in a cell with a drunken, murderous Darpani and a half-deaf
-Ruudian mercenary who'd mis-hear my cries for help and think I'd insulted his
-grandmother.  Come morning, there wouldn't be enough left of me to feed a skinny
-hog.  It would be days before my remains were identified. My family would be
-beside themselves, and poor Sehdie would---
+My heart skips a beat. Awbé was Sehdie's mother, so this must be her aunt,
+Eleñima. I have no idea who Shau Sheu is, but this doesn't seem to be the right
+time for introductions. I feel naked, pressed against the wall in the darkness.
+One glance from a passer-by and I'll spend the rest of the night explaining
+myself to some bored guard captain.  Rest of the night?  Who am I fooling? He'll
+stop listening after three heartbeats and have his men toss me in a cell with a
+drunken, murderous Darpani and a half-deaf Ruudian mercenary who will mis-hear
+my attempts at polite conversation and think I've insulted his grandmother.
+Come morning, there wouldn't be enough left of me to feed a skinny hog.  It
+could be days before my remains are identified. My family will be beside
+themselves, and poor Sehdie will---
 
-A cupboard door banged closed on the other side of the shutter. Still muttering,
-Sehdie's aunt left the room. I sagged and let my breath out with a whoosh. Juan
+A cupboard door bangs closed on the other side of the shutter. Still muttering,
+Sehdie's aunt leaves the room. I sag and let my breath out with a whoosh. Juan
 di Perçalle wrote that the world is ruled by soldiers because the poets are too
 easily distracted by beauty to govern. I think it's because poets are too good
 at imagining the consequences of their actions to take foolish risks.
 
-I tucked my note through the shutter slats and climbed down the ladder one
-careful rung at a time. I laid it down next to the house and walked out of the
-alley onto Quiet Saints' Street.
+I tuck my note through the shutter slats and climb down the ladder one careful
+rung at a time. I lay it down next to the house and walk out of the alley onto
+Quiet Saints' Street.
 
-To the east, the edge of the moon was a bright white line on the
-horizon. Something caught in my throat. Vurt would be the Tombs by now.  "Luck
-be gentle, Luck be sweet," I whispered. Make sure my hand, make swift my
-feet. That's how the rest of the children's rhyme went. It was as good a prayer
-as any.
+The moon is up now.  Something catches in my throat. Vurt will be the Tombs, if
+he and Ishad haven't already been eaten or had their souls sucked out.  "Luck be
+gentle, luck be sweet," I whisper.  Make sure my hand, make swift my feet.
+That's how the rest of the children's rhyme goes. It's as good a prayer as any.
 
-I almost turned around then. I could have put the ladder back, picked up my pack
-from the stable, and gone home. Vurt was my friend. He deserved an explanation
-from me, if nothing else.
+I almost turn around then. I could put the ladder back, get my pack from the
+stable, and go home. Vurt is my friend. He deserves an explanation from me, if
+nothing else.
 
-But I remembered the story of Hans the Younger, sitting in his stone chair on a
-hill overlooking Ryewall harbor, watching the ships come and go, wishing he had
+But I remember the story of Hans the Younger, sitting in his stone chair on a
+hill overlooking Anyalcze harbor, watching the ships come and go, wishing he had
 taken one in his youth, until he turned to stone himself. The anonymous author
 of *The Customs, Laws, and Language of Praczedt: A Guide For Those So Fortunate
-As To Have Been Born Elsewhere* claimed that the weathered remains of the chair
-were still there, and that on clear days, when a brisk breeze was blowing, you
-could still hear his sighs. Although how one was supposed to tell a ghost's
-sighs from the breeze, I don't know.
+As To Have Been Born Elsewhere* wrote that the weathered remains of the chair
+are still there, and that on clear days, when a brisk breeze was blowing, you
+can still hear his sighs. Although how one is supposed to tell a ghost's sighs
+from the breeze, I don't know.
 
 Poets don't write much about waiting. "Day after day she stood at the window,
 waiting for his return. She relived every moment they had spent together, every
@@ -6629,87 +6625,85 @@ about while she stood at that window?  There must have been something---I simply
 don't believe anyone could stand in a draft for a year and a day without
 thinking of, I don't know, lunch. Or all the things that could go wrong.
 
-I certainly thought about what could go wrong as I stood on the corner beside
+I certainly think about what could go wrong as I stand on the corner beside
 Sehdie's father's house, waiting for her shutters to open. Her aunt could go
 snooping in her room again and find the note. Her father could expect Sehdie to
 sit in the corner and do needlework all evening.  Or she could simply decide not
 to come. "Yes," my note said, "Yes, yes, until my lungs are empty, yes," but
-what if she didn't feel the same way? What if, despite everything we had said to
-each other, I was nothing more than a friend to her? I had only the word of a
+what if she doesn't feel the same way? What if, despite everything we have said
+to each other, I am nothing more than a friend to her? I have only the word of a
 horse---a horse!---to the contrary. She might not actually want to escape. She
-might want to be a potted plant herself, carefully tended, immaculate, a
-beautiful decoration for some well-appointed courtyard.
+might want to be a potted plant for the rest of her life, carefully tended,
+immaculate, a beautiful decoration for some well-appointed courtyard.
 
-*Click.* I looked up so sharply that I hurt my neck. The shutters swung
-outward. Faintly, barely above a whisper, she said, "Kerrem?"
+*Click.* I look up so sharply that I hurt my neck. The shutters swing outward.
+Faintly, barely above a whisper, she says, "Kerrem?"
 
-"Here." My mouth was dry.
+"Here." My mouth is dry.
 
 "I can't see you."
 
-Of course she couldn't. I had covered my little dayglass lamp. I unscrewed the
-cheap tin lid and held it up. "Here," I said again.
+Of course she can't. I have shuttered my little dayglass lamp. I raise the cheap
+tin lid and hold it up. "Here," I say again, heart pounding.
 
-"Can you catch?" I barely had time to put my lamp down before she dropped her
-bag. It was mercifully small. I had been afraid she would try to bring three
-trunks and a purse large enough to hold a child, like the old woman in *The
-Prince of Cats*.
+"Can you catch?" I barely have time to put my lamp down before she drops her
+bag. It is mercifully small. I was afraid she would try to bring three trunks
+and a purse large enough to hold a child, like the old woman in *The Prince of
+Cats*.
 
-It clinked slightly, too. Sensible woman, she had brought jewelry. We could sell
-that if we needed to.
+Her bag clinks slightly when I shift it. Sensible woman, she has brought
+jewelry. We can sell that if we need to.
 
-"How do I get down?" she whispered.
+"How do I get down?" she whispers.
 
-"The ladder," I said. "Don't worry, I'll steady it."
+"The ladder," I say. "Don't worry, I'll steady it."
 
 "Kerrem... I don't know how."
 
 "What do you mean, you don't know how?"
 
-"I mean I don't know how!" she hissed. "I've never climbed a ladder."
+"I mean I don't know how!" she hisses. "I've never climbed a ladder."
 
-"Sit on the windowsill, then turn around and put your feet on the first
-rung. After that it's just like stairs."
+"Sit on the windowsill, then turn around and put your feet on the first rung.
+After that it's just like stairs."
 
-"But I can't see it." She pulled herself up onto the windowsill and stretched
-one leg down like an elephant reaching for a piece of fallen fruit with its
-trunk.
+"But I can't see it." She pulls herself up onto the windowsill and stretches one
+leg down like an elephant reaching for a piece of fallen fruit with its trunk.
 
-"No, no, turn around first," I whispered. "So you're facing the wall."
+"No, no, turn around first," I whisper. "So you're facing the wall."
 
-She turned, found the rung, and climbed down one tentative step at a time. I
-didn't realize she was crying until she reached the bottom.
+She turns, finds the rung, and climbs down one tentative step at a time. I don't
+realize she's crying until she reaches the bottom.
 
-"Sh, sh, it's all right," I whispered into her ear. I had never held her
-before. She was almost as tall as I was, and her hair was like cool water
-between my fingers. It smelled faintly of sandalwood. "It's all right."
+"Sh, sh, it's all right," I whisper into her ear. I have never held her before.
+She is almost as tall as I am, and her hair is like cool water between my
+fingers. It smells faintly of sandalwood. "It's all right."
 
-"No it's not," she said. Suddenly she smiled. "But it will be."
+"No it's not," she sniffles. "But it will be."
 
-We collected my pack from the stable. "Did you bring a cloak?" I asked Sehdie.
+We collect my pack from the stable. "Did you bring a cloak?" I ask her.
 
-She shook her head. "We hang them downstairs. The housekeeper might have seen
+She shakes her head. "We hang them downstairs. The housekeeper might have seen
 me."
 
-"Ah. Good thinking." I eyed her critically. "But you can't go around looking
+"Ah. Good thinking." I eye her critically. "But you can't go around looking
 like that."
 
-She looked down at her black and silver dress and matching boots.  "What's wrong
-with how I look?"
+She looks down at her black and silver dress and matching sandals.  "What's
+wrong with how I look?"
 
-"Nothing, nothing," I said hastily. "It's just---people will notice.  Especially
-this time of night." *And make assumptions,* I didn't add aloud.
+"Nothing, nothing," I say hastily. "It's just---people will notice.  Especially
+this time of night." *And make assumptions,* I don't add aloud.
 
 "Oh. I'm sorry. It's the plainest I have."
 
-If there's one thing stables have plenty of, even empty ones, it's dirt.  She
-stood there grimly as I rubbed handfuls onto her boots, and then onto the hem of
-her dress to hide the silver highlights. With her sleeves pulled up, and my
-spare vest on, and her hair back under a rag, she looked like---she looked
-beautiful. "Good enough?" I asked.
+If there's one thing stables have plenty of, even ones in neighborhoods like
+this, it's dirt.  She stands there grimly as I rub handfuls onto the hem of her
+dress to hide its silver highlights.  With her sleeves pulled up, and my spare
+vest on, and her hair back under a rag, she looks like---she looks beautiful.
+"Ready?" I ask.
 
-She scowled at me. "Not quite." She leaned forward and kissed me.  "There. Now
-we can go."
+"Almost." She leans forward and kisses me.  "There. Now we can go."
 
 -----
 

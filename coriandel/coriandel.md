@@ -7065,76 +7065,80 @@ on, lad, hold on!" he urged.
 And as I reached for him, jaws closed around my waist. I opened my mouth to
 scream one last time, then everything went away.
 
------
-
-## Ishad Waits
+## Now: Ishad Waits
 
 There were ghosts at Armaq. Always are around battlefields, what with so many
 people leaving their lives half-finished. Most of them moved on after a day or
-two, but there was one who came back every night for weeks. He had been helping
-to load a trebuchet when his foot got tangled in the wrong rope. He screamed all
-the way to the city wall.
+two, but there was one who came back every night for weeks. He'd been helping to
+load a trebuchet and got his foot tangled in the rope. He screamed all the way
+to the city wall.
 
-None of us could sleep with him around, not that we'd been getting much
-before. The captain finally slipped one of the regimentals a couple of coins for
-an exorcism. We never heard from the ghost again, but I did find a boot the next
-day that might have been his. It was nicely made, Enswer leather with a thick
-sole and a little iron buckle. I threw it on the fire, just in case.
+None of us could sleep with him around, not that we'd been getting much before.
+The captain finally slipped one of the regimental magicians a couple of coins
+for an exorcism. We never heard from the ghost again, but I found a pair of
+boots the next day that might have been his.  They were nicely made, leather
+with thick soles and little iron buckles, but had a lot of years on them.  Just
+like me, or so I thought, still not thirty and most of my travels still in front
+of me.  I wore them for the rest of the siege, and for years after.  Seems right
+somehow to be wearing them again.
 
 I ran into a couple of other ghosts in Lady Kembe's service. I heard Edward the
 Dog howl in Apple Bridge when the old king died, and I think I saw Terremaktikak
-in a tavern in Normous Berth, still waiting for Arshad to return from
-Sullair. Magicians have tried to send both of them on, but some just aren't for
+in a tavern in Normous Berth, still waiting for Arshad to return from Sullair.
+Magicians have tried to send both of them on, but some ghosts just aren't for
 sending.
 
-I would have given a lot to know how strong Cup Rainbow Reaching was.  And how
-angry. They can step into you, ghosts can, if they're strong.  They can turn
-your flesh to ice, or make you dance like a puppet. Not that I could do much
-dancing with my ankle the way it was...
+I'd give a lot to know how strong Cup Rainbow Reaching is.  And how angry. They
+can step into you, ghosts can, if they're strong.  They can freeze the meat on
+your bones, or make you dance like a puppet. Not that I could do much dancing
+with my ankle the way it is...
 
-I had my palms up to greet him. I brought them back slowly to cover my ears, but
-only heard the hollow sound you always hear when you do that.  After a moment I
-lowered them to my sides. "Well," I said, "Fancy meeting you here." I used to
+I have my palms up to greet him. I bring them back slowly to cover my ears, but
+all I hear is the hollow sound you always hear when you do that.  After a moment
+I lower them to my sides. "Well," I say, "Fancy meeting you here." I used to
 talk to my opponents in the *umram* that way, and in real fights as well. Calm
-and conversational---it didn't need to make much sense as long as it put them
-off their guard and gave me time to think. Found myself telling a man in
-Seyferte once about running three-legged races with my brother. I hope he
-enjoyed the story, because it was the last one he ever heard.
+and conversational---it doesn't need to make sense as long as it puts them off
+their guard and gives me time to think.  Found myself telling a man in Chaghan
+about running three-legged races with my brother one time. I hope he enjoyed the
+story---it was the last one he ever heard.
 
-I couldn't see Cup. Only the chill told me he was there. "Don't know if you were
+I can't see Cup. Only the chill tells me he's here. "Don't know if you were
 paying attention or not, but there's a lad gone down a while back chasing a
 bonescuttle, just like we did. Except he's on a blood oath, not just trying to
-skip out of being skinned. I was just heading down to the pool to wait for
-him. You would be welcome to come with me."  I hesitated. "Or you could go and
-have a lookout, see if he's all right.  I'd appreciate it, if you're not too
-busy."
+skip out of being skinned. I'm heading down to the pool to wait for him. You'd
+be welcome to come with me."  I hesitate. "Or you could go and have a lookout,
+see if he's all right.  I'd appreciate it, if you're not too busy."
 
-Just like that the chill vanished. I covered my ears with my palms for a couple
-of heartbeats, but still heard nothing. I tucked his skull into my shirt and
-started down the steps once more using the spear for a crutch.
+Just like that the chill vanishes. I cover my ears again for a couple of
+heartbeats, but still don't hear anything.  Oh well---he'll be back if he wants
+to.  I tuck his skull into my shirt and start down the steps once more using his
+old spear for a crutch.
 
-The next landing was a hundred and twenty two steps away. My knees hurt almost
-as much as my broken ankle by the time I got there. The last landing was a
-hundred and thirty steps. I stopped counting after that.
+The next landing is a hundred and twenty two steps away. My knees hurt almost as
+much as my broken ankle by the time I get there. The landing after that is a
+hundred and thirty steps, so I stop counting.
 
-I found a few more bones on the stones beside the pool at the bottom of the
-steps. Somehow I knew that they weren't Cup's. The creatures I'd killed must
-have thought his remains tasted special. Or maybe his ghost had nudged them
-somehow, trying to get his bones up to the light. I should have done that. I
-should have taken what was left of him with me.  A lock of hair, anything, just
-to show him some respect.
+I find a few more bones on the stones beside the pool at the bottom of the
+steps.  They don't look human. The creatures I killed must have thought Cup's
+remains tasted special. Or maybe his ghost nudged them somehow, trying to get
+his bones up to the light.  Ghosts do that, or so I've been told---a puff of
+breath, a featherweight push, things so small that you're never even sure
+they're real.
 
-He was halfway dead when we reached the pool. I left most of my gear on the cold
-stone floor beside him. When I was as ready as I was ever going to be, I gave
-him the old mercenaries' toast. "May Luck look on you kindly, or be distracted
-by more pressing business." I don't know if he understood. I don't even know if
-he heard me. He was breathing in little gasps by then, hands bunched into fists
+I should have taken something with me. A lock of hair, anything, just to show
+him some respect.
+
+He was halfway dead when we reached the pool. I left most of my gear on the
+floor beside him.  When I was as ready as I was ever going to be, I gave him the
+old mercenaries' toast. "May luck look on you kindly, or be distracted by more
+pressing business."  I don't know if he understood. I don't even know if he
+heard me.  He was breathing in little gasps by then, hands bunched into fists
 against the pain.
 
 The water was blood-warm. I tucked myself into a ball, knees up against my
-chest, arms around them, and let the current carry me. "There are things in the
-water," the palace thief told us. "It may take them a while to stir, but once
-they do, they're as quick as birds." The less I thrashed around, the longer it
+chest, arms around them, and let the current carry me.  "There are things in the
+water," the palace thief told us.  "It may take them a while to stir, but once
+they do, they're as quick as birds."  The less I thrashed around, the longer it
 would be before they noticed me. I hoped.
 
 Five, six, seven... I counted fifteen heartbeats. The current let go of me, but
@@ -7142,75 +7146,81 @@ I waited until my back bobbed up out of the water before sculling forward. I had
 no idea what direction I was going. The chamber was completely dark. The only
 sound was the soft splash my arms made in the water.
 
-My hand touched stone. I let my momentum carry me forward another arm's length,
-then pulled myself out of the water. I shrugged out of my pack and took out my
-matches and candle.
+My hand touched stone. I heaved myself out of the water, shrugged out of my
+pack, and took out my matches and candle.
 
-I found myself sitting beside a rectangular pool, twenty strides long and
-perhaps fifteen wide. The cavern wall rose straight up from its far
-side. Another wall rose at a slight angle from behind the patch I was sitting
-on. A narrow flight of stairs crisscrossed up its face, while a thin trickle of
-water splashed down on them from somewhere high above.
+I found myself sitting beside a rectangular pool, twenty strides long and maybe
+fifteen wide.  The cavern wall rose straight up from its far side.  Another wall
+rose from behind the patch I was sitting on, angling away the higher it got.  A
+narrow flight of stairs crisscrossed up its face, and a thin trickle of water
+splashed down on them from up above.
 
 I dripped some wax onto the stone beside me, then planted my candle in it and
-stood with the rope in my hands. It was good silk climbing rope, the kind that
-feels oily when it runs through your hands. I looped one end around my wrist and
-tossed the coil out over the water. It splashed in a curly 'S' and started to
-sink. I pulled it in, coiled it, and tossed it again.
+coiled my rope.  It was a good one, silk, the kind that feels oily when it runs
+through your hands just before it starts to burn.  I looped one end around my
+wrist and tossed the coil out over the water.  It splashed in a curly 'S' and
+started to sink.  I pulled it in, coiled it, and tossed it again.
 
 I had just finished coiling it a second time when Cup broke the surface,
-spluttering like a child. "Hold on, lad, hold on!" I called. I threw the rope
-toward him. As soon as he grabbed it I started hauling it in.
+spluttering like a child.  "Hold on, lad, hold on!" I told him.  I threw the
+rope one more time.  As soon as he grabbed it I started to haul him in.
 
-He almost made it. He was reaching for my hand when something in the water bit
-him in half. I might have drunk myself to death thinking about it afterward if
-it hadn't been for Lady Kembe. "Hit yourself with a rock a few times and be done
-with it," she told me sharply. Even with hundreds of gallops between us, I could
-feel her impatience. "You did what you could. Anyway, it's not over."
+He almost made it. I had his weeping hand when something came up out of the deep
+and bit him in half. I might have drunk myself to death thinking about it
+afterward if it hadn't been for Lady Kembe. "Hit yourself with a rock a few
+times and be done with it," she told me sharply.  Even with five hundred gallops
+of desert between us, I could feel her impatience. "You made as you could.  And
+along that, this is not over."
 
 "Wha' d'you mean, 'snot over?" Saints and their small mercies, I was talking to
 the most powerful magician in Cherne and I was slur-my-words drunk.
 
-"I mean it's not over," she repeated. "It doesn't feel over. Now go have a
-life."
+"Are you deaf so well as drunk?" she asked without a drop of mercy in her voice.
+"My others tell me this is not over.  Now go you and have a life."
 
-So I went and had a life, a good one, with friends of sorts, and students who
-were never any worse off for having met me, and then Vurt.  But I still thought
-about it sometimes, how close he had come. His hand was actually in mine. I was
-pulling him up out of the water when whatever it was came up from the depths and
-bit through him like he was a stick of soft candy.
+It seemed like good advice once I sobered up and the city guard let me back on
+the street, so I went and had a life, a good one, with friends and lovers and
+students who were mostly no worse off for having met me, and then Vurt.  But I
+still thought about Cup sometimes, how close he had come. His hand was actually
+in mine when he died.
 
-I screamed and let go of him. I huddled against the stone wall and bit my arm to
-muffle my whimpers, slapping the stones again and again with my other hand.
+I screamed and throw myself back from the pool, then huddled against the
+stone wall and bit my arm to muffle my whimpers, slapping the stones again and
+again with my other hand.  My candle guttered out after a time. I took my
+matches from my pocket, but didn't light any. I just turned them over and over
+in my hands.
 
-My candle guttered out after a time. I took my matches from my pocket, but
-didn't light any. I just turned them over and over in my hands.
-
-I almost didn't bother to get up when the Moonset Door glinted open. I swear, I
+I almost didn't bother to get up when the Moonset Door appeared. I swear, I
 looked at it with about as much as interest as you would look at a dead bird
 lying beside the road. Then I scrambled to my feet, grabbed my sack, and fell
 through it headlong.
 
 A squad of guardsmen were waiting for me on the other side, weapons ready, a
-magician in their midst. I curled up into a ball in front of them and wept.
+magician in their midst. I dropped to my knees and wept.
 
-Their sergeant glanced at the magician. He sniffed the air, then
-shrugged. "Nothing," he said.
+Their sergeant glanced at the magician. He sniffed the air, then shrugged.
+"Nothing," he said.
 
-The sergeant nodded. My sobs subsided. "Just you?" he asked.
+The sergeant nodded. "Just you?" he asked when my sobs subsided.
 
-I nodded back, too tired to be ashamed of my tears. I struggled to my feet and
-handed my sack to the sergeant. It would be dawn soon, and then another day. The
-emir would want to see me. I was alive, and that was pretty much all that was
-right with the world.
+I nodded in turn, too tired to be ashamed of my tears, then struggled to my feet
+and handed my sack to the sergeant. It would be dawn soon, and then another
+day. The emir would want to see me. I was alive, and that was pretty much all
+that was right with the world.
 
-Twenty years later I sat beside that same damned pool, rubbing my swollen
-ankle. It was the same foot that Cup had lost, I realized. I didn't know whether
-that meant anything or not. I didn't have a rope this time, but my little hand
-light cast more light than my candle had.  Cup's spear lay across my thighs. It
-probably wouldn't be much use against the thing in the water, but it was all I
-had. Vurt was as much of a son as I would ever have. He was coming out, or I was
-staying with him.
+Twenty years later I'm sitting beside that same damned pool, rubbing my swollen
+ankle.  It's the same foot that the bonescuttle took from Cup. I don't know if
+that means anything or not. I don't have a rope this time, but my little hand
+light shows me more than any candle could.  Cup's spear lies across my thighs.
+It probably won't be much use against the thing in the water, but it's all I
+have.
+
+I massage my ankle as best I can.  It'll start swelling as soon as I take the
+boot off.  They're good boots, all things considered---out of fashion and worn
+down, but still holding together.
+
+I spit onto the ground beside me.  Vurt's as much of a son as I'll ever
+have. He's coming out, or I'm staying down here with him.
 
 -----
 

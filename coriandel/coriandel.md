@@ -389,8 +389,11 @@ right, and odd-stride trirains will tie you up like knotgrass.
 But he did it. Come the evening of our fifth day, with the whole troop around
 us, he went down on one knee and recited:
 
-> Oh thou, proud stallion, swift wind made flesh Humbly, seeking only to better
->the lot of your kind, someone asks How may best your rider serve you?
+> Oh thou, proud stallion, swift wind made flesh
+>
+> Humbly, seeking only to better the lot of your kind, someone asks
+>
+> How may best your rider serve you?
 
 It is just words in Karabandi.  You cannot even tell that it is odd-stride.  But
 it is not half bad in Darpani. It is not half bad at all.
@@ -6228,89 +6231,91 @@ around the handle of a scroll being eternally read by a woman who seems slightly
 amused by whatis in front of her. Then I swing myself up onto an empty plinth to
 wait.
 
------
-
-## Sehdie Holding Hands
+## Recently: Sehdie Holding Hands
 
 It was exciting. No, it was exhilarating. For the first time in my life I had
 something that was *mine*. I couldn't think about anything but him.
 
 My aunt grew very sharp with me. "Honestly, darling, it's as if you're not even
-here when I'm speaking to you any longer!"
+here when I'm speaking to you!"
 
 "I'm sorry," I said automatically, but I wasn't. How could I be? He was so
 handsome, even when he was scowling. One afternoon I came out of an elocution
 lesson to find him loitering outside the fiddle mender's on the other side of
 the street. Just the sight of him stole my breath away.
 
-It took me a few weeks to realize that I was afraid. Afraid of being smothered,
-even more than before. The feeling grew stronger every day.  It was bad enough
-that my aunt wanted me to be a fairytale princess, prim and proper, like she had
-been when she was my age. But now there was Vurt. He asked me one afternoon to
-sneak away from the house after dark so he could show me off to his
+It took me a few weeks to realize that I was still afraid of being smothered.
+The feeling grew stronger every day.  It was bad enough that my aunt wanted me
+to be a fairytale princess, prim and proper, just like she and my sainted mother
+had been when they were my age.  But now there was Vurt. He asked me one
+afternoon to sneak away from the house after dark so he could show me off to his
 friends. Show me off to his friends... No, thank you, I said, trying not to let
 it sound cold. He as near as pouted at that, and grunted monosyllables
 afterward.
 
-And when I asked about his life outside the *umram*, about his family or what
-plays he liked, he looked at me as if I had suddenly started speaking
-Ruudian. It was as if we were actors from different plays who had accidentally
-wound up on stage at the same time.
+And whenever I tried to talk about life outside the *umram*, about plays or
+music or architecture or, or *anything*, he just looked at me and scowled.  It
+was as if we were actors from different plays who had accidentally wandered onto
+stage at the same time.
 
-There was no way I could talk to him about this. He probably wouldn't even have
-understood the question. And I didn't dare ask my girlfriends.  So I finally
-asked Kerrem.
+I didn't dare ask my girlfriends what to do.  It was just a matter of time
+before one of them accidentally-but-not-really let something slip when my aunt
+was within earshot, and if they thought I was floundering...  So finally I asked
+Kerrem.
 
 Right from the start, I talked to him more than I did to Vurt. We sat next to
 each other on the common benches every time I visited the *umram*. He made jokes
 about himself and quoted poets I'd never heard of. At first he tried too hard to
 be clever, but once he got used to having me there he relaxed. And then a funny
-thing happened. He started listening to me, really listening, like no one else
-ever had. If he looked at my feet when we were talking, it wasn't because he was
-too shy to meet my eyes. It was because he was thinking about what I'd said. And
-when he looked at my face, he didn't make me feel like I was a price racehorse
-up for auction. He made me feel...
+thing happened. He listened to me, really listened, like no one else ever had.
+If he looked at my feet when we were talking, it wasn't because he was too shy
+to meet my eyes. It was because he was thinking about what I'd said. And when he
+looked at my face, he didn't make me feel like I was a price racehorse up for
+auction. He made me feel...
 
 "I don't know," he admitted. The crowd was cheering a trio of Bantangui
-wrestlers who had just brought down a Gifted bull using nothing but rope and
-courage. The bull was yelling insults at them, claiming the rope had been
-slathered with some obscure drug. "He talks about you a lot. I just... I think
-what he wants most is to prove himself. To prove that he's more than just a rat
-catcher. It's like me wanting to hear someone else recite my poems."
+wrestlers who had just brought down a Gifted bull using nothing but a stout rope
+and some inventive gymnastics. The bull was yelling insults at them, claiming
+the rope had been slathered with some drug or other. "He talks about you all the
+time.  I just... I think what he wants most is to prove himself. To prove that
+he's more than just a rat catcher. It's like me wanting to hear someone else
+recite my poems."
 
-"I could do that," I said. "I have wonderful diction."
+"I could do that," I said, surprised by the bitterness in my voice. "I have
+*wonderful* diction."
 
 He grinned automatically, his mind still wrestling with my question.  "Thanks,
 but what I mean is, I want to hear someone recite them even though they've never
 met me. In the market, or a coffee house, or, I don't know, some night out under
-the stars, in the middle of the desert on the way to Ensworth. I just want to
-know my words have a chance of outliving me."
+the stars, in the middle of the desert on the way to Gandan. I just want to know
+my words have a chance of outliving me."
 
-My heart skipped a beat. "Ensworth?"
+My heart skipped a beat. "Gandan?"
 
-He laughed. "Sure, why not? Ensworth, Leyselle, Uws... Why not see them all some
+He laughed. "Sure, why not? Gandan, Praczedt, Uws... Why not see them all some
 day?"
 
-"I've heard Ensworth is beautiful." Why were there tears in my eyes? I wiped
-them angrily with my sleeve. My aunt had never left Coriandel. She sighed about
-that at least once every evening. My mother had, once, after she and my father
+"I've heard Gandan is beautiful." Why were there tears in my eyes? I wiped them
+angrily with my sleeve. My aunt had never left Coriandel. She sighed about that
+at least once every evening. My mother had, once, after she and my father
 married. He took her to Dry Weeping, which is only a little town, but it's on
 the edge of the Glass Sea. The trip took two weeks each way. I still had the
-shells she bought there, beautiful tiny shapes embedded in flawless glass.
+shells she bought there, beautiful tiny shapes embedded in flawless glass.  My
+aunt sniffed that there was no way of telling if they were real, that some
+crafty Hett had probably taken advantage of my mother's innocence, wasn't it a
+shame that my father hadn't been more cautious, but I treasured them.
 
-Kerrem must have seen the look on my face. He took my hand and squeezed
-it. "Hey," he said softly. "Don't worry. I'm not going anywhere. Not today,
-anyway."
+Kerrem must have seen the look on my face. He took my hand and squeezed it.
+"Hey," he said softly. "Don't worry. I'm not going anywhere. Not today, anyway."
 
 I nodded and squeezed his hand back. "Thanks."
 
 Out of the corner of my eye I saw Cathé and the others glance at me and then at
-each other. Oh, this would give them plenty to gossip about for the next few
-days. Sehdie in tears, holding hands with *another* boy.  My, my...
+each other.  Oh, this would give them plenty to gossip about for the next few
+days.  Sehdie in tears, holding hands with *another* boy.  My, my...
 
-"Just thanks," I said. He squeezed my hand again and started to let go.  I held
-onto him. We sat there while the judge argued with the bull, very still, like
-children once again.
+He squeezed my hand again and started to let go.  I held onto him. We sat there
+while the judge argued with the bull, very still, like children once again.
 
 "Do you remember---"
 
@@ -6331,29 +6336,31 @@ yellow-brown with age. The lettering on it was large and careful.
 
 "It's a poem," he said. He cleared his throat. "I, um, I wrote it. For you."
 
-My mouth went dry. For me? "Tsk tsk. Such handwriting."
+My mouth went dry. For me? "Is this really your handwriting."
 
-"Oh, that." He seemed fascinated by his thumbnail. "Yes. It's improved a lot
-since, I hope. I, um..." He took a deep breath. "I wrote it a while ago. When my
-mother was teaching you the abracadabra. Remember? I used to come and read
-stories to her class, and you used to look at me like, like, like I was one of
-the characters from the story instead of just a bookster boy tripping over his
-own sandals." He shrugged. "It's not very good. Pretty bad, as a matter of
-fact. Awful. Just awful. Here, you don't want to---"
+"Um, yeah." He seemed fascinated by his thumbnail. "I mean, yes, it is. It's
+better now, I think. I mean..." He took a deep breath. "I wrote it a while ago.
+When my mother was teaching you the abracadabra. Remember? I used to come and
+read stories to her class, and you used to look at me like, like, like I was
+already a bookster instead of just a boy tripping over his own sandals." He
+shrugged. "It's not very good. Pretty bad, as a matter of fact. Awful. Just
+awful. Here, you don't want to---"
 
-"Don't you dare!" I pulled away before he could snatch it out of my
-hand. Saints, now I really was going to cry. I wiped my cheek with the back of
-my hand. To ruin with Cathé and the others.
+"Don't you dare!" I pulled away before he could snatch it out of my hand.
+Saints, now I really was going to cry. I wiped my cheek with the back of my
+hand. The Pilots could take Cathé and the others for all I cared.
 
 "Saints, Sehdie, it's not that bad, is it?"
 
 I laughed shakily. "Not hardly." Such careful letters. Such careful words.
 
-    Hair as glossy as a champion’s mane Eyes as dark as midnight pools
+> Hair as glossy as a champion's mane
+>
+> Eyes as dark as midnight pools
 
 It didn't mention me by name. Someone else could have written it. Or he could
-have written it for someone else, but I knew he hadn't. I knew he'd written it
-for me, all those years ago. And kept it.
+have written it for someone else, but I knew he hadn't. I knew he had written it
+for me all those years ago and kept it.
 
 The crowd around us cheered. I refolded the scrap of paper and handed it back to
 him. "Keep it for me," I said. "Please. Keep it safe."
@@ -6361,9 +6368,9 @@ him. "Keep it for me," I said. "Please. Keep it safe."
 He nodded and tucked it back into his satchel. "He's saluting you," he said
 without looking up.
 
-I glanced down at the *umram*'s sandy floor. Yes he was. I kissed the back of my
-right hand, as he'd told me other bravos ladies' did, then lowered it slowly to
-my lap. Eyes as dark as midnight pools... Oh, this was going to be complicated.
+I glanced down at the *umram*'s sandy floor. Yes he was. I kissed the fingertips
+of my right hand and waved, as he'd told me other bravos ladies' did. Eyes as
+dark as midnight pools... Oh, this was going to be complicated.
 
 -----
 

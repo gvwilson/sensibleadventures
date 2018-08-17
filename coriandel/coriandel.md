@@ -8056,13 +8056,11 @@ and something in front of me to hack at.  For the ten thousandth time, I wish
 that I could ask Lady Kembe for help.  And for the ten thousandth time, I sigh
 as the collar reminds me why I can't.
 
------
-
-## Cup Rainbow Reaching's Farewell
+## Now: Cup Rainbow Reaching's Farewell
 
 I do not know how long it took me to gather myself. Months? Years? Did I wander
 thoughtless, or was there not an 'I' at all? I do not remember.  Perhaps that is
-normal when one dies. I do not know.
+normal when one dies. Perhaps it is best.  I do not know.
 
 And I do not know how I learned to do the things that ghosts can do, any more
 than I know how I learned to breathe or walk as a child. There were places I
@@ -8074,101 +8072,108 @@ stillness and patience. There were things in that place that could eat ghosts. I
 watched the strange tree that grew on the dam stairs put forth strange, bulbous
 fruit from which many-legged things with sharp teeth hatched. I watched them
 scurry about, speaking to themselves. Cautiously, like a young boy creeping up
-on a grass hen, I nudged them to move my bones closer to the Moonset
-Door. Instead, they carried them up to the tree that had birthed them. I would
-have wept with frustration if I had eyes to weep with.
+on a grass hen, I nudged them to move my bones closer to the Moonset Door.
+Instead, they carried them up to the tree that had birthed them. I would have
+wept with frustration if I had eyes.
 
 And then the Karabandi returned. His companion's blood oath was a sour sparkling
-pressure, and the spell on his boots was---was not a spell. I did not know what
-it was. I became clearer then, stronger, as if a long fever had broken. For the
-first time in twenty years, I dared to hope.
+itch, and the spell on his boots was---it was not a spell. I did not know what
+it was, but I became clearer, stronger, as if a long fever had broken. For the
+first time in years, I dare to hope.
 
-I followed the young man through the first door. I tried to speak to him, but he
-didn't understand. I stayed with him, though. He had to survive to reach the
+I follow the young man through the first door. I try to speak to him, but he
+doesn't understand. I stay with him, though. He has to survive to reach the
 pool.
 
-When the *iyemnelili* began to stalk him, I went to him again. I do not know how
-I knew to give him my memory of the first one's lair. I just did it.
+When the *iyemnelili* begins to stalk him, I go to him again. I do not know how
+I know how to give him my memory of the first one's lair. I just do it.
 
-I went back to look for the Karabandi then. He heard me. He took my spear and my
-skull and began the slow, bruising journey to the bottom of the stairs.
+I go back to look for the Karabandi then. He hears me. He takes my spear and my
+skull and begins the slow, bruising journey to the bottom of the stairs.
 
-I dragged myself down to where the thing that ate me slumbered. Its dreams were
+I drag myself down to where the thing that ate me slumbers. Its dreams are
 nothing I can describe: motion sensed in darkness and dying things struggling in
 its jaws and beneath it all, elegant figures dancing on stately barges that
-drifted gently under moonlight. I kicked and pulled at its imaginings, stirring
-them up as you would stir up a muddy pond with a stick to make frogs jump. As it
-roused itself I withdrew and fled back to the surface. Being trapped in that
-creature's dreams would make everything else that had happened to me seem
-blessed.
+drifted gently under the light of an untarnished moon. I kick and pull at its
+imaginings, stirring them as you would stir up a muddy pond with a stick to make
+frogs jump. As it rouses itself I withdraw and flee back to the surface. Being
+trapped in that creature's dreams would make everything else that has happened
+to me seem like a blessing.
 
-When the younger man's head broke the surface, the Karabandi yelled, "Swim, damn
-you, swim!" and dove into the pool with my spear in his hands, driving it into
-the thing rising behind his friend. It screamed.
+When the younger man's head breaks the surface, the Karabandi yells, "Swim, damn
+you, swim!" and dives into the pool with my spear in his hands, driving it into
+the thing rising behind his friend. It screams.
 
-The Karabandi splashed back to the edge. The thing in the pool screamed again
-and stretched out a tentacle and grabbed hold of the younger man's boot---
+The young man scrambles out of the water.  The Karabandi splashes back to the
+edge. The thing in the pool screams again and stretches out a tentacle and
+grabbed hold of his boot---
 
----and there was a flash like the first edge of the sun coming over the horizon
+---and there is a flash like the first edge of the sun coming over the horizon
 at dawn and the scent of young grass brushed its fingers across the hairs on my
-arms and whatever was in the boots woke up and sang, it *sang*, love and
-remembrance and joy so much joy I was a leaf and it was a storm it was home home
+arms and whatever was in the boots wakes up and sings, it *sings*, love and
+remembrance and joy so much joy I am a leaf and it is a storm it is home home
 home after so long so long away.
 
-The two men struggling in front of me couldn't hear it couldn't feel it.  All
-they knew was that the creature had paused for a moment. Soft blue-white light
-gleamed behind them. The door was opening.
+The two men struggling in front of me cannot hear it cannot feel it.  All they
+know is that the creature in the pool has paused for a moment.
 
-The Karabandi bellowed and heaved his companion back out of the creature's slack
-grasp and collapsed on the stones, cursing his broken ankle. The younger man
-scrambled to his feet. "I've got you," he said, slinging his pack over one
-shoulder and lifting the Karabandi in his arms as you would a child.
+Soft blue-white light gleams behind them. The Moonrise Door is opening.
 
-"Wait! Stop! Don't leave it here!" The Karabandi twisted in his arms.
+The young man curses and drags the Karabandi up onto to stone.  The Karabandi
+curses back---his companion and his broken ankle and the darkness and the Pilots
+themselves.  The young man pull him to his feet. "I've got you," he says,
+slinging his pack over one shoulder and putting the Karabandi's arm around his
+neck.
+
+"Wait! Stop! Don't leave it here!" The Karabandi twists in his arms.
 
 "What?"
 
-"The skull!" the Karabandi said frantically. "Get the skull, damn it!"
+"The skull!" the Karabandi says frantically. "Get the skull, damn it!"
 
-The young man spat out an oath. He bent his knees so the Karabandi could grab my
-skull. "Happy now?" he gasped as he stumbled toward the door.
+The young man spits out an oath. He bends his knees so the Karabandi can grab my
+skull. "Happy now?" he gasps as he stumbles toward the door.
 
-We fell through it into moonlight. Moonlight, and the scent of sand and acacia
-blossoms on the breeze. We were in a garden. We were above.
+We fall through it into moonlight and the scent of sand and acacia blossoms on
+the breeze.  We are in a garden.  We are under the sky.  I have escaped.  Name
+of all names, I have escaped.
 
-A full squad of guardsmen stood guard there, a middle-aged woman who smelled of
-magic in their midst. They brought their weapons to the ready as the young man
-fell to his knees and dropped the Karabandi on the stones. As the door faded
-away behind us the magician said, "Wait!  There's something with them."
+A squad of guardsmen stand there with a middle-aged woman who smells of magic in
+their midst.  They bring their weapons to the ready as the young man falls to
+his knees and drops the Karabandi on the stones.  As the door fades away behind
+us the magician says, "Wait!  There's something with them."
 
-"Cup," the Karabandi gasped. He held up my skull. "His name was Cup."
+"Cup," the Karabandi gasps. He holds up my skull. "His name was Cup."
 
-The magician took it from him, closed her eyes, and drew a deep breath.  "No it
-wasn't," she said after a moment. "But never mind. He's gone now."
+The magician takes it from him and closes her eyes.  A light touch brushes
+across me.  "No it wasn't," she says after a moment. "But never mind. He's gone
+now."
 
-I wasn't, not quite, but I felt myself unraveling as she spoke. They would say
-words over my skull and then burn it, but that would be a formality.
+I'm not, not quite, but I feel myself unraveling even as she speaks. They will
+say words over my skull and then burn it, but that will be a formality.  No one
+knows my name.  I will be born again.
 
-One last thing. One last gift, before I was free of giving and getting.  I
-nudged the boy softly. He glanced up at the sky and saw a single cloud on its
-way north to Ensworth. He had slain the monster and seen the girl free from her
-prison. This story was as over as any ever would be.
+One last thing. One last gift, before I am free of giving and getting.  I nudge
+the boy softly. He glances up at the sky and sees a single cloud on its way
+north to Gandan.  "What...?" he says as his oath fades, fades, and is gone.  He
+has slain the monster and seen the girl free from her prison. This story is as
+over as any ever can be.
 
------
-
-## A Conversation in a Palace
+## Later: A Conversation in a Palace
 
 Ishad hobbled away between two guardsmen to get his ankle splinted. The magician
 put her hand on my chest. "Better?" she asked.
 
-I nodded. The itch was gone. I was bone-tired and sopping wet, but I felt like
-dancing.
+I nodded. The itch was gone. That felt like something I ought to celebrate, but
+I was bone-tired and sopping wet, and---saints, what the hell was I going to
+tell Sehdie?  And what in the doubled hells with hot sauce was I going to say to
+Tessor?
 
-I raised my palms. "Yes, thank you. My name is---"
+I raised my palms. "Yes, thank you. I am honored that---"
 
-She took her hand from my chest. "I don't weeping care what your name is, boy,
-that's someone else's job. He's safe." The last was directed to the guardsman
-standing at my elbow. He saluted.
+She took her hand from my chest. "Save your honor, boy, that's someone else's
+job. He's safe." The last was directed to the guardsman standing at my elbow. He
+nodded.
 
 "What's going to---" I started, but she was already walking away.
 
@@ -8182,14 +8187,14 @@ come with me, because the captain wants to talk to you."
 They gave me bread and cheese, and a clean bucket for the necessaries, and
 locked the door behind them.
 
-At least I could see the sky. It was perfect, as if someone had just applied a
-fresh coat of lacquer to it. I ate what they'd left me, used the bucket, and
-then lay there with my arms pillowing my head and tried to think of what I'd say
-to Sehdie.
+At least I could see the sky. It was a perfect dawn blue, as if someone had just
+applied a fresh coat of lacquer to it. I ate what they'd left me, used the
+bucket, and then lay there with my arms pillowing my head and rehearsed a
+hundred awful opening lines.
 
 The sky was still the same perfect blue when I woke up. "Mmph?"
 
-The guard nudged me again with the toe of his boot. "They'll see you now."
+The guard nudged me again with his boot. "They'll see you now."
 
 The walls were tiled in elaborate blue and white patterns. The ceilings were
 whitewashed, just like those in every house in Coriandel. We passed clerks,
@@ -8201,37 +8206,36 @@ We rounded a corner into magnificence. The walls here weren't tiled.  They were
 covered in dark wooden panels inlaid with malachite and mother-of-pearl. Brass
 dayglass lanterns as yellow as the sun shone in place of windows.
 
-Oh, and there was a throne. I knew it was a throne, because it looked just like
+Oh, and there was a throne. I knew it was a throne because it looked just like
 one. And the man sitting in it, ignoring the coffee steaming on the little table
 at his elbow while he cracked pistachios? He looked just like the emir.
 
-I knew this story. I'd heard Ishad tell it a thousand times. Ten strides from
-the throne I dropped to my knees, bowed my head, and raised my arms, wrists
-crossed.
+I knew this story. I'd heard Ishad tell it a hundred times. Ten strides from the
+throne I dropped to my knees, bowed my head, and raised my arms, wrists crossed.
 
-The guard to my left cleared his throat. "You'll, um, you'll be wanting to stand
-up, lad. We don't do it that way any more."
+The guard to my left cleared his throat. "You'll, um, you'll be wantin' t' stand
+up, lad. We don' do it that way t' more."
 
 I looked up. The emir tossed a nut into his mouth and dropped the shell on the
-floor beside his throne and smiled coldly. "Yes, sir." I rose as smoothly as I
-could, my cheeks burning.
+floor beside his throne. "Yes, sir." I rose as smoothly as I could, my cheeks
+burning.
 
 "So." The emir picked up another pistachio. *Crack.* *Toss.* *Click-click* as
 the shell bounced across the floor. "You made it."
 
 "Yes, Your Grace." I kept my head down.
 
-"And your companion made it as well, I hear." He cocked his head to one side a
-moment. "That's his second time, isn't it?"
+"And your companion got through as well, I hear." He cocked his head to one side
+a moment.  "That's his second time, isn't it?"
 
 Well, technically, he didn't actually go into the Tombs themselves this time. He
-found another way down to the pool and was there waiting for me when I came
-out. But all I said was, "Yes, Your Grace."
+found another way down to the pool and was there waiting for me when I came out.
+But all I said was, "Yes, Your Grace."
 
 "Hm. Brave man. Are you a brave man too?"
 
-Twelve hours earlier I would have said yes, but that was before the
-bridge. "Depends, Your Grace."
+Twelve hours earlier I would have said yes, but that was before the bridge.
+"Depends, Your Grace."
 
 "Oh?" He steepled his fingers under his chin, frowning as if trying to place my
 face. "On what?"
@@ -8242,25 +8246,26 @@ same thing as being brave."
 He picked up another pistachio. "Not it isn't," he said softly, his mind
 obviously elsewhere.
 
-Soft-soled shoes scuffed the stones behind me. The emir straightened up.
-"Well?" he barked. "Do you have her?"
+Soft-soled shoes scuffed the stones behind me. The emir straightened up.  "Well?
+Do you have the Bantangui woman?"
 
-"No, Grace." I didn't turn to look at the speaker. "The madwoman's houseman went
-to her seeking help for his mistress. She and her maid chose poison."
+"No, Your Grace." I didn't turn to look at the speaker. "The madwoman's houseman
+went to her seeking help for his mistress. She and her maid chose poison."
 
 "Of course they did." The prince sighed. "Do what you need to, then prepare
 their bodies with all honors. We'll make a gift of them for the ambassador."
 
-"Grace." Soft steps receded. What had that all been about? Nothing to do with
-me, whatever it was. Madwomen and poison---that was someone else's story.
+"Your Grace." Soft steps receded. What had that all been about? Nothing to do
+with me, whatever it was. Madwomen and Bantangui taking poison---that was
+someone else's story.
 
-The emir sat brooding on his throne. One tiddle tum tum, two tiddle tum
-tum... At twenty, I cleared my throat. The guard on my right elbowed me, but the
-emir looked up. "What? Oh, yes. You're free to go." He waved a hand. "Royal
-leniency, lucky this time, have your eyes if you ever do it again, et
-cetera. You'll want to check in on your teacher, I imagine."
+The emir sat brooding on his throne. One tiddle tum tum, two tiddle tum tum...
+At twenty, I cleared my throat. The guard on my right elbowed me, but the emir
+looked up. "What? Oh, yes. You're free to go." He waved a hand. "Royal leniency,
+lucky this time, have your eyes if you ever do it again, et cetera. You'll want
+to check in on your teacher, I imagine."
 
-"Yes, highness. Thank you."
+"Yes, Your Grace. Thank you."
 
 He waved his hand again. Taking that as their cue, the guards saluted.  Taking
 that as mine, I bowed my head and turned to go.
@@ -8269,7 +8274,7 @@ that as mine, I bowed my head and turned to go.
 
 I paused. The emir held up a small bag. "Do you still like pistachios?"
 
-Still? I shrugged. "Yes, m'lord, I suppose."
+Still? I shrugged. "Yes, Your Grace.  Loved 'em as a kid."
 
 "Good." He knotted the bag and tossed it to me. "I find I have more than I can
 eat today, and it would be a shame to let them go to the hogs."
@@ -8277,10 +8282,12 @@ eat today, and it would be a shame to let them go to the hogs."
 I stared at him for a moment. Where had I heard that before? "Thank you, Your
 Grace."
 
-I ducked my head and followed the guards out of the audience chamber. It must
-have been in one of Ishad's stories, or in one of the books Kerrem read to me
-when we were young. Whatever it was, it didn't matter.
+I bowed and followed the guards out of the audience chamber. It must have been
+in one of Ishad's stories, or in one of the books Kerrem read to me when we were
+young. Whatever---it too was probably someone else's story.
 
-As we passed an open window, I tossed the bag into the air and caught it. The
-knot the emir had tied came undone. Dozens of tiny nuts fell to the floor,
-bouncing away in every direction, each to its own story.
+The guards showed me to the courtyard.  I took a deep breath.  I'd made it.  I
+really had.  Grinning, I tossed the bag into the air and caught it.  The knot
+the emir had tied came undone.  Dozens of tiny nuts fell to the floor, bouncing
+away in every direction.  A trio of children walking past on their way to class
+or to chores scampered after them, each one their own story.

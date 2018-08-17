@@ -7534,44 +7534,49 @@ then figure out how to tell my mother and Ishad, and then---I push the thought
 of Tessor away.  No point thinking about any of that now.  I have to go swimming
 first.
 
------
+## Now: Patience Is Rewarded
 
-## Patience Is Rewarded
+The man *finally* reaches the bottom of the stairs. He rests for a few moments,
+studying the bones I've left beside the pool---it really only takes a few little
+touches to make somewhere feel like home---but does not come close enough to the
+water for me to reach him.  Patience, patience...
 
-The man finally reached the bottom of the stairs. He rested for a few moments,
-studying the bones that lay beside the pool, but did not come close enough to
-the water for me to reach him easily. Patience, patience... The cold chill of
-the echo hung about him briefly, then vanished. What could it want?
+The cold chill of the dead man's echo hangs about him briefly, then vanishes.
+It wants to leave.  They all want to leave.  It's a minor irritation.  I put it
+out of my mind.
 
-A school of tiny transparent crayfish flashed past me. Something had disturbed
-the water upstream from my pool. *Splash.* Someone was in the water. And there
-was blood---not human. He was bringing a trophy with him. I willed my limbs to
-be still. This would be *much* tastier than the acrid little scavenger...
+A school of tiny transparent crayfish flash past me. Something has disturbed the
+water upstream from my pool.  *Splash.* Someone is in the water. And there is
+blood---well, ichor, really, the dark green kind that leaves a musty aftertaste.
+He is bringing a trophy with him. I will my limbs to be still. This will be
+*much* tastier than that acrid little scavenger...
 
-The chill of the echo returned as suddenly as it had left. The man who had come
-down the stairs caught his breath. He asked a question of the empty air. I felt
-the echo's will tighten into something almost palpable. It answered. I hadn't
-known it could. It never had before.
+The chill of the echo returns as suddenly as it left. The man who came down the
+stairs asks a question of the empty air. I feel the echo's will tighten into
+something almost palpable. It answers.  I didn't know it could. It never has
+before.
 
-The injured man spoke again, arguing incredulously. The echo relaxed itself into
-nothing. What was it doing?
+The injured man speaks again, arguing. The echo relaxes itself into nothing.
+What is it doing?  I'm *hungry*.
 
-Weight moved in the water. The man who had gone into the Tombs popped out of the
-tunnel and kicked for the surface. He was strong, this one, lean meat on bones
-that would crunch and splinter. I gathered my limbs together.
+Weight moves in the water. The man who went into the Tombs pops out of the
+tunnel and kicks for the surface. He is strong, this one, lean meat on bones
+that will crunch and splinter, but he thrashes around in the water like a
+newborn. I gather my limbs together.
 
-His head broke the surface. I surged forward, jaws open wide, and screamed as
-something stabbed me.
+His head breaks the surface. I surge forward, jaws open wide, and scream as
+something stabs me.
 
-Something *stabbed* me. Something stabbed *me*! A spear---the man who had come
-down the stairs had thrown himself into the pool and driven a spear---a
-*spear*---into *me*!
+Something *stabs* me. Something stabs *me*! A spear---the man who came down the
+stairs has thrown himself into the water and driven a spear---a *spear*---into
+*me*!
 
-Both men were swimming for the edge of the pool. I would not let them get away!
-The older one was already out of the water. As he reached for the younger one, I
-stretched out and wrapped a tentacle around his booted foot and---
+Both men are swimming for the edge of the pool. I will not let them get away!
+The younger one is already out of the water. As he reaches for the older, I
+stretch and wrap a tentacle around his booted foot and---
 
-My love? Is it really you?
+And freeze with shock.  No, it can't be.  It *can't* be, not after all these
+long dark patient centuries.  My love? Is it really *you*?
 
 -----
 

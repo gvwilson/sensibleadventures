@@ -53,7 +53,7 @@ strides off the trail. The calf was standing near the edge, listening to
 whatever it is sand misers say to cows but worried enough about being that far
 from his mother that he wasn't taking that long last step. All I heard was
 whispers about fresh water and fresher women, so I threw a couple of rocks into
-the pit to break its concentration and threw a rope around the calf's nceck.
+the pit to break its concentration and threw a rope around the calf's neck.
 
 And wouldn't you know, the damn stupid thing went and kicked me in the face.  I
 was an idiot for going 'round the back of him, but still, it wasn't much of a
@@ -304,9 +304,9 @@ of things. I do not trust them, especially not the big ones.  I find them to be
 shifty.
 
 I was born wild, up along the high end of the Sprained River valley.  I have
-been away more years than I was there, but were you to magic me back blindfolde,
-I would know where I was in a heartbeat from the particular smell of its grass
-and the sound of frogs in the rushes.
+been away more years than I was there, but were you to magic me back
+blindfolded, I would know where I was in a heartbeat from the particular smell
+of its grass and the sound of frogs in the rushes.
 
 I was eight months old when Finger Paper Rolling and her cousins snuck up on my
 herd in the middle of the night with bee burrs and hobbles.  They split half a
@@ -510,7 +510,7 @@ never wanted me to do that. But I did bow my head until he said, "Rise, friend."
 
 I heard a new weight in his voice. Some people say the royal collar makes the
 hair of its wearer go white in an instant, but that is a lie. The changes are
-all inside. The Oro who did a handstand in Gandan as I gallopped through the
+all inside. The Oro who did a handstand in Gandan as I galloped through the
 streets to impress a girl he had not yet even spoken to was gone.
 
 "My life to serve you, my emir," I said.
@@ -524,7 +524,7 @@ Exile. The new emir was setting aside the disreputable companion of the old
 emir-in-waiting. "Of course, Your Grace," I said.
 
 The corner of his mouth twitched. "You would serve me also by remembering to my
-royal cousin in Ossiswe that the first colt out of each mare is mine, as are any
+royal cousin in Ossisswe that the first colt out of each mare is mine, as are any
 fortunate enough to be born Gifted. It would please me if you would return with
 them when they are of age."
 
@@ -2154,7 +2154,7 @@ just dry tendon over naked bone.
 
 And it was smart---not Gifted smart, but smart enough to drag its prey back to
 the Tombs instead of picking them apart where it caught them.  The first few
-times goats disappeared, people probably assumed it was ust an unlicensed thief
+times goats disappeared, people probably assumed it was just an unlicensed thief
 or someone hungry enough to risk the wrath of the guild.
 
 Then it took an orphaned beggar with a bent leg. She screamed, but the people
@@ -3496,7 +3496,7 @@ I take a nap?" Some coffee would help, though. There were probably students
 waiting at my gate, wondering where the old man was. And I had a pair of boots
 to steal.
 
-## Lady Kembe Has a Sleepless Night
+## Recently: Lady Kembe Has a Sleepless Night
 
 Ah, Swallow. I knew he would come back one day. The quiet life fit him no better
 than a turban a tiger. But truly, had it been so long? I must suppose. When you
@@ -5635,7 +5635,7 @@ some back-and-brace work.
 I shrug my pack off my right shoulder so that it hangs from the crook of my left
 elbow. It's not heavy, but it does awkward things to my balance. A deep breath
 for courage, then I lean back to put my shoulders against the wall and start
-shuffling along the ledge.  My glooping friend might not be disappionted after
+shuffling along the ledge.  My glooping friend might not be disappointed after
 all.
 
 By the time the ledge narrows to nothing, the soles of my old boots are pressed
@@ -5769,7 +5769,7 @@ Mount, and it's as out of place down here as I am.
 I glance over the side. The drop to the next flight of steps won't kill me, but
 I'll break my ankle if I land wrong.  I bring my sword up to guard and start
 down again slowly.  No more daydreaming, old man.  Eyes front, and ears wide
-open to listeni for anything or anyone trying to hide in the faint splash of
+open to listen for anything or anyone trying to hide in the faint splash of
 water hitting water below.
 
 You'd think at my age I would have learned something about traps. Twenty steps
@@ -6228,8 +6228,8 @@ a piece of string.
 For all its twisting and squeaking, the rat can't reach the cord to gnaw its way
 free.  I tie another rat to the tail of a horse twenty strides away, and a third
 around the handle of a scroll being eternally read by a woman who seems slightly
-amused by whatis in front of her. Then I swing myself up onto an empty plinth to
-wait.
+amused by what is in front of her. Then I swing myself up onto an empty plinth
+to wait.
 
 ## Recently: Sehdie Holding Hands
 
@@ -7084,7 +7084,7 @@ somehow to be wearing them again.
 
 I ran into a couple of other ghosts in Lady Kembe's service. I heard Edward the
 Dog howl in Apple Bridge when the old king died, and I think I saw Terremaktikak
-in a tavern in Normous Berth, still waiting for Arshad to return from Sullair.
+in a tavern in Anyalcze, still waiting for Arshad to return from Sullair.
 Magicians have tried to send both of them on, but some ghosts just aren't for
 sending.
 
@@ -7301,7 +7301,7 @@ made it was), a comb, some jewelry, and the rag dog I had slept with every night
 until I was ten. That was mine---not even my aunt had dared take it away from
 me.
 
-So here I sit, waiting. And wondering what life will be like with Kerren, and
+So here I sit, waiting. And wondering what life will be like with Kerrem, and
 how I will feel if Vurt dies in the Tombs.  And every once in a while I wipe my
 cheeks on my sleeve, and then I wait some more, because that's what princesses
 do in other people's stories, isn't it?  We wait.
@@ -7914,7 +7914,7 @@ stay long enough to train two companies of my own troops. Perhaps next year, or
 the year after.
 
 The third summary is from the Ministry of Rumors. I sit back with a thimble of
-cold coffee in my hand. A handful of the Ruudian mercenaries ccan be persuaded
+cold coffee in my hand. A handful of the Ruudian mercenaries can be persuaded
 to break their oaths and stay in Coriandel, if I want.  It's tempting, but
 no---I might want to hire the whole company back again some day, and their
 captain is unlikely to feel kindly toward someone who steals his troops.  Mm,
@@ -7926,9 +7926,10 @@ is as if a dozen different plays are being performed on the same stage at once.
 I turn the page over and spit on it. The minister's other report slowly takes
 shape. These are the rumors I care about most, the rumors about my own
 government.  Who is asking for larger bribes than custom allows?  Who is
-sabotaging their colleagues' work in order to make themself shine? Are my guard
-captains still trustworthy? The collar has to remind me every morning that yes,
-this is part of being a good ruler. Not a proud or pleasant part, but essential.
+sabotaging their colleagues' work in order to make themselves shine? Are my
+guard captains still trustworthy? The collar has to remind me every morning that
+yes, this is part of being a good ruler. Not a proud or pleasant part, but
+essential.
 
 Something catches my eye halfway down the page. The sister-by-marriage of one of
 my senior clerks has been taken into custody.  Her niece has run off with a

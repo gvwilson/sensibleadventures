@@ -3926,7 +3926,7 @@ leave me alone!" I never did, of course. I was too well-mannered.
 Sometimes I imagined throwing stones at her. Not pebbles, but big solid ones the
 size of pears. I saw a stone that size hit a man in the head once in the market
 when I was little. He didn't get up afterward, but I was sure my aunt would. She
-would stand up and brush herself off and say, "Oh, darling, can't you *please*
+would stand up and brush herself off and say, "Oh, cherished, can't you *please*
 be a little more considerate?  Please? For your mother's sake, if not for mine?
 We'd want her to be proud of you, wouldn't we?"
 
@@ -6236,7 +6236,7 @@ wait.
 It was exciting. No, it was exhilarating. For the first time in my life I had
 something that was *mine*. I couldn't think about anything but him.
 
-My aunt grew very sharp with me. "Honestly, darling, it's as if you're not even
+My aunt grew very sharp with me. "Honestly, cherished, it's as if you're not even
 here when I'm speaking to you!"
 
 "I'm sorry," I said automatically, but I wasn't. How could I be? He was so
@@ -7222,27 +7222,25 @@ down, but still holding together.
 I spit onto the ground beside me.  Vurt's as much of a son as I'll ever
 have. He's coming out, or I'm staying down here with him.
 
------
-
-## Sehdie on a Cloud
+## Now: Sehdie on a Cloud
 
 "It's not Vurt," I said miserably. I was so ashamed. Kerrem and I knew how we
 felt about each other, but we had never told anyone else. We had never even
-hinted at it, the way Cathé hinted and hinted that she 'had thoughts' about
-someone until I gave in and asked her who it was. And Vurt was probably going to
-die for me, and there I was, telling Lady Kembe's horse no, thank you, I'd
-rather run away with someone else.
+hinted at it, the way Cathé hinted and hinted that she had thoughts about
+someone until I asked her who it was this time.  Vurt was probably going to die
+for me, and there I was, telling Lady Kembe's horse no, thank you, I'd rather
+run away with someone else.
 
 If he had been my father, his eyebrows would have come together in the middle of
-his forehead. If he had been my aunt, he would have smiled that smile and
-oh-so-patiently explained to me how it just wouldn't be appropriate. But he was
-a horse, so he showed his feelings by doing something large, smelly, and
-unmentionable right there in the street.
+his forehead. If he had been my aunt, he would have smiled *that* smile and
+oh-so-patiently explained to me how it just wouldn't be appropriate, cherished,
+please don't be so awkward. But he was a horse, so he showed his feelings by
+doing something large, smelly, and unmentionable right there in the street.
 
-"I'm going to have to ask her about this," he said when I was done.
+"I'm going to have to ask her about this," he said when he was done.
 
-"Please do," I replied, the soul of courtesy. "May I ask whether it will take
-long?" He looked at his Darpani companion, who shrugged eloquently.
+"Please do," I replied politely. "May I ask whether it will take long?" He
+looked at his Darpani companion, who shrugged.
 
 "Stay here," the horse said. They walked away.
 
@@ -7252,29 +7250,31 @@ exactly was a well-bred Coriandi lady discussing with a Gifted horse and his
 down-at-heels Darpani rider? I tried to think of a plausible lie, then of one
 that didn't simply sound mad.
 
-I was still thinking when the horse and the Darpani came back. "Yes," the horse
-told me without preamble. "Now how do we find him?"
+I was still trying to come up with something when the horse and the Darpani came
+back. "Yes," the horse told me without preamble. "Now who is he and where do we
+find him?"
 
 A day and a half later, I leaned on the upstairs railing (one last little act of
 rebellion---proper young ladies never lean on anything) and said goodbye to the
 only home I had ever known. It was a modest house compared to those on Palace
 Mount, but still too large for three.  A brass stand in the center of the front
 courtyard held a fist-sized chunk of dayglass. The sunlight it had trapped
-during the day slowly leaked into the night, coloring everything a warm
-yellow. The floor below was tiled with sand-colored bricks. The shutters on the
-windows at ground level were closed. A toadingale sang from its hiding place
-somewhere nearby. Wings rustled briefly overhead, a late swallow returning to
-its nest.
+during the day slowly leaked into the night, coloring everything a warm yellow.
+The floor below was tiled with sand-colored bricks. The shutters on the windows
+at ground level were closed. A toadingale sang from its hiding place somewhere
+nearby. Wings rustled briefly overhead, a late swallow returning to its nest.
 
 The dozen potted plants standing sentry over the scene had been my mother's, or
 so my father once told me. He rarely spoke of her.  Relatives told me sometimes
-that I looked like her, but not him.
+that I looked like her, but he still grieved.  I didn't understand that when I
+was little.  I thought she must have done something shameful, but all she did
+was die.
 
 My aunt came out onto the walkway a few strides away. She had been going through
-my things again, I was sure. I confronted her about it once, when I was
-fifteen. "And how proper is snooping?" I demanded tearfully, after being told I
-had to wear my hair in a style no one had seen in twenty years because that was
-what 'proper' young ladies did.
+my things again, I was sure. I confronted her about it once, when I was fifteen.
+"And how proper is snooping?" I demanded tearfully, after being told I had to
+wear my hair in a style no one had seen in twenty years because that was what
+"proper" young ladies did.
 
 Oh, my aunt put on a performance at that. She was only trying to do what was
 best. She was only trying to raise me the way my mother would have... would
@@ -7293,125 +7293,127 @@ would feel badly about abandoning my father to her. I was a little sad that I
 didn't.
 
 Years before, our previous housekeeper had given me a black double-stitched
-cotton satchel as a name day gift. "Your mother had one just like it," she
-said. "For odds and ends." It only took me a minute to stuff the things I wanted
-to keep into it. Two changes of underclothing, the second-plainest dress I had
-(I would travel in the plainest, and hope no one looked too closely at how well
-made it was), a comb, my jewelry, and the rag dog I had slept with every night
+cotton satchel as a name day gift. "Your mother had one just like it," she said.
+"For odds and ends." It only took me a minute to stuff the things I wanted to
+keep into it. Two changes of underclothing, the second-plainest dress I had (I
+would travel in the plainest, and hope no one looked too closely at how well
+made it was), a comb, some jewelry, and the rag dog I had slept with every night
 until I was ten. That was mine---not even my aunt had dared take it away from
 me.
 
-Then I sat. And waited. And wondered how I'd feel if Vurt died down in the
-Tombs. When I realized I was crying I wiped my cheeks on my sleeve.
+So here I sit, waiting. And wondering what life will be like with Kerren, and
+how I will feel if Vurt dies in the Tombs.  And every once in a while I wipe my
+cheeks on my sleeve, and then I wait some more, because that's what princesses
+do in other people's stories, isn't it?  We wait.
 
-Finally the palace drums boomed the tenth hour. I stood up, straightened my
-dress, and unlatched my shutters as quietly as I could. "Kerrem?" I said softly.
+Finally the palace drums boom the tenth hour. I stand up, straighten my dress,
+and unlatch my shutters as quietly as I could. "Kerrem?" I whisper loudly.
 
-"Here." The voice came from the alley below.
+"Here." The voice comes from the alley below.
 
 "I can't see you."
 
-A tiny light, more red than yellow, blinked into being. "Here," he said again.
+A tiny light, more red than yellow, blinked into being. "Here," he says again.
 
-I stuck my head out the window and looked down. A bamboo ladder stood against
-the wall. My heart sank.
+I stick my head out of the window and look down. A bamboo ladder stands against
+the wall. My heart sins.
 
-"How do I get down?" I asked.
+"How do I get down?" I ask.
 
-"The ladder," he said. "Don't worry, I'll steady it."
+"The ladder," he says. "Don't worry, I'll steady it."
 
 "Kerrem... I don't know how."
 
-There was a moment of silence. "What do you mean, you don't know how?"
+There's a moment of silence. "What do you mean, you don't know how?"
 
-"I mean I don't know how!" I hissed. "I've never climbed a ladder." I suddenly
-felt like crying again. I had never climbed a ladder. Or gone swimming. Or
-played catch. Or this, or that, or anything. I hadn't done *anything*.
+"I mean I don't know how!" I hiss. "I've never climbed a ladder." I suddenly
+feel like crying again. I have never climbed a ladder. Or gone swimming. Or
+played catch. Or this, or that, or anything. I haven't done *anything*.
 
-But Kerrem had. He talked me onto the ladder and down to the street, then held
-me until I stopped shaking. "Sh, sh," he whispered, over and over. "It's all
+But Kerrem has. He talks me onto the ladder and down to the street, then holds
+me until I stop shaking. "Sh, sh," he whispers, over and over. "It's all
 right. It's all right."
 
-I straightened up and sniffled. "No it isn't. But it will be."
+I straighten up and sniffle. "No it isn't. But it will be."
 
-We walked across the city hand in hand, me with my satchel over my shoulder,
-Kerrem with his pack on his back. I will remember that walk as long as I live,
-and pray sometimes that I may remember it afterward as well. Old men and women
-played backgammon in coffee houses. Servants hurried home late from one last
-errand. A Gifted camel argued with some guardsmen about whether he had to pay to
-drink from a communal trough.  Kerrem squeezed my hand as we went past the
-guards, whether because the scene amused or to tell me not to be afraid I do not
-know.
+We walk across the city hand in hand, me with my satchel over my shoulder,
+Kerrem with his pack on his back. I will remember that walk as long as I live.
+Old men and women play backgammon in coffee houses. Servants hurry home, late
+from one last errand. A Gifted camel argues with some guardsmen about whether he
+had to pay to drink from a communal trough.  Kerrem squeezes my hand as we go
+past the guards, whether because the scene amuses him or to tell me not to be
+afraid or just because he wants to squeeze my hand.
 
-We skirted the edge of Palace Mount on our way to the city's northern edge. A
-trio of clouds drifted lazily above us. The moon was a tarnished lozenge high
-above them. Cuyver claimed it had been unblemished silver before the Pilots
-destroyed themselves, although Pleiemente said that was a myth. Lady Kembe
-probably knew. I wondered if I could ask her some day. The leather tube tied to
-the side of Kerrem's pack might hold answers as well as adventure. I would just
-have to find out.
+We skirt the edge of Palace Mount on our way to the city's northern edge.  A
+trio of clouds drift lazily above us. The moon is a tarnished lozenge high above
+them.  Cuyver claims it was unblemished silver before the Pilots destroyed
+themselves, although Pleiemente says that was a myth. Lady Kembe probably knows.
+I wonder if I'll be able to ask her some day. The leather tube tied to the side
+of Kerrem's pack might hold answers as well as adventure. I---we will just have
+to find out.
 
-As we crossed the Bridge of Unmartyred Saints, Kerrem pointed to a three-story
-building overlooking the canal. "That's where I teach," he said. "My family's
-home is just behind it."
+As we cross the Bridge of Unmartyred Saints, Kerrem points to a three-story
+building next to the canal. "That's where I teach," he says. "My family's home
+is just behind it."
 
-The building looked worn, even in the gathering darkness. So did the ones on
-either side of it, and the ones on either side of them. So did the bridge we
-were standing on---the whitewash had come off half the bricks in the side walls,
-and the cattle droppings at our feet had obviously been there for more than a
-day or two.
+The building looks worn, even in the twilight. So do the ones on either side of
+it, and the ones on either side of them. So does the bridge we are standing
+on---the whitewash has come off half the bricks in the side walls, and the
+cattle droppings at our feet have been there for a while.
 
-Suddenly I heard shouting and laughter. Three children ran across the school's
-roof and leaped over the narrow alley to the next building. I gasped. My hand
-flew to my mouth.
+Suddenly I hear shouting and laughter. Three children run across the school's
+roof and leap over the narrow alley to the next building. I gasped. My hand
+flies to my mouth.
 
-Kerrem smiled reassuringly. "Hawk and hares. I used to play when I was their
+Kerrem smiles reassuringly. "Hawk and hares. I used to play when I was their
 age. Don't worry---it's an easy jump."
 
-"Will you miss it?" I asked, wondering, *How could they do that? How could they
+"Will you miss it?" I ask, wondering, *How could they do that? How could they
 just...jump?*
 
-Kerrem shrugged. "A little. You?"
+Kerrem shrugs. "Probably.  Sure.  I don't know.  You?"
 
-I shook my head firmly and took his hand again.
+I shake my head firmly and take his hand again.
 
-The cloudherds' enclosure was marked by a thorn fence. An ancient olive tree
-stood by the gate. On impulse, I set my lamp down at its base and bowed to
-it. "For Luck," I told Kerrem.
+The cloudherds' enclosure is marked by a thorn fence, more to keep strangers out
+than to keep clouds in.  An ancient olive tree stands next to the gate. On
+impulse, I set my lamp down at its base and bow to it. "For Luck," I tell
+Kerrem.
 
-Sweet and his rider were waiting for us. "M'lady," the Darpani said, raising his
+Sweet and his rider are waiting for us. "M'lady," the Darpani says, raising his
 palms to me and bowing his head.
 
-Sweet snorted. "Got it?" he asked Kerrem.
+Sweet snorts. "Got it?" he asks Kerrem.
 
-Kerrem jerked a thumb over his shoulder at the leather tube. "Right where you
-said it would be."
+Kerrem jerks a thumb at the leather tube tied to his pack. "Right where you said
+it would be."
 
-"'Course it was," the horse said sourly. "She's never wrong about the little
-stuff." He looked me up and down with his big brown eyes and snorted again.
+"'Course it was," the horse says sourly. "She's never wrong about the *little*
+stuff." He looks me up and down with his big brown eyes and snorts again.
 
-A cloudherd came to join us. He was taller than I had expected, raw-boned with
-wavy brown hair and a sharp nose. He closed his eyes, moving his lips
-silently. One of the clouds circling above us began to descend.
+A cloudherd comes to join us. He is taller than Kerrem or I, raw-boned with wavy
+brown hair and a sharp nose.  A sharp whistle, high-higher-low, and one of the
+clouds above us begins to descend.
 
-Kerrem squeezed my hand. I squeezed back. We were going to Ensworth. We were
-really going. On a cloud. Time enough later to decide if Lady Kembe's price had
-been too high. Time enough to find out if we wanted to be spies, or to learn how
-to slur my R's. We had time enough for everything now.
+Kerrem squeezes my hand again. I squeeze back. We are going to Gandan.  We are
+really going. On a *cloud*. Time enough later to decide if Lady Kembe's price
+was too high. Time enough to find out if we really want to be spies, or to learn
+how to slur my, my weeping R's. We have time enough for everything now.
 
-The cloud shrank as it descended, pulling itself into a dense clump. The air
-turned cool and damp as it settled into the trench in front of us.  The
-cloudherd propped a ladder against its side. "After you," he said to me.
+The cloud shrinks as it descends, pulling itself into a dense clump. The air
+cools and dampens as it settles into the trench in front of us.
 
-Kerrem glanced at me. I squeezed his hand. "It's all right," I said softly. "I
-know how now."
+The cloudherd props a ladder against its side. "After you," he says to me.
+
+Kerrem glances at me. I squeeze his hand. "It's all right," I tell him. "I know
+how now."
 
 The Bantangui believe that if you live a good life, you will be reborn to live
-it again. I hope they are right. I hope I get to relive the moment I climbed up
-that ladder onto that cloud over and over again. It was soft and springy beneath
-our feet, and slightly slippery to the touch. Kerrem came up behind me, and the
-cloudherd behind him. I nestled against Kerrem's side. Silently, we rose into
-the night.
+it again. I hope they are right. I hope I get to relive my climb up that ladder
+onto that cloud over and over again. It is soft and springy beneath our feet and
+slightly slippery to the touch, like silk. Kerrem comes up behind me, and the
+cloudherd behind him. I nestle against Kerrem's side. Silently, we rise into the
+night.
 
 -----
 
@@ -7594,7 +7596,7 @@ me. "We need a proper nursemaid for Sehdie," she said. "Someone experienced."
 created in the rear courtyard. It was spring. The candelilla was showing a few
 fresh slivers of green, and one tubby cactus had put out tiny orange
 flowers. "And I'm glad that husband of yours has finally come to his senses. It
-simply isn't fair, the way we've had to work since our little darling was
+simply isn't fair, the way we've had to work since our little cherished was
 born. Ah, and I know just who to ask to find someone. That Bantangui hostess I
 was telling you about, the new one, Shoe Shoe or something like that. I'm sure
 she would be able to find us someone."
@@ -7613,7 +7615,7 @@ saying?"
 "I mean we think it's time you spread your wings," she continued doggedly. "But
 you'll always be welcome here, any time you want to visit."
 
-"Awbé... Darling, surely you don't mean...?" I laughed uneasily.
+"Awbé... Cherished, surely you don't mean...?" I laughed uneasily.
 
 Her mouth set stubbornly. "We've decided, Eleñima. I've decided. There's a
 sharing house on Collar's Seat that would be perfect for you, and---"

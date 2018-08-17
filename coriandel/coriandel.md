@@ -7578,56 +7578,52 @@ stretch and wrap a tentacle around his booted foot and---
 And freeze with shock.  No, it can't be.  It *can't* be, not after all these
 long dark patient centuries.  My love? Is it really *you*?
 
------
-
-## Boots No More
+## Now: Boots No More
 
 What? Who? Who is that? Who are we? No, who am *I*, I I I me me me I am me I am
 *me* I remember now I am not a pair of boots that is just a shape a form a
-container I am *me*.
+container I am *me* and I am home and---oh, my love, is that you?  After so
+long, is that you?  It is!  It *is*!  I am *home*.
 
-Oh, my love, I am *home*.
-
------
-
-## Eleñima Is Disappointed
+## Now: Eleñima Is Disappointed
 
 Sehdie was only two when Awbé left me. It was one blow too many. First that
 rogue Ishad, with his smoldering looks and sweet words to snare an innocent
 girl's heart, just so he could laugh about it afterward. Then our parents let
-her marry that dreary man and sent me with her as if I mattered no more than a
+her marry that dreary man and sent me with her like a, like a *servant* or a
 fine carpet.
 
-And then---oh, it hurts to say it, even after all these years. Awbé betrayed
-me. "We need a proper nursemaid for Sehdie," she said. "Someone experienced."
+And then---oh, it hurts even to think it, even after all these years. Awbé
+betrayed me. "We need a proper nursemaid for Sehdie," she said. "Someone
+experienced."
 
-"Oh, I agree," I replied. We were sitting in the tiny potted garden she had
-created in the rear courtyard. It was spring. The candelilla was showing a few
-fresh slivers of green, and one tubby cactus had put out tiny orange
-flowers. "And I'm glad that husband of yours has finally come to his senses. It
-simply isn't fair, the way we've had to work since our little cherished was
-born. Ah, and I know just who to ask to find someone. That Bantangui hostess I
-was telling you about, the new one, Shoe Shoe or something like that. I'm sure
-she would be able to find us someone."
+"Oh, I agree," I replied. It was spring, and we were sitting in the tiny potted
+garden she had created in the rear courtyard. The candelilla was showing a few
+fresh slivers of green, and one tubby cactus had put out tiny orange flowers.
+"And I'm glad that husband of yours has finally come to his senses. It simply
+isn't fair, the way we've had to work since our little cherished was born. Ah,
+and I know just who to ask to find someone. That Bantangui hostess I was telling
+you about, the new one, Shoe Shoe or something like that. I'm sure she would be
+able to find us someone."
 
 "Actually..." Awbé twisted her sleeves with her hands awkwardly. She had done it
 ever since she was a girl. Try as I would, I hadn't been able to break her of
 the habit. I reached out to smack her wrist playfully, but she pulled away.
 
-"Actually," she continued doggedly, "I think it would be best if you left that
-up to me. I---Eleñima, we spoke about it last night. We don't want to stand in
-the way of you making a life for yourself any longer."
+"Actually," she continued doggedly, "We spoke about it last night, and we think
+it would be best if you left that up to me.  If you... If you left.  We don't
+want to stand in the way of you making a life for yourself any longer."
 
-At first I didn't understand. "Stand in the way of... Awbé, what are you
-saying?"
+At first I didn't understand.  We?  Did she mean she and her husband?
+And---leave? "Stand in the way of... Awbé, what are you saying?"
 
-"I mean we think it's time you spread your wings," she continued doggedly. "But
+She took a deep breath.  "I mean we think it's time you spread your wings. But
 you'll always be welcome here, any time you want to visit."
 
 "Awbé... Cherished, surely you don't mean...?" I laughed uneasily.
 
-Her mouth set stubbornly. "We've decided, Eleñima. I've decided. There's a
-sharing house on Collar's Seat that would be perfect for you, and---"
+Her mouth set stubbornly. "We've decided, Eleñima. *I've* decided. There's a
+sharing house next to the Collar's Rest that would be perfect for you, and---"
 
 "Stop!" I clapped my hands over my ears. "Stop stop stop stop stop!" I thought I
 was going to be sick. Awbé was still talking, but I couldn't hear her. I
@@ -7637,184 +7633,183 @@ hold a knife properly at the dinner table.  But my own sister... I leaped out of
 my chair and ran weeping to my room.
 
 Well. There isn't much else to say. That afternoon, Awbé fell down the stairs in
-the rear courtyard. She had been watering some of her plants, and everyone
-eventually agreed that she must have reached out too far and slipped on a damp
-step. Her husband was completely distraught, and it took *ages* for Sehdie to
-stop crying. I did everything I could to comfort her, of course.
+the rear courtyard.  She fell.  She *fell*.  She had been watering some of her
+plants, and everyone eventually agreed that she must have reached out too far
+and slipped on a damp step. Her husband was completely distraught, and it took
+*ages* for Sehdie to stop crying.
 
-Honestly, I would have gone mad if it weren't for Shau Sheu. It made so much
-sense once she explained it to me. Fate may have handed me misshapen dice, but
-that didn't mean I couldn't still roll dragon's eyes.
+I did everything I could to comfort her, of course, but honestly, I would have
+gone mad if it weren't for Shau Sheu. Everything made so much sense once she
+explained it to me.  If I molded Sehdie, if she became me, then I could become
+her.  Shau Sheu's ancient magic could set everything right.  Fate may have
+handed me misshapen dice, but that didn't mean I couldn't roll dragon's eyes.
 
-"I don't gamble," I told her, rather primly I'm afraid.
+"I don't gamble," I told her rather primly.
 
-"It's just a saying," she said soothingly. "Like, oh, I don't know, like the
-Enswer saying, if life gives you sour apples, make cider."
+"It's just a turn of phrase," she said soothingly. "Like, oh, I don't know, like
+the Gandan saying, if life gives you sour apples, make cider."
 
-I sniffed at that one too, but forbore comment. We were in her rear courtyard,
-just the two of us, with her serving woman refilling our coffee and setting out
-tiny slivers of sugared apricot. "Do you really think it could work?" I asked
+I sniffed at that one too, but forbore comment. We were on her roof, just the
+two of us, with her serving woman refilling our coffee and setting out tiny
+slivers of sugared apricot. "Do you really think it will work?" I asked
 hesitantly.
 
 "Oh, definitely," she said warmly. She was a very warm woman. I knew that from
 the moment I met her. One hears such stories about the Bantangui, but she was no
-bloodthirsty pirate. She had more grace and refinement than most of the ladies
-who attended her little gatherings.  "It will take years, though. You have to be
-prepared for that."
+mere merchant or some crass pirate.  She had more grace and refinement than most
+of the ladies who attended her little gatherings.  "It will take years, though.
+You have to be prepared for that."
 
 I sighed. "What are a few years?" I asked rhetorically. And then I giggled like
 a little girl. It was rather funny---after all, the whole point was "a few
-years", wasn't it? A few years that I could live over, live *differently*. And
-if that meant fewer for Sehdie, well, she was going to leave me some day...
+years", wasn't it? A few years that I could live over, live *differently*. And,
+well, Sehdie was going to leave me some day anyway, wasn't she?  Everyone did.
 
 I did what Shau Sheu told me to. I dressed Sehdie properly, the way I had been
 dressed. I sent her to the strictest elocutionist in Coriandel, and never let a
-day go by without reminding her how important good posture was. I allowed her a
-few friends, but never more than two or three, and I was careful to steer her
-toward ones who wouldn't be...difficult. That plump moaner Cathé, for
+slumped shoulder pass without reminding her how important good posture was. I
+allowed her a few friends, but never more than two or three, and I was careful
+to steer her toward ones who wouldn't be...difficult. That moaner Cathé, for
 example---she was about as rebellious as a melon rind.
 
 And so we settled into a routine, Shau Sheu and I. She became my refuge, the one
 place in a cold world where I knew I could find warmth. The scraps of paper I
 borrowed from my brother-by-marriage for her hardly seemed adequate recompense,
-but when I asked about it, she just winked.  "Oh, they mean a lot to
-my...gentleman friends," she said slyly, tapping one of them with a perfectly
+but when I asked about it, she just winked.  "Oh, they mean a lot to my
+gentleman friends," she said slyly, tapping one of them with a perfectly
 manicured fingernail. "They're alchemists of a sort, you know. They turn ink and
 paper into silver." I laughed at her joke, secretly envious of her "gentleman
 friends". It would be my turn one day, once our slow spell took effect.
 
 When that boy Vurt came on stage I thought, "At last!" I had grown so used to
 waiting that I had almost forgotten what I was waiting for. Shau Sheu seemed
-doubtful, but I knew---oh, I knew, I knew, I knew. He was one of Ishad's
-students, wasn't he? A duelist, no doubt just as callous as his master. What
+doubtful, but I knew---oh, I knew. He was one of Ishad's students, wasn't he? A
+duelist, no doubt just as callous with young women's hearts as his master. What
 could it mean except that my time had finally come?
 
 And then it all fell to pieces. I woke up and Sehdie was gone. She was gone. She
 had left me. After all I had---
 
-"She must have gone through the window," Rojyar said, pointing at the open
+"She must have gone through the window," Rojyar says, pointing at the open
 shutters.
 
-"I can see that!" I snapped. I felt unsteady. Tiny little spots danced in front
-of my eyes. Her room was as tidy as ever, but she was gone.  Along with her
-jewelry, I suddenly noticed. The inlaid ebony box that our mother had given Awbé
-wasn't by her bed. For just one moment I felt a pang of hope. Perhaps she had
+"I can see that!" I snaps. I feel unsteady. Tiny little spots dance in front of
+my eyes. Her room is as tidy as ever, but she is gone.  Along with her jewelry,
+I suddenly notice. The inlaid ebony box that our mother gave Awbé instead of me
+isn't by her bed. For just one moment I feel a pang of hope. Perhaps she has
 been abducted. A robbery gone wrong, or---
 
-"There's a note," Rojyar said. He knelt with a grunt and tugged it out from
-under my sandal. "It's addressed to the honored sir."
+"There's a note," Rojyar says. He kneels with a grunt and tugs it out from under
+my sandal. "It's addressed to the honored sir."
 
-"Give me that!" I snatched it from his hands and broke the dab of wax that held
+"Give me that!" I snatch it from his hands and break the dab of wax that holds
 it closed.
 
-"Dear auntie," it said, "You never could resist reading other people's mail,
-could you?" Her signature was just a scribble, and I knew she had been messy
-deliberately just to spite me.
+"Dear auntie," it says, "You never could resist reading other people's mail,
+could you?" Her signature is just a scribble, deliberately messy just to spite
+me.
 
-I stormed out of her room, blinded by tears. How could she!? How *dared* she!? I
-had been waiting so *long*! With a cry, I picked up a candelilla at the top of
-the stairs and threw it into the courtyard. Its pot shattered, scattering dry
-brown soil. There were more on the stepped sidewall that followed the stairs
-down to the courtyard. *Crack!* *Crash!* Each one made a different sound. I
-heard Rojyar behind me, begging me to stop, please, honored mistress, but I
-ignored him. Idiot.  Didn't he understand?
+I storm out of her room, blinded by tears. How could she!? How *dared* she!? I
+have been waiting so *long*! With a cry, I pick up a candelilla at the top of
+the stairs and throw it into the courtyard.  Its pot shatters, scattering dry
+brown soil. There are more on the stepped sidewall that follows the stairs down
+to the courtyard. *Crack!* *Crash!* Each one makes a different sound. I hear
+Rojyar behind me, begging me to stop, please, honored mistress, but I ignore
+him. Idiot.  Doesn't he understand?
 
-"Don't you understand?" I shouted, tearing delicate lavender blossoms from a
-verbena. "She's gone! It's all been for nothing!" I had reached the bottom of
-the stairs, but I wasn't finished. Oh no, not at all. I grabbed a branch of her
-favorite dwarf pine and pulled it over, heedless of the sharp needles pricking
-my skin. And those palms---I had never liked those palms. They dripped sticky
-sap on the flagstones every fall, and the housekeeper *never* cleaned it
-properly.
+"Don't you understand?" I shout, tearing delicate lavender blossoms from a
+verbena. "It's all been for nothing!" I have reached the bottom of the stairs,
+but I am not finished. Oh no, not at all. I grab a branch of her favorite dwarf
+pine and pulled it over, heedless of the sharp needles pricking my skin.  And
+those palms---I have never liked those palms. They drip sticky sap on the
+flagstones every fall, and the housekeeper *never* cleans it properly.
 
-Strong hands took hold of me. "Honored mistress, please, stop. Stop, stop,
-please." I saw a flash of yellow headscarf as the housekeeper snuck a glance
+Strong hands take hold of me. "Honored mistress, please, stop. Stop, stop,
+please." I see a flash of yellow headscarf as the housekeeper sneaks a glance
 around the corner of the kitchen window.
 
-"Let go of me! Let go!" I shrieked, but Rojyar wouldn't, not until I stopped
-struggling. When he finally released me I spun around and slapped him across the
-face.
+"Let go of me! Let go!" I shriek, but Rojyar won't, not until I stop struggling.
+When he finally releases me I spin around and slap him across the face.
 
-"How dare you?" I seethed. "How dare you lay hands on me? You are dismissed, do
+"How dare you?" I seethe. "How dare you lay hands on me? You are dismissed, do
 you hear? You are dismissed immediately. Go! Right now!  You can send someone
 for your things later!"
 
 "But mistress---"
 
-"Go!" I shouted. "Get out! Get out! And take her with you!" I pointed at the
+"Go!" I shout. "Get out! Get out! And take her with you!" I point at the
 housekeeper.
 
-A few moments later I was finally alone. Oh, that's not true. I had *always*
-been alone. What had happened? What had gone wrong? Everything had been going so
-well.
+A few moments later I am finally alone. Oh, that's not true. I have *always*
+been alone. What happened? What went wrong? Everything was going so *well*.
 
-Shau Sheu would know. She would be able to tell me what to do. I struggled to my
-feet (I didn't remember sitting down) and looked at the ruin around me. Broken
-pots, soil everywhere... The housekeeper would have her hands full, I
-thought. Then I giggled. I didn't have a housekeeper any more. That was funny.
+Shau Sheu will know. She will be able to tell me what to do. I struggle to my
+feet (I don't remember sitting down) and look at the ruin around me. Broken
+pots, soil everywhere... *The housekeeper would have her hands full,* I think.
+Then I giggle. I don't have a housekeeper any more.
 
-Someone thumped the drum by the front gate. I straightened my morning robe and
-hurried to the gate. It was Rojyar, with three city guards wearing
-blue-and-black sashes. "Praise Chance," I said. I unlatched the gate. "Did he
-tell you? My niece, Sehdie. She---last night. Or this morning, early. She---I
-thought there might have been a burglary, but she left a note, and---"
+The drum at the front gate thuds for my attention.  I straighten my morning robe
+and go to see who it is.  Rojyar is there with three city guards wearing
+blue-and-black sashes. "Praise Chance," I say. I unlatch the gate. "Did he tell
+you? My niece, Sehdie. She---last night. Or this morning, early. She---I thought
+there might have been a burglary, but she left a note, and---"
 
-"Honored mistress. Honored mistress!" The guardsman in front of the door patted
-the air to quiet me. "Please. This man tells us there has been a disturbance in
-the house. May we...?" He gestured toward the courtyard.
+"Honored mistress. Honored mistress!" The guard in front of the door pats the
+air with her hands to quiet me. "Please. This man tells us there has been a
+disturbance in the house. May we...?" She gestures toward the courtyard.
 
-I suddenly felt embarrassed. "Oh, I would rather you didn't," I said somewhat
-breathlessly. I suppressed a giggle. "It is rather a mess. The housekeeper, you
-know, she..." I trailed off. I just needed to lie down for a few
-moments. Everything would be all right then.
+I suddenly feel embarrassed. "Oh, I would rather you didn't," I say somewhat
+breathlessly. I suppress a giggle. "It is rather a mess. The housekeeper, you
+know, she..." I trail off. I just needed to lie down for a few moments.
+Everything would be all right then.
 
 "We've spoken with your housekeeper as well, honored mistress." The guard's
-voice brimmed with patience. "She told us about the...mess. May we enter?"
+voice brims with patience.  How dare she be patient with me?  "She was the one
+who told us about the mess. May we enter?"
 
-"No, no, I'm afraid that's not possible." I did giggle then. "You really
-can't. What would people say? Three young gentlemen, alone with a lady?  It
-would hardly be proper."
+"No, no, I'm afraid that's not possible." I actually do giggle then. "You really
+can't. What would people say?  The three of you, alone with a lady without a
+chaperone?  It would hardly be proper."
 
-The guard exchanged glances with one of his companions. The other man
-shrugged. The third clucked his tongue as if calling chickens to their morning
-seed. He was doubtless from some grimy village or other. He would have come to
-the city to make his fortune, just like that rogue Ishad. It was a pity he
-hadn't learned any manners on the way.
+The guard exchanges glances with one of her companions, who shrugs.  The man
+standing behind them clucks his tongue as if calling chickens to their morning
+seed. He is probably from some grimy village or other.  He would have come to
+the city to make his fortune, just like that rogue Ishad. It is a pity he didn't
+learn any manners on the way.
 
-"Stop that," I said to him sharply.
+"Stop that," I order.
 
-He blinked. "Um, honored mistress?"
+He blinks. "Um, honored mistress?"
 
 "That noise. That cluck cluck cluck. It's uncouth. I will not have you making
 animal noises in my house."
 
-He grinned insolently. "Er, not actually in the house, honored mistress.  But I
+He grins insolently. "Er, not actually in the house, honored mistress.  But I
 promise, if you let us in, I won't---"
 
-The guard who had spoken first cut him off with a gesture. "Honored mistress,
+The guard who spoke first cuts him off with a gesture. "Honored mistress,
 I'm afraid I'm going to have to insist. Could you please step aside? Please?"
 
-Well, I wouldn't. After everything else that had happened that morning (and it
-*was* still barely morning), letting them see the mess in the courtyard would
-have been just too much. I slammed the gate closed, threw the bolt, turned my
-back on them, and walked away.
+No.  No, I will not. After everything else that has happened this morning (and
+it *is* still barely morning), letting them see the mess in the courtyard will
+simply be too much. I slam the gate, throw the bolt, turn my back on them, and
+walk away.
 
-Of course, I forgot that Rojyar still had his key, the traitor. Everyone betrays
-you in the end, you know, except the ones who can't wait that long. When the
-bolt snicked behind me I tried to run upstairs to my room, but they were too
-fast. One of the guardsmen took one arm, another took the other. "Hush, hush,
-honored mistress, we won't hurt you. We just want to help." I felt so
-humiliated. How could it all have gone so wrong? There was only one person I
-could trust.
+But Rojyar still has his key, the traitor. Everyone betrays you in the end, you
+know, except the ones who can't wait for the end. When the bolt snicks behind me
+I try to run upstairs to my room, but they are too fast. One of the men takes
+one arm, another takes the other.  I've had dreams like this, but not like
+*this*. "Hush, hush, honored mistress, we won't hurt you. We just want to help,"
+the female guard soothes.  I feel so humiliated. How could it all go so wrong?
 
-Rojyar had followed the guardsmen into the courtyard. I stopped struggling and
-smiled at him as brightly as I could. "Rojyar. Rojyar, I'm---" Oh, it was so
-*hard* to say, but what else could I do? "I'm sorry. For hitting you. But never
-mind that now. I need you to go to Shau Sheu's. Go and fetch her immediately, do
-you understand? Tell her the spell must have gone wrong. Tell her about
-Sehdie. She'll know what to do."
+Rojyar had followed the guardsmen into the courtyard. I stop struggling and
+smile at him as brightly as I can. "Rojyar. Rojyar, I'm---" Oh, it is so *hard*
+to say, but what else can I do? "I'm sorry.  For hitting you.  But never mind
+that now.  I need you to go to Shau Sheu's. Go and fetch her immediately, do you
+understand? Tell her the spell must have gone wrong. Tell her about Sehdie.
+She'll know what to do."
 
-A burly hand tightened around my upper arm. "Spell? What spell?"
+The female guard stops in her tracks, turns to me. "Spell? What spell?"
 
 -----
 

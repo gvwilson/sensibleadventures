@@ -7415,120 +7415,124 @@ slightly slippery to the touch, like silk. Kerrem comes up behind me, and the
 cloudherd behind him. I nestle against Kerrem's side. Silently, we rise into the
 night.
 
------
+## Now: Vurt Learns Something About Courage
 
-## Vurt Learns Something About Courage
+The tomb looks like the houses on the lower slopes of Palace Mount. It has an
+arched entrance wide enough for three people to pass through side by side, and
+the public courtyard it opens onto is filled with plants carved from stone. A
+creeping vine carved from the same stone covers one whole corner.  A few leaves
+of beaten silver lie on the ground, and there's even a statue of a gardener, an
+old woman with a shaved head and cropped ears trimming the vine back with silver
+shears.
 
-The tomb looked like the kind of house you would find on the lower slopes of
-Palace Mount. Its arched entrance was wide enough for three people to pass
-through side by side, and the public courtyard beyond it was filled with plants
-carved from stone. A creeping vine carved from the same stone covered one whole
-corner of the courtyard. A few leaves of beaten silver lay scattered on the
-ground. There was even a statue of a gardener, a wizened old woman with a shaved
-head and cropped ears, trimming the vine back with silver shears.
+The memory of the ghost's memory gives me a weird kind of double vision, like
+I've taken a thump to the head, or like meeting someone who reminds you of
+someone else, but you can't remember who. I shook my head to clear it. The
+bonescuttle was in the rear courtyard last time. I remember finding it there, or
+I remember remembering.  And I shouldn't touch the vines. I don't know why not,
+but I *really* shouldn't touch the vines.
 
-The memory of the ghost's memory made the scene seem strange to me. It was like
-meeting someone who reminded you of someone else, but being unable to remember
-who. I shook my head to clear it. The bonescuttle had been in the rear
-courtyard. I remembered finding it there. And for some reason, I shouldn't touch
-the vines. I *really* shouldn't touch the vines.
+Magic and monsters and ghosts and oaths and all of it is a real pain in the ass.
 
-I skirted around them carefully, keeping one eye on the stone gardener in case
-she suddenly came to life and attacked me with her shears. The arch that led to
-the rear courtyard was narrower than the first, though just as tall.
+I skirt around the vines, keeping one eye on the stone gardener in case she
+suddenly comes to life and attacks me with her shears. The arch that leads to
+the rear courtyard is narrower than the main entrance, though just as tall.  It
+would be a good place for an ambush.
 
-My lantern caught something lying on the otherwise immaculate stone. I bent one
-knee and cautiously picked it up. It was a scrap of dried reed from my rats'
-cage. The bonescuttle was here.
+My lantern catches something lying on the stones. I bend one knee cautiously,
+eyes and ears open, and grope around until my fingers find it. It's a scrap of
+dried reed from my rats' cage. The bonescuttle has been here.
 
-The rear courtyard was a funeral scene. A woman with a house where her head
-should have been stood beside an empty stone bier, one arm raised in
-benediction. Smaller house-headed statues sat cross-legged in neat rows in front
-of her, praying or perhaps just listening. I shivered. It felt wrong again.
+The rear courtyard is a funeral scene. A woman with a house where her head
+should be stands beside an empty stone bier, one arm raised in benediction.
+Smaller house-headed statues sit cross-legged in neat rows in front of her,
+praying or perhaps just listening. I shiver. It feels wrong somehow, different
+than it's supposed to be, but my memory of the ghost's memories isn't clear
+enough to tell me what's changed.
 
-Something scraped above and behind me. I threw myself to the right. The
-bonescuttle hit the ground where I had been standing. I threw my spear at it and
+Something scrapes above and behind me. I throw myself to the right. The
+bonescuttle hits the ground where I was standing. I throw my spear at it and
 drew my sword.
 
-The spear cracked against its head. The bonescuttle clacked its jaws and pounced
-again. I cut and cut and cut at its snapping claws, dodging every time it lashed
-its tail at me. A lucky blow knocked it off balance. I struck again as hard as I
-could. My blade bit into its shell.
+The spear cracks against its head. The bonescuttle clacks its jaws and pounces
+again. I cut and cut and cut at its snapping claws, dodging every time it lashes
+its tail at me.  A lucky blow knocks it off balance. I strike again as hard as I
+can. My blade bites into its shell.  It's smaller than the one the ghost
+remembers, younger maybe, and definitely softer.  I swing again.
 
-It hissed and came at me again, snapping at my arm, my sword, my leg. I cursed
-myself. The sword didn't give me enough reach. I needed my spear.
+It hisses and comes at me again, snapping at my arm, my sword, my leg. I curse
+my own stupidity. The sword doesn't have enough reach. I need my spear.
 
-I let it drive me in a slow clockwise circle around the statues in the middle of
-the courtyard. I was just a few paces away from where my spear had fallen when
-the damned thing charged me. I cursed as I backpedaled.  It was right on top of
-my spear. It must have realized what I was trying to do.
+I let it drive me in a slow clockwise circle around the statues. I'm just a few
+paces away from my spear when it charges me.  I curse again as I backpedal.
+It's right on top of my spear. It must have realized what I'm trying to do.
 
-I was well and truly roasted. I couldn't close with it, not with just a sword,
-and I couldn't get my spear. Stupid, stupid, stupid... I was almost set to
-charge it anyway when I remembered another memory. The vines at the front
-entrance... Yes. I turned and ran.
+Which means I'm well and truly roasted. I can't close with it, not with just a
+sword, and I can't get my spear.  Stupid, stupid, stupid...  I'm almost set to
+charge it anyway when I remember another memory. The vines at the front
+entrance... I turn and run.
 
-It chittered and came after me. Five steps, six, seven---I spun around, throwing
-my sword as I turned, and fell backward through the arch. I hit the ground with
-a thud just as my sword crashed into the vines.
+It chitters and comes after me. Five steps, six, seven---I spin around, throwing
+my sword as I turn, and fall backward through the arch. I hit the ground with a
+thud just as my sword crashes into the vines.
 
-The bonescuttle was halfway through the arch when the silver net caught
-it. Everything behind its forelegs just fell apart. Its front half ran on
+The bonescuttle is halfway through the arch when the silver net catches it.
+Everything behind its forelegs just...falls apart. Its front half runs on
 another step before toppling over.
 
-I scrambled to my feet. Its arms and front legs were still connected, but
-everything further back had been cut to cat meat. Gray-green muck spread around
-the wreckage. One claw twitched, and then it was dead.
+I scramble to my feet. Its arms and front legs are still connected, but
+everything further back has been cut to cat meat. Gray-green muck spreads around
+the wreckage. One claw twitches, and then it's actually, finally dead.
 
-I swallowed back bile. My oath still itched, but it felt different now.  I
-wasn't supposed to be here. I was supposed to---damnation and rotten figs,
-couldn't it give me even a moment's rest? I drew my knife and sawed through the
-bonescuttle's neck in savage frustration.
+I swallow back bile and touch the back of my head.  My oath still itches, but it
+feels different now.  I'm not supposed to be here. I'm supposed to---damnation
+and rotten figs, can't it give me even a moment's rest? I draw my knife and hack
+through the bonescuttle's neck in frustration.
 
-I walked back to the arch and held up my lantern. The gleaming lines of the
-silver net were gone. I thought about retrieving my sword, but little
-glass-winged things were already fluttering around the bonescuttle's
-corpse. Something bigger would be coming soon.
+I walk back to the arch and hold up my lantern. The gleaming lines of the silver
+net are gone. Little glass-winged things are fluttering around the bonescuttle's
+corpse. Something bigger will be coming soon.  I pick up my sword and hurry back
+to where I left my pack.
 
-I hurried back to where I had left my pack. It was gone. So were the rats I had
-hung from the statues. Something snuffled nearby. I backed away, then turned and
-ran for the stairs.
+It's gone. So are the rats I hung from the statues. Something snuffles nearby. I
+backed away, then turn and head for the stairs.
 
-I hesitated when I reached the bridge. If there had been any other way out, I
-would have taken it, but there wasn't. I clenched my jaw and started across.
+I hesitate when I reach the bridge.  If there was any other way out, I would
+take it, but there isn't. I clench my jaw and start across.
 
-The whispers came immediately this time. "Why do you keep pretending?  Why do
-you keep pretending you want her? You want him. You want Tessor."
+The whispers start immediately this time. "Why do you keep pretending you want
+her?  You want fame.  You want prizes.  You want *him*. You want Tessor."
 
-"No," I wanted to say, but I didn't. I didn't say a word. What would be the
-point? The voices were right. When I closed my eyes, when I let myself think at
-all, I saw him, not her. I saw him stripping naked after our first fight,
+"No," I want to say, but I don't. I don't say a word, because hat would be the
+point?  The voices are right. When I close my eyes, when I let myself think at
+all, I se him, not her. I see him stripping naked after our first fight,
 laughing easily at the banter around him, untying his hair...
 
-Saints. Whatever lurked beneath the bridge had only said what I hadn't had the
-courage to say to myself, what I had known even as I cut my palm in Sehdie's
-father's courtyard. I didn't love her. I never had. I just didn't know how to
-tell anyone what I *did* love.
+Saints. Whatever lurks beneath the bridge is only saying what I haven't had the
+courage to say to myself, what I knew even as I cut my palm in Sehdie's father's
+courtyard. I don't love her. I never have. I just don't know how to tell anyone
+who I *do* love, because oh, won't they have a laugh then?  *Umram* bravos are
+like soldiers: three quarters of us prefer our own kind, and most of the rest
+can swing their sword with either hand, as Ishad says.  Me and a beautiful, dumb
+hunk like Tessor---me and *anyone*---they'll tease me for a week.
 
-I was weeping again by the time I stepped off the bridge. What was I going to
-do? When the rat catcher's boy slays a monster, he *has* to get the
-girl. Everyone knows that's how the story ends. Sand and silver, what would
-people think of Sehdie if I walked away from her after going through something
-like this? And what if---what if Tessor laughed at me?  What if all he saw,
-still, was a rat catcher?
+I'm weeping again by the time I stepped off the bridge. What am I going to do?
+When the rat catcher's boy slays a monster, he *has* to get the girl. Everyone
+knows that's how the story ends. Sand and silver, what will people think of
+Sehdie if I walk away from her after doing this?  It'll ruin her.  And what
+if---what if Tessor laughs at me?  What if all he sees, still, is a rat catcher?
 
-For a moment I imagined staying down there, letting my lantern flicker out and
-waiting for something to come out of the dark and devour me. It was
-strange---facing the bonescuttle had frightened me less than telling a beautiful
-woman that I didn't love her. And saints, what would Kerrem say? "You have to
+For a moment I imagine staying down there, letting my lantern flicker out and
+waiting for something to come out of the dark and solve my problems for me. It's
+strange---facing the bonescuttle frightened me less than telling a beautiful
+woman that I don't love her. And saints, what will Kerrem say? "You *have* to
 love her, Vurt! Look at all the stanzas I've already written!"
 
-For some reason, that thought brought me back to my senses. I knew I could
-disappoint Kerrem. Maybe once I had done that I could disappoint Sehdie as well,
-and then figure out how to tell my mother and Ishad. I could already hear the
-jokes *he* would make...
-
-But first, I had to go swimming.
+For some reason, that thought brings me back to my senses. I know I can
+disappoint Kerrem. Maybe once I do that I can disappoint Sehdie as well, and
+then figure out how to tell my mother and Ishad, and then---I push the thought
+of Tessor away.  No point thinking about any of that now.  I have to go swimming
+first.
 
 -----
 

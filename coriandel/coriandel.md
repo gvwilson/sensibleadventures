@@ -7811,29 +7811,28 @@ She'll know what to do."
 
 The female guard stops in her tracks, turns to me. "Spell? What spell?"
 
------
-
-## Oro in the Morning
+## Now: Oro in the Morning
 
 There are days when I wish I was back in Armaq, squabbling with rats over scraps
 of leather. Other days make me feel nostalgic for trekking across the Sea of
 Glass. And once in a very bad while I even look back on that night in the
 Brumoso Mountains when I lay curled up on the floor of a damp cave, shivering
-with bonecrack fever, and I think, "That wasn't really so bad."
+with bonecrack fever, and I think, "That wasn't so bad.  At least there weren't
+*meetings*."
 
-But then the royal collar reminds me of my duty and I go back to my
-paperwork. Or call a meeting of my ministers to discuss excise taxes on undyed
-linen. Or let the Royal Barber shave me, and play tailor's mannequin for the
-Royal Dresser, so that I will look presentable at yet another royal banquet with
-yet another pain-in-the-saddle ambassador set on embroiling Coriandel in some
-conspiracy whose only apparent purpose is to give said ambassador an excuse to
-hire spies, write messages in code, and arrange clandestine meetings at midnight
-in disreputable taverns.
+But then the royal collar reminds me of my duty and I go back to my paperwork.
+Or call a meeting of my ministers to discuss excise taxes on undyed linen. Or
+let the Royal Barber shave me and play tailor's mannequin for the Royal Dresser
+so that I will look presentable at yet another royal banquet with yet another
+pain-in-the-saddle ambassador set on embroiling Coriandel in some conspiracy
+whose only apparent purpose is to give said ambassador an excuse to hire spies,
+write messages in code, and arrange clandestine meetings at midnight in
+disreputable taverns.
 
 Bah. My Minister of Rumors reports to me twice a week, Yellowsday morning and
 Bluesday afternoon. "A vendor of therapeutic bark from Barra Bantang," she says,
 glancing at notes written in charcoal on a polished slab of maple. "And a camel
-driver from Dry Weeping who is suddenly able to re-harness all eight of his
+driver from Dry Weeping who can suddenly afford to re-harness all eight of his
 beasts. The latter took supplies to the garrison at Kirc last month."
 
 "The connection?" I ask.
@@ -7851,207 +7850,211 @@ animals in harm's way, the camel driver marches through the Confessional Gate of
 the palace to tell us everything we already know. The spy is already gone by
 then, carrying her disgrace back to his masters in the Fleet of Ghosts. More
 importantly, word gets around that the Bantangui are not to be trusted.  Only
-half a dozen people ever know the story beneath the story.
+four of us, and the collar, ever know the story beneath the story.
 
 But that is not governance. That is keeping unruly children from misbehaving on
 market day. Governance is meetings, decisions, laws that must be passed or
 revoked or amended, regulations that must be enforced.  A few months after I
 accepted the royal collar, I toyed with the idea of having a balladeer put that
 thought into poetry. Heroic triplets, perhaps, to make the listener's pulse race
-while at the same time saying that a good emir is one who doesn't lead troops
-into battle, duel with evil magicians, or trade his eyes and three poppy seeds
-for a spell to cure the blight that has fallen on his people's lentils. A *good*
-emir is one who negotiates a border settlement so that a battle is
-unnecessary. Who talks politely to magicians instead of picking fights with
-them. Who hires an expert in irrigation and the diseases of crops when the
-lentil blight first appears, turns her recommendations into laws, and sees that
-those laws are enforced so that the blight never takes hold. *That* is good
-governance.
+while at the same time hearing that a good emir isn't one who leads troops into
+battle, duels with evil magicians, or trades his eyesight for a spell to cure
+the blight that has fallen on his people's lentils. A *good* emir is one who
+negotiates a border settlement so that a battle is unnecessary. Who talks
+politely to magicians instead of picking fights with them. Who hires an expert
+in irrigation and the diseases of crops when the lentil blight first appears,
+turns her recommendations into laws, and sees that those laws are enforced so
+that the blight never takes hold. *That* is good governance.  And it even works
+as a heroic triplet. "That is good governance."
 
-And it works as a heroic triplet, too. "That is good governance." I never did
-it, of course. I can imagine the jokes people would tell, the parodies they
-would compose...the respect they would no longer have. How could anyone respect
-an emir who was so earnest and so dull as to commission an epic poem about
-lentil blight? I would have been in stitches myself, back when I did Lady
-Kembe's bidding.
+I never did it, of course. I can imagine the jokes people would tell, the
+parodies they would compose...the respect they would no longer have. How could
+anyone respect an emir who was so earnest and so dull as to commission an epic
+poem about lentil blight? I would have been in stitches myself, back when I did
+Lady Kembe's bidding.
 
-I was half in love with her. I think most of us were. There were legends about
-her, but she had forgotten more scandalous limericks than I ever knew, and she
-laughed like a Darpani, a full-out belly-breaking laugh that made you laugh
+I was half in love with her, of course. I think most of us were. She was a
+legend, but she also knew more scandalous limericks than anyone I ever met, and
+she laughed like a Darpani, a full-out belly-breaking laugh that made you laugh
 along. After eight months and three small jobs, I was half drunk on the secret
-history of the world, on the stories behind the stories. Foul plots that had to
+history of the world, on the stories beneath the stories. Foul plots that had to
 be foiled, lost treasures that damn well ought to stay lost... I felt as I had
 when I was a child and my father let me stand backstage so I could see how plays
 were really made.
 
 I thought a lot about Lady Kembe when the royal collar told my mother that I
 should be her successor. I thought about her every day in the first year I wore
-it. What should I do about the ghost that was terrorizing the city's silver
-workers? Should I believe what the Leyselloise ambassador told me about
-Seyferte's plans to interfere with the succession in Ensworth? But each time I
-thought about asking her, the collar whispered, *Who would trust a witch-ridden
-emir?*
+it.  What should I do about the ghost that was terrorizing the city's silver
+workers?  Should I believe what the Chaghan ambassador told me about Gandan's
+plans to interfere with the succession in Lhabde? But each time I thought about
+asking her, the collar whispered, *Who would trust a witch's fetch?*
 
-Bah for the third time, and three times was two more than I had time
-for. Contrary to popular belief, the royal collar does not force its wearer to
-act honorably. It just reminds you, constantly, what needs to be done. I threw
-back the cotton sheet that covered me, stepped into my favorite cork-soled
-slippers, shrugged on my morning coat, and bellowed for coffee. The sun would be
-up in an hour, and I had work to do.
+Bah for the third time, and three times is two more than I have time for.
+Contrary to popular belief, the royal collar does not force its wearer to act
+honorably. It just reminds you, constantly, what needs to be done. I throw back
+my cotton sheet, step into my favorite cork-soled slippers, shrug on my morning
+coat, and bellow for coffee. The sun will be up in an hour, and I have work to
+do.
 
-Coffee caught up with me in my study as I read the summaries that my ministers'
-clerks had prepared overnight. The first said that a long-simmering clan war in
-southeastern Darp was threatening to catch fire once again. If it did, the
-Darpani here in the city would likely start taking knives to each other. Would I
+Coffee catches up with me in my study as I read the summaries that my ministers'
+clerks have prepared overnight. The first says that a long-simmering clan war in
+southeastern Darp is threatening to catch fire once again. If it does, the
+Darpani here in the city will probably start taking knives to each other. Will I
 authorize extra guard patrols east of Charcoal Square, and pre-emptive arrests
-of likely ringleaders?  I scribbled "yes" and "yes", initialed the top and
-bottom of the page to show I had read it all the way through, and added it to
-the pile marked "Urgent". The label had been my great-grandfather's joke---it
-was the only pile on the desk.
+of likely ringleaders?  I initial the top and bottom of the page to show I have
+read it all the way through, scribbled "yes" and "yes", and add it to the pile
+marked "Urgent". The label was my great-grandfather's joke---it is the only pile
+on the desk.
 
-The second page told me that the Ruudian pike-and-bow mercenaries I had hired
-four months before were giving notice. The rising in Upuliaq had become a
-full-blown rebellion, and they were needed at home. I cursed without any real
-feeling, made a note to have them paid in full, and added the page to the
-pile. I had hoped they would stay long enough to train two companies of my own
-troops. Perhaps next year, or the year after.
+The second page tells me that the Ruudian pike-and-bow mercenaries I hired last
+year are were giving notice. The rising in Upuliaq has become a full-blown
+rebellion, and they are needed at home. I curse without any real feeling, make a
+note to have them paid in full, and add the page to the pile. I hoped they would
+stay long enough to train two companies of my own troops. Perhaps next year, or
+the year after.
 
-The third summary was from the Ministry of Rumors. I sat back with a thimble of
-cold coffee in my hand. A handful of the Ruudian mercenaries could be persuaded
-to break their oaths and stay in Coriandel, if I wanted. No---I might want to
-hire the whole company back again some day.  The Admiral Ascendant of Ini
-Bantang was discussing marriage with the son of---I didn't care. I scanned the
-rest of the page. Ensworth, Seyferte, the minor northern kingdoms... Ossisswe
-and the other cities to the south... It was as if a dozen different plays were
-all being performed on the same stage at once.
+The third summary is from the Ministry of Rumors. I sit back with a thimble of
+cold coffee in my hand. A handful of the Ruudian mercenaries ccan be persuaded
+to break their oaths and stay in Coriandel, if I want.  It's tempting, but
+no---I might want to hire the whole company back again some day, and their
+captain is unlikely to feel kindly toward someone who steals his troops.  Mm,
+and the Admiral Ascendant of Ini Bantang is discussing marriage with the son
+of---I didn't care. I scan the rest of the page. Gandan, Lhabde, the minor
+northern kingdoms... Ossisswe and the other cities to the south and west... It
+is as if a dozen different plays are being performed on the same stage at once.
 
-I turned the page over and spat on it. The minister's other report slowly took
-shape. These were the rumors I cared about most, the rumors about my own
-government. Who was asking for larger bribes than custom allowed? Who was
-sabotaging his colleagues' work in order to make himself shine? Were my guard
-captains still trustworthy? The collar had to remind me every morning that yes,
-this was part of being a good ruler. Not a proud or pleasant part, but an
-essential part nonetheless.
+I turn the page over and spit on it. The minister's other report slowly takes
+shape. These are the rumors I care about most, the rumors about my own
+government.  Who is asking for larger bribes than custom allows?  Who is
+sabotaging their colleagues' work in order to make themself shine? Are my guard
+captains still trustworthy? The collar has to remind me every morning that yes,
+this is part of being a good ruler. Not a proud or pleasant part, but essential.
 
-Something caught my eye halfway down the page. The sister-by-marriage of my
-Minister of Supply had been taken into custody the previous morning.  Her niece
-had run off with a young bookster, and the loss appeared to have driven her
-slightly mad. When arrested, she had mentioned a spell going wrong, but had
-refused to talk to anyone since. My minister (who seemed less troubled by the
-loss of his daughter than his sister-by-marriage was) disclaimed any knowledge
-of magic being worked in his household.
+Something catches my eye halfway down the page. The sister-by-marriage of one of
+my senior clerks has been taken into custody.  Her niece has run off with a
+bookster, and the loss appears to have driven her slightly mad. When arrested,
+she mentioned a spell going wrong, but she has refused to talk to anyone
+since. My minister (who seemed less troubled by the loss of his daughter than
+his sister-by-marriage) disclaims any knowledge of magic being worked in his
+household, but---yes.  He's the one who had a wild oath sworn in his courtyard a
+few days ago by the duelist who snuck into the Tombs last night.
 
-I scowled. I didn't like the idea of wild magic in my city. I especially didn't
-like it so close to one of my ministers.
+I scowl.  I don't like the idea of wild magic in my city. I especially don't
+like it so close to one of my clerks, and I *especially* don't like
+coincidences.
 
-The royal collar was muttering in my ear. Something, something from years
-ago---it remembered, even if no one else in Coriandel did. I glanced at the
-report again. The woman's name was Eleñima. I put my hand on the red string that
-hung near my desk and pulled it three times.  Somewhere below me, a drum
-thumped. I set the report aside and picked up the next one.
+The royal collar mutters in my ear. Something, something from years ago---it
+remembers, even if no one else in Coriandel does. I glance at the report
+again. The woman's name is Eleñima. I put my hand on the red string that hangs
+near my desk and pull it three times.  Somewhere below me, a drum thumps. I set
+the report aside and pick up the next one.
 
-I was half way through cost estimates for reinforcing the city's eastern
-aqueduct when the door opened behind me. "Eleñima," I said. "Supply's
-sister-by-marriage. Must be twenty years ago."
+I am halfway through cost estimates for reinforcing the city's eastern aqueduct
+when the door opens. "Eleñima," I say. "Supply clerk's sister-by-marriage. Must
+be twenty years ago."
 
-"Majesty," the page said. The door closed. I went back to my aqueduct.
+"Your Grace," the page says. The door closes. I go back to my aqueduct.
 
-The page brought me the report less than an hour later. Ah ha---that was why I
-remembered. A Bantangui saloneer named Shau Sheu had arrived in Coriandel just a
-few months after I took on the royal collar. Rumors investigated her when
-Eleñima's brother by-marriage was promoted, but found nothing suspicious.
+The page brings me the report an hour and three thimbles of coffee later. Ah
+ha---that is why the collar remembers. A Bantangui saloneer named Shau Sheu
+arrived in Coriandel just a few months after I took the throne. Rumors
+investigated her when Eleñima's brother-by-marriage was promoted, but found
+nothing suspicious.
 
-I drummed my fingers on my desk. It was time for some exercise. I pulled the
-white string, then took the briefs I hadn't scribbled on and slipped them into
-the mouth of the brass toad on the floor. Blue flame flashed, and the toad
-belched a perfect smoke ring. As I stood and stretched, I reminded myself again
-to have it emptied.
+I drum my fingers on my desk. It is time for some exercise. I pull the white
+string, then take the briefs I haven't scribbled on and feed them to the brass
+toad on the floor. Blue flame flashes.  The toad belches a perfect smoke ring.
+As I stand and stretch, I reminded myself again to have it emptied.
 
-Rumors stood waiting for me at the top of the steps outside my study
-door. "Majesty?" she asked.
+Rumors is waiting for me at the top of the steps outside my study door.  "Your
+Grace?" she asks.
 
 "The woman arrested yesterday. Eleñima. Where is she?"
 
 "Quiet Saints' Street, majesty."
 
-"Have her brought here. And the Bantangui woman, Shau Sheu. Oh, and her
-housekeeper. Her whole household, in fact. No, wait." I stopped and held up my
+"Have Leis brought here. And the Bantangui woman, Shau Sheu. Oh, and her
+housekeeper.  Her whole household, in fact. No, wait." I stop and hold up my
 hand. "Just have her watched. But closely."
 
-"Majesty." I heard rather than saw her raise her palms behind me as I strode
-down the Autumn Hallway to my stables. I had a new horse to train, one of
-Sweet's many grandsons. He wasn't Gifted, but he was coming along
-splendidly. Another year, and he'd know every trick an ungifted mount could.
+"Your Grace." She raises her palms to my back as I stride down the Autumn
+Hallway to my stables. I have a new horse to train, one of Sweet's many
+grandsons. He isn't Gifted, but he is coming along splendidly. Another year, and
+he will know every trick an ungifted mount can learn.
 
-Long before then, though, I would have to give him away. The price of the spell
+Long before then, though, I will have to give him away. The price of the spell
 on Coriandel's collar is that its wearers can never touch the ones they love. I
 knew that would mean Sweet. I only discovered later that one can love cats and
 trained monkeys too, and that it's almost impossible not to love a high-spirited
-colt. I wept then, as I had not wept when I sent Sweet away.
+colt. I wept then, as I wept when I sent Sweet away.  There are days when I
+would give anything to be astride him again, up in the Brown Grass or on a trail
+through the Brumosos, but magic doesn't work like that.  He would die on his way
+to me, or I would fall down a flight of stairs, or---no.  Every spell has a
+price, and every price must be paid.
 
 An hour in the riding yard. Ten minutes to bathe and tie my thinning hair
-back. Five minutes for bread, cheese, and some sharp Leyselloise cider, and
-another five minutes to put on a formal black ankle-length trousers, a
-sleeveless brocade jacket that showed off the rank tattoos on my arms, and a
-white silk turban pinned with a ruby the size of a wine grape. "Have her brought
-to the Afternoon Throne Room," I ordered.  It was underground, lit only by
-globes of dayglass. I had the pages cover all but two of them, so the room swam
-with shadows.
+back. Five minutes for bread, cheese, and some sharp Gandan-o cider, and another
+five minutes to put on a formal black ankle-length trousers, a sleeveless
+brocade jacket that shows off the rank tattoos on my arms, and a white silk
+turban pinned with a ruby the size of a wine grape. "Have her brought to the
+Afternoon Throne Room," I order.  It is underground, lit only by globes of
+dayglass. I have the pages cover all but two of them, so the room swims with
+shadows.  My aunt kept a skull on the table, just to add to the atmosphere,
+but I haven't ever found that necessary.
 
-I needn't have bothered. Eleñima was already terrified by the time they brought
-her to me. Did she think I was going to behead her myself, right then and there?
-"Oh, mercy, mercy!" she cried. She actually fell to her knees---I always felt
-uncomfortable when people did that.
+I needn't even have doused the lights. Eleñima is already terrified by the time
+they bring her to me. Does she think I am going to behead her right then and
+there?  "Oh, mercy, mercy!" she cries. She actually falls to her knees---I
+always felt uncomfortable when people do that.
 
-I slouched with my elbow on one arm of the throne and my chin in my hand. "Do
-you deserve it?" I asked.
+I slouch with my elbow on one arm of the throne and my chin in my hand. "Do you
+deserve it?" I ask.
 
-Tears welled up in her eyes. "No," she blubbered. "No, but it wasn't my idea. I
-swear, she was the one who suggested it. I just..." Whatever she was trying to
-say was lost in her sobs.
+Tears well up in her eyes. "No," she blubbers. "No, but it wasn't my idea. I
+swear, she was the one who suggested it. I just..." Whatever she is trying to
+say is lost in her sobs.
 
-Now, who was "she"? Her niece? Or the Bantangui woman? Let her tell me.  "So we
+Now who was "she"? Her niece? Or the Bantangui woman? Let her tell me.  "So we
 should arrest her too, should we?"
 
-"Yes. Yes!" she hissed. "She lied to me! I just had to be patient, that's what
+"Yes. Yes!" she hisses. "She lied to me! I just had to be patient, that's what
 she said, but she lied to me. After everything I did for her. Why, she'd be a
 pauper right now if it wasn't for me."
 
 "Mm. And how much did you give her?"
 
-"Everything," she said bitterly. "Every receipt, every letter, everything."
-Suddenly she laughed, a sound I would really rather not have heard. "I should
+"Everything," she says bitterly. "Every receipt, every letter, everything."
+Suddenly she giggles, a sound I would really rather not have heard. "I should
 have made things up. That's what I should have done. I should have made things
 up, just like she did. Let her grubby merchanteer friends bankrupt themselves."
-Her tears started again.
+Her tears start again.
 
-Every receipt, every letter... I sat up straight. My Minister of Rumors stood in
-the shadows behind the weeping woman, her hand finger-tapping orders on the arm
-of one of her spy captains. The grizzled old man nodded and hurried away. "How
-long, Eleñima?" I asked gently. "How long has she been pretending to be your
-friend?"
+Every receipt, every letter... I sit up straight. My Minister of Rumors stands
+in the shadows behind the weeping woman, her hand finger-tapping orders on the
+arm of one of her pages.  The grizzled old man nod and hurries away. "How long,
+Eleñima?" I ask gently. "How long has she been pretending to be your friend?"
 
-"Years." She wiped her eyes with a bitter laugh. "Years and years and
-years. Half my life. Wasted!"
+"Years." She wipes her eyes and then giggles again. "Years and years and years.
+Half my life. Wasted!"
 
-The royal collar was whispering to me, but I was too angry to hear it.  If the
-Bantangui had been reading over my Minister of Supply's shoulder for that
+The royal collar is whispering to me, but I am too angry to hear it.  If the
+Bantangui have been reading over my Minister of Supply's shoulder for that
 long...
 
-I stood. "Take her away," I ordered crisply. "My ministers to me in fifteen
+I stand. "Take her away," I order crisply. "My ministers to me in fifteen
 minutes. And coffee---lots of coffee."
 
-Pages flew away in all directions. "And uncover the damn lights! It's too
-weeping dark in here." I started pacing. If the woman hadn't been mad, we could
-have dipped her in misinformation and let the Bantangui lick it off one lie at a
-time for the next ten years. As it was, we'd have to do something less
-elegant. Doors would be kicked down, fragile mind-destroying poisons
-administered... My Minister of Rumors would be busy for a week.
+Pages hurry away in all directions. "And uncover the damn lights! It's too
+weeping dark in here." I start pacing. If the woman wasn't mad, we could dip her
+in misinformation and let the Bantangui lick it off one lie at a time for the
+next ten years. As it was, we will have to do something less elegant. Doors will
+be kicked down, fragile mind-destroying poisons administered... My Minister of
+Rumors will be busy for a week.
 
-Saints and their sins. I hated this shadow-play. I wanted a sword in my hand and
-something in front of me to hack at. For the ten thousandth time, I wished that
-I could ask Lady Kembe for help. And for the ten thousandth time, I sighed as
-the collar reminded me why I couldn't ask.
+Saints and their sins, but I hate this shadow-play. I want a sword in my hand
+and something in front of me to hack at.  For the ten thousandth time, I wish
+that I could ask Lady Kembe for help.  And for the ten thousandth time, I sigh
+as the collar reminds me why I can't.
 
 -----
 

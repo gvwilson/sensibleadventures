@@ -4246,14 +4246,14 @@ straightening her back like a soldier expecting to be shot.
 "Because if I do,
 you'll be the first one to complain."
 
-For a moment Iffy was sure Uncle Jack would explode at her again,
-but to her surprise he back down.
+For a moment Iffy was sure Uncle Jack would explode again,
+but to her surprise he backed down.
 "Fine," he snapped,
 waving her away.
 "You go get whatever we need.
-I'm gonna look at the engine an' see what th' sainted Mister Wales has gaffled up.
-And take the girl with you,"
-he added as he turned to stalk away.
+I'm gonna look at th' engine an' see what th' sainted *Mister Wales* has gaffled up.
+And take th' girl with you,"
+he added over his shoulder as he stalked away.
 "Had enough o' her underfoot for one day."
 
 Aunt Naggie slumped and took a deep breath.
@@ -4261,38 +4261,39 @@ Aunt Naggie slumped and took a deep breath.
 punching her lightly in the shoulder.
 
 Her aunt smiled shakily.
-The Marines had driven them back to the pier half an hour before
+The Marines had driven them back to the pier
 with strict orders not to tell anyone what had happened at the governor's mansion.
-The fact that the news on the *Guinevere*'s screens was talking about nothing else didn't seem to matter.
+The fact that the feeds on the *Guinevere*'s screens were talking about nothing else didn't seem to matter.
 Half of Antarctica seemed to think it was a stealthy first strike by the Zillions---or second,
-if the writer was counting the explosion at the quarantine shed in Halley.
-The other half was convinced the machines were about to rise again.
-Iffy's heart sank at the sight of a crowd armed with pulse guns and cutting torches
-chasing a maintenance bot through Halley's streets.
+if the feeder was counting the explosion at the quarantine shed in Halley.
+The other half was convinced the machines were about to rise again,
+either on their own or with the backing of whoever or whatever currently ruled China-over-the-Sea.
+Iffy's heart sank at grainy video of a crowd armed with pulse guns and cutting torches
+chasing a maintenance bot through the streets of Paddington hundreds of kilometers away.
 It wasn't French Henry,
 but it would be soon if things didn't calm down.
 
 It only took Aunt Naggie a minute to gather up a trio of sturdy mesh bags
-and an ancient handheld piece of tech that would tell them if anything was toxic.
+and an ancient handheld piece of tech that she swore would tell them if anything was toxic.
 Iffy slipped a few of her smaller tools into a waistbelt under her coat---if
 she was lucky,
 someone in the market would have mending work she could do for a few rand
-while Aunt Naggie hunted for onions and soy and noodles.
+while Aunt Naggie hunted for onions, soy, and noodles.
 
 After dragging a brush through her close-cropped hair
-and watching sternly while Iffy, protesting, did the same,
-Aunt Naggie strode down the gangplank with her foster daughter in tow.
-One of the Marines stationed there listened patiently
-as Aunt Naggie explain ed where she was going.
+and watching sternly while Iffy, under protest, did the same,
+Aunt Naggie strode down the gangplank with her adopted daughter in her wake.
+One of the Marines listened patiently
+as Aunt Naggie explained where she was going and why.
 As she launched somewhat breathlessly into the details of her shopping list,
-he held up a hand to stop her
-and then gave her a black-edged money card.
-"Get whatever you need.
-But keep in mind that Finance will charge things back to you if it thinks they're luxuries,"
-he added,
-glancing pointedly over her shoulder at Uncle Jack.
-The *Guinevere*'s captain scowled at that,
-his all-too-obvious plan to find a bar sunk before it ever set sail.
+he held up a hand to stop her.
+"Get whatever you need,"
+he said,
+handing her a black-edged money card.
+"But keep in mind that Finance will charge things back to you if it thinks they're luxuries."
+He glanced pointedly over her shoulder at Uncle Jack,
+whose plan for looking at the engine seemed to consist of leaning on the *Guinevere*'s railing
+and scowling at everyone and everything.
 
 Rothera's streets were busy but not crowded.
 Its older stores clustered along the harborfront like gulls standing just out of reach of the waves,
@@ -4301,13 +4302,13 @@ Familiar cartoon characters and celebrities from far-off Australia beckoned,
 danced,
 pouted,
 and cracked jokes as people walked by.
-Iffy would have stopped in front of each one,
+Iffy would have gone in to each one,
 but Aunt Naggie hurried past them,
 her expression set.
 She regarded shopping as a competitive sport,
-and had no intention of letting Rothera get the better of her.
+and clearly had no intention of letting Rothera beat her.
 
-The main market had originally been an aircraft hangar.
+The city's main market had originally been an aircraft hangar.
 A century ago,
 someone with more money than sense had added a spun glass floor two stories above the ground.
 Their attempt to turn the building into "The Big South's Biggest, Bestest Dance Hall!!" had failed almost immediately.
@@ -4315,21 +4316,23 @@ After a couple of unsuccessful attempts to oust the squatters who took it over a
 (many in possession of surplus weapons,
 combat conditioning,
 and radical political ideas),
-the governor had thrown up his hands
+the governor and Rothera's core had thrown up their physical and metaphorical hands
 and let anyone who could pay two rand a month set up a stall.
 Still called the Dance Hall,
-it reminded Iffy of nothing so much as the picture of an anthill in her older's nature book.
+it was the biggest surveillance-free zone in Antarctica,
+and reminded Iffy of nothing so much as the picture of an anthill in her older's nature book.
 
 Aunt Naggie tapped her money card on the reader held out by the bored Marine at the door
 to pay her ten pence admission fee
 and squared her shoulders.
-Noticing Iffy's look,
-she relaxed slightly and nudged her foster daughter with her elbow.
-"Why'n't you go off an' see what you can find?" she said.
-"Or who, if you've a mind to?"
+Noticing Iffy's yearning look back toward the docks,
+she nudged her foster daughter with her elbow.
+"Why'n't you go off an' see what you can find?
+Or who, if you've a mind to?"
+she added teasingly.
 
 Iffy felt her cheeks go warm.
-"You sure you don't need me?"
+"Y' sure y' don' need me?"
 
 Aunt Naggie looked around.
 Greenhouse potatoes hung in net bags
@@ -4349,13 +4352,13 @@ as happy as Iffy ever saw her.
 
 Ten minutes later
 Iffy turned the corner onto Rocking Horse Street
-and hurried toward the stubby dead-end canal
-that Rothera's mechanics used as a repair yard.
+and hurried toward a stubby never-finished canal
+that Rothera's mechanics had taken over to use as a repair yard.
 A sleek Marine cutter was tied up on one side
-while crab-like bots scrambled over its sides
-scraping off the weaponized barnacles that would,
+while crab-like bots scrambled over its hull
+to scrape off the weaponized barnacles that would,
 if left unchecked,
-slowly devour its fractal carbon hull.
+slowly devour the fractal carbon that made it nearly frictionless.
 Iffy would normally have stopped to watch,
 but right then she had other things on her mind.
 
@@ -4363,22 +4366,22 @@ She slowed to a walk as she approached the end of the canal.
 Her heart sank.
 Two women were working side by side in the salvage booth,
 but both were too old to be who she was hoping to see.
-She was about to turn to go when a familiar voice said,
-"Hey, Iffy!"
 
+"Hey, Iffy!"
 She whirled around just in time to be caught up in an enormous hug.
 "Hey,"
 Honesty said more softly,
 her cheek pressed against Iffy's.
-"Micka tol' me she saw y'all come in,
-an' then I heard about what happen up along th' governor's.
-I's worried about you."
+"Micka tol' me she tuck y'all come in,
+an' then I twitched what happen up along th' governor's.
+I's worried along by you."
 
 Iffy returned the hug awkwardly.
 She always felt awkward around Honesty,
 especially when they were close enough
 that she could smell whatever flowery concoction the other girl used to wash her hair,
-but it was a good kind of awkward.
+but it was a good kind of awkward,
+a *really* good kind that she couldn't stop thinking about.
 
 "I'm fine,"
 she said,
@@ -4390,60 +4393,60 @@ she repeated.
 
 "Just some bots?"
 Honesty repeated disbelievingly.
-"Didn't look like that on th' news.
-Looked like the war come back 'round!"
+"Din't looka that on th' news.
+Looka th' war come back 'round!"
 
 "It wasn't all that,"
 Iffy said dismissively.
 Honesty had changed the tattoos on her cheeks again, she noticed.
 And she'd done some more embroidery on the cuffs of her coat to match.
 
-"But what happened?
-I mean, really happened, not just official happened?"
+"But what happen?
+I mean, really happen, not just official happen?"
 Honesty slipped her arm through Iffy's
 as if it was the most natural thing in the world
-and began walking toward her family's workshop at the end of the canal.
+and steered her toward her family's workshop at the end of the canal.
 
 Iffy felt into step alongside her,
 desperately hoping her friend couldn't hear her heart thudding in her chest.
 Honesty---properly, Honesty's Third, but only her olders called her that---was three years her senior.
-She had been singing on a street corner across from the Dance Hall market
-when Iffy first saw her.
+She had been singing on a street corner across from the Dance Hall the first time Iffy saw her.
 She hadn't meant to stop,
 but then Honesty caught her eye and smiled in the middle of a chorus
 without missing a beat.
-Iffy had only seen her half a dozen times since then,
+They'd only spent time together half a dozen times since then,
 but each time had been---
 
 "Sorry?" she said belatedly.
 
 Honesty rolled her eyes.
 "I *said*,
-why were you up there?
-You gettin' fancy or somethin'?"
+why're you up along there?
+You gettin' fancy or some?"
 
 "I ain't never gettin' fancy!"
 Iffy protested automatically,
 her accent thickening unconsciously to match her friend's.
 "We just kinda got dragged inta things."
-She summarized Johnson Wales and the last few days as briefly as she could,
+She summarized the last few days as briefly as she could,
 skating past what had happened to the Zillion ship
 and her part in assembling the bot that had saved them at the mansion.
 She still didn't want to think about that...
 
-Her story still left Honesty wide-eyed.
+Even with those gaps,
+her story left Honesty wide-eyed.
 "Tay bangle, that's a real adventure, innit?"
 She bumped her hip against Iffy's,
 but her tone turned serious as she nodded at the Marine cutter under repair beside them.
 "So's that why we got th' ganky to finish up this 'un?
 'Cuz my First,
-she thought we had a coupla weeks f'r th' job,
-but the blues come along day b'fore last an' said we gotta be done t' sail soonest."
+she thought we had a coupla weeks f'r it,
+but the blues come along day b'fore last an' said we gotta be crannup t' sail soonest."
 
-Iffy gulped.
+Iffy swallowed drily.
 Two days past was the day Wales had made the sea boil
-and sent the Zillion ship to the bottom.
-"Yeah, prob'ly," she mumbled.
+and sent the *Taroona* to the bottom.
+"Yeah, prolly," she mumbled.
 
 Honesty bumped her hip against Iffy again.
 "Good,"
@@ -4452,47 +4455,39 @@ she said firmly.
 Second wants t' make another li' sister,"
 she confided with a grin.
 "Wou'nt that be a thing?
-Now c'mon---I bet there's tea brewed."
+Now c'mon---I bet there's tea brewa."
 She unhooked her arm from Iffy's and took the younger girl's hand.
 
 Iffy's mind whirled.
 Another clone?
-It made sense---Honesty had turned sixteen,
-so they'd be spaced far enough apart to be on the right side of legal---but...
+It made sense---Honesty had just turned sixteen,
+so she and a younger clone would be spaced far enough apart to be on the right side of legal---but...
 Before she blurt out any of the dozen questions swirling around in her head,
 Honesty squeezed her fingers painfully hard and shot her a warning sidelong glance.
 
 Iffy's mouth snapped shut.
 Thumb, middle finger, first finger, middle finger...
 She almost stumbled as she recognized the code
-that people had developed to hide what they were saying from robot surveillance,
+that resistance fighters had developed to hide their words from surveillance during the robot wars,
 and that children now used to keep secrets from adults.
 Little finger and fourth finger together,
 middle finger,
 middle and fourth...
 The words and letters took shape in her head as Honesty tapped them out.
-The Marines were watching.
+The blues were watching.
 They had left some cheese behind
 (no, that didn't make any sense, Honesty must have meant some cameras),
 so they had to be careful what they said.
 
-There was no point trying to spot the cameras.
-They could be as small as grains of sand,
-as long as there were enough of them.
-Each would pass information to the next in low-energy bursts of not-quite-static
+There was no point trying to spot the cameras---they could be as small as grains of sand.
+Each would pass information to its equally small neighbors in low-energy bursts of not-quite-static
 until it reached whatever bored Marine had been told to keep an eye on the repair yard.
 A core would have done a better job---it wouldn't get bored or doze for just a moment
-despite its induction conditioning---but if people ever thought that
-the governor was using cores for surveillance,
-they'd strike.
+despite its induction conditioning---but if the governor ever used cores for surveillance,
+he'd have a riot on his hands.
 
-She squeezed Honesty's hand twice to signal that she understood.
-The machine wars had ground down to a finish years ago,
-but the tricks people had used to stay alive and fight back
-still worked---at least,
-Iffy hoped they did.
-
-When Iffy made to loosen her grip,
+She squeezed Honesty's hand twice to signal that she understood,
+but when she loosened her grip,
 Honesty tightened hers.
 Iffy waited for more taps.
 When they didn't come,
@@ -4514,27 +4509,26 @@ Honesty pouted.
 her First said unapologetically.
 Her Second looked up from her workbench long enough to grin.
 Her magnifying glasses made her eyes look cartoon-huge
-in a face that showed how beautiful Honesty's would be in a few more years.
+in a face that showed how beautiful Honesty's would be in the years to come.
 
 "What bad news?"
 Iffy asked.
 
 "My call-up came 'long yesterday," Honesty said reluctantly.
-"Whole bunch o' folk 'long the docks got 'em.
-We gotta go do induction t'night."
+"Whole buncha folk 'long the docks got 'em.
+We gotta do induction t'night."
 
 Iffy's stomach flip-flopped.
-"Tonight?
-Why so soon?"
+"Tonight?"
+*But I just got here!* she thought despairingly.
 
 Honesty shrugged,
 settling herself on a stool next to the square meter of workbench
 where she salvaged the easier bits and pieces of tech that came her family's way.
-"Dunno.
+"Yeah.
 Lotsa folk are wonderin' why the quaddy quaddy,
-but the blues ain't saying',
-'cept that it came straight from th' governor.
-Figure it's got somethin' to do with th' bots going gonjy 'long th' mansion?"
+but the blues ain't sayin' bunga 'cept that it come along straight from th' governor.
+Figure it's got somethin' to do with th' bots going gonjy 'long yesterday?"
 
 "I dunno,"
 Iffy said.
@@ -4547,9 +4541,9 @@ What would it do to her friend?
 Honesty's First said.
 Her face and smile were more practiced versions of her grand-younger's.
 Where Honesty had temporary tattoos,
-her First had a fine network of scars left behind by some long-ago accident.
-She tossed the piece of tech she'd been patiently scraping clean to Iffy.
-"Bet you know what that's for."
+her First had whorling blue lines that turned the scars left by some long-ago accident into something like art.
+She tossed the piece of tech she had been cleaning to Iffy.
+"Any gunna what that's for?"
 
 Iffy caught it and turned it over in her hands.
 It was made of metal, and heavier than she'd have guessed.
@@ -4565,7 +4559,7 @@ and micro-manipulators to tease it all apart,
 and at the end all they'd have would be---
 
 "It's a differential separator pump," she told Honesty's First
-as the shapes came together in her head to form an answer.
+as shapes and clues came together in her head to form an answer as clear as it was impossible for her to know.
 "Prob'ly hooks up to a centrifuge or somethin'
 for filterin' blood durin' surgery."
 
@@ -4581,9 +4575,8 @@ and set it on the to-do rack that lined the wall behind the workbench.
 The box she passed to Iffy opened to reveal squares woven from fractal carbon fiber,
 each the size of her nature book
 and as thin as half a dozen pages together.
-It took her a second to realize that the little grommets patterned across the squares were rotors.
-The sheets were drones,
-but not any kind that Iffy recognized.
+It took her a second to realize that the little grommets patterned across the squares were rotors,
+and that the squares were some kind of flexible drone.
 She turned one over in her hands.
 "Dunno," she admitted.
 "How d'you switch it on?"
@@ -4594,8 +4587,8 @@ Honesty's First said cheerfully.
 
 "Shaw,"
 her Second said,
-looking up from the machine she had spent the last three months trying to reassemble.
-"They's too fine made jarra game.
+looking up from the machine she had probably spent the last three weeks trying to reassemble.
+"They's too fine jarra game.
 I's fer they bin up some kinda survey mappin'."
 
 "Mebbe,"
@@ -4609,43 +4602,43 @@ Iffy shook her head.
 She had told Honesty about her occasional flashes of insight,
 then told her off,
 cold and hard,
-when she discovered that her friend had relayed what she'd said to her First and Second.
-"We don't keep secrets on each other,"
+when she learned that her friend had relayed what she'd said to her First and Second.
+"We don't keep secrets on achother,"
 Honesty had said with a shrug.
 "Y'ain't aright along that,
 best we part ways now."
 So Iffy had forgiven her,
-secretly relieved that someone knew she was different---even
-by clone standards---and didn't seem to care.
+secretly relieved that her best and only friend knew she was different but didn't seem to care.
 
-When Iffy handed back the box of drones,
+When Iffy handed back the box of squares,
 Honesty's First waved her away.
 "Not much use t'us if we can't turn 'em on,"
 she said,
 though Iffy knew the little rotors would be worth a week's grocery bill
 if they were pried out and sold as parts.
 "If anythin' comes t' mind,
-you come by an' gi's the scutch, aright?
+you come by an' gi's a scutch, aright?
 An' even if nothin' does,
 we's alluz happy t'have one more fer dinner or a sleepover."
 She winked broadly.
 
-"Thanks," Iffy mumbled,
-uncomfortable as always with kindness.
+"Thanks," Iffy mumbled.
+Her upbringing had taught her how to rig sails in heavy weather and mend engines older than her foster parents,
+but not what to do when people were kind to her.
 She drained the last of her tea.
-"I gotta get back t' help Aunt Naggie do th' shopping."
+"I oughta get back t' help Aunt Naggie an' th' shopping."
 
 "Sure," Honesty said.
 "But you'll come along after an' eat?"
 She poked Iffy in the ribs.
-"Y'always too skinny."
+"Y'always maw skinny."
 
 Iffy blushed.
 "I'll ask," she said,
 mumbling again.
 
-Honesty smiled.
-"Aright.
+Honesty hooked her arm through Iffy's again.
+"Bonza.
 I'll walk you out."
 
 They held hands all the way up the canal.
@@ -4655,16 +4648,16 @@ When her induction notice arrived,
 she had fired back a message right away,
 and wouldn't you know it,
 she had to finish the last of her schoolwork anyway,
-which was *so* unfair,
-and anyway,
+which was *so* unfair.
+Anyway,
 what was the point?
 She knew tons more about salvaging old tech than the crufty old core
 that was supposed to be teaching her,
 and whatever she didn't know,
-she could learn from Iffy,
+she could learn from her First and Second or from Iffy,
 right?
 
-"I s'pose," Iffy said.
+"I s'pose," Iffy allowed.
 
 "Oh c'mon."
 Honesty bumped her hip against Iffy's.
@@ -4676,14 +4669,20 @@ The stuff you have in your head,"
 she finished admiringly,
 shaking her own in wonder.
 
-Iffy mumbled that it was just a guess,
-not wanting to admit to Honesty or herself that
-she had no idea how she knew half of what she did.
+*I'd feel better about it if I knew how it got there,*
+Iffy thought.
+For the thousandth time she wondered if her clone parents had been able to do what she could---if
+they had thought of it as a gift or a burden or both.
+And for the thousandth time,
+she wished she could ask them.
+
 They said goodbye by the bow of the Marine cutter.
 One of the repair bots paused a moment to watch them kiss,
 its simple-minded core wondering who was repairing whom,
 then erased the thought as Iffy hurried back into town
 to the Dance Hall and her aunt.
+
+--HERE--
 
 The streets around the market were crowded by the time Iffy got there.
 Four Indonesian Mormons handed out glossy animated pamphlets

@@ -2903,8 +2903,8 @@ Wales cursed under his breath.
 Uncle Jack demanded.
 
 "Some kind multipath radar rig,"
-Wales said.
-"They didn't have it three days ago."
+Wales muttered.
+"They sure as hell didn't have it three days ago."
 
 "Is that bad?"
 Iffy asked anxiously.
@@ -2912,7 +2912,7 @@ Iffy asked anxiously.
 "It means they can tell something's out there,
 but they can't have a lock on it.
 I hope,"
-Wales amended fervently.
+Wales amended grimly.
 "But look---there she is,
 the pride of the Tasmanian fleet."
 The *Taroona*'s outline suddenly came into focus
@@ -2970,7 +2970,7 @@ it'll slow her down or scare her off."
 "'If' don't help us," Uncle Jack spat.
 
 "Leave that to me,"
-Wales said grimly.
+Wales said.
 Thin white lines appeared and disappeared on the display
 as he and the *Guinevere*'s core explored a thousand possible futures.
 After a couple of seconds,
@@ -4188,14 +4188,15 @@ or whose own parents had more money than good sense.
 "And every once in a while I need a reboot,"
 Wales said.
 He tapped the tech in his temple.
-"This and my neurological tweaks don't get along as well as they were meant to.
+"This was designed for baseline human physiology.
+It doesn't get along with my upgrades as well as I'd like.
 If I don't re-set every few years,
-my nervous system will start to shut down.
+my nervous system starts to shut down.
 I used to be able to get it fixed in Nairobi,
 but since the civil war re-started..."
 He shrugged.
 "As far as I know,
-that base is now the last place on Earth with the gear I need."
+that base is the last place on Earth with the gear I need."
 
 The governor nodded slowly.
 "Interesting."
@@ -4682,8 +4683,6 @@ its simple-minded core wondering who was repairing whom,
 then erased the thought as Iffy hurried back into town
 to the Dance Hall and her aunt.
 
---HERE--
-
 The streets around the market were crowded by the time Iffy got there.
 Four Indonesian Mormons handed out glossy animated pamphlets
 advertising their church's insurance policies,
@@ -4694,11 +4693,11 @@ they just had to look at the data and they would see the truth!
 A bot with a rasping voice and an ancient plastic mask for a face
 told stories to a circle of wide-eyed children.
 Its cut-out paper puppets danced as Zuko battled Princess Leia
-while Aang struggled to free Elsa from the grip of the evil robot Wintermute.
+while his boyfriend Aang struggled to free Elsa from the evil robot Wintermute.
 Two bald women who might have been twins but were probably just clones
-wheeled a cart piled high with blankets woven from tweaked moss
-past two men arguing beside another cart piled just as high
-with sheets of diamond so clear that only the rainbows they cast on the ground gave them away.
+wheeled a cartful of blankets woven from tweaked moss
+past two men arguing beside another cart piled high
+with curved sheets of diamond that cast quivering rainbows on the ground.
 The smell of soy being fried in ginger
 mixed with the wet steamy warmth from rice cookers,
 the salty tang of tweaked seaweed being boiled into soup,
@@ -4709,7 +4708,7 @@ Iffy paused longingly in front of a stall selling rats with startling blue eyes.
 Or snacks!"
 the man said,
 hastily adding, "Just kidding! Just kidding!"
-when Iffy scowled.
+when Iffy scowled at him.
 "And look!"
 He leaned over and said,
 "Ratty want a cracker?"
@@ -4766,15 +4765,13 @@ She shook her head and slowly peeked around the carpet's edge.
 
 There,
 just a couple of meters away,
-stood Aunt Naggie and a slim Asian man
-in a brown and gray suit that was probably as old as the *Guinevere*.
+stood Aunt Naggie and an elderly Asian man
+in a patched brown and gray uniform of the old Ecological Corps.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
-but from the way they were looking at each other
-she was pretty sure they weren't discussing
-how quickly the latest batch of tweaked microbes brought in from India
-were turning 'Nardica's barren rocks into soil.
+but from the way they were looking into each others' eyes
+she was pretty sure they weren't discussing topsoil formation.
 
-The man in the suit handed Aunt Naggie something
+The ecologist handed Aunt Naggie something
 and leaned forward to kiss her on the cheek.
 The space above their heads flickered as he did so.
 It was another video carpet,
@@ -4784,7 +4781,8 @@ It flickered again as Aunt Naggie pulled the man closer and kissed him for real.
 
 Iffy's stomach flip-flopped the way it did
 when she read some of the steamier passages in the romances Aunt Naggie loved so much.
-The salesman stepped back and forced his features into a bland salesman's smile.
+The ecologist stepped back,
+a bland smile replacing the genuine warmth of a moment before.
 He gestured at one of the carpets hanging on a display rack beside him.
 "Perhaps this one?"
 he asked a little too loudly.
@@ -4797,9 +4795,9 @@ There is no cause for alarm!
 This safety notice is brought to you by Volkov's Hot Sauce!"
 
 A high-pitched alarm began to ping.
-The salesman looked up
-as the drone that Iffy had seen earlier buzzed lower.
-She glanced toward the entrance at the sound of boots and angry shouts.
+The ecologist looked up
+as the drone that Iffy had seen earlier buzzed lower,
+then glanced toward the entrance at the sound of boots and angry shouts.
 A squad of Marines in exoskeletons were clanking through the crowd,
 visors down and shock sticks in their hands.
 
@@ -4809,61 +4807,69 @@ And try Volkov's---there's nothing hotter this side of the Cairo Crater!"
 The drone jinked sideways to dodge a thrown scrap of bamboo.
 Something clanged off a Marine's exoskeleton.
 Someone shouted,
-"Show us yer warrant!"
-Other voices took up the cry.
 "Show us yer warrant 'r show us your backside!"
+Other voices took up the cry.
+"Show us yer warrant!"
 
 *Great,* Iffy thought, *Another affin' dock fight.*
 She pulled aside the carpet she had been hiding behind
-and hurried toward Aunt Naggie just in time to hear the salesman say,
-"Please, you must get out of here."
+and hurried toward Aunt Naggie just in time to hear the ecologist say,
+"Please, you should go."
 
-Aunt Naggie shook her head.
-"I ain't leavin' you."
-Then she caught sight of her foster daughter.
+Whatever Aunt Naggie might have replied was cut off by the sight of her foster daughter.
 "Iffy?"
-she gaped.
+she gasped.
+"What're you doin' here?"
 
-The salesman's face fell.
-"Kwan's Fifth?
-What are you doing here?"
-He turned to Aunt Naggie.
-"She mustn't be here!"
+"Came lookin' for you,"
+Iffy said breathlessly.
+She nodded at the ecologist.
+"H'lo.
+I'm---"
 
-"She ain't supposed t' be!"
+"---Fifth of Ang Kwan,"
+he finished,
+bowing slightly.
+"It's a pleasure to meet you.
+Nagatha has told me a great about you."
+
+"Hasn't told me anything about *you*,"
+Iffy said,
+immediately regretting it.
+
+But the ecologist simply smiled.
+"That's probably for the best."
+
+"But Iffy, you ain't supposed t' be here!"
 Aunt Naggie said helplessly.
-"Iffy---I thought you were down along th' docks?"
+"I thought you were down along th' docks?"
 
 "I was," Iffy said defensively.
 "What's goin' on?"
 
-"What's going on is that you two are *leaving*,"
-the salesman said firmly,
-turning Iffy and Aunt Naggie around
-and pushing them toward the exit.
+--HERE--
 
 Aunt Naggie dug in her heels.
 "No."
-She turned back to the salesman.
-"If it ain't safe for us to stay,
-it ain't safe for you neither."
+She took hold of the ecologist's hand.
+"It ain't safe for you here no more."
 
-The look on Aunt Naggie's face stopped whatever the salesman had been about to say.
 "*Im awa pfa ta,*"
-he muttered under his breath,
-shrugging off his suit jacket
-and pulling a video carpet over his shoulders like a poncho.
+he muttered under his breath.
+"Fine."
+He shrugged off his suit jacket
+and pulled a video carpet over his shoulders like a poncho.
 The image flickered and reformed to show a bright orange parka
 festooned with wartime service badges.
 A knit cap from a nearby box pulled down low over his head sparkled briefly
-before displaying a full head of curly red hair.
+before displaying a full head of curly black hair.
 It wouldn't fool a human being,
 not for an instant,
 but the drones overhead weren't allowed to be any smarter than seagulls.
 
 The drones...
 "Wait!"
-Iffy knelt and pulled the box of strange drones out of her pocket.
+Iffy pulled the box that Honesty's First had given her out of her pocket.
 "C'mon c'mon c'mon," she muttered.
 "Please, just this once."
 She had never been able to control her flashes of intuition.
@@ -4881,24 +4887,21 @@ A thin film in the center of the drone peeled back to reveal a foil battery,
 a hair-thin fractal antenna,
 and---
 
-"Shway boo," she whispered unbelievingly.
-The dronelet's crystal core was enormous---almost as big as a grain of rice---and
-the flat, unreflective black that meant it had been grown in orbit.
-If its twins had similar cores,
-the three drones together would be worth as much as the *Guinevere*.
+"*Shway boo*," she whispered unbelievingly.
+The dronelet's crystal core was huge---twice the size of a grain of rice---and
+its flat, unreflective black surface meant it had probably been grown in orbit.
+If the other drones had similar cores,
+then together they would be worth almost as much as the *Guinevere*.
 
 "Iffy, what're you doin?"
-She ignored her foster mother and the alarms and the pressure of the salesman's glare
+She ignored her foster mother and the alarms and the pressure of the ecologist's stare
 as she pulled tools out of her pockets.
 
 "You got any scraps this big?" she asked over her shoulder,
-holding her hands a few centimeters apart for an instant
-before opening two other drones.
-Sure enough,
-their cores were identical.
+holding her hands a few centimeters apart.
 
 "Here."
-The salesman handed her half a dozen swatches of video fabric,
+He handed her half a dozen swatches of video fabric,
 each the size of a handkerchief.
 Iffy measured one against a drone,
 then winced as she pried two of the rotors out of the stiff black fabric.

@@ -1,4 +1,4 @@
-# The Bookster's Apprentice<br>Greg Wilson
+# The Cloudherd and the Tiger's Boy<br>Greg Wilson
 
 *Consider Cherne.  A diamond adrift in the heavens, it measures eight thousand
 gallops from north to south and six thousand from east to west.  Its single

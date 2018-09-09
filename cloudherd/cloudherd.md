@@ -136,3 +136,95 @@ didn't realize.  I'm sorry."
 
 The soldier nodded.  "Me too."  He looked back at the patch of rock, where the
 swarm of squirrels had already torn the tents to pieces.  "Me too."
+
+---
+
+*Earlier that day...*
+
+Noxy and Sensy volunteered to collect spiderwebs that morning---or rather, Noxy
+volunteered them both and Sensy went along with it like she always did.  Winter
+had finally turned to spring; stubborn crusts of snow still lurked in the
+shadows of the twisted mountain pines, but the sun shone diamond-bright in a
+clear blue sky, and carding yak wool indoors suddenly seemed unbearable.
+Besides, getting out of the village would give them a chance for a talk that
+Noxy thought was long overdue.
+
+"Shoo."  She poked a fat brown spider with a stick.  It waved its hairy forelegs
+at her indignantly before scuttling away to make a new home.  Noxy cut its web's
+anchor threads with two practiced twists of her knife and began winding it onto
+a stick.
+
+"Do you think I should put new buttons on my coat?" Sensy asked.
+
+Noxy glanced at her.  "Why? Are those ones coming loose?"  She had been trying
+for an hour to think of a way to broach the subject of their mutual friend Rash,
+who was the only boy their age in the village of Stale.
+
+"No, they're just kind of plain." Sensy looked down at her soft brown goofskin
+coat critically.  "Granna Fee has some really nice red ones.  She said she'd
+give them to me if I picked the stones out of her pepper garden."
+
+"Her whole garden? That would take forever." Noxy shook the dew off the spider's
+web and stuffed it into the loosely-woven bag slung over her shoulder.  "Why
+would you do all that work for buttons you don't need?"
+
+"Oh, you're no help," Sensy pouted.  She had spent the winter embroidering red
+and green patterns on her jacket's cuffs and collar.  All she seemed to want to
+talk about any more was her clothes, and her hair, and the boys she and Noxy
+might meet that summer.  The only thing she *didn't* want to talk about was
+Rash.
+
+"A lot of girls are like that when they get their changes," Granna Fee had said
+when Noxy had complained about the flighty stranger who seemed to have taken her
+best friend's place.
+
+"Not me!" Noxy had declared.
+
+Her grandmother had laughed.  "No, sweetling, not you."
+
+The three children had grown up together, done chores together, played tag and
+make-believe in the forest around Stale together, and learned to mind-speak with
+clouds together, but something had changed that winter.  Sometimes Noxy saw
+Sensy look at Rash, or Rash look at Sensy, and then look away as if they felt
+guilty or were afraid they might blurt out a secret.  Other times they just sat
+there not speaking.  If her two best friends were mad at one another, Noxy
+thought it was her job go sort it out.
+
+Noxy slung her bag over her shoulder.  "Come on, let's go look for some more."
+She set off without waiting for an answer.  A moment later Sensy scrambled to
+catch up with her.
+
+The path was one of dozens that snaked through the evergreen forest surrounding
+Stale.  Mud made it slippery where it wasn't slick with ice, but Noxy didn't
+slow down until she reached the ridge above her home.
+
+Below her lay the ancient walls of the fortress that held the village of Stale.
+The centuries had rounded the edges off the Pilots' stonework, making it look
+like a snow fort that was just starting to melt, but it was still as solid as
+the mountains themselves.  The villagers' two-story wooden houses sheltered
+inside the fortress like ducklings in a nest.  Thin licks of smoke rose from
+their slate chimneys, while goof pens, vegetable plots, and racks laden with
+drying spiderwebs filled the spaces between them.
+
+To the west, the wall dropped straight into a steep-sided gorge.  A net woven
+from spider thread stretched over its top, as light as a dream but as strong as
+steel.  Another net hung down at the gorge's mouth to make a gate.  Inside, just
+visible from the ridge, two gray clouds floated half-asleep.
+
+Noxy had spent every moment she could that winter watching the clouds, riding
+them, and, most importantly, practicing mind-speech with them.  Grownups called
+Big Blue and Pillow slow and lazy, but they and the herd of half-wild clouds
+grazing on the mountain peaks in the distance were the most exciting things in
+Noxy's world.
+
+As Noxy started to slide her bag off her shoulder, Sensy grabbed her.  "Look!"
+she hissed, pointing into the trees.  For a moment all Noxy saw was branches.
+Then a pair of dark eyes blinked, and her mouth went dry.
+
+She and Sensy backed up one slow step at a time.  A sudden rustling behind them
+made them freeze.  Holding her breath, Noxy looked over her shoulder.  A second
+troll hung by one hand from a branch behind them, blocking their escape.
+
+"Wh-what are they doing?" Sensy whispered loudly.  "What are they doing *here*?"
+
+"Shush!" Noxy squeezed her friend's arm.  "Just... don't... move."

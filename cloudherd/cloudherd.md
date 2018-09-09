@@ -1,5 +1,3 @@
-# The Cloudherd and the Tiger's Boy<br>Greg Wilson
-
 *Consider Cherne.  A diamond adrift in the heavens, it measures eight thousand
 gallops from north to south and six thousand from east to west.  Its single
 continent is surrounded on all sides by a great ocean whose outer shore, the

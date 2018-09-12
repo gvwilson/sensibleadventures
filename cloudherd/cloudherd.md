@@ -217,14 +217,74 @@ Big Blue and Pillow slow and lazy, but they and the herd of half-wild clouds
 grazing on the mountain peaks in the distance were the most exciting things in
 Noxy's world.
 
-As Noxy started to slide her bag off her shoulder, Sensy grabbed her.  "Look!"
-she hissed, pointing into the trees.  For a moment all Noxy saw was branches.
-Then a pair of dark eyes blinked, and her mouth went dry.
+As Noxy pulled her bag off her shoulder, Sensy grabbed her arm.  "Look!"  she
+hissed, pointing into the trees.
 
-She and Sensy backed up one slow step at a time.  A sudden rustling behind them
-made them freeze.  Holding her breath, Noxy looked over her shoulder.  A second
-troll hung by one hand from a branch behind them, blocking their escape.
+At first all Noxy saw was branches.  Then a pair of dark eyes blinked, and her
+mouth went dry.  Black fur framed a round face with heavy brows and a gray
+muzzle.  The troll blinked again and pulled a branch aside with one long, hairy
+arm.
 
-"Wh-what are they doing?" Sensy whispered loudly.  "What are they doing *here*?"
+Noxy and Sensy took a step back, then another.  A sudden rustling behind them
+made them freeze.  With her breath caught in her throat, Noxy looked over her
+shoulder.  A second troll hung by one hand from a branch behind them, blocking
+their escape.
 
-"Shush!" Noxy squeezed her friend's arm.  "Just... don't... move."
+"Wh-what are they doing here?" Sensy whispered loudly.
+
+"Shush!" Noxy said.  "Just... don't... move."
+
+Branches rustled overhead.  Two--- three--- four trolls swung by, except no, the
+fourth didn't swing by.  It stopped and looked down at them.  Its fur was shot
+through with gray, and even from five strides below it Noxy could see the long
+red scar that ran up the length of its left leg.
+
+Something twinged in the back of her head like the start of a headache.  She
+felt dizzy, and for a moment it was as if *she* was in the tree looking down at
+herself.
+
+A sudden roar broke the moment. The troll hooted and vanished into the forest.
+Noxy and Sensy each let out a long shaky breath---
+
+---and screamed as a tiger burst out of the trees half a dozen strides in front
+of them.  His fur was yellow-brown with dark brown stripes, not orange and black
+like the picture in the book that three generations of village children had
+passed around.  A pair of golden earrings hung from his left ear, and his tail
+twitched slightly as he looked at them, as if their presence reminded him that
+he had not yet eaten lunch.
+
+"Are you all right?" he rumbled.
+
+"Wh-what?" Noxy stammered.
+
+"Are... you... all... right?" the tiger repeated impatiently.  "Did those
+blasted chimpanzees harm you at all?"
+
+"No, they---I mean, we're all right.  We're fine, thank you very much.  Ouch,
+Sensy, you're going to break my fingers!"  Noxy pulled her hand free from her
+friend's terrified grip.
+
+"Pilots be praised," he rumbled, settling onto his haunches.  "Now, if I may ask
+a favor, I am looking for the village of Stale Leftovers.  Would you be so kind
+as to direct me?"  His ear twitched at the sound of a distant hoot.  "Or if
+perchance you are going that way yourselves, I would be honored to accompany
+you.  Those creatures are unlikely to try another attack if you have a
+protector."
+
+Noxy hitched her bag up on her shoulder.  "They didn't attack us.  We---I mean,
+the village has an arrangement.  With the trolls.  We don't go too far into the
+forest, and they don't come near the village except for when they want to trade,
+and they leave some stones down by the fish pond to tell us when they want to do
+that, and---" She stopped herself and took a deep breath.  "I'm sorry.  Who are
+you?"
+
+"I am Kulbinder of Thind," the tiger said, rising to all fours.  "And if you
+will forgive my impatience, my need is rather pressing.  My companions are in
+dire need of rescue, and it may already be too late.  I need to reach Stale
+Leftovers *now*."
+
+Noxy shot a look at Sensy.  Her friend shook her head slightly and mouthed "no".
+That was enough to make up Noxy's mind.
+
+"It's this way," she said, pointing down the path.  "We're both from there, and
+we'd be happy to show you the way."

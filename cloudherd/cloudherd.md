@@ -100,9 +100,13 @@ suddenly stopped hooting.
 "Grappa---" she started to say.
 
 "I heard it!" Grappa Gas snapped.  Cursing, he yanked another soldier up onto
-the cloud.  Half a dozen of the canvas-wrapped bundles now lay together in a
-pile surrounded by twice that many men.  "Spread yourselves out, you numbskulls!
-Come on, Fee, we gotta fly!"
+the cloud.  This one was just a boy, Noxy realized, no older than she was with a
+frightened, determined look on his scarred face.  He took two steps before his
+feet slipped out from underneath him and sent him sprawling beside one of the
+half-dozen canvas-wrapped bundles that lay together in a pile.
+
+"Spread yourselves out, you numbskulls!" Grappa Gas thundered.  "Come on, Fee,
+we gotta fly!"
 
 Noxy's grandmother clambered up Big Blue's flank with a speed born from decades
 of practice.  "Now or never!" she yelled at the soldier who had been lifting up
@@ -280,11 +284,66 @@ you?"
 
 "I am Kulbinder of Thind," the tiger said, rising to all fours.  "And if you
 will forgive my impatience, my need is rather pressing.  My companions are in
-dire need of rescue, and it may already be too late.  I need to reach Stale
-Leftovers *now*."
+danger, and in dire need of rescue.  It may already be too late---I need to
+reach Stale Leftovers *now*."
 
 Noxy shot a look at Sensy.  Her friend shook her head slightly and mouthed "no".
 That was enough to make up Noxy's mind.
 
-"It's this way," she said, pointing down the path.  "We're both from there, and
-we'd be happy to show you the way."
+"It's this way," she said, pointing down the path.  "Come on!"
+
+It only took them a few minutes to reach the gap in the fortress wall where an
+enormous stone door had once hung.  A few chunks of its shattered remains lay
+half-buried in the ground, too big for even a team of sturdy mountain camels to
+pull free.  The wooden gate that Stale's human inhabitants had put up to fill
+the gap was three planks thick, but still looked like a child's toy set into the
+Pilots' ancient work.
+
+Grappa Gas was sitting on one of the stones whittling a new leg when they came
+out of the trees.  He raised a hand in hello, then swore and clambered to his
+feet at the sight of the tiger.  "Saints and their creations!"  He pointed
+accusingly with his whittling knife.  "What in the underhells is this?"
+
+"*This* is a who, not a what," Kulbinder replied curtly, his tail bristling.
+
+"We met him up by the spider grove," Noxy said hurriedly.  "There were some
+trolls, and he scared them off.  He says---"
+
+"Trolls?"  Grappa Gas interrupted incredulously.  "Can't be.  They haven't come
+down this far in---"
+
+"Grappa!"  Noxy stomped her foot.  "Never mind that now!  The tiger says people
+are hurt and need help.  At least, I think they're people," she added.
+
+"They are as human as you are," the tiger said.  "Are you the *tralpa* here, or
+the reeve?"
+
+Grappa Gas snorted.  "Not likely, but I can take you to them."
+
+Ten minutes later, the whole village was in the cobbled square---or rather, the
+whole village minus most of the adults, who had left a week ago for the
+snowfields to collect Stale's clouds from their winter pasture.  Three hundred
+people, from babies in their parents' arms to those babies' grandparents, stood
+in a half-circle around the impatient tiger.
+
+Noxy's mother Indy thumped the speaker's drum three times and stepped up onto
+the squared-off stone that marked the center of the square.  "Friends," she said
+loudly, patting the air with her hands to quiet everyone.  "Friends, please.
+Thank you all for coming.  I know it is early in the year for travellers, but
+please, give a true mountain welcome to Kulbinder, a Gifted of Thind."
+
+"Welcome... welcome... be welcome..." Some voices were hearty, some just
+murmurs, and some people didn't speak at all, but Noxy's mother took it all in
+stride, just as she always did.
+
+Someone bumped their shoulder against Noxy's.  "Hey," Rash said, slipping
+between her and Sensy.  "Where's the *tralpa*?  Is he too afraid of the tiger to
+come out and say hello?  Or has he been up all night 'studying' again?"
+
+"Shush!"  But he was right---the king's representative was nowhere to be seen.
+
+Indy thumped the speaker's drum again.  "The Gifted has told me that he and his
+companions were trying to get through the pass to Chaghan.  An avalanche forced
+them off the road and into the forest."  She swept her gaze across the assembled
+villagers.  "The forest got angry.  Some of them have died, and the rest need
+rescue."

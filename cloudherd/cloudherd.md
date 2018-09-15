@@ -409,8 +409,119 @@ about the politics later.  Right now, there's folk in trouble, and I won't have
 it said that the people of this village ever turned their backs on those that
 needed help."
 
-*Clap clap.* Granna Fee waited for Indy to nod at her, then asked, "What about
-the *tralpa*?  I expect he's going to have something to say about us helping
-rebels."
+*Clap clap.* Granna Fee waited for Indy to nod at her before speaking. "What
+about the *tralpa*?  I expect he's going to have something to say about us
+helping rebels."
 
 Indy's smile was as cold as the distant peaks.  "I'll ask him when he wakes up."
+
+---
+
+The next five minutes were chaos.  Out of the question, Grappa Gas said,
+whacking his wooden leg with his cane to emphasize his points.  The law might
+forgive them giving shelter to a bunch of strays who wandered in out of a storm,
+even if they were rebels, but flying off to rescue their friends?
+
+And what would other cloudherds say if they heard that Stale had left people in
+the forest to die, Aft shot back.  Pilots and saints, what would their own kin
+say when they got back from up the mountain?
+
+The argument swirled and churned across the cobblestones.  Little whirlpools of
+disagreement came together, spun about, and flew apart as people overheard
+neighbors they disagreed with, or turned around to agree with something they had
+overheard and were sucked into yet another "what if?"
+
+"This is going to go on forever," Noxy said sourly.  "They all know they're
+going to do whatever my *amma* want to do in the end---why don't they just get
+on with it?"  She, Sensy, and Rash stayed together in a knot on the sidelines,
+old enough that they hadn't grown bored and run off to play like the younger
+children, but young enough that the whole thing seemed vaguely ridiculous.
+
+Rash ran a finger along the lip fuzz he insisted on calling a mustache.  It had
+become a habit over the winter, one that Noxy had told him countless times he
+ought to break before *someone* broke his stupid finger.  "What I want to know
+is whether we're going to get to go, or if we're going to be stuck here with the
+littles."
+
+"Of course we'll get to go!" Noxy exclaimed.
+
+"Are you sure?"  Rash raised an eyebrow, another annoying habit he had
+cultivated over the winter.
+
+Noxy puffed an annoyed breath, biting off her "of course I'm sure!"  when she
+caught Sensy's uncertain look.  "Wait here," she said with a scowl.
+
+She strode through the crowd to the speaker's stone and caught her mother's
+eye.  Before Noxy could speak, Indy said, "Oh, and I think you've met my
+daughter, Probably Noxious."
+
+"The honor was mine," the tiger rumbled, flicking an ear in what might have been
+the feline equivalent of a very small bow.
+
+Noxy hesitated, wondering if she was supposed to bow back, and was immediately
+annoyed at herself.  Cloudherds didn't bow---that was a silly lowlander custom.
+"Just call me Noxy," she told him.  "*Amma*, which cloud do you want me and
+Sensy and Rash on?  We can go and start getting them ready while everyone's
+still jawing."
+
+Indy gave her daughter a look that Noxy knew all too well.  "Who said anything
+about you three going?"
+
+But Noxy knew her mother almost as well as her mother knew her, and had
+assembled her arguments as she crossed the square.  They were definitely old
+enough---why, they were all going to be riding *real* clouds in a few weeks, not
+just tame old pair floating about in the cloud pen.  And they wouldn't be going
+far, just a few gallops down the pass, and it was really important for
+cloudherds to know how to do rescues, wasn't it?  And---
+
+"Stop."  Her mother held up a hand, not noticing or just ignoring the looks on
+the faces of the villagers who had overheard Noxy's torrent of words.  "You can
+go.  But!" she continued, "But you ride with Grappa Gas and Granna Fee, and
+that's all you do---ride.  Understood?"
+
+Noxy nodded obediently.  "Yes, *amma*."  She had learned long ago not to keep
+asking for a whole orange when she'd already talked her mother into a half.
+
+Somehow everyone eventually realized that they agreed with Indy's decision or
+that they were so outnumbered as to make further argument pointless.  After
+that, it only took the villagers a few minutes to gather what they needed.
+Rockfalls and avalanches were common in the mountains, and more than one tinker
+or trader had needed to be lifted out of a difficult spot after running into a
+bear or being set upon by trolls.  Coils of hemp rope with spider-silk cores
+hung ready in the long shed next to the cloud pen, and everyone kept an extra
+goofskin cap somewhere handy, just in case.
+
+"You look ridiculous," Sensy told Rash flatly as he came down the wooden steps
+to the mounting platform.  He had stitched what he claimed were eagle's wings
+onto the side flaps of his cap.
+
+Rash looked her up and down.  "Really?  Because I think you look amazing.
+Excuse me."  He winked at Noxy and stepped around the speechless
+thirteen-year-old.
+
+"Ears all!" Aft called out, clapping his hands.  He had changed into heavy pants
+and a padded coat and a pair of soft boots, and his hair was pulled back in a
+thick club braid with a blue ribbon from his wife's wedding collar woven into it
+for luck.  "You know how this is done.  I'll lead on Pillow with the younglings
+as spotters."  He stabbed his finger at Rash and Sensy.  "Gas and Fee, you've
+got Blue and Noxy.  We'll down, lift, and out, quick and simple, and get
+everyone back here for soup before you can sneeze.  No adventures, right?"  He
+turned a steely glare toward Noxy, Sensy, and Rash, who nodded and mumbled, "No
+adventures."
+
+"Right!"  And without anything more than that he walked out to the end of the
+plank that stuck out three strides from the platform, looked down to check that
+Big Blue was below him, and jumped.
+
+Noxy leaned over the railing and held her breath.  One, two, three... Big Blue
+dimpled under Aft's weight as the burly cloudherd hit him dead center.  Gray
+waves rippled out across the cloud's back as Aft rolled over onto his knees and
+pressed his hands down firmly.  Noxy couldn't see his face, but she knew his
+eyes would be closed in concentration as he mind-spoke to his mount.
+
+Something twinged in the back of her head.  She blinked, momentarily
+disoriented.  "Did you say something?" she asked Sensy.
+
+"What?"  She and Rash were watching Aft just as intently as Noxy.
+
+"I said---never mind."  Noxy shook her head.  "Look, he's coming up."

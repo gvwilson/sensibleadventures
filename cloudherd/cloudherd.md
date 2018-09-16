@@ -654,3 +654,59 @@ shoulder.
 
 "Someone needs to remember to wear his glasses when he's out and about," Granna
 Fee sniffed pointedly.  Grappa Gas harrumphed again, but didn't reply.
+
+It had taken the tiger a day to hike up the pass to Stale Leftovers.  The
+cloudherds covered the same distance in less than half an hour, even with the
+headwind.  "There," Granna Fee said, pointing at a thin plume of smoke.
+
+Grappa Gas frowned, then looked at Kulbinder.  "I thought you said there were
+just a few of them."
+
+"There are fewer than we started with," he growled.  He had spent most of the
+flight crouched down to get out of the wind, his legs and tail tucked underneath
+his body.  Now he stood, arched his back, and padded forward to join Granna Fee
+at Big Blue's leading edge.
+
+The soldiers' makeshift camp sat on a barren pinnacle of rock that rose like an
+island out of the forest.  A dozen drab gray tents huddled around a small fire.
+Shading her eyes with her hand, Noxy saw a handful of men moving about, some
+propped against one another to stay upright.
+
+Grappa Gas gave a low whistle.  "The *tralpa* isn't going to like this," he
+said.
+
+"Neither is my daughter," Granna Fee replied.
+
+One of the soldiers spotted the clouds a moment later.  The cloudherds were too
+far away to hear his shouts, but there was no mistaking the urgency in the way
+he waved his arms, or the way his companions rousted their weakened and injured
+comrades.
+
+"Keep your eyes wide," Grappa Gas ordered Noxy curtly.  "Forest might be happy
+to let us take them, or it might not."
+
+It wasn't.  Without warning a hundred angry voices cawed behind them, and
+suddenly they were in the midst of a flock of gray-shouldered mountain crows,
+each one an angry feathered missle with sharp claws and a pecking beak.  Noxy
+screamed as one grabbed her hair and another took hold of her collar and pecked
+her shoulder.  She screamed again, swatting at them as Granna Fee and Grappa Gas
+yelled and did the same.  She could *feel* their anger coursing through her own
+veins.
+
+The tiger's roar sent the birds wheeling into the air above them and hurtling
+away.  Noxy slapped at her hair one last time, not quite believing that the
+attack was over.
+
+A faint shout from up ahead told her that it wasn't.  Aft spun the end of a coil
+of rope over his head to keep them at bay while Sensy and Rash batted at any
+bird that came too close.
+
+The birds swirled around them for a dozen heartbeats before veering away.  Aft
+handed the rope to Rash and knelt to press his hands against Pillow.  A moment
+later he looked up and shook his head grimly.  The cow was too frightened to
+land when the forest was this angry.  If anyone was going to rescue the
+soldiers, it would have to be the foursome on Big Blue.
+
+"Hold on!" Grappa Gas bellowed.  "It's going to get bumpy!"
+
+---

@@ -710,3 +710,57 @@ soldiers, it would have to be the foursome on Big Blue.
 "Hold on!" Grappa Gas bellowed.  "It's going to get bumpy!"
 
 ---
+
+They hardly said a word on the way back to Stale.  The young soldier even fell
+asleep, snoring gently with his head on the tiger's flank.  The others watched
+the mountains go by, too exhausted for more than an occasional flicker of
+interest.
+
+With her hand on Big Blue's back, Noxy could feel how unhappy the cloud was.  It
+wasn't just that he was carrying strangers, or that those strangers were
+bleeding and miserable.  When clouds died, they just spread out into nothing.
+The thought that something could end but still be there---that it could go from
+being alive to being like a rock or a log---made the canvas-wrapped corpses on
+his back frightening in a way that storm winds and lightning would never be.
+
+*Sh, sh, sh,* Noxy mind-spoke soothingly, stroking the cloud as if he was a
+skittish newborn goof.  *Home soon, then rest.* At that moment, she wanted it
+just as much as the cloud.
+
+Grappa Gas brought Pillow down amongst the stones in front of the village gate.
+Wearily, the soldiers up slid off the cloud to stand among the bright green
+ferns of spring.  The waiting villagers came forward to offer them men blankets
+and fleeces, then stepped back, unsure what to do next.
+
+Indy didn't let them stand idle for long---she never did.  "Get everyone up into
+the traders' hall," she ordered crisply.  "And get a couple of pots of stew
+going---and some tea.  You do drink tea, don't you?" she asked the nearest soldier.
+
+Rash and Sensy came up the trail from the cloud pen, where Aft had taken Pillow.
+"Are you all right?" Sensy asked anxiously.
+
+"I'm fine," Noxy said, thinking of how just a couple of years ago she and Sensy
+and Rash would sit together under a single big blanket while Granna Fee told
+ghost stories.  "The scariest part was the crows.  I've never seen the forest
+that angry."
+
+"I never want to again," Sensy said, shivering.
+
+Rash nudged her shoulder with his.  "Where's the tiger gone?" he asked Noxy.
+
+A terrified shout from inside the ancient walls was his answer.  A heartbeat
+later the village *tralpa* stumbled through the gate.  "There's--- there's a---
+Reeve!  Reeve!  What is *that creature* doing here?"
+
+"Saints give me strength," Noxy's mother muttered.  She caught her daughter's
+eye, sighed, and then put her second-best smile on and turned to face the king's
+official representative to the village of Stale Leftovers.
+
+Scholar Namgyal---he insisted that the villagers use the title, even though he
+had not yet passed the examination---looked as though he had drunk himself to
+sleep and only just woken up, and with good reason.  Like the soldiers who
+straightened up when they caught sight of his official gray scarf, he had the
+near-black skin of a lowlander.  Where they were lean, though, he sagged, and
+where their heads were shaved despite what they had been through, his frizzy
+hair and failed beard were as unruly as the undergrowth he trampled as he strode
+over to Indy and glared at her.

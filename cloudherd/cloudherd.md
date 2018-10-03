@@ -256,8 +256,8 @@ their escape.
 
 Branches rustled overhead.  Two--- three--- four trolls swung by, except no, the
 fourth didn't swing by.  It stopped and looked down at them.  Its fur was shot
-through with gray, and even from five strides below it Noxy could see the long
-red scar that ran up the length of its left leg.
+through with silver, and even from five strides below it Noxy could see the
+angry red scar that ran the length of its left arm.
 
 Something twinged in the back of her head like the start of a headache.  She
 felt dizzy, and for a moment it was as if *she* was in the tree looking down at
@@ -325,8 +325,8 @@ accusingly with his whittling knife.  "What in the underhells is this?"
 "We met him up by the spider grove," Noxy said hurriedly.  "There were some
 trolls, and he scared them off.  He says---"
 
-"Trolls?"  Grappa Gas interrupted incredulously.  "Can't be.  They haven't come
-down this far in---"
+"Trolls?"  Grappa Gas scoffed.  "Can't be.  They haven't come down this far
+in---"
 
 "Grappa!"  Noxy stomped her foot.  "Never mind that now!  The tiger says people
 are hurt and need help.  At least, I think they're people," she added.
@@ -429,7 +429,7 @@ needed help."
 about the *tralpa*?  I expect he's going to have something to say about us
 helping rebels."
 
-Indy's smile was as cold as the distant peaks.  "I'll ask him when he wakes up."
+Indy's smile didn't reach her eyes.  "We can ask him when he wakes up."
 
 ---
 
@@ -514,7 +514,7 @@ Rash looked her up and down.  "Really?  Because I think you look amazing.
 Excuse me."  He winked at Noxy and stepped around the speechless pair of
 thirteen-year-olds.
 
-"Was he---was he *flirting* with you?" Noxy demanded.
+"Was he---was he *flirting*?" Noxy demanded incredulously.
 
 Sensy rolled her eyes.  "I really hope not."
 

@@ -889,9 +889,9 @@ wouldn't start visiting until the last of the snow had melted, which was at
 least another month away---but Granna Fee had always said that a sweet cup of
 tea was worth a thousand words.
 
-"Mind if I sit?"  Without waiting for an answer, Grappa Gas settled himself on a
-stool that was at least as old as he was and watched Noxy drizzle the last of
-the honey into the pot.
+"Mind if I sit?"  Grappa Gas asked as he settled himself on a stool that was at
+least as old as he was and watched Noxy drizzle the last of the honey into the
+pot.
 
 "What did you find out?" she asked after a moment.
 
@@ -1049,82 +1049,112 @@ the door just as a troll landed in the narrow street in front of their house.
 She yelped and flung herself to the side as the hairy creature lunged past her
 and scrambled up the stairs on all fours.
 
-Someone shrieked on the street outside.  The tiger burst into the kitchen a
-moment later and skidded to a stop.  "Which way did it go?" he demanded, his
-ears back and his tail lashing.
+With a roar, the tiger burst into the kitchen and skidded to a stop.  "Which way
+did it go?" he demanded, his ears back and his tail lashing.
 
-The sound of a window shutter being flung open upstairs answered his question
-before Indy could.  "Wait!" she shouted as the tiger charged up the stairs, only
-to roar in frustration as his quarry squeezed through the window and escaped.
+The sound of a door banging upstairs answered his question before Indy could.
+"Wait!" she shouted as the tiger took the steps three at a time, only to roar,
+"Blast, the blighter's gone through the window!"
 
 Indy slammed the door shut and stepped in front of it.  "What in the saints'
-names are you *doing*?" she demanded as the tiger came racing back down the
-stairs.
+names are you *doing*?" she demanded as the tiger raced back down the stairs.
 
 "He was spying on us!" the tiger snarled.  "Now let me pass!"
 
 "No!" The mayor of Stale glared at him.  "This is *our* village, and you will
-*not* race around like a madman---a mad *anything*, is that clear?"
+*not* race around like a madman, is that clear?"
 
 It was the bravest thing Noxy had ever seen her mother do, and for one horrible
 moment, she was afraid it would be the last.  The muscles in the tiger's
-shoulders bunched---and then relaxed at the sound of a tentative knock on the
-door at Indy's back.
+shoulders bunched---and then relaxed.  "Hardly a mad *man*, honored," he
+rumbled, as calmly as if he was complimenting her on her taste in teapots.
 
-The tiger settled onto his haunches.  "Are you going to answer that, honored?"
-he asked, as if they had just been discussing the weather.
+Whatever Indy might have said was forestalled by a tentative knock on the door
+at her back.  The tiger twitched his whiskers.  "Are you going to answer that?"
 
-Indy waited a moment, then turned and opened the door.  "Yes?"
+Indy waited precisely as long as it would take Noxy to count to ten in her head,
+then turned and opened the door.  "Yes?"
 
 The young soldier with the scarred face saluted.  "Excuse me, honored," he
 panted, "But I'm looking for---oh.  There you are.  Sorry, honored, I couldn't
 keep up.  Did you catch him?"
 
-"I did not," the tiger growled.  "Did you see any others?"
+"No," the tiger growled.  "It turns out that these houses have windows.  Did you
+see which way the others went?"
 
 The young soldier shook his head.  He wasn't much older than she was, Noxy
 realized.  "Sorry, honored, I didn't."
 
-The tiger's tail twitched.  "Reeve?  Any idea why that chimpanzee would be
+The tiger's tail twitched.  "Reeve?  Any idea why a mob of chimpanzees would be
 creeping around the village?"
 
-"We call them trolls here," Indy said, her voice still full of steel.  "They're
-our neighbors.  And I imagine he was doing what any neighbor would do if a bunch
-of strangers showed up next door---having a look to see what's going on."
+"We call them trolls here, thank you," Indy said, her voice full of polite
+steel.  "They're our neighbors.  And I imagine they were doing what any neighbor
+would do if a bunch of strangers showed up next door---having a look to see
+what's going on."
 
 "There were some trolls up by the spiderweb orchard this morning," Noxy said,
 immediately wishing she hadn't when three heads turned to look at her.  "They
 stopped Sensy and me when we were coming back down."
 
-"How come you didn't tell me?" her mother demanded.
+"This morning? Why didn't tell me?" her mother demanded.
 
 "It's been kind of busy!" Noxy said defensively.  "Anyway, they were all bigger
 than this one.  I think," she amended.
 
-The tiger sat on his haunches.  "Chimp---*trolls* keep to themselves in Thind."
+The tiger's tail twitched.  "Big or small, they steer well clear of settlements
+in Thind."
 
-"They usually do here as well," Indy said.  She waved at the table.  "But if
-you'd like to discuss it---Noxy, is there any tea left?"
+"They do here as well," Indy said, beckoning the young soldier to come in as she
+spoke.  "We've had an arrangement with them for, oh, I don't know how long.
+They keep to the deep forest, we stay out of it, and every fall a few of their
+Gifted show up to trade whatever odds and ends they have for some dried fruit or
+candy."
 
-The tiger regarded her coolly for a moment, then blinked and looked away.
-"Thank you, honored.  Perhaps some other time.  Come, boy---we should see if the
-sergeant needs us."
+"Hrrm."  The tiger's tail twitched again.  "If they saw soldiers on the road,
+would they tell you?  Or us?"
 
-"Yes, honored."  The young soldier stepped aside to make room for the tiger to
-pass, then nodded to Indy and Noxy and closed the door quietly.
+Indy shook her head.  "Only if they were in trouble, and even then they wouldn't
+do it if the forest was angry.  As you discovered," she added to the soldier,
+who had come two steps into the kitchen.
 
-Noxy let out her breath in a long whoosh.  "Well," she said shakily.  "That
+On impulse, Noxy stuck out her hand.  "Hi, I'm Probably Noxious, but everyone
+calls me Noxy."
+
+The soldier blinked, glanced at the tiger, and then gave her hand a single firm
+shake.  "Private Thokmay, honored.  Thank you for rescuing us."
+
+"I'm glad we could help," Noxy said.  "And---I'm sorry for your loss.  Your
+losses," she amended.
+
+The soldier dipped his head.  "Thank you, honored."  He glanced at the tiger.
+
+"We should see if the sergeant needs any help with preparations," he said,
+rising to all fours.
+
+"Of course," Indy said, her voice warm once again.  "Please let him know that
+we'll be there at sundown.  And if there's anything we can do to help..."
+
+The tiger's boy stepped aside to let the great cat pass, then dipped his head to
+Indy and Noxy once again before following his master.  Noxy closed the door
+behind them and let out her breath in a long whoosh.  "Well," she said, "That
 wasn't scary at all."
 
 Her mother sat back down on her stool and squeezed her daughter's hand.  "Hardly
 at all," she agreed.  "Are you all right?"
 
 Noxy's response was somewhere between a snort and a laugh.  Her mother squeezed
-her hand again.  "Good.  Let's scramble some eggs and call it a day."  She took
-down their one frying pan and set it on the stove beside the kettle.  "Tomorrow,
-I'm going to see if I can get to know the sergeant a little better.  And maybe
-you should give the tiger's boy a tour of the village.  Let's see if we can find
-out if they have any other surprises tucked away."
+her hand again.  "Good.  How would you feel about scrambled eggs tonight?"  She
+took down their frying pan without waiting for an answer and set it on the stove
+beside the kettle.
+
+"Are you going to go and help them...?" Noxy asked as she began to set the
+table, not knowing quite how to finish the sentence.
+
+Her mother glanced at her.  "Help them send off their dead?  Yes.  You don't
+have to come if you don't want to."
+
+Noxy shrugged.  "I'll come."
 
 ---
 

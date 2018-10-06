@@ -1156,7 +1156,60 @@ have to come if you don't want to."
 
 Noxy shrugged.  "I'll come."
 
----
+They had two eggs each atop the grilled parsnips left over from the night
+before, with stewed snow cabbage and a small onion chopped almost to mush.  They
+talked sporadically while they cooked and ate, leaving sentences half-finished
+and changing direction like bats chasing bugs on a summer's evening.
+
+When they were done, Indy pushed her plate away and reached across the table to
+squeeze her daughter's hand.  "You really don't have to come, you know."
+
+Noxy squeezed back.  "I know."
+
+They dressed for the cold.  Noxy took the box of candles from the shelf beside
+the stairs while her mother carefully wound the embroidered gray scarf of her
+office around her neck.  With a brief prayer to the named and nameless saints,
+Indy lit one of the candles and stood it on the table so that they would come
+home to light.  They closed the door behind them with a soft click and set off
+toward the square.
+
+A handful of other villagers joined them, Grappa Gas and Granna Fee among them,
+but no one spoke.  When they reached the square, they found the soldiers well
+enough to stand already waiting.  They had cleaned their armor, or nearly, and
+what bandages were in evidence were fresh.
+
+Kulbinder and Private Thokmay stood a little to the side, the young soldier's
+hand resting on the nape of the tiger's neck.  He withdrew it when Noxy nodded
+to him, but returned her nod.  The tiger merely blinked.
+
+In silence, the small crowd made their way through the gate and up the path that
+led to the village's worship circle.  Sergeant Dorbu and two other soldiers had
+piled pitch-smeared logs on the heavy gray stone that lay at the circle's
+center, then laid the bodies of their fallen friends atop the logs.  They stood
+at attention as people shuffled into a circle, their battle masks raised to show
+their stony expressions.  No one spoke except the smallest children, who were
+immediately hushed.
+
+Noxy scanned the crowd, hoping to see Rash or Sensy, but neither was there.
+"Where's the *tralpa*?"  she whispered to her mother.
+
+"Ssh!" Indy nodded to the sergeant.  Saluting in return, he took a flint from a
+pouch on his belt, drew his sword, and scraped sparks onto the nearest log.
+
+The crowd held its breath.  The flame hesitated a moment, then began to spread.
+Everyone exhaled with relief.  The flame had caught.  The soldiers' spirits
+would rest.
+
+As dark smoke wrote its message of loss and grief on the sky, Sergeant Dorbu
+cleared his throat.  "When I die, I shall give back to the world all that I did
+not do.  All that I might have been and wasn't, all the things I lost and spent
+and wasted, I shall give them back to the lives that haven't been lived yet.
+That will be my thanks to those I loved, and to the world that gave me the
+life."
+
+Around him, soldiers and villagers bowed their heads and murmured, "That will be
+my thanks." In ones and twos they stepped forward to light candles from the
+funeral flames, then turned toward home.
 
 Noxy had a dream that night.  She often had dreams, or told herself stories in
 her head while she was waiting to fall asleep that were no more logical than the

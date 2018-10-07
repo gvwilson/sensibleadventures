@@ -1193,12 +1193,14 @@ immediately hushed.
 Noxy scanned the crowd, hoping to see Rash or Sensy, but neither was there.
 "Where's the *tralpa*?"  she whispered to her mother.
 
-"Ssh!" Indy nodded to the sergeant.  Saluting in return, he took a flint from a
-pouch on his belt, drew his sword, and scraped sparks onto the nearest log.
+"Ssh!" As the last corner of the sun disappeared behind the peaks, Indy nodded
+to the sergeant.  Saluting in return, he took a flint from a pouch on his belt,
+drew his sword, and scraped sparks onto the nearest log.
 
-The crowd held its breath.  The flame hesitated a moment, then began to spread.
-Everyone exhaled with relief.  The flame had caught.  The soldiers' spirits
-would rest.
+The crowd held its breath.  The first tiny flame hesitated a moment, then began
+to spread.  Everyone exhaled with relief.  There would be no unquiet ghosts to
+trouble the villagers and the dead men's comrades.  The soldiers' spirits would
+rest.
 
 As dark smoke wrote its message of loss and grief on the sky, Sergeant Dorbu
 cleared his throat.  "When I die, I shall give back to the world all that I did
@@ -1209,7 +1211,99 @@ life."
 
 Around him, soldiers and villagers bowed their heads and murmured, "That will be
 my thanks." In ones and twos they stepped forward to light candles from the
-funeral flames, then turned toward home.
+funeral flames, then turned toward home.  One of the soldiers wept openly,
+without shame.  Noxy saw Thokmay wipe tears from his cheek and then straighten
+his back and square his shoulders, his candle held in front of him like a shield
+against the darkness.
+
+It was as solemn a moment as she could remember, which is why her heart sank
+when they rounded the corner and saw the *tralpa* standing in front of the gate
+with a dayglass lantern at his feet, his hair combed, and his scarf of office
+folded precisely into place.  In one hand he held a book so thick it was almost
+a cube.
+
+"Oh, please tell me he's not going to," Granna Fee breathed beside Noxy.  "Not
+here.  Not *now*."
+
+As the villagers approached, Nangyal puffed out his chest.  "Literally
+Indigestible, by election from its inhabitants and with the consent of His
+Majesty Denpa King Gandan made reeve of the village of Stale Leftovers, come
+forward!"
+
+Ten strides ahead of Noxy and her grandmother, Indy handed her candle to
+Sergeant Dorbu with a quiet, "Thank you."  She waited a moment for the soldiers
+and villagers behind her to come to a halt, and another for the whispers to grow
+still.  "This is not the time or place, Scholar-Candidate," she said, her voice
+carrying clearly on the cold evening breeze.
+
+But the *tralpa* plowed on.  "As the king's voice in this place, I require you,
+Literally Indigestible, to answer to a charge of insubordination."  He opened
+his book, cursing under his breath and stooping to pick up the bookmark that
+fluttered to the ground when he did so, then raised the book with both hands to
+show a page almost black with dense print.
+
+"I'm sorry, Scholar-Candidate, but that's a bit difficult to read in this
+light," Indy said calmly.  "Perhaps we could---"
+
+"As the king's voice in this place," the *tralpa* continued loudly, "I require
+you also to answer to an additional charge of derelection of duty, inasmuch as
+you have---damn it."  The bookmark slipped from his hand and fluttered away.
+"Inasmuch as you have neglected a *direct order* to arrest those who have freely
+admitted that they are in open rebellion against His Majesty."
+
+Before Indy could reply, Sergeant Dorbu stepped forward.  "Am I going to have to
+put this down?" he asked, raising his candle slightly, its delicate flame
+protected by his cupped hand.
+
+The *tralpa* snapped his book shut.  "I do *not* hear the words of traitors,"
+he said haughtily.
+
+"Honored, could you take this please?" The sergeant handed his candle to Indy,
+ignoring her startled protest, and drew his sword.
+
+The *tralpa*'s eyes widened.  Noxy's heart skipped a beat.  She had just enough
+time to think, *He really thought they'd just do what he said,* before someone
+cleared their throat behind her and said, "Excuse me, honored?  If I may?"
+
+Ignoring the tiger's growl of, "Not now, boy," Private Thokmay came forward to
+join the sergeant and the reeve.  "Did I hear correctly that you're the king's
+representative here?"
+
+Scholar-Candidate Nangyal nodded his head jerkily.  "So that means you're in
+charge of leasing His Majesty's laws?"  Another jerky nod.  "Well, in that
+case..."  The young soldier fished a coin out of his pocket.  "There's a law
+regarding delays in application of official regulations, isn't there?  There is?
+Good.  I'd like to rent it, please."
+
+He offered the coin to the *tralpa*.  The pudgy man gaped at it.
+"You'd---what?"
+
+"I'd like to rent a law," Private Thokmay continued doggedly.  "Just for
+tonight.  That should let the reeve arrest people tomorrow instead of today,
+shouldn't it?"
+
+The *tralpa* looked from the boy to the sergeant to his sword to the reeve and
+back.  "I---yes, I should think so," he replied weakly.
+
+"Thank you, honored."  He paused.  "Um, I think you have to actually take the
+coin for this all to be legal, don't you?"
+
+The *tralpa* swallowed, then snatched the coin from the private's hand, picked
+up his lantern, and scurried through the fortress gate.  As everyone heaved a
+collective sigh of relief, the sergeant sheathed his sword and turned to the
+young soldier.  "Sorry, honored," Private Thokmay said before Sergeant Dorbu
+could speak.  "That was out of turn."
+
+"No, not at all, it was a good idea."  The sergeant studied him.  "I didn't know
+you knew so much about the law."
+
+Private Thokmay shrugged.  "Saw it done once, honored," he offered.  "Back
+before..."  He finished the sentence with a second shrug.
+
+"Mm.  Did it work that time too?"
+
+The young soldier shook his head.  "No, honored," he replied without emotion.
+"It didn't."
 
 Noxy had a dream that night.  She often had dreams, or told herself stories in
 her head while she was waiting to fall asleep that were no more logical than the

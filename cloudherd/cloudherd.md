@@ -1269,41 +1269,53 @@ Ignoring the tiger's growl of, "Not now, boy," Private Thokmay came forward to
 join the sergeant and the reeve.  "Did I hear correctly that you're the king's
 representative here?"
 
-Scholar-Candidate Nangyal nodded his head jerkily.  "So that means you're in
+Scholar-Candidate Nangyal nodded his head jerkily, his eyes fixed on the
+candlelight that flickered on Sergeant Dorbu's sword.  "So that means you're in
 charge of leasing His Majesty's laws?"  Another jerky nod.  "Well, in that
 case..."  The young soldier fished a coin out of his pocket.  "There's a law
-regarding delays in application of official regulations, isn't there?  There is?
-Good.  I'd like to rent it, please."
+regarding delays in application of official regulations, isn't there?  Somewhere
+in the section on procedure?  Good.  I'd like to rent it, please."
 
-He offered the coin to the *tralpa*.  The pudgy man gaped at it.
-"You'd---what?"
+He offered the coin to the *tralpa*.  The pudgy man gaped at him.  "What?"
 
-"I'd like to rent a law," Private Thokmay continued doggedly.  "Just for
-tonight.  That should let the reeve arrest people tomorrow instead of today,
-shouldn't it?"
+"I'd like to rent that law," Private Thokmay continued doggedly.  "Just for
+tonight.  That will mean the reeve isn't breaking any of the others by arresting
+people tomorrow instead of today, won't it?"
 
 The *tralpa* looked from the boy to the sergeant to his sword to the reeve and
 back.  "I---yes, I should think so," he replied weakly.
 
-"Thank you, honored."  He paused.  "Um, I think you have to actually take the
-coin for this all to be legal, don't you?"
+"Thank you, honored."  He paused.  "You have to actually take the coin for this
+all to be legal, don't you?"
 
 The *tralpa* swallowed, then snatched the coin from the private's hand, picked
 up his lantern, and scurried through the fortress gate.  As everyone heaved a
 collective sigh of relief, the sergeant sheathed his sword and turned to the
-young soldier.  "Sorry, honored," Private Thokmay said before Sergeant Dorbu
-could speak.  "That was out of turn."
+young soldier.  "I didn't know you knew so much about the law."
 
-"No, not at all, it was a good idea."  The sergeant studied him.  "I didn't know
-you knew so much about the law."
+"Sorry, honored," Private Thokmay.  "That was out of turn."
 
-Private Thokmay shrugged.  "Saw it done once, honored," he offered.  "Back
-before..."  He finished the sentence with a second shrug.
+"You're damn right you were out of turn, both of you!" Indy exploded.  She held
+out her hand to the sergeant.  "Give it to me.  Now."
 
-"Mm.  Did it work that time too?"
+Wordlessly, Sergeant Dorbu unbuckled his sword belt for a second time and held
+it out to her.  Indy took it from him with an icy, "Thank you," and handed it to
+Noxy without looking at her.  "I will let your men keep theirs," Stale's reeve
+said, her voice still colder than the mountain breeze, "But only on the
+understanding that there will *not* be another incident.  Do we have an accord?"
 
-The young soldier shook his head.  "No, honored," he replied without emotion.
-"It didn't."
+Sergeant Dorbu dipped his head.  "I'm sorry, honored, I---"
+
+"Do. We have. An accord?"
+
+The sergeant straightened up.  "Yes, honored."
+
+"Good.  Then let's all get a good night's sleep and hope that tomorrow is a
+better day for everyone.  We'd be pleased to give you a tour of the village
+then.  Noxy?  It's time for bed."  And with her back as straight as any
+soldier's, she marched past the sergeant and the tiger's boy.  Noxy hurryied to
+keep up with, wondering if her mother had always been this brave and if every
+sword was as heavy and awkward as the one she was carrying.
 
 Noxy had a dream that night.  She often had dreams, or told herself stories in
 her head while she was waiting to fall asleep that were no more logical than the
@@ -1366,174 +1378,164 @@ stand.
 through her hair another few times. "Is that better?"
 
 Her mother sighed, just as her own mother once had. "Yes, I suppose.  Honestly,
-someone would think you'd been possessed by lightning.  Now let's get going.  We
-don't want to keep them waiting."
+someone would think you'd been possessed by lightning.  Let's get going."
+
+Noxy gestured at the sergeant's sword, which still lay in its scabbard on the
+kitchen table.  "Are you going to give that back to him?"
+
+"Not today," Indy replied.
 
 They walked through the village together, squinting against the sharp-edged
-morning sun.  The air smelled of pine smoke and frying eggs.  People sat in twos
-and threes on stools outside their houses wearing camelskin jackets or thick
-sweaters above sturdy trousers and sturdier boots.  The men knitted or peeled
-potatoes while the women picked spiderwebs apart and wound the strands onto
-spools.
+morning sun.  The air smelled of damp air, pine smoke, and frying eggs.  People
+sat on stools outside their houses in twos and threes wearing thick sweaters
+above sturdy trousers and sturdier boots.  The men knit or peeled potatoes while
+the women picked spiderwebs apart and wound the strands onto spools.
 
-Indy had to stop to answer the same questions every dozen strides.  How were the
-soldiers getting on? What did they think of the village?  "We're on our way to
-ask," she replied over and over again.
+Indy had to stop to answer the same questions every few dozen strides.  How were
+the soldiers getting on? What did they think of the village?  And what was the
+*tralpa* going to do?  "We're on our way to ask," she replied over and over
+again, carefully ignoring comments about how shameful the Scholar-Candidate's
+behavior had been the night before, but not half so shameful as the sergeant's.
+Drawing a sword in a funeral procession---well, they *had* been his men, but
+still...
 
 Many of the village's elders didn't bother to hide their unhappiness about their
-guests, but the only really sour face was the *tralpa*'s.  "Has that tiger eaten
-anyone yet?" he asked. FIXME: fill in
+guests, but the sourest face was Aft's.  Standing next to an armload of saplings
+that had spent the winter drying in his rafters, he looked up from mending the
+fence around one of the village's carrot gardens just long enough to ask, "So?
+Did the tiger eat anyone last night?" before going back to his hammering.
 
-Noxy felt nearly frantic with impatience by the time she and her mother reached
-the trading hall where the soldiers had spent the night.  She knew that talking
-to people was the most important part of being mayor, and her mother liked doing
-it anyway, but what if someone else was already showing the tiger's boy around
-the village? FIXME: doesn't make sense.
-
-She needn't have worried.  Sergeant Dorbu was sitting on the guesthouse steps
-with the village's children cross-legged on the stones in front of him.  Sensy
-and Rash looked up as Noxy arrived. FIXME: fix this.
+Sergeant Dorbu was sitting on the guesthouse steps in front of a half-circle of
+children when mother and daughter reached the square.  Sensy and Rash looked up,
+and Sensy raised her hand in a half-wave.
 
 "And this is called a greave," the sergeant said, pointing at the armored front
 of his boot.  "It's to protect me from vampire mice.  See?" He tapped it with
 his fingernail, *clunk*.  "They could bite that if they wanted, but all they'd
 do is blunt their teeth."
 
-"What if they climbed up your leg?" asked one of the younger children.
+"What about squirrels?" asked one of the younger children.
 
-"Ah, well, then I'd---oh, hello, reeve." The sergeant stood up, brushing his
-hands on his kilt.  "The boy will be out in a heartbeat."
+"Ah, good question.  If there was just one of them, I'd---oh, hello, honored."
+The sergeant stood and brushed his hands on his kilt.  "Thank you again for
+letting us see to our men last night.  I apologize for my behavior."
 
-"Thank you, sergeant," said Indy.  "My daughter is looking forward to showing
-him the village.  I trust you slept well?"
+"Thank you, sergeant," said Indy.  "I trust your men are on the mend?"
 
 "Yes, thank you," said the sergeant.  "Although I..." He blinked, then sniffed,
 then started to say, "Excuse me," but the sneeze came first.  *Hwah!* One of the
 children giggled, then clapped her hand over her mouth.  The sergeant blinked
-and sniffed again.  "Sorry---too many nights in the rain."
+and sniffed again.  "Sorry---too many nights out in the open."
 
-"Visitors from down below often catch colds in our thin air," said Indy
+"Visitors from down below often catch colds in our thin air," Indy said
 sympathetically.  "I hope it passes quickly."
 
-The guesthouse door opened before the sergeant could reply.  The children
-scrambled to their feet and stepped back as the tiger padded out into the
-sunlight.  He wasn't as big as he'd been in Noxy's troubled dreams during the
-night, but she still had to stop herself from reaching for her mother's hand.
+The guesthouse door opened behind the sergeant.  The children shuffled back
+wide-eyed as the tiger padded out into the sunlight.  He wasn't as big as he'd
+been in Noxy's troubled dreams during the night, but she still had to stop
+herself from reaching for her mother's hand.
 
-Almost unnoticed, his boy slipped out behind him and closed the door.  Instead
-of his armor, he wore a plain brown rain cape over his kilt and boots.  He kept
-his eyes downcast as the tiger said, "Good morning, honored."
+Almost unnoticed, Private Thokmay slipped out behind him and closed the door.
+Instead of his armor, he wore a plain brown rain cape over his kilt and boots.
+He kept his eyes downcast as the tiger said, "Good morning, honored."
 
-"Good morning," Indy replied.  "I trust you slept well?"
+"Good morning," Indy replied.  "Did you sleep well?"
 
-"Thank you, I did." The tiger seemed not to notice that thirty pairs of eyes
-were staring at him.  *He must be used to it,* Noxy thought.
+"I did, honored, thank you." The tiger seemed not to notice that thirty pairs of
+eyes were staring at him.  *He must be used to it,* Noxy thought.
 
-Indy waited a moment to see if he would say anything more.  When he didn't, she
-smiled and said, "My daughter has asked if you could spare your boy for an hour
-so that she could show him our village while the other children do their
-chores."  Noxy heard Rash mutter something at that.  "If he would like to---oh
-dear." She stopped mid-sentence as the sergeant took a deep breath and scrunched
-up his face.  "Nope," he whooshed a moment later, blinking.  "That one's not
-ripe yet."
+Indy turned back to the sergeant. "My daughter has asked if you could spare your
+boy for an hour so that she could show him our village while the other children
+do their chores."  Noxy heard Rash mutter under his breath at that.  "If he
+would like to---oh dear." She stopped mid-sentence as the sergeant took a deep
+breath and scrunched up his face.
 
-"You'd be better in bed than tramping around the countryside, sergeant,"
+"Nope," he whooshed a moment later, blinking.  "That one's not ripe yet."
+
+"You'd be better in by the fire than tramping around the countryside, sergeant,"
 Kulbinder rumbled.
 
 "I agree," said Indy firmly.  "My mother will make you some lemon ginger tea.
 That will set you right in no time."
 
-"Thang you," the sergeant said stuffily.  "Honored, will you---"
+"Thang you," the sergeant said stuffily.
 
-"I am going to explore the forest," the tiger declared.  "I would rather we were
-not...surprised...as we were at the ford."  And with no more ceremony than that,
-the tiger stood, stretched, and padded off toward the main gate. FIXME
+"I will explore the forest," the tiger declared.  With no more ceremony than
+that, he stretched and padded off toward the main gate.
 
-Indy clapped her hands.  "Right.  Everyone else, time for chores."  As the
-children groaned and got to their feet, the tiger's boy finally raised his eyes
-to look at Noxy.
+Indy clapped her hands.  "Right.  Everyone else, let's not waste the day."  As
+the children groaned and got to their feet, Private Thokmay dipped his head to
+Noxy.  "By your lead, honored?"
 
-"Hello," he said, stepping down to the cobblestones and bowing ever so slightly.
-"My name is Thokmay.  I'm pleased to meet you."
+Noxy and the tiger's boy walked side by side in silence for a few steps while
+Noxy tried to think of something to say.  "That's the South Tower," Noxy she
+finally offered, pointing at six rectangular stories of stone.  "It still has a
+roof, but the stairs inside fell down a long time ago.  You used to be able to
+get up there by climbing a tree, but they cut it down after Grappa Gas fell out
+of it for the second time.  That was before I was born.  And that one's the
+Round Tower, and the short one over there is called the Quick Tower, because
+it's quickest to get up."
 
-Noxy stuck out her hand.  "Hi.  I'm Probably Noxious, but call me
-Noxy---everyone does."
+"They're very impressive," said Thokmay.  "The walls around Gandan-in-Gandan are
+higher, but they're human-made---you can see the joints between the blocks."
 
-The boy hesitated for a heartbeat, then took her hand in a callused grip much
-stronger than Noxy had expected.  He released her hand and gestured toward the
-gate.  "After you."
-
-Noxy and the tiger's boy walked side by side.  "That's the South Tower," said
-Noxy, pointing at six rectangular stories of stone.  "It still has a roof, but
-the stairs inside fell down a long time ago.  You used to be able to get up
-there by climbing a tree, but they cut it down after Grappa Gas fell out of it
-for the second time.  That was before I was born.  And that one's the Round
-Tower, and the short one over there is called the Quick Tower, because it's
-quickest to get up."
-
-"They're very impressive," said Thokmay.  "The walls at Gandan are Pilot-made as
-well."
-
-"That's nice," Noxy replied vaguely.  "Oh, and that's Granna Fee's house, with
-the moss green door.  She's my grandmother.  And she teaches school.  And that's
-Grappa Gas's house, the lavender one.  He used to be reeve before my mother.
-And that's, um, well, they're all just different people's houses."
+"That's nice," Noxy replied, instantly regretting how inane she sounded.  "Oh,
+and that's Granna Fee's house, with the green door.  She's my grandmother.  And
+she teaches school.  And that's Grappa Gas's house, the one with the yellow and
+blue door.  He used to be reeve before my mother.  And that's, um, well, they're
+all just different people's houses."
 
 Noxy fell silent.  Thokmay had a polite but absent look on his face, just like
 the one Indy got when Grappa Gas started talking about how things had been in
 his day.  *It's probably not much compared to a city,* she thought glumly.
 Two-story houses with steep shingled roofs, little vegetable gardens nestled
 between logs laid parallel a stride apart, and all around, sharp mountain peaks
-looming over the ancient gray walls...  She wouldn't have believed how strange
-it all seemed to the young lowlander beside her.
+looming over walls older than humanity...  She wouldn't have believed how
+strange it all seemed to the young lowlander beside her.
 
-They walked in silence along the path that ran next to the walls.  Ancient
+They walked in silence along the path that ran beside the wall.  Ancient
 cobblestones showed through the hard-packed dirt in a few places.  Noxy scuffed
 crusts of frost off a few absentmindedly, wondering what else she could say.
 
 "What is that?" Thokmay asked.  A heavy wooden grill lay across a shoulder-high
-opening in the wall ahead of them.  Behind it, rough stone steps led down into
-the mountain.
+opening in the wall ahead of them.  Behind it, time-worn stone steps led down
+into the mountain.
 
-"That's just some old tunnels," said Noxy.  "We're not supposed to go in."
+"That's just the old tunnels," said Noxy.  "We're not supposed to go in."
 
-Thokmay scowled.  "Sergeant Dorbu will want to know about them."
+Thokmay frowned.  "Does Sergeant Dorbu know about them?"
 
-"Why?" Noxy asked.  "Most of them are flooded.  Except for the one under Grappa
-Gas's house, and the ones by the drying sheds.  We use them for cellars."
+"I don't know," Noxy said.  "Most of them are flooded.  Except for the one under
+Grappa Gas's house, and the ones by the drying sheds.  We use them for cellars."
 
-"Soldiers should know as much as they can about their surroundings," Thokmay
-said, as if repeating a lesson.
+"I'll tell him.  Soldiers should know as much as they can about their
+surroundings," Thokmay said, as if repeating a lesson.
 
 Noxy shrugged.  "I suppose.  Come on, we can see more from up top."
 
-The steps lay flush against the side of the wall.  They had been built for the
-Pilots, not for human beings, so each one was as high as Noxy's knee and took
-her two strides to cross.
+The steps lay flush against the side of the wall.  They had been built for
+Pilots, not human beings, so each step was as high as Noxy's knee and took her
+two strides to cross.  Even after hundreds of years, the stones fit together so
+snugly that it was hard to tell where one ended and the next began.  She was
+breathing hard by the top, and Thokmay was panting in the thin mountain air.
 
-Noxy put her left hand on the wall to steady herself each time she thrust
-herself up a stair.  Even after hundreds of years, the stones fit together so
-snugly that it was hard to tell where one ended and the next began.  She noticed
-smugly that Thokmay was puffing and sweating after only a few steps.
+The top of the wall was wide enough for three people to walk side by side.
+Parapets along its outer edges were interrupted here and there by slits, each
+one a slightly different shape for reasons known only to their makers.  "Makes
+Your Breath Rancid is that way," Noxy said, pointing through one of them.  "You
+can't see the village itself because the valley bends, but we come up here
+sometimes when they're clouds are out to watch them."
 
-The top of the wall was wide enough for three soldiers to march side by side.
-The parapet along its outer edge was interrupted here and there by slits for
-lookouts and archers.  "Makes Your Breath Rancid is that way," Noxy said,
-pointing.  "You can't see it because the valley bends, but sometimes you can see
-their clouds coming out of their pen."
+"Why do you call your villages things like that?" the young soldier asked.  "And
+yourselves?"
 
-"Why do you call your villages things like that?" the young soldier asked.
+Noxy smiled.  "They're dragon names.  They're supposed to make us sound
+unappetizing, so that when the dragons finally fly, they won't want to eat us."
 
-Noxy shrugged.  "They're called dragon names.  They're supposed to make things
-sound unappetizing, so that when the dragons finally fly, they'll think twice
-about eating us."
+Thokmay snorted.  "Well, where does *your* name come from??" Noxy bristled.
 
-Thokmay snorted.  "That seems pretty far-fetched."
+"From the army orphanage," he replied, his expression instantly neutral once
+again.  "My full name is Gandan's Nineteenth Thokmay."
 
-"Well, where does *your* name come from??" Noxy bristled.
-
-"From the army orphanage," he replied, not looking at her.  "I had another name
-before I went there, but they gave me a new one."
-
-Noxy opened her mouth, then closed it.  For once, she had no idea what
+Noxy opened her mouth, then closed it.  "Sorry," she said, not knowing what else
 to say.

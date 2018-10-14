@@ -1208,8 +1208,8 @@ immediately hushed.
 
 Noxy scanned the crowd, hoping to see Rash or Sensy, but neither was there.
 "Where's the *tralpa*?"  she whispered to her mother.  *And where is Aft?* she
-added mentally.  The big cloudherd often led the villagers' Purplesday worship,
-but tonight he was nowhere to be seen.
+wondered.  The big cloudherd often led the villagers' Purplesday worship, but
+tonight he was nowhere to be seen.
 
 "Ssh!" As the last corner of the sun disappeared behind the peaks, Indy nodded
 to the sergeant.  Saluting in return, he took a flint from a pouch on his belt,
@@ -1347,11 +1347,11 @@ keep up with, wondering if her mother had always been this brave and if every
 sword was as heavy and awkward as the one she was carrying.
 
 Noxy had a dream that night.  She often had dreams, or told herself stories in
-her head while she was waiting to fall asleep that were no more logical than the
-average dream.  Sometimes, when her stories were particularly exciting, she'd
-mutter bits of dialog out loud until her mother said, "Who are you talking to?"
-and Noxy would say, "No one," and roll over and pull the blanket up under her
-chin and close her eyes and carry on saving the prince from the magician or the
+her head while she was waiting to fall asleep that as often as not turned into
+dreams.  Sometimes, when her stories were particularly exciting, she'd mutter
+bits of dialog out loud until her mother said, "Who are you talking to?"  and
+Noxy would say, "No one," and roll over and pull the blanket up under her chin
+and close her eyes and carry on saving the prince from the magician or the
 magician from the prince or both of them from an avalanche.
 
 But that night's dream wasn't one of those.  She didn't swoop down at the last
@@ -1401,3 +1401,61 @@ Granna Fee... in... the morning...
 
 Moments later, the syncopated rhythm of two people snoring wafted through the
 little house.
+
+---
+
+Noxy woke to the sound of thunder.  She rubbed the sleep from her eyes and
+glanced out the window.  The sky was dawn-pale, not morning-bright, and the
+thunder was Grappa Gas knocking on the door downstairs.  "Indy?  Indy, are
+y'awake?"
+
+"Just a beat while I get some clothes on," her mother called from her bedroom.
+Noxy threw off her blankets, pulled on the trousers and sweater she had dropped
+on the floor the night before, and hurried downstairs just as her mother opened
+the door.
+
+"They're gone," Grappa Gas said breathlessly.  "That idiot son of mine and the
+*tralpa*---they're gone.  They've taken Big Blue."
+
+"Oh, names of the saints," Indy cursed wearily.  She dragged a stool out from
+under the table with her foot and let her weight fall on it.  She had bags under
+her eyes, Noxy realized with a shock---she looked like she hadn't slept a wink.
+
+Her mother noticed her look.  "Get the kettle going, would you, sweetling?  Any
+idea when they left?" she continued to Grappa Gas.
+
+The old man shook his head.  "Not long.  I stopped in to see if Rind needed
+anything, and she asked if I'd seen him---said he was gone when she woke up, and
+she figured he was out getting kindling or the like, but he'd been gone long
+enough that she was starting to wonder.  So I went looking for him and found
+this."
+
+He held out a dew-stained sheet of paper.  Indy took it and scanned it quickly
+as Noxy fed a handful of wood shavings to the stove.  "That idiot," the reeve
+said.  "That self-righteous, self-pitying *idiot*."  She tossed the *tralpa*'s
+note onto the table and pinched the bridge of her nose.  "The *tralpa* is going
+to Duck Droppings to---what did he say?"  She picked up the letter.  "To
+denounce us for our complicity in treason," she recited bitterly.  "He must have
+talked Aft into flying him there.  Oh Gas, what have I done?"
+
+Noxy stuffed a last handful of wood shavings into the stove and hugged her
+mother from behind.  "It'll be all right," she said, her voice muffled in her
+mother's braids.
+
+Indy patted her arm, then took a deep breath and shrugged her off.  "Thanks,
+sweetling.  I need you to put your boots on and start waking people up---get
+them to the square.  The soldiers too," she added bleakly.  "And Gas, get Rind
+here.  I want to find out what in the underhells her husband was thinking."
+
+"What about the tea?" Noxy asked.
+
+Her mother sighed.  "I don't think this is going to be a tea kind of day."
+
+Noxy woke Rash first, then Sensy.  Both were alone in their houses, their
+parents having gone with the other adults to gather the village's herd of
+clouds.  She had to thump on Sensy's front door for so long to wake her that she
+wound up waking the elders in the houses on either side as well, but Rash yanked
+his door open almost before her knuckles hit it.  It only took her a moment to
+tell each of them what had happened and send them off to start waking others.
+With that done, she hurried toward the trading hall that took up one entire side
+of the village square.

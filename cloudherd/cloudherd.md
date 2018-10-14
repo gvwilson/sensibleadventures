@@ -1378,16 +1378,20 @@ given her when she had first started reading.  She hadn't set it out that
 morning to recharge it, but the thumbnail-sized piece of dayglass inside it
 still gleamed when she opened its cover.
 
-She set it on the dresser and lay back.  The little mirror that hung on her door
-opposite her bed reflected the lamplight back at her.  If she turned sideways in
-bed and stretched, she could almost touch the door with her toes now.  The room
-was still big enough for her and Sensy to sit and gossip, but the last time Rash
-had joined them, it had somehow seemed much too small.
+She set it back on the dresser and fished under her pillow to pull out the knit
+dolls that lay there.  Her father had made them when she was little, either to
+comfort her when she was sick or as a nameday gift or just because he loved her.
+She and Sensy and Rash had played with them when they were younger---they had
+been pirates and cloudherds and once even pirate cloudherds, which Noxy had
+declared ought to be a thing even if it wasn't.
 
-She sighed.  She had been planning to talk to Sensy and find out if she and Rash
-were made at each other, but with everything that had happened that day...
-*Tomorrow*, she promised herself, reaching for the dayglass lamp and twisting
-the cover closed.
+She tucked them back under her pillow.  Her room was still big enough for her to
+sit and gossip with Sensy, but the last time Rash had joined them, it had
+somehow seemed much too small.
+
+She sighed.  No matter what her mother said, she really did need to talk to
+Sensy and find out if she and Rash were made at each other.  *Tomorrow*, she
+promised herself, reaching for the dayglass lamp and twisting the cover closed.
 
 She held it in her hand for a second, wondering if the dayglass stopped shining
 when there was nowhere for the light to go or whether the light bounced around

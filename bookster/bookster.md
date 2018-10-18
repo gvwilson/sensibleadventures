@@ -1408,7 +1408,7 @@ lives that haven't been lived yet.  That will be my thanks to those I
 loved, and to the world that gave me the life."
 
 Around him, the people of Starboard Town bowed their heads and
-murmured, "That will be my gift." In twos and threes and families,
+murmured, "That will be my thanks." In twos and threes and families,
 they turned toward home, leaving Gaeston to tend his son's last fire.
 
 Laeuc put his hand on Erileine's shoulder and squeezed.  "Come on."

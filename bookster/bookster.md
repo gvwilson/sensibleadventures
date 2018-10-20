@@ -8095,7 +8095,7 @@ not much louder than a whisper. "After he remarried and we started
 fighting all the time.  He said a good captain needs to know the
 bilges as well as the captain's table." He sniffled. "And when Razi
 showed up and wanted to look at all the old stuff here, paere said all
-right, let's make a deal.  That's why he started teaching me stuff."
+right, let's make a deal.  That's why he started teaching me."
 His face crumpled.  "But now he's g-gone and I don't know what to
 *do*."
 
@@ -8224,7 +8224,7 @@ Having a chance to poke around that stone won't change that overnight,
 but at least it's *something*.  Now, who's coming?"
 
 It only took a minute to pick names.  Uyves, of course, but not Vurt,
-not through the tunnels one leg.  Laeuc would come---he didn't look at
+not through the tunnels on one leg.  Laeuc would come---he didn't look at
 Saedanne when he said it---and Gaeston and Mareille were the best
 archers in Starboard Town, and Armaend and Donaien as spearmen made
 six.  Thomas would get them as close to the peak as he could, then

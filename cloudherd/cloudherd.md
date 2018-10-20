@@ -1457,5 +1457,69 @@ clouds.  She had to thump on Sensy's front door for so long to wake her that she
 wound up waking the elders in the houses on either side as well, but Rash yanked
 his door open almost before her knuckles hit it.  It only took her a moment to
 tell each of them what had happened and send them off to start waking others.
-With that done, she hurried toward the trading hall that took up one entire side
-of the village square.
+That done, she hurried toward the trading hall that took up one entire side of
+the village square.
+
+The first thing she heard Sergeant Dorbu say when she arrived was, "I'm sorry,
+honored.  I'm so sorry for all of this."  He had bags under his eyes, and Noxy
+wondered if he hadn't slept.  Whenever a cloudherd died, Aft and some of the
+other worshipful villagers kept vigil all night---maybe the lowlanders had the
+same customs.
+
+"Well, if we could unscramble eggs, we'd have more chickens," Indy said.  "But
+honestly, I don't know what we can do now.  They have at least a couple of hours
+head start, and even without that, Pillow isn't as fast as Big Blue."
+
+"Then our race is run," Kulbinder rumbled.  He was sitting on his haunches
+beside the sergeant with a tired-looking Private Thokmay at his side.  "With
+respect, honored, the men aren't fit to march right now."
+
+"March?" Sergeant Dorbu laughed wearily.  "Kulbinder, my friend, I doubt they
+could walk the length of the Princes' Parade."  His jaw set.  "And even if they
+could, I've no right to ask them."
+
+HERE: Noxy detects cloud coming back, Aft went to see if the other villagers
+were on their way back yet but turned around because a storm is brewing, he
+doesn't have the *tralpa*, they organize search parties, Noxy goes with Thokmay
+and Kulbinder, they split up as soon as they're into the forest.
+
+The air was colder and damper in the forest gloom.  Noxy rubbed her arms to warm
+them as she walked, but Thokmay was intent on studying the bushes around them
+and didn't seem to mind.
+
+Heraised a hand.  "There."  He pointed the forest floor in front of them.  "See
+where the branches are broken?  Someone came through here recently."
+
+"If you say so," Noxy said, rubbing her arms more vigorously.  Cloudherds
+learned how to read the sky almost before they learned how to read books, but
+woodcraft was mystery to her.  Truth be told, she had never really liked being
+in the forest.  The trees always seemed to loom over her.  It wasn't too bad
+when the birds were singing, but when it was silent---
+
+"Why is it so quiet?" she asked, suddenly realizing that she hadn't heard
+anything for the last hundred heartbeats except the soft pitter-pat of water
+dripping from the branches around them.
+
+"Sh!"  Thokmay made a cutting gesture with his hand.  "Something's watching us."
+
+Noxy shivered.  "Is it the tiger?" she whispered.  She glanced over her
+shoulder.  They were only a couple of hundred strides from the fortress gate,
+but it felt like home and sunlight and safety were a world away.  The forest
+didn't want them there.  It didn't want their voices or their boots or the metal
+of the sword that was somehow in Thokmay's hand even though she hadn't seen him
+draw it.
+
+She pressed the heels of her hands to her temples.  What was happening?  She
+couldn't be mind-hearing the forest---could she?  She must be going crazy.  It
+was too much---it couldn't all fit.  Her head was going to burst.
+
+"It's too big..." Noxy whimpered.
+
+"Sh!" Thokmay hissed urgently, his eyes wide.
+
+Noxy put a hand on a nearby tree to steady herself.  The bark was cold and damp
+but reassuringly solid.  The little beads of sap under her palm were frozen
+nearly solid but still sticky.  She took a deep, shaky breath.  She was *not*
+going to throw up.  "I'm all right," she told Thokmay, smiling weakly.  "Just...
+just a headache."  Somewhere nearby, a sapsucker chirped uncertainly.  A
+squirrel chattered in response and everything whirled around her and went away.

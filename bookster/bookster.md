@@ -8033,7 +8033,7 @@ not the earth, but some speaking stone they found in it that was their
 king and oracle.  "It's 'Pilot Stone'," she corrected.  "Guide is just
 *urem*, not *uremme*." She flushed slightly at Thomas's sour look.
 
-"Pilot Stone, then.  They found in a mine.  It may even be why they
+"Pilot Stone, then.  They found it in a mine.  It may even be why they
 started mining in the first place---it spoke to them in their dreams.
 'The world is broken, free me and we will mend it…'"  He waved his
 words away.  "These old magics are always persuasive.  No offense

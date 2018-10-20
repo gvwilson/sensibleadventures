@@ -1478,17 +1478,121 @@ respect, honored, the men aren't fit to march right now."
 could walk the length of the Princes' Parade."  His jaw set.  "And even if they
 could, I've no right to ask them."
 
-HERE: Noxy detects cloud coming back, Aft went to see if the other villagers
-were on their way back yet but turned around because a storm is brewing, he
-doesn't have the *tralpa*, they organize search parties, Noxy goes with Thokmay
-and Kulbinder, they split up as soon as they're into the forest.
+*Twinge.* Noxy winced.  What was wrong with her?  And whatever it was, why did
+it have to happen *now*?
 
-The air was colder and damper in the forest gloom.  Noxy rubbed her arms to warm
-them as she walked, but Thokmay was intent on studying the bushes around them
-and didn't seem to mind.
+Then she felt something else, like a breath of wind through distant branches or
+the first faint whisper of Pillow's mind-voice two winters past when she had
+first been trying to mind-speak and had almost been ready to give up because no
+matter what Granna Fee said about being patient it just wasn't working and she
+knew, she just *knew*, she wasn't ever going to be able to do it and then
+suddenly she had heard the old cow, wordless and warm and every bit as patient
+as Noxy's grandmother.  This felt like that, exactly like that, which made
+Noxy's gut go cold because people weren't supposed to be able to mind-talk with
+clouds unless they were touching them.
 
-Heraised a hand.  "There."  He pointed the forest floor in front of them.  "See
-where the branches are broken?  Someone came through here recently."
+But the whisper in her head was real, and she knew that mind-voice as well as
+she knew the sound of Grappa Gas's wooden leg on the cobblestones behind her.
+She swallowed hard and mumbled, "Excuse me," then hurried toward the steps
+nearest the front gate.
+
+The steps lay flush against the old fortress wall wall.  They had been built for
+Pilots, not human beings, so each one was as high as Noxy's knee and took her
+two strides to cross.  Even after hundreds of years, the stones fit together so
+snugly that it was hard to tell where one ended and the next began.
+
+She was breathing hard by the top.  It was wide enough for three people to walk
+side by side, and the parapets along its outer edges were interrupted every
+dozen strides by slits, each one a slightly different shape for reasons known
+only to their makers.  Half a dozen sturdy wooden stairs just in front of her
+brought to a square platform high enough for her to see over the top of the
+wall's outer edge.  She shaded her eyes with her hand and looked north up the
+valley, already knowing what she would see.
+
+There, coming around the first bend in the pass, was a faint smudge of white.
+It was Big Blue.  She turned around and ran as fast as she could back to the
+square.
+
+"*Amma*!  *Amma!*  He's coming back!"  She skidded to a stop on the
+cobblestones.  "Big Blue---he's coming back."
+
+A dozen heads turned to look at her.  "What?" the tiger snarled, his ears going
+back.
+
+"It's Big Blue," Noxy insisted.  "I just saw him from the wall.  He's coming
+back."  *And he only has one person on him,* she wanted to add, but there was no
+way she could have seen that, not from so far away.
+
+Half the village crowded onto the platform overlooking the cloud pen to watch
+Aft bring Big Blue home.  Rind stood next to Indy, stone-faced, with a silent,
+glowering Grappa Gas on her other side.
+
+The big bull scraped wetly against the side of the ravine.  Aft hopped onto the
+platform and gave the cloud one last comforting pat.  "Well," he said, "This is
+more of a welcome than I was expecting."
+
+"Where's the *tralpa*?" Indy demanded.
+
+The cloudherd blinked.  "How would I know?"
+
+"Don't play games," Indy said sharply.  "Where did you take him?"
+
+Aft crossed his arms.  "I didn't take him anywhere."
+
+"Then where in the underhells have you been?" Grappa Gas demanded.
+
+"I went to tell everyone else what's been going on!" Aft looked from his father
+to his wife to Indy.  "Got as far as the Three Sisters, but there was a pack of
+lightnings further up the pass knitting a storm, a big one, so I turned around.
+What's happened to the *tralpa*?"
+
+"He's gone to Duck Droppings to tell the king's men about Sergeant Dorbu and his
+men," Indy said.  "We thought you'd taken him."
+
+Disbelief and anger wrestled briefly on Aft's face, and anger won.  "Me!?  Why
+would I do that?"
+
+"I don't know.  Why would you go behind my back and fly off to talk to the rest
+of the village?" Indy retorted hotly.
+
+"Honoreds, please," Sergeant Dorbu cut in.  He, Kulbinder, and Thokmay had been
+standing a few steps back from the line of villagers.  Now he stepped forward.
+"If you didn't take the *tralpa*, then where is he?"
+
+Indy made a noise in the back of her throat.  "He must be on foot.  The idiot
+must be trying to hike down on his own."
+
+"Through the forest?" Kulbinder rumbled.
+
+"It's safe enough if you stay on the paths," Indy said, staring down the valley
+as if she might somehow be able to see the missing scholar-candidate.
+
+"But it's three days on foot, and I'd be surprised if that pudgy goof has ever
+gone more than a hundred strides off a paved road in his life," Grappa Gas
+growled.  "If he trips and breaks his leg..."
+
+Indy nodded.  "We have to go find him."
+
+Five minutes later, Noxy found herself picking her way down a side trail with
+Thokmay and the tiger in her wake.  "Show them the shortcut to the fishpond,"
+her mother had instructed her as she sent people in twos and threes to search
+paths that the *tralpa* might have taken.
+
+Noxy had nodded, still wondering how she had known that Big Blue was coming
+back.  Two strides away, she'd heard Aft mutter an apology to his wife.  "I
+should've told you," he'd said.
+
+"Damn right you should have," Rind had replied fiercely.  "How're we going to
+raise this baby if we don't trust each other?"  Noxy had turned away,
+embarrassed.
+
+The air was cold and damp in the forest gloom.  Noxy rubbed her arms to warm
+them as she walked, but Thokmay seemed not to notice as he studied the greenery
+around them.  The tiger had disappeared almost as soon as they left Stale with a
+growled, "I'll catch up with you."
+
+Thokmay raised a hand.  "There."  He pointed the forest floor in front of them.
+"See where the bush is trodden down?  Someone came through here recently."
 
 "If you say so," Noxy said, rubbing her arms more vigorously.  Cloudherds
 learned how to read the sky almost before they learned how to read books, but

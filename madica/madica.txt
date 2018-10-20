@@ -2825,14 +2825,14 @@ returned Madica's look defiantly.  "What?  It would be."
 The cat sighed.  "I suppose this might be as good a time as any to
 explain what's going on."  And quickly it explained:
 
-    Once upon a time, the dinosaurs had a king named Santa Claws.  He
-    wanted his daughter's turning-ten birthday to be the best ever in
-    all of history, so he had his scientists and engineers make an
-    entire herd of tiny robot dinosaur toys for her, and then nudge an
-    asteroid out of its orbit to make the greatest fireworks display
-    anyone had ever seen.  But somebody miscalculated, and by the time
-    the dinosaurs realized the asteroid was going to be a little bit
-    more than just a fireworks show ---
+> Once upon a time, the dinosaurs had a king named Santa Claws.  He
+> wanted his daughter's turning-ten birthday to be the best ever in
+> all of history, so he had his scientists and engineers make an
+> entire herd of tiny robot dinosaur toys for her, and then nudge an
+> asteroid out of its orbit to make the greatest fireworks display
+> anyone had ever seen.  But somebody miscalculated, and by the time
+> the dinosaurs realized the asteroid was going to be a little bit
+> more than just a fireworks show ---
 
 "Nobody miscalculated," the snarkasaurus interrupted.  "It was
 sabotage.  It must have been.  Dinosaurs *never* make mistakes with
@@ -2841,41 +2841,41 @@ math."
 "Would you like to tell the rest of the story?" the cat asked.  "No?
 Very well..."
 
-    So by the time the dinosaurs realized that *the asteroid was going
-    to be a problem*, it was too late to stop it.  They knew it would
-    be a long, long time until the Earth was livable again, so they
-    put their brains into the toys they had made and sent them all to
-    another asteroid, one that would come back to Earth after ten
-    thousand years.  Except they miscalculated again: that asteroid
-    didn't come back for sixty five million years, by which time ---
+> So by the time the dinosaurs realized that *the asteroid was going
+> to be a problem*, it was too late to stop it.  They knew it would
+> be a long, long time until the Earth was livable again, so they
+> put their brains into the toys they had made and sent them all to
+> another asteroid, one that would come back to Earth after ten
+> thousand years.  Except they miscalculated again: that asteroid
+> didn't come back for sixty five million years, by which time ---
 
 "There you go again with the 'miscalculate'," the snarkasaurus
 grumbled.
 
-    --- by which time the Earth was filled with all sorts of new
-   creatures, and one last dinosaur.  You see, when he found out what
-   had happened, Santa Claws insisted on staying behind to help clean
-   up the planet.  He had his scientists put his brain into a robot
-   body so that it would last until the asteroid returned, and he kept
-   one of their great flying saucers so that he could go out and meet
-   it when the time came, but he didn't count on the asteroid being
-   gone for so long.  As the millenia went by ---
+> --- by which time the Earth was filled with all sorts of new
+> creatures, and one last dinosaur.  You see, when he found out what
+> had happened, Santa Claws insisted on staying behind to help clean
+> up the planet.  He had his scientists put his brain into a robot
+> body so that it would last until the asteroid returned, and he kept
+> one of their great flying saucers so that he could go out and meet
+> it when the time came, but he didn't count on the asteroid being
+> gone for so long.  As the millenia went by ---
 
 ("A millenia is a thousand years," Ike whispered to Laurellen.  "I
 know," she said, but squeezed his wing.)
 
-    --- Santa Claws got lonelier and lonelier and started to forget
-    what he was supposed to be doing and why.  He kept tidying things
-    up as best he could, but by the time there were creatures brains
-    big enough to understand what presents were once again, he was so
-    desperate for company that he started making them little gifts
-    instead of just eating them.  He still ate some of them sometimes,
-    of course --- he wouldn't have been much of a dinosaur if he
-    didn't --- but he made little birdhouses for the birds, and cozy
-    little sweaters to keep the mammals warm during ice ages, and
-    little floating toys for baby whales to play with.  And when his
-    body started to rust so badly that he couldn't make toys himself,
-    he began enhancing other creatures to help him.
+> --- Santa Claws got lonelier and lonelier and started to forget
+> what he was supposed to be doing and why.  He kept tidying things
+> up as best he could, but by the time there were creatures brains
+> big enough to understand what presents were once again, he was so
+> desperate for company that he started making them little gifts
+> instead of just eating them.  He still ate some of them sometimes,
+> of course --- he wouldn't have been much of a dinosaur if he
+> didn't --- but he made little birdhouses for the birds, and cozy
+> little sweaters to keep the mammals warm during ice ages, and
+> little floating toys for baby whales to play with.  And when his
+> body started to rust so badly that he couldn't make toys himself,
+> he began enhancing other creatures to help him.
 
 "Not just fairies?" Madica asked, thinking of all the zombies she had
 seen in the control room.

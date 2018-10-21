@@ -1370,11 +1370,11 @@ skeletons decorated with feathers like the toys children made for All Ghosts'
 Night and they were pecking chunks out of the people around her who were slowly
 losing shape like weary clouds.
 
-And there, standing in the middle of everything, was the troll she had seen that
-morning.  It---she---had the same silver-shot fur and the same long scar, but
-her eyes were like those deep shadows in the forest where the last of the winter
-snow could lie unmelted until midsummer.  She waited patiently until the last of
-the crows had flown away and then raised a hand in greeting.
+Standing in the middle of everything was the troll she had seen that morning.
+It---she---had the same silver-shot fur and the same long scar, but her eyes
+were like those deep shadows in the forest where the last of the winter snow
+could lie unmelted until midsummer.  She waited patiently until the last of the
+crows had flown away and then raised a hand in greeting.
 
 Heart pounding, Noxy raised her own, and woke.  She lay in bed, her heart
 pounding, listening to the windchimes outside her window and the soft, rhythmic
@@ -1594,9 +1594,9 @@ should've told you," he'd said.
 this baby if we don't trust each other?"  Noxy had turned away, embarrassed.
 
 The air was cold and damp in the forest gloom.  Noxy rubbed her arms to warm
-them as she walked, but Thokmay seemed not to notice as he studied the greenery
-around them.  The tiger had disappeared almost as soon as they left Stale with a
-growled, "Find what you can---I'll find you."
+herself as she walked, but Thokmay seemed not to notice as he studied the
+greenery around them.  The tiger had disappeared into it almost as soon as they
+left Stale with a growled, "Find what you can---I'll find you."
 
 Thokmay raised a hand.  "There."  He pointed the forest floor in front of them.
 "See where the bush is trodden down?  Someone came through here recently."
@@ -1634,4 +1634,65 @@ but reassuringly solid.  The little beads of sap under her palm were frozen
 nearly solid but still sticky.  She took a deep, shaky breath.  She was *not*
 going to throw up.  "I'm all right," she told Thokmay, smiling weakly.  "Just...
 just a headache."  Somewhere nearby, a sapsucker chirped uncertainly.  A
-squirrel chattered in response and everything whirled around her and went away.
+squirrel chattered in response and then she heard a faint, frightened voice
+calling for help somewhere in the distance.
+
+"Did you hear that?" she whispered to Thokmay.  He held a fist up beside his
+ear, his eyes still scanning the trees around them.
+
+"I don't know what that means!" she whispered angrily.  "Did you hear someone?"
+
+"No!" the young soldier whispered back.  "Now please, honored, be quiet.
+I'm sure someone is watching us."
+
+"I don't think it's a someone," Noxy whispered, too quietly for him to hear.  "I
+think it's the forest."  But that couldn't be right.  They were on a trail, near
+the road that from the valley floor up to the village.  There were stumps where
+trees had been taken, and they had passed the remains of a long-ago
+campfire---they were far away from the depths of the Herd of Trees that human
+beings were allowed to fly over but not enter.
+
+The voice called again, fainter and more frightened than before.  "Come on!"
+Noxy hurried down the mountain without waiting to see if Thokmay was following
+or not.  She ducked low-hanging branches that dripped wetly down her neck
+whenever she bumped into them and scrambled over fallen logs in varying stages
+of crumbly moist decay.  Shelves of mushrooms grew on the older ones, some as
+big as a kitchen table, and the ground under her boots was fragrant and spongy
+with decades of fallen pine needles.
+
+A lightning-blasted tree leaned drunkenly across the path.  She ducked under it
+and pulled up short.  "Sorry!" Thokmay bumped into her and grabbed the tree to
+steady himself, and then said, "Whoa."
+
+The trail below them wound through the bouldered remains of an ancient rock
+slide now blanketed by salal and dwarf spruce.  To their left, an impatient
+little stream flung itself from pool to pool, each waterfall throwing spray into
+the air for rainbows to dance on.
+
+"Help me!" the *tralpa* shouted again.  One glance was enough to tell Noxy what
+had happened.  Someone had laid a log across the stream to connect one side of
+the path with the other.  The *tralpa* must have been halfway across it when one
+end slipped and rolled away, leaving him perched atop the other end like a crow
+sitting on a fencepost.  If he tried to shift his weight, the log would topple
+over and send him tumbling down the mountain.
+
+"You---don't just stand there, help me!" the *tralpa* shouted angrily.  His
+leather satchel hung precariously on a stub of branch sticking out from the log
+a stride below him.  Papers, half a round of cheese, and the bright shards of
+several broken bottles lay scattered among the stones waiting hungrily below
+him.
+
+Thokmay grabbed Noxy's arm as she started forward.  "What are you planning to
+do?"
+
+"Help him!" she said, shaking him off.
+
+"How?"  Thokmay nodded at the log.  "One slip and we'll be lighting candles for
+him."
+
+"We can't just leave him there!" Noxy said angrily.  "He'll freeze!"  The
+Scholar-Candidate was soaked to the skin and shivering, as miserable as he was
+angry.
+
+"But honored, one slip and---" Like an actor who had been waiting for her cue,
+the log slipped down the mountain a pace, hesitated, and stopped.

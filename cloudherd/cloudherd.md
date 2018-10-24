@@ -475,9 +475,9 @@ everyone except us."
 Noxy puffed an annoyed breath, biting off her "of course I'm sure!"  when she
 caught Sensy's uncertain look.  "Wait here," she said with a scowl.
 
-She strode through the crowd to the speaker's stone and caught her mother's
-eye.  Before Noxy could speak, Indy said, "Oh, and I think you've met my
-daughter, Probably Noxious."
+She strode through the crowd to the speaker's stone and caught her mother's eye.
+Before Noxy could speak, Indy said, "Oh, and I think you've met my daughter,
+Probably Noxious."
 
 "The honor was mine," the tiger rumbled, flicking an ear in what might have been
 the feline equivalent of a very small bow.
@@ -765,13 +765,15 @@ eye, sighed faintly, and then put on the smile she always wore when talking to
 people she didn't like and turned to face the king's official representative to
 the village of Stale Leftovers.
 
-Scholar-Candidate Nangyal---he insisted that the villagers use the
-title---looked as though he had slept in his clothes and only just woken up,
-which he probably had.  Like the soldiers who straightened up when they caught
-sight of his official gray scarf, he had a lowlander's round face and near-black
-skin.  But where they were lean, he sagged, and where the soldiers had only a
-few days of stubble on their shaved heads, his frizzy hair and failed beard were
-as unruly as the ferns he trampled as he strode over to Indy and glared at her.
+Scholar-Candidate Nangyal---he insisted that the villagers use the title, even
+though he was a decade past the age at which most candidates removed that
+qualifier from their titles---looked as though he had slept in his clothes and
+only just woken up, which he probably had.  Like the soldiers who straightened
+up when they caught sight of his official gray scarf, he had a lowlander's round
+face and near-black skin.  But where they were lean, he sagged, and where the
+soldiers had only a few days of stubble on their shaved heads, his frizzy hair
+and failed beard were as unruly as the ferns he trampled as he strode over to
+Indy and glared at her.
 
 "Reeve, are you aware that there is an *animal* in the village?" he demanded
 icily.
@@ -800,8 +802,20 @@ sent us."  A lump rose in Noxy's throat as one of his men very casually
 positioned himself behind Nangyal, his hand falling to the hilt of his sword.
 
 The whole village held its breath.  One heartbeat, two...  "You're---you're
-*traitors*!?" the *tralpa* spluttered.  "Here!?  Reeve!  Reeve!  Arrest these
-men!"
+*traitors*!?" the *tralpa* spluttered.  "Here!?"
+
+His face screwed up as if he was having a particularly difficult visit to the
+outhouse, and for a moment Noxy thought he might actually manage to cast a
+spell.  He had tried so hard when he first arrived in Stale two years ago,
+working night and day to master enough of the basics to pass the annual
+examinations in the capital, "And be posted somewhere with *restaurants*," he
+was heard to mutter more than once.  But nothing worked, and nothing worked, and
+now he spent most of his time alone in the biggest house in the village with his
+bottles and his broken dreams.
+
+A moment passed in breathless anticipation before the *tralpa* gave up and
+pointed at the sergeant imperiously.  "Reeve!  Arrest these men immediately!" he
+ordered.
 
 "No." "No!" Indy and the sergeant said simultaneously.  The sergeant shook his
 head almost imperceptibly at the soldier behind the *tralpa*.  Obediently, the
@@ -1225,9 +1239,9 @@ life."
 Around him, soldiers and villagers bowed their heads and murmured, "That will be
 my thanks." In ones and twos they stepped forward to light candles from the
 funeral flames, then turned toward home.  One of the soldiers wept openly and
-without shame.  Noxy saw Thokmay wipe tears from his cheek and then straighten
-his back and square his shoulders, cupping his candle to shelter it from the
-wind so that it could in turn be his shield against the darkness.
+without shame.  Noxy saw Private Thokmay wipe tears from his cheek and then
+straighten his back and square his shoulders, cupping his candle to shelter it
+from the wind so that it could in turn be his shield against the darkness.
 
 It was as solemn a moment as she could remember, which is why her heart sank
 when they rounded the corner and saw the *tralpa* standing in front of the gate
@@ -1271,8 +1285,8 @@ Before Indy could reply, Sergeant Dorbu stepped forward.  "Am I going to have to
 put this down, honored?" he asked gently, raising his candle slightly, its
 delicate yellow flame protected by his cupped hand.
 
-The *tralpa* snapped his book shut.  "I do *not* hear the words of traitors,"
-he said haughtily.
+The *tralpa* snapped his book shut.  "I do *not* hear the words of traitors," he
+said haughtily.
 
 "I see.  Honored, could you take this please?" The sergeant handed his candle to
 Indy, ignoring her startled protest, and in one smooth motion drew his sword and
@@ -1373,14 +1387,14 @@ were like those deep shadows in the forest where the last of the winter snow
 could lie unmelted until midsummer.  She waited patiently until the last of the
 crows had flown away and then raised a hand in greeting.
 
-Heart pounding, Noxy raised her own, and woke.  She lay in bed, her heart
-pounding, listening to the windchimes outside her window and the soft, rhythmic
-snuffle of her mother snoring in the room below her.  Once her breathing slowed,
-she fumbled among the lifetime of odds and ends on top of the two-drawer dresser
-beside her bed.  Her hand closed on the little brass lamp her father had given
-her when she had first started reading.  She hadn't set it out that morning to
-recharge it, but the thumbnail-sized piece of dayglass inside it still gleamed
-when she opened its cover.
+Heart pounding, Noxy raised her own, and woke.  She lay in bed and listened to
+the windchimes outside her window and the soft, rhythmic snuffle of her mother
+snoring in the room below her.  Once her pulse slowed, she fumbled among the
+lifetime of odds and ends on top of the two-drawer dresser beside her bed.  Her
+hand closed on the little brass lamp her father had given her when she had first
+started reading.  She hadn't set it out that morning to recharge it, but the
+thumbnail-sized piece of dayglass inside it still gleamed when she opened its
+cover.
 
 She set it back on the dresser and fished under her pillow to pull out the knit
 dolls that lay there.  Her father had made them when she was little, either to
@@ -1517,8 +1531,8 @@ There, coming around the first bend in the pass, was a faint smudge of white.
 It was Big Blue.  She turned around and ran as fast as she could back to the
 square.
 
-"*Amma*!  *Amma!*  He's coming back!"  She skidded to a stop on the
-cobblestones.  "Big Blue---he's coming back."
+"*Amma*!  *Amma!* He's coming back!"  She skidded to a stop on the cobblestones.
+"Big Blue---he's coming back."
 
 A dozen heads turned to look at her.  "What?" the tiger snarled, his ears going
 back.
@@ -1559,9 +1573,9 @@ would I do that?"
 "I don't know.  Why would you go behind my back and fly off to talk to the rest
 of the village?" Indy retorted hotly.
 
-"Honoreds, forgive me," Sergeant Dorbu cut in.  He, Kulbinder, and Thokmay had
-been standing a few steps back from the line of villagers.  Now he stepped
-forward.  "If you didn't take the *tralpa*, then where is he?"
+"Honoreds, forgive me," Sergeant Dorbu cut in.  He, Kulbinder, and Private
+Thokmay had been standing a few steps back from the line of villagers.  Now he
+stepped forward.  "If you didn't take the *tralpa*, then where is he?"
 
 Grappa Gas made a disgusted noise in the back of his throat.  "He must be on
 foot.  The idiot must be trying to hike down on his own."
@@ -1579,9 +1593,9 @@ explaining what happened to him."
 Indy nodded.  "We have to go find him."
 
 So it was that Noxy found herself picking her way down a side trail a few
-minutes later with Thokmay and the tiger in her wake.  "Show them the shortcut
-to the fishpond," her mother had instructed her as she sent people in twos and
-threes to search paths that the *tralpa* might have taken.
+minutes later with Private Thokmay and the tiger in her wake.  "Show them the
+shortcut to the fishpond," her mother had instructed her as she sent people in
+twos and threes to search paths that the *tralpa* might have taken.
 
 Noxy had nodded, still wondering how she had known that Big Blue was coming
 back.  Two strides away, she'd heard Aft mutter an apology to his wife.  "I
@@ -1591,12 +1605,13 @@ should've told you," he'd said.
 this baby if we don't trust each other?"  Noxy had turned away, embarrassed.
 
 The air was cold and damp in the forest gloom.  Noxy rubbed her arms to warm
-herself as she walked, but Thokmay seemed not to notice as he studied the
-greenery around them.  The tiger had disappeared into it almost as soon as they
-left Stale with a growled, "Find what you can---I'll find you."
+herself as she walked, but Private Thokmay seemed not to notice as he studied
+the greenery around them.  The tiger had disappeared into it almost as soon as
+they left Stale with a growled, "Find what you can---I'll find you."
 
-Thokmay raised a hand.  "There."  He pointed the forest floor in front of them.
-"See where the bush is trodden down?  Someone came through here recently."
+Private Thokmay raised a hand.  "There."  He pointed the forest floor in front
+of them.  "See where the bush is trodden down?  Someone came through here
+recently."
 
 "If you say so," Noxy said, rubbing her arms more vigorously.  Cloudherds
 learned how to read the sky almost before they learned how to read books, but
@@ -1608,15 +1623,17 @@ when the birds were singing, but when it was silent---
 anything for the last hundred heartbeats except the soft pitter-pat of water
 dripping from the branches around them.
 
-"Sh!"  Thokmay made a cutting gesture with his hand.  "Something's watching us."
+"Sh!"  Private Thokmay made a cutting gesture with his hand.  "Something's
+watching us."
 
-Noxy shivered.  "Is it the tiger?" she whispered.  Thokmay shook his head.
+Noxy shivered.  "Is it the tiger?" she whispered.  Private Thokmay shook his
+head.
 
 Noxy glanced over her shoulder.  They were only a few hundred strides from the
 village gate, but it felt like home and sunlight and safety were a world away.
 The forest didn't want them there.  It didn't want their voices or their boots
-or the metal of the sword that was somehow in Thokmay's hand even though she
-hadn't seen him draw it.
+or the metal of the sword that was somehow in Private Thokmay's hand even though
+she hadn't seen him draw it.
 
 She pressed the heels of her hands to her temples.  What was happening?  She
 couldn't be mind-hearing the forest---could she?  She must be going crazy.  It
@@ -1624,23 +1641,23 @@ was too much---it couldn't all fit.  Her head was going to burst.
 
 "It's too big..." Noxy whimpered.
 
-"Sh!" Thokmay hissed urgently, his eyes wide.
+"Sh!" Private Thokmay hissed urgently, his eyes wide.
 
 Noxy put a hand on a nearby tree to steady herself.  The bark was cold and damp
 but reassuringly solid.  The little beads of sap under her palm were frozen
 nearly solid but still sticky.  She took a deep, shaky breath.  She was *not*
-going to throw up.  "I'm all right," she told Thokmay, smiling weakly.  "Just...
-just a headache."  Somewhere nearby, a sapsucker chirped uncertainly.  A
-squirrel chattered in response and then she heard a faint, frightened voice
+going to throw up.  "I'm all right," she told Private Thokmay, smiling weakly.
+"Just...  just a headache."  Somewhere nearby, a sapsucker chirped uncertainly.
+A squirrel chattered in response and then she heard a faint, frightened voice
 calling for help somewhere in the distance.
 
-"Did you hear that?" she whispered to Thokmay.  He held a fist up beside his
-ear, his eyes still scanning the trees around them.
+"Did you hear that?" she whispered to Private Thokmay.  He held a fist up beside
+his ear, his eyes still scanning the trees around them.
 
 "I don't know what that means!" she whispered angrily.  "Did you hear someone?"
 
-"No!" the young soldier whispered back.  "Now please, honored, be quiet.
-I'm sure someone is watching us."
+"No!" the young soldier whispered back.  "Now please, honored, be quiet.  I'm
+sure someone is watching us."
 
 "I don't think it's a someone," Noxy whispered, too quietly for him to hear.  "I
 think it's the forest."  But that couldn't be right.  They were on a trail, near
@@ -1650,16 +1667,16 @@ campfire---they were far away from the depths of the Herd of Trees that human
 beings were allowed to fly over but not enter.
 
 The voice called again, fainter and more frightened than before.  "Come on!"
-Noxy hurried down the mountain without waiting to see if Thokmay was following
-or not.  She ducked low-hanging branches that dripped wetly down her neck
-whenever she bumped into them and scrambled over fallen logs in varying stages
-of crumbly moist decay.  Shelves of mushrooms grew on the older ones, some as
-big as a kitchen table, and the ground under her boots was fragrant and spongy
-with decades of fallen pine needles.
+Noxy hurried down the mountain without waiting to see if Private Thokmay was
+following or not.  She ducked low-hanging branches that dripped wetly down her
+neck whenever she bumped into them and scrambled over fallen logs in varying
+stages of crumbly moist decay.  Shelves of mushrooms grew on the older ones,
+some as big as a kitchen table, and the ground under her boots was fragrant and
+spongy with decades of fallen pine needles.
 
 A lightning-blasted tree leaned drunkenly across the path.  She ducked under it
-and pulled up short.  "Sorry!" Thokmay bumped into her and grabbed the tree to
-steady himself, and then said, "Whoa."
+and pulled up short.  "Sorry!" Private Thokmay bumped into her and grabbed the
+tree to steady himself, and then said, "Whoa."
 
 The trail below them wound through the bouldered remains of an ancient rock
 slide now blanketed by salal and dwarf spruce.  To their left, an impatient
@@ -1674,22 +1691,65 @@ sitting on a fencepost.  If he tried to shift his weight, the log would topple
 over and send him tumbling down the mountain.
 
 "You---don't just stand there, help me!" the *tralpa* shouted angrily.  His
-leather satchel hung precariously on a stub of branch sticking out from the log
-a stride below him.  Papers, half a round of cheese, and the bright shards of
-several broken bottles lay scattered among the stones waiting hungrily below
-him.
+prized leather satchel hung precariously on a stub of branch sticking out from
+the log a stride below him.  Papers, half a round of cheese, and the bright
+shards of several broken bottles lay scattered among the stones waiting hungrily
+below him.
 
-Thokmay grabbed Noxy's arm as she started forward.  "What are you planning to
-do?"
+Private Thokmay grabbed Noxy's arm as she started forward.  "Honored, wait.
+What are you planning to do?"
 
-"Help him!" she said, shaking him off.
+"Help, of course!" she said angrily, shaking him off.
 
-"How?"  Thokmay nodded at the log.  "One slip and we'll be lighting candles for
-him."
+"How?"  Private Thokmay nodded at the log.  "One wrong move and we'll be
+lighting candles for him."
 
-"We can't just leave him there!" Noxy said angrily.  "He'll freeze!"  The
+"We can't just leave him there!" Noxy protested.  "He'll freeze!"  The
 Scholar-Candidate was soaked to the skin and shivering, as miserable as he was
 angry.
 
-"But honored, one slip and---" Like an actor who had been waiting for her cue,
-the log slipped down the mountain a pace, hesitated, and stopped.
+"I know, but one slip and---" Like an actor who had been waiting for her cue,
+the log slipped down the mountain.
+
+The *tralpa* shrieked in terror, then shrieked again when the log jerked to a
+stop two paces below where it had been.  "Hurry up!" he yelped in a strangled
+voice.  "Get me *off* this thing *right now*!"
+
+"We're trying, honored," Private Thokmay yelled back, clambering over a boulder
+half his own height covered in damp-slick moss.  "Can you reach the branch on
+your left?"
+
+The *tralpa* didn't even look.  "No!  You have to come *get* me!"
+
+"Yes, honored."  The young soldier muttered something under his breath that Noxy
+couldn't hear over the gurgling of the waterfall.  He rose cautiously to his
+feet and took a long step onto the next boulder.  "Can you get any closer?" he
+asked over his shoulder as he started to unbutton his uniform jacket.
+
+"Maybe."  Noxy picked her way carefully around the boulders, clutching at a
+sword fern for balance as a stone rolled away under her boot.  She stopped three
+strides from the terrified lowlander.  "I can't get any closer," she called to
+Private Thokmay.
+
+"Understood.  Hang on."  A second another long stride put him on top of a
+smaller boulder half-drowned by the waterfall.
+
+Noxy's heart went into her throat.  "Be careful!"
+
+"Yes, honored," he muttered, "I'm trying."  He wriggled awkwardly out of his
+uniform jacket, revealing only a sleeveless vest beneath it.  He was skinnier
+than Noxy had realized, and started shivering the moment the wind started
+scraping itself across his skin.
+
+"I'm going to toss this to you, honored," he told the *tralpa*.  "When you get
+it, hook it over that branch and then swing yourself over to that big flat rock
+on your left, all right?"
+
+The *tralpa* shook his head violently.  "You can do it, honored," the young
+soldier coaxed him.  "I know you can.  Ready?  One... two... *three!*"  He
+tossed his balled-up coat into the air.
+
+The *tralpa* leaned forward and reached for it.  As he did so, the log shifted
+underneath him again.  He screamed as it slid and kept sliding.  Its bottom end
+caught on a stone.  It tipped forward, paused for a heartbeat, and kept going,
+sending the *tralpa* flying.  "Nooooo!" he screamed.

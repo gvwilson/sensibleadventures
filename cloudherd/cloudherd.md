@@ -364,8 +364,9 @@ between her and Sensy.  "Where's the *tralpa*?  Is he too afraid of the tiger to
 come out and say hello?  Or has he been up all night studying again?"  He mimed
 someone drinking from a bottle.
 
-"Ssh!"  But he was right---the voice and hand of the king in Stale Remainders
-was nowhere to be seen.
+"Ssh!"  But he was right---the voice and hand of the king in Stale Remainders,
+who also happened to be the least useful magician Noxy had ever heard of, was
+nowhere to be seen.
 
 Indy thumped the brightly-painted speaker's drum again.  "The Gifted has told me
 that he and his companions were trying to get through the pass to Chaghan.  An
@@ -400,7 +401,7 @@ The crowd murmured again.  "Soldiers?" Aft said disbelievingly.  "What were you
 doing trying to get through the pass?  There aren't any rebels up here."
 
 At that, the tiger finally deigned to look at him.  "There are, actually.  It is
-my companions' privilege to follow the command of the Learned Shudarga."
+my companions' privilege to serve the cause of the Learned Shudarga."
 
 That brought gasps instead of murmurs.  As a brilliant young scholar, Shudarga
 had written pamphlet after pamphlet arguing that Gandan's laws should be free
@@ -412,15 +413,15 @@ attracting thousands to her cause.  Then winter had come and news from the
 lowlands had slowed to a trickle, leaving the cloudherds with nothing to chew on
 but rumors.
 
-"Does that mean the king's men are going to come looking for you?"  Ash demanded
+"Does that mean the king's army is going to come looking for you?"  Aft demanded
 loudly, putting a protective arm around his wife and ignoring Indy as she
 thumped the drum for order.  "Because if they do, these walls won't keep 'em out
 for long, and neither will we."
 
 The tiger's tail twitched.  "I did not come to your village for its walls,
-honored, or to ask you to fight.  My companions need help, and you are their
-only hope.  If you are afraid it will bring more trouble than you can chew, say
-so and I will be on my way."
+honored, or to ask you to fight.  My companions need help.  You are their only
+hope---if you fear it will bring more trouble than you can chew, say so and I
+will be on my way."
 
 "Nobody is saying we won't help," Indy said firmly.  "And as long as I'm reeve,
 nobody is *going* to say that."  She raised a hand to forestall whatever Aft had
@@ -652,19 +653,7 @@ some time."
 "They're not really the most sociable creatures," Granna Fee said dryly.
 
 Grappa Gas harrumphed.  "You just have to get to know them.  I wonder if any of
-their chicks will be Gifted this year?  That would be a thing, wouldn't it?
-Wait, down there---is that a person down there by the river?"
-
-"Where?"  Noxy pushed the heavy blanket aside and scrambled to the cloud's
-leading edge.  "I don't see, where?"
-
-Behind her back, Granna Fee scowled at Grappa Gas.  The old man cleared his
-throat.  "Sorry, sweetling---it was probably just a troll."  He patted her
-shoulder awkwardly.
-
-"Someone needs to remember to wear his glasses when he's out and about," Granna
-Fee sniffed pointedly, holding open the blanket so that her granddaughter could
-rejoin her and then shooting another look at the old man.
+their chicks will be Gifted this year?  That would be a thing, wouldn't it?"
 
 It had taken the tiger a day to hike up the pass to Stale Leftovers.  The
 cloudherds covered the same distance half an hour, even with the headwind.
@@ -767,8 +756,9 @@ Rash nudged her shoulder with his.  "Where's the tiger gone?" he asked Noxy.
 
 A terrified shout from inside the ancient walls was his answer.  A heartbeat
 later the village *tralpa* stumbled through the gate, tripping over the hem of
-his robe of office.  "There's--- there's a--- Reeve!  Reeve!  What is *that
-creature* doing here?"
+the flowing lowlander-style robe he always wore (and occasionally washed).
+"There's--- there's a--- Reeve!  Reeve!  What is *that creature* doing here?"
+He snapped his fingers.  A tiny spark sputtered and died at their tips.
 
 "Saints give me strength," Noxy's mother muttered.  She caught her daughter's
 eye, sighed faintly, and then put on the smile she always wore when talking to
@@ -778,11 +768,10 @@ the village of Stale Leftovers.
 Scholar-Candidate Nangyal---he insisted that the villagers use the
 title---looked as though he had slept in his clothes and only just woken up,
 which he probably had.  Like the soldiers who straightened up when they caught
-sight of his official gray scarf, he had the round face and near-black skin of a
-lowlander.  But where they were lean, he sagged, and where the soldiers had only
-a few days of stubble on their shaved heads, his frizzy hair and failed beard
-were as unruly as the ferns he trampled as he strode over to Indy and glared at
-her.
+sight of his official gray scarf, he had a lowlander's round face and near-black
+skin.  But where they were lean, he sagged, and where the soldiers had only a
+few days of stubble on their shaved heads, his frizzy hair and failed beard were
+as unruly as the ferns he trampled as he strode over to Indy and glared at her.
 
 "Reeve, are you aware that there is an *animal* in the village?" he demanded
 icily.
@@ -792,7 +781,7 @@ this morning."
 
 "Well, why was I not informed?  And who are *these* people?" he continued,
 jabbing a finger at the soldiers.  "You!  Sergeant!  What are you doing here?
-And just look at your uniform---it's a disgrace!"
+Just look at your uniform---it's a disgrace!"
 
 The soldier who had been the last to climb onto Big Blue nodded.  "It isn't
 quite regimental standard, is it, honored?" he acknowledged ruefully.  "Nothing
@@ -807,22 +796,21 @@ this pass is.  And the clouds---why, if those upstart peasants were to somehow
 gain control of them, there's no telling what might---"
 
 The sergeant cleared his throat.  "Actually, honored, it wasn't His Majesty who
-sent us."  A lump rose in Noxy's throat as one of his men took a couple of paces
-to position himself behind Nangyal, his hand falling casually to the hilt of his
-sword.
+sent us."  A lump rose in Noxy's throat as one of his men very casually
+positioned himself behind Nangyal, his hand falling to the hilt of his sword.
 
 The whole village held its breath.  One heartbeat, two...  "You're---you're
 *traitors*!?" the *tralpa* spluttered.  "Here!?  Reeve!  Reeve!  Arrest these
 men!"
 
-"No." "No!" Indy and the sergeant said simultaneously.  The sergeant jerked his
-chin at the soldier behind the *tralpa*.  Obediently, the soldier slid his
-half-drawn sword back into its sheath.
+"No." "No!" Indy and the sergeant said simultaneously.  The sergeant shook his
+head almost imperceptibly at the soldier behind the *tralpa*.  Obediently, the
+man slid his half-drawn sword back into its sheath.
 
 The sergeant turned to Indy.  "Honored?  If you don't want us here, we'll go,
-but we won't suffer arrest, and I---"
+but we won't suffer arrest."
 
-"Nobody's arresting anybody," she interrupted, exasperated.  "Not right now,
+"Nobody's arresting anybody," she interrupted in exasperation.  "Not today,
 anyway.  No---with respect, Scholar-Candidate, these men are travelers, and
 injured, and more importantly, we need to lay their dead to rest before they
 ghost.  Sergeant---I'm sorry, I don't know your name?"
@@ -836,9 +824,9 @@ against His Majesty while you're our guests?"
 
 "You have my word, honored," the sergeant said.
 
-"And mine," Kulbinder rumbled.  Noxy jumped.  The tiger had padded up behind
-them all while they were talking, the boy with the scarred face a pace behind
-him.
+"And mine," Kulbinder rumbled, "Since I am not, as the *tralpa* so quickly
+observed, a man."  Noxy jumped.  The tiger had padded up behind them all while
+they were talking, the boy with the scarred face a pace behind him.
 
 The *tralpa* stumbled backed a step, tripping over the hem of his robe once
 again.  "What?  No!  Reeve, I *order* you to arrest these men!  And this
@@ -850,31 +838,32 @@ Indy.  The reeve blinked.  "What am I supposed to do with that?"
 "Whatever you want," the soldier said.  "And lock me up if it makes anyone feel
 safer.  Just so long as someone looks after my men."
 
-"I'm sure that won't be necessary," Indy replied.  "Let's just get everyone
-warmed up and fed and then we can do right by your dead and then it will be time
-for dinner and then we can all get some sleep and sort this out in the morning,
-all right?"
+"As I think I just said, that won't be necessary," Indy replied tartly.  "Let's
+just get everyone warmed up and fed, shall we?  Then it will be time for dinner
+and then we can do right by your dead and then we can all get some sleep and
+sort this out in the morning."
 
 The *tralpa* drew himself up.  "That is *unacceptable*!" he spat.  "These men
-have taken arms against His Majesty!  You!"  He jabbed a finger at Grappa Gas.
-"I hereby appoint you acting reeve.  Arrest these men and then arrest *her*!"
-He swivelled his arm to point accusingly at Indy.
+have taken arms against His Majesty!  You!"  He pointed at Grappa Gas.  "In the
+king's name, I hereby appoint you acting reeve.  Arrest these men and then
+arrest *her*!"  He swivelled his arm to point accusingly at Indy.
 
 Grappa Gas had been stroking Big Blue's flank, mind-speaking to the old bull to
 calm him after their turbulent flight.  He looked from the indignant *tralpa* to
-the sergeant to the reeve and back to the *tralpa*.  "Sorry, honored," he said,
-patting Big Blue.  "I have to get this old boy back in his pen."
+the sergeant to the reeve and back to the *tralpa*.  "Can't do that, honored,"
+he said cheerfully.  "I have to get this old boy back in his pen."
 
 Sergeant Dorbu's shoulders slumped slightly.  "Thank you, honored," he said to
-Indy, buckling his sword back on.  He bent over and lifted one of the canvas
-bundles onto his shoulder.  "If there's somewhere we could...?"
+Indy, buckling his sword back on.  With a grunt, he squatted and lifted one of
+the canvas bundles onto his shoulder.  "If there's somewhere we could...?"
 
 "I'll show you the way," Granna Fee said.
 
 The *tralpa* stormed and raged for a few moments longer, but once he realized
 that no one was paying attention he wrapped his robe and what was left of his
 dignity around himself and marched back the house that he shared with his books,
-his bottles, and his resentment of everyone and everything in Stale.
+his bottles, his failed attempts at magic, and his resentment of everyone and
+everything outside the walls of the distant capital.
 
 Noxy barely noticed his door slam.  Once the soldiers who were well enough had
 picked up their comrades' bodies, and the rest had been led through the gate to
@@ -1180,7 +1169,7 @@ talked sporadically while they cooked and ate, leaving sentences half-finished
 and changing direction like bats chasing bugs on a summer's evening.
 
 When they were done, Indy pushed her plate away and reached across the table to
-squeeze her daughter's hand.  "You can stay here if you want."
+squeeze her daughter's hand.  "You really can stay here if you want, you know."
 
 Noxy squeezed back.  "I know.  But then who will look after you?"
 
@@ -1197,11 +1186,12 @@ among them, but no one spoke---the soft sound of windchimes echoing through the
 village said everything that need to be said.
 
 When they reached the square, they found the soldiers well enough to stand
-already waiting.  They had cleaned their armor, or nearly, and what bandages
-were in evidence were fresh.  Kulbinder and Private Thokmay stood a little to
-the side, the young soldier's hand resting on the nape of the tiger's neck.  He
-withdrew it when Noxy nodded to him, but returned her nod.  The tiger merely
-blinked.
+waiting, patient and quiet in the way of people who have met sorrow before and
+know that they will meet it again.  They had cleaned their armor, or nearly, and
+what bandages were in evidence were fresh.  Kulbinder and Private Thokmay stood
+a little to the side, the young soldier's hand resting on the nape of the
+tiger's neck.  He withdrew it when Noxy nodded to him in greeting, but returned
+her nod.  The tiger merely blinked.
 
 In silence, the small crowd made their way through the gate and up the path that
 led to the village's worship circle.  Sergeant Dorbu and two other soldiers had
@@ -1241,11 +1231,13 @@ wind so that it could in turn be his shield against the darkness.
 
 It was as solemn a moment as she could remember, which is why her heart sank
 when they rounded the corner and saw the *tralpa* standing in front of the gate
-with a dayglass lantern at his feet, his hair combed, and his scarf of office
-folded precisely into place.  In one hand he held a book so thick it was almost
-a cube.
+with a dayglass lantern at his feet, his frizzy hair combed and tied back, and
+his scarf of office folded precisely into place.  In one hand he held a book so
+thick it was almost a cube.  Tiny flames danced across the fingertips of the
+other, and Noxy wondered how many tries it had taken him to make that simple
+spell work.
 
-"Oh no," Granna Fee breathed beside Noxy.  "Not now.  Not *now*."
+"Oh no," Granna Fee breathed beside her.  "Not now.  Not *now*."
 
 As the villagers approached, Nangyal puffed out his chest.  "Literally
 Indigestible, by election from its inhabitants and with the consent of His
@@ -1259,50 +1251,55 @@ still.  "This is not the time or place, Scholar-Candidate," she said, her voice
 carrying clearly on the cold evening breeze.
 
 But the *tralpa* plowed on.  "As the king's voice in this place, I require you,
-Literally Indigestible, to answer to a charge of insubordination."  He opened
-his book, cursing under his breath and stooping to pick up the bookmark that
-fluttered to the ground when he did so, then raised the book with both hands to
-show a page almost black with dense print.
+Literally Indigestible, to answer to a charge of insubordination."  He flicked
+his hand a couple of times to blow out the flames he had summoned and then
+opened his book, cursing under his breath and stooping to pick up the bookmark
+that fluttered to the ground.  Tucking it under his arm, he raised the book with
+both hands to show a page that was almost black with dense print.
 
 "I'm sorry, Scholar-Candidate, but that's a bit difficult to read in this
-light," Indy replied calmly.  "Perhaps we could---"
+light," Indy said calmly.  "Perhaps we could make some tea and---"
 
 "As the king's voice in this place," the *tralpa* continued loudly, "I require
 you also to answer to an additional charge of derelection of duty, inasmuch as
-you have---damn it."  The bookmark slipped from his hand and fluttered away.
-"Inasmuch as you have neglected a *direct order* to arrest those who have freely
-admitted that they are in open rebellion against His Majesty."
+you have---damn it."  The bookmark slipped out from under his arm and fluttered
+to the ground again.  "Inasmuch as you have neglected a *direct order* to arrest
+those who have freely admitted that they are in open rebellion against His
+Majesty."
 
 Before Indy could reply, Sergeant Dorbu stepped forward.  "Am I going to have to
-put this down?" he asked, raising his candle slightly, its delicate flame
-protected by his cupped hand.
+put this down, honored?" he asked gently, raising his candle slightly, its
+delicate yellow flame protected by his cupped hand.
 
 The *tralpa* snapped his book shut.  "I do *not* hear the words of traitors,"
 he said haughtily.
 
-"Honored, could you take this please?" The sergeant handed his candle to Indy,
-ignoring her startled protest, and drew his sword.
+"I see.  Honored, could you take this please?" The sergeant handed his candle to
+Indy, ignoring her startled protest, and in one smooth motion drew his sword and
+straightened his arm to point its tip at the *tralpa*'s heart.
 
-The *tralpa*'s eyes widened.  Noxy's heart skipped a beat.  She had just enough
-time to think, *He really thought they'd just do what he said,* before someone
-cleared their throat behind her and said, "Excuse me, honored?  If I may?"
+The Scholar-Candidate's eyes widened.  Noxy's heart skipped a beat.  She had
+just enough time to think, *He really thought everyone would just do what he
+said,* before someone cleared their throat behind her and said, "Excuse me,
+honored?  If I may?"
 
 Ignoring the tiger's growl of, "Not now, boy," Private Thokmay came forward to
 join the sergeant and the reeve.  "Did I hear correctly that you're the king's
-representative here?" he asked, his voice as clear as that of an actor on stage.
+voice here?" he asked, his voice carrying clearly like that of an actor on
+stage.
 
-Scholar-Candidate Nangyal nodded his head jerkily, his eyes fixed on the
-candlelight that flickered on Sergeant Dorbu's sword.  "So you're in charge of
-the leases on His Majesty's laws?"  Another jerky nod.  "Well, in that case..."
-The young soldier fished a coin out of his pocket.  "There's a law regarding
-delays in application of official regulations, isn't there---about halfway
-through the section on procedures?  I'd like to rent it, please."
+The *tralpa* nodded jerkily, his eyes fixed on the tip of the sergeant's sword.
+"So you're in charge of leases on His Majesty's laws?"  Another jerky nod.
+"Well, in that case..."  The young soldier fished a coin out of his pocket.
+"There's a law regarding delays in application of official regulations, isn't
+there---somewhere near the end of the section on procedures?  I'd like to rent
+it, please."
 
-He offered the coin to the *tralpa*.  The pudgy man gaped at him.  "What?"
+He held out the coin.  The pudgy man gaped at him.  "What?"
 
 "I'd like to rent that law," Private Thokmay continued doggedly.  "Just for
 tonight.  That will mean the reeve isn't breaking any of the others if she waits
-'til tomorrow to arrest people, won't it?"
+until tomorrow to arrest people, won't it?"
 
 The *tralpa* looked from the boy to the sergeant's sword to the reeve and back.
 "I---yes, I should think so," he replied weakly.
@@ -1328,28 +1325,28 @@ to use them---not here, not now, not *ever*!"
 honored.  It won't happen again."
 
 His mouth snapped shut as Indy stepped in front of him and held out her hand to
-the sergeant.  "Give it to me.  Now."
+the sergeant.  "Give it to me.  *Now.*"
 
 Sergeant Dorbu stared at her for a moment, then unbuckled his sword belt for a
 second time and held it out.  Indy took it from him with an icy, "Thank you."
-
-"I will let your men keep theirs," she said, her voice colder than the mountain
-breeze, "But only on the understanding that there will *not* be another
-incident.  Do we have an accord?"
+She handed it to Grappa Gas without looking at him.  "I will let your men keep
+theirs," she said, her voice colder than the mountain breeze, "But only on the
+understanding that there will *not* be another incident like this one.  Do we
+have an understanding?"
 
 Sergeant Dorbu dipped his head.  "My apologies, honored, I---"
 
-"I don't want your apologies," Indy said scathingly.  "I want you to say 'yes,
-honored'.  Now, do we have an accord?"
+"I don't want your apologies," Indy said in a low voice that sent a shiver up
+Noxy's spine.  "I want you to say 'yes, honored'.  Now, do we have an
+understanding?"
 
 The sergeant straightened up.  "Yes, honored."
 
 "Good.  Then let's all get a good night's sleep and hope that tomorrow is a
-better day for everyone.  We'd be pleased to give you a tour of the village
-then.  Noxy?  It's time for bed."  And with her back as straight as any
-soldier's, she marched past the sergeant and the tiger's boy.  Noxy hurryied to
-keep up with, wondering if her mother had always been this brave and if every
-sword was as heavy and awkward as the one she was carrying.
+better day for all of us.  Noxy?  It's time for bed."  And with her back as
+straight as any soldier's, she marched past the sergeant and the tiger's boy.
+Noxy hurryied to keep up with, wondering if her mother had always been this
+brave and if every sword was as heavy and awkward as the one she was carrying.
 
 Noxy had a dream that night.  She often had dreams, or told herself stories in
 her head while she was waiting to fall asleep that as often as not turned into

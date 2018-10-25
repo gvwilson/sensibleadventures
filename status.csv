@@ -1,10 +1,13 @@
 Story,Agent/Publisher,Date,Event,
 Bookster,Alexandra Machinist/ICM,2018-07-27,inquiry,
 ,,2018-08-21,rejection,
+Bookster,Jill Grinberg,2018-08-21,inquiry,
+,,,,
 Coriandel,Kate McKean/Morhaim,2018-08-20,inquiry,
 ,,2018-10-17,rejection,
-Bookster,Jill Grinberg,2018-08-21,inquiry,
-Fall Behind,Strange Horizons,2018-08-13,submission,https://strangehorizons.moksha.io/submission/status?id=13625&uid=5b71fb8b2d901
+Corianel,Liz Gorinsky/Erewhon,2018-10-22,submission,
+,,,,
+Fall Behind,Strange Horizons,2018-08-13,submission,
 ,,2018-09-17,rejection,
 Fall Behind,Andromeda Spaceways,2018-09-17,submission,
 ,,2018-09-28,rejection,
@@ -15,9 +18,11 @@ Six Letters,Beneath Ceaseless Skies,2018-10-06,submission,
 ,,,,
 ,,,,
 ,Andromeda Spaceways,,,http://andromedaspaceways.com/submission-format-guidelines/
+,Apex Magazine,,,https://www.apex-magazine.com/submission-guidelines/
 ,Beneath Ceaseless Skies,,,http://www.beneath-ceaseless-skies.com/submissions/
 ,Cast of Wonders,,,http://www.castofwonders.org/submissions/
 ,Clarkesworld,,,http://clarkesworldmagazine.com/submissions/
 ,GigaNotoSaurus,,,http://giganotosaurus.org/submission-guidelines/
+,Heroic Fantasy Quarterly,,,https://www.heroicfantasyquarterly.com/?page_id=39
 ,Lightspeed,,,https://johnjosephadams.moksha.io/publication/lightspeed/guidelines
 ,Uncanny,,,https://uncannymagazine.com/submissions/

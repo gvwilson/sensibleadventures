@@ -332,10 +332,9 @@ down this far in---"
 "Grappa!"  Noxy stomped her foot.  "Never mind that now!  The tiger says people
 are hurt and need help.  At least, I think they're people," she added belatedly.
 
-"They are as human as you are," the tiger said.  "Are you the *tralpa* here, or
-the reeve?"
+"They are as human as you are," the tiger said.  "Are you the *tralpa* here?"
 
-Grappa Gas snorted.  "Not likely, but I can take you to them."
+Grappa Gas snorted.  "Not likely, but I can take you to the reeve."
 
 Ten minutes later, the whole village was in the cobbled square---or rather, the
 whole village minus most of the adults, who had left a week ago for the
@@ -365,8 +364,8 @@ come out and say hello?  Or has he been up all night studying again?"  He mimed
 someone drinking from a bottle.
 
 "Ssh!"  But he was right---the voice and hand of the king in Stale Remainders,
-who also happened to be the least useful magician Noxy had ever heard of, was
-nowhere to be seen.
+who also happened to be the least useful magician Noxy had ever met, was nowhere
+to be seen.
 
 Indy thumped the brightly-painted speaker's drum again.  "The Gifted has told me
 that he and his companions were trying to get through the pass to Chaghan.  An

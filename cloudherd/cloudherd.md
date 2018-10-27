@@ -1677,10 +1677,11 @@ A lightning-blasted tree leaned drunkenly across the path.  She ducked under it
 and pulled up short.  "Sorry!" Private Thokmay bumped into her and grabbed the
 tree to steady himself, and then said, "Whoa."
 
-The trail below them wound through the bouldered remains of an ancient rock
-slide now blanketed by salal and dwarf spruce.  To their left, an impatient
-little stream flung itself from pool to pool, each waterfall throwing spray into
-the air for rainbows to dance on.
+The trail in front of them wound through the rough-hewn remains of a rock slide.
+Ferns, a scattering of salal, and a few dwarf spruce had found purchase among
+the mossy boulders, and an impatient little stream flung itself from one small
+pool to the next, each waterfall throwing spray into the air for rainbows to
+dance on as it splashed its way down to a larger pool below.
 
 "Help me!" the *tralpa* shouted again.  One glance was enough to tell Noxy what
 had happened.  Someone had laid a log across the stream to connect one side of
@@ -1737,8 +1738,8 @@ Noxy's heart went into her throat.  "Be careful!"
 
 "Yes, honored," he muttered, "I'm trying."  He wriggled awkwardly out of his
 uniform jacket, revealing only a sleeveless vest beneath it.  He was skinnier
-than Noxy had realized, and started shivering the moment the wind started
-scraping itself across his skin.
+than Noxy had realized, and started shivering as the wind scraped across his
+skin.
 
 "I'm going to toss this to you, honored," he told the *tralpa*.  "When you get
 it, hook it over that branch and then swing yourself over to that big flat rock
@@ -1750,5 +1751,54 @@ tossed his balled-up coat into the air.
 
 The *tralpa* leaned forward and reached for it.  As he did so, the log shifted
 underneath him again.  He screamed as it slid and kept sliding.  Its bottom end
-caught on a stone.  It tipped forward, paused for a heartbeat, and kept going,
-sending the *tralpa* flying.  "Nooooo!" he screamed.
+caught on a stone.  It tipped forward, and for one long moment stood upright
+with the *tralpa* perched on top like a bird sitting on a fencepost.
+
+Without thinking, Noxy grabbed the nearest salal bush with one hand and leaned
+forward as far as she dared, reaching for the *tralpa* with the other and
+shouting, "Jump!"  The terrified Scholar-Candidate hesitated for a heartbeat,
+then lunged for her clumsily as the log slipped one last time and tumbled end
+over end to crash to a stop against another boulder a few strides below them.
+
+Noxy grabbed the *tralpa*'s pudgy hand as his boots scrabbled to find purchase
+on the slippery rocks.  He clutched her sleeve with his other hand, and for a
+moment she was sure his weight was going to pull her over.
+
+"I've got you!" Private Thokmay grabbed her collar to steady her.  With a sound
+somewhere between a grunt and an angry yell, she pulled the *tralpa* toward
+her---
+
+---and fell to one knee as the rock she was standing on shifted under her feet.
+The log's impact on the boulder below them had knocked it loose!  Scraping,
+hesitating, and then scraping again, the rocks around them were starting to
+slide!
+
+"Honored!" Kulbinder roared as he burst out of the bushes on the other side of
+the stream.  "Let go!  You must get clear!"
+
+"Not...yet!" Private Thokmay snarled through gritted teeth.  "Come on, come
+on..."  He hauled on Noxy's collar.  Choking, Noxy let go of the salal bush,
+grabbed the *tralpa* with both hands, and heaved him up onto the rock beside her
+even as it tilted beneath her.  The *tralpa* shoved her out of his way and
+scrambled up the path for safer ground.
+
+"Go!" Private Thokmay let go of her collar.  Noxy leaped off the rock just as it
+tipped over and started sliding down the mountain.  Her momentum carried her
+three steps forward to trip over the *tralpa*, who was on his knees sobbing in
+the narrow path.  He shrieked and wrapped his arms around the trunk of the
+nearest dwarf spruce.
+
+Noxy spun around.  Private Thokmay was on his feet, arms spread for balance as
+the boulder beneath him shifted one last time.  He looked straight at her, eyes
+wide, and said something she couldn't heard as a thousand tons of rock began to
+slide down the mountain like a blanket off a bed.
+
+There was no way anyone could have stayed on their feet as the rocks slipped and
+then tumbled around him, but somehow he did it.  Somehow he managed to jump from
+one rock to the next, arms pinwheeling for balance as he jumped or skipped or
+took a long, almost casual step to the next.
+
+Just as he reached the edge of the slide and took his last leap a rock the size
+of his head bounced off a boulder and struck him hard in the ribs.  Spinning in
+a half circle, he tripped over a stray branch lying on the path and fell
+backward into Noxy's startled arms.

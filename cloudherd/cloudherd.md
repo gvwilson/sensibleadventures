@@ -1802,3 +1802,61 @@ Just as he reached the edge of the slide and took his last leap a rock the size
 of his head bounced off a boulder and struck him hard in the ribs.  Spinning in
 a half circle, he tripped over a stray branch lying on the path and fell
 backward into Noxy's startled arms.
+
+The tiger appeared out of the bushes next to them a heartbeat later and pulled
+up short.  "I presume this means you're all right," he rumbled, settling onto
+his haunches and ignoring the *tralpa*'s frightened yelp.
+
+Private Thokmay rolled off Noxy and stood up.  "Yes, honored, I'm fine," he
+panted, his teeth chattering with the cold.
+
+Noxy clambered to her feet.  "Here, put this on," she said, pulling off her coat
+and thrusting it at him.
+
+He shook his head stubbornly.  "I'll b-b-be fine."
+
+"Put it on, boy---that's an order," the tiger said sharply.  With a jerky nod,
+Thokmay took the heavy quilted coat and wrapped it around himself.
+
+"And you," the tiger continued, turning his head to the *tralpa*.  "Are you
+injured?"
+
+"Injured?  Injured!?" the *tralpa* said indignantly.  He had streaks of mud on
+his cheeks where he had wiped away his frightened tears.  "I could have *died*!"
+
+"Well maybe you should have thought of that before you ran away!" Noxy snapped.
+
+The *tralpa* pulled himself up to his full height.  "I didn't run away," he said
+indignantly.  "I was trying to do my duty because *your mother* wasn't doing
+*hers*."  Then his eyes widened.  "My satchel!  Where is my satchel!"  He pushed
+past Noxy and Private Thokmay to glare at the tumbled pile of rocks beyond
+them.  Trees jutted out of the freshly-rearranged rock slide like the uncombed
+hair of someone freshly woken from a nap.  The stream was already filling new
+pools and splashing from one to the next in new waterfalls, but there was no
+sign of the *tralpa*'s prized leather satchel.
+
+He spun around.  "You---tiger!  I need that satchel.  In the king's name, I
+order you to---"
+
+"In *whose* name?" the tiger growled menacingly, rising off his haunches.
+
+The *tralpa* gulped and would have taken a step backward into the rock slide if
+Noxy hadn't said, "Look out!"  He caught himself and looked from her to the
+tiger to Private Thokmay, and then to Noxy's astonishment plopped himself down
+on the path and began to cry.
+
+"I just wanted...  I just wanted to do the right thing," he sniffled, adding
+another streak of mud to his cheek as he wiped angrily at his tears.  "I know
+you all laugh at me behind my back, but I do try, I really do, and I can't just
+sit in that stupid drafty house and pretend nothing is happening when you're all
+acting like, like *outlaws*."
+
+Noxy's first thought was, *Your house isn't drafty---it's the nicest one in the
+whole village!* What came out of her mouth was, "Let's go home and get cleaned
+up.  I mean it," she continued as the *tralpa* opened his mouth.  "You're
+soaking wet, you don't have anything to eat, the path is gone, and if we don't
+get him in front of a fire, he's going to freeze to death."  She nodded at
+Private Thokmay, whose teeth were still chattering.
+
+The *tralpa* took a deep breath.  "Fine."  He stood up gave her an exaggerated
+bow.  "I'll follow you."

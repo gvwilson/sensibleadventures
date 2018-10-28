@@ -1910,3 +1910,245 @@ lazy circle.  As it slipped over the lip of the pond its strap caught once again
 on a stick.  The satchel's weight dragged the stick forward until it stuck
 against the pond's edge, leaving the satchel rocking gently back and forth, the
 tralpa's letters still doubled-wrapped in waxed paper safely inside it.*
+
+---
+
+Indy took one look at the bedraggled search party and ordered all of them to the
+bath house.  "No thank you, but I will avail myself of the sauna if I may,"
+Kulbinder rumbled.
+
+Afternoon was flirting with evening by the time Noxy was clean, warm, and
+dressed.  She told her mother what happened, then told the story again for Sensy
+and Rash when they returned from their own searches, then told it to her
+grandmother and Grappa Gas.
+
+When she was done she sat in silence for a few moment with the two elders up on
+the wall, looking west to where sheets of cirrus were gathering above the peaks.
+"It's going to be a big one," Granna Fee said after a moment.  "We'd best get
+ready."
+
+Stale was no stranger to storms.  When bulls battled each other in the dead of
+winter, the snow fell so thick and so fast that people had to string ropes
+between the houses to find their way.  And in the summer, when nimbus clouds
+that had stayed in the north to give birth flew south to rejoin their herds, the
+sky could darken in the time it took to sing a nursery rhyme.  When that
+happened, the villagers knew it was time to tie their shutters closed and get
+the goofs indoors, because the rain was going to come down in sheets instead of
+drops.
+
+"I am from Thind," Kulbinder growled when Indy told him why she wanted the
+soldiers to stay in the trading hall.  "I have lived through monsoons.  This
+could not possibly be worse."
+
+"Maybe not, but I bet it'll be a lot colder," she said.
+
+Kulbinder sniffed.  "Storm or not, someone should be on patrol.  But I agree, it
+would be best if the men stayed warm."
+
+"How is Thokmay doing?" Noxy asked hesitantly.
+
+The tiger blinked slowly before replying.  "He is well," he said.  "As is the
+*tralpa*."
+
+The sun had almost disappeared behind the mountains when the first sharp line of
+lightning sparked the far-off clouds.  Granna Fee said a word Noxy wasn't
+supposed to know.  "Let's not dawdle," she said briskly, pulling another armload
+of damp laundry off a drying line and stuffing it in a sack.  Children,
+grandparents, and everyone else who could walk hurried to ready the village,
+stepping around soldiers or shooing them out of the way as they watched the
+sudden flurry of activity with bemusement.
+
+Noxy carried the last sack of laundry upstairs to her bedroom for want of
+anywhere else to put it.  Her mother was chopping onions by the time she got
+back downstairs.  "Thanks, sweetling," she said, blinking away a tear.  "Can you
+do some potatoes?  And see if the cheese is still fit to eat.  I hope the tiger
+isn't too picky."
+
+Noxy pulled up short.  "The tiger?"
+
+Indy sniffled.  "Yes, he's coming for dinner.  So is the sergeant."  She swept a
+double handful of diced onions into the cooking pot with the back of the knife
+and started peeling what was probably the last knob of ginger in Stale.  "It's
+the polite thing to do," she continued without looking as Noxy opened and then
+closed her mouth.
+
+"Yes, *amma*."  Noxy set the loosely-woven bag of potatoes on the potato and
+began to scrub the skins off them with a piece of sandstone.
+
+Sergeant Dorbu knocked on their door just as the rain began to fall.  Noxy had
+been expecting him to be in his uniform, but he had traded in his helmet for a
+plain goofskin cap that any cloudherd might have worn, and had left his sword
+behind.
+
+Kulbinder padded in behind him while he and Indy were saying their hellos.  He
+flowed up onto the chair across from Noxy and watched impassively as she swept
+the last scraps of potato off the table.  "He is sleeping," the tiger said
+abruptly.
+
+Noxy jumped slightly.  "Oh.  You mean Thokmay?  Um, I'm glad to hear it.  It's
+pretty dangerous, getting frozen like that.  It happened to one of the goofs a
+couple of years ago.  She got out of their pen and tried to get across the---um.
+It doesn't matter.  I'm glad he's all right."  She could feel her cheeks burning
+under the tiger's cool stare.
+
+Her cheeks heated up even more when she saw Sergeant Dorbu's grin.  "Don't
+worry," he said cheerfully.  "He does that to everyone.  Saints, I almost
+swallowed my fork the first time I met him."
+
+"It was a spoon," Kulbinder corrected.  "And it was more than 'almost'."
+
+And just like that the rhythm of the meal took shape.  Sergeant Dorbu had a
+seemingly inexhaustible supply of stories about his foolishness, clumsiness, or
+bad choices.  Indy asked just enough questions to keep the stories coming, while
+Kulbinder's dry comments provoked protests of innocence and occasional snorts of
+laughter.  As she table a tray bearing grilled slabs of cheese, fried onions,
+and boiled potatoes, Noxy realized with a start that she was actually enjoying
+herself.  The mood was only slightly dampened by the tiger sniffing at the
+cheese and then saying thank you, but it would probably upset his digestion, he
+would hunt in the forest after the storm was over.
+
+Conversation became more serious after the dishes were cleared.  The soldiers
+had been fighting almost constantly since they had declared for the rebels.  "Or
+getting to a fight, or getting away from one, or trying to get enough food in
+our bellies to keep us fighting," Sergeant Dorbu added.
+
+"So why did you chose her side?" Indy asked as she splashed some dark mountain
+*rak* into a glass and passed it to him.  Catching Noxy's eye, she poured a
+thimbleworth into another glass and handed it to her daughter.  The pungent
+fumes tingled in Noxy's nose as she tasted it gingerly.
+
+Sergeant Dorbu rolled his glass between his hands as if to warm them.  "My
+family used to have land.  Not much---really just a big farm with a couple of
+tenants to work it---but it was enough to keep us.  Then one of our neighbors
+decided he wanted it.  She honeyed up the local *tralpa*, promised him a slice
+of the takings, and..."  He spread his hands.  "By the time we got to court,
+she'd rented all the laws that would have saved us.  We had a week to clear out
+after living their all our lives."
+
+"That must have been horrible," Indy said sympathetically.
+
+"It is foolishness," Kulbinder rumbled.  "The law in Thind is not something to
+be borrowed for money like a bullock.  There are rules for each station, and
+that is that."
+
+"But then how does the king raise money?" Noxy asked.
+
+Kulbinder blinked slowly.  "The emperor takes what he needs when he needs it.
+It is...simpler."
+
+"Simpler *and* fairer," Sergeant Dorbu added with a quiet intensity that hadn't
+been there a moment earlier.  "And that's what the princess wants.  Laws should
+be there for everyone, all the time, not just for whoever has the most money on
+the day of a trial.  And if that means a bunch of royals have to work for a
+living instead of renting out laws some king gave their great-great-grands way
+back when, that's fine by me."  He drained his glass in one quick gulp.  When
+her mother did the same, Noxy held her breath and swallowed the last of her own
+*rak*.
+
+The thick black liquid felt like fiery smoke as it went down her throat.  She
+clenched her jaw, but a strangled cough managed to escape.  "And that's enough
+for *you* tonight," her mother said in mock-disapproval.
+
+"Yes, *amma*," Noxy said, gasping for air.
+
+"Here."  Her mother pushed the empty kettle across the table.  "How about you
+refill that and I'll make tea?  It sounds like the worst of the storm has
+passed, and a bit of air will help you clear your head."
+
+Noxy nodded, not trusting herself to speak.  She slipped her feet into her boots
+without bothering to do up the laces, pulled a poncho over her head, and
+stumbled out into the night.
+
+Rain was still falling, but Indy had been right---most of the panicked clouds
+had passed, and the few stragglers chasing them were already east of Stale,
+heading toward the plains.  She watched them for a moment, then closed her eyes.
+
+"Goof," she muttered a moment later.  Of *course* she hadn't been able to
+mind-hear anything.  What had happened earlier with Thokmay had been a
+coincidence.  She shouldn't---
+
+Something clattered in the narrow alley between her house and the yarning shed.
+Noxy opened her mouth to ask who was there, but stopped herself.  What if the
+troll had come back?  There was no reason it would, but there was no reason it
+would have been in the village in the first place.
+
+She set the kettle down quietly on the front step of her house and tiptoed
+gingerly toward the alley.  Holding her breath, she leaned forward and peeked
+around the corner, just in time to see a shadowy figure disappear out the other
+end.  It was definitely a person, not a troll, but who would be out in the rain?
+
+*The soldiers,* she realized.  It had to be one of the soldiers, except why
+would they be out in the rain either?  Suspicious, she hurried to follow.
+
+"Ow!"  Ten steps in, her foot connected with a pile of cobblestones that she and
+Sensy had put there as part of some long-forgotten game.  The stones clattered
+as they tumbled over.  Cursing under her breath, she stepped over them, wishing
+that she had taken a moment earlier to do up her laces.  Some of the broken
+cobbles had sharp edges, and if she lost a boot now, she'd never catch up.
+
+She reached the other end of the alley just in time to see the shadowy figure
+disappear around the edge of the tannery.  She hesitated for only a moment
+before sprinting after it, her boots splashing in shallow puddles of rainwater.
+Whoever she was chasing was bound to hear her---the only question was whether
+she could catch them first.
+
+She rounded the corner of the tanning shed a moment later.  Her quarry was
+nowhere to be seen.  "Rot," she cursed.  Left toward the trading hall, straight
+on toward the square, or right toward the vegetable patches and the gate?
+
+*Crack!* She shrieked with surprise as a bolt of lightning split the sky, then
+stomped her foot, angry at herself, the rain, and the world in general.  She'd
+lost them.  And by the time she got back, her mother was sure to give her the
+"what took you so long?" look that she hated so much.
+
+*Crack!* Another bolt of lightning left a dazzling scar on the night.  That one
+had been close, she realized uneasily---too close.  The lightnings must be
+nipping at the clouds that had fallen behind their herd.  She was suddenly glad
+that she wasn't airborne.  She had only ever been on one night flight, when
+Granna Fee took her up on her nameday when she turned ten to show her a passing
+star.
+
+*CRACK! BOOM!* Noxy shrieked as the third bolt of lightning struck the weather
+duck spinning madly next to the fortress gate and shattered its wooden pole.
+Splinters flew in all directions to clatter off roofs and cobblestones.
+
+One smoking scrap bounced off a chimney and clattered through a window whose
+shutter had been left untied.  As Noxy blinked to clear the after-dazzle of the
+lightning strike from her eyes, the sheets of dried moss that the wood had
+landed in began to smolder.
+
+A door banged open.  "Saints!" Aft hurried over to Noxy.  "Are you all right?
+What in the underhells are you doing out in this?"
+
+"*Amma* wanted me to fill the kettle," Noxy said stupidly.  She shook her head.
+"It---the lightning hit the weather duck."
+
+"I can see the lightning hit it," Aft said testily.  He took her by the
+shoulders and peered into her eyes, then relaxed slightly.  "You'll be all
+right.  Just a bit of a scare.  Come on, let's get you back to---wait."  He
+sniffed.  "What's burning?"
+
+Noxy grabbed his arm and pointed.  "There!  Upstairs!"  A bright lick of flame
+was suddenly dancing in a window.  Another joined it as the familiar herby smell
+of burning moss caught in Noxy's nostrils.
+
+"Get your mother!" Aft ordered, then cupped his hands around his mouth.  "Fire!
+Fire!  Fire!"
+
+The village was lucky.  That's what everyone told themselves afterward.  They
+were lucky that the rain had made everything so wet, that there had been so
+little moss left to burn, that Aft had spotted the fire so quickly.  They were
+lucky the soldiers had been there to fill and pass buckets---with most of the
+adults gone, well, the elders and children would have done the best they could,
+but things could have been a lot worse.
+
+"But what were you doing *there*?" Indy demanded as she and her daughter walked
+home arm in arm.  "You were just supposed to refill the kettle!"
+
+"I thought I saw something, like a troll."  Noxy shook her head.  "I didn't get
+a good look at it."  Which wasn't exactly a lie, but was an uncomfortable
+distance from the truth.  The hooded figure had definitely been a person, but a
+bit short for an adult.  And as the soldiers had arrived to help with the fire,
+only one of them had been the height of the figure she had seen.  But why would
+Thokmay have been out in the rain when he could have been at dinner?  And what
+had he been doing in the alley beside her house?

@@ -1896,36 +1896,74 @@ trudging up the rise in front of them.
 "Thank *you* for grabbing hold of me," she replied.  "I think they'd be lighting
 candles for both of us if you hadn't."
 
+"You might have to light one for me when we get back to the village," the young
+soldier said glumly.  He patted his hip.  "I lost my sword as well as my uniform
+jacket.  Sergeant Dorbu isn't going to be happy about that."
+
+*Thud.* They both stopped and stared at the sword that had just landed on the
+path in front of them.  Private Thokmay cleared his throat.  "Um," he said
+uncertainly, "That's unexpected."
+
+Noxy looked up, somehow already knowing what she was going to see.  A pair of
+dark eyes looked back at her.  It was the troll, the one that had been on the
+path the previous morning and in her dream that night.  She half-raised her hand
+in an uncertain greeting.  The troll studied her a moment longer, then
+disappeared with only a faint rustle of branches.
+
+Private Thokmay picked up his sword.  "That was kind of it," he said neutrally.
+
+"Her," Noxy corrected automatically.  "She's a her."
+
+The soldier nodded.  "Her, then.  I don't suppose you could get her to fetch the
+scabbard as well, could you?"
+
+"Who, me?" Noxy blinked.  "What makes you think she'd do anything for me?"
+
+"I see."  Private Thokmay nodded at Kulbinder and the *tralpa*, who were almost
+out of sight further up the path.  "We should probably catch up."
+
+"I'm serious!" Noxy protested.  "I have no idea why she brought you your sword."
+
+"Of course, honored," the soldier agreed.  He gestured.  "After you?"
+
 They walked the rest of the way in silence beneath branches that jostled each
 other in the rising wind.  The storm that Aft had seen the lightnings knitting
 was coming.
 
-*Behind them, a leather satchel hung precariously from a slender branch.  It
-might have stayed there until the wind shook it free, but a curious scaw spotted
-it and landed to investigate.  The branch bent and bobbed under its weight, just
-enough for the satchel's strap to slide free.  The branch sprung back up,
-tossing the startled bird into the air as the satchel dropped into the pond
-below with a small splash.  The current pulled at it, turning it around in a
-lazy circle.  As it slipped over the lip of the pond its strap caught once again
-on a stick.  The satchel's weight dragged the stick forward until it stuck
-against the pond's edge, leaving the satchel rocking gently back and forth, the
-tralpa's letters still doubled-wrapped in waxed paper safely inside it.*
+*Behind them, the *tralpa*'s prized satchel hung precariously from a slender
+branch.  It might have stayed there until the wind shook it free, but a curious
+scaw spotted it and landed to investigate.  The branch bent and bobbed under the
+bird's weight, just enough for the satchel's strap to slide free.  The branch
+sprung back up, tossing the startled scaw into the air as the satchel dropped
+into the pond below with a small splash.  The current pulled at it, turning it
+around in a lazy circle.  As it slipped over the lip of the pond its strap
+caught once again on a stick.  The satchel's weight dragged the stick forward
+until it stuck against the pond's edge, leaving the satchel rocking gently back
+and forth, the tralpa's letters still doubled-wrapped in waxed paper safely
+inside it.*
 
 ---
 
-Indy took one look at the bedraggled search party and ordered all of them to the
-bath house.  "No thank you, but I will avail myself of the sauna if I may,"
-Kulbinder rumbled.
+Indy took one look at the bedraggled foursome and ordered all of them to the
+bath house.  "That is an excellent idea," Kulbinder rumbled.  "The boy and I
+will make sure the *tralpa* doesn't wander off again."
 
-Afternoon was flirting with evening by the time Noxy was clean, warm, and
-dressed.  She told her mother what happened, then told the story again for Sensy
-and Rash when they returned from their own searches, then told it to her
-grandmother and Grappa Gas.
+Noxy had never been so happy to see hot water in her life.  The women's half of
+the bath house was empty, so she stripped down to her underclothes, worked the
+handle of the ancient pump until she had filled three buckets, then poured the
+first on the pile of magically-heated stones in the center of her favorite tub.
+The water was warm within moments, and too hot for comfort just moments after
+that.  She added the contents of the second bucket, then the third, and then
+hung her underclothes over the side of the tub and stepped in.
 
-When she was done she sat in silence for a few moment with the two elders up on
-the wall, looking west to where sheets of cirrus were gathering above the peaks.
-"It's going to be a big one," Granna Fee said after a moment.  "We'd best get
-ready."
+Bliss.  She couldn't straighten her legs the way she had been able to as a
+little girl, but it still felt wonderful.  She took a deep breath---
+
+---and jumped as the door burst open.
+
+FIXME: Sensy; Noxy's story; Sensy dodges question about Rash (argument)
+
+FIXME: the storm comes in
 
 Stale was no stranger to storms.  When bulls battled each other in the dead of
 winter, the snow fell so thick and so fast that people had to string ropes

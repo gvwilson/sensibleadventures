@@ -140,13 +140,19 @@ the soldiers shouted and toppled over she heard Grappa Gas shout, "Hold on!"
 The last soldier clung desperately to Big Blue as the cloud's flank squished
 between his fingers like soggy dough.  The oncoming squirrels jumped at his
 legs.  One managed to catch hold of his boot.  It scrambled up the laces and
-sank its teeth into his calf.  The soldier cursed and kicked it off.  With a
-last desperate lunge he managed to catch hold of Grappa Gas's hand.
+sank its teeth into his calf.  The soldier cursed and kicked it off, then cursed
+again as the cloud slipped through his fingers and he started to fall.
 
-"You idiot!" Grappa Gas yelled as he pulled the soldier up onto Big Blue's back.
-"You saints-be-damned *idiot*!  They woulda peeled you like an apple!  What was
-so weeping important that you couldn't just leave it?"  He kicked one of the
-bundles at his feet.  "Eh?  What was so---urp!"
+The young soldier with the scarred face flung himself across the cloud and
+grabbed his comrade's hand.  Without thinking, Noxy threw herself across the
+soldier's legs to stop him from being dragged off by his comrade's weight.
+Grunting and cursing, they somehow managed to get the last soldier up onto Big
+Blue's back.
+
+"You idiot!" Grappa Gas yelled as the soldier stood up shakiliy.  "You
+saints-be-damned *idiot*!  They woulda peeled you like an apple!  What was so
+damned important that you couldn't just leave it?"  He kicked one of the bundles
+at his feet.  "Eh?  What was so---urp!"
 
 In one smooth motion the soldier had rolled onto his feet and grabbed a handful
 of Grappa Gas's collar.  "With respect, honored, I'm grateful for the rescue,"
@@ -716,22 +722,31 @@ bumpy!"
 
 ---
 
-They hardly said a word on the way back to Stale.  The young soldier even fell
-asleep, snoring gently with his head on the tiger's flank.  His companions
-watched the mountains go by, too exhausted to show more than an occasional
-flicker of interest. in the fact that the whole world was now spread out beneath
-them.
-
-With her hand on Big Blue's back, Noxy could feel how unhappy the cloud was.  It
-wasn't just that he was carrying strangers, or that those strangers were
-bleeding and miserable.  When clouds died, they just spread out into nothing.
-The thought that something could end but still be there---that it could go from
-being alive to being like a rock or a log---made the canvas-wrapped corpses on
-his back frightening in a way that storm winds and lightning would never be.
+They hardly said a word on the way back to Stale.  With her hand on Big Blue's
+back, Noxy could feel how unhappy the cloud was.  It wasn't just that he was
+carrying strangers, or that those strangers were bleeding and miserable.  When
+clouds died, they just spread out into nothing.  The thought that something
+could end but still be there---that it could go from being alive to being like a
+rock or a log---made the canvas-wrapped corpses on his back frightening in a way
+that storm winds and lightning would never be.
 
 *Sh, sh, sh,* Noxy mind-spoke soothingly, stroking the cloud as if he was a
 skittish newborn camel.  *Home soon, then rest.* At that moment, she wanted it
 just as much as the cloud.
+
+The soldiers watched the mountains go by, too exhausted to show more than an
+occasional flicker of interest in the world spread out beneath them.  The one
+who had been the last to get on Big Blue spoke quietly to each of his companions
+in turn.  The young soldier with the scarred face sat beside the tiger with his
+chin resting on his knees and his brightly-painted battle mask push up on top of
+his head.
+
+Noxy cleared her throat.  "I'm sorry about your friends," she said hesitantly.
+
+The young soldier and the tiger turned their heads to look at her in unison.
+The boy nodded.  "Thank you, honored," he said, his lowland accent burring his
+r's.  "And thank you for coming to our aid."  He put his chin back on his knees,
+and a moment later wiped his eyes with his sleeve.
 
 Grappa Gas brought Big Blue down in front of the village gate where he had been
 contentedly whittling only an hour before.  Wearily, the soldiers up slid off
@@ -1258,10 +1273,10 @@ spell work.
 
 "Oh no," Granna Fee breathed beside her.  "Not now.  Not *now*."
 
-As the villagers approached, Nangyal puffed out his chest.  "Literally
-Indigestible, by election from its inhabitants and with the consent of His
-Majesty Denpa King Gandan made reeve of the village of Stale Leftovers, come
-forward!"
+As the villagers approached, Scholar-Candidate Nangyal puffed out his chest.
+"Literally Indigestible, by election from its inhabitants and with the consent
+of His Majesty Denpa King Gandan made reeve of the village of Stale Leftovers,
+come forward!"
 
 Ten strides ahead of Noxy and her grandmother, Indy handed her candle to
 Sergeant Dorbu with a quiet, "Thank you."  She waited a moment for the soldiers
@@ -1797,7 +1812,7 @@ nearest dwarf spruce.
 
 Noxy spun around.  Private Thokmay was on his feet, arms spread for balance as
 the boulder beneath him shifted one last time.  He looked straight at her, eyes
-wide, and said something she couldn't heard as a thousand tons of rock began to
+wide, and said something she couldn't hear as a thousand tons of rock began to
 slide down the mountain like a blanket off a bed.
 
 There was no way anyone could have stayed on their feet as the rocks slipped and
@@ -1926,9 +1941,14 @@ out of sight further up the path.  "We should probably catch up."
 
 "Of course, honored," the soldier agreed.  He gestured.  "After you?"
 
-They walked the rest of the way in silence beneath branches that jostled each
-other in the rising wind.  The storm that Aft had seen the lightnings knitting
-was coming.
+Noxy opened her mouth and then closed it again.  She really didn't know why the
+trolls had brought his sword back, but saying it out loud a second time would
+just sound foolish.  Annoyed, she strode up the hill after the tiger and the
+*tralpa*.
+
+They walked the rest of the way back to the village in silence beneath branches
+that jostled each other in the rising wind.  The storm that Aft had seen the
+lightnings knitting was on its way.
 
 *Behind them, the *tralpa*'s prized satchel hung precariously from a slender
 branch.  It might have stayed there until the wind shook it free, but a curious
@@ -1944,22 +1964,62 @@ inside it.*
 
 ---
 
-Indy took one look at the bedraggled foursome and ordered all of them to the
-bath house.  "That is an excellent idea," Kulbinder rumbled.  "The boy and I
-will make sure the *tralpa* doesn't wander off again."
+Indy took one look at the bedraggled foursome and ordered them to go straight to
+the bath house.  "Except you, honored," she said told the *tralpa*.  "It would
+probably be best if you stayed at home for now.  I'll have someone bring you a
+couple of buckets of hot water."
+
+"No need for that," Kulbinder rumbled before the *tralpa* could reply.  "He can
+bathe with us---the boy and I will make sure he doesn't wander off."
+
+The reeve nodded.  Wrapping his robe and whatever was left of his dignity around
+him, Scholar-Candidate Nangyal squelched across the square toward the village's
+communal bath house.
 
 Noxy had never been so happy to see hot water in her life.  The women's half of
-the bath house was empty, so she stripped down to her underclothes, worked the
-handle of the ancient pump until she had filled three buckets, then poured the
-first on the pile of magically-heated stones in the center of her favorite tub.
-The water was warm within moments, and too hot for comfort just moments after
-that.  She added the contents of the second bucket, then the third, and then
-hung her underclothes over the side of the tub and stepped in.
+the bath house was empty, so she stripped down to her underclothes and started
+to pump the polished handle of the pump that stood in the center of the room.
+Water gurgled through cured bamboo pipes, then splashed into the stone trough
+that waited beneath the pump's spout.  Within moments the water began to steam
+as the spell put on the trough by the village's previous *tralpa* heated it up.
 
-Bliss.  She couldn't straighten her legs the way she had been able to as a
-little girl, but it still felt wonderful.  She took a deep breath---
+One bucket, two buckets, three... By the time Noxy had filled her favorite tub,
+the work of pumping had driven the chill off her skin.  She hung her
+underclothes over the side of the tub and stepped into bliss.  She couldn't
+straighten her legs the way she had been able to as a little girl, but it still
+felt wonderful.  She took a deep breath---
 
----and jumped as the door burst open.
+---and jumped as the door burst open.  "Could you *knock* next time?" she
+snapped at Sensy.
+
+Her friend stared at her.  "Why?  Nobody else does."
+
+"Well, maybe they should start," Noxy grumbled.
+
+Sensy rolled her eyes, then pulled up a stool and sat down.  "So Granna Fee says
+you rescued the *tralpa*.  What happened?"
+
+"I'll tell you if you get me some more hot water."  Sensy pouted but got up and
+started pumping while Noxy brought her up to date.  She left out the part where
+the troll brought back Private Thokmay's sword, and how annoyed she had been
+that he clearly didn't believe her when she said she didn't know why.
+
+"Saints," Sensy breathed when Noxy was done.  "You could have been killed!"
+
+Noxy shrugged.  "I suppose.  Aaah..." she added as her friend poured a fresh
+bucket of hot water into the wooden tub.
+
+Sensy sat down once again.  "So what's he like?  Private Thokmay, I mean, not
+the *tralpa*."
+
+Noxy shrugged again.  "I don't know.  He doesn't say much."
+
+Sensy leaned forward.  "Did he say how he got those scars on his face?  Rash
+said it looked like the tiger had clawed him."
+
+"Maybe," Noxy allowed, thinking about the matching scars on the young soldier's
+arm.  She pushed the thought of him falling on top of her out of her mind---she
+was *definitely* not sharing that part of the story with Sensy.
 
 FIXME: Sensy; Noxy's story; Sensy dodges question about Rash (argument)
 

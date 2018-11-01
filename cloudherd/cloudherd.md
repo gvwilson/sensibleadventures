@@ -2017,13 +2017,70 @@ Noxy shrugged again.  "I don't know.  He doesn't say much."
 Sensy leaned forward.  "Did he say how he got those scars on his face?  Rash
 said it looked like the tiger had clawed him."
 
-"Maybe," Noxy allowed, thinking about the matching scars on the young soldier's
-arm.  She pushed the thought of him falling on top of her out of her mind---she
-was *definitely* not sharing that part of the story with Sensy.
+"Maybe," Noxy allowed, thinking about the matching scars she had seen on the
+young soldier's arm when he fell on her.  She was definitely *not* sharing that
+part of the story with Sensy.
 
-FIXME: Sensy; Noxy's story; Sensy dodges question about Rash (argument)
+But the thought led her to another.  It was time to figure out why her two best
+friends were mad at each other.  "So what's going on with you and Rash?" she
+asked as casually as she could.
 
-FIXME: the storm comes in
+Out of the corner of her eye she saw Sensy freeze.  "What do you mean?"
+
+"Oh, please."  Noxy flicked a few drops of water at her.  "I'm not blind."
+
+Sensy squirmed.  "I know.  I just---I was going to tell you when we were out
+picking spiderwebs, but then---you know, everything just kind of happened and we
+haven't really had a chance to talk since then and---you're not mad, are you?"
+
+"Me?  Why would I be mad?" Noxy asked blankly.  What was Sensy talking about?
+She and Rash were the ones who were mad at each other, weren't they?
+
+"I don't know.  I thought---I mean, it's not like he won't dance with both of
+us---when they bring the herd in," Sensy continued in a rush, "He asked me to go
+to the spring carafal with him and I said yes.  I'm really glad you aren't mad."
+
+"Of course not," Noxy said, trying her best to sound as though she meant it.
+The spring carafal was the biggest celebration of the year in Stale, bigger even
+than Yearagain Eve.  When the adults brought the village's clouds back to Stale
+and the first pack traders came through the pass, every family decorated their
+house with whatever funny or scary ornaments they had spent the winter making,
+then put on their best clothes and gathered in the village square to tell
+stories and exchange gifts and above all, to dance.  She and Sensy and Rash had
+gone together ever since they were little, but now...
+
+"Of course not," Noxy repeated briskly.  "Though if you ask me, you ought to
+tell him that he has to shave that ridiculous mustache he's trying to go before
+he tries to kiss you."
+
+"He's already kissed me," Sensy confessed, blushing slightly as she tucked one
+of her braids back behind her ear.  "It tickled, kind of."
+
+"Oh."  Noxy digested that.  She felt stupid for not having figured out what was
+going on, and also, suddenly, very alone.
+
+"Anyway, what about Private Thokmay?  You could ask him to the carafal," Sensy
+suggested, then exclaimed, "It was just an idea!" as Noxy flicked more water at
+her.
+
+"It was a stupid idea," Noxy grumbled.  "I don't even know if I'm going to go
+this year."
+
+"See?  I *knew* you'd be mad," Sensy sighed.
+
+"I'm not mad!" Noxy said angrily, sinking lower into the tub.  In the silence
+that followed, she heard voices murmuring on the other side of the wall.  The
+petulant tone of the first had to belong to the *tralpa*, and the deep rumble of
+the second could only be the tiger.  For one moment she wondered what would
+happen if she invited *him* to the carafal.
+
+"Anyway," Sensy broke in, standing and brushing her hands against her trousers,
+"I should go and see if anyone needs help with anything.  Aft says the storm's
+going to be a big one.  See you later?"
+
+"Sure."  Noxy waited until she heard the door close before pulling her knees to
+her chest and closing her eyes and wondering why everything suddenly seemed so
+hard.
 
 Stale was no stranger to storms.  When bulls battled each other in the dead of
 winter, the snow fell so thick and so fast that people had to string ropes

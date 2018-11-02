@@ -5599,7 +5599,7 @@ Iffy frowned.
 
 Wales shrugged.
 "That was buried pretty deeply after it went wrong.
-Nobody wanted to admit they'd broken the ocean.s"
+Nobody wanted to admit they'd broken the oceans."
 He stared bleakly at the ruin in the water.
 "The clathrate bubbles feed the microorganisms the jellyfish eat,
 which is why the best jelly dredging is where the sea is most likely to boil.
@@ -6105,7 +6105,6 @@ then pulled it out again and threw it back on the shelf.
 Why had Wales wanted her to listen in on the conversation?
 More importantly,
 what was she going to say to Honesty?
-And what was Honesty going to say to *her*?
 
 She sat down on her bed and pulled out her older's nature book.
 "I wish you could talk,"

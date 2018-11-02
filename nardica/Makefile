@@ -1,5 +1,5 @@
 html :
-	pandoc -s -S -o nardica.html nardica.md
+	pandoc --template=template.pandoc -o ${HOME}/sensible/nardica.html nardica.md
 
 clean :
-	rm -f *~
+	@rm -f *~

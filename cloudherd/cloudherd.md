@@ -549,7 +549,7 @@ weight of a person.  The second, smaller blob next to it followed suit.  Side by
 side, Big Blue and Pillow drifted toward the villagers and the lone tiger
 waiting at the edge of the ravine.  A clattering noise further along the ravine
 signalled that whoever Indy had sent to pull back the pen's spiderweb gate had
-started hauling in the bamboo chain it hung from.
+started hauling in the rope-and-bamboo chain it hung from.
 
 Noxy watched breathlessly as the clouds approached, their leading edges rippling
 slightly in the wind.  When Big Blue bumped against the ravine wall, Aft took
@@ -2486,16 +2486,6 @@ on?"
 Noxy glanced through the neighboring slit.  "Yup.  The bull is Big Blue, and the
 cow is Pillow.  We've had them forever---they're practically family."
 
-The two old clouds were hardly moving, but Noxy could have watched them for
-hours.  She loved the way they slowly changed shape as they drifted about, and
-how soft they felt when she stroked them.  Being up in the sky on a cloud was
-like riding on a grownup's shoulders when you were little, only a thousand times
-better.  You could see everything---mountain goofs standing on rocky ledges no
-wider than the heel of your boot, broad-winged condors making slow circles as
-they waited for a rabbit to forget to look up...  When the air was still, and
-the cloud was just drifting, it felt like the whole world was a story that was
-about to be told for the very first time.
-
 Thokmay stepped back and wrinkled his nose.  "They smell like wet goofs."
 
 "That's because they haven't rained for a while," Noxy explained defensively.
@@ -2559,7 +2549,100 @@ after a while."  She grabbed a handful of Big Blue's side and pulled as hard as
 she could.  When she let go, the bit she had teased out slowly sank back into
 the cloud.
 
-The young soldier patted the cloud gingerly.  Seized by a sudden reckless
-impulse, Noxy said, "Here, do this."  She backed up, then ran at the cloud and
-threw herself up onto his back.  *Poof!* "Come on!" she said when Private
-Thokmay hesitated.  "He won't bite."
+The young soldier patted the cloud gingerly.  Seized by a sudden wicked impulse,
+Noxy said, "Here, do this."  She backed up, then ran at the cloud and threw
+herself onto his back.  *Poof!* "Come on!" she said to Private Thokmay.
+
+He hesitated.  "Oh, come on," she repeated, a splash of scorn in her tone.  "He
+won't bite---he's not a tiger or anything."
+
+Private Thokmay set his jaw and jumped clumsily onto the cloud.  His feet
+immediately slipped out from underneath him.  "Oof!" he grunted as he landed on
+his backside.
+
+Noxy grinned at him.  "See?  No biting."  She pressed her hand into Big Blue's
+back.  *Up,* she urged the old bull.  She couldn't take him out for a proper
+flight without opening the gate, and she knew what her mother would say if she
+did that, but they could still see more than just the walls of the narrow
+ravine.
+
+Big Blue started to rise toward the spiderweb net above them.  The breeze
+stiffened slightly as the got higher, making Noxy wish that she had thought to
+pick up gloves and a scarf.  She took a deep breath.  Being up in the sky on a
+cloud was like riding on a grownup's shoulders when you were little, only a
+thousand times better.  You could see everything---mountain goofs standing on
+rocky ledges no wider than the heel of your boot, broad-winged condors making
+slow circles as they waited for a rabbit to forget to look up, the glint and
+sparkle of sunlight on fast-running streams beneath the pines and cedars and
+stately firs that blanketed the mountains' slopes...  On a day like this, when
+the sky was blue, it felt like the whole world was a story that was about to be
+told for the very first time.
+
+"We'll be able to see more down by the gate," Noxy said, urging the cloud
+forward as she spoke.  Nobody really knew how clouds saw, but through whatever
+Big Blue used for eyes, she saw Pillow rising in their wake to join them.  *She
+wants to go out and have a good rain,* Noxy thought.  Maybe after they got back
+she could talk Granna Fee into taking her and Sensy and Rash---or maybe just
+her, she corrected, her mood darkening.  Her two friends would probably want to
+spend the time getting their outfits ready for the fancy, or practicing their
+dancing or something.
+
+*Whoa,* she mind-spoke as they reached the spiderweb curtain hanging down at the
+mouth of the ravine.  The silvery hair-thin strands of spiderweb were spaced
+half a stride apart---a child could have slipped through without touching them.
+"They can push themselves through it if they really want to," Noxy said, "But
+Granna Fee says it really hurts.  I've never seen them so much as brush against
+it, not even when a couple of lightnings came after them the year before last."
+
+Private Thokmay nodded, his eyes on the valley below.  "Can we see where we
+were, honored?" he asked.  "When you rescued us, I mean."
+
+"Not really.  It's up past the next bend there.  Rancid is down that way,
+and---hey!"  She ducked as something swooped over her head.
+
+For one frightened heartbeat she thought it was the crows that had attacked them
+when they were rescuing the soldiers, but then a voice squawked, "Put out yer
+arm, ya difty!  The poofy glant won't have me on't!"
+
+She straightened up and held out her arm.  With a sound like a towel being
+snapped, a broad-winged condor spread his wings to stop himself and settled onto
+her forearm.
+
+His head swivelled.  "Izzis 'em?" he demanded.  "As come up along fra trouble?"
+
+Private Thokmay dipped his head.  "My apologies, gifted---I am indeed a soldier,
+but I hope no trouble."
+
+"Ehp," the bird squawked skeptically.  "Mayn't you, p'raps, but yer friends as
+is coming?  I seed 'em," he confided in Noxy, swivelling his featherless gray
+head back to study her with beady black eyes.  "Whole flock of 'em headin' this
+way."  He squeezed her arm with his talons and leaned toward her.  "Figure I
+tell yer *amma*, she'll gimme a rat?  I like a good rat, I do."
+
+"Wait."  Noxy shook her head.  "You saw more soldiers?"
+
+The condor bobbed his head.  "Down along past Rancid.  Some o' them is on
+camels.  Ain't never et camel," he added thoughtfully.
+
+Private Thokmay cleared his throat.  "How many did you see, gifted?  Soldiers, I
+mean, not camels."
+
+"Ehp," the condor squawked noncommittally.  "Bunch of 'em.  You figure that's
+worth a rat?"
+
+"That's worth a whole bunch of rats," Noxy promised.  "But only if you go
+straight to my *amma* and tell her."
+
+The condor cocked his head to one side.  "Izzat hufty cat thing still there?
+Don't like cats."
+
+"He won't be any trouble," Private Thokmay reassured him quickly.  "I promise."
+
+"Ehp," the condor squawked in a tone that clearly meant "I hope you're right".
+He spread his wings and threw himself into the air, instantly graceful as he
+flew away.
+
+Noxy look at Private Thokmay.  "Do you think they're yours?"
+
+The young soldier shook his head.  "I don't know," he said, staring down the
+valley.  "But we'd better get back."

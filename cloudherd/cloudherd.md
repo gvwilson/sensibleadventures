@@ -2602,7 +2602,7 @@ and---hey!"  She ducked as something swooped over her head.
 
 For one frightened heartbeat she thought it was the crows that had attacked them
 when they were rescuing the soldiers, but then a voice squawked, "Put out yer
-arm, ya difty!  The poofy glant won't have me on't!"
+arm, ya difty!  The poofy won't have me on't!"
 
 She straightened up and held out her arm.  With a sound like a towel being
 snapped, a broad-winged condor spread his wings to stop himself and settled onto
@@ -2615,14 +2615,15 @@ but I hope no trouble."
 
 "Ehp," the bird squawked skeptically.  "Mayn't you, p'raps, but yer friends as
 is coming?  I seed 'em," he confided in Noxy, swivelling his featherless gray
-head back to study her with beady black eyes.  "Whole flock of 'em headin' this
-way."  He squeezed her arm with his talons and leaned toward her.  "Figure I
-tell yer *amma*, she'll gimme a rat?  I like a good rat, I do."
+head back to study her with beady black eyes.  "Whole flock of 'em comin' along
+this way."  He squeezed her arm with his talons and leaned toward her.  "Figure
+I tell yer *amma*, she'll gimme a rat?  I like a good rat, I do."
 
 "Wait."  Noxy shook her head.  "You saw more soldiers?"
 
-The condor bobbed his head.  "Down along past Rancid.  Some o' them is on
-camels.  Ain't never et camel," he added thoughtfully.
+The condor bobbed his head.  "Down along Rancid.  Bunch o' them was on camels.
+There's some as are flyin' along this way right now on a big poofy."  He preened
+his chest feathers.  "Ain't never et camel," he added thoughtfully.
 
 Private Thokmay cleared his throat.  "How many did you see, gifted?  Soldiers, I
 mean, not camels."
@@ -2634,9 +2635,9 @@ worth a rat?"
 straight to my *amma* and tell her."
 
 The condor cocked his head to one side.  "Izzat hufty cat thing still there?
-Don't like cats."
+Don't trust cats, 'specially them's as gifted," he added darkly.
 
-"He won't be any trouble," Private Thokmay reassured him quickly.  "I promise."
+"He won't be any trouble," Private Thokmay reassured him.  "I promise."
 
 "Ehp," the condor squawked in a tone that clearly meant "I hope you're right".
 He spread his wings and threw himself into the air, instantly graceful as he
@@ -2644,5 +2645,5 @@ flew away.
 
 Noxy look at Private Thokmay.  "Do you think they're yours?"
 
-The young soldier shook his head.  "I don't know," he said, staring down the
-valley.  "But we'd better get back."
+The young soldier shook his head.  "Not likely," he said bleakly.  "But we'd
+better get back."

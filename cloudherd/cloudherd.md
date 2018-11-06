@@ -362,8 +362,9 @@ Thank you all for coming.  I know it is early in the year for travelers, but
 please, give a true mountain welcome to Kulbinder, a Gifted of Thind."
 
 "Welcome... welcome... be welcome..." Some voices were hearty, some grudging,
-and some people didn't speak at all, but Noxy's mother took it all in stride,
-just as she always did.
+and some people didn't speak at all, but Noxy's mother took it all in stride
+like she always did.  Even a tiger with the one-in-a-thousand gift of speech and
+reason couldn't throw her off stride.
 
 Someone nudged Noxy's shoulder with their own.  "Hey," Rash said, slipping
 between her and Sensy.  "Where's the *tralpa*?  Is he too afraid of the tiger to
@@ -2549,9 +2550,9 @@ after a while."  She grabbed a handful of Big Blue's side and pulled as hard as
 she could.  When she let go, the bit she had teased out slowly sank back into
 the cloud.
 
-The young soldier patted the cloud gingerly.  Seized by a sudden wicked impulse,
-Noxy said, "Here, do this."  She backed up, then ran at the cloud and threw
-herself onto his back.  *Poof!* "Come on!" she said to Private Thokmay.
+The young soldier patted the cloud gingerly.  Seized by a sudden impulse, Noxy
+said, "Here, do this."  She backed up, then ran at the cloud and threw herself
+onto his back.  *Poof!* "Come on!" she said to Private Thokmay.
 
 He hesitated.  "Oh, come on," she repeated, a splash of scorn in her tone.  "He
 won't bite---he's not a tiger or anything."
@@ -2647,3 +2648,60 @@ Noxy look at Private Thokmay.  "Do you think they're yours?"
 
 The young soldier shook his head.  "Not likely," he said bleakly.  "But we'd
 better get back."
+
+Noxy nodded and knelt to put her hand on Big Blue, but the big bull cloud was
+already turning back toward the mountaing platform as if it had somehow
+overheard them.  She straightened up and tucked her hands into her coat pockets,
+wishing that she had brought gloves.
+
+"Aren't you cold?" she asked Private Thokmay.
+
+The corner of his mouth quirked up.  "Yes, honored, but not as cold as I was
+yesterday, and even that was better than being up on that rock you rescued us
+from."  He glanced sideways at her.  "I can't remember if I ever thanked you for
+that."
+
+Noxy shrugged.  "It's all right---we would have done it even if you *hadn't*
+been rebels."  Private Thokmay dipped his head to acknowledge her feeble joke,
+but said nothing.
+
+Grappa Gas was in his usual place on the stones in front of the fortress gate
+when they reached the top of the trail.  He took one look at Noxy's face and
+tucked the new leg he'd been whittling under his arm.  "What's wrong now?" he
+asked, slipping his knife into the sheath on his sleeve.
+
+"Cloud coming," Noxy told him, panting slightly.  "One of the condors told us."
+
+"That one?"  The old man pointed at a broad-winged shape just as it disappeared
+back the way the two teenagers had just come.  "I wondered what he was about.
+Asked me for a rat, then went looking for your *amma*."  He sighed.  "I suppose
+we'd better go find her too."
+
+They didn't have to go far---Stale's reeve came through the fortress gate with
+Aft, Sergeant Dorbu, and three soldiers in her wake just as they reached it.
+"Help get the children indoors," she ordered Noxy without preamble, still
+tugging her embroidered gray scarf of office into place.  "Grappa, I'll want you
+with me."
+
+"But *amma*---" Noxy started.
+
+"No buts," her said sharply.  She was worried, Noxy realized.  No, she was
+*frightened*, except that wasn't her, it was something else.  All of a sudden
+the pain in her head was back, and somehow she knew that a cloud with half a
+dozen riders had just turned the last corner in the valley below them and would
+be at the ravine in minutes.  She could practically see it, except that was
+impossible because she wasn't touching him and you had to be touching a cloud to
+mind-speak with it and anyway there wasn't another cloud there to look at it,
+there was only the forest and its thousands upon thousands of eyes, deer and a
+few wild goofs whose ancestors had strayed away from their pens and somehow
+managed to avoid being eaten and scaws and striped jays and a hundred other
+kinds of birds, a bear up to her knees in a stream looking for a turtle or a
+mountain squid still sleepy from its winter hibernation,, all of them now
+looking not at the cloud but at *her* because somehow just as she could see
+them, they could see her, and it was too much---it couldn't all fit, her head
+really was going to burst this time.
+
+"Noxy.  Noxy!"  Grappa Gas shook her.  "What's wrong?"
+
+"They're here," she gasped, not knowing what else to say.  "The cloud---it's
+here."

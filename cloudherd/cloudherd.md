@@ -2686,22 +2686,117 @@ with me."
 "But *amma*---" Noxy started.
 
 "No buts," her said sharply.  She was worried, Noxy realized.  No, she was
-*frightened*, except that wasn't her, it was something else.  All of a sudden
-the pain in her head was back, and somehow she knew that a cloud with half a
-dozen riders had just turned the last corner in the valley below them and would
-be at the ravine in minutes.  She could practically see it, except that was
-impossible because she wasn't touching him and you had to be touching a cloud to
-mind-speak with it and anyway there wasn't another cloud there to look at it,
-there was only the forest and its thousands upon thousands of eyes, deer and a
-few wild goofs whose ancestors had strayed away from their pens and somehow
-managed to avoid being eaten and scaws and striped jays and a hundred other
-kinds of birds, a bear up to her knees in a stream looking for a turtle or a
-mountain squid still sleepy from its winter hibernation,, all of them now
-looking not at the cloud but at *her* because somehow just as she could see
-them, they could see her, and it was too much---it couldn't all fit, her head
-really was going to burst this time.
+*frightened*, except that wasn't her, it was something else.  All at once the
+pain in her head was back, and somehow she knew that a cloud with half a dozen
+riders had just turned the last corner in the valley below them and would be at
+the ravine in minutes.  She could practically see it, except that was impossible
+because she wasn't touching him and you had to be touching a cloud to mind-speak
+with it and anyway there wasn't another cloud there to look at it, there was
+only the forest and its thousands upon thousands of eyes, deer and a few wild
+goofs whose ancestors had strayed away from their pens and somehow managed to
+avoid being eaten and scaws and striped jays and a hundred other kinds of birds,
+a bear up to her knees in a stream looking for a turtle or a mountain squid
+still sleepy from its winter hibernation,, all of them now looking not at the
+cloud but at *her* because somehow just as she could see them, they could see
+her, and it was too much---it couldn't all fit, her head really was going to
+burst this time.
 
 "Noxy.  Noxy!"  Grappa Gas shook her.  "What's wrong?"
 
 "They're here," she gasped, not knowing what else to say.  "The cloud---it's
-here."
+here."  But her words were lost in the deep boom of the lookout drum on the
+Quick Tower calling everyone together.
+
+She straightened and waved Grappa Gas away.  "I'm all right," she lied.  "I'll
+go help granna."  She stumbled past him and into the village.
+
+Only one child was crying, and that wasn't because he was afraid, it was because
+he was angry that he wasn't allowed to finish the game he'd been playing.  His
+grandmother picked him up and slung him over her shoulder, ignoring his kicks
+and wails as she dodged around two other children who were trying to catch an
+escaped chicken while one of Sensy's grandfathers shouted instructions at them.
+
+"There you are!"  Noxy jumped as Rash grabbed her arm.  "Come on, we need
+to---underhells, what happened to you?"  He let go of her and took an
+involuntary step back.
+
+"What? What's wrong?"  Why was he looking at her like that?
+
+Rash swallowed hard.  "Your eyes---they're green."
+
+She stared at him incredulously.  "What?  Rash, this is no time to---"
+
+"Your... eyes... are... green," he said, emphasizing each word.  "What happened?
+Did the *tralpa* finally get a spell to work?"
+
+"I have no idea what you're talking about," she snapped angrily.  She caught
+sight of Sensy over his shoulder.  "Hey---Sensy!  Sensy!  Over here!"
+
+Her friend hurried over and stood next to Rash.  Noxy saw him reach for her hand
+but stop himself.  *No time for that now,* she told herself.  "Sensy, what color
+are my eyes?"
+
+"What?" Sensy looked from Noxy to Rash and back.  "What do you mean?"
+
+"What color are they?" Noxy demanded.
+
+"They're brown, just like they've always been," she said defensively.
+
+"Well, they were green just a moment ago," Rash protested.  "All over green,
+both of them, not just the inside bit.  I swear!"
+
+At that moment the lookout drum fell silent, then sounded again, three deep
+booms that echoed around the suddenly-hushed village.  The cloud from Rancid had
+arrived.
+
+"Noxy, wait!  We're supposed to stay here!"  She ignored Sensy's shout and
+sprinted back toward the gate.  The children were all safe indoors.  Whatever
+was going to happen, she wanted to be there when it did.
+
+But Aft was waiting at the gate, arms crossed and a grim look on his face.  A
+stout length of wood just the right size to swing as a club leaned against the
+wall beside him.  "No," he said curtly as Noxy opened her mouth.  "Whatever it
+is, no.  You're staying here.  Your *amma* was *very* clear about that."
+
+Noxy swallowed her protest.  A thought suddenly struck her.  "Where's the
+*tralpa*?"
+
+Aft snorted.  "Just left with the tiger and his boy.  Says he was asleep and
+didn't hear the drum."  The sour look on the burly cloudherd's face said more
+than words could about what kind of "sleeping" the *tralpa* had been doing.
+
+So they waited, neither speaking until Noxy said, "Aft?  What color are my
+eyes?"
+
+Aft scowled at her.  "What do you mean?"
+
+"Never mind," Noxy muttered, wishing she hadn't spoken.  *It was just a trick of
+the light,* she told herself, knowing in her heart that there had been more to
+it than that.
+
+Aft straightened up.  "Here they come," he grunted.  First the tiger, ears back,
+with Private Thokmay hurrying to keep up.  Then the three soldiers who had gone
+with Sergeant Dorbu.  Then Noxy's mother and Sergeant Dorbu and a uniformed
+woman who was almost as wide as she was tall, all three of them wearing
+expressions that would have frozen a cup of tea in a heartbeat.  Behind them
+came Scholar-Candidate Nangyal, complaining as always, and Rancid's *tralpa* in
+her robes and formal collar.  And behind them, three more soldiers, their
+uniforms so clean they almost sparkled, and---
+
+Noxy's heart dropped into her stomach.  "Saints," Aft cursed.  "As if things
+weren't bad enough."
+
+Noxy stepped aside as the unhappy little parade passed through the ancient stone
+walls of the fortress.  Private Thokmay nodded but didn't say anything.  Her
+mother didn't even do that.  And then, after everyone else, the man at the end
+of the line grinned wickedly at Aft and wrapped his arms around her to give her
+a hug.
+
+"Hiya, sweetling," Noxy's father said, his voice muffled in her hair.
+
+"Hi, *adda*," she replied, wishing she was anywhere but there.
+
+*Far below, where the slope of the mountain eased into the valley, a small
+packet of letters wrapped in wax paper drifted past a moss-covered pillar that
+had been raised to mark a border whose existence was now forgotten.  The stream
+carrying it met another.  Mingling their waters, they carried the packet south.*

@@ -1,6 +1,3 @@
-<!-- start: 2017-04-22 -->
-<!-- target: 60000 -->
-<!-- deadline: 2018-09-01 -->
 # Nardica<br>by Greg Wilson
 
 ## Chapter 1
@@ -2408,7 +2405,7 @@ Taken by a sudden restlessness,
 she spent five minutes rearranging her meager possessions
 before flopping down on her bed and pulling out her older's nature book.
 The giraffe, the tiger, the wolf with his sad, intelligent eyes...
-"Looks like Grandad!!!" was written beside the wolf in tiny curving script.
+*Looks like Grandad!!!* was written beside the wolf in tiny curving script.
 Iffy had long ago decided that a girl had written that,
 a girl about her own age who had a family and more than just one friend.
 She closed the book,
@@ -5802,8 +5799,7 @@ Wales grabbed her arm as she started forward.
 "But---why'd he do that?
 Why'd he *do* that!?"
 she cried.
-She shrugged Wales off and ran toward the stern.
-
+She shrugged Wales off and ran to the stern.
 "What th' hell are you playin' at?"
 she demanded.
 
@@ -5930,7 +5926,8 @@ one o' the gulls or somethin' coulda got her and...
 and..."
 
 She clenched her hands into fists.
-"Why's it all got to be so hard?" she asked in anguish.
+"Why's it all got to be so hard?" she asked,
+hating her plaintive tone.
 "Why's everythin' got to be so messed up?"
 
 "I don't know,"
@@ -6110,8 +6107,8 @@ She sat down on her bed and pulled out her older's nature book.
 "I wish you could talk,"
 she told the orangutan on the cover.
 Not for the first time,
-she wished she could have a flash of insight now and then
-about what to say to people.
+she wished she could have flashes of insight now and then
+about what to say to people instead of just about machinery.
 With a sigh,
 she got to her feet.
 
@@ -6126,9 +6123,9 @@ Wales replied.
 "She has a lot of natural talent,
 but I haven't seen any sign that there's anything more to her than that."
 
-"Hm."
+"That's a shame."
 *Speaker adopts sceptical expression.*
-"The governor said there was an eighty-five percent chance
+"The core thought there was an eighty-five percent chance
 the tweak would have been passed on."
 
 *Speaker sighs.*
@@ -6155,14 +6152,14 @@ Doctor Johel cut in.
 Johnson,
 and you've already lasted decades longer than you were supposed to."
 
-*Speaker nods.*
-"NASA always did over-engineer things."
+*Speaker shrugs.*
+"Well, the agency always did over-engineer things."
 
 *Speakers hug.*
 "I'm glad they did,"
 Doctor Johel said in a muffled voice.
 *Speaker wipes away tear.*
-"Some days I'd give anything to be back in Canterbury
+"Some days I'd give anything to be back in London
 drinking hot chocolate
 and listening to you and Grandfather set the world right."
 
@@ -6174,13 +6171,95 @@ Doctor Johel made a noise.
 "And live in the past?
 No thank you."
 *Hug ends.*
-"What's done is done."
+"Besides,
+what they call chocolate these days never tastes quite right.
+What's gone is gone, Johnson,
+and what's done is done."
 
 "So they say,"
-Wales replied.
-"So they say."
+Wales replied softly.
 
-The earbud chimed softly.
-*Signal ends,* it told Iffy redundantly.
+After a moment the earbud chimed.
+*Signal ends,* it told Iffy.
 She took it out and weighed it in her hand,
-even more confused than she had been.
+then flung it across her room as tears welled up in her eyes.
+It didn't matter what Wales said---she knew she was tweaked.
+It was the only explanation for how she sometimes just knew what machines were
+or how to put them together.
+
+And Aunt Naggie knew, Iffy realized dully.
+The medicine she had been giving Iffy disguised as curry powder---she wouldn't
+have given it to Iffy
+unless the Zillion man from the Dance Hall had told her what it was for.
+
+She wiped angry tears from her eyes
+and then picked up her nature book and stared at the cover without really seeing it.
+She had been careful not to think about her pet rat in a long time,
+but now all she could feel was the dregs of the panicky sadness
+that she had almost drowned in after she and Aunt Naggie had given up looking for it.
+Was she going to feel that way about Honesty if the induction didn't wear off?
+Was everything she loved going to be taken away from her bit by bit?
+"Why's it all got to be so hard?" she whispered,
+wishing someone was there to answer.
+
+The sudden blare of the *Guinevere*'s horn made her jump.
+"What now?" she groaned,
+dragging her sleeve across her face one last time before standing up
+and yanking open her door.
+
+The horn's second blare was punctuated by the staccato chatter of gunfire.
+A row of tiny black holes stitched across the deck two meters in front of Iffy,
+and for a moment all she could do was stare.
+*Those are bullet holes,* she thought stupidly.
+*Somebody is shooting at us.*
+
+A dazzling streak of lightning half-blinded her.
+A moment later the smoking carcass of a military drone tumbled into the sea
+and exploded with a sharp *crack!*
+
+Boots thudded on the deck.
+"Citizen! Take cover!" the Marine ordered,
+the pop-up guns on the shoulders of her exoskeleton whirring from one position to another
+as its tiny onboard core evaluated potential threats.
+An armored hand closed on Iffy's arm and pushed her back against the wall.
+
+"What's happening?" Iffy demanded.
+
+"We are under attack," the Marine said,
+shielding Iffy with her body as a second drone whined overhead.
+Another brief burst of staccato and another streak of lightning,
+but the drone danced sideways just in time
+so that the plasma burst from the gun at the *Guinevere*'s stern only singed it.
+It turned sharply and dove toward the ship.
+
+The Marine spun around,
+still keeping her exoskeleton between Iffy and the attack,
+and raised her arm to point at the incoming drone.
+The guns on her shoulders aimed and fired.
+The drone staggered,
+then exploded as its core decided that this was as far as it was going to get.
+
+Just like that,
+the attack was over.
+The Marine straightened up and turned to Iffy.
+The visor on her helmet snapped open.
+"Are you all right, citizen?" Honesty demanded.
+
+"I---I'm fine," Iffy said shakily.
+
+"Good.
+Please assist with damage repair."
+
+"Wait!"
+Iffy caught Honesty's arm as she turned to to.
+"Who was that?
+Who was attacking us?"
+
+"The drones appear to be Brazilian,"
+Honesty reported impassively.
+"Excuse me---I need to join my unit to repel boarders."
+
+"To what?"
+And then the *Guinevere*'s horn blared again
+as something that looked like a cloudy jellyfish pulled itself onto deck
+and began to sizzle.

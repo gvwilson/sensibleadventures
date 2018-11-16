@@ -1,3 +1,5 @@
+## Chapter 1
+
 *Consider Cherne.  A diamond adrift in the heavens, it measures eight thousand
 gallops from north to south and six thousand from east to west.  Its single
 continent is surrounded on all sides by a great ocean whose outer shore, the
@@ -164,8 +166,6 @@ didn't realize."  He looked down at the bodies lying at his feet.  "I'm sorry."
 
 The soldier nodded.  "Me too."  He stared back at the pinnacle of rock, where
 the squirrels had already torn the tents to pieces.  "Me too."
-
----
 
 *Earlier that day...*
 
@@ -443,8 +443,6 @@ say about us helping rebels."
 Indy's smile was as cold as the distant peaks.  "We can ask him when he wakes
 up."
 
----
-
 The next five minutes were chaos.  Out of the question, Aft growled.  The law
 might forgive them giving shelter to a bunch of strays stupid enough to anger
 the forest, but flying off to rescue a bunch of rebels?  "It's not just us
@@ -721,7 +719,7 @@ You 'n' Noxy get 'em loaded up fast as you can."
 "Hold on!" Grappa Gas bellowed as they went into a dive.  "It's going to get
 bumpy!"
 
----
+## Chapter 2
 
 They hardly said a word on the way back to Stale.  With her hand on Big Blue's
 back, Noxy could feel how unhappy the cloud was.  It wasn't just that he was
@@ -1442,7 +1440,7 @@ Granna Fee... in... the morning...
 Moments later, the syncopated rhythm of two people snoring wafted through the
 little house.
 
----
+## Chapter 3
 
 Noxy woke to the sound of thunder.  She rubbed the sleep from her eyes and
 glanced out the window.  The sky was dawn-pale, not morning-bright, and the
@@ -1964,8 +1962,6 @@ paper, the tralpa's letters slipped out just moments before the satchel filled
 with water and sank to the bottom of the pond, only to be trapped against the
 stick by the current.*
 
----
-
 Indy took one look at the bedraggled foursome and ordered them to go straight to
 the bath house.  "Except you, honored," she said told the *tralpa*.  "It would
 probably be best if you stayed at home for now.  I'll have someone bring you a
@@ -2310,7 +2306,7 @@ new-fallen rain.  No one was there to notice it tug at a small packet of letters
 wrapped in wax paper.  The packet came free and slipped over the edge of the
 pond to resume its journey down the mountain.*
 
----
+## Chapter 4
 
 Stale woke to the muffled stillness that only ever comes after storms and minor
 disasters.  The air was still damp and chill, but the sky was so clear that the
@@ -2774,14 +2770,15 @@ Aft scowled at her.  "What do you mean?"
 the light,* she told herself, knowing in her heart that there had been more to
 it than that.
 
-Aft straightened up.  "Here they come," he grunted.  First the tiger, ears back,
-with Private Thokmay hurrying to keep up.  Then the three soldiers who had gone
-with Sergeant Dorbu.  Then Noxy's mother and Sergeant Dorbu and a uniformed
-woman who was almost as wide as she was tall, all three of them wearing
-expressions that would have frozen a cup of tea in a heartbeat.  Behind them
-came Scholar-Candidate Nangyal, complaining as always, and Rancid's *tralpa* in
-her robes and formal collar.  And behind them, three more soldiers, their
-uniforms so clean they almost sparkled, and---
+Aft straightened up.  "Here they come," he grunted.  First the tiger, with
+Private Thokmay hurrying to keep up, his battle mask in place.  Then the three
+soldiers who had gone with Sergeant Dorbu.  Then Noxy's mother and Sergeant
+Dorbu and a light-skinned woman in a spotless unifmr who was almost as wide as
+she was tall, all three of them wearing expressions that would have frozen a cup
+of tea in a heartbeat.  Behind them came Scholar-Candidate Nangyal and Rancid's
+*tralpa* in her robes and collar, nodding at Nangyal's stream of complaints
+while ignoring them.  And behind them, three more soldiers, their uniforms so
+clean they almost sparkled, and---
 
 Noxy's heart dropped into her stomach.  "Saints," Aft cursed.  "As if things
 weren't bad enough."
@@ -2789,10 +2786,10 @@ weren't bad enough."
 Noxy stepped aside as the unhappy little parade passed through the ancient stone
 walls of the fortress.  Private Thokmay nodded but didn't say anything.  Her
 mother didn't even do that.  And then, after everyone else, the man at the end
-of the line grinned wickedly at Aft and wrapped his arms around her to give her
-a hug.
+of the line flash Aft a broad grin and wrapped his arms around her.
 
-"Hiya, sweetling," Noxy's father said, his voice muffled in her hair.
+"Hiya, sweetling," Noxy's father said, his voice muffled in her hair as he
+hugged her.
 
 "Hi, *adda*," she replied, wishing she was anywhere but there.
 
@@ -2800,3 +2797,55 @@ a hug.
 packet of letters wrapped in wax paper drifted past a moss-covered pillar that
 had been raised to mark a border whose existence was now forgotten.  The stream
 carrying it met another.  Mingling their waters, they carried the packet south.*
+
+The trading hall was the largest building in Stale.  Its doors were half again
+as tall as those of any house in the village, and inside, the fire-hardened
+cedar beams that would have supported an upstairs floor had been left exposed so
+that the hall felt spacious even when it was full to bursting with pack traders
+and their wares.
+
+Somehow, though, the group sitting around the sturdy table in its center made it
+feel crowded.  Indy, Grappa Gas, and Granna Fee sat together on one side.
+Opposite them was the uniformed woman, who introduced herself to Grappa Gas and
+Granna Fee as Captain Birgith and then pointedly added, "Been in the king's
+service eighteen years, hope to serve as many again."  Rancid's *tralpa* was
+Lhawang; Noxy had seen her before when her mother or grandmother had taken her
+to Rancid to spend some time with her father before she worked up the courage to
+tell them that she would really rather not.  Nangyal sat beside her with an
+expression so stern and self-important that Noxy wanted to ask him if he needed
+to visit the outhouse.
+
+Sergeant Dorbu and Kulbinder took up the third side of the table.  "Give her a
+hand," the tiger ordered Private Thokmay when Indy told Noxy to make tea.
+
+A thick layer of hot coals lay in the bottom of the brick stove in the back of
+the hall.  Noxy set a handful of kindling on top of them and pumped the bellows
+a few times to bring the fire back to life.  "What can I do?" Private Thokmay
+asked.
+
+"You could take off that stupid mask," Noxy snapped, then sighed.  "Sorry.  I
+know it's part of your uniform.  It's just..."  She trailed off.
+
+"You get used to them," the young soldier said.  He undid the chin strap and
+slid the mask up on top of his head.  "Is that better?"
+
+"Sure," Noxy said without looking.  She jerked her head toward the door of the
+hall's oversized kitchen.  "What do you think they're saying?"
+
+Private Thokmay turned his hands palm up then palm down in the lowlander
+equivalent of a shrug.  "Captain Birgith and Scholar Lhawang are telling your
+mother to hand us over.  Your mother is saying that it is not within her power
+to do that, especially not with the adults gone and so many children here that
+could be put in harm's way.  Sergeant Dorbu is offering to leave tomorrow or the
+next day, as soon as the men are well enough to march, and Kulbinder is growing
+impatient and will probably make some comment later about how much monkeys
+chatter."
+
+Noxy gaped at him.  "You can hear all that?"
+
+The corner of his mouth quirked up.  "Not a word, but I'd bet a week of
+bootshine duty on it."
+
+"Huh."  Noxy set the kettle she had just filled on top of the stove.  She was
+just about to start looking for some tea leaves when voices started shouting
+outside the window.

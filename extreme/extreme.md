@@ -2088,7 +2088,7 @@ A pause, and then Jeff says, "So, am I interrupting anything?"
 
 JOEY: "Naw, just work.  Some guy claims the aliens speak to him when
 he's in the shower, want him to sue a whole bunch of people for libel.
-They don't have Elvis, they've never touched Dana, the Cubs aren't
+They don't have Elvis, they've never touched Diana, the Cubs aren't
 their fault, the cows aren't their fault, on and on and on.  He wants
 me to figure out what the U.S.  Government is worth so he can file the
 claim."

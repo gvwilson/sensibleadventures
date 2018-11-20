@@ -532,7 +532,7 @@ They were the last to arrive at the wooden platform that hung over the edge of
 the cloud pen.  "Ears all!" Aft said loudly.  He had changed into heavy pants, a
 padded coat, and a pair of soft boots, and his hair was pulled back in a thick
 club braid tied with a blue ribbon from his wife's wedding collar.  "You know
-how this is done.  I'll lead on Pillow with the younglings as spotters and the
+how this is done.  I'll lead on Pillow with the youngers as spotters and the
 Gifted as a guide.  Gas and Fee, you've got Blue---you take Noxy with you.  In
 and out, quick and simple, and everyone's back here for soup before you can
 sneeze.  No adventures, right?"  He glared at Noxy, Sensy, and Rash until the
@@ -2785,11 +2785,10 @@ weren't bad enough."
 
 Noxy stepped aside as the unhappy little parade passed through the ancient stone
 walls of the fortress.  Private Thokmay nodded but didn't say anything.  Her
-mother didn't even do that.  And then, after everyone else, the man at the end
-of the line flash Aft a broad grin and wrapped his arms around her.
+mother didn't even nod.  And then, after everyone else, the man at the end of
+the line stopped, flashed a broad grin at Aft, and pulled Noxy into a hug.
 
-"Hiya, sweetling," Noxy's father said, his voice muffled in her hair as he
-hugged her.
+"Hiya, sweetling," her father said, his voice muffled in her hair.
 
 "Hi, *adda*," she replied, wishing she was anywhere but there.
 
@@ -2833,19 +2832,100 @@ slid the mask up on top of his head.  "Is that better?"
 hall's oversized kitchen.  "What do you think they're saying?"
 
 Private Thokmay turned his hands palm up then palm down in the lowlander
-equivalent of a shrug.  "Captain Birgith and Scholar Lhawang are telling your
-mother to hand us over.  Your mother is saying that it is not within her power
-to do that, especially not with the adults gone and so many children here that
-could be put in harm's way.  Sergeant Dorbu is offering to leave tomorrow or the
-next day, as soon as the men are well enough to march, and Kulbinder is growing
+equivalent of a shrug.  "Captain Birgith and Scholar Lhawang are telling the
+reeve she has to hand us over.  The reeve is saying that it is not within her
+power to do that with the adults gone, and that even if they were here, it would
+put the children in harm's way.  Sergeant Dorbu is offering to leave as soon as
+the men are well enough to march, but won't surrender, and Kulbinder is growing
 impatient and will probably make some comment later about how much monkeys
 chatter."
 
-Noxy gaped at him.  "You can hear all that?"
+Noxy blinked at him.  "You can hear all that?"
 
 The corner of his mouth quirked up.  "Not a word, but I'd bet a week of
-bootshine duty on it."
+bootshine duty that's how it's going."
 
-"Huh."  Noxy set the kettle she had just filled on top of the stove.  She was
-just about to start looking for some tea leaves when voices started shouting
-outside the window.
+"Huh."  Noxy set the kettle on top of the stove.  She was just about to start
+looking for some tea leaves when the shouting started outside.
+
+"Say it again!  Come on, I dare you!" Aft snarled.
+
+"Really?  You mean, just like when we were youngers?  Saints, I haven't had a
+good dare in *ages*."  Noxy's heart sank.  From the thrill in her father's
+voice, you'd think his secret sweetheart had just asked him to the fancy, and
+that meant trouble---especially if the person he was goading was Aft.
+
+Two quick steps and she was up on the bench beneath the window, standing on
+tiptoe to peek through it.  The bench shifted slightly as Private Thokmay joined
+her.  Outside, After and her father Cough stood a stride apart, Aft glowering
+with a strapped bundle of goofskins in each hand and Cough with his hands in his
+pockets and a sunny smile on his face.
+
+"Stop it, you two," Granna Fee snapped, a smaller bundle of goofskins in her
+arms.  "The last thing Indy needs right now is you two fighting."
+
+"Yeah, stop it, Aft," Cough said mockingly.  "You don't want to get Indy in
+trouble, do you?"
+
+Aft dropped his goofskins on the cobblestones with a thud.  "Don't you dare!"
+Granna Fee warned him as he clenched his fists.  "As for you," she said coldly,
+rounding on Cough, "I think it would be best if you went down and made sure your
+cloud is settling in all right, don't you?"
+
+Cough sketched a bow, his ribboned braids falling on either side of his head.
+"As always, Fee, your wish is my command."  He straightened and smiled at Aft
+again.  "Dare you later, Hombert?"
+
+Noxy gasped.  For just one heartbeat she thought Aft might not have heard her
+father, or might let it go, and then there was another thud as his fist
+connected with Cough's chin and sent him sprawling.  "Dare *that*!"
+
+Granna Fee threw herself between the two men.  "Stop it! Stop it!" she ordered,
+shoving her bundle of goofskins at Aft's chest.  Behind her, Cough scrambled to
+his feet and reached for his belt.
+
+Private Thokmay yanked the window open.  "Ware behind!" he yelled.
+
+Granna Fee spun around.  Cough froze, then casually let his hand fall away from
+his knife.  "Well," he said lightly, rubbing his jaw, "Maybe I will go down and
+look after Tumbles after all.  Good to see you, Fee."  He turned put his hands
+back in his pockets, and walked away whistling a little tune.
+
+Aft handed Granna Fee back her bundle of goofskins.  "Sorry about that," he
+muttered.
+
+The old lady picked hers up off the cobblestones with a grunt.  "Don't be."  She
+scowled in the direction Cough had gone.  "That boy's been trouble since---since
+forever.  If he's mixed up in all of these..."  She shook her head and sighed.
+
+As the two grownups went on their way, Noxy stepped off the bench and sat on it,
+then pulled her knees up to her chest and hugged them.  "Is there anything I can
+do, honored?" Private Thokmay asked quietly.
+
+Noxy shook her head without speaking.  She was *not* going to cry, not about her
+father, not again.  She closed her eyes and listened while the young soldier
+opened doors and jars until a soft, "Ah," signalled that he had found some tea
+leaves.  The bellows woofed a few times as he pumped them.  A spoon clinked and
+water gurgled.
+
+She sniffled and stood up.  "There's some honey on the top shelf," she said
+briskly.  "It's in the jar labelled beets so that no one will take it."
+
+"That'll work," the soldier said, hunting for it with his eyes and then taking
+it down.
+
+They stood in silence for a moment listening to the rise and fall of indistinct
+voices coming from the hall.  "At least they're not punching each other," Noxy
+eventually said.
+
+Private Thokmay nodded.  "Not yet, anyway."  He cleared his throat.  "So what's
+a hombert?"
+
+"Sh!"  Noxy shushed him reflexively.  Then she sighed.  "It's not a what,
+it's---it's his real name.  Aft's, I mean.  You shouldn't ever use it unless
+you're, you know, really close to someone."
+
+"Ah," the soldier said again.  "And those two aren't?"
+
+Noxy snorted and shook her head.  "Really not."  She was just about to explain
+when the shouting started in the hall.

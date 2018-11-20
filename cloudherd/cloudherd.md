@@ -2804,15 +2804,14 @@ that the hall felt spacious even when it was full to bursting with pack traders
 and their wares.
 
 Somehow, though, the group sitting around the sturdy table in its center made it
-feel crowded.  Indy, Grappa Gas, and Granna Fee sat together on one side.
-Opposite them was the uniformed woman, who introduced herself to Grappa Gas and
-Granna Fee as Captain Birgith and then pointedly added, "Been in the king's
-service eighteen years, hope to serve as many again."  Rancid's *tralpa* was
-Lhawang; Noxy had seen her before when her mother or grandmother had taken her
-to Rancid to spend some time with her father before she worked up the courage to
-tell them that she would really rather not.  Nangyal sat beside her with an
-expression so stern and self-important that Noxy wanted to ask him if he needed
-to visit the outhouse.
+feel crowded.  Indy and Grappa Gas sat together on one side.  Opposite them was
+the uniformed woman, who introduced herself as Captain Birgith and then
+pointedly added, "Been in the king's service eighteen years, hope to serve as
+many again."  Rancid's *tralpa* was Lhawang; Noxy had seen her before when her
+mother or grandmother had taken her to Rancid to spend some time with her father
+before she worked up the courage to tell them that she would really rather not.
+Nangyal sat beside her with an expression so stern and self-important that Noxy
+wanted to ask him if he needed to visit the outhouse.
 
 Sergeant Dorbu and Kulbinder took up the third side of the table.  "Give her a
 hand," the tiger ordered Private Thokmay when Indy told Noxy to make tea.
@@ -2928,4 +2927,50 @@ you're, you know, really close to someone."
 "Ah," the soldier said again.  "And those two aren't?"
 
 Noxy snorted and shook her head.  "Really not."  She was just about to explain
-when the shouting started in the hall.
+when they heard voices raised in the hall.
+
+Private Thokmay pulled his battle mask down over his face and picked up the
+wooden serving tray that held the teapot, the honey, and half a dozen
+mis-matched mugs.  "After you?"
+
+Noxy grabbed another couple of mugs just to have something in her hands, then
+held the door open for Private Thokmay to go through and suppressed a sigh when
+he didn't take the hint but instead waited for her to step in front and lead
+them back to the table in the center of the hall.
+
+Kulbinder was nowhere to be seen.  Noxy's mother had her official smile on,
+while Grappa Gas looked like he was almost ready to follow his son's lead and
+start throwing punches.  Sergeant Dorbu's determined look mirrored that of
+Captain Birgith's, while the indignation on Scholar-Candidate Nangyal's face was
+a counterpoint to the cold fury on his senior colleague's.
+
+"Out of the question," Scholar Lhawang said flatly, ignoring Noxy and Private
+Thokmay as they placed the tea on the table and began pouring.  "You have
+already broken one oath.  We would be fools to trust you not to break another."
+Her polished accent made each phrase sound like the scrape of a whetstone along
+the edge of a sword.  She reached for a mug of tea and paused.  "Beets?"
+
+"Sorry," Noxy said, hastily taking off the lid.  "It's honey."
+
+"Well then it should be in a jar marked honey," Nangyal said acidly, grabbing it
+from the tray and spooning as much into his tea as Noxy would use in a week.
+Oblivious to the other *tralpa*'s annoyed expression, he continued, "And
+you---we're not about to start swinging swords, so take that mask off."
+
+"My apologies, honored," Private Thokmay said, his voice slightly muffled by the
+mask in question.  "Orders."
+
+Stale's *tralpa* puffed up like an angry toad.  "Well I'm giving you *new*
+orders," he snapped.
+
+"Yes, honored," the young soldier said.  "I'd be happy to as soon as I can speak
+with Honored Kulbinder to make sure."
+
+"Oh, go ahead and take it off, private," Sergeant Dorbu said wearily.  "We have
+to start agreeing on *something* or we'll be here all night."
+
+Private Thokmay hesitated a moment, then undid the chin strap and slid the mask
+up on top of his head.  "Will that be all, honored?" he asked.
+
+Sergeant Dorbu nodded.  "Go and see if Kulbinder is done stretching his legs."
+At a nod from her mother, Noxy followed him to the door.

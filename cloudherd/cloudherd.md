@@ -2775,10 +2775,10 @@ Private Thokmay hurrying to keep up, his battle mask in place.  Then the three
 soldiers who had gone with Sergeant Dorbu.  Then Noxy's mother and Sergeant
 Dorbu and a light-skinned woman in a spotless unifmr who was almost as wide as
 she was tall, all three of them wearing expressions that would have frozen a cup
-of tea in a heartbeat.  Behind them came Scholar-Candidate Nangyal and Rancid's
-*tralpa* in her robes and collar, nodding at Nangyal's stream of complaints
-while ignoring them.  And behind them, three more soldiers, their uniforms so
-clean they almost sparkled, and---
+of tea in a heartbeat.  Behind them Scholar-Candidate Nangyal hurried to keep
+pace with Rancid's *tralpa* in her robes and collar, barefoot despite the cold,
+who nodded at Nangyal's stream of complaints while ignoring them.  And behind
+them, three more soldiers, their uniforms so clean they almost sparkled, and---
 
 Noxy's heart dropped into her stomach.  "Saints," Aft cursed.  "As if things
 weren't bad enough."
@@ -2952,10 +2952,11 @@ the edge of a sword.  She reached for a mug of tea and paused.  "Beets?"
 
 "Sorry," Noxy said, hastily taking off the lid.  "It's honey."
 
-"Well then it should be in a jar marked honey," Nangyal said acidly, grabbing it
-from the tray and spooning as much into his tea as Noxy would use in a week.
-Oblivious to the other *tralpa*'s annoyed expression, he continued, "And
-you---we're not about to start swinging swords, so take that mask off."
+"Well then it should be in a jar marked honey," Nangyal said acidly, snatching
+it from the tray and spooning as much into his tea as Noxy would use in a week.
+Oblivious to the other *tralpa*'s annoyed expression, he continued, "You see
+what I have to deal with here?  And you---take that mask off.  we're not about
+to start swinging swords."
 
 "My apologies, honored," Private Thokmay said, his voice slightly muffled by the
 mask in question.  "Orders."
@@ -2963,14 +2964,111 @@ mask in question.  "Orders."
 Stale's *tralpa* puffed up like an angry toad.  "Well I'm giving you *new*
 orders," he snapped.
 
-"Yes, honored," the young soldier said.  "I'd be happy to as soon as I can speak
-with Honored Kulbinder to make sure."
+"Yes, honored," the young soldier said.  "I just need to speak with the Honored
+Kulbinder to make sure."
 
-"Oh, go ahead and take it off, private," Sergeant Dorbu said wearily.  "We have
-to start agreeing on *something* or we'll be here all night."
+"Oh, go ahead, private," Sergeant Dorbu said wearily.  "We have to start
+agreeing on *something* or we'll be here all night."
 
-Private Thokmay hesitated a moment, then undid the chin strap and slid the mask
-up on top of his head.  "Will that be all, honored?" he asked.
+Private Thokmay hesitated a moment, then undid the chin strap and took the mask
+off.  "Will that be all, honored?" he asked stiffly.
 
-Sergeant Dorbu nodded.  "Go and see if Kulbinder is done stretching his legs."
-At a nod from her mother, Noxy followed him to the door.
+Sergeant Dorbu nodded.  "Yes, private.  How about you go and see if Kulbinder is
+done stretching his legs?"  At a nod from her mother, Noxy followed him to the
+door as the adults resumed their squabbling.
+
+The three royalist soldiers who had arrived with Scholar Lhawang stood at
+attention outside, very carefully not looking at the three rebel soldiers in
+travel-worn versions of the same uniform standing just as straight on the other
+side of the door.  Private Thokmay walked between them as if it was an everyday
+thing, his battle mask still in his hand.  He and Noxy didn't get more than a
+dozen steps before an all-too-familiar voice called, "Hey sweetling---I've been
+looking for you."
+
+It had been almost five years since she had seen her father.  His hair had
+thinned out a bit, she noticed, and one of his teeth was missing, but his coat
+and trousers even more richly embroidered than she remembered, and his smile was
+still warm enough to make the stove in the trading hall jealous.  If you didn't
+know him, you might naturally believe that he *was* genuinely glad to see you.
+
+"Hi, *adda*," she said as he strode across the cobblestones to join her and
+Private Thokmay.  "How are you?"
+
+"Never better," he proclaimed.  For a moment she was afraid he was going to hug
+her again, but instead he held out his hand to Private Thokmay.  "Hello.  I'm
+Persistent Coughing, but everyone just calls me Cough."
+
+The young soldier shook his hand.  "Gandan's Twenty-Ninth Thokmay, honored.
+Pleased to meet you."
+
+Cough's smile broadened.  "I'm glad someone is."  He leaned forward slightly.
+I'm not exactly popular with some people here, if you know what I mean," he
+added in a stage whisper.  "Not exactly welcome."
+
+"I'm sorry to hear that, honored," Private Thokmay replied in a normal voice.
+"We're very grateful to the village for welcoming us, and very sorry for the
+trouble we've caused."
+
+Cough waved his words away.  "It's not your fault.  I mean, it *is*, but I'm
+sure they'd have found some other trouble to get into if you weren't here."  He
+winked at Noxy.
+
+"As you say, honored," the young soldier said politely.  "But if you'll excuse
+us, the reeve and Sergeant Dorbu have asked us to find my honored master."
+
+"Mm."  Cough nodded sagely.  "Things going that badly in there, are they?"
+
+"I really couldn't say.  Honored?"  Private Thokmay gestured for Noxy to lead
+the way.
+
+"See you later, *adda*," she said, falling into step beside the soldier.
+
+"Sure, sweetling---stay out of trouble."  As Cough watched the two teenagers
+walk away, his smile was replaced by a calculating expression.  "Now, where have
+I seen you before?"  he asked himself quietly.  Then his eyes widened and his
+smile returned, not nearly as big as before but as genuine as that of one of the
+crocodiles that swam in the rivers of the tiger's homeland.
+
+Noxy waited until they were out of earshot of her father before saying,
+"Thanks."
+
+Private Thokmay glanced at her.  "For what, honored?"
+
+"For rescuing me."
+
+The corner of the soldier's mouth quirked up.  "Well, I did owe you one."  He
+nodded toward the Quick Tower.  "I expect he'll up on the wall."
+
+He was, and from the way his tail lashed back and forth, he didn't seem very
+happy.  "I thought I told you to keep your mask on," he rumbled as Private
+Thokmay and Noxy approached.
+
+"Sergeant Dorbu's orders, honored," the young soldier replied.
+
+The tiger growled deep in his throat.  "And they're still arguing?"
+
+"Yes, honored."
+
+The tiger growled again.  "So, what's your mother's going to do?" he asked Noxy.
+"Hand the sergeant and his men over or send the captain packing?"
+
+For a moment all Noxy could think was, *How would I know?*  But then she
+remembered how Private Thokmay had described the conversation in the trading
+hall without being able to overhear, and she thought, *All right---what will she
+do?*
+
+"Neither," she said after a moment.  The tiger flicked an ear as if to say, go
+on.  "She won't do either.  She'll wait until the other adults come back with
+the herd and then take it to a vote.  That's always how we decide really big
+things."
+
+"Mm," the tiger rumbled.  "And how long will it be until they return?"
+
+"It should only be a couple more days," Noxy said, hoping fervently that was
+true.
+
+"Mm," the tiger rumbled again, and then whatever he might have said next was
+interrupted by shouting from the square below.  Noxy was about to make a joke
+about how it had been a shouting kind of day when steel rang on steel and
+someone screamed.
+

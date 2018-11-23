@@ -3052,23 +3052,93 @@ The tiger growled deep in his throat.  "And they're still arguing?"
 The tiger growled again.  "So, what's your mother's going to do?" he asked Noxy.
 "Hand the sergeant and his men over or send the captain packing?"
 
-For a moment all Noxy could think was, *How would I know?*  But then she
+For a moment all Noxy could think was, *How would I know?* But then she
 remembered how Private Thokmay had described the conversation in the trading
-hall without being able to overhear, and she thought, *All right---what will she
-do?*
+hall without being able to overhear, and she thought, *All right---what __will__
+she do?*
 
 "Neither," she said after a moment.  The tiger flicked an ear as if to say, go
 on.  "She won't do either.  She'll wait until the other adults come back with
 the herd and then take it to a vote.  That's always how we decide really big
-things."
+things, and..."  She shrugged uncomfortably.  "None of us really know how to
+fight, but maybe if there's another fifty of us, nobody will have to."
 
-"Mm," the tiger rumbled.  "And how long will it be until they return?"
+"Mm," the tiger rumbled.  "How long will it be until they return?"
 
 "It should only be a couple more days," Noxy said, hoping fervently that was
 true.
 
-"Mm," the tiger rumbled again, and then whatever he might have said next was
-interrupted by shouting from the square below.  Noxy was about to make a joke
-about how it had been a shouting kind of day when steel rang on steel and
-someone screamed.
+"Mm," the tiger rumbled again.  Whatever he might have said next was interrupted
+by shouting from the square below.  Noxy was about to make a joke about how it
+had been a shouting kind of day when steel rang on steel and someone screamed.
 
+The villagers called it the Quick Tower because it was the quickest to get up.
+Children raced each other sometimes, and the annual fancy wasn't complete
+without at least a few of the adults doing the same.  But no one had ever come
+down those steps as fast as Noxy did, and even then, she was three steps behind
+Private Thokmay and the tiger by the time they reached the bottom.
+
+The three soldiers who had arrived with Captain Birgith and Rancid's *tralpa*
+were standing in a tight knot a few strides in front of the trading hall door
+with their backs against one another's and their swords in their hands.  Half a
+dozen of Sergeant Dorbu's men surrounded them, and more were running or limping
+to join them, armor half on but weapons ready.  Noxy saw Sensy's grandmother
+pick up a bewildered child and hurry away as he started to wail, not knowing why
+he'd been thrown over her shoulder like a sack of wool, and then the door banged
+open and her mother stormed out into the square.
+
+"What in the names of all the saints do you *idiots* think you're doing?" she
+snapped, her voice cutting like a cold wind.  It would have been enough to
+freeze any of the villagers in their tracks, but the soldiers ignored it.
+
+"Private!" Sergeant Dorbu barked at the nearest of his men as he and the others
+emerged behind Stale's reeve.  "What's going on here?"
+
+The soldier straightened up but kept his eyes on the three royalist soldiers.
+"Sorry, honored.  He made a crack about our dead and we got to shouting."
+
+Captain Birgith shouldered past the sergeant to stand between the rebel and her
+three men.  "Private, put that sword down *now*," she ordered flatly.
+
+"With respect, honored, I don't take orders from you," he replied.
+
+Moving slowly and deliberately, she lowered her battle mask into place and then
+put her hand on the pommel of her sword.  "Now, private. I won't say it again."
+
+"Put it down, private," Sergeant Dorbu commanded when the soldier still didn't
+budge.  "This isn't the place, and today's not the day."
+
+One heartbeat, two... "Yes, honored," the man said woodenly.  He straightened,
+his eyes still locked with Captain Birgith's, and sheathed his sword.
+
+Noxy's heart pounded in her chest.  She had absolutely no doubt that Captain
+Birgith would have attacked if the soldier hadn't obeyed Sergeant Dorbu, and
+from the looks on the faces of the other soldiers, royalist and rebel alike, it
+wouldn't have stopped there.
+
+"Perhaps it would be best if we all took a bit of time to catch up with
+ourselves," Indy suggested, her voice steady.
+
+"I agree."  Scholar Lhawang had been watching from the doorway of the trading
+hall.  She glanced at Nangyal, who would probably have said he standing beside
+her, though an observer might instead have said "sheltering behind".  "Lead the
+way."
+
+"Um..."  Stale's *tralpa* gulped.  "Certainly, honored.  Where?"
+
+"You do have a house here, do you not?" Scholar Lhawang said impatiently.
+
+"Ah. Yes."  Nangyal gulped again, clearly thinking about the state that house
+was in, then wilted under his senior colleague's glare.  "Of course.  This way,
+please."
+
+The rebel soldiers stepped aside, blades lowered but not sheathed, to let
+Captain Birgith and her men through.  The two *tralpas* joined them, and so,
+after a few strides, did Cough.  Noxy's father had been leaning against the wall
+of the trading house with his hands in his pockets and an amused half-smile on
+his face.
+
+"Have fun with your new friends," Aft called as he walked past.
+
+Cough glanced at him, then at Private Thokmay, and grinned.  "Oh, I'm sure we'll
+find lots to talk about."

@@ -3142,3 +3142,54 @@ his face.
 
 Cough glanced at him, then at Private Thokmay, and grinned.  "Oh, I'm sure we'll
 find lots to talk about."
+
+## Chapter 5
+
+Indy sent Noxy up to her room.  "I don't want you outside," she said when her
+daughter protested.  "It's too dangerous."
+
+She might have continued arguing, but the look on Granna Fee's face stopped her.
+Together with Aft and Grappa Gas, she had walked home in silence with Indy and
+Noxy.  The three of them sat shoulder to shoulder in silence at the table where
+Indy and Noxy had eaten dinner with Sergeant Dorbu and Kulbinder the night
+before, waiting for the kettle to whistle.
+
+Noxy left her bedroom door open and lay on her bed with her fingers laced behind
+her head while the adults argued in circles.  It wasn't Indy's fault, Grappa Gas
+said---he would have done the same thing, and nobody could have known it would
+turn out like this.  That was behind them now, Aft countered.  If blood had been
+shed---if the captain's blood had been shed, or the *tralpa*'s, well, they'd all
+be in it, even the folk that were off gathering the clouds.
+
+So what we he have them do, Granna Fee asked.  They couldn't order the rebels to
+surrender---well, they could, but they weren't likely to listen.  The best they
+could hope for was that Sergeant Dorbu would leave if they asked him to, but
+what then?  The forest had made it plain that it wouldn't let them through, not
+unless they stayed on the road, and...  Noxy pictured her grandmother's shrug.
+The only road out of Stale ran straight through Rancid, so they'd just be
+shuffling the problem onto someone else.  And no, they weren't going to do that,
+she continued.  (Noxy imagined Grappa Gas biting back what he'd been about to
+suggest at Granna Fee's words.)  All they could do was wait.
+
+But the longer they waited, the more chance there was that the soldiers would
+come to blows, Indy said wearily, the past few days heavy in her voice.  And if
+blood was shed...  It wouldn't be their fault, Grappa Gas interrupted gently.
+It wouldn't be *her* fault.  He would have done the same thing...
+
+After three rounds, Noxy couldn't stand any more.  She slipped out of bed and
+groped underneath it until her fingers closed on a small bottle.  She uncorked
+it and let a few drops run down a straw onto the hinges on either side of her
+window.  Hiding the bottle once again, she undid the latch and slowly opened the
+shutters.
+
+She paused for a moment and almost closed them again.  Her mother was right: the
+village that she had grown up in *was* suddenly a dangerous place.  She knew she
+ought to stay inside, but she couldn't, she just couldn't, she needed to do
+something or talk to someone or---
+
+She unclenched her fists, stepped up onto her stool, and slithered through the
+window just as she had so many times before.  "I think I might be getting a
+cold," she told her mother on those mornings when she and Sensy and Rash had
+been out half the night, watching the stars' stately dance or seeing who could
+think of the most ridiculous thing the *tralpa* had ever done.  And with that
+thought, she knew where she was going to go.

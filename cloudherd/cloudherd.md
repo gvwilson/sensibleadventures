@@ -712,7 +712,7 @@ later he looked up and shook his head grimly.  "She's terrified," he bellowed
 through cupped hands.  "Won't go any closer.  We have to leave them!"
 
 "Underhells with that," Grappa Gas muttered.  "Fee---I'll get Blue down there.
-You 'n' Noxy get 'em loaded up fast as you can."
+You 'n' Noxy get scoffing idiots loaded up fast as you can."
 
 "But---" Granna Fee protested.
 
@@ -983,13 +983,13 @@ his fingers behind his head.
 
 Aft stabbed a finger toward him.  "Stow that.  Indy, this is madness.  I don't
 like the *tralpa* any more than anyone else, but as soon as he gets word down
-the mountain that we've gone over to the rebels---"
+the mountain that we've gone over to the scoffing rebels---"
 
 "Stop," Indy said sharply.  She stood up and gestured at her stool.  "Sit down.
-Make yourself comfortable.  And then take a deep breath before you say another
-word.  We have *not* gone over to anything.  We are not taking any side in this,
-not as long as I'm reeve.  Noxy?  Go get the peeling stool from out back.  Brush
-it off before you bring it in the house."
+Make yourself comfortable.  And then take a deep breath before you using
+language like that in this house again.  We have *not* gone over to anything.
+We are not taking any side in this, not as long as I'm reeve.  Noxy?  Go get the
+peeling stool from out back.  Brush it off before you bring it in the house."
 
 Aft glowered at her and his father a moment longer, then sat, the stool creaking
 in protest under his weight.  Noxy hastily fetched the spare stool from the rear
@@ -3002,7 +3002,7 @@ The young soldier shook his hand.  "Gandan's Twenty-Ninth Thokmay, honored.
 Pleased to meet you."
 
 Cough's smile broadened.  "I'm glad someone is."  He leaned forward slightly.
-I'm not exactly popular with some people here, if you know what I mean," he
+"I'm not exactly popular with some people here, if you know what I mean," he
 added in a stage whisper.  "Not exactly welcome."
 
 "I'm sorry to hear that, honored," Private Thokmay replied in a normal voice.
@@ -3192,4 +3192,57 @@ window just as she had so many times before.  "I think I might be getting a
 cold," she told her mother on those mornings when she and Sensy and Rash had
 been out half the night, watching the stars' stately dance or seeing who could
 think of the most ridiculous thing the *tralpa* had ever done.  And with that
-thought, she knew where she was going to go.
+thought, she knew where she wanted to go.
+
+Roofs in Stale were almost as steep as the mountains.  They had to be to shed
+the snows of winter and the rain that came in the spring and autumn.  Years ago,
+Rash's older brother had shown him how to walk the ridge of a roof with his toes
+turned slightly inward so that the edge ran diagonally across the soles of his
+boots.  He in turn had shown Noxy and Sensy, who had shown one of her cousins in
+Rancid, who had slipped and fallen and broken his leg so badly that his family
+had gone to the *tralpa* for a spell to make it heal straight.  As she
+straightened up and took a deep breath, Noxy thought about the thud she would
+make if she slipped and resolved not to.
+
+Three houses, a drying shed that still smelled of smoke and burned moss, the
+bath house with its own distinctive smell of damp cedar, and two more roofs
+after that got her around the square to Sensy's house.  She was just about to
+rap her knuckles on her friend's shutters when she heard a low voice followed by
+a giggle.  Noxy froze.  "Ssh!" Rash said in the same low voice.  "You mustn't
+let the tiger hear you or he'll come... creeping... up... and... eat you!"
+
+"Stop it!" Sensy laughed.  Ears burning, Noxy scrambled back up to the peak of
+the roof and hurried away, not caring if she fell as long as she put as much
+distance as she could between herself and her best friends.
+
+A few minutes later she found herself in the Round Tower staring out at the
+moonlit forest and mountains.  She and Sensy had covered a block of stone with a
+bit of gray canvas to make a pretend cloud years ago.  It was still there,
+streaked with bat guano and a circle of thimbleberry juice that some younger
+children had carefully daubed on for a make-believe of their own.  It wasn't
+comfortable, and the night air was cold, and she had absolutely no idea why she
+was there.  If Sensy and Rash were happy, she should be happy for them.  That
+would be the grownup thing to do, wouldn't it?
+
+She stood, sighed, and froze at the sound of voices below her.  Cautiously, she
+slipped over to the nearest arrowslit and peeked through.  Nothing.  She pulled
+her head back and tried the next one.  There, almost directly below her, stood
+Scholar-Candidate Nangyal and her father.
+
+"I'm telling you, it's him," Cough hissed.  "Didn't have the scars on his face
+the last time I saw him, but I swear, saints and Pilots both, it's him."
+
+"Even if you are right, what do you propose I do about it?" the *tralpa* replied
+testily.  "In case you hadn't noticed, we're outnumbered.  *And* they have a
+tiger."  He shivered.
+
+"Yes, I know they have a scoffing tiger.  Wait!"  Cough seized the *tralpa*'s
+sleeve as the lowlander turned to leave.  "Don't you see?  This is your chance.
+If you get him home, you'll be able to name your price.  Full scholar, whatever
+post you want---anything."
+
+The *tralpa* hesitated.  Cough released his sleeve.  "Of course, if you'd rather
+Lhawang got the credit..."
+
+"Fine," the other man snapped.  "I'll talk to Captain Birgith.  Now let's get
+back inside before that damn creature comes prowling around again."

@@ -265,7 +265,7 @@ their escape.
 Branches rustled overhead.  Two--- three--- four trolls swung by, except no, the
 fourth didn't swing by.  It stopped and looked down at them.  Its fur was shot
 through with gray, and even from five strides below it Noxy could see the long
-red scar that ran up the length of its left leg.
+hairless scar that ran up the length of its left leg.
 
 Something twinged in the back of her head like the start of a headache.  She
 felt dizzy, and for a moment it was as if *she* was in the tree looking down at
@@ -1400,11 +1400,11 @@ skeletons decorated with feathers like the toys children made for All Ghosts'
 Night and they were pecking chunks out of the people around her who were slowly
 losing shape like weary clouds.
 
-Standing in the middle of everything was the troll she had seen that morning.
-It---she---had the same silver-shot fur and the same long scar, but her eyes
-were like those deep shadows in the forest where the last of the winter snow
-could lie unmelted until midsummer.  She waited patiently until the last of the
-crows had flown away and then raised a hand in greeting.
+Standing in the middle of everything was the troll she had seen that morning
+with same silver-shot fur and the long scar on her leg.  Her eyes were as deep
+as the shadows in the forest where the last of the winter snow could lie
+unmelted until midsummer.  She waited patiently until the last of the crows had
+flown away and then raised a hand in greeting.
 
 Heart pounding, Noxy raised her own, and woke.  She lay in bed and listened to
 the windchimes outside her window and the soft, rhythmic snuffle of her mother
@@ -2412,12 +2412,12 @@ The children groaned and began to disperse. Private Thokmay dipped his head
 toward Noxy.  "Lead on, honored."
 
 Noxy and the young soldier walked in step through the bright morning.  "That's
-the South Tower," Noxy said, pointing.  "It still has a roof, but the stairs
-inside fell down a long time ago.  You used to be able to get up there by
-climbing a tree, but they cut it down after Grappa Gas fell out of it for the
-second time.  That was before I was born.  And that one's the Round Tower, and
-the short one over there is called the Quick Tower, because it's quickest to get
-up."
+the Round Tower," Noxy said, pointing.  "It has a ghost, but nobody's seen it in
+years.  The short one over there is called the Quick Tower, because it's the
+quickest to get up.  And that's the South Tower, The stairs inside fell down a
+long time ago---you used to be able to get up there by climbing a tree, but they
+cut it down after Grappa Gas fell out of it for the second time.  That was
+before I was born."
 
 "It's a shame it's been allowed to go to ruin," Private Thokmay said, studying
 the South Tower.
@@ -3229,8 +3229,9 @@ slipped over to the nearest arrowslit and peeked through.  Nothing.  She pulled
 her head back and tried the next one.  There, almost directly below her, stood
 Scholar-Candidate Nangyal and her father.
 
-"I'm telling you, it's him," Cough hissed.  "Didn't have the scars on his face
-the last time I saw him, but I swear, saints and Pilots both, it's him."
+"I'm telling you, it's him," Cough said in a low voice.  "Didn't have the scars
+on his face the last time I saw him, but I swear, saints and Pilots both, it's
+him."
 
 "Even if you are right, what do you propose I do about it?" the *tralpa* replied
 testily.  "In case you hadn't noticed, we're outnumbered.  *And* they have a
@@ -3244,5 +3245,50 @@ post you want---anything."
 The *tralpa* hesitated.  Cough released his sleeve.  "Of course, if you'd rather
 Lhawang got the credit..."
 
-"Fine," the other man snapped.  "I'll talk to Captain Birgith.  Now let's get
-back inside before that damn creature comes prowling around again."
+"Fine," the pudgy man snapped, brushing his sleeve.  "I'll inform Captain
+Birgith.  Now let's get back inside before that damn creature comes prowling
+around and decides we'd make a good dinner."
+
+"You more than me," Cough said cheerfully, clapping the *tralpa* on the back.
+
+Noxy watched them until they rounded the corner, her mind whirling.  Why would
+her father have seen Private Thokmay before?  *Where* would he have seen him?
+And why would Captain Birgith care?
+
+*Twinge.* "Oh, not now," she muttered.  She didn't have time for a
+headache---she had to get back before her mother noticed she was gone.  She
+turned to go back down the stairs and squeaked at the sight of three trolls
+blocking her path.  Two were males with brawny arms and solemn faces.  The third
+was the female she had seen in the forest and in her dream.
+
+The troll cocked her head.  "Is now a bad time?" she asked.
+
+Noxy gaped at her.  "Y-you're Gifted?"
+
+The troll's lips pulled back from her teeth in what Noxy fervently hoped was a
+smile.  "No, dear.  It's rather more complicated than that.  Well, I say
+complicated," she mused, scratching her belly absent-mindedly.  "What I really
+mean is---no, no, complicated is the best word."  She nodded in agreement with
+herself.  "Quite a good word, actually.  So, now a bad time?"
+
+"Noxy?  Noxy, where are you?"  Indy's voice rang through the night, faint but
+clear.
+
+Noxy's heart sank.  "Uh oh."
+
+"Ah."  The troll made a face.  "Not the best time, then.  All right---tomorrow,
+perhaps?  Yes, tomorrow."  She nodded to herself again.  "Not here.  In the
+forest.  We're much less likely to be interrupted there, and this might take
+some time."  She smiled at Noxy again.  "See you then!"
+
+With three long-armed reaches, the troll pulled herself up to the top of the
+wall and disappeared over it with her two companions at her heels.  Noxy ran to
+the nearest arrowslit and looked through just in time to see them vanish into
+the night-dark trees below.
+
+She turned around and would have slumped down against the wall if she hadn't
+heard her mother calling, "Noxy?" again.  For a brief heartbeat she yearned for
+that distant time, three days before, when she actually felt bored.  Then she
+took a deep breath and started down the stairs.  Going across the square and
+through Stale's darkened streets would be faster than rooftopping, and she was
+pretty sure that she was in enough trouble already.

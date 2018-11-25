@@ -1381,32 +1381,32 @@ straight as any soldier's, she marched past the sergeant and the tiger's boy.
 Noxy hurryied to keep up with, wondering if her mother had always been this
 brave and if every sword was as heavy and awkward as the one she was carrying.
 
-Noxy had a dream that night.  She often had dreams, or told herself stories in
+*Noxy had a dream that night.  She often had dreams, or told herself stories in
 her head while she was waiting to fall asleep that as often as not turned into
 dreams.  Sometimes, when her stories were particularly exciting, she'd mutter
 bits of dialog out loud until her mother said, "Who are you talking to?"  and
 Noxy would say, "No one," and roll over and pull the blanket up under her chin
 and close her eyes and carry on saving the prince from the magician or the
-magician from the prince or both of them from an avalanche.
+magician from the prince or both of them from an avalanche.*
 
-But that night's dream wasn't one of those.  She didn't swoop down at the last
+*But that night's dream wasn't one of those.  She didn't swoop down at the last
 moment on a cloud moments ahead of a roaring wave of snow.  She didn't do battle
 with an angry pack of lightnings armed only with her courage and a magic sword
-while Rash and Sensy and the rest of the village cheered her on.
+while Rash and Sensy and the rest of the village cheered her on.*
 
-No, this dream wasn't one of those. This one was troubled and strange.  The
+*No, this dream wasn't one of those. This one was troubled and strange.  The
 tiger was in it, as large as a house.  The crows were in it too, but they were
 skeletons decorated with feathers like the toys children made for All Ghosts'
 Night and they were pecking chunks out of the people around her who were slowly
-losing shape like weary clouds.
+losing shape like weary clouds.*
 
-Standing in the middle of everything was the troll she had seen that morning
+*Standing in the middle of everything was the troll she had seen that morning
 with same silver-shot fur and the long scar on her leg.  Her eyes were as deep
 as the shadows in the forest where the last of the winter snow could lie
 unmelted until midsummer.  She waited patiently until the last of the crows had
-flown away and then raised a hand in greeting.
+flown away and then raised a hand in greeting.*
 
-Heart pounding, Noxy raised her own, and woke.  She lay in bed and listened to
+*Heart pounding, Noxy raised her own, and woke.* She lay in bed and listened to
 the windchimes outside her window and the soft, rhythmic snuffle of her mother
 snoring in the room below her.  Once her pulse slowed, she fumbled among the
 lifetime of odds and ends on top of the two-drawer dresser beside her bed.  Her
@@ -3216,13 +3216,14 @@ the roof and hurried away, not caring if she fell as long as she put as much
 distance as she could between herself and her best friends.
 
 A few minutes later she found herself in the Round Tower staring out at the
-moonlit forest and mountains.  She and Sensy had covered a block of stone with a
-bit of gray canvas to make a pretend cloud years ago.  It was still there,
-streaked with bat guano and a circle of thimbleberry juice that some younger
-children had carefully daubed on for a make-believe of their own.  It wasn't
-comfortable, and the night air was cold, and she had absolutely no idea why she
-was there.  If Sensy and Rash were happy, she should be happy for them.  That
-would be the grownup thing to do, wouldn't it?
+moonlit forest and mountains, half wishing the ghost that was supposed to haunt
+the tower would show up and give her someone to talk to.  She and Sensy had
+covered a block of stone with a bit of gray canvas to make a pretend cloud years
+ago.  It was still there, streaked with bat guano and a circle of thimbleberry
+juice that some younger children had carefully daubed on for a make-believe of
+their own.  It wasn't comfortable, and the night air was cold, and she had
+absolutely no idea why she was there.  If Sensy and Rash were happy, she should
+be happy for them.  That would be the grownup thing to do, wouldn't it?
 
 She stood, sighed, and froze at the sound of voices below her.  Cautiously, she
 slipped over to the nearest arrowslit and peeked through.  Nothing.  She pulled
@@ -3276,10 +3277,9 @@ clear.
 
 Noxy's heart sank.  "Uh oh."
 
-"Ah."  The troll made a face.  "Not the best time, then.  All right---tomorrow,
-perhaps?  Yes, tomorrow."  She nodded to herself again.  "Not here.  In the
-forest.  We're much less likely to be interrupted there, and this might take
-some time."  She smiled at Noxy again.  "See you then!"
+"Ah."  The troll made a face.  "Not the best time, then.  All right---later,
+perhaps?"  She nodded to herself again.  "Yes, later.  In the forest.  We're
+much less likely to be interrupted there."  She smiled again.  "Sweet dreams!"
 
 With three long-armed reaches, the troll pulled herself up to the top of the
 wall and disappeared over it with her two companions at her heels.  Noxy ran to
@@ -3287,8 +3287,122 @@ the nearest arrowslit and looked through just in time to see them vanish into
 the night-dark trees below.
 
 She turned around and would have slumped down against the wall if she hadn't
-heard her mother calling, "Noxy?" again.  For a brief heartbeat she yearned for
-that distant time, three days before, when she actually felt bored.  Then she
-took a deep breath and started down the stairs.  Going across the square and
-through Stale's darkened streets would be faster than rooftopping, and she was
-pretty sure that she was in enough trouble already.
+heard her mother calling, "Noxy?" again.  For a brief heartbeat she wished her
+life would go back to being boring.  Then she took a deep breath and started
+down the stairs.  She was pretty sure that she was in enough trouble already
+without her mother discovering that she had been rooftopping.
+
+But her mother already knew that she had been sneaking out at night---names of
+the saints, she wasn't deaf *yet*.  And anyway, she and her friends had done the
+same things when they were her age, but not when there were soldiers in the
+village.  What had she been thinking?
+
+"Did you and *adda* do it?" Noxy asked, avoiding her mother's question.
+
+Indy scraped the last scraps of dinner into the goofs' bucket off a plate and
+set it on the stack beside their little pottery sink before answering.  "A few
+times.  Then Aft had a fall chasing your *adda* and Gas put his foot down and
+anyway, that's not the point.  Here."  She poured the last of the hot water from
+the kettle into the sink and held out a knotted rag.  "No, don't tell me it's
+not your turn---just be grateful you're not grounded for a week.  I'll see you
+in the morning."
+
+Noxy set the rag on the edge of the sink and started rolling up her sleeves.
+"*Amma*?"
+
+"Yes, sweetling?"
+
+"Why was Aft chasing *adda*?"
+
+Indy hesitated.  For a heartbeat Noxy thought she wasn't going to answer, but
+then she said, "Because he asked me to go to the fancy with him and I said yes."
+When her daughter turned and looked at she sighed.  "Aft was going to ask me,
+but when Cough found out he did it first.  It was all very dramatic."
+
+"Rash is taking Sensy this year," Noxy blurted.  She turned to the sink and
+plunged her hands into the water.  A moment later her mother's arms went around
+her.  Noxy tried half-heartedly to wriggle free from the hug, then sagged and
+turned around so that she could bury her face in her mother's shoulder and cry.
+
+A few minutes later, with the dishes drying in the fold-up cedar rack Grappa Gas
+had whittled for them, Noxy trudged upstairs for the second time that night.
+Leaving her shirt and pants on the floor, she slid under her blankets in her
+underwear with her socks still on and closed her eyes.  *You'd better not be in
+my dreams,* she thought fiercely, thinking about the troll.  She pulled the
+blankets tighter around her shoulders and let the world slip away.
+
+*She stood on the edge of the forest.  Not the shallow forest near the village
+that allowed people to come and go with their roads and axes, but the deep
+forest with its giant firs and twisted pines, with lakes that human beings had
+only ever seen from above and scattered ruins from Pilot times, arches and
+pillars of dark, seamless stone and an entire bridge made of dayglass hidden in
+permanent shadow.  She stood on the edge and waited for the troll to appear.*
+
+*"Hello, dear."  The troll didn't arrive---between one moment and the next she
+was just there, shoulder to shoulder with Noxy, gazing fondly at the greenery in
+front of them.*
+
+*Noxy waited for her to speak again.  She'd learned that watching Granna Fee
+bargain with pack traders---you always let the other person make the first
+offer.  The moment stretched and stretched, until finally Noxy said, "So?
+You're the one who wanted to talk."*
+
+*The troll turned her head to study her.  "Yes I am.  I'm also old enough to
+remember when cloudherds had better manners."*
+
+*Noxy crossed her dream-arms.  "Well, a lot's going on right now,"* she said
+defensively.
+
+*The troll wrinkled her nose.  "None of that matters.  Princes and soldiers and
+their wars---they're just passing storms.  The forest was here before them, and
+it will here long after they're forgotten."*
+
+*Noxy frowned.  "I thought __you__ were the forest."*
+
+*"No, dear.  As I said, it's rather more complicated than that."  She turned her
+gaze back on the forest.  "See?"*
+
+*At first Noxy didn't understand what the troll was pointing at, but then she
+saw it. A darkness deeper than shadows lay in pools beneath some of the trees,
+unnoticeable when she looked straight at it but lurking in the corner of her eye
+whenever she looked at something else.*
+
+*"The forest has been having dreams," the troll said quietly.  "Dreams about the
+future, bad ones.  It's worried.  No, that's not the right word."  She thought
+for a second.  "It's frightened, and in all my years, I've never felt it be
+frightened beore."*
+
+*Noxy swallowed drily.  Why couldn't she have dreams about fluffy clouds and
+endless cups of hot cholate?  "So what do you want me to do?"*
+
+*The troll wrinkled her nose again.  "Nothing, yet."  She turned her head and
+smile at Noxy.  "As you said, you have a lot going on right now."  Her
+expression became serious again.  "But if you were so minded, you could try
+listening."*
+
+*Before Noxy could ask what she meant, she was gone.  In her place stood a mound
+of stones inscribed in an alphabet Noxy had never seen before.  They were
+stories, she knew, in the way that things in dreams are sometimes just known,
+stories of the troll's long life and adventures.  If she picked one up she would
+be able to read it, but the thought made her afraid, so she turned to leave,
+except the forest was all around her now, just out of reach in every direction,
+and no matter which way she looked, the dark shadows pooled beneath the trees
+were coming closer.*
+
+"Noxy!  Noxy!"  She sat bolt upright in bed.  Her mother wrapped her arms around
+her.  "Sh, sh, sh," she soothed.  "You were having a bad dream."  She squeezed
+her daughter gently.  "You're all right.  You're all right."
+
+Noxy let out a long shuddering breath and hugged her mother back, then pushed
+her away and wiped her nose on the shoulder of her undershirt.  "Eww," Indy said
+in mock disgust.  Noxy laughed shakily.
+
+"Here." Her mother opened the little dayglass lamp on Noxy's dresser.  A dull
+gleam spilled out.  "Is that good enough?  I could get the one from my room."
+
+"That's fine, *amma*," Noxy said. She must have forgotten to set it out to
+recharge that morning, she realized.  She'd have to remember to do that in the
+morning.  She mumbled something incoherent as her mother kissed her forehead and
+closed her eyes.  A few heartbeats later, she was snoring softly.  A few
+heartbeats after that, her worried mother closed her door and made her way
+quietly back downstairs.

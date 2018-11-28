@@ -152,9 +152,9 @@ Grunting and cursing, they somehow managed to get the last soldier up onto Big
 Blue's back.
 
 "You idiot!" Grappa Gas yelled as the soldier stood up shakiliy.  "You
-saints-be-damned *idiot*!  They woulda peeled you like an apple!  What was so
-damned important that you couldn't just leave it?"  He kicked one of the bundles
-at his feet.  "Eh?  What was so---urp!"
+saints-be-damned *idiot*!  They would have peeled you like an apple!  What was
+so damned important that you couldn't just leave it?"  He kicked one of the
+bundles at his feet.  "Eh?  What was so---urp!"
 
 In one smooth motion the soldier had rolled onto his feet and grabbed a handful
 of Grappa Gas's collar.  "With respect, honored, I'm grateful for the rescue,"
@@ -745,7 +745,7 @@ Noxy cleared her throat.  "I'm sorry about your friends," she said hesitantly.
 The young soldier and the tiger turned their heads to look at her in unison.
 The boy nodded.  "Thank you, honored," he said, his lowland accent burring his
 r's.  "And thank you for coming to our aid."  He put his chin back on his knees,
-and a moment later wiped his eyes with his sleeve.
+then wiped his eyes with his sleeve.
 
 Grappa Gas brought Big Blue down in front of the fortress gate where he had been
 contentedly whittling only an hour before.  Wearily, the soldiers up slid off
@@ -843,8 +843,8 @@ anyway.  No---with respect, Scholar-Candidate, these men are travelers, and
 injured, and more importantly, we need to lay their dead to rest before they
 ghost.  Sergeant---I'm sorry, I don't know your name?"
 
-"Dorbu, honored---Gandan's Eighteenth Dorbu" the sergeant replied, dipping his
-head respectfully.
+"Dorbu, honored---Gandan's Ninety-Eighth Dorbu" the sergeant replied, dipping
+his head respectfully.
 
 "Sergeant Dorbu," Indy continued in a how-it's-going-to-be voice that left no
 room for disagreement, "Do you promise that you and your men will take no action
@@ -2473,8 +2473,8 @@ Private Thokmay snorted.  "That seems a bit optimistic."
 
 Noxy bristled. "Well, where does *your* name come from??"
 
-"The orphanage gave it to me," he replied evenly.  "I'm officially Gandan's
-Twenty-Ninth Thokmay."
+"The orphanage gave it to me," he replied evenly.  "I'm officially Gandan's One
+Hundred and Second Thokmay."
 
 As Noxy was trying to think of something to say to that, Thokmay leaned through
 an archery slit and pointed into the gorge below.  "Are those the clouds we were
@@ -2773,15 +2773,22 @@ it than that.
 Aft straightened up.  "Here they come," he grunted.  First the tiger, with
 Private Thokmay hurrying to keep up, his battle mask in place.  Then the three
 soldiers who had gone with Sergeant Dorbu.  Then Noxy's mother and Sergeant
-Dorbu and a light-skinned woman in a spotless unifmr who was almost as wide as
+Dorbu and a light-skinned woman in a spotless uniform who was almost as wide as
 she was tall, all three of them wearing expressions that would have frozen a cup
-of tea in a heartbeat.  Behind them Scholar-Candidate Nangyal hurried to keep
-pace with Rancid's *tralpa* in her robes and collar, barefoot despite the cold,
-who nodded at Nangyal's stream of complaints while ignoring them.  And behind
-them, three more soldiers, their uniforms so clean they almost sparkled, and---
+of tea solid.
 
-Noxy's heart dropped into her stomach.  "Saints," Aft cursed.  "As if things
-weren't bad enough."
+Behind them Scholar-Candidate Nangyal hurried to keep pace with Rancid's
+*tralpa* in her robes and collar, barefoot despite the cold, who nodded at
+Nangyal's stream of complaints while ignoring them.  A dark shape with short,
+broad wings circled overhead before veering off toward the nearest trees.  That
+had to be the *tralpa*'s companion, Noxy realized, an arrowhawk that was
+supposed to be Gifted, but which no one had ever heard speak.
+
+Taking up the rear were three soldiers Noxy hadn't seen before, their uniforms
+so clean they almost sparkled.  And last of all---her heart dropped into her
+stomach.
+
+"Saints," Aft cursed.  "As if things weren't bad enough."
 
 Noxy stepped aside as the unhappy little parade passed through the ancient stone
 walls of the fortress.  Private Thokmay nodded but didn't say anything.  Her
@@ -2810,8 +2817,9 @@ pointedly added, "Been in the king's service eighteen years, hope to serve as
 many again."  Rancid's *tralpa* was Lhawang; Noxy had seen her before when her
 mother or grandmother had taken her to Rancid to spend some time with her father
 before she worked up the courage to tell them that she would really rather not.
-Nangyal sat beside her with an expression so stern and self-important that Noxy
-wanted to ask him if he needed to visit the outhouse.
+The Scholar's arrowhawk companion was nowhere to be seen, but Nangyal sat beside
+her with an expression so stern and self-important that Noxy wanted to ask him
+if he needed to visit the outhouse.
 
 Sergeant Dorbu and Kulbinder took up the third side of the table.  "Give her a
 hand," the tiger ordered Private Thokmay when Indy told Noxy to make tea.
@@ -3400,9 +3408,58 @@ in mock disgust.  Noxy laughed shakily.
 "Here." Her mother opened the little dayglass lamp on Noxy's dresser.  A dull
 gleam spilled out.  "Is that good enough?  I could get the one from my room."
 
-"That's fine, *amma*," Noxy said. She must have forgotten to set it out to
-recharge that morning, she realized.  She'd have to remember to do that in the
-morning.  She mumbled something incoherent as her mother kissed her forehead and
-closed her eyes.  A few heartbeats later, she was snoring softly.  A few
-heartbeats after that, her worried mother closed her door and made her way
-quietly back downstairs.
+"That's fine, *amma*," Noxy said. *I must have forgotten to set it out to
+recharge this morning,* she thought muzzily.  *I'll have to remember to do that
+in the morning.* She mumbled something incoherent as her mother kissed her
+forehead and closed her eyes.  A few heartbeats later, she was snoring softly.
+A few heartbeats after that, her mother closed her door and made her way quietly
+downstairs to sit with a cold cup of tea and worry.
+
+*Far away, a small packet of letters wrapped in wax paper continued its journey
+south.  An otter stood on her hind legs for a moment to watch it pass, wondering
+in her curious otter mind if it was food or maybe something she could play with
+until the crack of a twig under the foot of something large enough that it might
+eat otters sent her scurrying back into the log where she nested.  The packet
+floated on.*
+
+Greensday dawned bright and clear.  Only the keenest of eyes could have seen the
+faint gray line of a passing school of stratocumulus clouds far to the north,
+but Noxy's eyes felt anything but keen.  They felt like dirty dishrags, she
+decided grumpily, staring into her oatmeal.  And her mouth tasted like the
+bottom of a pond.
+
+Indy was already gone.  "I'm just going to check on everything," she had said
+after shaking Noxy gently until her daughter grunted at her to stop being so
+mean.  "Come find me when you're awake."
+
+Once Noxy started eating, she realized she was ravenous.  She shovelled the
+whole bowl of oatmeal into her mouth, then ate the last of the rice from two
+nights earlier without bothering to heat it up.  After scrubbing her face with a
+damp cloth and re-fixing a couple of braids that were starting to come loose,
+she remembered that her lamp needed recharging and went back upstairs to set it
+on her windowsill.  On her way out, she picked her favorite scarf up off the
+floor and wrapped it around her neck as she went downstairs and banged the door
+behind her.
+
+She could feel the tension as she walked down the narrow street to the square.
+People sat in twos and threes outside their houses, just like they did every
+morning that was warm enough to allow it, but today they spoke in lowered
+voices.  The men's knitting sat forgotten in their laps.  The women wound
+spiderwebs onto spool with an urgency that hadn't been there the day before.
+She said hello to a few, and they all said hello back, but no one smiled.
+
+Wings flapped overhead.  A heartbeat later, a dark shape settled on a trellis
+festooned with blackberry brambles, newly-green after the gray-brown of winter.
+Scholar Lhawang's arrowhawk tilted its head to regard her with one bright
+unblinking eye.
+
+"Um, hi," Noxy said weakly.  "Can I help you?"
+
+The arrowhawk shuffled a couple of steps, its claws digging deep into the old
+cedar spars of the trellis.  Without warning it snapped its wings open and took
+flight.
+
+"I guess not," Noxy muttered.  She wondered if the arrowhawk had met Kulbinder
+yet, or the condors that nested in the cloudpen, or the troll who had spoken to
+her last night.  She stopped short at the thought, suddenly remembering her
+dream, and swallowed drily.

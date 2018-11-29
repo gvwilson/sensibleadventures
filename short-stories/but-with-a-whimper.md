@@ -5,7 +5,7 @@ permalink: /but-with-a-whimper/
 ---
 
 <div align="center" markdown="1">
-![On Spec Fall 2007]({{ site.root }}/files/on-spec-fall-2007.jpg)
+![On Spec Fall 2007](../short-stories/on-spec-fall-2007.jpg)
 <br/>
 First published in *On Spec* 19/3, Fall 2007.
 </div>

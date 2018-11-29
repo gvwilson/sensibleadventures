@@ -5,7 +5,7 @@ permalink: /controlled-release/
 ---
 
 <div align="center" markdown="1">
-![On Spec Winter 2007]({{ site.root }}/files/on-spec-winter-2007.jpg)
+![On Spec Winter 2007](../short-stories/on-spec-winter-2007.jpg)
 <br/>
 First published in *On Spec* 19/4, Winter 2007.
 </div>

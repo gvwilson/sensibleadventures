@@ -1,42 +1,44 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="{{ site.root }}/">Books</a>
+      <a class="navbar-brand" href="{{site.github.url}}/">Home</a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-          <a href="{{ site.root }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Short Stories <span class="caret"></span></a>
+          <a href="{{site.github.url}}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Published Shorts <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ site.root}}/but-with-a-whimper/">...But With a Whimper</a></li>
-            <li><a href="{{ site.root }}/controlled-release/">Controlled Release</a></li>
-            <li><a href="{{ site.root }}/still-short/">Still</a></li>
-            <li><a href="{{ site.root }}/fall-behind/">And Should I Fall Behind</a></li>
+            <li><a href="{{site.github.url}}/but-with-a-whimper/">...But With a Whimper</a></li>
+            <li><a href="{{site.github.url}}/controlled-release/">Controlled Release</a></li>
+            <li><a href="{{site.github.url}}/still-short/">Still</a></li>
           </ul>
         <li class="dropdown">
-          <a href="{{ site.root }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">In Progress <span class="caret"></span></a>
+          <a href="{{site.github.url}}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Books In Progress <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ site.root }}/beneath-coriandel/">Beneath Coriandel</a></li>
-            <li><a href="{{ site.root }}/madica/">Madica</a></li>
-            <li><a href="{{ site.root }}/six-letters/">Six Letters (None Complete)</a></li>
-	    <li><a href="{{ site.root }}/short/princess-frog/">The Princess and the Frog</a></li>
-	    <li><a href="{{ site.root }}/short/full-of-stars/">Full of Stars</a></li>
+            <li><a href="{{site.github.url}}/beneath-coriandel/">Beneath Coriandel</a></li>
+            <li><a href="{{site.github.url}}/madica/">Madica</a></li>
+            <li><a href="{{site.github.url}}/booksters-apprentice/">The Bookster's Apprentice</a></li>
+            <li><a href="{{site.github.url}}/cloudherd-tigers-boy/">The Cloudherd and the Tiger's Boy</a></li>
+          </ul>
+	</li>
+        <li class="dropdown">
+          <a href="{{site.github.url}}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Shorts In Progress <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{site.github.url}}/fall-behind/">And Should I Fall Behind</a></li>
+            <li><a href="{{site.github.url}}/six-letters/">Six Letters (None Complete)</a></li>
+	    <li><a href="{{site.github.url}}/short/princess-frog/">The Princess and the Frog</a></li>
+	    <li><a href="{{site.github.url}}/short/full-of-stars/">Full of Stars</a></li>
           </ul>
 	</li>
         </li>
         <li class="dropdown">
-          <a href="{{ site.root }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unavailable <span class="caret"></span></a>
+          <a href="{{site.github.url}}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unavailable <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ site.root }}/three-sensible-adventures/">Three Sensible Adventures</a></li>
-            <li><a href="{{ site.root }}/bottle-of-light/">Bottle of Light</a></li>
+            <li><a href="{{site.github.url}}/3sa/">Three Sensible Adventures</a></li>
+            <li><a href="{{site.github.url}}/bottle-of-light/">Bottle of Light</a></li>
           </ul>
 	</li>
       </ul>
-      <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
-        <div class="form-group">
-          <input type="text" id="google-search" placeholder="Search...">
-        </div>
-      </form>
     </div>
   </div>
 </nav>

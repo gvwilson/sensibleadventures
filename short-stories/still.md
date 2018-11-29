@@ -5,7 +5,7 @@ permalink: /still-short/
 ---
 
 <div align="center" markdown="1">
-![On Spec Summer 2010]({{ site.root }}/files/on-spec-summer-2010.png)
+![On Spec Summer 2010](../short-stories/on-spec-summer-2010.png)
 <br/>
 First published in *On Spec* 22/2, Summer 2010.
 </div>

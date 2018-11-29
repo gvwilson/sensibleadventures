@@ -255,7 +255,7 @@ Erileine hesitated.  "What's wrong?" Vurt asked.
 Her grandfather's mouth twisted.  "I don't know, love.  Never have.
 Now come on---your maere will be fretting herself sick."
 
------
+---
 
 *A few hours earlier…*
 
@@ -531,7 +531,7 @@ Niquolas hurrying along behind him.
 Erileine's heart sank.  She knew that look and that whistle.  They
 meant that Fraederiq had a plan, and that was *never* good news.
 
------
+---
 
 Erileine spent the rest of the morning mending the bamboo fence that
 kept the rabbits out of her family's vegetable garden.  When Vaszlav
@@ -787,7 +787,7 @@ And without warning, the mountain lurched beneath them.  Fraederiq
 stumbled and fell to one knee.  Erileine yanked herself away and
 started to run.
 
------
+---
 
 Erileine and her grandfather climbed the steps to the bottom of Slip
 Street in silence.  By the time they reached Mamaere Mayeule's, half
@@ -1002,7 +1002,7 @@ nothing, past the last rogue cloud blown far from its herd, and out
 into the void that separated Cherne from the stars?  She shivered.
 The world suddenly seemed very small.
 
------
+---
 
 Queçenne burst into tears when her mother told her what had happened
 to Fraederiq.  "You'd best go up to your lessons," Laeuc told his
@@ -1171,7 +1171,7 @@ they had raced the rest of the way.
 
 She wiped her eyes on her sleeve and set off for home.
 
------
+---
 
 Three generations sat at the varnished pine table that Laeuc had made
 his wife as a wedding present eighteen years before.  Steam rose
@@ -1317,7 +1317,7 @@ Instead, it glittered a double handspan to the left.  Wishing there
 was still stew in the pot she was carrying to keep her hands warm, she
 hurried toward home once more.
 
------
+---
 
 The next day dawned clear and cold.  Most days did on Avaunt.  Except
 during storms, the only clouds that flew higher than the mountain were
@@ -1414,7 +1414,7 @@ lives that haven't been lived yet.  That will be my thanks to those I
 loved, and to the world that gave me the life."
 
 Around him, the people of Starboard Town bowed their heads and
-murmured, "That will be my gift." In twos and threes and families,
+murmured, "That will be my thanks." In twos and threes and families,
 they turned toward home, leaving Gaeston to tend his son's last fire.
 
 Laeuc put his hand on Erileine's shoulder and squeezed.  "Come on."
@@ -1839,7 +1839,7 @@ She woke with a small cry.  Dizzy with sweat, she groped for her
 light, then shone it on the ceiling, dim but comforting, and waited
 for dawn.
 
------
+---
 
 Starboard Town woke to discover that the mountain had sped up during
 the night.  The steady half-gallop-an-hour breeze of its passage had
@@ -1958,7 +1958,7 @@ They stopped to rest when the road leveled off.  Erileine turned and
 looked back the way they had come.  All he could see of Starboard Town
 was the roof of the Captain's House and a few household kites.  In the
 distance, a herd of clouds was raining on the plains below.  *At least
-_they_ have water*, Erileine thought.
+__they__ have water*, Erileine thought.
 
 "Do you think they know?" she asked no one in particular.  "Down
 below, I mean.  That we're off course?"
@@ -2290,7 +2290,7 @@ don't feel as charitable toward them as you do."
 circumspect in future." Which was not, Erileine thought, the same
 thing as saying that he'd stop talking about it.
 
------
+---
 
 Erileine's legs were aching by the time they crested the spur of rock
 called the Cripple's Shoulder to find Forecastle spread out below
@@ -2557,7 +2557,7 @@ No, a moment, there's---no, no, that's all.  Thank you, bosun." He
 stood and nodded.  "Now, you said you wanted to speak to the captain?
 Yes?  Good.  He should be upstairs.  You know the way?"
 
------
+---
 
 The captain was indeed upstairs---three flights of granite stairs worn
 smooth by a slow waterfall of feet.  The polished bamboo handrail
@@ -2858,7 +2858,7 @@ wanted him to send word as soon as he arrived."
 "*La*, then if I may excuse myself?  Thank you.  *Sra* Klaues, good
 afternoon.  Come, Erileine.  Let us say hello to our young magician."
 
------
+---
 
 *Once upon a time, a captain of Avaunt fell in love with a young man
 from Aft Landing.  She was twenty years his senior, but when they
@@ -3184,7 +3184,7 @@ He let go of Erileine's arm.  "Now, let us find your father.  Half the
 mountain is here today, and if we do not claim beds for ourselves
 soon, *la*, we will have to perch upstairs with the birds."
 
------
+---
 
 Like people everywhere, the Avauntois preferred the company of their
 own kind. Starboard Towners tended to stay at the Green Pig when they
@@ -3458,7 +3458,7 @@ Razi and Klaues disappeared into an alley.  Erileine swallowed the
 ache in her throat and joined the stream of people---no longer a
 mob---hurrying back to their lives.
 
------
+---
 
 The mood on Forecastle's streets the next morning was stretched as
 taut as a violin string.  People kept their heads down and spoke in
@@ -3999,7 +3999,7 @@ souls, or magicians who were wrongly imprisoned for necromancy, only
 to be saved (or doomed) when a king in waiting fell in love with them.
 She weighed them in her hands, then put the tract back where she had
 found it.  Her mother and Queçenne would prefer the stories, she told
-herself, not admitting to herself that she'd enjoy them too.
+herself, not admitting that she'd enjoy them too.
 
 "Three rings," the bookseller said when Erileine asked its price.
 
@@ -4109,7 +4109,7 @@ He and Thomas stumbled down the gangplank like drunkards, the bottle
 slung from Razi's belt making the picture complete.  As they reached
 the dock, the bookster tripped over his own feet and collapsed.
 
------
+---
 
 "He's half-empty," Nuu Ciy said matter-of-factly, washing her hands in
 a basin of soapy water.  "And if it had been a thumb to the left, he'd
@@ -4226,7 +4226,7 @@ her own in the biggest town on the mountain with a string of coins in
 her pocket.  This time, though, the sky was dark, and her teacher was
 unconscious with twenty-two fresh stitches in his side.  She supposed
 she should go back to the Three Rabbits, but the thought of lying
-alone in her room was unbearable.  Maybe he should go to Uncle Regi's
+alone in her room was unbearable.  Maybe she should go to Uncle Regi's
 instead, if she could figure out how to get there.
 
 "Well, then." Erileine turned as Thomas ambled down the steps.  "Quite
@@ -4321,7 +4321,7 @@ her help, and she had just *stood* there.
 
 Sleep was a long time coming.
 
------
+---
 
 The old woman shook Erileine awake.  "What?  What?" Erileine demanded
 muzzily.  The little piece of dayglass had long since gone dull, but
@@ -4448,7 +4448,7 @@ The room trembled slightly.  Erileine clutched the bedframe wide-eyed.
 
 "Another…?  *Ye mashe aue*, we're berthing?" At Erileine's nod the
 bookster tried once more to sit up.  Erileine rushed forward to help
-him, but the bookster fell back again before he could.
+him, but the bookster fell back again before she could.
 
 "Go," Razi said, reaching for the leather belt and sword-hilted bottle
 that someone had carefully stowed under the table beside his bed.
@@ -4564,7 +4564,7 @@ window, along with everyone else in the room.  Miraculously, it held.
 She stood up, her face pressed against the glass.  The mountain had
 stopped.  They had berthed.
 
------
+---
 
 Chaos ruled Forecastle.  Children and adults alike cried out in
 terror.  Bosun's mates bawled for order as the militiamen in Mapmarket
@@ -4740,7 +4740,7 @@ like they do in stories?* she thought bitterly.
 The balcony door opened above her.  The thief stepped out with Razi's
 bag in his arms.  "Can you catch?" he asked.
 
------
+---
 
 This time the guards at the Hardeck's doors waved Erileine through.
 Inside, the confusion had ripened into a more purposeful kind of
@@ -4969,7 +4969,7 @@ ink on linen once more.  "Should I put it away?"
 Razi shook his head.  "I will do it.  Though *la*, I am sure we will
 need it again soon."
 
------
+---
 
 Erileine was asleep in the chair beside Razi's bed when the infirmary
 door flew open.  The captain strode in with two guardsmen behind him.
@@ -5307,7 +5307,7 @@ where one bad stumble would mean a long slide down a steep, stony
 hill, followed by an even longer drop---but she had lost the toy
 dragon Papaere Vurt had made for her out of a few scraps of leather,
 and Niquolas had joined Fraederiq in taunting her about it, and she
-just wanted to get as far away from everyone as he could.
+just wanted to get as far away from everyone as she could.
 
 She stayed in the pasture, watching the goats and muttering angrily at
 the empty air, until her stomach started to rumble.  As she walked
@@ -5524,7 +5524,7 @@ The candle flame disappeared.  Even as she thought, *I should put all
 of this stuff away*, she rolled onto her side and fell into a deep,
 dreamless sleep.
 
------
+---
 
 *Years later, a young Ruudian bookster named Leif's Unruh decided to
 make that day the subject of the formal debate the university required
@@ -5590,7 +5590,7 @@ and abuse.*
 
 *But that was later…*
 
------
+---
 
 The first thing Erileine thought when she woke up was, *I need a night
 jar.* The second was, *Something stinks,* and the third, *Where am I?*
@@ -5905,7 +5905,7 @@ to get going."
 Erileine.  Erileine sat disconsolately and listened to the pages
 turning slowly behind the counter.
 
------
+---
 
 In the end, Razi had to wake Erileine from an uncomfortable doze.
 "It's time," he said softly, shaking her shoulder.
@@ -5932,13 +5932,13 @@ them forward.
 
 Sweet Icicle Street took its name from the shops at its upper end,
 which Erileine could just make out in the gathering twilight.  Twice a
-week, on Redsday and Greensday, Forecastle's icicleers climbed up the
-shoulder of the mountain overlooking the city.  There, near the peak,
-they scraped hard-packed snow into their buckets, packing it down
-under layers of wood chips.  After sleeping for a few hours wrapped up
-in goat-skin rugs to stay warm, they hiked back down to town, where
-they added drops of lemon, blueberry juice, mango, and other
-carefully-measured flavorings to the ice.
+week, Forecastle's icicleers climbed up the shoulder of the mountain
+overlooking the city.  There, near the peak, they scraped hard-packed
+snow into their buckets, packing it down under layers of wood chips.
+After sleeping for a few hours wrapped up in goat-skin rugs to stay
+warm, they hiked back down to town, where they added drops of lemon,
+blueberry juice, mango, and other carefully-measured flavorings to the
+ice.
 
 The icicleers were famous for their clannishness and contrariness.
 You couldn't have a wedding in Forecastle without tubs of flavored
@@ -6214,7 +6214,7 @@ her fingers.  She had to make sure she kept her hand strong.  She'd
 never be able to use it properly if she didn't, and if she couldn't
 use it properly, she wouldn't be able to help her grandfather.
 
------
+---
 
 It took them a day and a half to reach Starboard Town---a day and a
 half of not knowing what was happening there, or in Forecastle, or
@@ -6412,7 +6412,7 @@ thanks."  Standing, he nodded to Erileine.  "Say hello to your
 papaere, will you?  He was always a decent fellow." With no more
 goodbye than that, he turned and walked away.
 
------
+---
 
 The goats in the pasture above Starboard Town watched the trio pass
 from the security of their fenced-in enclosure, as indifferent to the
@@ -6566,7 +6566,7 @@ always does."
 As quietly as she could, Erileine opened her door once more, lay down
 on her bed, and was instantly asleep.
 
------
+---
 
 Erileine woke to a gentle, irregular tapping sound, like pebbles
 clattering in a sieve. She slipped on her trousers and shirt, threw
@@ -6660,7 +6660,7 @@ onto a cart, but it was all books, everything, piles of them, endless
 lists of verbs flying after each other like tiny birds… Her eyes
 closed again.
 
------
+---
 
 As Starboard Town's last morning of freedom dawned, the bosun was
 downing a mug of the strongest tea he had ever had.  He and Vurt were
@@ -7000,7 +7000,7 @@ shouldn't, and this will all become something that has already
 happened.  In ten years, people will have to be reminded that it has
 been ten years."
 
------
+---
 
 "Where in the saints' names have you been?" Laeuc demanded when
 Erileine finally arrived home.  The whole family was at the table,
@@ -7255,7 +7255,7 @@ there."
 "I know." This time it was Erileine who paused.  "I think…  I don't
 think I really did it for him, though."
 
-She heard a rustle as Piaerre rolled onto her stomach.  "So who'd you
+She heard a rustle as Piaerre rolled onto his stomach.  "So who'd you
 do it for?"
 
 Erileine swallowed.  If she'd been able to see him, she would have
@@ -7297,7 +7297,7 @@ She waited until she heard him snoring again.  "Hello?" she repeated.
 «Erileine…» The itch ebbed and vanished.  After a long moment, she lay
 down once more.
 
------
+---
 
 Noise from the street woke her a few hours later.  Something creaked,
 and then there was a sound like wood snapping.  A muffled curse
@@ -7318,7 +7318,7 @@ parents or her grandfather and tell them?  *They won't be able to do
 anything,* she told herself despairingly.  With an unexpected ache in
 her chest, she slid back into bed.
 
------
+---
 
 A heavy knock on the door woke her again just before dawn.  Erileine
 scraped the sleep out of her eyes and answered it.
@@ -7631,7 +7631,7 @@ how are we going to sneak them into town?"
 
 "Leave that to me," Piaerre said confidently.
 
------
+---
 
 Erileine offered to share her lunch with Piaerre at midday, but he
 declined.  "Mamaere Mayeule's expecting me," he said, tossing a last
@@ -7932,7 +7932,7 @@ were going straight up.
 
 "I think we may want to try a little earlier," Thomas said.
 
------
+---
 
 Mamaere Mayeule set out the best she had for dinner---spiced pork
 sausages, rice with fresh cauliflower, and a jar of mango chutney that
@@ -8039,7 +8039,7 @@ not the earth, but some speaking stone they found in it that was their
 king and oracle.  "It's 'Pilot Stone'," she corrected.  "Guide is just
 *urem*, not *uremme*." She flushed slightly at Thomas's sour look.
 
-"Pilot Stone, then.  They found in a mine.  It may even be why they
+"Pilot Stone, then.  They found it in a mine.  It may even be why they
 started mining in the first place---it spoke to them in their dreams.
 'The world is broken, free me and we will mend it…'"  He waved his
 words away.  "These old magics are always persuasive.  No offense
@@ -8101,7 +8101,7 @@ not much louder than a whisper. "After he remarried and we started
 fighting all the time.  He said a good captain needs to know the
 bilges as well as the captain's table." He sniffled. "And when Razi
 showed up and wanted to look at all the old stuff here, paere said all
-right, let's make a deal.  That's why he started teaching me stuff."
+right, let's make a deal.  That's why he started teaching me."
 His face crumpled.  "But now he's g-gone and I don't know what to
 *do*."
 
@@ -8230,7 +8230,7 @@ Having a chance to poke around that stone won't change that overnight,
 but at least it's *something*.  Now, who's coming?"
 
 It only took a minute to pick names.  Uyves, of course, but not Vurt,
-not through the tunnels one leg.  Laeuc would come---he didn't look at
+not through the tunnels on one leg.  Laeuc would come---he didn't look at
 Saedanne when he said it---and Gaeston and Mareille were the best
 archers in Starboard Town, and Armaend and Donaien as spearmen made
 six.  Thomas would get them as close to the peak as he could, then
@@ -8246,7 +8246,7 @@ can you get up to Donaien and Armaend's without being caught?"
 Erileine nodded.  The bosun looked around the table.  "Well then?
 Let's be on with it."
 
------
+---
 
 Unable to watch as her father say an awkward goodbye to her mother,
 Erileine bounded upstairs.  "Here," she said when she returned,
@@ -8599,7 +8599,7 @@ coat."
 
 "No he can't," Razi said, soft and sad.  "Not one like that."
 
------
+---
 
 "We traveled underground," the bookster told them as a stone-faced
 Thomas steered them through the night, his stilled jacket neatly
@@ -8840,7 +8840,7 @@ for Vurt to lunge forward and swing.
 Erileine looked at the three men lying dead on the stairs and threw
 up.
 
------
+---
 
 There was nothing for them to do after that but follow the fireflies.
 First one and then another flew away without hesitation, always
@@ -9254,4 +9254,4 @@ Erileine shrugged.  "Not any more."
 Anything she might have added was cut off as the ground lurched
 beneath them.  Slowly but inexorably, the mountain began to tip over.
 
-<p align="center"><em>Here ends the first part of The Fall of the Flying Mountain.</em></p>
+*Here ends the first part of The Fall of the Flying Mountain.*

@@ -4240,13 +4240,75 @@ Honesty demanded.
 
 "I---I'm fine," Iffy said shakily.
 
-"Good.  Please assist with damage repair."
+"Good."  Her visor closed with a click.  "Please assist with damage repair."
 
 "Wait!"  Iffy caught Honesty's arm as she turned to to.  "Who was that?  Who was
 attacking us?"
 
-"The drones appear to be Brazilian," Honesty reported impassively.  "Excuse
-me---I need to join my unit to repel boarders."
+"The drones appear to be Brazilian, citizen," Honesty reported impassively.
+"Now excuse me---I need to join my unit to repel boarders."
 
 "To what?"  And then the *Guinevere*'s horn blared again as something that
-looked like a cloudy jellyfish pulled itself onto deck and began to sizzle.
+looked like a cloudy jellyfish pulled itself over the railing and began to
+squelch its way toward them.
+
+Honesty's first three shots went straight through it to punch lethal little
+holes in the ship's deck.  "Stand back, citizen!" she ordered as she pulled a
+micro-grenade the size of her thumb out of the clip on her exoskeleton's sleeve
+and primed it.
+
+"No!" Wales shouted, running toward them.  He tackled Iffy just as the grenade
+hit the jellyfish and exploded.
+
+*BOOM!* The shock threw Iffy and Wales across the deck.  For a moment she lay in
+a daze while the world spun around her.
+
+Something grabbed her arm.  She shrieked, but it was Wales, not the jellyfish.
+"I can't hear you!" she yelled, her ears still ringing from the blast.  He
+pulled her to her feet.
+
+*There's a hole in the ship,* she thought muzzily.  It was right where the
+jellyfish had been, and big enough for her and Aunt Naggie to sit in.
+
+But where was Honesty?  She looked around wildly, then shrieked again as another
+plasma burst lanced the blue sky over her head.
+
+"Come on!" Wales said, his voice muffled but audible.  "We have to get out of
+here!"  He pulled her toward the stern.
+
+"No!"  She tried to shake him off, but his grip was too strong.  "What happened?
+Where'd she go?"
+
+Instead of answering, Wales picked her up and slung her over his shoulder like a
+sack of rice and charged.  She beat his parka with her fists, yelling at him to
+put her down, put her *down*, she had to find Honesty, but he paid no more
+attention to her than he did to the spray from the waves.
+
+Nothing was left of the gray tent the Marines had set up at the *Guinevere*'s
+stern except a few smoldering tatters of canvas.  Their plasma gun was a
+gleaming headless mantis surrounded by heavy cubical capacitors.  It snapped
+this way and that as its little core searched for targets to destroy.  The two
+Marines guarding it moved with the same unnatural insect jerkiness, firing
+occasionally when the even smaller cores built into their exoskeletons
+calculated that they had at least some chance of hitting something.
+
+"Citizen!  Seek shelter!" one of them bellowed, his voice amplified by his
+helmet.
+
+Wales skidded to a stop and dropped Iffy to the deck.  "For gubbins sake tell
+everyone to stop throwing grenades at them!" he pleaded.  "They're made of some
+kind of exothermic biomaterial---they're bombs!"
+
+Iffy grabbed his sleeve.  "Where's Honesty?" she demanded.  Her friend couldn't
+be dead---she just couldn't be.
+
+"I don't know," Wales said.  "I didn't see what she---'ware aft!"  He pulled her
+close and dropped to the deck, sheltering her with his body as something hauled
+itself over the stern railing.
+
+"N-n-no need for p-p-panic, citizen."  The Marine hauled herself onto the ship,
+icy water gushing out between the gaps between the armor plates of her
+exoskeleton.  Her visor snapped up.  It was Honesty!
+
+She looked blankly at Iffy and Wales, then at the two Marines beside the plasma
+gun.  "I require medical assistance," she said calmly, and then topped over.

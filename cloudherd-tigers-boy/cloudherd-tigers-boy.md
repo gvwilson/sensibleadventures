@@ -1,3 +1,11 @@
+---
+layout: narrow
+title: "The Cloudherd and the Tiger's Boy"
+dedication: "For Madeleine, who is taking me on the greatest journey of my life."
+author: "Greg Wilson"
+permalink: /cloudherd-tigers-boy/
+---
+
 ## Chapter 1
 
 *Consider Cherne.  A diamond adrift in the heavens, it measures eight thousand

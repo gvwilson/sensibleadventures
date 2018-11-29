@@ -1,4 +1,9 @@
-# Nardica<br>by Greg Wilson
+---
+layout: narrow
+title: "Nardica"
+author: "Greg Wilson"
+permalink: /nardica/
+---
 
 ## Chapter 1
 

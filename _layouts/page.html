@@ -16,6 +16,7 @@
       {% include navbar.html %}
       <h1 class="maintitle">{{ page.title }}</h1>
       {% if page.author %}<h2>{{ page.author }}</h2>{% endif %}
+      {% if page.dedication %}<p><em>{{ page.dedication }}</em></p>{% endif %}
 {{ content }}
       {% include footer.html %}
     </div>

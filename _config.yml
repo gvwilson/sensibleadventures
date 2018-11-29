@@ -6,3 +6,5 @@ repo: "https://github.com/gvwilson/sensibleadventures"
 repository: <USERNAME>/<PROJECT>
 exclude:
   - Makefile
+  - misc
+  

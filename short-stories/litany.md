@@ -1228,8 +1228,8 @@ There wasn't time to test any new code,
 so I convinced them to put some literature in,
 like the record on Voyager.
 I fiddled the inspection records so that everyone would think someone else had checked it.*
-The files appended to the message were 20th Century literary classics,
-but when George opened the files,
+The files appended to the message had the titles of 20th Century literary classics,
+but when George opened them,
 he laughed for the first time since his brother's death.
 Trolls and mermaids and four-armed green Martians,
 quests and dread empires and heroes armed with blasters

@@ -633,7 +633,7 @@ The old woman that stood---*
 a staff in its---*
 
 *---from a shadowed doorway in the wall behind them.
-The dust mask that obscured its face---
+The dust mask that obscured its face---*
 
 *---from a shadowed doorway behind them
 and drew aside the keffiyeh that obscured her face.

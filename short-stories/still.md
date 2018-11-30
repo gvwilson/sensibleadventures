@@ -1,6 +1,7 @@
 ---
 layout: narrow
 title: Still
+author: "Greg Wilson"
 permalink: /still-short/
 ---
 

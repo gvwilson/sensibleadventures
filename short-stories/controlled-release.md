@@ -1,6 +1,7 @@
 ---
 layout: narrow
 title: Controlled Release
+author: "Greg Wilson"
 permalink: /controlled-release/
 ---
 

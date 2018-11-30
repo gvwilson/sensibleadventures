@@ -1,6 +1,7 @@
 ---
 layout: narrow
 title: "...But With a Whimper"
+author: "Greg Wilson"
 permalink: /but-with-a-whimper/
 ---
 

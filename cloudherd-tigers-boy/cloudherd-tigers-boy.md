@@ -3469,5 +3469,68 @@ flight.
 
 "I guess not," Noxy muttered.  She wondered if the arrowhawk had met Kulbinder
 yet, or the condors that nested in the cloudpen, or the troll who had spoken to
-her last night.  She stopped short at the thought, suddenly remembering her
-dream, and swallowed drily.
+her last night.  She stopped short, suddenly remembering her dream, and
+swallowed drily.  She had to tell her mother---or Granna Fee, or *someone*.
+
+But fate had other plans.  As she entered the square, she saw a pair of rebel
+soldiers chatting by the village gate.  One of them made a joke.  The other
+laughed, but even from fifty strides away it sounded forced in Noxy's ears.  And
+there---just outside the gate.  Was that another pair of soldiers?  She glanced
+right and left.  Her heart sank.  Two more were sorting through a bag of
+blankets next the pepper garden as slowly as anyone possibly could, and three
+stood at the foot of the Round Tower, carefully not looking at the three
+royalist soldiers who stood ten strides away.  She couldn't see them, but she
+had no doubt that the rest of Sergeant Dorbu's men were in equally strategic
+positions.
+
+The door of the trading hall burst open.  Scholar Lhawang strode down the steps
+with Captain Birgith at his heels.  The three soldiers on the bench stood, their
+hands falling to the hilts of their sword, but the scholar and the captain
+ignored them.
+
+"Wait!"  Indy hurried to catch up with them.  "Please---I'm sure we can figure
+something out.  We just---"
+
+Scholar Lhawang spun around so abruptly that Stale's anxious reeve almost plowed
+into her.  "There is nothing left to figure out, honored," she said in a
+clipped, angry voice.  "We cannot allow them to rejoin the rebel army, which
+means we cannot allow them to leave, no matter what assurances they give us."
+
+"Then you leave me no choice," Sergeant Dorbu said.  He had followed Indy out of
+the trading hall, and now stood beside her, a pained expression on his face.
+"Please accept my apologies, captain, but I must ask you to surrender your
+sword."
+
+Captain Birgith looked him up and down.  "Like hell."
+
+For just one moment the world was so still that Noxy could hear the goofs
+grumbling at each other in their pens and a baby crying two streets over, and
+then everything happened very fast.  Sergeant Dorbu and Captain Birgith drew
+their swords.  The sergeant shoved Indy out of the way and parried the captain's
+first stroke.  A loud whistle pierced the morning air.  Metal clashed on metal
+as the trios of royalist and rebel soldiers near the Round Tower attacked each
+other, and then Scholar Lhawang pointed at Sergeant Dorbu's feet and said
+something inhumanly clear.
+
+The sergeant tripped and fell to one knee.  "Stop!" Indy said, stepping in front
+of him as Captain Birgith raised her sword for a final blow.
+
+"*Amma*!" Noxy cried.  Her sword still raised, Captain Birgith backhanded Indy,
+knocking her sprawling.
+
+Noxy ran to her mother.  "*Amma*, *amma*, are you all right?"  She helped her
+mother sit up.  Indy wiped her nose on her arm, leaving a bloody streak on her
+sleeve.
+
+Ignoring them, Captain Birgith put the tip of her sword under Sergeant Dorbu's
+chin.  "Yield," she commanded.
+
+The sergeant looked back at her without flinching.  "Like hell," he said.  He
+grunted and tilted his head back as she lifted the tip of her sword a hair.
+"Like... hell," he repeated.  "You can kill me, but you and your men won't make
+it to the gate.  Will they, private?" he added, raising his voice.
+
+Boots clattered on a roof behind Noxy.  "No, honored," a voice replied.  Noxy
+looked up to see a rebel soldier rise to his feet with a bow in his hands and a
+nocked arrow aimed squarely at Captain Birgith.  Another soldier stood up on the
+other side of the roof and took aim at Scholar Lhawang.

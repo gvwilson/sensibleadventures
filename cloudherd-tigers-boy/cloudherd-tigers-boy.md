@@ -808,7 +808,7 @@ jabbing a finger at the soldiers.  "You!  Sergeant!  What are you doing here?
 Just look at your uniform---it's a disgrace!"
 
 The soldier who had been the last to climb onto Big Blue nodded.  "It isn't
-quite regimental standard, is it, honored?" he acknowledged ruefully.  "Nothing
+quite regimental standard, is it, learned?" he acknowledged ruefully.  "Nothing
 a bar of soap won't put right, though.  I'll see to it once my men are settled."
 
 "Settled?"  The *tralpa* looked from the sergeant to his men and back to the
@@ -819,7 +819,7 @@ of course, but I don't think people realize just how strategically important
 this pass is.  And the clouds---why, if those upstart peasants were to somehow
 gain control of them, there's no telling what might---"
 
-The sergeant cleared his throat.  "Actually, honored, it wasn't His Majesty who
+The sergeant cleared his throat.  "Actually, learned, it wasn't His Majesty who
 sent us."  A lump rose in Noxy's throat as one of his men very casually
 positioned himself behind Nangyal, his hand falling to the hilt of his sword.
 
@@ -1322,7 +1322,7 @@ straightened his arm to point its tip at the *tralpa*'s heart.
 The Scholar-Candidate's eyes widened.  Noxy's heart skipped a beat.  She had
 just enough time to think, *He really thought everyone would just do what he
 said,* before someone cleared their throat behind her and said, "Excuse me,
-honored?  If I may?"
+learned?  If I may?"
 
 Ignoring the tiger's growl of, "Not now, boy," Private Thokmay came forward to
 join the sergeant and the reeve.  "Did I hear correctly that you're the king's
@@ -1338,14 +1338,14 @@ it, please."
 
 He held out the coin.  The pudgy man gaped at him.  "What?"
 
-"I'd like to rent that law," Private Thokmay continued doggedly.  "Just for
-tonight.  That will mean the reeve isn't breaking any of the others if she waits
-until tomorrow to arrest people, won't it?"
+"I'd like to rent that law, learned," Private Thokmay continued doggedly.  "Just
+for tonight.  That will mean the reeve isn't breaking any of the others if she
+waits until tomorrow to arrest people, won't it?"
 
 The *tralpa* looked from the boy to the sergeant's sword to the reeve and back.
 "I---yes, I should think so," he replied weakly.
 
-"Thank you, honored."  He paused.  "You have to actually take the coin for this
+"Thank you, learned."  He paused.  "You have to actually take the coin for this
 to be legal, don't you?"
 
 The *tralpa* swallowed, then snatched the coin from the private's hand, picked
@@ -1744,13 +1744,13 @@ The *tralpa* shrieked in terror, then shrieked again when the log jerked to a
 stop two paces below where it had been.  "Hurry up!" he yelped in a strangled
 voice.  "Get me *off* this thing *right now*!"
 
-"We're trying, honored," Private Thokmay yelled back, clambering over a boulder
+"We're trying, learned," Private Thokmay yelled back, clambering over a boulder
 half his own height covered in damp-slick moss.  "Can you reach the branch on
 your left?"
 
 The *tralpa* didn't even look.  "No!  You have to come *get* me!"
 
-"Yes, honored."  The young soldier muttered something under his breath that Noxy
+"Yes, learned."  The young soldier muttered something under his breath that Noxy
 couldn't hear over the gurgling of the waterfall.  He rose cautiously to his
 feet and took a long step onto the next boulder.  "Can you get any closer?" he
 asked over his shoulder as he started to unbutton his uniform jacket.
@@ -1770,11 +1770,11 @@ uniform jacket, revealing only a sleeveless vest beneath it.  He was skinnier
 than Noxy had realized, and started shivering as the wind scraped across his
 skin.
 
-"I'm going to toss this to you, honored," he told the *tralpa*.  "When you get
+"I'm going to toss this to you, learned," he told the *tralpa*.  "When you get
 it, hook it over that branch and then swing yourself over to that big flat rock
 on your left, all right?"
 
-The *tralpa* shook his head violently.  "You can do it, honored," the young
+The *tralpa* shook his head violently.  "You can do it, learned," the young
 soldier coaxed him.  "I know you can.  Ready?  One... two... *three!*" He tossed
 his balled-up coat into the air.
 
@@ -1971,7 +1971,7 @@ with water and sank to the bottom of the pond, only to be trapped against the
 stick by the current.*
 
 Indy took one look at the bedraggled foursome and ordered them to go straight to
-the bath house.  "Except you, honored," she said told the *tralpa*.  "It would
+the bath house.  "Except you, learned," she said told the *tralpa*.  "It would
 probably be best if you stayed at home for now.  I'll have someone bring you a
 couple of buckets of hot water."
 
@@ -2980,7 +2980,7 @@ mask in question.  "Orders."
 Stale's *tralpa* puffed up like an angry toad.  "Well I'm giving you *new*
 orders," he snapped.
 
-"Yes, honored," the young soldier said.  "I just need to speak with the Honored
+"Yes, learned," the young soldier said.  "I just need to speak with the Honored
 Kulbinder to make sure."
 
 "Oh, go ahead, private," Sergeant Dorbu said wearily.  "We have to start
@@ -3014,8 +3014,8 @@ Private Thokmay.  "How are you?"
 her again, but instead he held out his hand to Private Thokmay.  "Hello.  I'm
 Persistent Coughing, but everyone just calls me Cough."
 
-The young soldier shook his hand.  "Gandan's Twenty-Ninth Thokmay, honored.
-Pleased to meet you."
+The young soldier shook his hand.  "Gandan's One Hundred and Second Thokmay,
+honored.  Pleased to meet you."
 
 Cough's smile broadened.  "I'm glad someone is."  He leaned forward slightly.
 "I'm not exactly popular with some people here, if you know what I mean," he
@@ -3140,7 +3140,7 @@ hall.  She glanced at Nangyal, who would probably have said he standing beside
 her, though an observer might instead have said "sheltering behind".  "Lead the
 way."
 
-"Um..."  Stale's *tralpa* gulped.  "Certainly, honored.  Where?"
+"Um..."  Stale's *tralpa* gulped.  "Certainly, learned.  Where?"
 
 "You do have a house here, do you not?" Scholar Lhawang said impatiently.
 
@@ -3475,62 +3475,142 @@ swallowed drily.  She had to tell her mother---or Granna Fee, or *someone*.
 But fate had other plans.  As she entered the square, she saw a pair of rebel
 soldiers chatting by the village gate.  One of them made a joke.  The other
 laughed, but even from fifty strides away it sounded forced in Noxy's ears.  And
-there---just outside the gate.  Was that another pair of soldiers?  She glanced
-right and left.  Her heart sank.  Two more were sorting through a bag of
-blankets next the pepper garden as slowly as anyone possibly could, and three
-stood at the foot of the Round Tower, carefully not looking at the three
-royalist soldiers who stood ten strides away.  She couldn't see them, but she
-had no doubt that the rest of Sergeant Dorbu's men were in equally strategic
-positions.
+there---just outside the gate.  Was that another pair of soldiers?  Her heart
+sank as she glanced right and left, trying to seem nonchalant.  Two more rebel
+soldiers were sorting blankets into piles next the pepper garden as slowly as
+anyone possibly could.  Three more stood at the foot of the Round Tower,
+carefully not looking at the three royalist soldiers who had arrived with
+Captain Birgith and were now very carefully *not* standing guard by the trading
+hall door.
+
+She couldn't see any others, but she had no doubt that the rest of Sergeant
+Dorbu's men who were well enough to walk were somewhere nearby.  *And the tiger
+and Thokmay,* she thought despondently.  *They can't be far.*
 
 The door of the trading hall burst open.  Scholar Lhawang strode down the steps
-with Captain Birgith at his heels.  The three soldiers on the bench stood, their
-hands falling to the hilts of their sword, but the scholar and the captain
+with Captain Birgith two paces behind him.  The looks on their faces could have
+stripped paint off old boards.  The three rebel soldiers on the bench stood,
+their hands falling to the hilts of their sword, but the scholar and the captain
 ignored them.
 
-"Wait!"  Indy hurried to catch up with them.  "Please---I'm sure we can figure
-something out.  We just---"
+"Wait!"  Indy hurried down the steps to catch up with them.  "Please---I'm sure
+we can figure something out.  We just---"
 
 Scholar Lhawang spun around so abruptly that Stale's anxious reeve almost plowed
-into her.  "There is nothing left to figure out, honored," she said in a
-clipped, angry voice.  "We cannot allow them to rejoin the rebel army, which
-means we cannot allow them to leave, no matter what assurances they give us."
+into her.  "There is nothing to figure out, honored," she said in a cold,
+clipped voice.  "We cannot allow them to rejoin the rebel army, which means we
+cannot allow them to leave, no matter what reassurances they give."
 
 "Then you leave me no choice," Sergeant Dorbu said.  He had followed Indy out of
-the trading hall, and now stood beside her, a pained expression on his face.
-"Please accept my apologies, captain, but I must ask you to surrender your
-sword."
+the trading hall, and now stood beside her, his expression impassive.  "My
+apologies, captain, but I must ask you to surrender your sword."
 
 Captain Birgith looked him up and down.  "Like hell."
 
 For just one moment the world was so still that Noxy could hear the goofs
 grumbling at each other in their pens and a baby crying two streets over, and
 then everything happened very fast.  Sergeant Dorbu and Captain Birgith drew
-their swords.  The sergeant shoved Indy out of the way and parried the captain's
-first stroke.  A loud whistle pierced the morning air.  Metal clashed on metal
-as the trios of royalist and rebel soldiers near the Round Tower attacked each
-other, and then Scholar Lhawang pointed at Sergeant Dorbu's feet and said
-something inhumanly clear.
+their blades simultaneously.  The sergeant shoved Indy out of the way and
+parried the captain's first stroke.  Metal clashed on metal as a loud whistle
+split the morning air and the rebel soldiers near the Round Tower charged the
+royalists at the trading hall door.
 
-The sergeant tripped and fell to one knee.  "Stop!" Indy said, stepping in front
-of him as Captain Birgith raised her sword for a final blow.
+Captain Birgith rained blows down on Sergeant Dorbu, grunting with each stroke.
+The sergeant knocked her blows aside, feinted for her knee, then turned the cut
+upward at the last moment.  As she skipped back and swung for his head, Scholar
+Lhawang pointed at Sergeant Dorbu's feet and pulled on the empty air as if he
+was pulling on a tangle of netting.  The sergeant's feet slid out from
+underneath him, sending him sprawling onto the cobblestones.
 
-"*Amma*!" Noxy cried.  Her sword still raised, Captain Birgith backhanded Indy,
-knocking her sprawling.
+"Stop!"  Indy said, stepping in front of him as Captain Birgith raised her sword
+for a final blow.
 
-Noxy ran to her mother.  "*Amma*, *amma*, are you all right?"  She helped her
-mother sit up.  Indy wiped her nose on her arm, leaving a bloody streak on her
-sleeve.
+Noxy cried out as Captain Birgith's backhanded blow knocked Indy off her feet.
+As if to echo her, a rebel soldier yelped with shock and surprise as his
+royalist opponent knocked his blade aside with a lucky parry and slid the point
+of his own sword home.  The rebel reached for the blade as if to check that it
+was real, then slid to his knees and toppled over as the royalist withdrew it.
 
-Ignoring them, Captain Birgith put the tip of her sword under Sergeant Dorbu's
-chin.  "Yield," she commanded.
+"'ware all flanks!" the soldier barked, spinning around so that he and his two
+companions stood with their backs together and their blades raised, surrounded
+now by twice their number of rebels.
 
-The sergeant looked back at her without flinching.  "Like hell," he said.  He
-grunted and tilted his head back as she lifted the tip of her sword a hair.
-"Like... hell," he repeated.  "You can kill me, but you and your men won't make
-it to the gate.  Will they, private?" he added, raising his voice.
+Captain Birgith stepped forward and put the tip of her sword under Sergeant
+Dorbu's chin.  "Hold!" she commanded.
+
+The rebel soldiers froze.  The sergeant looked back at her without flinching,
+tilting his head back as she lifted the tip of her sword a hair.  "Like hell,"
+he grunted.  "You can kill me, but you and your men won't make it to the gate.
+Will they, private?" he added, raising his voice.
 
 Boots clattered on a roof behind Noxy.  "No, honored," a voice replied.  Noxy
-looked up to see a rebel soldier rise to his feet with a bow in his hands and a
-nocked arrow aimed squarely at Captain Birgith.  Another soldier stood up on the
-other side of the roof and took aim at Scholar Lhawang.
+looked up to see one of the men she had rescued rise to his feet with a bow in
+his hands, a nocked arrow aimed squarely at Captain Birgith.
+
+Another soldier stood up on the other side of the roof and took aim at Scholar
+Lhawang.  "No tricks now," he cautioned the *tralpa*.
+
+Noxy ran to her mother.  "*Amma*, *amma*, are you all right?"  Indy sat up and
+wiped her nose on her arm, leaving a bloody streak on her sleeve, and nodded
+shakily.
+
+Captain Birgith hadn't moved.  The end of her blade still lay flat against the
+underside of Sergeant Dorbu's chin.  "Learned?" she said to the *tralpa* without
+turning her head.  "A little help, please?"
+
+Scholar Lhawang raised her hand.  There was a flat thwack.  The arrow whizzed by
+her ear and ricocheted off the cobblestones.  Thwack!  The second arrow missed
+her as well.  She whispered something, struck some kind of bargain that Noxy
+wouldn't have wanted to hear even if she could have, and *pulled*.  The two
+archers cursed in unison, dropping their bows and scrabbling at the shingles as
+their feet slipped out from under them just as Sergeant Dorbu's had.
+
+The *tralpa* turned on the circle of rebels surrounding the three royalists and
+belched enormously.  Her hand flew to her mouth, and then she doubled over and
+retched, splattering half-digested breakfast and tea on her boots and the
+ground.  "Wha---?" she tried to say, but then another spasm sent her to her
+knees.
+
+"Lower your sword, captain, or I'll make her tear herself in half."
+Scholar-Candidate Nangyal stood on the steps of the trading hall, an eerie
+darkness dancing across the fingertips of his raised right hand.  The scheming,
+pouting look that the villagers had mocked amongst themselves so often in the
+past two years was gone.  In its place was something as hard and as cold as the
+fury on Captain Birgith's face.
+
+"I won't ask again," Stale's *tralpa* said.  He twisted his hand.  Scholar
+Lhwang writhed in agony, the muscles in her gut knotted so tightly that she
+could only wheeze.
+
+Noxy felt like her head was spinning.  "How...?" Indy breathed.  But the pudgy
+*tralpa* had eyes only for the royalist captain.
+
+Her face twisted with rage, Captain Birgith lowered her sword.  When Sergeant
+Dorbu stood and held out his hand, she threw it on the stones contemptuously.
+"Blades down," she ordered.  The three soldiers standing back to back hesitated
+for a moment, then bent down and laid their own swords on the ground.
+
+The *tralpa* came down the stairs one calm step at a time.  The darkness
+crackled across his fingertips one last time before vanishing.  Scholar Lhawang
+drew a shuddering breath.
+
+"Reeve," Nangyal said with a brief nod, drawing out the word as he passed Indy
+and Noxy, an ugly look of triumph on his face.
+
+He stopped two strides away from Sergeant Dorbu.  "I believe you've been looking
+for me."
+
+Sergeant Dorbu stared at him.  "I---I'm sorry, learned, I---"
+
+"I shall rise as does the dew," the *tralpa* recited.  "That *is* the
+recognition phrase, isn't it?"
+
+Sergeant Dorbu's mouth worked.  "You're---you're the Correspondent?"
+
+Nangyal smirked.  "At your service.  Though I think *you* are actually at
+*mine*."  The smirk fell off his face.  "Get these royalist scum locked away.
+Make sure you gag *Scholar* Lhawang so that she can't strike any bargains."  He
+made the title a curse.
+
+Sergeant Dorbu hesitated for one heartbeat, then straightened up and saluted.
+"Yes, honored."

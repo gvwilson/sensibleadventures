@@ -969,11 +969,10 @@ side they wanted to be on."
 
 "So why were they trying to come through the pass?" Indy asked.
 
-Grappa Gas shrugged again.  "They were supposed to be headed down to the
-capital, but the king's men hit them at the ford near Duck Droppings.  They were
-split cross the two sides of the river when the attack came."  For a moment his
-years showed on his face.  "He doesn't expect he'll see many of his friends
-again."
+Grappa Gas shrugged again.  "They were on their way to Gandan-in-Gandan, but the
+king's men hit them at the ford near Duck Droppings.  They were split cross the
+two sides of the river when the attack came."  For a moment his years showed on
+his face.  "He doesn't expect he'll see many of his friends again."
 
 Indy glanced at Noxy.  "That doesn't go out of this house," she ordered.  Noxy
 nodded, turning to the stove as the lid on the kettle began to whistle.  She
@@ -981,7 +980,15 @@ lifted it carefully with a pair of chopsticks to pour the boiling water into the
 teapot, then put the kettle back on the stove and set the tea on the table to
 steep.
 
-"Was there anything else?" Indy asked.
+"It still doesn't make sense," Indy mused.  "If they wanted to get to the
+capital, they wouldn't come north.  And if they were trying to rejoin the other
+rebels..."
+
+Grappa Gas's shoulders rose and fell for a third time.  "One of 'em said
+something about connecting with some sort of secret agent up here."
+
+Indy laughed.  "A secret agent?  Here?"  She held a tea towel across her face
+like a robber's mask.  "Did they say who it was?"
 
 The front door banged open before he could answer.  Aft strode in and glared at
 Indy.  "What in the underhells do you think you're doing?" he demanded.
@@ -2195,8 +2202,8 @@ that."
 
 "But then how does the king raise money?" Noxy asked.
 
-Kulbinder blinked slowly.  "He takes what tradition dictates, no more and no
-less.  It is much simpler."
+Kulbinder blinked slowly.  "He takes what tradition dictates.  It is much
+simpler."
 
 "Simpler *and* fairer," Sergeant Dorbu added with a quiet intensity that hadn't
 been there a moment earlier.  "And that's what we want---something simple and
@@ -3602,15 +3609,70 @@ for me."
 
 Sergeant Dorbu stared at him.  "I---I'm sorry, learned, I---"
 
-"I shall rise as does the dew," the *tralpa* recited.  "That *is* the
-recognition phrase, isn't it?"
+"I shall rise as does the dew," the *tralpa* recited.  "That *is* the phrase you
+were told to expect, isn't it?"
 
-Sergeant Dorbu's mouth worked.  "You're---you're the Correspondent?"
+Sergeant Dorbu's mouth worked.  "You?  *you're* her agent among the cloudherds?"
 
 Nangyal smirked.  "At your service.  Though I think *you* are actually at
-*mine*."  The smirk fell off his face.  "Get these royalist scum locked away.
-Make sure you gag *Scholar* Lhawang so that she can't strike any bargains."  He
-made the title a curse.
+*mine*."  The smirk fell off his face.  "Now get these royalist scum locked
+away.  And make sure you gag *Scholar* Lhawang so that she can't strike any
+bargains."  He made other *tralpa*'s title a curse.
 
-Sergeant Dorbu hesitated for one heartbeat, then straightened up and saluted.
-"Yes, honored."
+Sergeant Dorbu straightened up and saluted.  "Yes, honored."  He beckoned to his
+men.
+
+Indy strode over.  "What in the names of the saints is going on?"
+
+Nangyal sketched a small bow.  "My apologies for the deception," he said without
+even the faintest note of apology in his voice.  "As of right now, Stale
+Leftovers is a Free Law territory.  You and your fellow villagers can use
+whatever law you want without payment or hindrance.  All we require in return is
+your support to help free the rest of Gandan."
+
+For the first time that Noxy could remember, her mother was speechless.  "I
+thougth you couldn't do magic," Noxy blurted.
+
+Nangyal looked at her, then pursed his lips and blew.  A gust of wind almost
+knocked her over.  "Oh poor, tubby, unloveable Nangy-poo," he pouted.  "Can't
+even light a fire."  He smirked again.  "It was the perfect disguise."
+
+"Traitor," Captain Birgith spat as Sergeant Dorbu's soldiers finished tying her
+hands together behind her back and pulled her to her feet.  "Oathbreaker.  Your
+ghost will wail and wander for a thousand years."
+
+"It'll be worth it," Nangyal snarled.  "It'll be worth it just to see the
+world's kings and princes and *scholars* washing their own socks and peeling
+their own potatoes like the rest of us."
+
+"And speaking of princes," he continued, turning back to Sergeant Dorbu, "As
+soon as this bunch is safely stowed away, I want you to put together a search
+party.  Ours seems to have gone missing."
+
+"Ours?" the sergeant repeated blankly.
+
+Nangyal's smirk returned.  "Our prince.  I had an illuminating conversation last
+night with that cloudherd Captain Birgith caught in Rancid.  It seems that the
+tiger and his boy haven't been entirely honest with you."
+
+Sergeant Dorbu shook his head in bewilderment.  "Kulbinder is a prince?  That's
+ridiculous."
+
+"Not the animal," Nangyal said impatiently.  "The boy, Thokmay.  The cloudherd
+says he's King Denpa's son."
+
+"What!?" Captain Birgith spun around, shrugging off the soldier who had been
+about to lead her away.  "*He's* the runaway prince?  That's ridiculous!"
+
+"That's what I thought," Nangyal said smugly.  "So I worked a little magic last
+night.  Nothing very complicated---though I'm sure some would have found it a
+challenge," he added, glancing at Scholar Lhawang.  The gagged magician glowered
+back.  "Imagine my surprise when I discovered that he was telling the truth.
+The boy is indeed a royal prince."
+
+"So what in the saints' names is he doing fighting with *us*?" Sergeant Dorbu
+demanded.
+
+Nangyal scowled.  "That's an excellent question, sergeant, and one that I fully
+intend to ask once you find him."  He turned to Indy and Noxy.  "I trust we can
+count on your cooperation in that?"

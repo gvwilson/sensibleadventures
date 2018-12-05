@@ -4330,8 +4330,8 @@ hitting something.
 helmet.
 
 Wales skidded to a stop and dropped Iffy to the deck.  "For gubbins sake tell
-everyone to stop throwing grenades at them!" he pleaded.  "They're made of some
-kind of exothermic biomaterial---they're bombs!"
+everyone to stop throwing grenades at them!" he yelled at the Marine.  "They're
+made of some kind of exothermic biomaterial---they're bombs!"
 
 Iffy grabbed his sleeve.  "Where's Honesty?" she demanded.  Her friend couldn't
 be dead---she just couldn't be.
@@ -4340,8 +4340,8 @@ be dead---she just couldn't be.
 close and dropped to the deck, sheltering her with his body as something hauled
 itself over the stern railing.
 
-"N-n-no need for p-p-panic, citizen."  The Marine hauled herself onto the ship.
-Icy water gushed out between the gaps between the armor plates of her
+"N-n-no need for p-p-panic, citizen."  A battered Marine hauled herself onto the
+ship.  Icy water gushed out between the gaps between the armor plates of her
 exoskeleton.
 
 Her visor snapped up.  Honesty looked blankly at Iffy and Wales, then at the two
@@ -4358,10 +4358,67 @@ herself from Wales' grip.
 Honesty and began unlocking her armor.
 
 The plasma gun spun and flared again, sending another drone tumbling into the
-sea.  There were too many of them, Iffy realized as two more whined overhead.
-The drones, the jellyfish bombs: they didn't stand a chance unless---
+sea.  "Where are they all coming from!?" Wales demanded.
 
-"Let go of me!" she yelled at Wales.  "I have to get to my cabin!"
+"They're the *Bengal*'s, sir," the Marine on the gun yelled back.  "The Zillions
+hacked them somehow.  Doctor Johel is trying to get them back under control, but
+she's lost the network connection.  They've defaulted back into peer mode---they
+won't take instruction from anything except one of their own."
 
-He hesitated a moment, then released his grip.  She twisted past him and
-sprinted toward the bow.
+One of their own---all of a sudden Iffy knew what she had to do.  "Let go of
+me!" she yelled at Wales.  "I have to get to my cabin!"
+
+"No! You're safer here!"
+
+"I *gotta*! I can fix this!"  He hesitated a moment, then released his grip.
+She twisted past him and sprinted back to where they had been.
+
+Waves threw spray high into the air each time they caught on the edge of the
+hole the jellyfish bomb had made.  Just as she reached her door, one splashed
+higher than ever, knocking her sideways off her feet.  She slid across the deck,
+scrabbling uselessly to grab on to something, anything, that would stop her from
+falling into the sea.
+
+Her boot found a railing post.  Heart pounding, she waited until the *Guinevere*
+rose on the crest of the next wave, then scrambled to her feet and lunged for
+her door.  A quick twist, a yank, and she was inside.
+
+She slammed the door shut behind her and slid to the floor, shaking with fear
+and cold.  She was soaking wet, and water was slopping into her room through the
+crack between the door and the deck and pooling underneath her and all she could
+think was, *This is going to take forever to clean up.*
+
+Somehow she got her feet underneath her again.  Somehow she stood, or at least
+un-fell down.  She pulled the box of dronelets out from under her mattress and
+fumbled it open, her fingers clumsy with cold.
+
+"C'mon, c'mon, c'mon," she muttered, staring at them so hard her forehead
+started to ache.  There had to be something she could do with them or to them or
+*something*.
+
+The deck shuddered beneath her as another jellyfish bomb exploded somewhere.
+The *Guinevere* couldn't take much more, and Honesty---if she didn't stop the
+attack, what would happen to Honesty?  "Come *on*!" she pleaded.  Why couldn't
+she just know stuff?  Why did it have to be so affing *random*?
+
+And then she had it.  She knew what to do, but she needed tools, proper tools,
+not just what she had in her pocket.
+
+A second image appeared in her head, except that was wrong, it wasn't an image,
+it was just *knowing*.  Wales' tools were still in the engine room.  She could
+go forward and hope that the Marines or Uncle Jack hadn't dogged the hatches,
+or---
+
+She stuffed the dronelets into her jacket pocket and yanked her door open before
+she had time to think about how stupid her plan was.  Up and down the ship went,
+boom went the spray of a wave, and as the *Guinevere* rose again she threw
+herself face-forward onto the deck and slid toward the bomb hole, looking for
+all the world like one of the long-ago penguins in her nature book, except they
+had been black and white instead of dirty, patched gray, and hadn't screamed in
+terror as they slid.
+
+Her hand caught the railing post.  She turned sideways as the ship began to drop
+into the trough of the next wave and let her legs fall into the hole.  There!
+She didn't know what her feet had found, but it was sturdy enough to take her
+weight.  Panting, she let go of the railing and let herself scrape and drop into
+the ship just as another wave crashed down.

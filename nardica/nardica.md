@@ -4360,17 +4360,19 @@ Honesty and began unlocking her armor.
 The plasma gun spun and flared again, sending another drone tumbling into the
 sea.  "Where are they all coming from!?" Wales demanded.
 
-"They're the *Bengal*'s, sir," the Marine on the gun yelled back.  "The Zillions
+"They're the *Bengal*'s, sir," the Marine on the gun yelled back
+conversationally, his imprinting keeping him unnaturally calm.  "The Zillions
 hacked them somehow.  Doctor Johel is trying to get them back under control, but
-she's lost the network connection.  They've defaulted back into peer mode---they
-won't take instruction from anything except one of their own."
+she's lost the network connection."  His armor automatically ducked as a shot
+from a passing drone ricocheted off a nearby hatch.  "I'm afraid I cannot fully
+assist my comrade until they are dispersed."
 
-One of their own---all of a sudden Iffy knew what she had to do.  "Let go of
-me!" she yelled at Wales.  "I have to get to my cabin!"
+Iffy looked at Honesty.  All of a sudden she knew what she had to do.  "Let go
+of me!" she yelled at Wales.  "I have to get below!"
 
 "No! You're safer here!"
 
-"I *gotta*! I can fix this!"  He hesitated a moment, then released his grip.
+"I gotta help her!  Please!"  Wales hesitated a moment, then released his grip.
 She twisted past him and sprinted back to where they had been.
 
 Waves threw spray high into the air each time they caught on the edge of the
@@ -4422,3 +4424,61 @@ into the trough of the next wave and let her legs fall into the hole.  There!
 She didn't know what her feet had found, but it was sturdy enough to take her
 weight.  Panting, she let go of the railing and let herself scrape and drop into
 the ship just as another wave crashed down.
+
+A single light strip flickered over Iffy's head as she straightened up in water
+that reached to her knees.  The ship's hold stank of metal and coal and the sea
+and above all of old jellyfish.  She took two steps and froze as a familiar
+voice barked, "Stop right there or I'll blow yer affin' head off!"
+
+It was Uncle Jack, wild-eyed and angry.  "What the hell are you doin' down
+'here?" he demanded, the ancient pebble gun in his hand aimed at Iffy's chest.
+
+"Honesty's hurt!  I gotta get th' medical kit!"  Iffy started toward the storage
+locker built into the *Guinevere*'s side.
+
+Uncle Jack stepped in front of her, his gun still pointed at her chest.  "Yer
+gettin' nothin' fer them."  He spat into the water sloshing around their feet.
+"They brought this on us.  Let 'em take care o' their own."
+
+"But she's hurt!" Iffy protested desperately.  "She got shot, an' she's gonna
+die if we don't---"
+
+"I said *no!*" Uncle Jack roared.  "An' in case you've forgotten, I'm the affin'
+captain on this ship!"
+
+"You're a bloody waste o' space is what you are," Aunt Naggie said coldly,
+stepping through the door in the bulkhead behind her husband.
+
+Uncle Jack spun around.  "What're you doin' here, woman?  I told you to stay
+topside an' steer us through this affin' mess!"
+
+"An' I figured that was the captain's job, *captain*," Aunt Naggie shot back.
+She nodded at Iffy.  "Get th' kit an' go help your friend."
+
+Iffy splashed toward the storage locker.  Uncle Jack's mouth worked.  "I
+said---"
+
+"Nobody cares what you said!" Aunt Naggie exploded.  "Nobody's cared fer a long
+time, Jack, not about yer lies or yer blusterin' or yer deals that never come to
+nothin' nor what ye think about th' gov'nor or th' state o' the world or the
+weather or nothin'!  You're a bully and an embarrassment an' ye're the only one
+who don't see it.  Now get out o' her way an' then we'll be outta yours an' you
+can go back t' hidin' down here like th' coward you are!"
+
+Her husband gaped at her.  Iffy undogged the locker door and pulled out the
+rectangular red duffel bag that held the ship's emergency medical kit.  "C'mon,"
+her foster mother said gruffly.  "Let's go be useful."
+
+Uncle Jack's jaw set.  "If you think I'm gonna let you talk to me like that,
+woman, you got another---come back here!  You come back here right now!"  But
+only the door and the sloshing seawater were left to hear him.
+
+Aunt Naggie had left the topside hatch unlocked.  "You get that kit back to
+Mister Wales," she told Iffy.  "He'll know what t' do with it even if those
+idiot Marines won't help."
+
+"Thanks auntie," Iffy said.  "An' thanks fer---thanks fer rescuin' me."
+
+"Shoulda done it a long time ago."  Aunt Naggie gave her a gentle shove.  "Get
+goin'.  I gotta get back to th' pilot house.  Someone's gotta get us through
+this mess."

@@ -3664,11 +3664,11 @@ says he's King Denpa's son."
 "What!?" Captain Birgith spun around, shrugging off the soldier who had been
 about to lead her away.  "*He's* the runaway prince?  That's ridiculous!"
 
-"That's what I thought," Nangyal said smugly.  "So I worked a little magic last
-night.  Nothing very complicated---though I'm sure some would have found it a
-challenge," he added, glancing at Scholar Lhawang.  The gagged magician glowered
+"That's what I thought," Nangyal said smugly.  "So I did a little investigating
+last night.  Nothing very challenging---though I'm sure it would have been for
+some," he added, glancing at Scholar Lhawang.  The gagged magician glowered
 back.  "Imagine my surprise when I discovered that he was telling the truth.
-The boy is indeed a royal prince."
+The boy is indeed King Denpa's missing son."
 
 "So what in the saints' names is he doing fighting with *us*?" Sergeant Dorbu
 demanded.
@@ -3676,3 +3676,69 @@ demanded.
 Nangyal scowled.  "That's an excellent question, sergeant, and one that I fully
 intend to ask once you find him."  He turned to Indy and Noxy.  "I trust we can
 count on your cooperation in that?"
+
+"What!? No!" Indy protested angrily.  "We're not helping anyone with---urrk!"
+Her eyes widened and her hand flew to her throat.
+
+Nangyal regarded her coolly.  "It's a simple spell," he said.  "Something of a
+classic, actually.  The price is a severe allergy to shellfish, but..."  He
+shrugged.  "That's hardly an issue up here, is it?"
+
+"Stop it!" Noxy burst out.  "Whatever you're doing, stop it!"
+
+Nangyal didn't so much as twitch a finger, but Indy suddenly drew a long,
+gasping breath.  "You need to understand something," Nangyal said quietly.  "We
+are willing to give our lives for our cause, and if it's worth *our* lives, it's
+certainly worth *yours*.  Now *find that boy*."
+
+He turned and strode away, muttering under his breath.  Noxy watched him go,
+feeling just as shocked by his transformation as her mother looked.
+
+Sergeant Dorbu cleared his throat.  "Reeve, please accept my apologies.
+That---that wasn't necessary."
+
+Indy looked him up and down, then gestured at Captain Birgith and Scholar
+Lhawang.  "Take care of your prisoners, sergeant.  I'll take care of my
+village.  Come on, sweetling."
+
+Noxy had to hurry to catch up with her.  "*Amma*, what---"
+
+"Not here," her mother said sharply.  "Go find Aft and Grappa Gas and bring them
+to your granna's house.  And Noxy."  She stopped and took her daughter's arm.
+"Not a word of this to anyone, all right?  Please?"
+
+"I won't say anything," Noxy promised.  Her mother nodded once and hurried
+away up the street.
+
+Aft answered the door on Noxy's first knock, but only opened it a crack.
+"What's going on?" he hissed.
+
+"*Amma* wants Aft at Granna Fee's right away," Noxy told him urgently.  Rind was
+standing just behind her husband, one hand on his shoulder, the other on her
+round belly, and an anxious look on her face to match the angry one on Aft's.
+
+The door closed abruptly.  She heard the pair argue back and forth for a
+heartbeat, and then the door reopened.  "I'll be back as soon as I find out,"
+Aft promised over his shoulder.  The door closed behind him for a second time
+with a bang that made Noxy jump.
+
+Grappa Gas wasn't at home.  "Probably already there," Aft grunted, drumming his
+fingers on the side of his leg.  He set off without waiting for answer, leaving
+Noxy hurrying to catch up once again.
+
+Aft's father wasn't at Granna Fee's.  "We'll find him later," Indy said.  She
+quickly told her mother and Aft what had happened in the square.
+
+"A spy?" Aft said disbelievingly.  "That tubby goof?"
+
+Indy rubbed her throat.  "That tubby goof choked me without so much as a word.
+More to the point, he beat Scholar Lhawang."
+
+"But why here?" Granna Fee asked.  "Why spy on *us*?"
+
+The reeve shook her head.  "The real question is, why has he been here for two
+years?  Shudarga only raised her flag last summer."  She stared at the
+needlepoint clouds that hung on the wall of her mother's kitchen without seeing
+them.  "She must have planned it.  The rebellion---if she sent him hear two
+years ago, or somehow got the court to send him, she must have already been
+planning to rebel."

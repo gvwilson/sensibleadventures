@@ -4250,9 +4250,9 @@ carcass of a military drone tumbled into the sea and exploded with a sharp
 *crack!*
 
 Boots thudded on the deck.  "Citizen! Take cover!" the Marine ordered, the
-pop-up guns on the shoulders of her exoskeleton whirring from one position to
-another as its tiny onboard core evaluated potential threats.  An armored hand
-closed on Iffy's arm and pushed her back against the wall.
+pop-up guns on the shoulder pauldrons of her exoskeleton whirring from one
+position to another as its tiny onboard core evaluated potential threats.  An
+armored hand closed on Iffy's arm and pushed her back against the wall.
 
 "What's happening?" Iffy demanded.
 
@@ -4482,3 +4482,62 @@ idiot Marines won't help."
 "Shoulda done it a long time ago."  Aunt Naggie gave her a gentle shove.  "Get
 goin'.  I gotta get back to th' pilot house.  Someone's gotta get us through
 this mess."
+
+Wales had dragged Honesty over against the stern wall of the pilot house and was
+kneeling beside her when Iffy reached them.  "Good girl," he said, taking the
+duffel bag she thrust at him and setting it beside her fallen friend.  "Her exo
+stopped her bleeding, but there's shrapnel in her right lung and her
+intestines." He looked up at her.  "You okay to help?"
+
+"Just tell me what t' do," Iffy said grimly.
+
+Wales pulled off his gloves, then once again peeled the false skin back from the
+pad of his right forefinger.  Tiny lights danced across the small patch of
+silver tech beneath.  "Here."  Together, they gently lifted Honesty's shoulder,
+ignoring the sizzle and whack of the gun three meters away.  Wales flipped open
+a flat panel on the exoskeleton's pauldron and touched his finger to the little
+optical port hidden beneath it.
+
+A shiver ran up his spine.  Without warning he sneezed twice in quick
+succession.  "Stupid," he muttered, whether at himself or the exoskeleton's
+security protocols or the world, Iffy couldn't tell.
+
+A light began blinking in the silver plate set into his temple.
+"Wait... wait... now!"  He pointed at a buckle on the exoskeleton just as it
+clicked.  Iffy yanked it open.  Underneath, Honesty's Marine blue thermals were
+almost black with her blood.
+
+"Get a scalpel from the bag, and some tissue glue," Wales ordered.  "Yes, you,"
+he added as she started to protest.  "I have to keep the suit from---damn it.
+Hang on."  The little guns on Honesty's shoulders swivelled suddenly to point at
+him, then at Iffy, then back at him.  "Okay.  Do it now."
+
+The guns woke up twice more as Iffy operated.  Seawater splashed onto them too,
+and onto Honesty despite their best efforts to shield her.  Every few moments
+Wales muttered another curse as the exoskeleton's tiny core cycled tried yet
+another trick from its defensive repertoire.
+
+One, two, three, four... Five.  She put the last twist of jagged metal in the
+medical kit's sharps' box, laid a thin slice of re-flesh in the wound, and glued
+her friend closed.  "'Zat it?" she asked breathlessly.
+
+Wales closed his eyes.  "That's everything the exo can see.  Now, you'd better
+back away for this next bit."  He jerked his head toward the corner of the pilot
+house when she hesitated.
+
+Iffy reluctantly retreated a few steps, the duffel bag in her hand.  Wales
+shifted his weight slightly and took his finger off the exoskeleton's data port.
+
+The two guns on Honesty's pauldrons snapped sideways to point at his head.
+"Easy," Wales said softly, folding the flap of false skin back over his finger.
+"Easy, there.  We were just putting her back together.  No harm done."
+
+The guns tracked him as he slowly stood up and backed away, his hands spread.
+Iffy backed up to make space for him at the corner.  "Is she gonna be aright?"
+she asked anxiously.
+
+Wales lowered his hands and let out his breath with a whoosh.  "I hope so."  He
+ducked reflexively as another Zillion drone whined overhead.  "The question is,
+are we going to be?"
+
+Iffy pulled the dronelets out of her jacket pocket.

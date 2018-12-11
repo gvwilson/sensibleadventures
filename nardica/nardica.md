@@ -1344,12 +1344,15 @@ familiar to Iffy as her own breathing.
 
 They were halfway across the harbor when a klaxon blared *brrrap! brrrap!* Iffy
 ran to the stern in time to see a flock of drones converge on a pier six along
-from where the *Guinevere* had been berthed.  A single ship lay alongside it,
-long and low and gray and dangerous---the *Taroona*.  Iffy shaded her eyes with
-her hand.  The ship looked like it was casting off, but no, a pair of Marine
-boats were blocking her path, and a platoon of blue-armored figures were
-trotting toward the pier.  Whatever else happened, it didn't look like they'd
-have to worry about that particular bunch of Aussie pirates.
+from where the *Guinevere* had been berthed, careful to keep their distance so
+as not to attract attention and destruction from anything in orbit.
+
+A single ship lay alongside the pier, long and low and gray and dangerous---the
+*Taroona*.  Iffy shaded her eyes with her hand.  The ship looked like it was
+casting off, but no, a pair of Marine boats were blocking her path, and a
+platoon of blue-armored figures were trotting toward the pier.  Whatever else
+happened, it didn't look like they'd have to worry about that particular bunch
+of Aussie pirates.
 
 Still, the tension in Iffy's shoulders didn't easy until they rounded the
 broken-backed carrier that was Halley's seawall a few minutes later and the
@@ -2276,12 +2279,21 @@ I'm Doctor Johel.  I'm looking forward to meeting you."
 
 They reached Rothera two days later.  The spotter traced lazy circles above them
 the whole way, its insect-eye cameras and microscopic core searching ceaselessly
-for signs of more trouble.  Each time Wales emerged from his cabin for a few
-minutes to get some tea or use the toilet, the gossamer-winged drone drifted
-closer to the *Guinevere* like a gull that had spotted someone eating a
-sandwich.  Wales paid no attention to it, and little more to Iffy and her foster
-parents.  "Good morning", "excuse me", and "no thank you" were all he seemed to
-have the energy to say.
+for signs of more trouble.  "Shame it's not a bit bigger," Uncle Jack grunted.
+
+"That's trouble we don't need," Aunt Naggie responded.  Skies the world over had
+been off limits since the end of the war---China-over-the-Sea didn't have enough
+satellites to watch everything all the time, but anything bigger much larger
+than a single person ran the risk of being fried.  A few heavily armored
+aircraft still flew short missions here and there, or so the stories Iffy had
+found in the jungle claimed, but for most of humanity, flight had once more
+become the stuff of daydreams.
+
+Each time Wales emerged from his cabin for a few minutes to get some tea or use
+the toilet, the gossamer-winged drone drifted closer to the *Guinevere* like a
+gull that had spotted someone eating a sandwich.  Wales paid no attention to it,
+and little more to Iffy and her foster parents.  "Good morning", "excuse me",
+and "no thank you" were all he seemed to have the energy to say.
 
 They threaded their way through the narrow passage between Adelaide Island and
 the Antarctic Peninsula, past mats of tweaked seaweed left over from someone's
@@ -4264,12 +4276,12 @@ dove toward the ship.
 
 The Marine spun around, still keeping her exoskeleton between Iffy and the
 attack, and raised her arm to point at the incoming drone.  The guns on her
-shoulders aimed and fired.  The drone staggered, then exploded as its core
-decided that this was as far as it was going to get.
+shoulders aimed and fired.  The drone staggered, recovered, and zoomed away, its
+remaining three rotors whining to make up for the fourth that had just been
+disintegrated.
 
-Just like that, the attack was over.  The Marine straightened up and turned to
-Iffy.  The visor on her helmet snapped open.  "Are you all right, citizen?"
-Honesty demanded.
+The Marine straightened up and turned to Iffy.  The visor on her helmet snapped
+open.  "Are you all right, citizen?"  Honesty demanded.
 
 "I---I'm fine," Iffy said shakily.
 
@@ -4331,18 +4343,49 @@ helmet.
 
 Wales skidded to a stop and dropped Iffy to the deck.  "For gubbins sake tell
 everyone to stop throwing grenades at them!" he yelled at the Marine.  "They're
-made of some kind of exothermic biomaterial---they're bombs!"
+made of some kind of exothermic biomaterial---they're bombs!"  The Marine nodded
+sharply and relayed the information through his helmet mike.
 
-Iffy grabbed his sleeve.  "Where's Honesty?" she demanded.  Her friend couldn't
-be dead---she just couldn't be.
+Iffy grabbed Wales' sleeve.  "But where's Honesty?" she demanded.  Her friend
+couldn't be dead.  Iffy pushed the thought away in panic.  She just *couldn't*
+be.
 
-"I don't know," Wales said.  "I didn't see what she---'ware aft!"  He pulled her
-close and dropped to the deck, sheltering her with his body as something hauled
-itself over the stern railing.
+"I don't know," Wales said, scanning the horizon.  "Look---there!"  He pointed.
+"What are they trying to do?"
+
+Iffy followed his pointing finger.  Eight, ten---at least a dozen drones were
+circling in the *Guinevere*'s wake, buzzing the ship and dodging erratically to
+avoid fire from the Marines.
+
+"It's like they're waitin' fer somethin'," Iffy said.  "More o' those jellyfish
+bombs maybe?"
+
+Wales started to shake his head, then froze and swore.  "What?" Iffy demanded,
+but he ignored her while his lips moved silently.
+
+His eyes widened.  "They're trying to draw fire from orbit," he breathed.  "You!
+Tell Doctor Johel there's a Chinese satellite going over head in---" He
+hesitated. "---in six hundred and seventy seconds.  They're trying to make a hot
+spot to draw its fire.  If we're underneath them---"
+
+"Understood, citizen," the Marine said.  He began speaking urgently into his
+helmet mike once again.
+
+Wales seized Iffy by the shoulders.  "You have to get off this ship," he said,
+low and urgent.  "If the Marines can't bring those things down, that satellite's
+going to shoot them down, and if they're above us when it does, we'll be dead in
+the water."
+
+"I ain't runnin'," Iffy said, shaking him off.  She was about to add, and even
+if I was, where would I go and how, when something hauled itself over the stern
+railing.
+
+"Look out!"  Wales shouted.  He pulled Iffy close and spun around, sheltering
+her with his body.
 
 "N-n-no need for p-p-panic, citizen."  A battered Marine hauled herself onto the
-ship.  Icy water gushed out between the gaps between the armor plates of her
-exoskeleton.
+ship.  Icy water gushed out between the gaps between the dark blue armor plates
+of her exoskeleton.
 
 Her visor snapped up.  Honesty looked blankly at Iffy and Wales, then at the two
 Marines beside the plasma gun.  "I require medical assistance," she said calmly,
@@ -4403,21 +4446,19 @@ The *Guinevere* couldn't take much more, and Honesty---if she didn't stop the
 attack, what would happen to Honesty?  "Come *on*!" she pleaded.  Why couldn't
 she just know stuff?  Why did it have to be so affing *random*?
 
-And then she had it.  She knew what to do, but she needed tools, proper tools,
-not just what she had in her pocket.
+And then she had it.  She knew what to do, but she had to help Honesty first.
+She stuffed the dronelets into her pockets, then grabbed a couple of tools and
+closed her eyes.  A second image appeared in her head, except that was wrong, it
+wasn't an image, it was just *knowing*.  Wales' tools were still in the engine
+room.  She could go forward and hope that the Marines or Uncle Jack hadn't
+dogged the hatches, or---
 
-A second image appeared in her head, except that was wrong, it wasn't an image,
-it was just *knowing*.  Wales' tools were still in the engine room.  She could
-go forward and hope that the Marines or Uncle Jack hadn't dogged the hatches,
-or---
-
-She stuffed the dronelets into her jacket pocket and yanked her door open before
-she had time to think about how stupid her plan was.  Up and down the ship went,
-boom went the spray of a wave, and as the *Guinevere* rose again she threw
-herself face-forward onto the deck and slid toward the bomb hole, looking for
-all the world like one of the long-ago penguins in her nature book, except they
-had been black and white instead of dirty, patched gray, and hadn't screamed in
-terror as they slid.
+She yanked her door open before she had time to think about how stupid her plan
+was.  Up and down the ship went, boom went the spray of a wave, and as the
+*Guinevere* rose again she threw herself face-forward onto the deck and slid
+toward the bomb hole, looking for all the world like one of the long-ago
+penguins in her nature book, except they had been black and white instead of
+dirty, patched gray, and hadn't screamed in terror as they slid.
 
 Her hand caught the railing post.  She turned sideways as the ship began to drop
 into the trough of the next wave and let her legs fall into the hole.  There!
@@ -4540,4 +4581,20 @@ Wales lowered his hands and let out his breath with a whoosh.  "I hope so."  He
 ducked reflexively as another Zillion drone whined overhead.  "The question is,
 are we going to be?"
 
-Iffy pulled the dronelets out of her jacket pocket.
+"Depends which way that satellite's comin' in," Iffy said.  She grabbed a
+scorched piece of canvas that had started the day as part of the tent covering
+the Marines' plasma gun.  "Can you find me a couple more like this?"  Without
+waiting for Wales to answer, she pulled the dronelets and her tools out of her
+pockets and set to work.
+
+Cut and tear, fold, try to tie a knot, curse because the canvas was stiff with
+salt and cold, whack it against the deck, unfold it, fold it again, try another
+knot--- "Here," Wales said, "Let me do that bit. You get something on the drones
+to hang it on."
+
+Iffy nodded.  Her fingers were going numb, but there wasn't time for that, there
+wasn't time for anything except cutting a loop of wire and threading it through
+a grommet in the canvas and hooking it onto the dronelet, all the while trying
+to calculate power and thrust and battery life in her head and wondering if
+they'd be able to stabilize, because the wind was picking up and they'd have to
+fly in formation or this wasn't going to work.

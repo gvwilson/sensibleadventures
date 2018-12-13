@@ -4033,9 +4033,9 @@ bellowed.
 "Captain," the one who had been holding Iffy acknowledged without either
 agreeing or disagreeing.
 
-"An' you," Uncle Jack glared at Iffy and pointed his gaff hook forward.  You get
-back about your chores or I swear..."  With a final glower at all and sundry he
-turned and stalked back toward the bow.
+"An' you," Uncle Jack glared at Iffy and pointed his gaff hook forward.  "You
+get back about your chores or I swear..."  With a final glower at all and sundry
+he turned and stalked back toward the bow.
 
 "Come on," Wales said quietly, putting his hand on Iffy's arm.  She slumped and
 nodded.  Head down, she followed him back to the hatch and climbed down the
@@ -4304,6 +4304,8 @@ and primed it.
 
 "No!" Wales shouted, running toward them.  He tackled Iffy just as the grenade
 hit the jellyfish and exploded.
+
+## Chapter 7
 
 *BOOM!* The shock threw Iffy and Wales across the deck.  For a moment she lay in
 a daze while the world spun around her.
@@ -4589,12 +4591,79 @@ pockets and set to work.
 
 Cut and tear, fold, try to tie a knot, curse because the canvas was stiff with
 salt and cold, whack it against the deck, unfold it, fold it again, try another
-knot--- "Here," Wales said, "Let me do that bit. You get something on the drones
-to hang it on."
+knot--- "Here," Wales said, "Let me do that bit. You make something to hang it
+on."
 
-Iffy nodded.  Her fingers were going numb, but there wasn't time for that, there
-wasn't time for anything except cutting a loop of wire and threading it through
-a grommet in the canvas and hooking it onto the dronelet, all the while trying
-to calculate power and thrust and battery life in her head and wondering if
-they'd be able to stabilize, because the wind was picking up and they'd have to
-fly in formation or this wasn't going to work.
+Iffy nodded jerkily.  Her fingers were going numb, but there wasn't time for
+that, there wasn't time for anything except cutting a loop of wire and threading
+it through a grommet in the canvas and hooking it onto the dronelet, all the
+while trying to calculate power and thrust and battery life in her head and
+wondering if they'd be able to stabilize, because the wind was picking up and
+they'd have to fly in formation or this wasn't going to work.
+
+"Two hundred seconds," Wales said quietly.  Iffy nodded again.  Another twist,
+another cut...  "Oh, come *on*," she muttered, trying to quell her panic as the
+wire cutter slipped in her hand.  There!  She took the last piece of canvas from
+Wales and attached it.
+
+"Here goes," she said, scrambling to her feet and pulling her pad out of her
+pocket.  Power, direction, attitude---the commands sizzled from her brain
+through her fingers into the pad and from it to the dronelets.  "Oh no ya
+don't," she muttered as one started to rise.  A hasty swipe on the pad brought
+it back under control.
+
+"One hundred seconds."  Wales looked up, shading his eyes, and for a moment Iffy
+wondered if his tech could possibly let him see the satellite against the cold
+glare of the sun.
+
+*Tap tap tap.* The dronelets' rotors whined in sudden unison, lifting them off
+the *Guinevere*'s deck.  "Don't affin' shoot them, aright?" Iffy said, glaring
+at the two Marines as they steadied themselves.
+
+"Eighty seconds."  One last tap sent the dronelets whizzing away.  The strips of
+canvas she had attached to them dangled loosely between them.  All Iffy could
+think was how ridiculous they looked and how ridiculous her plan was.  *We're
+all gonna die,* she thought.  At least it would be quick.
+
+"Sixty seconds."  The hacked drones had spotted the new arrival.  Their swarm
+broke apart, reformed, and broke apart again as their tiny cores tried to make
+sense of what they were seeing.
+
+"Forty-five seconds."  The dronelets came to an abrupt halt a hundred meters
+away.  Would they---yes!  They began to circle, keeping the strips of canvas
+taut.
+
+"Thirty seconds."  The dronelets accelerated, straining against the canvas and
+the wind.  A hundred and fifty meters separated them from the *Guinevere*.
+
+All at once the *Bengal*'s hacked attack drones reached a decision.  Their tight
+swarm burst apart like a flock of started seagulls.  "Fifteen seconds," Wales
+said, his voice rising as the drones opened fire.  Canvas strips snapped and
+jerked as bullets punched holes through them.  Iffy held her breath.  If even
+one of the dronelets went down---
+
+"Zenith," Wales said flatly, and then the air wavered and rippled.  The drones
+and dronelets crackled like fireworks and fell from the sky as the satellite's
+beam heated them instantly from Antarctic cold to hundreds of degrees.  Half a
+second later, a column of steam shot up from the ocean as the beam boiled the
+top meter of water.
+
+"Gotcha!" Iffy shouted.
+
+"Well done," Wales said, clapping her on the shoulder.
+
+Iffy ignored him.  Stuffing her pad and her tools back in her pockets, she knelt
+back down on the deck.  Honesty's chest rose and fell within her exoskeleton,
+but only barely.  "We gotta get her inside," Iffy said anxiously.
+
+Wales nodded.  Grunting, he squatted, slid his hands beneath Honesty, and lifted
+her gently.
+
+"Citizen!"  One of the Marines stepped into his way.  "You are not authorized
+to---"
+
+"Sixteen orange kneecap." Wales snapped.  The Marine immediately straightened,
+saluted, and stepped out of the way.
+
+"Lead the way," he added in a normal voice to Iffy, then followed her to her
+cabin.

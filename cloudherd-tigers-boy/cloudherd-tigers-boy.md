@@ -3722,23 +3722,84 @@ heartbeat, and then the door reopened.  "I'll be back as soon as I find out,"
 Aft promised over his shoulder.  The door closed behind him for a second time
 with a bang that made Noxy jump.
 
-Grappa Gas wasn't at home.  "Probably already there," Aft grunted, drumming his
-fingers on the side of his leg.  He set off without waiting for answer, leaving
-Noxy hurrying to catch up once again.
+Grappa Gas wasn't at home.  "Probably already there," Aft grunted after Noxy
+thumped the door drum for the third time.  He set off without waiting for
+answer, leaving her hurrying to catch up once again.
 
-Aft's father wasn't at Granna Fee's.  "We'll find him later," Indy said.  She
-quickly told her mother and Aft what had happened in the square.
+But Granna Fee hadn't seen Grappa Gas that morning either.  She and Aft sat side
+by side and Indy quickly told them what had happened in the square.
 
 "A spy?" Aft said disbelievingly.  "That tubby goof?"
 
-Indy rubbed her throat.  "That tubby goof choked me without so much as a word.
-More to the point, he beat Scholar Lhawang."
+Indy rubbed her throat.  "That 'tubby goof' choked me without so much as a word.
+*And* he put Scholar Lhawang down without breaking a sweat."
 
-"But why here?" Granna Fee asked.  "Why spy on *us*?"
+"But why is he *here*?" Granna Fee asked.  "Why spy on *us*?"
 
-The reeve shook her head.  "The real question is, why has he been here for two
-years?  Shudarga only raised her flag last summer."  She stared at the
-needlepoint clouds that hung on the wall of her mother's kitchen without seeing
-them.  "She must have planned it.  The rebellion---if she sent him hear two
-years ago, or somehow got the court to send him, she must have already been
-planning to rebel."
+The reeve shook her head.  "The bigger question is, why has he been here for two
+years?  Was she already planning to rebel back then, or...?"  She sighed
+heavily.  "And if that boy really is the runaway prince...  Oh, what a mess."
+
+Four heads turned as the door flew open without warning.  "He's the prince all
+right."  Cough strode in with a scowling Grappa Gas a pace behind him.  "And
+he's the one that's going to get us out of this."
+
+Aft stood, bunching his hands into fists.  Granna Fee stood as well.  "Get out
+of my house," she said coldly.
+
+Cough grinned insolently and leaned back against the wall.  "Tell 'em," he said
+to Grappa Gas.
+
+The old man's scowl deepened.  "The tiger came and found me in the wee hours.  I
+was doing my business in the outhouse---he nearly scared me to death.  Told me
+he and the boy needed to get away.  Offered me a hundred gold bezels if I'd fly
+them both down to the capital."
+
+Noxy's breath caught.  A hundred gold bezels?  That was more money than she had
+seen in one place in her entire life---probably more than the whole village
+spent in a summer on what the pack traders brought through.  "So he *is* the
+runaway prince," she breathed.
+
+Grappa Gas shrugged and scratched absent-mindedly at the spot where his real leg
+and his peg leg met.  "Yeah, well, I wish I'd known that then," he said
+regretfully.  "I asked him to show me the bezels, and when he said I'd get paid
+in the capital, I told him to go play with the other goofs.  And no, it's not
+the smartest thing I've ever done," he added, raising a hand to forestall
+whatever Indy and Granna Fee had both opened their mouths to say.
+
+"So it's simple," Cough said, sliding smoothly into the gap.  "All we have to do
+is get the prince back to his father, and any, um, missteps that anyone might
+have made will be forgiven.  The king gives us a hundred bezels, we split it
+fifty-fifty, and poof, this is all behind us."
+
+"Except for the small matter of not knowing where the boy is," Indy said
+levelly.  "Thought I'm sure you have a plan for that."
+
+"And what do you mean, fifty-fifty?" Aft growled.  "I'll serve you dinner in the
+underhells before I see you get half a brass sequin out of this."
+
+Cough smirked.  "Well, garlic chicken is still my favorite, if it comes to
+that.  But since I'm the only one who knows where the prince and the tiger have
+holed up, and I'm the only one they trust right now, I think half is fair."
+
+Holed up...  Noxy surged to her feet.  "I know where they are."
+
+"What---" her father started, but she plowed on.
+
+"I know where they are, and as for trusting you, you're the one who told the
+*tralpa* he was the prince.  You did!" she continued.  "I heard you.  You said
+he didn't have the scars on his face the last time you saw him, and that if the
+*tralpa* got him home, they'd make him a full scholar or whatever he wanted."
+
+She turned to her mother.  "They're in the tunnels," she said excitedly.  "He
+saw them when I gave him the tour, and he's been taking stuff and stashing it
+away---I saw him the night of the fire."
+
+Cough straightened up and uncrossed his arms.  "Oh no you don't," Grappa Gas
+said, stepping in front of the door.
+
+Aft rose to his feet behind Cough, his hands still in fists.  "How about you
+take a seat while they go have a look?"
+
+Cough looked from his daughter to Aft to Indy and back to his daughter.  "Well,"
+he said quietly.  "I think I will."

@@ -16,9 +16,6 @@ who are called *extras*.
 The Director can be an adult,
 but children age 10 and older can also be Directors.
 
-> These rules are a simplified version of the [Pip System][pip-system]
-> from [Third Eye Games][third-eye].
-
 ## Background
 
 Centuries ago,
@@ -38,117 +35,83 @@ Your choices will determine how the game unfolds.
 
 ## Game Mechanics
 
-Every character in *Shapers and Bots* is described by *characteristics* and *abilities*.
-Everything a character might want to do,
+Every character in *Shapers and Bots* is described by their *characteristics* and *abilities*.
+Everything they might want to do,
 like climb a wall,
 has a *difficulty*.
 Together,
-the two determine the odds of the character doing what they want to do.
+these determine the odds of success.
 
-Characteristics and abilities are measured by how many dice the player gets to roll.
-(We use the words *rating* and *level* to describe these,
-since sometimes a word like "hobbyist" sounds most accurate,
-while other times a term like "low" sounds better.)
+Characteristics and abilities have *levels*,
+each of which corresponds to a *bonus*.
+Every task also has a level,
+which corresponds to a *target*
 
-| Rating/Level      | Number of Dice |
-| ----------------- | -------------: |
-| Novice/Very Low   | 1              |
-| Hobbyist/Low      | 2              |
-| Competent/Average | 3              |
-| Expert/High       | 4              |
-| Heroic/Very High  | 5              |
+| Level             | Bonus | Target |
+| ----------------- | ----: | -----: |
+| Very Low/Awful    | -3    |  3     |
+| Low/Poor          | -1    |  5     |
+| Average           |  0    |  7     |
+| High/Good         | +2    |  9     |
+| Very High/Great   | +4    | 11     |
+| Awesome           | +6    | 13     |
 
-Every difficulty also has a number of dice associated with it:
+Everything a character wants to do fits into one of three categories.
+In a *simple situation*,
+the character's level is higher than the task's level,
+and the outcome isn't particularly important,
+so the character automatically succeeds.
+For example,
+if a wall has Low difficulty,
+and the character has Average climbing ability,
+the Director can rule that the character gets over the wall.
+(This rule helps keep the game moving.)
 
-| Difficulty | Number of Dice |
-| ---------- | -------------: |
-| Simple     | 1              |
-| Average    | 2              |
-| Tough      | 3              |
-| Amazing    | 4              |
-| Legendary  | 5              |
-
-When a character wants to do something,
-her player rolls as many dice as her rating gives her.
-Her *score* is the number of 4s, 5s, or 6s that she gets.
-The Director then rolls the number of dice indicated by the difficulty;
-her score is also the number of 4s, 5s, or 6s.
-They then compare scores:
-
-| Outcome                               | Meaning                        |
-| ------------------------------------- | ------------------------------ |
-| Player's score is higher by 3 or more | Epic success                   |
-| Player's score is higher              | Success                        |
-| Tie                                   | Success, but with complication |
-| Player's score is lower               | Failure                        |
-| Player's score is lower by 3 or more  | Epic failure                   |
-
-*Success* and *failure* mean what they say:
-the player accomplishes the task or she doesn't.
-If the result is an *epic success*,
-she doesn't just accomplish the task:
-something especially good happens.
-If the result is an *epic failure*,
-she fails particularly badly,
-and if the result is a *tie*,
-well,
-that's where things get interesting…
+In a *complicated situation*,
+the character's level is equal to or lower than the task's level.
+In this case,
+the character rolls two dice and adds their bonus
+(or subtracts it if the bonus is negative).
+If the result is greater than the task's target,
+the character succeeds.
+If the result is less,
+they fail,
+and if the result is exactly what's required,
+they succeed but with some consequences.
 
 For example,
-suppose that Larrapin is an Expert climber and is faced with a Tough wall.
-She rolls 4 dice and gets 2, 3, 5, 6, for a score of 2.
-The Director rolls 3 dice and gets 1, 2, 4, for a score of 1.
-so Larrapin has climbed the wall without anything noteworthy happening.
-
-Now suppose she needs to climb a slippery icefall.
-The difficulty is Legendary,
-so she needs a better score with 4 dice than the Director gets with 5 dice.
-Once again, Larrapin gets 2 successes,
-but all 5 of the Director's dice come up successes!
-Since Larrapin has lost by 3 or more,
-it is an epic failure:
-she doesn't just fall,
-but a whole section of the ice breaks away with her.
-
+suppose a wall has Awesome difficulty,
+and the character has High climbing ability.
+The player rolls two dice and gets a total of 6;
+after adding 2 for their bonus to get 8,
+they are still short of the 13 required to climb the wall.
 Later,
-having survived the ice fall thanks to a quick rescue by a flying bot,
-Larrapin needs to climb another Tough wall.
-Her score is 2 yet again,
-and the Director also scores 2.
-Since the result is a tie,
-Larrapin has succeeded,
-but dislodges a stone.
-As it tumbles into the ravine,
-the noise alerts the guards above her.
-Larrapin's day is about to get a little more interesting…
+the same character tries a different Awesome wall.
+This time they roll 11 and add their bonus to get exactly 13.
+They have succeeded,
+but the Director rules that one of their boots fell off while they were climbing.
 
-> If you don't have dice, you can toss coins:
-> heads are successes and tails are failures.
+The third situation is a *contest* in which one character is trying to out-do another.
+In this case,
+both players roll dice and add their bonuses,
+and the higher score wins.
+If there is a tie,
+the Director rules on whether the contest continues or whether something unusual happened.
+For example,
+if two characters are arm-wrestling and their players both roll 9's,
+the Director can decide that they are still locked in combat.
+If they roll another tie,
+the Director can rule that the table has broken under the strain
+and sent them both sprawling on the bar floor.
 
 ### Fluke
 
 If a character has no rating at all for a task,
 they can still succeed by *fluke*.
 The player rolls a single die:
-if it is a 6,
+if it is a 5 or 6,
 she gets one point and rolls again.
-Her score is then the number of 6's they rolled in a row.
-However,
-a 1 at any point is automatically an epic failure.
-
-For example,
-Larrapin is trying desperately to open a magnetically-locked door
-before the gas leaking into the room suffocates her.
-She has no rating at all in lock-picking,
-so she can only succeed by *fluke*.
-She rolls a 6!
-And another 6!
-And then a 3,
-giving her a total score of 2.
-The task is Tough,
-so the director rolls 3 dice and gets a score of 1.
-The lock clicks open and Larrapin staggers out of the room,
-groggy but alive.
+Her score is then the number of 5's or 6's she rolled in a row.
 
 ## Characteristics
 
@@ -156,10 +119,10 @@ By default,
 every character has an Average rating for these characteristics:
 
 - **Size** (abbreviated SZ): how large the character is.
-  A character may have separate **Height** and **Weight** traits instead
+  A character may have separate **Height** and **Weight**
   if that's a better way to describe her.
 
-- **Fitness** (FI): how strong and coordinated the character is.
+- **Fitness** (FI): how strong and coordinated she is.
   Characters with a high fitness are good athletes.
 
 - **Dexterity** (DX): how good the character is with her hands.
@@ -168,7 +131,7 @@ every character has an Average rating for these characteristics:
   or perform surgery.
 
 - **Intellect** (IQ): how good the character is at book learning and abstract reasoning.
-  A character with a low intellect is not necessarily stupid–she just isn't good at logic puzzles.
+  A character with a low intellect is not necessarily stupid---she just isn't good at logic puzzles.
 
 - **Sight**, **Hearing**, and **Smell**:
   These measure exactly what their names say.
@@ -456,6 +419,3 @@ or gambling to try to win a recharge.
 | Sight     | Average | Navigation   | High      |
 | Hearing   | Low     |              |           |
 | Smell     | None    |              |           |
-
-[pip-system]: https://thirdeyegames.net/pip-system/
-[third-eye]: https://thirdeyegames.net/

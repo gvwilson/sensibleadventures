@@ -7,8 +7,8 @@ permalink: /shapers-and-bots/
 *Shapers and Bots* is a role-playing game for children age 8 and older
 inspired by *Dungeons & Dragons*,
 *Avatar: The Last Airbender*,
-*Zootopia*,
-and my daughter.
+and every animal that ever walked upright and wore clothes
+(including my daughter).
 Each game has one or more *players* and one *Director*.
 Each player takes on the role of one *character*,
 while the Director plays all the other characters,
@@ -56,40 +56,41 @@ which corresponds to a *target*
 | Very High/Great   | +4    | 11     |
 | Awesome           | +6    | 13     |
 
-Everything a character wants to do fits into one of three categories.
-In a *simple situation*,
-the character's level is higher than the task's level,
+Whenever a character tries to do something,
+it falls into one of three categories.
+If the character's level is higher than the task's
 and the outcome isn't particularly important,
-so the character automatically succeeds.
+the character automatically succeeds.
 For example,
 if a wall has Low difficulty,
 and the character has Average climbing ability,
 the Director can rule that the character gets over the wall.
 (This rule helps keep the game moving.)
 
-In a *complicated situation*,
-the character's level is equal to or lower than the task's level.
-In this case,
+If the character's level is equal to or lower than the task's,
 the character rolls two dice and adds their bonus
 (or subtracts it if the bonus is negative).
-If the result is greater than the task's target,
+If the result is greater than the target for the task,
 the character succeeds.
 If the result is less,
 they fail,
 and if the result is exactly what's required,
 they succeed but with some consequences.
+This is called a *challenge roll*,
+or just a *challenge* for short.
 
-For example,
-suppose a wall has Awesome difficulty,
-and the character has High climbing ability.
-The player rolls two dice and gets a total of 6;
-after adding 2 for their bonus to get 8,
-they are still short of the 13 required to climb the wall.
-Later,
-the same character tries a different Awesome wall.
-This time they roll 11 and add their bonus to get exactly 13.
-They have succeeded,
-but the Director rules that one of their boots fell off while they were climbing.
+> **Example:**
+> Alouard has a High climbing ability
+> but is trying to get up a wall with Awesome difficulty.
+> Her player rolls two dice and gets a total of 6 points.
+> After adding 2 for her bonus, her score is 8,
+> which is well short of the 13 needed to scale this wall.
+>
+> Later, Alouard tries a different Awesome wall.
+> This time her player rolls 11 and adds her bonus to get exactly 13.
+> Alouard has succeeded,
+> but the Director rules that one of her boots fell off while she was climbing.
+> The clatter it makes as it hits the floor attracts some unwanted attention...
 
 The third situation is a *contest* in which one character is trying to out-do another.
 In this case,
@@ -97,12 +98,15 @@ both players roll dice and add their bonuses,
 and the higher score wins.
 If there is a tie,
 the Director rules on whether the contest continues or whether something unusual happened.
-For example,
-if two characters are arm-wrestling and their players both roll 9's,
-the Director can decide that they are still locked in combat.
-If they roll another tie,
-the Director can rule that the table has broken under the strain
-and sent them both sprawling on the bar floor.
+
+> **Example:**
+> Rufus and Doofus are arm-wrestling.
+> When their players both roll 9's,
+> the Director decides that they are still locked in combat.
+> They both re-roll and get 5's.
+> This time, the Director rules that the table has broken under their weight
+> and sent them both sprawling onto the floor of the bar.
+> That's when Rufus notices the bomb ticking away underneath his seat.
 
 ### Fluke
 
@@ -110,8 +114,19 @@ If a character has no rating at all for a task,
 they can still succeed by *fluke*.
 The player rolls a single die:
 if it is a 5 or 6,
-she gets one point and rolls again.
+she gets one point and rolls again
+until she misses a roll.
 Her score is then the number of 5's or 6's she rolled in a row.
+
+> **Example:**
+> Zitterbee had never even *seen* a crossbow before today,
+> but as the deranged one-eyed crocodile pirate charges toward it,
+> it picks the one that Rufus just dropped and fires it.
+> The Director rules that hitting the crocodile is an Average task,
+> so Zitterbee needs 7 points.
+> Its player rolls a 5, another 5, a 6, a 5, a 6---and then a 3,
+> ending its lucky streak.
+> Zitterbee's shot misses.
 
 ## Characteristics
 

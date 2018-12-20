@@ -130,19 +130,20 @@ Her score is then the number of 4's, 5's, or 6's she rolled in a row.
 
 ## Characteristics
 
+So how do players know what their characters' levels are?
 By default,
 every character has an Average rating for these characteristics:
 
-- **Size** (abbreviated SZ): how large the character is.
+- **Size** (abbreviated SIZ): how large the character is.
   A character may list **Height** and **Weight** separately
   if that's a better way to describe her:
   for example, an extremeley muscular monkey might have Low Size
   but Average Weight.
 
-- **Fitness** (FI): how strong and coordinated she is.
+- **Fitness** (FIT): how strong and coordinated she is.
   Characters with a high fitness are good athletes.
 
-- **Dexterity** (DX): how good the character is with her hands.
+- **Dexterity** (DEX): how good the character is with her hands.
   This determines how well she can pick locks,
   play musical instruments,
   or perform surgery.
@@ -150,16 +151,16 @@ every character has an Average rating for these characteristics:
 - **Intellect** (IQ): how good she is at book learning and abstract reasoning.
   A character with a low Intellect is not necessarily stupid---she just isn't good at logic puzzles.
 
-- **Sight**, **Hearing**, and **Smell**:
+- **Sight** (SGT), **Hearing** (HER), and **Smell** (SML):
   These measure exactly what their names say.
   (Note that smell includes the sense of taste.)
 
-If they're important to the plot,
-extras may have two more characteristics:
+If particular extras are important to the plot---for example,
+if an extra is a player character's sidekick---they may have two more characteristics:
 
-- **Courage**: how brave the character is.
+- **Courage** (CRG): how brave the character is.
 
-- **Honesty**: how likely the character is to tell the truth.
+- **Honesty** (HON): how likely the character is to tell the truth.
 
 Player characters don't have scores for these
 because being brave and telling the truth (or not) are part of the game.
@@ -172,11 +173,11 @@ but have fur (or feathers),
 and their feet look like animals' feet.
 Different species have different default characteristics:
 
-| Species   | Size           | Fitness        | Dexterity      | Intellect      | Sight          | Hearing | Smell | Special      |
+| Species   | SIZ            | FIT            | DEX            | IQ             | SGT            | HER     | SML   | Special      |
 | --------- | -------------- | -------------- | -------------- | -------------- | -------------- | ------- | ----- | ------------ |
 | bear      | High           | High           | Low            |                | Low            |         | High  |              |
 | bison     | High           |                | Very&nbsp;Low  |                | Low            |         |       | horns        |
-| crow      | Low            | High           |                | High           |                |         | Low   | flying       |
+| crow      | Very&nbsp;Low  | High           |                | High           |                |         | Low   | flying       |
 | eagle     | Low            | Very&nbsp;High |                |                | Very&nbsp;High | High    | Low   | flying       |
 | elephant  | Very&nbsp;High |                |                |                |                |         |       | trunk        |
 | fox       | Low            |                | High           | High           |                |         | High  | carnivore    |
@@ -204,114 +205,112 @@ and cannot raise any characteristic above Very High.
 > Larrapin is a 15-year-old rabbit.
 > Her player has raised her Intellect from Average to High.
 >
-> | Trait     | Rating   |
-> | --------- | -------- |
-> | Size      | Very Low |
-> | Fitness   | Average  |
-> | Dexterity | Average  |
-> | Intellect | High     |
-> | Sight     | Average  |
-> | Hearing   | High     |
-> | Smell     | High     |
+> | Trait | Rating   |
+> | ----- | -------- |
+> | SIZ   | Very Low |
+> | FIT   | Average  |
+> | DEX   | Average  |
+> | INT   | High     |
+> | SGT   | Average  |
+> | HER   | High     |
+> | SML   | High     |
 
 > **Example:** Nang-ma is a turtle.
 > His player has raised his Size and Fitness,
 > but has lowered his sense of Smell in exchange.*
 > 
-> | Trait     | Rating   |
-> | --------- | -------- |
-> | Size      | Average  |
-> | Fitness   | Average  |
-> | Dexterity | High     |
-> | Intellect | High     |
-> | Sight     | Very Low |
-> | Hearing   | Average  |
-> | Smell     | Low      |
+> | Trait | Rating   |
+> | ----- | -------- |
+> | SIZ   | Average  |
+> | FIT   | Average  |
+> | DEX   | High     |
+> | INT   | High     |
+> | SGT   | Very Low |
+> | HER   | Average  |
+> | SML   | Low      |
 
 ## Skills
 
-Characters start with Novice/Very Low ratings for these core abilities:
+Every character has **skills** that she has improved through practice and training.
+Some common skills are listed below.
+If a characteristic is given beside the skill,
+the character's starting level (without any training) is equal to that characteristic.
+If a specific level is listed;
+the character starts with that,
+while "--" means that the character starts with no ability at all,
+and must rely on fluke rolls to succeed.
 
-- **Acting**: impersonating people, feigning illness, etc.
-- **Charisma**: charming people (or intimidating them).
-- **Crafts**: fixing clocks, knitting, and other handicrafts.
-- **Detection**: noticing little details (which isn't the same as merely seeing them).
-- **Fighting**: hand-to-hand combat.
-- **Healing**: first aid and treating poisons and diseases.
-- **Knowledge**: general background knowledge of a society or environment.
-- **Stealth**: the fine art of not being noticed.
-- **Survival**: making a fire, knowing what's good to eat, etc.
+- Acrobatics (FIT): walking a tightrope, doing a somersault, etc.
+- Animal Handling (Low): calming a frightened horse or an angry wolverine.
+- Brawling (FIT): hand-to-hand combat without weapons.
+- Boating (Very Low): managing sails and a rudder.
+- Camouflage (Low): disguising objects.
+- Camping (Very Low): setting up a tent and making a fire.
+- Charisma (IQ): charming people (includes talking people into things, fooling them, and acting).
+- Climbing (FIT): walls, ropes, and what-not.
+- Computers (--): handling anything with a digital brain; see Mechanics for the mechanical side of robots.
+- **Craft** (DEX): see below.
+- Dancing (FIT): being graceful on the dance floor.
+- Driving (--): wagons and motorized vehicles alike.
+- Escapology (DEX): getting untied, picking locks, and escaping from handcuffs.
+- Farming (Very Low): growing food.
+- **Fine Art** (DEX): see below.
+- First Aid (Very Low): handling broken bones and wounds; see Medicine.
+- Gambling (Low): cards, dice, and bluffing.
+- Hypnotism (--): putting people into a trance.
+- **Lore** (--): see below.
+- Mechanics (DEX): making or fixing broken things; see Computers for the digital side.
+- Medicine (--): handling disease and infection; see First Aid.
+- Navigation (--): finding your way by the stars and other signs.
+- Picking Pockets (Very Low): taking things without being noticed.
+- Riding (FIT): bicycles and horses.
+- Singing (FIT): making music with the voice.
+- Skating (FIT): handling yourself on metal runners.
+- Skiing (FIT): handling yourself on lengths of wood.
+- Stage Magic (--): juggling, sleight of hand, etc.
+- Stealth (FIT): moving without being spotted.
+- Swimming (Very Low): keeping your head above water.
+- Throwing (FIT): how far and how accurately.
+- Tracking (special): following things' trails. Initial ability is the best of SGT, HER, or SML.
+- Trapping (Very Low): making traps that work.
+- Tunnelling (Low): digging tunnels that don't collapse.
+- Ventriloquism (--): throwing your voice.
+- **Weapon** (FIT): see below.
 
+The skills in **bold** are categories.
+Specialties within each category must be mastered separately:
 
-Every character has *skills* that she has improved through practice and training.
-Some common skills are listed below
-along with the characteristic they are based on.
-If a character doesn't have any special training,
-her ability in a skill is equal to their level in the characteristic it's based on.
-If the base is "--" it means that characters don't have any ability at all by default
-and have to rely on fluke rolls for success.
-
-| Acrobatics (FI)         | Acting/Disguise (IQ)   | Animal Handling (IQ)    |
-| Boating (--)            | Camouflage (--)        | Camping (FI)            |
-| Climbing (FI)           | Craft ++ (--)          | Dancing (FI)            |
-| Drawing (--)            | Driving (--)           | Escapology (--)         |
-| Farming (--)            | Fighting (FI)          | Fine Art ++ (--)        |
-| First Aid (--)          | Gambling (--)          | Hunting (FI)            |
-| Hypnotism (--)          | Juggling (--)          | Lockpicking (--)        |
-| Mechanics (DX)          | Medicine (--)          | Metalwork (--)          |
-| Music (--)              | Navigation (--)        | Persuasion (IQ)         |
-| Picking Pockets (--)    | Riding (FI)            | Robotics (--)           |
-| Shooting (--)           | Singing (--)           | Skating (FI)            |
-| Skiing (FI)             | Sneaking (FI)          | Stage Magic (DX)        |
-| Swimming (--)           | Throwing (FI)          | Tracking (--)           |
-| Trapping/Fishing (--)   | Tunnelling (--)        | Unarmed Combat (FI)     |
-| Ventriloquism (--)      | Weapon ++ (FI)         |                         |
-
-The skills marked with "++" are actually categories,
-and specialties within each category must be mastered separately:
-
-- **Craft**: sewing, woodwork, baking, etc.
-- **Fine Art**: sculpture, painting, etc.
-- **Weapon**: sword, spear, pistol, etc.
-
-A character may also have knowledge of history, a language, mathematics, science,
-or some other specialized field.
-Her knowledge of any field is initially zero:
-she can't even use fluke rolls to answer questions.
-
-> The Director may allow players to choose skills for their characters
-> that are not on this list.
+- **Craft**: sewing, woodwork, baking, metalwork, etc.
+- **Fine Art**: sculpture, drawing, painting, music, etc.
+- **Lore**: history, a language, mathematics, etc.
+- **Weapon**: sword, spear, pistol, bow, etc.
 
 When a player is creating a character,
 she made improve the character's skills in one of the following ways:
 
-- Raise 5 skills by 1 level each.
-- Raise 3 skills by 1 level and 1 skill by 2 levels.
-- Raise 2 skills by 2 levels each and 1 skill by 1 level.
-- Raise 1 skill by 3 levels and 2 skills by 1 level each.
+- Raise 4 skills by 1 level each.
+- Raise 1 skill by 2 levels and 2 skills by 1 level each.
+- Raise 1 skill by 3 levels and 1 skill by 1 level.
 
-| Skill 1  | Skill 2  | Skill 3  | Skill 4  | Skill 5  |
-| -------- | -------- | -------- | -------- | -------- |
-| 1 level  | 1 level  | 1 level  | 1 level  | 1 level  |
-| 2 levels | 1 level  | 1 level  | 1 level  |          |
-| 2 levels | 2 levels | 1 level  |          |          |
-| 3 levels | 1 level  | 1 level  |          |          |
+When raising skills that have no starting level,
+such as Lore or Computers,
+the first raise brings it to Low rather than Very Low.
 
-When raising skills that depend on a characteristic,
-start counting at Low,
-i.e.,
-giving a character an Average rating for Singing counts as raising it 2 levels, not 3.
-If the skill doesn't depend on a characteristic,
-start counting at Very Low.
+> **Example:**
+> Larrapin grew up in the mountains.
+> Her player decides to raise her Climbing by 2 levels from Average (her Fitness) to Very High,
+> her First Aid from Very Low (everyone's starting point) to Low,
+> and her Medicine (which starts with nothing) to Low as well.
 
-*Example:
-Larrapin grew up in the mountains.
-Her player decides to raise her Skiing by 2 levels from Average to Very High,
-her Climbing by 2 levels from Average to Very High,
-and her First Aid to Low.
-(Remember,
-when a skill doesn't depend on a characteristic,
-raising it from nothing to Low counts.)
+The Director may allow players to choose Skills that are not in the master list.
+For example,
+Nang-ma's player wants the turtle to learn how to use deep-sea diving gear.
+The Director decides that the initial level is Very Low,
+so Nang-Ma spends two points during character construction to raise his ability to Average.
+
+## Leveling Up
+
+FIXME: leveling up
 
 ## Shaping
 

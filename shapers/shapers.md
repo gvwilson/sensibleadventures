@@ -9,10 +9,10 @@ inspired by *Dungeons & Dragons*,
 *Avatar: The Last Airbender*,
 and every animal that ever walked upright and wore clothes
 (including my daughter).
-Each game has one or more *players* and one *Director*.
+Each game has one or more **players** and one **Director**.
 Each player takes on the role of one *character*,
 while the Director plays all the other characters,
-who are called *extras*.
+who are called **extras**.
 The Director can be an adult,
 but children age 10 and older can also be Directors.
 
@@ -35,17 +35,17 @@ Your choices will determine how the game unfolds.
 
 ## Game Mechanics
 
-Every character in *Shapers and Bots* is described by their *characteristics* and *abilities*.
+Every character in *Shapers and Bots* is described by their **characteristics** and **abilities**.
 Everything they might want to do,
 like climb a wall,
-has a *difficulty*.
+has a **difficulty**.
 Together,
 these determine the odds of success.
 
-Characteristics and abilities have *levels*,
-each of which corresponds to a *bonus*.
+Characteristics and abilities have **levels**,
+each of which corresponds to a **bonus**.
 Every task also has a level,
-which corresponds to a *target*
+which corresponds to a **target**
 
 | Level             | Bonus | Target |
 | ----------------- | ----: | -----: |
@@ -76,8 +76,8 @@ If the result is less,
 they fail,
 and if the result is exactly what's required,
 they succeed but with some consequences.
-This is called a *challenge roll*,
-or just a *challenge* for short.
+This is called a **challenge roll**,
+or just a **challenge** for short.
 
 > **Example:**
 > Alouard has a High climbing ability
@@ -92,7 +92,7 @@ or just a *challenge* for short.
 > but the Director rules that one of her boots fell off while she was climbing.
 > The clatter it makes as it hits the floor attracts some unwanted attention...
 
-The third situation is a *contest* in which one character is trying to out-do another.
+The third situation is a **contest** in which one character is trying to out-do another.
 In this case,
 both players roll dice and add their bonuses,
 and the higher score wins.
@@ -111,12 +111,12 @@ the Director rules on whether the contest continues or whether something unusual
 ### Fluke
 
 If a character has no rating at all for a task,
-they can still succeed by *fluke*.
+they can still succeed by **fluke**.
 The player rolls a single die:
-if it is a 5 or 6,
+if it is a 4, 5, or 6,
 she gets one point and rolls again
 until she misses a roll.
-Her score is then the number of 5's or 6's she rolled in a row.
+Her score is then the number of 4's, 5's, or 6's she rolled in a row.
 
 > **Example:**
 > Zitterbee had never even *seen* a crossbow before today,
@@ -124,7 +124,7 @@ Her score is then the number of 5's or 6's she rolled in a row.
 > it picks the one that Rufus just dropped and fires it.
 > The Director rules that hitting the crocodile is an Average task,
 > so Zitterbee needs 7 points.
-> Its player rolls a 5, another 5, a 6, a 5, a 6---and then a 3,
+> Its player rolls a 5, another 5, a 6, a 4, a 6---and then a 3,
 > ending its lucky streak.
 > Zitterbee's shot misses.
 
@@ -134,8 +134,10 @@ By default,
 every character has an Average rating for these characteristics:
 
 - **Size** (abbreviated SZ): how large the character is.
-  A character may have separate **Height** and **Weight**
-  if that's a better way to describe her.
+  A character may list **Height** and **Weight** separately
+  if that's a better way to describe her:
+  for example, an extremeley muscular monkey might have Low Size
+  but Average Weight.
 
 - **Fitness** (FI): how strong and coordinated she is.
   Characters with a high fitness are good athletes.
@@ -145,25 +147,88 @@ every character has an Average rating for these characteristics:
   play musical instruments,
   or perform surgery.
 
-- **Intellect** (IQ): how good the character is at book learning and abstract reasoning.
-  A character with a low intellect is not necessarily stupid---she just isn't good at logic puzzles.
+- **Intellect** (IQ): how good she is at book learning and abstract reasoning.
+  A character with a low Intellect is not necessarily stupid---she just isn't good at logic puzzles.
 
 - **Sight**, **Hearing**, and **Smell**:
   These measure exactly what their names say.
   (Note that smell includes the sense of taste.)
 
-If they're going to be an important part of the game,
-extras (the non-player characters run by the Director)
-may have two more characteristics:
+If they're important to the plot,
+extras may have two more characteristics:
 
 - **Courage**: how brave the character is.
 
 - **Honesty**: how likely the character is to tell the truth.
 
-Players' characters don't have scores for these
+Player characters don't have scores for these
 because being brave and telling the truth (or not) are part of the game.
 
-## Abilities
+## Species
+
+Every living character belongs to a **species**.
+They all stand upright, speak, and have hands,
+but have fur (or feathers),
+and their feet look like animals' feet.
+Different species have different default characteristics:
+
+| Species   | Size           | Fitness        | Dexterity      | Intellect      | Sight          | Hearing | Smell | Special      |
+| --------- | -------------- | -------------- | -------------- | -------------- | -------------- | ------- | ----- | ------------ |
+| bear      | High           | High           | Low            |                | Low            |         | High  |              |
+| bison     | High           |                | Very&nbsp;Low  |                | Low            |         |       | horns        |
+| crow      | Low            | High           |                | High           |                |         | Low   | flying       |
+| eagle     | Low            | Very&nbsp;High |                |                | Very&nbsp;High | High    | Low   | flying       |
+| elephant  | Very&nbsp;High |                |                |                |                |         |       | trunk        |
+| fox       | Low            |                | High           | High           |                |         | High  | carnivore    |
+| goat      |                |                |                |                |                |         |       | horns        |
+| kangaroo  |                | High           |                |                |                |         |       | leaping      |
+| lion      |                | High           |                |                |                | High    | High  | carnivore    |
+| monkey    | Low            |                | Very&nbsp;High | High           | High           |         |       | tail         |
+| parrot    | Very&nbsp;Low  | Very&nbsp;High | High           |                |                |         |       | flying       |
+| rabbit    | Very&nbsp;Low  |                |                |                |                | High    | High  | goes berserk |
+| raccoon   | Low            |                | Very&nbsp;High |                | High           |         |       |              |
+| rhino     | High           |                | Very&nbsp;Low  |                | Low            |         | High  |              |
+| sloth     |                |                | Low            | Very&nbsp;High | Low            |         |       | very slow    |
+| tiger     |                | High           |                |                |                | High    | High  | carnivore    |
+| turtle    | Low            | Low            | High           | High           | Very&nbsp;Low  |         |       |              |
+| wolf      |                | High           |                |                |                | High    | High  | carnivore    |
+| zebra     |                |                |                |                |                |         |       |              |
+
+When a player creates a character,
+she may raise one characteristic by one level,
+or two characteristics by one level each if she also *lowers* one characteristic by one level.
+She cannot raise one characteristic by two levels,
+and cannot raise any characteristic above Very High.
+
+> **Example:**
+> Larrapin is a 15-year-old rabbit.
+> Her player has raised her Intellect from Average to High.
+>
+> | Trait     | Rating   |
+> | --------- | -------- |
+> | Size      | Very Low |
+> | Fitness   | Average  |
+> | Dexterity | Average  |
+> | Intellect | High     |
+> | Sight     | Average  |
+> | Hearing   | High     |
+> | Smell     | High     |
+
+> **Example:** Nang-ma is a turtle.
+> His player has raised his Size and Fitness,
+> but has lowered his sense of Smell in exchange.*
+> 
+> | Trait     | Rating   |
+> | --------- | -------- |
+> | Size      | Average  |
+> | Fitness   | Average  |
+> | Dexterity | High     |
+> | Intellect | High     |
+> | Sight     | Very Low |
+> | Hearing   | Average  |
+> | Smell     | Low      |
+
+## Skills
 
 Characters start with Novice/Very Low ratings for these core abilities:
 
@@ -177,70 +242,6 @@ Characters start with Novice/Very Low ratings for these core abilities:
 - **Stealth**: the fine art of not being noticed.
 - **Survival**: making a fire, knowing what's good to eat, etc.
 
-## Species
-
-Every living character belongs to a *species*.
-They all stand upright, speak, and have hands,
-but have fur (or feathers),
-and their feet look like animals' feet.
-Different species may have different defaults for the core traits:
-
-| Species   | Size      | Fitness   | Dexterity | Intellect | Sight     | Hearing | Smell | Special           |
-| --------- | --------- | --------- | --------- | --------- | --------- | ------- | ----- | ----------------- |
-| bear      | High      | High      | Low       |           | Low       |         | High  |                   |
-| bison     | High      |           | Very&nbsp;Low  |           | Low       |         |       | horns             |
-| eagle     | Low       | Very&nbsp;High |           |           | Very&nbsp;High | High    | Low   | flying            |
-| elephant  | Very&nbsp;High |           |           |           |           |         |       | trunk  |
-| fox       | Low       |           | High      | High      |           |         | High  | carnivore         |
-| goat      |           |           |           |           |           |         |       | horns             |
-| kangaroo  |           | High      |           |           |           |         |       | leaping           |
-| lion      |           | High      |           |           |           | High    | High  | carnivore         |
-| monkey    | Low       |           | Very&nbsp;High | High      | High      |         |       | tail   |
-| parrot    | Low       | Very&nbsp;High | High      |           |           |         |       | flying            |
-| rabbit    | Very&nbsp;Low  |           |           |           |           | High    | High  | goes berserk    |
-| raccoon   | Low       |           | Very&nbsp;High |           | High      |         |       |                   |
-| rhino     | High      |           | Very&nbsp;Low  |           | Low       |         | High  |                   |
-| sloth     |           |           | Low       | Very&nbsp;High | Low       |         |       | very slow  |
-| tiger     |           | High      |           |           |           | High    | High  | carnivore         |
-| turtle    | Low       | Low       | High      | High      | Very&nbsp;Low  |         |       |                   |
-| wolf      |           | High      |           |           |           | High    | High  | carnivore         |
-| zebra     |           |           |           |           |           |         |       |                   |
-
-When a player creates a character,
-she may raise one characteristic by one level,
-or two characteristics by one level each if she also *lower* one characteristic by one level.
-She cannot raise one characteristic by two levels,
-and cannot raise any characteristic above Very High.
-
-*Example:
-Larrapin is a 15-year-old rabbit.
-Her player has raised her Intellect from Average to High.*
-
-| Trait     | Rating   |
-| --------- | -------- |
-| Size      | Very Low |
-| Fitness   | Average  |
-| Dexterity | Average  |
-| Intellect | High     |
-| Sight     | Average  |
-| Hearing   | High     |
-| Smell     | High     |
-
-*Ynge is a turtle.
-His player has raised his Size and Fitness,
-but has lowered his sense of Smell in exchange.*
-
-| Trait     | Rating   |
-| --------- | -------- |
-| Size      | Average  |
-| Fitness   | Average  |
-| Dexterity | High     |
-| Intellect | High     |
-| Sight     | Very Low |
-| Hearing   | Average  |
-| Smell     | Low      |
-
-## Skills
 
 Every character has *skills* that she has improved through practice and training.
 Some common skills are listed below

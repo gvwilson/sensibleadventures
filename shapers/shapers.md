@@ -179,29 +179,156 @@ Every living character belongs to a **species**.
 They all stand upright, speak, and have hands,
 but have fur (or feathers),
 and their feet look like animals' feet.
-Different species have different default characteristics:
+Different species have different default characteristics.
 
-| Species   | SIZ            | FIT            | DEX            | IQ             | SGT            | HER     | SML   | Special      |
-| --------- | -------------- | -------------- | -------------- | -------------- | -------------- | ------- | ----- | ------------ |
-| bear      | High           | High           | Low            |                | Low            |         | High  |              |
-| bison     | High           |                | Very&nbsp;Low  |                | Low            |         |       | horns        |
-| crow      | Very&nbsp;Low  | High           |                | High           |                |         | Low   | flying       |
-| eagle     | Low            | Very&nbsp;High |                |                | Very&nbsp;High | High    | Low   | flying       |
-| elephant  | Very&nbsp;High |                |                |                |                |         |       | trunk        |
-| fox       | Low            |                | High           | High           |                |         | High  | carnivore    |
-| goat      |                |                |                |                |                |         |       | horns        |
-| kangaroo  |                | High           |                |                |                |         |       | leaping      |
-| lion      |                | High           |                |                |                | High    | High  | carnivore    |
-| monkey    | Low            |                | Very&nbsp;High | High           | High           |         |       | tail         |
-| parrot    | Very&nbsp;Low  | Very&nbsp;High | High           |                |                |         |       | flying       |
-| rabbit    | Very&nbsp;Low  |                |                |                |                | High    | High  | goes berserk |
-| raccoon   | Low            |                | Very&nbsp;High |                | High           |         |       |              |
-| rhino     | High           |                | Very&nbsp;Low  |                | Low            |         | High  |              |
-| sloth     |                |                | Low            | Very&nbsp;High | Low            |         |       | very slow    |
-| tiger     |                | High           |                |                |                | High    | High  | carnivore    |
-| turtle    | Low            | Low            | High           | High           | Very&nbsp;Low  |         |       |              |
-| wolf      |                | High           |                |                |                | High    | High  | carnivore    |
-| zebra     |                |                |                |                |                |         |       |              |
+### Bear
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| High      | High      | Low       | ---       | Low       | High      | High      |
+
+### Bison
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| High      | ---       | Very Low  | ---       | Low       | ---       | High      |
+
+-   horns
+
+### Crow
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Very Low  | High      | ---       | High      | ---       | ---       | Low       |
+
+-   flying
+
+### Eagle
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Low 	    | Very High | ---       | ---       | Very High | High      | Low       |
+
+-   flying
+
+### Elephant
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Very High | ---       | ---       | ---       | ---       | High      | ---       |
+
+-   trunk
+
+### Fox
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Low 	    | ---       | High      | High      | ---       | ---       | High      |
+
+-   carnivore
+
+### Goat
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| --- 	    | ---       | ---       | ---       | ---       | ---       | ---       |
+
+-   horns
+
+### Kangaroo
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| --- 	    | High      | ---       | ---       | ---       | ---       | ---       |
+
+-   leaping
+
+### Lion
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| --- 	    | High      | ---       | ---       | ---       | ---       | ---       |
+
+-   carnivore
+
+### Monkey
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Low 	    | ---       | Very High | High      | ---       | ---       | ---       |
+
+-   tail
+
+### Parrot
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Very Low  | Very High | High      | ---       | ---       | ---       | ---       |
+
+-   flying
+
+### Rabbit
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Very Low  | ---       | ---       | ---       | Low       | ---       | ---       |
+
+-   berserk
+
+### Raccoon
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Low 	    | ---       | Very High | ---       | High      | ---       | ---       |
+
+### Rhino
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| High 	    | ---       | Very Low  | ---       | Low       | ---       | High      |
+
+-   horn
+
+### Sloth
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| --- 	    | ---       | Low       | Very High | Low       | ---       | ---       |
+
+-   slow
+
+### Tiger
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| --- 	    | High      | ---       | ---       | ---       | ---       | ---       |
+
+-   carnivore
+
+### Turtle
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Low 	    | Low       | High      | High      | Very Low  | Low       | Low       |
+
+-   slow
+-   natural armor
+
+### Wolf
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| --- 	    | High      | ---       | ---       | ---       | ---       | High      |
+
+-   carnivore
+
+### Zebra
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Low 	    | ---       | ---       | ---       | ---       | ---       | ---       |
+
+## Modifying Characteristics
 
 When a player creates a character,
 she may raise one characteristic by one level,
@@ -225,7 +352,7 @@ and cannot raise any characteristic above Very High.
 
 > **Example:** Nang-ma is a turtle.
 > His player has raised his Size and Fitness,
-> but has lowered his sense of Smell in exchange.*
+> but has lowered his sense of Smell in exchange.
 > 
 > | Trait | Rating   |
 > | ----- | -------- |
@@ -377,7 +504,7 @@ There are a few special cases:
     the attack is always based on the target's Size.
     The Director may also give the attacker an extra bonus of +1 or +2 for surprise.
 
-## Health and Injury
+## Health
 
 Every character has a fixed number of **hit points** (HP) equal to the target figure for their Size,
 plus or minus one point for each step their Fitness is away from Average.
@@ -394,6 +521,8 @@ plus or minus one point for each step their Fitness is away from Average.
 > but Low Fitness,
 > which brings it down to 10.
 
+## Injury
+
 FIXME: non-combat damage
 
 FIXME: When a character's HP reaches zero they are unconscious.
@@ -406,24 +535,32 @@ How many depends on the type of weapon and whether they are wearing armor.
 If they are *not* wearing armor:
 
 -   For a punch or kick, do 1 point of damage on a roll of 6 on a single die.
-    If they have a martial arts skill, they can continue rolling on each 6 to do more damage;
-    if they don't, all they can do is one point of damage per blow.
--   A small weapon like a dagger, a cudgel, or a small arrow does 1 point of damage,
-    plus a second point on a die roll of 5 or 6.
-    This works like a fluke roll:
-    if the player rolls a 6,
-    that counts as one point of damage *and* they get an extra roll.
-    If that is a 5, they do another point of damage;
-    if it is a six, they do another point and get another roll, and so on.
+-   A small weapon like a dagger or a bull's horns does 1 point of guaranteed damage.
+    The attacking player then rolls two dice,
+    and does an extra point of damage for every 5 or 6 that comes up.
 -   A large weapon like a crossbow or a broadsword does 1 point of damage,
-    then adds more points for each successive 3, 4, 5, or 6.
-    In this case, a 5 or 6 earns a second roll.
+    plus one point for every 4, 5, or 6 that comes up on a roll of 3 dice.
 
-| Unarmored     | Guaranteed | Extra Point | Extra Point + Extra Roll |
-| ------------- | ---------: | ----------: | -----------------------: |
-| Punch or Kick | 0          | 6           | (6)                      |
-| Small Weapon  | 1          | 5           | 6                        |
-| Large Weapon  | 1          | 3, 4        | 5, 6                     |
+If a 6 comes up when rolling for damage for a punch or a kick,
+the attacker can roll again;
+if that comes up 6 as well,
+they do 2 points of damage instead of 1.
+When attacking with a small or large weapon,
+every 6 gets a re-roll with the same target (5 or 6 for a small weapon,
+4-6 for a large one).
+If the target is met,
+extra damage is done;
+if the roll is another 6,
+the attacker keeps rolling,
+just as they do for fluke rolls.
+This rule means that a lucky strike with a dagger can theoretically bring down a bear,
+though it has to be a *very* lucky strike.
+
+| Unarmored     | Guaranteed | Dice | Hit With |
+| ------------- | ---------: | ---: | -------: |
+| Punch or Kick | 0          | 1    | (once) 6 |
+| Small Weapon  | 1          | 2    | 5-6      |
+| Large Weapon  | 1          | 3    | 4-6      |
 
 > **Example:**
 > Dashwood shoots Slumpy with her small bow.
@@ -431,26 +568,33 @@ If they are *not* wearing armor:
 > Dashwood rolls a 5,
 > which means she does 1 more point of damage for a total of 2,
 > but does not get to keep rolling.
+>
+> In the next turn,
+> Dashwood fires again.
+> This time she rolls a 6, another 6, and then a 4 (which ends her streak).
+> That arrow did a total of 3 points of damage:
+> 1 guaranteed, and 1 more for each of the 6's.
 
 If the target of the attack *is* wearing armor,
-then punching and kicking has no effect
-(unless the attacker has a martial arts skill,
+then punching and kicking has no effect,
 in which case the blow does one point of damage on a roll of 6).
 Neither small nor large weapons do guaranteed damage,
-and rolls are all reduced:
+and the targets for rolls are increased to 6 (for small weapons)
+and 5 or 6 (for large ones).
+6's still earn re-rolls as before.
 
-| Unarmored     | Guaranteed | Extra Point | Extra Point + Extra Roll |
-| ------------- | ---------: | ----------: | -----------------------: |
-| Punch or Kick | 0          | (6)         |                          |
-| Small Weapon  | 0          |             | 6                        |
-| Large Weapon  | 0          | 5           | 6                        |
+| Armored       | Guaranteed | Dice | Hit With |
+| ------------- | ---------: | ---: | -------: |
+| Punch or Kick | 0          | 0    |          |
+| Small Weapon  | 0          | 2    | 6        |
+| Large Weapon  | 0          | 3    | 5-6      |
 
 > **Example:**
 > Slumpy closes in and hits Dashwood with her spiked club
 > (which definitely counts as a large weapon),
 > but Dashwood is wearing armor,
 > so there is no guaranteed damage.
-> Slumpy rolls 5, 6, and 1 (ending the streak),
+> Slumpy rolls 5, 5, and 1,
 > so the blow does a total of 2 points of damage.
 
 Armor is heavy:

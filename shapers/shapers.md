@@ -401,18 +401,15 @@ The amount of damage depends on the type of weapon:
     plus 1 for each successive 2, 3, 4, 5, or 6.
 
 If a character is wearing armor,
-the attacker does not get the guaranteed 1 point of damage,
-and must roll a 12 on two dice to do one point of damage with a punch or kick,
-successive 6's to do damage with a small weapon
-and successive 5's or 6's to do damage with a large one.
-However,
-armor reduces the wearer's attack and defense bonus by 1 point if they're used to wearing it,
-and 3 points if they're not.
+then a punch or a kick has no effect.
+The attacker does not get the guaranteed 1 point of damage from an attack with a weapon,
+and must roll successive 6's to do damage with a small weapon
+or successive 5's or 6's to do damage with a large one.
 
 |           | Punch or Kick | Small Weapon | Large Weapon     |
 | --------- | ------------: | -----------: | ---------------: |
 | Unarmored | 0 + (6)       | 1 + (5, 6)   | 1 + (3, 4, 5, 6) |
-| Armored   | 0 + (12)      | 0 + (6)      | 0 + (5, 6)       |
+| Armored   | 0             | 0 + (6)      | 0 + (5, 6)       |
 
 > **Example:**
 > Dashwood shoots Slumpy with her bow.
@@ -420,14 +417,20 @@ and 3 points if they're not.
 > Dashwood rolls a 5 for one more point,
 > then a 3 to end her streak,
 > for a total of 2 points of damage.
-
-> **Example:**
-> Slumpy hits Dashwood with her spiked club
+>
+> Slumpy closes in and hits Dashwood with her spiked club
 > (which definitely counts as a large weapon),
 > but Dashwood is wearing armor,
 > so there is no guaranteed damage.
-> Slumpy rolls 4, 6, and 1 (ending the streak),
+> Slumpy rolls 5, 6, and 1 (ending the streak),
 > so the blow does a total of 2 points of damage.
+
+Armor is heavy:
+it reduces the wearer's attack and defense bonus by 1 point if they're used to wearing it,
+and 3 points if they're not.
+
+When a character's HP reaches zero they are unconscious.
+What happens next depends on the situation.
 
 ## Shaping
 

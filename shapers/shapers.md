@@ -9,10 +9,10 @@ inspired by *Dungeons & Dragons*,
 *Avatar: The Last Airbender*,
 and every animal that ever walked upright and wore clothes
 (including my daughter).
-Each game has one or more **players** and one **Director**.
-Each player takes on the role of one *character*,
+Each game has one or more **[players](#g:player)** and one **[Director](#g:director)**.
+Each player takes on the role of one **[character](#g:character)**,
 while the Director plays all the other characters,
-who are called **extras**.
+who are called **[extras](#g:extra)**.
 The Director can be an adult,
 but children age 10 and older can also be Directors.
 
@@ -43,14 +43,15 @@ Your choices will determine how the game unfolds.
 
 ## Game Mechanics
 
-Every character in *Shapers and Bots* is described by their **characteristics** and **abilities**.
+Every character in *Shapers and Bots* is described by
+their **[traits](#g:trait)** and **[abilities](#g:ability)**.
 Everything they might want to do,
 like climb a wall,
-has a **difficulty**.
+has a **[difficulty](#g:difficulty)**.
 Together,
 these determine the odds of success.
 
-Characteristics and abilities have **levels**,
+Traits and abilities have **levels**,
 each of which corresponds to a **bonus**.
 Every task also has a level,
 which corresponds to a **target**
@@ -136,17 +137,15 @@ Her score is then the number of 4's, 5's, or 6's she rolled in a row.
 > ending its lucky streak.
 > Zitterbee's shot misses.
 
-## Characteristics
+## Traits
 
 So how do players know what their characters' levels are?
 By default,
-every character has an Average rating for these characteristics:
+every character has an Average rating for these traits:
 
 -   **Size** (abbreviated SIZ): how large the character is.
-    A character may list **Height** (HGT) and **Weight** (WGT) separately
-    if that's a better way to describe her:
-    for example, an extremeley muscular monkey might have Low Size
-    but Average Weight.
+    If the character is exceptionally short or exceptionally skinny,
+    the Director may allow the character to list height and weight separately.
 
 -   **Fitness** (FIT): how strong and coordinated she is.
     Characters with a high fitness are good athletes.
@@ -164,7 +163,7 @@ every character has an Average rating for these characteristics:
     (Note that smell includes the sense of taste.)
 
 If particular extras are important to the plot---for example,
-if an extra is a player character's sidekick---they may have two more characteristics:
+if an extra is a player character's sidekick---they may have two more traits:
 
 -   **Courage** (CRG): how brave the character is.
 
@@ -179,13 +178,15 @@ Every living character belongs to a **species**.
 They all stand upright, speak, and have hands,
 but have fur (or feathers),
 and their feet look like animals' feet.
-Different species have different default characteristics.
+Different species have different default traits,
+which are highlighted below.
+(We use "---" to show traits that are Average.)
 
 ### Bear
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High      | High      | Low       | ---       | Low       | High      | High      |
+| High      | ---       | Low       | ---       | Low       | ---       | High      |
 
 ### Bison
 
@@ -194,6 +195,14 @@ Different species have different default characteristics.
 | High      | ---       | Very Low  | ---       | Low       | ---       | High      |
 
 -   horns
+
+### Crocodile
+
+| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| ---       | ---       | Low       | Low       | Low       | Low       | ---       |
+
+-   swimming
 
 ### Crow
 
@@ -207,7 +216,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low 	    | Very High | ---       | ---       | Very High | High      | Low       |
+| Low       | Very High | ---       | ---       | Very High | High      | Low       |
 
 -   flying
 
@@ -223,7 +232,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low 	    | ---       | High      | High      | ---       | ---       | High      |
+| Low       | ---       | High      | High      | ---       | ---       | High      |
 
 -   carnivore
 
@@ -231,7 +240,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| --- 	    | ---       | ---       | ---       | ---       | ---       | ---       |
+| Low       | ---       | ---       | ---       | ---       | ---       | ---       |
 
 -   horns
 
@@ -239,7 +248,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| --- 	    | High      | ---       | ---       | ---       | ---       | ---       |
+| ---       | High      | ---       | ---       | ---       | ---       | ---       |
 
 -   leaping
 
@@ -247,7 +256,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| --- 	    | High      | ---       | ---       | ---       | ---       | ---       |
+| ---       | High      | ---       | ---       | ---       | ---       | ---       |
 
 -   carnivore
 
@@ -255,7 +264,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low 	    | ---       | Very High | High      | ---       | ---       | ---       |
+| Low       | ---       | Very High | High      | ---       | ---       | ---       |
 
 -   tail
 
@@ -279,13 +288,13 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low 	    | ---       | Very High | ---       | High      | ---       | ---       |
+| Low       | ---       | Very High | ---       | High      | ---       | ---       |
 
 ### Rhino
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High 	    | ---       | Very Low  | ---       | Low       | ---       | High      |
+| High      | ---       | Very Low  | ---       | Low       | ---       | High      |
 
 -   horn
 
@@ -293,7 +302,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| --- 	    | ---       | Low       | Very High | Low       | ---       | ---       |
+| ---       | ---       | Low       | Very High | Low       | ---       | ---       |
 
 -   slow
 
@@ -301,7 +310,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| --- 	    | High      | ---       | ---       | ---       | ---       | ---       |
+| ---       | High      | ---       | ---       | ---       | ---       | ---       |
 
 -   carnivore
 
@@ -309,7 +318,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low 	    | Low       | High      | High      | Very Low  | Low       | Low       |
+| Low       | Low       | High      | High      | Very Low  | Low       | Low       |
 
 -   slow
 -   natural armor
@@ -318,7 +327,7 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| --- 	    | High      | ---       | ---       | ---       | ---       | High      |
+| ---       | High      | ---       | ---       | ---       | ---       | High      |
 
 -   carnivore
 
@@ -326,15 +335,18 @@ Different species have different default characteristics.
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low 	    | ---       | ---       | ---       | ---       | ---       | ---       |
+| Low       | ---       | ---       | ---       | ---       | ---       | ---       |
 
-## Modifying Characteristics
+## Modifying Traits
 
 When a player creates a character,
-she may raise one characteristic by one level,
-or two characteristics by one level each if she also *lowers* one characteristic by one level.
-She cannot raise one characteristic by two levels,
-and cannot raise any characteristic above Very High.
+she may raise one trait by one level,
+or two traits by one level each if she also *lowers* one trait by one level.
+Players cannot raise one trait by two levels,
+and cannot raise any trait above Very High.
+Players must lower their characters' Smell by *two* levels rather than one
+if they want to raise other traits
+(because it's the least useful trait).
 
 > **Example:**
 > Larrapin is a 15-year-old rabbit.
@@ -352,7 +364,7 @@ and cannot raise any characteristic above Very High.
 
 > **Example:** Nang-ma is a turtle.
 > His player has raised his Size and Fitness,
-> but has lowered his sense of Smell in exchange.
+> but has lowered his Hearing in exchange.
 > 
 > | Trait | Rating   |
 > | ----- | -------- |
@@ -361,15 +373,15 @@ and cannot raise any characteristic above Very High.
 > | DEX   | High     |
 > | INT   | High     |
 > | SGT   | Very Low |
-> | HER   | Average  |
+> | HER   | Very Low |
 > | SML   | Low      |
 
 ## Skills
 
 Every character has **skills** that she has improved through practice and training.
 Some common skills are listed below.
-If a characteristic is given beside the skill,
-the character's starting level (without any training) is equal to that characteristic.
+If a trait is given beside the skill,
+the character's starting level (without any training) is equal to that trait.
 If a specific level is listed;
 the character starts with that,
 while "--" means that the character starts with no ability at all,
@@ -403,7 +415,7 @@ and must rely on fluke rolls to succeed.
 -   Skating (FIT): handling yourself on metal runners.
 -   Skiing (FIT): handling yourself on lengths of wood.
 -   Stage Magic (--): juggling, sleight of hand, etc.
--   Stealth (FIT): moving without being spotted.
+-   Stealth (FIT): moving without being spotted (see below).
 -   Swimming (Very Low): keeping your head above water.
 -   Throwing (FIT): how far and how accurately.
 -   Tracking (special): following things' trails. Initial ability is the best of SGT, HER, or SML.
@@ -420,19 +432,30 @@ Specialties within each category must be mastered separately:
 -   **Lore**: history, a language, mathematics, etc.
 -   **Weapon**: sword, spear, pistol, bow, etc.
 
+Stealth is also a special case.
+A character's basic ability is determined by their Fitness,
+but is adjusted up or down one level for each *two* levels their Size differs from Average:
+if their Size is Very Low, they automatically get an extra level of Stealth,
+while if their Size is Very High, they automatically lose a level.
+
 When a player is creating a character,
 she made improve the character's skills in one of the following ways:
 
 -   Raise 4 skills by 1 level each.
 -   Raise 1 skill by 2 levels and 2 skills by 1 level each.
 -   Raise 2 skills by 2 levels each.
--   Raise 1 skill by 3 levels and 1 skill by 1 level.
 
 When raising skills that have no starting level,
 such as Lore or Computers,
 the first raise brings it to Low rather than Very Low.
-Characters cannot raise one skill by four levels,
-though the Director may very occasionally do this for extras.
+
+If a character has High Intellect,
+her player can raise one of her skills by an extra level.
+This must be a skill that has already been raised,
+rather than another skill.
+If a character has Very High Intellect,
+a skill that has already been raised can be raised by one extra level,
+and one other skill that hasn't been raised yet can also be raised by one level.
 
 > **Example:**
 > Larrapin grew up in the mountains.
@@ -440,11 +463,14 @@ though the Director may very occasionally do this for extras.
 > her First Aid from Very Low (everyone's starting point) to Low,
 > and her Medicine (which starts with nothing) to Low as well.
 
-The Director may allow players to choose Skills that are not in the master list.
-For example,
-Nang-ma's player wants the turtle to learn how to use deep-sea diving gear.
-The Director decides that the initial level is Very Low,
-so Nang-Ma spends two points during character construction to raise his ability to Average.
+> **Example::**
+> Nang-ma's player decides to raise his Picking Pockets skill from Very Low to Average (2 points),
+> his Hypnotism from nothing to Low (1 point),
+> and his Boating from Very Low to Low (1 point).
+> Since his Intellect is High,
+> he can then raise his Hypnotism again from Low to Average.
+
+The Director may occasionally allow players to choose Skills that are not in the master list.
 
 ## Leveling Up
 

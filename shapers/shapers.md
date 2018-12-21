@@ -16,6 +16,14 @@ who are called **extras**.
 The Director can be an adult,
 but children age 10 and older can also be Directors.
 
+These rules focus on storytelling rather than realism.
+There are no complicated tables showing how much damage a katana does compared to a broadsword,
+and dice rolls are deliberately kept simple.
+My thanks to Eloy Lasanta's [Pip System](https://thirdeyegames.net/pip-system/),
+Alan Bahr's [Tiny Dungeon](http://www.gallantknightgames.com/tiny-dungeon-2e/),
+Chad Underkoffler's [PDQ system](http://rpgsystems.wikidot.com/pdq-system),
+and to the high school lunch-hour gang.
+
 ## Background
 
 Centuries ago,
@@ -369,9 +377,9 @@ There are a few special cases:
     the attack is always based on the target's Size.
     The Director may also give the attacker an extra bonus of +1 or +2 for surprise.
 
-## Injury
+## Health and Injury
 
-Every character has a fixed number of **hit points** equal to the target figure for their Size,
+Every character has a fixed number of **hit points** (HP) equal to the target figure for their Size,
 plus or minus one point for each step their Fitness is away from Average.
 
 > **Example:**
@@ -386,38 +394,58 @@ plus or minus one point for each step their Fitness is away from Average.
 > but Low Fitness,
 > which brings it down to 10.
 
+FIXME: non-combat damage
+
+FIXME: When a character's HP reaches zero they are unconscious.
+What happens next depends on the situation.
+
+## Damage and Armor
+
 Each time a character is hit by a weapon, they lose Hit Points.
-The amount of damage depends on the type of weapon:
+How many depends on the type of weapon and whether they are wearing armor.
+If they are *not* wearing armor:
 
 -   For a punch or kick, do 1 point of damage on a roll of 6 on a single die.
--   A small weapon like a dagger or a cudgel does 1 point of damage,
-    plus 1 point for each successive roll of 5 or 6 on a single die.
+    If they have a martial arts skill, they can continue rolling on each 6 to do more damage;
+    if they don't, all they can do is one point of damage per blow.
+-   A small weapon like a dagger, a cudgel, or a small arrow does 1 point of damage,
+    plus a second point on a die roll of 5 or 6.
     This works like a fluke roll:
-    as long as the player keeps rolling a 5 or 6,
-    the damage keeps accumulating.
--   A large weapon like an arrow or a sword does 1 point of damage,
+    if the player rolls a 6,
+    that counts as one point of damage *and* they get an extra roll.
+    If that is a 5, they do another point of damage;
+    if it is a six, they do another point and get another roll, and so on.
+-   A large weapon like a crossbow or a broadsword does 1 point of damage,
     then adds more points for each successive 3, 4, 5, or 6.
--   A really powerful weapon like a laser blaster does 1 point of damage,
-    plus 1 for each successive 2, 3, 4, 5, or 6.
+    In this case, a 5 or 6 earns a second roll.
 
-If a character is wearing armor,
-then a punch or a kick has no effect.
-The attacker does not get the guaranteed 1 point of damage from an attack with a weapon,
-and must roll successive 6's to do damage with a small weapon
-or successive 5's or 6's to do damage with a large one.
-
-|           | Punch or Kick | Small Weapon | Large Weapon     |
-| --------- | ------------: | -----------: | ---------------: |
-| Unarmored | 0 + (6)       | 1 + (5, 6)   | 1 + (3, 4, 5, 6) |
-| Armored   | 0             | 0 + (6)      | 0 + (5, 6)       |
+| Unarmored     | Guaranteed | Extra Point | Extra Point + Extra Roll |
+| ------------- | ---------: | ----------: | -----------------------: |
+| Punch or Kick | 0          | 6           | (6)                      |
+| Small Weapon  | 1          | 5           | 6                        |
+| Large Weapon  | 1          | 3, 4        | 5, 6                     |
 
 > **Example:**
-> Dashwood shoots Slumpy with her bow.
+> Dashwood shoots Slumpy with her small bow.
 > The arrow does a guaranteed 1 point of damage;
-> Dashwood rolls a 5 for one more point,
-> then a 3 to end her streak,
-> for a total of 2 points of damage.
->
+> Dashwood rolls a 5,
+> which means she does 1 more point of damage for a total of 2,
+> but does not get to keep rolling.
+
+If the target of the attack *is* wearing armor,
+then punching and kicking has no effect
+(unless the attacker has a martial arts skill,
+in which case the blow does one point of damage on a roll of 6).
+Neither small nor large weapons do guaranteed damage,
+and rolls are all reduced:
+
+| Unarmored     | Guaranteed | Extra Point | Extra Point + Extra Roll |
+| ------------- | ---------: | ----------: | -----------------------: |
+| Punch or Kick | 0          | (6)         |                          |
+| Small Weapon  | 0          |             | 6                        |
+| Large Weapon  | 0          | 5           | 6                        |
+
+> **Example:**
 > Slumpy closes in and hits Dashwood with her spiked club
 > (which definitely counts as a large weapon),
 > but Dashwood is wearing armor,
@@ -428,9 +456,6 @@ or successive 5's or 6's to do damage with a large one.
 Armor is heavy:
 it reduces the wearer's attack and defense bonus by 1 point if they're used to wearing it,
 and 3 points if they're not.
-
-When a character's HP reaches zero they are unconscious.
-What happens next depends on the situation.
 
 ## Shaping
 

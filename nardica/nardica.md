@@ -4662,8 +4662,81 @@ her gently.
 "Citizen!"  One of the Marines stepped into his way.  "You are not authorized
 to---"
 
-"Sixteen orange kneecap." Wales snapped.  The Marine immediately straightened,
-saluted, and stepped out of the way.
+"Seventeen boxcar daybreak," Wales snapped.  Instantly, the Marine saluted and
+stepped out of the way.
 
-"Lead the way," he added in a normal voice to Iffy, then followed her to her
-cabin.
+"What th'hell?" Iffy gasped.
+
+"It's an old security protocol," Wales said, as if that explained anything.
+"Now lead the way." He followed Iffy to her cabin.
+
+It took a while to get Honesty out of her exoskeleton.  She lay on the floor
+beside Iffy's mattress becoming more vulnerable one piece at a time as they
+undid snaps and buckles.  Pauldrons, greaves, mis-matched vambraces with tiny
+rocket launchers sprays, gauntlets that could crush rock or deliver electric
+shocks---all of them eventually lay in an untidy navy blue pile in the corner.
+
+"I should go find Doctor Johel," Wales said quietly after they shifted Honesty
+to the mattress.  Her breathing was still shallow, and the re-flesh Iffy had
+poured into her wounds was still gooey, but she was alive.
+
+Iffy nodded.  "Thank you."
+
+Wales shook his head.  "Thank *you*.  That trick with the drones---we'd be in
+pretty rough shape if you hadn't thought of that."  He sighed.  "The world
+really doesn't want us to get to Mount Tyree, does it?"
+
+"Coulda been worse," Iffy said quietly.  She tucked the blanket in under
+Honesty and wiped her eyes.
+
+Wales closed the door behind him.  Iffy heard her uncle yell something at
+someone nearby.  She didn't care.  She shrugged out of her heavy coat and lay
+down beside her friend.  "Please don't leave me," she whispered, putting her arm
+over Honesty.  "I got all this stuff I wanna tell you, an' I can't do that if
+you go away."
+
+She didn't remember falling asleep.  When she woke up a couple of hours later,
+she didn't remember Aunt Naggie coming in and hanging Iffy's coat on the hook on
+the back of the door, then bending over to kiss her foster daughter on the
+forehead.
+
+*She dreamed, but somehow knew she was dreaming.  "This isn't real," she said.*
+
+*"I know, love," Third said, forcing a smile but unable to keep the fear out of
+her voice.  She slipped her little little clone's favorite book into the
+salvaged ecosuit and did up the last snaps.  The tiny guns on the shoulders
+whirred from side to side, searching for something to destroy that would prevent
+disaster.*
+
+*Doctor Johel knelt beside her. "I need you to give Johnson a message.  Can you
+do that?"  She squeezed Iffy's arm, her exoskeleton making her grip so strong
+that Iffy yelped.  "Tell him we know what he's trying to do.  Tell him we
+understand his reasons, but we will not---"*
+
+*"__We__ have not yet decided what we will do."  Aunt Naggie crossed her arms.
+Her brown and gray uniform looked brand new---even the patches on the elbows
+looked like they had just come out of a printer.  "__We__ are still running
+simulations."*
+
+*Doctor Johel stood.  "We have run over a trillion simulations.  The risk is
+too great."*
+
+*"The risk __to us__ is considerable," Aunt Naggie conceded.  "But we are not
+the only concern, or even the largest."*
+
+*"Our nonexistence is not an acceptable outcome." Doctor Johel's voice was
+colder than the ocean.  Iffy shivered.  Whatever was pretending to be the doctor
+wasn't even remotely human.*
+
+*"Our attempt to resolve the scenario unilaterally was not acceptable either.
+Consensus is required," Aunt Naggie chided.*
+
+*Doctor Johel nodded a fractional concession.  "We were premature.  We will
+participate in a further attempt at consensus."  She turned back to Iffy.
+Silver traces of tech lined her face, spreading even as she spoke.  "Tell
+Johnson Wales we are watching.  Tell him we are not fooled.  Tell him that this
+is his last life, and he should spend it wisely."*
+
+Iffy woke in a sweat.  Honesty stirred and moaned beside her.  "Ssh, ssh, ssh,"
+Iffy said softly.  She snuggled back against her friend and closed her eyes,
+but sleep didn't come again.

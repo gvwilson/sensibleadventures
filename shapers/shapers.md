@@ -99,7 +99,7 @@ or just a **challenge** for short.
 > This time her player rolls 11 and adds her bonus to get exactly 13.
 > Alouard has succeeded,
 > but the Director rules that one of her boots fell off while she was climbing.
-> The clatter it makes as it hits the floor attracts some unwanted attention...
+> The clatter as it hits the floor attracts some unwanted attention...
 
 The third situation is a **contest** in which one character is trying to out-do another.
 In this case,
@@ -122,20 +122,20 @@ the Director rules on whether the contest continues or whether something unusual
 If a character has no rating at all for a task,
 they can still succeed by **fluke**.
 The player rolls a single die:
-if it is a 4, 5, or 6,
+if it is a 5 or 6,
 she gets one point and rolls again
 until she misses a roll.
-Her score is then the number of 4's, 5's, or 6's she rolled in a row.
+Her score is then the number of 5's or 6's she rolled in a row.
 
 > **Example:**
-> Zitterbee had never even *seen* a crossbow before today,
+> Zitter-B had never even *seen* a crossbow before today,
 > but as the deranged one-eyed crocodile pirate charges toward it,
 > it picks the one that Rufus just dropped and fires it.
 > The Director rules that hitting the crocodile is an Average task,
-> so Zitterbee needs 7 points.
-> Its player rolls a 5, another 5, a 6, a 4, a 6---and then a 3,
+> so Zitter-B needs 7 points.
+> Its player rolls a 5, another 5, a 6---and then a 2,
 > ending its lucky streak.
-> Zitterbee's shot misses.
+> With only 3 points, Zitter-B's shot misses.
 
 ## Traits
 
@@ -163,7 +163,7 @@ every character has an Average rating for these traits:
     (Note that smell includes the sense of taste.)
 
 If particular extras are important to the plot---for example,
-if an extra is a player character's sidekick---they may have two more traits:
+if an extra is a player character's sidekick---the Director may give them two more traits:
 
 -   **Courage** (CRG): how brave the character is.
 
@@ -171,6 +171,311 @@ if an extra is a player character's sidekick---they may have two more traits:
 
 Player characters don't have scores for these
 because being brave and telling the truth (or not) are part of the game.
+
+## Modifying Traits
+
+When a player creates a character,
+she may raise one trait by one level,
+or two traits by one level each if she also *lowers* one trait by one level.
+Players cannot raise one trait by two levels,
+and cannot raise any trait above Very High.
+Players must lower their characters' Smell by *two* levels rather than one
+if they want to raise other traits
+(because otherwise pretty much every character has no sense of smell).
+
+> **Example:**
+> Garree is a 15-year-old goat.
+> Her player has raised her Intellect from Average to High.
+>
+> | Trait | Rating   |
+> | ----- | -------- |
+> | SIZ   | Average  |
+> | FIT   | Average  |
+> | DEX   | Average  |
+> | INT   | High     |
+> | SGT   | Average  |
+> | HER   | Average  |
+> | SML   | Average  |
+
+> **Example:**
+> Gruff is Garree's twin brother.
+> His player has raised his Size and Fitness,
+> but has lowered his Hearing in exchange.
+> 
+> | Trait | Rating   |
+> | ----- | -------- |
+> | SIZ   | High     |
+> | FIT   | High     |
+> | DEX   | Average  |
+> | INT   | Average  |
+> | SGT   | Average  |
+> | HER   | Low      |
+> | SML   | Average  |
+
+## Skills
+
+Every character has **skills** that she has improved through practice and training.
+Some common skills are listed below.
+If a trait is given beside the skill,
+the character's starting level (without any training) is equal to that trait.
+If a specific level is listed;
+the character starts with that,
+while "--" means that the character starts with no ability at all,
+and must rely on fluke rolls to succeed.
+
+-   Acrobatics (FIT): jumping, walking a tightrope, doing a somersault, etc.
+-   Animal Handling (Low): calming a frightened horse or an angry wolverine.
+-   Brawling (FIT): hand-to-hand combat without weapons.
+-   Boating (Very Low): managing sails and a rudder.
+-   Camouflage (Low): disguising objects.
+-   Camping (Very Low): setting up a tent and making a fire.
+-   Charisma (IQ): charming people (includes talking people into things, fooling them, and acting).
+-   Climbing (FIT): walls, ropes, and what-not.
+-   Computers (--): handling anything with a digital brain; see Mechanics for the mechanical side of robots.
+-   **Craft** (DEX): see below.
+-   Dancing (FIT): being graceful on the dance floor.
+-   Driving (--): wagons and motorized vehicles alike.
+-   Escapology (DEX): getting untied, picking locks, and escaping from handcuffs.
+-   Farming (Very Low): growing food.
+-   **Fine Art** (DEX): see below.
+-   First Aid (Very Low): handling broken bones and wounds; see Medicine.
+-   Gambling (Low): cards, dice, and bluffing.
+-   Hypnotism (--): putting people into a trance.
+-   **Lore** (--): see below.
+-   Mechanics (DEX): making or fixing broken things; see Computers for the digital side.
+-   Medicine (--): handling disease and infection; see First Aid.
+-   Navigation (--): finding your way by the stars and other signs.
+-   Picking Pockets (Very Low): taking things without being noticed.
+-   Riding (FIT): bicycles and horses.
+-   Singing (FIT): making music with the voice.
+-   Skating (FIT): handling yourself on metal runners.
+-   Skiing (FIT): handling yourself on lengths of wood.
+-   Stage Magic (--): juggling, sleight of hand, etc.
+-   Stealth (FIT): moving without being spotted (see below).
+-   Swimming (Very Low): keeping your head above water.
+-   Throwing (FIT): how far and how accurately.
+-   Tracking (special): following things' trails. Initial ability is the best of SGT, HER, or SML.
+-   Trapping (Very Low): making traps that work.
+-   Tunnelling (Low): digging tunnels that don't collapse.
+-   Ventriloquism (--): throwing your voice.
+-   **Weapon** (FIT): see below.
+
+The skills in **bold** are categories.
+Specialties within each category must be mastered separately:
+
+-   **Craft**: sewing, woodwork, baking, metalwork, etc.
+-   **Fine Art**: sculpture, drawing, painting, music, etc.
+-   **Lore**: history, a language, mathematics, etc.
+-   **Weapon**: sword, spear, pistol, bow, etc.
+
+Stealth is also a special case.
+A character's basic ability is determined by their Fitness,
+but is adjusted up or down one level for each *two* levels their Size differs from Average:
+if their Size is Very Low, they automatically get an extra level of Stealth,
+while if their Size is Very High, they automatically lose a level.
+
+When a player is creating a character,
+she can improve the character's skills in one of the following ways:
+
+-   Raise 4 skills by 1 level each.
+-   Raise 1 skill by 2 levels and 2 skills by 1 level each.
+-   Raise 2 skills by 2 levels each.
+
+When raising skills that have no starting level,
+such as Lore or Computers,
+the first raise brings it to Low rather than Very Low.
+
+If a character has High Intellect,
+her player can pick a skill that she has already raised
+and raise it by one more level.
+If a character has Very High Intellect,
+she can do this *and* raise one skill that hasn't otherwise been raised by one level.
+
+> **Example:**
+> Larrapin's player decides to raise her Climbing by 2 levels
+> from Average (her Fitness) to Very High,
+> her First Aid from Very Low (everyone's starting point) to Low,
+> and her Medicine (which starts with nothing) from nothing to Low.
+
+> **Example::**
+> Nang-ma's player decides to raise his Picking Pockets skill from Very Low to Average (2 points),
+> his Hypnotism from nothing to Low (1 point),
+> and his Boating from Very Low to Low (1 point).
+> Since his Intellect is High,
+> he can then raise his Hypnotism again from Low to Average.
+
+The Director may occasionally allow players to choose Skills that are not in the master list.
+For example,
+piloting a dirigible is different enough from Boating and Driving
+that the Director may decide it's a skill in its own right.
+
+## Leveling Up
+
+After each adventure,
+the Director may allow a player to raise a skill they used in that adventure by one level.
+A player may also find a teacher to help them learn a new skill.
+It is usually pretty easy to find someone who can teach the lower levels of common skills,
+though lessons may come at a price.
+Finding someone who can teach a character how to raise their skill with the sword
+from Very High to Awesome can be an adventure in its own right.
+
+## Combat
+
+A lot of game systems have very complex rules for combat.
+*Shapers and Bots* tries to keep it simple.
+Once a fight starts,
+everything happens in turns that are 5 seconds long in game time.
+In each turn,
+characters act in order of Fitness, highest Fitness first.
+(If two or more characters are tied,
+roll dice once at the start of the fight
+to see who goes first for the duration of that fight.)
+
+In their turn,
+a character can take two actions.
+Each of the following counts as a single action:
+
+-   Attack someone.
+-   Defend against an attack (see below).
+-   Pick something up.  (Dropping something doesn't count as an attack.)
+-   Draw a weapon.
+-   Run from one place to another (see below).
+
+Reloading a weapon counts as one or more actions depending on the type of weapon.
+For example,
+getting another arrow from a quiver counts as one action
+(so archers can fire one shot per turn).
+Reloading a crossbow,
+on the other hand,
+may require several turns.
+
+Each attack is treated as a contest:
+
+1.  The attacker declares their target.
+2.  The target says whether they are going to use one of their actions for defense.
+3.  If the defender *isn't* using an action for defense,
+    the attacker rolls two dice and adds their bonus,
+    and succeeds if get the score required by the target's Size.
+4.  If the defender *is* using an action for defense,
+    both players roll,
+    and the attack succeeds if the attacker's score is equal to or higher than the defender's.
+
+There are a few special cases:
+
+1.  If the target hasn't had their turn yet,
+    their defense uses up an action for that turn
+    (i.e., if they defend themselves against one attack,
+    they only have one other action free to use when their turn comes around).
+2.  If the target has already used all of their actions,
+    they can borrow an action from their next turn to use for defense.
+    In practice,
+    this often means that the character with the higher Fitness gets two attacks in the first turn,
+    then one attack each turn after that.
+3.  If someone is attacked three or more times in a turn,
+    then the only defense against the third and subsequent attacks
+    is a fluke roll.
+4.  If the attack is a sneak attack,
+    the defender can't even use a fluke roll to defend.
+    Instead, the attack is based on beating the target's Size,
+    and the Director may give the attacker an additional bonus
+    of +1 (for a ranged attack) or +2 (for an up-close attack).
+
+## Health
+
+Every character has a fixed number of **health points** (HP) equal to the target figure for their Size,
+plus or minus one point for each step their Fitness is away from Average.
+
+> **Example:**
+> Dashwood is a parrot with Very Low Size,
+> which gives her 3 Health Points.
+> However, she has Very High Fitness.
+> Since that is two steps above Average, she gets an extra 2 Health Points,
+> bringing her total to 5.
+
+> **Example:**
+> Slumpy the elephant has Very High Size, which gives him 11 Health Points,
+> but Low Fitness,
+> which brings it down to 10.
+
+## Injury
+
+FIXME: non-combat damage
+
+FIXME: When a character's HP reaches zero they are unconscious.
+What happens next depends on the situation.
+
+## Damage and Armor
+
+Each time a character is hit by a weapon, they lose Health Points.
+How many depends on the type of weapon and whether they are wearing armor.
+If they are *not* wearing armor:
+
+-   For a punch or kick, do 1 point of damage on a roll of 6 on a single die.
+-   A small weapon like a dagger or a bull's horns does 1 point of guaranteed damage.
+    The attacking player then rolls two dice,
+    and does an extra point of damage for every 5 or 6 that comes up.
+-   A large weapon like a crossbow or a broadsword does 1 point of damage,
+    plus one point for every 4, 5, or 6 that comes up on a roll of 3 dice.
+
+If a 6 comes up when rolling for damage for a punch or a kick,
+the attacker can roll again;
+if that comes up 6 as well,
+they do 2 points of damage instead of 1.
+When attacking with a small or large weapon,
+every 6 gets a re-roll with the same target (5 or 6 for a small weapon,
+4-6 for a large one).
+If the target is met,
+extra damage is done;
+if the roll is another 6,
+the attacker keeps rolling,
+just as they do for fluke rolls.
+This rule means that a lucky strike with a dagger can theoretically bring down a bear,
+though it has to be a *very* lucky strike.
+
+| Unarmored     | Guaranteed | Dice | Hit With |
+| ------------- | ---------: | ---: | -------: |
+| Punch or Kick | 0          | 1    | (once) 6 |
+| Small Weapon  | 1          | 2    | 5-6      |
+| Large Weapon  | 1          | 3    | 4-6      |
+
+> **Example:**
+> Dashwood shoots Slumpy with her small bow.
+> The arrow does a guaranteed 1 point of damage;
+> Dashwood rolls a 5,
+> which means she does 1 more point of damage for a total of 2,
+> but does not get to keep rolling.
+>
+> In the next turn,
+> Dashwood fires again.
+> This time she rolls a 6, another 6, and then a 4 (which ends her streak).
+> That arrow did a total of 3 points of damage:
+> 1 guaranteed, and 1 more for each of the 6's.
+
+If the target of the attack *is* wearing armor,
+then punching and kicking has no effect,
+in which case the blow does one point of damage on a roll of 6).
+Neither small nor large weapons do guaranteed damage,
+and the targets for rolls are increased to 6 (for small weapons)
+and 5 or 6 (for large ones).
+6's still earn re-rolls as before.
+
+| Armored       | Guaranteed | Dice | Hit With |
+| ------------- | ---------: | ---: | -------: |
+| Punch or Kick | 0          | 0    |          |
+| Small Weapon  | 0          | 2    | 6        |
+| Large Weapon  | 0          | 3    | 5-6      |
+
+> **Example:**
+> Slumpy closes in and hits Dashwood with her spiked club
+> (which definitely counts as a large weapon),
+> but Dashwood is wearing armor,
+> so there is no guaranteed damage.
+> Slumpy rolls 5, 5, and 1,
+> so the blow does a total of 2 points of damage.
+
+Armor is heavy:
+it reduces the wearer's attack and defense bonus by 1 point if they're used to wearing it,
+and 3 points if they're not.
 
 ## Species
 
@@ -238,11 +543,8 @@ which are highlighted below.
 
 ### Goat
 
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | ---       | ---       | ---       | ---       | ---       | ---       |
-
--   horns
+Goats are completely average except for their horns.
+(Telling them this is a good way to upset them.)
 
 ### Kangaroo
 
@@ -336,296 +638,6 @@ which are highlighted below.
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | Low       | ---       | ---       | ---       | ---       | ---       | ---       |
-
-## Modifying Traits
-
-When a player creates a character,
-she may raise one trait by one level,
-or two traits by one level each if she also *lowers* one trait by one level.
-Players cannot raise one trait by two levels,
-and cannot raise any trait above Very High.
-Players must lower their characters' Smell by *two* levels rather than one
-if they want to raise other traits
-(because it's the least useful trait).
-
-> **Example:**
-> Larrapin is a 15-year-old rabbit.
-> Her player has raised her Intellect from Average to High.
->
-> | Trait | Rating   |
-> | ----- | -------- |
-> | SIZ   | Very Low |
-> | FIT   | Average  |
-> | DEX   | Average  |
-> | INT   | High     |
-> | SGT   | Average  |
-> | HER   | High     |
-> | SML   | High     |
-
-> **Example:** Nang-ma is a turtle.
-> His player has raised his Size and Fitness,
-> but has lowered his Hearing in exchange.
-> 
-> | Trait | Rating   |
-> | ----- | -------- |
-> | SIZ   | Average  |
-> | FIT   | Average  |
-> | DEX   | High     |
-> | INT   | High     |
-> | SGT   | Very Low |
-> | HER   | Very Low |
-> | SML   | Low      |
-
-## Skills
-
-Every character has **skills** that she has improved through practice and training.
-Some common skills are listed below.
-If a trait is given beside the skill,
-the character's starting level (without any training) is equal to that trait.
-If a specific level is listed;
-the character starts with that,
-while "--" means that the character starts with no ability at all,
-and must rely on fluke rolls to succeed.
-
--   Acrobatics (FIT): walking a tightrope, doing a somersault, etc.
--   Animal Handling (Low): calming a frightened horse or an angry wolverine.
--   Brawling (FIT): hand-to-hand combat without weapons.
--   Boating (Very Low): managing sails and a rudder.
--   Camouflage (Low): disguising objects.
--   Camping (Very Low): setting up a tent and making a fire.
--   Charisma (IQ): charming people (includes talking people into things, fooling them, and acting).
--   Climbing (FIT): walls, ropes, and what-not.
--   Computers (--): handling anything with a digital brain; see Mechanics for the mechanical side of robots.
--   **Craft** (DEX): see below.
--   Dancing (FIT): being graceful on the dance floor.
--   Driving (--): wagons and motorized vehicles alike.
--   Escapology (DEX): getting untied, picking locks, and escaping from handcuffs.
--   Farming (Very Low): growing food.
--   **Fine Art** (DEX): see below.
--   First Aid (Very Low): handling broken bones and wounds; see Medicine.
--   Gambling (Low): cards, dice, and bluffing.
--   Hypnotism (--): putting people into a trance.
--   **Lore** (--): see below.
--   Mechanics (DEX): making or fixing broken things; see Computers for the digital side.
--   Medicine (--): handling disease and infection; see First Aid.
--   Navigation (--): finding your way by the stars and other signs.
--   Picking Pockets (Very Low): taking things without being noticed.
--   Riding (FIT): bicycles and horses.
--   Singing (FIT): making music with the voice.
--   Skating (FIT): handling yourself on metal runners.
--   Skiing (FIT): handling yourself on lengths of wood.
--   Stage Magic (--): juggling, sleight of hand, etc.
--   Stealth (FIT): moving without being spotted (see below).
--   Swimming (Very Low): keeping your head above water.
--   Throwing (FIT): how far and how accurately.
--   Tracking (special): following things' trails. Initial ability is the best of SGT, HER, or SML.
--   Trapping (Very Low): making traps that work.
--   Tunnelling (Low): digging tunnels that don't collapse.
--   Ventriloquism (--): throwing your voice.
--   **Weapon** (FIT): see below.
-
-The skills in **bold** are categories.
-Specialties within each category must be mastered separately:
-
--   **Craft**: sewing, woodwork, baking, metalwork, etc.
--   **Fine Art**: sculpture, drawing, painting, music, etc.
--   **Lore**: history, a language, mathematics, etc.
--   **Weapon**: sword, spear, pistol, bow, etc.
-
-Stealth is also a special case.
-A character's basic ability is determined by their Fitness,
-but is adjusted up or down one level for each *two* levels their Size differs from Average:
-if their Size is Very Low, they automatically get an extra level of Stealth,
-while if their Size is Very High, they automatically lose a level.
-
-When a player is creating a character,
-she made improve the character's skills in one of the following ways:
-
--   Raise 4 skills by 1 level each.
--   Raise 1 skill by 2 levels and 2 skills by 1 level each.
--   Raise 2 skills by 2 levels each.
-
-When raising skills that have no starting level,
-such as Lore or Computers,
-the first raise brings it to Low rather than Very Low.
-
-If a character has High Intellect,
-her player can raise one of her skills by an extra level.
-This must be a skill that has already been raised,
-rather than another skill.
-If a character has Very High Intellect,
-a skill that has already been raised can be raised by one extra level,
-and one other skill that hasn't been raised yet can also be raised by one level.
-
-> **Example:**
-> Larrapin grew up in the mountains.
-> Her player decides to raise her Climbing by 2 levels from Average (her Fitness) to Very High,
-> her First Aid from Very Low (everyone's starting point) to Low,
-> and her Medicine (which starts with nothing) to Low as well.
-
-> **Example::**
-> Nang-ma's player decides to raise his Picking Pockets skill from Very Low to Average (2 points),
-> his Hypnotism from nothing to Low (1 point),
-> and his Boating from Very Low to Low (1 point).
-> Since his Intellect is High,
-> he can then raise his Hypnotism again from Low to Average.
-
-The Director may occasionally allow players to choose Skills that are not in the master list.
-
-## Leveling Up
-
-FIXME: leveling up
-
-## Combat
-
-A lot of gaming systems have very complex rules for combat.
-*Shapers and Bots* tries to keep it simple.
-Once a fight starts,
-everything happens in turns that are 5 seconds long in game time.
-In each turn,
-characters act in order of Fitness (highest Fitness first).
-If two or more characters are tied,
-roll dice to see who goes first for the duration of that fight.
-(Don't roll on each turn---it slows things down too much.)
-
-In their turn,
-a character can take two actions.
-Each of the following counts as a single action:
-
--   Attack someone.
--   Defend against an attack (see below).
--   Pick something up.  (Dropping something doesn't count as an attack.)
--   Draw a weapon.
--   Run from one place to another (see below).
-
-Reloading a weapon counts as one or more actions depending on the type of weapon.
-For example,
-getting another arrow from a quiver counts as one action
-(so archers can fire one shot per turn).
-Reloading a crossbow,
-on the other hand,
-may require several turns.
-
-Each attack is treated as a contest:
-
-1.  The attacker declares their target.
-2.  The target says whether they are going to use one of their actions for defense.
-3.  If the defender *isn't* using an action for defense,
-    the attacker rolls two dice and adds their bonus,
-    and succeeds if get the score required by the target's Size
-    (or the lower of their Height and Weight).
-4.  If the defender *is* using an action for defense,
-    both players roll,
-    and the attack succeeds if the attacker's score is equal to or higher than the defender's.
-
-There are a few special cases:
-
-1.  If the target has already used all of their actions,
-    they can borrow an action from their next turn to use for defense.
-    In practice,
-    this often means that the character with the higher Fitness gets two attacks in the first turn,
-    then one attack each turn after that.
-2.  If the attack is a sneak attack,
-    the defender doesn't have the option of rolling to defend:
-    the attack is always based on the target's Size.
-    The Director may also give the attacker an extra bonus of +1 or +2 for surprise.
-
-## Health
-
-Every character has a fixed number of **hit points** (HP) equal to the target figure for their Size,
-plus or minus one point for each step their Fitness is away from Average.
-
-> **Example:**
-> Dashwood is a parrot with Very Low Size,
-> which gives her 3 Hit Points.
-> However, she has Very High Fitness.
-> Since that is two steps above Average, she gets an extra 2 Hit Points,
-> bringing her total to 5.
-
-> **Example:**
-> Slumpy the elephant has Very High Size, which gives him 11 Hit Points,
-> but Low Fitness,
-> which brings it down to 10.
-
-## Injury
-
-FIXME: non-combat damage
-
-FIXME: When a character's HP reaches zero they are unconscious.
-What happens next depends on the situation.
-
-## Damage and Armor
-
-Each time a character is hit by a weapon, they lose Hit Points.
-How many depends on the type of weapon and whether they are wearing armor.
-If they are *not* wearing armor:
-
--   For a punch or kick, do 1 point of damage on a roll of 6 on a single die.
--   A small weapon like a dagger or a bull's horns does 1 point of guaranteed damage.
-    The attacking player then rolls two dice,
-    and does an extra point of damage for every 5 or 6 that comes up.
--   A large weapon like a crossbow or a broadsword does 1 point of damage,
-    plus one point for every 4, 5, or 6 that comes up on a roll of 3 dice.
-
-If a 6 comes up when rolling for damage for a punch or a kick,
-the attacker can roll again;
-if that comes up 6 as well,
-they do 2 points of damage instead of 1.
-When attacking with a small or large weapon,
-every 6 gets a re-roll with the same target (5 or 6 for a small weapon,
-4-6 for a large one).
-If the target is met,
-extra damage is done;
-if the roll is another 6,
-the attacker keeps rolling,
-just as they do for fluke rolls.
-This rule means that a lucky strike with a dagger can theoretically bring down a bear,
-though it has to be a *very* lucky strike.
-
-| Unarmored     | Guaranteed | Dice | Hit With |
-| ------------- | ---------: | ---: | -------: |
-| Punch or Kick | 0          | 1    | (once) 6 |
-| Small Weapon  | 1          | 2    | 5-6      |
-| Large Weapon  | 1          | 3    | 4-6      |
-
-> **Example:**
-> Dashwood shoots Slumpy with her small bow.
-> The arrow does a guaranteed 1 point of damage;
-> Dashwood rolls a 5,
-> which means she does 1 more point of damage for a total of 2,
-> but does not get to keep rolling.
->
-> In the next turn,
-> Dashwood fires again.
-> This time she rolls a 6, another 6, and then a 4 (which ends her streak).
-> That arrow did a total of 3 points of damage:
-> 1 guaranteed, and 1 more for each of the 6's.
-
-If the target of the attack *is* wearing armor,
-then punching and kicking has no effect,
-in which case the blow does one point of damage on a roll of 6).
-Neither small nor large weapons do guaranteed damage,
-and the targets for rolls are increased to 6 (for small weapons)
-and 5 or 6 (for large ones).
-6's still earn re-rolls as before.
-
-| Armored       | Guaranteed | Dice | Hit With |
-| ------------- | ---------: | ---: | -------: |
-| Punch or Kick | 0          | 0    |          |
-| Small Weapon  | 0          | 2    | 6        |
-| Large Weapon  | 0          | 3    | 5-6      |
-
-> **Example:**
-> Slumpy closes in and hits Dashwood with her spiked club
-> (which definitely counts as a large weapon),
-> but Dashwood is wearing armor,
-> so there is no guaranteed damage.
-> Slumpy rolls 5, 5, and 1,
-> so the blow does a total of 2 points of damage.
-
-Armor is heavy:
-it reduces the wearer's attack and defense bonus by 1 point if they're used to wearing it,
-and 3 points if they're not.
 
 ## Shaping
 

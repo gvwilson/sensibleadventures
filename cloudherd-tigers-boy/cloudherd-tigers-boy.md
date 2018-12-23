@@ -3804,20 +3804,82 @@ spoke.  "You're going to turn him over to the rebels.  You're the one who told
 Nangyal who he was.  No, you did, I heard you!  You were by the Round Tower last
 night.  You said that if he got the tiger home, they'd make him a full scholar
 or whatever he wanted.  And now that you know he's a rebel, and they're in
-charge, you need to cover your butt."
+charge, you need to cover your hairy butt."
 
 "Noxy!" Iffy said, shocked.  "Language!"
 
-"Sorry," Noxy muttered.  "But it's true."
+"Well excuse me," Noxy said sarcastically.  "But it's true."
 
 Cough straightened up and uncrossed his arms.  "I don't have to listen to this,"
 he said haughtily.
 
 "Oh yes you do," Grappa Gas said, stepping in front of the door as Cough turned
-toward it.
+to leave.
 
 Aft rose to his feet, his hands still in fists.  "How about you take a seat
 while they go have a look?"
 
-Cough looked from his daughter to Aft to Indy and back to his daughter.  "Well,"
-he said quietly.  "I think I will."
+Cough looked from his daughter to Aft to Indy and back to his daughter.  His
+perpetual half-grin slowly returned to his face.  "Well," he said, pulled out a
+stool and lowered himself onto it slowly.  "Maybe I will."
+
+The other adults argued for a couple of minutes before deciding that they had to
+tie him up.  "I'll keep an eye on him," Granna Free promised, making Cough's
+smile slip for a moment.
+
+Two rolls of twine later, his ankles were firmly fastened to the stool's legs
+and his wrists tied behind his back.  Granna Fee set the paring knife she had
+used to cut the twine on the table in front of her and nodded to Iffy, Aft, and
+Grappa Gas.  "Be careful."
+
+"Yes, *amma*," Iffy said.  She leaned forward to kiss the top of Noxy's head.
+"You look after her, all right?"
+
+"Sure."  Her protests at being left behind had been dismissed quickly and
+sharply, much to her secret relief.
+
+She sat in silence with her father and grandmother.  Somewhere in the distance
+the village's goofs bleated, confused and annoyed that no one had come to give
+them their morning carrots.  Chickens clucked in their rooftops coops, and a
+shutter banged in the breeze a handful of times before someone closed it.  She
+had never heard the village so quiet, not even in the middle of winter when
+every sound was muffled by falling or fallen snow.
+
+Someone shouted in the distance.  Another voice answered.  Without warning the
+door burst open.  She jumped to her feet as Aft, Grappa Gas, and her mother
+stomped in, their faces angry, angrier, and angriest in turn.
+
+"I'm sorry, reeve, I really am," Sergeant Dorbu said, standing in the doorway
+with two of his men behind him.  "But Pupil Nangyal's orders are clear---you
+have to stay indoors until we find Kulbinder."
+
+"*Pupil?*" Iffy spat.  "So you're his *teacher* now?"
+
+Sergeant Dorbu's jaw set.  "It's what we call each other, reeve.  We're all the
+Learned Shudarga's pupils."
+
+"She have anything to teach about tying people up?" Cough asked.
+
+The sergeant glanced at him and did a double take as he noticed the twine around
+his wrists and ankles.  "Not that I recall."  He cocked an eyebrow at Iffy.
+"Please let me know if there's anything I can do.  And please---please, stay off
+the streets.  Just for now."
+
+Iffy gave him a look that would have withered a pinecone, but said nothing.
+After a heartbeat, Sergeant Dorbu gave her a short nod and closed the door.
+"Thanks for your help!" Cough called out.
+
+"I take it you didn't find them?" Granna Fee asked in the silence that followed.
+
+"Didn't get much of a chance to look," Grappa Gas grunted.  "Didn't see any sign
+of Lhawang or that royalist captain either.  But they're still looking too, so
+at least there's that."
+
+"What about going out through the back and along past the tannery?" Granna Fee
+asked after a moment.
+
+Iffy shook her head.  "It's too risky.  They have a couple of men up on the
+walls---they'd spot us the first time we had to cross the street.  And anyway,
+suppose we do find them---what next?"
+
+Noxy took a deep breath.  "Well actually," she said, "I kind of have a plan."

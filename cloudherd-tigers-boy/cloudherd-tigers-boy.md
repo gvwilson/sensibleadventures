@@ -3253,35 +3253,33 @@ slipped over to the nearest arrowslit and peeked through.  Nothing.  She pulled
 her head back and tried the next one.  There, almost directly below her, stood
 Scholar-Candidate Nangyal and her father.
 
-"I'm telling you, it's him," Cough said in a low voice.  "Didn't have the scars
-on his face the last time I saw him, but I swear, saints and Pilots both, it's
-him."
+"I'm telling you, it's him," Cough said in a low voice.  "Looks a little worse
+for wear, but saints and Pilots both, it's him."
 
 "Even if you are right, what do you propose I do about it?" the *tralpa* replied
-testily.  "In case you hadn't noticed, we're outnumbered.  *And* they have a
-tiger."  He shivered.
+testily.  "In case you hadn't noticed, we're outnumbered."  He shivered.
 
-"Yes, I know they have a scoffing tiger.  Wait!"  Cough seized the *tralpa*'s
-sleeve as the lowlander turned to leave.  "Don't you see?  This is your chance.
-If you get him home, you'll be able to name your price.  Full scholar, whatever
-post you want---anything."
+"Yes, I know you're outnumbered, I can count.  Wait!"  Cough seized the
+*tralpa*'s sleeve as the lowlander turned to leave.  "Don't you see?  This is
+your chance.  If you get him home, you'll be able to name your price.  Full
+scholar, whatever post you want---anything."
 
 The *tralpa* hesitated.  Cough released his sleeve.  "Of course, if you'd rather
 Lhawang got the credit..."
 
 "Fine," the pudgy man snapped, brushing his sleeve.  "I'll inform Captain
-Birgith.  Now let's get back inside before that damn creature comes prowling
-around and decides we'd make a good dinner."
+Birgith.  Now let's get back inside before any of those grubby traitors wander
+by and wonder what we're doing here."
 
-"You more than me," Cough said cheerfully, clapping the *tralpa* on the back.
+"You're courage is an inspiration to us all," Cough said cheerfully, clapping
+the *tralpa* on the back.
 
-Noxy watched them until they rounded the corner, her mind whirling.  Why would
-her father have seen Private Thokmay before?  *Where* would he have seen him?
-And why would Captain Birgith care?
+Noxy watched them until they rounded the corner, her mind whirling.  Who was her
+father talking about?  And why would Captain Birgith care?
 
-*Twinge.* "Oh, not now," she muttered.  She didn't have time for a
-headache---she had to get back before her mother noticed she was gone.  She
-turned to go back down the stairs and squeaked at the sight of three trolls
+*Twinge.* "Oh, not now," she muttered.  She didn't have time for another of her
+strange headaches---she had to get back before her mother noticed she was gone.
+She turned to go back down the stairs and squeaked at the sight of three trolls
 blocking her path.  Two were males with brawny arms and solemn faces.  The third
 was the female she had seen in the forest and in her dream.
 
@@ -3290,10 +3288,10 @@ The troll cocked her head.  "Is now a bad time?" she asked.
 Noxy gaped at her.  "Y-you're Gifted?"
 
 The troll's lips pulled back from her teeth in what Noxy fervently hoped was a
-smile.  "No, dear.  It's rather more complicated than that.  Well, I say
+smile.  "Yes dear, but it's rather more complicated than that.  Well, I say
 complicated," she mused, scratching her belly absent-mindedly.  "What I really
 mean is---no, no, complicated is the best word."  She nodded in agreement with
-herself.  "Quite a good word, actually.  So, now a bad time?"
+herself.  "Quite a good word, actually.  So, is now a good time to chat?"
 
 "Noxy?  Noxy, where are you?"  Indy's voice rang through the night, faint but
 clear.
@@ -3645,30 +3643,26 @@ ghost will wail and wander for a thousand years."
 world's kings and princes and *scholars* washing their own socks and peeling
 their own potatoes like the rest of us."
 
-"And speaking of princes," he continued, turning back to Sergeant Dorbu, "As
-soon as this bunch is safely stowed away, I want you to put together a search
-party.  Ours seems to have gone missing."
+"And speaking of kings and princes," he continued, turning back to Sergeant
+Dorbu, "As soon as this bunch is safely stowed away, I want you to put together
+a search party.  It seems that your tiger knows ours rather well."
 
-"Ours?" the sergeant repeated blankly.
+"Ours?" the sergeant repeated blankly.  "You have a tiger too?"
 
-Nangyal's smirk returned.  "Our prince.  I had an illuminating conversation last
-night with that cloudherd Captain Birgith caught in Rancid.  It seems that the
-tiger and his boy haven't been entirely honest with you."
+Nangyal scowled.  "What?  No, don't be daft.  Our *king*.  I had an illuminating
+conversation last night with that cloudherd Captain Birgith caught in Rancid.
+It seems that your tiger used to be a royal bodyguard.  I don't suppose he
+mentioned that when he joined your merry little band, did he?"
 
-Sergeant Dorbu shook his head in bewilderment.  "Kulbinder is a prince?  That's
+Sergeant Dorbu shook his head in bewilderment.  "Kulbinder?  A royal---that's
 ridiculous."
 
-"Not the animal," Nangyal said impatiently.  "The boy, Thokmay.  The cloudherd
-says he's King Denpa's son."
-
-"What!?" Captain Birgith spun around, shrugging off the soldier who had been
-about to lead her away.  "*He's* the runaway prince?  That's ridiculous!"
-
-"That's what I thought," Nangyal said smugly.  "So I did a little investigating
-last night.  Nothing very challenging---though I'm sure it would have been for
-some," he added, glancing at Scholar Lhawang.  The gagged magician glowered
-back.  "Imagine my surprise when I discovered that he was telling the truth.
-The boy is indeed King Denpa's missing son."
+"That's what I thought," Nangyal said smugly.  "So I did a little this and that
+last night while the rest of you were asleep.  Nothing very challenging---though
+I'm sure it would have been for some," he added, glancing at Scholar Lhawang.
+The gagged magician glowered back.  "Imagine my surprise when I discovered that
+the cloudherd was telling the truth.  The tiger has been in the royal palace and
+has spoken to the king."
 
 "So what in the saints' names is he doing fighting with *us*?" Sergeant Dorbu
 demanded.
@@ -3680,16 +3674,16 @@ count on your cooperation in that?"
 "What!? No!" Indy protested angrily.  "We're not helping anyone with---urrk!"
 Her eyes widened and her hand flew to her throat.
 
-Nangyal regarded her coolly.  "It's a simple spell," he said.  "Something of a
-classic, actually.  The price is a severe allergy to shellfish, but..."  He
-shrugged.  "That's hardly an issue up here, is it?"
+Nangyal regarded her coolly.  "This spell *is* rather challenging," he said.
+"The price is a severe allergy to shellfish, but..."  He shrugged.  "That's
+hardly an issue up here, is it?"
 
 "Stop it!" Noxy burst out.  "Whatever you're doing, stop it!"
 
 Nangyal didn't so much as twitch a finger, but Indy suddenly drew a long,
 gasping breath.  "You need to understand something," Nangyal said quietly.  "We
 are willing to give our lives for our cause, and if it's worth *our* lives, it's
-certainly worth *yours*.  Now *find that boy*."
+certainly worth *yours*.  Now *find that beast*."
 
 He turned and strode away, muttering under his breath.  Noxy watched him go,
 feeling just as shocked by his transformation as her mother looked.
@@ -3726,80 +3720,104 @@ Grappa Gas wasn't at home.  "Probably already there," Aft grunted after Noxy
 thumped the door drum for the third time.  He set off without waiting for
 answer, leaving her hurrying to catch up once again.
 
-But Granna Fee hadn't seen Grappa Gas that morning either.  She and Aft sat side
-by side and Indy quickly told them what had happened in the square.
+But Granna Fee hadn't seen Grappa Gas that morning.  She and Aft sat side by
+side and Indy quickly told them what had happened in the square.
 
 "A spy?" Aft said disbelievingly.  "That tubby goof?"
 
-Indy rubbed her throat.  "That 'tubby goof' choked me without so much as a word.
-*And* he put Scholar Lhawang down without breaking a sweat."
+Indy rubbed her throat.  "That 'tubby goof' put Scholar Lhawang down without
+breaking a sweat.  And he choked me without so much as a word."
 
 "But why is he *here*?" Granna Fee asked.  "Why spy on *us*?"
 
-The reeve shook her head.  "The bigger question is, why has he been here for two
-years?  Was she already planning to rebel back then, or...?"  She sighed
-heavily.  "And if that boy really is the runaway prince...  Oh, what a mess."
+The reeve shook her head.  "And why has he been here for two years?  Was
+Shudarga already planning to rebel that far back?"  She sighed heavily.  "And
+what in the names of the saints does Kulbinder have to do with all of this?"
 
-Four heads turned as the door flew open without warning.  "He's the prince all
-right."  Cough strode in with a scowling Grappa Gas a pace behind him.  "And
-he's the one that's going to get us out of this."
+Four heads turned as the door swung open.  "He's a king's man."  Cough strode in
+with a scowling Grappa Gas a pace behind him.  "Or a king's Gifted.  And he's
+the one that's going to get us out of this."
 
 Aft stood, bunching his hands into fists.  Granna Fee stood as well.  "Get out
 of my house," she said coldly.
 
-Cough grinned insolently and leaned back against the wall.  "Tell 'em," he said
-to Grappa Gas.
+"Wait." Iffy raised a hand.  "What did you tell the *tralpa*?"
 
-The old man's scowl deepened.  "The tiger came and found me in the wee hours.  I
-was doing my business in the outhouse---he nearly scared me to death.  Told me
-he and the boy needed to get away.  Offered me a hundred gold bezels if I'd fly
-them both down to the capital."
+Cough grinned at her insolently, and for a heartbeat Noxy wanted to get up and
+punch her father in the face.  "I was in the capital three summers ago," he
+said.  "A, um, *discrete* delivery, if you know what I mean.  Anyway, it was
+Lampwatcher's Eve and folk were having a celebration and his majesty and the
+family were out and about and---"  He spread his hands.  "There he was, big as
+life, right beside one of the young princes."
+
+"Really?" Iffy said skeptically. "And you can tell one tiger from another?"
+
+Cough leaned back against the wall.  "Tell 'em," he said, nodding to Grappa Gas.
+
+The old man's scowl deepened.  "The tiger came and spoke to me in the wee hours
+last night when I was doing my business in the outhouse---nearly scared me to
+death.  Told me he needed to get away.  Offered me a hundred gold bezels if I'd
+fly him and his boy down to the capital."
 
 Noxy's breath caught.  A hundred gold bezels?  That was more money than she had
 seen in one place in her entire life---probably more than the whole village
-spent in a summer on what the pack traders brought through.  "So he *is* the
-runaway prince," she breathed.
+spent in a summer on what the pack traders brought through.  "So is he a spy
+too?" she asked.
 
 Grappa Gas shrugged and scratched absent-mindedly at the spot where his real leg
-and his peg leg met.  "Yeah, well, I wish I'd known that then," he said
+and his peg leg met.  "Well if he is, I wish I'd known it then," he said
 regretfully.  "I asked him to show me the bezels, and when he said I'd get paid
 in the capital, I told him to go play with the other goofs.  And no, it's not
 the smartest thing I've ever done," he added, raising a hand to forestall
 whatever Indy and Granna Fee had both opened their mouths to say.
 
 "So it's simple," Cough said, sliding smoothly into the gap.  "All we have to do
-is get the prince back to his father, and any, um, missteps that anyone might
-have made will be forgiven.  The king gives us a hundred bezels, we split it
-fifty-fifty, and poof, this is all behind us."
+is get the tiger back to Gandan-in-Gandan, and any, um, missteps that anyone
+might have made will be forgiven.  The king gives us a hundred bezels, we split
+it fifty-fifty, and poof, this is all behind us."
 
-"Except for the small matter of not knowing where the boy is," Indy said
-levelly.  "Thought I'm sure you have a plan for that."
+"Except for the small matter of not knowing where he is," Indy said levelly.
+"Thought I'm sure you have a plan for that."
 
 "And what do you mean, fifty-fifty?" Aft growled.  "I'll serve you dinner in the
 underhells before I see you get half a brass sequin out of this."
 
-Cough smirked.  "Well, garlic chicken is still my favorite, if it comes to
-that.  But since I'm the only one who knows where the prince and the tiger have
-holed up, and I'm the only one they trust right now, I think half is fair."
+Cough smirked.  "Well, garlic chicken is still my favorite, if it comes to that.
+But since I'm the only one who knows where the tiger and his boy have holed up,
+and I'm the only one he trusts right now, I think half is fair."
 
-Holed up...  Noxy surged to her feet.  "I know where they are."
+"He trusts *you*?"  Granna Fee snorted.  "More fool him."
 
-"What---" her father started, but she plowed on.
+"Wait!"  Noxy surged to her feet, an idea crystallizing in her head.  "I know
+where they are."
 
-"I know where they are, and as for trusting you, you're the one who told the
-*tralpa* he was the prince.  You did!" she continued.  "I heard you.  You said
-he didn't have the scars on his face the last time you saw him, and that if the
-*tralpa* got him home, they'd make him a full scholar or whatever he wanted."
+"What---" her father started.
 
-She turned to her mother.  "They're in the tunnels," she said excitedly.  "He
-saw them when I gave him the tour, and he's been taking stuff and stashing it
-away---I saw him the night of the fire."
+"They're in the tunnels," she told her mother excitedly.  "That's why he said
+'holed up'.  Thokmay asked me about them when I was showing him around, and he's
+bee taking stuff and hiding it somewhere---I saw him the night the drying shed
+caught fire."
 
-Cough straightened up and uncrossed his arms.  "Oh no you don't," Grappa Gas
-said, stepping in front of the door.
+Five adults gaped at her.  "And anyway, you're not really going to help him, are
+you?" Noxy went on bitterly, the pieces coming together in her head as she
+spoke.  "You're going to turn him over to the rebels.  You're the one who told
+Nangyal who he was.  No, you did, I heard you!  You were by the Round Tower last
+night.  You said that if he got the tiger home, they'd make him a full scholar
+or whatever he wanted.  And now that you know he's a rebel, and they're in
+charge, you need to cover your butt."
 
-Aft rose to his feet behind Cough, his hands still in fists.  "How about you
-take a seat while they go have a look?"
+"Noxy!" Iffy said, shocked.  "Language!"
+
+"Sorry," Noxy muttered.  "But it's true."
+
+Cough straightened up and uncrossed his arms.  "I don't have to listen to this,"
+he said haughtily.
+
+"Oh yes you do," Grappa Gas said, stepping in front of the door as Cough turned
+toward it.
+
+Aft rose to his feet, his hands still in fists.  "How about you take a seat
+while they go have a look?"
 
 Cough looked from his daughter to Aft to Indy and back to his daughter.  "Well,"
 he said quietly.  "I think I will."

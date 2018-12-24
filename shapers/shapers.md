@@ -31,7 +31,7 @@ the Makers mixed their DNA with those of animals to create dozens of thinking sp
 then vanished,
 leaving behind a world full of marvels:
 half-human creatures with strange powers,
-thinking machines that are now their own masters,
+robots that are now their own masters,
 and a gathering evil that now threaten both.
 
 In *Shapers and Bots*,
@@ -487,19 +487,39 @@ Different species have different default traits,
 which are highlighted below.
 (We use "---" to show traits that are Average.)
 
+All animals are either vegetarian or omnivores;
+those marked as "carnivorous" simply have a particularly strong liking for meat.
+Eating intelligent animals is considered cannibalism.
+
 ### Bear
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High      | ---       | Low       | ---       | Low       | ---       | High      |
+| High      | ---       | Low       | ---       | Low       | ---       | ---       |
+
+Bears are deeply spiritual animals,
+apt to halt in the middle of combat and ask,
+"But truly, what is the point of such strife?"
+Of course,
+if you were this big,
+you could afford to be philosophical too.
+
+-   Fur counts as natural armor (but without any attack penalty).
+-   Claws and bite count as small weapons.
 
 ### Bison
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High      | ---       | Very Low  | ---       | Low       | ---       | High      |
+| High      | ---       | Very Low  | ---       | Low       | ---       | ---       |
 
--   horns
+Bison are rarely found on their own---in fact,
+most suffer from acute isolophobia (a fear of being alone).
+They are naturally protective of weak members of their "herd",
+which can include their workmates, neighbors, and fellow adventurers.
+
+-   Thick hide counts as natural armor (but without any attack penalty).
+-   Horns count as small weapons.
 
 ### Crocodile
 
@@ -507,31 +527,53 @@ which are highlighted below.
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | ---       | ---       | Low       | Low       | Low       | Low       | ---       |
 
--   swimming
+
+Crocodiles are slow moving,
+except when they're not,
+and incredibly patient---particularly when it comes to their favorite sport: revenge.
+
+-   Carnivorous.
+-   Thick hide counts as natural armor.
+-   They naturally have a High rating in Swimming.
 
 ### Crow
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Very Low  | High      | ---       | High      | ---       | ---       | Low       |
+| Very Low  | High      | Low       | High      | ---       | ---       | Low       |
 
--   flying
+Crows are the fast-talking deal-makers of the animal world.
+Like other birds, they cannot actually fly, but are able to glide for short distances.
+Their feathered appendages make them somewhat clumsy,
+and they are fascinated by shiny objects.
 
 ### Eagle
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | Very High | ---       | ---       | Very High | High      | Low       |
+| Low       | Very High | Low       | ---       | Very High | High      | Low       |
 
--   flying
+"As proud as an eagle" is a common saying, and is usually not meant as a compliment.
+Natural aristocrats,
+eagles are quick to take offense,
+and their keen eyesight makes them natural guards and scouts.
+Like other birds, they cannot actually fly, but are able to glide for short distances.
+
+-   Carnivorous.
 
 ### Elephant
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Very High | ---       | ---       | ---       | ---       | High      | ---       |
+| Very High | ---       | ---       | High      | ---       | High      | ---       |
 
--   trunk
+Elephants naturally form a matriarchal society:
+females are in charge of government and business,
+while most adult males skulk around the sidelines trying to find ways to be useful.
+Young males often go on quests to try to win glory;
+they are natural story-tellers and have exceptional memories.
+
+-   Can use their trunk as a clumsy extra hand (though it's considered rude to do so in company).
 
 ### Fox
 
@@ -539,20 +581,28 @@ which are highlighted below.
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | Low       | ---       | High      | High      | ---       | ---       | High      |
 
--   carnivore
+As cunning as crows,
+foxes are nimble-fingered, quick-witted, and always looking for their next deal.
+
+-   Carnivorous.
 
 ### Goat
 
-Goats are completely average except for their horns.
+Goats are completely average in every way except for their horns.
 (Telling them this is a good way to upset them.)
 
 ### Kangaroo
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | High      | ---       | ---       | ---       | ---       | ---       |
+| ---       | High      | ---       | Low       | ---       | ---       | ---       |
 
--   leaping
+Kangaroos are the happy-go-lucky clowns of the animal world.
+Townies often dye their tails in bright colors;
+those who live in the wild will camouflage theirs instead.
+
+-   Naturally have a High rating in Jumping (a specialized form of Acrobatics)
+    and Brawling (they are great natural boxers).
 
 ### Lion
 
@@ -560,7 +610,12 @@ Goats are completely average except for their horns.
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | ---       | High      | ---       | ---       | ---       | ---       | ---       |
 
--   carnivore
+Like elephants,
+lions form matriarchal societies,
+and their young males often go adventuring to try to win enough glory
+to attract female attention.
+
+-   Carnivorous.
 
 ### Monkey
 
@@ -568,15 +623,20 @@ Goats are completely average except for their horns.
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | Low       | ---       | Very High | High      | ---       | ---       | ---       |
 
--   tail
+Smart, curious, and mechanically minded,
+monkeys are constantly tinkering with gadgets (or breaking them).
+They are often less respectful of robots' personal space than they should be.
+
+-   Can use their tails as a clumsy third hand.
 
 ### Parrot
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Very Low  | Very High | High      | ---       | ---       | ---       | ---       |
+| Very Low  | Very High | Low       | ---       | ---       | ---       | ---       |
 
--   flying
+The only birds still capable of actually flying,
+they start with a natural Low ability in Ventriloquism.
 
 ### Rabbit
 
@@ -584,13 +644,23 @@ Goats are completely average except for their horns.
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | Very Low  | ---       | ---       | ---       | Low       | ---       | ---       |
 
--   berserk
+It's easy to make fun of rabbits' small size and near-sightedness,
+but nobody who has ever seen a fluffle of rabbits go bersek in battle is likely to do so.
+Whenever a rabbit is wounded,
+it loses control on a roll of 4, 5, or 6 on one die.
+After that,
+it gets an extra action each round which it *must* use for attacking
+and gains +2 on all attack rolls,
+but does not defend itself.
 
 ### Raccoon
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | ---       | Very High | ---       | High      | ---       | ---       |
+| Low       | ---       | Very High | High      | ---       | ---       | ---       |
+
+Raccoons are the only competition monkeys have for the title
+"most likely to get themselves into trouble".
 
 ### Rhino
 

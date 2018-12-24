@@ -1,3 +1,7 @@
+div.emph {
+    font-style: italic;
+}
+
 img.rss-icon {
     height: 1.1em;
 }

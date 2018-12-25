@@ -222,56 +222,71 @@ the character starts with that,
 while "--" means that the character starts with no ability at all,
 and must rely on fluke rolls to succeed.
 
--   Acrobatics (FIT): jumping, walking a tightrope, doing a somersault, etc.
--   Animal Handling (Low): calming a frightened horse or an angry wolverine.
--   Brawling (FIT): hand-to-hand combat without weapons.
--   Boating (Very Low): managing sails and a rudder.
--   Camouflage (Low): disguising objects.
--   Camping (Very Low): setting up a tent and making a fire.
--   Charisma (IQ): charming people (includes talking people into things, fooling them, and acting).
--   Climbing (FIT): walls, ropes, and what-not.
--   Computers (--): handling anything with a digital brain; see Mechanics for the mechanical side of robots.
--   **Craft** (DEX): see below.
--   Dancing (FIT): being graceful on the dance floor.
--   Driving (--): wagons and motorized vehicles alike.
--   Escapology (DEX): getting untied, picking locks, and escaping from handcuffs.
--   Farming (Very Low): growing food.
--   **Fine Art** (DEX): see below.
--   First Aid (Very Low): handling broken bones and wounds; see Medicine.
--   Gambling (Low): cards, dice, and bluffing.
--   Hypnotism (--): putting people into a trance.
--   **Lore** (--): see below.
--   Mechanics (DEX): making or fixing broken things; see Computers for the digital side.
--   Medicine (--): handling disease and infection; see First Aid.
--   Navigation (--): finding your way by the stars and other signs.
--   Picking Pockets (Very Low): taking things without being noticed.
--   Riding (FIT): bicycles and horses.
--   Singing (FIT): making music with the voice.
--   Skating (FIT): handling yourself on metal runners.
--   Skiing (FIT): handling yourself on lengths of wood.
--   Stage Magic (--): juggling, sleight of hand, etc.
--   Stealth (FIT): moving without being spotted (see below).
--   Swimming (Very Low): keeping your head above water.
--   Throwing (FIT): how far and how accurately.
--   Tracking (special): following things' trails. Initial ability is the best of SGT, HER, or SML.
--   Trapping (Very Low): making traps that work.
--   Tunnelling (Low): digging tunnels that don't collapse.
--   Ventriloquism (--): throwing your voice.
--   **Weapon** (FIT): see below.
+#### Skills that Depend on Dexterity
 
-The skills in **bold** are categories.
+-   *Escapology* (DEX): getting untied, picking locks, and escaping from handcuffs.
+-   *Mechanics* (DEX): making or fixing broken things; see Computers for the digital side.
+
+#### Skills That Depend on Fitness
+
+-   *Acrobatics* (FIT): jumping, walking a tightrope, doing a somersault, etc.
+-   *Brawling* (FIT): hand-to-hand combat without weapons.
+-   *Climbing* (FIT): walls, ropes, and what-not.
+-   *Dancing* (FIT): being graceful on the dance floor.
+-   *Riding* (FIT): bicycles and horses.
+-   *Singing* (FIT): making music with the voice.
+-   *Skating* (FIT): handling yourself on metal runners.
+-   *Skiing* (FIT): handling yourself on lengths of wood.
+-   *Throwing* (FIT): how far and how accurately.
+
+#### Skills That Depend on Intellect
+
+-   *Charisma* (IQ): charming people (includes talking people into things, fooling them, and acting).
+
+#### Skills With Some Initial Ability
+
+-   *Animal Handling* (Low): calming a frightened horse or an angry wolverine.
+-   *Boating* (Very Low): managing sails and a rudder.
+-   *Camouflage* (Low): disguising objects.
+-   *Camping* (Very Low): setting up a tent and making a fire.
+-   *Farming* (Very Low): growing food.
+-   *First Aid* (Very Low): handling broken bones and wounds; see Medicine.
+-   *Gambling* (Low): cards, dice, and bluffing.
+-   *Swimming* (Very Low): keeping your head above water.
+-   *Trapping* (Very Low): making traps that work.
+-   *Tunnelling* (Low): digging tunnels that don't collapse.
+
+#### No Initial Ability
+
+-   *Computers* (--): handling anything with a digital brain; see Mechanics for the mechanical side of robots.
+-   *Driving* (--): wagons and motorized vehicles alike.
+-   *Hypnotism* (--): putting people into a trance.
+-   *Medicine* (--): handling disease and infection; see First Aid.
+-   *Navigation* (--): finding your way by the stars and other signs.
+-   *Picking Pockets* (Very Low): taking things without being noticed.
+-   *Stage Magic* (--): juggling, sleight of hand, etc.
+-   *Ventriloquism* (--): throwing your voice.
+
+#### Special
+
+These skills are actually categories.
 Specialties within each category must be mastered separately:
 
--   **Craft**: sewing, woodwork, baking, metalwork, etc.
--   **Fine Art**: sculpture, drawing, painting, music, etc.
--   **Lore**: history, a language, mathematics, etc.
--   **Weapon**: sword, spear, pistol, bow, etc.
+-   *Craft*: sewing, woodwork, baking, metalwork, etc.
+-   *Fine Art*: sculpture, drawing, painting, music, etc.
+-   *Lore*: history, a language, mathematics, etc.
+-   *Weapon*: sword, spear, pistol, bow, etc.
 
-Stealth is also a special case.
+*Stealth* is also a special case.
 A character's basic ability is determined by their Fitness,
 but is adjusted up or down one level for each *two* levels their Size differs from Average:
 if their Size is Very Low, they automatically get an extra level of Stealth,
 while if their Size is Very High, they automatically lose a level.
+
+Finally,
+someone's initial skill in *Tracking* is the best of their Sight, Hearing, or Smell.
+
+### Upskilling
 
 When a player is creating a character,
 she can improve the character's skills in one of the following ways:
@@ -308,7 +323,7 @@ For example,
 piloting a dirigible is different enough from Boating and Driving
 that the Director may decide it's a skill in its own right.
 
-## Leveling Up
+### Leveling Up
 
 After each adventure,
 the Director may allow a player to raise a skill they used in that adventure by one level.
@@ -379,7 +394,7 @@ There are a few special cases:
     and the Director may give the attacker an additional bonus
     of +1 (for a ranged attack) or +2 (for an up-close attack).
 
-## Health
+## Health and Injury
 
 Every character has a fixed number of **[health points](#g:health-point)** (HP)
 equal to the target figure for their Size,
@@ -396,8 +411,6 @@ plus or minus one point for each step their Fitness is away from Average.
 > Slumpy the elephant has Very High Size, which gives him 11 Health Points,
 > but Low Fitness,
 > which brings it down to 10.
-
-## Injury
 
 FIXME: non-combat damage
 
@@ -804,15 +817,16 @@ and is also very good with her hands:
 she's had a lot of practice tying knots and mending nets,
 and her mother has taught her how to sing.
 
-| Trait     | Rating  | Skill        | Rating    |
-| --------- | ------- | ------------ | --------- |
-| Size      | Low     | Boating      | Very High |
-| Fitness   | Average | Fishing      | Very High |
-| Dexterity | High    | Swimming     | High      |
-| Intellect | Average | Knots        | High      |
-| Sight     | Average | Singing      | High      |
-| Hearing   | Average | Quarterstaff | High      |
-| Smell     | High    |              |           |
+| Trait     | Rating  | \| Skill        | Rating    |
+| --------- | ------- | --------------- | --------- |
+| Size      | Low     | \| Boating      | Very High |
+| Fitness   | Average | \| Fishing      | Very High |
+| Dexterity | High    | \| Swimming     | High      |
+| Intellect | Average | \| Knots        | High      |
+| Sight     | Average | \| Singing      | High      |
+| Hearing   | Average | \| Quarterstaff | High      |
+| Smell     | High    | \|              |           |
+| HP        | 5       | \|              |           |
 
 ### Rhymes With Orange
 
@@ -828,16 +842,17 @@ so it is constantly doing odd jobs in exchange for power
 or gambling to try to win a recharge.
 (It only cheats when it has to.)
 
-| Trait     | Rating  | Skill        | Rating    |
-| --------- | ------- | ------------ | --------- |
-| Height    | High    | Climbing     | Very High |
-| Weight    | Low     | Acrobatics   | Very High |
-| Fitness   | Average | Gambling     | Very High |
-| Dexterity | Average | Squirting    | High      |
-| IQ        | Average | Mathematics  | High      |
-| Sight     | Average | Navigation   | High      |
-| Hearing   | Low     |              |           |
-| Smell     | None    |              |           |
+| Trait     | Rating  | \| Skill        | Rating    |
+| --------- | ------- | --------------- | --------- |
+| Height    | High    | \| Climbing     | Very High |
+| Weight    | Low     | \| Acrobatics   | Very High |
+| Fitness   | Average | \| Gambling     | Very High |
+| Dexterity | Average | \| Squirting    | High      |
+| IQ        | Average | \| Mathematics  | High      |
+| Sight     | Average | \| Navigation   | High      |
+| Hearing   | Low     | \|              |           |
+| Smell     | None    | \|              |           |
+| HP        | 6       | \|              |           |
 
 ## Glossary
 

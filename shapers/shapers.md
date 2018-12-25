@@ -51,10 +51,10 @@ has a **[difficulty](#g:difficulty)**.
 Together,
 these determine the odds of success.
 
-Traits and abilities have **levels**,
-each of which corresponds to a **bonus**.
+Traits and abilities have **[levels](#g:level)**,
+each of which corresponds to a **[bonus](#g:bonus)**.
 Every task also has a level,
-which corresponds to a **target**
+which corresponds to a **[target](#g:target)**
 
 | Level             | Bonus | Target |
 | ----------------- | ----: | -----: |
@@ -69,7 +69,7 @@ Whenever a character tries to do something,
 it falls into one of three categories.
 If the character's level is higher than the task's
 and the outcome isn't particularly important,
-the character automatically succeeds.
+the character gets an **[automatic success](#g:automatic-success)**.
 For example,
 if a wall has Low difficulty,
 and the character has Average climbing ability,
@@ -85,7 +85,7 @@ If the result is less,
 they fail,
 and if the result is exactly what's required,
 they succeed but with some consequences.
-This is called a **challenge roll**,
+This is called a **[challenge roll](#g:challenge-roll)**,
 or just a **challenge** for short.
 
 > **Example:**
@@ -101,7 +101,7 @@ or just a **challenge** for short.
 > but the Director rules that one of her boots fell off while she was climbing.
 > The clatter as it hits the floor attracts some unwanted attention...
 
-The third situation is a **contest** in which one character is trying to out-do another.
+The third situation is a **[contest](#g:contest)** in which one character is trying to out-do another.
 In this case,
 both players roll dice and add their bonuses,
 and the higher score wins.
@@ -120,7 +120,7 @@ the Director rules on whether the contest continues or whether something unusual
 ### Fluke
 
 If a character has no rating at all for a task,
-they can still succeed by **fluke**.
+they can still succeed by **[fluke](#g:fluke)**.
 The player rolls a single die:
 if it is a 5 or 6,
 she gets one point and rolls again
@@ -179,9 +179,8 @@ she may raise one trait by one level,
 or two traits by one level each if she also *lowers* one trait by one level.
 Players cannot raise one trait by two levels,
 and cannot raise any trait above Very High.
-Players must lower their characters' Smell by *two* levels rather than one
-if they want to raise other traits
-(because otherwise pretty much every character has no sense of smell).
+Players must lower their characters' Sight, Hearing, or Smell by *two* levels rather than one
+if they want to raise other traits.
 
 > **Example:**
 > Garree is a 15-year-old goat.
@@ -214,7 +213,7 @@ if they want to raise other traits
 
 ## Skills
 
-Every character has **skills** that she has improved through practice and training.
+Every character has **[skills](#g:skill)** that she has improved through practice and training.
 Some common skills are listed below.
 If a trait is given beside the skill,
 the character's starting level (without any training) is equal to that trait.
@@ -382,7 +381,8 @@ There are a few special cases:
 
 ## Health
 
-Every character has a fixed number of **health points** (HP) equal to the target figure for their Size,
+Every character has a fixed number of **[health points](#g:health-point)** (HP)
+equal to the target figure for their Size,
 plus or minus one point for each step their Fitness is away from Average.
 
 > **Example:**
@@ -479,7 +479,7 @@ and 3 points if they're not.
 
 ## Species
 
-Every living character belongs to a **species**.
+Every living character belongs to a **[species](#g:species)**.
 They all stand upright, speak, and have hands,
 but have fur (or feathers),
 and their feet look like animals' feet.
@@ -534,7 +534,7 @@ and incredibly patient---particularly when it comes to their favorite sport: rev
 
 -   Carnivorous.
 -   Thick hide counts as natural armor.
--   They naturally have a High rating in Swimming.
+-   Naturally have a High rating in Swimming.
 
 ### Crow
 
@@ -661,22 +661,38 @@ but does not defend itself.
 
 Raccoons are the only competition monkeys have for the title
 "most likely to get themselves into trouble".
+They are very inquisitive,
+but sometimes have trouble concentrating on---hey,
+look,
+a squirrel!
 
 ### Rhino
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High      | ---       | Very Low  | ---       | Low       | ---       | High      |
+| High      | High      | Very Low  | ---       | Low       | ---       | High      |
 
--   horn
+They are not the largest animals,
+but they are certainly the grumpiest.
+Like bison (the only other animals they have much time for)
+they prefer to stay with their herd,
+and are fiercely protective of its weaker members.
+
+-   They can charge their enemies (treat their horn like a small weapon).
 
 ### Sloth
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | ---       | Low       | Very High | Low       | ---       | ---       |
+| ---       | ---       | Low       | Very High | ---       | ---       | ---       |
 
--   slow
+Slow-moving but quick-witted,
+sloths are sages and healers.
+Some trim their long claws to improve their Dexterity,
+but most accept their lot philosophically
+and return to thinking about deeper things.
+
+-   If a Sloth is a shaper, they start with a Low rating instead of Very Low.
 
 ### Tiger
 
@@ -684,7 +700,11 @@ Raccoons are the only competition monkeys have for the title
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | ---       | High      | ---       | ---       | ---       | ---       | ---       |
 
--   carnivore
+As proud as eagles,
+tigers are scornful of creatures that live in herds or packs,
+including lions---*especially* lions.
+
+-   Carnivorous.
 
 ### Turtle
 
@@ -692,8 +712,12 @@ Raccoons are the only competition monkeys have for the title
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | Low       | Low       | High      | High      | Very Low  | Low       | Low       |
 
--   slow
--   natural armor
+Slow-moving and short-sighted,
+turtles are natural shapers.
+
+-   Shell counts as natural armor (with no attack penalty).
+-   Naturally have a High rating in Swimming.
+-   If a Turtle is a shaper, they start with a Low rating instead of Very Low.
 
 ### Wolf
 
@@ -701,21 +725,31 @@ Raccoons are the only competition monkeys have for the title
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | ---       | High      | ---       | ---       | ---       | ---       | High      |
 
--   carnivore
+Fast, strong, and brave,
+wolves usually travel in packs of half a dozen,
+and their alphas are often community leaders.
+
+-   Carnivorous.
 
 ### Zebra
 
 | SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | ---       | ---       | ---       | ---       | ---       | ---       |
+| Low       | ---       | Low       | ---       | ---       | ---       | ---       |
+
+Zebras have a remarkable ability:
+when standing still,
+they can change color from black-and-white stripes to almost anything else
+in order to blend into their surroundings.
+This gives them an extra two levels of Stealth at no cost.
 
 ## Shaping
 
 A small number of animal characters have psychic powers
-that let them control or *shape* the world with their mind.
+that let them control or **[shape](#g:shaping)** the world with their mind.
 Characters who can shape typically start with a rating of Very Low,
 which improves with practice and training.
-The six most common kinds of shaping are:
+The six known kinds of shaping are:
 
 -  **Earth**: dirt and stone. Very experienced earth shapers can also shape metal.
 -  **Air**: wind and sound.
@@ -804,3 +838,41 @@ or gambling to try to win a recharge.
 | Sight     | Average | Navigation   | High      |
 | Hearing   | Low     |              |           |
 | Smell     | None    |              |           |
+
+## Glossary
+
+**Ability**{:#g:ability}: FIXME
+
+**Automatic success**{:#g:automatic-success}: FIXME
+
+**Bonus**{:#g:bonus}: FIXME
+
+**Challenge roll**{:#g:challenge-roll}: FIXME
+
+**Character**{:#g:character}: FIXME
+
+**Contest**{:#g:contest}: FIXME
+
+**Difficulty**{:#g:difficulty}: FIXME
+
+**Director**{:#g:director}: FIXME
+
+**Extra**{:#g:extra}: FIXME
+
+**Fluke**{:#g:fluke}: FIXME
+
+**Health point**{:#g:health-point}: FIXME
+
+**Level**{:#g:level}: FIXME
+
+**Player**{:#g:player}: FIXME
+
+**Shaping**{:#g:shaping}: FIXME
+
+**Skill**{:#g:skill}: FIXME
+
+**Species**{:#g:species}: FIXME
+
+**Target**{:#g:target}: FIXME
+
+**Trait**{:#g:trait}: FIXME

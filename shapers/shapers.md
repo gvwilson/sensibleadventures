@@ -253,7 +253,7 @@ and must rely on fluke rolls to succeed.
 -   *Farming* (Very Low): growing food.
 -   *First Aid* (Very Low): handling broken bones and wounds; see Medicine.
 -   *Gambling* (Low): cards, dice, and bluffing.
--   *Swimming* (Very Low): keeping your head above water.
+-   *Swimming* (Low): keeping your head above water.
 -   *Trapping* (Very Low): making traps that work.
 -   *Tunnelling* (Low): digging tunnels that don't collapse.
 
@@ -273,10 +273,10 @@ and must rely on fluke rolls to succeed.
 These skills are actually categories.
 Specialties within each category must be mastered separately:
 
--   *Craft*: sewing, woodwork, baking, metalwork, etc.
--   *Fine Art*: sculpture, drawing, painting, music, etc.
--   *Lore*: history, a language, mathematics, etc.
--   *Weapon*: sword, spear, pistol, bow, etc.
+-   *Craft* (Low): sewing, woodwork, baking, metalwork, etc.
+-   *Fine Art* (Very Low): sculpture, drawing, painting, music, etc.
+-   *Lore* (---): history, a language, mathematics, etc.
+-   *Weapon* (Low): sword, spear, pistol, bow, etc.
 
 *Stealth* is also a special case.
 A character's basic ability is determined by their Fitness,
@@ -287,15 +287,13 @@ while if their Size is Very High, they automatically lose a level.
 Finally,
 someone's initial skill in *Tracking* is the best of their Sight, Hearing, or Smell.
 
-### Upskilling
+### Choosing Skills
 
 When a player is creating a character,
-she can improve the character's skills in one of the following ways:
-
--   Raise 4 skills by 1 level each.
--   Raise 1 skill by 2 levels and 2 skills by 1 level each.
--   Raise 2 skills by 2 levels each.
-
+she can spend 6 points improving those skills.
+Raising a skill 1 or 2 levels costs one or 2 points;
+raising a skill 3 levels costs 4 points,
+and no skill can be raised more than 3 levels to start.
 When raising skills that have no starting level,
 such as Lore or Computers,
 the first raise brings it to Low rather than Very Low.
@@ -309,15 +307,20 @@ she can do this *and* raise one skill that hasn't otherwise been raised by one l
 > **Example:**
 > Larrapin's player decides to raise her Climbing by 2 levels
 > from Average (her Fitness) to Very High,
-> her First Aid from Very Low (everyone's starting point) to Low,
-> and her Medicine (which starts with nothing) from nothing to Low.
+> which costs 2 points.
+> She raises Larrapin's First Aid from Very Low (everyone's starting point) to Low,
+> which costs 1 point,
+> and her Medicine from nothing to Average,
+> which costs another 2 points:
+> the first point raises it to Low, and the second to Average.
+> Finally,
+> she raises her skill with a sword from Low (everyone's starting point) to Average.
 
 > **Example::**
-> Nang-ma's player decides to raise his Picking Pockets skill from Very Low to Average (2 points),
-> his Hypnotism from nothing to Low (1 point),
-> and his Boating from Very Low to Low (1 point).
+> Nang-ma's player decides to raise his Picking Pockets skill from Very Low to Average (2 points)
+> and his Gambling from Low to Very High (4 points, since it's a 3-level increase).
 > Since his Intellect is High,
-> he can then raise his Hypnotism again from Low to Average.
+> he can then raise his Picking Pockets again from Average to High.
 
 The Director may occasionally allow players to choose Skills that are not in the master list.
 For example,
@@ -821,79 +824,70 @@ The player can then give it two more features from the list below,
 #### Robot Features
 
 -   Accelerator: can move very quickly for brief periods.
--   Adaptive camouflage
 -   Arm: each extra arm counts as one feature.
--   Armor
--   Cart
--   Coldproof
--   Cutting laser
--   Display screen
--   Drill
--   Electromagnet
--   Extensible arm
--   Fireproof
--   Flotation
--   Forge
--   Furnace
--   Gas bag
--   Grapple (or anchor)
--   Grinder
--   Heavy equipment (like a bulldozer blade)
--   Legs
--   Lights
--   Liquid storage/dispenser
--   Microphone
--   Power leech
--   Powered flight
--   Radio
--   Remotes
--   Sawblade
--   Solar panels
--   Submersible
--   Speakers
--   Telescoping arm
--   Tracks
--   Vacuum
--   Wheels
--   Windmill
+-   Armor: hard to damage.
+-   Camouflage: hard to see (depends on environment: jungle camouflage is pretty noticeable in the desert).
+-   Cart: some kind of large bin to carry things in.
+-   Coldproof: able to function in extreme cold.
+-   Cutting laser: counts as a small weapon, and drains power quickly.
+-   Display screen: useful for displaying maps and other pictures as well as communicating.
+-   Drill: can be small or large.
+-   Electromagnet: for picking things up (such as armored opponents).
+-   Extensible arm: good for reaching into difficult places.
+-   Fireproof: able to withstand flames.
+-   Flotation: airtanks or some sort of inflatable attachment.
+-   Furnace: allows the bot to run on wood or alcohol.
+-   Gas bag: when inflated, allows the bot to fly.
+-   Grapple: a hook on a winch.
+-   Grinder: counts as a small weapon.
+-   Heavy equipment: a bulldozer blade, hydraulic jack, or some other kind of construction gear.
+-   Legs: additional ones.
+-   Liquid storage/dispenser: a spray and a bottle.
+-   Microphone: super-sensitive hearing.
+-   Power leech: can drain energy from other bots.
+-   Powered flight: helicopter rotors, fan blades, or retractible wings and a propellor.  All drain power very quickly.
+-   Radio: for silent communication with other bots that have radios.  Does not work underground or under water.
+-   Sawblade: counts as a small weapon.
+-   Searchlight: useful at night, underground, and for blinding opponents.
+-   Solar panels: fold-out panels for recharging.
+-   Submersible: not just watertight, but capable of "swimming".
+-   Speakers: in addition to the default ones.
+-   Tracks: heavy-duty tank treads (in addition to whatever is chosen by default).
+-   Vacuum: for sucking things up---usually extensible.
+-   Wheels: in addition to the default means of getting around.
+-   Windmill: a retractible wind turbine for generating power.
 
 #### Robot Penalties
 
--   Armless
--   Buggy
--   Immobile
--   Cannot communicate
--   Conspicuous
--   Flammable
--   Multiple personalities
--   Noisy
--   Not waterproof
--   Obedient
--   Slow
--   Top-heavy
--   Weak battery
-
-Being blind (no Sight) or deaf (no Hearing) are accounted for by lowering traits.
+-   Armless: no way to pick things up and manipulate them.
+-   Blind: no cameras.
+-   Buggy: will freeze or behave inappropriately under stress (e.g., in combat).
+-   Cannot communicate: no screen or speakers.
+-   Conspicuous: very noticeable (e.g., squeaky, or brightly painted).
+-   Deaf: no microphone.
+-   Fragile: flammable, parts easy to break off, etc.
+-   Immobile: no way to move around on its own.
+-   Not waterproof: and therefore susceptible to shorting out.
+-   Obedient: programmed to follow orders from anyone or anything with a keyword or controller.
+-   Slow: cannot move quickly.
+-   Top-heavy: unable to right itself once turned over.
+-   Weak battery: needs frequent recharging.
 
 ## Example Characters
 
 ### Madica
 
 Madica is a teenage fox.
-She has worked on her parents' fishing boat every day since she was a child,
-so while she's small,
-she's in good health.
-She has a keen nose,
-and is also very good with her hands:
-she's had a lot of practice tying knots and mending nets,
-and her mother has taught her how to sing.
+She has worked on her parents' fishing boat since she was a child,
+so her Boating is Average (2 points)
+and so is her Swimming (1 point).
 
 | Trait     | Rating  | \| Skill        | Rating    |
 | --------- | ------- | --------------- | --------- |
-| Size      | Low     | \| Boating      | Very High |
-| Fitness   | Average | \| Fishing      | Very High |
-| Dexterity | High    | \| Swimming     | High      |
-| Intellect | Average | \| Knots        | High      |
+| Size      | Low     | \| Boating      | Average   |
+| Fitness   | Average | \| Swimming     | High      |
+| Dexterity | High    | \| 
+| Intellect | High    | \| Knots        | High      |
 | Sight     | Average | \| Singing      | High      |
 | Hearing   | Average | \| Quarterstaff | High      |
 | Smell     | High    | \|              |           |

@@ -45,19 +45,19 @@ Your choices will determine how the game unfolds.
 ## Game Mechanics
 
 Every character in *Shapers and Bots* is described by
-their **[traits](#g:trait)** and **[abilities](#g:ability)**.
+their **[traits](#g:trait)** and **[skills](#g:skill)**.
 Everything they might want to do,
 like climb a wall,
 has a **[difficulty](#g:difficulty)**.
 Together,
 these determine the odds of success.
 
-Traits and abilities have **[levels](#g:level)**,
+Traits and skills have **[levels](#g:level)**,
 each of which corresponds to a **[bonus](#g:bonus)**.
 Every task also has a level,
 which corresponds to a **[target](#g:target)**
 
-| Level             | Bonus | Target |
+| Level/Difficulty  | Bonus | Target |
 | ----------------- | ----: | -----: |
 | Very Low/Awful    | -3    |  3     |
 | Low/Poor          | -1    |  5     |
@@ -73,7 +73,7 @@ and the outcome isn't particularly important,
 the character gets an **[automatic success](#g:automatic-success)**.
 For example,
 if a wall has Low difficulty,
-and the character has Average climbing ability,
+and the character has Average climbing skill,
 the Director can rule that the character gets over the wall.
 (This rule helps keep the game moving.)
 
@@ -90,7 +90,7 @@ This is called a **[challenge roll](#g:challenge-roll)**,
 or just a **challenge** for short.
 
 > **Example:**
-> Alouard has a High climbing ability
+> Alouard has a High climbing skill
 > but is trying to get up a wall with Awesome difficulty.
 > Her player rolls two dice and gets a total of 6 points.
 > After adding 2 for her bonus, her score is 8,
@@ -220,7 +220,7 @@ If a trait is given beside the skill,
 the character's starting level (without any training) is equal to that trait.
 If a specific level is listed;
 the character starts with that,
-while "--" means that the character starts with no ability at all,
+while "--" means that the character starts with no skill at all,
 and must rely on fluke rolls to succeed.
 
 #### Skills that Depend on Dexterity
@@ -279,7 +279,7 @@ Specialties within each category must be mastered separately:
 -   *Weapon* (Low): sword, spear, pistol, bow, etc.
 
 *Stealth* is also a special case.
-A character's basic ability is determined by their Fitness,
+A character's basic skill is determined by their Fitness,
 but is adjusted up or down one level for each *two* levels their Size differs from Average:
 if their Size is Very Low, they automatically get an extra level of Stealth,
 while if their Size is Very High, they automatically lose a level.
@@ -653,7 +653,7 @@ They are often less respectful of robots' personal space than they should be.
 | Very Low  | Very High | Low       | ---       | ---       | ---       | ---       |
 
 The only birds still capable of actually flying,
-they start with a natural Low ability in Ventriloquism.
+they start with a natural Low skill in Ventriloquism.
 
 ### Rabbit
 
@@ -879,17 +879,22 @@ The player can then give it two more features from the list below,
 
 Madica is a teenage fox.
 She has worked on her parents' fishing boat since she was a child,
-so her Boating is Average (2 points)
-and so is her Swimming (1 point).
+so her player raises her Boating from Very Low to Average (2 points)
+and her Swimming from Low to Average (1 point).
+Since there are pirates in these waters,
+her player also raises her skill with a *bo* (a long staff that counts as a small weapon)
+from Low to High (2 points),
+and her skill at Mechanics from High (her Dexterity) to Very High,
+which uses up her final point.
 
 | Trait     | Rating  | \| Skill        | Rating    |
 | --------- | ------- | --------------- | --------- |
 | Size      | Low     | \| Boating      | Average   |
 | Fitness   | Average | \| Swimming     | High      |
-| Dexterity | High    | \| 
-| Intellect | High    | \| Knots        | High      |
-| Sight     | Average | \| Singing      | High      |
-| Hearing   | Average | \| Quarterstaff | High      |
+| Dexterity | High    | \| Quarterstaff | High      |
+| Intellect | High    | \| Mechanics    | Very High |
+| Sight     | Average | \|              |           |
+| Hearing   | Average | \|              |           |
 | Smell     | High    | \|              |           |
 | HP        | 5       | \|              |           |
 
@@ -921,38 +926,57 @@ or gambling to try to win a recharge.
 
 ## Glossary
 
-**Ability**{:#g:ability}: FIXME
+**Automatic success**{:#g:automatic-success}:
+if the character's level is higher than the task's and the outcome isn't important,
+they automatically succeed.
 
-**Automatic success**{:#g:automatic-success}: FIXME
+**Bonus**{:#g:bonus}:
+the amount added to (or subtracted from) the roll of the dice
+based on the character's skill.
 
-**Bonus**{:#g:bonus}: FIXME
+**Challenge roll**{:#g:challenge-roll}:
+rolling two dice, adding a bonus, and comparing to a difficulty target.
 
-**Challenge roll**{:#g:challenge-roll}: FIXME
+**Character**{:#g:character}:
+an animal or bot in the game.
 
-**Character**{:#g:character}: FIXME
+**Contest**{:#g:contest}:
+rolling two dice, adding a bonus, and comparing to an opponent's roll and bonus.
 
-**Contest**{:#g:contest}: FIXME
+**Difficulty**{:#g:difficulty}:
+how hard a task is.
+The difficulty determines the target for a challenge roll.
 
-**Difficulty**{:#g:difficulty}: FIXME
+**Director**{:#g:director}:
+the person running the game.
 
-**Director**{:#g:director}: FIXME
+**Extra**{:#g:extra}:
+a character played by the Director.
 
-**Extra**{:#g:extra}: FIXME
+**Fluke**{:#g:fluke}:
+a sequence of 5's or 6's on one die.
 
-**Fluke**{:#g:fluke}: FIXME
+**Health point**{:#g:health-point}:
+measures how much damage a character can take.
 
-**Health point**{:#g:health-point}: FIXME
+**Level**{:#g:level}:
+determines the bonus added to (or subtracted from) a dice roll
+based on a character's skill.
 
-**Level**{:#g:level}: FIXME
+**Player**{:#g:player}:
+someone who is playing the part of a character in the game.
 
-**Player**{:#g:player}: FIXME
+**Shaping**{:#g:shaping}:
+the psychic ability to control one of the six elements.
 
-**Shaping**{:#g:shaping}: FIXME
+**Skill**{:#g:skill}:
+a character's ability to do something.
 
-**Skill**{:#g:skill}: FIXME
+**Species**{:#g:species}:
+a kind of intelligent living character.
 
-**Species**{:#g:species}: FIXME
+**Target**{:#g:target}:
+the score needed on two dice (with bonuses) to succeed at a task.
 
-**Target**{:#g:target}: FIXME
-
-**Trait**{:#g:trait}: FIXME
+**Trait**{:#g:trait}:
+an intrinsic characteristic such as fitness or dexterity.

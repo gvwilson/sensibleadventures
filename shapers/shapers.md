@@ -19,9 +19,10 @@ but children age 10 and older can also be Directors.
 These rules focus on storytelling rather than realism.
 There are no complicated tables showing how much damage a katana does compared to a broadsword,
 and dice rolls are deliberately kept simple.
-My thanks to Eloy Lasanta's [Pip System](https://thirdeyegames.net/pip-system/),
-Alan Bahr's [Tiny Dungeon](http://www.gallantknightgames.com/tiny-dungeon-2e/),
-Chad Underkoffler's [PDQ system](http://rpgsystems.wikidot.com/pdq-system),
+My thanks to the [Pip System](https://thirdeyegames.net/pip-system/),
+the [PDQ system](http://rpgsystems.wikidot.com/pdq-system),
+[Tiny Dungeon](http://www.gallantknightgames.com/tiny-dungeon-2e/),
+[Engine Heart](http://viralgamespublishing.com/),
 and to the high school lunch-hour gang.
 
 ## Background
@@ -793,16 +794,86 @@ One might have six short legs and a pair of mis-matched claws for arms,
 while another might use two rotor fans to fly,
 but have only a single slender manipulator to pick things up.
 
-Bots have Size, Fitness, Dexterity, and Intellect scores just like animal characters.
-Their Sight and Hearing scores are Average by default,
-but only a few bots have any sense of Smell at all.
-(Most regard smell as slightly icky,
-and would prefer that living creatures didn't talk about it so much.)
+Bots have Average ratings for Size, Dexterity, Intellect, Sight, and Hearing.
+Only a few bots have any sense of Smell
+(most regard smell as slightly icky,
+and would prefer that living creatures didn't talk about it so much).
+Bots also have Average Fitness,
+which in their case means structural integrity:
+a bot with Low Fitness is probably rusty or missing parts,
+while one with Very High Fitness looks brand new
+(and will therefore be a target for other bots in need of parts).
+Bots can raise and lower one trait by one level,
+or two traits by one level each if one trait is lowered by a level,
+just like animal characters.
+(As with animals,
+Sight and Hearing have to be lowered *two* levels to raise some other trait by one level.)
 
-> We are working on a point system to help players create bot characters
-> that are neither too weak nor too powerful.
-> Until it's ready,
-> bot characters will almost always be created by the Director.
+By default,
+every robot character has either tracks, wheels, or legs to move with,
+two arms (which don't have to match),
+cameras,
+a microphone (for hearing),
+and a speaker (for communicating).
+The player can then give it two more features from the list below,
+*or* three more features as long as it takes a penalty from the second list.
+
+#### Robot Features
+
+-   Accelerator: can move very quickly for brief periods.
+-   Adaptive camouflage
+-   Arm: each extra arm counts as one feature.
+-   Armor
+-   Cart
+-   Coldproof
+-   Cutting laser
+-   Display screen
+-   Drill
+-   Electromagnet
+-   Extensible arm
+-   Fireproof
+-   Flotation
+-   Forge
+-   Furnace
+-   Gas bag
+-   Grapple (or anchor)
+-   Grinder
+-   Heavy equipment (like a bulldozer blade)
+-   Legs
+-   Lights
+-   Liquid storage/dispenser
+-   Microphone
+-   Power leech
+-   Powered flight
+-   Radio
+-   Remotes
+-   Sawblade
+-   Solar panels
+-   Submersible
+-   Speakers
+-   Telescoping arm
+-   Tracks
+-   Vacuum
+-   Wheels
+-   Windmill
+
+#### Robot Penalties
+
+-   Armless
+-   Buggy
+-   Immobile
+-   Cannot communicate
+-   Conspicuous
+-   Flammable
+-   Multiple personalities
+-   Noisy
+-   Not waterproof
+-   Obedient
+-   Slow
+-   Top-heavy
+-   Weak battery
+
+Being blind (no Sight) or deaf (no Hearing) are accounted for by lowering traits.
 
 ## Example Characters
 

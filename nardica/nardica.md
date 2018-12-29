@@ -4718,15 +4718,15 @@ Her brown and gray uniform looked brand new---even the patches on the elbows
 looked like they had just come out of a printer.  "__We__ are still running
 simulations."*
 
-*Doctor Johel stood.  "We have run over a trillion simulations.  The risk is
-too great."*
+*Doctor Johel stood.  "We have already run trillions of simulations.  The risk
+is too great."*
 
 *"The risk __to us__ is considerable," Aunt Naggie conceded.  "But we are not
 the only concern, or even the largest."*
 
-*"Our nonexistence is not an acceptable outcome." Doctor Johel's voice was
-colder than the ocean.  Iffy shivered.  Whatever was pretending to be the doctor
-wasn't even remotely human.*
+*"Complete biosphere collapse is regrettable.  Our nonexistence, on the other
+hand, is unacceptable." Doctor Johel's voice was colder than the ocean.  Iffy
+shivered.  Whatever was pretending to be the doctor wasn't even remotely human.*
 
 *"Our attempt to resolve the scenario unilaterally was not acceptable either.
 Consensus is required," Aunt Naggie chided.*
@@ -4738,5 +4738,62 @@ Johnson Wales we are watching.  Tell him we are not fooled.  Tell him that this
 is his last life, and he should spend it wisely."*
 
 Iffy woke in a sweat.  Honesty stirred and moaned beside her.  "Ssh, ssh, ssh,"
-Iffy said softly.  She snuggled back against her friend and closed her eyes,
-but sleep didn't come again.
+Iffy said softly.  She snuggled back against her friend and closed her eyes
+until something like sleep came again.
+
+She woke to the rap of armored knuckles on her door.  The Marines were polite
+enough, but it was clear that they felt Iffy should have left Honesty in their
+care.  One lifted Honesty, still wrapped in the scratchy blanket that Iffy had
+slept under since she was little, and carried her away.  The other unzipped a
+navy blue duffel bag and briskly transferred the piled armor to it.
+
+"So how bad's th' damage?" Iffy finally asked, her back against the bulkhead and
+her knees drawn up under her chin.
+
+The Marine shook his head.  "I'm sorry, citizen, that's classified."
+
+"Oh for---I *live* here!" Iffy burst out, exasperated.  "That hole where th'
+squid thingy blew up---that's dry dock work fer sure.  Anythin' else I gotta
+start plannin' to fix?"
+
+The Marine paused, one arm in mid-air, as his imprinting and his own personality
+arm-wrestled inside his head.  "There were casualties," he finally admitted.
+"And the *Bengal* took heavy damage.  Your assistance would be appreciated."
+
+"Happy t' help," Iffy muttered.  Her cabin felt cold and empty without Honesty
+and her blanket, and she ought to make sure Aunt Naggie was all right.  As the
+Marine zipped up the duffel bag, she pulled her coat back on and slipped out the
+door.
+
+Aunt Naggie and Johnson Wales were in the pilot house, empty tea mugs at their
+elbows.  Iffy thought about asking where Uncle Jack was, then realized she
+didn't care.  "Hey, sleepy head," Wales greeted her as she came in and gave her
+foster mother a hug.  "How's your friend?"
+
+"Marines took her.  I think she's aright."  Iffy leaned back against the wall
+and nodded at the control panel, where the hole in the deck pulsed scarlet and
+dozens of smaller punctures looked like sores with the scabs picked off.  "How
+bad is it?"
+
+"She'll get us to Paddington," Aunt Naggie said.  Her tone said the
+rest---unless there was another attack.  Unless the sea boiled beneath them or a
+storm came up or the sea set any of a hundred other disasters on them.
+
+"What about the Navy ship?"  Iffy jerked her head toward the window.  "Th'
+Marine said they lost some folk an' took damage."
+
+Wales nodded grimly.  "Doctor Johel won't tell me how bad it is, which means
+it's pretty bad."
+
+"You been through stuff like this before, ha'n't you?"  Iffy hadn't meant for it
+to sound like an accusation, but now that the words were out she couldn't stop.
+"You were in th' war an' all.  You knew somethin' like this might happen."
+
+"An' you," she continued angrily to her foster mother before either of the
+adults could speak.  "That medicine you been feedin' me---you *knew*, di'n't
+you?  All this time I been wonderin' what's wrong with me 'cuz I can see how
+machines work, an' you *knew*."
+
+Wales and Aunt Naggie exchanged looks.  She nodded almost imperceptibly.  Wales
+tapped the tech in his temple, his eyes staring past her.  "Their monitoring's
+still down," he said.  "No better time than now to tell her."

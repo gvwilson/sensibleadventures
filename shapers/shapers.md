@@ -17,8 +17,8 @@ The Director can be an adult,
 but children age 10 and older can also be Directors.
 
 These rules focus on storytelling rather than realism.
-There are no complicated tables showing how much damage a katana does compared to a broadsword,
-and dice rolls are deliberately kept simple.
+Dice rolls are kept simple,
+and there are no complicated tables showing how much damage a katana does compared to a claymore.
 My thanks to the [Pip System](https://thirdeyegames.net/pip-system/),
 the [PDQ system](http://rpgsystems.wikidot.com/pdq-system),
 [Tiny Dungeon](http://www.gallantknightgames.com/tiny-dungeon-2e/),
@@ -42,52 +42,178 @@ You can be a hero, a rogue, or an outright villain,
 and can travel alone or with companions.
 Your choices will determine how the game unfolds.
 
-## Game Mechanics
+## How to Play
 
-Every character in *Shapers and Bots* is described by
-their **[traits](#g:trait)** and **[skills](#g:skill)**.
-Everything they might want to do,
-like climb a wall,
-has a **[difficulty](#g:difficulty)**.
-Together,
-these determine the odds of success.
+Before the game begins,
+the Director will either create an adventure or find one that someone else has created.
+Each player can create a character,
+or the Director can create characters for them.
 
-Traits and skills have **[levels](#g:level)**,
-each of which corresponds to a **[bonus](#g:bonus)**.
-Every task also has a level,
-which corresponds to a **[target](#g:target)**
+Once the game starts,
+each player determines what their character does.
+When the player speaks,
+the character speaks in the game world;
+when the player says, "I'm going to kick down the door,"
+their character tries to kick down the door.
+There are no takebacks---you can't un-kick down a door---and
+if the players spend two minutes arguing about what to do next,
+that's what their characters are doing in the game world.
 
-| Level/Difficulty  | Bonus | Target |
-| ----------------- | ----: | -----: |
-| Very Low/Awful    | -3    |  3     |
-| Low/Poor          | -1    |  5     |
-| Average           |  0    |  7     |
-| High/Good         | +2    |  9     |
-| Very High/Great   | +4    | 11     |
-| Awesome           | +6    | 13     |
+## Character Features
 
-Whenever a character tries to do something,
-it falls into one of three categories.
-If the character's level is higher than the task's
-and the outcome isn't particularly important,
-the character gets an **[automatic success](#g:automatic-success)**.
+Every character has strengths and weaknesses
+that determine what they're good at and what they aren't.
+We describe this by giving every character a **[score](#g:score)**
+for these seven **[features](#g:feature)**:
+
+-   **Size** (abbreviated SIZ): how large the character is.
+    If the character is exceptionally short or exceptionally skinny,
+    the Director may allow the character to list height and weight separately.
+
+-   **Fitness** (FIT): how strong and coordinated she is.
+    Characters with a high fitness are good athletes.
+
+-   **Dexterity** (DEX): how good the character is with her hands.
+    This determines how well she can pick locks,
+    play musical instruments,
+    or perform surgery.
+
+-   **Intellect** (IQ): how good she is at book learning and abstract reasoning.
+    A character with a low Intellect is not necessarily stupid---she just isn't good at logic puzzles.
+
+-   **Sight** (SGT), **Hearing** (HER), and **Smell** (SML):
+    These measure exactly what their names say.
+    (Note that smell includes the sense of taste.)
+
+If an extra is important to the plot---for example,
+if they are a player character's sidekick---the Director may give them scores for two more features:
+
+-   **Courage** (CRG): how brave the character is.
+
+-   **Honesty** (HON): how likely the character is to tell the truth.
+
+Player characters don't have scores for these features
+because being brave and telling the truth (or not) are part of the game.
+
+So what is a score?
+It's simply a number:
+0 if the character is average,
+positive if they're stronger than average or have better-than-average eyesight,
+and negative if they are smaller than average or particularly clumsy.
+
+> **Example:**
+> Selwin is big and healthy,
+> but not good with her hands and somewhat near-sighted
+> (which isn't surprising, considering that she's an elephant).
+> Her features are:
+> - Size: +3
+> - Fitness: +1
+> - Dexterity: -2
+> - Intellect: 0
+> - Sight: -2
+> - Hearing: 0
+> - Smell: 0
+
+Every character has one extra feature called **Strength**
+whose score is the sum of their Size and Fitness.
+(Basically, big characters tend to be stronger than small ones,
+but characters who aren't fit tend to be less strong than characters who are.)
+
+> **Example:**
+> Selwin's strength is +4.
+> Her cousin Norbert, on the other hand,
+> has a Size of +4 (he's bigger than Selwin) but a Fitness of -2 (he never exercises),
+> so his Strength is only +2.
+
+## Tasks
+
+A **[task](#g:task)** is something a character might want to do,
+like climb a wall or pick a lock.
+Every task has a score as well:
+difficult tasks have negative scores,
+and easy ones have positive scores.
+
+If a character wants to do a task and their score is better than the tasks's difficulty,
+the player rolls three dice and adds their score and the tasks's difficulty to the result.
+On 10 or less,
+they have failed;
+on 11 or more,
+they have succeeded.
+
+> **Example:**
+> Selwin is trying to take apart the clockwork timer on a small bomb.
+> The task's difficulty is -1, and her Dexterity is -2.
+> She rolls 3 dice and gets 11;
+> after subtracting 3,
+> her score is only 8,
+> so she has failed.
+>
+> Panicking slightly,
+> she decides to smash the timer.
+> The Director decides that the difficulty is 0 (it's fairly fragile),
+> and her Strength is +4.
+> She rolls 3 dice and gets another 11;
+> after adding her bonus, her total is 15,
+> and the delicate clockwork is now so much scrap metal.
+
+If character's score plus the task's difficulty is greater than 2
+and the outcome isn't critical to the game,
+the Director can decide that the characer gets an **[automatic success](#g:automatic-success)**.
 For example,
-if a wall has Low difficulty,
-and the character has Average climbing skill,
-the Director can rule that the character gets over the wall.
-(This rule helps keep the game moving.)
+suppose Selwin wants to lift a large box of chocolates.
+The task's difficulty is 0 (it's a pretty average box),
+and Selwin's Strength is +4,
+so no dice roll is needed.
 
-If the character's level is equal to or lower than the task's,
-the character rolls two dice and adds their bonus
-(or subtracts it if the bonus is negative).
-If the result is greater than the target for the task,
-the character succeeds.
-If the result is less,
-they fail,
-and if the result is exactly what's required,
-they succeed but with some consequences.
-This is called a **[challenge roll](#g:challenge-roll)**,
-or just a **challenge** for short.
+## Flukes
+
+Sometimes it may seem like a character has no chance at all of doing something,
+but there is always hope.
+If two or all three of the dice that a player rolls are 6's,
+the player gets to roll one more die.
+On a 1-5,
+that many points are added to their total;
+on a 6,
+they get 5 points and another roll,
+and so on.
+This is called a **[fluke](#g:fluke)**,
+and gives characters a one-in-a-thousand chance to accomplish almost anything.
+
+> **Example:**
+> Zitter had never even *seen* a laser pistol before today,
+> but as the deranged one-eyed crocodile pirate charges toward her,
+> she picks up the one that Selwin just dropped and frantically starts pushing buttons.
+> The task's difficulty is -10;
+> she rolls 6-6-2,
+> which gives her 14 points and another roll.
+> That single die comes up 6 as well,
+> giving her 5 more points and another roll.
+> Her second fluke roll is a 2, ending her streak,
+> but her total is now 14 (for the original roll) plus 5 (for the first fluke roll) plus 2, or 21.
+> Somehow,
+> her fumbling fingers managed to find the right buttons
+> and put a neat hole through the surprised crocodile.
+
+## Contests
+
+The third situation is a **[contest](#g:contest)** in which one character is trying to out-do another.
+In this case,
+both players roll dice and add their bonuses,
+and the higher score wins.
+If there is a tie,
+the Director rules on whether the contest continues or whether something unusual happened.
+
+> **Example:**
+> Selwin and Norbert are arm-wrestling.
+> Selwin rolls 8, giving her a total of 12 (since her Strength is +4).
+> Norbert rolls 10, giving him the same total (since his Strength is only +2),
+> so the Director decides that they are still locked in combat.
+> When they re-roll, they both get 11's.
+> After adding their Strength bonuses,
+> Selwin's score is higher,
+> so she wins.
+
+----------------------------------------
 
 > **Example:**
 > Alouard has a High climbing skill

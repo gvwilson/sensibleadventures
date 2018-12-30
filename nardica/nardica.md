@@ -4187,12 +4187,12 @@ wished she could have flashes of insight now and then about what to say to
 people instead of just about machinery.  With a sigh, she got to her feet.
 
 A whisper of voices from the earbud stopped her.  She pulled it off the shelf
-and reinserted it in her ear just in time to hear Doctor Johel say, "---her
-olders' abilities?"
+and reinserted it in her ear just in time to hear Doctor Johel say, "---any
+sign of special abilities?"
 
 "I don't think so," Wales replied.  *Speaker shakes head,* the caption voice
-added.  "She has a lot of natural talent, but I haven't seen any sign that
-there's anything more to her than that."
+added.  "She has a lot of natural talent, but I haven't seen any sign there's
+anything more to her than that."
 
 "That's a shame."  *Speaker adopts sceptical expression.* "The core thought
 there was an eighty-five percent chance the tweak would have been passed on."
@@ -4205,11 +4205,11 @@ and make it their own."
 
 This time Iffy heard the sigh.  "And as I used to say to him, it's easier to
 feel that way when no one has ever thrown rocks at you.  But coming back to
-Fifth, the whole point of your grandfather's work was to create *modifications*
-that couldn't be detected by simple genetic tests.  Cloning is never
-perfect---any glitch could have thrown the collaborating genes out of balance."
-*Speaker shakes head.* "Or maybe we're just too early.  Maybe in another couple
-of years---"
+Fifth, part of your grandfather's work was to create *modifications* that
+couldn't be detected by simple genetic tests.  Cloning is never perfect---any
+glitch could have thrown the collaborating genes out of balance."  *Speaker
+shakes head.* "Or maybe we're just too early.  Maybe in another couple of
+years---"
 
 "We don't have another couple of years," Doctor Johel cut in.  "I'm *old*,
 Johnson, and you've already lasted decades longer than you were supposed to."
@@ -4795,5 +4795,87 @@ you?  All this time I been wonderin' what's wrong with me 'cuz I can see how
 machines work, an' you *knew*."
 
 Wales and Aunt Naggie exchanged looks.  She nodded almost imperceptibly.  Wales
-tapped the tech in his temple, his eyes staring past her.  "Their monitoring's
-still down," he said.  "No better time than now to tell her."
+tapped the tech in his temple, his eyes on something eyes alone could never see.
+"The *Bengal*'s monitoring is still down," he said.  "So I suppose this is as
+good a time as any."
+
+His fingers danced on the control panel for a moment, telling the *Guinevere*'s
+anxious core that everything was going to be all right and that it should carry
+on making what few repairs it could.  Then he picked up his mug and cradled it
+in his hands.  "Let me tell you a story," he said quietly.
+
+"Once upon a time, way back when before everything fell apart, people dreamed of
+going to the stars.  We made it to the Moon a few times, and one ship got as far
+as Mars, but didn't make it back.  It was just too hard and too expensive to put
+people into space---robots could do everything we could do, and they didn't need
+air or water, and anyway, we had bigger problems to solve at home."
+
+"But a few people kept dreaming.  They thought that maybe if we had a different
+kind of human being, we could make it work.  We were already tweaking people to
+cure diseases.  A few labs here and there were making them stronger and faster,
+and everyone was trying to figure out how to make people smarter.  Why not go a
+little further and make a better astronaut?  Why not give them super-dense bones
+so that they could handle higher gee during liftoff, and hypermelanic skin so
+that they wouldn't have to worry about ultraviolet exposure?  Why not borrow a
+few ideas from bears so that they could hibernate for months at a time?  And if
+you're going to do all of that, why not put some tech in their heads so that
+they can talk to their ship's core and all its machinery?"
+
+Wales glanced at Iffy, then looked back at his empty mug.  "Doctor Johel's
+grandfather was the lead scientist on the program.  He made half a dozen of us
+before the government cut off his funding.  We were everything he'd promised,
+but the water was rising and people were going hungry and starting to march, and
+making spacemen in test tubes just didn't seem important any more."  He laughed
+humorlessly.  "Plus, I guess a few of his backers hadn't realized that
+'hyper-melanic' meant we'd be black.  Apparently they weren't too happy about
+that."
+
+He turned his mug around in his hands and then set it down abruptly on the
+control panel.  "I never got into space.  One of my sisters did, once, but I
+haven't heard from any of them in a hundred and fifty years.  I've spent half of
+that time asleep, and the rest of it looking for bits and pieces of gear to keep
+the tech in my head from shorting out."
+
+"So that's why you can talk to satellites?" Iffy ventured.
+
+Wales nodded.  "Yup.  And that's why I need to get to Mount Tyree.  When the
+revolution came, the government in London packed up all its secret projects and
+sent them down here.  If what I need to fix my head is anywhere, it's there."
+
+"An' what about *my* head?" Iffy asked.
+
+Wales and Aunt Naggie exchanged a look.  "Ain't nothin' wrong with your head,"
+Aunt Naggie said firmly.  "It's just takin' you a while to---to get used t'
+things."
+
+"One of Professor Johel's other experiments was enhanced spatial reasoning,"
+Wales explained.  "AIs were designing machines that did amazing things, but
+nobody could understand how they worked.  That scared a lot of people, so
+Surjinder---Professor Johel---told them he could make a person who'd be able to
+figure them out and explain them to the rest of us."
+
+Iffy's mouth worked as a dozen questions tried to get out at once.  "So my First
+was some kind of experiment?"
+
+Wales shook his head.  "Not the First you knew when you were little---not by a
+hundred years or more.  She would have been a clone herself.  And anyway, it
+didn't work---not until you came along."
+
+"Raniere used t' work in the hospital in Puerto Toro," Aunt Naggie cut in.  "He
+helped make you an' your mothers.  When he heard what happened, he came down an'
+found me an' told me that there'd been a glitch when they were makin' you.  They
+had t' put a bit o' tech in your head when you were still inside your older so
+your brain would grow right."
+
+"A synaptic bridge."  Wales held his thumb and finger a hair's width apart.
+"Just a smart piece of wire to help your cortex do its job, but somehow it did
+what Professor Johel couldn't.  You can see machines the way cores do.  You can
+see how things fit together."
+
+He leaned forward.  "But you mustn't, *mustn't*, tell Jasmine.  She knows where
+your olders came from.  So far, she thinks everything we've done together is me
+testing you.  If she realizes what you can do---"
+
+Iffy nodded.  She had played enough sims to know what happened to people with
+abilities, and she definitely didn't want to spend the rest of her life locked
+up in an underground lab being experimented on by someone named Norman.

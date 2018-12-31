@@ -18,7 +18,7 @@ but children age 10 and older can also be Directors.
 
 These rules focus on storytelling rather than realism.
 Dice rolls are kept simple,
-and there are no complicated tables showing how much damage a katana does compared to a claymore.
+and there are no complicated tables showing how much damage a broadsword does compared to a katana.
 My thanks to the [Pip System](https://thirdeyegames.net/pip-system/),
 the [PDQ system](http://rpgsystems.wikidot.com/pdq-system),
 [Tiny Dungeon](http://www.gallantknightgames.com/tiny-dungeon-2e/),
@@ -64,7 +64,7 @@ that's what their characters are doing in the game world.
 Every character has strengths and weaknesses
 that determine what they're good at and what they aren't.
 We describe this by giving every character a **[rating](#g:rating)**
-for these seven **[features](#g:feature)**:
+for seven **[features](#g:feature)**:
 
 -   **Size** (abbreviated SIZ): how large the character is.
     If the character is exceptionally short or exceptionally skinny,
@@ -79,7 +79,7 @@ for these seven **[features](#g:feature)**:
     or perform surgery.
 
 -   **Intellect** (IQ): how good she is at book learning and abstract reasoning.
-    A character with a low Intellect is not necessarily stupid---she just isn't good at logic puzzles.
+    A character with a low Intellect isn't stupid---she just isn't good at logic puzzles.
 
 -   **Sight** (SGT), **Hearing** (HER), and **Smell** (SML):
     These measure exactly what their names say.
@@ -98,13 +98,13 @@ because being brave and telling the truth (or not) are part of the game.
 So what is a rating?
 It's simply a number:
 0 if the character is average,
-positive if they're stronger than average or have better-than-average eyesight,
-and negative if they are smaller than average or particularly clumsy.
+positive if they're higher than average,
+and negative if they're lower.
 A positive rating is sometimes called a **[bonus](#g:bonus)**,
 and a negative one is sometimes called a **[penalty](#g:penalty)**.
 
 > **Example:**
-> Selwin is big and healthy,
+> Madica is big and healthy,
 > but not good with her hands and somewhat near-sighted
 > (which isn't surprising, considering that she's an elephant).
 > Her ratings are:
@@ -116,67 +116,73 @@ and a negative one is sometimes called a **[penalty](#g:penalty)**.
 > - Hearing: 0
 > - Smell: 0
 
-Every character has one extra feature called **Strength**
-whose rating is the sum of their Size and Fitness.
-Basically, big characters tend to be stronger than small ones,
-but characters who aren't fit tend to be less strong than characters who are.
+Every character also has a feature called **Strength**,
+which is the sum of their Size and Fitness ratings.
+Basically,
+big characters tend to be stronger than small ones,
+but characters who aren't fit aren't as strong as characters who are.
 
 > **Example:**
-> Selwin's strength is +4.
+> Madica's strength is +4.
 > Her cousin Norbert, on the other hand,
-> has a Size of +4 (he's bigger than Selwin) but a Fitness of -2 (he never exercises),
+> has a Size of +4 (he's bigger than Madica) but a Fitness of -2 (he never exercises),
 > so his Strength is only +2.
 
-## Tasks
+## Challenges
 
-A **[task](#g:task)** is something a character might want to do,
+A **[challenge](#g:challenge)** is something a character might want to do,
 like climb a wall or pick a lock.
-Every task has a rating as well:
-difficult tasks have negative ratings,
-while easy tasks have positive ones.
+Every challenge has a rating as well:
+difficult challenges have negative ratings (penalties),
+while easy challenges have positive ones (bonuses).
 
-If a character tries to do a task,
-the player rolls three dice and adds their rating and the tasks's difficulty to the result.
+If a character tries to do a challenge,
+the player rolls three dice,
+adds up their results,
+and then adds their rating and the challenges's rating as well.
 If the total is 10 or less,
 they have failed;
 on 11 or more,
 they have succeeded.
 
 > **Example:**
-> Selwin is trying to take apart the clockwork timer on a small bomb.
-> The task's difficulty is -1, and her Dexterity is -2.
+> Madica is trying to take apart the clockwork timer on a small bomb.
+> The challenge's difficulty is -1, and her Dexterity is -2.
 > She rolls 3 dice and gets 5, 4, and 2, for a total of 11;
 > after subtracting 1 for the difficulty and 2 for her poor Dexterity,
 > her total is only 8,
 > so she has failed.
->
+
+People often write "3d+X" or "3d-X" to mean
+"three dice plus or minus X",
+so the roll above would be written "3d-3".
+
+> **Example:**
 > Panicking slightly,
-> she decides to try smashing the timer.
+> Madica decides to try smashing the timer.
 > The Director decides that the difficulty is 0
 >(it's neither particularly tough or fairly fragile),
-> and her Strength is +4.
+> and her Strength is +4,
+> so Madica needs to get 11 or more or 3d+4.
 > She rolls 3 dice and gets a total of 11 once again.
 > After adding 4 for her Strength, her total is 15,
 > and the delicate clockwork is now so much scrap metal.
 
-If character's rating plus the task's difficulty is greater than 2
+If character's rating plus the challenge's difficulty is greater than 2
 and the outcome isn't critical to the game,
 the Director can decide that the characer gets an **[automatic success](#g:automatic-success)**.
 For example,
-suppose Selwin wants to lift a crate of chocolates.
-The task's difficulty is -1 (the crate is larger than average, but not remarkably so)
-and Selwin's Strength is +4,
-so the Director decides no dice roll is needed.
+suppose Madica wants to lift a crate of chocolates.
+Madica's Strength is +4
+and challenge's difficulty is -1 (the crate is larger than average, but not remarkably so)
+for a total bonus of +3,
+so the Director decides the player can skip the dice roll.
+This rule helps keep the game moving.
 
 ## Flukes
 
 Sometimes it may seem like a character has no chance at all of doing something,
 but there is always hope.
-Similarly,
-it might seem like there's no way for a character could fail,
-but the universe always finds a way.
-This is where **[fluke rolls](#g:fluke)** come in.
-
 If all three of the dice that a player rolls are 6's,
 the player gets to roll one more die.
 On a 1-5,
@@ -185,65 +191,349 @@ on a 6,
 they get 5 points and another roll.
 If it's another 6,
 they get to keep rolling.
+This is called a **[fluke rolls](#g:fluke)**.
 
 > **Example:**
 > Zitter had never even *seen* a laser pistol before today,
 > but as the deranged one-eyed crocodile pirate charges toward her,
-> she picks up the one that Selwin just dropped and frantically starts pushing buttons.
-> The task's difficulty is -10;
-> she rolls 6-6-6,
-> which gives her 18 points and another roll.
-> That single die comes up 6 as well,
-> giving her 5 more points and another roll.
-> Her second fluke roll is a 2, ending her streak,
-> but her total is now 18 (for the original roll) plus 5 (for the first fluke roll) plus 2, or 25.
-> After subtracting 10 for the task's difficulty,
-> that's still 15 points.
-> Somehow,
+> she picks up the one she just found and frantically starts pushing buttons.
+> The Director decides that finding the right combination of buttons has a difficulty of -10.
+> Zitter rolls 6-6-6,
+> which gives her 18 points and another die roll.
+> That die comes up 6 as well,
+> giving her 5 more points and yet another roll, which comes up 2 (ending her streak).
+> Her total is 18 for the original roll
+> plus 5 for the first fluke roll plus 2, or 25.
+> After subtracting 10 for the challenge's difficulty,
+> that's still 15 points:
+> somehow,
 > her fumbling fingers found the right buttons
 > and she put a neat hole through the surprised crocodile.
 
+Fluke rolls work in reverse as well,
+because it's always possible for something to go wrong.
+If all three dice come up 1's,
+the player rolls another die.
+On a 1-5, that many points are *subtracted* from their total;
+on a 6,
+they subtract 5 points and roll again.
+If the score is below zero,
+the Director can rule that the character hasn't just failed---they have failed spectacularly.
+
+> **Example:**
+> Oddy is loading a cannon.
+> He has done it a hundred times before,
+> but this time his player rolls three 1's.
+> Uh oh:
+> another roll comes up 4,
+> so Oddy's total is -1
+> (since the extra roll is subtracted from the total).
+> It seems Oddy has dropped a match into the gunpowder...
+
 ## Contests
 
-The third situation is a **[contest](#g:contest)** in which one character is trying to out-do another.
+A situation in which one character is trying to out-do another is called a **[contest](#g:contest)**.
 In this case,
 both players roll dice and add their ratings,
-and the higher score wins.
+and whoever has the higher score wins.
 If there is a tie,
 the Director rules on whether the contest continues or whether something unusual happened.
 
 > **Example:**
-> Selwin and Norbert are arm-wrestling.
-> Selwin rolls 8, giving her a total of 12 (since her Strength is +4).
+> Madica and Norbert are arm-wrestling.
+> Madica rolls 8, giving her a total of 12 (since her Strength is +4).
 > Norbert rolls 10, giving him the same total (since his Strength is only +2),
 > so the Director decides that they are still locked in combat.
 > When they re-roll, they both get 11's.
-> After adding their Strength ratings,
-> Selwin's score is higher,
-> so she wins the contest.
+> After adding their Strengths,
+> Madica's score is higher,
+> so she wins.
+
+## Species
+
+Every living character belongs to a **[species](#g:species)**.
+They all stand upright, speak, and have hands and fingers,
+but they also have fur (or feathers) and their feet look like animals' feet.
+Different species have different default values for the seven features,
+which are shown below.
+
+All animals are either vegetarian or omnivores;
+those marked as "carnivorous" simply have a particularly strong liking for meat.
+Eating intelligent animals is considered cannibalism.
+
+### Bear
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| +3  | 0   | -2  | 0   | -2  | 0   | 0   |
+
+Bears are deeply spiritual animals,
+apt to halt in the middle of combat and ask,
+"But truly, what is the point of such strife?"
+Of course,
+if you were this big,
+you could afford to be philosophical too.
+
+-   Fur counts as natural armor (but without any attack penalty).
+-   Claws and bite count as small weapons.
+
+### Bison
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| +3  | 0   | -4  | 0   | -2  | 0   | 0   |
+
+Bison are rarely found on their own---in fact,
+most suffer from acute isolophobia (a fear of being alone).
+They are naturally protective of weak members of their "herd",
+which can include their workmates, neighbors, and fellow adventurers.
+
+-   Thick hide counts as natural armor (but without any attack penalty).
+-   Horns count as small weapons.
+
+### Crocodile
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| 0   | 0   | -2  | -2  | -2  | -2  | 0   |
+
+Crocodiles are slow moving,
+except when they're not,
+and incredibly patient---particularly when it comes to their favorite sport: revenge.
+
+-   Carnivorous.
+-   Thick hide counts as natural armor.
+-   Naturally have a High rating in Swimming.
+
+### Crow
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -4  | +2  | -2  | +2  | 0   | 0   | -2  |
+
+Crows are the fast-talking deal-makers of the animal world.
+Like other birds, they cannot actually fly, but are able to glide for short distances.
+Their feathered appendages make them somewhat clumsy,
+and they are fascinated by shiny objects.
+
+### Eagle
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -2  | +4  | -2  | 0   | +4  | +2  | -2  |
+
+"As proud as an eagle" is a common saying, and is usually not meant as a compliment.
+Natural aristocrats,
+eagles are quick to take offense,
+and their keen eyesight makes them natural guards and scouts.
+Like other birds, they cannot actually fly, but are able to glide for short distances.
+
+-   Carnivorous.
+
+### Elephant
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| +4  | 0   | 0   | +2  | 0   | +2  | 0   |
+
+Elephants naturally form a matriarchal society:
+females are in charge of government and business,
+while most adult males skulk around the sidelines trying to find ways to be useful.
+Young males often go on quests to try to win glory;
+they are natural story-tellers and have exceptional memories.
+
+-   Can use their trunk as a clumsy extra hand (though it's considered rude to do so in company).
+
+### Fox
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -2  | 0   | +2  | +2  | 0   | 0   | +2  |
+
+As cunning as crows,
+foxes are nimble-fingered, quick-witted, and always looking for their next deal.
+
+-   Carnivorous.
+
+### Goat
+
+Goats are completely average in every way except for their horns.
+(Telling them this is a good way to upset them.)
+
+### Kangaroo
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | -2  | 0   | 0   | 0   |
+
+Kangaroos are the happy-go-lucky clowns of the animal world.
+Townies often dye their tails in bright colors;
+those who live in the wild will camouflage theirs instead.
+
+-   Naturally have a High rating in Jumping (a specialized form of Acrobatics)
+    and Brawling (they are great natural boxers).
+
+### Lion
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | 0   | 0   | 0   | 0   |
+
+Like elephants,
+lions form matriarchal societies,
+and their young males often go adventuring to try to win enough glory
+to attract female attention.
+
+-   Carnivorous.
+
+### Monkey
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -2  | 0   | +4  | +2  | 0   | 0   | 0   |
+
+Smart, curious, and mechanically minded,
+monkeys are constantly tinkering with gadgets (or breaking them).
+They are often less respectful of robots' personal space than they should be.
+
+-   Can use their tails as a clumsy third hand.
+
+### Parrot
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -4  | +4  | -2  | 0   | 0   | 0   | 0   |
+
+The only birds still capable of actually flying,
+they start with a natural Low skill in Ventriloquism.
+
+### Rabbit
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -4  | 0   | 0   | 0   | -2  | 0   | 0   |
+
+It's easy to make fun of rabbits' small size and near-sightedness,
+but nobody who has ever seen a fluffle of rabbits go bersek in battle is likely to do so.
+Whenever a rabbit is wounded,
+it loses control on a roll of 4, 5, or 6 on one die.
+After that,
+it gets an extra action each round which it *must* use for attacking
+and gains +2 on all attack rolls,
+but does not defend itself.
+
+### Raccoon
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -3  | 0   | +4  | +2  | 0   | 0   | 0   |
+
+Raccoons are the only competition monkeys have for the title
+"most likely to get themselves into trouble".
+They are very inquisitive,
+but sometimes have trouble concentrating on---hey,
+look,
+a squirrel!
+
+### Rhino
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| +3  | +2  | -4  | 0   | -2  | 0   | +2  |
+
+They are not the largest animals,
+but they are certainly the grumpiest.
+Like bison (the only other animals they have much time for)
+they prefer to stay with their herd,
+and are fiercely protective of its weaker members.
+
+-   They can charge their enemies (treat their horn like a small weapon).
+
+### Sloth
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| 0   | 0   | -2  | +4  | 0   | 0   | 0   |
+
+Slow-moving but quick-witted,
+sloths are sages and healers.
+Some trim their long claws to improve their Dexterity,
+but most accept their lot philosophically
+and return to thinking about deeper things.
+
+-   If a Sloth is a shaper, they start with a Low rating instead of Very Low.
+
+### Tiger
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | 0   | 0   | 0   | 0   |
+
+As proud as eagles,
+tigers are scornful of creatures that live in herds or packs,
+including lions---*especially* lions.
+
+-   Carnivorous.
+
+### Turtle
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -2  | -2  | +2  | +2  | -4  | -2  | -2  |
+
+Slow-moving and short-sighted,
+turtles are natural shapers.
+
+-   Shell counts as natural armor (with no attack penalty).
+-   Naturally have a High rating in Swimming.
+-   If a Turtle is a shaper, they start with a Low rating instead of Very Low.
+
+### Wolf
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | 0   | 0   | 0   | +2  |
+
+Fast, strong, and brave,
+wolves usually travel in packs of half a dozen,
+and their alphas are often community leaders.
+
+-   Carnivorous.
+
+### Zebra
+
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| -2  | 0   | -2  | 0   | 0   | 0   | 0   |
+
+Zebras have a remarkable ability:
+when standing still,
+they can change color from black-and-white stripes to almost anything else
+in order to blend into their surroundings.
+This gives them an extra two levels of Stealth at no cost.
 
 ----------------------------------------
 
-## Modifying Traits
+## Modifying Features
 
 When a player creates a character,
-she may raise one trait by one level,
-or two traits by one level each if she also *lowers* one trait by one level.
-Players cannot raise one trait by two levels,
-and cannot raise any trait above Very High.
+she may raise one feature by one level,
+or two features by one level each if she also *lowers* one feature by one level.
+Players cannot raise one feature by two levels,
+and cannot raise any feature above Very High.
 Players must lower their characters' Sight, Hearing, or Smell by *two* levels rather than one
-if they want to raise other traits.
+if they want to raise other features.
 
 > **Example:**
 > Garree is a 15-year-old goat.
 > Her player has raised her Intellect from Average to High.
 >
-> | Trait | Rating   |
+> | Feature | Rating   |
 > | ----- | -------- |
 > | SIZ   | Average  |
 > | FIT   | Average  |
 > | DEX   | Average  |
-> | INT   | High     |
+> | INT   | +2  |
 > | SGT   | Average  |
 > | HER   | Average  |
 > | SML   | Average  |
@@ -253,10 +543,10 @@ if they want to raise other traits.
 > His player has raised his Size and Fitness,
 > but has lowered his Hearing in exchange.
 > 
-> | Trait | Rating   |
+> | Feature | Rating   |
 > | ----- | -------- |
-> | SIZ   | High     |
-> | FIT   | High     |
+> | SIZ   | +2  |
+> | FIT   | +2  |
 > | DEX   | Average  |
 > | INT   | Average  |
 > | SGT   | Average  |
@@ -267,8 +557,8 @@ if they want to raise other traits.
 
 Every character has **[skills](#g:skill)** that she has improved through practice and training.
 Some common skills are listed below.
-If a trait is given beside the skill,
-the character's starting level (without any training) is equal to that trait.
+If a feature is given beside the skill,
+the character's starting level (without any training) is equal to that feature.
 If a specific level is listed;
 the character starts with that,
 while "--" means that the character starts with no skill at all,
@@ -502,7 +792,7 @@ though it has to be a *very* lucky strike.
 
 | Unarmored     | Guaranteed | Dice | Hit With |
 | ------------- | ---------: | ---: | -------: |
-| Punch or Kick | 0          | 1    | (once) 6 |
+| Punch or Kick | 0         | 1    | (once) 6 |
 | Small Weapon  | 1          | 2    | 5-6      |
 | Large Weapon  | 1          | 3    | 4-6      |
 
@@ -529,9 +819,9 @@ and 5 or 6 (for large ones).
 
 | Armored       | Guaranteed | Dice | Hit With |
 | ------------- | ---------: | ---: | -------: |
-| Punch or Kick | 0          | 0    |          |
-| Small Weapon  | 0          | 2    | 6        |
-| Large Weapon  | 0          | 3    | 5-6      |
+| Punch or Kick | 0         | 0   |          |
+| Small Weapon  | 0         | 2    | 6        |
+| Large Weapon  | 0         | 3    | 5-6      |
 
 > **Example:**
 > Slumpy closes in and hits Dashwood with her spiked club
@@ -544,272 +834,6 @@ and 5 or 6 (for large ones).
 Armor is heavy:
 it reduces the wearer's attack and defense bonus by 1 point if they're used to wearing it,
 and 3 points if they're not.
-
-## Species
-
-Every living character belongs to a **[species](#g:species)**.
-They all stand upright, speak, and have hands,
-but have fur (or feathers),
-and their feet look like animals' feet.
-Different species have different default traits,
-which are highlighted below.
-(We use "---" to show traits that are Average.)
-
-All animals are either vegetarian or omnivores;
-those marked as "carnivorous" simply have a particularly strong liking for meat.
-Eating intelligent animals is considered cannibalism.
-
-### Bear
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High      | ---       | Low       | ---       | Low       | ---       | ---       |
-
-Bears are deeply spiritual animals,
-apt to halt in the middle of combat and ask,
-"But truly, what is the point of such strife?"
-Of course,
-if you were this big,
-you could afford to be philosophical too.
-
--   Fur counts as natural armor (but without any attack penalty).
--   Claws and bite count as small weapons.
-
-### Bison
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High      | ---       | Very Low  | ---       | Low       | ---       | ---       |
-
-Bison are rarely found on their own---in fact,
-most suffer from acute isolophobia (a fear of being alone).
-They are naturally protective of weak members of their "herd",
-which can include their workmates, neighbors, and fellow adventurers.
-
--   Thick hide counts as natural armor (but without any attack penalty).
--   Horns count as small weapons.
-
-### Crocodile
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | ---       | Low       | Low       | Low       | Low       | ---       |
-
-
-Crocodiles are slow moving,
-except when they're not,
-and incredibly patient---particularly when it comes to their favorite sport: revenge.
-
--   Carnivorous.
--   Thick hide counts as natural armor.
--   Naturally have a High rating in Swimming.
-
-### Crow
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Very Low  | High      | Low       | High      | ---       | ---       | Low       |
-
-Crows are the fast-talking deal-makers of the animal world.
-Like other birds, they cannot actually fly, but are able to glide for short distances.
-Their feathered appendages make them somewhat clumsy,
-and they are fascinated by shiny objects.
-
-### Eagle
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | Very High | Low       | ---       | Very High | High      | Low       |
-
-"As proud as an eagle" is a common saying, and is usually not meant as a compliment.
-Natural aristocrats,
-eagles are quick to take offense,
-and their keen eyesight makes them natural guards and scouts.
-Like other birds, they cannot actually fly, but are able to glide for short distances.
-
--   Carnivorous.
-
-### Elephant
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Very High | ---       | ---       | High      | ---       | High      | ---       |
-
-Elephants naturally form a matriarchal society:
-females are in charge of government and business,
-while most adult males skulk around the sidelines trying to find ways to be useful.
-Young males often go on quests to try to win glory;
-they are natural story-tellers and have exceptional memories.
-
--   Can use their trunk as a clumsy extra hand (though it's considered rude to do so in company).
-
-### Fox
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | ---       | High      | High      | ---       | ---       | High      |
-
-As cunning as crows,
-foxes are nimble-fingered, quick-witted, and always looking for their next deal.
-
--   Carnivorous.
-
-### Goat
-
-Goats are completely average in every way except for their horns.
-(Telling them this is a good way to upset them.)
-
-### Kangaroo
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | High      | ---       | Low       | ---       | ---       | ---       |
-
-Kangaroos are the happy-go-lucky clowns of the animal world.
-Townies often dye their tails in bright colors;
-those who live in the wild will camouflage theirs instead.
-
--   Naturally have a High rating in Jumping (a specialized form of Acrobatics)
-    and Brawling (they are great natural boxers).
-
-### Lion
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | High      | ---       | ---       | ---       | ---       | ---       |
-
-Like elephants,
-lions form matriarchal societies,
-and their young males often go adventuring to try to win enough glory
-to attract female attention.
-
--   Carnivorous.
-
-### Monkey
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | ---       | Very High | High      | ---       | ---       | ---       |
-
-Smart, curious, and mechanically minded,
-monkeys are constantly tinkering with gadgets (or breaking them).
-They are often less respectful of robots' personal space than they should be.
-
--   Can use their tails as a clumsy third hand.
-
-### Parrot
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Very Low  | Very High | Low       | ---       | ---       | ---       | ---       |
-
-The only birds still capable of actually flying,
-they start with a natural Low skill in Ventriloquism.
-
-### Rabbit
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Very Low  | ---       | ---       | ---       | Low       | ---       | ---       |
-
-It's easy to make fun of rabbits' small size and near-sightedness,
-but nobody who has ever seen a fluffle of rabbits go bersek in battle is likely to do so.
-Whenever a rabbit is wounded,
-it loses control on a roll of 4, 5, or 6 on one die.
-After that,
-it gets an extra action each round which it *must* use for attacking
-and gains +2 on all attack rolls,
-but does not defend itself.
-
-### Raccoon
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | ---       | Very High | High      | ---       | ---       | ---       |
-
-Raccoons are the only competition monkeys have for the title
-"most likely to get themselves into trouble".
-They are very inquisitive,
-but sometimes have trouble concentrating on---hey,
-look,
-a squirrel!
-
-### Rhino
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| High      | High      | Very Low  | ---       | Low       | ---       | High      |
-
-They are not the largest animals,
-but they are certainly the grumpiest.
-Like bison (the only other animals they have much time for)
-they prefer to stay with their herd,
-and are fiercely protective of its weaker members.
-
--   They can charge their enemies (treat their horn like a small weapon).
-
-### Sloth
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | ---       | Low       | Very High | ---       | ---       | ---       |
-
-Slow-moving but quick-witted,
-sloths are sages and healers.
-Some trim their long claws to improve their Dexterity,
-but most accept their lot philosophically
-and return to thinking about deeper things.
-
--   If a Sloth is a shaper, they start with a Low rating instead of Very Low.
-
-### Tiger
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | High      | ---       | ---       | ---       | ---       | ---       |
-
-As proud as eagles,
-tigers are scornful of creatures that live in herds or packs,
-including lions---*especially* lions.
-
--   Carnivorous.
-
-### Turtle
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | Low       | High      | High      | Very Low  | Low       | Low       |
-
-Slow-moving and short-sighted,
-turtles are natural shapers.
-
--   Shell counts as natural armor (with no attack penalty).
--   Naturally have a High rating in Swimming.
--   If a Turtle is a shaper, they start with a Low rating instead of Very Low.
-
-### Wolf
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| ---       | High      | ---       | ---       | ---       | ---       | High      |
-
-Fast, strong, and brave,
-wolves usually travel in packs of half a dozen,
-and their alphas are often community leaders.
-
--   Carnivorous.
-
-### Zebra
-
-| SIZ       | FIT       | DEX       | INT       | SGT       | HER       | SML       |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Low       | ---       | Low       | ---       | ---       | ---       | ---       |
-
-Zebras have a remarkable ability:
-when standing still,
-they can change color from black-and-white stripes to almost anything else
-in order to blend into their surroundings.
-This gives them an extra two levels of Stealth at no cost.
 
 ## Shaping
 
@@ -857,11 +881,11 @@ which in their case means structural integrity:
 a bot with Low Fitness is probably rusty or missing parts,
 while one with Very High Fitness looks brand new
 (and will therefore be a target for other bots in need of parts).
-Bots can raise and lower one trait by one level,
-or two traits by one level each if one trait is lowered by a level,
+Bots can raise and lower one feature by one level,
+or two features by one level each if one feature is lowered by a level,
 just like animal characters.
 (As with animals,
-Sight and Hearing have to be lowered *two* levels to raise some other trait by one level.)
+Sight and Hearing have to be lowered *two* levels to raise some other feature by one level.)
 
 By default,
 every robot character has either tracks, wheels, or legs to move with,
@@ -938,15 +962,15 @@ from Low to High (2 points),
 and her skill at Mechanics from High (her Dexterity) to Very High,
 which uses up her final point.
 
-| Trait     | Rating  | \| Skill        | Rating    |
+| Feature     | Rating  | \| Skill        | Rating    |
 | --------- | ------- | --------------- | --------- |
 | Size      | Low     | \| Boating      | Average   |
-| Fitness   | Average | \| Swimming     | High      |
-| Dexterity | High    | \| Quarterstaff | High      |
-| Intellect | High    | \| Mechanics    | Very High |
+| Fitness   | Average | \| Swimming     | +2  |
+| Dexterity | +2 | \| Quarterstaff | +2  |
+| Intellect | +2 | \| Mechanics    | Very High |
 | Sight     | Average | \|              |           |
 | Hearing   | Average | \|              |           |
-| Smell     | High    | \|              |           |
+| Smell     | +2 | \|              |           |
 | HP        | 5       | \|              |           |
 
 ### Rhymes With Orange
@@ -963,14 +987,14 @@ so it is constantly doing odd jobs in exchange for power
 or gambling to try to win a recharge.
 (It only cheats when it has to.)
 
-| Trait     | Rating  | \| Skill        | Rating    |
+| Feature     | Rating  | \| Skill        | Rating    |
 | --------- | ------- | --------------- | --------- |
-| Height    | High    | \| Climbing     | Very High |
+| Height    | +2 | \| Climbing     | Very High |
 | Weight    | Low     | \| Acrobatics   | Very High |
 | Fitness   | Average | \| Gambling     | Very High |
-| Dexterity | Average | \| Squirting    | High      |
-| IQ        | Average | \| Mathematics  | High      |
-| Sight     | Average | \| Navigation   | High      |
+| Dexterity | Average | \| Squirting    | +2  |
+| IQ        | Average | \| Mathematics  | +2  |
+| Sight     | Average | \| Navigation   | +2  |
 | Hearing   | Low     | \|              |           |
 | Smell     | None    | \|              |           |
 | HP        | 6       | \|              |           |
@@ -978,15 +1002,12 @@ or gambling to try to win a recharge.
 ## Glossary
 
 **Automatic success**{:#g:automatic-success}:
-if the character's level is higher than the task's and the outcome isn't important,
+if the character's level is higher than the challenge's and the outcome isn't important,
 they automatically succeed.
 
 **Bonus**{:#g:bonus}:
 the amount added to (or subtracted from) the roll of the dice
 based on the character's skill.
-
-**Challenge roll**{:#g:challenge-roll}:
-rolling two dice, adding a bonus, and comparing to a difficulty target.
 
 **Character**{:#g:character}:
 an animal or bot in the game.
@@ -995,7 +1016,7 @@ an animal or bot in the game.
 rolling two dice, adding a bonus, and comparing to an opponent's roll and bonus.
 
 **Difficulty**{:#g:difficulty}:
-how hard a task is.
+how hard a challenge is.
 The difficulty determines the target for a challenge roll.
 
 **Director**{:#g:director}:
@@ -1003,6 +1024,9 @@ the person running the game.
 
 **Extra**{:#g:extra}:
 a character played by the Director.
+
+**Feature**{:#g:feature}:
+an intrinsic characteristic such as fitness or dexterity.
 
 **Fluke**{:#g:fluke}:
 a sequence of 5's or 6's on one die.
@@ -1017,6 +1041,9 @@ based on a character's skill.
 **Player**{:#g:player}:
 someone who is playing the part of a character in the game.
 
+**Rating**{:#g:rating}:
+a bonus or penalty for a character's feature or a task's difficulty.
+
 **Shaping**{:#g:shaping}:
 the psychic ability to control one of the six elements.
 
@@ -1025,9 +1052,3 @@ a character's ability to do something.
 
 **Species**{:#g:species}:
 a kind of intelligent living character.
-
-**Target**{:#g:target}:
-the score needed on two dice (with bonuses) to succeed at a task.
-
-**Trait**{:#g:trait}:
-an intrinsic characteristic such as fitness or dexterity.

@@ -503,46 +503,53 @@ and their alphas are often community leaders.
 Zebras have a remarkable ability to hide themselves,
 which is described below under "Skills".
 
-----------------------------------------
+## Adjusting Features
 
-## Modifying Features
-
+Animals of the same species can be quite different from one another.
 When a player creates a character,
-she may raise one feature by one level,
-or two features by one level each if she also *lowers* one feature by one level.
-Players cannot raise one feature by two levels,
-and cannot raise any feature above Very High.
-Players must lower their characters' Sight, Hearing, or Smell by *two* levels rather than one
-if they want to raise other features.
+she can spend a total of 5 points raising the character's ratings.
+She can do this by adding 2 points to two ratings and 1 point to a third,
+or by adding 3 points to one rating and 1 each to two others,
+and so on,
+so long as she doesn't raise any rating by more than 4 points.
+Players can go further and move up to 3 points from one rating to another.
+For example,
+a player could reduce the Fitness of a goat from 0 to -3,
+then increase the goat's Dexterity to +3.
+
+Increasing Sight or Hearing costs twice as much,
+and lowering them is only worth half as much.
+Increasing Smell costs three times as much,
+and lowering it is only worth a third as much.
+For example,
+a player would have to reduce a character's Fitness by 2 points
+to increase their Sight by 1,
+or reduce their Sight by 2 in order to increase their Fitness by 1.
+This rule is included for balance:
+without it,
+player characters all tend to have a very poor sense of Smell
+and be near-sighted.
 
 > **Example:**
 > Garree is a 15-year-old goat.
-> Her player has raised her Intellect from Average to High.
+> Her default rating is zero for everything,
+> but her player decides to lower her Size by 1 point
+> and distribute 6 points evenly across Fitness, Dexterity, and Intellect:
 >
-> | Feature | Rating   |
-> | ----- | -------- |
-> | SIZ   | Average  |
-> | FIT   | Average  |
-> | DEX   | Average  |
-> | INT   | +2  |
-> | SGT   | Average  |
-> | HER   | Average  |
-> | SML   | Average  |
+> | SIZ | FIT | DEX | INT | SGT | HER | SML |
+> | --: | --: | --: | --: | --: | --: | --: |
+> | -1  | +1  | +1  | +1  | 0   | 0   | 0   |
 
 > **Example:**
-> Gruff is Garree's twin brother.
-> His player has raised his Size and Fitness,
-> but has lowered his Hearing in exchange.
-> 
-> | Feature | Rating   |
-> | ----- | -------- |
-> | SIZ   | +2  |
-> | FIT   | +2  |
-> | DEX   | Average  |
-> | INT   | Average  |
-> | SGT   | Average  |
-> | HER   | Low      |
-> | SML   | Average  |
+> The same player makes different decisions for Garree's brother Gruff.
+> His sense of Smell is reduced 3 points and his Intellect by 2 points,
+> which gives him 8 points to distribute to other features.
+> The player increases Gruff's Sight by 1 (which costs 2 points)
+> and spends the rest on Size and Fitness:
+>
+> | SIZ | FIT | DEX | INT | SGT | HER | SML |
+> | --: | --: | --: | --: | --: | --: | --: |
+> | +3  | +3  | 0   | -2  | +1  | 0   | -3  |
 
 ## Skills
 

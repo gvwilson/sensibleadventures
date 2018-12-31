@@ -104,7 +104,7 @@ A positive rating is sometimes called a **[bonus](#g:bonus)**,
 and a negative one is sometimes called a **[penalty](#g:penalty)**.
 
 > **Example:**
-> Madica is big and healthy,
+> Gertrude is big and healthy,
 > but not good with her hands and somewhat near-sighted
 > (which isn't surprising, considering that she's an elephant).
 > Her ratings are:
@@ -123,9 +123,9 @@ big characters tend to be stronger than small ones,
 but characters who aren't fit aren't as strong as characters who are.
 
 > **Example:**
-> Madica's strength is +4.
-> Her cousin Norbert, on the other hand,
-> has a Size of +4 (he's bigger than Madica) but a Fitness of -2 (he never exercises),
+> Gertrude's strength is +4.
+> Her cousin Norwin, on the other hand,
+> has a Size of +4 (he's bigger than Gertrude) but a Fitness of -2 (he never exercises),
 > so his Strength is only +2.
 
 ## Challenges
@@ -146,7 +146,7 @@ on 11 or more,
 they have succeeded.
 
 > **Example:**
-> Madica is trying to take apart the clockwork timer on a small bomb.
+> Gertrude is trying to take apart the clockwork timer on a small bomb.
 > The challenge's difficulty is -1, and her Dexterity is -2.
 > She rolls 3 dice and gets 5, 4, and 2, for a total of 11;
 > after subtracting 1 for the difficulty and 2 for her poor Dexterity,
@@ -159,11 +159,11 @@ so the roll above would be written "3d-3".
 
 > **Example:**
 > Panicking slightly,
-> Madica decides to try smashing the timer.
+> Gertrude decides to try smashing the timer.
 > The Director decides that the difficulty is 0
 >(it's neither particularly tough or fairly fragile),
 > and her Strength is +4,
-> so Madica needs to get 11 or more or 3d+4.
+> so Gertrude needs to get 11 or more or 3d+4.
 > She rolls 3 dice and gets a total of 11 once again.
 > After adding 4 for her Strength, her total is 15,
 > and the delicate clockwork is now so much scrap metal.
@@ -172,8 +172,8 @@ If character's rating plus the challenge's difficulty is greater than 2
 and the outcome isn't critical to the game,
 the Director can decide that the characer gets an **[automatic success](#g:automatic-success)**.
 For example,
-suppose Madica wants to lift a crate of chocolates.
-Madica's Strength is +4
+suppose Gertrude wants to lift a crate of chocolates.
+Gertrude's Strength is +4
 and challenge's difficulty is -1 (the crate is larger than average, but not remarkably so)
 for a total bonus of +3,
 so the Director decides the player can skip the dice roll.
@@ -182,53 +182,44 @@ This rule helps keep the game moving.
 ## Flukes
 
 Sometimes it may seem like a character has no chance at all of doing something,
-but there is always hope.
-If all three of the dice that a player rolls are 6's,
-the player gets to roll one more die.
-On a 1-5,
-that many points are added to their total;
-on a 6,
-they get 5 points and another roll.
-If it's another 6,
-they get to keep rolling.
-This is called a **[fluke rolls](#g:fluke)**.
+but since *Shapers and Bots* is a story-telling game,
+there is always hope.
+If a player rolls 18 on three dice---that is, if they get three 6's---their character automatically succeeds.
+If they roll 17---that is, two 6's and a 5---something good happens,
+but probably not what they expected.
+These are called **[fluke rolls](#g:fluke)**.
 
 > **Example:**
 > Zitter had never even *seen* a laser pistol before today,
 > but as the deranged one-eyed crocodile pirate charges toward her,
 > she picks up the one she just found and frantically starts pushing buttons.
 > The Director decides that finding the right combination of buttons has a difficulty of -10.
-> Zitter rolls 6-6-6,
-> which gives her 18 points and another die roll.
-> That die comes up 6 as well,
-> giving her 5 more points and yet another roll, which comes up 2 (ending her streak).
-> Her total is 18 for the original roll
-> plus 5 for the first fluke roll plus 2, or 25.
-> After subtracting 10 for the challenge's difficulty,
-> that's still 15 points:
+> Zitter rolls a triple 6:
 > somehow,
 > her fumbling fingers found the right buttons
 > and she put a neat hole through the surprised crocodile.
+>
+> A moment later,
+> another crocodile pirate comes around the corner, sword in hand.
+> Zitter rolls again and gets 6-5-6, for a score of 17.
+> The Director rules that her lucky shot has gone wild
+> and brought a branch crashing down between her and the angry pirate.
 
 Fluke rolls work in reverse as well,
 because it's always possible for something to go wrong.
-If all three dice come up 1's,
-the player rolls another die.
-On a 1-5, that many points are *subtracted* from their total;
-on a 6,
-they subtract 5 points and roll again.
-If the score is below zero,
-the Director can rule that the character hasn't just failed---they have failed spectacularly.
+If a player rolls a total of 4 (which is two 1's and a 2),
+they automatically fail at whatever they were trying to do.
+If they roll a total of 3 (which is three 1's),
+then not only have they failed,
+but something really bad has happened.
 
 > **Example:**
-> Oddy is loading a cannon.
-> He has done it a hundred times before,
-> but this time his player rolls three 1's.
-> Uh oh:
-> another roll comes up 4,
-> so Oddy's total is -1
-> (since the extra roll is subtracted from the total).
-> It seems Oddy has dropped a match into the gunpowder...
+> Another day, another angry crocodile pirate...
+> Zitter still hasn't figured out how to use her laser pistol,
+> but when she tries to take a shot,
+> her player rolls a 3.
+> "Self-destruct initiated", the Director says in a mechanical voice.
+> "Ten... nine... eight..."
 
 ## Contests
 
@@ -240,13 +231,13 @@ If there is a tie,
 the Director rules on whether the contest continues or whether something unusual happened.
 
 > **Example:**
-> Madica and Norbert are arm-wrestling.
-> Madica rolls 8, giving her a total of 12 (since her Strength is +4).
-> Norbert rolls 10, giving him the same total (since his Strength is only +2),
+> Gertrude and Norwin are arm-wrestling.
+> Gertrude rolls 8, giving her a total of 12 (since her Strength is +4).
+> Norwin rolls 10, giving him the same total (since his Strength is only +2),
 > so the Director decides that they are still locked in combat.
 > When they re-roll, they both get 11's.
 > After adding their Strengths,
-> Madica's score is higher,
+> Gertrude's score is higher,
 > so she wins.
 
 ## Species
@@ -357,6 +348,10 @@ foxes are nimble-fingered, quick-witted, and always looking for their next deal.
 
 ### Goat
 
+| SIZ | FIT | DEX | INT | SGT | HER | SML |
+| --: | --: | --: | --: | --: | --: | --: |
+| 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+
 Goats are completely average in every way except for their horns.
 (Telling them this is a good way to upset them.)
 
@@ -411,7 +406,7 @@ they start with a natural Low skill in Ventriloquism.
 
 | SIZ | FIT | DEX | INT | SGT | HER | SML |
 | --: | --: | --: | --: | --: | --: | --: |
-| -4  | 0   | 0   | 0   | -2  | 0   | 0   |
+| -3  | 0   | 0   | 0   | -2  | 0   | 0   |
 
 It's easy to make fun of rabbits' small size and near-sightedness,
 but nobody who has ever seen a fluffle of rabbits go bersek in battle is likely to do so.
@@ -431,9 +426,8 @@ but does not defend itself.
 Raccoons are the only competition monkeys have for the title
 "most likely to get themselves into trouble".
 They are very inquisitive,
-but sometimes have trouble concentrating on---hey,
-look,
-a squirrel!
+but sometimes have trouble concentrating on---hey look,
+a butterfly!
 
 ### Rhino
 
@@ -504,13 +498,10 @@ and their alphas are often community leaders.
 
 | SIZ | FIT | DEX | INT | SGT | HER | SML |
 | --: | --: | --: | --: | --: | --: | --: |
-| -2  | 0   | -2  | 0   | 0   | 0   | 0   |
+| -1  | 0   | -2  | 0   | 0   | 0   | 0   |
 
-Zebras have a remarkable ability:
-when standing still,
-they can change color from black-and-white stripes to almost anything else
-in order to blend into their surroundings.
-This gives them an extra two levels of Stealth at no cost.
+Zebras have a remarkable ability to hide themselves,
+which is described below under "Skills".
 
 ----------------------------------------
 
@@ -554,6 +545,11 @@ if they want to raise other features.
 > | SML   | Average  |
 
 ## Skills
+
+FIXME: zebras when standing still,
+they can change color from black-and-white stripes to almost anything else
+in order to blend into their surroundings.
+This gives them an extra two levels of Stealth at no cost.
 
 Every character has **[skills](#g:skill)** that she has improved through practice and training.
 Some common skills are listed below.
@@ -950,9 +946,9 @@ The player can then give it two more features from the list below,
 
 ## Example Characters
 
-### Madica
+### Syvia
 
-Madica is a teenage fox.
+Syvia is a teenage fox.
 She has worked on her parents' fishing boat since she was a child,
 so her player raises her Boating from Very Low to Average (2 points)
 and her Swimming from Low to Average (1 point).
@@ -1002,18 +998,22 @@ or gambling to try to win a recharge.
 ## Glossary
 
 **Automatic success**{:#g:automatic-success}:
-if the character's level is higher than the challenge's and the outcome isn't important,
-they automatically succeed.
+accomplishing a task without bothering to roll dice.
 
 **Bonus**{:#g:bonus}:
-the amount added to (or subtracted from) the roll of the dice
-based on the character's skill.
+a positive rating.
+
+**Challenge**{:#g:challenge}:
+something difficult that a character wants to do.
+The result is determined by the sum of three dice
+plus the character's rating and the challenge's difficulty.
 
 **Character**{:#g:character}:
 an animal or bot in the game.
 
 **Contest**{:#g:contest}:
-rolling two dice, adding a bonus, and comparing to an opponent's roll and bonus.
+a situation in which success depends on beating another character's dice roll
+(plus appropriate ratings).
 
 **Difficulty**{:#g:difficulty}:
 how hard a challenge is.
@@ -1029,20 +1029,19 @@ a character played by the Director.
 an intrinsic characteristic such as fitness or dexterity.
 
 **Fluke**{:#g:fluke}:
-a sequence of 5's or 6's on one die.
+a roll of 17 or 18 (automatic success) or 3 or 4 (automatic failure).
 
 **Health point**{:#g:health-point}:
-measures how much damage a character can take.
+how much damage a character can take.
 
-**Level**{:#g:level}:
-determines the bonus added to (or subtracted from) a dice roll
-based on a character's skill.
+**Penalty**{:#g:penalty}:
+a negative rating.
 
 **Player**{:#g:player}:
 someone who is playing the part of a character in the game.
 
 **Rating**{:#g:rating}:
-a bonus or penalty for a character's feature or a task's difficulty.
+a bonus or penalty for a character's feature or a challenge's difficulty.
 
 **Shaping**{:#g:shaping}:
 the psychic ability to control one of the six elements.

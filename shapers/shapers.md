@@ -63,7 +63,7 @@ that's what their characters are doing in the game world.
 
 Every character has strengths and weaknesses
 that determine what they're good at and what they aren't.
-We describe this by giving every character a **[score](#g:score)**
+We describe this by giving every character a **[rating](#g:rating)**
 for these seven **[features](#g:feature)**:
 
 -   **Size** (abbreviated SIZ): how large the character is.
@@ -86,26 +86,28 @@ for these seven **[features](#g:feature)**:
     (Note that smell includes the sense of taste.)
 
 If an extra is important to the plot---for example,
-if they are a player character's sidekick---the Director may give them scores for two more features:
+if they are a player character's sidekick---the Director may give them ratings for two more features:
 
 -   **Courage** (CRG): how brave the character is.
 
 -   **Honesty** (HON): how likely the character is to tell the truth.
 
-Player characters don't have scores for these features
+Player characters don't have ratings for these features
 because being brave and telling the truth (or not) are part of the game.
 
-So what is a score?
+So what is a rating?
 It's simply a number:
 0 if the character is average,
 positive if they're stronger than average or have better-than-average eyesight,
 and negative if they are smaller than average or particularly clumsy.
+A positive rating is sometimes called a **[bonus](#g:bonus)**,
+and a negative one is sometimes called a **[penalty](#g:penalty)**.
 
 > **Example:**
 > Selwin is big and healthy,
 > but not good with her hands and somewhat near-sighted
 > (which isn't surprising, considering that she's an elephant).
-> Her features are:
+> Her ratings are:
 > - Size: +3
 > - Fitness: +1
 > - Dexterity: -2
@@ -115,9 +117,9 @@ and negative if they are smaller than average or particularly clumsy.
 > - Smell: 0
 
 Every character has one extra feature called **Strength**
-whose score is the sum of their Size and Fitness.
-(Basically, big characters tend to be stronger than small ones,
-but characters who aren't fit tend to be less strong than characters who are.)
+whose rating is the sum of their Size and Fitness.
+Basically, big characters tend to be stronger than small ones,
+but characters who aren't fit tend to be less strong than characters who are.
 
 > **Example:**
 > Selwin's strength is +4.
@@ -129,13 +131,13 @@ but characters who aren't fit tend to be less strong than characters who are.)
 
 A **[task](#g:task)** is something a character might want to do,
 like climb a wall or pick a lock.
-Every task has a score as well:
-difficult tasks have negative scores,
-and easy ones have positive scores.
+Every task has a rating as well:
+difficult tasks have negative ratings,
+while easy tasks have positive ones.
 
-If a character wants to do a task and their score is better than the tasks's difficulty,
-the player rolls three dice and adds their score and the tasks's difficulty to the result.
-On 10 or less,
+If a character tries to do a task,
+the player rolls three dice and adds their rating and the tasks's difficulty to the result.
+If the total is 10 or less,
 they have failed;
 on 11 or more,
 they have succeeded.
@@ -143,62 +145,69 @@ they have succeeded.
 > **Example:**
 > Selwin is trying to take apart the clockwork timer on a small bomb.
 > The task's difficulty is -1, and her Dexterity is -2.
-> She rolls 3 dice and gets 11;
-> after subtracting 3,
-> her score is only 8,
+> She rolls 3 dice and gets 5, 4, and 2, for a total of 11;
+> after subtracting 1 for the difficulty and 2 for her poor Dexterity,
+> her total is only 8,
 > so she has failed.
 >
 > Panicking slightly,
-> she decides to smash the timer.
-> The Director decides that the difficulty is 0 (it's fairly fragile),
+> she decides to try smashing the timer.
+> The Director decides that the difficulty is 0
+>(it's neither particularly tough or fairly fragile),
 > and her Strength is +4.
-> She rolls 3 dice and gets another 11;
-> after adding her bonus, her total is 15,
+> She rolls 3 dice and gets a total of 11 once again.
+> After adding 4 for her Strength, her total is 15,
 > and the delicate clockwork is now so much scrap metal.
 
-If character's score plus the task's difficulty is greater than 2
+If character's rating plus the task's difficulty is greater than 2
 and the outcome isn't critical to the game,
 the Director can decide that the characer gets an **[automatic success](#g:automatic-success)**.
 For example,
-suppose Selwin wants to lift a large box of chocolates.
-The task's difficulty is 0 (it's a pretty average box),
+suppose Selwin wants to lift a crate of chocolates.
+The task's difficulty is -1 (the crate is larger than average, but not remarkably so)
 and Selwin's Strength is +4,
-so no dice roll is needed.
+so the Director decides no dice roll is needed.
 
 ## Flukes
 
 Sometimes it may seem like a character has no chance at all of doing something,
 but there is always hope.
-If two or all three of the dice that a player rolls are 6's,
+Similarly,
+it might seem like there's no way for a character could fail,
+but the universe always finds a way.
+This is where **[fluke rolls](#g:fluke)** come in.
+
+If all three of the dice that a player rolls are 6's,
 the player gets to roll one more die.
 On a 1-5,
 that many points are added to their total;
 on a 6,
-they get 5 points and another roll,
-and so on.
-This is called a **[fluke](#g:fluke)**,
-and gives characters a one-in-a-thousand chance to accomplish almost anything.
+they get 5 points and another roll.
+If it's another 6,
+they get to keep rolling.
 
 > **Example:**
 > Zitter had never even *seen* a laser pistol before today,
 > but as the deranged one-eyed crocodile pirate charges toward her,
 > she picks up the one that Selwin just dropped and frantically starts pushing buttons.
 > The task's difficulty is -10;
-> she rolls 6-6-2,
-> which gives her 14 points and another roll.
+> she rolls 6-6-6,
+> which gives her 18 points and another roll.
 > That single die comes up 6 as well,
 > giving her 5 more points and another roll.
 > Her second fluke roll is a 2, ending her streak,
-> but her total is now 14 (for the original roll) plus 5 (for the first fluke roll) plus 2, or 21.
+> but her total is now 18 (for the original roll) plus 5 (for the first fluke roll) plus 2, or 25.
+> After subtracting 10 for the task's difficulty,
+> that's still 15 points.
 > Somehow,
-> her fumbling fingers managed to find the right buttons
-> and put a neat hole through the surprised crocodile.
+> her fumbling fingers found the right buttons
+> and she put a neat hole through the surprised crocodile.
 
 ## Contests
 
 The third situation is a **[contest](#g:contest)** in which one character is trying to out-do another.
 In this case,
-both players roll dice and add their bonuses,
+both players roll dice and add their ratings,
 and the higher score wins.
 If there is a tie,
 the Director rules on whether the contest continues or whether something unusual happened.
@@ -209,95 +218,11 @@ the Director rules on whether the contest continues or whether something unusual
 > Norbert rolls 10, giving him the same total (since his Strength is only +2),
 > so the Director decides that they are still locked in combat.
 > When they re-roll, they both get 11's.
-> After adding their Strength bonuses,
+> After adding their Strength ratings,
 > Selwin's score is higher,
-> so she wins.
+> so she wins the contest.
 
 ----------------------------------------
-
-> **Example:**
-> Alouard has a High climbing skill
-> but is trying to get up a wall with Awesome difficulty.
-> Her player rolls two dice and gets a total of 6 points.
-> After adding 2 for her bonus, her score is 8,
-> which is well short of the 13 needed to scale this wall.
->
-> Later, Alouard tries a different Awesome wall.
-> This time her player rolls 11 and adds her bonus to get exactly 13.
-> Alouard has succeeded,
-> but the Director rules that one of her boots fell off while she was climbing.
-> The clatter as it hits the floor attracts some unwanted attention...
-
-The third situation is a **[contest](#g:contest)** in which one character is trying to out-do another.
-In this case,
-both players roll dice and add their bonuses,
-and the higher score wins.
-If there is a tie,
-the Director rules on whether the contest continues or whether something unusual happened.
-
-> **Example:**
-> Rufus and Doofus are arm-wrestling.
-> When their players both roll 9's,
-> the Director decides that they are still locked in combat.
-> They both re-roll and get 5's.
-> This time, the Director rules that the table has broken under their weight
-> and sent them both sprawling onto the floor of the bar.
-> That's when Rufus notices the bomb ticking away underneath his seat.
-
-### Fluke
-
-If a character has no rating at all for a task,
-they can still succeed by **[fluke](#g:fluke)**.
-The player rolls a single die:
-if it is a 5 or 6,
-she gets one point and rolls again
-until she misses a roll.
-Her score is then the number of 5's or 6's she rolled in a row.
-
-> **Example:**
-> Zitter-B had never even *seen* a crossbow before today,
-> but as the deranged one-eyed crocodile pirate charges toward it,
-> it picks the one that Rufus just dropped and fires it.
-> The Director rules that hitting the crocodile is an Average task,
-> so Zitter-B needs 7 points.
-> Its player rolls a 5, another 5, a 6---and then a 2,
-> ending its lucky streak.
-> With only 3 points, Zitter-B's shot misses.
-
-## Traits
-
-So how do players know what their characters' levels are?
-By default,
-every character has an Average rating for these traits:
-
--   **Size** (abbreviated SIZ): how large the character is.
-    If the character is exceptionally short or exceptionally skinny,
-    the Director may allow the character to list height and weight separately.
-
--   **Fitness** (FIT): how strong and coordinated she is.
-    Characters with a high fitness are good athletes.
-
--   **Dexterity** (DEX): how good the character is with her hands.
-    This determines how well she can pick locks,
-    play musical instruments,
-    or perform surgery.
-
--   **Intellect** (IQ): how good she is at book learning and abstract reasoning.
-    A character with a low Intellect is not necessarily stupid---she just isn't good at logic puzzles.
-
--   **Sight** (SGT), **Hearing** (HER), and **Smell** (SML):
-    These measure exactly what their names say.
-    (Note that smell includes the sense of taste.)
-
-If particular extras are important to the plot---for example,
-if an extra is a player character's sidekick---the Director may give them two more traits:
-
--   **Courage** (CRG): how brave the character is.
-
--   **Honesty** (HON): how likely the character is to tell the truth.
-
-Player characters don't have scores for these
-because being brave and telling the truth (or not) are part of the game.
 
 ## Modifying Traits
 

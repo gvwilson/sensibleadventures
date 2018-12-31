@@ -286,7 +286,7 @@ which can include their workmates, neighbors, and fellow adventurers.
 
 | SIZ | FIT | DEX | INT | SGT | HER | SML |
 | --: | --: | --: | --: | --: | --: | --: |
-| 0   | 0   | -2  | -2  | -2  | -2  | 0   |
+| 0   | 0   | -2  | -1  | -2  | -2  | 0   |
 
 Crocodiles are slow moving,
 except when they're not,
@@ -359,7 +359,7 @@ Goats are completely average in every way except for their horns.
 
 | SIZ | FIT | DEX | INT | SGT | HER | SML |
 | --: | --: | --: | --: | --: | --: | --: |
-| 0   | +2  | 0   | -2  | 0   | 0   | 0   |
+| 0   | +2  | 0   | -1  | 0   | 0   | 0   |
 
 Kangaroos are the happy-go-lucky clowns of the animal world.
 Townies often dye their tails in bright colors;
@@ -503,7 +503,7 @@ and their alphas are often community leaders.
 Zebras have a remarkable ability to hide themselves,
 which is described below under "Skills".
 
-## Adjusting Features
+## Customizing Characters
 
 Animals of the same species can be quite different from one another.
 When a player creates a character,
@@ -551,124 +551,153 @@ and be near-sighted.
 > | --: | --: | --: | --: | --: | --: | --: |
 > | +3  | +3  | 0   | -2  | +1  | 0   | -3  |
 
-## Skills
+## Choosing Skills
 
-FIXME: zebras when standing still,
-they can change color from black-and-white stripes to almost anything else
-in order to blend into their surroundings.
-This gives them an extra two levels of Stealth at no cost.
+Every character has **[skills](#g:skill)**.
+Some are automatic: for example, almost everyone can try to throw a rock.
+Others are not:
+nobody can play the oboe if they've never seen one before.
+(Trust me on this.)
 
-Every character has **[skills](#g:skill)** that she has improved through practice and training.
-Some common skills are listed below.
-If a feature is given beside the skill,
-the character's starting level (without any training) is equal to that feature.
-If a specific level is listed;
-the character starts with that,
-while "--" means that the character starts with no skill at all,
-and must rely on fluke rolls to succeed.
+Just like features,
+skills have ratings.
+Positive ratings mean that characters are better than average.
+negative ratings mean that they find even simple tasks difficult.
 
-#### Skills that Depend on Dexterity
+Some common skills are listed below,
+along with a character's initial rating:
 
--   *Escapology* (DEX): getting untied, picking locks, and escaping from handcuffs.
--   *Mechanics* (DEX): making or fixing broken things; see Computers for the digital side.
+-   If the initial rating is "None",
+    the character has no initial ability at all,
+    and must rely on fluke rolls to accomplish tasks.
+-   If a number is given,
+    the character starts with that rating.
+-   If a feature is given,
+    the character's initial rating in the skill is equal to their rating for that feature.
+    For example,
+    every character's initial rating for Brawling is equal to their Fitness.
+-   If a formula is given,
+    their initial rating is whatever the formula calculates.
+    For example,
+    if a Fox has a Size of -2 and a Fitness of +1,
+    their initial rating for Acrobatics is +3,
+    which is Fitness *minus* Size.
+    (Being small is an advantage when doing flips and walking a tightrope.)
 
-#### Skills That Depend on Fitness
+| Skill           | Rating    | Explanation |
+| --------------- | --------- | ----------- |
+| Acrobatics      | FIT + SIZ | jumping, walking a tightrope, doing a somersault, etc. |
+| Animal Handling | INT       | calming a frightened horse or an angry wolverine |
+| Boating         | -3        | managing a small boat or canoe |
+| **Brawling**    | FIT       | hand-to-hand combat without weapons |
+| Camouflage      | -3        | disguising objects |
+| Camping         | -3        | setting up a tent and making a fire |
+| Charisma        | INT       | talking people into things, fooling them, and acting |
+| **Climbing**    | FIT - SIZ | walls, ropes, and what-not |
+| Computers       | None      | handling anything with a digital brain |
+| Dancing         | FIT       | being graceful on the dance floor |
+| Driving         | None      | wagons and motorized vehicles alike |
+| Escapology      | DEX       | getting out of ropes or handcuffs |
+| Farming         | -3        | growing food |
+| First Aid       | -3        | handling broken bones and wounds; see Medicine |
+| Gambling        | 0         | cards, dice, and bluffing |
+| **Hiding**      | INT - SIZ | not being noticed when not moving |
+| Hypnotism       | None      | putting people into a trance |
+| Mechanics       | None      | making things, fixing broken ones, and picking locks |
+| Medicine        | None      | handling disease and infection; see First Aid |
+| Navigation      | None      | finding your way by the stars and other signs |
+| Picking Pockets | DEX - 3   | taking things without being noticed |
+| Riding          | FIT       | bicycles and horses |
+| Sailing         | -5        | handling a large ship |
+| Singing         | HER - 3   | making music with the voice |
+| Skating         | FIT - 3   | handling yourself on metal runners |
+| Skiing          | FIT - 3   | handling yourself on lengths of wood |
+| Stage Magic     | None      | juggling, sleight of hand, etc |
+| **Stealth**     | FIT - SIZ | moving without or being noticed |
+| **Swimming**    | STR - 3   | keeping your head above water |
+| **Throwing**    | FIT       | how far and how accurately |
+| Trapping        | -5        | making traps that work |
+| Tunnelling      | -3        | digging tunnels that don't collapse |
+| Ventriloquism   | None      | throwing your voice |
 
--   *Acrobatics* (FIT): jumping, walking a tightrope, doing a somersault, etc.
--   *Brawling* (FIT): hand-to-hand combat without weapons.
--   *Climbing* (FIT): walls, ropes, and what-not.
--   *Dancing* (FIT): being graceful on the dance floor.
--   *Riding* (FIT): bicycles and horses.
--   *Singing* (FIT): making music with the voice.
--   *Skating* (FIT): handling yourself on metal runners.
--   *Skiing* (FIT): handling yourself on lengths of wood.
--   *Throwing* (FIT): how far and how accurately.
+It's usually worth figuring out a character's skill at the skills marked in **bold**,
+since they come up so often in adventures.
 
-#### Skills That Depend on Intellect
-
--   *Charisma* (IQ): charming people (includes talking people into things, fooling them, and acting).
-
-#### Skills With Some Initial Ability
-
--   *Animal Handling* (Low): calming a frightened horse or an angry wolverine.
--   *Boating* (Very Low): managing sails and a rudder.
--   *Camouflage* (Low): disguising objects.
--   *Camping* (Very Low): setting up a tent and making a fire.
--   *Farming* (Very Low): growing food.
--   *First Aid* (Very Low): handling broken bones and wounds; see Medicine.
--   *Gambling* (Low): cards, dice, and bluffing.
--   *Swimming* (Low): keeping your head above water.
--   *Trapping* (Very Low): making traps that work.
--   *Tunnelling* (Low): digging tunnels that don't collapse.
-
-#### No Initial Ability
-
--   *Computers* (--): handling anything with a digital brain; see Mechanics for the mechanical side of robots.
--   *Driving* (--): wagons and motorized vehicles alike.
--   *Hypnotism* (--): putting people into a trance.
--   *Medicine* (--): handling disease and infection; see First Aid.
--   *Navigation* (--): finding your way by the stars and other signs.
--   *Picking Pockets* (Very Low): taking things without being noticed.
--   *Stage Magic* (--): juggling, sleight of hand, etc.
--   *Ventriloquism* (--): throwing your voice.
+> **Example:**
+> Garree's features are:
+>
+> | SIZ | FIT | DEX | INT | SGT | HER | SML |
+> | --: | --: | --: | --: | --: | --: | --: |
+> | -1  | +1  | +1  | +1  | 0   | 0   | 0   |
+>
+> so her initial ratings for the commonly-used skills are:
+>
+> | Skill    | Rating |
+> | -------- | -----: |
+> | Brawling | +1     |
+> | Climbing | +2     |
+> | Hiding   | +2     |
+> | Stealth  | +2     |
+> | Swimming | -3     |
+> | Throwing | +1     |
 
 #### Special
 
-These skills are actually categories.
-Specialties within each category must be mastered separately:
+These four "skills" are actually categories.
+Specialties within each must be mastered separately:
 
--   *Craft* (Low): sewing, woodwork, baking, metalwork, etc.
--   *Fine Art* (Very Low): sculpture, drawing, painting, music, etc.
--   *Lore* (---): history, a language, mathematics, etc.
--   *Weapon* (Low): sword, spear, pistol, bow, etc.
-
-*Stealth* is also a special case.
-A character's basic skill is determined by their Fitness,
-but is adjusted up or down one level for each *two* levels their Size differs from Average:
-if their Size is Very Low, they automatically get an extra level of Stealth,
-while if their Size is Very High, they automatically lose a level.
+| Skill           | Rating    | Explanation |
+| --------------- | --------- | ----------- |
+| Craft           | None      | sewing, woodwork, baking, metalwork, etc. |
+| Fine Art        | None      | sculpture, drawing, painting, music, etc. |
+| Lore            | None      | history, a language, mathematics, etc. |
+| Weapon          | FIT - 5   | sword, spear, pistol, bow, etc. |
 
 Finally,
-someone's initial skill in *Tracking* is the best of their Sight, Hearing, or Smell.
+someone's initial skill in Tracking is the best of their Sight, Hearing, or Smell.
 
 ### Choosing Skills
 
 When a player is creating a character,
-she can spend 6 points improving those skills.
-Raising a skill 1 or 2 levels costs one or 2 points;
-raising a skill 3 levels costs 4 points,
-and no skill can be raised more than 3 levels to start.
-When raising skills that have no starting level,
-such as Lore or Computers,
-the first raise brings it to Low rather than Very Low.
+she can spend INT+10 points improving the character's skills.
+For example,
+if a character has an INT of +3,
+they have 13 points to spend on raising skills.
 
-If a character has High Intellect,
-her player can pick a skill that she has already raised
-and raise it by one more level.
-If a character has Very High Intellect,
-she can do this *and* raise one skill that hasn't otherwise been raised by one level.
+-   Each raise costs 1 point, up to a rating of +5.
+-   Every raise after +5 costs 2 points.
+-   Raising a skill from None to -5 costs 1 point.
+-   No skill can initially be raised more than INT+3 points.
+    For example,
+    a crocodile with an INT of -1 cannot raise any skill more than 2 points.
 
 > **Example:**
-> Larrapin's player decides to raise her Climbing by 2 levels
-> from Average (her Fitness) to Very High,
-> which costs 2 points.
-> She raises Larrapin's First Aid from Very Low (everyone's starting point) to Low,
-> which costs 1 point,
-> and her Medicine from nothing to Average,
-> which costs another 2 points:
-> the first point raises it to Low, and the second to Average.
-> Finally,
-> she raises her skill with a sword from Low (everyone's starting point) to Average.
-
-> **Example::**
-> Nang-ma's player decides to raise his Picking Pockets skill from Very Low to Average (2 points)
-> and his Gambling from Low to Very High (4 points, since it's a 3-level increase).
-> Since his Intellect is High,
-> he can then raise his Picking Pockets again from Average to High.
+> Garree's features are:
+>
+> | SIZ | FIT | DEX | INT | SGT | HER | SML |
+> | --: | --: | --: | --: | --: | --: | --: |
+> | -1  | +1  | +1  | +1  | 0   | 0   | 0   |
+>
+> so she has 11 points to spend on her initial skills.
+> Her adjusted ratings for the common skills,
+> and her ratings for other skills her player has chosen,
+> are:
+>
+> | Skill     | Initial | Adjusted | Points Spent |
+> | --------- | ------: | -------: | -----------: |
+> | Brawling  | +1      | +3       | 2            |
+> | Climbing  | +2      |          |              |
+> | Hiding    | +2      | +3       | 1            |
+> | Stealth   | +2      | +4       | 2            |
+> | Swimming  | -3      |          |              |
+> | Throwing  | +1      |          |              |
+> | Bow       | -4      | -2       | 2            |
+> | First Aid | -1      | -1       | 3            |
+> | Tracking  | 0       | +1       | 1            |
 
 The Director may occasionally allow players to choose Skills that are not in the master list.
 For example,
-piloting a dirigible is different enough from Boating and Driving
+piloting a hot air balloon is different enough from Boating and Driving
 that the Director may decide it's a skill in its own right.
 
 ### Leveling Up
@@ -680,6 +709,13 @@ It is usually pretty easy to find someone who can teach the lower levels of comm
 though lessons may come at a price.
 Finding someone who can teach a character how to raise their skill with the sword
 from Very High to Awesome can be an adventure in its own right.
+
+### Zebras
+
+FIXME: zebras when standing still,
+they can change color from black-and-white stripes to almost anything else
+in order to blend into their surroundings.
+This gives them an extra two levels of Stealth at no cost.
 
 ## Combat
 

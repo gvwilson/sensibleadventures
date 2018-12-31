@@ -3721,9 +3721,10 @@ thumped the door drum for the third time.  He set off without waiting for
 answer, leaving her hurrying to catch up once again.
 
 But Granna Fee hadn't seen Grappa Gas that morning.  She and Aft sat side by
-side and Indy quickly told them what had happened in the square.
+side as Indy quickly told them what had happened in the square.
 
-"A spy?" Aft said disbelievingly.  "That tubby goof?"
+"A spy?" Aft said disbelievingly.  "That tubby goof?"  As if in answer, one of
+the herd penned up behind Granna Fee's house bleated.
 
 Indy rubbed her throat.  "That 'tubby goof' put Scholar Lhawang down without
 breaking a sweat.  And he choked me without so much as a word."
@@ -3788,8 +3789,8 @@ and I'm the only one he trusts right now, I think half is fair."
 
 "He trusts *you*?"  Granna Fee snorted.  "More fool him."
 
-"Wait!"  Noxy surged to her feet, an idea crystallizing in her head.  "I know
-where they are."
+*Holed up?* Noxy thought.  "Wait!"  She surged to her feet.  "I know where they
+are."
 
 "What---" her father started.
 
@@ -3838,12 +3839,12 @@ Grappa Gas.  "Be careful."
 "Sure."  Her protests at being left behind had been dismissed quickly and
 sharply, much to her secret relief.
 
-She sat in silence with her father and grandmother.  Somewhere in the distance
-the village's goofs bleated, confused and annoyed that no one had come to give
-them their morning carrots.  Chickens clucked in their rooftops coops, and a
-shutter banged in the breeze a handful of times before someone closed it.  She
-had never heard the village so quiet, not even in the middle of winter when
-every sound was muffled by falling or fallen snow.
+She sat in silence with her father and grandmother and listened to the goofs
+bleating in their pen, confused and annoyed that no one had come to scratch
+their woolly ears or give them their morning carrots.  Chickens clucked in their
+rooftops coops, and a shutter banged in the breeze a handful of times before
+someone closed it.  She had never heard the village so quiet, not even in the
+middle of winter when every sound was muffled by falling or fallen snow.
 
 Someone shouted in the distance.  Another voice answered.  Without warning the
 door burst open.  She jumped to her feet as Aft, Grappa Gas, and her mother
@@ -3882,4 +3883,59 @@ Iffy shook her head.  "It's too risky.  They have a couple of men up on the
 walls---they'd spot us the first time we had to cross the street.  And anyway,
 suppose we do find them---what next?"
 
-Noxy took a deep breath.  "Well actually," she said, "I kind of have a plan."
+Noxy took a deep breath.  "Well," she said slowly, "I kind of have a plan."
+
+The olders said no, of course---in Noxy's experience, they *always* said "no"
+when someone her age came up with a plan that didn't involve washing more dishes
+or weeding the garden earlier in the morning.  Rather than argue, she waited
+patiently as one by one they grudgingly came to the conclusion that yes, it
+might work, and no, they didn't have any better ideas.
+
+Her father was the only holdout.  "Absolutely not," he said angrily.  "Those are
+*soldiers* up there, sweetling--trained killers, every one.  They'll feel bad
+about putting an arrow in you, but make no mistake, they'll do it."
+
+"Gee, *adda*, I didn't know you cared," she said coldly.  A hurt look flashed
+across his face and was gone so quickly that she decided she must have been
+imagining it.
+
+She stood up, suddenly aware that everyone was looking at her.  "I'll be fine,"
+she promised.  "Really."
+
+Like all of the houses in Stale, Granna Fee's had only one door, but the
+shutters in the kitchen could be folded back to let in fresh air (or let out the
+smell of garlic if she was doing her infamous hundred-bulb roast).  Grappa Gas
+insisted on dripping a few drops of soybean oil onto the shutters' hinges before
+opening them so that they wouldn't squeak.  When they did anyway, Granna Fee
+gave him a look.
+
+Leaving her coat on the hook by the door, Noxy wriggled through the window.  It
+was a tighter fit than she had expected, and the narrow snicket between Granna
+Fee's house and the one next door smelled of damp and cold---and chicken
+droppings.  "Eww," she said disgustedly, glancing up at the coop that overhung
+the shadowed passage.  As if in answer, something made a tiny *plop* beside her.
+
+She tiptoed toward the rear of the house.  A dozen woolly goofs baa'ed excitedly
+at the sight of her, but she ignored them as she studied the old fortress wall.
+There and there---two rebel soldiers, neither with a bow that she could see, but
+both wide awake and paying attention.
+
+She closed her eyes and took a deep breath.  As far as her mother and the other
+olders knew, her plan was to crawl under the goofs to get to the base of the
+wall, then work her way along it to the tunnel where she thought Kulbinder and
+Private Thokmay were hiding.  She hadn't bothered explaining the rest---now she
+just hoped it would work.
+
+*Hello?* she mind-spoke.  *Can you hear me?*
+
+Silence answered.  She pushed the sound of the goofs' bleating out of her mind
+and concentrated.  *Hello?*
+
+Nothing, nothing... There.  It wasn't an answer because there were no words, but
+all of a sudden she knew that the forest was paying attention to her.  It was
+like hearing stairs *not* creak when someone had come halfway up them and then
+stopped.
+
+She cleared her throat.  *Can you help me?* she mind-asked.  *I kind of need a
+favor.*
+

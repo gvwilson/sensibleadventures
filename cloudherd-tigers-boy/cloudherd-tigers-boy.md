@@ -14,10 +14,11 @@ continent is surrounded on all sides by a great ocean whose outer shore, the
 Worldrim, rises up to cradle that sweet speck of life as a child might cup a
 drop of water in her hand.*
 
-*Cherne's history began with the Pilots, and nearly ended with them as well.
-Powerful and inhuman, their reign ended in a war that scarred the moon and
-turned Lake Karaband into a sea of glass.  When it was over the Pilots were
-gone, leaving the world to carry on as best it could.*
+*Cherne's history began with the Pilots and the Crew, and nearly ended with them
+as well.  Powerful and inhuman, their rule ended in a war that scarred the moon
+and turned Lake Karaband into a sea of glass.  When it was over the Pilots were
+gone and the Crew had retreated into caverns far below the surface, leaving the
+world to carry on as best it could.*
 
 *Now look there, in the north, where the Brumoso Mountains rise above the
 endless squabbles of the Ninety Kingdoms.  it is Redsday, the 11th of Peridot,
@@ -1528,8 +1529,8 @@ beside the sergeant with a tired-looking Private Thokmay at his side.  "With
 respect, honored, the men aren't fit to march right now."
 
 "March?" Sergeant Dorbu laughed wearily.  "Kulbinder, my friend, I doubt they
-could walk the length of the Princes' Parade."  His jaw set.  "And even if they
-could, I've no right to ask them."
+could walk the length of the Princes' Parade.  And even if they could, I've no
+right to ask them."
 
 *Twinge.* Noxy winced.  What was wrong with her?  And whatever it was, why did
 it have to happen *now*?
@@ -1574,7 +1575,7 @@ back.
 
 "It's Big Blue," Noxy insisted.  "I just saw him from the wall.  He's coming
 back."  *And he only has one person on him,* she wanted to add, but there was no
-way she could have seen that, not from so far away.
+way she could pretend that she'd seen that, not from so far away.
 
 Half the village crowded onto the platform overlooking the cloud pen to watch
 Aft bring Big Blue home.  Rind stood next to Indy, stone-faced, with a silent,
@@ -1596,8 +1597,8 @@ Aft crossed his arms.  "I didn't take him anywhere."
 
 "I went to tell everyone else what's been going on!" Aft looked from his father
 to his wife to Indy.  "Got as far as the Three Sisters, but there was a pack of
-lightnings further up the pass knitting a storm, a big one, so I turned around.
-What's happened to the *tralpa*?"
+lightnings further up the pass tearing up a storm, a big one, so I turned
+around.  What's happened to the *tralpa*?"
 
 "He's gone to Duck Droppings to tell the king's men about Sergeant Dorbu and his
 men," Indy said.  "He left a note---we thought you'd taken him."
@@ -1658,17 +1659,14 @@ when the birds were singing, but when it was silent---
 anything for the last hundred heartbeats except the soft pitter-pat of water
 dripping from the branches around them.
 
-"Sh!"  Private Thokmay made a cutting gesture with his hand.  "Something's
-watching us."
+"What?" Private Thokmay asked, his hand falling to his sword.
 
-Noxy shivered.  "Is it the tiger?" she whispered.  Private Thokmay shook his
-head.
-
-Noxy glanced over her shoulder.  They were only a few hundred strides from the
-fortress gate, but it felt like home and sunlight and safety were a world away.
-The forest didn't want them there.  It didn't want their voices or their boots
-or the metal of the sword that was somehow in Private Thokmay's hand even though
-she hadn't seen him draw it.
+Noxy shivered.  "It's not supposed to be this quiet."  She glanced over her
+shoulder.  They were only a few hundred strides from the fortress gate, but it
+felt like home and sunlight and safety were a world away.  The forest didn't
+want them there.  It didn't want their voices or their boots or the metal of the
+sword that was somehow in Private Thokmay's hand even though she hadn't seen him
+draw it.
 
 She pressed the heels of her hands to her temples.  What was happening?  She
 couldn't be mind-hearing the forest---could she?  She must be going crazy.  It
@@ -1957,12 +1955,43 @@ out of sight further up the path.  "We should probably catch up."
 
 Noxy opened her mouth and then closed it again.  She really didn't know why the
 trolls had brought his sword back, but saying it out loud a second time would
-just sound foolish.  Annoyed, she strode up the hill after the tiger and the
-*tralpa*.
+just sound foolish.
 
-They walked the rest of the way back to the village in silence beneath branches
-that jostled each other in the rising wind.  The storm that Aft had seen the
-lightnings knitting was on its way.
+She pushed herself up the hill after the tiger and the *tralpa*, annoyed and
+frustrated and still a little frightened, but slowed and stopped after a few
+strides.  "I'm telling the truth," she said quietly when Private Thokmay caught
+up to her.  "I don't know why the troll brought your sword back.  The forest
+really doesn't like metal, so when they get something like that they either
+throw it into the nearest underhell or try to trade it back to us for sweets."
+
+The young soldier thought for a few steps before answering.  "Kulbinder told me
+that people in Thind call them the hands of the jungle," he said slowly.  "Maybe
+it's the same here."  He glanced at her.  "So I guess the question is, why would
+the *forest* want me to have my sword back?"
+
+Noxy shook her head.  "I have no idea."
+
+"Hm.  Here."  Private Thokmay stopped and shrugged off her coat.  "No,
+please---I've warmed up, honestly."  When Noxy hesitated, he added, "Besides, if
+the rest of the men see me wearing it, they'll make jokes for weeks."
+
+Noxy took it from him half-reluctantly.  The inside was damp, but she put it on
+anyway, grateful for the way it blocked the strengthening wind but very
+conscious of how warm his body had made it.
+
+"Do they make jokes a lot?" she asked as they started up the path again.  "I
+mean, you're the youngest, and, you know, the tiger..."  She trailed off as she
+realized that she had no idea how she had meant to finish that sentence.
+
+Private Thokmay didn't seem to notice.  "Sometimes, but they make jokes about
+each other too, so I don't mind.  Most of them are from the same couple of
+orphanages, and---"
+
+He pulled up short as his scabbard landed on the path with a soft *thud*.  Noxy
+looked up at the trees overhead and said, "Seriously?"  No one and nothing
+answered.  They walked the rest of the way back to the village in silence
+beneath branches that jostled each other in the rising wind.  The storm that Aft
+had seen the lightnings knitting was on its way.
 
 *Behind them, the tralpa's prized satchel hung precariously from a slender
 branch.  It might have stayed there until the wind shook it free, but a curious
@@ -2323,8 +2352,8 @@ pond to resume its journey down the mountain.*
 
 ## Chapter 4
 
-Stale woke to the muffled stillness that only ever comes after storms and minor
-disasters.  The air was still damp and chill, but the sky was so clear that the
+Stale woke to the muffled stillness that comes after storms and family
+arguments.  The air was still damp and chill, but the sky was so clear that the
 peaks around the village almost sparkled.  A sharp-edged smell of charred wood
 hung everywhere, sweetened slightly by the moss that the brief fire had
 consumed.
@@ -2332,10 +2361,8 @@ consumed.
 It was a day for taking a little longer than usual to get out of bed, for
 letting the kettle boil a few heartbeats longer than it needed to, and for
 discussing the day's chores in more detail than was absolutely necessary rather
-than getting up from breakfast to start doing them.
-
-Which was why Noxy was so annoyed that her mother wouldn't let her do any of
-those things.
+than getting up from breakfast to start doing them, which was why Noxy was so
+annoyed that her mother wouldn't let her do any of those things.
 
 "Oh sweetling, brush your hair!" Indy set her tea down on the table and started
 to stand.
@@ -2351,14 +2378,21 @@ someone would think you'd been possessed by lightning."
 had been half-awake under her blankets when Indy had knocked on her door and
 informed her that while Noxy had been out *not* filling the kettle last night,
 she had promised to give Sergeant Dorbu a tour of the village, and while she was
-doing that, why didn't Noxy show the tiger and his boy around as well?
+doing that, why didn't Noxy show the tiger and his boy around?  Especially since
+the two of them seemed to be getting on so well.
 
-Dressed and fed, faces clean, they walked through the village together,
-squinting slightly against the sharp-edged morning sun.  Their neighbors sat in
-twos and threes on stools outside their houses wearing goofskin jackets or thick
-sweaters over sturdy trousers and sturdier boots.  The men knit or peeled
-potatoes while the women picked spiderwebs apart apart and wound the strands
-onto spools.
+"Fine," Noxy grumbled.  She had no idea who had told her mother that she and
+Private Thokmay had arrived at the fortress gate together the day before, but it
+didn't matter.  As Granna Fee liked to say, there were more one-eyed talking
+chickens in a village like Stale than there were secrets, and more gossip than
+snowflakes.
+
+Dressed and fed, with their faces clean and their hair tied back in matching
+braided clubs, they walked through the village together, squinting slightly
+against the sharp-edged morning sun.  Their neighbors sat in twos and threes on
+stools outside their houses wearing goofskin jackets or thick sweaters over
+sturdy trousers and sturdier boots.  The men knit or peeled potatoes while the
+women picked spiderwebs apart apart and wound the strands onto spools.
 
 Indy had to stop to answer the same questions every dozen strides.  How were the
 soldiers getting on?  What did they think of the village?  "We're on our way to
@@ -2438,34 +2472,37 @@ before I was born."
 the South Tower.
 
 "I suppose," Noxy replied, slightly rankled by the word 'ruin'.  "Oh, and that's
-Granna Fee's house, with the moss green door.  You met her when we rescued you.
-She's my grandmother.  And she teaches school.  And that's Grappa Gas's house,
-the lavender one.  He helped rescue you too---he used to be reeve before my
-*amma*.  And that's, um, well, they're all just different people's houses."
+Granna Fee's house, with the moss green door.  She's my grandmother---you met
+her when we rescued you.  She used to be herdmaster, but now she teaches school.
+And that's Grappa Gas's house, the one with the lavender door.  He helped rescue
+you too---he used to be reeve before my *amma*.  And that's, um, well, they're
+all just different people's houses."
 
-Noxy fell silent.  Private Thokmay had a polite but absent look on his face like
-the one Indy got when Grappa Gas started talking about how things had been in
-his day.  *It's probably not much compared to real castles,* she thought glumly.
-Two-story houses with steep shingled roofs, little vegetable gardens nestled
-between halved logs, and all around, sharp mountain peaks looming over the
-ancient gray walls...  She wouldn't have believed how strange it all seemed to
-the young lowlander beside her.
+Noxy fell silent.  Private Thokmay had a politely attentive look on his face
+that looked just like the one Indy got when Grappa Gas started talking about how
+things had been in his day.  *It's probably not much compared to real castles,*
+she thought glumly.  Two-story houses with steep shingled roofs, little
+vegetable gardens nestled between halved logs, and all around, sharp mountain
+peaks looming over the ancient gray walls...  She wouldn't have believed how
+strange it all seemed to the young lowlander beside her.
 
 They walked in silence along the path that lay at the base of the wall.  Here
 and there, ancient cobblestones showed through hard-packed dirt.  Noxy scuffed a
 crust of frost off one absentmindedly, wondering what else she could say.
 
-Private Thokmay pulled up short.  "What's that, honored?" he asked.  A heavy
-wooden grill lay across a shoulder-high opening in the wall ahead of them.
-Behind it, rough stone steps led down into the mountain.
+Private Thokmay pulled up short.  "What's that?" he asked.  A heavy wooden grill
+lay across a shoulder-high opening in the wall ahead of them.  Behind it, rough
+stone steps led down into the mountain.
 
-"That's just an old tunnel," said Noxy.  "We're not supposed to go in."
+"That's just an old tunnel," Noxy said dismissively.  "We're not allowed to go
+in it.  And anyway, it's been bricked up since forever."
 
-Private Thokmay frowned.  "Does Sergeant Dorbu know about it?"
+Private Thokmay refrained from pointing out the inconsistency between not being
+allowed in and knowing that it was bricked up were not quite consistent.
+Instead, he frowned.  "Does Sergeant Dorbu know about it?"
 
 "I don't know."  Noxy shrugged.  "There's another one by Grappa Gas's house, and
-one by the tannery.  They don't actually lead anywhere---they're just cellars.
-Come on---I'll show you from the top."
+one by the tannery.  Come on---I'll show you from the top."
 
 The stone stairs leading to the top of the wall lay flush against its side.
 They had been built for the Pilots, not for human beings, so each step was as
@@ -2488,8 +2525,16 @@ Private Thokmay snorted.  "That seems a bit optimistic."
 
 Noxy bristled. "Well, where does *your* name come from??"
 
-"The orphanage gave it to me," he replied evenly.  "I'm officially Gandan's One
-Hundred and Second Thokmay."
+"The orphanage gave it to me," he replied after a heartbeat's pause.  "I'm
+officially Gandan's One Hundred and Second Thokmay."
+
+"Oh."  Noxy digested that.  "I'm sorry, I didn't know."
+
+The young soldier shook his head.  "It's all right.  Most of us are orphans---we
+have to do something to repay the kingdom for raising us, and without land to
+farm or a family to take us into a trade, signing up is the safest bet.  At
+least, that's what they told us," he added bleakly, his eyes on the cold and
+distant peaks.
 
 As Noxy was trying to think of something to say to that, Thokmay leaned through
 an archery slit and pointed into the gorge below.  "Are those the clouds we were

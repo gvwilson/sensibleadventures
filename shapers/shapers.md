@@ -731,15 +731,15 @@ can be a quest in its own right.
 
 ## Combat
 
-A lot of game systems have very complex rules for combat.
-*Shapers and Bots* tries to keep it simple.
+*Shapers and Bots* tries to keep combat simple.
 Once a fight starts,
 everything happens in turns that are 5 seconds long in game time.
 In each turn,
-characters act in order of Fitness, highest Fitness first.
+characters act in order of Fitness,
+with highest Fitness going first.
 (If two or more characters are tied,
-roll dice once at the start of the fight
-to see who goes first for the duration of that fight.)
+use a contest roll once at the start of the fight
+to see who goes first for its duration.)
 
 In their turn,
 a character can take two actions.
@@ -747,7 +747,7 @@ Each of the following counts as a single action:
 
 -   Attack someone.
 -   Defend against an attack (see below).
--   Pick something up.  (Dropping something doesn't count as an attack.)
+-   Pick something up. (Dropping something doesn't count as an action.)
 -   Draw a weapon.
 -   Run from one place to another (see below).
 
@@ -761,38 +761,38 @@ may require several turns.
 
 Each attack is treated as a contest:
 
-1.  The attacker declares their target.
+1.  The attacker declares who or what they are attacking.
 2.  The target says whether they are going to use one of their actions for defense.
 3.  If the defender *isn't* using an action for defense,
-    the attacker rolls two dice and adds their bonus,
-    and succeeds if get the score required by the target's Size.
+    the attacker succeeds if they roll their rating with the appropriate skill.
 4.  If the defender *is* using an action for defense,
-    both players roll,
-    and the attack succeeds if the attacker's score is equal to or higher than the defender's.
+    the attack succeeds if the attacker makes their roll
+    *and* the defender misses a roll.
+    This is different from a regular contest roll.
+    the attacker doesn't have to beat the defender's roll---the
+    attacker has to succeed and the defender has to fail.
 
 There are a few special cases:
 
-1.  If the target hasn't had their turn yet,
+1.  If an attack is a complete surprise,
+    the defender doesn't get a defense roll.
+2.  If the target hasn't had their turn yet,
     their defense uses up an action for that turn
-    (i.e., if they defend themselves against one attack,
-    they only have one other action free to use when their turn comes around).
-2.  If the target has already used all of their actions,
+    (i.e., if they defend themselves against an attack,
+    they can only use one other action when their turn comes around).
+3.  If the target has already used all of their actions,
     they can borrow an action from their next turn to use for defense.
     In practice,
     this often means that the character with the higher Fitness gets two attacks in the first turn,
-    then one attack each turn after that.
-3.  If someone is attacked three or more times in a turn,
+    then one attack each turn after that
+    (since they're borrowing actions from future turns for defense).
+4.  If someone is attacked three or more times in a turn,
     then the only defense against the third and subsequent attacks
     is a fluke roll.
-4.  If the attack is a sneak attack,
-    the defender can't even use a fluke roll to defend.
-    Instead, the attack is based on beating the target's Size,
-    and the Director may give the attacker an additional bonus
-    of +1 (for a ranged attack) or +2 (for an up-close attack).
 
 ## Health and Injury
 
-Every character has a fixed number of **[health points](#g:health-point)** (HP)
+Every character has a fixed number of **[health points](#g:health-point)** (HP).
 equal to the target figure for their Size,
 plus or minus one point for each step their Fitness is away from Average.
 

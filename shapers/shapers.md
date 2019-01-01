@@ -116,7 +116,7 @@ and a negative one is sometimes called a **[penalty](#g:penalty)**.
 > - Hearing: 0
 > - Smell: 0
 
-Every character also has a feature called **Strength**,
+Every character also has a feature called **Strength** (abbreviated STR)
 which is the sum of their Size and Fitness ratings.
 Basically,
 big characters tend to be stronger than small ones,
@@ -294,7 +294,7 @@ and incredibly patient---particularly when it comes to their favorite sport: rev
 
 -   Carnivorous.
 -   Thick hide counts as natural armor.
--   Naturally have a High rating in Swimming.
+-   Can hold their breath for 15 minutes.
 
 ### Crow
 
@@ -303,9 +303,9 @@ and incredibly patient---particularly when it comes to their favorite sport: rev
 | -4  | +2  | -2  | +2  | 0   | 0   | -2  |
 
 Crows are the fast-talking deal-makers of the animal world.
-Like other birds, they cannot actually fly, but are able to glide for short distances.
 Their feathered appendages make them somewhat clumsy,
 and they are fascinated by shiny objects.
+Crows cannot fly by default, but are able to learn.
 
 ### Eagle
 
@@ -317,7 +317,7 @@ and they are fascinated by shiny objects.
 Natural aristocrats,
 eagles are quick to take offense,
 and their keen eyesight makes them natural guards and scouts.
-Like other birds, they cannot actually fly, but are able to glide for short distances.
+Eagles cannot fly by default, but are able to learn.
 
 -   Carnivorous.
 
@@ -365,9 +365,6 @@ Kangaroos are the happy-go-lucky clowns of the animal world.
 Townies often dye their tails in bright colors;
 those who live in the wild will camouflage theirs instead.
 
--   Naturally have a High rating in Jumping (a specialized form of Acrobatics)
-    and Brawling (they are great natural boxers).
-
 ### Lion
 
 | SIZ | FIT | DEX | INT | SGT | HER | SML |
@@ -399,8 +396,7 @@ They are often less respectful of robots' personal space than they should be.
 | --: | --: | --: | --: | --: | --: | --: |
 | -4  | +4  | -2  | 0   | 0   | 0   | 0   |
 
-The only birds still capable of actually flying,
-they start with a natural Low skill in Ventriloquism.
+The only birds still capable of actually flying.
 
 ### Rabbit
 
@@ -479,8 +475,8 @@ Slow-moving and short-sighted,
 turtles are natural shapers.
 
 -   Shell counts as natural armor (with no attack penalty).
--   Naturally have a High rating in Swimming.
 -   If a Turtle is a shaper, they start with a Low rating instead of Very Low.
+-   Can hold their breath for 15 minutes.
 
 ### Wolf
 
@@ -586,10 +582,10 @@ along with a character's initial rating:
 
 | Skill           | Rating    | Explanation |
 | --------------- | --------- | ----------- |
-| Acrobatics      | FIT + SIZ | jumping, walking a tightrope, doing a somersault, etc. |
+| Acrobatics      | FIT - SIZ | jumping, walking a tightrope, doing a somersault, etc. |
 | Animal Handling | INT       | calming a frightened horse or an angry wolverine |
 | Boating         | -3        | managing a small boat or canoe |
-| **Brawling**    | FIT       | hand-to-hand combat without weapons |
+| **Brawling**    | STR       | hand-to-hand combat without weapons |
 | Camouflage      | -3        | disguising objects |
 | Camping         | -3        | setting up a tent and making a fire |
 | Charisma        | INT       | talking people into things, fooling them, and acting |
@@ -622,6 +618,12 @@ along with a character's initial rating:
 
 It's usually worth figuring out a character's skill at the skills marked in **bold**,
 since they come up so often in adventures.
+Note that some skills like Climbing, Hiding, and Stealth get *better* if the character is *smaller*.
+For example,
+if a character's Fitness is +2 and their Size is +1,
+their Stealth is +1,
+but if their Size is -1,
+their Stealth is +3.
 
 > **Example:**
 > Garree's features are:
@@ -641,7 +643,7 @@ since they come up so often in adventures.
 > | Swimming | -3     |
 > | Throwing | +1     |
 
-#### Special
+### Skill Categories
 
 These four "skills" are actually categories.
 Specialties within each must be mastered separately:
@@ -664,12 +666,9 @@ For example,
 if a character has an INT of +3,
 they have 13 points to spend on raising skills.
 
--   Each raise costs 1 point, up to a rating of +5.
--   Every raise after +5 costs 2 points.
+-   Each raise costs 1 point, up to an increase by 3 levels.
+-   Every raise after an increase by 3 levels costs 2 points.
 -   Raising a skill from None to -5 costs 1 point.
--   No skill can initially be raised more than INT+3 points.
-    For example,
-    a crocodile with an INT of -1 cannot raise any skill more than 2 points.
 
 > **Example:**
 > Garree's features are:
@@ -683,17 +682,17 @@ they have 13 points to spend on raising skills.
 > and her ratings for other skills her player has chosen,
 > are:
 >
-> | Skill     | Initial | Adjusted | Points Spent |
-> | --------- | ------: | -------: | -----------: |
-> | Brawling  | +1      | +3       | 2            |
-> | Climbing  | +2      |          |              |
-> | Hiding    | +2      | +3       | 1            |
-> | Stealth   | +2      | +4       | 2            |
-> | Swimming  | -3      |          |              |
-> | Throwing  | +1      |          |              |
-> | Bow       | -4      | -2       | 2            |
-> | First Aid | -1      | -1       | 3            |
-> | Tracking  | 0       | +1       | 1            |
+> | Skill       | Initial | Adjusted | Points Spent |
+> | ----------- | ------: | -------: | -----------: |
+> | Brawling    | +1      | +3       | 2            |
+> | Climbing    | +2      |          |              |
+> | Hiding      | +2      | +3       | 1            |
+> | Stealth     | +2      | +4       | 2            |
+> | Swimming    | -3      |          |              |
+> | Throwing    | +1      |          |              |
+> | Bow         | -4      | -2       | 2            |
+> | First Aid   | -1      | -1       | 3            |
+> | Stage Magic | None    | -5       | 1            |
 
 The Director may occasionally allow players to choose Skills that are not in the master list.
 For example,
@@ -707,15 +706,28 @@ the Director may allow a player to raise a skill they used in that adventure by 
 A player may also find a teacher to help them learn a new skill.
 It is usually pretty easy to find someone who can teach the lower levels of common skills,
 though lessons may come at a price.
-Finding someone who can teach a character how to raise their skill with the sword
-from Very High to Awesome can be an adventure in its own right.
+Finding someone who can teach a character how to raise a skill beyond +5
+can be a quest in its own right.
 
-### Zebras
+### Species Skills
 
-FIXME: zebras when standing still,
-they can change color from black-and-white stripes to almost anything else
-in order to blend into their surroundings.
-This gives them an extra two levels of Stealth at no cost.
+-   **Crocodiles** and **Turtles** start with a Swimming skill of 0.
+-   **Kangaroos**
+    have a natural Jumping skill of 0,
+    and automatically get +1 on Brawling
+    (they're great natural boxers).
+-   **Parrots** start with a Flying skill of 0.
+    **Crows** and **Eagles** start with None,
+    but can raise it using the usual rules.
+-   **Parrots** also have a starting level of -3 in Ventriloquism.
+-   **Sloths** have a "sixth sense" that warns them of danger.
+    (It's hard to imagine how they'd survive without it.)
+    Their initial rating is -3,
+    and they can improve it with practice.
+-   When **Zebras** are standing still,
+    they can change color from black-and-white stripes to almost anything else
+    in order to blend into their surroundings.
+    This gives them an extra +2 Hiding at no cost.
 
 ## Combat
 

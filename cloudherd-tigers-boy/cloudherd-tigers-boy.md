@@ -2530,15 +2530,15 @@ officially Gandan's One Hundred and Second Thokmay."
 
 "Oh."  Noxy digested that.  "I'm sorry, I didn't know."
 
-The young soldier shook his head.  "It's all right.  Most of us are orphans---we
-have to do something to repay the kingdom for raising us, and without land to
-farm or a family to take us into a trade, signing up is the safest bet.  At
-least, that's what they told us," he added bleakly, his eyes on the cold and
-distant peaks.
+The young soldier shook his head.  "It's all right.  Most soldiers are
+orphans---they have to do something to repay the kingdom for raising them, and
+without land to farm or a family to take them into a trade, signing up is the
+safest bet.  At least, until there's a war," he added bleakly, his eyes on the
+cold and distant peaks.
 
-As Noxy was trying to think of something to say to that, Thokmay leaned through
-an archery slit and pointed into the gorge below.  "Are those the clouds we were
-on?"
+Before Noxy could ask why he referred to the other soldiers as "they" rather
+than "us", Thokmay leaned through an archery slit and pointed into the gorge
+below.  "Are those the clouds we were on?"
 
 Noxy glanced through the neighboring slit.  "Yup.  The bull is Big Blue, and the
 cow is Pillow.  We've had them forever---they're practically family."
@@ -2593,12 +2593,14 @@ bug must have bitten her, but she couldn't feel anything.
 
 "Are you all right?" Private Thokmay asked.
 
-"I'm fine," she snapped.  She had hoped the clouds would be right next to the
-mounting platform so that she could stroke them.  Or even get on, though she
-knew what her mother would say about *that* if she found out.
+"I'm fine," she snapped, angry that her head was hurting.  She had hoped the
+clouds would be right next to the mounting platform so that he could stroke
+them.  Or even get on, though she knew what her mother would say about *that* if
+she found out.
 
 As if on cue, Big Blue turned toward them.  Private Thokmay stepped back as the
-cloud bumped against the mounting platform a few heartbeats later.
+cloud bumped against the mounting platform a few heartbeats later.  Even pulled
+in to his densest, he was as big as half a dozen houses.
 
 "Don't be scared," Noxy said, stroking the old bull's flank.  "See?  You can
 pull bits of them this way and that, but it all settles back into a big lump
@@ -2606,12 +2608,12 @@ after a while."  She grabbed a handful of Big Blue's side and pulled as hard as
 she could.  When she let go, the bit she had teased out slowly sank back into
 the cloud.
 
-The young soldier patted the cloud gingerly.  Seized by a sudden impulse, Noxy
-said, "Here, do this."  She backed up, then ran at the cloud and threw herself
-onto his back.  *Poof!* "Come on!" she said to Private Thokmay.
+The young soldier patted the cloud gingerly.  Seized by a sudden reckless
+impulse, Noxy said, "Here, do this."  She backed up, then ran at the cloud and
+threw herself onto his back.  *Poof!* "Come on!" she said to Private Thokmay.
 
-He hesitated.  "Oh, come on," she repeated, a splash of scorn in her tone.  "He
-won't bite---he's not a tiger or anything."
+He hesitated.  "Don't worry," she reassured him.  "He won't bite---he's not a
+tiger or anything."
 
 Private Thokmay set his jaw and jumped clumsily onto the cloud.  His feet
 immediately slipped out from underneath him.  "Oof!" he grunted as he landed on
@@ -2636,13 +2638,18 @@ the sky was blue, it felt like the whole world was a story that was about to be
 told for the very first time.
 
 "We'll be able to see more down by the gate," Noxy said, urging the cloud
-forward as she spoke.  Nobody really knew how clouds saw, but through whatever
-Big Blue used for eyes, she saw Pillow rising in their wake to join them.  *She
-wants to go out and have a good rain,* Noxy thought.  Maybe after they got back
-she could talk Granna Fee into taking her and Sensy and Rash---or maybe just
-her, she corrected, her mood darkening.  Her two friends would probably want to
-spend the time getting their outfits ready for the fancy, or practicing their
-dancing or something.
+forward as she spoke.  Nobody knew how clouds saw without eyes, but through
+whatever Big Blue used instead, she saw Pillow rising in their wake to join
+them.  *She wants to go out and have a good rain,* Noxy thought.  Maybe after
+they got back she could talk Granna Fee into taking her and Sensy and Rash---or
+maybe just her, she corrected, her mood darkening.  Her two friends would
+probably want to spend the time getting their outfits ready for the fancy, or
+practicing their dancing or something.
+
+With that thought she was reminded of the young man sitting beside her, and of
+how warm her coat had been the day before after he gave it back to her, and of
+what the village assumed when two people her age went on a cloud ride together.
+They really ought to get back...
 
 *Whoa,* she mind-spoke as they reached the spiderweb curtain hanging down at the
 mouth of the ravine.  The silvery hair-thin strands of spiderweb were spaced

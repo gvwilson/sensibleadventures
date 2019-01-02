@@ -792,99 +792,87 @@ There are a few special cases:
 
 ## Health and Injury
 
-Every character has a fixed number of **[health points](#g:health-point)** (HP).
-equal to the target figure for their Size,
-plus or minus one point for each step their Fitness is away from Average.
+Every character starts the adventure with a number of **[health points](#g:health-point)** (HP)
+equal to 3 + their Strength.
+(If a character's Strength is -3 or less, they still get 1 HP.)
+Every time a character is injured,
+they lose one or more HP as described below.
+Their character must then make a challenge roll with their current HP as a bonus.
+If they fail,
+the character has been knocked out.
+If the character is already unconscious when hit,
+If they fail by more than 4 points,
+their character is dead.
 
 > **Example:**
-> Dashwood is a parrot with Very Low Size,
-> which gives her 3 Health Points.
-> However, she has Very High Fitness.
-> Since that is two steps above Average, she gets an extra 2 Health Points,
-> bringing her total to 5.
+> Alouenne is a kangaroo with a Strength of +2,
+> so she has 5 HP.
+> As the tunnel collapses around her,
+> she is hit by a falling rock that does 1 point of damage,
+> leaving her with 4 HP.
+> Her player rolls 9; adding +4 gives her 13, so she is bruised by still conscious.
+>
+> A second, larger piece of the ceiling now drops on her head and does 2 points of damage.
+> Her HP is down to 2; her player only rolls 8, for a total of 10, so Alouenne has been knocked out.
+>
+> The rocks keep falling.
+> The next one to hit her does another 2 points of damage.
+> Alouenne is now down to 0 HP.
+> Her player rolls 9, and Alouenne is out of the game...
 
-> **Example:**
-> Slumpy the elephant has Very High Size, which gives him 11 Health Points,
-> but Low Fitness,
-> which brings it down to 10.
-
-FIXME: non-combat damage
-
-FIXME: When a character's HP reaches zero they are unconscious.
-What happens next depends on the situation.
-
-## Damage and Armor
+## Weapons and Armor
 
 Each time a character is hit by a weapon, they lose Health Points.
 How many depends on the type of weapon and whether they are wearing armor.
-If they are *not* wearing armor:
+Weapons are classified as:
 
--   For a punch or kick, do 1 point of damage on a roll of 6 on a single die.
--   A small weapon like a dagger or a bull's horns does 1 point of guaranteed damage.
-    The attacking player then rolls two dice,
-    and does an extra point of damage for every 5 or 6 that comes up.
--   A large weapon like a crossbow or a broadsword does 1 point of damage,
-    plus one point for every 4, 5, or 6 that comes up on a roll of 3 dice.
+-   *Punch*, including kicking and other hand-to-hand (or hoof-to-knee) attacks.
+-   *Small*, like a knife or a bull's horns.
+    If someone has a score of +3 or higher in Brawling or has a Size of +3 or greater,
+    their punches and kicks count as small weapons.
+-   *Medium*, like a one-handed sword or ax.
+-   *Large*, like a two-handed sword or a very large spiked club.
 
-If a 6 comes up when rolling for damage for a punch or a kick,
-the attacker can roll again;
-if that comes up 6 as well,
-they do 2 points of damage instead of 1.
-When attacking with a small or large weapon,
-every 6 gets a re-roll with the same target (5 or 6 for a small weapon,
-4-6 for a large one).
-If the target is met,
-extra damage is done;
-if the roll is another 6,
-the attacker keeps rolling,
-just as they do for fluke rolls.
-This rule means that a lucky strike with a dagger can theoretically bring down a bear,
-though it has to be a *very* lucky strike.
+How much damage each kind of weapon does depends on whether or not the defender is wearing armor:
 
-| Unarmored     | Guaranteed | Dice | Hit With |
-| ------------- | ---------: | ---: | -------: |
-| Punch or Kick | 0         | 1    | (once) 6 |
-| Small Weapon  | 1          | 2    | 5-6      |
-| Large Weapon  | 1          | 3    | 4-6      |
+| Weapon | Unarmored           | Armored             |
+| ------ | ------------------- | ------------------- |
+| Punch  | Hit roll            | Fluke roll          |
+| Small  | 1 point + hit roll  | Hit roll            |
+| Medium | 2 points + hit roll | 1 point + hit roll  |
+| Large  | 3 points + hit roll | 2 points + hit roll |
+
+A **[hit roll](#g:hit-roll)** is a roll of 5 or 6 on 1 die.
+A roll of 5 is worth 1 point.
+A roll of 6 is worth 1 point, *and* the player gets another hit roll.
+This means that if a player rolls 6-6-5 in that order, they get a total of 3 points.
+(A lucky strike can do a lot of damage.)
 
 > **Example:**
-> Dashwood shoots Slumpy with her small bow.
-> The arrow does a guaranteed 1 point of damage;
-> Dashwood rolls a 5,
-> which means she does 1 more point of damage for a total of 2,
-> but does not get to keep rolling.
+> Doi has a hunting bow (which is a small weapon) and a broadsword (which is a medium weapon).
+> She fires an arrow at Creszki and hits.
+> The arrow does an automatic 1 point of damage; she rolls a 5, which brings it up to 2 points.
 >
-> In the next turn,
-> Dashwood fires again.
-> This time she rolls a 6, another 6, and then a 4 (which ends her streak).
-> That arrow did a total of 3 points of damage:
-> 1 guaranteed, and 1 more for each of the 6's.
+> Doi drops her bow and draws her sword as Creszki charges at her.
+> Her first swing connects, doing at least 2 points of damage.
+> She rolls a 6, which brings it up to 3 and earns her an extra roll.
+> That second roll is a 2, so 3 points is all she does.
+>
+> Creszki goes down, but his ally Priti is right behind him.
+> Doi swings again and connects.
+> Since Priti is wearing armor,
+> Creszki only does 1 point of guaranteed damage.
+> Her roll is a 4, which does no extra damage and doesn't get her another roll.
+>
+> Priti staggers slightly,
+> then roars and swings his two-handed ax.
+> He hits, and rolls 6 then 5 for two extra points.
+> Adding to the 3 he got for swinging a large weapon,
+> he has done a total of 5 points.
 
-If the target of the attack *is* wearing armor,
-then punching and kicking has no effect,
-in which case the blow does one point of damage on a roll of 6).
-Neither small nor large weapons do guaranteed damage,
-and the targets for rolls are increased to 6 (for small weapons)
-and 5 or 6 (for large ones).
-6's still earn re-rolls as before.
+## Healing
 
-| Armored       | Guaranteed | Dice | Hit With |
-| ------------- | ---------: | ---: | -------: |
-| Punch or Kick | 0         | 0   |          |
-| Small Weapon  | 0         | 2    | 6        |
-| Large Weapon  | 0         | 3    | 5-6      |
-
-> **Example:**
-> Slumpy closes in and hits Dashwood with her spiked club
-> (which definitely counts as a large weapon),
-> but Dashwood is wearing armor,
-> so there is no guaranteed damage.
-> Slumpy rolls 5, 5, and 1,
-> so the blow does a total of 2 points of damage.
-
-Armor is heavy:
-it reduces the wearer's attack and defense bonus by 1 point if they're used to wearing it,
-and 3 points if they're not.
+FIXME
 
 ## Shaping
 

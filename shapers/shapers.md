@@ -835,40 +835,36 @@ Weapons are classified as:
 
 How much damage each kind of weapon does depends on whether or not the defender is wearing armor:
 
-| Weapon | Unarmored           | Armored             |
-| ------ | ------------------- | ------------------- |
-| Punch  | Hit roll            | Fluke roll          |
-| Small  | 1 point + hit roll  | Hit roll            |
-| Medium | 2 points + hit roll | 1 point + hit roll  |
-| Large  | 3 points + hit roll | 2 points + hit roll |
+| Weapon | Unarmored          | Armored             |
+| ------ | ------------------ | ------------------- |
+| Punch  | beat 12 for 1 point| beat 15 for 1 point |
+| Small  | 1 point            | beat 12 for 1 point |
+| Medium | 2 points           | 1 point             |
+| Large  | 3 points           | 2 points            |
 
-A **[hit roll](#g:hit-roll)** is a roll of 5 or 6 on 1 die.
-A roll of 5 is worth 1 point.
-A roll of 6 is worth 1 point, *and* the player gets another hit roll.
-This means that if a player rolls 6-6-5 in that order, they get a total of 3 points.
-(A lucky strike can do a lot of damage.)
+The phrase "beat 12 for 1 point" means "roll 12 or better on 3 dice to do 1 point of damage",
+while "beat 15 for 1 point" means "roll 15 or better on 3 dice to do 1 point of damage".
+Hurting an unarmored opponent with a punch,
+or an armored one with a small weapon,
+is therefore like winning a fluke roll,
+only easier.
 
 > **Example:**
 > Doi has a hunting bow (which is a small weapon) and a broadsword (which is a medium weapon).
 > She fires an arrow at Creszki and hits.
-> The arrow does an automatic 1 point of damage; she rolls a 5, which brings it up to 2 points.
+> The arrow does an automatic 1 point of damage,
+> and Creszki has to roll to see if he loses consciousness.
 >
 > Doi drops her bow and draws her sword as Creszki charges at her.
-> Her first swing connects, doing at least 2 points of damage.
-> She rolls a 6, which brings it up to 3 and earns her an extra roll.
-> That second roll is a 2, so 3 points is all she does.
->
-> Creszki goes down, but his ally Priti is right behind him.
+> Her first swing connects, doing 2 points of damage.
+> Creszki fails his roll and goes down, but his ally Priti is right behind him.
 > Doi swings again and connects.
 > Since Priti is wearing armor,
-> Creszki only does 1 point of guaranteed damage.
-> Her roll is a 4, which does no extra damage and doesn't get her another roll.
->
-> Priti staggers slightly,
-> then roars and swings his two-handed ax.
-> He hits, and rolls 6 then 5 for two extra points.
-> Adding to the 3 he got for swinging a large weapon,
-> he has done a total of 5 points.
+> Doi only does 1 point of damage.
+> Priti makes his roll easily,
+> so he shrugs it off and swings his large two-handed ax.
+> He hits, doing 3 points of damage.
+> Doi fails her roll and is unconscious.
 
 ## Healing
 

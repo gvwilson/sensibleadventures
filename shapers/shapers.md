@@ -796,34 +796,51 @@ Every character starts the adventure with a number of **[health points](#g:healt
 equal to 3 + their Strength.
 (If a character's Strength is -3 or less, they still get 1 HP.)
 Every time a character is injured,
-they lose one or more HP as described below.
-Their character must then make a challenge roll with their current HP as a bonus.
-If they fail,
-the character has been knocked out.
-If the character is already unconscious when hit,
-If they fail by more than 4 points,
-their character is dead.
+their character must win a challenge roll with their HP *before* the injury as a bonus
+and the amount of the damage as a penalty.
+If they fail the roll,
+they have been knocked out.
+Regardless of the roll's outcome,
+they always lose that many HP.
+
+A character is killed when:
+
+-   Their HP goes negative.
+-   They fail an injury challenge roll by 4 points or more.
 
 > **Example:**
 > Alouenne is a kangaroo with a Strength of +2,
 > so she has 5 HP.
 > As the tunnel collapses around her,
-> she is hit by a falling rock that does 1 point of damage,
-> leaving her with 4 HP.
-> Her player rolls 9; adding +4 gives her 13, so she is bruised by still conscious.
+> she is hit by a falling rock that does 1 point of damage.
+> She needs to win a roll with a +4 bonus (+5-1) to stay conscious.
+> She rolls 9 on 3d, winning easily,
+> but is now down to 4 HP.
 >
 > A second, larger piece of the ceiling now drops on her head and does 2 points of damage.
-> Her HP is down to 2; her player only rolls 8, for a total of 10, so Alouenne has been knocked out.
+> She needs to win a roll with a +2 bonus;
+> rolling 8, she fails and is knocked unconscious.
+> She is also now down to 2 HP.
 >
 > The rocks keep falling.
 > The next one to hit her does another 2 points of damage.
-> Alouenne is now down to 0 HP.
-> Her player rolls 9, and Alouenne is out of the game...
+> She needs to win a roll without any bonus at all to stay alive.
+> She rolls 12,
+> but is down to 0 HP.
+> One more big rock, and Alouenne will be out of the game...
+>
+> Pietro rushes in to save Alouenne.
+> He is already down to 3 HP after a previous fight,
+> and a particularly big rock lands on him before he can reach her.
+> It does 3 points of damage,
+> so he needs to win a challenge roll without any bonus.
+> He rolls 5,
+> missing the required 11 by 6 points.
+> Pietro is a goner.
 
 ## Weapons and Armor
 
-Each time a character is hit by a weapon, they lose Health Points.
-How many depends on the type of weapon and whether they are wearing armor.
+Weapons injure their targets---that's their whole purpose.
 Weapons are classified as:
 
 -   *Punch*, including kicking and other hand-to-hand (or hoof-to-knee) attacks.
@@ -848,6 +865,11 @@ Hurting an unarmored opponent with a punch,
 or an armored one with a small weapon,
 is therefore like winning a fluke roll,
 only easier.
+Note that armor counts against other kinds of damage as well:
+for example,
+the big rocks that fell on Alouenne and Pietro were considered medium and large weapons.
+If either of them had been wearing armor,
+they might have made it...
 
 > **Example:**
 > Doi has a hunting bow (which is a small weapon) and a broadsword (which is a medium weapon).

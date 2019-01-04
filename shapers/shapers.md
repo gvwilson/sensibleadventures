@@ -890,7 +890,22 @@ they might have made it...
 
 ## Healing
 
-FIXME
+Someone who is knocked unconscious can try to regain consciousness
+once per minute by winning a challenge roll with their Strength as a bonus (or penalty).
+It's up to the Director to decide if they have to keep making injury rolls because of their wounds.
+
+> **Example:**
+> While Priti is going through Doi's belongings to see if she has anything worth stealing,
+> her player rolls three dice and gets 13.
+> After taking off 1 point (her Strength is -1),
+> she still has 12,
+> which is enough for her to regain consciousness.
+> Quietly, she picks up her bow and gets off one more shot.
+> Priti goes down---but the Director has ruled that Doi's wounds are still bleeding,
+> so she needs to make another challenge roll to stay conscious.
+> She fails and passes out once again,
+> losing 1 HP as she does so.
+> Things aren't looking good for our little fox...
 
 ## Shaping
 
@@ -916,7 +931,21 @@ It is *extremely* rare for someone to be able to do more than one kind of shapin
 > Larrapin is an air shaper.
 > Before her grandfather passed away,
 > he taught her what little he knew,
-> so her score is now Low instead of Very Low.
+> so her score is now -5 instead of none.
+
+The Director must decide case by case how hard it is to shape something.
+As a guide:
+
+| Shaping | Easy Task (+3 bonus)             | Hard Task (-3 penalty)                 |
+| ------- | -------------------------------- | -------------------------------------- |
+| Earth   | Slide a pebble across a table    | Open a hand-sized hole in a brick wall |
+| Air     | Puff of air to blow out a candle | Gust of wind to knock someone over     |
+| Light   | Dim light to read by             | Illusion of a tree                     |
+| Water   | Slosh water around in a cup      | Wave capable of swamping a canoe       |
+| Luck    | Increase next roll by 1 point    | Lower enemy's roll by 3 points         |
+| Time    | Take initiative in combat round  | Four actions in one combat round       |
+
+These bonuses and penalties assume that the shaper is concentrating hard and doing nothing else.
 
 ## Bots
 

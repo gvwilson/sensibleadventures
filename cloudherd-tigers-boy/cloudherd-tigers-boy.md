@@ -2759,7 +2759,7 @@ only the forest and its thousands upon thousands of eyes, deer and a few wild
 goofs whose ancestors had strayed away from their pens and somehow managed to
 avoid being eaten and scaws and striped jays and a hundred other kinds of birds,
 a bear up to her knees in a stream looking for a turtle or a mountain squid
-still sleepy from its winter hibernation,, all of them now looking not at the
+still sleepy from its winter hibernation, all of them now looking not at the
 cloud but at *her* because somehow just as she could see them, they could see
 her, and it was too much---it couldn't all fit, her head really was going to
 burst this time.
@@ -3625,8 +3625,7 @@ their feet slipped out from under them just as Sergeant Dorbu's had.
 The *tralpa* turned on the circle of rebels surrounding the three royalists and
 belched enormously.  Her hand flew to her mouth, and then she doubled over and
 retched, splattering half-digested breakfast and tea on her boots and the
-ground.  "Wha---?" she tried to say, but then another spasm sent her to her
-knees.
+ground.  "Wha---?" she tried to say, but another spasm sent her to her knees.
 
 "Lower your sword, captain, or I'll make her tear herself in half."
 Scholar-Candidate Nangyal stood on the steps of the trading hall, an eerie
@@ -3975,8 +3974,8 @@ both wide awake and paying attention.
 She closed her eyes and took a deep breath.  As far as her mother and the other
 olders knew, her plan was to crawl under the goofs to get to the base of the
 wall, then work her way along it to the tunnel where she thought Kulbinder and
-Private Thokmay were hiding.  She hadn't bothered explaining the rest---now she
-just hoped it would work.
+Private Thokmay were hiding.  She hadn't explained the rest of it---she wasn't
+even sure how she would begin.  Now she just hoped it would work.
 
 *Hello?* she mind-spoke.  *Can you hear me?*
 
@@ -3984,10 +3983,190 @@ Silence answered.  She pushed the sound of the goofs' bleating out of her mind
 and concentrated.  *Hello?*
 
 Nothing, nothing... There.  It wasn't an answer because there were no words, but
-all of a sudden she knew that the forest was paying attention to her.  It was
-like hearing stairs *not* creak when someone had come halfway up them and then
+suddenly she knew that the forest was paying attention to her.  It was like
+hearing stairs *not* creak when someone had come halfway up them and then
 stopped.
 
 She cleared her throat.  *Can you help me?* she mind-asked.  *I kind of need a
 favor.*
 
+A hundred heartbeats went by, then another.  A silver-tipped scaw flitted
+overhead.  A striped jay landed on the fence around the goof pen, cocked its
+head to the side, and flew off again.  Two more scaws zipped by, swerving to
+avoid a crow.  Birds and more birds swirled around like leaves caught in a tiny
+whirlwind.
+
+*No no no,* she mind-spoke frantically. *Not here! Up on the wall!* She tried to
+picture the two soldiers, then gave up and imagined the view from the parapet.
+The birds should recognize that, shouldn't they?
+
+They did, or the forest did on their behalf.  With a sound like a dozen blankets
+being shaken out, the motley flock flew away.  One of the soldiers swore a
+startled oath.  Noxy took a deep breath and sprinted around the goof pen to the
+base of the wall.  She had never felt more exposed in her life, not even when
+Grappa Gas had taken her up as high as the peak behind Stale and the whole
+valley had been spread out below her.
+
+Her heart sank when she reached the tunnel mouth.  The heavy wooden grill that
+blocked it was still in place.  She was about to turn around when a flicker of
+motion caught her eye.  Had the grill---rippled?  She reached out tentatively.
+Her hand passed through it as if it was nothing more than a cool shadow.
+
+"It's magic," she breathed.  But who could have cast the spell?  Not Nangyal:
+if he knew about it, the tiger and his boy would already be in chains.  And
+surely not Lhawang, not unless she was---what?  Secretly helping the rebels?
+But that didn't make any sense either.
+
+Another shout from the wall above her swept the question from her mind.  She
+took a deep breath, closed her eyes, and stepped into the tunnel.
+
+A brief chill washed over her, making her shiver.  She opened her eyes.  The
+tunnel looked exactly the way it had when she and Rash and Sensy had pried open
+the grill and snuck in a few years ago to try some *rak* that Rash had brought
+back from a family trip to Duck Droppings.  She wrinkled her nose.  It smelled
+exactly the same too: damp stone, ancient animal droppings, and stale air.
+
+"Hello?"
+
+She crept forward as quietly as the tunnel dipped and levelled off.  The bricks
+that had blocked it off the last time she was here were gone.  She took another
+deep breath and fished the little dayglass lamp Granna Fee had given her out of
+her coat.  It wasn't much light, but it was better than the dark, and *much*
+better than thinking about the hundreds of stone blocks over her head.
+
+
+The tunnel split and split again.  She and Rash had come here a second time
+withou Sensy, partly because it was forbidden, and partly because Rash had said
+that he wanted to get away from Sensy's chatter for just a little bit.  She had
+let him kiss her (not quite for the first time) and had been furious the next
+day when Sensy had confessed that he'd kissed *her* there too the day before.
+
+She pushed the memory away and edged forward again, placing each foot carefully
+before putting her weight on it. There was a light up ahead...
+
+Holding her breath, she peeked around the corner. She had just a heartbeat to
+take in the lantern sitting by itself on the floor before a stern voice snapped,
+"Halt!" behind her.
+
+Noxy jumped and whirled around. Private Thokmay was standing in the
+intersection with his sword in his hand and a scowl on his face.
+
+"What are you doing here?" he demanded accusingly. "Why were you trying to sneak
+up on me?"
+
+"Sneak up on you?!" Noxy replied angrily. "You're the one who snuck up on *me*!"
+
+"Only because you were sneaking up first," he shot back. He slid his sword into
+its scabbard. "I thought you were one of *them*."
+
+"Well, I thought you were too."  Noxy put her hands on her hips and matched the
+soldier's glare. "Where's Kulbinder?"
+
+"In the forest, trying to figure out what to do next."  Private Thokmay crossed
+his arms.  "You really shouldn't be here."
+
+"And you should?" she shot back.
+
+Thokmay's scowl deepened.  "Believe me, it wasn't my first choice," he muttered.
+
+Noxy crossed her arms to match his.  "So are you a spy or something?  Or is the
+tiger?  That's what the scholar-candidate thinks."
+
+"He's not a scholar."  Private Thokmay looked like he had accidentally eaten a
+pickled beet.
+
+FIXME
+
+Suddenly there was a rumbling sound, then a screech like a thousand fingernails
+being dragged down a blackboard. The beam above their heads shifted slightly,
+groaning under the weight of the mountain. They looked at each other in
+horror. The tunnel was caving in!
+
+Noxy turned to run back toward the entrance.  "Look out!" Thokmay shouted.  He
+leaped forward and pushed her out of the way.  A block of stone that would have
+struck her head hit his shoulder instead.  He grabbed her arm and yanked her
+forward as the beam creaked again and gave way. A waterfall of sharp-edged rocks
+and dust crashed down.
+
+"Run!" he shouted.
+
+"But that's the wrong way!" Noxy cried.
+
+"Not any more it isn't!" He snatched up his lantern. "Come on!"
+
+They stumbled away from the cave-in. Dust billowed up, choking them. A stray
+rock bounced past Noxy's head.
+
+The cave-in stopped as suddenly as it began. A last handful of pebbles rattled
+past them. Noxy and Thokmay doubled over to cough, their hearts pounding.
+
+Noxy straightened up and gasped.  "Your jacket!" she said.  His yellow uniform
+jacket had torn where the stone struck his shoulder.
+
+Private Thokmay looked at it ruefully.  "Well, if that's not a sign, I don't
+know what is."  He sighed.  "I'm sorry I kicked it. I didn't think it would cave
+in."
+
+"I'm sorry I kicked it too. Do you think we're trapped?"
+
+"There has to be another way out," he replied. "Doesn't there?"
+
+"I don't know," Noxy admitted. "I've never come in this far."
+
+thokmay held up his lantern.  The spot they had been standing just a few minutes
+before was now a jumble of fallen roof timber and sharp-edged stones.
+
+"We might be able to squeeze through," Noxy said tentatively.
+
+He shook his head. "What if we got stuck? Or if we bumped something and it caved
+in again? I think we should try to find another way out." He hesitated. "That
+is, unless you really want to try."
+
+Noxy took a deep breath and let it out slowly, just like her mother did whenever
+she had a hard decision to make. "No, I think you're right. We should try to
+find another way out. Anyway, if we can't, we can always come back here and try
+it then."
+
+The tunnel ran level for several dozen strides, then started to dip down. It
+became steeper and steeper until finally it turned into a rough-cut
+staircase. "I think we're getting further from the village, not closer," Noxy
+said in despair. "Maybe we should turn back."
+
+"Not yet," said the soldier. "We haven't actually come very far, and we can't
+have gotten lost because there aren't any turns. Maybe it'll level off again
+soon."
+
+But the steps ran straight down instead into a dark, still pool of water. There
+was just enough light for them to see another set of steps rising from its far
+side. The only sound was the *ploop, ploop* of condensation dripping off the
+ceiling.
+
+Noxy shivered. "I wonder how deep it is?" she whispered.
+
+"*I* wonder what's in it," Private Thokmay whispered back. "There are some
+horrible things in the hell underneath Gandan-in-Gandan. The kind had some of
+them brought in specially. They're all teeth and tentacles and---"
+
+"Shh!" hissed Noxy. "I don't want to know!"
+
+Private Thokmay didn't reply. Instead, he stared at the dark water then snapped
+his fingers. "I know!" He unbuckled his sword belt, pulled his sword out of its
+scabbard, handed the belt to Noxy, then knelt on the last step and pushed the
+scabbard into the water. A moment later he turned around with a sheepish look on
+his face. "It's only about a handspan deep. It won't even come over the tops of
+our boots."
+
+They sloshed through the pool to the other set of steps. As they started up
+them, Noxy thought she could still hear something slosh a little longer in the
+water behind them. *It's just your imagination,* she told herself firmly, but
+she shuddered slightly from the chill just the same.
+
+The steps grew shallower and shallower until they melted away into the floor of
+a tunnel. The tunnel itself slowly became less steep, until Private Thokmay
+stopped and sniffed the air. "There's a breeze!" he said. "Come on!"
+
+They raced through the tunnel, around one corner and then another, and then
+there was daylight. An ancient blackberry bush lay across the tunnel entrance.
+On its other side Noxy could see the path that led to the cloud pen.
+
+They stared at it.

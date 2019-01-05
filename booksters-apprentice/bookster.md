@@ -20,8 +20,8 @@ past each other to make bargains, and then another eight months in the
 air with grain, cider, wool, and steel for the south.*
 
 *When the Pilots ruled the world, Avaunt roamed the world over.  After
-they destroyed themselves, it was taken over by wild-eyed tinkers with
-a fascination for the Pilots' strange machines.  They called
+they lost their long war against the Crew, it was taken over by wild-eyed
+tinkers with a fascination for the Pilots' strange machines.  They called
 themselves the Hett, and as the years passed, the people who lived
 below them regarded them with growing suspicion.  Stories spread of
 the Hett's hoarded wealth, and of the plots they must be hatching to

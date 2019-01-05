@@ -14,10 +14,9 @@ continent is surrounded on all sides by a great ocean whose outer shore, the
 Worldrim, rises up to cradle that sweet speck of life as a child might cup a
 drop of water in her hand.*
 
-*Cherne's history began with the Pilots and the Crew, and nearly ended with them
-as well.  Powerful and inhuman, their rule ended in a war that scarred the moon
-and turned Lake Karaband into a sea of glass.  When it was over the Pilots were
-gone and the Crew had retreated to their underhells far below the surface,
+*Cherne's history began with the Pilots, and nearly ended with them as well.
+Powerful and inhuman, their rule ended in a war that scarred the moon and turned
+Lake Karaband into a sea of glass.  When it was over the Pilots were gone,
 leaving the surface world to carry on as best it could.*
 
 *Now look there, in the north, where the Brumoso Mountains rise above the
@@ -300,42 +299,45 @@ Sensy, you're going to break my fingers!"  Noxy pulled her hand free from her
 friend's terrified grip.
 
 "Pilots be praised," he rumbled, settling onto his haunches.  "Now, if I may ask
-a favor, I am looking for the village of Stale Leftovers.  Would you be so kind
-as to direct me?"  His ear twitched at the sound of a distant hoot.  "Or if
-perchance you are going that way yourselves, I would be honored to accompany
-you.  Those creatures are unlikely to try another attack if you have a
-protector."
+a favor, I am looking for the village of, um, Stale Leftovers, I'm told it's
+called.  If that is in fact its name, would you be so kind as to direct me?"
+His ear twitched at the sound of a distant hoot.  "Or if perchance you are going
+that way yourselves, I would be honored to accompany you.  Those creatures are
+unlikely to try another attack if you have a protector."
 
-Noxy hitched her bag up on her shoulder.  "They didn't attack us.  We---I mean,
-the village has an arrangement.  With the trolls.  We don't go too far into the
-forest, and they don't come near the village except for when they want to trade,
-and they leave some stones down by the fish pond to tell us when they want to do
-that, and---" She stopped herself and took a deep breath.  "I'm sorry.  Who are
-you?"
+Noxy hitched her bag up on her shoulder.  "They didn't attack us, honored," she
+said.  "We---I mean, the village has an arrangement.  Stale, I mean.  With the
+trolls.  We don't go too far into the forest, and they don't come near the
+village except for when they want to trade, and they leave some stones down by
+the fish pond to tell us when they want to do that, and---" She stopped herself
+and took a deep breath.  "I'm sorry.  Who are you?"
 
-"I am Kulbinder of Thind," the tiger said, rising to all fours.  "And if you
-will forgive my impatience, my need is rather pressing.  My companions are in
-danger, and in dire need of rescue.  I need to reach Stale Leftovers *now*."
+"I am Kulbinder of Thind," the tiger said, rising and stretching.  "And if you
+will forgive my impatience, my traveling companions are in a spot of trouble.
+In dire need of rescue, actually, so I need to reach Stale Leftovers more or
+less *now* if I can."
 
 Noxy shot a look at Sensy.  Her friend shook her head slightly and mouthed "no".
 That was enough to make up Noxy's mind.
 
 "It's this way," she said, pointing down the path.  "Come on!"
 
-It only took them a few minutes to reach the gap in the fortress wall where an
-enormous stone door had once hung.  A few chunks of its shattered remains lay
-half-buried in the ground, too big for even a team of sturdy mountain camels to
-pull free.  The wooden gate that Stale's human inhabitants had put up to take
-its place was three planks thick, but still looked like a child's toy set into
-the Pilots' ancient work.  It was open as always, and Noxy could hear the
-endless gentle tune of the village's wind chimes from behind it.
+It only took them a few minutes to make their way down the mountain path to the
+clearing that surrounded the ancient fortress and across it to the gap in the
+wall where an enormous stone door had once hung.  A few chunks of its shattered
+remains lay half-buried in the ground, too big for even a team of sturdy
+mountain camels to pull free.  The wooden gate that Stale's human inhabitants
+had put up to take its place was three planks thick, but still looked like a
+child's toy set against the Pilots' ancient work.  It was open as always, and
+beyond it Noxy could hear the endless gentle gentle jangle of the wind chimes
+that hung beside the door of every house in the village except one.
 
-Grappa Gas was sitting on one of the stones whittling a new leg when they came
-out of the trees.  He raised a hand in hello, then swore and clambered to his
-feet at the sight of the tiger.  "Saints and their creations!"  He pointed
+Grappa Gas was sitting on a stones near the gate whittling a new leg when they
+came out of the trees.  He raised a hand in hello, then swore and clambered to
+his feet at the sight of the tiger.  "Saints and their creations!"  He pointed
 accusingly with his whittling knife.  "What in the underhells is this?"
 
-"*This* is a who, not a what," Kulbinder replied curtly.
+"*This* is a who, honored, not a what," Kulbinder replied stiffly.
 
 "We met him up by the spider grove," Noxy said hurriedly.  "There were some
 trolls, and he scared them off.  He says---"
@@ -346,204 +348,213 @@ down this far in---"
 "Grappa!"  Noxy stomped her foot.  "Never mind that now!  The tiger says people
 are hurt and need help.  At least, I think they're people," she added belatedly.
 
-"They are as human as you are," the tiger said.  "Are you the *tralpa* here?"
+"My companions are as human as you," the tiger said.  "Are you the *tralpa*
+here, honored sir?"
 
-Grappa Gas snorted.  "Not likely, but I can take you to the reeve."
+Grappa Gas snorted.  "Not likely.  Come on---I'll take you to the reeve."
 
-Ten minutes later, the whole village was in the cobbled square---or rather, the
-whole village minus most of the adults, who had left a week ago for the
-snowfields to collect Stale's clouds from their winter pasture.  Three hundred
-people, from babies in their parents' arms to those babies' grandparents, stood
-in a half-circle around the impatient tiger.  Some still wore the thick coats
-and pants they used in winter and when cloudherding.  Others, like Noxy and
-Sensy, had switched to lighter gear that would still seem heavy to anyone
-unfamiliar with the icy winds of the high mountains.  Grappa Gas's son Aft, who
-had been splitting logs with an ax to make shingles, was the only one in
-shirtsleeves, but he wasn't the only one scowling at the new arrival.  At his
-side, his very pregnant wife Rind shushed him every time he muttered to her.
+Ten minutes later, the whole village stood in its single cobbled square---or
+rather, the whole village minus most of the adults, who had left a week ago for
+to collect Stale's clouds from their winter pasture in the high peaks.  Three
+hundred people, from babies to grandparents, stood in a half-circle around the
+impatient tiger.  Some still wore the thick coats and pants they used in winter
+and when cloudherding.  Others, like Noxy and Sensy, had switched to lighter
+gear that would still seem heavy to anyone unfamiliar with the icy winds of the
+high mountains.  Grappa Gas's son Aft, who had been splitting logs with an ax to
+make shingles, was the only one in shirtsleeves, but he wasn't the only one
+scowling at the new arrival.  At his side, his very pregnant wife Rind whispered
+at him to be quiet every time he muttered to her.
 
 Noxy's mother Indy thumped the speaker's drum three times and stepped up onto
 the squared-off stone that marked the center of the square.  "Friends," she said
-loudly, patting the air with her hands to quiet everyone.  "Friends, please.
-Thank you all for coming.  I know it is early in the year for travelers, but
-please, give a true mountain welcome to Kulbinder, a Gifted of Thind."
+loudly, patting the air with her hands to shush everyone.  "Friends, please.
+Thank you all for coming.  I know it is early in the year for travelers, but let
+us all give a true mountain welcome to Kulbinder, a Gifted of Thind."
 
 "Welcome... welcome... be welcome..." Some voices were hearty, some grudging,
 and some people didn't speak at all, but Noxy's mother took it all in stride
-like she always did.  Even a tiger with the one-in-a-thousand gift of speech and
+like she always did.  Even a tiger with the one-in-a-thousand Gift of speech and
 reason couldn't throw her off stride.
 
-Someone nudged Noxy's shoulder with their own.  "Hey," Rash said, slipping
-between her and Sensy.  "Where's the *tralpa*?  Is he too afraid of the tiger to
-come out and say hello?  Or has he been up all night studying again?"  He mimed
-someone drinking from a bottle.
+Someone nudged Noxy out of the way.  "Hey," Rash said, slipping between her and
+Sensy.  "Where's the *tralpa*?  Is he too afraid of the tiger to come out and
+say hello?  Or has he been up all night studying again?"  He mimed someone
+drinking from a bottle.
 
-"Ssh!"  But he was right---the voice and hand of the king in Stale Remainders,
-who was also the least useful magician Noxy had ever met, was nowhere to be
-seen.
+"Ssh!"  But he was right---the king's representative, who was also the least
+useful magician Noxy had ever met, was nowhere to be seen.
 
 Indy thumped the brightly-painted speaker's drum again.  "The Gifted has told me
 that he and his companions were trying to get through the pass to Chaghan.  An
-avalanche forced them off the road and into the forest."  She swept her gaze
-across the assembled villagers.  "The forest got angry.  Some of them have died,
-and the rest are trapped.  They need our help."
+avalanche forced them off the road."  She swept her gaze across the assembled
+villagers.  "The forest got angry.  Some of them have died, and the rest are
+trapped.  They need our help."
 
 A murmur ran through the crowd.  The Herd of Trees that blanketed the Brumoso
-Mountains wasn't mad like the Jungle of Thind, but it guarded its territory and
-privileges as jealously as a mother bear guarded her cubs.  Gifted creatures who
-lived among the trees all did its biding.  People who stayed near the Pilots'
-ancient roads never came to harm, and those who ventured deeper were safe as
-long as they were careful.  Make a fire too large, though, or wander into one of
-the circles of towering redwoods that Granna Fee cautioned Noxy and her friends
-to steer clear of on training flights, and the forest's wrath would be as
-merciless as a winter storm.
+Mountains wasn't mad like the Jungle of Thind, but it guarded its territory as
+jealously as a mother bear guarded her cubs.  All the Gifted creatures who lived
+within its boundaries did the forest's biding.  People who stayed near the
+Pilots' ancient roads never came to harm, and those who ventured deeper were
+safe as long as they were careful---very careful.  Use anything made of metal,
+make a fire too large, or wander into one of the circles of towering redwoods
+that Granna Fee cautioned Noxy and her friends to steer clear of on training
+flights, and the wrath of the trees could be as merciless as a winter storm.
 
-Aft elbowed his way to the front of the small crowd and clapped his hands twice.
-"Are they smugglers?" he asked loudly without waiting for Indy to call on him.
+Aft elbowed his way to the front of the small crowd and clapped his hands twice
+for attention. "Are they smugglers?" he asked loudly without waiting for Indy to
+call on him.
 
-Noxy saw rather than heard her mother's exasperated sigh.  "Not that the Gifted
-has said, no."
+Noxy saw rather than heard her mother suppress a faint sigh.  "Not that the
+Gifted has said, no."
 
-"Then why in the saints' names were they trying to get through the pass this
-time of year?  It'll be another month at least before the high trails clear."
-He crossed his muscular arms.  "Doesn't seem like something honest folk would
-do, is all I'm saying."
+"Then why in the saints' names were they trying to get through the mountains
+this time of year?  It'll be another month at least before the high back of the
+pass clears."  He crossed his muscular arms.  "Doesn't seem like something
+honest folk would do, is all I'm saying."
 
-"My companions are not honest folk," the tiger sniffed.  "They are soldiers."
+"My companions are not 'honest folk'," the tiger sniffed haughtily.  "They are
+soldiers."
 
-The crowd murmured again.  "Soldiers?" Aft said disbelievingly.  "What were you
-doing trying to get through the pass?  There aren't any rebels up here."
+The crowd murmured again.  "Soldiers?" Aft scoffed.  "Why in the underhells
+would soldiers be trying to through the pass?  There aren't any rebels up here
+for them to chase, not in the middle of winter."
 
-At that, the tiger finally deigned to look at him.  "There are, actually.  It is
+At that, the tiger finally deigned to look at him.  "It isn't the middle of
+winter any longer, honored.  And there are actually some rebels up here.  It is
 my companions' privilege to serve the cause of the Learned Shudarga."
 
 That brought gasps instead of murmurs.  As a brilliant young scholar, Shudarga
 had written pamphlet after pamphlet arguing that Gandan's laws should be free
-for all to use.  The kingdom's merchant-nobles had ignored her at first, then
-mocked her, but when she started organizing peasants and tradesmen to pool their
-money so that they could rent laws together, their laughter turned to anger.
-Arrested, she had escaped the previous summer and raised her flag in rebellion,
-attracting thousands to her cause.  Then winter had come and news from the
-lowlands had slowed to a trickle, leaving the cloudherds with nothing to chew on
-but rumors.
+for all to use.  The kingdom's nobility had ignored her at first, then mocked
+her, but when she started organizing peasants and small shopkeepers to pool
+their money so that they could rent laws together, the nobles' laughter turned
+to anger.  Arrested, she had escaped the year before and raised her flag in
+rebellion.  Thousands had joined her, some desperate, some idealistic, and some
+swayed by speeches so powerful that her enemies muttered of dark magic.  Then
+winter had come and news from the lowlands had slowed to a trickle, leaving the
+cloudherds with nothing to chew on but rumors.
 
-"Does that mean the king's army is going to come looking for you?"  Aft demanded
-loudly, putting a protective arm around his wife and ignoring Indy as she
-thumped the drum for order.  "Because if they do, these walls won't keep 'em out
-for long, and neither will we."
+"Well that's stinking marvelous," Aft said sarcastically, putting a protective
+arm around his wife and ignoring Indy as she thumped the drum for order.  "Does
+that mean the king's army is going to come looking for you?  Because if they do,
+these walls won't keep 'em out for long, and neither will we."
 
 The tiger's tail twitched.  "I did not come to your village for its walls,
-honored, or to ask you to fight.  My companions need help.  You are their only
-hope---if you fear it will bring more trouble than you can chew, say so and I
-will be on my way."
+honored, or to ask you to fight.  My companions need help, and you are their
+only hope.  If you fear it will bring more trouble than you have an appetite
+for, say so and I will be on my way."
 
 "Nobody is saying we won't help," Indy said firmly.  "And as long as I'm reeve,
-nobody is *going* to say that."  She raised a hand to forestall whatever Aft had
-been about to say.  "We can argue about the politics later.  Right now, there's
-folk in trouble, and I won't have it said that the people of this village ever
-turned their backs on those that needed help."
+nobody is *going* to say that."  She raised a hand to forestall Aft's next
+outburst.  "We can argue about politics later.  Right now, there's folk in
+trouble, and I won't have it said that the people of this village ever turned
+their backs on any who needed us."
 
 *Clap clap.* Granna Fee waited for Indy to nod at her before speaking. "What
 about the *tralpa*?" she asked her daughter.  "I expect he'll have something to
-say about us helping rebels."
+say about us flying off to rescue a bunch of rebels."
 
-Indy's smile was as cold as the distant peaks.  "We can ask him when he wakes
-up."
+Indy's smile was as cold as the distant peaks.  "I'll be sure to ask him when he
+wakes up."
 
 The next five minutes were chaos.  Out of the question, Aft growled.  The law
-might forgive them giving shelter to a bunch of strays stupid enough to anger
-the forest, but flying off to rescue a bunch of rebels?  "It's not just us
-they'll punish," he said, glancing meaningfully at the bulk under his wife's
-winter coat.
+might forgive them giving shelter to a bunch of strays who wandered in through
+the fortress gate, but going and rescuing them?  "It's not just us they'll
+punish," he said, glancing meaningfully at the bulk under his wife's coat.
 
 And what would other cloudherds say if they heard that Stale had left people in
-the forest to die, Grappa Gas shot back.  Pilots and saints, what would their
-own kin say when they got back from up the mountain?
+the forest to die, Grappa Gas shot back, taking the opposite side as he always
+did when he and his son were in the same place and both talking.  Pilots and
+saints, what would their own *kin* say when they got back?
 
 The argument swirled and churned across the cobblestones, punctuated by soft
-bings and bongs from the windchimes that hung from the eaves of every house.
-Little whirlpools of disagreement came together, spun about, and flew apart as
-people overheard neighbors they disagreed with, or turned around to agree with
-something they had overheard and were sucked into yet another "what if?"
+bings and bongs from the village windchimes.  Little whirlpools of disagreement
+came together, swirled about, and flew apart to spawn new ones as people
+overheard neighbors they disagreed with or turned around to agree with something
+they had only half-heard and were sucked into yet another "what if?"
 
 "This is going to go on forever," Noxy said sourly.  "They're all going to do
 whatever my *amma* want to do in the end---why don't they just get on with it?"
 She, Sensy, and Rash stayed together in a knot on the sidelines, old enough that
-they hadn't grown bored and run off to play like the younger children, but young
-enough that the whole thing seemed vaguely ridiculous.
+they hadn't grown bored and run off like the smaller children, but still young
+enough to see how useless the kerfuffle was.
 
-Rash ran a finger along the lip fuzz he insisted on calling a mustache.  It had
-become a habit over the winter, one that Noxy had told him countless times he
-ought to break before *someone* broke his stupid finger.  "What I want to know
-is whether we're going to get to go, or if we're going to be stuck here with the
-littles."
+Rash ran a finger along the fuzz on his upper lip that he insisted on calling a
+mustache.  It had become a habit over the winter, one that Noxy had told him
+countless times he ought to break before *someone* broke his stinking finger.
+"What I want to know is whether we're going to get to go, or if we're going to
+be stuck here with the littles."
 
 "Of course we'll get to go!" Noxy exclaimed.
 
-"You sure about that?"  Rash raised an eyebrow, another annoying habit he had
+"Are you sure about that?" Rash drawled, another annoying habit he had
 cultivated over the winter.  "Because your *amma*'s giving jobs to just about
 everyone except us."
 
-Noxy puffed an annoyed breath, biting off her "of course I'm sure!"  when she
-caught Sensy's uncertain look.  "Wait here," she said with a scowl.
+Noxy bit off her "of course I'm sure!"  when she caught Sensy's uncertain look.
+"Wait here," she said with a scowl.
 
 She strode through the crowd to the speaker's stone and caught her mother's eye.
-Before Noxy could speak, Indy said, "Oh, and I think you've met my daughter,
+Before she could speak, Indy said, "Oh, and I think you've met my daughter,
 Probably Noxious."
 
 "The honor was mine," the tiger rumbled, flicking an ear in what might have been
 the feline equivalent of a very small bow.
 
-Noxy wondered if she was supposed to bow back, and was immediately annoyed at
-herself.  Cloudherds didn't bow---that was a silly lowlander custom.  "Just call
-me Noxy," she told him.  "*Amma*, which cloud do you want me and Sensy and Rash
-on?  We can go and start getting them ready while everyone's still jawing."
+"Just call me Noxy," she told him brusquely, not sure if his ear flick really
+was a bow and if she was supposed to bow back.  "*Amma*, which cloud do you want
+me and Sensy and Rash on?  We can go and start getting them ready while
+everyone's still jawing."
 
 Indy gave her daughter a look that Noxy knew all too well.  "Who said anything
 about you three going?"
 
 But Noxy knew her mother as well as her mother knew her, and had assembled her
 arguments as she crossed the square.  They were definitely old enough---why,
-they were all going to be riding *real* clouds in a few weeks, not just the tame
-old pair floating in the cloud pen.  And they wouldn't be going far, just a few
-gallops down the pass, and it was really important for cloudherds to know how to
-do rescues, wasn't it?  And---
+they were all going to be riding *real* clouds in a few weeks, not just tame old
+ones like the pair floating in the pen.  And they wouldn't be going far, just a
+few gallops down the pass, and it was really important for cloudherds to know
+how to do rescues, wasn't it?  And---
 
-"Stop."  Her mother held up a hand, not noticing or just ignoring the amused
-look on Granna Fee's face.  "You can go.  But!" she continued, "But you do what
-you're told and nothing more, understood?"
+"Stop."  Her mother held up a hand, deliberately ignoring the amused look on
+Granna Fee's face.  "You can go.  But!" she continued, "But you do what you're
+told and nothing more, understood?"
 
 Noxy nodded obediently.  "Yes, *amma*."  She had learned long ago not to keep
-asking for a whole orange when she'd already talked her mother into a half.
+asking for a whole cookie when she'd already talked her mother into half.
 
-Somehow everyone eventually realized that they agreed with Indy's decision or
-were so outnumbered as to make further argument pointless.  Even Aft gave in,
-grumbling that someone who hadn't lost his wits needed to keep an eye on things.
+It took a few more minutes, but eventually everyone realized that they agreed
+with Indy's decision or were so outnumbered that further argument was pointless.
+Even Aft gave in said he would go, protesting to his wife that someone who
+hadn't lost his wits had to be there to keep an eye on things.
 
-After that, it only took them a few minutes to gather what they needed.
-Rockfalls and avalanches were common in the mountains, and they had lifted more
-than one tinker or trader out of a difficult spot.  Coils of hemp rope with
-spider-silk cores hung ready in the long shed next to the cloud pen, and
-everyone kept a warm camelskin cap and some heavy gloves handy just in case.
+After that, the villagers moved quickly.  Rockfalls and avalanches were common
+in the mountains, and they had lifted more than one tinker or trader out of a
+difficult spot.  Coils of hemp rope with spider-silk cores hung ready in the
+long shed next to the cloud pen, and everyone kept a warm camelskin cap and some
+heavy gloves handy even on the clearest summer days.
 
-"You look ridiculous," Sensy told Rash flatly as he came down the wooden steps
-to the mounting platform.  He had sewn a pattern that he claimed was meant to be
-eagle's wings onto the side flaps of his cap during the winter, and had wrapped
-a bright yellow scarf around his neck that the last of the autumn pack traders
-had sworn was all the rage in Gandan.
+They were the last to arrive at the wooden mounting platform that hung over the
+edge of the cloud pen.  "You look ridiculous," Sensy told Rash flatly as he came
+down the steps.  He had sewn a pattern that he claimed was an eagle's wings onto
+the side flaps of his cap during the winter, and had a bright yellow scarf
+around his neck that the last of the autumn pack traders had sworn was all the
+rage in Gandan.
 
 Rash looked her up and down.  "Really?  Because I think you look amazing. Excuse
-me."  He winked and stepped around the speechless pair of thirteen-year-olds.
+me."  He winked at her and Noxy and stepped around the speechless pair,
+whistling.
 
-They were the last to arrive at the wooden platform that hung over the edge of
-the cloud pen.  "Ears all!" Aft said loudly.  He had changed into heavy pants, a
-padded coat, and a pair of soft boots, and his hair was pulled back in a thick
-club braid tied with a blue ribbon from his wife's wedding collar.  "You know
-how this is done.  I'll lead on Pillow with the youngers as spotters and the
-Gifted as a guide.  Gas and Fee, you've got Blue---you take Noxy with you.  In
-and out, quick and simple, and everyone's back here for soup before you can
-sneeze.  No adventures, right?"  He glared at Noxy, Sensy, and Rash until the
-three teenagers mumbled, "No adventures."
+<!-- HERE -->
+
+"Ears all!" Aft said loudly.  He had changed into heavy pants, a padded coat,
+and a pair of soft boots, and his hair was pulled back in a thick club braid
+tied with a blue ribbon from his wife's wedding collar.  "You know how this is
+done.  I'll lead on Pillow with the youngers as spotters and the Gifted as a
+guide.  Gas and Fee, you've got Blue---you take Noxy with you.  In and out,
+quick and simple, and everyone's back here for soup before you can sneeze.  No
+adventures, right?"  He glared at Noxy, Sensy, and Rash until the three
+teenagers mumbled, "No adventures."
 
 "Right!"  He walked to the end of the plank that stuck out from the platform and
 whistled through his fingers.  When nothing happened, he muttered something

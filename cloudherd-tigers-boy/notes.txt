@@ -1,8 +1,11 @@
-- Change the funeral scene to be silent backward dancing.
-- mention a game of goblets
-- 
+day 1 (Redsday, 13 Peridot): rescue and funeral
+day 2 (Orangeday, 14 Peridot): *tralpa* flees; Aft leaves and returns; storm
+day 3 (Yellowsday, 15 Peridot): royalists arrive with Cough; Noxy's dream
+day 4 (Greensday, 16 Peridot): magic duel
 
-day 1 (Redsday, 11 Peridot): rescue and funeral
-day 2 (Orangeday, 12 Peridot): *tralpa* flees; Aft leaves and returns; storm
-day 3 (Yellowsday, 13 Peridot): royalists arrive with Cough; Noxy's dream
-day 4 (Greensday, 14 Peridot): magic duel
+- the only house without windchimes is the tralpa's
+- the rebels were actually on their way to Stale (that's why Kulbinder knew to look for the village at the start)
+- Rind's baby arrives
+- avalanche
+- have to mention the windchimes again - what are they for?
+- swear: "stinking"

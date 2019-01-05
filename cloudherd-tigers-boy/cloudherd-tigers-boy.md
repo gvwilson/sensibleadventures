@@ -17,46 +17,44 @@ drop of water in her hand.*
 *Cherne's history began with the Pilots and the Crew, and nearly ended with them
 as well.  Powerful and inhuman, their rule ended in a war that scarred the moon
 and turned Lake Karaband into a sea of glass.  When it was over the Pilots were
-gone and the Crew had retreated into caverns far below the surface, leaving the
-world to carry on as best it could.*
+gone and the Crew had retreated to their underhells far below the surface,
+leaving the surface world to carry on as best it could.*
 
 *Now look there, in the north, where the Brumoso Mountains rise above the
-endless squabbles of the Ninety Kingdoms.  it is Redsday, the 11th of Peridot,
-1272, and a girl who is no longer a child but not quite yet a woman is crouched
-on a cloud, chilled to the bone and desperately hoping that they're not too
-late...*
+endless squabbles of the Ninety Kingdoms.  it is Redsday, the 13th of Peridot,
+1272 Years Since, and a girl who is no longer a child but not quite yet a woman
+is crouched on a cloud, chilled to the bone and desperately hoping that they're
+not too late...*
 
 "Hold on!" Grappa Gas bellowed as they went into a dive.  "It's going to get
 bumpy!"
 
 Noxy dropped to one knee, pulled the glove off her left hand, and pressed her
-palm against the cloud beneath her.  She could mind-hear Big Blue's
-determination, but the cloud was old, older even than Grappa Gas, and they were
-flying straight into a headwind.
+palm against the cloud beneath her.  She could mind-hear Big Blue's stubborn
+determination, but he was old, older even than Grappa Gas, and they were flying
+straight into a headwind.
 
 *Faster!* she urged.  *Please, faster!* She shivered despite her camelskin hat
 and coat, her hand already numbed by the icy mountain air.
 
 Beside her, the tiger snarled as the last of the crows that had attacked them
-swirled overhead.  One dove at his head.  He reared up and swiped at it with one
+swirled overhead.  One dove at his head.  He reared up and swiped at it with his
 paw, cursing in Thindi as the black bird snapped its wings open and let the wind
-throw it sideways just an instant before the tiger's claws would have torn it
-apart.
+throw it sideways just an instant before the claws would have torn it apart.
 
-Up ahead, a makeshift camp sat on a barren pinnacle of rock that rose like an
-island out of the forest.  A dozen drab gray tents huddled around a small fire.
-Shading her eyes with her right hand, Noxy saw that the soldiers had formed a
-circle around it.  Their kilts and sturdy boots were travel-stained, and their
-battle masks and lacquered leather armor were scarred from fighting.  Some had
-swords in their hands, while others held spears or bows.  Big Blue's mate Pillow
-floated above them, her sides rippling as she struggled to keep station in the
-wind, but the soldiers only spared an occasional pleading glance for the two
-clouds.  They were looking at the trees around them, waiting for the forest to
-attack again.
+Up ahead, a dozen drab gray tents huddled around a small fire on a barren
+pinnacle of rock that rose like an island out of the forest.  Shading her eyes
+with her free hand, Noxy saw that the soldiers had formed a circle.  Their kilts
+and sturdy boots were spattered with mud or worse, and their battle masks and
+lacquered leather armor were scarred from fighting.  Some had swords in their
+hands.  Others held spears or bows.  Big Blue's mate Pillow floated above them,
+her sides rippling as she struggled to keep station in the wind, but the
+soldiers only spared an occasional pleading glance for the two clouds.  They
+were watching the trees that surrounded their makeshift camp, waiting for the
+forest to attack again.
 
 "You're coming in too low!" Granna Fee yelled.  Noxy's grandmother lay full
-length on Big Blue, propped up on her elbows with a pair of binoculars in her
-hands.  "Level him off!"
+length on Big Blue to stay out of the wind.  "Level him off!"
 
 "There's no time!" Grappa Gas yelled back, his red-and-yellow scarf flapping
 madly behind him.  "We're going to have to bump and scrape!"  The old man closed
@@ -107,14 +105,14 @@ the canvas, and tried to drag it onto the cloud.  His legs sank halfway to his
 knees with the weight.
 
 Noxy felt Big Blue shudder underneath her.  She dropped to her knees and pressed
-her hand against the cloud once again.  *Just a little longer,* she pleaded,
-trying to squelch her fear so that he couldn't mind-hear it.  *Stay bunched up
-just a little longer.* She pictured the cloud pulling itself into a dense blob.
+her hand against the cloud again.  *Just a little longer,* she pleaded, trying
+to squelch her fear so that he couldn't mind-hear it.  *Stay bunched up just a
+little longer.* She pictured the cloud pulling itself into a dense blob.
 Obediently the cloud began to contract.
 
 Even as it did so, Noxy heard a shrill warning whistle from her friends on board
-Pillow high above them.  Cold fear jellied in her gut as the trolls suddenly
-stopped hooting.
+the other cloud circling high above them.  Cold fear jellied in her gut as the
+trolls suddenly stopped hooting.
 
 "Grappa---" she started to say.
 
@@ -654,8 +652,8 @@ when breath still fogs and the wind pokes its fingers through every loose seam
 and down every collar, it's freezing.  As they passed through the mouth of the
 ravine, Granna Fee took a camel hair blanket from the nearest bundle and wrapped
 it around herself and Noxy, leaving only their faces exposed.  Up ahead, Noxy
-saw that Rash and Sensy had done the same---as Sensy said, he might be a goof,
-but at least he was a *warm* goof.
+saw that Rash and Sensy had done the same---as Sensy said, he might act like a
+camel sometimes, but at least he was a *warm* camel.
 
 Only Grappa Gas seemed unaffected.  "Saints and their inventions, but I love
 this," he sighed.  He'd brought a cushion to rest his wooden leg on so that it
@@ -1230,9 +1228,9 @@ toward the square.
 
 A handful of other villagers joined them on their way, Grappa Gas and Granna Fee
 among them, but no one spoke---the soft sound of windchimes echoing through the
-evening said everything that need to be said.  Even the goofs in their pens were
-quiet, and the village's cats and raccoons too.  *Probably scared of the tiger,*
-Noxy thought.  She certainly was.
+evening said everything that need to be said.  Even the woolly mountain camels
+in their pens were quiet, and the village's cats and raccoons too.  *Probably
+scared of the tiger,* Noxy thought.  She certainly was.
 
 When they reached the square, they found the soldiers well enough to stand
 waiting, patient and quiet in the way of people who have met sorrow before and
@@ -1621,7 +1619,7 @@ foot.  The idiot must be trying to hike down on his own."
 "It's safe enough if you're sensible enough to stay on the paths," Indy said,
 her tone making it clear exactly how sensible she thought the *tralpa* was.
 
-"But it's three days on foot, and I'd be surprised if that pudgy goof has ever
+"But it's three days on foot, and I'd be surprised if that pudgy camel has ever
 gone more than a hundred strides off a paved road in his life," Grappa Gas
 growled.  "If he trips and breaks his leg, we'll have the Pilots' own job
 explaining what happened to him."
@@ -2130,7 +2128,7 @@ between the houses to find their way.  And in the summer, when nimbus clouds
 that had stayed in the north to give birth flew south to rejoin their herds, the
 sky could darken in the time it took to sing a nursery rhyme.  When that
 happened, the villagers knew it was time to tie their shutters closed and get
-the goofs into their pens, because the rain was going to come down in sheets
+the camels into their pens, because the rain was going to come down in sheets
 instead of drops.
 
 "I am from Thind," Kulbinder growled when Indy told him why she wanted the
@@ -2183,7 +2181,7 @@ said abruptly.
 
 Noxy jumped slightly.  "Oh.  You mean Thokmay?  Um, thank you.  I'm glad he's
 all right.  It's pretty dangerous, getting frozen like that.  It happened to one
-of the goofs a couple of years ago.  She got out of their pen and tried to get
+of the camels a couple of years ago.  She got out of their pen and tried to get
 across the---um.  It doesn't matter.  I'm glad he's all right."  She could feel
 her cheeks burning under the tiger's cool stare.
 
@@ -2262,7 +2260,7 @@ had passed, and the few stragglers trying to catch up were already east of
 Stale, heading toward the plains.  She watched them for a moment, then closed
 her eyes.
 
-"Goof," she muttered a moment later.  Of *course* she hadn't been able to
+"Camel," she muttered a moment later.  Of *course* she hadn't been able to
 mind-hear anything.  What had happened earlier with Big Blue had been a
 coincidence.  She shouldn't---
 
@@ -2390,7 +2388,7 @@ snowflakes.
 Dressed and fed, with their faces clean and their hair tied back in matching
 braided clubs, they walked through the village together, squinting slightly
 against the sharp-edged morning sun.  Their neighbors sat in twos and threes on
-stools outside their houses wearing goofskin jackets or thick sweaters over
+stools outside their houses wearing camelskin jackets or thick sweaters over
 sturdy trousers and sturdier boots.  The men knit or peeled potatoes while the
 women picked spiderwebs apart apart and wound the strands onto spools.
 
@@ -2543,7 +2541,7 @@ below.  "Are those the clouds we were on?"
 Noxy glanced through the neighboring slit.  "Yup.  The bull is Big Blue, and the
 cow is Pillow.  We've had them forever---they're practically family."
 
-Thokmay stepped back and wrinkled his nose.  "They smell like wet goofs."
+Thokmay stepped back and wrinkled his nose.  "They smell like wet camels."
 
 "That's because they haven't rained for a while," Noxy explained defensively.
 "Someone should probably take them out and let them do that."  As she spoke, an
@@ -2567,7 +2565,7 @@ Private Thokmay glanced at her.  "We were, honored---putting out the fire."
 been very wet."
 
 "I imagine," Noxy echoed, defeated.  Her mother and Granna Fee always seemed to
-be able to ask questions that got people to stick their feet in goof droppings
+be able to ask questions that got people to stick their feet in camel droppings
 without realizing they were doing it, but she clearly hadn't mastered it.
 
 She led the young soldier through the fortress gate and down the trail to the
@@ -2582,9 +2580,9 @@ them.  But these two will come when you whistle.  Sometimes," she added,
 thinking about how much time she had spent practicing the piercing sound that
 Aft used, and how little attention the two clouds paid her when she made it.
 
-Private Thokmay wrinkled his nose.  "I still think they smell like wet goofs."
+Private Thokmay wrinkled his nose.  "I still think they smell like wet camels."
 
-Noxy bit back a sharp retort.  They didn't smell anything *like* goofs, not
+Noxy bit back a sharp retort.  They didn't smell anything *like* camels, not
 really, and if he---
 
 *Twinge.* "Ouch," she muttered involuntarily, putting her hand on the back of
@@ -2629,13 +2627,13 @@ Big Blue started to rise toward the spiderweb net above them.  The breeze
 stiffened slightly as the got higher, making Noxy wish that she had thought to
 pick up gloves and a scarf.  She took a deep breath.  Being up in the sky on a
 cloud was like riding on a grownup's shoulders when you were little, only a
-thousand times better.  You could see everything---mountain goofs standing on
-rocky ledges no wider than the heel of your boot, broad-winged condors making
-slow circles as they waited for a rabbit to forget to look up, the glint and
-sparkle of sunlight on fast-running streams beneath the pines and cedars and
-stately firs that blanketed the mountains' slopes...  On a day like this, when
-the sky was blue, it felt like the whole world was a story that was about to be
-told for the very first time.
+thousand times better.  You could see everything---woolly mountain camels
+standing on rocky ledges no wider than the heel of your boot, broad-winged
+condors making slow circles as they waited for a rabbit to forget to look up,
+the glint and sparkle of sunlight on fast-running streams beneath the pines and
+cedars and stately firs that blanketed the mountains' slopes...  On a day like
+this, when the sky was blue, it felt like the whole world was a story that was
+about to be told for the very first time.
 
 "We'll be able to see more down by the gate," Noxy said, urging the cloud
 forward as she spoke.  Nobody knew how clouds saw without eyes, but through
@@ -2755,14 +2753,13 @@ riders had just turned the last corner in the valley below them and would be at
 the ravine in minutes.  She could practically see it, except that was impossible
 because she wasn't touching him and you had to be touching a cloud to mind-speak
 with it and anyway there wasn't another cloud there to look at it, there was
-only the forest and its thousands upon thousands of eyes, deer and a few wild
-goofs whose ancestors had strayed away from their pens and somehow managed to
-avoid being eaten and scaws and striped jays and a hundred other kinds of birds,
-a bear up to her knees in a stream looking for a turtle or a mountain squid
-still sleepy from its winter hibernation, all of them now looking not at the
-cloud but at *her* because somehow just as she could see them, they could see
-her, and it was too much---it couldn't all fit, her head really was going to
-burst this time.
+only the forest and its thousands upon thousands of eyes, deer and a pair of
+camels who had somehow escaped from their pens and managed to avoid being eaten
+and scaws and striped jays and a hundred other kinds of birds, a bear up to her
+knees in a stream looking for a turtle or a mountain squid still sleepy from its
+winter hibernation, all of them now looking not at the cloud but at *her*
+because somehow just as she could see them, they could see her, and it was too
+much---it couldn't all fit, her head really was going to burst this time.
 
 "Noxy.  Noxy!"  Grappa Gas shook her.  "What's wrong?"
 
@@ -2932,16 +2929,16 @@ that meant trouble---especially if the person he was goading was Aft.
 Two quick steps and she was up on the bench beneath the window, standing on
 tiptoe to peek through it.  The bench shifted slightly as Private Thokmay joined
 her.  Outside, After and her father Cough stood a stride apart, Aft glowering
-with a strapped bundle of goofskins in each hand and Cough with his hands in his
-pockets and a sunny smile on his face.
+with a strapped bundle of camelskins in each hand and Cough with his hands in
+his pockets and a sunny smile on his face.
 
-"Stop it, you two," Granna Fee snapped, a smaller bundle of goofskins in her
+"Stop it, you two," Granna Fee snapped, a smaller bundle of camelskins in her
 arms.  "The last thing Indy needs right now is you two fighting."
 
 "Yeah, stop it, Aft," Cough said mockingly.  "You don't want to get Indy in
 trouble, do you?"
 
-Aft dropped his goofskins on the cobblestones with a thud.  "Don't you dare!"
+Aft dropped his camelskins on the cobblestones with a thud.  "Don't you dare!"
 Granna Fee warned him as he clenched his fists.  "As for you," she said coldly,
 rounding on Cough, "I think it would be best if you went down and made sure your
 cloud is settling in all right, don't you?"
@@ -2955,7 +2952,7 @@ father, or might let it go, and then there was another thud as his fist
 connected with Cough's chin and sent him sprawling.  "Dare *that*!"
 
 Granna Fee threw herself between the two men.  "Stop it! Stop it!" she ordered,
-shoving her bundle of goofskins at Aft's chest.  Behind her, Cough scrambled to
+shoving her bundle of camelskins at Aft's chest.  Behind her, Cough scrambled to
 his feet and reached for his belt.
 
 Private Thokmay yanked the window open.  "Ware behind!" he yelled.
@@ -2965,7 +2962,7 @@ his knife.  "Well," he said lightly, rubbing his jaw, "Maybe I will go down and
 look after Tumbles after all.  Good to see you, Fee."  He turned put his hands
 back in his pockets, and walked away whistling a little tune.
 
-Aft handed Granna Fee back her bundle of goofskins.  "Sorry about that," he
+Aft handed Granna Fee back her bundle of camelskins.  "Sorry about that," he
 muttered.
 
 The old lady picked hers up off the cobblestones with a grunt.  "Don't be."  She
@@ -3372,13 +3369,13 @@ village.  What had she been thinking?
 
 "Did you and *adda* do it?" Noxy asked, avoiding her mother's question.
 
-Indy scraped the last scraps of dinner into the goofs' bucket off a plate and
-set it on the stack beside their little pottery sink before answering.  "A few
-times.  Then Aft had a fall chasing your *adda* and Gas put his foot down and
-anyway, that's not the point.  Here."  She poured the last of the hot water from
-the kettle into the sink and held out a knotted rag.  "No, don't tell me it's
-not your turn---just be grateful you're not grounded for a week.  I'll see you
-in the morning."
+Indy scraped the last scraps of dinner off a plate into the camels' scrap bucket
+and set the plate on the stack beside their little pottery sink before
+answering.  "A few times.  Then Aft had a fall chasing your *adda* and Gas put
+his foot down and anyway, that's not the point.  Here."  She poured the last of
+the hot water from the kettle into the sink and held out a knotted rag.  "No,
+don't tell me it's not your turn---just be grateful you're not grounded for a
+week.  I'll see you in the morning."
 
 Noxy set the rag on the edge of the sink and started rolling up her sleeves.
 "*Amma*?"
@@ -3564,7 +3561,7 @@ apologies, captain, but I must ask you to surrender your sword."
 
 Captain Birgith looked him up and down.  "Like hell."
 
-For just one moment the world was so still that Noxy could hear the goofs
+For just one moment the world was so still that Noxy could hear the camels
 grumbling at each other in their pens and a baby crying two streets over, and
 then everything happened very fast.  Sergeant Dorbu and Captain Birgith drew
 their blades simultaneously.  The sergeant shoved Indy out of the way and
@@ -3774,10 +3771,10 @@ answer, leaving her hurrying to catch up once again.
 But Granna Fee hadn't seen Grappa Gas that morning.  She and Aft sat side by
 side as Indy quickly told them what had happened in the square.
 
-"A spy?" Aft said disbelievingly.  "That tubby goof?"  As if in answer, one of
+"A spy?" Aft said disbelievingly.  "That tubby camel?"  As if in answer, one of
 the herd penned up behind Granna Fee's house bleated.
 
-Indy rubbed her throat.  "That 'tubby goof' put Scholar Lhawang down without
+Indy rubbed her throat.  "That 'tubby camel' put Scholar Lhawang down without
 breaking a sweat.  And he choked me without so much as a word."
 
 "But why is he *here*?" Granna Fee asked.  "Why spy on *us*?"
@@ -3819,7 +3816,7 @@ too?" she asked.
 Grappa Gas shrugged and scratched absent-mindedly at the spot where his real leg
 and his peg leg met.  "Well if he is, I wish I'd known it then," he said
 regretfully.  "I asked him to show me the bezels, and when he said I'd get paid
-in the capital, I told him to go play with the other goofs.  And no, it's not
+in the capital, I told him to go play with the other camels.  And no, it's not
 the smartest thing I've ever done," he added, raising a hand to forestall
 whatever Indy and Granna Fee had both opened their mouths to say.
 
@@ -3890,7 +3887,7 @@ Grappa Gas.  "Be careful."
 "Sure."  Her protests at being left behind had been dismissed quickly and
 sharply, much to her secret relief.
 
-She sat in silence with her father and grandmother and listened to the goofs
+She sat in silence with her father and grandmother and listened to the camels
 bleating in their pen, confused and annoyed that no one had come to scratch
 their woolly ears or give them their morning carrots.  Chickens clucked in their
 rooftops coops, and a shutter banged in the breeze a handful of times before
@@ -3966,20 +3963,20 @@ Fee's house and the one next door smelled of damp and cold---and chicken
 droppings.  "Eww," she said disgustedly, glancing up at the coop that overhung
 the shadowed passage.  As if in answer, something made a tiny *plop* beside her.
 
-She tiptoed toward the rear of the house.  A dozen woolly goofs baa'ed excitedly
-at the sight of her, but she ignored them as she studied the old fortress wall.
-There and there---two rebel soldiers, neither with a bow that she could see, but
-both wide awake and paying attention.
+She tiptoed toward the rear of the house.  A dozen woolly camels bleated
+excitedly at the sight of her, but she ignored them as she studied the old
+fortress wall.  There and there---two rebel soldiers, neither with a bow that
+she could see, but both wide awake and paying attention.
 
 She closed her eyes and took a deep breath.  As far as her mother and the other
-olders knew, her plan was to crawl under the goofs to get to the base of the
+olders knew, her plan was to crawl under the camels to get to the base of the
 wall, then work her way along it to the tunnel where she thought Kulbinder and
 Private Thokmay were hiding.  She hadn't explained the rest of it---she wasn't
 even sure how she would begin.  Now she just hoped it would work.
 
 *Hello?* she mind-spoke.  *Can you hear me?*
 
-Silence answered.  She pushed the sound of the goofs' bleating out of her mind
+Silence answered.  She pushed the sound of the camels' bleating out of her mind
 and concentrated.  *Hello?*
 
 Nothing, nothing... There.  It wasn't an answer because there were no words, but
@@ -3991,7 +3988,7 @@ She cleared her throat.  *Can you help me?* she mind-asked.  *I kind of need a
 favor.*
 
 A hundred heartbeats went by, then another.  A silver-tipped scaw flitted
-overhead.  A striped jay landed on the fence around the goof pen, cocked its
+overhead.  A striped jay landed on the fence around the camels' pen, cocked its
 head to the side, and flew off again.  Two more scaws zipped by, swerving to
 avoid a crow.  Birds and more birds swirled around like leaves caught in a tiny
 whirlwind.
@@ -4002,9 +3999,9 @@ The birds should recognize that, shouldn't they?
 
 They did, or the forest did on their behalf.  With a sound like a dozen blankets
 being shaken out, the motley flock flew away.  One of the soldiers swore a
-startled oath.  Noxy took a deep breath and sprinted around the goof pen to the
-base of the wall.  She had never felt more exposed in her life, not even when
-Grappa Gas had taken her up as high as the peak behind Stale and the whole
+startled oath.  Noxy took a deep breath and sprinted around the camels' pen to
+the base of the wall.  She had never felt more exposed in her life, not even
+when Grappa Gas had taken her up as high as the peak behind Stale and the whole
 valley had been spread out below her.
 
 Her heart sank when she reached the tunnel mouth.  The heavy wooden grill that

@@ -5,6 +5,11 @@ domain: "http://sensibleadventures.com"
 repo: "https://github.com/gvwilson/sensibleadventures"
 repository: <USERNAME>/<PROJECT>
 exclude:
-  - Makefile
   - misc
-  
+  - princess-bear
+  - shudarga
+  - "*.csv"
+  - "*.docx"
+  - "*.odt"
+  - "*.pdf"
+  - "*.txt"

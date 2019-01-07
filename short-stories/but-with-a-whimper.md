@@ -22,7 +22,7 @@ when the potatoes took overlong to cook. He had debated retiring to
 something much larger, with servants, a shooting range, and a proper
 library, but in the end had decided, regretfully, that it would be too
 much at odds with the ascetic image he had coached the good doctor to
-creaete. And as he had pointed out to the genial old bumbler at their
+create. And as he had pointed out to the genial old bumbler at their
 last dinner in London, the bric-a-brac with which he would fill a larger
 establishment would just provide more cause for squabbling to the
 treasure hunters who would undoubtedly descend upon it after his expiry.

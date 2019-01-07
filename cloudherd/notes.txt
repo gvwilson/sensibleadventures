@@ -1,37 +1,138 @@
-# The Cloudherd and the Tiger's Boy
+# The Prince and the Cloudherd
 
 ## Places
 
+- Stale (Stale Leftovers)
+  - Primary setting for story
+  - A village of about a thousand people nestled in the ruins of a Pilot palace
+- Duck Droppings, Rancid, and Camel Barf: other cloudherd villages
+- Gandan
+  - The kingdom in which Stale notionally lies
+  - Capital is Gandan-in-Gandan (a long way away)
+- Chaghan
+  - Neighboring kingdom
+  - Was fighting skirmishes with Gandan, now helping against the rebels because money calls to money
 - Brumoso Mountains
   - Lie on the bowwards border of Gandan
   - Separate the Ninety Kingdoms from Ruuda
   - Largely covered by the Herd of Trees
-- Gandan
-  - The kingdom in which Stale notionally lies
-  - Capital is Gandan-in-Gandan (a long way away)
 
 ## Characters
 
-- Noxy (Probably Noxious)
+- Noxy (Probably Noxious): protagonist
+  - Smart but headstrong: always thinks she knows what's best for people
+  - Rationalizes her mistakes and browbeats her friends into going along with her
+  - Idolizes her absent father (mostly as rebellion against her too-perfect mother)
+  - Character development
+    - Realizes that she can be wrong sometimes and that mistakes have consequences
+    - Realizes that her mother is no more perfect than she is, and that they love each other
 - Rash
+  - Noxy's friend, the only boy of appropriate age in the village
+  - Cocky (insecure) but not as smart as either Noxy or Sensy
+  - Character development
+    - Outgrows his somewhat ludicrous cockiness because he actually loves Sensy
+    - "She's not just...here.  She's...wonderful."
 - Sensy
-- Indy (Literally Indigestible)
-- Granna Fee
-- Grappa Gas
-- Aft (Disgusting Aftertaste)
+  - Noxy's friend, the only girl of her own age in the village
+  - Smart, but has always measured herself against Noxy and come up short in her own mind
+  - Character development
+    - Stands up for herself
+    - "He didn't ask me to go to the fancy.  *I* asked *him*."
+- Indy (Literally Indigestible): Noxy's mother
+  - Smart, tough, a natural leader, somewhat manipulative (confides that to Noxy as if it's a game)
+  - Leery of getting close to people after her marriage to Cough fell apart
+    - He was the one person she couldn't wrap around her finger (Granna Fee's comment)
+  - Starts to fall for Sergeant Dorbu
+- Granna Fee: Indy's mother / Noxy's grandmother
+  - The wise woman of the story whose stories reveal background
+  - The village schoolteacher
+  - Her husband (Indy's father) was the *tralpa*, and a lowlander
+    - Died when he gave up too much of himself to defeat a plague
+    - Granna Fee comments on how Noxy has her grandfather's eyes
+  - She is seeing Grappa Gas, but doesn't take it too seriously
+    - Not as unabashedly manipulative as Indy, but there is a certain family trait
+- Grappa Gas: Aft's father / Granna Fee's suitor
+  - Brave, full of tall tales, one-legged, a bit of comic relief but fierce when angered
+    - Sensy's grand-uncle
+  - His wife died in the plague that took Indy's grandfather, so he raised Aft on his own
+- Aft (Disgusting Aftertaste): Grappa Gas's son / Rind's husband
+  - Big and strong, fiercely protective of his wife Rind and the baby that's on its way
+  - Argues with his father about everything
+  - They were buds on a branch until Aft became a teenager
+  - Has never forgiven his father for saying that Indy was out of his reach
 - Rind
   - Aft's very pregnant wife
+  - Originally from Duck Droppings
+  - Loves her husband but finds him frustrating
+  - Has never really made friends in the two years she's been in Stale, and would like to return to Droppings
+    - Another thing for Aft and Gas to argue about
+- Nangyal: Stale's *tralpa*
+  - An incompetent magician, made fun of by the villagers
+  - Turns out to be a Chaghan spy, and a powerful magician
+- Sergeant Dorbu
+  - Handsome, unassuming, a natural leader
+  - Secretly a rebel
+  - Starts to fall for Indy
+- Thokmay
+  - A prince (member of the extended royal family, possible contender for the throne)
+  - Has learned to hide his true feelings because of royal intrigue
+  - Claims he doesn't want the throne, but in the end, trades his real (hidden) desire for it for help from the lightnings
+  - His time among the soldiers have made him aware of his privilege
+    - He haltingly explains his realizations to Noxy, who resents the analogies he makes with her privilege
+- Kulbinder
+  - A Gifted tiger, Thokmay's bodyguard
+  - Enraged by Dorbu's betrayal
+- Cough: Noxy's father
+  - A disgraced former cloudherd (shunned and exiled by the cloudherd villages for his part in a failed robbery)
+  - Signed on as a guide to the soldiers
+  - Switches sides when he discovers that Dorbu is a rebel
+- Miscellaneous other villagers and soldiers
+  - Most of Stale's adults are away rounding up the clouds during the story
+
+## History
+
+- The plague (scribbles) killed a few people in the village but many more in the lowlands
+- In its wake, labor was scarce and people became restive about ancient laws being used to constrain them
+- Shudarga organized, was persecuted and imprisoned, smuggled letters out, escaped and led rebellion
+- Succeeded at first because the royals hadn't prepared
+  - "People are already calling it the Summer of Justice, but I prefer the Summer of Hope"
+- Then other kingdoms joined the fight, afraid that rebellion would spread
+
+## Tension, Thrills, and Character Development
+
+WHO IS THE VILLAIN?
+- Nangyal and Cough
+- Dorbu is on the villains' side but is not a villain
+
+- Rescuing the soldiers from the Herd of Trees
+- Love triangle (of sorts) between Noxy, Sensy, and Rash
+  - Noxy has just assumed that Rash would be hers for the taking
+  - Bewildered and hurt when Rash and Sensy get together
+- FIXME: Dorbu's betrayal of Thokmay
+  - They got "separated" from the regiment and "fled"
 
 ## Chronology
 
 - Redsday, 13 Peridot
-  - FIXME
+  - Kulbinder "rescues" Noxy and Sensy from the trolls
+  - Rescue
+  - First confrontation with Nangyal
+  - Indy's argument with Aft
+  - Foreshadow arrival of Noxy's father
 - Yellowsday, 14 Peridot
-  - FIXME
+  - Rash asks Sensy to the spring fancy
+    - Noxy is bewildered: she'd just assumed that he would go with *her*
+  - Noxy goes rooftopping to talk to Sensy and discovers the two of them together in Sensy's bedroom
+    - Confrontation and tears
 - Orangeday, 15 Peridot
   - FIXME
 - Greensday, 16 Peridot
-  - FIXME
+  - The spring fancy
+    - Noxy doesn't want to go, but her mother says she has to
+      - See a bit of the steel in Indy: "Are you going to run away and hide every time you don't win?"
+    - Noxy asks Thokmay at the last moment so that she'll have something to act superior about
+    - Is flustered by how good Thokmay is at dancing and singing
+    - Is embarrassed when Thokmay apologizes for her rudeness
 - Bluesday, 17 Peridot
   - FIXME
 - Purplesday, 18 Peridot

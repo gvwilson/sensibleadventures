@@ -81,19 +81,12 @@ for seven **[features](#g:feature)**:
 -   **Intellect** (IQ): how good she is at book learning and abstract reasoning.
     A character with a low Intellect isn't stupid---she just isn't good at logic puzzles.
 
--   **Sight** (SGT), **Hearing** (HER), and **Smell** (SML):
-    These measure exactly what their names say.
-    (Note that smell includes the sense of taste.)
-
-If an extra is important to the plot---for example,
-if they are a player character's sidekick---the Director may give them ratings for two more features:
-
--   **Courage** (CRG): how brave the character is.
-
--   **Honesty** (HON): how likely the character is to tell the truth.
-
-Player characters don't have ratings for these features
-because being brave and telling the truth (or not) are part of the game.
+-   **Awareness** (AWR):
+    How well the character notices their surroundings.
+    (As any parent can tell you, paying attention is very different from just seeing or hearing...)
+    If the character has exceptionally good or bad eyesight, hearing, or a sense of smell,
+    they may have a separating rating for that,
+    just as they do for height and weight.
 
 So what is a rating?
 It's simply a number:
@@ -112,14 +105,11 @@ and a negative one is sometimes called a **[penalty](#g:penalty)**.
 > - Fitness: +1
 > - Dexterity: -2
 > - Intellect: 0
-> - Sight: -2
-> - Hearing: 0
-> - Smell: 0
+> - Awareness: -1
 
 Every character also has a feature called **Strength** (abbreviated STR)
 which is the sum of their Size and Fitness ratings.
-Basically,
-big characters tend to be stronger than small ones,
+Big characters tend to be stronger than small ones,
 but characters who aren't fit aren't as strong as characters who are.
 
 > **Example:**
@@ -153,7 +143,7 @@ they have succeeded.
 > her total is only 8,
 > so she has failed.
 
-People often write "3d+X" or "3d-X" to mean
+We often write "3d+X" or "3d-X" to mean
 "three dice plus or minus X",
 so the roll above would be written "3d-3".
 
@@ -168,7 +158,8 @@ so the roll above would be written "3d-3".
 > After adding 4 for her Strength, her total is 15,
 > and the delicate clockwork is now so much scrap metal.
 
-If character's rating plus the challenge's difficulty is greater than 2
+If the total adjustment for a challenge
+(i.e., the character's rating plus the challenge's difficulty) is positive,
 and the outcome isn't critical to the game,
 the Director can decide that the characer gets an **[automatic success](#g:automatic-success)**.
 For example,
@@ -179,15 +170,14 @@ for a total bonus of +3,
 so the Director decides the player can skip the dice roll.
 This rule helps keep the game moving.
 
-## Flukes
+## Flukes and Fumbles
 
 Sometimes it may seem like a character has no chance at all of doing something,
 but since *Shapers and Bots* is a story-telling game,
 there is always hope.
-If a player rolls 18 on three dice---that is, if they get three 6's---their character automatically succeeds.
-If they roll 17---that is, two 6's and a 5---something good happens,
-but probably not what they expected.
-These are called **[fluke rolls](#g:fluke)**.
+If a player rolls a total of 17 or 18---that is, two 6's and a 5 or three 6's---their character automatically succeeds,
+but probably not in the way they expected.
+This is called a **[fluke roll](#g:fluke)**.
 
 > **Example:**
 > Zitter had never even *seen* a laser pistol before today,
@@ -207,11 +197,10 @@ These are called **[fluke rolls](#g:fluke)**.
 
 Fluke rolls work in reverse as well,
 because it's always possible for something to go wrong.
-If a player rolls a total of 4 (which is two 1's and a 2),
-they automatically fail at whatever they were trying to do.
-If they roll a total of 3 (which is three 1's),
-then not only have they failed,
-but something really bad has happened.
+If a player rolls a total of 3 or 4---i.e., three 1's or two 1's and a 2---they
+automatically fail at whatever they were trying to do,
+preferably in some hilarious or embarrassing way.
+This is called a **[fumble](#g:fumble)**.
 
 > **Example:**
 > Another day, another angry crocodile pirate...
@@ -254,9 +243,9 @@ Eating intelligent animals is considered cannibalism.
 
 ### Bear
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| +3  | 0   | -2  | 0   | -2  | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| +3  | 0   | -2  | 0   | -2  |
 
 Bears are deeply spiritual animals,
 apt to halt in the middle of combat and ask,
@@ -270,9 +259,9 @@ you could afford to be philosophical too.
 
 ### Bison
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| +3  | 0   | -4  | 0   | -2  | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| +3  | 0   | -4  | 0   | -2  |
 
 Bison are rarely found on their own---in fact,
 most suffer from acute isolophobia (a fear of being alone).
@@ -284,9 +273,9 @@ which can include their workmates, neighbors, and fellow adventurers.
 
 ### Crocodile
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| 0   | 0   | -2  | -1  | -2  | -2  | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| 0   | 0   | -2  | -1  | -1  |
 
 Crocodiles are slow moving,
 except when they're not,
@@ -298,9 +287,9 @@ and incredibly patient---particularly when it comes to their favorite sport: rev
 
 ### Crow
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -4  | +2  | -2  | +2  | 0   | 0   | -2  |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -4  | +2  | -2  | +2  | +1  |
 
 Crows are the fast-talking deal-makers of the animal world.
 Their feathered appendages make them somewhat clumsy,
@@ -309,9 +298,9 @@ Crows cannot fly by default, but are able to learn.
 
 ### Eagle
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -2  | +4  | -2  | 0   | +4  | +2  | -2  |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -2  | +4  | -2  | 0   | +3  |
 
 "As proud as an eagle" is a common saying, and is usually not meant as a compliment.
 Natural aristocrats,
@@ -323,9 +312,9 @@ Eagles cannot fly by default, but are able to learn.
 
 ### Elephant
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| +4  | 0   | 0   | +2  | 0   | +2  | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| +4  | 0   | 0   | +2  | -1  |
 
 Elephants naturally form a matriarchal society:
 females are in charge of government and business,
@@ -337,9 +326,9 @@ they are natural story-tellers and have exceptional memories.
 
 ### Fox
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -2  | 0   | +2  | +2  | 0   | 0   | +2  |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -2  | 0   | +2  | +2  | 0   |
 
 As cunning as crows,
 foxes are nimble-fingered, quick-witted, and always looking for their next deal.
@@ -348,18 +337,18 @@ foxes are nimble-fingered, quick-witted, and always looking for their next deal.
 
 ### Goat
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| 0   | 0   | 0   | 0   | 0   |
 
 Goats are completely average in every way except for their horns.
 (Telling them this is a good way to upset them.)
 
 ### Kangaroo
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| 0   | +2  | 0   | -1  | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | -1  | 0   |
 
 Kangaroos are the happy-go-lucky clowns of the animal world.
 Townies often dye their tails in bright colors;
@@ -367,9 +356,9 @@ those who live in the wild will camouflage theirs instead.
 
 ### Lion
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| 0   | +2  | 0   | 0   | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | 0   | 0   |
 
 Like elephants,
 lions form matriarchal societies,
@@ -380,9 +369,9 @@ to attract female attention.
 
 ### Monkey
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -2  | 0   | +4  | +2  | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -2  | 0   | +4  | +2  | 0   |
 
 Smart, curious, and mechanically minded,
 monkeys are constantly tinkering with gadgets (or breaking them).
@@ -392,17 +381,17 @@ They are often less respectful of robots' personal space than they should be.
 
 ### Parrot
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -4  | +4  | -2  | 0   | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -4  | +4  | -2  | 0   | 0   |
 
 The only birds still capable of actually flying.
 
 ### Rabbit
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -3  | 0   | 0   | 0   | -2  | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -3  | 0   | 0   | 0   | +1  |
 
 It's easy to make fun of rabbits' small size and near-sightedness,
 but nobody who has ever seen a fluffle of rabbits go bersek in battle is likely to do so.
@@ -415,9 +404,9 @@ but does not defend itself.
 
 ### Raccoon
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -3  | 0   | +4  | +2  | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -3  | 0   | +4  | +2  | 0   |
 
 Raccoons are the only competition monkeys have for the title
 "most likely to get themselves into trouble".
@@ -427,9 +416,9 @@ a butterfly!
 
 ### Rhino
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| +3  | +2  | -4  | 0   | -2  | 0   | +2  |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| +3  | +2  | -4  | 0   | -2  |
 
 They are not the largest animals,
 but they are certainly the grumpiest.
@@ -438,12 +427,13 @@ they prefer to stay with their herd,
 and are fiercely protective of its weaker members.
 
 -   They can charge their enemies (treat their horn like a small weapon).
+-   Their sense of smell is +1, not -2.
 
 ### Sloth
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| 0   | 0   | -2  | +4  | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| 0   | 0   | -2  | +4  | 0   |
 
 Slow-moving but quick-witted,
 sloths are sages and healers.
@@ -455,9 +445,9 @@ and return to thinking about deeper things.
 
 ### Tiger
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| 0   | +2  | 0   | 0   | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | 0   | +1  |
 
 As proud as eagles,
 tigers are scornful of creatures that live in herds or packs,
@@ -467,9 +457,9 @@ including lions---*especially* lions.
 
 ### Turtle
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -2  | -2  | +2  | +2  | -4  | -2  | -2  |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -2  | -2  | +2  | +2  | -3  |
 
 Slow-moving and short-sighted,
 turtles are natural shapers.
@@ -480,9 +470,9 @@ turtles are natural shapers.
 
 ### Wolf
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| 0   | +2  | 0   | 0   | 0   | 0   | +2  |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| 0   | +2  | 0   | 0   | +1  |
 
 Fast, strong, and brave,
 wolves usually travel in packs of half a dozen,
@@ -492,9 +482,9 @@ and their alphas are often community leaders.
 
 ### Zebra
 
-| SIZ | FIT | DEX | INT | SGT | HER | SML |
-| --: | --: | --: | --: | --: | --: | --: |
-| -1  | 0   | -2  | 0   | 0   | 0   | 0   |
+| SIZ | FIT | DEX | INT | AWR |
+| --: | --: | --: | --: | --: |
+| -1  | 0   | -2  | 0   | 0   |
 
 Zebras have a remarkable ability to hide themselves,
 which is described below under "Skills".
@@ -507,24 +497,11 @@ she can spend a total of 5 points raising the character's ratings.
 She can do this by adding 2 points to two ratings and 1 point to a third,
 or by adding 3 points to one rating and 1 each to two others,
 and so on,
-so long as she doesn't raise any rating by more than 4 points.
-Players can go further and move up to 3 points from one rating to another.
-For example,
-a player could reduce the Fitness of a goat from 0 to -3,
-then increase the goat's Dexterity to +3.
+so long as she doesn't raise any rating by more than 3 points.
 
-Increasing Sight or Hearing costs twice as much,
-and lowering them is only worth half as much.
-Increasing Smell costs three times as much,
-and lowering it is only worth a third as much.
-For example,
-a player would have to reduce a character's Fitness by 2 points
-to increase their Sight by 1,
-or reduce their Sight by 2 in order to increase their Fitness by 1.
-This rule is included for balance:
-without it,
-player characters all tend to have a very poor sense of Smell
-and be near-sighted.
+Players can get extra points to distribute by *lowering* ratings as well:
+they may lower any rating by 1 or 2 points,
+so long as the total lowered is no more than 3 points.
 
 > **Example:**
 > Garree is a 15-year-old goat.
@@ -532,34 +509,31 @@ and be near-sighted.
 > but her player decides to lower her Size by 1 point
 > and distribute 6 points evenly across Fitness, Dexterity, and Intellect:
 >
-> | SIZ | FIT | DEX | INT | SGT | HER | SML |
-> | --: | --: | --: | --: | --: | --: | --: |
-> | -1  | +1  | +1  | +1  | 0   | 0   | 0   |
+> | SIZ | FIT | DEX | INT | AWR |
+> | --: | --: | --: | --: | --: |
+> | -1  | +2  | +2  | +2  | 0   |
 
 > **Example:**
 > The same player makes different decisions for Garree's brother Gruff.
-> His sense of Smell is reduced 3 points and his Intellect by 2 points,
+> His Awareness is reduced 2 points and his Intellect by 1 point,
 > which gives him 8 points to distribute to other features.
-> The player increases Gruff's Sight by 1 (which costs 2 points)
-> and spends the rest on Size and Fitness:
 >
-> | SIZ | FIT | DEX | INT | SGT | HER | SML |
-> | --: | --: | --: | --: | --: | --: | --: |
-> | +3  | +3  | 0   | -2  | +1  | 0   | -3  |
+> | SIZ | FIT | DEX | INT | AWR |
+> | --: | --: | --: | --: | --: |
+> | +3  | +3  | +2  | -1  | -2  |
 
 ## Choosing Skills
 
 Every character has **[skills](#g:skill)**.
 Some are automatic: for example, almost everyone can try to throw a rock.
 Others are not:
+trust me,
 nobody can play the oboe if they've never seen one before.
-(Trust me on this.)
 
 Just like features,
 skills have ratings.
 Positive ratings mean that characters are better than average.
 negative ratings mean that they find even simple tasks difficult.
-
 Some common skills are listed below,
 along with a character's initial rating:
 
@@ -628,20 +602,20 @@ their Stealth is +3.
 > **Example:**
 > Garree's features are:
 >
-> | SIZ | FIT | DEX | INT | SGT | HER | SML |
-> | --: | --: | --: | --: | --: | --: | --: |
-> | -1  | +1  | +1  | +1  | 0   | 0   | 0   |
+> | SIZ | FIT | DEX | INT | AWR |
+> | --: | --: | --: | --: | --: |
+> | -1  | +2  | +2  | +2  | 0   |
 >
 > so her initial ratings for the commonly-used skills are:
 >
 > | Skill    | Rating |
 > | -------- | -----: |
 > | Brawling | +1     |
-> | Climbing | +2     |
-> | Hiding   | +2     |
-> | Stealth  | +2     |
-> | Swimming | -3     |
-> | Throwing | +1     |
+> | Climbing | +3     |
+> | Hiding   | +3     |
+> | Stealth  | +3     |
+> | Swimming | -2     |
+> | Throwing | +2     |
 
 ### Skill Categories
 
@@ -665,19 +639,23 @@ she can spend INT+10 points improving the character's skills.
 For example,
 if a character has an INT of +3,
 they have 13 points to spend on raising skills.
+If their INT is -2,
+on the other hand,
+they only have 8 points to spend on skills
+(they're a slower learner).
 
+-   Raising a skill from None to -4 costs 1 point.
 -   Each raise costs 1 point, up to an increase by 3 levels.
 -   Every raise after an increase by 3 levels costs 2 points.
--   Raising a skill from None to -5 costs 1 point.
 
 > **Example:**
 > Garree's features are:
 >
-> | SIZ | FIT | DEX | INT | SGT | HER | SML |
-> | --: | --: | --: | --: | --: | --: | --: |
-> | -1  | +1  | +1  | +1  | 0   | 0   | 0   |
+> | SIZ | FIT | DEX | INT | AWR |
+> | --: | --: | --: | --: | --: |
+> | -1  | +2  | +2  | +2  | 0   |
 >
-> so she has 11 points to spend on her initial skills.
+> so she has 12 points to spend on her initial skills.
 > Her adjusted ratings for the common skills,
 > and her ratings for other skills her player has chosen,
 > are:
@@ -685,7 +663,7 @@ they have 13 points to spend on raising skills.
 > | Skill       | Initial | Adjusted | Points Spent |
 > | ----------- | ------: | -------: | -----------: |
 > | Brawling    | +1      | +3       | 2            |
-> | Climbing    | +2      |          |              |
+> | Climbing    | +2      | +3       | 1            |
 > | Hiding      | +2      | +3       | 1            |
 > | Stealth     | +2      | +4       | 2            |
 > | Swimming    | -3      |          |              |
@@ -1085,6 +1063,19 @@ or gambling to try to win a recharge.
 | Smell     | None    | \|              |           |
 | HP        | 6       | \|              |           |
 
+## Non-Player Characters
+
+If an extra is important to the plot---for example,
+if they are a player character's sidekick---the Director
+may give non-player ratings for two more features:
+
+-   **Courage** (CRG): how brave the character is.
+
+-   **Honesty** (HON): how likely the character is to tell the truth.
+
+Player characters don't have ratings for these features
+because being brave and telling the truth (or not) are part of the game.
+
 ## Glossary
 
 **Automatic success**{:#g:automatic-success}:
@@ -1119,7 +1110,10 @@ a character played by the Director.
 an intrinsic characteristic such as fitness or dexterity.
 
 **Fluke**{:#g:fluke}:
-a roll of 17 or 18 (automatic success) or 3 or 4 (automatic failure).
+a roll of 17 or 18 (automatic success).
+
+**Fumble**{:#g:fumble}:
+a roll of 3 or 4 (automatic failure).
 
 **Health point**{:#g:health-point}:
 how much damage a character can take.

@@ -82,8 +82,9 @@ for seven **[features](#g:feature)**:
     A character with a low Intellect isn't stupid---she just isn't good at logic puzzles.
 
 -   **Awareness** (AWR):
-    How well the character notices their surroundings.
-    (As any parent can tell you, paying attention is very different from just seeing or hearing...)
+    How well the character notices things in their surroundings,
+    which depends on eyesight, hearing, sense of smell, and actually paying attention
+    (which any parent can tell you is very different from just seeing or hearing).
     If the character has exceptionally good or bad eyesight, hearing, or a sense of smell,
     they may have a separating rating for that,
     just as they do for height and weight.
@@ -98,8 +99,11 @@ and a negative one is sometimes called a **[penalty](#g:penalty)**.
 
 > **Example:**
 > Gertrude is big and healthy,
-> but not good with her hands and somewhat near-sighted
-> (which isn't surprising, considering that she's an elephant).
+> so she has bonuses for Size and Fitness,
+> but not good with her hands,
+> which means a penalty for Dexterity,
+> and like most elephants is somewhat near-sighted,
+> which means a penalty for Awareness.
 > Her ratings are:
 > - Size: +3
 > - Fitness: +1
@@ -143,9 +147,9 @@ they have succeeded.
 > her total is only 8,
 > so she has failed.
 
-We often write "3d+X" or "3d-X" to mean
+We often write "3D+X" or "3D-X" to mean
 "three dice plus or minus X",
-so the roll above would be written "3d-3".
+so the roll above would be written "3D-3".
 
 > **Example:**
 > Panicking slightly,
@@ -153,7 +157,7 @@ so the roll above would be written "3d-3".
 > The Director decides that the difficulty is 0
 >(it's neither particularly tough or fairly fragile),
 > and her Strength is +4,
-> so Gertrude needs to get 11 or more or 3d+4.
+> so Gertrude needs to get 11 or more or 3D+4.
 > She rolls 3 dice and gets a total of 11 once again.
 > After adding 4 for her Strength, her total is 15,
 > and the delicate clockwork is now so much scrap metal.
@@ -245,7 +249,7 @@ Eating intelligent animals is considered cannibalism.
 
 | SIZ | FIT | DEX | INT | AWR |
 | --: | --: | --: | --: | --: |
-| +3  | 0   | -2  | 0   | -2  |
+| +2  | 0   | -2  | 0   | -1  |
 
 Bears are deeply spiritual animals,
 apt to halt in the middle of combat and ask,
@@ -261,7 +265,7 @@ you could afford to be philosophical too.
 
 | SIZ | FIT | DEX | INT | AWR |
 | --: | --: | --: | --: | --: |
-| +3  | 0   | -4  | 0   | -2  |
+| +2  | 0   | -4  | 0   | 0   |
 
 Bison are rarely found on their own---in fact,
 most suffer from acute isolophobia (a fear of being alone).
@@ -275,7 +279,7 @@ which can include their workmates, neighbors, and fellow adventurers.
 
 | SIZ | FIT | DEX | INT | AWR |
 | --: | --: | --: | --: | --: |
-| 0   | 0   | -2  | -1  | -1  |
+| 0   | 0   | -2  | -1  | 0   |
 
 Crocodiles are slow moving,
 except when they're not,
@@ -314,7 +318,7 @@ Eagles cannot fly by default, but are able to learn.
 
 | SIZ | FIT | DEX | INT | AWR |
 | --: | --: | --: | --: | --: |
-| +4  | 0   | 0   | +2  | -1  |
+| +3  | 0   | 0   | +2  | -1  |
 
 Elephants naturally form a matriarchal society:
 females are in charge of government and business,
@@ -645,8 +649,8 @@ they only have 8 points to spend on skills
 (they're a slower learner).
 
 -   Raising a skill from None to -4 costs 1 point.
--   Each raise costs 1 point, up to an increase by 3 levels.
--   Every raise after an increase by 3 levels costs 2 points.
+-   Each raise thereafter costs 1 point, up to an increase to +3.
+-   Every raise after +3 costs 2 points.
 
 > **Example:**
 > Garree's features are:
@@ -665,12 +669,11 @@ they only have 8 points to spend on skills
 > | Brawling    | +1      | +3       | 2            |
 > | Climbing    | +2      | +3       | 1            |
 > | Hiding      | +2      | +3       | 1            |
-> | Stealth     | +2      | +4       | 2            |
+> | Stealth     | +2      | +4       | 3            |
 > | Swimming    | -3      |          |              |
 > | Throwing    | +1      |          |              |
-> | Bow         | -4      | -2       | 2            |
-> | First Aid   | -1      | -1       | 3            |
-> | Stage Magic | None    | -5       | 1            |
+> | Bow         | -4      | -2       | 3            |
+> | First Aid   | -3      | -1       | 2            |
 
 The Director may occasionally allow players to choose Skills that are not in the master list.
 For example,
@@ -792,7 +795,7 @@ A character is killed when:
 > As the tunnel collapses around her,
 > she is hit by a falling rock that does 1 point of damage.
 > She needs to win a roll with a +4 bonus (+5-1) to stay conscious.
-> She rolls 9 on 3d, winning easily,
+> She rolls 9 on 3D, winning easily,
 > but is now down to 4 HP.
 >
 > A second, larger piece of the ceiling now drops on her head and does 2 points of damage.
@@ -816,55 +819,57 @@ A character is killed when:
 > missing the required 11 by 6 points.
 > Pietro is a goner.
 
-## Weapons and Armor
+## Weapons
 
-Weapons injure their targets---that's their whole purpose.
-Weapons are classified as:
+Weapons do damage (that's kind of the point).
+A one-handed sword swung by an angry goat with Strength 0 does the following damage:
 
--   *Punch*, including kicking and other hand-to-hand (or hoof-to-knee) attacks.
--   *Small*, like a knife or a bull's horns.
-    If someone has a score of +3 or higher in Brawling or has a Size of +3 or greater,
-    their punches and kicks count as small weapons.
--   *Medium*, like a one-handed sword or ax.
--   *Large*, like a two-handed sword or a very large spiked club.
+| Roll | Damage |
+| ---: | -----: |
+| 3    |      0 |
+| 4    |      1 |
+| 5    |      1 |
+| 6    |      1 |
+| 7    |      2 |
+| 8    |      2 |
+| 9    |      2 |
+| 10   |      3 |
+| 11   |      3 |
+| 12   |      4 |
+| 13   |      4 |
+| 14   |      4 |
+| 15   |      5 |
+| 16   |      5 |
+| 17   |      5 |
+| 18   |      6 |
 
-How much damage each kind of weapon does depends on whether or not the defender is wearing armor:
+Every other weapon is given a bonus or penalty depending on its size.
+This is added to the *roll*,
+not to the *damage*:
 
-| Weapon | Unarmored          | Armored             |
-| ------ | ------------------ | ------------------- |
-| Punch  | beat 12 for 1 point| beat 15 for 1 point |
-| Small  | 1 point            | beat 12 for 1 point |
-| Medium | 2 points           | 1 point             |
-| Large  | 3 points           | 2 points            |
-
-The phrase "beat 12 for 1 point" means "roll 12 or better on 3 dice to do 1 point of damage",
-while "beat 15 for 1 point" means "roll 15 or better on 3 dice to do 1 point of damage".
-Hurting an unarmored opponent with a punch,
-or an armored one with a small weapon,
-is therefore like winning a fluke roll,
-only easier.
-Note that armor counts against other kinds of damage as well:
-for example,
-the big rocks that fell on Alouenne and Pietro were considered medium and large weapons.
-If either of them had been wearing armor,
-they might have made it...
+| Weapon           | Bonus | Example |
+| ---------------- | ----: | ------- |
+| Punch            |    -5 | Includes kicking and throwing plates |
+| Small Weapon     |    -3 | A knife or slingshot (or punch from someone with martial arts training) |
+| Medium Weapon    |     0 | One-handed sword or ax |
+| Large Weapon     |    +2 | Two-handed sword or ax |
+| Huge Weapon      |    +4 | A big spiked club swung by an angry elephant |
 
 > **Example:**
-> Doi has a hunting bow (which is a small weapon) and a broadsword (which is a medium weapon).
-> She fires an arrow at Creszki and hits.
-> The arrow does an automatic 1 point of damage,
-> and Creszki has to roll to see if he loses consciousness.
->
-> Doi drops her bow and draws her sword as Creszki charges at her.
-> Her first swing connects, doing 2 points of damage.
-> Creszki fails his roll and goes down, but his ally Priti is right behind him.
-> Doi swings again and connects.
-> Since Priti is wearing armor,
-> Doi only does 1 point of damage.
-> Priti makes his roll easily,
-> so he shrugs it off and swings his large two-handed ax.
-> He hits, doing 3 points of damage.
-> Doi fails her roll and is unconscious.
+> Gertrude swings her big spiked club and hits one of the bots attacking her.
+> She rolls 9, adds 4 to get 13, and looks at the table: she had done 4 points of damage.
+> Her companion Li Meng stabs with her knife.
+> She also rolls 9, takes off 3 to get 6, and has done only 1 point of damage.
+
+## Armor
+
+Any armor the defender is wearing acts as a penalty on the damage roll:
+
+| Armor     | Bonus | Description |
+| --------  | ----: | ----------- |
+| Thick Fur | -1    | Bison fur, crocodile skin, turtle shell |
+| Leather   | -2    | Something like shoe leather, often reinforced with studs |
+| Metal     | -4    | Metal plates or chainmail |
 
 ## Healing
 

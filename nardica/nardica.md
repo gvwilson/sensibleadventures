@@ -4796,7 +4796,7 @@ machines work, an' you *knew*."
 
 Wales and Aunt Naggie exchanged looks.  She nodded almost imperceptibly.  Wales
 tapped the tech in his temple, his eyes on something eyes alone could never see.
-"The *Bengal*'s monitoring is still down," he said.  "So I suppose this is as
+"The *Bengal*'s surveillance is still down," he said.  "So I suppose this is as
 good a time as any."
 
 His fingers danced on the control panel for a moment, telling the *Guinevere*'s
@@ -4858,24 +4858,75 @@ Iffy's mouth worked as a dozen questions tried to get out at once.  "So my First
 was some kind of experiment?"
 
 Wales shook his head.  "Not the First you knew when you were little---not by a
-hundred years or more.  She would have been a clone herself.  And anyway, it
-didn't work---not until you came along."
+hundred years or more.  She would have been a clone herself.  She might not have
+known the story herself.  And anyway, it didn't work---not until you came
+along."
 
 "Raniere used t' work in the hospital in Puerto Toro," Aunt Naggie cut in.  "He
-helped make you an' your mothers.  When he heard what happened, he came down an'
-found me an' told me that there'd been a glitch when they were makin' you.  They
-had t' put a bit o' tech in your head when you were still inside your older so
-your brain would grow right."
+helped make you an' your mothers.  When he heard about---about the accident an'
+you bein' the only one rescued, he came down an' found me an' told me that
+there'd been a glitch when they were makin' you.  They had t' put a bit o' tech
+in your head when you were still inside your older so your brain would grow
+right."
 
 "A synaptic bridge."  Wales held his thumb and finger a hair's width apart.
 "Just a smart piece of wire to help your cortex do its job, but somehow it did
 what Professor Johel couldn't.  You can see machines the way cores do.  You can
 see how things fit together."
 
-He leaned forward.  "But you mustn't, *mustn't*, tell Jasmine.  She knows where
-your olders came from.  So far, she thinks everything we've done together is me
-testing you.  If she realizes what you can do---"
+He leaned forward.  "But you *mustn't* tell Jasmine.  She knows where your
+olders came from.  So far, she thinks everything we've done together is me
+testing you.  If she realizes what you can do..."
 
 Iffy nodded.  She had played enough sims to know what happened to people with
 abilities, and she definitely didn't want to spend the rest of her life locked
-up in an underground lab being experimented on by someone named Norman.
+in an underground lab being experimented on by someone named Norman whose only
+friend was a malicious bot with a squeaky wheel.
+
+Lights danced across the tech in Wales' temple.  "The *Bengal*'s surveillance
+is coming back online," he said quietly, pressing a finger to his lips.
+
+Iffy nodded again.  There could be no more discussion.  "Lemme know if there's
+anythin' I can do t' help with repairs," she said.
+
+Aunt Naggie gave her a hug.  "We'll be a'right," she said, her face pressed
+against the stubble on Iffy's scalp.  "We'll be a'right."  Iffy hugged her
+back and fled before her tears could show.
+
+She made her way back to her cabin, not knowing where else to go.  It felt just
+as cold and empty without Honesty as it had.  She kicked off her boots and threw
+herself onto her mattress still wearing her coat.  After staring angrily at the
+ceiling for a few seconds, she picked up her nature book and turned to the page
+she had wondered about most ever since she was old enough to read without a
+prompter murmuring in her ear to help.  It showed a forest, but calling it that
+was like calling the ocean wet.  The trunks of the trees were so thick that the
+*Guinevere*'s pilot house could have fit into them, and their branches reached
+higher than any building Iffy had ever seen.  The caption read, "Cathedral
+Grove," and beside it someone had written, "Why does everything have to end???"
+
+Iffy ran her fingers over the picture, hoping to see a *Corvus caurinus* fly
+through or an *Odocoileus hemionus* peek out from the bushes, but the image
+lay still.  There were no crows or deer for her today.  She wondered if there
+were any anywhere.  The forest was long gone, she knew that, but maybe some
+of the crows had survived.  Maybe they'd been able to fly away when the fires
+came, or when people grew desperate enough to cut down the last of those ancient
+giants.  Crows were supposed to be smart---smarter than gulls, maybe even
+as smart as rats, and rats were practically everywhere.
+
+Hugging the book to her chest with one hand, she ran the fingers of the other
+lightly over her temple.  Lots of people had implants of one kind or another,
+just like practically everybody had at least a couple of gene tweaks if you
+cared enough to look for them, but finding out still felt strange.  And being
+able to see machinery the way cores did---
+
+She set the book aside, put her hands under her head, and closed her eyes.  It
+was a kind of like a super-power, and people with super-powers in sims had
+adventures.  Whatever else might happen, she and Honesty were going to have an
+adventure.  *And Aunt Naggie,* she added, *And Wales.  And maybe even Jeep,*
+because why not?  Maybe they would find out one by one that they each had some
+special gift, and that fate had brought them together to save the world.
+
+She rolled over onto her side.  Moments later, quiet snores filled her cabin.
+
+## Chapter 8
+

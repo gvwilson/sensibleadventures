@@ -4930,3 +4930,50 @@ She rolled over onto her side.  Moments later, quiet snores filled her cabin.
 
 ## Chapter 8
 
+Paddington South was as dirty as Rothera was smelly.  A century after the
+Zillion raids that had finally put an end to the strip-ming, the mulchers that
+had ground cubic kilometers of coal-rich rock into gravel stood at the shore
+like giants, waiting for ships that would never come again.  All that remained
+was the dust---the black, finely-powdered dust that made everything feel
+slightly greasy and made everyone unfortunate enough to live wheeze slightly
+with every breath.
+
+Uncle Jack emerged from his cabin long enough to bring the *Guinevere* alongside
+a pier and tie her up, then disappeared again, muttering a ceaseless
+half-coherent litany of curses and grudges.  He didn't speak to Aunt Naggie or
+Iffy, and they didn't speak to him.  What was there to say?  Iffy packed her
+nature book and her clothes and tools in a single duffel bag and waited on deck
+until Aunt Naggie appeared with a duffel of her own hitched over one shoulder.
+"No point wasting it," she said to Iffy, nodding at the pots and pans and spices
+in the two-wheeled grocery cart she pulled behind her.
+
+Johnson Wales had already loaded his toolboxes onto the back of the little
+three-wheeled truck that was to take them to the train.  Four Marines stood
+beside it, their armor still showing scars from the attack.  Honesty wasn't
+among them---all Wales had been able to find out for Iffy was that she was
+healing well, but still being kept asleep.  Iffy had recorded half a dozen
+messages for her and deleted each one before sending a brief note back to
+Rothera to tell her First and Second that their Third was all right.  She had no
+idea if or when it would reach them, but it was all she could do.
+
+She climbed into the back of the truck and sat next to her foster mother.  Aunt
+Naggie put an arm around her.  "All set?" she asked.
+
+Iffy looked at the wounded ship that was no longer their home.  "Let's go."
+
+Wales thumped the side of the truck.  "Sure thing, boss!" its little core said
+happily.  The truck lurched forward, nearly dumping Iffy off her bench.  With
+two Marine in front and two behind, they headed into two.
+
+Iffy tried to ignore the stares and scowls of the people they passed.  Everyone
+and everything was grimy: the faces, the windows, even the solar panels.  Twice
+her nose caught the familiar hot stench of coal being burned in an illicit
+furnace.  It was wrong, she knew, but each time they rounded a corner and the
+wind scraped its icy fingernails across her face, she wondered if she would have
+the strength to turn down a little warmth.
+
+"Those poor dears," Aunt Naggie said as a pair of children who had been kicking
+a bedraggled ball back and forth picked it up and disappeared into an alley.
+"They don' look like they've had a decent meal in forever."  Wales grunted but
+said nothing.  Iffy snuggled closer to her foster mother and wished that the
+little truck would go faster.

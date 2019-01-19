@@ -3,6 +3,7 @@ layout: narrow
 title: "Nardica"
 author: "Greg Wilson"
 permalink: /nardica/
+target: 75000
 ---
 
 ## Chapter 1
@@ -793,10 +794,10 @@ everything else in sight for good measure.
 ""Fine, cap'n" the first woman span.  "Just 'splainin' t' these blues that there
 ain't nothin' here needs their 'tention."
 
-"With respect, citizen," the sergeant said, his mechanical inducted accent
-making his calm words all the more ominous, "Anything potential danger to the
-residents or property of Halley is a proper subject of our attention.
-Particularly anything that might turn our beloved city into another Bharati."
+"With respect, citizen," the sergeant said, his inducted accent making his calm
+words all the more ominous, "Anything potential danger to the residents or
+property of Halley is a proper subject of our attention.  Particularly anything
+that might turn our beloved city into another Bharati."
 
 The crowd murmured.  Twenty years before, someone's home-brew tech had gone up
 in flames in Bharati.  Dozens had died as fire swept through the small town, and
@@ -4963,7 +4964,8 @@ Iffy looked at the wounded ship that was no longer their home.  "Let's go."
 
 Wales thumped the side of the truck.  "Sure thing, boss!" its little core said
 happily.  The truck lurched forward, nearly dumping Iffy off her bench.  With
-two Marine in front and two behind, they headed into two.
+two Marine in front and two behind, they headed into town.  A second truck fell
+in behind them, its passengers hidden beneath a canvas roof.
 
 Iffy tried to ignore the stares and scowls of the people they passed.  Everyone
 and everything was grimy: the faces, the windows, even the solar panels.  Twice
@@ -4977,3 +4979,64 @@ a bedraggled ball back and forth picked it up and disappeared into an alley.
 "They don' look like they've had a decent meal in forever."  Wales grunted but
 said nothing.  Iffy snuggled closer to her foster mother and wished that the
 little truck would go faster.
+
+They rounded a final corner and entered another world.  Foamed glass, blue and
+white, swooped and curved like waves on the ocean behind them.  Drones no bigger
+than Iffy's hand circled above the building like a flock of birds from her
+nature book, so beautiful that it took her a moment to realize that each one
+carried a single-shot laser capable of drilling a small hole through a
+centerimeter of Navy-grade armor or a meter of concrete.  She couldn't see any
+greenhouses, or robotic sentries like the ones that had guarded the governor's
+mansion in Rothera, but she didn't doubt for a moment that the two-story folly
+in front of her was more than capable of defending itself.
+
+The truck slowed and stopped.  "This must be the place!" it said cheerfully.
+It waited while they dismounted and unloaded their gear, then backed up, swung
+around, and trundled back toward the docks, whistling a happy little tune made
+slightly sinister by the grime and decay in front of it.
+
+The second truck pulled up.  A Marine helped Doctor Johel out of the back.
+"Mustn't dawdle," she said, waving them forward.  "He's waiting for us inside."
+
+*Who's "he"?* Iffy wondered, but when Wales and Aunt Naggie didn't ask, she just
+picked up the third of Wales' toolboxes and followed them.  Gravel crunched
+under feet, and somewhere in the distance she could hear the slow *whoop whoop
+whoop* of windmills, but that was all.  The constant shush and murmur of the
+ocean seemed a long way away.
+
+Through a pair of double doors that opened on their own, along a short corridor,
+and they were in a waiting room that looked like a hasty pencil sketch of the
+one in the mansion in Rothera.  The couch was just as comfortable, but
+steel-gray instead of ochre and green.  The potted plants were so symmetrical
+that Iffy knew they had to be real---no one would ever print something that
+obviously fake. As for the music, it was just as soothing and unplaceable.
+
+A soft knock, and the door opposite the entrance opened.  "Well, that was
+exciting, wasn't it?" the governor said pleasantly as he stepped into the room.
+Tall, slightly stooped but still strong, waering a formal turtleneck two shades
+darker than the one he'd had on in Rothera---it had to be a hologram, Iffy
+though wildly, or some sort of telepresence bot dressed up to look like the
+governor in violation of common politeness and a dozen laws.
+
+But when he shook her hand, his felt like meat and bone. "Doctor Johel tells me
+things could have gone very badly out there if not for you," he said.  "Your
+friend has already been moved to the Navy hospital here in town, and the core
+tells me she's expected to make a full recovery."
+
+"Thank you," she mumbled.  "I 'preciate it."
+
+He gave her hand a final firm squeeze before turning to Wales and Doctor Johel.
+"Unfortunately, the other news isn't as pleasant," he continued briskly.  "The
+attack was definitely orchestrated by some faction within China-over-the-Sea.
+We have tried reaching out through the usual channels, but so far we haven't had
+an intelligible response."
+
+"Does that mean you're scrubbing the mission?" Wales asked, his voice carefully
+neutral.
+
+The governor smiled.  "On the contrary.  We leave in the morning."
+
+Wales raised an eyebrow.  "We?"
+
+The governor's smiled broadened.  "Absolutely.  I wouldn't miss it for the
+world."

@@ -158,7 +158,7 @@ would tell her she was remembering things instead of making them up, but every
 search ended in "not found" or "restricted", and after three of those, she had
 been too afraid to keep looking.
 
-"Girl! Girl! *Wang ba*, wife, where's that affing girl now?"  Iffy jumped at
+"Girl! Girl! *Wang ba*, wife, where's that affin' girl now?"  Iffy jumped at
 Uncle Jack's bellow from the galley below her.  He'd been out with his mates
 last night, which was Uncle Jack-speak for drinking more than he could handle
 and gambling more than he could afford to.  Aunt Naggie somehow managed to
@@ -167,7 +167,7 @@ afloat, but it had been weeks since they'd had fresh fruit, and she couldn't
 remember the last time there'd even been mention of new clothes or of upgrading
 the tired little boat's frayed dredging nets.
 
-"Girl!" Uncle Jack shouted again.  "Get your affing tail down here *now* or
+"Girl!" Uncle Jack shouted again.  "Get your affin' tail down here *now* or
 saints help me you won't sit for a *week*!"  She heard a meaty *bang!* as he
 slapped the galley table with his hand.
 
@@ -190,7 +190,7 @@ think I have a some--- No, wait, not there..."  She rattled through the little
 glass jars that sat on the shelf beside the galley's little two-loop stove, each
 one in its proper place.
 
-"Shadding right I want curry," he grumbled, leaning back on a fold-up chair that
+"Shaddin' right I want curry," he grumbled, leaning back on a fold-up chair that
 squeaked under his weight.
 
 Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her
@@ -577,7 +577,7 @@ a nice dinner."  Her smile showed more gaps than teeth.
 way to the *Guinevere*, her lips moving as she practiced what she was going to
 say to her foster parents.
 
-Metal clanged on metal as she reached the ship.  "Affing shadding---dammit!"
+Metal clanged on metal as she reached the ship.  "Affin' shaddin'---dammit!"
 Uncle Jack swore, a wrench in one hand and a screw cuff in the other.  Iffy's
 heart sank.  He was trying to fix the backstay cable she had mended a few days
 ago.  It was a fiddly job at the best of times, and if he had a hangover...
@@ -657,7 +657,7 @@ wrench he was holding like a club.
 "Jack, don't!  She's just talking.  She's not going anywhere."
 
 Uncle Jack shook the wrench at them.  "I best see more out of both of you than
-just talking," he spat.  "Now get me my affing lunch.  And you!"  He jabbed a
+just talking," he spat.  "Now get me my affin' lunch.  And you!"  He jabbed a
 finger at Iffy.  "Fix that shadding cable.  I want us ready to sail tomorrow."
 
 "She'll do it right away, I promise," Aunt Naggie said.  Her arm tightened
@@ -718,7 +718,7 @@ A few minutes later, Iffy sat down on deck with her back against the wheelhouse
 door and a steaming bowl of noodles in her lap.  She bowed her head and said a
 brief prayer for the olders she could barely remember, then began scooping
 noodles into her mouth.  Not even the sound of her uncle grumbling belowdecks
-that there ought to be some affing tofu in the noodles could spoil the spicy
+that there ought to be some affin' tofu in the noodles could spoil the spicy
 sweet taste in her mouth or the feeling of the knot in her belly slowly
 relaxing.
 
@@ -867,7 +867,7 @@ assignment labelled with angles and velocities.  Before she even realized what
 she was doing she spun around, swinging the toolbox in a sharp arc.  Its rising
 edge hit the *Taroona* crewman beneath his knee with a crack.
 
-"Aargh! Shadding hack, ya wheezy---" The toolbox in Wales' right hand connected
+"Aargh! Shaddin' hack, ya wheezy---" The toolbox in Wales' right hand connected
 with the side of sailor's head with a thud.  The Aussie hit the cobblestones in
 a heap.
 
@@ -909,7 +909,7 @@ called for reinforcements.  We'd be better of somewhere else when they arrive."
 Wales led her out the other end of the alley and onto a street lined with
 single-story houses made of laser-cut stones with tweaked blue-green moss
 tracing their mortared joints.  Iffy did her best to keep up with him as he
-strode back toward the center of town.  *He prob'ly kept the light ones for
+strode back toward the center of town.  *He prolly kept the light ones for
 himself,* she thought resentfully, but the complaint was half-hearted.  The
 sailors and townsfolk she knew ranged from lean to stringy---cold weather and
 the sparse Antarctic diet didn't give bodies much chance to put on weight.
@@ -965,7 +965,7 @@ Wales shrugged.  "Just a hard-to-find part for an old friend," he said, sounding
 fond and sad at the same time as he watched the bot disappear around a corner
 two streets below them.  "Come on---we should get going."
 
-"Uh huh.  Must be pretty affing hard to find for it to take a chance on bein'
+"Uh huh.  Must be pretty affin' hard to find for it to take a chance on bein'
 scrapped for scaring people like it did back there."  When Wales didn't answer,
 she gave the toolbox next to her another nudge with her boot.  "So was that you?
 The 'splosion back there?"
@@ -1830,13 +1830,13 @@ called as he ran to the bow to clip a battered black cylinder to the railing.
 The ship's control panel wavered and reformed as the gadget powered up and began
 spraying misinformation on all frequencies.
 
-"How fast?"  Uncle Jack growled.  "Tell me how shadding fast, man."
+"How fast?"  Uncle Jack growled.  "Tell me how shaddin' fast, man."
 
 "Twenty kay an hour."  Wales hesitated.  "Make that twenty-two.  She's military
 for sure."
 
 Uncle Jack horked and spat into the garbage pail by his feet.  "Don't mean she
-ain't a pirate too.  Naggie!  Where's my shadding tea?"
+ain't a pirate too.  Naggie!  Where's my shaddin' tea?"
 
 Iffy stepped out of the doorway so that her foster mother could squeeze past her
 and hand a thermos to her husband.  She put her arm around Iffy, but the
@@ -1967,7 +1967,7 @@ lot of nothing around them, Iffy realized with a chill.
 Uncle Jack scowled.  "Nearest shout I got back is a hundred kay east, but
 they're smaller'n we are an' too scared to fight.  Halley wasn't much interested
 'til I told them our friends looked military.  Then they made noises about
-looking into it and dropped off comms.  And then the shadding *comms* dropped
+looking into it and dropped off comms.  And then the shaddin' *comms* dropped
 out."  He jabbed a finger at a small image in the corner of the control panel
 that was blinking an orange warning.  Whoever was hunting them was blocking
 their transmissions.  They were on their own.
@@ -1987,7 +1987,7 @@ for the *Guinevere*.
 Even blurred, the ship was a frightening sight, long and lean and four times the
 *Guinevere*'s size, the narrow V of her wake betraying the power of her engines.
 
-"Saints and their mercies!"  Aunt Naggie exclaimed from behnd Iffy, a tray of
+"Saints and their mercies!"  Aunt Naggie exclaimed from behind Iffy, a tray of
 tea mugs in her arms.  "That's the bloody *Taroona*!"
 
 As if in answer, a splash of text began scrolling next to the image.
@@ -2161,7 +2161,7 @@ snarled at Wales as he reached for the control panel.
 
 Wales caught his wrist.  "What are you doing?"
 
-"Cutting the affing engines!"  Uncle Jack yanked his arm free, his face as red
+"Cutting the affin' engines!"  Uncle Jack yanked his arm free, his face as red
 as Iffy had ever seen it.  "You can't sink 'em and we can't outrun 'em so the
 only thing we got left is to run up the white affin' flag and hope you're all
 they take!  And if you ever lay hands to me again on *my* ship, I'll---"
@@ -2755,7 +2755,7 @@ scampered up to the ceiling.
 
 "If that's a bomb---" the sergeant began.
 
-"Directional broadband pulse," Wales panted as the little machine disappared
+"Directional broadband pulse," Wales panted as the little machine disappeared
 around the corner.  "It'll blind them for sure, knock them out if we're lucky."
 
 *I know that,* Iffy realized incredulously.  How could I know that?  How did I
@@ -2938,10 +2938,11 @@ else didn't seem to matter.  Half of Antarctica seemed to think it was a
 stealthy first strike by the Zillions---or second, if the feeder was counting
 the explosion at the quarantine shed in Halley.  The other half was convinced
 the machines were about to rise again, either on their own or with the backing
-of whoever or whatever currently ruled China-over-the-Sea.  Iffy's heart sank at
-grainy video of a crowd armed with pulse guns and cutting torches chasing a
-maintenance bot through the streets of Paddington hundreds of kilometers away.
-It wasn't French Henry, but it would be soon if things didn't calm down.
+of whatever networked hypermind currently ruled China-over-the-Sea.  Iffy's
+heart sank at grainy video of a crowd armed with pulse guns and cutting torches
+chasing a maintenance bot through the streets of Paddington hundreds of
+kilometers away.  It wasn't French Henry, but it would be soon if things didn't
+calm down.
 
 It only took Aunt Naggie a minute to gather up a trio of sturdy mesh bags and an
 ancient handheld piece of tech that she swore would tell them if anything was
@@ -2991,7 +2992,7 @@ Iffy felt her cheeks go warm.  "Y' sure y' don' need me?"
 Aunt Naggie looked around.  Greenhouse potatoes hung in net bags next to stacks
 of dried fruit in single-molecule shrink wrap.  Burlap sacks of Cape Town rice
 piled higher than Iffy was tall threatened to topple onto a line of people
-gossipping with each other as they waited their turn to buy ginger, cardamom,
+gossiping with each other as they waited their turn to buy ginger, cardamom,
 and bay leaves from a one-legged woman whose tweaked hair that sparkled red and
 purple every time she turned her head.  A surgical bot that had been converted
 for tailoring stood motionless, its four skeletal arms at its sides, while a man
@@ -3148,7 +3149,7 @@ be---
 
 "It's a differential separator pump," she told Honesty's First as shapes and
 clues came together in her head to form an answer as clear as it was impossible
-for her to know.  "Prob'ly hooks up to a centrifuge or somethin' for filterin'
+for her to know.  "Prolly hooks up to a centrifuge or somethin' for filterin'
 blood durin' surgery."
 
 "'Zat so?"  Honesty's First said, impressed.  She caught the part when Iffy
@@ -3547,7 +3548,7 @@ and wanting to help but not knowing how.  She had never seen her aunt like this,
 not even after the worst of Uncle Jack's rages.
 
 Aunt Naggie swept the carrots and cabbage into the frying pan and forced a
-smile.  "Thanks, sweetie, but I'm aright.  You should prob'ly go topside an' see
+smile.  "Thanks, sweetie, but I'm aright.  You should prolly go topside an' see
 if you can sort him out."
 
 Iffy stood and put her arms around the woman who had sheltered her from storms
@@ -3561,7 +3562,7 @@ Iffy hung on when her aunt would have let go.  "Was he---was he someone
 special?"
 
 Aunt Naggie kissed the top of Iffy's head.  "Yeah, he was.  In a lot o' ways."
-She laughed shakily.  "Prob'ly best if we don't talk about that in front o'
+She laughed shakily.  "Prolly best if we don't talk about that in front o'
 Jack, aright?"
 
 "'Course not," Iffy agreed hastily.  "But---why'd he---you know.  Why'd he do
@@ -3750,7 +3751,7 @@ blurted.  "When they put th' machine on you, was it---are y'aright?"
 as bright and as sharp and as completely without warmth as the Antarctic sun.
 "They warned us that people might find Corporal Kibbens somewhat stiff at first.
 That is the persona I've been imprinted with," she added brightly.  "He served
-with distinction in the Second Crash Corps during the evacution of Hawaii, and
+with distinction in the Second Crash Corps during the evacuation of Hawaii, and
 was later decorated posthumously for valor during the battle for New Zealand.
 He was an outstanding soldier, and I am proud to be his inductee."
 
@@ -4195,7 +4196,7 @@ sign of special abilities?"
 added.  "She has a lot of natural talent, but I haven't seen any sign there's
 anything more to her than that."
 
-"That's a shame."  *Speaker adopts sceptical expression.* "The core thought
+"That's a shame."  *Speaker adopts skeptical expression.* "The core thought
 there was an eighty-five percent chance the tweak would have been passed on."
 
 *Speaker sighs.* "Jasmine, please---you know I don't like that word."
@@ -4949,13 +4950,13 @@ until Aunt Naggie appeared with a duffel of her own hitched over one shoulder.
 in the two-wheeled grocery cart she pulled behind her.
 
 Johnson Wales had already loaded his toolboxes onto the back of the little
-three-wheeled truck that was to take them to the train.  Four Marines stood
-beside it, their armor still showing scars from the attack.  Honesty wasn't
-among them---all Wales had been able to find out for Iffy was that she was
-healing well, but still being kept asleep.  Iffy had recorded half a dozen
-messages for her and deleted each one before sending a brief note back to
-Rothera to tell her First and Second that their Third was all right.  She had no
-idea if or when it would reach them, but it was all she could do.
+three-wheeled truck that was to take them into town.  Four Marines stood beside
+it, their armor still showing scars from the attack.  Honesty wasn't among
+them---all Wales had been able to find out for Iffy was that she was healing
+well, but still being kept asleep.  Iffy had recorded half a dozen messages for
+her and deleted each one before sending a brief note back to Rothera to tell her
+First and Second that their Third was all right.  She had no idea if or when it
+would reach them, but it was all she could do.
 
 She climbed into the back of the truck and sat next to her foster mother.  Aunt
 Naggie put an arm around her.  "All set?" she asked.
@@ -4985,7 +4986,7 @@ white, swooped and curved like waves on the ocean behind them.  Drones no bigger
 than Iffy's hand circled above the building like a flock of birds from her
 nature book, so beautiful that it took her a moment to realize that each one
 carried a single-shot laser capable of drilling a small hole through a
-centerimeter of Navy-grade armor or a meter of concrete.  She couldn't see any
+centimeter of Navy-grade armor or a meter of concrete.  She couldn't see any
 greenhouses, or robotic sentries like the ones that had guarded the governor's
 mansion in Rothera, but she didn't doubt for a moment that the two-story folly
 in front of her was more than capable of defending itself.
@@ -5013,7 +5014,7 @@ obviously fake. As for the music, it was just as soothing and unplaceable.
 
 A soft knock, and the door opposite the entrance opened.  "Well, that was
 exciting, wasn't it?" the governor said pleasantly as he stepped into the room.
-Tall, slightly stooped but still strong, waering a formal turtleneck two shades
+Tall, slightly stooped but still strong, wearing a formal turtleneck two shades
 darker than the one he'd had on in Rothera---it had to be a hologram, Iffy
 though wildly, or some sort of telepresence bot dressed up to look like the
 governor in violation of common politeness and a dozen laws.
@@ -5027,16 +5028,67 @@ tells me she's expected to make a full recovery."
 
 He gave her hand a final firm squeeze before turning to Wales and Doctor Johel.
 "Unfortunately, the other news isn't as pleasant," he continued briskly.  "The
-attack was definitely orchestrated by some faction within China-over-the-Sea.
-We have tried reaching out through the usual channels, but so far we haven't had
-an intelligible response."
+attack was definitely Zillion, but the core believes some faction of China's
+hypermind may have assisted them.  We've tried reaching out through the usual
+channels, but all we've had back so far is a poem about the necessity of entropy
+and how time is an arrow, not a circle."
 
-"Does that mean you're scrubbing the mission?" Wales asked, his voice carefully
-neutral.
+"If China is involved, does that mean you're scrubbing the mission?" Wales
+asked, his voice carefully neutral.
 
-The governor smiled.  "On the contrary.  We leave in the morning."
+The governor smiled.  "On the contrary.  We leave in seven hours."
 
-Wales raised an eyebrow.  "We?"
+Doctor Johel raised an eyebrow.  "We?"
 
-The governor's smiled broadened.  "Absolutely.  I wouldn't miss it for the
-world."
+The governor's smile grew even warmer.  "Absolutely," he said, looking at Wales.
+"I wouldn't miss it for the world."
+
+There was a shower in the basement, and a seemingly endless flow of hot water
+that didn't smell of the sea.  Iffy and Aunt Naggie squabbled for a moment about
+who needed it more before the Marine who was their guide and guard cleared his
+throat and pointed out that there were actually *two* showers.  The towels were
+the thickest and fluffiest Iffy had ever seen, and the freshly-printed
+sweatshirt and leggins waiting for her when she was done fit her perfectly.
+
+The Marine led them back upstairs to a dining room as big as the *Guinevere*.
+The curved glass overhead gave the sky a warm blue tint.  In the distance Iffy
+could see the razor-edged ridges of Mount Klenova, scraped and carved over
+millions of years by the sheet of ice that had finally been defeated by a
+warming planet.  Smaller peaks---smaller only by comparison---stood in ranks
+beside it, each decorated by a faint plume of wind-blown snow.
+
+Doctor Johel and the governor were already seated.  Wales stood beside his chair
+until Iffy and Aunt Naggie reached them.  "Better?" he asked.
+
+"Tons," Iffy said gratefully.  Her new sweatshirt was as warm as the towels had
+been, and not scratchy at all.  It was almost certainly recording her pulse and
+temperature and a dozen other things and sending them to the mansion's core for
+analysis, but at that particular moment, she didn't care.
+
+She plopped herself down on the chair that Wales pulled back for her.  Aunt
+Naggie did the same, and then the blocky American seated himself.  The governor
+and Doctor Johel ended their murmured conversation, and for a moment everyone
+sat silently and expectantly.
+
+"I wonder---" "How'd you---" Doctor Johel and Iffy both stopped.  "Go ahead,"
+Doctor Johel urged politely.
+
+Iffy shook her head.  "'S not important.  I was just---how'd you get here so
+quick?" she asked the governor.
+
+He smiled his usual smile.  "A good question.  Not one the core will let answer,
+I'm afraid---security.  But if you can guess...?"
+
+"Hovercraft," Wales offered.  "One of the old Ericas, probably, with a
+wide-field skirt so you wouldn't kick up a snow trace.  It probably took you
+half as long and twice the fuel."  His smile was as warm as the governor's and
+just as false.  "And I'll bet that's how you're planning to get to the base---I
+don't imagine the core would be happy with you stuck on a train.  What do I
+win?"
+
+"Lunch, of course," the governor said lightly as a trolley rolled toward them on
+silent wheels bearing trays of sweet and sour soup, grilled tofu, roasted
+vegetables, sliced mangoes, and tea.  The adults made appreciative noises and
+Iffy's stomach rumbled as the trolley gave each of their plates an unnecessary
+polish with a clean white cloth, laid out chopsticks beside them with geometric
+precision, and began serving the food.

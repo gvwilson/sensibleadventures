@@ -2331,7 +2331,7 @@ used to be."
 
 Thin trails of smoke drew diagonal charcoal lines across the sky above the city
 as the *Guinevere* approached.  Iffy glanced at Wales, but he showed no emotion
-at the evidence of carbon being thrown into the atmosphere.  The peninsula's
+at the evidence of carbon being thrown into the atmosphere.  The Peninsula's
 coal mines were the original source of Rothera's wealth, the reason both for the
 governor being there and for the Zillions' prowling and raids.  It was a crime
 to burn fossil fuel in most parts of the world, including Australia, but when
@@ -4851,10 +4851,10 @@ Aunt Naggie said firmly.  "It's just takin' you a while to---to get used t'
 things."
 
 "One of Professor Johel's other experiments was enhanced spatial reasoning,"
-Wales explained.  "AIs were designing machines that did amazing things, but
-nobody could understand how they worked.  That scared a lot of people, so
-Surjinder---Professor Johel---told them he could make a person who'd be able to
-figure them out and explain them to the rest of us."
+Wales explained.  "AIs---cores---were designing machines that did amazing
+things, but nobody could understand how they worked.  That scared a lot of
+people, so Surjinder---Professor Johel---told them he could make a person who'd
+be able to figure them out and explain them to the rest of us."
 
 Iffy's mouth worked as a dozen questions tried to get out at once.  "So my First
 was some kind of experiment?"
@@ -5036,7 +5036,7 @@ and how time is an arrow, not a circle."
 "If China is involved, does that mean you're scrubbing the mission?" Wales
 asked, his voice carefully neutral.
 
-The governor smiled.  "On the contrary.  We leave in seven hours."
+The governor smiled.  "On the contrary.  We leave in seventeen hours."
 
 Doctor Johel raised an eyebrow.  "We?"
 
@@ -5090,5 +5090,77 @@ win?"
 silent wheels bearing trays of sweet and sour soup, grilled tofu, roasted
 vegetables, sliced mangoes, and tea.  The adults made appreciative noises and
 Iffy's stomach rumbled as the trolley gave each of their plates an unnecessary
-polish with a clean white cloth, laid out chopsticks beside them with geometric
-precision, and began serving the food.
+polish with a clean white cloth, laid out chopsticks with geometric precision,
+and began serving the food.
+
+The governor, Wales, and Doctor Johel made smalltalk as they ate.  Iffy and her
+foster mother focused on the food, exchanging glances now and again to confirm
+that yes, this was really happening and no, neither of them had any idea what to
+say.
+
+Politics and reminiscences and jokes with edges as sharp as the ridges on the
+distant mountains slowly mellowed as the main course gave way to ride pudding
+and more tea.  "You're really set on making the trip?" Wales asked, settling
+back in his chair.
+
+"Absolutely," the governor confirmed.  "The core thinks there's a fifty-eight
+percent chance that you're right about the base, but a ninety-something percent
+chance that the Zillions will try to stop you.  Or China.  Or possibly both,
+which would be *really* interesting."  He smiled as if the prospect of being
+ambushed by fanatics or a super-intelligence made up of millions of human and
+artificial minds networked together was on par with the release of a new chapter
+in his favorite sim.
+
+Wales chuckled.  "Is the prospect of a third century really that dismal?"
+
+The governor looked out the window.  "I've had a good run," he said quietly, and
+for the first time Iffy thought she was hearing what he really thought.  "I can
+remember when there were still a few penguins left, and we still thought we
+could turn enough of the bedrock into soil to jump-start a real ecosystem."  He
+shook his head.  "It's time someone else was sitting at my desk, someone who
+isn't always thinking of what might have been."
+
+Conversation turned to lighter matters after that: a salvage expedition that had
+recently returned from the sunken ruins of Melbourne, shifts in the currents
+around the Peninsula, a scandal involving a sim studio in Halley.  Between the
+warmth, the food, and the dullness, Iffy found it harder and harder to keep her
+eyes open.
+
+Finally the governor set his napkin down on the table.  "We should probably call
+it a night---you'll all want some sleep before you get under way."  He nodded at
+the Marines who had been standing silently by the door throughout the meal.
+"They'll show you to your rooms."
+
+"Your room" for Iffy and Aunt Naggie turned out to be the size of the
+*Guinevere*'s forward hold.  It smelled of flowers instead of jellyfish, and
+while the window wasn't real, the mattress and blankets were.
+
+Iffy stripped to her underwear and slid into her bed with a grateful sigh.  Aunt
+Naggie sat gingerly on the edge beside her and took her foster daughter's hand.
+
+"What's wrong?" Iffy asked, instantly wary.
+
+Aunt Naggie shook her head.  "I ain't comin' with you.  The doctor said," she
+plowed on as Iffy opened her mouth to protest.  "An' she's right.  You got
+your..."  She hesitated.  "You got your skills 'n' all, an' this'll be a big
+thing for you, but I'd just be weight."
+
+"You wou'nt jus' be nothin'!" Iffy said firmly, sitting up.
+
+Aunt Naggie shook her head again.  "That ain't true an' you know it.  An' there
+ain't no point arguin', and you know that too."  She squeezed Iffy's hand.
+"You'll be fine.  You been waitin' for somethin' like this your whole life an'
+now it's here.  You'll be fine."
+
+Iffy let out a shaky breath and settled back into her bed.  "Will you do
+somethin' for me?" she asked after a moment had passed.
+
+"'Course I will."  Aunt Naggie gently stroked her foster daughter's head with a
+rough hand, then wiped her eyes with the other.
+
+"Will you sit with Honesty a bit while I'm gone?  I know the doctors are lookin'
+out for her, but..."
+
+Aunt Naggie squeezed her hand again.  "'Course I will," she repeated.  She
+leaned forward and kissed Iffy's forehead.  "Now you get some sleep.  I don't
+figure there'll be much time for it once you're on your way."

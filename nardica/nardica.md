@@ -5211,7 +5211,7 @@ about trivialities.  They will make poor decisions, and will suffer the
 consequences.  Have we forgotten Bharati?"*
 
 *Uncle Jack---or whatever had been Honesty and was now Uncle Jack---shook his
-head.  "Bharati was a miscalculation.  Valuable information was gathered."*
+head.  "We have not," he conceded.  "Bharati was a miscalculation."*
 
 *"And our existence was jeopardized!  We must not allow them to---"*
 
@@ -5225,4 +5225,64 @@ Iffy swam up out of darkness to find herself wrapped in Aunt Naggie's arms.
 what."
 
 Iffy sniffled.  "I'm aright."  She'd been dreaming, she knew that, but it was
-already tangled and fading.  She was supposed to tell somebody something.
+already tangled and fading.  She was supposed to tell somebody something, or
+warn them, or---she shook her head.
+
+"What is it?" Aunt Naggie asked.
+
+Iffy gave her a last squeeze and wriggled free of her embrace.  "Nothin'.
+Thanks fer takin' care of me.  I mean, all of it," she continued awkwardly,
+"Not jus' right now.  You been a good mum."
+
+Aunt Naggie smiled at her.  "You been a good kid."
+
+They slept, eventually.  If Iffy had any more dreams, she didn't remember them
+either.
+
+The door chimed to wake them.  "Breakfast will be served on board," it
+announced, "But there are tea and naan in the dining room if you would like
+some."
+
+The tea was very good.  The naan was better, and the goopy, chunky orange
+sweetness that one of their Marine escorts told them was called "marmalade" was
+a revelation.  "I'm sure there will be some on the train," he said when Iffy
+picked up one of the small jars.
+
+"It ain't fer me."  She handed it to Aunt Naggie.  "Will you give this t'Honesty
+when she wakes up?  An' tell her---" She took a deep breath.  "Tell her I'll be
+thinkin' about her."
+
+Every goodbye hug is either too long or too short.  Theirs felt like it was
+both.  When it was done and they had both wiped their eyes, Aunt Naggie let one
+of the Marines lead her away.  Iffy followed the other down a corridor, around a
+corner, and through a heavy steel blast door that her special ability instantly
+told her had been salvaged from a pre-war Russian cruiser and was laced with
+conductive carbon nanofibers capable of shrugging off a plasma blast from
+anything smaller than an orbital cannon.
+
+The truck that waited for her was smaller and more serious than the one that had
+picked them up the day before.  She and the Marine sat side by side under a
+canvas cover, neither speaking, as it took them around the outskirts of
+Paddington South to the train station.  It was little more than a four-story
+shed with reinforced walls, half a dozen cranes of various ages and
+descriptions, and a single heated room lined with shelves as crowded as those in
+Mr. Mishra's shop.  Gunsights and surveying lasers, a pair of lemon-yellow boots
+big enough that Iffy could have stood comfortably inside either of them, foamed
+glass boxes full of gears and screws and wire, all carefully labelled---she
+suddenly felt homesick, and wondered if Mr. Mishra and Jeep and the Sandhus had
+heard about the attack on the *Guinevere* and what they would think when they
+found out that she and Aunt Naggie had finally left Uncle Jack.
+
+"Where's e'ryone else?" she asked.
+
+The Marine checked his data feed with a blink.  "They are on their way,
+citizen---two minutes until arrival."
+
+"An' where's the train?"  She gestured at the empty rails.  "It ain't much of a
+train station without a train."
+
+He blinked again.  "I apologize, citizen, but that information is still
+classified.  Please make yourself comfortable."
+
+Wishing she had taken a second jar of marmalade, Iffy pulled a crate marked
+"Frinings" away from the wall and sat down.

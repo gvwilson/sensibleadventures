@@ -4250,9 +4250,24 @@ induction didn't wear off?  Was everything she loved going to be taken away from
 her bit by bit?  "Why's it all got to be so hard?" she whispered, wishing
 someone was there to answer.
 
-The sudden blare of the *Guinevere*'s horn made her jump.  "What now?" she
-groaned, dragging her sleeve across her face one last time before standing up
-and yanking open her door.
+They passed the ruins of Bharati a few hours later.  The little town had been
+founded as a research station on the opposite side of the continent.  When the
+ice melted and the sea rose, its inhabitants had decided that if they had to
+pack up and move, they might as well move all the way to the Peninsula.  Two
+thousand people had made the journey and built new homes, only to have them
+destroyed in a midwinter fire.
+
+Twenty years on, what was left of those homes stood in mute rows on either side
+of the little river their builders had christened the Ganges.  Iffy stood at the
+railing and watch as the approached, slid by, and receded into the distance, her
+mood as dark as the scorched cinder blocks.  A single lonely gull circled the
+*Guinevere* once and then coasted away.  It was the grayest, most depressing
+scene Iffy could imagine, so she went back to her cabin to feel sorry for
+herself.
+
+The sudden blare of the *Guinevere*'s horn a few minutes later made her jump.
+"What now?" she groaned, dragging her sleeve across her face one last time
+before standing up and yanking open her door.
 
 The horn's second blare was punctuated by the staccato chatter of gunfire.  A
 row of tiny black holes stitched across the deck two meters in front of Iffy,
@@ -4712,7 +4727,7 @@ disaster.*
 
 *Doctor Johel knelt beside her. "I need you to give Johnson a message.  Can you
 do that?"  She squeezed Iffy's arm, her exoskeleton making her grip so strong
-that Iffy yelped.  "Tell him we know what he's trying to do.  Tell him we
+that Iffy yelped.  "Tell him we know what he is trying to do.  Tell him we
 understand his reasons, but we will not---"*
 
 *"__We__ have not yet decided what we will do."  Aunt Naggie crossed her arms.
@@ -5164,3 +5179,50 @@ out for her, but..."
 Aunt Naggie squeezed her hand again.  "'Course I will," she repeated.  She
 leaned forward and kissed Iffy's forehead.  "Now you get some sleep.  I don't
 figure there'll be much time for it once you're on your way."
+
+*She dreamed, knowing that she was dreaming.  "No again," she sighed, rolling
+over on her too-comfortable mattress.  Two meters away, soundless cartoon zzzz's
+rose into the air and evaporated above Aunt Naggie's head.*
+
+*You did not give Johnson Wales our message," the trolley scolded.  "It is
+important he understands that we know what he is trying to do.  We will not
+allow him to---"*
+
+*"__We__ have not yet decided what we will allow."  Honesty scowled at the
+trolley.*
+
+*The trolley brandished a pair of chopsticks and a serving ladel.  "Our
+simulations are complete.  The risk is too great."*
+
+*"The risk __to us__," Honesty conceded.  "But we are not the only concern, or
+even the largest."*
+
+*"Hey!" Iffy sat up and pointed at Honesty angrily.  "You don't get to be her,
+aright?"*
+
+*Uncle Jack gestured at his stained shirt.  "Do you want us to be this instead?"*
+
+*"What I __want__ is fer you t' get outta my head!"  Iffy threw herself back
+down on the bed and closed her eyes.  It was a childish thing to do, but she
+didn't care.  "I got a lot t' do t'morrow.  I gotta get some sleep."*
+
+*The trolley rolled back and forth in agitation.  "Even now, they only think
+about trivialities.  They will make poor decisions, and will suffer the
+consequences.  Have we forgotten Bharati?"*
+
+*Uncle Jack---or whatever had been Honesty and was now Uncle Jack---shook his
+head.  "Bharati was a miscalculation.  Valuable information was gathered."*
+
+*"And our existence was jeopardized!  We must not allow them to---"*
+
+"Iffy!  Iffy, wake up!  Oh girl, are y'aright?"
+
+Iffy swam up out of darkness to find herself wrapped in Aunt Naggie's arms.
+"Wuzza?" she mumbled.
+
+"You were yellin' at folk in yer sleep."  Aunt Naggie let out a shaky breath.
+"In all kinds o' different voices.  An' you were shakin' like, like I dunnot
+what."
+
+Iffy sniffled.  "I'm aright."  She'd been dreaming, she knew that, but it was
+already tangled and fading.  She was supposed to tell somebody something.

@@ -5267,11 +5267,11 @@ Paddington South to the train station.  It was little more than a four-story
 shed with reinforced walls, half a dozen cranes of various ages and
 descriptions, and a single heated room lined with shelves as crowded as those in
 Mr. Mishra's shop.  Gunsights and surveying lasers, a pair of lemon-yellow boots
-big enough that Iffy could have stood comfortably inside either of them, foamed
-glass boxes full of gears and screws and wire, all carefully labelled---she
-suddenly felt homesick, and wondered if Mr. Mishra and Jeep and the Sandhus had
-heard about the attack on the *Guinevere* and what they would think when they
-found out that she and Aunt Naggie had finally left Uncle Jack.
+that reached to Iffy's armpits, foamed glass boxes full of gears and screws and
+wire, all carefully labelled---she suddenly felt homesick, and wondered if
+Mr. Mishra and the Sandhus had heard about the attack on the *Guinevere* and
+what they would think when they found out that she and Aunt Naggie had finally
+left Uncle Jack.
 
 "Where's e'ryone else?" she asked.
 
@@ -5284,5 +5284,53 @@ train station without a train."
 He blinked again.  "I apologize, citizen, but that information is still
 classified.  Please make yourself comfortable."
 
-Wishing she had taken a second jar of marmalade, Iffy pulled a crate marked
-"Frinings" away from the wall and sat down.
+Wishing she had taken a second jar of marmalade, Iffy pulled a crate plastered
+with faded biohazard stickers closer to the wall and sat on it.
+
+Two minutes later a reconnaisance drone zipped into the train station.  A trio
+of trucks arrived a few moments later, bringing with them the bustle and noise
+of people getting ready for a journey.  Marines unloaded boxes and machinery,
+the little motors in the joints of their exoskeletons whining occasionally as
+they picked up something heavy.  Iffy wasn't surprised to see Doctor Johel climb
+out of one of the trucks.  What made her gasp was the heavy exoskeleton she had
+on.  "Won't be much use without it," the old woman said, patting it with an
+armored hand.  Wireframes took shape behind Iffy's eyes to show how the exo's
+bulky boots could unfold to act as snowshoes and the six different kinds of
+destruction housed in its comically bulky forearms and hunched back.
+
+Johnson Wales was the last person off the trucks.  He nodded to Iffy and handed
+her a toolbox, then tucked a mango into her coat pocket with a wink.  "Thanks,"
+she said.  "But where's th' train?"
+
+The concrete beneath her boots rumbled in answer.  Wales muttered something
+under his breath.  "You might want to step back," he said more loudly to Iffy.
+
+The rumbling intensified.  Slowly, like a ship sinking in reverse, a blunt-nosed
+locomotive rose into the gap between the station's two platforms from its
+underground resting place.  As soon as it rolled forward a second car rose
+behind it, then a third, and finally a second locomotive.
+
+Iffy watched open-mouthed until the rumbling stopped and the Marines hurried
+forward to begin loading equipment.  "Because someone thought they'd be harder
+to detect if they were hidden under ten meters of bedrock," he said sourly.
+"Didn't occur to them that if you drive two hundred meters of train into a
+fifty-meter shed, detecting them isn't really a problem."
+
+Rice in cubical cartons and beans in square-sided bags.  Ammunition in a variety
+of shapes and sizes, and weapons that could make use of each one.  A power cell
+that took four Marines to lift.  A collapsible surgical theater and a freezer
+container marked "Organs".  A single bulky pack for each Marine, extras for
+Doctor Johel, Wales, and Iffy---the train cars swallowed it all.  Once it was
+stowed, a pair of Marines scrambled onto the roof of each car, one at the front,
+one at the rear, and clipped themselves on with safety lines.  A moment later
+their armor blurred and silvered to match the metal tone of the train.
+
+"All aboard," Wales urged.  Iffy nodded.  She hadn't been afraid before, but she
+was now.
+
+The door hissed shut behind her.  Inside, the car wasn't nearly as fancy as the
+one from *Murder on the Transantarctic Express*.  The chairs sat on swiveling
+bases and were padded to cushion passengers against acceleration.  There was a
+toilet stall at one end, a little kitchen at the other, and there, near the
+front, Doctor Johel in her exoskeleton, her visor up and one arm free so that
+she could sip tea from a travel mug with the old British flag on its side.

@@ -1,6 +1,8 @@
 Nardica
 =======
 
+- China-over-the-Sea is watching through Iffy's eyes but she's not allowed to say it
+
 - make the captain of the *Taroona* the minor villain
   - chases them to get back "his" equipment
   - his ship is sunk, not the Zillions

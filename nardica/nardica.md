@@ -5325,12 +5325,64 @@ stowed, a pair of Marines scrambled onto the roof of each car, one at the front,
 one at the rear, and clipped themselves on with safety lines.  A moment later
 their armor blurred and silvered to match the metal tone of the train.
 
-"All aboard," Wales urged.  Iffy nodded.  She hadn't been afraid before, but she
-was now.
+"All aboard," Wales said lightly.  Iffy nodded.  She hadn't been afraid before,
+but she was now.
 
 The door hissed shut behind her.  Inside, the car wasn't nearly as fancy as the
 one from *Murder on the Transantarctic Express*.  The chairs sat on swiveling
 bases and were padded to cushion passengers against acceleration.  There was a
-toilet stall at one end, a little kitchen at the other, and there, near the
-front, Doctor Johel in her exoskeleton, her visor up and one arm free so that
-she could sip tea from a travel mug with the old British flag on its side.
+toilet stall at one end, a little kitchen at the other, and right in the middle,
+Doctor Johel with her visor up and one arm free from her bulky exoskeleton so
+that she could sip tea from a travel mug with the old British flag on its side.
+
+"Acceleration in thirty seconds," the train said.  Iffy and Wales took seats
+behind Doctor Johel's and buckled themselves in.  "Fifteen seconds.  Laser
+de-icing enabled.  Plume suppression enabled.  Ten seconds. Nine, eight..."  *I
+should have gone to the toilet*, Iffy realized, and then the voice said, "Two,
+one, acceleration," and a giant hand pressed her softly back into her seat as
+the train shot forward, picking up speed with every meter.
+
+She had expected it to rumble and shake.  She had expected she would have
+trouble breathing, like characters in sims about rocket launches, but it was
+nothing like that.  Instead, it was quiet, smooth, and a little disappointing.
+Then she looked out the window and her disappointment evaporated.  They were
+going *fast*, faster than she'd ever gone in her life.  Snow-covered cairns of
+ground rock shot past the window, growing larger by the second as Paddington
+South disappeared behind them until eventually they merged into long, sinuous
+ridges.  She gasped as the train dove into a tunnel and almost instantly
+re-emerged.
+
+"Is this what flyin's like?" she asked Wales, awed by their speed.  "Or goin'
+into space?"
+
+He smiled, his eyes on the landscape.  "Pretty close.  Look, there's the
+*Scranton*.  And the *Brule*."  He pointed at a pair of distant dark shapes that
+Iffy had taken for more mining waste.  The window obediently zoomed in to show
+two hulking machines, each one big enough to use the *Bengal* and the
+*Guinevere* as bath toys.  Snow had piled up against their enormous treads and
+on their decks, and they were surrounded by debris from the explosions that had
+crippled them during the final days of the war, but even in ruin, they sent a
+chill up Iffy's spine.  Something...  She shook her head.  She was supposed to
+tell someone something, but she couldn't remember who or what...
+
+"Would either of you like some tea?" Doctor Johel asked, breaking into Iffy's
+troubled thoughts.  She took a sip from her antique travel mug and gestured with
+it at the little kitchen.  "It will probably be the last decent brew you get for
+a while."
+
+Wales declined, so Iffy did as well, but she did make belated and grateful use
+of the toilet.  When she returned, Wales and Doctor Johel were studying a
+wireframe of a building complex.  Rooms and stairways and elevators flickered in
+and out of existence as the core mixed and juggled plans for other satellite
+ground stations and records of various military research labs to sketch what
+they might find when they reached their destination.
+
+Doctor Johel finally waved it away and closed her eyes to nap.  Iffy had no idea
+how she could sleep sitting up, especially sitting up inside an exoskeleton, but
+as her face relaxed and she started to snore, Iffy realized once again just how
+old she was and how tired she must be.
+
+"Here," Wales said, bringing up some more schematics. "Have a look at these."  A
+satellite the size of her head rotated and flew apart into its consistuent
+pieces: cameras, antennas, a nuclear battery the size of her thumb, and all
+around it, the shimmering flow of code and logic that brought it all to life.

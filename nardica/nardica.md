@@ -4084,7 +4084,7 @@ weakly.  "Not about th' whole world."
 
 Wales laughed.  "Sorry.  I do get carried away sometimes."  His expression
 turned serious again.  "But I'll promise you this, my young apprentice.  If we
-get to Mount Tyree, and if Niobium Base hasn't been stripped for parts or
+get to Mount Tyree, and if the Niobium base hasn't been stripped for parts or
 flooded or burned out, and if we can get things to run, I promise---everything
 will be better.  *Everything.*"
 
@@ -4754,9 +4754,14 @@ Silver traces of tech lined her face, spreading even as she spoke.  "Tell
 Johnson Wales we are watching.  Tell him we are not fooled.  Tell him that this
 is his last life, and he should spend it wisely."*
 
-Iffy woke in a sweat.  Honesty stirred and moaned beside her.  "Ssh, ssh, ssh,"
-Iffy said softly.  She snuggled back against her friend and closed her eyes
-until something like sleep came again.
+*"No," Aunt Naggie said sharply.  "You will tell him nothing."*
+
+Something that felt like a cold metal collar closed around Iffy's neck.  She
+woke in a sweat and clutched at her throat, but there was nothing there.
+
+Honesty stirred and moaned beside her.  "Ssh, ssh, ssh," Iffy said softly.  She
+snuggled back against her friend and closed her eyes until something like sleep
+came again.
 
 She woke to the rap of armored knuckles on her door.  The Marines were polite
 enough, but it was clear that they felt Iffy should have left Honesty in their
@@ -4900,8 +4905,17 @@ abilities, and she definitely didn't want to spend the rest of her life locked
 in an underground lab being experimented on by someone named Norman whose only
 friend was a malicious bot with a squeaky wheel.
 
-Lights danced across the tech in Wales' temple.  "The *Bengal*'s surveillance
-is coming back online," he said quietly, pressing a finger to his lips.
+She opened her mouth to tell Wales and Aunt Naggie about her dream, but the
+words wouldn't come.  It was as if someone had pressed pause in her head: she
+knew exactly what she wanted to say, but somehow she couldn't form the words.
+She tried again---nothing, nothing except the feeling of something cold
+tightening around her neck.
+
+Neither of the adults noticed her eyes widen as she remembered the moment in her
+dream when she had felt the same thing.  Before she could think of anything else
+to try, lights danced across the tech in Wales' temple.  "The *Bengal*'s
+surveillance is coming back online," he said quietly, pressing a finger to his
+lips.
 
 Iffy nodded again.  There could be no more discussion.  "Lemme know if there's
 anythin' I can do t' help with repairs," she said.
@@ -4910,16 +4924,22 @@ Aunt Naggie gave her a hug.  "We'll be a'right," she said, her face pressed
 against the stubble on Iffy's scalp.  "We'll be a'right."  Iffy hugged her
 back and fled before her tears could show.
 
-She made her way back to her cabin, not knowing where else to go.  It felt just
-as cold and empty without Honesty as it had.  She kicked off her boots and threw
-herself onto her mattress still wearing her coat.  After staring angrily at the
-ceiling for a few seconds, she picked up her nature book and turned to the page
-she had wondered about most ever since she was old enough to read without a
-prompter murmuring in her ear to help.  It showed a forest, but calling it that
-was like calling the ocean wet.  The trunks of the trees were so thick that the
-*Guinevere*'s pilot house could have fit into them, and their branches reached
-higher than any building Iffy had ever seen.  The caption read, "Cathedral
-Grove," and beside it someone had written, "Why does everything have to end???"
+She made her way back to her cabin, not knowing where else to go.  What had just
+happened?  Why hadn't she been able to speak.  She put a tentative hand on her
+head and then snatched it away, feeling foolish.  She had never noticed any
+bumps or scars before---why would she now that she knew she had tech in her
+head?
+
+Her cabin felt cold and empty without Honesty.  She kicked off her boots and
+threw herself onto her mattress still wearing her coat.  After staring angrily
+at the ceiling for a few seconds, she picked up her nature book and turned to
+the page she had wondered about most ever since she was old enough to read
+without a prompter murmuring in her ear to help.  It showed a forest, but
+calling it that was like calling the ocean wet.  The trunks of the trees were so
+thick that the *Guinevere*'s pilot house could have fit into them, and their
+branches reached higher than any building Iffy had ever seen.  The caption read,
+"Cathedral Grove," and beside it someone had written, "Why does everything have
+to end???"
 
 Iffy ran her fingers over the picture, hoping to see a *Corvus caurinus* fly
 through or an *Odocoileus hemionus* peek out from the bushes, but the image
@@ -5188,32 +5208,39 @@ rose into the air and evaporated above Aunt Naggie's head.*
 important he understands that we know what he is trying to do.  We will not
 allow him to---"*
 
-*"__We__ have not yet decided what we will allow."  Honesty scowled at the
-trolley.*
+*"__We__ decided that we would not allow her to divert him."  Honesty scowled at
+the trolley.*
 
-*The trolley brandished a pair of chopsticks and a serving ladel.  "Our
+*The trolley brandished a pair of chopsticks and a serving ladel.  "But our
 simulations are complete.  The risk is too great."*
 
 *"The risk __to us__," Honesty conceded.  "But we are not the only concern, or
 even the largest."*
 
-*"Hey!" Iffy sat up and pointed at Honesty angrily.  "You don't get to be her,
-aright?"*
+*"Hey!" Iffy sat up and pointed at Honesty angrily.  "Stop it.  You don't get to
+be her, aright?"*
 
 *Uncle Jack gestured at his stained shirt.  "Do you want us to be this instead?"*
 
-*"What I __want__ is fer you t' get outta my head!"  Iffy threw herself back
-down on the bed and closed her eyes.  It was a childish thing to do, but she
-didn't care.  "I got a lot t' do t'morrow.  I gotta get some sleep."*
+*"What I __want__ is fer you t' get outta my head!  An' fer you t' fix whatever
+you did t' me so as I can't talk."*
 
-*The trolley rolled back and forth in agitation.  "Even now, they only think
-about trivialities.  They will make poor decisions, and will suffer the
+*Uncle Jack shrugged apologietically.  "A necessary precaution.  Any information
+you share about our conversation might necessitate fresh simulations, and we are
+running out of time."*
+
+*Iffy threw herself back down on the bed and closed her eyes.  "Well, I'm
+runnin' out o' time too, y'know.  It's practic'ly tomorrow already.  I gotta get
+some sleep."*
+
+*The trolley rolled back and forth in agitation.  "You see?  Even now, they only
+think about trivialities.  They will make poor decisions, and we will suffer the
 consequences.  Have we forgotten Bharati?"*
 
 *Uncle Jack---or whatever had been Honesty and was now Uncle Jack---shook his
-head.  "We have not," he conceded.  "Bharati was a miscalculation."*
+head.  "We have not.  Bharati was a serious miscalculation."*
 
-*"And our existence was jeopardized!  We must not allow them to---"*
+*"Precisely!  Simulation or no simulation, we must not allow them to---"*
 
 "Iffy!  Iffy, wake up!  Oh girl, are y'aright?"
 
@@ -5382,7 +5409,29 @@ how she could sleep sitting up, especially sitting up inside an exoskeleton, but
 as her face relaxed and she started to snore, Iffy realized once again just how
 old she was and how tired she must be.
 
-"Here," Wales said, bringing up some more schematics. "Have a look at these."  A
-satellite the size of her head rotated and flew apart into its consistuent
-pieces: cameras, antennas, a nuclear battery the size of her thumb, and all
-around it, the shimmering flow of code and logic that brought it all to life.
+"Here," Wales said, bringing up some more schematics. "Have a look at these."
+An angular dragonfly the size of her head rotated and flew apart to show
+cameras, antennas, a nuclear battery the size of her thumb that could last ten
+thousand years, and all around it, the shimmering flow of the software that
+brought it all to life.
+
+Wales froze the display and tapped an unremarkable orange lozenge.  "That's our
+way in, if it's still there."  He sat back and studied the sparkling lines that
+spiralled out from the subroutine he had selected.
+
+"Why woul'n't it be?" Iffy asked.
+
+Wales shrugged.  "They could have been hacked during the war.  Or someone might
+have pressed the panic button to kill ground control so that they couldn't be.
+A lot can happen in a hundred years."  He looked out at the pulverized waste on
+either side of them and repeated, "A lot can happen."
+
+The track didn't run all the way to Mount Tyree.  Instead, the train slowed,
+slowed, and stopped on the floor of a broad valley.  Twenty kilometers away, the
+mountain's peak thrust up proudly above its neighbors.  Iffy zipped herself into
+an ecosuit that smelled freshly printed and followed Doctor Johel and Wales out
+onto the snowfield.
+
+The icy wind whistled in her earphones as she helped the Marines unpack and
+assemble their snow scooters.  It felt good to be useful, even if the ecosuit's
+padded gloves made her hands clumsy.

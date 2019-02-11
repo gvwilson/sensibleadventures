@@ -1,23 +1,23 @@
 ## Prolog
 
-*Consider Cherne.  A diamond adrift in the heavens, it measures eight
-thousand gallops from north to south and six thousand from east to
-west.  Its single continent is surrounded on all sides by a great
-ocean, whose outer shore, the Worldrim, rises up to hold that sweet
-speck of life as a child might cup a drop of water in her hand.*
+*Consider Cherne.  A diamond adrift in the heavens, its single
+continent is surrounded on all sides by a great ocean whose outer
+shore, the Worldrim, rises up to hold that sweet speck of life as a
+child might cup a drop of water in her hand.*
 
-*Chernese history began with the Pilots, and nearly ended with them as
-well.  Powerful and inhuman, their reign ended in a long war called
-the Mutiny that scarred the moon, turned Lake Karaband into a sea of
-glass, and littered the land with strange magic.  When the Mutiny
-ended the Pilots were gone, leaving Cherne to carry on as best it
-could.*
+*Cherne's history began with the Pilots, and nearly ended with them as
+well.  Powerful and inhuman, their reign ended in a century-long
+Mutiny that scarred the moon, turned Lake Karaband into a sea of
+glass, and littered the land with strange magic.  When it was over the
+Pilots were gone, leaving the world to carry on as best it could.*
 
 *Now look there, where the Brumoso Mountains tumble down to the ocean
-and ninety little kingdoms squabble with their neighbors.  A small
-flock of clouds is flying west over fields and forest.  No, not just
-flying, but fleeing---fleeing for their lives.  That is where this
-story begins...*
+and ninety-nine little kingdoms squabble with their neighbors.  A
+small flock of clouds is flying west over fields and forest.  No, not
+just flying, but fleeing---fleeing for their lives.  That is where
+this story begins...*
+
+----------------------------------------
 
 ## Chapter 1: Reunion
 
@@ -25,7 +25,7 @@ The tornado roared, tearing at the fields beneath it like an angry
 child pulling up handfuls of grass.  *Left! Left!* Noxy mind-shouted,
 desperately hoping the young cloud she was riding wouldn't panic.
 
-Cloak hesitated. *Left!* Noxy ordered.
+Charger hesitated. *Left!* Noxy ordered.
 
 As the cloud finally obeyed, Noxy heard a mighty *crack!*.  She hoped
 it was just an apple tree being snapped in two---she had seen farmers'
@@ -35,12 +35,12 @@ had attacked them out of a clear blue sky.
 
 Noxy could barely see Aft and the others in front of her. She wiped
 grit from her eyes, but more immediately blew into her face. *Faster!*
-she urged Cloak. Her cloud struggled to obey.  She could mind-hear him
-tiring.
+she urged Charger. Her cloud struggled to obey.  She could mind-hear
+him tiring.
 
 Suddenly a branch as thick as Noxy's leg tore upward through the cloud
 and clubbed her shoulder. She was airborne for one sickening heartbeat
-before falling back onto Cloak.  She clutched him with one hand and
+before falling back onto Charger.  She clutched him with one hand and
 held on as tightly as she could.  *Down!  Down!  Down!* she
 mind-shouted, not realizing that she was screaming the words as well.
 
@@ -51,24 +51,24 @@ and whirling them around. "Oh no!" Noxy gasped as she saw people
 holding hands tumble through the air, but it was just laundry on a
 clothesline.
 
-Cloak scraped against the trees, then sagged to the ground with a
+Charger scraped against the trees, then sagged to the ground with a
 mind-spoken mewl of pain. Noxy slid down his side, gasping as she
 jostled her bruised arm. The branch had torn open her gray leather
 coat and the quilted sleeve of the heavy shirt she wore underneath it,
 but had only scraped her skin. Her knees went weak as she realized how
 close a call she'd had.
 
-The tornado began moving away.  She and Cloak had come down on a
+The tornado began moving away.  She and Charger had come down on a
 narrow dirt track through a patch of forest that lay between two apple
 orchards.  The summer-green branches of the oaks and maples around
-them still shook in the wind, but she and Cloak were safe.  For now.
+them still shook in the wind, but she and Charger were safe.  For now.
 
 She took a shaky breath.  Aft and the other cloudherds would have seen
 her come down.  They would come looking for her.  If they could.
 
 Heavy hooves drummed on the road behind her. Half a dozen soldiers in
-yellow coats galloped toward her on stocky black horses. She
-struggled to her feet with a grimace.
+yellow coats galloped toward her on stocky black horses. She struggled
+to her feet with a grimace.
 
 The lead rider reined in a few paces away. "Are you all right?" he
 asked, pulling down the black-and-yellow bandanna that protected his
@@ -85,30 +85,31 @@ incredulously, his voice breaking. "Is that you?"
 
 Noxy stared at the newcomer.  How did he know her name?
 
-The rider pulled down his bandanna.  "Noxy---what are you doing here?"
+The rider pulled up his battle mask.  "Noxy---what are you doing
+here?"
 
-"Lormay?"  Noxy stared at the prince of Gandan, cloud and arm both
+"Thokmay?"  Noxy stared at the prince of Gandan, cloud and arm both
 momentarily forgotten.  "How---" And then the world spun around her
 and she sagged back against her cloud.
 
 "Noxy!" The prince leaped down from his horse. With three quick
-strides he was beside her. He paid no attention to Cloak edging away
+strides he was beside her. He paid no attention to Charger edging away
 nervously as he caught her by her good arm and helped her sit back
 down on the hard-packed dirt track.
 
-"I'm all right," Noxy protested, shaking him off weakly. "It's Cloak
+"I'm all right," Noxy protested, shaking him off weakly. "It's Charger
 that's been hurt." She tried to struggle back to her feet, but the
 prince put a hand on her shoulder to stop her.
 
 "Just sit a moment," he said firmly. "Jinpa!"
 
-"Sir?" one of the soldiers answered.
+"Honored?" one of the soldiers answered.
 
 "That farm we passed," the prince said, pointing back along the
 track. "See if you can get help."
 
-"Sir!" the soldier replied. He snapped his horse's reins, only to pull
-up sharply when Noxy said, "Wait!"
+"Honored!" the soldier replied. He snapped his horse's reins, only to
+pull up sharply when Noxy said, "Wait!"
 
 This time the prince didn't stop her from getting up. "The farm's
 gone," she said. "The tornado tore it to pieces."
@@ -119,10 +120,10 @@ time!" The two soldiers galloped away.
 
 The prince looked back at Noxy. "Well," he said in a gentler voice.
 "It's good to see you again, but what are you doing *here*?  It's a
-long way from Marandine."
+long way from Stale."
 
 Noxy shrugged, then winced. This wasn't how she had imagined meeting
-Prince Lormay again, not at all. "We were on our way to Chaghan.  Aft
+Prince Thokmay again, not at all. "We were on our way to Chaghan.  Aft
 got a contract for some rain there---she's the mayor now---and Apple
 Bridge was sort of on the way, and..."  She shrugged again to hide her
 embarrassment.  She had wanted to surprise him...
@@ -130,45 +131,45 @@ embarrassment.  She had wanted to surprise him...
 Before the prince could reply, one of soldiers called out,
 "Sir---above us!"  The other clouds had returned.
 
-Aft brought her cloud down onto the road two dozen strides from Cloak
-and slid off while he was still settling. Like Noxy, she wore her
-frizzy black hair in long braids, but her leather coat was fringed
-with red and orange twists of ribbon.  Her dark face was as narrow and
-as fierce as a mountain hawk's.
+Aft brought her cloud down onto the road two dozen strides from
+Charger and slid off while he was still settling. Like Noxy, he wore
+his black hair in long braids, but his leather coat was fringed with
+red and orange twists of ribbon.  His dark face was as narrow and as
+fierce as a mountain hawk's.
 
-She strode over to Cloak without as much as glancing at Noxy, the
+He strode over to Charger without as much as glancing at Noxy, the
 prince, or the soldiers and laid her hands on its flank.  "Sh, sh,
-sh," she said soothingly as she closed her eyes to mind-speak with the
+sh," he said soothingly as he closed her eyes to mind-speak with the
 injured cloud.
 
-Lormay caught Noxy's eye and raised his eyebrows.  Noxy hesitated
+Thokmay caught Noxy's eye and raised his eyebrows.  Noxy hesitated
 before shaking her head slightly.  She still hadn't told anyone that
 she could mind-talk to clouds without touching them.  The prince
 nodded.
 
-Aft gave Cloak one last reassuring pat.  "He could have been torn to
-shreds," she said to Noxy flatly. "And *you* could have been killed.
+Aft gave Charger one last reassuring pat.  "He could have been torn to
+shreds," he said to Noxy flatly. "And *you* could have been killed.
 I'd never have heard the end of *that*."
 
-"Yes, respected," Noxy said, eyes downcast.
+"Yes, honored," Noxy said, eyes downcast.
 
-Aft turned to Prince Lormay. "I apologize, um, officer, if my
-companion here has caused you any trouble. I'm sure we can take care
-of this now."
+"Don't you 'honored' me," Aft growled.  He turned to Prince Thokmay.
+"I apologize, um, commander, if my companion here has caused you any
+trouble. I'm sure we can take care of this now."
 
 "Oh, it's no trouble," the prince said mildly, his voice cracking.
 "But now that you're here, I was hoping Noxy and I would have a chance
 to catch up."  He held the cloudherd's gaze, fourteen looking at
-forty, for the half-dozen heartbeats it took her to realize who he
-was.
+forty, for the half-dozen heartbeats it took the older man to realize
+who he was.
 
-As she opened her mouth to speak, the prince continued, "We were on
+As Aft opened her mouth to speak, the prince continued, "We were on
 our way to escort the new consul from Chaghan into Apple Bridge when
 we spotted the tornado.  I expect he'll have gone on ahead, but we
 should get moving too in case it comes back."
 
-Aft's eyes narrowed. "Come back?"  She hesitated before grudgingly
-adding, "Your Highness?"
+Aft's eyes narrowed. "Come back?"  He hesitated before grudgingly
+adding, "Honored?"
 
 The prince nodded. "It's not just some monster out of the Blight. The
 first attack was on a farmer who let us borrow his truffle pigs to
@@ -179,14 +180,13 @@ who were trying to help us."
 skeptically. "How could back-country folk ever work magic like that?"
 
 "They couldn't," the prince said, "But they can find it and use it.
-That tornado probably spent the last thousand years in a bottle at the
-bottom of Fast Lake.  We think some smuggler found it floating down
-the river and realized what he had before he sold it.  It's just our
-bad luck that---"
+That tornado probably came out of a bottle at the bottom of Fast Lake.
+Some smuggler must have found it floating down the river.  It's just
+our bad luck that---"
 
-"Your Highness!" The soldiers who had gone down the road had come
-trotting back. Two frightened boys in hand-me-down clothes were
-sitting behind Jinpa, while an old woman rode behind Manpa.
+"Honored!" The soldiers who had gone down the road had come trotting
+back. Two frightened boys in hand-me-down clothes were sitting behind
+Jinpa, while an old woman rode behind Manpa.
 
 The two boys stared wide-eyed at the nearby clouds while their
 grandmother told her story.  Her son-in-law, it was his farm, she'd
@@ -202,9 +202,9 @@ of nowhere, and the boys had been so brave, but what was she going to
 tell her daughter and her son-in-law about the cottage?  The roof was
 gone, and the chicken coop, and the whole *barn*, and---
 
-"His Majesty will pay to have it all rebuilt," the prince told her
+"The king will pay to have it all rebuilt," the prince told her
 soothingly. "But right now, my men will see you safely into Apple
-Bridge. You can stay there until we find out who's behind this."
+Bridge.  You can stay there until we find out who's behind this."
 
 The old woman nodded, fighting tears.  The prince turned back to
 Noxy. "You would be welcome in Apple Bridge as well, of course. You
@@ -213,14 +213,13 @@ and all your companions."
 "That's impossible," Aft said sharply. "We've already lost half a day,
 and if the tornado comes back like you said---"
 
-"But Cloak is hurt," Noxy interrupted hurriedly, "She needs to rest
-for a few days, or she'll never make it to Chaghan, much less back
-home."
+"But Charger is hurt," Noxy protested. "She needs to rest for a few
+days, or she'll never make it to Chaghan, much less back home."
 
-"Well, we can't afford dawdle around for a week," Aft snorted.
-"Chaghan's crops haven't seen rain in a month.."
+"We can't afford dawdle around for a week," Aft snapped.  "Chaghan's
+crops haven't seen rain in a month.."
 
-"Well then, I'll stay here with Cloak until he's better," Noxy
+"Well then, I'll stay here with Charger until he's better," Noxy
 declared.
 
 "Oh no you won't," Aft told her, glaring. "I'm not leaving one of my
@@ -229,25 +228,25 @@ talent for finding trouble!"
 
 "I'm old enough to take care of myself!" Noxy said indignantly.
 
-"Just like you took care of Cloak?" Aft snapped.
+"Just like you took care of Charger?"
 
 "I will take responsibility for her," the prince said, stepping
-between the two.  "The cloud can stable at the garrison house until
-they're able to catch up with you."
+between the two.  "They can stay at the garrison house until they're
+able to catch up with you."
 
-Aft threw up her hands. "Like mother, like daughter," she said to
+Aft threw up his hands. "Like mother, like daughter," he said to
 no-one in particular. "Do as you please---you always have.  Just
 promise me you won't go looking for trouble."
 
 "I never go *looking* for trouble," Noxy muttered, but Aft was already
-climbing back onto her cloud. A few moments later she was airborne,
+climbing back onto his cloud. A few moments later he was airborne,
 heading west with the rest of the herd.
 
 The prince's carefully polite expression turned wistful as he watched
 the clouds fly away. "Can you two make it to Apple Bridge?" he asked
 Noxy.
 
-She put her hand on Cloak's flank and closed her eyes to mind-speak
+She put her hand on Charger's flank and closed her eyes to mind-speak
 with him before nodding. "Yes, if we go slowly. I've been pushing him
 pretty hard to keep up with the others," she added, feeling a sudden
 pang of guilt. "I think that's why we couldn't get away from the
@@ -259,54 +258,54 @@ Apple Bridge, and tell the staff that they're to be put up in the
 garrison guest house if they can't find something more suitable.  I
 will take the cloud back with Respected Noxious."
 
-The soldier cleared his throat. "Um, Your Highness, are you sure---"
+The soldier cleared his throat. "Um, honored, are you sure---"
 
 "We'll all be safer if someone is in a position to spot the tornado
 returning," the prince said crisply.
 
 "Yes sir," Jinpa replied doggedly, "But---well, Sergeant Gyalpa said
 to be double sure you were back along the garrison in time for the
-dinner tonight.  With the new consul, sir.  What with protocol and
+dinner tonight.  With the new consul, sir.  It being protocol and
 along like that."
 
-The prince muttered something under his breath that Noxy would really
-have liked to hear.  "The cloud won't be any slower than horseback,"
-he told Jinpa.  "And if I'm late, I'll tell the good sergeant it was
-my fault."
+The prince muttered something under his breath that Noxy was glad she
+couldn't hear properly.  "The cloud won't be any slower than
+horseback," he told Jinpa.  "And if I'm late, I'll tell the good
+sergeant it was my fault."
 
 "Yes sir," Jinpa said glumly.  He exchanged a look with Manpa.  It
 wouldn't matter to the sergeant whose fault the prince said it was...
 
-Prince Lormay pointed at the two little boys.  "You two keep an eye
+Prince Thokmay pointed at the two little boys.  "You two keep an eye
 out as well," he said sternly. "If you see any sign of trouble, you
 tell these men right away, all right?"
 
-"Yes sir," the older one said. His brother just stared wide-eyed at
-the prince, the cloud, and the big wide world he'd suddenly found
+"Yes, honored," the older one said. His brother just stared wide-eyed
+at the prince, the cloud, and the big wide world he'd suddenly found
 himself in.
 
-The prince pulled himself up onto Cloak behind Noxy, then sat quietly
-as she coaxed the injured cloud into the air. They levelled off a
-hundred strides above the forest and turned toward Apple Bridge.
+The prince pulled himself up onto Charger behind Noxy, then sat
+quietly as she coaxed the injured cloud into the air. They levelled
+off a hundred strides above the forest and turned toward Apple Bridge.
 
 The soft, slightly damp feel of the cloud brought memories flooding
 back to the prince. The last time he had flown had been two years
 ago. A lot had changed since then, but not the exhiliration of being
-able to see *everything*: the hackthorn bushes in their summer finery,
+able to see everything: the hackthorn bushes in their summer finery,
 the apple orchards, a family of deer by a stream, a farmer shading his
 eyes to look up at the cloud...
 
 And there, in the distance, the Blight.  Centuries ago, the Pilots had
-dumped their magical waste there, from spells gone wrong to enchanted
+dumped their leftover magic there, from spells gone wrong to enchanted
 creatures so dangerous that even the greatest magicians were afraid of
 them.  At its center lay Fast Lake, where a year might pass for every
 day in the normal world.  Around it, the land was---strange.  Some
 parts were completely barren, while others were crowded with purple
 trees whose limbs swayed in time to music no human being had ever
 heard.  Chaghan lay on the far side, three days' hard ride for anyone
-brave enough to cut across a few outlying patches of Blighted land,
-or a week for those who didn't want to risk a stray gust of tainted
-wind turning their eyes to glass.
+brave enough to cut across a few outlying patches of Blighted land, or
+a week for those who didn't want to risk a stray gust of tainted wind
+turning their eyes to flowers.
 
 The prince jumped slightly when Noxy said, "You're pretty good at
 giving orders these days."
@@ -318,7 +317,7 @@ just try to stay out of their way."
 
 "Well, it sounded pretty convincing to me," Noxy said. She lowered her
 voice half an octave. "'You two keep an eye out'. It reminded me of
-Sergeant Norbu."
+Sergeant Dorbu."
 
 The prince smiled and cleared his throat. "'I never go *looking* for
 trouble'," he said in a falsetto voice.
@@ -336,10 +335,9 @@ The prince nodded. "Your letter said. I was surprised to hear she was
 no longer mayor."
 
 "A lot of people are still angry about what happened," Noxy said, her
-eyes on the horizon.  "Fernando still can't walk properly, so when Aft
-said she was going to stand, there wasn't even an election.  She says
-she's glad that someone else is worrying about everything, but I think
-she misses it."
+eyes on the horizon.  "So when Aft said he was going to stand, there
+wasn't even an election.  She says she's glad that someone else is
+worrying about everything, but I think she misses it."
 
 "I know how she feels," the prince said. "Things have been a lot
 different for me too, but I'm actually glad to be out here, away from
@@ -352,7 +350,7 @@ The prince shook his head. "He's with my brother now."
 
 Noxy frowned. "Why? I thought he liked you."
 
-The prince shrugged. "He probably does, but Thokmay's the heir now."
+The prince shrugged. "He probably does, but Lormay's the heir now."
 He couldn't quite keep the bitterness out of his voice when he
 continued, "My father said it would make it clear to everyone that
 things have changed. Sending me to Apple Bridge is part of that
@@ -381,28 +379,27 @@ They rode in silence before the prince cleared his throat.  "And what
 about... you know.  You can still head-talk to clouds from far away?"
 
 "Mind-talk," Noxy corrected automatically.  "And yes, I can still do
-it.  It's even been getting stronger.  I can..."  She closed her eyes
-and took a slow breath.  "I can still mind-hear the cloud Aft is
-riding, and the rest of the herd too.  And over there."  She pointed
-without opening her eyes.  "There are some wild clouds over there
-somewhere."
+it."  She closed her eyes and took a slow breath.  "I can still
+mind-hear the cloud Aft is riding, and the rest of the herd too.  And
+over there."  She pointed without opening her eyes.  "There are some
+wild clouds over there somewhere."
 
 "And you still haven't told anyone?"
 
-Noxy shook her head.  The cloudherds had stories about people who
-could mind-talk to clouds without touching them, or to birds, or even
-to other people, but none of them had happy endings.  She suspected
-that her grandmother had figured out that something was going on, but
-she hadn't brought it up.
+Noxy shook her head.  "Only my granna."  The cloudherds had stories
+about people who could mind-talk to clouds without touching them, none
+of them with happy endings.
 
 The prince waited another heartbeat for her to speak.  When she
 didn't, he nodded.  "All right," he promised.  "Our secret."
+
+----------------------------------------
 
 ## Chapter 2: Apple Bridge
 
 The sun was sitting on the horizon like a fat yellow hen by the time
 Apple Bridge came into view.  The town was home to twenty times as
-many people as Marandine, but seemed small to Noxy after some of the
+many people as Stale, but seemed small to Noxy after some of the
 cities she had flown over.
 
 Most of the buildings were two or three stories tall. Their ground
@@ -441,7 +438,7 @@ trailed off.
 "It must be quite some spell to still be working after so long.
 Ulfmaerr---" Noxy paused. "Ulfmaerr said magicians' spells usually
 fade away when they do."  *Like he did,* she thought sadly.  The last
-time he had come to Marandine he had hardly been able to hold his own
+time he had come to Stale he had hardly been able to hold his own
 spoon.  His eyes had been as bright as ever, but had darted from one
 face to another as he tried to remember people's names. That had been
 a year ago. No-one had seen him since.  No-one expected to.
@@ -462,11 +459,11 @@ his eyes, shoulders that seemed as wide as he was tall, and no more
 expression than a stone.
 
 "Your Highness," he said, snapping a salute as the prince slid off
-Cloak.
+Charger.
 
 "Sergeant Gyalpa," the prince acknowledged, wiping his hands on his
 uniform before returning the salute.  "Allow me to present Probably
-Noxious of Marandine.  She will be staying with us until it is well
+Noxious of Stale.  She will be staying with us until it is well
 enough to travel again."
 
 "Miss Noxious." The sergeant bowed formally.
@@ -497,7 +494,7 @@ that hung on a fine chain around his neck and blew two short notes
 followed by two long ones.  A moment later a handful of soldiers came
 trotting across the courtyard from various directions.
 
-"Does the cloud need anything?" Prince Lormay asked while the sergeant
+"Does the cloud need anything?" Prince Thokmay asked while the sergeant
 gave the new arrivals their orders.
 
 "Just water," Noxy said, rubbing her bruised arm.  "She'll be all
@@ -512,7 +509,7 @@ again."
 "You too," Noxy replied, her face warm despite the early evening
 chill.
 
-Prince Lormay watched as the housemaid led Noxy away.  He should
+Prince Thokmay watched as the housemaid led Noxy away.  He should
 probably take a bath before dinner too, he realized.  And find a clean
 shirt.  And see if anyone knew the new Chaghan consul's name yet.  The
 outgoing one, Yisu, had claimed not to know.  "Oh, they don't tell
@@ -535,7 +532,7 @@ him.
 The prince jumped.  "Not really.  I meant to ask, any word from
 Sergeant Dambu?"
 
-"Yes sir," the sergeant said, studying Cloak.  "She and her troop got
+"Yes sir," the sergeant said, studying Charger.  "She and her troop got
 along back this afternoon.  They were gone six days, near as they can
 figure."
 
@@ -621,7 +618,7 @@ themselves out of his way as he leaped for the market gate.  He swung
 himself up on top of it, leaped again for the nearest roof, and was
 gone.
 
-Meanwhile, Prince Lormay had just closed the door to his room behind
+Meanwhile, Prince Thokmay had just closed the door to his room behind
 him.  A clean dress shirt was waiting on his pillow, and his town
 boots had been polished and set at the foot of his bed.  He shrugged
 off his heavy uniform jacket and hung it on the tailor's dummy that
@@ -682,8 +679,8 @@ the gold-and-turquoise collar of Gandan securely around his neck and
 his second wife, in a matching jacket and long flowing trousers,
 beside him.  His youngest son, Prince Thokmay, stood in front of the
 king wearing a copy of the royal collar to show the world that he was
-the heir.  Prince Lormay and Princess Ogmin stood to either side,
-hands clasped behind their backs.  Two years ago, Lormay and Thokmin's
+the heir.  Prince Thokmay and Princess Ogmin stood to either side,
+hands clasped behind their backs.  Two years ago, Thokmay and Thokmin's
 positions had been reversed.  He wondered if his brother thought about
 that as often as he did.
 
@@ -751,7 +748,7 @@ bewildering confusion of cutlery laid at each place.
 
 "Good evening, respected," the prince said solemnly, bowing.  Noxy
 hesitated, not knowing if she was supposed to bow back, but then
-Lormay winked.
+Thokmay winked.
 
 She scowled to hide her blush.  "You're a beast, you know that?"
 
@@ -764,13 +761,13 @@ precariously on his tiny snub of a nose. His orange jacket was just a
 shade lighter than his fur, while his brown pants were just a shade
 darker.
 
-"Ahem.  Um, Probably Noxious of Marandine, allow me to present my
+"Ahem.  Um, Probably Noxious of Stale, allow me to present my
 tutor, the Learned Mope."
 
 "A pleasure to meet you, respected---the prince has spoken of you
 often,"  the troll said, smiling pleasantly.
 
-"Learned Mope is Dolly's son," Prince Lormay explained to Noxy. "He's
+"Learned Mope is Dolly's son," Prince Thokmay explained to Noxy. "He's
 supposed to be teaching me law and history."
 
 "He's actually not a bad student," the troll told Noxy in a stage
@@ -851,7 +848,7 @@ the same place, it's a court."
 Noxy glanced at the door.  Her blood instantly went cold.
 
 "It can't be..." she whispered.  She grabbed the prince's arm.
-"Lormay... look!"  The prince looked where she was pointing.  The
+"Thokmay... look!"  The prince looked where she was pointing.  The
 smile dropped off his face like a hanged man dropping from a gallows.
 
 "Your Highness!"  The portly woman striding toward them with a
@@ -872,13 +869,13 @@ Respected Noxious.  I trust you are well."
 back and forth between the two princes like a rabbit caught between
 two lions.
 
-"Yes," Prince Lormay grated. "He murdered a friend of mine."
+"Yes," Prince Thokmay grated. "He murdered a friend of mine."
 
 Prince Shudarga coughed.  "Not that I wish to begin my tenure as
-consul by disagreeing with my host, but Sergeant Norbu's death was not
+consul by disagreeing with my host, but Sergeant Dorbu's death was not
 murder."
 
-"Not murder!?"  "Consul!?"  Noxy and Prince Lormay exclaimed at the
+"Not murder!?"  "Consul!?"  Noxy and Prince Thokmay exclaimed at the
 same time.
 
 "How can you be consul? You're not Chaghan-o!" the prince continued.
@@ -889,7 +886,7 @@ my holdings in Gandan.  When Consul Yisu decided to retire, offering
 my services as her replacement seemed the least I could do to thank
 them."
 
-If Noxy had been raised at court like Prince Lormay, she might have
+If Noxy had been raised at court like Prince Thokmay, she might have
 noticed the angry look that briefly flitted across Consul Yisu's face
 when Prince Shudarga said she had decided to retire.  As it was, she
 was too angry to notice anything, not even the way Manpa and Jinpa had
@@ -897,7 +894,7 @@ slipped into the room to stand casually by the door, very definitely
 *not* ready to draw their swords at the first hint of trouble.
 
 "The least you could do?" the prince snarled.  "The least you could do
-is find a cliff like the one you threw Sergeant Norbu off and take a
+is find a cliff like the one you threw Sergeant Dorbu off and take a
 flying leap!"
 
 Prince Shudarga sighed theatrically.  "I did not throw the sergeant
@@ -905,20 +902,20 @@ off anything, Your Highness.  We were fighting.  It was difficult
 terrain, and he fell.  I'm sorry it happened.  I'm sorry for every
 single person or Gifted beast that died that day."
 
-"Sorry enough to come back to Marandine for trial?" Noxy burst out.
+"Sorry enough to come back to Stale for trial?" Noxy burst out.
 
 Prince Shudarga shook his head.  "I very much doubt I would receive a
 fair hearing if I did so."
 
 "A fair---you don't deserve any kind of hearing!  Let *go* of me!"
-Noxy shook off the hand Prince Lormay had put on her arm.
+Noxy shook off the hand Prince Thokmay had put on her arm.
 
 "Noxy!" the prince said sharply.  He held up the cream-colored sheet
 of paper that Consul Yisu had handed to the steward, who had in turn
-passed it to Prince Lormay.  "Noxy, I'm sorry, but he's telling the
+passed it to Prince Thokmay.  "Noxy, I'm sorry, but he's telling the
 truth.  He really is the new consul."
 
-Noxy stared at him incredulously.  "But---he killed Sergeant Norbu!"
+Noxy stared at him incredulously.  "But---he killed Sergeant Dorbu!"
 
 The prince nodded, his face years older than it had been just minutes
 ago.  "I know he did.  But as long as he's officially a guest of the
@@ -929,13 +926,13 @@ gray, Noxy noticed, and he was thinner than he had been two years ago.
 She hoped it was more than just age.  She hoped those two years had
 been as hard for him as they'd been for Fernando, whose broken leg had
 healed crookedly, or for Ulfmaerr, who had given up so much of himself
-to help her and Prince Lormay escape.  She hoped he had nightmares,
+to help her and Prince Thokmay escape.  She hoped he had nightmares,
 like she sometimes still did.
 
 From his post beside the table, the steward rang a small bell.
 "Dinner is served," he announced.
 
-Prince Lormay didn't move.  "My apologies, Respected Yisu," he said,
+Prince Thokmay didn't move.  "My apologies, Respected Yisu," he said,
 "But I find I am suddenly feeling unwell.  I don't think I would be
 able to make it through dinner."
 
@@ -943,10 +940,10 @@ able to make it through dinner."
 understand.  Perhaps I could come and bid you farewell before I
 depart?"
 
-"It would be my pleasure."  She and Prince Lormay bowed to each other.
+"It would be my pleasure."  She and Prince Thokmay bowed to each other.
 
 "And I trust you will enjoy your stay in Apple Bridge, *Consul*,"
-Lormay said to his other guest in a voice as cold as a mountain lake.
+Thokmay said to his other guest in a voice as cold as a mountain lake.
 
 Prince Shudarga inclined his head.  "I hope so, Your Highness.  I
 sincerely hope so."
@@ -956,7 +953,7 @@ dinner table throughout the exchange.  The moment the door closed
 behind the two visitors and the apologetic steward, he took a deep
 breath and blew it out through his mustache.  "Sir, if I may---"
 
-"You may not," Prince Lormay snapped.
+"You may not," Prince Thokmay snapped.
 
 "But sir, I---"
 
@@ -977,17 +974,17 @@ still going to have pie?" she asked hesitantly, then look startled
 when everyone laughed.
 
 In the end they agreed it would be a shame to waste the kitchen's hard
-work, and Prince Lormay declared that he was feeling much better.  The
+work, and Prince Thokmay declared that he was feeling much better.  The
 house staff served spicy squash soup and skewers crowded with grilled
 vegetables and salty cubes of cheese.  The pie that followed was
 delicious.
 
-Afterward, Prince Lormay sent his sister gently off to bed.  "Would
+Afterward, Prince Thokmay sent his sister gently off to bed.  "Would
 you like to sit on the balcony for a bit?"  he asked Noxy once she was
 gone.  "I'm sure the cook would be happy to mull some cider."
 
 The balcony turned out to be as wide as the house Noxy shared with her
-mother back in Marandine. The Trout River stretched away to the left
+mother back in Stale. The Trout River stretched away to the left
 and the right, up toward the magic dam and down through Gandan and
 Latter Tongsa to the sea.  Moonlight gleamed on each little ripple,
 and suddenly Noxy missed the million sharp stars of the mountain sky.
@@ -1003,7 +1000,7 @@ middle of the night than getting out of bed in the morning."
 "As long as a couple of people are awake to keep the herd moving, the
 rest will follow."
 
-"Are you enjoying it?" Lormay asked.
+"Are you enjoying it?" Thokmay asked.
 
 Noxy smiled.  "Lots."  She hesitated.  "And---how about you?  Are you
 enjoying... this?"
@@ -1042,7 +1039,7 @@ his oldest son. I wonder sometimes, though." The prince drained his
 cider. "I don't feel---I don't feel like I'm ready for that kind of
 trust, not really."
 
-Noxy was silent. Finally Prince Lormay sighed. "I'm sorry. It's
+Noxy was silent. Finally Prince Thokmay sighed. "I'm sorry. It's
 been a long day, and I still have a letter to write. Do you really
 want to go to the Dog Market with Ogmin tomorrow? You don't have to if
 you don't want to."
@@ -1123,7 +1120,7 @@ air was chill, and morning would arrive all too soon, but there was
 one more chore to be done...*
 
 As the crow tucked its head under its wing on a rafter above the
-horse, Prince Lormay was sitting down at his desk.  He had unbuttoned
+horse, Prince Thokmay was sitting down at his desk.  He had unbuttoned
 his dress jacket but kept it on for warmth---the light from the little
 dayglass lantern by his elbow was midday-yellow, but held no heat at
 all.
@@ -1142,14 +1139,14 @@ think that his father's hawk-eyed accountants would quibble over the
 shells that the prince was planning to spend to rebuild it, but Mope
 always told him to think two moves ahead.
 
-*3. A Marandine cloud was injured in the same attack. Its rider is to
+*3. A Stale cloud was injured in the same attack. Its rider is to
 remain here with it until it is able to rejoin its herd.* He had
 almost chewed the end off his quill writing those two sentences.
 After what had happened two years ago, he doubted his father would be
 happy knowing that Noxy was staying at the garrison house.  He wanted
 his brother to find out even less. The first time Noxy had written
-Lormay a letter, Thokmay had run through the palace holding it in the
-air, crowing, "Lormay has a sweetheart!  Lormay has a sweetheart!"
+Thokmay a letter, Thokmay had run through the palace holding it in the
+air, crowing, "Thokmay has a sweetheart!  Thokmay has a sweetheart!"
 The older prince had knocked over a potted lime tree and two elderly
 surveyors catching up with him, and had his riding privileges taken
 away for a week for blacking his eye. Thokmay had made a point of
@@ -1182,7 +1179,7 @@ clattered on the floor.
 The door burst open a moment later. "Your Highness!"  Someone shook
 him. "Your Highness, are you all right?"
 
-"I'm fine," Prince Lormay mumbled. He let out his breath with a
+"I'm fine," Prince Thokmay mumbled. He let out his breath with a
 whoosh, half-expecting to see it make a fog. "It was Edward. He was
 here."
 
@@ -1221,7 +1218,7 @@ He waited until they were gone before putting his hand on the prince's
 shoulder.  "If you need to yark, lad, go ahead.  Most do, their first
 time along this sort."
 
-Prince Lormay shook his head, feeling merely dizzy instead of seasick.
+Prince Thokmay shook his head, feeling merely dizzy instead of seasick.
 The thoughts the ghost had left behind in his head were fading.  "I
 think..." He swallowed.  "It's something about the bridge.  Or the
 dam.  And the Blight.  Something bad is coming."  He stood, then
@@ -1237,7 +1234,7 @@ hand.  Her voice, soft and husky, seemed at odds with her skinny
 frame.  "Should have moved along ages since, before we were either
 born.  Why's he coming stronger?  And how?"
 
-Prince Lormay straightened up. "Whatever is giving him the strength to
+Prince Thokmay straightened up. "Whatever is giving him the strength to
 stay in this world can't bode well for this town. I'll include a note
 to my father's magicians in my letter and ask for advice." He took a
 deep breath and let it out with a whoosh. "I'll do that now.  It's not
@@ -1250,7 +1247,7 @@ back into his chair.
 
 He could feel the long day dragging down his eyelids as he added a
 scribbled summary of what had happened to his letter and signed, *Your
-dutiful son, Lormay Gandan-o Prince* below it.  He knew he should
+dutiful son, Thokmay Gandan-o Prince* below it.  He knew he should
 re-read it, but instead he drew a line diagonally across the empty
 space at the bottom of the page, folded it into thirds, stumbled to
 his bed, kicked off his boots, and was asleep by his third breath.
@@ -1275,7 +1272,7 @@ on the door to his suite.  "Enter," he said loudly.
 Sergeant Dambu closed the door behind her and saluted.  "Your
 Highness," she said, eyes downcast.
 
-"Sergeant." Prince Lormay gestured at stool next to his desk.  "Thank
+"Sergeant." Prince Thokmay gestured at stool next to his desk.  "Thank
 you for coming so quickly last night.  Any further thoughts on why
 Edward keeps bothering us?"
 
@@ -1412,7 +1409,7 @@ a Hett tinsmith was stoking the coals in his tiny portable forge, a
 pair of kite makers were squabbling over which of their wares to hang
 up, and a tailor was showing a new bolt of cloth to the portrait
 painter beside her.  Noxy felt a sudden pang of homesickness---it was
-Yellowsday, which meant it would be market day back home in Marandine
+Yellowsday, which meant it would be market day back home in Stale
 too.  It wouldn't be nearly as large---why, the whole village would
 practically fit inside the Dog Market---but it would have the same
 feeling about it, the same sense that if you turned the right corner
@@ -1466,7 +1463,7 @@ back in a few days and you'll see.  Now, do you want some tea?"
 They spent the next half hour wandering.  Noxy wasn't surprised that
 everyone seemed to know the princess.  What did surprise her was the
 scowls and glares directed at Dolly whenever the princess wasn't
-looking.  Trolls hadn't come into Marandine at all until two years
+looking.  Trolls hadn't come into Stale at all until two years
 ago, when the prince and Ulfmaerr had struck a bargain with the local
 tribe.  Since then they'd been regulars at the weekly market, trading
 their strength and whatever they'd gleaned from the forest for
@@ -1576,7 +1573,7 @@ them.  And sometimes *things* come floating down out of the Blight."
 
 Princess Ogmin busied herself tossing pebbles into the river.  Noxy
 threw a few as well, but then felt a twinge in the back of her mind.
-Cloak was awake, and thirsty, and wondering where she was.  *Soon*,
+Charger was awake, and thirsty, and wondering where she was.  *Soon*,
 she mind-spoke soothingly.
 
 When the princess finally declared that she was bored, Jinpa jogged up
@@ -1617,7 +1614,7 @@ like that? Dolly, I'm really sorry."
 "But...but she said it right *to* you!"  Noxy suddenly realized that
 her hands were clenched into fists. She spun around to go back and
 give the cook a piece of her mind and walked straight into Prince
-Lormay.
+Thokmay.
 
 "Oh!" she exclaimed. Their faces were almost touching for a moment.
 For some reason she found herself blushing. "I'm sorry, I didn't---"
@@ -1632,7 +1629,7 @@ to Dolly!"
 The prince glanced over at the leek seller, who was eyeing them
 sidelong.  His jaw set.  "Was she, now?"
 
-"Your Highness, please, just---" Dolly started, but Prince Lormay had
+"Your Highness, please, just---" Dolly started, but Prince Thokmay had
 already spun on his heel and gone back to the leek seller's stall.
 Noxy couldn't hear what he said, but she could see the anger and
 reluctant deference on the cook's face.
@@ -1683,7 +1680,7 @@ sharply.
 
 "...my paw..." the bear muttered again.
 
-Prince Lormay sighed and waved his free hand at Manpa and Jinpa and
+Prince Thokmay sighed and waved his free hand at Manpa and Jinpa and
 his bodyguards to sheathe their swords.  "Are you all right?" he asked
 his sister gently.
 
@@ -1773,7 +1770,7 @@ to the princess non-stop as he tucked the palmful of carved wooden
 shells she offered him into his pocket and then wound the ribbon
 around his finger to make a tight little spool.
 
-*Hungry!* Cloak mind-spoke to Noxy.
+*Hungry!* Charger mind-spoke to Noxy.
 
 She cleared her throat.  "I really should go back and check on my
 cloud," she told the prince.
@@ -1803,14 +1800,14 @@ Princess Ogmin wanted to stop on the way back to the garrison house to
 see if her favorite seamstress would sew her new ribbon onto her dress
 right then and there.  When Noxy said that she really had to get back
 to see how her cloud was doing, the princess immediately asked if she
-could go for a ride, because it wasn't fair that Prince Lormay had
+could go for a ride, because it wasn't fair that Prince Thokmay had
 flown and she hadn't.  Noxy looked at the prince, who nodded.
 
 "Of course," she said.  The princess squealed with delight and began
 to pull her down the street, urging her to go faster so they could
 start right away.
 
-Noxy was careful to lay her hands on Cloak before mind-speaking to
+Noxy was careful to lay her hands on Charger before mind-speaking to
 him---the last thing she wanted was for Aft to find out about her
 ability before she figured out how to tell her mother and grandmother.
 *Hungry?* she asked.
@@ -1830,7 +1827,7 @@ sitting beside her.  *Good?  Or hurt?*
 Noxy smiled.  "He's healing well," she said aloud.  "But I should take
 him up just to see.  We can go up together after lunch if he's
 better," she added quickly as the princess began to pout.  "Besides,
-he needs to eat."  It was true---Cloak was as dry as cotton wool.  No
+he needs to eat."  It was true---Charger was as dry as cotton wool.  No
 matter how sore he was, he needed to find a pond somewhere and get
 some sunshine.
 
@@ -1843,7 +1840,7 @@ gloves, and trotted down the stairs and back across the courtyard to
 the makeshift cloud pen.  She didn't realize that she was humming
 happily the whole time.
 
-Cloak pulled himself together until he was dense enough to stand on.
+Charger pulled himself together until he was dense enough to stand on.
 Noxy clambered up his side like a baby troll climbing onto its
 mother.  *Ouch!* the cloud complained.
 
@@ -1856,7 +1853,7 @@ The quick scramble up the cloud's side had made her shoulder hurt too.
 All of a sudden she didn't want to be this close to the ground any
 more.
 
-*Up!* she ordered Cloak, and, "I won't be long," she called to the
+*Up!* she ordered Charger, and, "I won't be long," she called to the
 prince and princess and the soldiers and servants standing with them.
 
 The hungry cloud didn't need to be told twice.  He rose with a lurch,
@@ -1866,7 +1863,7 @@ The clock tower seemed to stare at her jealously, its green dial a
 blind staring eye, before it dropped away as well and she was up in
 the sky, up in *her* world, up where she belonged.
 
-*Good?* she mind-asked Cloak, pushing her hands as deep as they would
+*Good?* she mind-asked Charger, pushing her hands as deep as they would
 go into him and scrunching them up.  She mind-heard the cloud's purr
 of satisfaction as she scratched around the patch torn by the branch.
 
@@ -1878,7 +1875,7 @@ child's toy, stalls and wagons and bales of cloth scattered like the
 pieces of a forgotten game.
 
 The river sparkled sharply on the far side of the market.  *There,*
-Noxy ordered.  Cloak turned slowly, stretching his edges to catch the
+Noxy ordered.  Charger turned slowly, stretching his edges to catch the
 breeze, and drifted toward it.
 
 Noxy shaded her eyes with her hand.  Half a dozen barges laden with
@@ -1889,7 +1886,7 @@ princess had seen setting out that morning.
 
 All except the one trailing behind.  Noxy frowned.  She couldn't see
 anyone on the rear barge at all.  Had it come loose?  *Go closer,* she
-mind-spoke to Cloak.
+mind-spoke to Charger.
 
 *Later,* the cloud replied sleepily.  She could feel him drifting into
 a contented half-slumber as he soaked up the fresh air and sunshine
@@ -1898,7 +1895,7 @@ that clouds fed on.
 *Please?* She pictured herself scratching his itchy spots again and
 sent it his way.  It was another thing she could do that other
 cloudherds couldn't---another thing she had decided to keep secret.
-Cloak grumbled as if he was an old cirrus rather than a frisky young
+Charger grumbled as if he was an old cirrus rather than a frisky young
 cumulus, but pulled in his edges and turned to angle across the wind.
 
 As they approached the barge, two small gray figures scampered across
@@ -1927,12 +1924,12 @@ barren, not like this.  She wondered what it would be like to grow up
 with that on your doorstep, creeping closer year after year, and
 shivered again.
 
-Still, Cloak was doing well---better than she had feared while tossing
+Still, Charger was doing well---better than she had feared while tossing
 and turning in bed after the previous night's dinner.  She should
 probably give him one more day to rest, but he would certainly be able
 to take the princess up tomorrow.  *Let's go back,* she mind-spoke,
 patting him.  She caught herself humming as he turned around.  She'd
-give Cloak a little rest, and then bring the princess up.
+give Charger a little rest, and then bring the princess up.
 
 And the prince too, if he wanted.  She hoped he would.  The last time
 they had been on cloudback together they had huddled together under a
@@ -1950,7 +1947,7 @@ he twitched on her reins, she followed him meekly onto the skiff and
 back into servitude.*
 
 Noxy heard the shouting before she saw the mob outside the garrison's
-gate.  *Hold,* she mind-spoke to Cloak.  Forty or fifty people were
+gate.  *Hold,* she mind-spoke to Charger.  Forty or fifty people were
 bunched together in the street, pumping the air with their fists and
 stomping their feet.
 
@@ -2078,7 +2075,7 @@ want?" he bellowed as he straightened on top of it.
 
 "Now!"
 
-Sergeant Gyalpa looked at Prince Lormay.  "Sir, I think---"
+Sergeant Gyalpa looked at Prince Thokmay.  "Sir, I think---"
 
 The prince raised a hand.  "No.  We're not going to use the soldiers
 on them."  Then he glanced at his hand.  Was that rain?
@@ -2120,13 +2117,13 @@ now.  Home soon.*  She hoped that was true.  Raining on the mob had
 been exactly the kind of trouble Aft had warned her not to go
 looking for, which was half the reason she had done it.  But thinking
 about what Aft would say when she found out made her think about
-Marandine, and about how long it would be until she saw her mother and
+Stale, and about how long it would be until she saw her mother and
 grandmother again.
 
-But Prince Lormay was waiting when she landed, which almost made up
+But Prince Thokmay was waiting when she landed, which almost made up
 for it.  Sergeant Gyalpa was there too, scowling while the prince
 struggled to hold in a grin.  She didn't bother to try to hide hers as
-she slid down Cloak's flank and gave him one final pat.
+she slid down Charger's flank and gave him one final pat.
 
 "Mission accomplished, sir!" she said loudly, saluting sloppily.
 
@@ -2149,7 +2146,7 @@ His not-quite-a-grin slipped and fell.  "The farmer from yesterday,"
 he said.  "They found him this morning in a blackberry bush halfway
 back to his farm.  It looks like the tornado got him after all."
 
-"Oh.  Oh, Lormay, I'm so sorry."  Her elation and belligerence
+"Oh.  Oh, Thokmay, I'm so sorry."  Her elation and belligerence
 vanished.  How could she have forgotten that someone was missing?
 When it happened in the mountains, the whole village turned out to
 search, and kept searching until there was no point looking any more.
@@ -2161,7 +2158,7 @@ grown."
 
 "I'm so sorry," she repeated.  *I'm sorry...*
 
-*Hurt?* Cloak mind-asked.
+*Hurt?* Charger mind-asked.
 
 *Not hurt,* she lied, thinking of the two wide-eyed little boys, and
 of how she had felt when her mother told her that her own father
@@ -2178,7 +2175,7 @@ crate they were carrying against a wall, now it would have to be
 repainted, in fact, that sounded like an excellent way for them to
 spend tomorrow.
 
-Prince Lormay didn't really notice him leave as he pulled a yellow
+Prince Thokmay didn't really notice him leave as he pulled a yellow
 handkerchief from his sleeve and held it out to Noxy.  "Here.  I, um,
 I'm pretty sure it's clean."
 
@@ -2191,7 +2188,7 @@ it.  "The staff will wash it."
 
 Noxy nodded.  "Thanks," she repeated, then smacked her forehead with
 her hand.  "The princess---I'm sorry, I can't take her flying this
-afternoon.  Cloak's healing pretty quickly, but raining on everyone
+afternoon.  Charger's healing pretty quickly, but raining on everyone
 like that has knocked him out.  I don't think he should---"
 
 "Don't worry," the prince said soothingly, patting the air with his
@@ -2284,7 +2281,7 @@ sometimes for no good reason, and loved to sit on the fence post
 nearest the road with a cup of tea or an apple, just to make
 conversation with whoever passed by.  He was honest and dishonest,
 fair and unfair, just like everyone else, and every story stuffed a
-little more anger into Prince Lormay's heart.
+little more anger into Prince Thokmay's heart.
 
 Finally it was his turn to speak.  "I never met him," the prince said,
 his voice cracking.  "But I know this.  When the tornado took him, he
@@ -2294,7 +2291,7 @@ farmer's family as if to royalty and squeezed his sister's hand.  "I
 promise," he repeated in a whisper.
 
 He kept his head bowed as those gathered began to sing, not wanting
-anyone to see his tears.  He missed Sergeant Norbu and Kulbinder and
+anyone to see his tears.  He missed Sergeant Dorbu and Kulbinder and
 his friends in the capital more than he could ever let his sister or
 anyone else see.
 
@@ -2304,7 +2301,7 @@ as familiar as it was strange.  His breath caught.  "Noxy?" he
 whispered incredulously.
 
 Noxy hadn't gone to the service.  The prince told her she would be
-welcome, but she shook her head.  "I should stay with Cloak," she
+welcome, but she shook her head.  "I should stay with Charger," she
 said.  "And my shoulder's bothering me again."
 
 The prince nodded.  "I understand.  See you at dinner tonight?
@@ -2335,10 +2332,10 @@ Noxy took off her overclothes and curled up on the bed.  The wool
 blanket was lighter than the one at home, and didn't smell of goat,
 but had the same comforting scratchy feel.  She closed her eyes and
 let her mind drift.  Her weariness felt like a fat cold cat curled up
-beside her, or like one of the slow-moving old clouds that Marandine
+beside her, or like one of the slow-moving old clouds that Stale
 children learned mind-speaking with.
 
-Thinking about Marandine made her think about Cloak.  She reached out
+Thinking about Stale made her think about Charger.  She reached out
 with her mind.  *All good?* she asked.
 
 *Mm?* the cloud replied muzzily.  Noxy smiled.  Clouds never really
@@ -2367,7 +2364,7 @@ them."
 
 The staff and soldiers behind him talked quietly amongst themselves as
 they walked back to the garrison house.  The princess held Prince
-Lormay's hand, but he hardly noticed how uncharacteristically quiet
+Thokmay's hand, but he hardly noticed how uncharacteristically quiet
 she was.  He was thinking about what had happened---had that really
 been Noxy?  Had she been trying to mind-speak with him?  Was that even
 possible?
@@ -2395,7 +2392,7 @@ Muddh pointed at the pair of raccoons who had followed at his heels.
 "Only *some* of these people thought, well, you know by how some are
 here with the Gifted, sir, they thought, well..."
 
-Prince Lormay interrupted before the sergeant could reply.  "They
+Prince Thokmay interrupted before the sergeant could reply.  "They
 thought what?"
 
 Muddh wrung his hands, nervous under the glares of the townspeople
@@ -2433,7 +2430,7 @@ A few hands went up.  "You," the prince said, pointing at a woman.
 Sergeant Gyalpa cleared his throat.  "Um, Your Highness, I don't think
 this is a good---"
 
-"And you!"  Prince Lormay ignored the sergeant and pointed at another
+"And you!"  Prince Thokmay ignored the sergeant and pointed at another
 man who was edging toward the back of the crowd.  "Please, don't be
 shy.  I'm sure there's plenty for everyone.  Sergeant!  Make sure
 nobody loses their way.  Now come along, everyone, let's get those
@@ -2605,7 +2602,7 @@ cheeks, but---
 
 "Uh oh," she said stupidly, looking at the blotch of red on her hand.
 Her nose was bleeding.  That hadn't happened in two years, not since
-that day in Marandine when she'd reached out with her mind to call the
+that day in Stale when she'd reached out with her mind to call the
 clouds.
 
 That's when she remembered hearing the prince whisper her name just
@@ -2657,11 +2654,11 @@ her face so drawn that Noxy gasped.
 "'Scuse us, m'lady," the soldier in front said without breaking
 stride.  Noxy pressed herself against the wall to let them past.
 
-*???* Cloak's wordless question popped into her mind like a raindrop
+*???* Charger's wordless question popped into her mind like a raindrop
 into a still pond.  His agitation made her pulse race.
 
 *It's all right,* she mind-spoke back, suddenly guilty that her first
-thought had been Prince Lormay and not her cloud. *I'm coming.*
+thought had been Prince Thokmay and not her cloud. *I'm coming.*
 
 She waited for a gap in the bustle to dart across the entrance hall to
 Dolly and Princess Ogmin.  The princess was sitting on a delicate
@@ -3017,7 +3014,7 @@ glanced up as Noxy arrived, then spoke to Sergeant Dambu. "All of Her
 Highness's belongings are up in her room. Can't you use them to find
 out where she's been taken?"
 
-"What makes you think somebody took her?" Prince Lormay asked.
+"What makes you think somebody took her?" Prince Thokmay asked.
 
 "Erm, well..." Mope seem flustered for an instant. "Isn't it obvious?
 She's never wandered away before, certainly not in the middle of the
@@ -3037,8 +3034,8 @@ replied as he saluted.
 
 "Sir!" The soldier saluted again and jogged away.
 
-Prince Lormay suddenly seemed to notice that Noxy was in her riding
-clothes. "I'm glad you're awake," he said curtly. "Is Cloak well
+Prince Thokmay suddenly seemed to notice that Noxy was in her riding
+clothes. "I'm glad you're awake," he said curtly. "Is Charger well
 enough to fly? You might have more luck spotting her from the air."
 
 "I'll go and look," Noxy said.
@@ -3048,7 +3045,7 @@ standing around here." He patted his mother's shoulder again. "I'm
 sure she'll be all right," he said softly. "No-one would hurt her."
 Dolly put her own hand on her son's and tried to smile.
 
-Cloak was already floating a few feet above the ground in his pen, his
+Charger was already floating a few feet above the ground in his pen, his
 edges bunching and clumping with agitation.  He could sense how
 worried she was, Noxy realized, even without her mind-speaking to
 him. "Do you really think the smugglers have kidnapped the princess?"
@@ -3061,11 +3058,11 @@ when he noticed Noxy watching him. "They might have done, they might
 have done. Oh, I hope she's all right. My mother would---well, it
 would be terrible, that's all."
 
-Noxy patted Cloak's flank again.  Years ago, her mother had shown her
+Noxy patted Charger's flank again.  Years ago, her mother had shown her
 that if you looked straight at something in the dark, you probably
 wouldn't see it, but if you looked away, it would show up in the
 corner of your eye.  Whatever strange ability she had seemed to work
-something like that.  If she tried to feel Cloak's injury, nothing
+something like that.  If she tried to feel Charger's injury, nothing
 happened.  If she let her mind wander, she could---it was almost like
 stubbing her toe against it.
 
@@ -3073,7 +3070,7 @@ She frowned and shook her head.  There would be time to explore what
 she could do later.  "He's still not completely healed," she told
 Mope, "But he can take us up as long as we don't push him too
 hard. Come on!" She grabbed a double handful of cloud and levered
-herself up onto Cloak's back.
+herself up onto Charger's back.
 
 "Um..." Mope hesitated.
 
@@ -3081,10 +3078,10 @@ Noxy lay down flat and stretched out her arm. "Hurry up!"
 
 The orangutan hesitated a moment longer, then sighed and took the
 offered hand and clambered to sit beside Noxy. He swallowed loudly as
-Cloak began to rise.
+Charger began to rise.
 
 "Keep your eyes peeled," Noxy told him. "No, closer to the edge. Don't
-worry, Cloak won't let you fall."
+worry, Charger won't let you fall."
 
 They cleared the rooftops a moment later.  "Do you see anything?" she
 asked.
@@ -3111,7 +3108,7 @@ straight for the house. They must have found something!" Sure enough,
 two uniformed soldiers were hurrying back to the garrison house with a
 third man on a stocky pony between them.
 
-Noxy leaped nimbly off Cloak as they touched down and raced across the
+Noxy leaped nimbly off Charger as they touched down and raced across the
 courtyard without waiting for Mope to dismount.
 
 "What's happened?" the prince demanded. "Did you find her?"
@@ -3303,11 +3300,11 @@ him. He looked relaxed to Noxy, but if she had been closer, she would
 have been able to see that he was drumming his fingers on the hilt of
 his sword. His plumed helmet made him look older, and stern. The
 yellow feathers on its crest, and the yellow ribbons on his sleeve,
-reminded her of how Sergeant Norbu had looked the day he had arrived
-in Marandine, four years ago. For a moment she felt a lump in her
+reminded her of how Sergeant Dorbu had looked the day he had arrived
+in Stale, four years ago. For a moment she felt a lump in her
 throat.
 
-At a nod from Sergeant Gyalpa, Prince Lormay stepped forward. "You all
+At a nod from Sergeant Gyalpa, Prince Thokmay stepped forward. "You all
 know where we're going," he said loudly, deliberately roughening his
 voice so that it wouldn't break. "And you all know why, and what we
 might run into. If any of you would rather spend a year in the
@@ -3368,7 +3365,7 @@ Sergeant Gyalpa he couldn't help but ask, "Anything?" Every time, the
 sergeant said, "Nothing, Your Highness."
 
 There were no markers on the edge of the Blight, no walls or signs to
-show where the magically-poisoned land began. Prince Lormay only
+show where the magically-poisoned land began. Prince Thokmay only
 realized they were in it when he saw a patch of flowers that had been
 turned into glass. He turned in his saddle to stare, then heard a
 crunching sound underneath him as his horse stepped on some grass that
@@ -3395,7 +3392,7 @@ like an summer fly's body, and made a scraping sound like rusty
 scissors when the wind brushed over it. The few trees they passed were
 stunted, and the apples hanging from them were blackened, or bloated
 to the size of pumpkins. Even the sky above them was somehow
-twisted. It seemed normal enough when Prince Lormay looked straight at
+twisted. It seemed normal enough when Prince Thokmay looked straight at
 it, but he kept seeing swirls of color sweep through it out of the
 corner of his eye.
 
@@ -3418,7 +3415,7 @@ across his lap. Around him, his soldiers did the same, making much the
 same sound as the metal grass had made. He took a deep breath, held it
 for a second, then spurred his horse to a trot.
 
-Prince Lormay expected to find the smugglers waiting at the top of a
+Prince Thokmay expected to find the smugglers waiting at the top of a
 hill, or on the far side of a stream. His teachers had told him over
 and over again how important it was to make use of whatever defenses
 the ground offered. Instead, they were gathered around the stump of
@@ -3455,7 +3452,7 @@ not been in a battle before, have you, Your Highness? Not with a sword
 in your hands."
 
 The prince shook his head. "No, sergeant. I don't suppose you'd call
-what happened at Marandine a battle."
+what happened at Stale a battle."
 
 The sergeant nodded. "Right, then I'd be grateful if you'd stay close
 to me, Your Highness, and hang back if there's any excitement. Your
@@ -3468,7 +3465,7 @@ The soldiers spread out as they rode forward. They were still about
 fifty yards away from the smugglers when Muddh raised his
 arm. "Hello, hello!" he called. "So glad you could come."
 
-"I am Lormay Gandan-o Prince," the prince said loudly, hoping that his
+"I am Thokmay Gandan-o Prince," the prince said loudly, hoping that his
 voice wouldn't crack, and that he would be brave if battle came. "I am
 looking for my sister, the Princess Ogmin. We fear she has been
 abducted."
@@ -3526,7 +3523,7 @@ at his men. "Do we?"
 "What do you want?" Sergeant Gyalpa asked loudly.
 
 The smile dropped from Muddh's thin face. He spurred his horse
-forward a few paces. Prince Lormay noticed that he was holding his
+forward a few paces. Prince Thokmay noticed that he was holding his
 mount's reins in his right hand, and something else in his lap with
 his left. "I want you and your troops to leave Apple Bridge," he
 said. "By tomorrow. For good."
@@ -3565,7 +3562,7 @@ ears as a tornado came whirling out of the bag.
 
 ## I Know the Bear
 
-Noxy watched Prince Lormay and the soldiers ride away with an empty
+Noxy watched Prince Thokmay and the soldiers ride away with an empty
 feeling in her stomach, as if the bottom of the world had dropped
 away.  Unable to think of anything better to do, she went back in the
 house and up the stairs to Princess Ogmin's room. She told herself
@@ -3661,8 +3658,8 @@ pieces fall into place, they'll fit a bit better than they do right
 now. As long as the king is the only one who can change the law, the
 only way to change the law is to get the king's attention."
 
-Noxy's eyes had gone wide. "You have to tell Lormay," she
-gasped. "Mope, why haven't you told Lormay? You're talking about his
+Noxy's eyes had gone wide. "You have to tell Thokmay," she
+gasped. "Mope, why haven't you told Thokmay? You're talking about his
 *sister*!"
 
 "I'm also talking about the life of every gifted animal in Gandan!"
@@ -3697,7 +3694,7 @@ the dozens on festival days, was in a small frame on the dresser,
 beside a cracked old leather cap and a wide-toothed wooden comb with
 mother-of-pearl inlay in the handle. She could hear morning birds
 whistling at each other outside, and she wished more than anything
-that she was back in Marandine.
+that she was back in Stale.
 
 Finally Dolly said wearily, "Mope, we *have* to tell Sergeant Dambu
 about Rust. There's no-one else left."
@@ -3770,7 +3767,7 @@ leg buckled underneath him as he hit the ground. Before his comrades
 could reach him, a smuggler on horseback lunged forward, leaned over
 in his saddle, and swung his sword.
 
-An instant later Prince Lormay saw Manpa and another soldier cut left,
+An instant later Prince Thokmay saw Manpa and another soldier cut left,
 then right, then left again to get in close to the knot of
 smugglers. Muddh didn't hesitate. The tornado snatched up the two
 soldiers and a smuggler as well and tossed them through the air. They
@@ -3791,7 +3788,7 @@ into his horse's flanks. The frightened animal bounded forward. Behind
 him, Sergeant Gyalpa cursed, then kick his own horse into a gallop as
 well.
 
-Prince Lormay crouched low over his horse's neck and charged straight
+Prince Thokmay crouched low over his horse's neck and charged straight
 at the smugglers. The wind-blown grit stung his eyes. He felt his
 horse's hooves pounding on the ground beneath him. The smugglers were
 small, small, small, and then suddenly larger and larger as he dodged
@@ -3832,7 +3829,7 @@ murky pond.
 
 The tornado roared in triumph as it felt Muddh's hold over it
 break. It pounced on the smugglers like a cat pouncing on a crippled
-bird, throwing them this way and that. Prince Lormay saw Muddh leap
+bird, throwing them this way and that. Prince Thokmay saw Muddh leap
 from his horse an instant before the tornado snatched it up. The
 smuggler scrambled over to the old tree stump and pulled a man-tall
 mirror off the wagon that was still somehow parked there. He propped
@@ -4039,13 +4036,13 @@ flung into the air fell back on Apple Bridge as muddy rain.
 "Where are you going?" Mope cried as Noxy wriggled out from under the
 stairs.
 
-"I have to get to Cloak!" Noxy shouted. She could barely make herself
+"I have to get to Charger!" Noxy shouted. She could barely make herself
 heard over the tornado's horrific roaring. "She'll be terrified!"
 
 "But you can't go out in this!" Mope grabbed her ankle and tried to
 pull her back under the stairs.
 
-"Let go!" Noxy shouted, kicking at his hand. "I have to get to Cloak!"
+"Let go!" Noxy shouted, kicking at his hand. "I have to get to Charger!"
 She twisted around, then slipped her foot out of her boot and
 scrambled away before Mope could grab her again.
 
@@ -4121,7 +4118,7 @@ Splintered boards and branches, broken glass and gobs of mud... The
 garrison house's parade courtyard was covered with the remains of the
 tornado's makeshift toys. Noxy stared at the destruction for a moment,
 then tried to shake free of Mope's grasp. "Let me go!" she
-protested. "I have to find Cloak!"
+protested. "I have to find Charger!"
 
 "Never mind your cloud," the orangutan said. "Where's Sergeant Dambu?"
 The magician could no longer be seen on the roof of the old house.
@@ -4139,7 +4136,7 @@ arms.  "Are you?"
 "I'm fine," Mope repeated. "So is Noxy. But we have to find out what
 happened to the sergeant."
 
-"And I have to find out what's happened to Cloak!" Noxy said. She
+"And I have to find out what's happened to Charger!" Noxy said. She
 limped as fast as she could toward the door. She was still a few yards
 away when a soldier she half-recognized stepped through and blinked in
 the afternoon light.
@@ -4162,9 +4159,9 @@ Mope hesitated for a moment. "Go see to your cloud," he told Noxy.
 sergeant."
 
 Noxy limped through the house and out into the rear courtyard.
-"Cloak!" she cried, aloud and with her mind at the same time.
+"Charger!" she cried, aloud and with her mind at the same time.
 
-Cloak was huddled in a corner. Noxy didn't have to mind-listen to know
+Charger was huddled in a corner. Noxy didn't have to mind-listen to know
 how terrified the young cloud was. She stumbled over the rubble that
 had fallen into the courtyard and wrapped her arms around a tuft of
 the cloud.
@@ -4202,7 +4199,7 @@ discovered," he ordered crisply. "And you, take me to the warehouse!"
 
 ## Snow
 
-Prince Lormay and Sergeant Gyalpa stayed on horseback until they were
+Prince Thokmay and Sergeant Gyalpa stayed on horseback until they were
 over the crest of the hill, where the sergeant reined in Bucket so
 that the prince could slide off her back. "She'll never be able to
 carry both of us, will you, girl?" the prince said, speaking to
@@ -4211,7 +4208,7 @@ soothed, stroking the horse's neck. The weary animal just snorted.
 
 The prince patted her one more time, then looked up at his companion.
 The sergeant's jaw was clenched, and his frown showed pain as much as
-anger. "How is your leg?" Prince Lormay asked.
+anger. "How is your leg?" Prince Thokmay asked.
 
 The sergeant straightened up a bit in the saddle. "Still a mess," he
 said. "I don't think it's broken, but the knee is in bad shape. Put me
@@ -4222,7 +4219,7 @@ right."
 "Here, drink some of this." He passed his half-empty canteen up to the
 old soldier.
 
-As the sergeant drank, Prince Lormay looked around. The sky above them
+As the sergeant drank, Prince Thokmay looked around. The sky above them
 was almost dark, but the land was still lit by a soft glow that came
 from nowhere and everywhere at once. On one side, the rocky slope led
 down to the churning field they had fled, beyond which was Carmick
@@ -4246,7 +4243,7 @@ stream."
 
 They picked their way down the rocky hillside. It was bigger than it
 had seemed---it seemed that the further down they went, the further
-they had to go. Prince Lormay walked in front, while Sergeant Gyalpa
+they had to go. Prince Thokmay walked in front, while Sergeant Gyalpa
 rode behind him with the reins in one hand and his sword laid across
 his lap.
 
@@ -4267,7 +4264,7 @@ don't pretend to understand it."
 
 "Nor I." The prince pulled the canteen from the saddle bag and gulped
 the last of the warm water. "I thought about becoming a magician once,
-you know," he suddenly confessed. "After my visit to Marandine. I
+you know," he suddenly confessed. "After my visit to Stale. I
 thought that since I'd already had a taste of it, I might as well make
 it my life."
 
@@ -4337,7 +4334,7 @@ length.
 
 That done, he helped Sergeant Gyalpa get down onto the ground. The
 sergeant had to lie down on top of Bucket, then swing his good leg
-over her back and slid down into Prince Lormay's arms, trying as he
+over her back and slid down into Prince Thokmay's arms, trying as he
 did so to keep his good leg underneath him. Bucket whinnied, but did
 not step away, as the sergeant first sat, and then lay down, on the
 ground beside her. "Just---just straighten it at the knee," the
@@ -4357,7 +4354,7 @@ blood. No, not like that. Where'd you learn to tie knots? Just cross
 it over and---here, let me."
 
 Sergeant Gyalpa had to prop himself up on one elbow in order to sit
-up. Prince Lormay sat back and watched while the sergeant untied and
+up. Prince Thokmay sat back and watched while the sergeant untied and
 then re-tied the last knots in the rope that held the splint
 together. His hands shook, but his grip was strong.
 
@@ -4369,7 +4366,7 @@ Bridge and sleep for a week, but instead he got to his feet. "Let's
 get you back up on Bucket," he said, putting the sergeant's arm around
 his neck as the older man struggled up onto his good leg. The sergeant
 pulled himself up onto Bucket's back until he was lying on his stomach
-in the middle of the saddle. Prince Lormay helped him swing his good
+in the middle of the saddle. Prince Thokmay helped him swing his good
 leg over to the other side of the horse, and then edge forward into
 the saddle. When it was done, the sergeant was back where he had been
 ten minutes before, but with six roughly-cut lengths of wood tied
@@ -4435,7 +4432,7 @@ troops again to set a bad example." He broke another branch in
 two. "Best get that firewood, Your Highness. I don't think it's going
 to get dark, but I can feel the cold coming on."
 
-Prince Lormay nodded. He had felt the air growing cold as well. He
+Prince Thokmay nodded. He had felt the air growing cold as well. He
 took the hatchet from Bucket's saddle bag again and walked over to the
 blackberry bushes. They rustled slightly as he approached, even though
 there was no wind.
@@ -4462,7 +4459,7 @@ the problem?"
 "I can barely see you," the prince said, his voice breaking. In fact,
 he couldn't see the road at all.
 
-"What's wrong, Your Highness? Are you all right?" Prince Lormay heard
+"What's wrong, Your Highness? Are you all right?" Prince Thokmay heard
 the sergeant grunt as he tried to get up.
 
 "No, wait, stay where you are!" the prince called. He brushed a
@@ -4470,7 +4467,7 @@ handful of snow from his hair. "I just can't see through all this
 snow."
 
 It wasn't until the sergeant shouted, "What snow, Your Highness?" that
-Prince Lormay felt afraid. He stumbled in the direction that he
+Prince Thokmay felt afraid. He stumbled in the direction that he
 thought the sergeant's voice had come from. The snow wasn't melting on
 the ground any longer.
 
@@ -4480,7 +4477,7 @@ the ground any longer.
 
 "No! Keep talking, I'll try to get to you!"
 
-"But Your Highness, I can see you!" Prince Lormay had to strain to
+"But Your Highness, I can see you!" Prince Thokmay had to strain to
 hear the sergeant's voice. The falling snow was muffling
 everything. With a shock, the prince realized that the hatchet had
 fallen out of his fingers. They had already become numb from the cold.
@@ -4524,7 +4521,7 @@ tried to push them out of his mind as well. Most of the other soldiers
 in his uncle's regiment had never seen Garheim-in-Garheim again.
 
 But a few heartbeats later there was no doubt: the snow was easing
-off, and the air was warming up. Prince Lormay shouted, "Sergeant? Am
+off, and the air was warming up. Prince Thokmay shouted, "Sergeant? Am
 I headed the right way?"
 
 "Yes, Your Highness. No, wait, turn right. Now go ahead. No, turn
@@ -4541,7 +4538,7 @@ led off through the snow.
 holding onto the rope like a sailor holding a guide rope in a heavy
 storm.
 
-One moment Prince Lormay was calf-deep in snow. The next, he was
+One moment Prince Thokmay was calf-deep in snow. The next, he was
 standing on the road with the rope in his hands. He blinked, then
 whirled around.  The tied-together ropes stretched no more than ten
 yards to the saddle bag, which sat dumbly on the dry, stony
@@ -4628,7 +4625,7 @@ now!"
 Noxy felt awful as she saw tears well up in Dolly's eyes. She closed
 her eyes and mind-listened for a moment, then grabbed Dolly's
 shoulders in her hands. "Listen," she said urgently. "We can take
-Cloak. She's still not well, but if the tornado really is gone, and if
+Charger. She's still not well, but if the tornado really is gone, and if
 we go slowly, it ought to be all right. Clouds heal pretty quickly,
 you know, especially young ones. Even if Rust has the fastest raft on
 the river, we ought to be able to catch up in an hour or two."
@@ -4640,7 +4637,7 @@ her voice reminded Noxy of Sergeant Gyalpa. "All right," she said.
 "I'll wait here and tell Sergeant Dambu," Noxy nodded. The orangutan
 hurried away.
 
-Noxy took a deep breath. Cloak was feeling stronger---Noxy hadn't lied
+Noxy took a deep breath. Charger was feeling stronger---Noxy hadn't lied
 about that---and she really was a quick healer, but the injured cloud
 wouldn't be back to her full strength for at least another day. She
 could imagine what Grappa Diego or Aft would say if they ever found
@@ -4924,7 +4921,7 @@ hairbrush, or---"
 certain than she felt. "She needs it all for the dam. But we have to
 do something to stop her. We have to save the town!"
 
-Prince Lormay and Sergeant Gyalpa took turns sleeping through what
+Prince Thokmay and Sergeant Gyalpa took turns sleeping through what
 passed for night in the Blight. They didn't re-light the fire. It was
 so cold by the time morning came that the prince shivered through the
 whole of his last watch.
@@ -4940,9 +4937,9 @@ knee for a moment, then settled back on his elbows. "What was it like,
 Your Highness?" he asked. "If you don't mind my asking."
 
 "I didn't feel any different afterward, if that's what you mean,"
-Prince Lormay said. "It's probably easiest to show you." People had
+Prince Thokmay said. "It's probably easiest to show you." People had
 asked him that question a hundred different ways in the four years
-since his return from Marandine. His answers had always seemed
+since his return from Stale. His answers had always seemed
 inadequate. The magician Barramarrabee had finally taken pity on him,
 and given him something to help explain.
 
@@ -4993,16 +4990,16 @@ a moment's reflection. "I guess anyone who's a soldier gets old too
 fast, whether they're in the Blight or not."
 
 They traveled as before. Sergeant Gyalpa rode on Bucket, while Prince
-Lormay walked along beside them. They saw mud and rocks, bushes and
+Thokmay walked along beside them. They saw mud and rocks, bushes and
 trees, but nothing that moved except an occasional bird, far in the
-distance.  Prince Lormay tried to count his footsteps to keep track of
+distance.  Prince Thokmay tried to count his footsteps to keep track of
 how far they had come, but kept forgetting whether he was in the three
 hundreds or five hundreds. He supposed it didn't really matter in the
 Blight anyway.
 
 He was startled out of his bleak daydream by Sergeant Gyalpa's voice.
 "Look, Your Highness," the sergeant said, pointing. It took Prince
-Lormay a moment to realize that all the sergeant was pointing at was a
+Thokmay a moment to realize that all the sergeant was pointing at was a
 few brown blades of grass, and a lone dandelion.
 
 "Is it dangerous?" the prince asked.
@@ -5030,17 +5027,17 @@ river like rotten teeth showed where the mill's loading dock had been.
 
 Sergeant Gyalpa let Bucket follow her head down the hill and into the
 trees. As she bit an apple off a low-hanging branch, he clambered out
-of the saddle and put his arm around Prince Lormay's shoulder. "It'll
+of the saddle and put his arm around Prince Thokmay's shoulder. "It'll
 be safe to light a fire here, Your Highness," he said, wincing as they
 shuffled over to what was left of the mill building. "Then we can
 figure out how we're going to get back to town."
 
-They were just a few feet away from the building when Prince Lormay
+They were just a few feet away from the building when Prince Thokmay
 heard Bucket snort, then neigh loudly. "Back me!" Sergeant Gyalpa said
 loudly, taking his arm from the prince's shoulders, drawing his sword,
 and turning to his right, all at the same time.
 
-Prince Lormay drew his own sword and turned to his left, so that he
+Prince Thokmay drew his own sword and turned to his left, so that he
 and the sergeant were facing in opposite directions. "What's
 happening?" he whispered loudly.
 
@@ -5052,7 +5049,7 @@ The prince swallowed. "No," he said, trying to match the sergeant's
 calm tone. "Nothing except Bucket."
 
 "Stay with me," the sergeant ordered the prince. He half-hopped,
-half-limped forward. Prince Lormay stepped backward to stay with him,
+half-limped forward. Prince Thokmay stepped backward to stay with him,
 keeping his sword in front of him and holding his left arm straight
 out from his side for balance.
 
@@ -5073,7 +5070,7 @@ him.  It steadied and came back into focus. His head started to pound
 at the same moment.
 
 "Your Highness, are you all right?" The sergeant rolled over and
-dragged himself over to Prince Lormay.
+dragged himself over to Prince Thokmay.
 
 "He's all right," the bear rumbled. She had dropped back onto all
 fours.  She sniffed at them, then lumbered over to the prince's sword
@@ -5094,7 +5091,7 @@ with another huge roar. The horse turned and galloped away.
 disappear over the top of the hill. "None of 'em have ever been
 gifted, did you know that?"
 
-Prince Lormay stood up as she approached. "Where's my sister?" he
+Prince Thokmay stood up as she approached. "Where's my sister?" he
 demanded. "What have you done with her?"
 
 "She's down by the river," Rust said, then snarled, "No!" as the
@@ -5103,9 +5100,9 @@ the sergeant. "Help him up. We all go together. And we all go
 *slowly*, you hear? Slowly."
 
 Even if the bear hadn't been two watchful steps behind him, Prince
-Lormay couldn't have gone quickly with Sergeant Gyalpa's arm around
+Thokmay couldn't have gone quickly with Sergeant Gyalpa's arm around
 his shoulder. The sergeant seemed much less steady than he had been
-before the bear had ambushed them. Prince Lormay hoped he was
+before the bear had ambushed them. Prince Thokmay hoped he was
 exaggerating his lameness.
 
 They came around the corner. A sturdy-looking river raft was
@@ -5113,17 +5110,17 @@ half-hidden in the brambles that had grown up against the side of the
 mill, where the door to the loading dock had once been. And on the
 raft---
 
-"Ogmin!" Prince Lormay cried. His sister was sitting in the middle of
+"Ogmin!" Prince Thokmay cried. His sister was sitting in the middle of
 the raft next to a crude lean-to. She had drawn up her knees and
 buried her face in them. She still had her nightdress on, and a
 too-large coat and a ragged pair of boots that looked like some poor
 beggar's cast-offs.  Nothing was left of her long, beautiful hair
 except stubble.
 
-At the sound of her brother's voice her head shot up. "Lormay!" she
-cried.  "Oh, Lormay!"
+At the sound of her brother's voice her head shot up. "Thokmay!" she
+cried.  "Oh, Thokmay!"
 
-Without thinking Prince Lormay shook off Sergeant Gyalpa's arm and
+Without thinking Prince Thokmay shook off Sergeant Gyalpa's arm and
 started to run. He only got a few paces before Rust butted him in the
 back with her head and sent him sprawling.
 
@@ -5132,14 +5129,14 @@ into Rust's angry eyes. She stood over him with one paw on either side
 of his head. Her breath was hot and wet and foul on his face. "I said
 *slowly*," she said menacingly. "I won't say it again."
 
-Prince Lormay gulped. The bear's jagged teeth were yellowish near
+Prince Thokmay gulped. The bear's jagged teeth were yellowish near
 their roots, but gleaming white at the points. "I'm sorry," he said
 weakly.
 
 "Rrrmmm," the bear rumbled. She shuffled sideways so that he could get
 up. "Now get up. It's time for dinner."
 
-Somehow Prince Lormay helped Sergeant Gyalpa slosh through the
+Somehow Prince Thokmay helped Sergeant Gyalpa slosh through the
 knee-deep water to the raft. The prince scrambled up onto the raft and
 embraced his sister. "Oh, Ogmin," he said, hugging her fiercely. "Are
 you all right?"
@@ -5163,16 +5160,16 @@ just as short as yours."
 "But I don't want to go back there," Princess Ogmin said. "I hate it
 there. I want to go *home!*"
 
-"So do I," Prince Lormay whispered. He gave her another hug. "So do
+"So do I," Prince Thokmay whispered. He gave her another hug. "So do
 I. But we can't, not just yet."
 
 Sergeant Gyalpa cleared his throat. "Your Highness...?"
 
-"Yes?" Prince Lormay said, without letting go of his sister or turning
+"Yes?" Prince Thokmay said, without letting go of his sister or turning
 around.
 
 The raft suddenly dipped to one side as Rust scrambled up onto it.
-Princess Ogmin shrieked. Prince Lormay stumbled, then straightened up.
+Princess Ogmin shrieked. Prince Thokmay stumbled, then straightened up.
 
 "You," Rust said to Sergeant Gyalpa. "Get off."
 
@@ -5184,7 +5181,7 @@ back, or I can knock you off. It comes to the same thing either way."
 
 Sergeant Gyalpa's face reddened. "I will *not* leave!" he shouted.
 
-"Do as she says, Sergeant," Prince Lormay ordered tiredly as the bear
+"Do as she says, Sergeant," Prince Thokmay ordered tiredly as the bear
 growled deep in her throat. "She's right---if she doesn't want you on
 board, one way or another you're going to get off. That's an order,"
 he added, as the sergeant took an angry breath. "When Bucket comes
@@ -5199,11 +5196,11 @@ moment passed. He slid awkwardly off the raft into the river.
 
 "Push us back out into the current before you go," the bear ordered.
 
-For a moment Prince Lormay thought the sergeant was going to climb
+For a moment Prince Thokmay thought the sergeant was going to climb
 back up on the raft and try to strangle Rust with his bare
 hands. Instead, he looked up at the prince. "Your Highness?" he asked.
 
-"Do it," Prince Lormay told him. "And good luck getting home."
+"Do it," Prince Thokmay told him. "And good luck getting home."
 
 "Thank you, Your Highness." The sergeant braced his shoulder against
 the raft and pushed with his good leg. The raft barely moved. Sergeant
@@ -5215,12 +5212,12 @@ thighs until the main current of the Trout caught the raft and took it
 away. Then he struggled back to the bank and started calling for
 Bucket.
 
-Prince Lormay resisted the urge to wave as the sergeant dwindled into
+Prince Thokmay resisted the urge to wave as the sergeant dwindled into
 the distance behind them. Instead, he put his arm around his sister.
 Princess Ogmin sniffled again and laid her head on her brother's
 shoulder.
 
-"Don't worry," Prince Lormay whispered in her ear. "Sergeant Gyalpa
+"Don't worry," Prince Thokmay whispered in her ear. "Sergeant Gyalpa
 will get help. We'll be all right."
 
 The raft swayed again as Rust sat down on her haunches next to the
@@ -5254,7 +5251,7 @@ don't have to."
 
 "I'm hungry," Princess Ogmin said after a few minutes.
 
-Prince Lormay twisted around. "Can I get her some food?" he asked
+Prince Thokmay twisted around. "Can I get her some food?" he asked
 Rust.
 
 The bear shrugged. "Why not?" She wrinkled her nose again. "The
@@ -5266,13 +5263,13 @@ apple sauce. A pair of heavy blankets were crumpled together to make a
 Ogmin-sized nest under the lean-to. A small straw doll lay beside
 them.
 
-Prince Lormay picked up the doll. "What's this?" he asked.
+Prince Thokmay picked up the doll. "What's this?" he asked.
 
 The bear shifted uncomfortably. "I thought it would keep her quiet,"
 she said.
 
 "Hm." Someone had pulled a few strands of straw part-way out of the
-head to give the doll some spiky hair. Prince Lormay felt tears sting
+head to give the doll some spiky hair. Prince Thokmay felt tears sting
 his eyes again. He gently laid the doll back by the blankets.
 
 He sat down cross-legged and laid some biscuits out on his
@@ -5281,7 +5278,7 @@ as he spooned some apple sauce onto the biscuits. "From what we saw of
 your friend Muddh, I would have expected you to be...rougher."
 
 A rumble came from deep in the bear's throat. For a moment Prince
-Lormay was reminded of the sound that Kulbinder made when he smelled
+Thokmay was reminded of the sound that Kulbinder made when he smelled
 something that he didn't like. "He's not my friend," Rust said. "We
 were just business partners, that's all."
 
@@ -5306,7 +5303,7 @@ night, but it wouldn't have worked on an adult."
 He thought furiously as he spooned some more apple sauce. "Why did you
 leave Sergeant Gyalpa behind?" he asked, handing Princess Ogmin a
 biscuit. The princess made a face at it, but took it and bit into it
-anyway. Prince Lormay supposed that she had been eating a lot of
+anyway. Prince Thokmay supposed that she had been eating a lot of
 biscuits and apple sauce recently.
 
 "Why would I bring him?" the bear replied. "Nobody cares enough about
@@ -5341,7 +5338,7 @@ time I come to town. Human traders are allowed to come and go as they
 please.  Every noble household in the Marches hires gifted animals,
 but how many of those animals ever become nobles themselves?"
 
-"How many of them would want to?" Prince Lormay asked, frightened
+"How many of them would want to?" Prince Thokmay asked, frightened
 slightly by the anger in the bear's voice. "It's not as much fun as
 most people think."
 
@@ -5424,7 +5421,7 @@ there.
 "What was that?" Dolly asked fearfully.
 
 "I don't know," Noxy said. "But we're almost there." She closed her
-eyes and mind-spoke to Cloak, calming the nervous cloud.
+eyes and mind-spoke to Charger, calming the nervous cloud.
 
 They had only gone another few steps when they heard shouts and
 commotion behind them. Noxy hesitated, then put her finger to her lips
@@ -5592,15 +5589,15 @@ Dolly stretched up onto her tiptoes to kiss the cloudherd on the
 cheek.  "Be careful, dear."
 
 Noxy ran as fast as she could back to the garrison house, no longer
-caring if she was seen. Cloak hovered restlessly a few feet off the
+caring if she was seen. Charger hovered restlessly a few feet off the
 ground. Noxy jumped up and grabbed the side of the cloud with both
 hands.
 
 "Up!" she mind-spoke as she pulled herself up. "Up, up, up!"
 
-Cloak rose into the air, slowly at first and then faster. In a few
+Charger rose into the air, slowly at first and then faster. In a few
 heartbeats Noxy was up above the rooftops. She glanced at the dam, but
-couldn't see Sergeant Dambu. "Fast!" she mind-spoke at Cloak. They
+couldn't see Sergeant Dambu. "Fast!" she mind-spoke at Charger. They
 turned south and started flying above the road that led to the Blight.
 
 Noxy crept forward until she was right at the cloud's edge. The
@@ -5608,16 +5605,16 @@ countryside below her was green and peaceful in the summer sun. She
 saw some farmers leading horse-drawn carts toward Apple Bridge, but
 was too high up to call to them.
 
-"Higher!" she mind-ordered the cloud. Cloak struggled to
+"Higher!" she mind-ordered the cloud. Charger struggled to
 obey. "Higher!  Slow!" The cloud slowed to a gentle float, and rose
 higher.
 
 Noxy scanned the landscape. The road made a long, gentle loop around a
 hill up ahead. If she went around the hill the other way, over the
-forest, she could save a few minutes. "Left!" she mind-spoke to Cloak.
+forest, she could save a few minutes. "Left!" she mind-spoke to Charger.
 The cloud began to gather speed.
 
-Something glinted in the trees. Noxy lay flat on Cloak and took a deep
+Something glinted in the trees. Noxy lay flat on Charger and took a deep
 breath. Grabbing the cloud firmly with both hands, she pushed her head
 over the cloud's edge. "Stop! Stop!" she ordered. She waited. The
 glint came again.
@@ -5630,7 +5627,7 @@ people and horses. It was the smugglers.
 One of them looked up as the cloud's shadow fell across his face. Noxy
 had just enough time to recognize Muddh before the skinny man
 shouted. The smuggler next to him twisted around in his saddle and
-aimed his bow at Cloak. Noxy jerked her head back. The arrow went
+aimed his bow at Charger. Noxy jerked her head back. The arrow went
 *sfffft!* through the air.
 
 "Go! Go!" she mind-shouted at the cloud. Another arrow shot past the
@@ -5642,7 +5639,7 @@ soldiers!  "Look out!" Noxy shouted. They looked up. "Ambush! In the
 trees!"
 
 It was as if she had kicked a beehive. Suddenly the soldiers had their
-swords in their hands, and were galloping forward. Noxy turned Cloak
+swords in their hands, and were galloping forward. Noxy turned Charger
 in a wide arc and flew back over the battle. This time the smugglers
 ignored her. A few arrows flew, but the first squad of soldiers came
 crashing through the trees too quickly for the smugglers to get off a
@@ -5655,14 +5652,14 @@ them, but most dropped their swords or bows and raised their hands.
 
 "Yahoo!" Noxy shouted. "That's the---no, wait, over there! Over there!
 He's getting away!" She pointed frantically at the road, trying to get
-Cloak to go lower so that she could tell the soldiers that Muddh was
+Charger to go lower so that she could tell the soldiers that Muddh was
 escaping. The smuggler had abandoned his horse, and was running down
 the road toward the Blight. Every second step carried him twenty yards
-or more. Noxy urged Cloak on, but Muddh and his one magic boot soon
+or more. Noxy urged Charger on, but Muddh and his one magic boot soon
 outdistanced the cloud.
 
 Noxy finally gave up, and turned the cloud back to where the soldiers
-were collecting the defeated smugglers. She let Cloak float down
+were collecting the defeated smugglers. She let Charger float down
 gently until they were just a few feet above the trees.
 
 "Are you all right?" shouted a soldier.
@@ -5676,7 +5673,7 @@ prince needs us."
 "No, wait! That's not true! It was a trick!" Noxy saw the doubt on the
 soldier's face, and on the other faces that had turned up to look at
 her. She took a deep breath. "Sergeant Dambu is working with the
-smugglers. I don't know where Prince Lormay is, but you have to get
+smugglers. I don't know where Prince Thokmay is, but you have to get
 back to Apple Bridge right away. She's going to try to break the
 spells on the dam!"
 
@@ -5691,7 +5688,7 @@ don't believe it. Not the sergeant. You can't be right."
 "Please!" Noxy pleaded. "How do you think they knew to wait for you
 here? Just send some of your troops back to the dam. You'll see!"
 
-Before the soldier could reply, Noxy mind-ordered Cloak back into the
+Before the soldier could reply, Noxy mind-ordered Charger back into the
 sky and headed for Apple Bridge.
 
 Meanwhile, back in town, Dolly and Mope made their way toward the dam
@@ -5789,7 +5786,7 @@ you too."
 
 Rust and the prince and princess floated on in silence. The only other
 raft they saw was being pulled upriver by two weary donkeys. The bear
-ordered Prince Lormay and Princess Ogmin to hide in the lean-to, and
+ordered Prince Thokmay and Princess Ogmin to hide in the lean-to, and
 then sat in front of it and grunted a hello as it passed.
 
 As the other raft passed, the prince and princess could hear one of
@@ -5797,7 +5794,7 @@ the raftsmen singing a slow, sad song. The words floated over the
 river to them like wisps of cloud in a blue summer sky. "Oooh, just
 one time... I would take the northwest passage..."
 
-"Sergeant Norbu used to sing that one," Prince Lormay whispered in his
+"Sergeant Dorbu used to sing that one," Prince Thokmay whispered in his
 sister's ear. "It was so beautiful, sometimes I thought the trees were
 going to tear out their roots so that they could come closer and
 listen."
@@ -5824,7 +5821,7 @@ together, was sweeping down the width of the Trout. "Hold on!" Rust
 bellowed.
 
 The wave hit the rear of the raft like a charging rhinoceros. Prince
-Lormay nearly tumbled into the river as the raft tilted forward, then
+Thokmay nearly tumbled into the river as the raft tilted forward, then
 righted itself. Princess Ogmin screamed in terror. Dark water from the
 wave had splashed up over the rear of the raft onto the logs and
 formed small pools. Even as they watched, the pools oozed together to
@@ -5862,7 +5859,7 @@ replied. She reared up on her hind legs to get a last glimpse of the
 raft, then fell back on all fours. "That's the last we'll see of our
 food, or your blankets."
 
-Prince Lormay managed a grim smile. "I guess we're all prisoners now."
+Prince Thokmay managed a grim smile. "I guess we're all prisoners now."
 The bear just snarled.
 
 "Look!" Princess Ogmin suddenly said, pointing upstream. "Someone's
@@ -5875,7 +5872,7 @@ was Muddh.
 
 "What's *he* doing here?" Rust snarled.
 
-"Oh, now, be polite," Prince Lormay told her, feeling almost
+"Oh, now, be polite," Prince Thokmay told her, feeling almost
 giddy. "He *is* your business partner."
 
 Another dozen lopsided steps brought the skinny smuggler to the little
@@ -5888,7 +5885,7 @@ Princess Ogmin's hair. "Glad to see it still works."
 "Oh yes, yes, a deal," Muddh nodded vigorously. He looked
 around. "You also had a raft, didn't you? Whatever happened to it?"
 
-"What happened to the dam?" Prince Lormay broke in. "We saw the
+"What happened to the dam?" Prince Thokmay broke in. "We saw the
 wave..."
 
 "Oh, the dam, the dam," Muddh said with a wave of his hand. "The dam
@@ -5926,23 +5923,23 @@ off his head will do you as much good as biting off hers."
 Suddenly Muddh had a knife in his hand, a knife whose blade flickered
 like the tongue of a snake. "Now, dear," Muddh said kindly, "We've
 worked *so* well together. Please don't spoil it now." He tossed the
-loop of cord to Prince Lormay. "Tie her up," he directed.
+loop of cord to Prince Thokmay. "Tie her up," he directed.
 
 Much to his own surprise, the prince laughed. "No," he said flatly.
 
 "Tch, tch," Muddh clucked, keeping his eyes on Rust. "If you don't, I
 will, and I'll be *much* less gentle than you."
 
-"Lormay?" Princes Ogmin quavered. "What does he want?"
+"Thokmay?" Princes Ogmin quavered. "What does he want?"
 
-Prince Lormay picked up the coil of rope and flung it back at the
+Prince Thokmay picked up the coil of rope and flung it back at the
 smuggler. "I said no," he repeated.
 
 Muddh shrugged. "I'm sorry," he said lightly to Rust. "It looks like
 you won't be left with a hostage after all." As quick as a snake, he
 twisted and lunged at the prince with the magic knife.
 
-Prince Lormay cried out and stepped back as the knife's blade whipped
+Prince Thokmay cried out and stepped back as the knife's blade whipped
 out.  It grazed his shoulder, and instantly his whole arm went numb
 with cold.  "Stand aside, boy," Muddh hissed. "Stand aside, or---"
 
@@ -5958,7 +5955,7 @@ Blight water bunched up around them, forming hundreds of dark strands
 that bound them like a net and pulled them down. Muddh screamed again
 as the river pulled him under. Rust roared, straining to break free.
 
-Prince Lormay ran forward and grabbed the coil of rope he had thrown
+Prince Thokmay ran forward and grabbed the coil of rope he had thrown
 back at Muddh. "Take it!" he shouted, throwing one end at Rust. The
 bear lunged at it and caught it in her teeth. The prince dug in his
 heels and pulled as hard as he could.
@@ -5978,7 +5975,7 @@ looked at the dark water lapping higher and higher against the sides
 of their little patch of mud.
 
 The river rose a thumb's width at a time. A ragged shark's fin half as
-tall as Prince Lormay circled the island a few times, then headed
+tall as Prince Thokmay circled the island a few times, then headed
 downstream in search of more accessible prey. Something else sparkled
 across the dark Blightwater like a rainshower, and a few moments later
 the prince thought he saw huge clawed footprints appear and disappear
@@ -5994,10 +5991,10 @@ the river had been as peaceful as the fish pond they had paddled their
 feet in when they were little, she wouldn't have been able to make
 it. Hot tears of anger and frustration welled up in his eyes.
 
-"..our..ighness.." Prince Lormay looked up at the sound. Could the
+"..our..ighness.." Prince Thokmay looked up at the sound. Could the
 Blightwater talk?
 
-"...here..." He looked wildly around, and then up.  Cloak was racing
+"...here..." He looked wildly around, and then up.  Charger was racing
 toward them, dropping as it approached. Noxy and Sergeant Gyalpa waved
 at him from the cloud's back.
 
@@ -6005,20 +6002,20 @@ at him from the cloud's back.
 here!" Ogmin looked up and shrieked, then started waving her arms as
 well.
 
-"Down!" Noxy mind-ordered Cloak. The Blightwater was still rising,
+"Down!" Noxy mind-ordered Charger. The Blightwater was still rising,
 faster now as it sensed that its prey might escape it.
 
 "Bad!" the cloud thought back emphatically. "Bad!"
 
 "Down!" Noxy ordered again, but try as she might, she couldn't get
-Cloak to drop down any further.
+Charger to drop down any further.
 
 "She won't do it!" Noxy said in despair. "She's too scared!"
 
 "You just have to get us close enough for this," the sergeant said,
 uncoiling the rope he'd brought.
 
-Noxy brought Cloak in low over the little island so that the sergeant
+Noxy brought Charger in low over the little island so that the sergeant
 could lower one end of the rope. "Hurry up, Your Highness!"  he
 bellowed.
 
@@ -6028,7 +6025,7 @@ time down here."
 "Blazes," the sergeant cursed. "No!" he shouted. "But if you can both
 hang on, we can get you to shore."
 
-Prince Lormay grabbed the free end of the rope and tied it under his
+Prince Thokmay grabbed the free end of the rope and tied it under his
 sister's armpits, then lifted her arms. "Hold on really, really
 tight," he told her, putting her hands on the rope. "No matter what
 happens. All right?"
@@ -6042,7 +6039,7 @@ promise." He reached up and grabbed the rope himself, then shouted,
 
 Sergeant Gyalpa wrapped his end of the rope behind his back and sat
 down on the cloud with his legs spread. "All right," he said to Noxy.
-Noxy pursed her lips and flashed an angry command at the cloud. Cloak
+Noxy pursed her lips and flashed an angry command at the cloud. Charger
 lifted slowly, then swung toward the riverbank.
 
 "We're up!" the prince shouted. For a moment everything seemed to be
@@ -6051,12 +6048,12 @@ working, but then suddenly they dropped down a hand's breadth.
 "I can't get a footing!" the sergeant yelled. Noxy watched in horror
 as his feet slid deeper and deeper into the cloud under the weight of
 the prince and princess. The rope was cutting into Cloud as well,
-making a deep rift that slowly let Lormay and Ogmin drop further and
+making a deep rift that slowly let Thokmay and Ogmin drop further and
 further toward the river.
 
-"Just a few more heartbeats!" Noxy yelled. "Lormay, hang on! Hang on!"
+"Just a few more heartbeats!" Noxy yelled. "Thokmay, hang on! Hang on!"
 
-"Lift up your feet," Lormay grunted at his sister. He could *smell*
+"Lift up your feet," Thokmay grunted at his sister. He could *smell*
 the Blightwater, it was so close.
 
 "I'm scared!" Ogmin said.
@@ -6071,8 +6068,8 @@ coming alive. They scrambled up, grabbing bushes and branches and
 dandelions and anything else that offered a handhold, until finally
 they reached the top of the riverbank and flopped down.
 
-Prince Lormay lay there for a moment, panting, then rolled over and
-started untying the knot around his sister. "Lormay?" she asked.
+Prince Thokmay lay there for a moment, panting, then rolled over and
+started untying the knot around his sister. "Thokmay?" she asked.
 
 "Mm hm?" he gasped as he undid the last of the knot.
 
@@ -6080,7 +6077,7 @@ started untying the knot around his sister. "Lormay?" she asked.
 
 ## The End of the Letter
 
-*Your Majesty,* Lormay began, as always. Then he paused, listening to
+*Your Majesty,* Thokmay began, as always. Then he paused, listening to
 the rain tap against the window as he wondered one more time what it
 would have been like to grow up calling his father something a little
 less formal than that. Ogmin was singing to herself in the next room,
@@ -6094,14 +6091,14 @@ particularly during the recent difficulties described in the reports
 which I trust you have by now received. Unless I am instructed
 otherwise, I shall commend him to future patrons.*
 
-Although I probably won't need to do so soon, Lormay added
+Although I probably won't need to do so soon, Thokmay added
 mentally. He had tried to talk the orangutan out of leaving, but Mope
 had made up his mind. "It's time I did something as myself," Mope had
 said, his face even longer than usual. "I've been trying to train you
 like the circus man trained my father. It's time I did a few of my own
 tricks for a change."
 
-"Where will you go?" Lormay asked.
+"Where will you go?" Thokmay asked.
 
 The orangutan twiddled his big toes. "Former or Latter Tongsa,
 perhaps, or Chaghan. Or maybe even Garheim. Anyone can argue the law
@@ -6124,8 +6121,8 @@ into better shape, you can." On an impulse he hugged his tutor.
 The orangutan hugged him back clumsily. "And I you, Your Highness," he
 said. "You had a pretty good sense of humor, for a human."
 
-The ink on Lormay's pen had dried. He wiped it carefully on a scrap of
-paper, then dipped it in the inkwell again. *2. Noxy of Marandine has
+The ink on Thokmay's pen had dried. He wiped it carefully on a scrap of
+paper, then dipped it in the inkwell again. *2. Noxy of Stale has
 rejoined her companions. They are returning to the mountains for the
 winter, but I have taken the liberty of extending her the freedom of
 Gandan, and have invited her to visit the capital whenever she might
@@ -6136,7 +6133,7 @@ other cloudherds had flown into Apple Bridge the day before. They had
 been appalled by the destruction, and Aft had been furious when she
 had learned of the part that Noxy had played.
 
-"Cloak could have been torn to shreds!" Aft raged. "And you too!
+"Charger could have been torn to shreds!" Aft raged. "And you too!
 You could have been killed!"
 
 Noxy folded her arms and glared at the older woman. "Or half of Gandan
@@ -6164,10 +6161,10 @@ had clapped. It was a rare honor, they all knew, for someone to be
 given the freedom of the kingdom.
 
 Noxy and the prince said their real good-byes an hour later. "I'm glad
-you let me stay," Noxy said, stroking Cloak's flank, somehow not quite
+you let me stay," Noxy said, stroking Charger's flank, somehow not quite
 able to meet the prince's eyes.
 
-Prince Lormay realized that she felt as awkward as he did, but that
+Prince Thokmay realized that she felt as awkward as he did, but that
 didn't make him feel any better. "I'm glad too," he said. He paused a
 moment, then added, "Even if all of this hadn't happened, I'd be
 glad." He waved at her a few moments later as Cloud climbed into the
@@ -6177,7 +6174,7 @@ There was a clatter next door. "Excuse me, Your Highness," Dolly
 called out, "But will Her Highness be needing her summer dresses, or
 may I put them in storage?"
 
-"Pack everything, please," Prince Lormay replied loudly. "We won't be
+"Pack everything, please," Prince Thokmay replied loudly. "We won't be
 coming back."
 
 There was a moment's silence, and then the door to the prince's study
@@ -6202,7 +6199,7 @@ then let her go. "But only if you help Dolly pack, all right?"
 you?" he heard her say.
 
 It wasn't Dolly who answered. "What's 'home'?" Dambu asked
-uncertainly.  Prince Lormay stared down at his letter as Princess
+uncertainly.  Prince Thokmay stared down at his letter as Princess
 Ogmin tried to explain. The sergeant had been unconscious for two
 entire days after the fight at the dam. When she had awaken, her mind
 had been as clear and as empty as a baby's. It had only taken her a
@@ -6230,14 +6227,14 @@ diagonal line across the empty space on the page, and at the bottom
 wrote, *Your dutiful*.
 
 He hesitated only a moment before adding, for the first time, *and
-loving*, then finished, *son, Lormay Gandan-o Prince*. He let his breath
+loving*, then finished, *son, Thokmay Gandan-o Prince*. He let his breath
 out with a whoosh, put his pen back in the inkwell, folded the letter,
 dripped some wax on it, and pressed his signet ring into the wax to
 seal it. Then he leaned back in his chair and stretched like a cat.
 
 Years later, when his hair was starting to turn gray and the scar the
 world's last wolf had left in his arm ached in cold weather, Prince
-Lormay finally heard what had happened when his father had received
+Thokmay finally heard what had happened when his father had received
 that letter. "He just smiled," the old steward said to him. "Like he
 used to sometimes before your mother passed away." But there are many
 more stories to tell before that one.

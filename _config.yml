@@ -6,7 +6,6 @@ repo: "https://github.com/gvwilson/sensibleadventures"
 repository: <USERNAME>/<PROJECT>
 exclude:
   - misc
-  - princess-bear
   - shudarga
   - "*.csv"
   - "*.docx"

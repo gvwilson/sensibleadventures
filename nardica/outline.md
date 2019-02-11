@@ -1,27 +1,45 @@
 Nardica
 =======
 
+- captain of the *Taroona* is the minor villain
+- turns out that the governor is the major villain
+- wants access to the Niobium satellites so that he can force China-over-the-Sea to incorporate him
+  - China will take anyone, but they stop being themselves
+  - the governor wants to be in it but not part of it
+  - the satellites are his bargaining network
+  - Governor: "This world is beyond saving. I want to see what comes next."
+- Iffy used to see Zillions in the market, but not any more
+  - they stay by the docks and they stay in groups to stay safe
+- a Chinese chipmonk waiting patiently for customers outside the market
+  - they always said that people were never joined against their will, but you had to be pretty desperate to trust them
+- so when they reach Paddington, they have to escape from the Governor
+- the Governor is on his third body
+  - brings up the display (somewhat ostentatiously) to intimidate visitors during their first meeting
+  - imprints himself on clones
+  - process is never perfect: more an attitude than knowledge
+  - Doctor Johel (wearily): "I've done worse things. For worse reasons."
+- the Zillion attack at sea isn't Zillions
+  - it's the captain of the *Taroona* in a lifeboat after revenge
+
+- give Iffie some friends
+  - hard-won (she's not completely isolated)
+  - Jeep is her best friend, and has a crush on her that she hasn't noticed
+  - she's in love with Honesty
+  - she's angry when her connection to the jungle is cut off and she can't speak to them: she'd worked so hard to make friends
+  - talk about "putting on makeup" when making a video call (digital)
+    - she's never learned how to use the real thing
+  - "vee you later"
+
+- make the connection between Governor Stern and the Rothera core more explicit
+
 - China-over-the-Sea is watching through Iffy's eyes but she's not allowed to say it
 
-- make the captain of the *Taroona* the minor villain
-  - chases them to get back "his" equipment
-  - his ship is sunk, not the Zillions
 - quote bits of poetry from the book to foreshadow the addition
-
-- figure out how Governor Stern and Rothera's core are connected
-
-- what's Mr. Mishra's role after the bombing?
-  - Iffy gets a message saying that the Marines have been 'round
-  - Jeep is somehow re-inducted
-- family scene at dinner where Uncle Jack is the odd one out
 
 - "Don't be an app"
 
-- call the internet "the jungle" - Wales comments that it's the only one left
-- someone blows up the new machine shop
-  - everyone blames the Zillions trying to stop the coal mining
-  - discover later that it was Wales trying to make the governor believe he needed the satellites
-- bring in Mishra and Jeep again, and the Sandhus
+- call the internet "the jungle"
+  - Wales comments that it's the only one left
 
 - what happens in the market?
   - Iffy gets some tech from Honesty's fathers who are worried about her because of the attack on the governor's mansion
@@ -68,16 +86,6 @@ Nardica
 - people don't use VR because of the risk of (mental) infection
   - being matrixed
 - replace all mentions of stories and shows with games ("people watching games", "romance games", etc.)
-- change the opening so that Iffy is the youngest of several clones
-  - when they throw her overboard, one of them says, "She's not ready..."
-  - her big sisters, not her parents
-  - Naggie and Jack found her, Naggie insisted on keeping her ("my niece")
-  - Iffy wondered if she was some kind of tweaked Zillion spy (saw it in a game)
-  - Aunt Naggie laughs but takes her in to have her tested
-  - told her afterward that the doc said she was clear
-  - but that's when she started making her special curries
-  - turns out the powder is to suppress Iffy's special abilities
-  - Naggie stayed with Jack to raise Iffy, leaves after Paddington
 - the governor's mansion has a statue of a centaur
   - the governor himself is part machine
   - Iffy was expecting tank treads or a mechanical arm, but he looks normal

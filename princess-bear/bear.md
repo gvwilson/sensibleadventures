@@ -76,7 +76,7 @@ Hooves drummed on the road behind her. Half a dozen soldiers in yellow jackets
 galloped toward her on stocky ponies. She struggled to her feet with a grimace.
 
 The lead rider reined in a few paces away. "Are you all right?" he asked,
-pulling down the black-and-yellow bandanna that protected his mouth and nose.
+raising the black-and-yellow battle mask that covered his face.
 
 "We're fine," Noxy said, cradling her bruised arm. "Did you see the others?"
 
@@ -88,7 +88,9 @@ incredulously, his voice breaking. "Is that you?"
 
 Noxy stared at the newcomer.  How did he know her name?
 
-The rider pulled down his bandanna.  "Noxy---what are you doing here?"
+The second rider raised his battle mask to reveal a young man with four parallel
+scars glistening slightly against the dark skin of his left cheek.  "Noxy---what
+are you doing here?"
 
 "Thokmay?"  Noxy stared at the prince of Gandan, cloud and arm both momentarily
 forgotten.  She struggled to her feet.  "How---" Before she could finish her
@@ -141,40 +143,36 @@ soldiers and laid her hands on its flank.  "Sh, sh, sh," she said soothingly as
 she closed her eyes to mind-speak with the injured cloud.
 
 Thokmay caught Noxy's eye and raised his eyebrows.  Noxy shook her head
-slightly.  She still hadn't told anyone that she could mind-talk to clouds
-without touching them.  The prince nodded almost imperceptibly.
+slightly---she still hadn't told anyone her secret.  The prince nodded almost
+imperceptibly.
 
 Rind gave Cloak one last reassuring pat.  "He could have been torn to shreds,"
 she said flatly, rounding on Noxy. "And *you* could have been killed.  I'd never
 have heard the end of *that*."
 
-"Yes, honored," Noxy said, eyes downcast.
+"Yes, *sra*," Noxy said, eyes downcast.
 
-Rind turned to Prince Thokmay. "I apologize, um, officer, if my companion here
-has caused you any trouble."
+Rind glanced at Prince Thokmay and did a double take. "Oh hells," she said
+blankly.  "What are you doing here?"
 
-"Oh, it's no trouble," the prince said mildly, his voice cracking.  "But now
-that you're here, I was hoping Noxy and I would have a chance to catch up."  He
-held the cloudherd's gaze for the half-dozen heartbeats it took her to realize
-who he was.  As Rind opened her mouth to speak, the prince continued, "We were
-on our way to escort the new envoy from Chaghan into Apple Bridge when we
-spotted the tornado.  I expect he'll have gone on ahead, but we should get
-moving too in case the tornado comes back."
+"That does seem to be the question of the day," the prince said mildly, his
+voice cracking.  As Rind opened her mouth to reply, he continued, "We were on
+our way to escort the new envoy from Chaghan into Apple Bridge when we spotted
+the tornado.  I expect he'll have gone on ahead---we should get moving too in
+case the tornado comes back."
 
 Rind's eyes narrowed. "Comes back?"  She hesitated before grudgingly adding,
-"Honored?"
+"Your Highness."
 
-The prince nodded grimly. "It's not just some monster out of the Blight. It's
-been hitting homes and farms for three weeks now.  The first was a farmer who
-let us borrow his truffle pigs to track some smugglers.  There have been half a
-dozen other attacks since, all on people who've been helping us."
+The prince nodded. "It's not just some monster out of the Blight. It's been
+hitting homes and farms for three weeks now, all people who've been helping us
+track down contrabanders."
 
-"Someone summoned a tornado?" Rind said skeptically. "How could back-country
-folk ever work magic like that?"
+"You think someone summoned a tornado?" Rind said incredulously.
 
-"They couldn't," the prince said. "That tornado probably spent the last thousand
-years in a bottle at the bottom of Fast Lake.  We think some smuggler found it
-floating down the river and realized what he had.  It's just our bad luck
+The prince shook his head. "No.  That tornado probably spent the last thousand
+years in a bottle at the bottom of Fast Lake.  Some contrabander must have
+dredged it up or found it floating in the river.  It's just our bad luck
 that---"
 
 "Your Highness!" The soldiers who had gone down the road had come trotting
@@ -196,77 +194,74 @@ whole *barn*, and---
 
 "His Majesty will pay to have it all rebuilt," the prince told her soothingly.
 "But right now, my men will see you safely into Apple Bridge. You can stay there
-until we find out who's behind this."
+as long as you need to."
 
-The old woman nodded, fighting tears.  The prince turned back to Noxy. "You
-would be welcome in Apple Bridge as well, of course. And your companions," he
-added hastily.
+The old woman nodded, fighting tears.  The prince turned back to Rind. "You
+would be welcome in Apple Bridge as well, of course."
 
-"That's impossible," Rind said sharply. "We've already lost half a day, and if
-the tornado comes back like you said---"
+"Out of the question," Rind said sharply. "We've already lost half a day, and if
+the tornado comes back---"
 
-"But Cloak is hurt," Noxy interrupted, "She needs to rest for a few days, or
-she'll never make it to Chaghan, much less back home."
+"But Cloak is hurt," Noxy interrupted, "He'll never make it to Chaghan if he
+doesn't get some time to heal."
 
-"Well, we can't afford dawdle around for a week," Rind snorted.  "Chaghan's
-crops haven't seen rain in a month.."
+"We don't *have* time," Rind snapped.  "We have a contract, and we're already
+going to be late."
 
-"Well then, I'll stay here with Cloak until he's better," Noxy declared.
+"Then I'll stay here with Cloak until he's better," Noxy declared.
 
-"Oh no you won't," Rind told her, glaring. "I'm not leaving one of my riders out
-here in the middle of nowhere. Especially not one with your talent for finding
-trouble!"
+"Out of the question," Rind repeated, crossing her arms. "I'm not leaving one of
+my riders in the middle of nowhere."
 
 "I'm old enough to take care of myself!" Noxy said indignantly.
 
-"Just like you took care of Cloak?" Rind snapped.
+"Just like you took care of Cloak?" Rind shot back.
 
-"I will take responsibility for her," the prince interrupted.  "The cloud can
-stable at the garrison house until they're able to catch up with you."
+The prince cleared his throat.  "I will take responsibility for her," he said.
+"She can stay at the garrison house and her cloud can use the courtyard until
+they're able to catch up with you."
 
-Rind threw up her hands. "Like mother, like daughter," she said to no-one in
-particular. "Do as you please---you always have.  Just promise me you won't go
-looking for trouble."
+Rind threw up her hands. "Like mother, like daughter.  Just promise me you won't
+go looking for trouble."
 
 "I never go *looking* for trouble," Noxy muttered, but Rind was already
 scrambling back onto her cloud. A few moments later she was airborne, heading
 west with the rest of the herd.
 
 The prince's carefully polite expression turned wistful as he watched the clouds
-fly away. "Can you two make it to Apple Bridge?" he asked Noxy.
+fly away. "Can your cloud make it to Apple Bridge?" he asked Noxy.
 
-She put her hand on Cloak's flank and to mind-speak with him before nodding.
-"Yes, if we go slowly. I've been pushing him pretty hard to keep up with the
-others," she added, feeling a sudden pang of guilt. "I think that's why we
-couldn't get away from the tornado like they did."
+She put her hand on Cloak's flank and mind-spoke with him before nodding.  "Yes,
+if we go slowly. I've been pushing him pretty hard to keep up with the others,"
+she added, feeling a sudden pang of guilt. "I think that's why we couldn't get
+away from the tornado like they did."
 
 The prince handed his horse's reins to Jinpa. "Put the lady and her young men on
-Bucketbreath here," he ordered. "See them safely back to Apple Bridge, and tell
-the staff that they're to be put up in the garrison guest house if they can't
-find something more suitable.  I will take the cloud back with Respected
-Noxious."
+Bucketbreath here," he ordered. "See them safely back to town, and tell the
+staff that they're to be given rooms in the garrison guest house if they can't
+find something more suitable.  I will take the cloud back with Noxious."
 
-The soldier cleared his throat. "Um, Your Highness, are you sure---"
+The soldier cleared his throat. "Um, *sra*, are you sure---"
 
 "We'll all be safer if someone is in a position to spot the tornado returning,"
 the prince said crisply.
 
-"Yes respected," Jinpa replied doggedly, "But---well, Sergeant Gyalpa said to be
+"Yes *sra*," Jinpa replied doggedly, "But---well, Sergeant Gyalpa said to be
 double sure you were back along the garrison in time for the dinner tonight.
-With the new envoy, sir.  What with protocol and along like that."
+With the new envoy, sir.  What with protocol and all along by that."
 
-The prince muttered something under his breath.  "The cloud won't be any slower
-than horseback," he told Jinpa in a normal voice.  "And if I'm late, I'll tell
-the good sergeant it was my fault."
+The prince muttered something about protocol under his breath.  "The cloud won't
+be any slower than horseback," he continued in a normal voice.  "And if I'm
+late, I'll tell the good sergeant it was my fault."
 
-"Yes respected," Jinpa said glumly.  He exchanged a look with Manpa that said it
+"Yes *sra*," Jinpa said glumly.  He exchanged a look with Manpa that said it
 wouldn't matter to the sergeant whose fault the prince said it was...
 
 Prince Thokmay pointed at the two little boys.  "You two keep an eye out as
 well," he said sternly. "If you see any sign of trouble, you tell these men
 right away, all right?"
 
-"Yes respected," the older one said. His brother just stared wide-eyed at the
+"Yes *sra*," the older one said. His brother just stared wide-eyed at the
 prince, the cloud, and the big wide world he'd suddenly found himself in.
 
 The prince pulled himself up onto Cloak behind Noxy and sat quietly as she
@@ -298,31 +293,28 @@ Gyalpa is really in charge.  You'll meet him when we get to town. And Sergeant
 Dambu too---she's our magician. Mostly I just try to stay out of their way."
 
 "Well, you sounded pretty convincing to me," Noxy said. She lowered her voice
-half an octave. "'You two keep an eye out'. It reminded me of Sergeant Dorbu."
+half an octave. "You two keep an eye out."
 
-The prince smiled and cleared his throat. "'I never go *looking* for trouble',"
+The prince smiled and cleared his throat. "I never go *looking* for trouble,"
 he said in a falsetto voice.
 
 "I don't sound like that!" Noxy said indignantly.
 
-The prince laughed.  "No, but it's the closest I can come."  He glanced down at
-the road again and settled himself a bit more comfortably on the cloud. "How's
-your mother?"
+The prince laughed.  "No, but it's the closest I can get."  He glanced down at
+the road again and settled himself a bit more comfortably. "How's your mother?"
 
-It was Noxy's turn to shrug. "She's all right, I guess.  She's happy to be
-herding again instead of running things."
+It was Noxy's turn to shrug. "She's all right, I guess.  She says she's happy to
+be herding again."
 
-The prince nodded. "Your letter said. I was surprised to hear she was no longer
-mayor."
+The prince nodded. "I was surprised to hear she was no longer mayor."
 
 "A lot of people are still angry about what happened," Noxy said, her eyes on
-the horizon.  "Aft still can't walk properly, so when Rind said she was going to
-stand, there wasn't even an election.  *Amma* says she's glad someone else is
-worrying about everything, but I think she misses it."
+the horizon.  "When Rind said she was going to stand, they didn't even have to
+have a vote.  *Amma* says she's glad someone else is worrying about everything,
+but I think she misses it."
 
-"I know how she feels," the prince said. "Things have been a lot different for
-me too, but I'm actually glad to be out here and away from all the fuss at
-court."
+"I know how she feels," the prince said. "I'm glad to be out here and away from
+all the fuss at court."
 
 "Is Kulbinder here?" Noxy asked. "Your letter didn't say. It would be good to
 see him again."
@@ -331,11 +323,11 @@ The prince shook his head. "He's with my brother now."
 
 Noxy frowned. "Why? I thought he liked you."
 
-The prince shrugged. "He probably does, but Lormay's the heir now."  He couldn't
-quite keep the bitterness out of his voice when he continued, "My father said it
-would make it clear to everyone that things have changed. Sending me to Apple
-Bridge is part of that too. He said that since I'm never going to rule, I have
-to learn how to serve."
+The prince looked away. "He probably does, but Lormay's the heir now."  He
+couldn't quite keep the bitterness out of his voice when he continued.  "My
+father said it would make it clear to everyone that things have changed. Sending
+me to Apple Bridge is part of that too. He said that since I'm never going to
+rule, I have to learn how to serve."
 
 "You didn't say anything about that in your letters," Noxy ventured hesitantly.
 
@@ -345,10 +337,9 @@ who was going to read them."
 Noxy flushed. "I never showed them to anyone!" she protested. "Not even Granna
 Fee!"
 
-"I don't mean that," the prince apologized hastily. "It's just that some people
-at court thought they should keep an eye on me, at least at first.  That's
-another reason I like being here---people aren't watching everything I do and
-gossipping about everything I say."
+"I don't mean that," the prince apologized hastily. "It's people at court I
+worry about.  That's the other reason I like being here---nobody's watching
+everything I do and gossipping about everything I say."
 
 "That's horrible!" Noxy exclaimed.
 
@@ -365,9 +356,8 @@ opening her eyes.  "There are some wild clouds over there somewhere."
 "And you still haven't told anyone?"
 
 Noxy shook her head.  The cloudherds had stories about people who could
-mind-talk at a distance, or to birds, or even to other people, but none of them
-had happy endings.  She suspected that her grandmother had figured out that
-something was going on, but she hadn't brought it up.
+mind-talk to distant clouds, or to birds, or even to other people, but none of
+them had happy endings.
 
 The prince waited another heartbeat for her to speak.  When she didn't, he
 nodded.  "All right," he promised.  "Our secret."

@@ -623,3 +623,522 @@ show the world that he was the heir.  Prince Thokmay and Princess Ogmin stood to
 either side, hands clasped behind their backs.  Two years ago, Thokmay and
 Thokmin's positions had been reversed.  He wondered if his brother thought about
 that as often as he did.
+
+## Chapter 3: Familiar Faces
+
+*She could have told me she was going to watch,* Noxy thought as she lowered
+herself self-consciously into the steaming water.
+
+"Warm enough, miss?" Dolly asked, stirring the coals in the tub's hotbox.  Her
+head only came up to Noxy's shoulders, but her arms were longer than Noxy's
+legs. Her orange-brown fur was speckled with gray, and her eyes were sad and
+wise.
+
+"Yes, thank you," Noxy said. "It's wonderful."  It was actually almost too hot
+to bear, but she could feel the ache in her injured arm start to soften.
+
+Dolly smiled. "I'm sure it is, after all you've been through. Now, let me have a
+look at that. No, please, don't try to get up, just sit forward a bit. That's
+good... that's good... My, that *is* a nasty bruise, isn't it?  You're lucky it
+wasn't broken.  Does it hurt when I---I'm sorry. How about this way?"  She
+clucked her tongue, then went over to the cabinet next to the window and
+rummaged around. "I'm *sure* I've got some left," she said to herself.
+
+Noxy looked around the room as the troll sniffed the contents of various jars
+and bottles. The walls were painted a soft yellow. The cabinet, the standing
+mirror, and the chair and matching footstool were all made of darkly varnished
+wood, with legs that curved inward slightly like a bowlegged sailor's. The only
+other decoration was a framed needlepoint of an eagle atop a pole with its wings
+spread. Noxy wondered idly if it was landing or taking off, or just shaking off
+the rain.
+
+"That's Her Highness's work," Dolly said, noticing Noxy's gaze. "She's a fine
+one with a needle."
+
+Noxy hesitated. "The prince told me she was..."  She trailed off, not knowing
+exactly what to say.
+
+"Simple?" Dolly finished, undisturbed. "She is that.  But she's as sweet as
+anyone you'll ever meet. Now give me that arm and let me put some of this on
+you. It won't hurt.  Pilots know I've done it often enough for Her
+Highness---it's a rare week she doesn't have some spill or other."
+
+Noxy was thankful that Dolly left her alone to dress in the pale yellow blouse
+and gray floor-length skirt that a housemaid had delivered while she was
+soaking. The skirt felt drafty---mountain women only wore them for weddings,
+funerals, and fancies---but when she wiped steam from the mirror to look at
+herself, the clothes' soft colors set off her dark brown skin perfectly.
+
+She dithered for a moment before setting aside the dainty wooden court shoes
+that had come with the clothes. *No sense breaking my neck on the stairs,* she
+told herself as she pulled on her sturdy mountain boots instead.  After tying
+her braids back in a thick club, she set out to see what she could find to quiet
+her grumbling stomach.
+
+The dining room on the floor below had the largest window Noxy had ever seen.  A
+dozen places were set at the table that stood in front of it, each with a
+bewildering confusion of bamboo and silver cutlery.
+
+Prince Thokmay folded the report he had been reading and tucked it back into his
+sleeve as she entered.  "Good evening, *sra*," hse said solemnly, bowing.  Noxy
+hesitated, not knowing if she was supposed to bow back, but then Thokmay winked.
+
+She scowled to hide her blush.  "Don't be such a troll."
+
+"Why not?" asked a voice behind her.  "I think it's a fine thing to be."
+
+Noxy spun around.  The troll who had just entered the room sketched an elaborate
+court bow.  A small pair of glasses with heavy brass rims perched precariously
+on his tiny snub of a nose. His orange jacket was just a shade lighter than his
+fur, while his brown pants were just a shade darker.
+
+The prince cleared his throat.  "Um, Probably Noxious of Stale, allow me to
+present my tutor, the Learned Mope."
+
+"A pleasure to meet you, honored---the prince has spoken of you often," the
+troll said, smiling pleasantly.
+
+"Learned Mope is Dolly's son," Prince Thokmay explained to Noxy, his voice
+cracking mid-sentence. "He's supposed to be teaching me law and history."
+
+"He's actually not a bad student," the troll told Noxy in a stage whisper. "He
+has a fine memory. He just don't know how to think yet. Logic!  Logic is the
+key." He waggled a finger.  "Logic and eloquence.  And facts, of course.  One
+must have facts as fuel for one's arguments..."
+
+Noxy tried to seem interested as the troll embarked on a long story about how an
+inspired bit of logic by someone she had never heard of had once prevented a war
+between two countries she was pretty sure no longer existed.  It became harder
+after the steward stole the prince away with an urgent question about salad
+dressings and the placement of lanterns.
+
+As Mope's stored rambled toward a climax, another figure slipped into the room
+and made a beeline for the sweets on the side table beneath the window.  She
+wore a more elaborate version of the blouse and skirt that Noxy had been given,
+and had the prince's round face and prince's, but instead of being cropped
+close, her hair hung in a dozen long braids, each ending in a small yellow bow.
+
+"You've met Her Highness, I trust?"  the troll asked, interrupting himself
+without missing a beat.
+
+"I'm afraid I haven't," Noxy replied, trying to imitate the polite voice her
+mother used when negotiating contracts.
+
+"Well, no point standing on ceremony," Mope said.  He shooed her forward. "Your
+Highness?"
+
+The princess shook her head as they approached, counting slowly.  "Four, five,
+six---there are six people for dinner tonight!" she announced proudly.
+
+The troll straightened his glasses.  "Quite possibly, Your Highness, though
+logically the most we can conclude is that there will be *at most* six people.
+But no matter, no matter," he added hastily as she frowned.  "Have you met the
+Honored Noxious? She's a friend of your brother."
+
+"H'lo," the princess mumbled, suddenly shy.
+
+"Hello, Your Highness," Noxy said. The silence stretched awkwardly.  As Mope
+opened his mouth to break it, Noxy asked, "Do you always wear nice shoes?"
+
+Princess Ogmin looked at her feet. Her wooden court shoes were dark blue with
+golden roses chasing one another across the top. "No?"  Princess Ogmin said,
+still shy.
+
+"Me neither," Noxy told her. She tugged her skirt up to reveal the toes of her
+scuffed mountain boots. "I was afraid I'd trip and fall down the stairs if I
+wore nice shoes, so I wore these instead."
+
+The princess's eyes widened. She giggled. "Look!" she whispered loudly to Mope,
+pointing.  "She's wearing *boots*!"
+
+The troll grinned. "Yes she is," he agreed.  "And very nice boots they are,
+wouldn't you say?"
+
+After that, Princess Ogmin couldn't stop talking. By the time Sergeant Gyalpa
+arrived to rescue the prince from the steward, she had told Noxy about her
+riding boots, her dolls, and the needlework she was making for her brother's
+birthday. ("But don't tell him," Princess Ogmin whispered loudly, "It's a
+secret.")
+
+---
+
+The steward returned a few moment later to announce that the Consul of Chaghan
+had arrived with her replacement, and was begging the prince's grace to join the
+court for dinner.  "The court?"  Noxy asked in a whisper after Mope excused
+himself.
+
+The prince gestured at his sister, who had gone shy again as soon as the steward
+spoke.  "Whenever two members of the royal family are in the same place, it's a
+court."
+
+"Her Excellence, Yisu Chaghan-o Consul," the steward said loudly.  Noxy glanced
+at the door.  Her blood instantly went cold.
+
+"It can't be..." she whispered.  She grabbed the prince's arm.
+"Thokmay... look!"  The prince looked where she was pointing.  The smile dropped
+off his face like a hanged man dropping from a gallows.
+
+"Your Highness!"  The portly woman striding toward them with a practiced smile
+on her face wore a formal black coat trimmed in Chaghan's sky blue, held closed
+by a matching sash.  Her smile faltered slightly when she realized the prince
+was ignoring her.  "Is something wrong?"
+
+"What---what in the name of all things rotten is *he* doing here?" the prince
+demanded, his voice breaking.
+
+The room seemed to still as the man who had entered two paces behind the consul
+bowed deeply.  "Your Highness.  How good to see you again."  Prince Shudarga
+straightened and turned to Noxy.  "And you as well, Honored Noxious.  I trust
+you are well."
+
+"I---I take it you've met?" Consul Yisu asked weakly, her eyes darting back and
+forth between the two princes like a rabbit caught between two lions.
+
+"Yes," Prince Thokmay grated. "He murdered a friend of mine."
+
+Prince Shudarga coughed.  "Not that I wish to begin my tenure as consul by
+disagreeing with my host, but Sergeant Dorbu's death was not murder."
+
+"Not murder!?"  "Consul!?"  Noxy and Prince Thokmay exclaimed at the same time.
+
+"How can you be consul? You're not Chaghan-o!" the prince continued.
+
+"I am now," Prince Shudarga replied calmly.  "The Chaghan-o very graciously
+allowed me to take up land there after your father seized my holdings in Gandan.
+When Consul Yisu decided to retire, offering my services as her replacement
+seemed the least I could do to thank them."
+
+If Noxy had been raised at court like Prince Thokmay, she might have noticed the
+angry look that briefly flitted across Consul Yisu's face when Prince Shudarga
+said she had decided to retire.  As it was, she was too angry to notice
+anything, not even the way Manpa and Jinpa had slipped into the room to stand
+casually by the door, very definitely *not* ready to draw their swords at the
+first hint of trouble.
+
+"The least you could do?" the prince snarled.  "The least you could do is find a
+cliff like the one you threw Sergeant Dorbu off and take a flying leap!"
+
+Prince Shudarga sighed theatrically.  "I did not throw the sergeant off
+anything, Your Highness.  We were fighting.  It was difficult terrain, and he
+fell.  I'm sorry it happened.  I'm sorry for every single person or Gifted beast
+that died that day."
+
+"Sorry enough to come back to Stale for trial?" Noxy burst out.
+
+Prince Shudarga shook his head.  "I very much doubt I would receive a fair
+hearing if I did so."
+
+"A fair---you don't deserve any kind of hearing!  Let *go* of me!"  Noxy shook
+off the hand Prince Thokmay had put on her arm.
+
+"Noxy!" the prince said sharply.  He held up the cream-colored sheet of paper
+that Consul Yisu had handed to the steward, who had in turn passed it to Prince
+Thokmay.  "Noxy, I'm sorry, but he's telling the truth.  He really is the new
+consul."
+
+Noxy stared at him incredulously.  "But---he killed Sergeant Dorbu!"
+
+The prince nodded, his face years older than it had been just minutes ago.  "I
+know he did.  But as long as he's officially a guest of the king, Gandan-o law
+can't touch him."
+
+"Thank you, Your Highness."  Prince Shudarga's hair was starting to gray, Noxy
+noticed, and he was thinner than he had been two years ago.  She hoped it was
+more than just age.  She hoped those two years had been as hard for him as
+they'd been for Fernando, whose broken leg had healed crookedly, or for
+Ulfmaerr, who had given up so much of himself to help her and Prince Thokmay
+escape.  She hoped he had nightmares, like she sometimes still did.
+
+From his post beside the table, the steward rang a small bell.  "Dinner is
+served," he announced.
+
+Prince Thokmay didn't move.  "My apologies, Honored Yisu," he said, "But I
+find I am suddenly feeling unwell.  I don't think I would be able to make it
+through dinner."
+
+"Of course, Your Highness," the Chaghan-o replied, "I completely understand.
+Perhaps I could come and bid you farewell before I depart?"
+
+"It would be my pleasure."  She and Prince Thokmay bowed to each other.
+
+"And I trust you will enjoy your stay in Apple Bridge, *Consul*," Thokmay said
+to his other guest in a voice as cold as a mountain lake.
+
+Prince Shudarga inclined his head.  "I hope so, Your Highness.  I sincerely hope
+so."
+
+Sergeant Gyalpa had been standing at attention near one end of the dinner table
+throughout the exchange.  The moment the door closed behind the two visitors and
+the apologetic steward, he took a deep breath and blew it out through his
+mustache.  "Sir, if I may---"
+
+"You may not," Prince Thokmay snapped.
+
+"But sir, I---"
+
+The prince rounded on him.  "That man killed my friend!" he shouted, angry tears
+welling in his eyes.  "He terrorized Noxy's village, and more than that, he
+raised rebellion against my father.  What is Chaghan thinking!?  It is an insult
+for them to appoint him as consul!"
+
+"Yes sir," Sergeant Gyalpa said steadily.  "That's what I was going to say, sir.
+It's an insult, and not an accidental one, and if I may, sir, I think you
+handled it very well."
+
+The prince blinked, nonplussed.  "Um.  Yes.  Thank you, sergeant."
+
+Princess Ogmin eventually broke the silence that followed.  "Are we still going
+to have pie?" she asked hesitantly, then look startled when everyone laughed.
+
+In the end they agreed it would be a shame to waste the kitchen's hard work, and
+Prince Thokmay declared that he was feeling much better.  The house staff served
+spicy squash soup and skewers crowded with grilled vegetables and salty cubes of
+cheese.  The pie that followed was delicious.
+
+Afterward, Prince Thokmay sent his sister gently off to bed.  "Would you like to
+sit on the balcony for a bit?"  he asked Noxy once she was gone.  "I'm sure the
+cook would be happy to mull some cider."
+
+The balcony turned out to be as wide as the house Noxy shared with her mother
+back in Stale. The Trout River stretched away to the left and the right, up
+toward the magic dam and down through Gandan and Latter Tongsa to the sea.
+Moonlight gleamed on each little ripple, and suddenly Noxy missed the million
+sharp stars of the mountain sky.
+
+A bell went *dong, dong, dong* slowly somewhere on the other side of the river.
+"Third watch," the prince observed, sliding a little lower in his chair.
+"Sergeant Gyalpa had me do night watches when we first got here, just so I'd
+know what it was like for the soldiers.  It was actually kind of fun---turns out
+it's a lot easier getting up in the middle of the night than getting out of bed
+in the morning."
+
+"We take turns sleeping when we're on long flights," Noxy told him.  "As long as
+a couple of people are awake to keep the herd moving, the rest will follow."
+
+"Are you enjoying it?" Thokmay asked.
+
+Noxy smiled.  "Lots."  She hesitated.  "And---how about you?  Are you
+enjoying... this?"
+
+The prince raised his mug to his lips, then lowered it without drinking.
+"Actually, after I got back to Gandan, I thought for a while about becoming a
+doctor."
+
+"A doctor?" Noxy said. "But---you're a boy!"
+
+"Boys can be doctors," the prince said defensively.  "Anyway, my father said
+that one more doctor more or less probably wouldn't make much difference in the
+world.  So here I am, learning how to command soldiers and argue the law."
+
+"Do you ever regret what you did?" Noxy asked. She'd wanted to ask in her
+letters, but had never known how to.
+
+"No, not really." He sounded distant, as if they were talking about someone he
+had lost touch with long ago. "It needed to be done. That's really all there is
+to it.  But I think it's hard for Ogmin. She's not... she's not very good with
+things changing. The first month we were here, she had to sleep in my room. She
+kept waking up in the middle of the night because she couldn't hear the bell in
+Queen Zhimi's Tower ringing."
+
+"But why is she here? Isn't it dangerous?"
+
+"It needed to be done," the prince said again. "If you send one royal away, it
+looks like exile.  Send two, and you can call it a court."
+
+"But---"
+
+"My father *says* that her presence is a sign of the trust he puts in his oldest
+son. I wonder sometimes, though." The prince drained his cider. "I don't
+feel---I don't feel like I'm ready for that kind of trust, not really."
+
+Noxy was silent. Finally Prince Thokmay sighed. "I'm sorry. It's been a long
+day, and I still have a letter to write. Do you really want to go to the Dog
+Market with Ogmin tomorrow? You don't have to if you don't want to."
+
+"Oh, I think we'll have fun," Noxy said. "I just hope Dolly can keep up with
+us."  She drained the last of her cider and stood.
+
+The prince hurriedly stood as well.  They looked at each other, neither quite
+knowing what to do next, until the prince cleared his throat.  "So, good night."
+
+"Good night," Noxy said awkwardly.  Her breath caught when the prince reached
+out, but he was only opening the door to let her back into the garrison house.
+"Good night," she repeated, turning and leaving him on the balcony with all the
+moment's might-have-beens.
+
+*Meanwhile, on the other side of the garrison house, a hairy hand unlatched a
+window.  Its owner waited a moment to see if anyone had noticed, but only heard
+the usual sounds of servants finishing late-night chores, soldiers gossipping as
+they stood watch, and a cat meowing to be let in.*
+
+*Climbing onto the roof took only a moment.  A long leap ending in a practiced
+reach and flip, and the troll was across the street and away...*
+
+*A few minutes later, a piebald horse was awakened by a gentle hand stroking her
+flank. "Sh, sh," whispered a voice. "Oh, look what they've done to you." Enraged
+and embarrassed after the scene in the market, her owner had laid into her
+flanks with his willow switch, leaving a double dozen angry welts.*
+
+*She whinnied softly as her midnight visitor slipped a halter over her
+head. "Sh, sh...  Quietly now, come along."  She followed obediently as the
+troll led her out of the stable behind the inn where her bruised master had
+found a room for the night.*
+
+*The inn's yard was empty, though voices could be heard from inside.  Only the
+stars, the scarred moon, and an attentive crow watched the pair make their way
+across the inn's little courtyard to a muddy alley.*
+
+*As they reached it, the crow swooped low over their heads.  The horse
+side-stepped, startled.  "Sorry!" the crow squawked.*
+
+*"Sh!" the troll hissed.*
+
+*"Sorry," the crow repeated more quietly.  "There's a couple of night-soil
+collectors along down Trumpet Street, but that's all."*
+
+*"Thank you." The crow bobbed its head and took wing again, fluttering from
+building to building as the troll and the horse picked their way through the
+alley to a run-down warehouse on the banks of the Trout.*
+
+*The carefully-oiled hinges of the warehouse's door made no more sound than the
+window latch had.  Inside, a cheap dayglass lantern cast just enough
+reddish-orange light to reveal a pair of raccoons and---*
+
+*The horse shied again as the bear rose to its feet and ambled toward her.  "Sh,
+sh, sh..."  The troll stroked her muzzle.  "It's all right, it's all right,
+nobody's going to hurt you, not here, not ever."*
+
+*"You know she doesn't understand you," the bear rumbled.*
+
+*"She understands what I mean," the troll replied sharply.  "The barge is still
+coming in tomorrow?"*
+
+*"If it hasn't sunk.  Or been pirated.  Or caught fire."  The bear stepped aside
+to let the troll lead the horse to the back of the warehouse where half a bag of
+pilfered oats waited for her.  The raccoons stood on their hind legs and pushed
+the door closed.*
+
+*The troll stroked the horse's muzzle one last time.  "Don't worry.  No one is
+ever going to put a halter on you again."  Without waiting for an answer that
+would never come, the hairy figure climbed a post, swung along a beam, and
+disappeared out a window into the night.  The air was chill, and morning would
+arrive all too soon, but there was one more chore to be done...*
+
+As the crow tucked its head under its wing on a rafter above the horse, Prince
+Thokmay was sitting down at his desk.  He had unbuttoned his dress jacket but
+kept it on for warmth---the light from the little dayglass lantern by his elbow
+was midday-yellow, but held no heat at all.
+
+He frowned at the sheet of paper before him.  *Your Majesty,* his letter began,
+as his reports to his father always did. *1.  Apple Bridge continues quiet. The
+Dog Market is busy, but your revenue collectors report only minor disputes and
+disturbances.* He saw no reason to mention Mope's latest run-in with the locals.
+
+*2. The tornado has struck again. No soldiers' lives were lost, but one man is
+still missing, and a prosperous smallholding was destroyed.  There is still no
+clue who is directing it.* The prince had hesitated before calling the little
+out-of-the-way farm "prosperous". He didn't think that his father's hawk-eyed
+accountants would quibble over the shells that the prince was planning to spend
+to rebuild it, but Mope always told him to think two moves ahead.
+
+*3. A Stale cloud was injured in the same attack. Its rider is to remain here
+with it until it is able to rejoin its herd.* He had almost chewed the end off
+his quill writing those two sentences.  After what had happened two years ago,
+he doubted his father would be happy knowing that Noxy was staying at the
+garrison house.  He wanted his brother to find out even less. The first time
+Noxy had written Thokmay a letter, Thokmay had run through the palace holding it
+in the air, crowing, "Thokmay has a sweetheart!  Thokmay has a sweetheart!"  The
+older prince had knocked over a potted lime tree and two elderly surveyors
+catching up with him, and had his riding privileges taken away for a week for
+blacking his eye. Thokmay had made a point of sneering at cloudherds ever since.
+
+He sighed, then froze as something else sighed behind him.  His right hand was
+on the writing desk, holding the goose quill.  *Breathe naturally,* he told
+himself as he slid his left hand up from his knee (which he often scratched
+while writing) to the dagger at his belt. Slowly, slooowwwllyyy...
+
+Something thumped onto the floor behind him.  The prince leaped to his feet,
+knocking over his chair as he drew his dagger.  The ghost of a small dog looked
+at him for a moment, then threw back his head and howled.
+
+The sound went through the prince like an arrow. He clapped his hands over his
+ears, nearly taking off his nose with his dagger as the lantern on his desk
+shattered.
+
+The ghost lowered its head and growled, ears back. The prince yelped and slashed
+instinctively as the apparition suddenly charged. His whole body went cold for
+an instant as the ghost passed through him and disappeared through the wall.
+
+The prince collapsed onto the edge of his desk, shivering uncontrollably.  His
+dagger slipped from his numb fingers and clattered on the floor.
+
+The door burst open a moment later. "Your Highness!"  Someone shook him. "Your
+Highness, are you all right?"
+
+"I'm fine," Prince Thokmay mumbled. He let out his breath with a whoosh,
+half-expecting to see it make a fog. "It was Edward. He was here."
+
+"Pilots preserve us."  The servant let go of the prince's shoulders.  Was his
+name Apsu? The prince couldn't remember, though he prided himself on knowing
+names.  He was so... tired...
+
+More boots pounded the planked stone corridor. "Your Highness, are you all
+right?"  Sergeant Dambu asked before pulling herself up short and sniffing the
+air. "There's been a ghost here," she said flatly.
+
+The prince nodded. "I know," he mumbled, still shivering.  Disconnected thoughts
+and images were surfacing in his mind like drowned bodies rising to the surface
+of a stagnant pond.  He choked back nausea.  "I think---I think he's trying to
+warn us about something."
+
+"About what, Your Highness?"  *Abasu,* the prince recalled fuzzily.  *The
+servant's name is Abasu.* He shook his head.  The images---they weren't his
+memories, they were the ghost's, and they were all the wrong shape and size and
+flavor.  Thinking about them was like trying to choke down cold cauliflower
+soup...
+
+"Make way."  Sergeant Gyalpa pushed past the servants.  He was wearing only his
+boots and a striped cotton nightshirt, but had his sword in his hand. "Your
+Highness, are you---"
+
+"It was Edward," Sergeant Dambu told him.  "He passed along through His
+Highness."  She picked up a shard of dayglass from the desk and turned it over
+in her hand.  "He's getting stronger."
+
+Sergeant Gyalpa scowled. "Back to your posts," he ordered the servants and
+soldiers. "Nothing more is going to happen here tonight."
+
+He waited until they were gone before putting his hand on the prince's shoulder.
+"If you need to yark, lad, go ahead.  Most do, their first time along this
+sort."
+
+Prince Thokmay shook his head, feeling merely dizzy instead of seasick.  The
+thoughts the ghost had left behind in his head were fading.  "I think..." He
+swallowed.  "It's something about the bridge.  Or the dam.  And the Blight.
+Something bad is coming."  He stood, then grabbed the desk with one hand to
+steady himself.  "Something *really* bad."
+
+"Omens blasted omens," Sergeant Gyalpa cursed. "Why can't he just come along and
+tell us straight?"
+
+"I'm so more worried as that he's coming clearer instead of fading," Sergeant
+Dambu said, still turning the shard of dayglass over in her hand.  Her voice,
+soft and husky, seemed at odds with her skinny frame.  "Should have moved along
+ages since, before we were either born.  Why's he coming stronger?  And how?"
+
+Prince Thokmay straightened up. "Whatever is giving him the strength to stay in
+this world can't bode well for this town. I'll include a note to my father's
+magicians in my letter and ask for advice." He took a deep breath and let it out
+with a whoosh. "I'll do that now.  It's not like I'm going to get to sleep any
+time soon.  And Sergeant Dambu---let's speak first thing in the morning.  It
+appears we have more to talk about than just what you found on your last
+patrol." He returned the two sergeants' salutes and good nights, swept the
+still-glowing dayglass into a pile in the corner of his desk, and fell back into
+his chair.
+
+He could feel the long day dragging down his eyelids as he added a scribbled
+summary of what had happened to his letter and signed, *Your dutiful son,
+Thokmay Gandan-o Prince* below it.  He knew he should re-read it, but instead he
+drew a line diagonally across the empty space at the bottom of the page, folded
+it into thirds, stumbled to his bed, kicked off his boots, and was asleep by his
+third breath.

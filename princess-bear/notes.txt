@@ -1,4 +1,18 @@
+What's in play:
+
+-   The ghost of Badam the Dog is trying to warn the prince about something.
+-   Nangyal is being made consul to oversee negotiations about patrolling the Blight - must be a trick.
+-   Yisu secretly resents being displaced for a low-born foreign spy.
+-   Ramdu is one of Shudarga's rebels and wants to use Blight magic to help the rebellion.
+-   Her brother Muddh just wants to get rich from the Blight magic.
+-   Dolly is secretly helping liberate animals (Gifted and ungifted alike).
+-   Mope is staunchly royalist because so many of the rebels are anti-Gifted.
+-   The bear wants to kidnap the princess to make a point about her ungifted son's death.
+
+---
+
 - use the family who show up in the opening scene
+- Anti-Gifted humans make a point of not wearing beards.
 
 ---
 
@@ -18,30 +32,27 @@ saiga (long-nosed antelope)
   * Noxy (Probably Noxious): heroine, 14
     * can speak with clouds better than anyone
     * but just wants to be normal: her father paid the price of magic, her mother paid the personal cost of being reeve
-  * Dis (Disgusting Aftertaste): herd boss
   * Cloak: a young cloud
 * Gandan-o
-  * Prince Lormay: hero, also 14
-    * gave up the right to rule to save Marandine and defeat Princess Chodren, now trying to figure out who he is
-    * his father was always working, always critical of small things, so Lormay gave up trying to connect
-    * Lormay cares for his sister Ogmin in part to give himself a purpose
+  * Prince Thokmay: hero, also 14
+    * gave up the right to rule to save Marandine, now trying to figure out who he is
+    * his father was always working, always critical of small things, so Thokmay gave up trying to connect
+    * Thokmay cares for his sister Ogmin in part to give himself a purpose
     * eventually realizes that the world needs saving (the Blight) and that the only way to do that is to help people (his father)
-  * Prince Thokmay: his younger brother, now his family's heir and candidate for the throne
-    * Thokmay is now in disguise somewhere (Lormay doesn't know where), really not liking it, and resenting his brother
-  * Princess Ogmin: Lormay and Thokmay's sister
+  * Prince Jokmin: his younger brother, now his family's heir and candidate for the throne
+  * Princess Ogmin: Thokmay and Jokmin's sister
     * simple-minded ("ungifted")
   * Sergeant Gyalpa: heads the troop of soldiers
-  * Sergeant Dambu: magician (traitor)
+  * Sergeant Ramdu: magician (traitor)
   * Manpa and Jinpa: soldiers
 * Changan-o
   * Consul Yisu: Changan's official representative (outgoing)
-  * Prince Shudarga: the rebel
-  * Sergeant Khonzon: his chief military officer (responsible for the death of Sergeant Norbu)
+  * Consul Nangyal: the villain
 * Locals
   * Master Bortja: head of the merchants' association, suspected of villainy, but not
-  * Muddh: Dambu's brother, the main villain of the piece
+  * Muddh: Ramdu's brother, the main villain of the piece
   * Jokhang: a baker (incidental)
-  * Edward the Dog: the ghost of the last dog
+  * Badam the Dog: the ghost of the last dog
     * killed by plague two generations ago
 * Gifted
   * Mope: Gifted troll (mention early that the Bantangui call them "orangutans")
@@ -66,8 +77,8 @@ saiga (long-nosed antelope)
     * Dolly: "Because they have power and we don't"
 * Make the minor characters slight caricatures
   * Exaggerate their features a bit to appeal to younger audience
-  * Noxy, Lormay, and Ogmin are fully rounded
-  * Dambu is cold (but in the end we feel sorry for her)
+  * Noxy, Thokmay, and Ogmin are fully rounded
+  * Ramdu is cold (but in the end we feel sorry for her)
 * Introduce Bortja earlier, make him more of a villain
   * A merchant on his way up
   * Rust is a hireling
@@ -85,16 +96,6 @@ saiga (long-nosed antelope)
   * At the start, she gives orders to her cloud (as she's been trained to: be firm)
   * Later, when the tornado hits Apple Bridge, she asks it for help
   * Experience with the treatment of the Gifted makes her realize that she shouldn't command
-
-----------------------------------------
-
-For P&C: most cloudherds need to touch a cloud to mind-speak,
-so the only way to get a new cloud is to jump on it,
-which is scary.
-
-Emphasize Lormay's impostor syndrome.
-
-Anti-Gifted humans make a point of not wearing beards.
 
 ----------------------------------------
 
@@ -136,7 +137,7 @@ out and washing down the Trout."
 
 "Stuff like the tornado?" Noxy asked. The other cloudherds had
 actually told her about Fast Lake even before they'd left Marandine,
-but Prince Lormay seemed to want to explain it.
+but Prince Thokmay seemed to want to explain it.
 
 "Sometimes," he said, "But stuff like that is mostly brought out by
 smugglers. Most of what's washed down is just...ugly. The trees near
@@ -261,7 +262,7 @@ his chair, holding his knife and fork as carefully as Princess Ogmin.
 "Just need to know by cooking them properly."
 
 "Ah, a true bridger. The Sergeant grew up near here," he explained to
-Noxy. "As did Sergeant Dambu, I believe."
+Noxy. "As did Sergeant Ramdu, I believe."
 
 "Yes, Your Highness."  The sergeant's voice, soft and husky, seemed at
 odds with her skinny frame. Like the family they had rescued from the
@@ -286,9 +287,9 @@ fill up for raining."
 see a few things up close, or a lot from a distance. You can know a
 thousand people by name, or a handful well."
 
-"So why did you become a soldier?" Noxy asked Sergeant Dambu.
+"So why did you become a soldier?" Noxy asked Sergeant Ramdu.
 
-Sergeant Dambu kept her eyes on her food. "Didn't have much by
+Sergeant Ramdu kept her eyes on her food. "Didn't have much by
 choice," she said. "My folks had a farm up along the Trout. There'd
 always been such and all washing out from the Blight, but we had come
 a couple of years that just plain rusted our luck. One of the folk as
@@ -296,8 +297,8 @@ took us in told me you can only beat magic with magic.  Only place to
 learn it along these parts was the service."
 
 "Surely there were other magicians around who would have taken you on
-as an apprentice?" Mope asked. When Sergeant Dambu didn't answer, he
-glanced at Prince Lormay.
+as an apprentice?" Mope asked. When Sergeant Ramdu didn't answer, he
+glanced at Prince Thokmay.
 
 "Sergeant?" the prince said sharply. "I believe my tutor asked you a
 question."
@@ -349,7 +350,7 @@ jacket.
 
 Someone snorted.  Ogmin's hands flew to her mouth. "Uh oh."
 
-Prince Lormay dabbed at the stain with his napkin.  "It's all right,"
+Prince Thokmay dabbed at the stain with his napkin.  "It's all right,"
 he said gently. "It will clean off. But it really is your bedtime."
 
 "I'm sorry," Princess Ogmin whispered. She stood up hurriedly and made
@@ -380,7 +381,7 @@ glass. "Gandan preserved!" Noxy hastily picked up glass as the
 others touched their own to their lips.
 
 The next few minutes were a replay of the evening's start.  The
-marketeers bowed to Prince Lormay, complimenting him for the
+marketeers bowed to Prince Thokmay, complimenting him for the
 meal---the soup had been superb, and the pie, perfect---as if he had
 cooked it himself.  A few bowed a trifle unsteadily to Noxy as well,
 having clearly had one or two more glasses of wine than they were used

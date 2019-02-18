@@ -1,14 +1,15 @@
 ## Chapter N-1: The Bear's Choice
 
-Rust and the prince and princess floated on in silence. The only other raft they
-saw was being pulled upriver by two weary donkeys. The bear ordered Prince
-Thokmay and Princess Ogmin to hide in the lean-to, and then sat in front of it
-and grunted a hello as it passed.
+Rust and her two captives floated on in silence. The only other raft they saw
+was being pulled upriver by two weary donkeys led by a girl who gave them no
+more than a glance.  A man and a boy sat cross-legged on the raft, the man
+whittling and the boy pushing the raft away from snags every once in a while
+with a long pole.
 
-As the other raft drifted by, the prince and princess could hear one of the
-raftsmen singing a slow, sad song. The words floated over the river to them like
-wisps of cloud in a blue summer sky. "Oooh, just one time... I would take the
-northwest passage..."
+The bear ordered Prince Thokmay and Princess Ogmin into the lean-to and then sat
+in front of it and grunted a hello as the raft passed by.  From their hiding
+place, the prince and princess could hear the raftsmen singing a slow, sad
+song. The words floated over the river like clouds in a blue summer sky.
 
 "Sergeant Dorbu used to sing that one," Prince Thokmay whispered in his sister's
 ear. "It was so beautiful, sometimes I thought the trees were going to tear out
@@ -16,8 +17,8 @@ their roots so that they could come closer and listen."
 
 "Did they ever?" she whispered back.
 
-The prince smiled and shook his head. "No, they never needed to. The sergeant
-always sang loudly enough."
+The prince smiled and shook his head. "No, they never needed to. He always sang
+loudly enough for them to hear."
 
 Rust waited until they rounded the next bend before letting the prince and
 princess come out. The two humans sat down near the bow once again.  A moment
@@ -25,222 +26,267 @@ later, Princess Ogmin squeaked and grabbed her brother as the raft suddenly
 lurched and began bobbing up and down.
 
 The prince looked back to see what the bear was doing, but Rust was looking back
-as well. "What's wrong?" he asked. "What's happening?"
+up the river as well. "What's happening?" he asked.
 
-"I don't know," the bear rumbled. She sniffed at the air. "But I can smell
-something. Something *bad*."
+"I dunno," the bear rumbled. She sniffed at the air. "But somethin's coming.
+Somethin' *bad*."
 
-They heard it before they saw it. A roiling two-foot crest of water, darker than
-it had any right to be and somehow managing to hold itself together, was
-sweeping down the width of the Trout. "Hold on!" Rust bellowed.
+First came a rushing sound like wind blowing through leaves.  A shout turned
+into a cry of panic, and Thokmay had just a moment to remember the donkey-drawn
+raft before a roiling two-foot crest of water swept down the Trout toward them.
+The wave was darker than the river beneath it, as if it was full of
+shadows. "Hold on!" Rust roared.
 
-The wave hit the rear of the raft like a charging rhinoceros. Prince Thokmay
-nearly tumbled into the river as the raft tilted forward, then righted
-itself. Princess Ogmin screamed in terror. Dark water from the wave had splashed
-up over the rear of the raft onto the logs and formed small pools. Even as they
-watched, the pools oozed together to form a stream, which flowed *up* over the
-lip of the raft to get back into the Trout.
+The wave hit the rear of the raft with the force of a padded rhinoceros. Prince
+Thokmay nearly tumbled into the river as the raft tilted forward and then
+righted itself. Princess Ogmin screamed in terror. Dark water from the wave had
+splashed up over the rear of the raft onto the logs and formed small pools. Even
+as they watched, the pools oozed together and flowed *up* over the gunwales and
+back into the river.
 
-"Don't let it touch you!" Rust said. "It's Blighted!"
+"Don' let it touch you!" Rust said. "It's Blighted!"
 
-The raft was going faster now. "Up ahead!" the prince said suddenly.  "That
-island! We can steer for that!" He leaped to his feet and leaned against the
-steering board. The raft barely noticed.
+The raft was going faster now. "Up ahead!" the prince said suddenly.  "Steer for
+that island!" He leaped to his feet and threw his weight against the steering
+board.
 
-"RRAAAAWWWWRRR!" Rust roared. She lumbered over to the steering board and leaned
-her shoulder against it. Reluctantly, the raft began to turn.
+The raft barely budged.  Rust lumbered over to the steering board and put her
+shoulder against it. Reluctantly, the raft's course began to bend toward the
+little patch of land.
 
 "More! More!" the prince called, trying to gauge their speed and direction. "A
 little more! Hold it there! Brace yourself!"
 
 The raft crashed through the reeds on the upstream side of the island and ground
-to a halt in its muddy bank. Rust stumbled, but kept her footing. The prince and
-princess were thrown right off the raft onto the muddy little patch of land. The
-dark water raced past on either side of them as they scrambled to their feet.
+to a halt in its muddy bank. Rust stumbled but kept her footing. The prince, the
+princess, and everything that wasn't tied down slid off the raft and into the
+knee-high bushes that covered the island.
 
-Suddenly the water knocked the raft sideways. Rust barely had time to leap over
-onto the island before the raft went hurtling away.
+The dark water raced past on either side of them, tugging at the raft as they
+scrambled to their feet. Rust barely had time to leap onto the island before
+their little craft was pulled away.
 
-The three castaways watched it go. "What's happening?" the prince asked.  He put
-his arm around his sister, then hugged her, trying to stop her shaking.
+"What's happening?" Princess Ogmin asked, frightened and bewildered.  She
+started to cry.  "What's happening, May?"
 
-"Something must have happened to the dam in Apple Bridge," the bear replied. She
-reared up on her hind legs to get a last glimpse of the raft, then fell back on
-all fours. "That's the last we'll see of our food, or your blankets."
+The prince put his arm around her shoulder.  "Sh, sh," he soothed her.  "It's
+all right, Oggie, it's all right, we're safe."  He caught the bear's eye.
+"We're safe here."
 
-Prince Thokmay managed a grim smile. "I guess we're all prisoners now."  The
-bear just snarled.
+"That was Blightwater," the bear rumbled.  "Somethin' musta happened to th'
+dam."  She reared up on her hind legs to get a last glimpse of the raft, then
+fell back on all fours and sighed. "That's the last we'll see of our food or
+your blankets."
+
+Thokmay forced a smile. "I guess we're all prisoners now."  The bear growled but
+said nothing.  The prince gave his sister another squeeze.  "Come on---let's
+tidy this up."
+
+A few loose boards, some rope, the sacks they had used as pillows, and the
+firepot were all they were able to salvage.  Thokmay laid the boards on top of
+some bushes and piled everything else on top of them, all the while studying the
+river and the bear out of the corner of his eye.  It was only thirty strides to
+the bank.  He could easily swim that, but Ogmin could only dog paddle, and Rust
+would easily catch them if they tried.
+
+*If we dared,* the prince thought despondently.  The wave that had wrecked the
+raft had disappeared downriver, but dark shadows still swirled hungrily in the
+water around their little island.  When he broke a twig off a tree and threw it
+into the river, something pulled it down with a soft *gloop*.  It didn't
+resurface.  The prince exchanged looks with Rust.  Their only hope was to stay
+put and wait for a passing boat or barge to rescue them.
 
 "Look!" Princess Ogmin suddenly said, pointing upstream. "Someone's coming!"
 
 It took the prince a moment to figure out what he was seeing. At first he
-thought it was a bird, but then he realized it was a man, skipping or hopping
-twenty yards at a time. Another moment, and he saw that it was Muddh.
+thought it was some kind of bird, but then he realized it was a man skipping or
+hopping twenty yards at a time.  His heart sank as the figure came closer.  It
+was Nangyal.
 
-"What's *he* doing here?" Rust snarled.
+"What in th' hells is *he* doing here?" Rust snarled.
 
-"Oh, now, be polite," Prince Thokmay told her, feeling almost giddy. "He *is*
-your business partner."
+"Sh, be polite," Prince Thokmay told her, feeling almost giddy. "He *is* your
+business partner."
 
-Another dozen lopsided steps brought the skinny smuggler to the little
-island. "Well hello!" Muddh said jauntily. His jacket was torn and muddied, and
-he had dark circles under his eyes. He held up a lock of Princess Ogmin's
-hair. "Glad to see it still works."
+Another dozen lopsided steps brought the plump spy to the little island.  "Well
+hello!" Nangyal said jauntily. His jacket was torn and muddied, and there were
+dark circles under his eyes. He held up a lock of Princess Ogmin's hair. "Glad
+to see it still works."
 
-"What do you want?" Rust growled. "We had a deal."
+"What are you doin' here?" Rust growled. "We had a deal."
 
-"Oh yes, yes, a deal," Muddh nodded vigorously. He looked around. "You also had
-a raft, didn't you? Whatever happened to it?"
+"Yes we did," Nangyal nodded vigorously. He looked around. "You also had a raft,
+didn't you? What happened to it?"
 
 "What happened to the dam?" Prince Thokmay broke in. "We saw the wave..."
 
-"Oh, the dam, the dam," Muddh said with a wave of his hand. "The dam is still
-there, I dare say. The river would be a *lot* more lively right now if Dambu had
-managed to bring it down. It's a shame---we worked a long time for this."
+"Oh, the dam, the dam," Nangyal said with a wave of his hand. "I'm sure it's
+still there. The river would be a *lot* more lively right now if Ramdu had
+managed to bring it down. It's too bad---we worked a long time for this."
 
-"Dambu?" the prince said blankly. "Sergeant Dambu?"
+"Ramdu?" the prince said blankly. "*Sergeant* Ramdu?"
 
-"Oh, yes, *Sergeant* Dambu," Muddh agreed. He sighed. "I don't suppose she could
+"Oh, yes, *Sergeant* Ramdu," Nangyal agreed. He sighed. "I don't suppose she could
 have survived. She got that from our mother, you know. She never learned how to
 give up either."
 
-"Enough!" Rust snarled. "What do you want?"
+The prince's jaw dropped.  "Your---wait, you're her sister?  I mean, her brother?"
 
-Muddh blinked. "Why, the princess, of course," he said. He shrugged off his
-shoulder pack and pulled out a loop of cord. "I imagine half of Gandan is going
-to be looking for me shortly. I'll need a hostage to see myself safely away to
-Chaghan." He paused. "Or maybe Barra Bantang," he corrected himself. "I've
-always liked the beach."
+"Stow that!" Rust snarled. "Whadda you want?"
 
-He splatted the mud a couple of times with the toe of his lone magic boot. "I
-could probably carry them both if I'd ever found the other one of these, but as
-it is..." He shrugged.
+Nangyal blinked innocently. "Why, the princess, of course," he said.  "I imagine
+half of Gandan is going to be looking for me shortly. I'll need a hostage to see
+myself safely away.  I've been thinking about Barra Bantang," he added
+reflectively.  "I've heard good things about how uninterested they are in
+people's pasts."
 
-"The princess is mine!" Rust growled. "We had a bargain!"
+"Do you have a raft stashed in your pocket?" the prince asked sarcastically.
+"Or are you planning to steal a cloud?"
 
-"Yes, yes, a bargain," Muddh agreed absently. "But things have changed.  Anyway,
-you'll still have the prince. He'd be far too much trouble for me to carry---far
-too likely to try to be a hero. Biting off his head will do you as much good as
-biting off hers."
+"Oh, neither."  Nangyal splatted the mud a couple of times with the toe of his
+lone magic boot. "I could carry all three of you if I'd ever found the other one
+of these, but as it is..." He shrugged and smiled.  "I'll just take her."
+
+"The girl's mine!" Rust growled. "We had a bargain!"
+
+"Yes we did," Nangyal agreed. "But you'll still have the prince. Biting his head
+off will do you as much good as biting off hers."
 
 "She's *mine!*" the bear roared.
 
-Suddenly Muddh had a knife in his hand, a knife whose blade flickered like the
-tongue of a snake. "Now, dear," Muddh said kindly, "We've worked *so* well
-together. Please don't spoil it now." He tossed the loop of cord to Prince
-Thokmay. "Tie her up," he directed.
+Nangyal flicked his wrist.  A knife appeared in his hand, its magical blade
+flickering like the tongue of a snake. "Now, now," he chided, "We've worked *so*
+well together.  Let's not end on a sour note." He gestured at the loop of rope
+Thokmay had rescued from the wreck of the raft. "Tie her up," he ordered.
 
-Much to his own surprise, the prince laughed. "No," he said flatly.
+To his own surprise, the prince laughed. "Not a chance."
 
-"Tch, tch," Muddh clucked, keeping his eyes on Rust. "If you don't, I will, and
+"Tch, tch," Nangyal clucked, keeping his eyes on Rust. "If you don't, I will, and
 I'll be *much* less gentle than you."
 
 "Thokmay?" Princes Ogmin quavered. "What does he want?"
 
-Prince Thokmay picked up the coil of rope and flung it back at the smuggler. "I
-said no," he repeated.
+Prince Thokmay shook his head. "I said no," he repeated.  "I'm not going to put
+a leash on her."
 
-Muddh shrugged. "I'm sorry," he said lightly to Rust. "It looks like you won't
-be left with a hostage after all." As quick as a snake, he twisted and lunged at
-the prince with the magic knife.
+Rust made a sound deep in her throat.  Nangyal shrugged. "Well," he said to
+her. "It looks like you won't be left with a hostage after all." Without warning
+he lunged at the prince.
 
-Prince Thokmay cried out and stepped back as the knife's blade whipped out.  It
-grazed his shoulder, and instantly his whole arm went numb with cold.  "Stand
-aside, boy," Muddh hissed. "Stand aside, or---"
+"Look out!" Thokmay shouted to his sister as the blade of the magic knife
+whipped at him, stretching impossibly thin.  He dodged aside, flinging up his
+arm instinctively.  The blade grazed his shoulder, and instantly his whole arm
+went numb.
 
-The prince and princess never got to hear the rest of the smuggler's
-threat. With a huge roar, Rust charged at Muddh. The smuggler spun and stabbed
-with the magic knife again, but Rust's weight carried her forward even as it bit
-into her. Muddh shrieked as they fell backward into the dark Blight water.
+"Stand aside, *boy*," Nangyal hissed, his pretended good humor gone. "Stand
+aside, or---"
 
-"No!" he screamed. He struggled toward the shore. She roared again and knocked
-him sideways with a tremendous blow. Even as she did so, the Blight water
-bunched up around them, forming hundreds of dark strands that bound them like a
-net and pulled them down. Muddh screamed again as the river pulled him
-under. Rust roared, straining to break free.
+With a roar, Rust charged at the magician.  Nangyal spun, whipping the knife
+around, but Rust's weight carried her forward even as it bit into her flank.
+Nangyal shrieked as the two of them fell backward into the river.  "No!" he
+screamed. He struggled toward the shore. Rust roared again and knocked him
+sideways with one swipe of her paw.
 
-Prince Thokmay ran forward and grabbed the coil of rope he had thrown back at
-Muddh. "Take it!" he shouted, throwing one end at Rust. The bear lunged at it
-and caught it in her teeth. The prince dug in his heels and pulled as hard as he
-could.
+The Blightwater bunched up around them.  Hundreds of dark strands wrapped around
+their legs like a net and pulled them down.  Nangyal screamed in terror.  With a
+mighty kick, he launched himself toward the riverbank, landing with a splash in
+the shallows.  As he scrambled toward shore, a tendril of Blightwater snagged
+hold of his boot.  "No!" he shouted.  "It's mine, it's mine!"  But even as he
+said it, he pulled his foot free.  The boot disappeared into the river.  The
+magician crawled on all fours up the muddy riverbank, blubbering.
 
-He felt Princess Ogmin's arms go around his waist. Together they leaned back,
-further, further, and then suddenly the rope snapped and Rust was pulled
-under. The water roiled for a moment, then went still.
+But the boot wasn't enough to satisfy the Blightwater.  Rust roared and strained
+against its dark tendrils as it tried to pull her into the river.  Prince
+Thokmay grabbed the coil of rope. "Hold on!" he shouted, throwing one end to
+her.
 
-The prince watched dumbly as the river sucked in Rust's end of the rope.  A few
-heartbeats later, the only sign that the smuggler and the bear had ever been on
-the little island were their footprints.
+The bear lunged at it and caught it in her teeth. The prince dug in his heels
+and pulled as hard as he could.  He felt Princess Ogmin's arms go around his
+waist. Together they leaned back, further, further.
 
-He suddenly realized that Princess Ogmin was crying. "Sh, sh," he said, putting
-his arm around her and patting her shoulder absent-mindedly.  "It's all
-right. It's all right. It's over." He looked at the dark water lapping higher
-and higher against the sides of their little patch of mud.
+*Crack!* The rope snapped.  Rust was instantly pulled under. The dark water
+roiled for a moment, then went still.  A heartbeat later, the only sign that she
+had ever been there were her footprints.
 
-The river rose a thumb's width at a time. A ragged shark's fin half as tall as
-Prince Thokmay circled the island a few times, then headed downstream in search
-of more accessible prey. Something else sparkled across the dark Blightwater
-like a rainshower, and a few moments later the prince thought he saw huge clawed
-footprints appear and disappear on the river's surface.
+"Well, this is a bit of a mess, isn't it?"  Nangyal called from the riverbank.
+He waved at them, water dripping from his torn and muddied jacket.  "But I'm
+sure you'll be able to figure something out.  Best do it before dark, though,"
+he added with an evil smile.  "Those things are *much* more playful at night."
+
+Without waiting for an answer he turned and limped away.  As he watched the
+magician go, Thokmay realized that he *could* kill someone, provided that
+someone was Nangyal.
+
+But just then, his sister was still crying. "Sh, sh," he said, putting his arm
+around her again.  "It's all right. It's all right. It's over." He looked at the
+dark water lapping higher and higher against the sides of their little patch of
+mud as the sun began to sink over the horizon.  "It's over," he repeated.
+
+The river rose a thumb's width at a time as the day turned to twilight. A ragged
+shark's fin half as tall as Prince Thokmay circled the island a few times, then
+headed downstream in search of more accessible prey. Something else sparkled
+across the dark Blightwater like a rainshower, and a few moments later the
+prince thought he saw huge clawed footprints appear and disappear on the river's
+surface.
 
 "I want to go home," Princess Ogmin whispered.
 
-"We will," the prince promised, wondering if there was still a home to go to. He
-took a deep breath, trying to judge the distance to the shore, and wondering how
-you distracted a whole river. It was hopeless. Ogmin could manage nothing more
-than a dog paddle. Even if the river had been as peaceful as the fish pond they
-had paddled their feet in when they were little, she wouldn't have been able to
-make it. Hot tears of anger and frustration welled up in his eyes.
+"Me too," the prince said. He took a deep breath, eyeing the riverbank once
+again and wondering how you distracted a whole river. It was hopeless.  Ogmin
+could manage nothing more than a dog paddle. Even if the river had been as
+peaceful as the pond they had paddled in when they were little, she wouldn't
+have been able to make it without his help. Hot tears of anger and frustration
+welled up in his eyes.
 
 "..our..ighness.." Prince Thokmay looked up at the sound. Could the Blightwater
 talk?
 
-"...here..." He looked wildly around, and then up.  Charger was racing toward
-them, dropping as it approached. Noxy and Sergeant Gyalpa waved at him from the
-cloud's back.
+"...here..." He looked wildly around, and then up.  It was Cloak, descending as
+he approached. Noxy and Sergeant Gyalpa waved at him from the cloud's back.
 
 "Over here!" he shouted. He waved his arms and laughed. "We're over here!" Ogmin
 looked up and shrieked, then started waving her arms as well.
 
-"Down!" Noxy mind-ordered Charger. The Blightwater was still rising, faster now
-as it sensed that its prey might escape it.
+*Down!* Noxy mind-ordered the cloud. The Blightwater was still rising, faster
+now as it sensed that its prey might escape it.
 
-"Bad!" the cloud thought back emphatically. "Bad!"
+*Bad!* the cloud replied emphatically. *Bad!*
 
-"Down!" Noxy ordered again, but try as she might, she couldn't get Charger to
-drop down any further.
+*Down!* Noxy ordered again as forcefully as she could, but try as she might, she
+couldn't get Cloak to drop down any further.
 
 "She won't do it!" Noxy said in despair. "She's too scared!"
 
 "You just have to get us close enough for this," the sergeant said, uncoiling
 the rope he'd brought.
 
-Noxy brought Charger in low over the little island so that the sergeant could
-lower one end of the rope. "Hurry up, Your Highness!"  he bellowed.
+Noxy made Cloak hover over the little island while the sergeant lowered the
+rope. "Hurry up, Your Highness!"  he bellowed.
 
 "Can you lift us both?" the prince shouted back. "We're a bit short on time down
 here."
 
-"Blazes," the sergeant cursed. "No!" he shouted. "But if you can both hang on,
-we can get you to shore."
+"Socks and biscuits," the sergeant cursed. "No!" he shouted. "But if you can
+both hang on, we can get you to shore."
 
 Prince Thokmay grabbed the free end of the rope and tied it under his sister's
-armpits, then lifted her arms. "Hold on really, really tight," he told her,
-putting her hands on the rope. "No matter what happens. All right?"
+armpits. "Hold on really, really tight," he told her, putting her hands on the
+rope. "No matter what happens. All right?"
 
 "All right," she said in a small voice.
 
 He kissed her cheek. "You're very brave," he told her. "When we get back to
-Apple Bridge, I'll buy you all the beaver tails you can eat, I promise." He
-reached up and grabbed the rope himself, then shouted, "Ready!"
+Apple Bridge I'll buy you all the pies you can eat, I promise." He reached up
+and grabbed the rope with one hand, wrapped the other around his sister, and
+shouted, "Ready!"
 
 Sergeant Gyalpa wrapped his end of the rope behind his back and sat down on the
 cloud with his legs spread. "All right," he said to Noxy.  Noxy pursed her lips
-and flashed an angry command at the cloud. Charger lifted slowly, then swung
-toward the riverbank.
+and mind-spoke a command at the cloud.
 
-"We're up!" the prince shouted. For a moment everything seemed to be working,
-but then suddenly they dropped down a hand's breadth.
+Cloak lifted slowly, then swung toward the riverbank.  "We're up!" the prince
+shouted. For a moment everything seemed to be working, but then suddenly they
+dropped a hand's breadth.
 
 "I can't get a footing!" the sergeant yelled. Noxy watched in horror as his feet
 slid deeper and deeper into the cloud under the weight of the prince and
@@ -249,24 +295,23 @@ slowly let Thokmay and Ogmin drop further and further toward the river.
 
 "Just a few more heartbeats!" Noxy yelled. "Thokmay, hang on! Hang on!"
 
-"Lift up your feet," Thokmay grunted at his sister. He could *smell* the
-Blightwater, it was so close.
+"Lift up your feet," Thokmay grunted at his sister. He could hear the
+Blightwater chuckling below them.
 
 "I'm scared!" Ogmin said.
 
-"Just lift up your feet, it's going to be all right," he told her. Ten
-yards... eight... five...
+"Just lift up your feet!"  Ten strides... eight... five...
 
 His heels splashed into the river. "Run!" he shouted at his sister. A hundred
 tiny tendrils tugged at his boots as he pushed her through the reeds toward the
 bank. The soft mud underneath them seemed to be coming alive. They scrambled up,
 grabbing bushes and branches and dandelions and anything else that offered a
-handhold, until finally they reached the top of the riverbank and flopped down.
+handhold until they reached the top of the riverbank and flopped down.
 
 Prince Thokmay lay there for a moment, panting, then rolled over and started
 untying the knot around his sister. "Thokmay?" she asked.
 
-"Mm hm?" he gasped as he undid the last of the knot.
+"What?" he gasped as he undid the last of the knot.
 
 "I *really* want to go home."
 
@@ -378,7 +423,7 @@ Dolly pack, all right?"
 "I'll help!" she promised. She ran out of the room. "Did you hear? Did you?" he
 heard her say.
 
-It wasn't Dolly who answered. "What's happening?" Dambu asked uncertainly.
+It wasn't Dolly who answered. "What's happening?" Ramdu asked uncertainly.
 Prince Thokmay stared down at his letter as Princess Ogmin tried to explain. The
 sergeant had been unconscious for two days after the fight at the dam. When she
 had awaken, her mind had been as clear and as empty as a baby's. It had only
@@ -387,7 +432,7 @@ then had been slow. She seemed to remember nothing of her former life, and her
 former apprentices said she probably never would.
 
 Princess Ogmin was still in the middle of her description of the wonderful
-things to eat in the capital when Dambu interrupted. "Do you think we should
+things to eat in the capital when Ramdu interrupted. "Do you think we should
 call this one Rose?" she asked. "Or Lily?"  The prince could imagine her holding
 up one of Ogmin's many dolls.
 

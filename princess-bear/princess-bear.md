@@ -25,7 +25,7 @@ panicked clouds is fleeing west over orchards and fields.  On the back of one of
 those clouds is a young woman.  She had high hopes for the day, but now all she
 wants to do is survive.*
 
-## Chapter 1: An Unexpected Meeting
+## An Unexpected Meeting
 
 The tornado roared, tearing at the trees beneath it like an angry child pulling
 up handfuls of grass.  *Left! Left!* Noxy mind-shouted, squelching her own panic
@@ -363,7 +363,7 @@ opening her eyes.  "There are some wild clouds over there somewhere."
 her to speak.  When she didn't, he nodded.  "All right," he promised.  "Our
 secret."
 
-## Chapter 2: Apple Bridge
+## Apple Bridge
 
 The sun was sitting on the horizon like a fat yellow hen by the time Apple
 Bridge came into view.  The town was home to twenty times as many people as
@@ -627,7 +627,7 @@ either side, hands clasped behind their backs.  Two years ago, Thokmay and
 Jokmin's positions had been reversed.  He wondered if his brother thought about
 that as often as he did.
 
-## Chapter 3: Familiar Faces
+## Familiar Faces
 
 *She could have told me she was going to watch,* Noxy thought as she lowered
 herself self-consciously into the steaming water.
@@ -1138,7 +1138,11 @@ by his third breath.
 
 ========================================
 
-## Chapter N-1: The Bear's Choice
+The middle of the book goes here :-)
+
+========================================
+
+## The Bear's Choice
 
 Rust and her two captives floated on in silence. The only other raft they saw
 was being pulled upriver by two weary donkeys led by a girl who gave them no
@@ -1455,7 +1459,7 @@ untying the knot around his sister. "Thokmay?" she asked.
 
 "I *really* want to go home."
 
-## Chapter N: The End of the Letter
+## The End of the Letter
 
 *Your Majesty,* Thokmay began, as always. Then he paused, listening to the rain
 tap against the window and wondering yet again what it would have been like to

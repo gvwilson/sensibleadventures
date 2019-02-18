@@ -3286,7 +3286,7 @@ you might need."
 
 "Of course," the prince said. "Take all the time you need."
 
-## Into the Blight
+## Chapter: Into the Blight
 
 Noxy hadn't realized just how many soldiers were in Apple Bridge until
 she saw them all standing at attention in rows in the front courtyard.
@@ -3560,7 +3560,7 @@ satisfied look on his face. Then he undid the string that held the bag
 closed and shook it out. A terrible roaring sound filled the prince's
 ears as a tornado came whirling out of the bag.
 
-## I Know the Bear
+## Chapter: I Know the Bear
 
 Noxy watched Prince Thokmay and the soldiers ride away with an empty
 feeling in her stomach, as if the bottom of the world had dropped
@@ -3736,7 +3736,7 @@ glanced at his mother. "That is, if it's all right with you."
 "Of course," Dolly said. "I just want to find her. She must be
 terrified."
 
-## Attacked
+## Chapter: Attacked
 
 The tornado roared into the sky, doubling in size and then doubling
 and doubling again as it poured out of Muddh's bag. "At them!"
@@ -3865,7 +3865,7 @@ galloped heavily away.
 Behind them, the tornado picked up Muddh's magic mirror and smashed
 it to the ground once again, then whirled off toward Apple Bridge.
 
-## Comes Big Song
+## Chapter: Comes Big Song
 
 Mope and Noxy walked down the main street to the Dog Market, asking at
 every shop they passed about the bear Rust. Even when Mope asked the
@@ -4197,7 +4197,7 @@ wall's caved in. There's people inside, we can hear them!"
 Mope turned to Noxy. "You go upstairs and tell Sergeant Dambu what we
 discovered," he ordered crisply. "And you, take me to the warehouse!"
 
-## Snow
+## Chapter: Snow
 
 Prince Thokmay and Sergeant Gyalpa stayed on horseback until they were
 over the crest of the hill, where the sergeant reined in Bucket so
@@ -4581,7 +4581,7 @@ wonder what's going to be waiting for us when we get out. Muddh must
 know he can't hold Apple Bridge for long, not even with a dozen
 tornadoes. He must be planning something, but what?"
 
-## The Other Side of the Mirror
+## Chapter: The Other Side of the Mirror
 
 Noxy took the stairs two at a time, but slowed to a walk as she got
 closer to Sergeant Dambu's door. She knocked hesitantly, then pushed
@@ -5394,7 +5394,7 @@ doll to sleep with, then... then..."
 "I said shut up!" the bear growled. The prince shook his head, then
 turned around and put his arm back around his sister.
 
-## A Trap Is Sprung
+## Chapter: A Trap Is Sprung
 
 Noxy's feet dangled in the air. "Is it all right, dear?" Dolly asked.
 
@@ -5782,7 +5782,7 @@ you." She squeezed him tight. "Your father would have been so proud."
 Mope hugged his mother back. "Thank you," he said. "He'd be proud of
 you too."
 
-## The Bear's Choice
+## Chapter: The Bear's Choice
 
 Rust and the prince and princess floated on in silence. The only other
 raft they saw was being pulled upriver by two weary donkeys. The bear
@@ -6075,7 +6075,7 @@ started untying the knot around his sister. "Thokmay?" she asked.
 
 "I *really* want to go home."
 
-## The End of the Letter
+## Chapter: The End of the Letter
 
 *Your Majesty,* Thokmay began, as always. Then he paused, listening to
 the rain tap against the window as he wondered one more time what it

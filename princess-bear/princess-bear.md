@@ -4,6 +4,7 @@ title: "The Princess and the Bear"
 dedication: "For Madeleine, who is taking me on the greatest journey of my life."
 author: "Greg Wilson"
 permalink: /princess-bear/
+target: 70000
 ---
 
 ## Prolog
@@ -295,7 +296,7 @@ these days."
 
 The prince shrugged. "Thanks," he said, his voice breaking again. "But Sergeant
 Gyalpa is really in charge.  You'll meet him when we get to town. And Sergeant
-Ramdu too---she's our magician. Mostly I just try to stay out of their way."
+Ranneda too---she's our magician. Mostly I just try to stay out of their way."
 
 "Well, you sounded pretty convincing to me," Noxy said. She lowered her voice
 half an octave. "You two keep an eye out."
@@ -409,7 +410,7 @@ to remember people's names. That had been a year ago. No-one had seen him since.
 No-one expected to.
 
 The prince pretended not to notice the change in Noxy's voice. "It is," he said.
-"The magician who was here before Sergeant Ramdu managed to refresh it a few
+"The magician who was here before Sergeant Ranneda managed to refresh it a few
 years ago, but it cost her the sight in one eye."  He shook his head. "I know
 they're all volunteers, but it's still a lot to ask."
 
@@ -486,7 +487,7 @@ the months since.
 
 "Am I interrupting, Your Highness?" the sergeant asked from behind him.
 
-The prince jumped.  "No!  I mean, not really.  Any word from Sergeant Ramdu?"
+The prince jumped.  "No!  I mean, not really.  Any word from Sergeant Ranneda?"
 
 "Yes *sra*," the sergeant said.  "She and her troop got along back this
 afternoon.  They were gone six days, near as they can figure."
@@ -1079,7 +1080,7 @@ name Apsu? The prince couldn't remember, though he prided himself on knowing
 names.  He suddenly felt exhausted.
 
 Boots pounded in the planked stone corridor. "Your Highness, are you all by
-right?"  Sergeant Ramdu asked before pulling herself up short and sniffing the
+right?"  Sergeant Ranneda asked before pulling herself up short and sniffing the
 air. "There's been a ghost along here," the garrison's magician said flatly.
 
 The prince nodded. "I know," he mumbled, still shivering.  Disconnected thoughts
@@ -1088,7 +1089,7 @@ of a stagnant pond.  He choked back nausea.  "I think---I think he's trying to
 warn us about something."
 
 "About what, Your Highness?"  *Abasu,* the prince recalled fuzzily.  *The
-servant's name is Abasu.*  He shook his head.  The images---they weren't his
+servant's name is Abasu.* He shook his head.  The images---they weren't his
 memories, they were the ghost's, and they were all the wrong shape and size and
 flavor.  Thinking about them was like trying to choke down cold cauliflower
 soup...
@@ -1097,7 +1098,7 @@ soup...
 the hallway.  He was wearing his boots and a striped cotton nightshirt, and had
 his sword in his hand. "Your Highness, are you---"
 
-"It was Badam come along," Sergeant Ramdu told him.  She picked up a shard of
+"It was Badam come along," Sergeant Ranneda told him.  She picked up a shard of
 dayglass from the desk and turned it over in her hand.  "He's getting stronger."
 
 Sergeant Gyalpa scowled and lowered his sword. "Get back to bed," he ordered the
@@ -1117,7 +1118,7 @@ hand.  "Something *really* bad."
 tell us straight?"
 
 "I'm so more worried as that he's coming clearer instead of going along fade,"
-Sergeant Ramdu said, still studying the shard of dayglass in her hand.  Her
+Sergeant Ranneda said, still studying the shard of dayglass in her hand.  Her
 husky voice seemed at odds with her slight frame.  "Should have moved along
 since ages by, before we were either born.  Why's he coming stronger?  And how?"
 
@@ -1265,16 +1266,17 @@ didn't you? What happened to it?"
 "What happened to the dam?" Prince Thokmay broke in. "We saw the wave..."
 
 "Oh, the dam, the dam," Nangyal said with a wave of his hand. "I'm sure it's
-still there. The river would be a *lot* more lively right now if Ramdu had
+still there. The river would be a *lot* more lively right now if Ranneda had
 managed to bring it down. It's too bad---we worked a long time for this."
 
-"Ramdu?" the prince said blankly. "*Sergeant* Ramdu?"
+"Ranneda?" the prince said blankly. "*Sergeant* Ranneda?"
 
-"Oh, yes, *Sergeant* Ramdu," Nangyal agreed. He sighed. "I don't suppose she could
-have survived. She got that from our mother, you know. She never learned how to
-give up either."
+"Oh, yes, *Sergeant* Ranneda," Nangyal agreed. He sighed. "I don't suppose she
+could have survived. She got that from our mother, you know. She never learned
+how to give up either."
 
-The prince's jaw dropped.  "Your---wait, you're her sister?  I mean, her brother?"
+The prince's jaw dropped.  "Your---wait, you're her sister?  I mean, her
+brother?"
 
 "Stow that!" Rust snarled. "Whadda you want?"
 
@@ -1305,8 +1307,8 @@ Thokmay had rescued from the wreck of the raft. "Tie her up," he ordered.
 
 To his own surprise, the prince laughed. "Not a chance."
 
-"Tch, tch," Nangyal clucked, keeping his eyes on Rust. "If you don't, I will, and
-I'll be *much* less gentle than you."
+"Tch, tch," Nangyal clucked, keeping his eyes on Rust. "If you don't, I will,
+and I'll be *much* less gentle than you."
 
 "Thokmay?" Princes Ogmin quavered. "What does he want?"
 
@@ -1567,7 +1569,7 @@ Dolly pack, all right?"
 "I'll help!" she promised. She ran out of the room. "Did you hear? Did you?" he
 heard her say.
 
-It wasn't Dolly who answered. "What's happening?" Ramdu asked uncertainly.
+It wasn't Dolly who answered. "What's happening?" Ranneda asked uncertainly.
 Prince Thokmay stared down at his letter as Princess Ogmin tried to explain. The
 sergeant had been unconscious for two days after the fight at the dam. When she
 had awaken, her mind had been as clear and as empty as a baby's. It had only
@@ -1576,7 +1578,7 @@ then had been slow. She seemed to remember nothing of her former life, and her
 former apprentices said she probably never would.
 
 Princess Ogmin was still in the middle of her description of the wonderful
-things to eat in the capital when Ramdu interrupted. "Do you think we should
+things to eat in the capital when Ranneda interrupted. "Do you think we should
 call this one Rose?" she asked. "Or Lily?"  The prince could imagine her holding
 up one of Ogmin's many dolls.
 

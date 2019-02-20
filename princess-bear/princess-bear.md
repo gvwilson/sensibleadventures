@@ -1143,6 +1143,263 @@ The middle of the book goes here :-)
 
 ========================================
 
+## Into the Blight
+
+Noxy hadn't realized how many soldiers were in Apple Bridge until she saw them
+all standing at attention in the front courtyard in four ruler-straight rows.
+She started counting, but stopped when Mope muttered, "Eighty, plus Sergeant
+Ranneda and her two apprentices, and Gemby over there. He's not part of the
+troop's regulation fighting strength any more, not since he lost his leg, but he
+keeps the horses happy."
+
+The prince stood in front of the troops with Sergeant Gyalpa beside him. He
+looked relaxed to Noxy, but if she had been closer, she would have been able to
+see that his fingers drumming on the hilt of his sword. His brightly-painted
+battle mask could have made him look like a child playing dress-up.  Instead, it
+made him look grown-up and determined. The swirls of yellow paint on its cheeks
+and the ribbons of rank on his sleeve reminded her of how Sergeant Dorbu had
+looked the day he had arrived in Stale.  She blinked away tears.  *This is no
+time to be weepy,* she told herself sternly.  They had a princess to rescue.
+
+At a barked, "Reee-*spect!*" from Sergeant Gyalpa, the soldiers straightened up
+even further.  Prince Thokmay stepped forward. "You all know where we're going,"
+he said loudly, deliberately roughening his voice so that it wouldn't break.
+"And you all know why, and what we face. If any of you would rather spend a year
+on a galley bench, now's the time to say so." He paused for a heartbeat.  No one
+moved.  The only sounds were those of birds scolding each other among the
+rafters and two maids arguing about blankets in a room upstairs.  "Very well
+then.  Sergeant?"
+
+"Yes, Your Highness!"
+
+The prince pointed at the men standing to his right. "These four squads are with
+us. The others will stay here with Sergeant Ranneda."
+
+"Yes, Your Highness," the sergeant replied.  "Reeee-*spect!*" As one, the
+soldiers thumped their right fists against their chests and roared "Gandan
+preserved!".
+
+The sergeant led those the prince had selected toward the stables, while the
+others hurried away in twos and threes to their duties.  The prince walked
+across the cobblestone courtyard to Mope and Noxy, raising his battle mask he
+did so. He ran his fingers over his short, wiry hair as if to dry it. "How did I
+do?" he asked, his voice cracking.
+
+"Well enough, Your Highness," the troll reassured him.  "Your father would be
+proud of you. I certainly am," he added quietly.
+
+"Are you sure it's wise to take so few, Your Highness?" a soft voice asked from
+behind Noxy, making her jump. Sergeant Ranneda gestured at the men marching
+away.  "It is by your sister as we're looking for."
+
+"My father would want me to deal with this like a soldier," the prince replied
+evenly.  "Not like a frightened child. Anything could happen if I leave too few
+here to guard the town." He studied the magician for a moment. "Are you...?"
+
+Sergeant Ranneda nodded in answer to his unfinished question. "I'm by well
+enough, Your Highness. But please, take along with both of my apprentices. I can
+handle whatever might happen along by here while you're gone."
+
+"Of course," the prince nodded.  He turned to Noxy. "I'm sorry to run away like
+this," he said, his voice breaking.
+
+"Of course," she said. On an impulse she stepped toward him. His eyes widened.
+She hesitated for a heartbeat, her moment of courage gone, then punched his arm
+gently. "Blue skies and a star to guide you."
+
+They rode out of town in two long lines, each soldier with their weapons close
+to hand and their battle mask on.  There were no drums, no songs, no easy
+banter---they knew what lay before them, and that some of them might not be
+coming back.
+
+The people of Apple Bridge hurried out of their way.  A few children waved, only
+to be shushed by their parents.  An old woman hanging washing out to dry
+straightened up and saluted.
+
+Sergeant Gyalpa returned the salute.  "Nineteen years done by under the flag,"
+he told Prince Thokmay quietly.  "Closer to thirty if you count her time along
+in the Blight."
+
+"Did you know her?" the prince asked.
+
+Sergeant Gyalpa grunted.  "I did.  Might have married her, once along a time,
+but then was then and long gone by."  His horse's hooves clopped on the
+cobblestones.  "Maybe I'll look along by her when we're back."
+
+All too soon the city wall was behind them.  The air smelled fresh or of freshly
+spread manure, depending on the breeze.  Strawberry season was already over, the
+prince realized.  The corn would be coming in soon.  Ogmin loved eating corn on
+the cob with a squeeze of lime juice and a sprinkling of black pepper.  He set
+his jaw.  "Let's pick up the pace," he said to the sergeant.  Without waiting
+for an answer he spurred his horse to go faster.
+
+There were no markers on the edge of the Blight, no walls or signs to show where
+the magically-poisoned land began. Prince Thokmay only realized they were in it
+when he saw a patch of flowers that had been turned into glass. He turned in his
+saddle to stare, then heard a crunching sound underneath him as his horse
+stepped on some grass that had been transformed the same way.
+
+"You'll want to watch along out by that, Your Highness," Sergeant Gyalpa said.
+"Hooves are tough, but they're not by so tough as that they can't be cut."
+
+"I'll be careful," the prince promised. He looked around, suddenly struck by an
+absence. "I haven't seen any birds for a while."
+
+"Nor you won't, Your Highness. There's not many that'll come along by here
+except as were hatched in it. Same as the people, like."
+
+The prince nodded. "I can understand why."
+
+The further they road, the bleaker the land became. Scraggly blackberry bushes
+hunched down when they heard the soldiers approaching as if trying to hide
+behind each other, while the occasional patches of knee-high grass had a
+metallic green sheen like beetles' shells and made a scraping sound like rusty
+scissors when the wind brushed over them. The few trees they passed were
+stunted, and the apples hanging from them were blackened or bloated to the size
+of pumpkins. Even the sky above them was somehow twisted. It seemed normal
+enough when Prince Thokmay looked straight at it, but seemed to swirl slightly
+in the corners of his eyes.
+
+They came up over a small rise and saw a wooden 'X' standing beside the road, as
+tall as a mounted man's head and bleached gray by years of rain.  The prince
+swallowed as he rode past it, grateful that Sergeant Gyalpa couldn't see his
+face. He knew from the soldiers' stories that it had once marked the edge of the
+Blight. Now it was two hours' ride inside it.
+
+The sergeant reined in his horse.  "Best I ride up along with the scouts past by
+here, Your Highness.  You and all best keep your eyes by wide."  He and the
+prince exchanged salutes, and the prince tried not to feel grateful or ashamed
+as the older man urged his horse into a trot to catch up with the leading group.
+
+The road dipped, rose, and dipped again before a soldier from the lead squad
+came galloping back with news.  "Your Highness!" he called. "There's men up
+along ahead, lots of 'em."
+
+"Understood," the prince said crisply. "Tell Sergeant Gyalpa that we'll be with
+him as quickly as we can." The soldier turned and galloped back the way he'd
+come. The prince drew his sword and laid it across his lap. Behind him his
+soldiers did the same, making much the same sound as the metal grass had
+made. He took a deep breath, held it for a second, then spurred his horse to a
+trot.
+
+Prince Thokmay expected to find the smugglers waiting at the top of a hill, or
+on the far side of a stream. His teachers had told him over and over again how
+important it was to make use of whatever defenses the ground offered. Instead,
+they were gathered around the stump of what must have once been an enormous
+tree. Eight or nine were mounted on mean-looking horses, while twice that number
+with spears and swords were on foot beside them.
+
+The prince reined in his horse next to Sergeant Gyalpa a hundred strides away
+from the scruffy, mean-looking band. "Is that along by your man Muddh, Your
+Highness?"  the sergeant asked, pointing to the portly figure atop the only one
+of the smugglers' horses that looked like it had eaten a decent meal in the last
+month.
+
+"That's him," the prince confirmed grimly. "Do they have bows?"
+
+"Not that I can see, Your Highness. Jinpa! They got any archers along by them?"
+the sergeant called.
+
+The soldier squinted for a moment, then called back, "No, sergeant, not as I can
+see."
+
+Sergeant Gyalpa studied the smugglers a heartbeat longer.  Thokmay could almost
+hear his scowl.  "I don't like it, Your Highness. There's forty by us on good
+horses against just the two dozen of them, and mostly they're along by foot. Why
+are they just waiting for us?"
+
+"There's only one way to find out," the prince said, hoping he sounded braver
+than he felt.
+
+He started to spur his horse forward, but Sergeant Gyalpa backed his own mount
+into the prince's way and sidled his horse closer so that the rest of the troop
+couldn't hear them.  "You've not been along by a battle before, have you, Your
+Highness? Not with a sword as in your hands?"
+
+The prince shook his head. "No, sergeant. The closest I've ever been was in
+Stale, and that wasn't really a battle."
+
+The sergeant nodded. "Well then, Your Highness, I mean no offense, but I'd be
+well grateful if you'd stay close along by me and get along back if there's any
+actual excitement. Your father would have my ears off if I let you get killed by
+a bunch of featherless ducks such by this lot."
+
+"Yes, sergeant." The prince cleared his throat. "Shall we?"
+
+With a speed born of long hours of practice in the garrison yard, the soldiers
+formed up into ranks of four with enough space between each rank for a horse to
+jump over a fallen body or swerve around it if need be.  Those with lances
+wriggled their boots in their stirrups to make sure they were set firmly.  Those
+with swords hefted them to test their weight.  "Forrrrr-*ward!*" Sergeant Gyalpa
+ordered.
+
+They were still about fifty strides away from the smugglers when Muddh waved at
+them. "Hello, hello!" he called. "Who goes there?"
+
+"I am Thokmay Gandan-o Prince," the prince called back as loudly as he could,
+hoping that his voice wouldn't crack and that he would be brave if battle came.
+"I am looking for my sister, the Princess Ogmin. We fear she has been abducted."
+
+As the prince spoke, the man standing beside Muddh slowly count the soldiers
+with a fingertip, then frowned and said something that the prince couldn't hear.
+
+Muddh frowned theatrically. "But how can you be a prince with so few soldiers?"
+he asked. "It's such a nice day---I hope the rest of them aren't cooped up
+washing dishes." A few of his men laughed dutifully.
+
+"Never mind the dishes," the prince said roughly. "Do you know what has become
+of Her Highness?"
+
+"The princess, the princess," Muddh mused. "About this tall?" He held his hand
+up by his chin. "Long hair?"
+
+"What have you done with her?" the prince demanded.
+
+"Done to her?  Nothing, I swear," Muddh said. "Well, all right, we *did* give
+her a haircut."  The men around him started to laugh. One of them reached over
+and picked something up off the stump.
+
+"Looks like a braid, Your Highness," Jinpa said, squinting again.
+
+"Yes, they're braids," Muddh said, as though he'd been able to hear the soldier
+despite the distance. "Show them what else you have, Harjun."
+
+The smuggler put down the cut-off braid and held up a roll of blue ribbon.  "Do
+you recognize it, Your Highness? It was, what, eighteen pence a handspan?"  The
+men around him laughed again.
+
+Sergeant Gyalpa swore under his breath. "They've by tricked us, Your Highness.
+They must've known by we'd use magic to find along the princess."
+
+"Well of course you were going to use magic.  What else would you do?" Muddh
+replied loudly. This time the prince was sure that the smuggler had heard
+them. "I thought of pulling out her fingernails too, in case you tried to use
+clippings instead of hair, but I was sure you'd keep too a neat a house for
+that."
+
+"If you've hurt her---" the prince choked.
+
+"Oh no," the smuggler protested. "I would never hurt an innocent child---or an
+innocent grown-up, for that matter. But I swear, we don't have the princess?" He
+twisted around in his saddle to look at his men. "Do we?"
+
+"No," they said, and "Nawp," and "Uh uh."
+
+"Well, if you don't have her, then there's nothing to stop us from arresting
+you, is there?" the prince snapped.
+
+"Nothing at all," Muddh agreed. He picked up a small bag that was hanging from
+his saddle horn. "Well, almost nothing."
+
+"'Ware magic!" one of the apprentices shouted. "I can feel it!"
+
+"Gandan preserved!" Sergeant Gyalpa bellowed, digging his heels into his horse.
+The soldiers around him shouted, "Gandan preserved!" and charged.
+
+But even as they thundered toward the smugglers, Muddh undid the string that
+held the bag closed and shook it out. A terrible roaring sound filled the air as
+a tornado came whirling out.
+
 ========================================
 
 ## The Bear's Choice

@@ -58,18 +58,35 @@ handle whatever might happen along by here while you're gone."
 "Of course," the prince nodded.  He turned to Noxy. "I'm sorry to run away like
 this," he said, his voice breaking.
 
-"Of course," she said. On a sudden impulse she stepped toward him. His eyes
-widened. She hesitated for a heartbeat, her sudden courage gone, then punched
-his arm gently. "Blue skies and a star to guide you."
+"Of course," she said. On an impulse she stepped toward him. His eyes widened.
+She hesitated for a heartbeat, her moment of courage gone, then punched his arm
+gently. "Blue skies and a star to guide you."
 
---HERE--
+They rode out of town in two long lines, each soldier with their weapons close
+to hand and their battle mask on.  There were no drums, no songs, no easy
+banter---they knew what lay before them, and that some of them might not be
+coming back.
 
-It took the prince until the middle of the afternoon to reach the Blight. The
-squad at the rear would speed up to gallop past the others, then slow to a trot
-once they were in front to let the next squad ride past. The prince tried to
-stay calm, and not think about what might be happening to his sister, but every
-time he rode past Sergeant Gyalpa he couldn't help but ask, "Anything?" Every
-time, the sergeant said, "Nothing, Your Highness."
+The people of Apple Bridge hurried out of their way.  A few children waved, only
+to be shushed by their parents.  An old woman hanging washing out to dry
+straightened up and saluted.
+
+Sergeant Gyalpa returned the salute.  "Nineteen years done by under the flag,"
+he told Prince Thokmay quietly.  "Closer to thirty if you count her time along
+in the Blight."
+
+"Did you know her?" the prince asked.
+
+Sergeant Gyalpa grunted.  "I did.  Might have married her, once along a time,
+but then was then and long gone by."  His horse's hooves clopped on the
+cobblestones.  "Maybe I'll look along by her when we're back."
+
+All too soon the city wall was behind them.  The air smelled fresh or of freshly
+spread manure, depending on the breeze.  Strawberry season was already over, the
+prince realized.  The corn would be coming in soon.  Ogmin loved eating corn on
+the cob with a squeeze of lime juice and a sprinkling of black pepper.  He set
+his jaw.  "Let's pick up the pace," he said to the sergeant.  Without waiting
+for an answer he spurred his horse to go faster.
 
 There were no markers on the edge of the Blight, no walls or signs to show where
 the magically-poisoned land began. Prince Thokmay only realized they were in it
@@ -77,33 +94,34 @@ when he saw a patch of flowers that had been turned into glass. He turned in his
 saddle to stare, then heard a crunching sound underneath him as his horse
 stepped on some grass that had been transformed the same way.
 
-"You'll want to watch out for that, Your Highness," Manpa said. "Bucket's hooves
-are tough, but they're not so tough that they can't be cut."
+"You'll want to watch along out by that, Your Highness," Sergeant Gyalpa said.
+"Hooves are tough, but they're not by so tough as that they can't be cut."
 
-"I'll be careful," the prince promised. He looked around. "I haven't seen any
-birds for a while."
+"I'll be careful," the prince promised. He looked around, suddenly struck by an
+absence. "I haven't seen any birds for a while."
 
-"Nor you won't, Your Highness. There's not many that'll come here that weren't
-born here. Same as the people, like."
+"Nor you won't, Your Highness. There's not many that'll come along by here
+except as were hatched in it. Same as the people, like."
 
 The prince nodded. "I can understand why. Come on, let's keep going. It will be
-dark soon, and we're still four miles from the hill."
+dark soon, and we're still four gallops from the hill."
 
 The further they road, the bleaker the land became. Scraggly blackberry bushes
-hunched down when they heard the soldiers approaching, while the knee-high grass
-had a metallic green sheen, like an summer fly's body, and made a scraping sound
-like rusty scissors when the wind brushed over it. The few trees they passed
-were stunted, and the apples hanging from them were blackened, or bloated to the
-size of pumpkins. Even the sky above them was somehow twisted. It seemed normal
-enough when Prince Thokmay looked straight at it, but he kept seeing swirls of
-color sweep through it out of the corner of his eye.
+hunched down when they heard the soldiers approaching as if trying to hide
+behind each other, while the occasional patches of knee-high grass had a
+metallic green sheen like beetles' shells and made a scraping sound like rusty
+scissors when the wind brushed over them. The few trees they passed were
+stunted, and the apples hanging from them were blackened or bloated to the size
+of pumpkins. Even the sky above them was somehow twisted. It seemed normal
+enough when Prince Thokmay looked straight at it, but seemed to swirl slightly
+in the corners of his eyes.
 
-They came up over a small rise and saw a wooden 'X' propped up on either side of
-the road. Each was tall as a mounted man's head, and the rain had long since
-washed away whatever paint might once have been on them.  The prince swallowed
-as he rode between them. He knew from the soldiers' stories that these markers
-had once stood at the edge of the Blight. Now they were two hours' ride inside
-it.
+They came up over a small rise and saw a wooden 'X' standing beside the road, as
+tall as a mounted man's head and bleached gray by years of rain.  The prince
+swallowed as he rode past it. He knew from the soldiers' stories that it had
+once marked the edge of the Blight. Now it was two hours' ride inside it.
+
+--HERE--
 
 The sun had sunk into the horizon like a rotten peach into mud when one of the
 soldiers from the lead squad came galloping back to the prince.  "Your

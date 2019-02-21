@@ -1,188 +1,65 @@
---HERE--
-
-The tornado roared into the sky, doubling in size and then doubling and doubling
-again as it poured out of Muddh's bag. "At them!"  Sergeant Gyalpa shouted to
-the soldiers. "Get in close, or it'll swat you like ladybugs!"
-
-The soldiers charged, shouting "Gandan! Gandan and the dawn!" The smugglers
-shouted curses back. The ones on foot braced the ends of their spears against
-the ground, so that the soldiers' horses couldn't get close, while the ones who
-were riding horses of their own drew their swords and dug their spurs into their
-mounts.
-
-"Stay close, Your Highness!" Sergeant Gyalpa ordered the prince. He paused,
-watching where men were going, watching where they weren't, then shouted, "Haw!"
-and spurred his horse forward. The prince dug his heels into his own mount and
-followed him.
-
-The next few seconds were mad confusion. The soldiers had to ride around the
-front rank of smugglers to avoid their spears. As they did so, Muddh held up the
-copper hoop he'd been holding in his lap and shouted commands at the tornado. It
-twisted and danced across the ground, then lashed out like a man kicking a ball.
-
-Instead of a ball, though, it connected with a soldier on horseback. The man's
-horse screamed as it was lifted into the sky. The soldier himself dropped out of
-the saddle onto the ground. His left leg buckled underneath him as he hit the
-ground. Before his comrades could reach him, a smuggler on horseback lunged
-forward, leaned over in his saddle, and swung his sword.
-
-An instant later Prince Thokmay saw Manpa and another soldier cut left, then
-right, then left again to get in close to the knot of smugglers. Muddh didn't
-hesitate. The tornado snatched up the two soldiers and a smuggler as well and
-tossed them through the air. They tumbled like dice.
-
-Sergeant Gyalpa stood up in his stirrups and waved his sword over his
-head. "Fall back!" he shouted. "Fall back! We can't get past that thing!" He
-watched the melee for a moment in despair, then snarled, "They can't hear me!
-Your Highness, we have to get you out of here!"
-
-"No!" the prince protested. "I won't run away!"
-
-"And I won't have a dead prince on my scroll!" the sergeant bellowed back. "Now
-don't make me carry you on my shoulders!"
-
-"I will *not* run!" the prince shouted. "Haw!" He dug his spurs deep into his
-horse's flanks. The frightened animal bounded forward. Behind him, Sergeant
-Gyalpa cursed, then kick his own horse into a gallop as well.
-
-Prince Thokmay crouched low over his horse's neck and charged straight at the
-smugglers. The wind-blown grit stung his eyes. He felt his horse's hooves
-pounding on the ground beneath him. The smugglers were small, small, small, and
-then suddenly larger and larger as he dodged behind a startled spearman and
-swung. His blade bounced off armor. A spear thrust up past his ear. He ducked
-and screamed in fear and anger and swung his sword again---
-
-And suddenly the earth beneath him was churning like the ocean in a storm. His
-horse screamed with fear as she lost her footing and stumbled, neighing with
-panic as she found her footing again and leaped toward solid ground. The prince
-twisted around in his saddle, just in time to see the spearman he'd just passed
-sink to his knees in the turbulent earth.
-
-Somehow Sergeant Gyalpa was beside him. "It's that thing!" he shouted.  "The
-land---his magic is waking it up! We have to get out of here, *now*!"
-
-"But what about the troops?" the prince shouted back. He suddenly realized he
-was crying.
-
-"They're already falling back, Your Highness. Look!" Sure enough, everyone was
-fleeing, smugglers and soldiers alike, as the land roiled and heaved like a
-living thing.
-
-"Guard my back!" the sergeant ordered the prince. He spun his horse around and
-charged at the smugglers. Most of the spearmen were struggling to get to their
-feet. As the horsemen around Muddh tried to get their panicky mounts under
-control, Sergeant Gyalpa charged through them and swung his sword.
-
-The prince saw the sergeant's blade connect with the copper hoop that Muddh was
-still struggling to hold high. There was a flash like lightning.  Muddh and the
-sergeant both cried out. The hoop flew through the air. When it hit the ground,
-the earth splashed like water. The copper hoop sunk out of sight like a stone
-thrown into a murky pond.
-
-The tornado roared in triumph as it felt Muddh's hold over it break. It pounced
-on the smugglers like a cat pouncing on a crippled bird, throwing them this way
-and that. Prince Thokmay saw Muddh leap from his horse an instant before the
-tornado snatched it up. The smuggler scrambled over to the old tree stump and
-pulled a man-tall mirror off the wagon that was still somehow parked there. He
-propped the thing against the stump and dove through it an instant before the
-tornado snatched it up.
-
-The prince shouted, "Look out!" but it was too late. The mirror slammed into
-Sergeant Gyalpa like a stone from a catapult, knocking him from his horse.
-
-"No!" the prince screamed. He dug in his heels. "No!" His horse charged forward.
-
-Sergeant Gyalpa tried to stand, but fell again as his knee gave way.  "Go back!"
-he shouted to the prince. "Go back!"
-
-"Hang on!" the prince shouted back. He pulled his horse up short beside the
-sergeant and half-climbed, half-fell out of the saddle.
-
-"No, Your Highness, you have to save yourself!" the sergeant shouted, pushing
-the prince's hands away.
-
-The prince grabbed the sergeant's sleeve and pulled him up onto his good
-leg. "I've already lost one sergeant," the prince grunted. "I will *not* lose
-another! Now climb up on that horse!"
-
-The prince pushed the sergeant up by the rump while the sergeant pulled himself
-up into the saddle. A heartbeat later the prince swung himself up behind
-him. "*Now* we can run," he said. He smacked the horse on the rump. The animal
-didn't need any encouragement. It galloped heavily away.
-
-Behind them, the tornado picked up Muddh's magic mirror and smashed it to the
-ground once again, then whirled off toward Apple Bridge.
-
-## Snow
-
 Prince Thokmay and Sergeant Gyalpa stayed on horseback until they were over the
-crest of the hill, where the sergeant reined in Bucket so that the prince could
-slide off her back. "She'll never be able to carry both of us, will you, girl?"
-the prince said, speaking to Sergeant Gyalpa as much as to the horse. "Eh? Will
-you, girl?" he soothed, stroking the horse's neck. The weary animal just
-snorted.
+crest of the hill. When the sergeant finally reined in, the prince slid off the
+horse's back and raised his battle mask.  To the south, the tornado was a dark
+stain on the sky headed toward Apple Bridge.  Behind them, the land was still
+once again, and eerily quiet.  There was no sign of the other soldiers, or of
+the smugglers---for all that Thokmay could see, he and Sergeant Gyalpa were
+alone in the world.
 
-The prince patted her one more time, then looked up at his companion.  The
-sergeant's jaw was clenched, and his frown showed pain as much as anger. "How is
-your leg?" Prince Thokmay asked.
+The sergeant fumbled with the strap on his battle mask for a moment and then
+raised it as well.  His jaw was clenched, and his frown showed pain as much as
+anger.  "How bad is it?"  Prince Thokmay asked, gesturing at the older man's
+leg.
 
-The sergeant straightened up a bit in the saddle. "Still a mess," he said. "I
-don't think it's broken, but the knee is in bad shape. Put me up against that
-tree over there, and go and get help. I'll be all right."
+The sergeant shook his head. "It's all by right, Your Highness."  At the
+prince's skeptical look, he reluctantly continued, "I don't think it's broken,
+but the knee is along by bad shape. Put me up against that tree over there, and
+go and get help. I'll be all right."
 
-"I think I'd rather have some company," the prince replied lightly.  "Here,
-drink some of this." He passed his half-empty canteen up to the old soldier.
+"I think I'd rather have some company," the prince replied lightly.  "Here, have
+some of this." He handed the half-empty canteen hanging from the rear of the
+saddle to the sergeant.  As the soldier drank, Thokmay looked around more
+carefully.  There was no sign of the sun, he realized, but the land was still
+somehow lit by a soft glow that came from nowhere and everywhere at once.  In
+front of them, the hillside tumbled down to a narrow valley.  A few trees grew
+near the small stream that ran along the its bottom.
 
-As the sergeant drank, Prince Thokmay looked around. The sky above them was
-almost dark, but the land was still lit by a soft glow that came from nowhere
-and everywhere at once. On one side, the rocky slope led down to the churning
-field they had fled, beyond which was Carmick Hill and the road home. The other
-side led down to a narrow valley. A few trees grew near the small stream that
-ran along the its bottom.
+"What do you think happened to the others?" he asked quietly.
 
-"D'you hear that?" the sergeant suddenly said. "The wind's dying down."  He
-passed the canteen back to the prince, who tucked it into a saddle bag.
-
-"Do you think Muddh put the tornado back in its bag?" the prince asked.
-
-Sergeant Gyalpa snorted. "Not without that thing he was waving around, I'll
-wager," he said, satisfaction getting the better of pain in his voice for a
-moment. "I just hope the others are all right."
-
-"Me too," the prince said. He patted the horse once more, then put his helmet
-back on. "Come on. I think I see a path down there by that stream."
+Sergeant Gyalpa shook his head.  "I don't know, Your Highness.  But they've been
+along by this before---some of them, anyway.  They'll all be right."  He patted
+his horse's neck and lowered his battle mask once again. "I think I see a path
+down there by that stream."
 
 They picked their way down the rocky hillside. It was bigger than it had
 seemed---it seemed that the further down they went, the further they had to
 go. Prince Thokmay walked in front, while Sergeant Gyalpa rode behind him with
 the reins in one hand and his sword laid across his lap.
 
-Neither of them spoke until they reached the floor of the small valley.  The
-path turned out to be a narrow dirt road, and the stream to be so wide that some
-might have called it a river.
+Neither of them spoke until they reached the valley floor.  The path turned out
+to be a narrow dirt road, and the stream wide enough to be called a river.
 
 "It's further than I thought," the prince said, looking back the way they had
 come.
 
-"It's all like that around here," Sergeant Gyalpa told him. He gestured with his
-sword toward a small clump of trees. "Twisted, like them. Something that looks
-like it's a hundred yards off can take you all day to get to. Or you can barely
-see it, but you ride for five minutes, and there you are. Sergeant Ranneda said
-it's something to do with the way magic bends the light, and all." He shook his
-head. "I don't pretend to understand it."
+"It's all like that around by here," Sergeant Gyalpa said gruffly. He gestured
+with his sword toward a small clump of trees. "Twisted, like them. Something
+that looks like it's along by a hundred yards away can take you all day to get
+to.  Or it's so far on as you can barely see it, but you take ten steps and
+there you are.  Ranneda says it's something to do by how the magic bends the
+light."  He shook his head. "I don't pretend to have the understanding of it."
 
-"Nor I." The prince pulled the canteen from the saddle bag and gulped the last
-of the warm water. "I thought about becoming a magician once, you know," he
-suddenly confessed. "After my visit to Stale. I thought that since I'd already
-had a taste of it, I might as well make it my life."
+"Nor I." He paused. "I thought about becoming a magician once, you know," he
+suddenly confessed. "After what happened in Stale. I thought that since I'd
+already made one trade, I might as well make some more."
 
-"Why'd you decide against it?" the sergeant asked.
+The sergeant grunted.  "What made you change your mind, if you don't mind me
+asking?"
 
-The prince shrugged. "When Barramarrabee---His Majesty's chief magician---found
-out, he asked me if I really wanted to spend my life giving up things I cared
-about." The prince paused for a moment, looking along the length of the
-stream. "When he put it that way, I had to wonder. I asked him why anyone would
-ever become a magician."
+The prince shrugged. "When I asked Barramarrabee about it---that's my father's
+chief magician---he asked me if I really wanted to spend my life giving up
+things I cared about.  When he put it that way, I had to wonder. I asked him why
+anyone would ever become a magician."
 
 "And what did he say?"
 
@@ -195,7 +72,7 @@ over the stream.
 The prince glanced up. "Filling the canteen," he said. "We're out of water."
 
 "Hold it by the strap," the sergeant ordered. "Don't put your hand in the
-stream. Just dip the canteen. Yes, like that."
+water. Just dip the canteen. Yes, like that."
 
 The prince lowered the canteen into the stream. Fat bubbles escaped from the
 mouth for a moment, and then the prince said, "What...?"  The bubbles were
@@ -206,144 +83,112 @@ He tried to lift the canteen from the water. It wouldn't budge. He lowered it
 slightly---it went deeper without any resistance. When he tried to raise it
 again, it simply wouldn't come up.
 
-"What's going on?" he asked, suddenly more afraid than he had been during the
+"What's going on?" he asked, suddenly almost afraid as he had been during the
 battle.
 
-The sergeant scowled. "We're in the Blight, that's what," he said.  "Sometimes a
-stream is just a stream, and sometimes it's a live thing that'll pounce on you
-like that tiger your brother has, and sometimes..." He pointed at the
-canteen. "Sometimes it's greedy."
+The sergeant raised his battle mask and scowled at the stream as if it were a
+new recruit who had just tripped over his own bootlaces. "I've seen this before,
+Your Highness.  It comes along by patches here and there.  Sometimes the water
+is just water, and sometimes..." He pointed at the canteen. "Sometimes it plays
+games like that."
 
-"I could have put my hand in there," the prince whispered.
+The prince swallowed. "I could have put my hand in there."
 
-"You could have," the sergeant agreed. "But you wouldn't ever have taken it out
-again. You'll probably want to stay out from under those as well," he added,
-pointing at the trees up ahead. "They might not be as smart as the ones around
-Lake Ormadine, but they can be meaner than wolverines."
+"Yes, Your Highness, You could have," the sergeant agreed. "But you wouldn't
+ever have taken it out again 'til whatever it is let you. You'll probably want
+to stay out from under those as well," he added, pointing at the trees up
+ahead. "They might not be as smart as the ones close along by Fast Lake, but
+they can be as mean as wolverines."
 
-He winced suddenly as Bucket shifted her weight. "Is there anything we can do
-for your leg?" the prince asked, not caring that his voice broke.  "Manpa showed
-me how to make a splint."
+He winced suddenly as his horse shifted her weight. "Is there anything we can do
+for your leg?" the prince asked.  "Manpa showed me how to make a splint."
 
-The sergeant nodded, swallowing another pained grunt. "We'll cut your tent poles
-in thirds," he said. "And then we'll follow this stream. I think that way is
-east---the Trout's off there somewhere. If we can make it that far, we can get a
-raft to take us back up to Apple Bridge."
+The sergeant nodded.  "We can cut my tent poles in thirds," he said. "And then
+we'll follow this stream. I think that way is east---the Trout's off there
+somewhere. If we can make it along by that far, we can get a raft to take us
+back up to Apple Bridge."
 
-The prince noticed that the sergeant said 'if', not 'when', but didn't
-comment. Instead, he wrestled his pack off Bucket's back, then took a hatchet
-from one of the saddle bags. The tent poles did double duty as braces for the
-pack. It took him a moment to untie the straps that held them in place, and then
-a few moments longer to cut them to length.
+The prince noticed that the sergeant said "if", not "when", but didn't comment.
+Instead, he slid the bamboo tent poles out of the canvas sleeve on the horse's
+back and started cutting them to length with his sword.
 
 That done, he helped Sergeant Gyalpa get down onto the ground. The sergeant had
-to lie down on top of Bucket, then swing his good leg over her back and slid
-down into Prince Thokmay's arms, trying as he did so to keep his good leg
-underneath him. Bucket whinnied, but did not step away, as the sergeant first
-sat, and then lay down, on the ground beside her. "Just---just straighten it at
-the knee," the sergeant gasped. "Yes, like that. Good jo-aagh. No, no, it's all
-right. It's all right. Try again. Use your weight. Urgh. Harder. No, go on, it's
-going to hurt either way, you might as well---urrrggh."  Sergeant Gyalpa
-clenched his fists so tightly that the prince heard one of the joints crack.
+to lie flat in the saddle, then swing his good leg over the horse's back and
+slide down into Prince Thokmay's arms, trying as he did so to keep his good leg
+underneath him.  The horse whinnied as the sergeant lowered himself to the
+ground. "Just straighten it at the knee, Your Highness," the sergeant said
+through gritted teeth. "Yes, like that. Good jo-aagh. No, no, it's all right,
+it's all right. Try again. Use your weight. Urgh. Harder. No, go on, it's going
+to hurt either way, you might as well---urrrggh."  Sergeant Gyalpa clenched his
+fists so tightly that the prince heard one of the joints crack.
 
-"All right, all right," the sergeant gasped a moment later. "That's straight
-enough. Put the poles down beside it. You're going to have to lift m' leg to get
+"Good enough. Put the poles down along beside it. You're going to have to get
 the rope under it. Yes, like that. Now, easy, both hands, just lift---no, no,
 both hands on my leg, just drop the rope underneath. Yes. And again. One
-more. Uuhhh... All right, now tie it all up. No, tighter than that. Don't worry
-about cutting off the blood. No, not like that. Where'd you learn to tie knots?
-Just cross it over and---here, let me."
+more. Uuhhh... All right, Your Highness, now tie it all up. No, tighter than
+that. Don't worry about cutting off the blood. No, not like that. Where'd you
+learn to tie knots?  Just cross it over and---here, let me."
 
-Sergeant Gyalpa had to prop himself up on one elbow in order to sit up. Prince
-Thokmay sat back and watched while the sergeant untied and then re-tied the last
-knots in the rope that held the splint together. His hands shook, but his grip
-was strong.
+Prince Thokmay sat back and watched while the sergeant untied and then re-tied
+the knots in the rope that held the splint together.  The soldier's face was
+knotted with pain, but his hands didn't hesitate.  When it was done, he nodded
+at the prince. "Thank you, Your Highness.  You did all right for your first
+time."
 
-When it was finally done, he looked up at the prince. "Thanks," he said.  "You
-did well."
+The prince nodded wearily. He wanted to lie down and sleep for a week, but
+instead he stood up and brushed his hands on his jacket. "We should get going,"
+he said, clasping the sergeant's hand and helping the older man get to his feet.
 
-The prince swallowed. He wanted to lie down in his bed back in Apple Bridge and
-sleep for a week, but instead he got to his feet. "Let's get you back up on
-Bucket," he said, putting the sergeant's arm around his neck as the older man
-struggled up onto his good leg. The sergeant pulled himself up onto Bucket's
-back until he was lying on his stomach in the middle of the saddle. Prince
-Thokmay helped him swing his good leg over to the other side of the horse, and
-then edge forward into the saddle. When it was done, the sergeant was back where
-he had been ten minutes before, but with six roughly-cut lengths of wood tied
-around his injured leg to hold it straight.
+They set off along the narrow road, the prince walking, the sergeant riding.
+Their conversation was sparse: "Watch out, that mud will be slippery," or "Put
+those branches on behind me, we can use them for a fire tonight."
 
-They set off along the narrow road, the prince walking, the sergeant
-riding. Their conversation was sparse: "Watch out, that mud will be slippery,"
-or "Put those branches on behind me, we can use them for a fire tonight."
-
-The prince guessed that they had covered four or five miles in about two hours
+The prince guessed that they had covered four or five gallops in about two hours
 when Sergeant Gyalpa finally said, "All right, we'll camp here for the night."
-The little valley had widened and flattened, so that there was twenty yards or
+The little valley had widened and flattened, so that there was twenty strides or
 so of level ground on either side of the road.  There was grass, too, and a few
 blackberry bushes, and even a patch of reeds in the stream.
 
-"Is it safe to let Bucket graze?" the prince asked once the sergeant was down
-out of the saddle.
+"Is it safe to let her graze?" the prince asked as the sergeant clambered down
+from the saddle
 
-Sergeant Gyalpa shook his head. "Not here," he replied. "You ought to have some
-oats and all in your---yes, good, give her that. Anything she eats from around
-here will probably poison her, or turn her into a frog." He tried to smile. "Can
+Sergeant Gyalpa shook his head. "Not here, Your Highness. I have some oats along
+in a bag somewhere---yes, good, give her that. Anything she eats from around
+here will probably poison her, or turn her into a frog." He forced a smile. "Can
 you see me riding on frogback?"
 
 "I can see us both riding on one of Noxy's clouds," the prince said, trying to
-match the sergeant's light tone. "It'd be softer than that saddle, and we'd be
-so high up that all of this would look like nothing more than a badly-drawn
-picture."
+smile back. "It'd be softer than that saddle, and we'd be so high up that all of
+this would look like nothing more than a badly-drawn picture."
 
-The sergeant snorted. "Thanks all the same, but I'll take my chances down here,"
-he said. "I know how to fall off a horse, but falling off one of those
-things..." He shook his head.
+The sergeant snorted. "Thanks all the same, but I'll take my chances along down
+here.  I know how to fall off a horse, but falling off one of those things..."
+He shook his head.
 
 The prince helped the sergeant onto the ground, then pointed at a clump of
-blackberry bushes a few yards from the road. "There are some branches over
-there. If you can stack the ones we have, I'll get some more. That ought to get
-us through the night."
+blackberry bushes a few strides away. "There are some branches over there. If
+you can stack the ones we have, I'll get some more. That ought to get us through
+the night."
 
-"Yes, Your Highness," the sergeant said.
+"Yes, Your Highness," the sergeant said.  He braced a branch against the stony
+ground and leaned on it until it snapped, then set the two pieces on top of two
+other, smaller pieces that he had already laid out.  With a pinch of fireseed
+and a few quick twists of his flint, some tiny newborn flames began to crackle.
 
-The prince stopped in his tracks, then turned slowly. The sergeant was looking
-at him expressionlessly. "That's the first time you've called me that since the
-tornado," the prince said slowly.
+The sergeant sat back.  "Best get that wood quickkly, Your Highness. I can feel
+the cold coming on."  Prince Thokmay nodded. He had felt the air growing cold as
+well.
 
-"Is it, Your Highness? I'm sorry." The sergeant braced a branch against the
-stony ground and leaned on it until it snapped, then set the two pieces on top
-of two other, smaller pieces that he had already laid out.  The result looked
-like a giant's wooden tic-tac-toe board.
-
-The prince took a deep breath. "I wouldn't mind if you didn't bother highnessing
-me, you know."
-
-The sergeant shook his head and broke another branch. "I'm sorry, Your Highness,
-but it might be a hard habit to break afterward, and that wouldn't be a good for
-the troops."
-
-The prince blinked. "So what's changed from three hours ago?"
-
-The sergeant looked up at him, still without any expression on his face.  "Three
-hours ago, I didn't think I'd ever see any of the other troops again to set a
-bad example." He broke another branch in two. "Best get that firewood, Your
-Highness. I don't think it's going to get dark, but I can feel the cold coming
-on."
-
-Prince Thokmay nodded. He had felt the air growing cold as well. He took the
-hatchet from Bucket's saddle bag again and walked over to the blackberry
-bushes. They rustled slightly as he approached, even though there was no wind.
-
-"Easy, easy," he said softly. Somehow it didn't seem strange in this place to be
-talking to a plant. "I'm not here for you. I just want those old scraps of
-wood." He gave the bushes a wide berth, and started stacking the dried-up old
-sticks in his arms.
+The blackberry bushes rustled slightly as the prince approached, even though
+there was no wind.  "Easy, easy," he said softly. Somehow it didn't seem strange
+in this place to be talking to a plant. "I'm not here for you. I just want those
+old scraps of wood." He gave the bushes a wide berth, and started stacking the
+dried-up old sticks in his arms.
 
 He didn't notice the first flake of snow, or the second. It wasn't until one
 landed on his cheek that he looked up and realized that the air was full of tiny
-dancing white bits of fluff. "But it's the middle of summer," he muttered,
-exasperated. "Even here!" He picked up a few more pieces of wood and turned
-around.
+dancing white bits of fluff. "Seriously?" he muttered.  "It's the middle of
+summer."  He picked up a few more pieces of wood and turned around.
 
 The snow was falling faster now, so thickly that he could barely make out the
 road. The flakes melted as soon as they touched the ground, but the air was
@@ -362,7 +207,7 @@ sergeant grunt as he tried to get up.
 "No, wait, stay where you are!" the prince called. He brushed a handful of snow
 from his hair. "I just can't see through all this snow."
 
-It wasn't until the sergeant shouted, "What snow, Your Highness?" that Prince
+It wasn't until the sergeant said, "What snow, Your Highness?" that Prince
 Thokmay felt afraid. He stumbled in the direction that he thought the sergeant's
 voice had come from. The snow wasn't melting on the ground any longer.
 
@@ -373,9 +218,8 @@ voice had come from. The snow wasn't melting on the ground any longer.
 "No! Keep talking, I'll try to get to you!"
 
 "But Your Highness, I can see you!" Prince Thokmay had to strain to hear the
-sergeant's voice. The falling snow was muffling everything. With a shock, the
-prince realized that the hatchet had fallen out of his fingers. They had already
-become numb from the cold.
+sergeant's voice. The falling snow was muffling everything, and his fingers
+were already going numb from the cold.
 
 "Tell me which way to walk!" the prince shouted back desperately.  "Hurry!"
 
@@ -403,25 +247,24 @@ the knee-high snow. He couldn't feel his feet.
 There was no sound for a moment, then the sergeant shouted, "It's out, Your
 Highness. What now?"
 
-"Just keep talking!" the prince shouted, hoping he had guessed right.
-"Just... k-k-keep... t-t-t-talking!"
+"Just keep talking!" the prince shouted, hoping he had guessed right.  "Just...
+k-k-keep... t-t-t-talking!"
 
 The prince slogged forward another step, and another. Was the snow falling a
 little less heavily? He tried not to think about it. He remembered his uncle's
 stories about retreating through a blizzard from Ax Medicine during the Anuat
-rebellion thirty years before, then tried to push them out of his mind as
-well. Most of the other soldiers in his uncle's regiment had never seen
-Garheim-in-Garheim again.
+rebellion, then tried to push them out of his mind as well. Most of the soldiers
+in his uncle's regiment had never seen Ruuda-in-Ruuda again.
 
-But a few heartbeats later there was no doubt: the snow was easing off, and the
-air was warming up. Prince Thokmay shouted, "Sergeant? Am I headed the right
-way?"
+But a few heartbeats later there was no doubt: the snow was easing off, and if
+the air wasn't warming up, at least it wasn't getting colder. Prince Thokmay
+shouted, "Sergeant? Am I headed the right way?"
 
 "Yes, Your Highness. No, wait, turn right. Now go ahead. No, turn right again,
 and---hold on, Your Highness, stay right where you are."  Something thumped to
 the ground a few feet away from the prince a moment later.
 
-"Can you see that?" the sergeant called. It was a saddle bag, with one of the
+"Can you see that?" the sergeant called. It was a saddle bag with one of the
 tent's stay ropes tied to it. The prince stumbled forward and grabbed the
 rope. Its other end was knotted to another stay rope that led off through the
 snow.
@@ -431,41 +274,37 @@ rope like a sailor holding a guide rope in a heavy storm.
 
 One moment Prince Thokmay was calf-deep in snow. The next, he was standing on
 the road with the rope in his hands. He blinked, then whirled around.  The
-tied-together ropes stretched no more than ten yards to the saddle bag, which
-sat dumbly on the dry, stony ground. The wood the prince had collected was
-tumbled together a few yards from the bag.
+tied-together ropes stretched no more than ten strides to the saddle bag, which
+sat dumbly on the dry, stony ground. The wood the prince had collected lay in a
+tumble next to the bag.
 
-"But I---but it was snowing!" the prince mumbled.
+"But I---it was s-s-snowing!" the prince chattered.
 
-"I know," the sergeant said. "You're covered in it. And your hands!  Your
-Highness, you're freezing! I'll get the fire---"
+"I know, Your Highness," the sergeant said. "You're covered in it. And your
+hands---you're freezing! I'll get the fire started again."
 
-"N-N-No!" the prince chattered. "Th-that's what st-st-started it, I think. The
-l-l-land was ang-ang-angry about th-the f-fire."
+"No!" Thokmay clenched his teeth for a moment in a vain attempt to get them
+under control. "Th-that's what st-st-started it, I think. The l-l-land was
+ang-ang-angry about th-the f-fire."
 
-"Well, it didn't react here, Your Highness," the sergeant said firmly.  "And we
-have to get you warmed up. Sit down here."
+"Well, it didn't do anything along by here, Your Highness," the sergeant said
+firmly.  "And we have to get you warmed up."
 
 It only took Sergeant Gyalpa a few heartbeats to coax a small spark to life in a
-pile of tinder, and another few moments to get it to catch on a small
-branch. The prince watched miserably as the fire slowly spread through wood,
-which was still smoldering from the fire the sergeant had doused. Feeling slowly
-returned to his fingers and toes, and what they mostly felt was painful.
+second pinch of fireseed, and another few moments to get it to catch on a small
+branch. The prince wrapped his arms around his body as the fire took hold once
+again. Feeling slowly returned to his fingers and toes, and what they mostly
+felt was painful.
 
 He sniffled and wiped his nose. "I couldn't see anything," he said. "I mean, out
 there."
 
 "I couldn't either, Your Highness" the sergeant said. "You were just stumbling
-around, it looked like." He frowned. "I wonder...  Sergeant Ranneda said once
-that there were safe roads in the Blight. The Pilots built them so that they
-could cart stuff in to Fast Lake to dump it. Maybe this is what's left of one of
-those."
+around, it looked like." He frowned. "Sergeant Ranneda told us once that there
+are safe roads in the Blight. The Pilots built them so they could cart stuff in
+along to Fast Lake. Maybe this was one of them."
 
-"S-so are we headed in toward the lake, or out?" the prince asked. His voice
-cracked again.
+"B-best we stay on it, then," the prince said, his voice cracking.
 
-The sergeant shook his head. "I don't know, Your Highness. Direction doesn't
-mean a lot in here." He looked up at the starless sky. "I just wonder what's
-going to be waiting for us when we get out. Muddh must know he can't hold Apple
-Bridge for long, not even with a dozen tornadoes. He must be planning something,
-but what?"
+The sergeant nodded. "Best we do, Your Highness." He looked up at the dull gray
+sky. "I just wonder what's going to be waiting for us when we get out."

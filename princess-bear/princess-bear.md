@@ -1403,6 +1403,409 @@ But even as they thundered toward the smugglers, Muddh undid the string that
 held the bag closed and shook it out. A terrible roaring sound filled the air as
 a tornado came whirling out.
 
+## A Piece of String
+
+Prince Thokmay and Sergeant Gyalpa took turns sleeping. They didn't re-light the
+fire.  By the time morning came the prince was hugging himself to stay warm,
+even in his uniform jacket.
+
+"It's cold, isn't it, Your Highness?" Sergeant Gyalpa finally said without
+opening his eyes.
+
+"I've been colder," the prince chattered, "Up in the mountains. But not by
+much."
+
+Sergeant Gyalpa sat up awkwardly and rubbed his knee for a moment, then settled
+back on his elbows. "What was it like, Your Highness?" he asked. "If you don't
+mind me asking."
+
+"I didn't feel any different afterward, if that's what you mean," Prince Thokmay
+said. "It's probably easiest to show you." People had asked him that question a
+hundred different ways in the last two years. His answers had always seemed
+inadequate. The magician Shorramarrabee had finally taken pity on him and given
+him something to help explain.
+
+He fished around in his pocket for a moment and pulled out a piece of string.
+"Here." He handed it to the sergeant.
+
+Sergeant Gyalpa looked at suspiciously. "What is by this?"
+
+"It's a knot that can't be untied," the prince told him. "One of the magicians
+at court gave it to me."
+
+The sergeant examined the knot. "Doesn't look hard," he hedged. "Along by a
+half-snake under."
+
+"Go ahead, try it," the prince urged.
+
+Sergeant Gyalpa raised his eyebrows, then took off his gloves and started to
+untie the knot. At least, that's what he set out to do, but he dropped the
+string as he was taking off his left glove. He had to hunt around a second to
+find it. When he picked it up, it caught on a button on one of the side pockets
+of his trousers. When he tried to tug it free, it slipped through his
+fingers. He cursed under his breath and picked it up again more carefully.
+
+A couple of minutes later, he had finally managed to get a firm grip on the
+string using both hands, only to find that he didn't have any fingers left to
+untie it. "It really doesn't like by me, does it?" he said in exasperation.
+
+"Nope," the prince agreed. "And if you hung it from a nail, and tried to work on
+it that way, you'd stumble and bang your head.  That's how I got this." He
+pointed at a small scar on his forehead.  "It's not that the knot is difficult,
+it just...can't be untied." He looked straight at the sergeant, holding the
+soldier's eyes for a moment the way Mope had taught him. "That's what it was
+like.  Nothing changed, except that I could never be king."
+
+Neither spoke for a few moments. The emptiness of the twisted land around them
+seemed to fill every space, every silence. "What was it like for you?" the
+prince finally asked as the sergeant gave him back the piece of string. "I mean,
+growing old so quickly."
+
+The sergeant cleared his throat. "Doesn't feel along by anything special," he
+said gruffly. "I guess anyone who's a soldier gets old too fast, whether they're
+in the Blight or not."
+
+They traveled as before, Sergeant Gyalpa riding while Prince Thokmay walked.
+They saw mud and rocks, bushes and trees, but nothing that moved except an
+occasional bird far in the distance.  Prince Thokmay tried to count his
+footsteps to keep track of how far they had come, but kept forgetting whether he
+was in the three hundreds or five hundreds. He supposed it didn't really matter
+in the Blight anyway.
+
+He was startled out of his marching daydream by Sergeant Gyalpa's voice.  "Look,
+Your Highness," the sergeant said, pointing. It took Prince Thokmay a moment to
+realize that the sergeant was pointing at a few blades of green grass and a
+lonely white flower.
+
+"What now?" the prince groaned.  "It is going to try to eat us?"
+
+Sergeant Gyalpa laughed. "No, Your Highness. It's just as by a dandelion.  They
+don't grow in the deep Blight---can't stand along by the magic." The sergeant
+scanned the hills around them. "We must be coming out of it, but I don't
+recognize where we are."
+
+They saw the next dandelion ninety-two paces later. There was another thirty-six
+paces after that, and another after that. Slowly, grudgingly, the rocky brown
+earth let normal life take hold. The prince couldn't help but grin the first
+time a startled rabbit streaked away from them.
+
+The sergeant noticed his grin. "It's always good coming out of by there, Your
+Highness." He tipped his head back slightly and sniffed. "And is that water I
+smell?"
+
+The horse picked up her pace as they crested a small rise. The rough track they
+had been following ran down on the other side to the roofless ruin of a one-room
+mill on the banks of the slow-moving Trout. A stand of apple trees had gone wild
+near what was left of the its walls. A few brown piling poking up out of the
+river like rotten teeth showed where the mill's loading dock had been.
+
+Sergeant Gyalpa let the horse follow her head down the hill and into the trees.
+As she bit an apple off a low-hanging branch, he clambered out of the saddle and
+put his hand on the prince's shoulder to steady himself. "It'll be safe to light
+a fire here, Your Highness," he said, wincing as he limped toward the building.
+"Then we can figure out as how we're going to get back along by town."
+
+They were just a few strides away from the building when the horse snorted, then
+neighed. "Back me!" Sergeant Gyalpa said instantly, taking his arm from the
+prince's shoulders and drawing his sword.
+
+Prince Thokmay drew his own sword and put his back against the sergeant's.
+"What's happening?" he whispered loudly.
+
+"Dunno," the sergeant said curtly. He stood motionless, scanning the mill, the
+river bank, and the knee-high summer grass. "Can you see anything in the trees?"
+
+The prince swallowed. "No," he said, trying to match the sergeant's calm tone.
+"Nothing except the horse."
+
+"Stay with me," the sergeant ordered the prince. He hop-limped forward, grunting
+each time he had to swing his injured leg. Prince Thokmay stepped backward to
+stay with him, his sword up and his heart pounding.
+
+With a mighty roar, Rust charged at them from behind the mill wall.  The prince
+whirled around as Sergeant Gyalpa swung at her.  The bear swatted Sergeant
+Gyalpa's sword out of his hand, then reared up on her hind legs as he toppled
+backward, cursing.
+
+"Throw it on the ground!" Rust snarled to the prince. "Now!"
+
+"Keep back!" he shouted, lunging at her. She dodged his swing and batted his
+head with her paw. The blow knocked him flat.
+
+He lay there for a moment in a daze while the world swam around him.  As it
+steadied and came back into focus, his head started to pound.
+
+"Your Highness!  Are you all right?" The sergeant shook him.
+
+"He'll be fine," the bear rumbled. She sniffed at the prince's sword, then
+picked it up in her jaws and set it down so that it was leaning against a stone.
+The sword bent slightly as she put her weight on it and then snapped with a
+sharp *crack!*  A moment later, the sergeant's sword made the same sound.
+
+Sergeant Gyalpa helped the prince sit up. "What are you doing along by here?"
+the soldier asked.
+
+"I was about to ask you the same question," the bear said. She glanced over at
+the stand of apple trees, from which the horse was nervously watching them. Rust
+bunched her shoulders and charged at the horse with another huge roar. The horse
+turned and galloped away.
+
+"Stupid animals," Rust muttered under her breath, watching the horse disappear
+over the top of the hill. "Even the Gifted ones are idiots."
+
+Prince Thokmay struggled to his feet, then helped the sergeant stand in
+turn. "Where's my sister?" he demanded coldly.  "What have you done with her?"
+
+"She's down by the river," Rust said, then snarled, "No!" as the prince started
+to go around her. She nodded her head ponderously at the sergeant. "We all go
+together. And we all go *slowly*, you hear? Slowly."
+
+They made their way down the hill to the river bank, the sergeant's arm around
+Prince Thokmay's shoulder and the bear two watchful strides behind them.  When
+the prince tried to mutter a question, the sergeant shushed him.
+
+A sturdy-looking river raft lay hidden in the brambles that had grown up against
+the side of the mill, where the door to the loading dock had once been.
+"Oggie!" Prince Thokmay cried. His sister was sitting in the middle of the raft
+next to a simple lean-to, her face buried in her knees. She still had her
+nightdress on, and a too-large coat and a ragged pair of boots that looked like
+some beggar's cast-offs.  Nothing was left of her long, beautiful hair except
+stubble.
+
+At the sound of her brother's voice her head shot up. "May!" she cried, leaping
+to her feet.
+
+Prince Thokmay shook off Sergeant Gyalpa's arm and started to run. He only got a
+few paces before Rust butted him in the back with her head and sent him
+sprawling.
+
+He heard Ogmin scream as he rolled onto his back and looked straight into Rust's
+angry eyes. She stood over him with one paw on either side of his head. Her
+breath was hot and wet and foul. "I said *slowly*," she rumbled menacingly. "I
+won't say it again."
+
+Prince Thokmay gulped. The bear's jagged teeth were yellowish near their roots,
+but gleaming white at the points. "Sorry," he said weakly.
+
+"Rrrmmm." Rust stepped away so he could stand. "Get on your feet. It's time for
+dinner."
+
+Prince Thokmay helped Sergeant Gyalpa slosh through the knee-deep water to the
+raft, then scrambled up onto the raft and hugged his sister fiercely. "Are you
+all right?"
+
+"I'm sc-scared," his sister said, tears running down her cheeks as she held him
+tight. "I want to go home."
+
+"Sh, sh, sh," he whispered in her ear. "It's all right. It's all right.  I'm not
+going to let anything happen to you." He loosened his embrace and stepped back
+to look at her
+
+Ogmin dropped her eyes. "They---they cut off all my hair," she whispered
+desolately. "I told them Dolly would be mad, but they did it anyway."
+
+The prince felt tears well up in his eyes, but blinked them away.  "It's all
+right," he said again. "You just watch---the day after we get back to Apple
+Bridge, everyone will have cut their hair just as short as yours."
+
+"But I don't want to go back there," Princess Ogmin said. "I hate it there. I
+want to go *home!*"
+
+"So do I," Prince Thokmay whispered. He gave her another hug. "So do I. But we
+can't, not just yet."
+
+The raft dipped to one side as Rust onto it.  "Get off," she ordered Sergeant
+Gyalpa.
+
+"No," the sergeant replied flatly. "I'm staying with Their Highnesses."
+
+The bear snorted. "You can get off and wait for your horse to come back, or I
+can knock you off. It comes to the same thing either way."
+
+Sergeant Gyalpa's jaw set.  "Do as she says, Sergeant," Prince Thokmay ordered.
+"She's right---if she doesn't want you on board, one way or another you're going
+to get off. That's an order," he added, as the sergeant took an angry breath.
+"Once the horse comes back I want you to ride for Apple Bridge and let them know
+what's happened."
+
+"Yes, Your Highness," the sergeant said stiffly, thumping his chest in salute.
+"It has been an honor to serve you." For a moment he looked as though he wanted
+to say something else as well, but then he slid awkwardly off the raft into the
+river.
+
+"Hey!" the bear called. Sergeant Gyalpa turned around.
+
+"Push us off before you go," the bear ordered.
+
+For a moment Thokmay thought the sergeant was going to climb back on the raft
+and strangle Rust with his bare hands. Instead, he looked from the bear to the
+prince.  "Your Highness?" he asked pointedly.
+
+"Go ahead," Prince Thokmay told him. "And good luck getting home."
+
+"Thank you, Your Highness." The sergeant braced his shoulder against the raft
+and pushed with his good leg. The raft barely moved. He grunted as he shoved
+again. This time the raft shifted slightly. A third push got it clear of the
+brambles.  Sergeant Gyalpa stood with the water lapping at his thighs until the
+main current of the Trout caught the raft and took it away.
+
+Prince Thokmay resisted the urge to wave as the sergeant slowly receded into the
+distance behind them. Instead, he put his arm around his sister.  Princess Ogmin
+sniffled again and laid her head on his shoulder.
+
+"Don't worry," Prince Thokmay whispered in her ear. "Sergeant Gyalpa will get
+help. We'll be all right."
+
+The raft bobbed slightly as Rust sat down on her haunches next to the lean-to in
+its middle. "There's food in there," she said, waving a paw at the tarped-over
+collection of boards. "And blankets, if you're cold."
+
+"Thank you, that's very kind," the prince said icily. "I suppose it would be too
+much to ask for a change of clothes and a hot bath as well?"
+
+The bear's nose twitched. "I only planned on having the princess along on this
+trip," she warned the prince. "If you don't mind your manners, I might decide
+that was still the best idea."
+
+The prince bit off an angry response. "Why don't we sit up at the front?" he
+said to Princess Ogmin. "We can play 'I Spy' if you want."
+
+"I don't want to play," she whined, but followed her brother up to the front of
+the raft.
+
+"How about I go first?" the prince said lightly. "I spy, with my little eye,
+something that is---"
+
+"Bears can swim, you know," Rust interrupted from behind them. "We're actually
+pretty good at it.  Even if you could make it to the shore ahead of me, your
+sister probably couldn't."
+
+The prince sat silently for a moment, then put his arm around his sister again.
+"All right," he said. "If you don't want to play, we don't have to."
+
+"I'm hungry," Princess Ogmin said after a few minutes.
+
+The prince twisted around. "Can I get her some food?" he asked Rust.  The bear
+shrugged.
+
+Thokmay knelt in front of the lean-to and pulled out a biscuit bag and a large
+jar of apple sauce. A pair of heavy blankets crumpled together made an
+Ogmin-sized nest under the lean-to. A small straw doll lay beside them.
+
+Prince Thokmay picked up the doll. "What's this?" he asked.
+
+The bear shifted uncomfortably. "I thought it would keep her quiet," she said.
+
+"Hm." Someone had pulled a few strands of straw part-way out of the head to give
+the doll some spiky hair. Prince Thokmay felt tears sting his eyes. He gently
+laid the doll back by the blankets.
+
+Sitting cross-legged beside his sister, he laid some biscuits out on his
+leg. "You're acting more like a nurse than a kidnapper," he observed as he
+spooned apple sauce onto the biscuits. "From what we saw of your friend Muddh, I
+would have expected you to be a lot rougher."
+
+A rumble came from deep in the bear's throat. For a moment Prince Thokmay was
+reminded of the sound that Kulbinder made when he smelled something that he
+didn't like. "He's not my friend," Rust said. "We were just business partners,
+that's all."
+
+"Business partners," the prince echoed neutrally, careful not to look up. Mope
+had taught him this as well---how to leave silences for other people to fill.
+
+The bear rumbled again. "He needed eyes and ears in Apple Bridge, and someone to
+buy supplies for him with the money he got for the things he brought out of the
+Blight. I needed the princess. It seemed like a good exchange."
+
+"You needed the princess," the prince repeated. "Why didn't you need me?"
+
+The bear snorted. "How would I have gotten you?" she asked. "Muddh's magic was
+good enough to get the princess out in the middle of the night, but it wouldn't
+have worked on an adult."
+
+"She's an adult," the prince snapped automatically.  The bear rumbled again.
+
+Thokmay thought furiously as he spooned some more apple sauce. "So why did you
+leave Sergeant Gyalpa behind?" he asked, handing Princess Ogmin a biscuit. The
+princess made a face at it, but took it and bit into it anyway. Prince Thokmay
+supposed that she had been eating a lot of biscuits and apple sauce recently.
+
+"Why would I bring him?" the bear replied. "Nobody cares enough about him for
+him to be a good hostage."
+
+"Bringing him along wasn't the only other option," the prince said, swallowing a
+mouthful of biscuit himself. He glanced at the bear.
+
+She met the prince's eyes. "No sense killing unless you have to," she said.
+"That's more of a human thing."
+
+The prince looked away first. "Maybe," he said. "But I don't see how kidnapping
+us is going to change that." He handed his sister another biscuit. She sat on
+the edge of the raft and scraped the apple sauce off it with her finger, then
+licked the sticky goop off her finger as the river bank went by.
+
+"I don't expect it to," the bear said. "But it will show the Gifted that they
+can fight back if they want to. It will show them that they don't have to suffer
+under laws that humans have made or stay in the cages that humans have put them
+in."
+
+"I don't remember ever seeing a Gifted animal in a cage," the prince said. "Not
+in Gandan, anyway."
+
+"Some cages aren't easy to see," the bear told him, settling back on her
+haunches. "I've been trading in Apple Bridge for almost twenty years, but I
+still have to ask for permission to set up my stall each time I come to town.
+Human traders are allowed to come and go as they please.  Every noble household
+in the Ninety Kingdoms hires Gifted animals, but how many of those animals ever
+become nobles themselves?"
+
+"How many of them would want to?" Prince Thokmay asked, frightened slightly by
+the anger in the bear's voice. "It's not as much fun as most people think."
+
+"Rrrr..." Princess Ogmin jumped at the bear's angry growl and looked at her
+brother fearfully. He patted her shoulder with his hand. "That's what your kind
+always say," Rust rumbled. "Oh, poor us, what we do is so hard, it takes so much
+out of us. The world is better off just letting us run things. Well, do you know
+what's hard, Your Highness?"  The bear almost spat the last two words. "What's
+really hard is watching your son run through with a spear for sport, and knowing
+that the *humans* who did it went off and bragged to their friends that night at
+dinner about what a good day's hunting they'd had."
+
+"If someone murdered your son, why didn't you find a judge and have them brought
+to trial?" the prince asked.
+
+"Because killing ungifted animals isn't murder!" the bear snarled. "Not by human
+law. It doesn't matter if their parents are, or if their parents love them. If
+an animal can't speak, it's fair game."
+
+She pointed at Princess Ogmin, who had covered her ears with her hands.  "But it
+would be murder if I did to her what your kind did to my son, wouldn't it? Why
+is killing an ungifted animal not a crime, but killing an ungifted human is?"
+
+The prince gaped at her. "She's not ungifted!"  he protested. "It's not the same
+thing at all!"
+
+"Oh no?" the bear asked grimly, settling back on her haunches. "Then why does
+she have a nursemaid, instead of a tutor like you do?"
+
+The prince stared at her.  "You're insane."
+
+The bear snorted. "Maybe. But I think a lot of other Gifted will start to see
+things a little more clearly once I show them how."
+
+The prince's mouth had gone dry. "I don't believe you," he said steadily. "If
+you were going to kill my sister, you would have done it by now."
+
+"Rrrr..." Rust scratched her neck. "Shut up and eat your apple sauce. I'm tired
+of talking to humans."
+
+The prince studied her face carefully. "That's what you meant to do, isn't it?"
+he said slowly. "But you couldn't. You couldn't give her a doll to sleep with,
+then... then..."
+
+"I said shut up!" the bear growled. The prince shook his head, then put his arm
+back around his frightened sister.
+
 ========================================
 
 A chapter with Noxy
@@ -1590,7 +1993,7 @@ already made one trade, I might as well make some more."
 The sergeant grunted.  "What made you change your mind, if you don't mind me
 asking?"
 
-The prince shrugged. "When I asked Barramarrabee about it---that's my father's
+The prince shrugged. "When I asked Shorramarrabee about it---that's my father's
 chief magician---he asked me if I really wanted to spend my life giving up
 things I cared about.  When he put it that way, I had to wonder. I asked him why
 anyone would ever become a magician."

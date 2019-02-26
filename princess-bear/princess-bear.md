@@ -296,7 +296,7 @@ these days."
 
 The prince shrugged. "Thanks," he said, his voice breaking again. "But Sergeant
 Gyalpa is really in charge.  You'll meet him when we get to town. And Sergeant
-Ranneda too---she's our magician. Mostly I just try to stay out of their way."
+Raneda too---she's our magician. Mostly I just try to stay out of their way."
 
 "Well, you sounded pretty convincing to me," Noxy said. She lowered her voice
 half an octave. "You two keep an eye out."
@@ -410,7 +410,7 @@ to remember people's names. That had been a year ago. No-one had seen him since.
 No-one expected to.
 
 The prince pretended not to notice the change in Noxy's voice. "It is," he said.
-"The magician who was here before Sergeant Ranneda managed to refresh it a few
+"The magician who was here before Sergeant Raneda managed to refresh it a few
 years ago, but it cost her the sight in one eye."  He shook his head. "I know
 they're all volunteers, but it's still a lot to ask."
 
@@ -487,7 +487,7 @@ the months since.
 
 "Am I interrupting, Your Highness?" the sergeant asked from behind him.
 
-The prince jumped.  "No!  I mean, not really.  Any word from Sergeant Ranneda?"
+The prince jumped.  "No!  I mean, not really.  Any word from Sergeant Raneda?"
 
 "Yes *sra*," the sergeant said.  "She and her troop got along back this
 afternoon.  They were gone six days, near as they can figure."
@@ -1080,7 +1080,7 @@ name Apsu? The prince couldn't remember, though he prided himself on knowing
 names.  He suddenly felt exhausted.
 
 Boots pounded in the planked stone corridor. "Your Highness, are you all by
-right?"  Sergeant Ranneda asked before pulling herself up short and sniffing the
+right?"  Sergeant Raneda asked before pulling herself up short and sniffing the
 air. "There's been a ghost along here," the garrison's magician said flatly.
 
 The prince nodded. "I know," he mumbled, still shivering.  Disconnected thoughts
@@ -1098,7 +1098,7 @@ soup...
 the hallway.  He was wearing his boots and a striped cotton nightshirt, and had
 his sword in his hand. "Your Highness, are you---"
 
-"It was Badam come along," Sergeant Ranneda told him.  She picked up a shard of
+"It was Badam come along," Sergeant Raneda told him.  She picked up a shard of
 dayglass from the desk and turned it over in her hand.  "He's getting stronger."
 
 Sergeant Gyalpa scowled and lowered his sword. "Get back to bed," he ordered the
@@ -1118,7 +1118,7 @@ hand.  "Something *really* bad."
 tell us straight?"
 
 "I'm so more worried as that he's coming clearer instead of going along fade,"
-Sergeant Ranneda said, still studying the shard of dayglass in her hand.  Her
+Sergeant Raneda said, still studying the shard of dayglass in her hand.  Her
 husky voice seemed at odds with her slight frame.  "Should have moved along
 since ages by, before we were either born.  Why's he coming stronger?  And how?"
 
@@ -1143,12 +1143,284 @@ The middle of the book goes here :-)
 
 ========================================
 
+## Missing!
+
+Noxy was woken by a frantic knock.  "His Highness needs you right away,
+honored," the maid said, hurrying away before Noxy could answer.
+
+She pulled on her clothes and took the stairs two at a time.  The garrison house
+was in uproar.  Soldiers were looking in closets while the servants tried
+frantically to remember if they had forgotten about any secret passages.
+Standing in the entrance hall with his battle mask in his hand, the prince
+snapped, "Well, she can't have just turned into a frog and hopped away, can
+she?"
+
+"I doubt by that, Your Highness," Sergeant Raneda said, standing at attention
+through sheer force of will, her face still drawn from exhausting herself the
+day before..  "Magic along by that powerful would have woken me.  And even if it
+didn't, it would have such to my apprentices as certain."
+
+"She loves to go down by the docks and watch the river rafts," Dolly fretted.
+"She might have fallen in, or... or..."
+
+"Now mother, I'm sure she's all right." Mope patted her shoulder awkwardly, even
+though he looked no less worried than she did.  He glanced up as Noxy arrived,
+then spoke to Sergeant Raneda.  "All of Her Highness's belongings are up in her
+room.  Can't you use them to find out where she's been taken?"
+
+"What makes you think somebody took her?" Prince Thokmay asked.
+
+"Er, well..." Mope said, suddenly flustered, "Isn't it obvious?  She's never
+wandered away before, certainly not in the middle of the night.  And the
+smugglers have grown bolder, Your Highness, you can't argue with that, not after
+yesterday.  I just thought---well, I just thought..." He flapped his hands
+instead of finishing his sentence.
+
+"You could be right," the prince said grimly.  "Manpa! *Manpa!* Where in
+the---oh, there you are.  My compliments to Sergeant Gyalpa.  I want squads
+north and south along the main road *now*.  Have them knock on every door and
+ask if anyone saw any strangers last night."
+
+"Sir, I believe by he's already sent along some by, sir," the soldier replied,
+saluting.
+
+"Well then have him send some more!"
+
+"Sir!" The soldier saluted again and jogged away.
+
+Prince Thokmay suddenly noticed Noxy.  "I'm glad you're awake," he said curtly.
+"Is Cloak well enough to fly? You might have more luck spotting her from the
+air."
+
+"I'll go and look," Noxy said.
+
+"I'll come with you," Mope volunteered.  "I'm certainly not much use standing
+around here." He patted his mother's shoulder again.  "I'm sure she'll be all
+right," he said softly.  "No-one would hurt her."  Dolly put her hand on her
+son's and tried to smile.
+
+Cloak was already floating a few feet above the ground in his pen, his edges
+bunching and clumping with agitation.  He could sense how worried she was, Noxy
+realized, even without her mind-speaking to him.  "Do you really think smugglers
+have kidnapped the princess?"  she asked Mope as she ran her hands over the
+cloud's flank to soothe him.
+
+Mope tugged his lower lip worriedly, forcing his hands back down to his sides in
+embarrassment when he noticed Noxy watching him.  "They might have done, they
+might have done.  Oh, I hope she's all right.  My mother would---well, it would
+be terrible, that's all."
+
+Noxy patted Cloak's flank again.  Years ago, her mother had shown her that if
+you looked straight at something in the dark, you probably wouldn't see it, but
+if you looked away, it would show up in the corner of your eye.  Her ability she
+had seemed to work something like that.  If she tried to feel Cloak's injury,
+nothing happened, but if she let her mind wander... The spot where the branch
+had torn through him still ached, but it was a dull bruisy kind of pain, not
+sharp-edged.  He could fly, and she could mind-hear how much he wanted to.
+
+She took a deep breath.  "Come on.  He can take us up as long as we don't push
+him too hard." She grabbed a double handful of cloud and pulled herself up onto
+Cloak's back.
+
+"Um..." Mope hesitated.
+
+Noxy lay down flat and stretched out her arm.  "Hurry up!" she said impatiently.
+
+The orangutan gulped and then took the offered hand to clamber up onto the
+cloud.  He gulped again as Cloak began to rise.
+
+A few moments later they were above the rooftops.  "Do you see anything?" Noxy
+asked.
+
+"Only the insides of my eyelids," the orangutan muttered.  Taking a deep breath,
+he opeed his eyes and looked cautiously over the edge of the cloud.  "What am I
+supposed to be looking for, exactly?"
+
+"Anything," Noxy said.  "Anything at all."
+
+They flew in a slow circle over Apple Bridge, scanning the town for any sign of
+the missing princess.  Not for the first time, Noxy wished she had Grappa Gas's
+treasured eagle eye.  He had claimed it wasn't magic, but when Noxy had looked
+through the twin pieces of curved glass in their polished brass tube, she had
+been able to count the trees on the other side of the valley.
+
+"Look!" Mope said excitedly.  "Over there!  Those soldiers---they've got someone
+with them! And they're heading straight for the house.  They must have found
+something!"  Sure enough, two uniformed soldiers were hurrying back to the
+garrison house with a third man on a stocky pony between them.
+
+Noxy leaped off Cloak as he touched down and raced across the courtyard while
+Mope awkwardly dismounted.  The prince was still in the entrance hall, his
+battle mask still in his hand.  "What's happened?" he demanded.  "Did you find
+her?"
+
+"No, but someone's coming up the road," Noxy said breathlessly.  A heartbeat
+later the door banged open.  Sergeant Gyalpa strode in with two soldiers and a
+middle-aged man with long, greasy hair.
+
+"Your Highness," Sergeant Gyalpa saluted.  "This is Dobchang.  He says he saw a
+bear pulling a wagon out of town after moonfall last night."
+
+"That's right, Your Highness," the man said, nodding vigorously.  "She were a
+big one, almost as big along as the wagon, and she looked as grouchy as all
+get-along."
+
+"Never mind how she looked," the prince said impatiently.  "Was anyone with
+her?"
+
+"Just a fellow from along by the market," Dobchang said helplessly.  "I don't
+know his name, but I see him along often enough.  Skinny as a rake, he is."
+
+"That's Muddh!" Noxy exclaimed.  "He was in the market!  He gave the princess
+a ribbon---"
+
+"---and a ring," the prince finished.  He thumped a fist against his thigh.  "He
+even *told* us it was magical!"
+
+"Now, a moment, Your Highness, a moment," Mope cautioned.  "You're letting
+feeling run ahead of logic."
+
+"This isn't a time for lessons!" the prince snapped.  He glared at the troll for
+a moment, then unclenched his fists and said, "I'm sorry.  I shouldn't have
+yelled.  What were you going to say?"
+
+"I was just going to say that we don't actually know whether this person has
+anything to do with your sister's disappearance," Mope replied quietly.
+"Perhaps he and the bear wanted to be on the morning ferry at Two Pears.  Or
+wanted to, um, to circumvent the gate fees that traders are supposed to pay?  It
+could mean nothing."
+
+Everyone was silent.  "I'm---I'm sorry I don't know more, Your Highness,"
+Dobchang finally said awkwardly.
+
+The prince shook his head.  "No, you've been very helpful.  The sergeant here
+will see to it that you are rewarded."
+
+The man drew himself up.  "Thank you, Your Highness, but there's no need for
+such."
+
+"As you wish," the prince replied.  "But I hope you'll accept my gratitude."  He
+held out his hand.  Dobchang hesitated, then shook it.
+
+As one of the soldiers showed him out, a smile twitched at the corner of the
+prince's mouth.  "Back in the capital, he'd spend the rest of his life telling
+everyone a prince shook his hand," he said to Noxy.  "Around here, he'll spend
+the rest of his life telling everyone how it wasn't such a big deal."
+
+"Excuse me, Your Highness," Sergeant Raneda interrupted, "But you said that the
+man in the market gave Her Highness a ribbon."
+
+"Yes, a blue one," the prince confirmed bitterly.  "I thought he was just trying
+to curry favor."
+
+"Do you still have it?" Sergeant Raneda asked.
+
+The prince raised his eyebrows at Dolly.  "I think so," she said.  "Yes, I'm
+sure of it---it's upstairs on the her dresser."
+
+"If she has some of it along by her, I might be able to fit up a tracking
+spell," Sergeant Raneda said.
+
+The prince and Sergeant Gyalpa exchanged looks.  "Thank you," Thokmay said, "But
+you can barely stand up---I can't ask that of you."
+
+Sergeant Raneda straightened up.  "With respect, Your Highness, you don't have
+to ask me to do my duty."
+
+Dolly didn't need any more urging.  As she trotted up the stairs the sergeant
+called out, "And as well if Highness's hair brush could be brought along down?"
+She turned to one of the soldiers standing beside her.  "See if you can find my
+apprentices.  Have them meet me in the front courtyard in ten minutes."  With a
+slight bow of her head to the prince, she added, "If you will excuse me, Your
+Highness? I'll need a few things."
+
+"Of course," the prince said.  "Thank you."
+
+As she walked away, he turned to Sergeant Gyalpa.  "She looks half-dead."
+
+"She can stand it, Your Highness," Sergeant Gyalpa replied gruffly.
+
+Ten minutes later, a dozen people stood by the water trough in the front
+courtyard of the garrison house.  Some of the soldiers had put on full armor as
+if they expected an invasion, and one had a coil of rope slung across his chest
+like a sash.
+
+Sergeant Raneda's two apprentices, both fresh recruits from Apple Bridge,
+watched nervously as she took the rolled-up ribbon from Dolly and set it on a
+small piece of wood.  "You have to put the fresh-cut end along by the center of
+the block," the sergeant said, whether to the apprentices or herself Noxy
+couldn't tell.  "It's easy to forget that, but if you do, the spell works along
+backwards and tells you where the thing you're looking for *isn't*."
+
+She put the block of wood in the water, then waited until it stopped bobbing up
+and down.  Once it settled, she unwound a few strands of hair from Princess
+Ogmin's brush and put them on another block of wood.  "Make sure there's nothing
+as dangles," she said.  "See? Nothing in the water to mix everything up." This
+block went in at the trough's other end.
+
+"Now..." Sergeant Raneda took a deep breath, closed her eyes, and began to
+mutter too softly for the bystanders to hear. After a moment she stopped, her
+bargain struck.  The two blocks started bobbing toward one another until they
+met in the middle of the trough with a faint click.
+
+Sergeant Raneda cleared her throat.  "She's with whoever has that roll of
+ribbon," she rasped.
+
+"Can you tell us where that is?" the prince asked.
+
+Sergeant Raneda nodded.  "The green box," she ordered one of her apprentices,
+her voice still rough.  "We'll try the easy way first."
+
+A dozen ordinary-looking stones lay a tray inside the box, each with a neat
+hand-written label pasted beside it.  The apprentice set the stones around the
+edge of the trough, spacing them out as evenly as he could.  As he did so,
+Sergeant Raneda took out the block with Ogmin's hair on it and handed it to her
+other apprentice.
+
+"Won't it be more accurate to look for Her Highness, rather than the ribbon?"
+the second apprentice asked hesitantly.
+
+"I think I know by what I'm doing," Sergeant Raneda whispered curtly.
+
+The apprentice swallowed.  "Yes, sergeant."  She stepped away from the trough.
+
+"Ready here, ma'am," the first apprentice said.  Sergeant Raneda nodded and took
+another deep breath.
+
+Nothing happened, and then nothing, and then the block of wood began to float
+toward one side of the trough.  When it hesitated, Sergeant Raneda said, "Take
+up as the middle stone.  No, not that one, the *middle* one, to your left!"
+
+As soon as the apprentice removed the stone, the block of wood nosed toward a
+flat, blue-gray piece of slate.  When it bumped against the side of the trough,
+Sergeant Raneda sagged.  "That's it," she said, her voice almost inaudible.
+
+"Carmick Hill, sergeant," the apprentice reported.  His eyes widened.  "She's in
+the Blight!"
+
+Dolly and Noxy gasped.  Sergeant Gyalpa clenched his jaw.  "Don't worry, Your
+Highness," he said.  "We'll find her."
+
+"Yes we will," the prince said, looking at Sergeant Raneda with pity in his
+eyes.  He shook himself.  "Sergeant, I want four squads on horse and ready to
+leave *now*.  Full gear and overnight packs.  Manpa! Manpa, where---there you
+are.  Bring down myarmor, and whatever maps we have of that part of the Blight."
+
+As the soldiers scattered about their tasks, the prince turned back to Sergeant
+Raneda.  "Thank you," he said.  "I hope...  I hope it didn't take too much."
+
+The sergeant looked past his shoulder.  "My tenth name day, Your Highness."
+Before Thokmay could answer, she swayed slightly on her feet.  "With your
+permission, I think I should go and rest."
+
+"Of course," the prince said.  "Take all the time you need."
+
 ## Into the Blight
 
 Noxy hadn't realized how many soldiers were in Apple Bridge until she saw them
 all standing at attention in the front courtyard in four ruler-straight rows.
 She started counting, but stopped when Mope muttered, "Eighty, plus Sergeant
-Ranneda and her two apprentices, and Gemby over there. He's not part of the
+Raneda and her two apprentices, and Gemby over there. He's not part of the
 troop's regulation fighting strength any more, not since he lost his leg, but he
 keeps the horses happy."
 
@@ -1173,7 +1445,7 @@ then.  Sergeant?"
 "Yes, Your Highness!"
 
 The prince pointed at the men standing to his right. "These four squads are with
-us. The others will stay here with Sergeant Ranneda."
+us. The others will stay here with Sergeant Raneda."
 
 "Yes, Your Highness," the sergeant replied.  "Reeee-*spect!*" As one, the
 soldiers thumped their right fists against their chests and roared "Gandan
@@ -1189,14 +1461,14 @@ do?" he asked, his voice cracking.
 proud of you. I certainly am," he added quietly.
 
 "Are you sure it's wise to take so few, Your Highness?" a soft voice asked from
-behind Noxy, making her jump. Sergeant Ranneda gestured at the men marching
+behind Noxy, making her jump. Sergeant Raneda gestured at the men marching
 away.  "It is by your sister as we're looking for."
 
 "My father would want me to deal with this like a soldier," the prince replied
 evenly.  "Not like a frightened child. Anything could happen if I leave too few
 here to guard the town." He studied the magician for a moment. "Are you...?"
 
-Sergeant Ranneda nodded in answer to his unfinished question. "I'm by well
+Sergeant Raneda nodded in answer to his unfinished question. "I'm by well
 enough, Your Highness. But please, take along with both of my apprentices. I can
 handle whatever might happen along by here while you're gone."
 
@@ -1226,7 +1498,7 @@ Sergeant Gyalpa grunted.  "I did.  Might have married her, once along a time,
 but then was then and long gone by."  His horse's hooves clopped on the
 cobblestones.  "Maybe I'll look along by her when we're back."
 
-"Maybe you could introduce her to Sergeant Ranneda," the prince said drily,
+"Maybe you could introduce her to Sergeant Raneda," the prince said drily,
 smiling beneath his battle mask at the sergeant's grunt.
 
 All too soon the city wall was behind them.  The air smelled fresh or of freshly
@@ -1983,7 +2255,7 @@ come.
 with his sword toward a small clump of trees. "Twisted, like them. Something
 that looks like it's along by a hundred yards away can take you all day to get
 to.  Or it's so far on as you can barely see it, but you take ten steps and
-there you are.  Ranneda says it's something to do by how the magic bends the
+there you are.  Raneda says it's something to do by how the magic bends the
 light."  He shook his head. "I don't pretend to have the understanding of it."
 
 "Nor I." He paused. "I thought about becoming a magician once, you know," he
@@ -2237,7 +2509,7 @@ He sniffled and wiped his nose. "I couldn't see anything," he said. "I mean, out
 there."
 
 "I couldn't either, Your Highness" the sergeant said. "You were just stumbling
-around, it looked like." He frowned. "Sergeant Ranneda told us once that there
+around, it looked like." He frowned. "Sergeant Raneda told us once that there
 are safe roads in the Blight. The Pilots built them so they could cart stuff in
 along to Fast Lake. Maybe this was one of them."
 
@@ -2371,12 +2643,12 @@ didn't you? What happened to it?"
 "What happened to the dam?" Prince Thokmay broke in. "We saw the wave..."
 
 "Oh, the dam, the dam," Nangyal said with a wave of his hand. "I'm sure it's
-still there. The river would be a *lot* more lively right now if Ranneda had
+still there. The river would be a *lot* more lively right now if Raneda had
 managed to bring it down. It's too bad---we worked a long time for this."
 
-"Ranneda?" the prince said blankly. "*Sergeant* Ranneda?"
+"Raneda?" the prince said blankly. "*Sergeant* Raneda?"
 
-"Oh, yes, *Sergeant* Ranneda," Nangyal agreed. He sighed. "I don't suppose she
+"Oh, yes, *Sergeant* Raneda," Nangyal agreed. He sighed. "I don't suppose she
 could have survived. She got that from our mother, you know. She never learned
 how to give up either."
 
@@ -2674,7 +2946,7 @@ Dolly pack, all right?"
 "I'll help!" she promised. She ran out of the room. "Did you hear? Did you?" he
 heard her say.
 
-It wasn't Dolly who answered. "What's happening?" Ranneda asked uncertainly.
+It wasn't Dolly who answered. "What's happening?" Raneda asked uncertainly.
 Prince Thokmay stared down at his letter as Princess Ogmin tried to explain. The
 sergeant had been unconscious for two days after the fight at the dam. When she
 had awaken, her mind had been as clear and as empty as a baby's. It had only
@@ -2683,7 +2955,7 @@ then had been slow. She seemed to remember nothing of her former life, and her
 former apprentices said she probably never would.
 
 Princess Ogmin was still in the middle of her description of the wonderful
-things to eat in the capital when Ranneda interrupted. "Do you think we should
+things to eat in the capital when Raneda interrupted. "Do you think we should
 call this one Rose?" she asked. "Or Lily?"  The prince could imagine her holding
 up one of Ogmin's many dolls.
 

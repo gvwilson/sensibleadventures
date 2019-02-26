@@ -4,7 +4,7 @@ title: Shapers and Bots
 permalink: /shapers-and-bots/
 ---
 
-*Shapers and Bots* is a role-playing game for children age 8 and older
+*Shapers and Bots* is a role-playing game for children 8 and older
 inspired by *Dungeons & Dragons*,
 *Avatar: The Last Airbender*,
 and every animal that ever walked upright and wore clothes
@@ -14,7 +14,7 @@ Each player takes on the role of one **[character](#g:character)**,
 while the Director plays all the other characters,
 who are called **[extras](#g:extra)**.
 The Director can be an adult,
-but children age 10 and older can also be Directors.
+but children age 12 and older can also be Directors.
 
 These rules focus on storytelling rather than realism.
 Dice rolls are kept simple,
@@ -97,13 +97,12 @@ and negative if they're lower.
 A positive rating is sometimes called a **[bonus](#g:bonus)**,
 and a negative one is sometimes called a **[penalty](#g:penalty)**.
 
-> **Example:**
 > Gertrude is big and healthy,
 > so she has bonuses for Size and Fitness,
-> but not good with her hands,
-> which means a penalty for Dexterity,
-> and like most elephants is somewhat near-sighted,
-> which means a penalty for Awareness.
+> but she's not good with her hands,
+> so she has a penalty for Dexterity.
+> Like most elephants she is somewhat near-sighted,
+> which means a penalty for Awareness as well.
 > Her ratings are:
 > - Size: +3
 > - Fitness: +1
@@ -112,11 +111,10 @@ and a negative one is sometimes called a **[penalty](#g:penalty)**.
 > - Awareness: -1
 
 Every character also has a feature called **Strength** (abbreviated STR)
-which is the sum of their Size and Fitness ratings.
-Big characters tend to be stronger than small ones,
+which is the sum of their Size and Fitness ratings:
+big characters tend to be stronger than small ones,
 but characters who aren't fit aren't as strong as characters who are.
 
-> **Example:**
 > Gertrude's strength is +4.
 > Her cousin Norwin, on the other hand,
 > has a Size of +4 (he's bigger than Gertrude) but a Fitness of -2 (he never exercises),
@@ -131,17 +129,16 @@ difficult challenges have negative ratings (penalties),
 while easy challenges have positive ones (bonuses).
 
 If a character tries to do a challenge,
-the player rolls three dice,
-adds up their results,
+her player rolls three dice,
+adds up the results,
 and then adds their rating and the challenges's rating as well.
 If the total is 10 or less,
 they have failed;
 on 11 or more,
 they have succeeded.
 
-> **Example:**
 > Gertrude is trying to take apart the clockwork timer on a small bomb.
-> The challenge's difficulty is -1, and her Dexterity is -2.
+> The challenge's rating is -1, and her Dexterity is -2.
 > She rolls 3 dice and gets 5, 4, and 2, for a total of 11;
 > after subtracting 1 for the difficulty and 2 for her poor Dexterity,
 > her total is only 8,
@@ -151,28 +148,27 @@ We often write "3D+X" or "3D-X" to mean
 "three dice plus or minus X",
 so the roll above would be written "3D-3".
 
-> **Example:**
 > Panicking slightly,
 > Gertrude decides to try smashing the timer.
 > The Director decides that the difficulty is 0
->(it's neither particularly tough or fairly fragile),
-> and her Strength is +4,
-> so Gertrude needs to get 11 or more or 3D+4.
+> (it's neither particularly tough or fairly fragile).
+> Gertrude's Strength is +4,
+> so she needs to get 11 or more or 3D+4.
 > She rolls 3 dice and gets a total of 11 once again.
-> After adding 4 for her Strength, her total is 15,
+> After adding 4 for her Strength her total is 15,
 > and the delicate clockwork is now so much scrap metal.
 
 If the total adjustment for a challenge
 (i.e., the character's rating plus the challenge's difficulty) is positive,
 and the outcome isn't critical to the game,
 the Director can decide that the characer gets an **[automatic success](#g:automatic-success)**.
-For example,
-suppose Gertrude wants to lift a crate of chocolates.
-Gertrude's Strength is +4
-and challenge's difficulty is -1 (the crate is larger than average, but not remarkably so)
-for a total bonus of +3,
-so the Director decides the player can skip the dice roll.
 This rule helps keep the game moving.
+
+> Gertrude wants to lift a crate of chocolates.
+> Gertrude's Strength is +4
+> and the challenge's difficulty is -1 (the crate is larger than average, but not remarkably so).
+> The total bonus is +3,
+> so the Director decides Gertrude's player can skip the dice roll.
 
 ## Flukes and Fumbles
 
@@ -183,12 +179,11 @@ If a player rolls a total of 17 or 18---that is, two 6's and a 5 or three 6's---
 but probably not in the way they expected.
 This is called a **[fluke roll](#g:fluke)**.
 
-> **Example:**
-> Zitter had never even *seen* a laser pistol before today,
+> Zitter had never even *seen* a laser pistol sixty seconds ago,
 > but as the deranged one-eyed crocodile pirate charges toward her,
 > she picks up the one she just found and frantically starts pushing buttons.
-> The Director decides that finding the right combination of buttons has a difficulty of -10.
-> Zitter rolls a triple 6:
+> The Director decides that finding the right combination of buttons has a rating of -10.
+> Zitter rolls three 6's:
 > somehow,
 > her fumbling fingers found the right buttons
 > and she put a neat hole through the surprised crocodile.
@@ -202,14 +197,13 @@ This is called a **[fluke roll](#g:fluke)**.
 Fluke rolls work in reverse as well,
 because it's always possible for something to go wrong.
 If a player rolls a total of 3 or 4---i.e., three 1's or two 1's and a 2---they
-automatically fail at whatever they were trying to do,
-preferably in some hilarious or embarrassing way.
+automatically fail at whatever they were trying to do
+in some hilarious, embarrassing, or fatal way.
 This is called a **[fumble](#g:fumble)**.
 
-> **Example:**
 > Another day, another angry crocodile pirate...
-> Zitter still hasn't figured out how to use her laser pistol,
-> but when she tries to take a shot,
+> Zitter thinks she has figured out how to use her laser pistol,
+> but when she takes a shot,
 > her player rolls a 3.
 > "Self-destruct initiated", the Director says in a mechanical voice.
 > "Ten... nine... eight..."
@@ -223,20 +217,178 @@ and whoever has the higher score wins.
 If there is a tie,
 the Director rules on whether the contest continues or whether something unusual happened.
 
-> **Example:**
 > Gertrude and Norwin are arm-wrestling.
-> Gertrude rolls 8, giving her a total of 12 (since her Strength is +4).
-> Norwin rolls 10, giving him the same total (since his Strength is only +2),
+> Gertrude rolls 8; her Strength is +4, so her score is 12.
+> Norwin's Strength is +2; he rolls 10, giving him a score of 12 as well,
 > so the Director decides that they are still locked in combat.
 > When they re-roll, they both get 11's.
 > After adding their Strengths,
 > Gertrude's score is higher,
 > so she wins.
 
+## Combat
+
+Once a fight starts,
+everything happens in turns that are 5 seconds long in game time.
+In each turn,
+characters act in order of Fitness,
+with highest Fitness going first.
+If two or more characters are tied,
+use a contest once at the start of the fight
+to see who goes first for the duration of that fight.
+
+In their turn,
+a character can take two actions.
+Each of the following counts as one action:
+
+-   Attack someone.
+-   Defend against an attack (see below).
+-   Pick something up. (Dropping something doesn't count as an action.)
+-   Draw a weapon.
+-   Run from one place to another (see below).
+
+Characters can only attack once per turn,
+even though they have two actions.
+
+Reloading a weapon counts as one or more actions depending on the type of weapon.
+For example,
+getting another arrow from a quiver counts as one action
+(which means archers can fire one shot per turn,
+since shooting counts as their other action).
+Reloading a crossbow,
+on the other hand,
+requires several actions,
+and so takes several turns.
+
+For each attack,
+the attacker declares who or what they are attacking,
+and the target says whether they are going to use one of their actions for defense.
+If the defender *isn't* using an action for defense,
+the attacker succeeds if they win a regular roll.
+If the defender *is* using an action for defense,
+the attack succeeds if the attacker makes their roll
+*and* the defender misses a roll.
+This is different from a regular contest roll:
+the attacker doesn't have to beat the defender's roll---the
+attacker has to succeed and the defender has to fail.
+
+> Yoshi has a rating of +3 for fencing
+> and her opponent Lin has a rating of +1.
+> Yoshi attacks first and rolls a total of 6.
+> Even with her +3 bonus,
+> that's only 9,
+> so she has missed and Lin doesn't need to roll for defense.
+>
+> Now it's Lin's turn.
+> She rolls a total of 11;
+> adding her bonus of +1 gives her 12, so she has hit.
+> Yoshi rolls 10; adding her bonus gives 13,
+> so she has parried the blow.
+>
+> Yoshi attacks again in the next turn.
+> This time she rolls 12, for a total of 15---a hit!
+> Lin rolls 5, for a measly total of 6:
+> her parry has failed,
+> and she has been hit.
+
+There are a few special cases:
+
+1.  If an attack is a complete surprise,
+    the defender doesn't get a defense roll.
+
+2.  If the target hasn't had their turn yet,
+    their defense uses up an action for that turn
+    (i.e., if they defend themselves against an attack,
+    they can only use one other action when their turn comes around).
+
+3.  If the target has already used all of their actions,
+    they can borrow an action from their next turn to use for defense.
+
+Flukes and fumbles count when attacking and defending:
+a fluke attack always succeeds,
+while a fumble always misses.
+(And yes,
+if someone gets a fluke when attacking
+and their opponent gets a fluke when defending,
+the defense has succeeded.)
+
+## Health and Injury
+
+Every character starts the adventure with a number of **[health points](#g:health-point)** (HP)
+equal to 3 + their Strength.
+(If a character's Strength is -3 or less, they still get 1 HP.)
+Every time a character is injured,
+their character must win a challenge roll with their HP *before* the injury as a bonus
+and the amount of the damage as a penalty.
+If they fail the roll,
+they have been knocked out.
+Regardless of the roll's outcome,
+they always lose that many HP.
+A character dies when:
+
+-   Their HP goes negative.
+-   They fail an injury challenge roll by 4 points or more.
+
+> Alouenne is a kangaroo with a Strength of +2,
+> so she has 5 HP.
+> As the tunnel collapses around her,
+> she is hit by a falling rock that does 1 point of damage.
+> She needs to win a roll with a +4 bonus (+5-1) to stay conscious.
+> She rolls 9 on 3D, giving her a total of 13.
+> She has won her roll,
+> but is now down to 4 HP:
+> remember,
+> even if the character wins their roll,
+> they still take damage.
+>
+> A second, larger piece of the ceiling now drops on her head and does 2 points of damage.
+> She needs to win a roll with a +2 bonus;
+> rolling 7, her total score is 9,
+> so she fails and is knocked unconscious.
+> She is also now down to 2 HP.
+>
+> The rocks keep falling.
+> The next one to hit her does another 2 points of damage.
+> She needs to win a roll without any bonus at all to stay alive.
+> She rolls 12,
+> but is down to 0 HP.
+> One more big rock, and Alouenne will be out of the game...
+>
+> Pietro rushes in to save Alouenne.
+> He is already down to 3 HP after a previous fight,
+> and a particularly big rock lands on him before he can reach her.
+> It does 3 points of damage,
+> so he needs to win a challenge roll without any bonus.
+> He rolls 5,
+> missing the required 11 by 6 points.
+> Pietro is a goner.
+
+## Healing
+
+Someone who is knocked unconscious can try to regain consciousness
+once per minute by winning a challenge roll with their Strength as a bonus (or penalty).
+It's up to the Director to decide if they have to keep making injury rolls because of their wounds.
+
+> While Gertrude is going through Alouenne's gear to see if she has anything worth stealing,
+> Alouenne's player rolls three dice and gets 11.
+> After adding +2 for her Strength the total is 13,
+> which is enough for her to regain consciousness.
+> Quietly, she reaches for her dagger...
+
+## Weapons
+
+Weapons do damage (that's kind of the point).
+
+FIXME
+
+## Armor
+
+FIXME
+
 ## Species
 
 Every living character belongs to a **[species](#g:species)**.
-They all stand upright, speak, and have hands and fingers,
+They all stand upright, speak, and have hands,
 but they also have fur (or feathers) and their feet look like animals' feet.
 Different species have different default values for the seven features,
 which are shown below.
@@ -445,7 +597,7 @@ Some trim their long claws to improve their Dexterity,
 but most accept their lot philosophically
 and return to thinking about deeper things.
 
--   If a Sloth is a shaper, they start with a Low rating instead of Very Low.
+-   If a Sloth is a shaper, they start with a -2 rating instead of -4.
 
 ### Tiger
 
@@ -469,7 +621,7 @@ Slow-moving and short-sighted,
 turtles are natural shapers.
 
 -   Shell counts as natural armor (with no attack penalty).
--   If a Turtle is a shaper, they start with a Low rating instead of Very Low.
+-   If a Turtle is a shaper, they start with a -2 rating instead of -4.
 -   Can hold their breath for 15 minutes.
 
 ### Wolf
@@ -507,17 +659,15 @@ Players can get extra points to distribute by *lowering* ratings as well:
 they may lower any rating by 1 or 2 points,
 so long as the total lowered is no more than 3 points.
 
-> **Example:**
 > Garree is a 15-year-old goat.
 > Her default rating is zero for everything,
 > but her player decides to lower her Size by 1 point
-> and distribute 6 points evenly across Fitness, Dexterity, and Intellect:
+> and to distribute 6 points evenly across Fitness, Dexterity, and Intellect:
 >
 > | SIZ | FIT | DEX | INT | AWR |
 > | --: | --: | --: | --: | --: |
 > | -1  | +2  | +2  | +2  | 0   |
 
-> **Example:**
 > The same player makes different decisions for Garree's brother Gruff.
 > His Awareness is reduced 2 points and his Intellect by 1 point,
 > which gives him 8 points to distribute to other features.
@@ -590,6 +740,7 @@ along with a character's initial rating:
 | **Stealth**     | FIT - SIZ | moving without or being noticed |
 | **Swimming**    | STR - 3   | keeping your head above water |
 | **Throwing**    | FIT       | how far and how accurately |
+| Tracking        | AWR       | or the best of their sight or smell |
 | Trapping        | -5        | making traps that work |
 | Tunnelling      | -3        | digging tunnels that don't collapse |
 | Ventriloquism   | None      | throwing your voice |
@@ -603,7 +754,6 @@ their Stealth is +1,
 but if their Size is -1,
 their Stealth is +3.
 
-> **Example:**
 > Garree's features are:
 >
 > | SIZ | FIT | DEX | INT | AWR |
@@ -633,9 +783,6 @@ Specialties within each must be mastered separately:
 | Lore            | None      | history, a language, mathematics, etc. |
 | Weapon          | FIT - 5   | sword, spear, pistol, bow, etc. |
 
-Finally,
-someone's initial skill in Tracking is the best of their Sight, Hearing, or Smell.
-
 ### Choosing Skills
 
 When a player is creating a character,
@@ -652,7 +799,6 @@ they only have 8 points to spend on skills
 -   Each raise thereafter costs 1 point, up to an increase to +3.
 -   Every raise after +3 costs 2 points.
 
-> **Example:**
 > Garree's features are:
 >
 > | SIZ | FIT | DEX | INT | AWR |
@@ -710,191 +856,11 @@ can be a quest in its own right.
     in order to blend into their surroundings.
     This gives them an extra +2 Hiding at no cost.
 
-## Combat
-
-*Shapers and Bots* tries to keep combat simple.
-Once a fight starts,
-everything happens in turns that are 5 seconds long in game time.
-In each turn,
-characters act in order of Fitness,
-with highest Fitness going first.
-(If two or more characters are tied,
-use a contest roll once at the start of the fight
-to see who goes first for its duration.)
-
-In their turn,
-a character can take two actions.
-Each of the following counts as a single action:
-
--   Attack someone.
--   Defend against an attack (see below).
--   Pick something up. (Dropping something doesn't count as an action.)
--   Draw a weapon.
--   Run from one place to another (see below).
-
-Reloading a weapon counts as one or more actions depending on the type of weapon.
-For example,
-getting another arrow from a quiver counts as one action
-(so archers can fire one shot per turn).
-Reloading a crossbow,
-on the other hand,
-may require several turns.
-
-Each attack is treated as a contest:
-
-1.  The attacker declares who or what they are attacking.
-2.  The target says whether they are going to use one of their actions for defense.
-3.  If the defender *isn't* using an action for defense,
-    the attacker succeeds if they roll their rating with the appropriate skill.
-4.  If the defender *is* using an action for defense,
-    the attack succeeds if the attacker makes their roll
-    *and* the defender misses a roll.
-    This is different from a regular contest roll.
-    the attacker doesn't have to beat the defender's roll---the
-    attacker has to succeed and the defender has to fail.
-
-There are a few special cases:
-
-1.  If an attack is a complete surprise,
-    the defender doesn't get a defense roll.
-2.  If the target hasn't had their turn yet,
-    their defense uses up an action for that turn
-    (i.e., if they defend themselves against an attack,
-    they can only use one other action when their turn comes around).
-3.  If the target has already used all of their actions,
-    they can borrow an action from their next turn to use for defense.
-    In practice,
-    this often means that the character with the higher Fitness gets two attacks in the first turn,
-    then one attack each turn after that
-    (since they're borrowing actions from future turns for defense).
-4.  If someone is attacked three or more times in a turn,
-    then the only defense against the third and subsequent attacks
-    is a fluke roll.
-
-## Health and Injury
-
-Every character starts the adventure with a number of **[health points](#g:health-point)** (HP)
-equal to 3 + their Strength.
-(If a character's Strength is -3 or less, they still get 1 HP.)
-Every time a character is injured,
-their character must win a challenge roll with their HP *before* the injury as a bonus
-and the amount of the damage as a penalty.
-If they fail the roll,
-they have been knocked out.
-Regardless of the roll's outcome,
-they always lose that many HP.
-
-A character is killed when:
-
--   Their HP goes negative.
--   They fail an injury challenge roll by 4 points or more.
-
-> **Example:**
-> Alouenne is a kangaroo with a Strength of +2,
-> so she has 5 HP.
-> As the tunnel collapses around her,
-> she is hit by a falling rock that does 1 point of damage.
-> She needs to win a roll with a +4 bonus (+5-1) to stay conscious.
-> She rolls 9 on 3D, winning easily,
-> but is now down to 4 HP.
->
-> A second, larger piece of the ceiling now drops on her head and does 2 points of damage.
-> She needs to win a roll with a +2 bonus;
-> rolling 8, she fails and is knocked unconscious.
-> She is also now down to 2 HP.
->
-> The rocks keep falling.
-> The next one to hit her does another 2 points of damage.
-> She needs to win a roll without any bonus at all to stay alive.
-> She rolls 12,
-> but is down to 0 HP.
-> One more big rock, and Alouenne will be out of the game...
->
-> Pietro rushes in to save Alouenne.
-> He is already down to 3 HP after a previous fight,
-> and a particularly big rock lands on him before he can reach her.
-> It does 3 points of damage,
-> so he needs to win a challenge roll without any bonus.
-> He rolls 5,
-> missing the required 11 by 6 points.
-> Pietro is a goner.
-
-## Weapons
-
-Weapons do damage (that's kind of the point).
-A one-handed sword swung by an angry goat with Strength 0 does the following damage:
-
-| Roll | Damage |
-| ---: | -----: |
-| 3    |      0 |
-| 4    |      1 |
-| 5    |      1 |
-| 6    |      1 |
-| 7    |      2 |
-| 8    |      2 |
-| 9    |      2 |
-| 10   |      3 |
-| 11   |      3 |
-| 12   |      4 |
-| 13   |      4 |
-| 14   |      4 |
-| 15   |      5 |
-| 16   |      5 |
-| 17   |      5 |
-| 18   |      6 |
-
-Every other weapon is given a bonus or penalty depending on its size.
-This is added to the *roll*,
-not to the *damage*:
-
-| Weapon           | Bonus | Example |
-| ---------------- | ----: | ------- |
-| Punch            |    -5 | Includes kicking and throwing plates |
-| Small Weapon     |    -3 | A knife or slingshot (or punch from someone with martial arts training) |
-| Medium Weapon    |     0 | One-handed sword or ax |
-| Large Weapon     |    +2 | Two-handed sword or ax |
-| Huge Weapon      |    +4 | A big spiked club swung by an angry elephant |
-
-> **Example:**
-> Gertrude swings her big spiked club and hits one of the bots attacking her.
-> She rolls 9, adds 4 to get 13, and looks at the table: she had done 4 points of damage.
-> Her companion Li Meng stabs with her knife.
-> She also rolls 9, takes off 3 to get 6, and has done only 1 point of damage.
-
-## Armor
-
-Any armor the defender is wearing acts as a penalty on the damage roll:
-
-| Armor     | Bonus | Description |
-| --------  | ----: | ----------- |
-| Thick Fur | -1    | Bison fur, crocodile skin, turtle shell |
-| Leather   | -2    | Something like shoe leather, often reinforced with studs |
-| Metal     | -4    | Metal plates or chainmail |
-
-## Healing
-
-Someone who is knocked unconscious can try to regain consciousness
-once per minute by winning a challenge roll with their Strength as a bonus (or penalty).
-It's up to the Director to decide if they have to keep making injury rolls because of their wounds.
-
-> **Example:**
-> While Priti is going through Doi's belongings to see if she has anything worth stealing,
-> her player rolls three dice and gets 13.
-> After taking off 1 point (her Strength is -1),
-> she still has 12,
-> which is enough for her to regain consciousness.
-> Quietly, she picks up her bow and gets off one more shot.
-> Priti goes down---but the Director has ruled that Doi's wounds are still bleeding,
-> so she needs to make another challenge roll to stay conscious.
-> She fails and passes out once again,
-> losing 1 HP as she does so.
-> Things aren't looking good for our little fox...
-
 ## Shaping
 
 A small number of animal characters have psychic powers
 that let them control or **[shape](#g:shaping)** the world with their mind.
-Characters who can shape typically start with a rating of Very Low,
+Characters who can shape typically start with a rating of -4,
 which improves with practice and training.
 The six known kinds of shaping are:
 
@@ -910,12 +876,6 @@ The six known kinds of shaping are:
 
 It is *extremely* rare for someone to be able to do more than one kind of shaping.
 
-> **Example:**
-> Larrapin is an air shaper.
-> Before her grandfather passed away,
-> he taught her what little he knew,
-> so her score is now -5 instead of none.
-
 The Director must decide case by case how hard it is to shape something.
 As a guide:
 
@@ -930,6 +890,16 @@ As a guide:
 
 These bonuses and penalties assume that the shaper is concentrating hard and doing nothing else.
 
+> Larrapin is an air shaper.
+> Before her grandfather passed away,
+> he taught her what little he knew,
+> so her score is -2 instead of the default -4.
+> She needs to distract some guards,
+> so she concentrates hard.
+> Her player rolls a 14, giving her a score of 12.
+> The guards hear a whispering voice somewhere in the bushes and go to investigate it,
+> giving Larrapin a chance to sneak into the armory.
+
 ## Bots
 
 The Makers built bots to do everything from cleaning floors to mining the ocean floor.
@@ -941,20 +911,16 @@ One might have six short legs and a pair of mis-matched claws for arms,
 while another might use two rotor fans to fly,
 but have only a single slender manipulator to pick things up.
 
-Bots have Average ratings for Size, Dexterity, Intellect, Sight, and Hearing.
-Only a few bots have any sense of Smell
-(most regard smell as slightly icky,
-and would prefer that living creatures didn't talk about it so much).
-Bots also have Average Fitness,
-which in their case means structural integrity:
-a bot with Low Fitness is probably rusty or missing parts,
-while one with Very High Fitness looks brand new
+Like living characters,
+bots start with 0 ratings for Size, Fitness, Dexterity, and Intellect.
+A bot with low fitness is probably rusty or missing parts,
+while one with high fitness looks brand new
 (and will therefore be a target for other bots in need of parts).
-Bots can raise and lower one feature by one level,
-or two features by one level each if one feature is lowered by a level,
-just like animal characters.
-(As with animals,
-Sight and Hearing have to be lowered *two* levels to raise some other feature by one level.)
+
+Bots' Awareness is also 0 by default,
+but only a few bots have any sense of smell.
+(Most regard smell as slightly icky,
+and would prefer that living creatures didn't talk about it so much.)
 
 By default,
 every robot character has either tracks, wheels, or legs to move with,
@@ -962,8 +928,8 @@ two arms (which don't have to match),
 cameras,
 a microphone (for hearing),
 and a speaker (for communicating).
-The player can then give it two more features from the list below,
-*or* three more features as long as it takes a penalty from the second list.
+The player can then give it two features from the list below,
+*or* three features as long as it takes a penalty from the second list.
 
 #### Robot Features
 
@@ -1016,57 +982,6 @@ The player can then give it two more features from the list below,
 -   Slow: cannot move quickly.
 -   Top-heavy: unable to right itself once turned over.
 -   Weak battery: needs frequent recharging.
-
-## Example Characters
-
-### Syvia
-
-Syvia is a teenage fox.
-She has worked on her parents' fishing boat since she was a child,
-so her player raises her Boating from Very Low to Average (2 points)
-and her Swimming from Low to Average (1 point).
-Since there are pirates in these waters,
-her player also raises her skill with a *bo* (a long staff that counts as a small weapon)
-from Low to High (2 points),
-and her skill at Mechanics from High (her Dexterity) to Very High,
-which uses up her final point.
-
-| Feature     | Rating  | \| Skill        | Rating    |
-| --------- | ------- | --------------- | --------- |
-| Size      | Low     | \| Boating      | Average   |
-| Fitness   | Average | \| Swimming     | +2  |
-| Dexterity | +2 | \| Quarterstaff | +2  |
-| Intellect | +2 | \| Mechanics    | Very High |
-| Sight     | Average | \|              |           |
-| Hearing   | Average | \|              |           |
-| Smell     | +2 | \|              |           |
-| HP        | 5       | \|              |           |
-
-### Rhymes With Orange
-
-Rhymes With Orange was built to clean windows on ultra-tall skyscrapers.
-It has long spidery limbs with suction cups for climbing,
-but a very small body.
-It also has a 5-liter storage tank built into its back,
-and has modified the water jets on its arms to squirt almost any kind of liquid.
-Rhymes With Orange's battery was damaged years ago
-in an accident that also robbed it of most of its memories.
-It can only go 3-4 days without being recharged by another bot,
-so it is constantly doing odd jobs in exchange for power
-or gambling to try to win a recharge.
-(It only cheats when it has to.)
-
-| Feature     | Rating  | \| Skill        | Rating    |
-| --------- | ------- | --------------- | --------- |
-| Height    | +2 | \| Climbing     | Very High |
-| Weight    | Low     | \| Acrobatics   | Very High |
-| Fitness   | Average | \| Gambling     | Very High |
-| Dexterity | Average | \| Squirting    | +2  |
-| IQ        | Average | \| Mathematics  | +2  |
-| Sight     | Average | \| Navigation   | +2  |
-| Hearing   | Low     | \|              |           |
-| Smell     | None    | \|              |           |
-| HP        | 6       | \|              |           |
 
 ## Non-Player Characters
 

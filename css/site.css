@@ -8,7 +8,9 @@ img.rss-icon {
 
 table {
     border: solid;
+    border-color: #e0e0e0;
     border-collapse: separate;
+    margin-bottom: 5px;
 }
 
 th {

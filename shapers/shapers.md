@@ -42,6 +42,29 @@ You can be a hero, a rogue, or an outright villain,
 and can travel alone or with companions.
 Your choices will determine how the game unfolds.
 
+## Some Notes on Numbers
+
+1.  When we want to describe the specific numbers shown on dice,
+    we will write them as `1`, `2`, and so on up to `6`.
+    When we talk about other numbers,
+    such as the total score rolled on three dice,
+    we will write them as 7, 11, and so on.
+
+2.  We sometimes write "3D+X" or "3D-X" to mean
+    "the total on three dice plus or minus X".
+    For example,
+    suppose we need to roll 3D+1;
+    the three dice come up `2`, `2`, and `5`,
+    for a total of 9,
+    so the final score is 10 (because of the +1).
+
+3.  Remember that adding a negative number is the same as subtracting a positive one.
+    For example,
+    if someone has a bonus of +3 on a roll and a penalty of -4,
+    their actual roll is 3D+3-4 or 3D-1,
+    i.e.,
+    the total on three dice *minus* one point.
+
 ## How to Play
 
 Before the game begins,
@@ -129,8 +152,8 @@ difficult challenges have negative ratings (penalties),
 while easy challenges have positive ones (bonuses).
 
 If a character tries to do a challenge,
-her player rolls three dice,
-adds up the results,
+her player rolls 3D,
+totals the results,
 and then adds their rating and the challenges's rating as well.
 If the total is 10 or less,
 they have failed;
@@ -138,23 +161,21 @@ on 11 or more,
 they have succeeded.
 
 > Gertrude is trying to take apart the clockwork timer on a small bomb.
-> The challenge's rating is -1, and her Dexterity is -2.
-> She rolls 3 dice and gets 5, 4, and 2, for a total of 11;
+> The challenge's rating is -1 (it's a little bit harder than average)
+> and her Dexterity is -2,
+> so her roll is 3D-3.
+> She rolls 3 dice and gets `5`, `4`, and `2` for a total of 11;
 > after subtracting 1 for the difficulty and 2 for her poor Dexterity,
 > her total is only 8,
 > so she has failed.
-
-We often write "3D+X" or "3D-X" to mean
-"three dice plus or minus X",
-so the roll above would be written "3D-3".
-
+>
 > Panicking slightly,
 > Gertrude decides to try smashing the timer.
 > The Director decides that the difficulty is 0
 > (it's neither particularly tough or fairly fragile).
 > Gertrude's Strength is +4,
 > so she needs to get 11 or more or 3D+4.
-> She rolls 3 dice and gets a total of 11 once again.
+> She rolls 3 dice and gets a total of 11 points once again.
 > After adding 4 for her Strength her total is 15,
 > and the delicate clockwork is now so much scrap metal.
 
@@ -175,7 +196,9 @@ This rule helps keep the game moving.
 Sometimes it may seem like a character has no chance at all of doing something,
 but since *Shapers and Bots* is a story-telling game,
 there is always hope.
-If a player rolls a total of 17 or 18---that is, two 6's and a 5 or three 6's---their character automatically succeeds,
+If a player rolls 17 or 18
+(that is, `5`-`6`-`6` or `6`-`6`-`6`)
+their character automatically succeeds,
 but probably not in the way they expected.
 This is called a **[fluke roll](#g:fluke)**.
 
@@ -183,28 +206,29 @@ This is called a **[fluke roll](#g:fluke)**.
 > but as the deranged one-eyed crocodile pirate charges toward her,
 > she picks up the one she just found and frantically starts pushing buttons.
 > The Director decides that finding the right combination of buttons has a rating of -10.
-> Zitter rolls three 6's:
+> Zitter rolls `6`-`6`-`6`:
 > somehow,
 > her fumbling fingers found the right buttons
 > and she put a neat hole through the surprised crocodile.
 >
 > A moment later,
 > another crocodile pirate comes around the corner, sword in hand.
-> Zitter rolls again and gets 6-5-6, for a score of 17.
+> Zitter rolls again and gets `6`-`5`-`6` for a score of 17.
 > The Director rules that her lucky shot has gone wild
 > and brought a branch crashing down between her and the angry pirate.
 
 Fluke rolls work in reverse as well,
 because it's always possible for something to go wrong.
-If a player rolls a total of 3 or 4---i.e., three 1's or two 1's and a 2---they
-automatically fail at whatever they were trying to do
+If a player rolls a total of 3 or 4
+(that is, `1`-`1`-`1` or `1`-`1`-`2`)
+they automatically fail at whatever they were trying to do
 in some hilarious, embarrassing, or fatal way.
 This is called a **[fumble](#g:fumble)**.
 
 > Another day, another angry crocodile pirate...
 > Zitter thinks she has figured out how to use her laser pistol,
 > but when she takes a shot,
-> her player rolls a 3.
+> her player rolls `1`-`1`-`1` for a total of 3 points.
 > "Self-destruct initiated", the Director says in a mechanical voice.
 > "Ten... nine... eight..."
 
@@ -315,7 +339,7 @@ the defense has succeeded.)
 ## Health and Injury
 
 Every character starts the adventure with a number of **[health points](#g:health-point)** (HP)
-equal to 3 + their Strength.
+equal to STR+3.
 (If a character's Strength is -3 or less, they still get 1 HP.)
 Every time a character is injured,
 their character must win a challenge roll with their HP *before* the injury as a bonus
@@ -324,66 +348,85 @@ If they fail the roll,
 they have been knocked out.
 Regardless of the roll's outcome,
 they always lose that many HP.
-A character dies when:
-
--   Their HP goes negative.
--   They fail an injury challenge roll by 4 points or more.
+A character dies when their HP goes negative
+(so someone with a Strength of -3 or less won't survive a single hit).
 
 > Alouenne is a kangaroo with a Strength of +2,
 > so she has 5 HP.
 > As the tunnel collapses around her,
 > she is hit by a falling rock that does 1 point of damage.
-> She needs to win a roll with a +4 bonus (+5-1) to stay conscious.
-> She rolls 9 on 3D, giving her a total of 13.
+> She needs to win a roll with a +4 bonus to stay conscious:
+> +5 for her HP *before* the hit, and -1 for the damage.
+> She rolls 9 on 3D, giving her a score of 13.
 > She has won her roll,
 > but is now down to 4 HP:
 > remember,
 > even if the character wins their roll,
 > they still take damage.
 >
-> A second, larger piece of the ceiling now drops on her head and does 2 points of damage.
+> A second, larger piece of rock now drops on her head and does 2 points of damage.
 > She needs to win a roll with a +2 bonus;
-> rolling 7, her total score is 9,
+> she rolls 7 for a score of 9,
 > so she fails and is knocked unconscious.
 > She is also now down to 2 HP.
 >
 > The rocks keep falling.
-> The next one to hit her does another 2 points of damage.
-> She needs to win a roll without any bonus at all to stay alive.
-> She rolls 12,
-> but is down to 0 HP.
-> One more big rock, and Alouenne will be out of the game...
+> The next one to hit her does another 2 points of damage,
+> bringing her down to 0 HP.
+> One more rock and Alouenne will be out of the game...
 >
-> Pietro rushes in to save Alouenne.
+> Pietro is trapped in the same tunnel.
 > He is already down to 3 HP after a previous fight,
-> and a particularly big rock lands on him before he can reach her.
-> It does 3 points of damage,
-> so he needs to win a challenge roll without any bonus.
-> He rolls 5,
-> missing the required 11 by 6 points.
-> Pietro is a goner.
+> and a particularly big rock lands on him.
+> It does 4 points of damage,
+> so Pietro is a goner.
 
 ## Healing
 
 Someone who is knocked unconscious can try to regain consciousness
-once per minute by winning a challenge roll with their Strength as a bonus (or penalty).
-It's up to the Director to decide if they have to keep making injury rolls because of their wounds.
+by winning a challenge roll with no bonuses.
+It's up to the Director to decide how often they get to do this.
 
 > While Gertrude is going through Alouenne's gear to see if she has anything worth stealing,
-> Alouenne's player rolls three dice and gets 11.
-> After adding +2 for her Strength the total is 13,
+> Alouenne's player rolls three dice and gets 13,
 > which is enough for her to regain consciousness.
 > Quietly, she reaches for her dagger...
 
 ## Weapons
 
-Weapons do damage (that's kind of the point).
+Weapons do damage (that's kind of the point),
+and bigger weapons do more damage than little ones.
+To find out how much damage a weapon has done,
+the attacker rolls the number of dice shown below:
 
-FIXME
+| Weapon | Dice | Description |
+| ------ | ---: | ----------- |
+| Punch  |    1 | Or kick, or headbutt, or thrown rock |
+| Small  |    2 | Knife or arrow (or punch or from someone with a black belt) |
+| Medium |    3 | Sword, spear, ax |
+| Large  |    4 | Two-handed sword, Bertha the Big Spiked Club |
+
+Each 4, 5, or 6 counts as 1 point of damage (unless the target is wearing armor, as discussed below).
+
+> Zephrod hits Gertrude with her ax.
+> She rolls 3 dice and gets 4, 2, and 5, for 2 points of damage.
+> Gertrude counter-attacks with her knife and also hits.
+> She rolls 2 dice and gets 1 and 2:
+> she has given Zephrod a superficial cut,
+> but hasn't done any real damage.
 
 ## Armor
 
-FIXME
+Armor protects against damage.
+If someone is wearing Light Armor,
+their attacker must roll a 5 or 6 on each die to do damage.
+If they are wearing Heavy Armor,
+their attacker must roll a 6 for damage.
+
+> Suppose Gertrude had been wearing Light Armor in the fight above.
+> When Zephrod rolled 4, 2, and 5, she would only have done 1 point of damage rather than 2,
+> because only the roll of 5 would have counted.
+> If she had been wearing Heavy Armor she would have taken no damage at all.
 
 ## Species
 
@@ -410,7 +453,7 @@ Of course,
 if you were this big,
 you could afford to be philosophical too.
 
--   Fur counts as natural armor (but without any attack penalty).
+-   Fur counts as Light Armor (but without any attack penalty).
 -   Claws and bite count as small weapons.
 
 ### Bison
@@ -424,7 +467,7 @@ most suffer from acute isolophobia (a fear of being alone).
 They are naturally protective of weak members of their "herd",
 which can include their workmates, neighbors, and fellow adventurers.
 
--   Thick hide counts as natural armor (but without any attack penalty).
+-   Thick hide counts as Light Armor (but without any attack penalty).
 -   Horns count as small weapons.
 
 ### Crocodile
@@ -438,7 +481,7 @@ except when they're not,
 and incredibly patient---particularly when it comes to their favorite sport: revenge.
 
 -   Carnivorous.
--   Thick hide counts as natural armor.
+-   Thick hide counts as Light Armor.
 -   Can hold their breath for 15 minutes.
 
 ### Crow
@@ -620,7 +663,7 @@ including lions---*especially* lions.
 Slow-moving and short-sighted,
 turtles are natural shapers.
 
--   Shell counts as natural armor (with no attack penalty).
+-   Shell counts as medium armor (with no attack penalty).
 -   If a Turtle is a shaper, they start with a -2 rating instead of -4.
 -   Can hold their breath for 15 minutes.
 
@@ -922,6 +965,8 @@ but only a few bots have any sense of smell.
 (Most regard smell as slightly icky,
 and would prefer that living creatures didn't talk about it so much.)
 
+Bots naturally have Light Armor.
+
 By default,
 every robot character has either tracks, wheels, or legs to move with,
 two arms (which don't have to match),
@@ -935,7 +980,7 @@ The player can then give it two features from the list below,
 
 -   Accelerator: can move very quickly for brief periods.
 -   Arm: each extra arm counts as one feature.
--   Armor: hard to damage.
+-   Armor: Light Armor counts as one feature, Heavy Armor counts as two.
 -   Camouflage: hard to see (depends on environment: jungle camouflage is pretty noticeable in the desert).
 -   Cart: some kind of large bin to carry things in.
 -   Coldproof: able to function in extreme cold.

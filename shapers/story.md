@@ -5,27 +5,28 @@ permalink: /shapers-and-bots/madica-roo/
 ---
 
 -   Characters
-    -   Madica Roo: a 12-year-old kangaroo
-        -   She inherited a love of reading from her missing father
+    -   Madica (Maddy) Roo: a 12-year-old kangaroo
+        -   Loves story books, misses her father, is trying to be a grownup to help her mom
+        -   Her personal journey is learning to accept risk and change
     -   Sindy Roo: Madica's annoying little sister
         -   She acts out (misses their father a lot)
         -   Turns out to be an odds shaper (can make things more or less likely)
     -   Mama Roo: their mother
-        -   The librarian, postmistress, schoolteacher, and portrait painter of Rusty Bridge
+        -   The postmistress, schoolteacher, and portrait painter of Rusty Bridge
         -   Trying to keep the family together in her husband's absence
         -   Struggling to afford things: they haven't had new clothes in forever
     -   Papa Roo: their father
         -   Was a mechanic (despite prejudice that only raccoons and monkeys could be good ones)
         -   Disappeared four years ago during a thiever raid
     -   Gumption Gruff: a 12-year-old goat
-        -   He is Madica's best friend
+        -   Madica's best friend
+        -   He loves books, which makes him odd for a goat
     -   Bluster Gruff: a 13-year-old goat
-        -   Gumption's cousin (or second cousin, or some other complicated arrangement)
-        -   A bully
-        -   When he calls Madica a "scratcher", Sindy jumps him (which is when we discover her air shaping)
+        -   Gumption's second cousin once removed, and a bully
+        -   Jokes that the only good thing about books is how the glue tastes
+        -   When he calls Madica a "scratcher", Sindy jumps him (which is when we discover her shaping)
     -   Sensei Reed: a 200-year-old turtle
-        -   Was once the village's schoolteacher
-        -   Now mostly sleeps
+        -   Was once the village's schoolteacher, now mostly sleeps, but lends books to children
         -   Turns out to be a powerful air shaper
         -   When Sindy discovers her gift, he takes her as an apprentice
     -   Mayor Lupus
@@ -53,8 +54,36 @@ permalink: /shapers-and-bots/madica-roo/
     -   The Rusty River
         -   Bits of salvage from Heck sometimes wash up on its banks
     -   The Scratch: poison land around Heck where thievers and worse live
--   Plot
-    -   Aye, there's the rub
+-   Plot (each chapter is about 1500 words)
+    1.  Salvage
+        -   Maddy and Gumption return books to Sensei Reed and borrow new ones
+        -   Sindy is waiting when they come out
+        -   Maddy orders her home (character development)
+            -   When Sindy gets upset, Maddy drops her book
+            -   "Look what you made me do!" says Maddy (foreshadowing - turns out Sindy *did* make her do it)
+        -   Bluster shows up and bullies them
+        -   They sneak away to the river to get away from everything
+        -   Salvage has washed up
+        -   Cliffhanger: something moves!
+    2.  FIXME
+    3.  FIXME
+    4.  FIXME
+    5.  FIXME
+    6.  FIXME
+    7.  FIXME
+    8.  FIXME
+    9.  FIXME
+    10. FIXME
+    11. FIXME
+    12. FIXME
+    13. FIXME
+    14. FIXME
+    15. FIXME
+    16. FIXME
+    17. FIXME
+    18. FIXME
+    19. FIXME
+    20. FIXME
 
 ## Quotes
 
@@ -88,3 +117,11 @@ Tasercase hissed.
 "No more rust.
 No more oh, I regret, we do not have that part."
 It waved its mis-matched manipulators for emphasis.
+
+---
+
+"That is just phase one of its plan," Dickety said.
+
+Sensei Reed sighed.
+"Why do villains' plans always have phases?
+Why can't they just get on with it and do some evil?"

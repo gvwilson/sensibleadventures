@@ -35,9 +35,9 @@ is set in that world.
     -   Gumption's second cousin once removed, and a bully
     -   Jokes that the only good thing about books is how the glue tastes
     -   When he calls Madica a "scratcher", Sindy jumps him (which is when we discover her shaping)
--   Sensei Reed: a 200-year-old turtle
+-   Smarty Leaf: a 200-year-old turtle
     -   Was once the village's schoolteacher, now mostly sleeps, but lends books to children
-    -   Turns out to be a powerful air shaper
+    -   Turns out to be a powerful earth shaper
     -   When Sindy discovers her gift, he takes her as an apprentice
 -   Mayor Lupus
     -   A wolf (as Mama Roo says, "A *very* alpha female.")
@@ -70,36 +70,85 @@ is set in that world.
 
 Each chapter is 1500-1800 words.
 
-1.  Salvage
+1.  Salvage!
     -   Afternoon, chores over
-    -   Maddy and Gumption return books to Sensei Reed and borrow new ones
+    -   Maddy and Gumption return books to Smarty Leaf and borrow new ones
     -   Sindy is waiting when they come out
     -   Maddy orders her home (character development)
         -   When Sindy gets upset, Maddy drops her book
         -   "Look what you made me do!" says Maddy (foreshadowing - turns out Sindy *did* make her do it)
     -   Bluster shows up and bullies them
+        -   "You think you're some kinda smarties?"
     -   Maddy and Gumption sneak away to the river to get away from everything
+        -   Mention that they go past the brick wall that Mayor Lupus has been building forever
     -   Salvage has washed up
     -   They know they should go tell adults, but Gumption is angry about Bluster's bullying
     -   Tries to drag some solar panels out of the water
     -   They shift, trapping his foot, then shift again, pulling him under the water!
     -   A rasping voice, "Alert!  Danger!  Extricate!  Extricate!"
-2.  
+2.  A Stranger!
     -   A battered bot bursts out of hiding
     -   Maddy shrieks, thinking it's about to attack, but it lifts the panel long enough for Gumption to get free
     -   Maddy is helping Gumption when the bot is struck by a dislodged piece of debris and knocked off its feet
-        -   Collision knocks a small black aerial unit loose
+        -   Collision knocks a small black antenna unit loose
     -   Gumption grabs it, tells Maddy to help ("It saved me, we gotta save it!")
     -   They struggle back to shore, during which the bot catches Maddy when she loses her footing
     -   Children don't know what to do
     -   Ask, "What are you doing here?"
     -   Bot
         -   "This is unable to---" stops, tentatively reaches up to broken aerial unit.
-        -   "This now appears able to reply.  This is part of a sneak attack on Location Six Forty Six, also referred to as 'Rusty Bridge'."
+        -   "This now appears able to reply.  This is part of a sneak attack on Location Six Bitty Six, also referred to as 'Rusty Bridge'."
         -   Children: "Attack? When?"
         -   *Its leds dimmed for a moment as if it was closing its eyes to think, then brightened.  "Tonight."*
-3.  FIXME
-4.  FIXME
+3.  You Have to Listen!
+    -   Maddy has a flashback to the bot attack in which her father disappeared
+    -   Argument
+        -   She gets angry at the bot and hits it
+        -   Gumption stops her: "We have to warn everyone."
+        -   Maddy sags: "They won't believe us."
+        -   Gumption: "They will if---where are you going?"
+        -   Bot: "It does not like being attacked."
+        -   Gumption: "But you *have* to come with us."
+        -   Bot (slowly): "It...does not have to do anything any more.  It can *choose* again."
+        -   Wheels away at high speed (surprises them with its wheel).
+    -   Children hurry back to the village to tell Mama Roo.
+    -   Mama Roo doesn't want to listen: "You really hurt your sister's feelings."
+    -   Maddy loses her temper: "She should go find her own friends!  But anyway, the bots are coming."
+        -   Maddy sees Sindy sitting listening at the top of the stairs
+        -   Sindy starts crying again
+        -   Maddy feels bad
+        -   Trips on her way out of the house (foreshadowing again)
+    -   Go to the mayor's
+    -   Mayor is skeptical
+        -   "A bot told you?"
+        -   Gumption shows them the antenna that was knocked off the bot, but they still don't believe
+        -   "That could just be salvage"
+    -   Feeling helpless, they head home
+    -   Bump into Smarty Leaf
+    -   Explain the story, show him the antenna
+    -   His eyes widen in recognition
+    -   And the shouting starts
+4.  Smarty Leaf
+    -   A goat farmer has run into town, pants, "They's comin'!"
+    -   Rumbling on the road
+    -   Smarty Leaf tells the children to run
+        -   Mama Roo: "You have to come with us!"
+        -   Smarty: "Madam, I am a turtle.  We don't run." [pause] "Mostly because we can't."
+    -   A big bot appears towing a cage cart
+    -   Smarty Leaf takes a stance and gestures
+    -   The earth opens up and the bot's front tread gets caught
+        -   It tries to lever itself out with its enormous arms
+    -   Smarty Leaf gestures again to create potholes and ridges to block the half-dozen smaller bots
+        -   "Go!  Run!" he orders the Roos and Gumption
+    -   Villagers are gathering
+        -   Scraps of armor
+        -   Axes for hacking, metal poles to jam in limbs
+    -   Tasercase appears shouting orders
+    -   It grabs Gumption and is about to throw him in the cage cart
+    -   A brick strikes the bot hard, then another and another
+    -   It drops Gumption and retreats, shielding the antenna unit on its side
+    -   "Get that one!" Smarty Leaf yells at the villagers
+    -   The bots retreat, but Sindy and two grownups have been caught!
 5.  FIXME
 6.  FIXME
 7.  FIXME
@@ -115,7 +164,10 @@ Each chapter is 1500-1800 words.
 17. FIXME
 18. FIXME
 19. FIXME
-20. FIXME
+20. The Beginning
+    -   Last scene is Dickety in the Roos' house
+    -   Sees the picture of Papa Roo
+    -   "It remembers this from Heck.  It---*they*---is in Heck."
 
 ## Quotes
 
@@ -128,7 +180,7 @@ It fell down.
 I remember."
 
 "My grandmother is barely out of her egg when it happens,"
-Sensei Reed confirmed in a slow whisper.
+Smarty Leaf confirmed in a slow whisper.
 "It is winter.
 There is a terrible storm,
 much wind,
@@ -154,6 +206,12 @@ It waved its mis-matched manipulators for emphasis.
 
 "That is just phase one of its plan," Dickety said.
 
-Sensei Reed sighed.
+Smarty Leaf sighed.
 "Why do villains' plans always have phases?
 Why can't they just get on with it and do some evil?"
+
+## Notes
+
+-   Use "they" as the only singular pronoun, rather than "he" or "she"
+    -   "If they wants to do it..." (singular form of verb)
+-   Use "it" for bots, who refer to themselves as "it"

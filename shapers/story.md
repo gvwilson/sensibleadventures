@@ -41,12 +41,12 @@ is set in that world.
     -   When Sindy discovers her gift, he takes her as an apprentice
 -   Mayor Lupus
     -   A wolf (as Mama Roo says, "A *very* alpha female.")
--   Dickety (fully, "Fleventy-One Forty-Ee Dickety-Ay"): a newly-woken bot
+-   Dockety (fully, "Fleventy-One Forty-Ee Dockety-Ay"): a newly-woken bot
     -   Two legs, a gyro wheel for speed, mis-matched arms, a small screen on its face
         -   Learns to display cartoon facial expressions
     -   Droned by Tasercase, accidentally freed
     -   Doesn't have a proper name yet, but starts to remember that it had one once
--   Crusher: Dickety's friend
+-   Crusher: Dockety's friend
     -   Also droned by Tasercase
     -   Big, slow, and almost indestructible
 -   Tasercase: the bot villain (antagonist)
@@ -87,12 +87,12 @@ Each chapter is 1500-1800 words.
     -   They shift, trapping his foot, then shift again, pulling him under the water!
     -   A rasping voice, "Alert!  Danger!  Extricate!  Extricate!"
 2.  A Stranger!
-    -   A battered bot bursts out of hiding (Dickety, but we don't know the name yet)
+    -   A battered bot bursts out of hiding (Dockety, but we don't know the name yet)
     -   Maddy shrieks, thinking it's about to attack, but it lifts the panel long enough for Gumption to get free
-    -   Maddy is helping Gumption when Dickety is struck by a dislodged piece of debris and knocked off its feet
+    -   Maddy is helping Gumption when Dockety is struck by a dislodged piece of debris and knocked off its feet
         -   Collision knocks a small black antenna unit loose
     -   Gumption grabs it, tells Maddy to help ("It saved me, we have to save it!")
-    -   They struggle back to shore, during which Dickety catches Maddy when she loses her footing
+    -   They struggle back to shore, during which Dockety catches Maddy when she loses her footing
     -   Children don't know what to do
     -   Ask, "What are you doing here?"
     -   Bot
@@ -103,7 +103,7 @@ Each chapter is 1500-1800 words.
 3.  You Have to Listen!
     -   Maddy has a flashback to the bot attack in which her father disappeared
     -   Argument
-        -   She gets angry at Dickety and hits it
+        -   She gets angry at Dockety and hits it
         -   Gumption stops her: "We have to warn everyone."
         -   Maddy sags: "They won't believe us."
         -   Gumption: "They will if---where are you going?"
@@ -121,7 +121,7 @@ Each chapter is 1500-1800 words.
     -   Go to the mayor's
     -   Mayor is skeptical
         -   "A bot told you?"
-        -   Gumption shows them the antenna that was knocked off Dickety, but they still don't believe
+        -   Gumption shows them the antenna that was knocked off Dockety, but they still don't believe
         -   "That could just be salvage"
     -   Feeling helpless, they head home
     -   Bump into Smarty Leaf
@@ -156,27 +156,57 @@ Each chapter is 1500-1800 words.
         -   He thinks that Smarty Leaf was responsible for the bricks
         -   The Smarty is too exhausted to contradict him
     -   Desperate, Maddy plunges into the forest, calling for help
-    -   Finds Dickety, who threatens her with a brick
-    -   Tense negotiation
+    -   Finds Dockety, who threatens her with a brick
+    -   Tense negotiation (this is where Maddy learns Dockety's name)
         -   Maddy: "You helped us---help us again!"
         -   Bot: "This was not trying to help you. This was trying to free its..." and pauses, buzzing.
         -   ... "This cannot retrieve the word from memory.  This wanted to help its..."
         -   Maddy: "The big one?  The big one pulling the cart?"
         -   ... "If you help me get my sister I'll help you with...with it."
-        -   Dickety agrees, but says they'll never catch up
+        -   Dockety agrees, but says they'll never catch up
         -   "Unless you let me carry you."
     -   Speed down the path
         -   Maddy closed her eyes, but that just made it worse, so she opened them, which made it even worse
     -   Reach the highway to Heck (broken down, but still better than forest tracks)
     -   The sun is starting to go down
-    -   A pair of thin green laser lines scan the fractured pavement to help Dickety steer
+    -   A pair of thin green laser lines scan the fractured pavement to help Dockety steer
     -   They startle a fluffle of wild rabbits - the kind that wolves sometimes ate, but never around non-carnivores
-    -   There in front of them is the convoy: a dozen bots, no two alike, with Crusher pulling the cage cart
-    -   Dickety: "Take this brick. Get on the cage. Climb forward, then climb onto the one pulling the cart. Break its antenna."
+    -   There in front of them is the convoy: half a dozen bots, no two alike, with Crusher pulling the cage cart
+        -   "Where are the others?" Maddy asked, shouting to be heard.
+        -   "This does not know."  Dockety paused.  "That worries this."
+    -   Dockety: "Take this brick. Get on the cage. Climb forward, then climb onto the one pulling the cart. Break its antenna."
     -   Maddy: "Do you have a short circuit or something!?"
-    -   Dickety: "Several.  But it is still a good plan."
+    -   Dockety: "Several.  But it is still a good plan."
     -   He races forward, knocks one unsuspecting pair of bots out of the way, and throws Maddy onto the cart
-6.  FIXME
+6.  Out of the Cage Cart...
+    -   Maddy drops the brick
+    -   Dockety races forward and body checks another bot just as it raises itself to grab at Maddy
+    -   The adults and Sindy are yelling for help
+    -   Maddy slides down to the front of the cart and unhitches it just as Crusher's head swivels 180 to see what's happening
+    -   She expects the cart to slow down gently but it careens off the road
+    -   Maddy is thrown into some bushes as the cart tips onto its side and slides down a rocky hill
+    -   She grabs a scrap of rebar that just happens to be lying there and breaks the lock
+    -   The two goats and Sindy scramble out
+        -   Maddy hugs Sindy
+    -   "Was that a bot helping you?" one of the goats asks
+    -   "Don't worry about that now," Maddy snaps.  "We have to *go*!"
+    -   "But---but we're in the Scratch!"
+    -   Just then Crusher appears at the top of the hill and they start to run
+    -   Describe the Scratch: overgrown with weeds, puddles are strange colors
+        -   The trees are twisted, but they don't move on their own like they did in stories
+    -   One of the goats has hurt his leg
+        -   "You help him," Maddy tells the other goat.  "I'll look after my sister."
+    -   It's getting dark, but they can hear gears grinding behind them whenever they stop
+        -   Sindy: "Do you think they have searchlights?  Or flamethrowers?"
+        -   Maddy: "I'm sure they don't have flamethrowers," she replied, trying to sound more confident than she felt.
+    -   Suddenly the long-legged bot ambushes them
+        -   They realize Crusher has been driving them toward it
+    -   One of its arms ends in a clumsy overweight chainsaw
+    -   It swings, Sindy shrieks, chain of accidets, the bot cuts a tree that falls across a bubbling stream
+    -   Maddy: "Go!"
+    -   The goats go first, the bot chases them, the tree tumbles into the water, the bot is destroyed
+    -   The goats are now on one side of the poison stream while Sindy and Maddy are on the other
+    -   Dockety reappears
 7.  FIXME
 8.  FIXME
 9.  FIXME
@@ -191,13 +221,13 @@ Each chapter is 1500-1800 words.
 18. FIXME
 19. FIXME
 20. The Beginning
-    -   Last scene is Dickety in the Roos' house
+    -   Last scene is Dockety in the Roos' house
     -   Sees the picture of Papa Roo
     -   "It remembers this from Heck.  It---*they*---is in Heck."
 
 ## Quotes
 
-"Because there used to be a rusty bridge here," Dickety said slowly.
+"Because there used to be a rusty bridge here," Dockety said slowly.
 "We tried to repair it but we did not have parts."
 Its leds dimmed for a moment as if it was closing its eyes to think.
 "Searching...
@@ -230,7 +260,7 @@ It waved its mis-matched manipulators for emphasis.
 
 ---
 
-"That is just phase one of that's plan," Dickety said.
+"That is just phase one of that's plan," Dockety said.
 
 Smarty Leaf sighed.
 "Why do villains' plans always have phases?

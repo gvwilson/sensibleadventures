@@ -207,7 +207,43 @@ Each chapter is 1500-1800 words.
     -   The goats go first, the bot chases them, the tree tumbles into the water, the bot is destroyed
     -   The goats are now on one side of the poison stream while Sindy and Maddy are on the other
     -   Dockety reappears
-7.  FIXME
+7.  ...And Into the Mire
+    -   Goats will go and get help, but it will take them a day to get back to the village
+    -   Dockety is sad and angry about the sawbot's demise
+        -   "It did not have a choice. Bots do not have choices when governors are put on them."
+    -   Dockety is damaged
+        -   Sindy: "Does it hurt?"
+        -   Dockety: (reluctantly) "It buzzes.  Where the hole is."
+        -   Sindy finds a piece of metal that fits perfectly over the hole.
+        -   Comment about how lucky she is.
+        -   Sindy: "I don't feel very lucky."
+    -   Something hoots in the distance
+        -   Sindy: "How are we going to get home, Maddy?"
+        -   Maddy: "I don't know.
+        -   Dockety: "We cannot stay here."  (Howl comes again.)  "There are worse things than Eight Fifty Bee."
+    -   Pick their way through increasingly swampy ground, heading downstream
+        -   Sometimes have to go single file
+        -   No idea what to do if the track runs out
+        -   The river and the road are getting closer together, and night is falling
+    -   Sindy complains about being hungry
+        -   Maddy is about to snap at her, but bites her tongue
+        -   "I'm hungry too," she says.  "And scared.  I bet Mama's scared too."
+    -   Something gloops in the river, then again, and they realize they're being hunted
+    -   The only other option is back to the road, but Dockety knows Tasercase and its crew will be patrolling
+    -   They come across a concrete bunker
+        -   Looks like it was buried in mud, but the spring floods have washed it away
+        -   Dockety: "Processing... It is not in the database."
+    -   Maddy: "We'll stay here for the night."
+        -   Over Sindy's protests about spiders: we have to hide somewhere, and it's almost dark
+    -   Once inside, Dockety makes a light with its screen
+        -   Whatever is hunting them splooshes out of the water and comes snuffling after them
+    -   A long mechanical tentacle draped in river weed gropes inside the bunker
+    -   As she scrambles back, Sindy grabs at something that looks like rebar sticking out of the wall
+    -   It's a lever, and when she pulls it, a door starts to open in the hillside
+    -   They work together to get the door open
+        -   Maddy doesn't want to turn her back on the monster, but she has no choice
+    -   They get the door open and rush through it
+        -   Just as they do, the monster grabs Maddy's ankle!
 8.  FIXME
 9.  FIXME
 10. FIXME

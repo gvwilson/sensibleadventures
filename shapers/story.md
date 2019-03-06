@@ -59,12 +59,12 @@ is set in that world.
     -   A few hundred inhabitants ("Enough that you can be alone if you want, or even if you don't")
     -   Mostly goats and bears with a few wolves and one elderly turtle
     -   The Roos are the only kangaroo family in town
--   Heck: a ruined city several days away from Rusty Bridge in the middle of the Scratch
+-   Heck: a ruined city several days away from Rusty Bridge in the middle of the Mire
     -   Children tell each other stories about the monsters and bots and monster-bots that live there
     -   Some of those stories are true
 -   The Rusty River
     -   Bits of salvage from Heck sometimes wash up on its banks
--   The Scratch: poison land around Heck where thievers and worse live
+-   The Mire: poison land around Heck where thievers and worse live
 
 ## Plot
 
@@ -190,9 +190,9 @@ Each chapter is 1500-1800 words.
         -   Maddy hugs Sindy
     -   "Was that a bot helping you?" one of the goats asks
     -   "Don't worry about that now," Maddy snaps.  "We have to *go*!"
-    -   "But---but we're in the Scratch!"
+    -   "But---but we're in the Mire!"
     -   Just then Crusher appears at the top of the hill and they start to run
-    -   Describe the Scratch: overgrown with weeds, puddles are strange colors
+    -   Describe the Mire: overgrown with weeds, puddles are strange colors
         -   The trees are twisted, but they don't move on their own like they did in stories
     -   One of the goats has hurt his leg
         -   "You help him," Maddy tells the other goat.  "I'll look after my sister."
@@ -241,10 +241,37 @@ Each chapter is 1500-1800 words.
     -   As she scrambles back, Sindy grabs at something that looks like rebar sticking out of the wall
     -   It's a lever, and when she pulls it, a door starts to open in the hillside
     -   They work together to get the door open
-        -   Maddy doesn't want to turn her back on the monster, but she has no choice
+        -   "Whatever's in there has got to be better than this!" as the monster started pulling blocks out of the bunker
     -   They get the door open and rush through it
         -   Just as they do, the monster grabs Maddy's ankle!
-8.  FIXME
+8.  Listens to Darkness
+    -   They struggle to free Maddy, but the monster drags her back toward the door
+    -   Sindy starts screaming
+    -   The monster claws some more blocks away from the bunker door, making the roof collapse
+    -   It relaxes its grip just long enough for Maddy to pull free
+    -   They flee down the stairs as the bunker caves in
+    -   The only light comes from Dockety's screen
+    -   Maddy remembers what Mama Roo said one night when she was crying: "If you can't go back, you have to go forward."
+    -   The underground complex is larger than they realized
+    -   Lights start to come on
+    -   A voice through speakers: "You are here now. You might as well come and say hello."
+    -   Reach a control room
+    -   A bot decorated with baroque twists of metal, glued-on pictures faded to illegibility, and things Maddy filed away to have nightmares about later
+    -   "This is Listens to Darkness" it proclaims proudly.
+    -   When Maddy says, "That's a strange name," it says, "This chose the name itself.  It is a proper designation of activity.  Observe!"
+    -   Lights go out.
+        -   Sindy says, "I'm scared."
+        -   "Sh!  These must listen *in darkness*."
+    -   Figure out through conversation that this is a satellite ground station
+        -   "Regrettably, the main antenna malfunctioned some time ago."
+        -   Dockety: "These did not notice an antenna."
+        -   LtD (pointedly to Maddy): "Does *that* have a proper designation of activity? No? Then its communication is irrelevant."
+        -   Maddy: "There is no antenna."
+        -   LtD: "Correct.  Emergency repair protocols have been devised and are being implemented. They require fabrication of precision parts.  It will take some time."
+    -   Realize that LtD is lonely (and deranged)
+        -   Sindy looks through glass window and sees skeletons
+        -   LtD: "Their components eventually failed.  They were moved to long-term storage."
+    -   It means to keep them there!
 9.  FIXME
 10. FIXME
 11. FIXME

@@ -244,35 +244,59 @@ Each chapter is 1500-1800 words.
         -   "Whatever's in there has got to be better than this!" as the monster started pulling blocks out of the bunker
     -   They get the door open and rush through it
         -   Just as they do, the monster grabs Maddy's ankle!
-8.  Listens to Darkness
+8.  Underground
     -   They struggle to free Maddy, but the monster drags her back toward the door
     -   Sindy starts screaming
     -   The monster claws some more blocks away from the bunker door, making the roof collapse
     -   It relaxes its grip just long enough for Maddy to pull free
     -   They flee down the stairs as the bunker caves in
+    -   Find themselves in an abandoned underground complex of some sort
     -   The only light comes from Dockety's screen
     -   Maddy remembers what Mama Roo said one night when she was crying: "If you can't go back, you have to go forward."
-    -   The underground complex is larger than they realized
-    -   Lights start to come on
+    -   She holds Sindy's hand, and is surprised when Dockety takes hold of her other hand with one of its manipulators
+    -   They start talking (whistling in the dark)
+        -   Dockety explains that its memory is patchy: it knows that it should know more than it does, but it doesn't know what
+        -   Maddy: "What was the antenna all about?"
+        -   Dockety explains that Tasercase is attaching them to whatever bots it can catch, then using its drones to catch more bots
+        -   Dockety: "This remembers Crusher.  This does not know why, but those memories create strong positive feedback."
+        -   Maddy: "So he's a friend?"
+        -   Dockety: "This...thinks so?"
+        -   Swivels head to look at Maddy: "But Crusher is an 'it', please, as is this."
+    -   Not looking where it's going, it almost falls in a hole
+        -   Teeter on the edge
+        -   Maddy and Sindy haul as hard as they can
+        -   Sindy's hand falls on yet another lever
+        -   Lights start to come on
+        -   They pull Dockety back
+        -   Maddy looks at Sindy: "That's the second time you've done that."
+        -   Sindy (defensively): "Sorry."
+        -   Maddy: "No no, I---don't be sorry."  She squeezed her sister's hand.  "You keep doing it."
     -   A voice through speakers: "You are here now. You might as well come and say hello."
-    -   Reach a control room
+9.  Listens to Darkness
+    -   The lights lead them to a control room
     -   A bot decorated with baroque twists of metal, glued-on pictures faded to illegibility, and things Maddy filed away to have nightmares about later
-    -   "This is Listens to Darkness" it proclaims proudly.
-    -   When Maddy says, "That's a strange name," it says, "This chose the name itself.  It is a proper designation of activity.  Observe!"
+    -   "Welcome! This is Listens to Darkness" it proclaims proudly.
+    -   When Maddy says, "That's a strange name," it says, "This chose the name itself.  It is an accurate designation of activity.  Observe!"
     -   Lights go out.
         -   Sindy says, "I'm scared."
-        -   "Sh!  These must listen *in darkness*."
-    -   Figure out through conversation that this is a satellite ground station
+        -   "Sh!  These must *listen* to darkness."
+    -   Figure out through conversation that they are in a satellite ground station
         -   "Regrettably, the main antenna malfunctioned some time ago."
         -   Dockety: "These did not notice an antenna."
         -   LtD (pointedly to Maddy): "Does *that* have a proper designation of activity? No? Then its communication is irrelevant."
-        -   Maddy: "There is no antenna."
-        -   LtD: "Correct.  Emergency repair protocols have been devised and are being implemented. They require fabrication of precision parts.  It will take some time."
-    -   Realize that LtD is lonely (and deranged)
-        -   Sindy looks through glass window and sees skeletons
-        -   LtD: "Their components eventually failed.  They were moved to long-term storage."
-    -   It means to keep them there!
-9.  FIXME
+        -   Maddy (to break awkward silence): "But---we didn't see an antenna."
+        -   LtD: "Correct.  It took this a great deal of time to improvise an emergency repair protocol. It requires fabrication of precision parts."
+        -   LtD (proudly): "Steps are now being taken.  The Makers will be pleased."
+    -   Sindy starts exploring
+        -   Looks through glass window and sees skeletons
+        -   LtD (dismissively): "They declined to synchronize with the emergency repair protocol, so they were moved to long-term storage.  Their components failed shortly thereafter."
+    -   Realize that LtD is lonely and deranged
+    -   Maddy: "Well, we should, um, leave you to it?  And be going?"
+    -   LtD: "Oh no.  Leaving is not included in the protocol.  It might put the repairs at risk.  You will remain here."
+        -   Light comes on: another empty office, identical to the one with the skeletons
+        -   LtD: "Except for that," it added dismissively, waving a manipulator at Dockety.  "That will be recycled."
+    -   A door opens and two service bots enter
+        -   Both have the bolt-on antennas that Dockety had been wearing
 10. FIXME
 11. FIXME
 12. FIXME

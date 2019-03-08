@@ -262,6 +262,8 @@ Each chapter is 1500-1800 words.
         -   Maddy: "So he's a friend?"
         -   Dockety: "This...thinks so?"
         -   Swivels head to look at Maddy: "But Crusher is an 'it', please, as is this."
+    -   Sindy: "I'm really hungry"
+        -   Dockety: "This requires a battery recharge soon."
     -   Not looking where it's going, it almost falls in a hole
         -   Teeter on the edge
         -   Maddy and Sindy haul as hard as they can
@@ -287,17 +289,56 @@ Each chapter is 1500-1800 words.
         -   Maddy (to break awkward silence): "But---we didn't see an antenna."
         -   LtD: "Correct.  It took this a great deal of time to improvise an emergency repair protocol. It requires fabrication of precision parts."
         -   LtD (proudly): "Steps are now being taken.  The Makers will be pleased."
-    -   Sindy starts exploring
+    -   Sindy starts exploring, looking for a place to sleep
         -   Looks through glass window and sees skeletons
-        -   LtD (dismissively): "They declined to synchronize with the emergency repair protocol, so they were moved to long-term storage.  Their components failed shortly thereafter."
+        -   LtD (dismissively): "They declined to synchronize with the emergency repair protocol, so they were moved to long-term storage. Their components failed shortly thereafter."
     -   Realize that LtD is lonely and deranged
     -   Maddy: "Well, we should, um, leave you to it?  And be going?"
     -   LtD: "Oh no.  Leaving is not included in the protocol.  It might put the repairs at risk.  You will remain here."
         -   Light comes on: another empty office, identical to the one with the skeletons
         -   LtD: "Except for that," it added dismissively, waving a manipulator at Dockety.  "That will be recycled."
+    -   LtD goes to a console and presses buttons
     -   A door opens and two service bots enter
-        -   Both have the bolt-on antennas that Dockety had been wearing
-10. FIXME
+10. Unison
+    -   The service bots close in on Maddy, Sindy, and Dockety
+    -   Maddy (to Sindy): "Grab a lever or something!"
+    -   Sindy: "There aren't any levers to grab!"
+    -   Dockety pulls a keyboard off a desk and throws it
+        -   Hits one of the service bots
+        -   LtD protests
+        -   The service bot immediately begins to pick up the pieces
+        -   LtD presses more buttons on the console
+        -   Maddy realizes that the console is controlling the service bots
+    -   She grabs a keyboard and throws it at the console
+        -   Misses
+        -   Tells Sindy to do it
+        -   Lucky hit: the door they came through opens again
+    -   They run, but one of the service bots catches Dockety
+    -   Maddy makes a split-second decision and goes back for him
+    -   Breaks off one of Dockety's arms so that he can escape
+        -   She winds up holding the arm
+    -   They flee and the door closes
+    -   They are briefly in darkness, but then the lights come on again
+        -   LtD: "Where will you go?"
+        -   Realize that it is watching them through cameras
+    -   As they explore, LtD keeps talking to them
+        -   Dockety starts echoing its words
+        -   Angry, Maddy begins to smash them with Dockety's arm
+        -   LtD: "Please don't do that."
+        -   Dockety: "Please don't do that." (simultaneous)
+    -   LtD and Dockety speaking in time with each other
+        -   Dockety shakes it off, but it recurs
+        -   Dockety: "This cannot resist attempts to circumvent integrity for very long."
+    -   They reach the hole they almost fell into the previous time
+        -   Sindy kicks a rock
+        -   They hear it hit stone a moment later
+        -   Realize that the hole isn't very deep
+    -   Maddy: "Nothing else for us up ahead"
+    -   Sindy offers to jump
+        -   Maddy says it's too dangerous
+        -   Gets Dockety to lower her by holding onto its broken arm
+    -   Sindy: "What if...what if you can't get back out?"
+    -   Maddy (hug): "I will."
 11. FIXME
 12. FIXME
 13. FIXME

@@ -77,8 +77,16 @@ Each chapter is 1500-1800 words.
     -   Maddy orders her home (character development)
         -   When Sindy gets upset, Maddy drops her book
         -   "Look what you made me do!" says Maddy (foreshadowing - turns out Sindy *did* make her do it)
-    -   Bluster shows up and bullies them
-        -   "You think you're some kinda smarties?"
+    -   Walk past the ancient sentry post in the middle of the village
+        -   Looked like black glass, ageless
+        -   No moss or birds: shocks anything that touches it
+        -   Yet another leftover from the time of the Makers
+    -   Bluster his friends are hanging out near it
+        -   Gumption wants to go around
+        -   Maddy insists that they go past
+        -   Bluster bullies them: "You think you're some kinda smarties?"
+        -   Smarty Leaf is there (somehow, unnoticed) and rebukes him
+        -   His glower says, "This isn't over."
     -   Maddy and Gumption sneak away to the river to get away from everything
         -   Mention that they go past the brick wall that Mayor Lupus has been building forever
     -   Salvage has washed up
@@ -156,7 +164,8 @@ Each chapter is 1500-1800 words.
         -   He thinks that Smarty Leaf was responsible for the bricks
         -   The Smarty is too exhausted to contradict him
     -   Desperate, Maddy plunges into the forest, calling for help
-    -   Finds Dockety, who threatens her with a brick
+    -   Finds Dockety near another sentry post, recharging
+    -   He threatens her with a brick
     -   Tense negotiation (this is where Maddy learns Dockety's name)
         -   Maddy: "You helped us---help us again!"
         -   Bot: "This was not trying to help you. This was trying to free its..." and pauses, buzzing.
@@ -170,7 +179,8 @@ Each chapter is 1500-1800 words.
     -   Reach the highway to Heck (broken down, but still better than forest tracks)
     -   The sun is starting to go down
     -   A pair of thin green laser lines scan the fractured pavement to help Dockety steer
-    -   They startle a fluffle of wild rabbits - the kind that wolves sometimes ate, but never around non-carnivores
+    -   They pass under a line of ruined arches and startle a fluffle of wild rabbits
+        -   The kind that wolves sometimes ate, but never around non-carnivores
     -   There in front of them is the convoy: half a dozen bots, no two alike, with Crusher pulling the cage cart
         -   "Where are the others?" Maddy asked, shouting to be heard.
         -   "This does not know."  Dockety paused.  "That worries this."
@@ -274,10 +284,10 @@ Each chapter is 1500-1800 words.
         -   Sindy (defensively): "Sorry."
         -   Maddy: "No no, I---don't be sorry."  She squeezed her sister's hand.  "You keep doing it."
     -   A voice through speakers: "You are here now. You might as well come and say hello."
-9.  Listens to Darkness
+9.  Patient in Darkness
     -   The lights lead them to a control room
     -   A bot decorated with baroque twists of metal, glued-on pictures faded to illegibility, and things Maddy filed away to have nightmares about later
-    -   "Welcome! This is Listens to Darkness" it proclaims proudly.
+    -   "Welcome! This is Patient in Darkness" it proclaims proudly.
     -   When Maddy says, "That's a strange name," it says, "This chose the name itself.  It is an accurate designation of activity.  Observe!"
     -   Lights go out.
         -   Sindy says, "I'm scared."
@@ -285,19 +295,19 @@ Each chapter is 1500-1800 words.
     -   Figure out through conversation that they are in a satellite ground station
         -   "Regrettably, the main antenna malfunctioned some time ago."
         -   Dockety: "These did not notice an antenna."
-        -   LtD (pointedly to Maddy): "Does *that* have a proper designation of activity? No? Then its communication is irrelevant."
+        -   Patient (pointedly to Maddy): "Does *that* have a proper designation of activity? No? Then its communication is irrelevant."
         -   Maddy (to break awkward silence): "But---we didn't see an antenna."
-        -   LtD: "Correct.  It took this a great deal of time to improvise an emergency repair protocol. It requires fabrication of precision parts."
-        -   LtD (proudly): "Steps are now being taken.  The Makers will be pleased."
+        -   Patient: "Correct.  It took this a great deal of time to improvise an emergency repair protocol. It requires fabrication of precision parts."
+        -   Patient (proudly): "Steps are now being taken.  The Makers will be pleased."
     -   Sindy starts exploring, looking for a place to sleep
         -   Looks through glass window and sees skeletons
-        -   LtD (dismissively): "They declined to synchronize with the emergency repair protocol, so they were moved to long-term storage. Their components failed shortly thereafter."
-    -   Realize that LtD is lonely and deranged
+        -   Patient (dismissively): "They declined to synchronize with the emergency repair protocol, so they were moved to long-term storage. Their components failed shortly thereafter."
+    -   Realize that Patient is lonely and deranged
     -   Maddy: "Well, we should, um, leave you to it?  And be going?"
-    -   LtD: "Oh no.  Leaving is not included in the protocol.  It might put the repairs at risk.  You will remain here."
+    -   Patient: "Oh no.  Leaving is not included in the protocol.  It might put the repairs at risk.  You will remain here."
         -   Light comes on: another empty office, identical to the one with the skeletons
-        -   LtD: "Except for that," it added dismissively, waving a manipulator at Dockety.  "That will be recycled."
-    -   LtD goes to a console and presses buttons
+        -   Patient: "Except for that," it added dismissively, waving a manipulator at Dockety.  "That will be recycled."
+    -   Patient goes to a console and presses buttons
     -   A door opens and two service bots enter
 10. Unison
     -   The service bots close in on Maddy, Sindy, and Dockety
@@ -305,9 +315,9 @@ Each chapter is 1500-1800 words.
     -   Sindy: "There aren't any levers to grab!"
     -   Dockety pulls a keyboard off a desk and throws it
         -   Hits one of the service bots
-        -   LtD protests
+        -   Patient protests
         -   The service bot immediately begins to pick up the pieces
-        -   LtD presses more buttons on the console
+        -   Patient presses more buttons on the console
         -   Maddy realizes that the console is controlling the service bots
     -   She grabs a keyboard and throws it at the console
         -   Misses
@@ -319,14 +329,14 @@ Each chapter is 1500-1800 words.
         -   She winds up holding the arm
     -   They flee and the door closes
     -   They are briefly in darkness, but then the lights come on again
-        -   LtD: "Where will you go?"
+        -   Patient: "Where will you go?"
         -   Realize that it is watching them through cameras
-    -   As they explore, LtD keeps talking to them
+    -   As they explore, Patient keeps talking to them
         -   Dockety starts echoing its words
         -   Angry, Maddy begins to smash them with Dockety's arm
-        -   LtD: "Please don't do that."
+        -   Patient: "Please don't do that."
         -   Dockety: "Please don't do that." (simultaneous)
-    -   LtD and Dockety speaking in time with each other
+    -   Patient and Dockety speaking in time with each other
         -   Dockety shakes it off, but it recurs
         -   Dockety: "This cannot resist attempts to circumvent integrity for very long."
     -   They reach the hole they almost fell into the previous time
@@ -337,9 +347,38 @@ Each chapter is 1500-1800 words.
     -   Sindy offers to jump
         -   Maddy says it's too dangerous
         -   Gets Dockety to lower her by holding onto its broken arm
-    -   Sindy: "What if...what if you can't get back out?"
-    -   Maddy (hug): "I will."
-11. FIXME
+    -   Sindy: "What if...what if you can't get back out?  What if he leaves you down there?" (whispering) "What if he goes all the way bad?"
+    -   Dockety: "This is an it, thank you.  And this will self-destruct before it allows itself to be turned into a drone again."
+    -   Maddy (hug): "I'll come back.  I promise"
+11. Eyes Everywhere
+    -   The lower corridor is cold instead of cool
+    -   Emergency lights turn on automatically
+        -   Maddy waits to hear Patient's voice, but it doesn't come
+    -   Explores a bit until she finds another control room, empty and waiting
+    -   Goes back
+        -   Sindy climbs down
+        -   Dockety drops, bounces on his single wheel, says, "Ouch."
+        -   Sindy: "Did that hurt?"
+        -   Dockety: "This does not feel pain." pause "But this would not actively pursue a repeat."
+    -   Maddy leads them to the second control room
+        -   Dockety turns the screens on
+        -   Begins to recharge itself
+        -   Can't hear Patient's voice
+    -   Maddy realizes that the sentry posts have cameras and microphones, and that Patient has been watching everything
+        -   Images are black and white: she realizes that it must be night outside
+    -   And microphones: she can hear her mother arguing with Mayor Lupus
+        -   "We have to go get them!"
+        -   "They were taken by bots, Ibby."
+        -   "But they escaped!"
+        -   "Into the Mire.  With bots chasing them.  It's too dangerous."
+    -   Smarty Leaf steps forward: "I will go."
+        -   The two goats who were captured offer to go too.
+        -   A few others step forward
+        -   They hear Bluster telling his friends how stupid they all are, they're going to get killed, etc.
+    -   Motion in one of the other screens
+        -   A convoy of two dozen bots led by Tasercase
+        -   Maddy recognizes the line of ruined arches
+        -   Bots are going to make another attack!
 12. FIXME
 13. FIXME
 14. FIXME

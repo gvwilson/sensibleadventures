@@ -110,6 +110,9 @@ Each chapter is 1500-1800 words.
         -   *Its leds dimmed for a moment as if it was closing its eyes to think, then brightened.  "Tonight."*
 3.  You Have to Listen!
     -   Maddy has a flashback to the bot attack in which her father disappeared
+        -   Maddy was supposed to watch Sindy
+        -   Sindy got away looking for their parents
+        -   Their father distracted the bots in order to save her
     -   Argument
         -   She gets angry at Dockety and hits it
         -   Gumption stops her: "We have to warn everyone."
@@ -355,15 +358,11 @@ Each chapter is 1500-1800 words.
     -   Emergency lights turn on automatically
         -   Maddy waits to hear Patient's voice, but it doesn't come
     -   Explores a bit until she finds another control room, empty and waiting
-    -   Goes back
-        -   Sindy climbs down
-        -   Dockety drops, bounces on his single wheel, says, "Ouch."
-        -   Sindy: "Did that hurt?"
-        -   Dockety: "This does not feel pain." pause "But this would not actively pursue a repeat."
-    -   Maddy leads them to the second control room
-        -   Dockety turns the screens on
-        -   Begins to recharge itself
-        -   Can't hear Patient's voice
+    -   A diffident little cleaning bot comes out to dust
+        -   Rolls under a desk and lifts it hydraulically
+        -   Freezes when it notices Maddy
+        -   Maddy: "You don't have to be afraid."
+    -   It leads her to a workstation in front of a dozen screens and presses a combination of switches
     -   Maddy realizes that the sentry posts have cameras and microphones, and that Patient has been watching everything
         -   Images are black and white: she realizes that it must be night outside
     -   And microphones: she can hear her mother arguing with Mayor Lupus
@@ -379,18 +378,85 @@ Each chapter is 1500-1800 words.
         -   A convoy of two dozen bots led by Tasercase
         -   Maddy recognizes the line of ruined arches
         -   Bots are going to make another attack!
-12. FIXME
-13. FIXME
-14. FIXME
+12. Modular Construction
+    -   Maddy hurries back to the hole
+    -   No response when she first calls up, but when she raises her voice, they answer
+        -   Sindy had fallen asleep
+        -   Dockety was in energy conservation mode (which also helps shield it from Patient's control)
+    -   Maddy tells them what she has seen
+        -   Sindy climbs down
+        -   Dockety drops, bounces on his single wheel, says, "Ouch."
+        -   Sindy: "Did that hurt?"
+        -   Dockety: "This does not feel pain." pause "But this would not actively pursue a repeat."
+    -   Maddy leads them to the second control room
+        -   Dockety can't hear Patient's voice
+        -   Finds a recharger (Sindy is jealous)
+    -   Maddy and Sindy try to figure out what to do
+        -   Maddy jokes again about pulling a lever
+        -   Sindy starts crying: "It's not my fault!"
+        -   Maddy tries to comfort her
+        -   Sindy: "You and mama---you never say it, but I know you think it's my fault papa was taken."
+        -   Maddy: "No---it's my fault."
+    -   The cleaner bot comes out and shyly gives them a carefully-cleaned collection of paper clips
+        -   Maddy makes appreciative noises
+        -   It scurries away and comes back with a ruler and three pencils
+        -   And then a few sheets of paper in a clear plastic binder
+        -   Sindy says, "This is really nice," and then takes her bracelet off and gives it to the bot
+    -   Dockety wakes up
+    -   They agree they have to stop the attack, but they'll never get there in time
+    -   Dockety has downloaded a schematic of the site
+        -   Dockety: "It is possible to reach them in time."
+        -   Maddy: "How?"
+        -   Dockety (slightly uncomfortable): "Modular construction enables reconfiguration."
+        -   Sindy: "What?"
+        -   Maddy: "You mean we can change your parts?"
+        -   Dockety (even more uncomfortable): "Yes, but please do not be so blunt in the presence of other units."
+    -   Dockety displays a map
+        -   Dockety: "We must reach this location"
+    -   Maddy asks the cleaner bot to come with them
+        -   It rocks back and forth in agitation
+        -   Dockety: "It will not leave its duties without appropriate authorization.  There is nothing we can do."
+    -   They go through more tunnels and reach a hangar full of machine parts
+        -   Including some strange shapes that would later show up in Maddy's dreams
+    -   Lights come on and Patient gloats about knowing where they were going from Dockety's download
+    -   They are ambushed by half a dozen service bots!
+13. The Windmill
+    -   Dockety: "Delay them." and begins to fiddle with a strange contraption that looked like a fallen windmill
+    -   Maddy: "How?" But even as she asked, she had an idea.
+    -   She holds up the clear plastic binder: "I found your instructions."
+    -   The service bots freeze
+    -   Patient: "Repeat that."
+    -   Maddy: "I found the Makers' instructions.  The ones you *haven't* been following.  They're going to be very disappointed."
+    -   Pause, then Patient: "That is---that is an inaccuracy intended to coerce behavior!"
+    -   Maddy smiles wickedly, her heart pounding: "You mean a bluff?  Nope."
+    -   Sindy shrieks as a long manipulator from a stealthy little bot behind her snatches the documents
+    -   Patient: "This is a cleaning roster!"
+    -   She and Sindy throw things at the cleaning bots, some of whom are distracted and start to pick things up as Patient yells, "Never mind that, get them!"
+    -   Cleaning bot appears and trips up one of the service bots, but that's not going to be enough
+    -   Windmill whirs to life
+    -   Dockety has attached it to its chassis---though it would be more accurate to say it had attached itself to the windmill
+    -   Dockety grabs them and flies into the air as the ceiling splits and opens
+        -   Centuries of muck and dirt spill into the hangar
+        -   Patient: "That is not authorized!"
+        -   Maddy looks back and sees the ecstatic cleaning bot already starting to sweep up
+14. Crash Landing
 15. FIXME
 16. FIXME
 17. FIXME
 18. FIXME
 19. FIXME
 20. The Beginning
-    -   Last scene is Dockety in the Roos' house
-    -   Sees the picture of Papa Roo
-    -   "It remembers this from Heck.  It---*they*---is in Heck."
+    -   Last scene is Smarty Leaf, Dockety, and Crusher at the Roos' house with the Roos and Gumption
+        -   On the porch because Crusher wouldn't fit inside
+    -   Maddy trips, Dockety is right there to catch the bowl
+    -   Smarty Leaf has some dice
+    -   Turns out Sindy is a luck shaper
+        -   Smarty Leaf: "You will need training.  Let's keep this between us for now."
+    -   Sindy to Maddy: "Is it okay? I know you wanted to---"
+    -   Maddy hugs her
+    -   Dockety: "Since this is already holding the plates, shall it help clear the table?"
+    -   Dockety sees the picture of Papa Roo
+    -   "This is in Heck."
 
 ## Quotes
 

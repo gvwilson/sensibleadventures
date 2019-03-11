@@ -176,7 +176,7 @@ Each chapter is 1500-1800 words.
         -   Maddy: "The big one?  The big one pulling the cart?"
         -   ... "If you help me get my sister I'll help you with...with it."
         -   Dockety agrees, but says they'll never catch up
-        -   "Unless you let me carry you."
+        -   "Unless you allow me to carry you."
     -   Speed down the path
         -   Maddy closed her eyes, but that just made it worse, so she opened them, which made it even worse
     -   Reach the highway to Heck (broken down, but still better than forest tracks)
@@ -201,33 +201,42 @@ Each chapter is 1500-1800 words.
     -   She grabs a scrap of rebar that just happens to be lying there and breaks the lock
     -   The two goats and Sindy scramble out
         -   Maddy hugs Sindy
+        -   The goats are Gracious and Goodness (sisters)
     -   "Was that a bot helping you?" one of the goats asks
     -   "Don't worry about that now," Maddy snaps.  "We have to *go*!"
     -   "But---but we're in the Mire!"
-    -   Just then Crusher appears at the top of the hill and they start to run
+    -   Just then Crusher appears at the top of the hill
+        -   Dockety tries to reason with it, but it doesn't respond
+        -   They flee
     -   Describe the Mire: overgrown with weeds, puddles are strange colors
         -   The trees are twisted, but they don't move on their own like they did in stories
-    -   One of the goats has hurt his leg
-        -   "You help him," Maddy tells the other goat.  "I'll look after my sister."
+    -   Gracious Goat has hurt her leg
+        -   "You help her," Maddy tells Goodness.  "I'll look after my sister."
     -   It's getting dark, but they can hear gears grinding behind them whenever they stop
         -   Sindy: "Do you think they have searchlights?  Or flamethrowers?"
         -   Maddy: "I'm sure they don't have flamethrowers," she replied, trying to sound more confident than she felt.
-    -   Suddenly the long-legged bot ambushes them
-        -   They realize Crusher has been driving them toward it
-    -   One of its arms ends in a clumsy overweight chainsaw
-    -   It swings, Sindy shrieks, chain of accidets, the bot cuts a tree that falls across a bubbling stream
+    -   Suddenly the long-legged bot ambushes them and drives them toward the stream
+        -   One of its arms ends in a clumsy overweight chainsaw
+    -   A boat is waiting for them
+        -   Realize that the other bots have been driving them toward it
+    -   The sawbot swings, Sindy shrieks, chain of accidents, the sawbot cuts a tree that falls onto the boat
+        -   The boatbot's controller is damaged
     -   Maddy: "Go!"
-    -   The goats go first, the bot chases them, the tree tumbles into the water, the bot is destroyed
-    -   The goats are now on one side of the poison stream while Sindy and Maddy are on the other
+    -   The goats clamber onto the boat
+        -   The sawbot chases them
+        -   The tree tumbles into the water
+        -   The sawbot is destroyed
+    -   The goats are now in the boat while Sindy and Maddy are on the shore
+        -   Goats will go and get help, but it will take them a day to get back to the village
     -   Dockety reappears
+        -   Goats flee
 7.  ...And Into the Mire
-    -   Goats will go and get help, but it will take them a day to get back to the village
-    -   Dockety is sad and angry about the sawbot's demise
+    -   Dockety is sad and angry about the demise of the sawbot and the boatbot
         -   "It did not have a choice. Bots do not have choices when governors are put on them."
     -   Dockety is damaged
         -   Sindy: "Does it hurt?"
         -   Dockety: (reluctantly) "It buzzes.  Where the hole is."
-        -   Sindy finds a piece of metal that fits perfectly over the hole.
+        -   Sindy finds a metal plate from the sawbot that fits perfectly over the hole.
         -   Comment about how lucky she is.
         -   Sindy: "I don't feel very lucky."
     -   Something hoots in the distance
@@ -378,7 +387,7 @@ Each chapter is 1500-1800 words.
         -   A convoy of two dozen bots led by Tasercase
         -   Maddy recognizes the line of ruined arches
         -   Bots are going to make another attack!
-12. Modular Construction
+12. Reconfiguration
     -   Maddy hurries back to the hole
     -   No response when she first calls up, but when she raises her voice, they answer
         -   Sindy had fallen asleep
@@ -407,10 +416,7 @@ Each chapter is 1500-1800 words.
     -   Dockety has downloaded a schematic of the site
         -   Dockety: "It is possible to reach them in time."
         -   Maddy: "How?"
-        -   Dockety (slightly uncomfortable): "Modular construction enables reconfiguration."
-        -   Sindy: "What?"
-        -   Maddy: "You mean we can change your parts?"
-        -   Dockety (even more uncomfortable): "Yes, but please do not be so blunt in the presence of other units."
+        -   Dockety: "Reconfiguration."
     -   Dockety displays a map
         -   Dockety: "We must reach this location"
     -   Maddy asks the cleaner bot to come with them
@@ -422,6 +428,7 @@ Each chapter is 1500-1800 words.
     -   They are ambushed by half a dozen service bots!
 13. The Windmill
     -   Dockety: "Delay them." and begins to fiddle with a strange contraption that looked like a fallen windmill
+        -   Dockety: "This was meant for your kind, but with modifications..."
     -   Maddy: "How?" But even as she asked, she had an idea.
     -   She holds up the clear plastic binder: "I found your instructions."
     -   The service bots freeze
@@ -440,6 +447,33 @@ Each chapter is 1500-1800 words.
         -   Patient: "That is not authorized!"
         -   Maddy looks back and sees the ecstatic cleaning bot already starting to sweep up
 14. Crash Landing
+    -   "Maddy's initial splash of fright was replaced by crashing waves of terror.  There was just enough moonlight for her to see how high they were and how far they'd have to fall if Dockety let go or her coat tore or---she suddenly remembered its arm coming off and all she could think about was what if it happens again?"
+    -   But Sindy is laughing with joy
+    -   The bright white lights of Heck in the distance, the river, the occasional green burp of swamp gas or something worse igniting in the Mire, the road below them
+    -   Sindy is the first to comment on the lights on the road and in the sky
+        -   Dockety swoops down to treetop level so as not to be spotted
+    -   Approach the village
+    -   Villagers in the trees shoot cable guns at them
+    -   Dockety dodges, but with Maddy and Sindy in its arms it isn't maneuverable
+    -   Rope tangles in its rotor and it comes spiraling down
+    -   Captured in a net
+    -   Maddy tries to explain, but the goats and wolves and a bear named Barto won't listen
+        -   All that comes out of Dockety's speakers is hiss and crackle because of crash damage
+    -   But Maddy does convince them that more bots are coming
+    -   They head back to the village with Dockety wrapped in the next over Barto's shoulder and the windmill on a pole between two wolves
+    -   Gracious and Goodness are there
+        -   They made it back...
+        -   ...but they thought Maddy and Sindy had been captured again by Dockety
+    -   Bluster Gruff: "How do we know they're not being controlled?"
+        -   Mayor Lupus scoffs: "What? That's ridiculous?"
+        -   But Maddy can see the idea taking hold in people's minds
+    -   Mama Roo shows up and hugs them
+        -   "Couldn't bear to lose you."
+    -   Smarty Leaf as well
+        -   Maddy makes a joke about how Sindy always finds the right lever to pull
+        -   Smarty Leaf looks thoughtful
+    -   Horn blares: bots sighted!
+    -   Almost immediately the two flying bots pass overhead and drop smoke bombs!
 15. FIXME
 16. FIXME
 17. FIXME
@@ -457,6 +491,11 @@ Each chapter is 1500-1800 words.
     -   Dockety: "Since this is already holding the plates, shall it help clear the table?"
     -   Dockety sees the picture of Papa Roo
     -   "This is in Heck."
+
+## To Do
+
+-   A few things have to go wrong for Sindy
+    -   Luck shapers don't always shape it their way - that's why people fear them
 
 ## Quotes
 

@@ -31,10 +31,10 @@ is set in that world.
 -   Gumption Gruff: a 12-year-old goat
     -   Madica's best friend
     -   He loves books, which makes him odd for a goat
--   Bluster Gruff: a 13-year-old goat
-    -   Gumption's second cousin once removed, and a bully
-    -   Jokes that the only good thing about books is how the glue tastes
-    -   When he calls Madica a "scratcher", Sindy jumps him (which is when we discover her shaping)
+-   Bluster and Bravo Gruff: twin 13-year-old goats
+    -   Gumption's second cousins once removed, and bullies
+    -   Joke that the only good thing about books is how the glue tastes
+    -   When they call Madica a "scratcher", Sindy jumps them (which is the first hint we have of her shaping)
 -   Smarty Leaf: a 200-year-old turtle
     -   Was once the village's schoolteacher, now mostly sleeps, but lends books to children
     -   Turns out to be a powerful earth shaper
@@ -145,6 +145,8 @@ Each chapter is 1500-1800 words.
     -   Smarty Leaf tells the children to run
         -   Mama Roo: "You have to come with us!"
         -   Smarty: "Madam, I am a turtle.  We don't run." [pause] "Mostly because we can't."
+    -   A bot appears spewing smoke
+        -   Makes people feel weak and then fall down (villagers have run into it before)
     -   A big bot appears towing a cage cart (Crusher, but we don't know the name yet)
     -   Smarty Leaf takes a stance and gestures
     -   The earth opens up and Crusher's front tread gets caught
@@ -194,15 +196,18 @@ Each chapter is 1500-1800 words.
 6.  Out of the Cage Cart...
     -   Maddy drops the brick
     -   Dockety races forward and body checks another bot just as it raises itself to grab at Maddy
-    -   The adults and Sindy are yelling for help
+    -   The goats and Sindy are yelling for help
     -   Maddy slides down to the front of the cart and unhitches it just as Crusher's head swivels 180 to see what's happening
     -   She expects the cart to slow down gently but it careens off the road
     -   Maddy is thrown into some bushes as the cart tips onto its side and slides down a rocky hill
     -   She grabs a scrap of rebar that just happens to be lying there and breaks the lock
-    -   The two goats and Sindy scramble out
-        -   Maddy hugs Sindy
-        -   The goats are Gracious and Goodness (sisters)
-    -   "Was that a bot helping you?" one of the goats asks
+    -   Bluster and Bravo Goat scramble out
+        -   Sindy is stuck
+        -   The goats are going to leave her
+        -   Maddy rescues her
+    -   Maddy hugs Sindy
+        -   The goats are scared but immediately start scoffing that they were just about to escape themselves
+    -   "Was that a *bot* helping you?" Blsuter asks
     -   "Don't worry about that now," Maddy snaps.  "We have to *go*!"
     -   "But---but we're in the Mire!"
     -   Just then Crusher appears at the top of the hill
@@ -210,8 +215,10 @@ Each chapter is 1500-1800 words.
         -   They flee
     -   Describe the Mire: overgrown with weeds, puddles are strange colors
         -   The trees are twisted, but they don't move on their own like they did in stories
-    -   Gracious Goat has hurt her leg
-        -   "You help her," Maddy tells Goodness.  "I'll look after my sister."
+    -   Bravo has hurt his leg
+        -   "You help him," Maddy tells Bluster.  "I'll look after my sister."
+        -   "Who put you in charge?" Bluster demands.
+        -   Maddy faces off against him.  "You did when you left Sindy in the cage cart."
     -   It's getting dark, but they can hear gears grinding behind them whenever they stop
         -   Sindy: "Do you think they have searchlights?  Or flamethrowers?"
         -   Maddy: "I'm sure they don't have flamethrowers," she replied, trying to sound more confident than she felt.
@@ -227,9 +234,9 @@ Each chapter is 1500-1800 words.
         -   The tree tumbles into the water
         -   The sawbot is destroyed
     -   The goats are now in the boat while Sindy and Maddy are on the shore
-        -   Goats will go and get help, but it will take them a day to get back to the village
     -   Dockety reappears
         -   Goats flee
+        -   Bravo shouts, "We'll get help!"
 7.  ...And Into the Mire
     -   Dockety is sad and angry about the demise of the sawbot and the boatbot
         -   "It did not have a choice. Bots do not have choices when governors are put on them."
@@ -366,6 +373,8 @@ Each chapter is 1500-1800 words.
     -   The lower corridor is cold instead of cool
     -   Emergency lights turn on automatically
         -   Maddy waits to hear Patient's voice, but it doesn't come
+    -   First stop is labeled "Armory #4", which makes her think of Dockety's arm
+        -   But inside are canisters with caution labels
     -   Explores a bit until she finds another control room, empty and waiting
     -   A diffident little cleaning bot comes out to dust
         -   Rolls under a desk and lifts it hydraulically
@@ -424,6 +433,8 @@ Each chapter is 1500-1800 words.
         -   Dockety: "It will not leave its duties without appropriate authorization.  There is nothing we can do."
     -   They go through more tunnels and reach a hangar full of machine parts
         -   Including some strange shapes that would later show up in Maddy's dreams
+        -   They can see the sky outside and smell fresh air
+        -   Not as musty as the tunnels they've just been in
     -   Lights come on and Patient gloats about knowing where they were going from Dockety's download
     -   They are ambushed by half a dozen service bots!
 13. The Windmill
@@ -434,7 +445,7 @@ Each chapter is 1500-1800 words.
     -   The service bots freeze
     -   Patient: "Repeat that."
     -   Maddy: "I found the Makers' instructions.  The ones you *haven't* been following.  They're going to be very disappointed."
-    -   Pause, then Patient: "That is---that is an inaccuracy intended to coerce behavior!"
+    -   Pause, then Patient: "That is an inaccuracy intended to coerce behavior!"
     -   Maddy smiles wickedly, her heart pounding: "You mean a bluff?  Nope."
     -   Sindy shrieks as a long manipulator from a stealthy little bot behind her snatches the documents
     -   Patient: "This is a cleaning roster!"
@@ -452,21 +463,27 @@ Each chapter is 1500-1800 words.
     -   The bright white lights of Heck in the distance, the river, the occasional green burp of swamp gas or something worse igniting in the Mire, the road below them
     -   Sindy is the first to comment on the lights on the road and in the sky
         -   Dockety swoops down to treetop level so as not to be spotted
+        -   But two of the flying bots come after them
+        -   Maddy notices that they're carrying canisters like the ones she saw in the armory
     -   Approach the village
     -   Villagers in the trees shoot cable guns at them
-    -   Dockety dodges, but with Maddy and Sindy in its arms it isn't maneuverable
-    -   Rope tangles in its rotor and it comes spiraling down
-    -   Captured in a net
-    -   Maddy tries to explain, but the goats and wolves and a bear named Barto won't listen
+        -   Miss the bots chasing them
+        -   Dockety dodges, but with Maddy and Sindy in its arms it isn't as maneuverable
+        -   Rope tangles in its rotor and it comes spiraling down
+        -   Captured in a net
+    -   Maddy tries to explain, but the goats and wolves and a bear named Zeke won't listen
         -   All that comes out of Dockety's speakers is hiss and crackle because of crash damage
     -   But Maddy does convince them that more bots are coming
-    -   They head back to the village with Dockety wrapped in the next over Barto's shoulder and the windmill on a pole between two wolves
-    -   Gracious and Goodness are there
-        -   They made it back...
-        -   ...but they thought Maddy and Sindy had been captured again by Dockety
-    -   Bluster Gruff: "How do we know they're not being controlled?"
+    -   They head back to the village with Dockety wrapped in the next over Zeke's shoulder and the windmill on a pole between two wolves
+    -   Bluster and Bravo are there
+        -   Bravo's leg is in a splint
+        -   Clear to Maddy that he's playing it up
+    -   They made it back, but thought Maddy and Sindy had been captured again by Dockety
+        -   Their version of events has them escaping on their own and rescuing Sindy and Maddy
+    -   Bluster (to distract people): "How do we know they're not being controlled?"
         -   Mayor Lupus scoffs: "What? That's ridiculous?"
         -   But Maddy can see the idea taking hold in people's minds
+        -   Even when Gumption shows up and defends her
     -   Mama Roo shows up and hugs them
         -   "Couldn't bear to lose you."
     -   Smarty Leaf as well
@@ -474,7 +491,42 @@ Each chapter is 1500-1800 words.
         -   Smarty Leaf looks thoughtful
     -   Horn blares: bots sighted!
     -   Almost immediately the two flying bots pass overhead and drop smoke bombs!
-15. FIXME
+15. Taken
+    -   The smoke makes people weak
+    -   People run away
+    -   Dockety begins flashing a message on its screen saying it can help
+    -   Maddy and Gumption struggle over to Dockety and untie it
+        -   Maddy to Gumption: "Trust me."
+    -   Dockety gets the windmill going to blow away the smoke and save the villagers
+    -   Dockety in front of Crusher: starts flashing heart on its screen
+    -   Crusher hesitates
+    -   Tasercase manipulates its control and Crusher smashes Dockety out of the way
+    -   Maddy and Gumption try to get the windmill upright
+        -   It's heavy and awkward but somehow they manage
+        -   Not really needed: with the smoke gone, the villagers rally and start defending themselves
+    -   Power it down and run over to Dockety
+        -   Zeke comes over with his ax to finish Dockety off
+        -   Maddy defends it: "Didn't you see? It was helping!"
+        -   Zeke stops, uncertain
+        -   Bluster pulls the ax from his hands: "If you won't, I will!"
+        -   Trips over a sudden bump in the earth
+        -   Smarty Leaf steps between the goat the the bot
+    -   Words flash on Dockety's screen: "Are you all right?"
+        -   Maddy starts to tear up: she's OK, but the robot is clearly broken
+        -   Dockety: "Acceptable." pause "It is sad for Crusher."
+        -   Maddy: "It hit you!"
+        -   Dockety: "Not its fault. Not its fault."
+        -   Flashes start to weaken
+    -   Smarty Leaf comforts her
+        -   "There is nothing we can do.  It needs parts, and..."  The old turtle shrugged helplessly.  "We don't have them."
+    -   Maddy and Gumption load Dockety into a wheelbarrow and take him home with Sindy and Mama Roo
+    -   As they come in sight of the house, Maddy says, "I forgot something."
+    -   Goes back to the village square
+    -   Zeke and some goats are cleaning up
+    -   Zeke picks up the windmill
+    -   Maddy says, "You're supposed to leave it here for now in case they come back."
+    -   Confused, the bear does as she instructs
+    -   She fits her shoulders into the harness, starts it up, and flies away
 16. FIXME
 17. FIXME
 18. FIXME

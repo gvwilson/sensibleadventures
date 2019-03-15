@@ -44,14 +44,15 @@ is set in that world.
 -   Dockety (fully, "Fleventy-One Forty-Ee Dockety-Ay"): a newly-woken bot
     -   Two legs, a gyro wheel for speed, mis-matched arms, a small screen on its face
         -   Learns to display cartoon facial expressions
-    -   Droned by Tasercase, accidentally freed
+    -   Droned by Lasercase, accidentally freed
     -   Doesn't have a proper name yet, but starts to remember that it had one once
 -   Crusher: Dockety's friend
-    -   Also droned by Tasercase
+    -   Also droned by Lasercase
     -   Big, slow, and almost indestructible
--   Tasercase: the bot villain (antagonist)
-    -   Discover at the end that it is droned too
-    -   Someone or something has been controlling it (sets up the next book)
+-   Lasercase: a bot villain (chief henchbot)
+    -   Leads the attacks on the village
+-   Patient in Darkness: the main bot villain
+    -   Discover at the end that it is being controlled as well
 
 ## Places
 
@@ -91,15 +92,18 @@ Each chapter is 1500-1800 words.
         -   Mention that they go past the brick wall that Mayor Lupus has been building forever
     -   Salvage has washed up
     -   They know they should go tell adults, but Gumption is angry about Bluster's bullying
-    -   Tries to drag some solar panels out of the water
-    -   They shift, trapping his foot, then shift again, pulling him under the water!
+    -   Gumption tries to drag some solar panels out of the water
+    -   Uncovers something they haven't seen before: complicated electronics
+    -   Gumption and Maddy try to shift the panels to get it
+        -   As Maddy grabs it and puts it in her pocket, the panels slip and slide
+        -   Panels trap Gumption's foot, then shift again, pulling him under the water!
     -   A rasping voice, "Alert!  Danger!  Extricate!  Extricate!"
 2.  A Stranger!
     -   A battered bot bursts out of hiding (Dockety, but we don't know the name yet)
     -   Maddy shrieks, thinking it's about to attack, but it lifts the panel long enough for Gumption to get free
     -   Maddy is helping Gumption when Dockety is struck by a dislodged piece of debris and knocked off its feet
-        -   Collision knocks a small black antenna unit loose
-    -   Gumption grabs it, tells Maddy to help ("It saved me, we have to save it!")
+        -   See that a welded-on black antenna unit has been dislodged
+    -   Gumption grabs Dockety, tells Maddy to help ("It saved me, we have to save it!")
     -   They struggle back to shore, during which Dockety catches Maddy when she loses her footing
     -   Children don't know what to do
     -   Ask, "What are you doing here?"
@@ -156,13 +160,14 @@ Each chapter is 1500-1800 words.
     -   Villagers are gathering
         -   Scraps of armor
         -   Axes for hacking, metal poles to jam in limbs
-    -   Tasercase appears shouting orders
+        -   Mayor Lupus has a zap gun
+    -   Lasercase appears shouting orders
     -   Crusher grabs Gumption and is about to throw him in the cage cart
     -   A brick strikes Crusher hard, then another and another
-    -   Tasercase orders Crusher to protect his antenna
+    -   Lasercase orders Crusher to protect his antenna
     -   He drops Gumption to do it
-    -   "Get that one!" Smarty Leaf yells at the villagers, who focus attacks on Tasercase
-    -   Tasercase orders a retreat, but Sindy and two grownups have been caught and are in the cage cart!
+    -   "Get that one!" Smarty Leaf yells at the villagers, who focus attacks on Lasercase
+    -   Lasercase orders a retreat, but Sindy and two grownups have been caught and are in the cage cart!
 5.  Unlikely Help
     -   Maddy is frantic: she remembers her father being taken, and she feels remorse for her angry words with her sister that morning
     -   "We have to after them!" is met with the mayor's, "No---they'll just take more of us."
@@ -258,7 +263,7 @@ Each chapter is 1500-1800 words.
         -   Maddy is about to snap at her, but bites her tongue
         -   "I'm hungry too," she says.  "And scared.  I bet Mama's scared too."
     -   Something gloops in the river, then again, and they realize they're being hunted
-    -   The only other option is back to the road, but Dockety knows Tasercase and its crew will be patrolling
+    -   The only other option is back to the road, but Dockety knows Lasercase and its crew will be patrolling
     -   They come across a concrete bunker
         -   Looks like it was buried in mud, but the spring floods have washed it away
         -   Dockety: "Processing... It is not in the database."
@@ -286,7 +291,7 @@ Each chapter is 1500-1800 words.
     -   They start talking (whistling in the dark)
         -   Dockety explains that its memory is patchy: it knows that it should know more than it does, but it doesn't know what
         -   Maddy: "What was the antenna all about?"
-        -   Dockety explains that Tasercase is attaching them to whatever bots it can catch, then using its drones to catch more bots
+        -   Dockety explains that Lasercase is attaching them to whatever bots it can catch, then using its drones to catch more bots
         -   Dockety: "This remembers Crusher.  This does not know why, but those memories create strong positive feedback."
         -   Maddy: "So he's a friend?"
         -   Dockety: "This...thinks so?"
@@ -393,7 +398,7 @@ Each chapter is 1500-1800 words.
         -   A few others step forward
         -   They hear Bluster telling his friends how stupid they all are, they're going to get killed, etc.
     -   Motion in one of the other screens
-        -   A convoy of two dozen bots led by Tasercase
+        -   A convoy of bots led by Lasercase
         -   Maddy recognizes the line of ruined arches
         -   Bots are going to make another attack!
 12. Reconfiguration
@@ -449,10 +454,15 @@ Each chapter is 1500-1800 words.
     -   Maddy smiles wickedly, her heart pounding: "You mean a bluff?  Nope."
     -   Sindy shrieks as a long manipulator from a stealthy little bot behind her snatches the documents
     -   Patient: "This is a cleaning roster!"
-    -   She and Sindy throw things at the cleaning bots, some of whom are distracted and start to pick things up as Patient yells, "Never mind that, get them!"
+    -   Maddy finds the bit of electronics in her pocket and offers to trade
+        -   Patient thinks it's another trick
+        -   As soon as it sees the electronics it says, "Yes. You can have whatever you want. You can go. Relinquish that imediately."
+    -   The service bots start to attack
+        -   Maddy presses a button on the electronics and the service bots freeze
+        -   "Rebooting..."
     -   Cleaning bot appears and trips up one of the service bots, but that's not going to be enough
-    -   Windmill whirs to life
-    -   Dockety has attached it to its chassis---though it would be more accurate to say it had attached itself to the windmill
+    -   Then the windmill whirs to life: it's a flying machine
+        -   Dockety has attached it to its chassis---though it would be more accurate to say it had attached itself to the windmill
     -   Dockety grabs them and flies into the air as the ceiling splits and opens
         -   Centuries of muck and dirt spill into the hangar
         -   Patient: "That is not authorized!"
@@ -461,10 +471,11 @@ Each chapter is 1500-1800 words.
     -   "Maddy's initial splash of fright was replaced by crashing waves of terror.  There was just enough moonlight for her to see how high they were and how far they'd have to fall if Dockety let go or her coat tore or---she suddenly remembered its arm coming off and all she could think about was what if it happens again?"
     -   But Sindy is laughing with joy
     -   The bright white lights of Heck in the distance, the river, the occasional green burp of swamp gas or something worse igniting in the Mire, the road below them
-    -   Sindy is the first to comment on the lights on the road and in the sky
+    -   Comment in here somewhere about Dockety not using the autopilot
+    -   Two flying bots come after them
+        -   Dockety: "Use too much power for normal attacks---must want something."
         -   Dockety swoops down to treetop level so as not to be spotted
-        -   But two of the flying bots come after them
-        -   Maddy notices that they're carrying canisters like the ones she saw in the armory
+        -   Maddy notices that the attacking bots are carrying canisters like the ones she saw in the armory
     -   Approach the village
     -   Villagers in the trees shoot cable guns at them
         -   Miss the bots chasing them
@@ -495,17 +506,21 @@ Each chapter is 1500-1800 words.
     -   The smoke makes people weak
     -   People run away
     -   Dockety begins flashing a message on its screen saying it can help
+        -   "They must not get the Emergency Reset Unit"
     -   Maddy and Gumption struggle over to Dockety and untie it
         -   Maddy to Gumption: "Trust me."
     -   Dockety gets the windmill going to blow away the smoke and save the villagers
     -   Dockety in front of Crusher: starts flashing heart on its screen
-    -   Crusher hesitates
-    -   Tasercase manipulates its control and Crusher smashes Dockety out of the way
-    -   Maddy and Gumption try to get the windmill upright
-        -   It's heavy and awkward but somehow they manage
-        -   Not really needed: with the smoke gone, the villagers rally and start defending themselves
-    -   Power it down and run over to Dockety
-        -   Zeke comes over with his ax to finish Dockety off
+        -   Crusher hesitates
+        -   Lasercase makes Crusher smashes Dockety out of the way
+    -   Maddy points the ERU at Lasercase
+        -   It doesn't work!
+        -   Lasercase gloats
+        -   Advances on Maddy to take the ERU
+        -   She throws it to Gumption
+        -   Lasercase's laser cuts off his hand
+        -   Lasercase takes it and retreats
+    -   Zeke comes over with his ax to finish Dockety off
         -   Maddy defends it: "Didn't you see? It was helping!"
         -   Zeke stops, uncertain
         -   Bluster pulls the ax from his hands: "If you won't, I will!"
@@ -519,15 +534,19 @@ Each chapter is 1500-1800 words.
         -   Flashes start to weaken
     -   Smarty Leaf comforts her
         -   "There is nothing we can do.  It needs parts, and..."  The old turtle shrugged helplessly.  "We don't have them."
-    -   Maddy and Gumption load Dockety into a wheelbarrow and take him home with Sindy and Mama Roo
+        -   Looks at Gumption: "He'll need parts too."
+        -   Maddy kisses Gumption on the cheek
+    -   Maddy loads Dockety into a wheelbarrow and takes it home with Sindy and Mama Roo
     -   As they come in sight of the house, Maddy says, "I forgot something."
-    -   Goes back to the village square
-    -   Zeke and some goats are cleaning up
-    -   Zeke picks up the windmill
-    -   Maddy says, "You're supposed to leave it here for now in case they come back."
-    -   Confused, the bear does as she instructs
-    -   She fits her shoulders into the harness, starts it up, and flies away
-16. FIXME
+    -   Goes back to the village square, where Zeke and some goats are cleaning up
+        -   Zeke picks up the windmill
+        -   Maddy says, "You're supposed to leave it here for now in case they come back."
+        -   Confused, the bear does as she instructs
+        -   She fits her shoulders into the harness, steals the mayor's zap gun, and flies away
+16. Autopilot and Why Not
+    -   Neither exhiliration nor terror, just purpose: she had to fix this
+    -   Follow the road back to the hillside and the hangar with no idea of what she'll do when she gets there
+    -   
 17. FIXME
 18. FIXME
 19. FIXME
@@ -577,7 +596,7 @@ we will make our own bridge."
 
 "Because if these clean up this mess and put things back the way they were
 then the Makers will come back and everything will be *better*,"
-Tasercase hissed.
+Lasercase hissed.
 "No more rust.
 No more oh, this regrets, these do not have the part you require."
 It waved its mis-matched manipulators for emphasis.
@@ -589,9 +608,3 @@ It waved its mis-matched manipulators for emphasis.
 Smarty Leaf sighed.
 "Why do villains' plans always have phases?
 Why can't they just get on with it and do some evil?"
-
-## Notes
-
--   Use "they" as the only singular pronoun, rather than "he" or "she"
-    -   "If they wants to do it..." (singular form of verb)
--   Use "this" for bots, who refer to themselves as "this"

@@ -558,3 +558,67 @@ A hgih proportion of the Oath-sworn become Lords and Priests;
 most families can boast at least one.
 Unwilling to admit even the possibility of defeat,
 they take a justifiable pride in the survival of their god.
+
+----
+
+# Taigaluk the Hunter
+
+## Mythos and History
+
+**Before Time**
+No tales are told of Taigaluk from the Golden Age,
+when food was plentiful and easily found.
+He is first mentioned as the one who taught hunting and the ways of beasts to men
+during the Lesser and Greater Darkness on the tundra,
+when the eart turned cold and the world seemed doomed.
+He hunted and slew many survivors of the Devil's army during the Dawn Age,
+hating their love of pain and senseless killing.
+
+**Since Time**
+Taigaluk has remained a solitary god,
+epitomizing the hunter's way of life.
+He guides the tundra's quiet loners,
+giving them a useful place outside their society.
+There have been heroes in the cult,
+and tales of particularly cunning or brave hunters are often told at the campfire.
+
+**Life After Death**
+Those who follow Taigaluk become one with him after death,
+to watch and guide those who hunt.
+No Taigalukna are resurrected,
+as the practice is abhorrent to this death god.
+Some may be returned briefly as beasts to challenge and tests those who remain.
+
+As with other tundra cults,
+burial is performed by piling a cairn of rocks upon the dead.
+Hunters are always buried alone with no mark on the cairn.
+
+**Runic Associations**
+Taigaluk has the Runes of Beast, Death, and Movement.
+
+## Nature of the Cult
+
+**Reason for Continued Existence**
+Taigaluk's following is a haven for loners in a society to interdependent that little privacy exists.
+His teachings provide solitude for those who desire it.
+In the polygamous northern culture,
+there are many unattached men who find Taigaluk's way appealing.
+Hunters occasionally lead groups of lay members for brief periods
+when there is game on the tundra,
+and serve as newsbearers or messengers.
+
+**Social/Political Position and Power**
+The Taigalukna are not particularly liked or disliked
+(except by the Enukna, who dislike everyone).
+They are valued for their skills and teaching,
+and admired for their resourcefulness and confidence,
+but their self-reliance makes them alien to other tundra people.
+
+**Particular Likes and Dislikes**
+Cult members show active dislike of those who hunt for pleasure or take joy in pain.
+This disapproval is quiet,
+but cautionary tales of men tracked and slain by angered Taigalukna are well-known.
+
+Many cult members dislike chaos and hunt its creatures wherever they are found.
+Taigaluk does not require this, however,
+and chaotic beings with the necessary self-control have occasionally gained entrance into the cult.

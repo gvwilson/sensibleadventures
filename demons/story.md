@@ -1,7 +1,7 @@
 ---
 layout: narrow
 title: "The Demon Dragger's Daughter"
-permalink: /shapers-and-bots/demons/
+permalink: /demons/
 ---
 
 ## Synopsis

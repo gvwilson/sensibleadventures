@@ -1,5 +1,7 @@
 body {
     width: 72em;
+    background-image: url(/static/background.jpg);
+    background-size: 100%;
 }
 
 blockquote {

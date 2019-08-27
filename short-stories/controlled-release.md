@@ -322,7 +322,7 @@ So a plan had been formulated. "Science fiction," the male agent says.
 columns in the daily papers. Intelligent design." He snorts.
 
 The man with the tired eyes shrugs apologetically. The thing is, he
-explains, it seemed to be working, so those in charge such things–the
+explains, it seemed to be working, so those in charge of such things–the
 ones in the shadows, the ones who worked for organizations that never,
 *never*, officially existed–had decided to up the stakes.
 

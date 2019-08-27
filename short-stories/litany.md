@@ -1,9 +1,15 @@
 ---
 layout: narrow
-title: "And Should I Fall Behind"
-author: "Greg Wilson"
 permalink: /fall-behind/
 ---
+
+<div align="center">
+  <h1><em>And Should I Fall Behind</em></h1>
+  <h2><em>Greg Wilson</em></h2>
+  <h3><em>For Jeff,<br/>who told me that I still have good times in front of me.</em></h3>
+</div>
+
+<hr/>
 
 *"They're coming," the younger warned,
 eyes closed as he stretched his eldritch senses to their limits.*

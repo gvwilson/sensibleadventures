@@ -1,10 +1,15 @@
 ---
 layout: narrow
-title: "Beneath Coriandel"
-dedication: "For Sadie, who taught me how to climb the ladder."
-author: "Greg Wilson"
 permalink: /beneath-coriandel/
 ---
+
+<div align="center">
+  <h1><em>Beneath Coriandel</em></h1>
+  <h2><em>Greg Wilson</em></h2>
+  <h3><em>For Sadie, who taught me how to climb the ladder.</em></h3>
+</div>
+
+<hr/>
 
 ## Then: Ishad's Onions
 

@@ -6,20 +6,30 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="{{ '/css/bootstrap.min.css' | absolute_url }}" />
-    <link rel="stylesheet" type="text/css" href="{{ '/css/bootstrap-theme.min.css' | absolute_url }}" />
-    <link rel="stylesheet" type="text/css" href="{{ '/css/site.css' | absolute_url }}" />
+    <link rel="stylesheet" type="text/css" href="{{ '/static/bootstrap.min.css' | absolute_url }}" />
+    <link rel="stylesheet" type="text/css" href="{{ '/static/bootstrap-theme.min.css' | absolute_url }}" />
+    <link rel="stylesheet" type="text/css" href="{{ '/static/site.css' | absolute_url }}" />
     <title>{{ site.title }}{% if page.title %}: {{ page.title }}{% endif %}</title>
   </head>
   <body>
     <div class="container">
-      {% include navbar.html %}
-      <h1 class="maintitle">{{ page.title }}</h1>
-      {% if page.author %}<h3>{{ page.author }}</h3>{% endif %}
-      {% if page.dedication %}<p><em>{{ page.dedication }}</em></p>{% endif %}
+      <p align="center">
+        <a href="{{ '/' | absolute_url }}">
+          <img src="{{ '/static/3sa-footer.png' | absolute_url }}" alt="title image" />
+        </a>
+      </p>
+      <h1 align="center">{{page.title}}</h1>
 {{ content }}
-      {% include footer.html %}
+      <footer class="row">
+        <hr width="80%" />
+        <p>
+          Copyright &copy; <a href="http://third-bit.com">Greg Wilson</a>
+          /
+          <a href="mailto:{{site.email}}">Contact</a>
+        </p>
+      </footer>
     </div>
-    {% include javascript.html %}
+    <script src="{{ '/static/jquery-1.9.1.min.js' | absolute_url }}"></script>
+    <script src="{{ '/static/bootstrap.min.js' | absolute_url }}"></script>
   </body>
 </html>

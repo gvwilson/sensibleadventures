@@ -1,14 +1,12 @@
 ---
 layout: narrow
-title: "...But With a Whimper"
-author: "Greg Wilson"
 permalink: /but-with-a-whimper/
 ---
 
-<div align="center" markdown="1">
-![On Spec Fall 2007](../short-stories/on-spec-fall-2007.jpg)
-<br/>
-First published in *On Spec* 19/3, Fall 2007.
+<div align="center">
+<h2><em>...But With a Whimper</em></h2>
+<p><img src="{{ '/short-stories/on-spec-fall-2007.jpg' | absolute_url }}" alt="On Spec Fall 2007" /></p>
+<p>First published in <em>On Spec</em>, Fall 2007.</p>
 </div>
 
 The small cottage stood on the shoulder of one of the rounded hills that

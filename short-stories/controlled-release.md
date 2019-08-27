@@ -1,14 +1,12 @@
 ---
 layout: narrow
-title: Controlled Release
-author: "Greg Wilson"
 permalink: /controlled-release/
 ---
 
-<div align="center" markdown="1">
-![On Spec Winter 2007](../short-stories/on-spec-winter-2007.jpg)
-<br/>
-First published in *On Spec* 19/4, Winter 2007.
+<div align="center">
+<h2><em>Controlled Release</em></h2>
+<p><img src="{{ '/short-stories/on-spec-winter-2007.jpg' | absolute_url }}" alt="On Spec Winter 2007" /></p>
+<p>First published in <em>On Spec</em>, Winter 2007.</p>
 </div>
 
 Maybe you were born that way. Maybe a stray cosmic ray or mutagenic

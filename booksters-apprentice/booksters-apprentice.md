@@ -1,10 +1,19 @@
 ---
 layout: narrow
-title: "The Bookster's Apprentice"
-author: "Greg Wilson"
 permalink: /booksters-apprentice/
 ---
-<p align="center"><em>For Madeleine, who is taking me on the greatest journey of my life.</em></p>
+
+<div class="row">
+  <div class="col-md-4" align="center">
+    <p><img src="{{ '/booksters-apprentice/booksters-apprentice.jpg' | absolute_url }}" alt="The Bookster's Apprentice" width="200px" /></p>
+  </div>
+  <div class="col-md-8" align="center">
+    <h2><em>The Bookster's Apprentice</em></h2>
+    <p>
+      <em>For Madeleine,<br/>who is taking me on the greatest journey of my life.</em>
+    </p>
+  </div>
+</div>
 
 *Take a squat pyramid of rock, four gallops square and two gallops
 tall.  Lift it into the air, then tilt it back like an old man looking
@@ -9254,4 +9263,6 @@ Erileine shrugged.  "Not any more."
 Anything she might have added was cut off as the ground lurched
 beneath them.  Slowly but inexorably, the mountain began to tip over.
 
-*Here ends the first part of The Fall of the Flying Mountain.*
+<div align="center">
+<p><em>Here ends the first part of The Fall of the Flying Mountain.</em></p>
+</div>

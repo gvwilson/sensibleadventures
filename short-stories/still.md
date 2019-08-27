@@ -1,14 +1,13 @@
 ---
 layout: narrow
-title: Still
-author: "Greg Wilson"
 permalink: /still-short/
 ---
 
-<div align="center" markdown="1">
-![On Spec Summer 2010](../short-stories/on-spec-summer-2010.png)
-<br/>
-First published in *On Spec* 22/2, Summer 2010.
+
+<div align="center">
+<h2><em>Still</em></h2>
+<p><img src="{{ '/short-stories/on-spec-summer-2010.png' | absolute_url }}" alt="On Spec Summer 2010" /></p>
+<p>First published in <em>On Spec</em>, Summer 2010.</p>
 </div>
 
 *A lot of my stories aren't true, but this is a true story…*

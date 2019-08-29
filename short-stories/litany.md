@@ -5,8 +5,7 @@ permalink: /fall-behind/
 
 <div align="center">
   <h1><em>And Should I Fall Behind</em></h1>
-  <h2><em>Greg Wilson</em></h2>
-  <h3><em>For Jeff,<br/>who told me that I still have good times in front of me.</em></h3>
+  <p><em>For Jeff, who told me that I still have good times in front of me.</em></p>
 </div>
 
 <hr/>

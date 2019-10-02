@@ -8,7 +8,7 @@ body {
 blockquote {
     font-size: 100%;
     font-style: italic;
-    border: none;
+    border: solid 1px;
 }
 
 ol, ul {

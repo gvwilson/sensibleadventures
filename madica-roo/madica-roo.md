@@ -79,11 +79,12 @@ But they started talking one day and hadn't stopped since,
 and now they swapped their borrowed books back and forth
 so that they at least had someone to roll their eyes with over the mushy bits.
 
-Shaper Leaf's house smelled like old sweaters and fresh cabbage and mystery.
-The turtle was snoring in his battered old rocking chair when they arrived,
+Shaper Leaf's house smelled like old sweaters and fresh cabbage and mystery,
+and if Maddy closed her eyes she could almost imagine that her father was there with her.
+The old turtle was snoring in his battered old rocking chair when they arrived,
 so they placed their books quietly on the table beside him
 and picked two more each from the shelves behind him.
-Maddy glowered at Gumption when he pointed at the top shelf they weren't allowed to browse yet.
+Maddy glowered at Gumption when he pointed at the top shelf they weren't allowed to borrow from yet.
 "Kidding," he mouthed silently.
 Maddy twitched her tail in annoyance and shooed him outside.
 

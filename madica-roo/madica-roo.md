@@ -100,7 +100,7 @@ she finished brightly.
 "Heya," Gumption grunted,
 very carefully *not* looking at Maddy.
 
-<!-- 2020-02-08: 738 words -->
+<!-- 2020-02-08: 728 words -->
 
 -   Maddy orders her home (character development)
     -   When Sindy gets upset, Maddy drops her book

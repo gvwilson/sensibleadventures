@@ -4,7 +4,7 @@ title: Madica Roo
 permalink: /madica-roo/
 ---
 
-## Chapter 1: Salvage (298)
+## Chapter 1: Salvage
 
 Maddy was trying to sketch the willlow tree in the center of the village square
 when Gumption showed up with a couple of books under his arm.
@@ -98,6 +98,8 @@ she finished brightly.
 
 "Heya," Gumption grunted,
 very carefully *not* looking at Maddy.
+
+<!-- 2020-02-08: 738 words -->
 
 -   Maddy orders her home (character development)
     -   When Sindy gets upset, Maddy drops her book

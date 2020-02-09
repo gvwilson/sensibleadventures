@@ -84,12 +84,13 @@ and if Maddy closed her eyes she could almost imagine that her father was there 
 The old turtle was snoring in his battered old rocking chair when they arrived,
 so they placed their books quietly on the table beside him
 and picked two more each from the shelves behind him.
-Maddy glowered at Gumption when he pointed at the top shelf they weren't allowed to borrow from yet.
+Maddy glowered at Gumption when he pointed at the top shelf
+the shaper said they weren't old enough to read yet.
 "Kidding," he mouthed silently.
-Maddy twitched her tail in annoyance and shooed him outside.
+Maddy swished her tail in annoyance and shooed him outside.
 
 Her heart sank as soon as she stepped through the door.
-Her sister Sindy was sitting there
+Her sister Sindy was sitting on the porch
 tangling and untangling a piece of string around her fingers.
 "Where did you *go*?" she asked,
 bouncing to her feet.
@@ -98,18 +99,108 @@ Heya, Gumption!"
 she finished brightly.
 
 "Heya," Gumption grunted,
-very carefully *not* looking at Maddy.
+very carefully *not* looking at Maddy,
+whose glower was back and twice as glowery.
 
-<!-- 2020-02-08: 728 words -->
+<!-- 2020-02-08: 728 words / 45 minutes -->
 
--   Maddy orders her home (character development)
-    -   When Sindy gets upset, Maddy drops her book
-    -   "Look what you made me do!" says Maddy (foreshadowing: turns out Sindy *did* make her do it)
--   Walk past the ancient sentry post in the middle of the village
-    -   Looked like black glass, ageless
-    -   No moss or birds: shocks anything that touches it
-    -   Yet another leftover from the time of the Makers
-    -   Maddy never sketched it - always felt like it was watching her (foreshadowing)
+"Does mamma know you're here?" Maddy demanded.
+
+Sindy bounced up and down a couple of times.
+"Not exactly," she admitted.
+"But she said I could play with you and you weren't home
+so the only way I could do that was to come and find you
+and I figured this would be the best place to look and---"
+
+"Stop!" Maddy snapped.
+"We're both going to be in trouble if mamma thinks I let you wander off.
+Let's just go home and hope she doesn't notice."
+
+The younger roo's ears drooped.
+"I just wanted to play," she said plaintively.
+
+"You always 'just want'," Maddy said under her breath.
+As she fumbled with the tie string on her satchel
+her books slipped out from under her arm and thudded onto the porch.
+
+She sighed heavily.
+"Now look what you made me do.
+No, it's aright, I've got them."
+She shooed Gumption away
+then picked up the books,
+brushed them off,
+and tucked them into her bag.
+"Come on, you."
+
+The trio walked back to the village square without speaking.
+A few grownups nodded or said hello as they passed.
+Maddy nodded back,
+but was too busy staying angry to do any more than that.
+It was two years since her father had been taken by bots.
+She had helped her mother every day since then:
+cleaning the house,
+mixing paint for portraits and signs,
+and most of all,
+looking after her little sister.
+Every time her mother said, "I'm sorry you've had to grow up so fast,"
+Maddy told her she didn't mind,
+and she *didn't*,
+she really didn't,
+but the one afternoon each week when she got to practice sketching
+and talk about books with Gumption was special,
+and it wasn't fair of Sindy to---
+
+"Hey," Gumption said, elbowing her.
+Maddy blinked.
+They had passed through the houses on the other side of the square
+and reached the smaller square that people *didn't* pass time in.
+An ageless black glass pillar stood in its center,
+half again taller than any person Maddy knew.
+Moss didn't grow on it
+and birds never landed on it.
+Gumption said his uncle had touched it once on a dare
+and got a shock so strong it made his whole arm tingle.
+Maddy had never tried to sketch it---whenever she walked past,
+it felt like something or someone was watching her,
+and even if she knew how to capture that in a drawing,
+she didn't want to.
+
+But the pillar wasn't the only thing in the square.
+Bluster and Bravo Gruff were sitting on the waist-high stone wall that surrounded the pillar
+pitching pebbles at it with bored expressions on their faces.
+For a heartbeat Maddy thought they would be able to hurry by unnoticed,
+but then Bluster caught sight of them and nudged his twin brother.
+
+Maddy took her sister's hand.
+"You just stay hushed," she cautioned quietly,
+squeezing to show she meant it.
+She hitched her satchel up onto her shoulder with her other hand
+and tried to ignore the dryness in her mouth.
+
+"Heya, roo," Bluster drawled as he and his brother sauntered over.
+"Whatcha got in yer pouch?"
+
+"Books," Maddy said curtly.
+"And it's not a pouch, it's a satchel."
+
+"I wasn't asking about your bag," Bluster said,
+stepping into her path.
+"I was asking about your *pouch*."
+He rubbed his belly and grinned wickedly.
+"Gummy put anything in there yet?"
+
+"Eat glue," Gumption said hotly,
+his hands balling into fists.
+
+"Why don't you make me?" Bluster replied,
+his just-kidding tone gone as quickly as it had appeared.
+
+"Yeah, make him,"
+his brother Bravo said,
+cracking his knuckles.
+
+<!-- 2020-02-09: 632 words, 45 minutes -->
+
 -   Bluster his friends are hanging out near it
     -   Gumption wants to go around
     -   Maddy insists that they go past

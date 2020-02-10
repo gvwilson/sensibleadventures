@@ -166,7 +166,7 @@ and even if she knew how to capture that in a drawing,
 she didn't want to.
 
 But the pillar wasn't the only thing in the square.
-Bluster and Bravo Gruff were sitting on the waist-high stone wall that surrounded the pillar
+Bluster and Bravo Gruff were sitting on the unfinished brick wall that surrounded the pillar
 pitching pebbles at it with bored expressions on their faces.
 For a heartbeat Maddy thought they would be able to hurry by unnoticed,
 but then Bluster caught sight of them and nudged his twin brother.
@@ -189,24 +189,123 @@ stepping into her path.
 He rubbed his belly and grinned wickedly.
 "Gummy put anything in there yet?"
 
-"Eat glue," Gumption said hotly,
+"Why don't you eat glue?" Gumption said hotly,
 his hands balling into fists.
 
 "Why don't you make me?" Bluster replied,
 his just-kidding tone gone as quickly as it had appeared.
 
-"Yeah, make him,"
-his brother Bravo said,
+"Yeah, make us,"
+his brother Bravo echoed,
 cracking his knuckles.
 
 <!-- 2020-02-09: 632 words / 45 minutes -->
 
--   Bluster his friends are hanging out near it
-    -   Gumption wants to go around
-    -   Maddy insists that they go past
-    -   Bluster bullies them: "You think you're some kinda shapers?"
-    -   Shaper Leaf is there (somehow appeared unnoticed) and rebukes him: "I am."
-    -   His glower says, "This isn't over."
+"I don't think glue would be a good diet for any of us, do you?"
+Shaper Leaf asked calmly.
+Maddy jumped.
+Somehow the old turtle had come up behind them without anyone noticing.
+He looked as gentle as a falling leaf,
+in his heavy brown sweater and tiny round glasses,
+but the goat brothers immediately unclenched their hands.
+
+The shaper held out a sheet of paper.
+"I think you dropped this."
+
+"Thanks," Maddy said.
+She squeezed Sindy's hand before letting go of it to take back the proffered sketch.
+
+"You're getting much better,"
+the turtle continued.
+"Your father would be very proud of you."
+
+"Thanks," Maddy repeated.
+
+The silence that followed stretched and stretched until finally Bluster broke it.
+"C'mon," he said to his brother.
+With the barest of nods to the shaper they walked away,
+in step as always.
+
+"I don't like them," Sindy pronounced, wrinkling her muzzle.
+
+Maddy let out a relieved breath.
+"Me neither. Thank you," she told the shaper a third time.
+
+The turtle smiled.
+"You're welcome---it would have been a shame to lose such a nice drawing.
+Are you headed home?
+It's been a while since I saw your mother, and I could use a longer walk."
+
+The Roo family's house stood on the very edge of the village.
+The ground floor had been built by a rhino
+who had dreamed of opening a tavern in Rusty Bridge,
+only to discover that there wasn't enough traffic on the ancient highway
+to keep one going.
+A family of wolves had moved in after he moved on
+and added a second story
+built to a smaller scale.
+Maddy's father had taken one look and decided it was the perfect place to start a family.
+Her mother had rolled her eyes and reminded him that
+he'd called the previous three towns they had visited perfect too.
+He had laughed and said,
+"Yeah, but this time I'm right."
+
+Maddy had heard that story almost every night when she was little.
+She remembered it every time she opened the bigger-than-usual front door
+and entered the house's larger-than-most-people front hall.
+"Mamma!" she called.
+"We're home!
+And the shaper's come to call!"
+
+Her mother poked her head out of the kitchen.
+"Heya, shaper. Heya, Gumption."
+
+"Ma'am." "Heya, Mamma Roo." they answered
+as Sindy bounced down the hallway for a hug.
+
+"Careful," Mamma Roo cautioned her youngest.
+"I've got paint on me."
+
+"Don't care,"
+Sindy said,
+her voice muffled by her mother's fur and apron.
+
+Mamma Roo smiled down at her and scratched her ears.
+"I was just about to make some soup," she said.
+"Will you stay?"
+
+"That's very kind, but I'm afraid I have a prior engagement,"
+Shaper Leaf replied politely.
+"Though I would take tea if you had some?"
+
+"Of course.
+What about you, Gumption?"
+
+The young goat cleared his throat.
+"Thanks, Mamma Roo, but I oughta get home."
+
+"Some other time, then," Mamma Roo said brightly,
+careful to keep the relief out of her voice.
+There wasn't much call for sign painting and portraiture in Rusty Bridge.
+Between people paying just a little more than they needed to
+and the mending and housecleaning that Mamma Roo took on
+the family was managing to get by,
+but Maddy knew that dinner for two extra people tonight
+would have meant no lunch for her mother the next day.
+Mamma Roo would have insisted if it was almost anyone else---she
+was as proud as a lion when it came to keeping house---but
+Gumption was practically almost family
+and somehow Shaper Leaf always made people feel comfortable
+when no one else could.
+
+"Can I walk with Gumption a spell?" Maddy asked her mother.
+"We haven't hardly had a chance to talk."
+
+"Of course,
+but you be home before dark."
+
+<!-- 2020-02-10: 657 words / 43 minutes -->
+
 -   Maddy and Gumption sneak away to the river to get away from everything
     -   Mention that they go past the brick wall that Mayor Lupus has been building forever
     -   They talk on the way about what kind of shapers they'd be if they could be shapers

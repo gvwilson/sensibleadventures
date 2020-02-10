@@ -199,7 +199,7 @@ his just-kidding tone gone as quickly as it had appeared.
 his brother Bravo said,
 cracking his knuckles.
 
-<!-- 2020-02-09: 632 words, 45 minutes -->
+<!-- 2020-02-09: 632 words / 45 minutes -->
 
 -   Bluster his friends are hanging out near it
     -   Gumption wants to go around

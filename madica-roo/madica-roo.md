@@ -298,22 +298,140 @@ Gumption was practically almost family
 and somehow Shaper Leaf always made people feel comfortable
 when no one else could.
 
-"Can I walk with Gumption a spell?" Maddy asked her mother.
+"Can I walk with Gumption home?"
+Maddy asked her mother as casually as she could.
 "We haven't hardly had a chance to talk."
 
 "Of course,
-but you be home before dark."
+but you be home before dark.
+Now,
+where *is* that roseleaf..."
 
 <!-- 2020-02-10: 657 words / 43 minutes -->
 
--   Maddy and Gumption sneak away to the river to get away from everything
-    -   Mention that they go past the brick wall that Mayor Lupus has been building forever
-    -   They talk on the way about what kind of shapers they'd be if they could be shapers
--   Salvage has washed up
--   They know they should go tell adults, but Gumption is angry about Bluster's bullying
--   Gumption tries to drag some solar panels out of the water
--   Uncovers something they haven't seen before: complicated electronics
--   Gumption and Maddy try to shift the panels to get it
-    -   As Maddy grabs it and puts it in her pocket, the panels slip and slide
-    -   Panels trap Gumption's foot, then shift again, pulling him under the water!
--   A rasping voice, "Alert!  Danger!  Extricate!  Extricate!"
+The sun was low on the horizon
+as Maddy and Gumption walked slowly back toward town.
+By unspoken agreement they left the main road
+and took the path that ran down by the river.
+It was the longer route,
+but that was okay.
+For one heart-stopping moment Maddy thought Gumption was going to hold her hand,
+and when he didn't,
+she almost took his,
+but then they came out of the trees onto the riverbank and the moment was behind them.
+
+"What kind of shaper would you want to be?" Gumption asked out of nowhere.
+
+"I don't think I'd get to choose," Maddy replied,
+grateful for the diversion.
+
+"I know, but if you could?" Gumption persisted.
+"I'd want to shape earth like Shaper Leaf.
+Rrrrr..."
+He made a rumbling sound in his throat
+and shook his hands in the air.
+
+"What was that supposed to be?" Maddy laughed.
+
+Gumption let his hands fall to his side.
+"Earth shaping," he said with a lopsided grin.
+"You know, like---hey, look down there!"
+He pointed at the river.
+
+Maddy gasped.
+Salvage!
+And not just a few scraps either,
+but a couple of what looked like solar panels
+and some machinery
+and---
+"Wait, what are you doing?
+Gumption, get back here!"
+
+"Finders keepers!" the young goat called over his shoulder.
+"Come on!"
+
+Maddy only hesitated for a moment.
+Most of what washed down the river from Heck and the Mire was scrap,
+but even scrap could be sold for shaping or plain old blacksmithing.
+And other stuff like those solar panels---just one of those
+would fetch enough to feed her whole family for months.
+Her family and Gumption's,
+she corrected guiltily in her head
+as she scrambled down the riverbank,
+loose gravel skittering away under her boots.
+
+The solar panels had gotten snagged in a knot of branches
+that were themselves caught in the weeds upstream from a sandbar.
+She and Gumption waded into the river,
+heedless of the cold water that filled their boots.
+At first they tried to lift one of the panels,
+but everything was too tangled together.
+Pushing and shoving,
+they managed to work it free and slide it up onto the sandbar.
+It was light than Maddy had expected,
+but its edges were as sharp as broken glass.
+
+She and Gumption stood side by side for a moment to catch their breath.
+"What do you think it is?" he asked,
+jerking his chin at the pipes and rods and flywheels
+that lay in the water.
+
+Maddy shook her head.
+"Just junk, maybe?"
+She glanced sideways at him.
+"I think we ought to leave it.
+For the grownups to get," she added hastily.
+"We can get the other panel,
+but I don't think we can lift that."
+*And I don't want to try,* she added to herself.
+It didn't look like any bot she'd ever heard of it,
+and it was pretty clearly broken,
+but it wasn't just the sudden chill of twilight that made her shiver
+when she looked at it.
+
+"I guess," Gumption said.
+"But see that bit?"
+He pointed at a rectangle of crystal circuitry bobbing gently up and down,
+attached to the rest of the machine by only a few wires.
+"I bet we can pry that off."
+Without waiting for her to answer he waded back in,
+grabbed hold of the circuitry,
+and pulled.
+
+The wires that connected it to the rest of their prize went taut but didn't come free.
+"Mmph! Come *on*!"
+Gumption braced one foot against the machine and heaved.
+
+"Look out!" Maddy exclaimed.
+The foot Gumption was standing on slid out from under him.
+As it slid across the riverbed it must have knocked a few crucial stones out of the way,
+making the machine slip just enough to trap his foot..
+
+"Argh! Maddy! Help!"
+He let got of the circuit board and windmilled his arms frantically,
+trying not to be pushed under the water
+as the machine's weight bore down on his leg.
+
+Maddy splashed over and grabbed his shirt.
+She pulled as hard as she could,
+but all it did was yank his shirt out of his trousers.
+"Pull!" he shouted,
+grabbing her shoulder.
+
+She wrapped her arms around his chest and heaved,
+but it was no use.
+The machine had driven his foot into the soft bottom of the river,
+trapping it,
+and everything they were doing was just shifting its weight even more.
+If she let go of him to run for help
+he wouldn't be able to keep his head above water!
+
+"Help!" she shouted.
+"Someone! Help!"
+
+"Responding!" a rasping mechanical voice answered.
+"Danger! Extricate! Extricate!"
+A battered bot burst out of the trees
+and hurtled down the gravel toward them!
+
+<!-- 2020-02-11: 801 words / 40 minutes -->

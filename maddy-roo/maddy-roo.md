@@ -1,7 +1,7 @@
 ---
 layout: narrow
-title: Madica Roo
-permalink: /madica-roo/
+title: Madyy Roo
+permalink: /maddy-roo/
 ---
 
 ## Chapter 1: Salvage

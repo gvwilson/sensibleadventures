@@ -435,3 +435,132 @@ A battered bot burst out of the trees
 and hurtled down the gravel toward them!
 
 <!-- 2020-02-11: 801 words / 40 minutes -->
+
+## Chapter 2.  Targets Acquired
+
+Maddy shrieked and stumbled backward.
+Her boot slipped on a submerged patch of weeds.
+She half-fell clumsily in the knee-deep water
+as the bot hurried toward them with long clanking strides.
+
+"Get away! Get away from me! Help!" Gumption yelled in panic.
+Maddy struggled to her feet and splashed back to help her friend,
+
+The bot got there first.
+"Extricate! Extricate!" it repeated in a loud monotone.
+With a single hard shove it sent the second solar panel spiralling away upstream.
+Pivoting,
+the bot took hold of the sunken machinery with its mismatched manipulators.
+For a moment nothing happened,
+but then Gumption fell backward into Maddy's startled arms
+as his foot came free.
+
+"Extricated," the bot pronounced in the same loud monotone.
+"Resuming primary mission."
+Its head swiveled.
+"Targets acquired."
+
+"Run!" Maddy shouted.
+Gumption didn't need to be told twice.
+They splashed up onto the sandbar and sprinted toward shore.
+
+But the bot's legs were longer than theirs
+and its motors were more powerful than any living muscles.
+It easily blocked their path and reached out to grab them.
+
+Gumption yelped and ducked under the bot's arm.
+Maddy ducked as well but was half a heartbeat too slow.
+A cold metal manipulator twice the size of her hand clamped around her arm!
+"Target acquired!" the bot intoned.
+
+"Eat glue!" she yelled at it
+and launched herself into the air.
+
+Roos are peaceful people, mostly.
+They don't mind jokes about their big feet and bulky tails,
+but anyone who has ever seen a roo jump-kick someone
+will think twice about making those jokes.
+After her father was taken,
+Maddy's mother made her and Sindy practice over and over again
+on one of the trees behind their house.
+"Just in case," she said whenever her children complained that they were tired.
+"Just in case."
+
+If this wasn't "in case", Maddy didn't know what would be.
+
+Her booted feet hit the bot squarely in its midsection.
+She *kicked* as hard as she could.
+The force of it toppled the bot backward into the river
+and sent her tumbling awkwardly in the other direction.
+She landed with a splash that soaked whatever parts of her had still be dry.
+
+"Maddy!" Gumption yelled,
+doubling back to help her to her feet.
+
+"Run!" she shouted at him again.
+The bot was already righting itself.
+There was no way they could---
+
+*Crunch!*
+Just as the bot started to stand,
+the solar panel it had pushed upstream collided with it,
+knocking it over once again.
+One sharp corner drove into the bot's back.
+Something cracked.
+There was a flash brighter than white and a sharp sizzling sound.
+The bot froze and toppled over.
+
+Maddy didn't need a second hint.
+"Let's get out of here!"
+
+"No, wait!"
+Gumption shook off her grip on his sleeve.
+"We have to take care of it."
+
+"Take *care* of it!?"
+Maddy realized she was panting.
+She swallowed and tried to slow her breathing.
+"What do you want to do, tell it a bedtime story?"
+
+Gumption shook his head.
+"No, I mean *take care* of it."
+He stooped over to pick up the biggest rock he could lift.
+
+"Stop! You can't..."
+Maddy swallowed again.
+Bots weren't alive,
+but they were still people,
+and what Gumption was planning to do---that would be murder,
+even if this one was a rogue or a raider.
+
+Gumption looked at her, his jaw set.
+"Yes I can," he grunted.
+"You heard what it said.
+We're just targets.
+You want it to go after Sindy next?"
+
+He didn't wait for an answer.
+Struggling with the weight of his rock,
+he waded into the river.
+
+The bot still lay where it had fallen.
+Gumption hesitated for a moment.
+"Anyway, thanks for saving me," he muttered.
+He lifted the rock over his head---
+
+---and yelped with surprise as the bot sat up in the water and said,
+"You're welcome."
+
+<!-- 2020-02-13: 667 words / 45 minutes -->
+
+-   Maddy is helping Gumption when Dockety is struck by a dislodged piece of debris and knocked off its feet
+    -   See that a welded-on black antenna unit has been dislodged
+-   Gumption grabs Dockety, tells Maddy to help ("It saved me, we have to save it!")
+-   They struggle back to shore, during which Dockety catches Maddy when she loses her footing
+-   Children don't know what to do
+-   Ask, "What are you doing here?"
+-   Bot
+    -   "This is unable to---" stops, tentatively reaches up to broken aerial unit.
+    -   "This now appears able to reply.  This is part of a sneak attack on Location Six Bitty Six, also referred to as 'Rusty Bridge'."
+    -   Children: "Attack? When?"
+    -   Its leds dimmed for a moment as if it was closing its eyes to think, then brightened.  "Tonight."

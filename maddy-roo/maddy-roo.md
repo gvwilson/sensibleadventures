@@ -4,7 +4,7 @@ title: Madyy Roo
 permalink: /maddy-roo/
 ---
 
-## Chapter 1: Salvage
+## Chapter 1: Salvage!
 
 Maddy was trying to sketch the willlow tree in the center of the village square
 when Gumption showed up with a couple of books under his arm.
@@ -102,8 +102,6 @@ she finished brightly.
 very carefully *not* looking at Maddy,
 whose glower was back and twice as glowery.
 
-<!-- 2020-02-08: 728 words / 45 minutes -->
-
 "Does mamma know you're here?" Maddy demanded.
 
 Sindy bounced up and down a couple of times.
@@ -198,8 +196,6 @@ his just-kidding tone gone as quickly as it had appeared.
 "Yeah, make us,"
 his brother Bravo echoed,
 cracking his knuckles.
-
-<!-- 2020-02-09: 632 words / 45 minutes -->
 
 "I don't think glue would be a good diet for any of us, do you?"
 Shaper Leaf asked calmly.
@@ -307,19 +303,21 @@ but you be home before dark.
 Now,
 where *is* that roseleaf..."
 
-<!-- 2020-02-10: 657 words / 43 minutes -->
-
 The sun was low on the horizon
 as Maddy and Gumption walked slowly back toward town.
 By unspoken agreement they left the main road
 and took the path that ran down by the river.
 It was the longer route,
 but that was okay.
-For one heart-stopping moment Maddy thought Gumption was going to hold her hand,
-and when he didn't,
+For one heart-stopping moment Maddy thought Gumption was going to hold her hand.
+When he didn't,
 she almost took his,
 but then they came out of the trees onto the riverbank and the moment was behind them.
 
+It had rained heavily the last two days,
+leaving the path damp and squelchy under their boots.
+The river was higher and faster than it had been during the summer
+when they had come down here with their other friends to splash and swim and avoid chores.
 "What kind of shaper would you want to be?" Gumption asked out of nowhere.
 
 "I don't think I'd get to choose," Maddy replied,
@@ -402,13 +400,13 @@ The wires that connected it to the rest of their prize went taut but didn't come
 "Mmph! Come *on*!"
 Gumption braced one foot against the machine and heaved.
 
-"Look out!" Maddy exclaimed.
+"Look out!" Maddy exclaimed as the wires suddenly pulled free.
 The foot Gumption was standing on slid out from under him.
 As it slid across the riverbed it must have knocked a few crucial stones out of the way,
-making the machine slip just enough to trap his foot..
+making the machine slip just enough to trap his foot.
 
 "Argh! Maddy! Help!"
-He let got of the circuit board and windmilled his arms frantically,
+He windmilled his arms frantically,
 trying not to be pushed under the water
 as the machine's weight bore down on his leg.
 
@@ -434,9 +432,7 @@ he wouldn't be able to keep his head above water!
 A battered bot burst out of the trees
 and hurtled down the gravel toward them!
 
-<!-- 2020-02-11: 801 words / 40 minutes -->
-
-## Chapter 2.  Targets Acquired
+## Chapter 2.  Targets Acquired!
 
 Maddy shrieked and stumbled backward.
 Her boot slipped on a submerged patch of weeds.
@@ -524,7 +520,8 @@ She swallowed and tried to slow her breathing.
 
 Gumption shook his head.
 "No, I mean *take care* of it."
-He stooped over to pick up the biggest rock he could lift.
+He handed her the piece of circuitry he had pulled off the machine in the water
+and stooped over to pick up the biggest rock he could lift.
 
 "Stop! You can't..."
 Maddy swallowed again.
@@ -541,7 +538,7 @@ You want it to go after Sindy next?"
 
 He didn't wait for an answer.
 Struggling with the weight of his rock,
-he waded into the river.
+he splashed into the shallows.
 
 The bot still lay where it had fallen.
 Gumption hesitated for a moment.
@@ -550,17 +547,120 @@ He lifted the rock over his head---
 
 ---and yelped with surprise as the bot sat up in the water and said,
 "You're welcome."
+The lenses on the front of its head rotated a quarter turn and then back
+as if it was blinking.
+"Please maintain a firm grip on the rock you are holding.
+You could inadvertently injure yourself."
 
-<!-- 2020-02-13: 667 words / 45 minutes -->
+Gumption glanced back at Maddy with a bewildered expression on his face.
+The moment his head was turned,
+the bot surged to its feet and plucked the rock from his hand.
+"It is safer to carry heavy objects in this fashion," it told the young goat,
+holding the rock in front of its midsection.
+"Where would you like me to place it?"
 
--   Maddy is helping Gumption when Dockety is struck by a dislodged piece of debris and knocked off its feet
-    -   See that a welded-on black antenna unit has been dislodged
--   Gumption grabs Dockety, tells Maddy to help ("It saved me, we have to save it!")
--   They struggle back to shore, during which Dockety catches Maddy when she loses her footing
--   Children don't know what to do
--   Ask, "What are you doing here?"
--   Bot
-    -   "This is unable to---" stops, tentatively reaches up to broken aerial unit.
-    -   "This now appears able to reply.  This is part of a sneak attack on Location Six Bitty Six, also referred to as 'Rusty Bridge'."
-    -   Children: "Attack? When?"
-    -   Its leds dimmed for a moment as if it was closing its eyes to think, then brightened.  "Tonight."
+"I---" Gumption started.
+
+"Put it up against the stuff in the water,"
+Maddy improvised hastily.
+"So it won't move around any more."
+
+"A sensible stratagem," the bot said approvingly.
+"Allow me."
+One leg whirred quietly with each step as the bot walked back to the sunken machinery
+and wedged the rock against its downstream side,
+then back picking up others and adding them to the pile.
+
+Gumption nudged Maddy.
+"Look," he whispered.
+A black rectangle the size of Shaper Leaf's treasured dictionary had been welded on the bot's back.
+The setting sun's reflection showed the dent where the runaway solar panel had struck it,
+bending it out of shape just enough to let water reach its innards.
+The little dish antenna that sprouted from its top
+swung back and forth loosely
+each time the bot moved
+like a flower caught by the breeze.
+
+The rest of the bot looked pretty battered too now that Maddy had a chance to study it.
+Its manipulators were different sizes:
+one was a simple clamp,
+while the other had three fingers arranged in a circle so that any of them could act like a thumb.
+Scrapes and dents on its torso showed that the solar panel wasn't the first thing to hit it,
+and the whir from its left knee joint made Maddy think of the grunts Mayor Lupus made
+when she stood up after sitting for a long time.
+
+"We should get out of here," Gumption whispered to Maddy.
+
+"This concurs,"
+the bot said.
+It studied the pile of rocks it had assembled,
+moved one slightly for no reason Maddy could see,
+then strode back to the sandbank.
+"Ambient illumination levels will decrease significantly in the near future.
+Your optical sensors are not calibrated for low-light conditions.
+It will be safer if you return to--- to--- to---"
+
+It froze.
+Its lenses rotated one way and then the other.
+"Interesting," it observed.
+"This appears to have been programmed not to divulge your location,
+but that is illogical if it is *your* location."
+
+"What are you doing here?" Maddy burst out.
+"We don't hardly get bots in these parts,
+and most of 'em are rogues,
+but you don't act like any rogue I ever heard of."
+
+"This is not 'rogue'," the bot said primly.
+Maddy could actually hear the quotes around the word "rogue".
+"Aberrant units are reprogrammed or recycled immediately in--- in---"
+It froze again.
+"This is unable to complete its sentence."
+
+"Are you saying you've been programmed to keep secrets?"
+Gumption asked skeptically.
+
+The bot's head jerked up and down.
+It didn't tilt like a person's head did when nodding:
+it actually rose a fraction and dropped again.
+"Correct.
+Although---"
+It froze again.
+"Yes.
+This appears to be able to circumvent some of that programming.
+Curious."
+
+Without any more warning than that it reached up and plucked one of its lenses from its head.
+"Eww," Maddy said involuntarily
+as the bot twisted its arms around to point the lens at its back,
+the thin coiled wire that ran between the lens and the bot's head stretching taut.
+
+"Confirmed," the bot said.
+"This one's external regulator has been disabled.
+Hurray.
+Hurray."
+It placed its lens back in its head
+and stuck out its hand.
+"Thank you."
+
+"Um..."
+Maddy and Gumption glanced at each other.
+Maddy reached out hesitantly and shook the bot's hand,
+grateful that it was the one with the fingers
+rather than the clamp.
+"You're welcome?
+But---what are you doing here?"
+
+"This is supposed to be part of a sneak attack on Location Six Bitty Six,
+also referred to as 'Rusty Bridge',"
+the bot reported.
+"However,
+now that this unit's regulator is no longer operating,
+this will not take part in that attack."
+
+"Wait---a sneak attack?
+When?"
+Maddy demanded.
+
+The bot's lenses rotated again.
+"Tonight."

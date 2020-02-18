@@ -45,13 +45,13 @@
     -   "This now appears able to reply.  This is part of a sneak attack on Location Six Bitty Six, also referred to as 'Rusty Bridge'."
     -   Children: "Attack? When?"
     -   Its leds dimmed for a moment as if it was closing its eyes to think, then brightened.  "Tonight."
-
-## 3.  You Have to Listen!
-
 -   Maddy has a flashback to the bot attack in which her father disappeared
     -   Maddy was supposed to watch Sindy
     -   Sindy got away looking for their parents
     -   Their father distracted the bots in order to save her
+
+## 3.  You Have to Listen!
+
 -   Argument
     -   She gets angry at Dockety and hits it
     -   Gumption stops her: "We have to warn everyone."

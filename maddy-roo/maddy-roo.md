@@ -166,7 +166,7 @@ she didn't want to.
 But the pillar wasn't the only thing in the square.
 Bluster and Bravo Gruff were sitting on the unfinished brick wall that surrounded the pillar
 pitching pebbles at it with bored expressions on their faces.
-For a heartbeat Maddy thought they would be able to hurry by unnoticed,
+For a moment Maddy thought they would be able to hurry by unnoticed,
 but then Bluster caught sight of them and nudged his twin brother.
 
 Maddy took her sister's hand.
@@ -299,9 +299,19 @@ Maddy asked her mother as casually as she could.
 "We haven't hardly had a chance to talk."
 
 "Of course,
-but you be home before dark.
+but you be home before dark."
+
+Sindy sniffled and pulled her face out of her mother's apron.
+"I want to come too!"
+
+"I don't see why---um."
+Mama Roo stopped herself at a pleading glance from her older daughter.
+"Actually,
+Sindy,
+I think I'd like you to set the table.
+No, don't fuss, it needs doing---you hop to it.
 Now,
-where *is* that roseleaf..."
+where *is* that roseleaf tea..."
 
 The sun was low on the horizon
 as Maddy and Gumption walked slowly back toward town.
@@ -465,7 +475,7 @@ and its motors were more powerful than any living muscles.
 It easily blocked their path and reached out to grab them.
 
 Gumption yelped and ducked under the bot's arm.
-Maddy ducked as well but was half a heartbeat too slow.
+Maddy ducked as well but was half a moment too slow.
 A cold metal manipulator twice the size of her hand clamped around her arm!
 "Target acquired!" the bot intoned.
 
@@ -511,7 +521,7 @@ Maddy didn't need a second hint.
 
 "No, wait!"
 Gumption shook off her grip on his sleeve.
-"We have to take care of it."
+"We gotta take care of it."
 
 "Take *care* of it!?"
 Maddy realized she was panting.
@@ -658,9 +668,9 @@ the bot reported.
 now that this unit's regulator is no longer operating,
 this will not take part in that attack."
 
-"Wait---a sneak attack?
-When?"
+"Wait---a sneak attack?"
 Maddy demanded.
+"When?"
 
 The bot's lenses rotated again.
 "Tonight."
@@ -798,4 +808,127 @@ she would just have been taken too.
 Everyone told her that,
 but it didn't make any difference.*
 
-## Chapter 3: You Have to Listen!
+## Chapter 3: You Gotta Listen!
+
+*"Wait---a sneak attack?"
+Maddy demanded.
+"When?"*
+
+*The bot's lenses rotated in a mechanical blink.
+"Tonight."*
+
+Maddy stared at it.
+"What do you mean 'tonight'?" she blurted.
+
+"The next diurnal period of darkness," the bot answered.
+"'Diurnal' meaning 'of or pertaining to the day'.
+The phenomenon is caused by the earth's rotation, which---"
+
+"I know what makes night happen!" Maddy snapped.
+"But what do you mean 'tonight'?
+You're attacking Rusty Bridge *tonight*?"
+
+"Negative," the bot said firmly.
+"This one will not be attacking at all.
+It does not have to now that its regulator has been rendered nonfunctional."
+Without warning it twisted its long arms around at an angle no living thing could have matched.
+A high-pitched whine was followed by a tinny *clink!*
+as a screw dropped and bounced off a stone.
+
+Whine-*clink!*
+Whine-*clink!*
+Whine-*clink!*
+Three more screws fell to the ground.
+"There."
+The bot held up the black box that had been fastened to its back,
+studied it for a moment,
+then tossed it onto the sandbar.
+
+Gumption grabbed Maddy's sleeve.
+"We gotta get back and warn folk!" he said urgently.
+
+Maddy nodded, her mind whirling.
+She took two steps then pulled up short and turned back to the bot.
+"You gotta come with us," she said.
+"They won't believe us if it's just us.
+You gotta come with us and tell them."
+
+"This one does not 'gotta' do anything," the bot replied firmly.
+"This one is now able to make its own choices."
+Its lenses rotated.
+"In fact,
+this one has just made a choice."
+
+With no more warning than that,
+the bot strode through the shallows to the riverbank.
+Something clunked inside it.
+A single wire-spoked wheel the size of Maddy's head folded down from its torso.
+The bot retracted its legs and zipped away into the trees.
+
+"Well, I didn't see *that* coming,"
+Gumption admitted in the silence that followed.
+
+Maddy shook herself.
+"It doesn't matter.
+We gotta tell people.
+Here."
+She picked up the black regulator that the bot had discarded
+and handed it to Gumption.
+"Let's show this to my mama.
+If we can convince her,
+maybe she can convince everyone else."
+
+Leaving the solar panels and the submerged machine behind,
+they hurried back to the Roo family home
+to find Sindy sitting on the front steps swishing a twig back and forth.
+"I wanted to come with you," she whined as Maddy and Gumption paused to catch their breath.
+
+Maddy shook her head.
+"Never mind that.
+Is the shaper still here?"
+
+"He left," Sindy pouted.
+"But how come I couldn't come with you?
+It's boring all by myself."
+
+"Well then maybe you ought to try being a little more interesting,"
+Maddy snapped.
+
+Sindy's face fell.
+"That was *mean*," she said accusingly.
+
+"Yeah, well, cry me a rainstorm," Maddy said under her breath.
+She stepped around her sister and reached for the door.
+Somehow her foot caught on the edge of the step and sent her sprawling.
+"Ooph!"
+
+"You aright?"
+Gumption asked,
+helping her up.
+
+Maddy shook him off.
+"I'm fine.
+Let's go tell mama."
+
+Mama Roo was still in the kitchen,
+humming under her breath as she chopped grass and ferns for the next day's breakfast.
+She jumped when Maddy and Gumption burst in.
+"Makers, you startled me!
+Wait, slow down, slow down!"
+She patted the air with her hands
+in a vain attempt to stop Maddy and Gumption from tripping over each other's words.
+"What were you doing down by the---
+Wait, a bot?
+What was---
+Hold up, hold up.
+I said, hold up!"
+The two teenagers finally stopped.
+Mama Roo looked from one to the other.
+"Start from the beginning," she said.
+"And no interrupting."
+
+It only took a few moments for Maddy and Gumption to explain what had happened.
+Mama Roo looked at the black metal box in Gumption's arms
+and then pulled off her apron.
+"All right.
+We need to tell the mayor."

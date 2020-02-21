@@ -931,4 +931,103 @@ It only took a few moments for Maddy and Gumption to explain what had happened.
 Mama Roo looked at the black metal box in Gumption's arms
 and then pulled off her apron.
 "All right.
-We need to tell the mayor."
+We need to tell the mayor.
+We need to tell *everyone*."
+
+The sun was tangled in trees on the horizon as the foursome left the Roo home.
+A light breeze ruffled Maddy's fur,
+just chill enough to give her goosebumps.
+Warm light spilled from the windows of the house they hurried by,
+white or yellow or sometimes tinged with blue
+depending on what kind of salvaged bulb or strip or panel created it.
+Maddy felt a pang of regret
+for not hauling the solar panels she and Gumption had found
+all the way up onto the riverbank.
+*They'll be washed away by morning,*
+she thought despondently,
+then immediately felt guilty for worrying about money
+when people's lives might be at stake.
+
+The mayor's house was the only three-story building in Rusty Bridge,
+and also the only one with a balcony.
+Mayor Lupus was standing on it when they arrived,
+her elbows on the railing and a glass of red wine in her hand.
+"It's the closest thing to actual blood I allow myself,"
+she always joked,
+baring her wolf teeth just a little when she smiled.
+Maddy had once heard her father say that the mayor was a *very* alpha female,
+and while some of the goats might grumble that
+it was time someone with hooves had a turn running things,
+everyone expected that the mayor would still be standing on that balcony
+long after all of her fur had finished turning gray.
+
+"We need to talk to you," Mama Roo called up.
+"It's an emergency.
+There's bots coming!"
+
+"Bots? Where?"
+An ox who had been passing by came over to join them.
+
+"We had a fight with one down by the river,"
+Maddy explained as Gumption held up the regulator.
+"It said there's going to be a sneak attack---tonight!"
+
+"Makers preserve us," the ox gasped,
+his eyes going wide.
+
+"Who've you been fighting with?"
+The mayor thumped down her front steps,
+leaning heavily on her gnarlywood cane.
+"I won't have fighting, you know that.
+If you kids can't sort out your problems, you should---"
+
+"They haven't been fighting with each other,"
+Mama Roo interrupted loudly.
+The mayor insisted she wasn't going deaf,
+but would allow to friends that she was grateful when people didn't mumble.
+"They had a fight with a bot down by the river.
+It told them there's more on the way---a sneak attack."
+
+The mayor frowned.
+"What were you doing down by the river?
+And why would it tell you there was going to be a sneak attack?
+Kind of takes away the sneak, if you see my point."
+
+The story spilled out of Maddy and Gumption
+like paint out of a pair of dropped buckets.
+They'd been walking home---well, Gumption's home, not Maddy's, obviously---and
+gone after salvage,
+and they'd yanked a part right off some kind of machine
+(Maddy fished the circuit board out of her pocket to show everyone)
+and then a bot had come after them
+but they knocked it down and its regulator broke off
+and then it didn't have to follow orders and it told them about the attack.
+
+"What in the Makers' name is a 'regulator'?"
+the mayor grumbled,
+turning the black box over in her hands and sniffing it
+before handing it back to Gumption.
+
+"I don't know,"
+Maddy confessed.
+"But it sure acted strange once it was broken.
+Like it was waking up from a bad dream or something."
+
+"Hm."
+The ear that the mayor hadn't lost in a long-ago fight twitched.
+"I never heard as bots could dream.
+And I never heard of rogues or raiders giving folks any warning that they were coming."
+She looked at Mama Roo.
+"You see this bot of theirs yourself?"
+
+Mama Roo shook her head.
+"I was at home.
+But they were in a might panic when they told me,
+and I don't think they'd leave salvage without a good reason."
+
+"Hm," the mayor grunted again.
+"All right, I'll get a couple of folk up from their dinners to go have a look.
+No, no, hang on."
+She cut off Maddy and Gumption's interruptions with a wave of her hand.
+"I'm not saying I don't believe you,
+but I want to be sure of what I'm howling about before I start to howl."

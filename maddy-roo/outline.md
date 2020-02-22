@@ -78,11 +78,11 @@
 -   Explain the story, show him the antenna
 -   His eyes widen in recognition
 -   And the shouting starts
+-   Rumbling on the road
+-   A goat farmer has run into town, pants, "The bots are coming!  The bots are coming!"
 
 ## 4.  The Attack
 
--   A goat farmer has run into town, pants, "The bots are coming!  The bots are coming!"
--   Rumbling on the road
 -   Shaper Leaf tells the children to run
     -   Mama Roo: "You have to come with us!"
     -   Shaper: "Madam, I am a turtle.  We don't run." [pause] "Mostly because we can't."

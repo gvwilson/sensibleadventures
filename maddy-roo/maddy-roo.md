@@ -111,7 +111,7 @@ so the only way I could do that was to come and find you
 and I figured this would be the best place to look and---"
 
 "Stop!" Maddy snapped.
-"We're both going to be in trouble if mamma thinks I let you wander off.
+"We're both gonna be in trouble if mamma thinks I let you wander off.
 Let's just go home and hope she doesn't notice."
 
 The younger roo's ears drooped.
@@ -325,7 +325,7 @@ she almost took his,
 but then they came out of the trees onto the riverbank and the moment was behind them.
 
 It had rained heavily the last two days,
-leaving the path damp and squelchy under their boots.
+leaving the path damp and squelchy under their feet.
 The river was higher and faster than it had been during the summer
 when they had come down here with their other friends to splash and swim and avoid chores.
 "What kind of shaper would you want to be?" Gumption asked out of nowhere.
@@ -366,12 +366,12 @@ would fetch enough to feed her whole family for months.
 Her family and Gumption's,
 she corrected guiltily in her head
 as she scrambled down the riverbank,
-loose gravel skittering away under her boots.
+loose gravel skittering away under her feet.
 
 The solar panels had gotten snagged in a knot of branches
 that were themselves caught in the weeds upstream from a sandbar.
 She and Gumption waded into the river,
-heedless of the cold water that filled their boots.
+heedless of the cold water that rose up almost to their knees.
 At first they tried to lift one of the panels,
 but everything was too tangled together.
 Pushing and shoving,
@@ -445,7 +445,7 @@ and hurtled down the gravel toward them!
 ## Chapter 2: Targets Acquired!
 
 Maddy shrieked and stumbled backward.
-Her boot slipped on a submerged patch of weeds.
+Her feet slipped on a submerged patch of weeds.
 She half-fell clumsily in the knee-deep water
 as the bot hurried toward them with long clanking strides.
 
@@ -494,7 +494,7 @@ on one of the trees behind their house.
 
 If this wasn't "in case", Maddy didn't know what would be.
 
-Her booted feet hit the bot squarely in its midsection.
+Her feet hit the bot squarely in its midsection.
 She *kicked* as hard as she could.
 The force of it toppled the bot backward into the river
 and sent her tumbling awkwardly in the other direction.
@@ -906,8 +906,11 @@ Somehow her foot caught on the edge of the step and sent her sprawling.
 Gumption asked,
 helping her up.
 
-Maddy shook him off.
-"I'm fine.
+Maddy glared at her sister.
+"What? I didn't do anything!" Sindy protested.
+
+Maddy shook off Gumption's hand.
+"It's aright, I'm fine.
 Let's go tell mama."
 
 Mama Roo was still in the kitchen,
@@ -922,7 +925,7 @@ Wait, a bot?
 What was---
 Hold up, hold up.
 I said, hold up!"
-The two teenagers finally stopped.
+The two children finally stopped.
 Mama Roo looked from one to the other.
 "Start from the beginning," she said.
 "And no interrupting."
@@ -970,14 +973,15 @@ An ox who had been passing by came over to join them.
 
 "We had a fight with one down by the river,"
 Maddy explained as Gumption held up the regulator.
-"It said there's going to be a sneak attack---tonight!"
+"It said there's gonna be a sneak attack---tonight!"
 
 "Makers preserve us," the ox gasped,
 his eyes going wide.
 
 "Who've you been fighting with?"
 The mayor thumped down her front steps,
-leaning heavily on her gnarlywood cane.
+leaning on her gnarlywood cane for balance
+each time her weight came down on her stiff mechanical leg.
 "I won't have fighting, you know that.
 If you kids can't sort out your problems, you should---"
 
@@ -990,7 +994,7 @@ It told them there's more on the way---a sneak attack."
 
 The mayor frowned.
 "What were you doing down by the river?
-And why would it tell you there was going to be a sneak attack?
+And why would it tell you there was gonna be a sneak attack?
 Kind of takes away the sneak, if you see my point."
 
 The story spilled out of Maddy and Gumption
@@ -1026,8 +1030,100 @@ But they were in a might panic when they told me,
 and I don't think they'd leave salvage without a good reason."
 
 "Hm," the mayor grunted again.
-"All right, I'll get a couple of folk up from their dinners to go have a look.
-No, no, hang on."
+"All right, I'll get a couple of folk up from their dinners to go have a look."
+
+"Will you at least ring the alarm bell?"
+Maddy asked desperately.
+The old bell hung on an enormous curlicue hook on the porch of the mayor's house.
+Generations of village children had whispered to one another that
+it was made from the plating of a scavenger bot
+that had made its home beneath Rusty Bridge when there still was a bridge.
+They stopped believing the story when they got older,
+not knowing that it was true.
+
+"Nope," the mayor said.
 She cut off Maddy and Gumption's interruptions with a wave of her hand.
 "I'm not saying I don't believe you,
-but I want to be sure of what I'm howling about before I start to howl."
+but I want to know what I'm howling about before I start to howl.
+Now you all stay right here while I go ruin the Ox brothers' dinner."
+
+Crestfallen,
+Maddy watched the mayor stump away,
+her cane and artificial leg going *whirr-thump*, *whirr-thump*.
+"She doesn't believe us."
+
+"Nope," Gumption agreed,
+setting the boxy regulator down on the porch steps with a sigh.
+"We're probably all gonna be in cages by the morning."
+
+"Now you hush,"
+Mama Roo said firmly,
+putting a reassuring hand on her younger daughter's shoulder.
+
+"Sorry,"
+Gumption said guiltily, scuffing the ground with his hoof.
+"I didn't mean..."
+
+"It's aright," Maddy said,
+bumping her shoulder against his.
+
+"I just wish Shaper Leaf was here,"
+Sindy complained.
+"He'd know what to do."
+
+"Well, speaking of trouble."
+Mama Roo raised her hand and waved.
+"Evening, Shaper!
+Join us for a spell?"
+
+As if summoned by his name,
+the old turtle had appeared on the other side of the square.
+He squinted and returned Mama Roo's wave
+as he came over to join them.
+"Evening, Mama Roo.
+Evening, all.
+Warm one tonight."
+
+"It is," Mama Roo agreed politely.
+"But Shaper, there's trouble."
+She quickly summarized the children's story.
+
+"And it called this a 'regulator'?"
+the shaper asked,
+turning the black box over and over in his wrinkled hands.
+
+"Yup," Gumption confirmed.
+"What's it do?"
+
+The old turtle shook his head.
+"I don't know for sure,
+but I've heard of such things.
+If a bot's got one of these on it,
+whoever has the controller can make it do whatever it wants."
+
+"Wow---that would be well more than handy,"
+Gumption said, awed.
+He nudged Maddy.
+"We'd never have to do chores again."
+
+Shaper Leaf shook his head again.
+"Not so handy for whoever's wearing this end,"
+he said,
+suddenly sounding tired.
+
+Gumption scuffed the ground with his hoof again,
+but whatever apology he might have made was cut off by a shout of,
+"Mayor Lupus! Mayor Lupus!"
+A goat with his shirt half-buttoned ran up to them, panting.
+"Where's the mayor?
+Where's Mayor Lupus?"
+
+"He's gone along by the Ox brothers," Mama Roo answered.
+"Why? What's wrong?"
+
+The goat gulped.
+"Bots!
+There's bots coming,
+a whole pack of 'em!"
+
+With three quick strides Shaper Leaf crossed to the porch and ran the alarm bell.

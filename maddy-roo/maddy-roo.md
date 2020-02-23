@@ -1126,4 +1126,145 @@ The goat gulped.
 There's bots coming,
 a whole pack of 'em!"
 
-With three quick strides Shaper Leaf crossed to the porch and ran the alarm bell.
+"Excuse me."
+Shaper Leaf slipped between Maddy and Gumption,
+climbed the steps,
+and rang the alarm bell.
+
+## Chapter 4: Raid!
+
+*Donk! Donk! Donk!*
+"Bother," the old turtle said mildly,
+reaching into the bell and pulling a sock off the clapper.
+"I keep telling the mayor she really shouldn't."
+
+*Dong! Dong! Dong!*
+This time the bell rang true,
+its peals echoing off the walls of the building around the square.
+*Dong! Dong! Dong!*
+Three and a pause to signal an attack.
+Three and a pause to bring Maddy's memories of the worst night of her life
+rushing back.
+
+Windows opened.
+Heads poked out.
+"What's happening? What's going on?"
+
+"Bots!"
+the goat yelled through cupped hands.
+"Raiders!
+Whole lot of 'em comin' up along the main road!"
+
+Mama Roo grabbed Maddy's arm.
+"You and Sindy get back to the house *now*," she ordered.
+
+"I'm not leaving you!" Maddy protested.
+
+"You'll do as I say, young lady!"
+Fear made her mother's voice stern.
+"Sindy, you go with your sister.
+You gotta run, both of you, fast as you can."
+
+"I'm not going unless you are!" Sindy said stubbornly.
+She was crying,
+Maddy realized,
+only then realizing that there were tears in her own fur as well.
+
+"Go with them,"
+Shaper Leaf urged Mama Roo.
+"Keep them safe."
+
+"Will you come with us?" Sindy asked the old turtle.
+
+Shaper Leaf smiled a wrinkly smile.
+"No.
+I am turtle.
+Turtles don't run from rights."
+He paused.
+"Mostly because we can't."
+
+And then suddenly it was too late to run.
+A tricycle bot roared into the square,
+waving its twig-thin arms to keep its balance
+as one back wheel came up in the air.
+
+"Get outta here, you!" the goat who had sounded the alarm shouted.
+Shirt tails flapping,
+he waved his arms at the bot as if he was trying to scare a goose back to its flock.
+
+"Look out!" Maddy yelled
+as black dizzysmoke began to spew out of the canister on the tricycle bot's back.
+
+The goat didn't hear,
+or was too angry or too frightened to pay attention.
+He grabbed a rake that someone had left propped against a wall
+and charged at the bot.
+
+The bot reversed,
+tires squealing on the cobblestones.
+A belch of greasy black smoke rolled over the goat.
+He stumbled, spun around, and fell to the ground.
+
+"Go! Run!" Shaper Leaf ordered,
+squaring his shoulders.
+Something popped as he rolled his head from side to side to loosen his neck.
+
+Maddy grabbed Sindy,
+spun around,
+and shrieked as the biggest bot she had ever seen rumbled into the square,
+completely blocking the street she had been about to take.
+It was practically a slab of metal,
+its blocky legs as wide as the double doors of the mayor's house
+and its arms like tree trunks.
+Each leg ended in a pair of tractor treads,
+and as it rolled forward
+she saw that it was dragging a cage cart behind it.
+
+"Oh no," she whispered.
+That cart could only mean one thing.
+The bots were here to steal people,
+just like they had stolen her father!
+
+"Not today, creature," Shaper Leaf said.
+He planted his feet firmly on the cobblestones,
+rolled his head to work out one last kink,
+and then swept his arms in a broad circle.
+
+The earth groaned and split.
+A crack fully a meter across opened right in front of the huge bot.
+"Ha!" Shaper Leaf crowed
+as one of the bot's treads nosedived into the fissure.
+
+*Crash!*
+The bot fell to one enormous knee.
+Its motors roared as it braced a hand on the cobbles
+and heaved itself back upright.
+
+Shaper Leaf raised his arms over his head
+and brought them down and around in a great clap
+right in front of where his belly button would have been
+if he'd had one.
+A square of cobbles punched upward in response,
+knocking the huge bot off balance once again.
+
+"Get 'im, Shaper, get 'im!" Gumption shouted.
+The young goat grabbed a loose cobblestone off the ground
+and threw it at the huge bot
+as it staggered and tried to regain its balance.
+
+"Get the other one!
+Get the smoker!"
+Maddy yelled.
+She grabbed a cobblestone of her own and threw it at the tricycle bot
+that was still spinning in circles and spewing smoke.
+
+Her stone fell well short.
+"I got it!"
+Gumption picked up two more cobblestones
+and charged at the smaller bot.
+One! He missed.
+Two! The second stone clanked off its casing.
+
+"Uh oh."
+As Maddy and Gumption straightened up with more stones in their hands,
+half a dozen more bots charged into the square.

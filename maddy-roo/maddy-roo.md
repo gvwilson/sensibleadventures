@@ -1225,7 +1225,7 @@ That cart could only mean one thing.
 The bots were here to steal people,
 just like they had stolen her father!
 
-"Not today, creature," Shaper Leaf said.
+"Not today, clunker," Shaper Leaf said.
 He planted his feet firmly on the cobblestones,
 rolled his head to work out one last kink,
 and then swept his arms in a broad circle.
@@ -1268,3 +1268,121 @@ Two! The second stone clanked off its casing.
 "Uh oh."
 As Maddy and Gumption straightened up with more stones in their hands,
 half a dozen more bots charged into the square.
+
+"Seriously?" Shaper Leaf muttered shakily.
+He punched the air, one two three.
+Cobblestones flung themselves at the new arrivals,
+leaving divots in the ground for them to trip over.
+Something with long legs and a small body sprawled full length.
+Another bot that looked like a trash can with arms and a single wheel
+bounced over one hole and veered around another
+only to be caught in a sudden rut.
+"Ner er," it buzzed loudly as its wheel snapped off.
+Its body rolled to a halt.
+To Maddy's horror,
+it righted itself and walked on its hands back to the trench
+to pull out the wheel and snap it back in place.
+
+"Go! Run!" Shaper Leaf gasped.
+"I can't keep this up much longer!"
+
+"We're not leaving you!" Maddy cried,
+but her mother was pulling her,
+saying, "Come on! Come on!"
+as the huge hauler bot batted away a clump of flying earth and rumbled forward once again.
+
+"Arrooo! Arrooo!"
+Wolf howls sent shivers up Maddie's fur.
+In mismatched helmets and salvaged armor,
+the village militia charged around the corner and hit the bots from behind.
+Some had weighted axes meant for hacking.
+Others had long pikes with bent metal hooks on the end
+to tangle in bots' limbs and gears.
+
+"Take 'em in pairs!" Mayor Lupus shouted,
+raising her precious zap gun to her shoulder and sighting along it.
+*BZZZP!*
+Purple-blue lightning arced across the square
+and hit the garbage can bot that had just finished putting its wheel back in place.
+It glowed and sparked like a firefly caught in a lantern and fell over,
+its mechanical arms twitching.
+
+"Woo hoo!" Gumption shouted,
+punching the air with his fist
+as Mama Roo tried to drag him away.
+"You show 'em, mayor!"
+But even as he said it
+the other bots flung canisters of dizzysmoke at the villagers.
+One hit an ox square in the chest,
+knocking him off his feet.
+Dark smoke spewed into the air.
+
+Suddenly Sindy screamed.
+Maddy whirled around.
+Two bots had circled around the village and come in behind them
+to block their escape!
+"Get away!" the younger roo shrieked as the lead bot tried to grab her.
+
+"Duck!" Mayor Lupus shouted.
+*BZZZP!*
+A bolt of electricity from her zap gun hit one of the bots.
+As it sparked and shuddered,
+the second bot wrapped a mechanical tentacle around its midriff.
+The purple glow raced up the tentacle and into the second bot.
+The second bot's four eyes glowed for an instant,
+and then the bot that had been zapped was moving again.
+
+But so was Maddy.
+She jumped and kicked with all her might.
+The lead bot staggered back.
+
+The second bot knocked it aside and clattered forward on its crab-like legs.
+A tentacle lashed out, catching Maddy across her thighs.
+A jolt ran through her body.
+For a moment her mouth tasted like tin foil
+and everything had a halo swimming around it.
+
+"Maddy!"
+Gumption caught her as she toppled over.
+
+"Mama!"
+Sindy cried.
+A second tentacle struck Mama Roo in the ribs,
+and then the bot had the youngest roo.
+
+*Clank!*
+Something hard and heavy hit the tentacled bot in the back.
+*Clank! Clank!*
+It buzzed its rage as stones sailed out of the darkness behind it,
+each one finding its mark.
+As the bot spun around to face this new attacker,
+Maddy saw that it too had a black box fastened to its back.
+
+"Withdraw! Withdraw!"
+The crab bot's amplified command was so loud it made Maddy's head ring even more.
+Holding Sindy's limp body high over its head with one tentacle,
+it scuttled across the square to the huge cargo bot.
+Two limp goats lay in the cage behind it.
+It tossed Sindy in on top of them and slammed the cage door closed.
+
+*BZZZP!*
+The blast from the zap gun hit the crab bot square in the torso.
+It spun around and aimed its tentacles at the militia.
+*BZZZP!*
+*BZZZP!*
+Two bursts of purple electricity struck the militia.
+They toppled over.
+
+Motors roaring,
+the big bot rumbled away into the darkness
+hauling its three prisoners behind it,
+leaving chaos in the village square.
+Half of the militia lay on the ground,
+dazed by dizzysmoke or shocked by the crab bot's final blast.
+Shaper Leaf was still on his feet,
+gesturing feebly,
+but too exhausted to make the earth obey him.
+Scattered plates of armor and parts of broken mechanical limbs
+proved that the bots had paid a heavy price for their victory,
+but as Mama Roo wrapped Gumption and Maddy in a hug
+all Maddy could think was that her little sister was gone.

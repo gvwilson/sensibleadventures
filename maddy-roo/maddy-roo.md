@@ -675,7 +675,7 @@ Maddy demanded.
 The bot's lenses rotated again.
 "Tonight."
 
-## Interlude: Two Years Earlier
+*Two years earlier...*
 
 *"You keep saying you want us to let you do more," Maddy's father said in his reasonable tone.
 "Well, this is more."*
@@ -1352,37 +1352,134 @@ and then the bot had the youngest roo.
 
 *Clank!*
 Something hard and heavy hit the tentacled bot in the back.
-*Clank! Clank!*
-It buzzed its rage as stones sailed out of the darkness behind it,
+*Clank! Clank! Clank!*
+It buzzed its rage as a hailstorm of stones sailed out of the darkness behind it,
 each one finding its mark.
-As the bot spun around to face this new attacker,
+As the bot spun around to face its new attacker,
 Maddy saw that it too had a black box fastened to its back.
 
-"Withdraw! Withdraw!"
-The crab bot's amplified command was so loud it made Maddy's head ring even more.
-Holding Sindy's limp body high over its head with one tentacle,
+Thrown stones clattered against the crab bot.
+"Withdraw! Ouch! Withdraw! Ouch!"
+Its amplified command was so loud it made Maddy's head ring.
+Holding Sindy's limp body with a pair of tentacles,
 it scuttled across the square to the huge cargo bot.
-Two limp goats lay in the cage behind it.
-It tossed Sindy in on top of them and slammed the cage door closed.
+Two limp goats lay on the floor of the cage.
+The crab bot tossed Sindy in on top of them and slammed the cage door closed.
 
 *BZZZP!*
-The blast from the zap gun hit the crab bot square in the torso.
+The blast from the zap gun hit the crab bot in the torso.
 It spun around and aimed its tentacles at the militia.
 *BZZZP!*
 *BZZZP!*
-Two bursts of purple electricity struck the militia.
+Two bursts of purple electricity shot out of them and struck the militia.
 They toppled over.
 
 Motors roaring,
-the big bot rumbled away into the darkness
-hauling its three prisoners behind it,
+the big bot rumbled away into the darkness with its three prisoners behind it,
 leaving chaos in the village square.
 Half of the militia lay on the ground,
 dazed by dizzysmoke or shocked by the crab bot's final blast.
-Shaper Leaf was still on his feet,
-gesturing feebly,
-but too exhausted to make the earth obey him.
+Shaper Leaf was gesturing feebly,
+but was too exhausted to make the earth obey him.
 Scattered plates of armor and parts of broken mechanical limbs
 proved that the bots had paid a heavy price for their victory,
 but as Mama Roo wrapped Gumption and Maddy in a hug
-all Maddy could think was that her little sister was gone.
+all Maddy could think was that her little sister was gone,
+gone just like her dad.
+
+## Chapter 5: Unlikely Help
+
+"They have my *daughter*!
+We *have* to go after them!"
+Mama Roo shouted.
+Maddy hadn't imagined that her mother could look so fierce,
+but in that moment she looked like she could frighten tigers.
+
+The mayor shook her head.
+"I'm sorry, Cedilia, you know I am.
+Nope, nope, just let me speak."
+She held up her zap gun,
+turning it to show the now-dark indicator bar on its side.
+"See that?
+There's nothing left.
+It'll take a couple of days at least to get it back to full charge,
+and even then,
+we've only got the one."
+She scowled.
+"Not that it was much use against that crab thing."
+
+"And what about the shaper?"
+Mayor Lupus continued as Mama Roo opened her mouth again,
+gesturing at the porch steps
+where the old turtle was sitting with his eyes closed,
+the wrinkles on his face even deeper than usual.
+"All he's got is pot scrapings.
+Even if we could catch up with 'em,
+we wouldn't have a chance."
+
+Mama Roo's arm tightened around Maddy's shoulders.
+"We can't just let her go," Mama Roo said hopelessly.
+"Lupus, I can't lose her too."
+
+The old wolf sighed.
+"I am truly sorry, Cedilia.
+I'll come by later to look in on you.
+Right now I have to find out who those two goats were that they took,
+and then start figuring out how they managed to sneak up on us like that."
+
+"It was the twins,"
+Shaper Leaf said,
+opening his eyes.
+He struggled to his feet,
+one hand on the steps' wooden banister to steady himself,
+and waved off the mayor as she came over to help.
+"The one that had legs like a stork chased them right into the arms of
+the big one hauling the cage.
+I tried to trip it up, but..."
+He shook his head.
+"I'm sorry.
+I'm just don't have the strength I used to."
+
+"You looked plenty strong to me,"
+the mayor said firmly,
+clapping him on the shoulder.
+"The way you were throwing all those rocks around?
+Never seen anything like it."
+
+"That wasn't me," Shaper Leaf protested,
+but the mayor had already turned away
+to start barking orders at the militia.
+Gather up the scraps of armor that had been knocked off the bots during the fight.
+Pick up those who were still unconscious and get them indoors.
+And someone---no, not just one person, best it be two together---get across to the Gruff family farm
+and let them know their boys had been taken.
+
+"I should go with them," Gumption said awkwardly.
+"They're cousins, sort of, and my mama will be worrying about me.
+I'm really sorry."
+
+Maddy nodded,
+not trusting herself to speak.
+If she had run away when her mother told her too,
+or if she had somehow *made* the mayor believe that the ambush was coming,
+then Sindy would still be with them.
+If only the bot they had warned them had come with them to warn everyone else.
+
+She froze.
+The bot!
+"Gumption---the bot!
+The one from the river---it'll know where they're going.
+We gotta find it!"
+
+The goat's eyes widened.
+He nodded.
+"We should go help folk, um, clean up," he said loudly.
+
+"Good idea," Maddy replied, raising her voice.
+"Mama, Gumption and I are gonna..."
+She gestured at the mess in the square,
+not finishing her sentence so as not to actually lie.
+
+Her mother nodded.
+"Thank you, Maddy.
+Shaper, let me walk you back to yours."

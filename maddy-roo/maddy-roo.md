@@ -50,7 +50,7 @@ though,
 a second ring of houses had slowly grown up around the first,
 smaller and less well ordered.
 One of these belonged to Shaper Leaf,
-the only turtle within a hundred kays and the village's oldest resident by far.
+the only tortoise within a hundred kays and the village's oldest resident by far.
 
 Maddy would never forget the first time her mother and father took her to the shaper's house.
 "Don't be afraid," they comforted her,
@@ -61,7 +61,7 @@ her nervousness vanished.
 
 "Are they *real*?" she asked in wonder.
 
-The old turtle chuckled.
+The old tortoise chuckled.
 "As real as you are.
 Here."
 He ushered her in,
@@ -70,7 +70,7 @@ and handed it to her.
 "Would you like to borrow this one? Or how about these two?"
 She walked out of the shaper's house with an armload of books and stars in her eyes,
 then sat down on his porch and started to read the first one
-while her parents vainly tried to persuade the old turtle to take a jar of home-made jam as a thank-you.
+while her parents vainly tried to persuade the old tortoise to take a jar of home-made jam as a thank-you.
 
 Gumption had shown up a few months later.
 His family hadn't brought him---the village goats weren't bookish people---and
@@ -81,7 +81,7 @@ so that they at least had someone to roll their eyes with over the mushy bits.
 
 Shaper Leaf's house smelled like old sweaters and fresh cabbage and mystery,
 and if Maddy closed her eyes she could almost imagine that her father was there with her.
-The old turtle was snoring in his battered old rocking chair when they arrived,
+The old tortoise was snoring in his battered old rocking chair when they arrived,
 so they placed their books quietly on the table beside him
 and picked two more each from the shelves behind him.
 Maddy glowered at Gumption when he pointed at the top shelf
@@ -164,7 +164,8 @@ and even if she knew how to capture that in a drawing,
 she didn't want to.
 
 But the pillar wasn't the only thing in the square.
-Bluster and Bravo Gruff were sitting on the unfinished brick wall that surrounded the pillar
+Bluster and Bravo Gruff were sitting on the unfinished brick wall
+that surrounded the pillar
 pitching pebbles at it with bored expressions on their faces.
 For a moment Maddy thought they would be able to hurry by unnoticed,
 but then Bluster caught sight of them and nudged his twin brother.
@@ -200,7 +201,7 @@ cracking his knuckles.
 "I don't think glue would be a good diet for any of us, do you?"
 Shaper Leaf asked calmly.
 Maddy jumped.
-Somehow the old turtle had come up behind them without anyone noticing.
+Somehow the old tortoise had come up behind them without anyone noticing.
 He looked as gentle as a falling leaf,
 in his heavy brown sweater and tiny round glasses,
 but the goat brothers immediately unclenched their hands.
@@ -212,7 +213,7 @@ The shaper held out a sheet of paper.
 She squeezed Sindy's hand before letting go of it to take back the proffered sketch.
 
 "You're getting much better,"
-the turtle continued.
+the tortoise continued.
 "Your father would be very proud of you."
 
 "Thanks," Maddy repeated.
@@ -227,7 +228,7 @@ in step as always.
 Maddy let out a relieved breath.
 "Me neither. Thank you," she told the shaper a third time.
 
-The turtle smiled.
+The tortoise smiled.
 "You're welcome---it would have been a shame to lose such a nice drawing.
 Are you headed home?
 It's been a while since I saw your mother, and I could use a longer walk."
@@ -1077,7 +1078,7 @@ Mama Roo raised her hand and waved.
 Join us for a spell?"
 
 As if summoned by his name,
-the old turtle had appeared on the other side of the square.
+the old tortoise had appeared on the other side of the square.
 He squinted and returned Mama Roo's wave
 as he came over to join them.
 "Evening, Mama Roo.
@@ -1095,7 +1096,7 @@ turning the black box over and over in his wrinkled hands.
 "Yup," Gumption confirmed.
 "What's it do?"
 
-The old turtle shook his head.
+The old tortoise shook his head.
 "I don't know for sure,
 but I've heard of such things.
 If a bot's got one of these on it,
@@ -1134,7 +1135,7 @@ and rang the alarm bell.
 ## Chapter 4: Raid!
 
 *Donk! Donk! Donk!*
-"Bother," the old turtle said mildly,
+"Bother," the old tortoise said mildly,
 reaching into the bell and pulling a sock off the clapper.
 "I keep telling the mayor she really shouldn't."
 
@@ -1174,12 +1175,12 @@ only then realizing that there were tears in her own fur as well.
 Shaper Leaf urged Mama Roo.
 "Keep them safe."
 
-"Will you come with us?" Sindy asked the old turtle.
+"Will you come with us?" Sindy asked the old tortoise.
 
 Shaper Leaf smiled a wrinkly smile.
 "No.
-I am turtle.
-Turtles don't run from rights."
+I am tortoise.
+tortoises don't run from rights."
 He paused.
 "Mostly because we can't."
 
@@ -1411,7 +1412,7 @@ She scowled.
 "And what about the shaper?"
 Mayor Lupus continued as Mama Roo opened her mouth again,
 gesturing at the porch steps
-where the old turtle was sitting with his eyes closed,
+where the old tortoise was sitting with his eyes closed,
 the wrinkles on his face even deeper than usual.
 "All he's got is pot scrapings.
 Even if we could catch up with 'em,
@@ -1480,6 +1481,121 @@ He nodded.
 She gestured at the mess in the square,
 not finishing her sentence so as not to actually lie.
 
-Her mother nodded.
-"Thank you, Maddy.
-Shaper, let me walk you back to yours."
+Her mother nodded,
+the grief on her face making her look older than the tortoise's.
+"Thank you, Maddy,"
+she said, her voice somehow steady.
+"Shaper, let me see you back to yours."
+
+Maddy and Gumption picked up an armload of cobblestones each
+and added them to the pile that the Ox brothers had already started.
+"We'll get those ones," Maddy said,
+pointing at the stones furthest from the pile.
+The ox grunted,
+not really listening.
+The two children fetched the stones Maddy had pointed at
+and then,
+with only a glance and a nod to each other,
+walked back as if to pick up some more and just kept walking.
+It was a tactic they had used more than once
+to get out of picking potatoes,
+and as long as they acted
+as if they were supposed to be doing what they were doing,
+it seemed that grownups would mostly not notice
+exactly what that "what" was.
+
+Two minutes later they were in the small square
+where the black glass pillar stood.
+"Y'all should be home,"
+a passing bear said.
+
+"Yessir, headed that way," Gumption replied loudly.
+He waited until the bear was out of earshot before whispering,
+"So where do we start?"
+
+"I dunno,"
+Maddy said despairingly.
+"I figured it might come here, but..."
+She sighed.
+"This is hopeless.
+I'm never going to see Sindy again."
+Tears welled up in her eyes.
+She wiped them angrily on her sleeve.
+
+Gumption patted her shoulder awkwardly.
+"Don't say that.
+Maybe it went to the other one.
+It's only a bit away.
+Come on."
+Maddy sniffled,
+nodded,
+and fell into step beside him.
+
+Once upon a time
+the river had been wider and deeper,
+and the Makers' road had run along its bank.
+But many years had passed since then,
+and the river's course had changed many times.
+Where once the river and the road had bent in long parallel arcs,
+now the road ran through a forest
+with its former companion just a soft sound in the distance.
+
+Another black glass pillar stood guard
+where that arc in the road bent back toward the river.
+Only grass and moss and a few brave flowers grew near it.
+
+Maddy kicked a pebble at the post angrily.
+"This is *hopeless*," she repeated.
+
+"Wait!"
+Gumption pointed at the soft ground near the pillar.
+In the failing evening light it took Maddy a moment to see what he had spotted,
+but then her heart leaped.
+A single tire track ran up to the post and then away into the trees.
+They hurried over to take a closer look.
+The cross-hatched treadmarks were still fresh.
+
+"It must have come here," Gumption said.
+
+"Yeah, or one of the other bots needed a recharge."
+Maddy shivered.
+The last of the day's warmth was fading,
+and the forest around them looked more ominous with each darkening moment.
+They were a long way from the village
+and no one would know where to look for them.
+She opened her mouth to say,
+"Maybe we should go back,"
+but what came out instead was,
+"Ulp,"
+as the bot they were looking for stepped out of the trees,
+a cobblestone in each of its mechanical hands.
+
+The kangaroo and the goat looked at the bot.
+The bot looked back.
+Somewhere nearby a bird called and another answered.
+
+"Oh, this is silly,"
+Maddy snapped.
+"If you're going to throw those at us, just throw them."
+
+The bot hesitated and then lowered the rocks
+(but did not, Maddy noted, actually drop them).
+"This will not attack if those do not."
+
+Maddy glanced over her shoulder,
+wondering what "those" were,
+then realized the bot meant her and Gumption.
+"Well, we won't unless you do."
+She nodded at the black pillar.
+"Did we scare you off recharging?"
+
+"This was merely being cautious,"
+the bot replied primly.
+"This needs to be fully charged to help its *click*."
+
+The bot's lenses rotated.
+"To help its *click*."
+Its lenses rotated again.
+"Interesting.
+This appears to be unable to recall the word.
+Further self-repair may be required."

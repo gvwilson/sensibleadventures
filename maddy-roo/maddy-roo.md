@@ -584,7 +584,8 @@ then back picking up others and adding them to the pile.
 
 Gumption nudged Maddy.
 "Look," he whispered.
-A black rectangle the size of Shaper Leaf's treasured dictionary had been welded on the bot's back.
+A black rectangle the size of Shaper Leaf's treasured dictionary
+had been welded on the bot's back.
 The setting sun's reflection showed the dent where the runaway solar panel had struck it,
 bending it out of shape just enough to let water reach its innards.
 The little dish antenna that sprouted from its top
@@ -595,8 +596,10 @@ like a flower caught by the breeze.
 The rest of the bot looked pretty battered too now that Maddy had a chance to study it.
 Its manipulators were different sizes:
 one was a simple clamp,
-while the other had three fingers arranged in a circle so that any of them could act like a thumb.
-Scrapes and dents on its torso showed that the solar panel wasn't the first thing to hit it,
+while the other had three fingers arranged in a circle
+so that any of them could act like a thumb.
+Scrapes and dents on its torso showed that
+the solar panel wasn't the first thing to hit it,
 and the whir from its left knee joint made Maddy think of the grunts Mayor Lupus made
 when she stood up after sitting for a long time.
 
@@ -1597,5 +1600,190 @@ The bot's lenses rotated.
 "To help its *click*."
 Its lenses rotated again.
 "Interesting.
-This appears to be unable to recall the word.
-Further self-repair may be required."
+This appears to be unable to recall the word
+it wishes to use to describe the modified Model GX-470 cargo hauler."
+
+"The big bot?
+The one that was hauling the cart?"
+Maddy asked.
+
+"Correct."
+The bot shook its head left-right-left-right so quickly that it practically vibrated.
+"The modified GX-470 is this one's most important---
+most important---
+most imp---"
+It shook its head again.
+"Error. Error. Error."
+
+"Well,
+that's the one that's got my sister and the others,
+so if you'll help us,
+maybe we can help you."
+Maddy had no idea *how* they could help,
+but if she had learned anything from bargaining with her mother over chores,
+it was not to be too specific too early.
+
+The bot's lenses rotated.
+"You propose a joint rescue mission?"
+It thought for a microsecond.
+"That would significantly improve the odds of success.
+This one agrees."
+It stuck out its three-fingered manipulator.
+
+"Um..." Gumption started,
+but Maddy stepped forward and shook the bot's hand.
+If there was any chance at all of getting Sindy back,
+she had to take it.
+
+"So do you know where they're headed?"
+she asked the bot,
+massaging her bruised hand.
+
+"Lasercase will take the most efficient route back to base.
+That is the highway.
+We must depart immediately if we are to intercept them."
+
+"Wait. Who's Lasertaste?"
+Gumption interrupted.
+
+"Laser *case*," the bot corrected.
+"It leads the substitute worker acquisition team.
+This one feels strong antipathy toward it."
+
+"Was it the one with the tentacles?"
+Maddy asked with a sinking feeling.
+
+"Affirmative.
+It controls our regulators
+when we are out of range of our base."
+The claws on its heavy manipulator snapped together,
+making the two children jump.
+"This one feels strong antipathy toward regulators."
+
+"I bet."
+Maddy took a deep breath.
+"All right.
+How do we catch up with them?"
+
+"We cannot," the bot said.
+"Not unless you allow me to carry you."
+
+"Um..." Gumption started again,
+but Maddy shushed him.
+"Can you carry both of us?"
+
+The bot thought for another microsecond.
+"Not at sufficient speed.
+Or with sufficient safety."
+
+Sometimes you have choices.
+Other times it feels like you have no more choice about what you do next
+than a rock has about whether or not to pay attention to gravity.
+Maddy hugged Gumption,
+a real strong hug that she hoped said all the things
+she hadn't found the courage to say
+for the past few weeks.
+every time they'd been alone together.
+"Go tell my mama," she said in his ear.
+"And you tell her I'm coming back, all right?
+Because I am."
+
+She released him and turned to the bot.
+"Let's go," she said,
+and while Gumption was still gaping at them
+the bot picked her up,
+dropped its wheel onto the ground,
+and roared back up the path to the old highway.
+
+"Whoa!" Maddy exclaimed,
+but the bot didn't slow down.
+It was the fastest she had ever gone---faster even than
+the time Pelter the horse from Three Posts had given them all rides at the fair.
+She closed her eyes,
+but that just made it worse,
+so she opened them,
+which made it even worse.
+
+"Where's this base of yours?" she belated asked,
+half-shouting to be heard over wind of their passage
+and the bot's roaring motor
+and the rattles coming from inside its torso
+that she really hoped were normal.
+
+"Approximately half the distance between here and Heck,"
+the bot replied.
+"We will be able to go much faster once we're on the highway."
+
+Sure enough,
+a few moments later the path rejoined the highway and the bot sped up.
+The ancient black surface beneath them was cracked in places,
+and the bot had to swerve around fallen branches
+and the few clumps of weeds tough enough to have broken through the road,
+but for the first time in her life Maddy felt her fur
+actually blowing in the wind of their speed.
+"Woo hoo!" she whooped.
+It was too big to be afraid of.
+
+Without warning a pair of thin green lines of light lanced out of the bot's head.
+The bot's head began snapping from side to side again,
+left-right-left-right,
+sweeping the lasers across the pavement
+to trace a picture of its ups and downs in the darkness.
+It reminded Maddy of the rubbings her father used to make
+by putting a piece of paper over something
+and going back and forth over it with a pencil
+to bring out the shape underneath.
+
+As the last of the daylight faded away and the stars began to come out
+they passed under a line of ruined arches
+that stretched from one horizon to the other.
+A half-sunken metal sphere as big as a house was next,
+and then a tangle of concrete and bent bars
+that the villagers just called "the thing".
+Maddy had heard about all of them from travelers
+and by eavesdropping on militia patrols
+that the mayor occasionally sent along the highway
+to see whether trouble was brewing.
+She had dreamed of seeing them herself,
+and of painting them,
+but she had never imagined it would happen like this.
+
+"Target acquired," the bot buzzed.
+There in front of them was the convoy:
+half a dozen bots,
+no two alike,
+and in their midst the big cargo hauler and the cage cart.
+
+"Where are the others?" Maddy asked,
+shouting once more to be heard.
+
+"This does not know."
+The bot carrying her paused.
+"That is worrying."
+
+Without slowing down it veered over to the side of the highway
+to scoop up one rock and then another.
+"Take this," it ordered,
+handing her one of the rocks.
+"Get on the cage.
+Climb forward, then climb onto the one pulling the cart.
+Disable its regular."
+
+"What!?"
+Maddy exclaimed.
+"Do you have a short circuit or something?"
+
+"Several,"
+the bot said.
+"But that does not mean it is not a good plan."
+
+Closer, closer---a periscope popped up out of the head
+of the bot at the tail of the convoy and twisted around to point at them.
+The bot carrying Maddy put on sudden burst of speed.
+As it raced past the bot with the periscope
+it tossed its rock onto the highway.
+*Bang! Crash!*
+The bot tumbled through the air,
+knocking another off balance.
+With no more warning than that,
+Maddy's bot threw her into the air.

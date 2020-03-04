@@ -667,7 +667,7 @@ is set in that world.
     -   When Sindy discovers her gift, he takes her as an apprentice
 -   Mayor Lupus
     -   A wolf (as Mama Roo says, "A *very* alpha female.")
--   Dockety (fully, "Fleventy-One Forty-Ee Dockety-Ay"): a newly-woken bot
+-   Dockety (fully, "Dockety-One Forty-Bee"): a newly-woken bot
     -   Two legs, a gyro wheel for speed, mis-matched arms, a small screen on its face
         -   Learns to display cartoon facial expressions
     -   Droned by Patience, accidentally freed

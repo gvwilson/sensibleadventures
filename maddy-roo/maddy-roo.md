@@ -170,10 +170,10 @@ pitching pebbles at it with bored expressions on their faces.
 For a moment Maddy thought they would be able to hurry by unnoticed,
 but then Bluster caught sight of them and nudged his twin brother.
 
-Maddy took her sister's hand.
+Maddy took her sister's paw.
 "You just stay hushed," she cautioned quietly,
 squeezing to show she meant it.
-She hitched her satchel up onto her shoulder with her other hand
+She hitched her satchel up onto her shoulder with her other paw
 and tried to ignore the dryness in her mouth.
 
 "Heya, roo," Bluster drawled as he and his brother sauntered over.
@@ -189,7 +189,7 @@ He rubbed his belly and grinned wickedly.
 "Gummy put anything in there yet?"
 
 "Why don't you eat glue?" Gumption said hotly,
-his hands balling into fists.
+his paws balling into fists.
 
 "Why don't you make me?" Bluster replied,
 his just-kidding tone gone as quickly as it had appeared.
@@ -204,13 +204,13 @@ Maddy jumped.
 Somehow the old tortoise had come up behind them without anyone noticing.
 He looked as gentle as a falling leaf,
 in his heavy brown sweater and tiny round glasses,
-but the goat brothers immediately unclenched their hands.
+but the goat brothers immediately unclenched their paws.
 
 The shaper held out a sheet of paper.
 "I think you dropped this."
 
 "Thanks," Maddy said.
-She squeezed Sindy's hand before letting go of it to take back the proffered sketch.
+She squeezed Sindy's paw before letting go of it to take back the proffered sketch.
 
 "You're getting much better,"
 the tortoise continued.
@@ -320,7 +320,7 @@ By unspoken agreement they left the main road
 and took the path that ran down by the river.
 It was the longer route,
 but that was okay.
-For one heart-stopping moment Maddy thought Gumption was going to hold her hand.
+For one heart-stopping moment Maddy thought Gumption was going to hold her paw.
 When he didn't,
 she almost took his,
 but then they came out of the trees onto the riverbank and the moment was behind them.
@@ -338,11 +338,11 @@ grateful for the diversion.
 "I'd want to shape earth like Shaper Leaf.
 Rrrrr..."
 He made a rumbling sound in his throat
-and shook his hands in the air.
+and shook his paws in the air.
 
 "What was that supposed to be?" Maddy laughed.
 
-Gumption let his hands fall to his side.
+Gumption let his paws fall to his side.
 "Earth shaping," he said with a lopsided grin.
 "You know, like---hey, look down there!"
 He pointed at the river.
@@ -477,7 +477,7 @@ It easily blocked their path and reached out to grab them.
 
 Gumption yelped and ducked under the bot's arm.
 Maddy ducked as well but was half a moment too slow.
-A cold metal manipulator twice the size of her hand clamped around her arm!
+A cold metal manipulator twice the size of her paw clamped around her arm!
 "Target acquired!" the bot intoned.
 
 "Eat glue!" she yelled at it
@@ -565,7 +565,7 @@ You could inadvertently injure yourself."
 
 Gumption glanced back at Maddy with a bewildered expression on his face.
 The moment his head was turned,
-the bot surged to its feet and plucked the rock from his hand.
+the bot surged to its feet and plucked the rock from his paw.
 "It is safer to carry heavy objects in this fashion," it told the young goat,
 holding the rock in front of its midsection.
 "Where would you like me to place it?"
@@ -654,12 +654,12 @@ the thin coiled wire that ran between the lens and the bot's head stretching tau
 Hurray.
 Hurray."
 It placed its lens back in its head
-and stuck out its hand.
+and stuck out its manipulator.
 "Thank you."
 
 "Um..."
 Maddy and Gumption glanced at each other.
-Maddy reached out hesitantly and shook the bot's hand,
+Maddy reached out hesitantly and shook the bot's manipulator,
 grateful that it was the one with the fingers
 rather than the clamp.
 "You're welcome?
@@ -790,7 +790,7 @@ He dropped like a sack of potatoes.*
 
 *"Papa!" Maddy's scream was lost in the sound of wolves howling.
 A bear bellowed a battle cry.
-Pikes and axes in hand,
+Pikes and axes in their paws,
 the village militia poured into the square.*
 
 *A bolo whipped over Maddy's head and tangled around the head of the bot that had struck her father.
@@ -913,7 +913,7 @@ helping her up.
 Maddy glared at her sister.
 "What? I didn't do anything!" Sindy protested.
 
-Maddy shook off Gumption's hand.
+Maddy shook off Gumption's paw.
 "It's aright, I'm fine.
 Let's go tell mama."
 
@@ -922,7 +922,7 @@ humming under her breath as she chopped grass and ferns for the next day's break
 She jumped when Maddy and Gumption burst in.
 "Makers, you startled me!
 Wait, slow down, slow down!"
-She patted the air with her hands
+She patted the air with her paws
 in a vain attempt to stop Maddy and Gumption from tripping over each other's words.
 "What were you doing down by the---
 Wait, a bot?
@@ -958,7 +958,7 @@ when people's lives might be at stake.
 The mayor's house was the only three-story building in Rusty Bridge,
 and also the only one with a balcony.
 Mayor Lupus was standing on it when they arrived,
-her elbows on the railing and a glass of red wine in her hand.
+her elbows on the railing and a glass of red wine in her paw.
 "It's the closest thing to actual blood I allow myself,"
 she always joked,
 baring her wolf teeth just a little when she smiled.
@@ -1013,7 +1013,7 @@ and then it didn't have to follow orders and it told them about the attack.
 
 "What in the Makers' name is a 'regulator'?"
 the mayor grumbled,
-turning the black box over in her hands and sniffing it
+turning the black box over in her paws and sniffing it
 before handing it back to Gumption.
 
 "I don't know,"
@@ -1046,7 +1046,7 @@ They stopped believing the story when they got older,
 not knowing that it was true.
 
 "Nope," the mayor said.
-She cut off Maddy and Gumption's interruptions with a wave of her hand.
+She cut off Maddy and Gumption's interruptions with a wave of her paw.
 "I'm not saying I don't believe you,
 but I want to know what I'm howling about before I start to howl.
 Now you all stay right here while I go ruin the Ox brothers' dinner."
@@ -1062,7 +1062,7 @@ setting the boxy regulator down on the porch steps with a sigh.
 
 "Now you hush,"
 Mama Roo said firmly,
-putting a reassuring hand on her younger daughter's shoulder.
+putting a reassuring paw on her younger daughter's shoulder.
 
 "Sorry,"
 Gumption said guiltily, scuffing the ground with his hoof.
@@ -1076,7 +1076,7 @@ Sindy complained.
 "He'd know what to do."
 
 "Well, speaking of trouble."
-Mama Roo raised her hand and waved.
+Mama Roo raised her paw and waved.
 "Evening, Shaper!
 Join us for a spell?"
 
@@ -1094,7 +1094,7 @@ She quickly summarized the children's story.
 
 "And it called this a 'regulator'?"
 the shaper asked,
-turning the black box over and over in his wrinkled hands.
+turning the black box over and over in his wrinkled paws.
 
 "Yup," Gumption confirmed.
 "What's it do?"
@@ -1155,7 +1155,7 @@ Heads poked out.
 "What's happening? What's going on?"
 
 "Bots!"
-the goat yelled through cupped hands.
+the goat yelled through cupped paws.
 "Raiders!
 Whole lot of 'em comin' up along the main road!"
 
@@ -1270,7 +1270,7 @@ One! He missed.
 Two! The second stone clanked off its casing.
 
 "Uh oh."
-As Maddy and Gumption straightened up with more stones in their hands,
+As Maddy and Gumption straightened up with more stones in their paws,
 half a dozen more bots charged into the square.
 
 "Seriously?" Shaper Leaf muttered shakily.
@@ -1435,7 +1435,7 @@ and then start figuring out how they managed to sneak up on us like that."
 Shaper Leaf said,
 opening his eyes.
 He struggled to his feet,
-one hand on the steps' wooden banister to steady himself,
+one paw on the steps' wooden banister to steady himself,
 and waved off the mayor as she came over to help.
 "The one that had legs like a stork chased them right into the arms of
 the big one hauling the cage.
@@ -1631,24 +1631,33 @@ This one agrees."
 It stuck out its three-fingered manipulator.
 
 "Um..." Gumption started,
-but Maddy stepped forward and shook the bot's hand.
+but Maddy stepped forward and took the bot's hand.
 If there was any chance at all of getting Sindy back,
-she had to take it.
+she had no other choice.
 
-"So do you know where they're headed?"
-she asked the bot,
-massaging her bruised hand.
+"So what should I call you?"
+she asked,
+taking her paw back and massaging her new bruises.
+
+"This one's serial number is Dockety-One Forty-Bee,"
+the bot replied.
+"But my *click*---
+my *click*---
+the modified GX-470 refers to this one as Dockety."
+
+"All right, Dockety---do you know where they're headed?"
 
 "Lasercase will take the most efficient route back to base.
-That is the highway.
+That is the highway through the contaminated zone.
 We must depart immediately if we are to intercept them."
 
-"Wait. Who's Lasertaste?"
+"Who's Lasertaste?"
 Gumption interrupted.
 
-"Laser *case*," the bot corrected.
+"Laser *case*," Dockety corrected.
 "It leads the substitute worker acquisition team.
-This one feels strong antipathy toward it."
+This one feels strong antipathy toward it,"
+the bot added.
 
 "Was it the one with the tentacles?"
 Maddy asked with a sinking feeling.
@@ -1658,21 +1667,21 @@ It controls our regulators
 when we are out of range of our base."
 The claws on its heavy manipulator snapped together,
 making the two children jump.
-"This one feels strong antipathy toward regulators."
+"This one feels strong antipathy toward regulators as well."
 
 "I bet."
 Maddy took a deep breath.
 "All right.
 How do we catch up with them?"
 
-"We cannot," the bot said.
+"We cannot," Dockety said.
 "Not unless you allow me to carry you."
 
 "Um..." Gumption started again,
 but Maddy shushed him.
 "Can you carry both of us?"
 
-The bot thought for another microsecond.
+Dockety thought for another microsecond.
 "Not at sufficient speed.
 Or with sufficient safety."
 
@@ -1691,12 +1700,12 @@ Because I am."
 She released him and turned to the bot.
 "Let's go," she said,
 and while Gumption was still gaping at them
-the bot picked her up,
+Dockety picked her up,
 dropped its wheel onto the ground,
 and roared back up the path to the old highway.
 
 "Whoa!" Maddy exclaimed,
-but the bot didn't slow down.
+but Dockety didn't slow down.
 It was the fastest she had ever gone---faster even than
 the time Pelter the horse from Three Posts had given them all rides at the fair.
 She closed her eyes,
@@ -1711,20 +1720,21 @@ and the rattles coming from inside its torso
 that she really hoped were normal.
 
 "Approximately half the distance between here and Heck,"
-the bot replied.
+Dockety replied.
 "We will be able to go much faster once we're on the highway."
 
 Sure enough,
 a few moments later the path rejoined the highway and the bot sped up.
 The ancient black surface beneath them was cracked in places,
-and the bot had to swerve around fallen branches
+and Dockety had to swerve around fallen branches
 and the few clumps of weeds tough enough to have broken through the road,
 but for the first time in her life Maddy felt her fur
 actually blowing in the wind of their speed.
 "Woo hoo!" she whooped.
 It was too big to be afraid of.
 
-Without warning a pair of thin green lines of light lanced out of the bot's head.
+Without warning a pair of thin green lines of light lanced out
+from either side of Dockety's eyes.
 The bot's head began snapping from side to side again,
 left-right-left-right,
 sweeping the lasers across the pavement
@@ -1748,7 +1758,16 @@ She had dreamed of seeing them herself,
 and of painting them,
 but she had never imagined it would happen like this.
 
-"Target acquired," the bot buzzed.
+The ground around them grew damp as they raced along,
+and the smell of damp vegetation and rust made Maddy wrinkle her nose.
+They were entering the Mire,
+the great trackless swamp that separated the bot city of Heck
+from the forests and farms where Maddy had grown up.
+The Makers' highway was the only safe route through it,
+and even there travelers were careful to eat and drink
+only what they brought with them.
+
+"Target acquired," Dockety buzzed.
 There in front of them was the convoy:
 half a dozen bots,
 no two alike,
@@ -1758,7 +1777,7 @@ and in their midst the big cargo hauler and the cage cart.
 shouting once more to be heard.
 
 "This does not know."
-The bot carrying her paused.
+Dockety hesitated.
 "That is worrying."
 
 Without slowing down it veered over to the side of the highway
@@ -1774,16 +1793,147 @@ Maddy exclaimed.
 "Do you have a short circuit or something?"
 
 "Several,"
-the bot said.
+Dockety said.
 "But that does not mean it is not a good plan."
 
 Closer, closer---a periscope popped up out of the head
 of the bot at the tail of the convoy and twisted around to point at them.
-The bot carrying Maddy put on sudden burst of speed.
+Dockety put on sudden burst of speed.
 As it raced past the bot with the periscope
 it tossed its rock onto the highway.
 *Bang! Crash!*
-The bot tumbled through the air,
+The bot with the periscope tumbled through the air,
 knocking another off balance.
 With no more warning than that,
-Maddy's bot threw her into the air.
+Dockety hurled Maddy into the air.
+
+## Chapter 6: Out of the Cage Cart...
+
+Maddy screamed.
+Afterward,
+she would wish that it had been a proper battle cry,
+like a wolf's howl or a lion's roar,
+but it was just a normal everyday terrified scream.
+
+She dropped the stone Dockety had given her and flailed her arms.
+"Ooph!"
+She landed on the roof of the cage cart,
+slid forward with another scream,
+and somehow managed to get a grip on its bars.
+Her legs swung to the side and dangled over the highway.
+
+"Maddy! Maddy! I'm here! I'm here!"
+Her sister scrambled to her feet,
+a goat on either side of her shouting words
+that the wind snatched away before Maddy could hear them.
+
+"Hang on!"
+Maddy shouted down at the three captives.
+"We're going to get you out of there!"
+
+Dockety raced forward and body-checked another raider bot
+just as it ratcheted up on its wheeled legs and tried to grab Maddy.
+The young roo pulled her legs under her,
+ignoring the pain of the metal bars bashing against her shins
+every time the cart hit a bump.
+She could see the lock on the cage door,
+but how was she going to break it open without her rock?
+
+And then the cargo bot hauling the cage realized she was there.
+Its massive square head turned all the way around like an owl's.
+"Error,"
+it pronounced in a scraping gravelly voice.
+
+"Error yourself!"
+Maddy shouted at it defiantly.
+Without giving herself time to be frightened
+she slid forward over the roof of the cage,
+swung around,
+and lowered herself onto the narrow triangular hitch
+that connected it to the bot.
+
+"Be careful!" Sindy pleaded
+as Maddy crouched down and leaned forward.
+Almost...
+Almost...
+No.
+She couldn't reach the linchpin that held the hitch in place
+without letting go of the cage.
+
+"Maddy, don't!"
+She ignored her sister's frightened cry and lunged forward.
+Got it!
+Holding onto the hitch with one paw,
+she yanked the linchpin out with the other and threw it away.
+
+She thought the cargo bot would just pull away smoothly
+to leave the unhitched cage cart rolling along the highway behind it.
+That didn't happen.
+Instead,
+there a loud crash as Dockety and a raider bot slammed into the side of the cage,
+their manipulators grappling for holds on each other.
+
+Maddy screamed for a third time as the cart careened off the road.
+A wheel bumped over a stone,
+throwing Maddy off the hitch and into a scratchy patch of brambles.
+The trio inside the cart screamed in their turn as it tipped over on its side
+and slid down the rocky slope toward the swamp.
+Maddy scrambled to her feet and ran after it.
+
+The cart slid to a halt just a few paces from the edge of the muck.
+Rusty scraps of old machinery lay all around.
+Maddy grabbed one end of a metal bar and pulled with all her might.
+The bar came free of the mud with a shlurping sound.
+
+She ran over to the cart.
+Luckily,
+it had landed door side up.
+She tossed her bar on top of it,
+scrambled up,
+wedged the end of the bar in by the lock,
+and levered it with all her might.
+*Pank!*
+The lock burst open.
+
+"Give me your paw!" she ordered.
+
+Her sister stretched on tiptoe.
+"I can't reach!
+Hey!"
+One of the goats lifted her up so that Maddy could grab her wrist,
+then reached up himself.
+
+A few moments later all four of them were standing beside the cage
+and Maddy had her arms wrapped around her sister.
+"I was so afraid," she whispered in Sindy's ear.
+"I was so afraid I'd never see you again."
+
+Sindy sniffled.
+"Me too."
+
+"Well ain't this sweet," one of the goats muttered.
+Maddy straightened up.
+She knew that voice---it was Bluster,
+which meant the other goat must be his brother Bravo.
+Of all the people she would have wanted to rescue,
+they were the last.
+
+"Well don't be too hasty thanking me,"
+she said coldly.
+
+"We would've been aright,"
+Bluster said defensively.
+"Wouldn't we?"
+He nudged his brother, who nodded.
+
+Sindy took her sister's paw.
+"Was that a bot helping you?" she asked.
+
+"Don't worry about that now,"
+Maddy said.
+"We have to get out of here!"
+
+"And go where?"
+Bluster demanded.
+"In case you hadn't noticed,
+we're in the middle of the Mire."

@@ -1937,3 +1937,109 @@ Maddy said.
 Bluster demanded.
 "In case you hadn't noticed,
 we're in the middle of the Mire."
+
+"Yeah, but at least you're not in a cage any more.
+Oh, and you're welcome,"
+Maddy added sarcastically.
+The goat glowered at her but didn't reply.
+
+"What are we going to do, Maddy?" Sindy asked.
+"We can't---ulp!"
+
+Maddy covered Sindy's mouth with her hand
+as the cargo bot appeared at the top of the slope.
+"Don't move!" she hissed at the goats.
+
+The cargo bot's square head pivoted from side to side as it searched for them.
+Maddy held her breath.
+Could it keep its balance on the loose gravel?
+Maybe if it came after them it would topple over.
+
+*And then we'd only have all the other bots to deal with,*
+she finished in her head.
+She wished she knew where Dockety was.
+She hoped it was aright.
+
+A long moment passed.
+The cargo bot backed up and rumbled away to look for them elsewhere.
+Maddy let out her breath with a whoosh.
+"Come on," she ordered the others.
+
+"Come where?" Bluster demanded.
+
+Maddy gave him a cold look.
+"Anywhere that isn't here.
+But if you two want to stay, go ahead.
+Come on, Sindy."
+She took her sister's hand and started walking.
+A moment later the grumbling goats followed them.
+
+*Shlurp shlurp shlurp...*
+At first Maddy tried to pick her way from rock to rock,
+but her feet were soaked and muddy after just a few dozen steps
+so she gave up and just trudged in as straight a line as she could,
+which wasn't very straight.
+The river was wide and shallow in the Mire,
+and any three people would have had four different opinions
+about where its bank actually was,
+or whether indeed it had one.
+The smell of damp vegetation was almost overpowering.
+A sharp chemical tang came and went,
+reminding Maddy of the turpentine she used to clean her paintbrushes
+or the greasy black poison her mother sponged onto the porch every spring
+to keep the termites away.
+If they got back to Rusty Bridge,
+she was going to take the longest, soapiest bath of her entire life.
+
+They stopped twice when they heard motors revving in the distance,
+crouching behind whatever cover they could find until the sound faded.
+All of a sudden they found themselves among trees,
+fingerling willows no taller than they were
+and then larger ones whose branches bent in elegant sad arcs.
+Some of their leaves shimmered metallically,
+almost too faintly to be seen.
+The foursome steered clear of those ones.
+
+They had been walking for about half an hour
+when a patch of bark slipped off a fallen tree
+as Bravo was clambering over it.
+His foot slid out from under him.
+"Whoa!"
+His legs went one way and his body went the other.
+He landed awkwardly on the tree and rolled off onto the ground.
+
+"Y'aright?" his brother asked,
+helping him up.
+
+Bravo shook him off,
+then swore as he tried to take a step.
+"My ankle," he grunted.
+"I think I twisted it."
+
+"Idiot."
+Bluster punched him in the shoulder.
+"Why'd you go and do that?"
+
+Bravo punched him back, harder.
+"Stop it!" Maddy snapped.
+"Let me have a look at it."
+
+"Oh, so you're a doctor now?"
+Bluster said sarcastically.
+
+"She's smarter than you," Sindy said loyally.
+"And quieter, too," she added pointedly as Bluster opened his mouth.
+
+Maddy straightened up.
+"I don't think it's sprained," she told Bravo.
+"Just do the best you can, aright?"
+The goat nodded.
+
+They went more slowly after that,
+Bravo leaning on Bluster and Sindy needing rest more and more frequently.
+Maddy had to bite her tongue to stop herself from telling them all to hurry up.
+It would take them days to get back to Rusty Bridge at this speed,
+but there was nothing she could do about it
+except hope that Gumption had convinced the mayor
+to send people to rescue them.
+

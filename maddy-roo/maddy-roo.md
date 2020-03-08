@@ -2043,3 +2043,114 @@ but there was nothing she could do about it
 except hope that Gumption had convinced the mayor
 to send people to rescue them.
 
+A particularly squelchy patch of land
+sent them in a wide arc that brought them nearer the highway
+than Maddy liked.
+*Just 'til we're past that tall tree,*
+she promised herself.
+
+As if it had heard her thoughts,
+the tree took a long stride toward them.
+A blinding-bright searchlight picked them out of the darkness,
+and a familiar harsh mechanical horn blased.
+It was the long-legged bot from the raid on Rusty Bridge,
+and it had spotted them!
+
+"Back to the river!" she yelled.
+The soft, muddy ground was their only hope.
+
+"Maddy!" her sister shrieked.
+Drawn by the horn and the searchlight,
+another bot was grinding toward them on treads,
+revving an oversized chainsaw on the end of one arm.
+
+"There's another one on the river!" Bluster shouted
+with panic in his voice
+as the searchlight swept across something
+that looked like a flatboat with a bucket for a head.
+It was an ambush,
+Maddy realized,
+and now they were caught with nowhere to run
+as the three bots closed in.
+
+"Get into those trees!" she ordered Bluster and Bravo.
+They wouldn't stop the bots,
+or even slow them down for more than a few seconds,
+but it was all she could think of.
+
+*Zzzrrr!*
+The sawbot swung its whizzing arm at them,
+trying to drive them back into the open.
+Bravo pulled a clump of mud out of the ground and threw it at the bot.
+It splatted uselessly on its rust-stained torso.
+
+*Zzzrrr!*
+The chainsaw swung again as the long-legged bot with the searchlight
+tried to grab Sindy with one of its elongated arms.
+"Get away!" she shouted angrily,
+scooping up some mud and flinging it.
+
+*Splat!*
+The mud hit the searchlight,
+throwing them briefly back into darkness.
+
+*Zzzrrrmmm!*
+The chainsaw bot's arm hit a branch of one of the willow trees.
+
+*Snap!*
+The branch fell to the ground
+right where the long-legged bot was taking its next step.
+It staggered drunkenly,
+windmilling its arms just a person as it tried to regain its balance.
+
+*Shlurp!*
+One of its feet landed in a muddy sinkhole.
+Its horn blared as it toppled over
+and fellright on the boatbot's head
+with a sound like an empty can being crunched underfoot.
+
+"Go!" Maddy shouted.
+"Into the boat!"
+
+The goats didn't need to be told twice.
+Bluster pelted across the mud and threw himself onto the boat
+as the long-legged bot rolled off it into the river.
+"Come on!" he yelled at his twin brother
+as Bravo ran-hopped, ran-hopped, and grabbed Bluster's outstretched hand.
+
+But Maddy and Sindy were too slow.
+The chainsaw bot blocked their way,
+its arm whizzing angrily.
+
+And then something rocketed out of nowhere
+and bounced into the air
+and slammed into the sawbot at just the right spot.
+The sawbot tipped and tilted and fell on its side,
+its heavy treads throwing mud and muck into the air
+as it tried vainly to right itself.
+
+"Dockety!" Maddy exclaimed.
+
+Their rescuer got back to its feet.
+"Are you intact?" it asked
+as it scraped mud off its wheel
+and flicked it onto the sawbot.
+
+"We're fine.
+Oh, I'm so glad to see you!"
+
+"But Maddy---the boat!"
+Sindy pulled on her sleeve.
+
+Maddy spun around.
+Her heart sank.
+The two goats were drifting away on the current.
+
+"Turn around!" she yelled.
+"Please! Come back!"
+
+"I don't know how!"
+Bluster shouted back to her.
+"But we'll get help!"
+
+Moments later they vanished into the night.

@@ -2153,4 +2153,147 @@ The two goats were drifting away on the current.
 Bluster shouted back to her.
 "But we'll get help!"
 
-Moments later they vanished into the night.
+Moments later they vanished into the night,
+leaving the two young roos alone in the Mire
+with a dented bot for company
+and no idea how they would get home.
+
+## Chapter 7: ...And Into the Mire
+
+"Thank you for saving us,"
+Maddy said to Dockety.
+"They would have had us for sure."
+
+"Theze onez were *click*,"
+the bot replied sadly.
+"Thiz one regretz ending them."
+
+"You did the right thing,"
+Sindy ventured.
+"They were being bad."
+
+"They did not have a choize.
+Botz do not have choizez when regulatorz are put on them.
+*Regulatorz* are bad."
+Its heavy claw clicked twice
+in what Maddy now realized was the equivalent of an angry scowl.
+
+The river gurgled quietly beside them as they stood for a moment without speaking.
+Moonlight gleamed through a break in the clouds.
+"More botz will come," Dockety finally said.
+"We should not be here when they do."
+Something scraped and creaked as it took a step.
+
+"Wait---you're hurt!"
+Maddy exclaimed
+as the moonlight fell on a dent in the bot's side.
+It had hit the sawbot so hard that two of its torso plates had bent inward,
+leaving a gap like a wound.
+
+"Thiz one cannot feel hurt.
+But it doez buzz a little,"
+the bot admitted.
+
+"Wait!"
+Sindy searched the ground.
+"Just wait!" she repeated impatiently as Maddy opened her mouth.
+"There!"
+She scooped a piece of metal off the ground and held it out to Dockety.
+"Will this help?"
+
+The bot took it from her.
+Its lasers flashed green as it scanned the curved place.
+"It zhould be zuffizient," it acknowledged.
+With no more ceremony than that it unscrewed the bent plates,
+tossed them aside,
+and fastened the salvaged piece of metal in their place.
+
+*Eww*, Maddy thought,
+feeling slightly queasy at the impromptu surgery,
+but Dockety's lenses rotated.
+"That is better," it pronounced,
+its voice back to normal.
+
+Maddy nudged her sister with her shoulder.
+"That was lucky."
+
+Sindy shrugged.
+"I guess,
+but I don't *feel* very lucky."
+Even as she spoke something hooted in the distance.
+"How are we going to get *home*, Maddy?"
+
+"I don't know,"
+Maddy said helplessly.
+
+The hoot came again.
+Another answered it.
+"There are worse things here than Lasercase,"
+Dockety said darkly.
+"We must go."
+
+And so they set off again.
+Dockety took the lead,
+scanning the ground with its lasers
+and occasionally waving them around sinkholes or gloopy bubbling bits of especially swampy ground.
+Maddy brought up the rear
+so that she could be sure Sindy didn't fall behind.
+She tried humming a tune for a while,
+the way their mother did when they were on a long walk,
+but it just made the bent trees around them seem more ominous.
+
+*Sploosh.*
+Maddy whirled around.
+"What was that?" she whispered loudly.
+
+"Processing."
+Dockety's lenses rotated.
+"Unknown,
+but judging from the volume---"
+
+*Sploosh.*
+"Judging from the volume,
+and the fact that the frogs have all stopped burping,
+it is probably both large and dangerous.
+We should adjust course."
+
+They picked their way carefully toward higher ground.
+It brought them closer to the highway,
+but Maddy decided wearily that she was less afraid of Lasercase and the other bots
+than she was of something that could survive in the polluted river.
+
+"I'm hungry," Sindy complained.
+
+Well, I'm---"
+Maddy stopped herself.
+There was no point snapping at her little sister.
+"I'm hungry too," she continued gently,
+putting her arm around Sindy's shoulders and giving her a squeeze.
+"And scared.
+I bet Mama's scared too.
+Oops!
+Sorry!"
+
+Dockety had stopped so abruptly that Maddie walked right into him.
+Its lasers danced across the ground.
+"There is a path here," it said.
+"Processing.
+It is not in the database."
+
+"Does it go up to the highway?" Maddy asked.
+
+"Negative."
+Dockety pointed.
+"It goes there."
+
+For a moment Maddy couldn't see what the bot was pointing at.
+Then she realized that the mound in front of them was too regular to be natural.
+The spring floods had washed away enough dirt to reveal part of a concrete bunker.
+Most of it was still covered in mud and stunted grasses,
+but one entire side now lay revealed by the moonlight.
+
+She swallowed,
+her fatigue and hunger momentarily forgotten.
+There was a door in the bunker's side,
+a door as thick as her hand could spread wide,
+and it was open.

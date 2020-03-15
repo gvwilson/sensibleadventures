@@ -2297,3 +2297,197 @@ her fatigue and hunger momentarily forgotten.
 There was a door in the bunker's side,
 a door as thick as her hand could spread wide,
 and it was open.
+
+Sindy took Maddy's hand.
+"It looks scary,"
+she whispered.
+
+Maddy nodded.
+She was about to say they would go around
+when she heard another *sploosh* in the river twenty meters away.
+"Do you think it's safe?" she asked Dockety.
+
+The bot's lenses rotated.
+"Unknown.
+Its absence from this one's database is puzzling."
+
+Maddy took a deep breath and let it out.
+"Well,
+if you don't know about it
+then maybe your friends don't either.
+Come on."
+
+She started down the path.
+Sindy pulled her back.
+"Maddy!
+It's *scary*.
+It looks like it has spiders."
+
+She put her arm around her little sister's shoulders.
+"We have to sleep somewhere,"
+she said into the warm fur on top of Sindy's head.
+"And if there are spiders,
+Dockety can squish them for us.
+All right?"
+
+The bunker didn't look any less scary as they got closer to it.
+In fact,
+by the time they reached the door
+Maddy was wondering about spiders as well.
+Would hiding in a patch of trees really be that---
+
+*Sploosh.*
+"Right," she muttered.
+She was about to slip through the door when Dockety put a manipulator on her arm.
+
+"This one will go first," it said.
+Reaching up to its chest,
+it slid a small panel to one side to reveal a circle of glass.
+It brightened and then dimmed.
+Dockety tapped it with a metal finger.
+It brightened once again and steadied,
+casting a soft white light on the ground in front of them.
+
+The door was open just wide enough for the bot to squeeze through.
+Maddy and Sindy waited outside,
+hearts pounding,
+until they heard it say,
+"It appears unoccupied."
+Maddy shooed her sister through and then followed.
+
+They found themselves in an empty room.
+The floor was blanketed with dried mud and blown leaves.
+The walls and roof were bare concrete blocks.
+Dockety turned to shine its flashlight on a rust-streaked sign
+fastened opposite the door that said
+"Emergency Defenses Control Station".
+A broken screen stood on a pedestal beneath it,
+and next to both was another door,
+this one closed tight.
+
+"See?" Maddy said much more bravely than she felt.
+"No spiders."
+Sindy nodded but didn't reply.
+
+The older roo picked a spot where the leaves seemed driest
+and sat down gingerly.
+"We have to sleep for a while,"
+she told the bot
+as Sindy stretched out beside her and put her head in Maddy's lap.
+"Can you wake us when the sun comes up and we'll get moving again?"
+
+"Confirmed.
+This one will reduce operational status as well."
+The bot's flashlight started to dim.
+
+"Wait---can you..."
+Maddy asked.
+
+"Of course."
+The light steadied,
+not as bright as before but still comforting.
+Maddy closed her eyes and was instantly as lost to the world
+as her gently snoring sister.
+
+She woke a few moments or an hour later.
+Her head felt like it was stuffed with dirty laundry,
+and her tongue tasted like---she didn't want to think what it tasted like.
+She rubbed her eyes.
+What had woken her?
+
+As if in answer,
+something rustled outside the door.
+She held her breath,
+hoping it was just the wind or a stray frog,
+but then she heard it again.
+
+Moving slowly,
+she picked a pebble out of the muddy floor beside her
+and tossed it at Dockety.
+*Clink.*
+"Hey," she whispered urgently.
+"Are you awake?"
+
+The bot's flashlight brightened slightly.
+Its green lasers flashed on and swept across the room.
+"Returning to normal operating status,"
+it said.
+
+"Ssh! Quiet! Something's out there!"
+Maddy put a hand over Sindy's mouth as her sister stirred.
+"Listen!"
+
+Nothing... nothing...
+*Rustle.*
+A long mechanical tentacle slid through the door like a snake,
+bits of river weed still clinging to it in places.
+
+"Mmph?"
+Sindy struggled in Maddy's lap.
+
+"Ssh ssh ssh," Maddy breathed in her sister's ear.
+"Quiet. Be quiet. And don't... move..."
+
+The tentacle curled to the left,
+sweeping through the leaves toward the wall.
+Dockety waited until it almost touched him,
+then stepped over it.
+
+The tentacle began curling the other way.
+As Dockety stepped over it again,
+Maddy got to her feet as quietly as she could
+and pulled Sindy up beside her.
+Before Maddy could stop her,
+Sindy grabbed hold of one of the levers sticking out of the wall to steady herself.
+
+The lever dropped with a loud *clack*.
+Maddy had only a heartbeat to duck and pull Sindy down with her
+as the tentacle lifted off the ground and struck the wall.
+*Smack!*
+The tentacle whipped back and hit the wall again.
+
+On the wall opposite the door they'd come through,
+the second door began to grind open.
+"Go!" Maddy ordered Sindy.
+
+"But---"
+
+"Go!"
+She pushed her sister forward.
+She had no idea what lay deeper in the bunker,
+but it couldn't be worse than this.
+
+"But I *can't*!" Sindy wailed.
+"It's not open enough!"
+She grabbed the edge of the door and pulled as hard as she could.
+It scraped open another few millimeters before wedging in the muck below them.
+
+"Help her!" Maddy shouted at Dockety.
+Without waiting to see what the bot did
+she grabbed a handful of mud and threw it at the tentacle.
+"Hah! Whoa!"
+She ducked and rolled under it,
+then rolled again as it slapped the ground.
+
+Dockety took hold of the inner door with its claw manipulator,
+placed one metal foot on the wall,
+and shoved.
+The door scraped open another few millimeters.
+
+"Keep going!"
+Maddy threw dry leaves at the tentacle
+and jumped as it swept across the floor again.
+
+*Scrape.*
+"It's open!" Sindy shouted.
+She squeezed through.
+
+*Scrape.*
+Dockety gave one last push.
+"Make haste," it said.
+
+Maddy didn't need any more encouragement than that.
+She sprinted five steps across the room
+as the bot followed her sister into whatever lay behind the door.
+Just as she reached it,
+something cold and mechanical grabbed hold of her ankle.

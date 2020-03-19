@@ -2491,3 +2491,87 @@ She sprinted five steps across the room
 as the bot followed her sister into whatever lay behind the door.
 Just as she reached it,
 something cold and mechanical grabbed hold of her ankle.
+
+## Chapter 8: Underground
+
+Maddy screamed.
+She tried to pull her leg free,
+bu the tentacle's grip was iron-strong.
+"Help! Help!"
+She flung handfuls of dirt and dead leaves at it
+as it dragged her across the floor.
+
+Dockety scraped through the door behind her
+and flung itself at the tentacle.
+"Release! Release!" it rasped
+as it grabbed the loop around Maddy's leg
+and tried to pry it loose.
+
+Maddy kicked and pulled,
+but couldn't get her ankle free.
+"Release! Imperative! Release!"
+Dockety hit the tentacle with its heavy manipulator,
+then grabbed it again,
+all to no avail.
+
+"Maddy!"
+Sindy squeezed through the rear door and ran to her sister.
+She put her hands under Maddy's armpits
+and pulled until her feet slipped out from under her.
+"Get off her!" she shrieked.
+
+Suddenly Maddy had an idea.
+She doubled over and fumbled with her bootlace,
+cursing herself for having tied it so well.
+The braided string was clagged with mud,
+and so damp that it might as well have been dipped in glue.
+"Come on come on come on," she muttered frantically.
+There!
+Her fingernail finally found purchase.
+She pulled one end loose and hastily undid the rest of the knot.
+
+"Pull!" she yelled at Dockety.
+As the bot hauled back on the tentacle,
+Maddy braced the heel of her other boot against it and yanked her trapped foot free.
+She was out!
+
+She scrambled to her feet
+just as the tentacle realized its prey had somehow escaped.
+It threw the boot across the foot and lashed out,
+trying to find her again.
+
+*Clunk!*
+The boot hit one of the levers in the wall.
+Rumbling and grinding,
+the door to the outside began to close.
+
+The tentacle lashed out again,
+then began to slither back so that it would be cut in half.
+"Go!" Maddy ordered Sindy.
+With Dockety right behind them,
+they squeezed through the rear door.
+
+Maddy found herself on a small platform at the top of
+a flight of broad concrete stairs.
+Even with Dockety's chest light at its brightest,
+they couldn't see how far the steps went.
+"Did you go down?" she asked Sindy,
+her voice hushed.
+
+Her sister shook her head.
+"We were waiting for you."
+And then she flung her arms around Maddy and gave her a hug.
+"I was scared."
+
+Maddy hugged her back.
+"I was scared too."
+She sniffled.
+"But remember what Mama always says.
+If you can't give up, you have to keep going.
+Come on."
+
+She took her sister's hand,
+and was only mildly surprised when Dockety took her other hand
+with its smaller manipulator.
+Side by side,
+they descended into the unknown.

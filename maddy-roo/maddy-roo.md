@@ -2575,3 +2575,155 @@ and was only mildly surprised when Dockety took her other hand
 with its smaller manipulator.
 Side by side,
 they descended into the unknown.
+
+Maddy counted steps under her breath as she went.
+Ten, twenty, thirty---wait.
+"Why are they so clean?" she whispered to Dockety.
+There were no dry leaves,
+no cobwebs,
+not even dust under her finger when she ran it over the wall.
+
+"Unknown,"
+the bot replied.
+"This one is analyzing the gap in its database.
+It is clearly deliberate.
+This one's memory has been tampered with."
+
+Forty steps, fifty...
+"Is it because of that thing we knocked off you?"
+
+"Negative.
+The regulator was an involuntary alteration."
+Its chest light brightened momentarily as if it was scowling.
+"Lasercase attaches them to whatever bots it can catch,
+then uses them to catch more bots."
+
+"And people,"
+Maddy added bitterly.
+
+Dockety's lenses rotated.
+"Correct.
+But this one does not know why it orders us to collect people.
+It does not keep them."
+
+Maddy glanced at the bot.
+"Then where do they go?"
+
+"Unknown."
+The bot buzzed for a moment.
+"This one does not know if it ever knew.
+It spoke about it sometimes with---"
+
+Dockety froze mid-step,
+making Maddy and Sindy stumble.
+"What's wrong?"
+
+The bot buzzed again.
+"This one *remembers*.
+This one remembers speaking with---with Crusher.
+The modified GX-470 cargo hauler's name is Crusher."
+
+"Um... good?"
+Maddy ventured.
+
+"Very good,"
+Dockety said.
+"This one does not know why,
+but those memories create strong positive feedback."
+
+"Strong positive---you mean they feel good?
+So he's a friend?"
+
+Dockety hesitated.
+"This one...thinks so?"
+It swiveled its head to look at Maddy.
+"But Crusher is an 'it', please, as is this one."
+
+"I'm hungry," Sindy said before Maddy could reply.
+
+"I know,"
+the older roo said,
+squeezing her sister's hand.
+"If I had any cookies, I'd let you have them all."
+
+Sindy sniffled.
+"You could keep one."
+
+Maddy kissed the top of her sister's head.
+"Thanks."
+
+"This one also needs to recharge,"
+Dockety buzzed.
+"Will you be able to navigate with reduced illumination?"
+Its light dimmed.
+
+Maddy gulped.
+"Sure," she said as bravely as she could.
+
+Sixty, seventy...
+The steps brought them to a corridor made of the same featureless gray concrete.
+Square glass panels sat in the ceiling every dozen steps,
+the light they must once have cast long since dimmed.
+There were no doors,
+no branches,
+no turnings or signs or anything.
+
+Maddy counted off fifty steps,
+then another fifty.
+"I don't suppose any more of your memories have come back?"
+she asked Dockety to fill the silence.
+
+"Negative."
+Its head swiveled to look at her.
+"But---"
+
+"Look out!" Maddy exclaimed a heartbeat too late.
+The hole in the floor had been just another shadow
+until they were right at its edge.
+Maddy jerked to a stop,
+but Dockety took one extra step.
+
+She grabbed its arm and pulled as hard as she could.
+The bot was heavy---much heavier than a person would be.
+Its motors whined as it teetered on the edge of the hole,
+fighting for balance.
+
+*Crack!*
+The floor file under the bot's foot snapped in half.
+Dockety plummeted into the hole,
+toppling backward at the same time.
+*Crash!*
+Its torso hit the floor.
+For one terrifying moment Maddy was sure it was gone,
+but somehow the bot's manipulators found purchase on the concrete
+and steadied it long enough for it to retract its legs.
+
+As it did so,
+Sindy stumbled backward.
+Her hand fell on a patch of wall directly beneath one of the darkened lighting panels.
+Something *clicked*.
+Above their heads and all along the corridor,
+the lights flickered and came to life.
+
+Maddy dragged Dockety away from the hole.
+The bot lifted itself into a squat
+and then extended its legs back to their normal length.
+Its lenses rotated rapidly.
+"Thank you," it said.
+
+"Sure,"
+Maddy panted.
+She looked up at the lights and then at her sister.
+"That's the second time you've done that."
+
+"I didn't mean to,"
+Sindy said defensively.
+
+"No, no, it's aright."
+Maddy got to her feet and gave her sister a hug.
+"It's aright,"
+she repeated.
+"You keep doing it."
+
+And that was when a crackly voice said through speakers,
+"Well, you are here now. You might as well come and say hello."

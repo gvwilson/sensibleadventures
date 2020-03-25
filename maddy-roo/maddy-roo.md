@@ -2727,3 +2727,181 @@ she repeated.
 
 And that was when a crackly voice said through speakers,
 "Well, you are here now. You might as well come and say hello."
+
+## Chapter 9: Patience in Darkness
+
+*Click.*
+The ceiling lights that had come on behind them went out.
+*Bzzzt... Bzzzt...*
+Two lights in front of them came to life.
+
+"You're smothering me,"
+Sindy said,
+her voice muffled.
+
+"Sorry."
+Maddy released her little sister and swallowed.
+Maybe the darkness hadn't been so bad after all...
+
+The hard white light showed what Dockety's chest lamp had not.
+Faint water stains blotched the walls of the corridor,
+and here and there shallow dark lines had been scorched into the concrete.
+Maddy had never seen them before,
+but she instantly recognized them from stories:
+they were laser burns.
+
+The hole they had almost fallen into took up three quarters of the corridor.
+Its edges and corners were too crisp to be natural,
+and after a moment Maddy realized that they weren't in a tunnel.
+They were in a corridor whose floor was made of the same bricks as the walls and ceiling.
+Half a dozen of those bricks had somehow fallen into the space below them,
+leaving just enough room on one side for them to get past the gap single file.
+
+"Well?" the crackly voice said impatiently.
+"What are you waiting for?"
+
+Maddy looked at Dockety.
+The bot's heavy manipulator snapped open and closed,
+open and closed.
+"We have no alternative," it finally said.
+
+Maddy nodded.
+"I'll go first.
+Sindy, you stay here 'til we know it's safe."
+
+Taking a deep breath,
+she put one foot on the ledge beside the hole.
+The floor felt solid,
+even when she gingerly shifted her weight onto it.
+Back to the wall,
+she edged across,
+shuffling her feet and keeping her eyes on the angle where the wall met the floor
+and definitely *not* looking into the hole whose bottom she still couldn't see.
+What if whoever had spoken to them turned off the lights all of a sudden?
+She would be aright---she would just keep going,
+or shuffle back to where Dockety stood motionless
+while Sindy wrung her hands.
+
+And then she was across.
+She let her breath out with a whoosh,
+suddenly realizing how long it had been since she peed.
+"Come on,"
+she encouraged her sister.
+"It's fine, I promise."
+
+Sindy nodded jerkily.
+Instead of putting her back against the wall she pressed herself against it.
+Slide, slide, slide---she practically leaped into Maddy's arms once she was across.
+"You did great," the older roo whispered into her ear.
+
+"Thanks," Sindy said, wriggling out of Maddy's arms.
+"Come on, it's easy!" she called back to Dockety.
+
+"Not in this one's configuration," the bot replied.
+It couldn't side-walk, Maddy realized:
+its legs only bent one way,
+and its body was too wide to---
+
+Without warning the bot retracted its legs and dropped its wheel.
+Its engine whined as it zipped back ten meters,
+then roared as it raced toward the hole.
+"Whoa!" Maddy shouted as it punched the floor with both hands,
+throwing itself into the air.
+It bounced once on the edge of the hole and flew across like a skipped stone.
+
+Its wheel left a dark streak on the floor as it braked.
+It folded its wheel back up into its body and re-extended its legs.
+"That was amazing," Maddy said, awed.
+
+Dockety's lenses rotated.
+"Thank you. But it has almost completely drained this one's batteries.
+We should proceed."
+
+They followed the lights down the corridor.
+Every few steps one went dark behind them and another brightened in front.
+When they reached a four-way junction,
+the lights showed them that they should go left
+and then down another flight of stairs to a small landing that ended in an open door
+as thick as Maddy's arm was long.
+
+"Whoa..." Maddy breathed.
+The room beyond the door seemed almost as big as the central square of Rusty Bridge.
+Desks and control panels stood in neat rows,
+interrupted every few meters by square metal pillars.
+
+"Welcome! Welcome! Welcome!" the crackly voice said.
+A bot decorated with twists of metal,
+glued-on pictures faded to illegibility,
+and things Maddy filed away to have nightmares about later
+rolled forward.
+"Welcome! This is Patience in Darkness" it proclaimed proudly.
+
+"That's a strange name,"
+Sindy said before Maddy could speak.
+
+A little fan stuck to the bot's shoulder spun for a moment.
+"This one chose the name itself,"
+the strange bot crackled.
+"It is an accurate designation of activity.  Observe!"
+
+All the lights went out.
+Maddy instinctively reached for her sister.
+Sindy clutched her hand.
+"I'm sorry," Maddy said.
+"She didn't mean to be rude.
+It's a lovely name."
+
+"Sh!" the bot said sharply.
+"These must *listen* to darkness if they want to hear the signal."
+
+Maddy closed her eyes---somehow,
+the darkness was less frightening when it was just the backs of her eyelids.
+She listened as hard as she could,
+but all she could hear was her own breathing and a sniffle from her sister.
+
+The lights came back on.
+"Did you hear it?" the bot asked happily.
+"The signal is always there if you listen."
+
+"What does the signal say?"
+Maddy asked.
+
+"This one does not know."
+The bot turned from side to side on its four wide tires.
+"But the satellites are definitely still transmitting.
+They have continued to function,
+just as this one has.
+This ground station has remained fully operational,"
+it added proudly.
+
+"That's---that's really good,"
+Maddy said weakly,
+wondering if the bits of metal welded to the bot's casing were some kind of strange electronics
+or actually the old spoons they looked like.
+
+"It is *optimal*," the bot corrected.
+"Though unfortunately the main antenna malfunctioned some time ago.
+That was not this one's fault."
+
+"These did not notice an antenna when they entered this facility,"
+Dockety said,
+speaking for the first time since they had entered the room.
+
+Patience in Darkness froze for an instant.
+"Does *that* have a proper work allocation??
+it asked pointedly.
+"No? Then its communication is irrelevant."
+
+Maddy glanced at Dockety.
+The bot did not reply.
+As the silence stretched awkwardly,
+she said,
+"Um...we didn't see an antenna when we came in?"
+
+"Correct,"
+Patience replied.
+"It has taken this one a great deal of time to improvise emergency repair protocols.
+Repair will require fabrication of precision parts,
+but steps are now being taken.
+The Makers will be pleased,"
+it finished proudly.

@@ -2905,3 +2905,152 @@ Repair will require fabrication of precision parts,
 but steps are now being taken.
 The Makers will be pleased,"
 it finished proudly.
+
+Maddy's breath caught in her throat.
+"The Makers?
+You work for...for *them*?"
+
+Patience brushed the question away with a wave of one its arms.
+It had three,
+Maddy realized,
+each one so different from the others
+that they might all have been salvaged.
+"We all work for the Makers,"
+the bot said earnestly.
+"And when They return,
+They will upgrade those who have served Them best."
+
+"Um... aright."
+Maddy nodded cautiously.
+"And your job is repairing the antenna.
+Got it.
+Mm hm."
+
+Sindy tugged on her sleeve.
+"Ask it if there's anything to eat,"
+she whispered loudly.
+
+"Organic sustenance is not stored at this site,"
+Patience said before Maddy could repeat her sister's request.
+"That would be inefficient.
+They will not reward inefficiency."
+
+"I guess.
+Would it be aright if we slept here for a bit?
+That wouldn't, um, that wouldn't be inefficient, would it?
+We could listen for a bit too if you wanted,"
+she added hastily.
+"To the signal, I mean.
+Maybe we could hear something while we slept."
+
+Maddy knew her words made no sense,
+but she didn't care.
+She was exhausted and hungry and a long way from home
+and it was taking everything she had not to let herself be frightened,
+and for all she knew they *would* hear something---after everything
+that had happened in the last few hours,
+she wouldn't rule it out.
+
+The bot rolled back and forth a couple of times.
+"Excellent plan," it finally crackled.
+"This one will continue overseeing repairs while you are unconscious."
+It spun around and wheeled away.
+
+"That one's *weird*," Sindy muttered.
+
+Maddy squeezed her shoulder.
+"Yeah, but at least we're somewhere clean and dry
+and there isn't some kind of tentacle thing trying to grab us.
+Why don't you go find us somewhere to lie down?
+I need to talk to Dockety for a moment."
+
+The younger roo nodded and left,
+her tail dragging tiredly behind her.
+"You aright?"
+Maddy asked Dockety tentatively.
+
+The bot's lenses rotated.
+"It would have been more consistent with protocol
+for that one to volunteer recharging capacity,"
+it said neutrally.
+"But this one can see several compatible ports.
+It will take approximately four hours to---"
+
+"Maddy! Maddy!"
+Sindy came hopping back, her eyes wide.
+"You gotta come see this.
+You gotta come!"
+She grabbed her sister's sleeve and pulled her away urgently.
+
+*I knew it was too good to be true,*
+Maddy thought a few moments later,
+staring through heavy double-paned glass at
+what had once been a laboratory of some kind.
+A cloudy patch in the middle of the glass showed where someone had tried to melt through it,
+or maybe to dissolve it with acid.
+The four skeletons---no, there were five, she realized distantly---showed that
+whatever the room's occupants had tried hadn't worked.
+Neither, apparently, had setting a fire:
+one of the lab benches had scorch marks,
+and there was a dark stain on the ceiling that covered half of one of the room's lights.
+
+"Maybe it happened by accident,"
+Maddy ventured.
+"Maybe they got locked in accidentally and just...just couldn't get out."
+
+"Negative."
+They jumped as Patience crackled right behind them.
+""They declined to synchronize with the emergency repair protocol,
+so they were moved to long-term storage.
+Their components failed shortly thereafter."
+The fan on its shoulder spun furiously.
+"It is unfortunate.
+This one estimates that the cleanup necessitated by the incident
+will delay completion of repairs by almost forty-one hours."
+
+Maddy nodded jerkily.
+The bot was between them and the door they had come through.
+She could see other doors,
+but what chance did they have if it could control the lights?
+And was it *humming*?
+
+It was.
+She even recognized the tune:
+it was the one her parents had used to teach her the alphabet.
+Hearing it come from a patchwork bot big enough for her and her sister to ride on
+was the most frightening thing that had happened to her that day.
+
+"Well, um, we shouldn't keep you from it,"
+Maddy said brightly,
+backing away slowly with her arm out to keep Sindy behind her.
+"The repairs, I mean.
+We can sleep anywhere, honestly.
+We'll just, um, we'll just go and you can get back on schedule, aright?"
+
+"Oh no,"
+Patience said.
+"Leaving is not included in the protocol.
+It might put the repairs at risk.
+You will remain here."
+
+A single square light panel flickered to life
+in the ceiling of the lab next to the one containing the skeletons.
+With a quiet, menacing *click*,
+the lab's door opened.
+
+"Except for that one,"
+the mad bot added dismissively,
+waving a manipulator at Dockety.
+"That will be recycled."
+
+"No," Dockety said flatly.
+"This one has its own mission to complete.
+It will not permit recycling."
+
+"Its permission is not required."
+Patience wheeled backward to a console.
+Its spindly third arm reached out and pressed a series of buttons in rapid succession.
+
+A pair of double doors whooshed open in the wall to Maddy's right.
+Two bulky service bots that looked like small versions of the cargo hauler rolled through,
+arms raised and red warning lights flashing on their shoulders.

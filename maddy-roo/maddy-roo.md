@@ -3052,5 +3052,136 @@ Patience wheeled backward to a console.
 Its spindly third arm reached out and pressed a series of buttons in rapid succession.
 
 A pair of double doors whooshed open in the wall to Maddy's right.
-Two bulky service bots that looked like small versions of the cargo hauler rolled through,
+Two bulky service bots that looked like small versions of the cargo hauler stood behind them,
 arms raised and red warning lights flashing on their shoulders.
+
+## Chapter 10: Unison
+
+"Surrender!" the service bots boomed in unison,
+their voices making keyboards and coffee cups rattle.
+They rolled forward side by side---
+
+---only to get jammed against each other in the doorway.
+"Withdraw!"
+They rolled back,
+paused,
+and rolled forward again,
+crashing into the door exactly as they had before.
+
+"You gotta be kidding me,"
+Maddy muttered.
+She looked around wildly.
+The door they had come through was closed.
+All the doors were closed---there was no way out!
+
+"Quick!"
+she said to Sindy.
+"Pull a lever!"
+
+"What?"
+
+"Pull a lever!"
+
+"There aren't any levers!" her sister wailed.
+
+"Then push a button!
+Anything!"
+Maddy frantically began slapping her hands on keyboards
+and pushing buttons and twisting dials.
+A heartbeat later her sister joined in.
+
+"Desist!"
+Patience crackled.
+"Your activity is not protocol!
+Desist!"
+
+"Desist this!"
+Maddy yelled,
+yanking a keyboard off the desk and flinging it at their captor.
+The keyboard clattered harmlessly off a desk and fell to the floor.
+
+Beside her,
+Dockety picked up a keyboard and studied it for half a second.
+"Angular momentum often stabilizies objects in flight,"
+it observed,
+and then spun the keyboard through the air.
+*Crack!*
+It struck Patience on the side of its head.
+*Crack!*
+*Crack!*
+Two more keyboards shot across the room.
+
+"Apprehend! Apprehend!"
+the mad bot ordered the bulky service bots as it retreated,
+waving its arm to protect itself.
+
+One of the service bots hesitated just long enough
+for the other to charge through the door.
+For a moment Maddy was sure it was all over,
+but the bot halted a few meters away.
+A hatch opened in its side.
+A small broom telescoped out of its side
+and began sweeping up the scattered pieces of the broken keyboard.
+
+"Incorrect!"
+Patience crackled.
+Backing up to one of the consoles,
+it began typing commands.
+
+The service bot froze mid-sweep.
+Its broom retracted into its side.
+*It's using the console to control them!*
+Maddy realized.
+
+She grabbed another keyboard and flung it at the console,
+but missed.
+
+"Here! You try!"
+She picked up the last keyboard and thrust it at her sister.
+
+"But---"
+
+"Throw it!" Maddy shouted.
+
+Eyes wide,
+Sindy pulled her arm back and let fly.
+The keyboard arced through the air end over end,
+bounced off Patience's outstretched third arm with a *clink!*,
+and came down corner-first on a button that looked no different from its neighbors.
+Behind them,
+the door they had come through began to open.
+
+"Come on!"
+Maddy yelled,
+grabbing Sindy and pushing her toward the door.
+Her sister didn't need the encouragement.
+She bounded across the room,
+her long feet slapping against the floor again and again
+just a step ahead of Maddy's.
+
+But where was Dockety?
+Maddy glanced over her shoulder.
+Her blood went cold.
+The other service bot had caught hold of Dockety's arm.
+Slowly but surely it was forcing Dockety down onto the floor.
+
+Maddy didn't even think.
+On her next bound she planted her feet on the edge of a desk
+and threw herself into the air.
+One-two-three she went from desk to desk.
+Sindy shouted her name behind her but she didn't have time to hear it
+because she had to jump one more time and *kick!*
+
+It felt like kicking a wall,
+but the service bot rolled back a step.
+With a *snap!*
+Dockety's arm pulled right off its body.
+"Go!" Maddy yelled,
+ducking as the service bot tried clumsily to grab her.
+She snatched Dockety's arm off the floor and raced for the door.
+
+"Incorrect!"
+Patience crackled angrily behind them as they escaped.
+"Incorrect!"
+And then the door closed and they were back in the corridor
+with only the failing light from Dockety's chest to guide them.

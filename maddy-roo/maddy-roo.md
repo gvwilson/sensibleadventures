@@ -1307,7 +1307,7 @@ to tangle in bots' limbs and gears.
 raising her precious zap gun to her shoulder and sighting along it.
 *BZZZP!*
 Purple-blue lightning arced across the square
-and hit the garbage can bot that had just finished putting its wheel back in place.
+and hit the trash can bot that had just finished putting its wheel back in place.
 It glowed and sparked like a firefly caught in a lantern and fell over,
 its mechanical arms twitching.
 
@@ -2753,8 +2753,8 @@ they were laser burns.
 The hole they had almost fallen into took up three quarters of the corridor.
 Its edges and corners were too crisp to be natural,
 and after a moment Maddy realized that they weren't in a tunnel.
-They were in a corridor whose floor was made of the same bricks as the walls and ceiling.
-Half a dozen of those bricks had somehow fallen into the space below them,
+They were in a corridor whose floor was made of the same blocks as the walls and ceiling.
+Half a dozen of those blocks had somehow fallen into the space below them,
 leaving just enough room on one side for them to get past the gap single file.
 
 "Well?" the crackly voice said impatiently.
@@ -3183,5 +3183,580 @@ She snatched Dockety's arm off the floor and raced for the door.
 "Incorrect!"
 Patience crackled angrily behind them as they escaped.
 "Incorrect!"
+
 And then the door closed and they were back in the corridor
 with only the failing light from Dockety's chest to guide them.
+
+And then Dockety's light dimmed and dimmed again
+until it was no brighter than a glimmer of moonlight reflected off a quiet pond.
+Maddy grabbed Sindy's arm.
+"Stop,"
+she panted.
+"The hole, remember?"
+
+She felt rather than saw her sister nod.
+"Why'd your light go out?"
+she asked the bot plaintively.
+
+"This one did not have an opportunity to recharge,"
+Dockety replied.
+"Power must be conserved.
+Will scans suffice?"
+Its green lasers swept a pair of sharp parallel lines across the floor.
+
+Maddy sagged.
+She was so tired...
+"We can't see that way,"
+she said wearily.
+"You'll just have to tell us if there's anything..."
+*Anything we could fall into,* she finished in her head.
+*Anything that might try to grab us.
+Anything we haven't run into or I haven't thought of
+that might eat us or lock us in a room.*
+
+She shivered,
+then straightened up.
+"Come on,"
+she said to Sindy as gently as she could.
+"Put your hand on the wall and steer with that.
+It'll be like a game."
+
+"Pretty stupid game,"
+Sindy muttered.
+
+Just as Maddy reached for the wall,
+the light above them flickered and came to life.
+She whirled around,
+expecting to see the two armored service bots,
+but the hallway was as empty behind them as it was in front.
+Was it some kind of automatic system?
+
+"Let's go," she said again,
+her voice hushed.
+
+A speaker crackled.
+"Where? Where will you go?"
+Patience asked.
+"Back to the surface?
+The security system is still active.
+Or perhaps you would like to continue exploring?"
+It made a horrible grating *snrk snrk* sound.
+
+That was as much as Maddy could take.
+There---set into the wall.
+That looked like a speaker,
+and even if it wasn't...
+She stepped over to it and swung Dockety's arm as hard as she could.
+It didn't even scratch the paint.
+
+"Just... shut... up!" she grunted,
+hitting the speaker again and again with the bot's torn-off arm.
+
+"Please don't do that," Patience and Dockety said in unison.
+
+Maddy froze.
+"What?"
+
+Dockety buzzed.
+"This one did not say anything."
+
+"Yes you did,"
+Sindy said accusingly.
+"You said the same thing *it* said."
+
+Dockety's lenses rotated.
+"This one has no recollection of that.
+We should proceed while there is light."
+
+Maddy nodded, weary again.
+"Do you want your arm back?"
+
+They retraced their steps back along the corridor,
+Maddy and Sindy side by side and Dockety three steps behind them,
+its arm in one hand like a folded-up umbrella.
+Lights came on in front of them and went dark behind them,
+just as they had before,
+but in the background Maddy could hear Patience humming a crackly little song to itself.
+
+"Oh, please, shut up," she said under her breath.
+
+"What's the matter? Don't you like music?"
+Patience and Dockety asked in unison.
+
+Maddy pulled up short and put out a hand to stop the bot.
+"You did it again.
+You said the same thing it did."
+
+"This one did not---"
+Dockety froze.
+Its lenses rotated rapidly.
+"Correction.
+The base systems are attempting to subvert this one's motivational integrity."
+Its manipulator clacked.
+"Without power reserves,
+this one will not be able to resist indefinitely.
+You should deactivate me and proceed alone."
+
+"What? No!"
+Maddy slapped its metal plates angrily.
+"There's no way we'll get out of here without you.
+And anyway,
+we're not just going to leave you behind."
+She slapped its plates again.
+
+A hundred tired steps later they reached the hole.
+It was the same size as before:
+six blocks wide and six blocks long,
+with one row of blocks clinging to the wall for them to walk on.
+"Are you going to be able to jump again?"
+Maddy asked Dockety.
+
+"Negative," the bot said,
+its voice buzzing more than before.
+"This one's reserves are almost completely depleted,
+and must be devoted to resisting integrity attacks."
+Its lenses rotated,
+more slowly than they had before.
+"This one regrets that it will not see its friend Crusher again."
+
+That earned it another smack on its torso from Maddy.
+"Don't say that.
+We're all going to get out of here."
+
+"That's what they said."
+Two voices,
+one Dockety's and one crackling through the nearest speaker.
+
+The bot's lenses rotated slowly.
+"This one is sorry.
+It cannot resist much longer."
+
+Sindy kicked a loose piece of stone.
+"It's not fair," she whimpered.
+
+"Wait," Maddy said.
+She picked up another piece of stone and tossed it into the hole.
+*Tock... tock...*
+She looked at Sindy and then at Dockety.
+"Did you hear that?
+It's not all that deep.
+We could climb down."
+
+"Inadvisable,"
+Dockety said.
+"We do not know what is down there."
+
+"Well we know for sure there's nothing up ahead.
+We barely got away from that tentacle thing the first time,
+and even if that stupid thing behind us doesn't take over your brain,
+you're going to run out of power before we get there."
+She kicked another chip of stone into the hole
+and listened to it hit the floor.
+"I wish I'd remembered to bring a rope."
+
+As if it had read her mind,
+Dockety held up its torn-off arm.
+"This one can lower you."
+
+Maddy nodded.
+What choice did they have?
+"Aright."
+
+A few moments later the bot lay on the concrete floor,
+one arm held in the other.
+Maddy hugged her sister.
+"I'll be right back," she promised.
+
+"What if you can't?"
+Sindy whispered tearfully.
+"What if he leaves you down there?
+What if he goes all the way bad?"
+
+"This is an it, thank you,"
+Dockety said at normal volume.
+"And this will overload its own circuits before it allows itself to be controlled again."
+
+Maddy gave Sindy one last hug.
+"Love you," she whispered,
+just as their mother did every night.
+She wiped her eyes on her sleeve and sat down carefully on the floor,
+her legs dangling into the hole.
+Taking a deep breath,
+she twisted around onto her stomach,
+grabbed hold of Dockety's arm with both hands,
+and slid down it into the unknown.
+
+## Chapter 11: Eyes Everywhere
+
+Maddy had never seen the ocean, but she had read about it in Shaper Leaf's books.
+She knew that it was as deep as the highest mountains were high,
+and that its depths were darker than a moonless night.
+Strange creatures lives there,
+fish whose mouths were half the size of their bodies
+and wriggling things like glowing ribbons
+and bots that looked like lobsters on stilts,
+all of them patiently waiting to consume whatever came to them from above.
+
+As she slid down Dockety's arm,
+she wished that her imagination would shut up for once.
+
+Her foot slid past the manipulator at the end of the arm.
+She gulped.
+She could probably still climb back up,
+maybe,
+but if she went any further...
+
+"Aright?"
+Sindy asked.
+Maddy was only a meter below her sister,
+but it felt as great as the distance between them and home.
+
+"Yeah, I'm aright," she replied,
+surprised at how steady her voice was.
+"Here's goes nothing."
+She slid down further until her hands were on Dockety's wrist
+and stretched her leg.
+Was that the floor she could feel with her toe?
+She stretched even more.
+Maybe?
+
+She let go of the arm
+and then let out her breath as her feet came down on a floor
+that felt so wonderfully solid she could have hugged it.
+"It's aright!" she called up to the others,
+then squeaked as a red emergency light came on in the ceiling above her,
+triggered by her voice.
+
+Sindy came down next.
+Maddy caught hold of her ankles as she kicked her long, furry feet.
+"Don't---I'm---just---whoops!"
+Her sister fell into her arms,
+nearly knocking her over,
+then slithered out of Maddy's hug and bounced up and down a couple of times.
+
+"It's colder down here,"
+Sindy said,
+shivering.
+
+"Yeah."
+Maddy cleared her throat.
+"That was really brave of you."
+
+Sindy shrugged.
+"Nah.
+I figured if you could do it..."
+The sisters grinned at each other,
+the strangeness around them forgotten for just one moment.
+
+And then it was Dockety's turn.
+Maddy caught his detached arm
+and watched as he lowered himself as far as he could with the other
+and then extended his legs to their full length.
+"You still have about a meter to---never mind."
+The bot dropped to the floor beside them and retracted its legs to their normal length.
+
+"Here you go,"
+she said,
+handing it back its arm.
+
+The bot took it,
+head turning to study the square red emergency light in the ceiling.
+"The interference has stopped," it announced.
+"The miscreant is no longer attempting to subvert this one's systems."
+
+"Well that's good news."
+Maddy patted the bot's plating awkwardly.
+"Come on, let's see if we can find you somewhere to recharge."
+
+The lower corridor was as empty as the one above had been.
+The red lights didn't come on automatically:
+every dozen steps or so,
+Maddy or Sindy had to say something to trigger them.
+Maddy kept waiting for Patience's crackling voice to taunt them from a speaker,
+but it never came.
+
+Finally they came to a door.
+"Armory Number Four," Maddy read aloud,
+tracing the faded words with her finger.
+She glanced at Dockety,
+who had been moving slower and slower.
+"Maybe we can find you a new arm here," she said,
+trying to make it a joke.
+
+The bot didn't reply.
+Instead,
+it pressed its hand against a square plate in the the door.
+*Click.*
+The door slid to the side.
+
+White lights in the ceiling,
+proper big beautiful white lights
+that revealed a room filled with rows of metal shelves
+higher than Maddy was tall.
+Most of the shelves were empty,
+but one entire side of the room still held
+canisters marked with three-armed caution labels
+and capped with complicated valves.
+Maddy studied them for a moment but didn't touch them.
+
+"There's another door,"
+Sindy said,
+pointing to a corner.
+It too opened when they pressed the square plate
+where a handle would normally have been.
+Another corridor,
+another set of red emergency lights,
+more tired footsteps...
+"How are you doing?"
+Maddy asked Dockety.
+
+The bot took a moment to answer,
+and when it did,
+its voice was slower and raspier than before.
+"Power reserves at two percent."
+Maddy didn't know what "percent" was,
+but "two" didn't sound very many.
+
+Another door.
+*Click.*
+More white light that made her squint after the dim red in the corridor.
+It was a control room like the one where they had met Patience.
+*How many of these did they need?* she wondered.
+
+Dockety pushed past her.
+Four quick steps took it to a panel on the wall
+that held a dozen square black receptacles.
+It opened a panel in its torso with its remaining arm,
+pulled out a cable,
+and plugged itself in.
+
+"Is it working?" Maddy asked.
+
+Silence.
+"No."
+There was no emotion in the bot's voice.
+"Power reserves now at one percent.
+Entering emergency maintenance mode.
+Goodbye."
+
+"Wait!"
+Sindy looked around frantically.
+"Maybe this turns it on!"
+She pressed a button,
+then another and another.
+
+"Stop! Don't!"
+Maddy reached for her.
+"What if you turn something on?"
+
+"What if I don't?"
+Sindy shot back.
+*Click click click,*
+and then there was a deep hum so low that they felt it more than they heard.
+The lights above them flickered and steadied.
+
+"Power on," Dockety said.
+"Recharging."
+Its head swivelled.
+"Thank you.
+This one will recharge faster if it shuts down its other functions.
+Full operation will resume... shortly..."
+The lights behind its lenses dimmed.
+
+"Dockety?" Sindy asked hesitantly.
+
+"Ssh," Maddy whispered.
+"It's sleeping.
+Come on,
+let's see what we can find."
+
+It only took them a few minutes to discover that the answer was "not much".
+Desks bigger than their beds,
+chairs that definitely hadn't been made for people with tails,
+flat screens coated in a fine layer of gritty dust,
+panels full of buttons that Maddy told Sindy she wasn't allowed to press---nothing
+they could eat,
+and nothing that told them how to get home.
+
+"Lie down and take a nap,"
+Maddy told her sister the third time Sindy yawned.
+"We can't do anything 'til it wakes up."
+
+The younger roo nodded,
+climbed onto a desk,
+stretched out,
+and was snoring softly in seconds.
+When Maddy patted her shoulder softly,
+she rolled onto her side and pulled up her legs,
+just as she did when they were at home and it was morning
+and she didn't want to get up yet.
+"I'll get you home,"
+Maddy said quietly.
+"I promise."
+
+*Click.*
+She whirled around at the sound.
+A hatch like a mail slot had opened at floor level in the wall
+just a meter away from where Dockety stood.
+As she watched,
+a flat little bot rolled out.
+Square and gray,
+it made a whirring sound as it began to move back and forth across the floor
+as it began to clean the room.
+
+The bot rolled under a desk.
+A moment later the desk rose a few centimeters into the air and the whirring resumed.
+The desk settled back onto the floor and the next one rose.
+How many times had it done this,
+Maddy wondered.
+How many years or centuries had it spent cleaning a room that no one used?
+
+A third desk rose.
+Maddy crouched down to see how the bot was lifting them.
+
+*Thud.*
+The desk came back down suddenly.
+The bot rolled back,
+reminding her of a startled rabbit.
+"Whoa whoa whoa," she said coaxingly.
+"You don't have to be afraid."
+
+The bot didn't move.
+Maddy smiled.
+Could it even see her?
+"We're lost," she said.
+"I don't suppose you know the way out?"
+
+The bot spun in a circle and rolled away.
+When Maddy didn't follow it rolled back and spun in another circle.
+"Aright," she said,
+straightening up.
+"I'll come look."
+
+The bot led her to a desk that had even more screens on it than the others.
+A panel slid aside in its top.
+A delicate arm unfolded and reached for a drawer.
+A mechanical finger as delicate as a dandelion stem
+punched a code into the keypad on the front of the drawer.
+*Click.*
+The bot pulled the drawer open,
+then folded up its arm and spun in a circle.
+
+Maddy looked inside.
+Her breath caught.
+"What...?"
+She lifted out a sketchbook bound in dark green canvas and brushed it off.
+"How...?"
+
+She opened the sketchbook with trembling hands,
+already knowing what she would see.
+Deft lines and cross-hatching,
+all in pencil,
+all done by a sure and loving hand.
+There was her mother's face, smiling.
+There was Sindy holding a ball.
+And there was her,
+frowning slightly in concentration as she read a book that the artist hadn't finished drawing.
+It was her father's,
+the one he always carried in a pocket in his overalls in case inspiration struck.
+
+She flipped through it.
+Two pages had been torn out.
+After that all the drawings were floor plans and bots,
+crowded around with notes in his tiny, precise lettering.
+He had been here,
+and he had been trying to find a way to escape.
+
+The last few pages were empty.
+She held the book up and shook it,
+hoping that maybe he had written a note or *something*,
+but nothing fell out.
+She closed the book and pressed it to her chest.
+The skeletons in the upper control room...
+No.
+She shook her head.
+No,
+that *couldn't* have happened to him.
+
+She opened the book again.
+One of the last pages had the word "Surveillance" written at the top and underlined.
+Beneath it was a drawing of the control panel she was standing in front of.
+Arrows labeled "1", "2", "3", and "4" pointed at buttons that had been colored in.
+She took a deep breath and looked down at the little cleaning bot.
+"May I?" she asked.
+
+The little bot rolled back and forth.
+"Aright."
+She pressed the first button,
+the second,
+the third,
+the fourth.
+
+*Click.*
+*Click.*
+*Click.*
+The screens in front of her came to life.
+An empty stretch of highway...
+A forest clearing that somehow looked familiar...
+Something too dark to make out...
+And the old village square,
+the one with the Makers' black glass pillar in it.
+As she watched open-mouthed the scenes shifted slightly,
+left to right,
+right to left.
+The forest was where they had caught up with Dockety.
+There must be cameras inside the pillars---which meant
+that the bots could have been watching them since, since forever!
+
+"Oh," she said without realizing it
+as her mother and Mayor Lupus stepped into one of the scenes.
+They were in the square, arguing.
+The button that had brought that screen to life was blinking.
+She pressed it.
+
+"We have to go get them!" her mother's voice said.
+
+"They were taken by bots, Ibby."
+Mayor Lupus was sympathetic but firm.
+
+"But they escaped!" her mother protested.
+
+"Into the Mire,"
+the mayor said gently.
+"With bots chasing them.
+They could be anywhere by now,
+and,
+and it's the Mire,
+Ibby.
+You know the stories."
+
+"I will go."
+The hidden camera scanned left to reveal Shaper Leaf
+and a handful of the village militia.
+Bluster and Bravo were there too, she saw.
+They had made it home.
+
+"I will go look for them,"
+the shaper repeated.
+
+"You won't come back,"
+Bluster said warningly.
+"There were bots all over the place,
+dozens of them.
+There's no way they could have escaped."
+
+"You *liar*," Maddy said unbelievingly.
+
+Motion in another screen caught her eye.
+She glanced at it and froze.
+A dozen bots rolled past the camera on the highway.
+She recognized some of them:
+the one that looked like a trash can,
+the one with too many legs,
+and Lasercase---it was the raiding party that had attacked Rusty Bridge.
+
+As the camera panned to follow them she saw
+the half-sunken metal sphere she and Dockety had passed.
+They were heading back to the village,
+she realized.
+The bots were about to attack again!

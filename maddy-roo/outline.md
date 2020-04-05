@@ -1,4 +1,4 @@
-## 1.  Salvage!
+## Chapter 1: Salvage!
 
 -   Afternoon, chores over
 -   Maddy is sketching when Gumption shows up
@@ -30,7 +30,7 @@
     -   Panels trap Gumption's foot, then shift again, pulling him under the water!
 -   A rasping voice, "Alert!  Danger!  Extricate!  Extricate!"
 
-## 2.  A Stranger!
+## Chapter 2: A Stranger!
 
 -   A battered bot bursts out of hiding (Dockety, but we don't know the name yet)
 -   Maddy shrieks, thinking it's about to attack, but it lifts the panel long enough for Gumption to get free
@@ -50,7 +50,7 @@
     -   Sindy got away looking for their parents
     -   Their father distracted the bots in order to save her
 
-## 3.  You Have to Listen!
+## Chapter 3: You Have to Listen!
 
 -   Argument
     -   She gets angry at Dockety and hits it
@@ -81,7 +81,7 @@
 -   Rumbling on the road
 -   A goat farmer has run into town, pants, "The bots are coming!  The bots are coming!"
 
-## 4.  The Attack
+## Chapter 4: The Attack
 
 -   Shaper Leaf tells the children to run
     -   Mama Roo: "You have to come with us!"
@@ -106,7 +106,7 @@
 -   "Get that one!" Shaper Leaf yells at the villagers, who focus attacks on Lasercase
 -   Lasercase orders a retreat, but Sindy and two grownups have been caught and are in the cage cart!
 
-## 5.  Unlikely Help
+## Chapter 5: Unlikely Help
 
 -   Maddy is frantic: she remembers her father being taken, and she feels remorse for her angry words with her sister that morning
 -   "We have to after them!" is met with the mayor's, "No---they'll just take more of us."
@@ -138,7 +138,7 @@
 -   Dockety: "Several.  But it is still a good plan."
 -   He races forward, knocks one unsuspecting pair of bots out of the way, and throws Maddy onto the cart
 
-## 6.  Out of the Cage Cart...
+## Chapter 6: Out of the Cage Cart...
 
 -   Maddy drops the brick
 -   Dockety races forward and body checks another bot just as it raises itself to grab at Maddy
@@ -184,7 +184,7 @@
     -   Goats flee
     -   Bravo shouts, "We'll get help!"
 
-## 7.  ...And Into the Mire
+## Chapter 7: ...And Into the Mire
 
 -   Dockety is sad and angry about the demise of the sawbot and the boatbot
     -   "It did not have a choice. Bots do not have choices when governors are put on them."
@@ -224,7 +224,7 @@
 -   They get the door open and rush through it
     -   Just as they do, the monster grabs Maddy's ankle!
 
-## 8.  Underground
+## Chapter 8: Underground
 
 -   They struggle to free Maddy, but the monster drags her back toward the door
 -   Sindy starts screaming
@@ -256,7 +256,7 @@
     -   Maddy: "No no, I---don't be sorry."  She squeezed her sister's hand.  "You keep doing it."
 -   A voice through speakers: "You are here now. You might as well come and say hello."
 
-## 9.  Patience in Darkness
+## Chapter 9: Patience in Darkness
 
 -   The lights lead them to a control room
 -   A bot decorated with baroque twists of metal, glued-on pictures faded to illegibility, and things Maddy filed away to have nightmares about later
@@ -285,7 +285,7 @@
 -   Patience goes to a console and presses buttons
 -   A door opens and two bulky service bots enter
 
-## 10. Unison
+## Chapter 10: Unison
 
 -   The service bots have been retrofitted with armor (imposing but clumsy)
 -   Close in on Maddy, Sindy, and Dockety
@@ -330,7 +330,7 @@
 -   Dockety: "This is an it, thank you.  And this will self-destruct before it allows itself to be turned into a drone again."
 -   Maddy (hug): "I'll come back.  I promise"
 
-## 11. Eyes Everywhere
+## Chapter 11: Eyes Everywhere
 
 -   The lower corridor is cold instead of cool
 -   Emergency lights turn on automatically
@@ -368,7 +368,7 @@
     -   Maddy recognizes the line of ruined arches
     -   Bots are going to make another attack!
 
-## 12. Reconfiguration
+## Chapter 12: Reconfiguration
 
 -   Maddy hurries back to the hole
 -   No response when she first calls up, but when she raises her voice, they answer
@@ -418,7 +418,7 @@
 -   Lights come on and Patience gloats about knowing where they were going from Dockety's download
 -   They are ambushed by half a dozen service bots!
 
-## 13. The Windmill
+## Chapter 13: The Windmill
 
 -   Dockety: "Delay them." and begins to fiddle with a strange contraption that looked like a fallen windmill
     -   Dockety: "This was meant for your kind, but with modifications..."
@@ -446,7 +446,7 @@
     -   Patience: "That is not authorized!"
     -   Maddy looks back and sees the ecstatic cleaning bot already starting to sweep up
 
-## 14. Crash Landing
+## Chapter 14: Crash Landing
 
 -   "Maddy's initial splash of fright was replaced by crashing waves of terror.
     There was just enough moonlight for her to see how high they were
@@ -490,7 +490,7 @@
 -   Horn blares: bots sighted!
 -   Almost immediately the two flying bots pass overhead and drop smoke bombs!
 
-## 15. Attacked Again
+## Chapter 15: Attacked Again
 
 -   The smoke makes people weak
 -   People run away
@@ -538,7 +538,7 @@
     -   Confused, the bear does as she instructs
     -   She fits her shoulders into the harness and flies away
 
-## 16. The Key
+## Chapter 16: The Key
 
 -   Autopilot has an option for "recent trips"
     -   There is only one, so she presses the dot that marks the starting point
@@ -578,7 +578,7 @@
     -   The little light on Crusher's drone unit goes out
     -   Lasercase: "Oh oh."
 
-## 17. Bot Fight
+## Chapter 17: Bot Fight
 
 -   Maddy runs out and climbs onto Crusher
 -   Starts smashing its drone control unit with a rock
@@ -609,7 +609,7 @@
     -   Shaper Leaf has arrived (FIXME: how?)
 -   Patience is carried away by the two flying drones toward Heck
 
-## 18. The Beginning
+## Chapter 18: The Beginning
 
 -   Last scene is Shaper Leaf, Dockety, and Crusher at the Roos' house with the Roos and Gumption
     -   On the porch because Crusher wouldn't fit inside

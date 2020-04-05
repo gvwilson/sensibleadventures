@@ -804,7 +804,7 @@ forcing the militia backward as the bots made their escape.*
 *Everyone told Maddy afterward that it wasn't her fault.
 The ox and the goat who had been on guard duty that night had vanished,
 no doubt the first to be taken as the bots snuck up on the village.
-Three others had been in the hauler as well as Maddy's dad.
+Three others had been in the hauler as well as Maddy's father.
 It would all have happened even if she hadn't fallen asleep,
 even if she hadn't let Sindy wander off.
 If she had tried to help her father,
@@ -1389,7 +1389,7 @@ Scattered plates of armor and parts of broken mechanical limbs
 proved that the bots had paid a heavy price for their victory,
 but as Mama Roo wrapped Gumption and Maddy in a hug
 all Maddy could think was that her little sister was gone,
-gone just like her dad.
+gone just like her father.
 
 ## Chapter 5: Unlikely Help
 
@@ -3451,14 +3451,20 @@ the strangeness around them forgotten for just one moment.
 And then it was Dockety's turn.
 Maddy caught his detached arm
 and watched as he lowered himself as far as he could with the other
-and then extended his legs to their full length.
+and then extended his wheel.
 "You still have about a meter to---never mind."
-The bot dropped to the floor beside them and retracted its legs to their normal length.
+Dockety dropped,
+bounced on his wheel,
+and said, "Ouch,"
+in a toneless voice.
 
-"Here you go,"
-she said,
-handing it back its arm.
+"Did that hurt?" Sindy asked anxiously.
 
+"This one does not feel pain."
+Dockety paused.
+"But this would not actively pursue a repeat."
+
+Maddy handed Dockety back its arm.
 The bot took it,
 head turning to study the square red emergency light in the ceiling.
 "The interference has stopped," it announced.
@@ -3760,3 +3766,139 @@ the half-sunken metal sphere she and Dockety had passed.
 They were heading back to the village,
 she realized.
 The bots were about to attack again!
+
+## Chapter 12: Reconfiguration
+
+"Wake up. Sindy, wake up!"
+She shook her sister gently, then more firmly.
+
+Sindy grunted and snuffled.
+"Wha?" she mumbled,
+hugging her knees to her chest and shaking her head 'no'.
+
+"Sindy, come on.
+We have to get out of here.
+We have to warn everyone!"
+*Again,*
+Maddy added to herself despondently.
+
+The younger roo blinked and rubbed her eyes.
+"I don' wanna get up."
+
+"You have to,"
+Maddy said as gently as she could.
+"Look."
+She pointed at the screens two meters away.
+
+Slowly,
+whimpering,
+Sindy sat up and rubbed her eyes again.
+"It's Lasercase and the other bots,"
+Maddy explained.
+"They're going back to Rusty Bridge."
+
+Sindy stared at the screens for a moment
+and began to cry,
+quietly and hopelessly.
+"It's not fair.
+No, don't!"
+She pushed away Maddy's hug.
+"I'm really hungry and my head hurts and I just want to sleep
+and I don't know where we are
+and there's nothing we can do
+and it's *not fair*."
+She buried her face in her hands.
+
+"Well,
+you could always try pulling another lever,"
+Maddy said.
+
+"Stop it!"
+Sindy snapped,
+teardrops glistening on her brown-furred cheeks.
+"It's not my fault stuff happens sometimes."
+
+"I never said---" Maddy began,
+startled,
+but her sister wasn't finished."
+
+"You and mama---you never say it,
+but I know you think it's my fault papa was taken.
+And when I get angry and, and you trip and fall down or drop something,
+or, or the levers and buttons and stuff here---it's not my fault!"
+
+Maddy wrapped her arms around her little sister.
+"I know, I know, I know," she repeated softly,
+rocking Sindy back and forth
+just like she had when they were both little
+and she was allowed to help get her sister to sleep.
+"Nobody thinks it's your fault.
+None of this is your fault."
+
+Sindy sniffled,
+her face buried in Maddy's shoulder.
+"Papa's dead, isn't he?" she said.
+"Like those, those people in the other room."
+
+"No. No, he's not. Look."
+Maddy took the sketch book from the desk behind her and opened it.
+"See?
+This was his, remember?
+And these drawings---he must have been watching us through those screens.
+He made notes, too.
+See?
+This one's how I figured out how to turn everything on.
+Here, budge over."
+
+She sat down beside her sister.
+so that they could page through the sketchbook together.
+Open-mouthed,
+eyes wide,
+the younger roo ran her finger over one drawing after another.
+"Papa..." she whispered.
+"Is he still here?"
+
+"I don't know."
+Maddy shook her head.
+"But right now I wish Shaper Leaf was.
+He could just make us a way out."
+
+Sindy jumped and squeaked as the cleaner bot rolled up to them.
+"What's that!?"
+
+"It's aright," Maddy reassured her.
+"It just keeps the place tidy.
+Oh, but what's this?"
+
+The hatch on the cleaner bot's back slid open.
+Its spidery arm unfolded and tentatively offered a chain of carefully-cleaned paper clips to Maddy.
+"Oh, aren't you a good little bot?" she said,
+holding it up to show Sindy.
+
+The cleaner bot rocked back and forth for a moment
+before turning and rolling back to its slot in the wall.
+It returned a few moments later to give them a ruler and three pencils.
+Maddy's breath caught.
+All three were dark green,
+with small dents near the end where someone had bitten down on them while thinking.
+"Papa's," she told Sindy softly,
+running her finger over the tooth marks.
+
+The bot came back again with two carefully-folded sheets of paper.
+"Thank you," Sindy said.
+"Here, would you like this?"
+She slipped her wire bracelet off her wrist and held it out.
+The bot hesitated,
+then plucked it from her fingers and raced back to its nest.
+
+Sindy giggled.
+"It's silly."
+
+"Yeah," Maddy said,
+taking the papers from Sindy and smoothing them out on the desk.
+They were the pages from her father's notebook,
+and once she turned them around the right way
+they fit together to make a map.
+Maddy's heart raced.
+The 'X' must be where they were.
+And that dotted trail---that must be the way out.

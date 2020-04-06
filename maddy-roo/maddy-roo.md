@@ -2728,7 +2728,7 @@ she repeated.
 And that was when a crackly voice said through speakers,
 "Well, you are here now. You might as well come and say hello."
 
-## Chapter 9: Patience in Darkness
+## Chapter 9: Patient in Darkness
 
 *Click.*
 The ceiling lights that had come on behind them went out.
@@ -2834,7 +2834,7 @@ A bot decorated with twists of metal,
 glued-on pictures faded to illegibility,
 and things Maddy filed away to have nightmares about later
 rolled forward.
-"Welcome! This is Patience in Darkness" it proclaimed proudly.
+"Welcome! This is Patient in Darkness" it proclaimed proudly.
 
 "That's a strange name,"
 Sindy said before Maddy could speak.
@@ -2887,7 +2887,7 @@ That was not this one's fault."
 Dockety said,
 speaking for the first time since they had entered the room.
 
-Patience in Darkness froze for an instant.
+Patient in Darkness froze for an instant.
 "Does *that* have a proper work allocation??
 it asked pointedly.
 "No? Then its communication is irrelevant."
@@ -2899,7 +2899,7 @@ she said,
 "Um...we didn't see an antenna when we came in?"
 
 "Correct,"
-Patience replied.
+Patient replied.
 "It has taken this one a great deal of time to improvise emergency repair protocols.
 Repair will require fabrication of precision parts,
 but steps are now being taken.
@@ -2910,7 +2910,7 @@ Maddy's breath caught in her throat.
 "The Makers?
 You work for...for *them*?"
 
-Patience brushed the question away with a wave of one its arms.
+Patient brushed the question away with a wave of one its arms.
 It had three,
 Maddy realized,
 each one so different from the others
@@ -2931,7 +2931,7 @@ Sindy tugged on her sleeve.
 she whispered loudly.
 
 "Organic sustenance is not stored at this site,"
-Patience said before Maddy could repeat her sister's request.
+Patient said before Maddy could repeat her sister's request.
 "That would be inefficient.
 They will not reward inefficiency."
 
@@ -2999,7 +2999,7 @@ Maddy ventured.
 "Maybe they got locked in accidentally and just...just couldn't get out."
 
 "Negative."
-They jumped as Patience crackled right behind them.
+They jumped as Patient crackled right behind them.
 ""They declined to synchronize with the emergency repair protocol,
 so they were moved to long-term storage.
 Their components failed shortly thereafter."
@@ -3028,7 +3028,7 @@ We can sleep anywhere, honestly.
 We'll just, um, we'll just go and you can get back on schedule, aright?"
 
 "Oh no,"
-Patience said.
+Patient said.
 "Leaving is not included in the protocol.
 It might put the repairs at risk.
 You will remain here."
@@ -3048,7 +3048,7 @@ waving a manipulator at Dockety.
 It will not permit recycling."
 
 "Its permission is not required."
-Patience wheeled backward to a console.
+Patient wheeled backward to a console.
 Its spindly third arm reached out and pressed a series of buttons in rapid succession.
 
 A pair of double doors whooshed open in the wall to Maddy's right.
@@ -3091,7 +3091,7 @@ and pushing buttons and twisting dials.
 A heartbeat later her sister joined in.
 
 "Desist!"
-Patience crackled.
+Patient crackled.
 "Your activity is not protocol!
 Desist!"
 
@@ -3106,7 +3106,7 @@ Dockety picked up a keyboard and studied it for half a second.
 it observed,
 and then spun the keyboard through the air.
 *Crack!*
-It struck Patience on the side of its head.
+It struck Patient on the side of its head.
 *Crack!*
 *Crack!*
 Two more keyboards shot across the room.
@@ -3124,7 +3124,7 @@ A small broom telescoped out of its side
 and began sweeping up the scattered pieces of the broken keyboard.
 
 "Incorrect!"
-Patience crackled.
+Patient crackled.
 Backing up to one of the consoles,
 it began typing commands.
 
@@ -3146,7 +3146,7 @@ She picked up the last keyboard and thrust it at her sister.
 Eyes wide,
 Sindy pulled her arm back and let fly.
 The keyboard arced through the air end over end,
-bounced off Patience's outstretched third arm with a *clink!*,
+bounced off Patient's outstretched third arm with a *clink!*,
 and came down corner-first on a button that looked no different from its neighbors.
 Behind them,
 the door they had come through began to open.
@@ -3181,7 +3181,7 @@ ducking as the service bot tried clumsily to grab her.
 She snatched Dockety's arm off the floor and raced for the door.
 
 "Incorrect!"
-Patience crackled angrily behind them as they escaped.
+Patient crackled angrily behind them as they escaped.
 "Incorrect!"
 
 And then the door closed and they were back in the corridor
@@ -3236,7 +3236,7 @@ her voice hushed.
 
 A speaker crackled.
 "Where? Where will you go?"
-Patience asked.
+Patient asked.
 "Back to the surface?
 The security system is still active.
 Or perhaps you would like to continue exploring?"
@@ -3252,7 +3252,7 @@ It didn't even scratch the paint.
 "Just... shut... up!" she grunted,
 hitting the speaker again and again with the bot's torn-off arm.
 
-"Please don't do that," Patience and Dockety said in unison.
+"Please don't do that," Patient and Dockety said in unison.
 
 Maddy froze.
 "What?"
@@ -3276,12 +3276,12 @@ Maddy and Sindy side by side and Dockety three steps behind them,
 its arm in one hand like a folded-up umbrella.
 Lights came on in front of them and went dark behind them,
 just as they had before,
-but in the background Maddy could hear Patience humming a crackly little song to itself.
+but in the background Maddy could hear Patient humming a crackly little song to itself.
 
 "Oh, please, shut up," she said under her breath.
 
 "What's the matter? Don't you like music?"
-Patience and Dockety asked in unison.
+Patient and Dockety asked in unison.
 
 Maddy pulled up short and put out a hand to stop the bot.
 "You did it again.
@@ -3478,7 +3478,7 @@ The lower corridor was as empty as the one above had been.
 The red lights didn't come on automatically:
 every dozen steps or so,
 Maddy or Sindy had to say something to trigger them.
-Maddy kept waiting for Patience's crackling voice to taunt them from a speaker,
+Maddy kept waiting for Patient's crackling voice to taunt them from a speaker,
 but it never came.
 
 Finally they came to a door.
@@ -3526,7 +3526,7 @@ but "two" didn't sound very many.
 Another door.
 *Click.*
 More white light that made her squint after the dim red in the corridor.
-It was a control room like the one where they had met Patience.
+It was a control room like the one where they had met Patient.
 *How many of these did they need?* she wondered.
 
 Dockety pushed past her.
@@ -3902,3 +3902,192 @@ they fit together to make a map.
 Maddy's heart raced.
 The 'X' must be where they were.
 And that dotted trail---that must be the way out.
+
+A buzz and a click made her turn her head.
+Dockety's manipulator twitched.
+Its lenses rotated.
+The lights inside them slowly brightened.
+"Are you awake?" Maddy asked hesitantly,
+setting the map aside.
+
+The bot's manipulator clicked a rapid staccato.
+"Cognitive... functions... coming... online..." it said slowly,
+its voice full of static.
+*Click click click.*
+"Full self-awareness restored.
+Good morning."
+
+Maddy let out her breath in a relieved whoosh.
+For a moment she had been afraid it would speak in Patient's voice.
+"Good morning.
+Did you---um, sleep? Well?"
+
+"Negative,"
+the bot said,
+unplugging itself from the wall
+and tucking its charger cable back into its chest.
+"But adequate power levels have been restored for us to proceed.
+Our next step should be reconnaissance."
+
+"Well, I've been doing a little reconnaissance of my own,"
+Maddy said.
+"Look."
+She held up the pieces of the map.
+"I think my father made this.
+It must be how we get out.
+And we have to right now."
+She pointed at the screens behind her.
+"Lasercase and the others are headed for Rusty Bridge again.
+We have to warn them."
+
+The bot looked from the map to the screens and back to the map.
+"Processing... Yes.
+Your map agrees with the base schematic this one downloaded while recharging.
+That path does indeed lead to an exit."
+
+"But then what?"
+Sindy asked.
+"We'll never get home in time."
+
+"Incorrect," Dockety said.
+"It may be possible."
+
+"How?"
+the sisters asked simultaneously.
+
+The bot picked its arm up off the desk beside it.
+"Substantial reconfiguration will be necessary.
+We must hurry."
+
+"Wait!"
+Maddy bent down and gave a quiet whistle.
+When nothing happened she whistled again.
+
+The hatch in the wall slid open.
+The little cleaning bot rolled partway out,
+then froze at the sight of Dockety and began to withdraw.
+"It's aright," Maddy said hastily.
+"It won't hurt you."
+She smiled at the cleaning bot,
+coaxing it all the way out into the room.
+"We're leaving now---would you like to come with us?"
+
+The bot rocked back and forth,
+then rolled back into its hiding place.
+"It cannot leave its duties without appropriate authorization,"
+Dockety said.
+"There is nothing we can do.
+Come---we must hurry."
+
+The door opposite the one they had come through opened onto yet another corridor.
+*I'm going to have dreams about these,*
+Maddy realized as they hurried through it,
+*And they're not going to be happy dreams.*
+
+With Dockety leading the way on its single wheel,
+they passed one door after another.
+The bot turned left,
+turned right,
+and went straight through a four-way junction.
+Maddy traced their path as well as she could on her father's map.
+
+Finally they were one heavy dash away from the 'X' on the map.
+The door in front of them looked no different from any of the others,
+but Dockety retracted its wheel and extended its legs.
+"Be prepared," it said quietly.
+"We may encounter opposition."
+
+"You mean another fight?" Sindy asked resignedly.
+
+"Possibly.
+If that occurs,
+depart as rapidly as you are able.
+This one will attempt to safeguard your exit."
+It reached for the plate in the door.
+
+"Wait."
+Maddy put her hand on its arm.
+"Thank you.
+For everything."
+
+The bot's lenses rotated.
+"You are...welcome."
+
+*Click.*
+*Whoosh.*
+The door slid open.
+Cool, damp air rolled over them.
+It smelled like mud and rotting plants.
+It smelled like outside.
+
+Maddy followed Dockety and Sindy through the door
+into a room so vast it could have held the whole of Rusty Bridge.
+Lampposts every fifty meters cast cold white light over strange pieces of machinery,
+some piled together in jumbles,
+others neatly sorted and stacked,
+and others still that were even larger than the cargo bot
+that had hauled Sindy and the goats away from Rusty Bridge.
+
+There were shelves too,
+long rows of shelves that were taller than the mayor's house back home
+but still didn't reach even halfway to the arched ceiling above them.
+Boxes and drums and coils of cable,
+arms and legs and wheels and tentacles...
+
+"So many components," Dockety said,
+its voice rasping even more than usual.
+"So many units that could be repaired.
+This is wrong.
+This is... this is *hoarding*."
+It waved its arm at a nearby shelf.
+"This one could be completely refurbished with these parts alone!
+Four---five---six more like this one could be constructed!"
+
+"What's this for?"
+Sindy asked,
+picking up a semi-circle with mechanical fingers hanging from it.
+
+"Put that down,"
+Maddy ordered.
+"We shouldn't touch anything, aright?"
+
+"Aright," Sindy said.
+She dropped the semi-circle back on the floor.
+Its edge struck the end of a rod,
+flipping the palm-sized spoked wheel on its other end into the air.
+The wheel clattered against a sheel of metal,
+which slowly tipped forward and crashed to the floor.
+
+"Sindy!"
+Maddy scolded.
+
+"I'm sorry!"
+she said.
+
+Dockety took a step toward the fallen piece of metal.
+"Batteries," it rasped.
+There on the shelf behind where the sheet of metal had been
+lay a dozen blue glass cylinders,
+each one glowing faintly.
+"Those are nuclear batteries.
+They are---this one has never actually seen one before."
+
+"Is that a good thing?" Maddy asked.
+
+The bot picked one up and turned it over,
+its green lasers scanning it carefully.
+"Yes," it said.
+"This is a very good thing."
+
+And then all the lights went out.
+Heavy machinery began to rumble all around them.
+"You should not take things that are not yours... yours... yours...,"
+Patient's voice crackled from a hundred speakers,
+echoing off the distant walls.
+"And when you downloaded a map of this facility,
+you should have computed that this one would detect your activity
+and be able to predict your route."
+
+The lights came back on.
+Maddy whirled around.
+They were surrounded by bots on all sides!

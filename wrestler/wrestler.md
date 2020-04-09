@@ -1,0 +1,873 @@
+---
+layout: narrow
+title: Wrestler
+permalink: /wrestler/
+---
+
+*He walked into my father's camp as the sun rose one spring morning. We
+had seen him coming, of course, and my grandfather muttered that anyone
+without enough courtesy to sit and wait for an invitation should be
+killed, but my father said no.*
+
+*When he pulled back the hood on his parka my father almost did kill him,
+thinking he was a monster. His hair was yellow, and his face was all
+nose and beard. He smiled and said something in a strange language, and
+laughed when we spoke to him in our own.*
+
+*By summer, he and I were learning wrestling together from my father.
+That is how Saknus Heraldsson came to the Anuat.*
+
+---
+
+Luft Berendsson had given up cursing the cold by the time he found the
+door he was looking for. He closed it carefully behind him and descended
+the planked stairs into the shack's one sunken room.
+
+"I said three, and I mean three!" The trader settled back on his stool
+and nodded a curt hello to the newcomer as Luft crossed the packed earth
+floor to the pit stove and pulled off his mittens.
+
+The Anuat put the knife back on the counter and shouldered his pack.
+"Three blue fox furs are enough for a hand of such knives. Good
+weather." He pulled the hood of his parka over his long dark hair and
+left.
+
+"Bloody raping hell." The trader did not sound angry. Luft pulled his
+own hood back and seated himself across the table. "No liquor, no
+wizards, and their women smell like seals. No bloody wonder they bargain
+like that."
+
+"You don't like our native friend, then?" Luft asked.
+
+"Oh, it's not that." The trader noted the man's much-broken nose and
+matted blond beard, and the sword he wore slung outside his parka. "Why,
+these three years gone, when ice locked the harbour early, we'd have
+most of us starved if not for Walker and his folk. But---"
+
+"Walker? The local chief?"
+
+"Eh, that was him just here." The trader nodded toward the door,
+stuffing a pipe as Berendsson ran a string of beads through his fingers.
+"He's as much a chief as the wild ones have. Best hunter of the lot, and
+that's good enough for them. But as I was saying---"
+
+"A good hunter, eh?" Luft dropped the beads back onto the table and
+picked up his mitts.
+
+"Well, damn you eyes," the trader said once the other man was gone. "You
+could have at least closed the door."
+
+Torvald Argusson was halfway through his third beer when he heard his
+name called. He squinted through the smoke in the tavern's belly, then
+waved at the two men approaching him.
+
+"Ho, Luftie," he boomed. "Who's your friend?"
+
+Luft sat down beside his partner. "This is Walker, Vald," he explained
+excitedly. "He says he's been out to the mountains."
+
+Argusson gently pried the younger man's fingers from his arm. "I can't
+drink when you do that, Luftie," he said. "Have a seat, Walker. Karl!
+Karl, get these men some beer!"
+
+"No, thank you," Walker said quietly, looking at the table.
+
+"No? Well now, you're the first I've met here to say that." Argusson
+took a mug from the tavernkeeper, then another as Luft took the first
+from him. "You've been into the Bentfathers, then?" When the Anuat
+nodded Argusson belched and wiped his mouth.
+
+"Good, that's good. Luft and I want to get out there and back before the
+harbour freezes. That gives us, oh, two weeks, perhaps. Just straight up
+the river into the foothills, that's all."
+
+"There is better hunting west," Walker commented after a moment.
+
+"I know that, I know." Argusson glanced at his partner and cleared his
+throat. "We're not looking for furs, I'll tell you that much. Ten crowns
+for the trip, half now if you want it. Luftie and I already have a sled
+and some dogs. We could get tack tonight, and leave tomorrow."
+
+The three were silent, the two Garheimmen looking expectantly at the
+Anuat, who continued looking at the table. Finally Luft snorted. "If
+you're not up to doing it, then, do you know someone who would?" He
+drained his mug and let it thump to the table.
+
+Walker waited a moment longer, then raised his eyes to Argusson's.
+"Tomorrow at the gate," he agreed.
+
+The older man smiled widely. "Good, my friend, good!" He reached across
+the table to clap the Anuat on the shoulder. "At first light, then?"
+
+Walker stood and nodded. As he lifted his pack to his shoulder someone
+pushed him from behind and demanded, "What you do here?" Walker turned
+slowly.
+
+A fat Anuat wearing a parka decorated with the trading company colours
+stood unsteadily in the center of the tavern floor. "You go back the
+cold you belong, pauetsitgualuk! Nobody want you here!"
+
+Somebody shouted out "Twenty crowns on the Goose!"
+
+"Done!" Luft shouted back. Walker glanced at him and dropped his pack.
+Almost lazily he reached out and grabbed the man by the collar, spun
+around and dropped to his knees, tossing the other Anuat into the air.
+The drunk landed heavily and tried to rise. Walker kicked away his
+supporting arm and said something sharp in his own language. The other
+Anuat groaned and lay still.
+
+"Well done, Walker!" Luft shouted. "Hey, you! I hope you've better luck
+at dog fights!" He laughed.
+
+"Are you all right, Walker?" Argusson asked.
+
+The Anuat nodded. "Tomorrow at the gate. Dream well, Not-Hunting-Furs."
+He picked up his pack. "Good night, Little Hunter."
+
+Argusson grabbed his partner's arm as Luft tried to rise from his seat.
+"Little hunter my plums!" he fumed, staring murderously at the Anuat's
+retreating back.
+
+"Oh, come on, Luftie, he meant nothing by it." Argusson raised one hand
+in the air and twisted it, saying a word as he did so. Two steins of
+beer lifted themselves off the servingman's tray and floated over to
+their table. A few patrons stared, and one made a sign.
+
+At the door, Walker nodded and turned to go.
+
+---
+
+"The fat one is a wizard, then. Good. But what of the other?"
+
+"I do not know, my brother. The big-noses say we are small, but he is
+less than a boy of twelve summers."
+
+"Be careful of him, my brother." The night was a dark shell, flecked
+here and there with stars like chips of ice. Somewhere a wolf howled
+mournfully.
+
+"I am not afraid, my brother." A moment's silence. "Must I go with them?
+The seals come, in two hands of days. I spoke with Laughs-at-Storms of
+hunting together."
+
+"It must be done, my brother. Laugher will hunt next year." The wolf
+mourned again, somewhere in the distance.
+
+---
+
+*We spent four years together, Saknus and I, learning to wrestle. We
+would capture and sacrifice small birds, or fieldmice, and then use
+their bones to command their little spirits before setting them free.
+Once I persuaded my brother to trap a fox for us, and we called its
+spirit back to do small magics for several days, until my grandfather
+caught us and beat me. At night and in winter Saknus told us stories,
+laughing at his mistakes as he learned our language. He told us of the
+South, of his home, of camps that never moved, of more people than he
+could name.*
+
+*My grandfather often grumbled that it was no good teaching the monster,
+he had no ancestors, but my father ignored him. Many other shamans came
+to visit my father and his strange pupil, and from each of them I think
+Saknus learned a little more.*
+
+*"To work strong magics a shaman must have strong spirits to help him.
+Our ancestors are angry when they are called back from their camps in
+the Forever Summer, and must be beaten before they will obey. Only by
+beating a spirit can magic be done." Saknus smiled when my father said
+this, as though at some joke only he had heard.*
+
+*"Can you only call ancestors back to wrestle?" he once asked.*
+
+*"Yes," my father replied. And it was true. I had tried, when other
+shamans visited, to reach their ancestors through their
+necklaces-of-bones, but I never could.*
+
+*When my grandfather finally died, my father, my brother Walks-In-Storm,
+Saknus, and I fasted for two days. With the proper rituals we cut off
+his thumbs and burned his body. My mother emptied the stew-pot and
+boiled the thumbs until the meat was gone.*
+
+*Then my father took the bones and went away from camp. "He is wrestling
+my grandfather," I told Saknus, proud of knowing something that the
+quick monster did not. "He will defeat his father's ghost, and then put
+the thumbs on his necklace-of-bones."*
+
+*"And it is with those bones that he calls his ancestors?"*
+
+*"Yes," I told him. "That is the only way anyone can do it. Every summer
+a shaman must make a magic to tie his spirit to his bones for another
+year, so that after he dies his spirit can be found and wrestled. Every
+shaman swears to do this, so that his children and theirs will have
+magic. If a shaman sees many summers and does this magic many times his
+grandchildren's grandchildren might still be able to find his spirit and
+wrestle it. My grandfather," I added proudly, "Lived a very long life."
+Saknus smiled.*
+
+*Walks-In-Storm scowled then, as he often did when around the big-nosed
+man. We were twins, and he had taken to hunting as I had taken to the
+shaman's ways. He would say little when the monster spoke, and would
+soon leave a tent if Saknus entered. We had been closer than friends
+before Saknus's arrival; it hurt me that we grew apart in those years.*
+
+---
+
+"Damn his eyes, where is he?" Luft stood and began pacing again. "The
+sun'll be up soon, the dogs are going to want to be fed in a few more
+hours, and where in hell's our precious bloody snow-for-guts guide?"
+
+"Luft, would you sit down?" The older man was sitting on the rear of the
+dogsled, wrapping and unwrapping the traces around his hands. "He's
+going to show. He said first light, so maybe he meant---"
+
+"We should do this on our own." Luft packed a snowball and threw it
+against the palisade, then stooped to pick up more snow. "I told you
+when we got here, we could do this ourselves. Why in Tir's name do we
+need somebody else?" Another snowball smacked against the wall.
+
+Just then Argusson spotted a dark blot approaching the gate. "Eh,
+Luftie, he's here," he said, struggling to his feet inside a double
+layer of furs. "Hello, Walker, good day!"
+
+The blot resolved itself into the Anuat's solid bulk. A head shorter
+than the older Garheimmen, the hunter was wide across the shoulders and
+waist. His face, the colour of old driftwood, was almost hidden in his
+parka's black hood. A small pack on his back, a pair of skis, and two
+spears was the only gear he carried. He nodded when he reached the
+southerners and put his skis onto the snow.
+
+"My brother says the river ice is good from here to the mountains," the
+Anuat said as he lashed his pack onto the sled. "He says no-one is there
+now." He moved forward to the sled traces. The dogs whined and nuzzled
+his hands.
+
+"I've already checked those," Luft said sharply. The Anuat continued to
+pull and twist the leather straps, making minute adjustment and re-tying
+knots. The younger man looked at Argusson angrily, only to be shushed
+with a handwave.
+
+The Anuat made a last slight adjustment in the length of a trace, then
+stood, satisfied. "Maybe four, maybe five days to the mountains." He
+suddenly smiled, and added, "If the weather is good."
+
+He strapped on his skis as carefully as he had tested the dog's traces,
+then picked up his spears, reversed them, and pushed. With a shout and a
+whipcrack Argusson followed in the sled; still cursing, Luft followed
+behind, a knit cap on his head and his sword slung at his side.
+
+The trading post disappeared behind the first white hill and was soon
+forgotten as the weary monotony of travel filled their minds. Around
+them the first snows of autumn smoothed the tundra, turning long gravel
+eskers into unmoving white waves, broken here and there by islands of
+rock too large to have yet been covered. A solitary tern parallelled
+their path for a time before turning to continue its delayed journey
+south. By unspoken consent, Walker stayed out front, his steady heave,
+heave, heave on his makeshift skipoles almost hypnotic. Seated on the
+dogsled, Argusson finally grunted and pulled a small flask from a pocket
+of his parka. He drew the cork with his teeth and spat it out, then took
+a deep swallow.
+
+"Walker!" he shouted. "Time to make camp!" The horizon had long since
+covered the dull copper coin that was the autumn sun. They went another
+half-kilometer before Walker stopped, satisfied with the meager
+protection offered by a small hollow in the land. The Anuat stood his
+skis and spears together in the snow as Luft came forward to the sled.
+
+"Tir's plums, I ache all over." The younger Garheimmen stretched and
+yawned. "Set up the tents, Walker, I'll get the dogs." Argusson frowned,
+then relaxed when Walker pulled a small shovel off the sled and began
+scooping out a patch of snow. As the Anuat began to erect their two
+tents Argusson planted five stakes in a circle around their camp. He was
+tying a design on them in red cord when he noticed that Walker had
+stopped and was watching him.
+
+"Is anything wrong, Walker?" he asked.
+
+The Anuat scowled. "What is this?"
+
+Argusson shrugged. "A warding spell. If anyone crosses it during the
+night, or tries to do magic across it, I'll know. Just a precaution."
+
+The Anuat grunted and went back to work. Argusson shrugged again and
+continued his magic.
+
+---
+
+"It will be well, my brother. He is not strong, or I would feel him now.
+I do not even think he can do it."
+
+"Why must I go with them, my brother?" His voice was angry.
+
+"Because you swore an oath, my brother. As your father my brother swore,
+and as your grandfather and his father my brothers all swore." My own
+voice was a whisper. I re-made the wizard's spell once Walker had
+returned to the camp. Somewhere in the night a dog found an unlovely
+smell and mourned.
+
+---
+
+*It was the summer of Saknus's fourth year that he destroyed us. When the
+sun was so strong that it shone all night the Anuat gathered to trade,
+and to arrange marriages and welcome new shamans. There was much singing
+and dancing, and many games as young men tried to impress sceptical
+fathers and giggling girls. Walks-In-Storm, my brother, easily beat the
+other men in the game of spear-throwing and in running. I did not
+compete; I was preparing to receive the scars of a shaman.*
+
+*"It will be sad," I said to Saknus one day. "You have no ghosts to
+wrestle. You will never be a shaman."*
+
+*He smiled. After four years, he still showed his teeth when he did this.
+"Perhaps I will find another way, Holds-On-Too-Long," he said. "The
+stars are such as they have not been in many years. Perhaps I know
+another way." And then he laughed at his joke, and I laughed with him.*
+
+*I went out the next morning across the tundra with my father and two
+other shamans. Things were done, and words spoken, and I returned that
+evening with three long cuts on each cheek, and a tooth from my
+grandmother's grandfather. The magic binding his spirit to that piece of
+bone had faded so much that my father would have broken it and buried
+the pieces, to give the old man his final peace, had I not needed a
+spirit with which to begin practising real wrestling.*
+
+*We found people gathered around the field in the center of the camp.
+"The monster is going to show us a new game," my brother told me,
+scowling. On the field Saknus had drawn a great, complicated pattern
+with sand, a star with five points and many circles inside and out, with
+a torch at each point. He waved to us and smiled, and then raised his
+arm into the air.*
+
+*Suddenly his hand was covered with flame. The people oohed and aahed
+around us as Saknus brought his hand down to each of the torches in
+turn.*
+
+*"You said he could not wrestle," Walks-In-Storm accused my father. "How
+does he do this?" My father shook his head.*
+
+*All the torches were lit. Saknus let the fire flicker out on his hand,
+closed his eyes, and let hell loose upon us.*
+
+*My uncle was standing beside me. He screamed and fell to the ground,
+clawing at his throat. I saw a dim form sitting astride him, one with
+too many arms and smoking holes for eyes, strangling him. There were
+more screams around me.*
+
+*"He's killing us!" my brother shouted, and threw his spear. It flew
+straight, then faltered and fell to the earth outside Saknus's circle.
+People ran from the field as shaman after shaman fell to the ground.*
+
+*I did not flee. Sworn only that day, I was still a shaman. I called the
+one ancestor I had, as the other shamans called all their ancestors, but
+none could batter through the wall Saknus had created. Finally the other
+shamans and many hunters of our people lay dead on the field.*
+
+*I stood there with tears on my face, unable even to curse him in my
+rage. He opened his eyes and smiled.*
+
+*"Holds-On-Too-Long," he greeted me, stepping out of his magic circle as
+though it did not exist, ignoring the spears, rocks, and corpses that
+lay around it. "Good. Very good. You are going to help me now."*
+
+*Spirit hands closed around my throat.*
+
+---
+
+It was their fourth day on the frozen river that Walker found the
+tracks. He was in front, as he had been since they departed, moving at a
+steady tempo, when he suddenly swerved and stopped. The wizard reined in
+the dogs and put his flask back in his pocket.
+
+"Hello, then, Walker, what's the problem?" he asked, clambering off the
+sled unsteadily. The Anuat had pulled his feet from his skis and was
+bent nearly double, intent on the snow beneath him. Above them the sky
+was clear and bright, and as cold as a deep sea.
+
+"What wrong?" Luft asked, undoing the straps on his skis and stepping up
+beside the older man. Argusson shook his head.
+
+"I don't know, lad. Walker?" The dogs had dropped into the snow panting,
+taking the opportunity to rest. One yipped as another snapped at its
+tail.
+
+The Anuat remained hunched over, walking slowly back and forth. Finally
+Luft said, just loud enough for their guide to hear, "He's probably
+found himself spoor from some flat-faced pig."
+
+The Anuat straightened. "Foxtails," he said quietly, still looking down.
+"Bandits. On foot, maybe a hand, maybe more, two days ago. Going north."
+He looked ahead of them, then back at the two Garheimmen.
+
+There was a moment's silence, then Luft spat. "You said nobody was going
+to be around," he taunted. "Bloody raping good guide you've turned out
+to be."
+
+"Luft! Be quiet." The wizard took a deep breath. "Do you think they're
+close, my friend?"
+
+The Anuat shook his head. "Two days ago. And there is no hunting, not
+here. They will be gone."
+
+There was another moment of silence, then Luft spat again. "Right.
+Bloody right. First nobody's here, and now they're two days gone. I
+suppose we'll be cooking for them tonight, eh?" He sounded as though it
+were a personal triumph.
+
+"They are two days gone from here." For the first time Argusson heard
+emotion in the Anuat's voice. "You will not cook them supper tonight,
+little man." He started to walk back to his skis.
+
+"I told you not to call me that, you bloody raping son of a sow!" Luft
+knocked away Argusson's arm and strode through the snow. "You bloody
+well apologize, or I'm going to rip your plums off and feed them to the
+dogs!"
+
+The Anuat stared in the direction they had been travelling. "We will
+keep going north," he said calmly. "It is not wise to rest the dogs
+without feeding them, friend Torvald."
+
+"Apologize, you pig!" Luft ran the last two steps and swung roundhouse
+at the guide.
+
+Walker brought his spear up out of the snow as the Garheimmen yelled. He
+blocked the punch easily, twisting the spear and clubbing Luft in the
+head. The smaller man hit the snow and rolled to his feet with his
+shortsword in his hands. His knit cap lay in the snow, revealing a
+leather and steel helmet on his head. He bellowed and charged. The Anuat
+reversed his spear and braced himself.
+
+A sudden flash blinded them both. Someone howled at the magic glare, but
+Argusson couldn't tell if it was his partner or their guide. The dogs
+began barking furiously.
+
+When Luft's vision cleared he was sitting in the snow, his sword still
+in his hand, his head aching. He saw the wizard quieting the dogs, and
+the Anuat standing a few meters away with his hands still over his eyes.
+
+Argusson looked up. "Serves you right," he said shortly. "Walker! Are
+your eyes all right?"
+
+The Anuat slowly lowered his hands, then nodded. There were tears on his
+cheeks. He looked at Argusson for a long instant, then stooped to pick
+up his spear. "We have lost time," he said. He walked back to his skis
+slowly.
+
+"Luft, all right?" The wizard helped the other man to his feet. Luft
+spat in the snow.
+
+"We can do this ourselves, I told you. Get rid of him now," he hissed
+urgently. "We're going to have to do it anyway."
+
+"Shut up, pig-eyes!" The wizard glanced at Walker, then gripped Luft's
+parka and pulled him close. "We need him. Just think about all that gold
+waiting for us, and stay out of his way. Now get your skis back on. The
+sooner we're through this, the better for us both."
+
+Minutes later the trio was moving north again, the sun behind them
+half-hidden by the horizon. The wizard busied himself with his own
+thoughts; Luft cursed the Anuat guide in dull counterpoint to the steady
+rhythm of movement. He spat on the Foxtail tracks as he crossed them.
+
+The mountains were no older than the rest of the world, but they seemed
+stooped beneath ice and snow. The sun was a dull glow in the southeast
+when Walker told the others that it was time to leave the sled.
+
+"Today, walking, will bring us to your place," the Anuat said as Luft
+and Argusson sorted through their gear. "Do not leave food for the dogs.
+They would fight for it."
+
+Luft said something under his breath, then straightened and shouldered
+his own small pack. "I'm ready when you are, Vald. Let's get up there."
+
+Argusson stuffed some more vials and pouches into his parka, then tied
+the bindings. "I hope that will do. Ready, Walker? Right, then, and
+off." With Walker leading, Luft behind him, the three began walking. I
+waited until the men were a hand of hundreds of paces gone, then cut the
+dogs's tethers. They yelped or snarled, according to temperament, then
+fled bristly-tailed.
+
+There was no path as such, but a narrow ledge wound up the mountain, in
+places wide enough for a camp, in places vanishing completely, so that
+the men had to inch sideways along the rock, hands and feet in the snow.
+On either side of them grey stone rose or fell steeply.
+
+Walker climbed steadily, pausing occasionally to let the others catch
+up. Luft moved with dogged determination, never looking directly at the
+Anuat. Behind them Argusson struggled, breathing great irregular clouds
+of steam. Neither Garheimmen noticed the darkening sky until the first
+flakes of snow began to fall.
+
+"Bloody frozen hell," Luft cursed at one spot when Argusson dropped his
+weight onto a convenient bulge of the mountain and gulped air. "Would
+have been better if I'd stayed in Karlslod Castle waiting trial, maybe,
+instead of following you and that damned old map of yours."
+
+The wizard shook his head. "Better cold, than dead," he heaved. "Almost
+there. Come on, Luftie, the cave should be, just a little further on,
+give us a place to rest." He struggled to his feet. Almost pleading, he
+added, "Just a few more hours."
+
+By afternoon later the storm had become so thick that they could see
+only arm's-lengths in any direction. Walker was a dozen steps ahead of
+the others, testing the snow with the butt of his spear. Luft was
+reaching back to help the wizard up a steep section of the path when war
+cries split the air.
+
+"Ware yourself, Vald!" Luft shouted, spinning and pulling his sword free
+as a parka-clad man dropped to the path ahead of him. The Garheimmen
+fell to one knee under a spear thrust. As his attacker pulled it back
+for another try Luft cut viciously at the haft, rising and chopping at
+the hands holding it. Another man dropped to the path behind the first.
+
+"Yeaaaaaaah!" Luft knocked aside his opponent's spear and slammed into
+him, pushing him back into the second man. All three went down in a
+heap. Luft rolled to the side, almost sliding off the path, and cut
+backhand. He felt his sword hit flesh, and pulled it free as he
+scrambled back to his feet. A single body lay on the pathway, bleeding
+from a deep gouge in its face, quickly dying. Scuffed snow showed where
+the second man had slid down the mountainside into the storm.
+
+"Luft! It's me, Luftie, it's me." The wizard had his gloves off and was
+anxiously scanning the mountain slope beside them. "They must've climbed
+up to that ledge, there, and been waiting for us."
+
+The berserker rage was ebbing out of the smaller man. Redfaced, he
+shouted, "Where's your bleeding almighty favourite raping Tir-damned
+traitor guide, I want to know!" Droplets of blood scribed a delicate arc
+in the snow as he waved his sword. "They were waiting for us, well, were
+they now? One guess who let them know we were coming!" He spat and
+kicked the corpse.
+
+"Walker!" Argusson shouted, then waited. "Walker, are you there?"
+
+Silence.
+
+Luft laughed hysterically. "Did I tell you! Led us right into a trap,
+your bloody little flat-faced friend. Tir's plums, shut up, Vald!" the
+small man shouted as Argusson filled his lungs to call again. "He's
+gone, isn't he? And good riddance, I say."
+
+Argusson slumped a little and sighed, staring at the dead man as the
+falling snow made a shroud. "We need Walker, Luftie." His voice was
+almost pleading.
+
+"Why?" Berendsson demanded. "What in hell can he do that I can't?"
+
+Argusson looked up. "Nothing," he finally said. "Come on, we're almost
+there." The younger man wiped his blade on the corpse, but did not
+sheath it. The two men started walking. Around them my storm thickened.
+
+---
+
+Walker had worried when the snow started to fall; there had been no sign
+that morning of bad weather approaching. He was almost relieved when he
+heard war-cries behind and in front of him. A bandit dropped to the path
+in front of him and feinted a high lunge. As Walker parried a second
+body landed on his back, carrying him off the path.
+
+He fought like a lynx as they slid, ignoring the rocks that slammed into
+him. The Foxtail punched at him. Walker snarled and pulled for the knife
+at his belt, his spear lost somewhere in the snow. The bandit clutched
+Walker's arm with one hand and tried to punch him again with the other.
+
+The pair slid over an edge and dropped into a drift of snow. Walker
+rolled to his feet like a wolf and drew his knife.
+
+"Stop, my brother!" I whispered. He froze with his knife poised to
+strike. What-Colour-Wind slid to a stop on the slope above the small
+cleft in which we were hidden, then jumped down beside me.
+"Where-Goes-Crow is dead," he said. "The little one killed him."
+
+Walker's face was rigid with rage. "You have betrayed me," he said
+tightly. "I unsay my oath. You are no more my brother."
+
+I would have sighed. Behind me stood a half-dozen Foxtails, all but one
+with a spear or bow aimed at my great-grandnephew. "You are with
+friends, my brother," I told him.
+
+"Liar!" he spat, and leapt at me. To the others, it would have been
+lightning-quick. I had time to decide once again not to kill him, catch
+his arm, and throw him to the ground.
+
+I said despairingly as he glared at me, "And I swore I would make you a
+great chief. How-Far-Thrown! Are they there yet?"
+
+The shaman (weak, but so were they all now, with so few spirits to call)
+closed his eyes and fondled his mother's thigh gingerly. "Someone says
+no," he said, careful not to name her as they wrestled. "They are still
+climbing. The angry one hopes to fight. The wrestler---"
+
+"He is not a wrestler," I interrupted. "What he does is different, and
+better. Rest." The old man relaxed, sweat-steam smoking off his face.
+
+Things were going to be complicated. I had wanted the wizard to reach
+the cave alone; I had not thought the little one good enough to kill one
+of my bandit gaurds.
+
+"What-Colour-Wind! Give me your parka." Silently the Foxtail hunter
+disrobed, shivering. Even for us, it was a cold day. I reversed the
+parka so that the inner white fur made me almost invisible in the snow
+and put the disguise on clumsily, unused to its constriction after so
+long. "I will go now," I announced. "Walks-With-The-Dead, you will stay
+here."
+
+"I hate you," he said, and meant it. "My great-grandfather should have
+killed you."
+
+I would have laughed. I stuffed the mittens into the tops of the boots
+and started to claw my way up the snow-covered rock.
+
+---
+
+*I awoke bound hand and foot, lying on cold stone. As my eyes began to
+focus, I recognized my surroundings. Above my head the cave roof was a
+perfect dome. Beneath me, the floor was smooth like fresh ice. Light
+from a glowing ball suspended mid-air showed Heraldsson on his knees,
+carefully painting the floor.*
+
+*"And they will be so surprised," he said lightly. "So surprised when I
+come back and destroy them and their stupid College." He examined what
+he had just painted, then licked his thumb and wiped at it.*
+
+*"Monster," I whispered.*
+
+*He appeared not to hear. "Three thousand years since there were such
+stars, and they don't have the nerve to use them," he went on, painting.
+"But I do. I am going to work such magic as has not been seen since
+those days. Such great magic."*
+
+*"Monster," I said again. This time, my voice was louder. "This place is
+sacred."*
+
+*He looked up. "Oh, good, you're awake." He smiled. "How is your head?"*
+
+*"The ghosts of our shamans will drag you down to hell," I cursed. "You
+will never rest, not now or in the spirit world."*
+
+*"Oh, I don't think so." He gestured behind him. "I have all the
+necklaces-of-bones I could find over there." He smiled again. "Real
+magic can do a lot that your people don't know about, Holds-On-Too-Long.
+With what your father taught me, and what I already knew, reaching and
+using all those ghosts isn't going to be hard."*
+
+*"But why?" I had not wanted to ask.*
+
+*"Why?" He seemed to think about it seriously. "Well, I'm going to try to
+trap a god, a demon like the ones I used at your camp, only much larger,
+and I'm going to need a lot of power to wrestle with it. Your ancestors
+are going to give me the strength to do what I want." He shrugged.*
+
+*"You are a traitor." I tried to spit.*
+
+*He laughed. "Oh, certainly." Suddenly the smile was gone. "But a
+successful one. Now be quiet." He gestured, and I could no longer speak.*
+
+*It took him another two days to finish his pattern. He gave me water,
+when he remembered, but no food. By the time he was ready I was weak and
+light-headed. He laid me out on the stone slab in the center of the
+cave, and stripped off my parka and boots.*
+
+*"Now, you may be wondering what your role is to be in our little play,"
+Saknus said. I had heard my father use that same voice when talking to
+small children as he set a broken bone. "Well, I need a treat to offer
+my demon as bait. And you, my friend, are going to be that for me."*
+
+*He painted a pattern on my forehead, and then spoke words. I suddenly
+felt heavier than iron, as I had when I had sworn the shaman's oath only
+a few days before, but this time the sensation did not fade as it had
+then. He nodded and put the two boxes containing all our
+necklaces-of-bones beside me.*
+
+*"That spell is to prevent your spirit from running away," he explained,
+examining each portion of the painted pattern intently in turn. "He'll
+bring more and more of himself into this world, trying to get at you
+through that pattern. And when he's all here, I will command your
+shamans to reach out through the circle and \..." He trailed off.
+"Although I suppose I should make things a little easier for our guest."
+He drew a knife from his belt, reached over, and cut open my throat.*
+
+*I felt hot blood running down past my ears. He stepped back, stooped to
+sketch an arc completing the design on the floor, and began chanting.*
+
+*My sight began to fade. I heard his voice, louder and louder, and felt a
+cold wind blowing from nowhere, carrying a stench like all the rot the
+world had ever made.*
+
+*And voices. Anuat voices, my grandfather's and others that I knew, so
+many that I did not, chanting with Saknus, louder and louder, building
+towards a climax. I suddenly knew that something was behind me, coming
+closer, something infinitely worse than the shadows that I had seen in
+the camp.*
+
+*Saknus and I screamed at the same instant, and my vision snapped back to
+normal. I turned my head with effort, and saw Saknus lying dead beside
+the pattern, a spear through his back. WalksIn-Storm was standing at the
+entrance to the cave, calling my name.*
+
+*I stood with effort, having to think every motion through, and stumbled
+over Saknus's body. The air crackled around me as I left the pattern.*
+
+*"We must flee!" my brother shouted. I took a few steps, leaning like a
+cripple on his arm, then stopped.*
+
+*"No," I said. "The necklaces. I must get the necklaces."*
+
+*I turned and stumbled back. I tried to step into the pattern, but could
+not. And then I began to realize what had happened, and told
+Walks-In-Storm to try, and he could not. And then, as my heart stopped,
+I tried to weep.*
+
+---
+
+The path became steeper as it took them a quarter-turn around the
+mountain. I climbed straight up the mountainside, using handholds when
+they were convenient. They had to reach the cave before me, but not by
+too much.
+
+My storm was raging by the time the two Garheimmen found the cave mouth.
+For a few moments I was afraid they had walked past it, blinded by snow
+and fatigue, but the small one, Luft, shouted and pointed. They squeezed
+through the narrow entrance. I counted to a hundred in Garheimmen, then
+followed.
+
+They had left their packs and food at the entrance. I wished briefly for
+a sense of smell so that I could tell if they had torches, but it would
+not matter. I donned What-Colour-Wind's mittens, then pulled the hood of
+the parka forward to hide my features. I moved quietly on the path I had
+taken a hundred times in as many years.
+
+Finally I came to the small widening in the passage where the floor
+levelled. It was dimly lit now by reflections from the main chamber
+ahead. I crept forward.
+
+Above them the cave roof was as smooth and as round as a clear sky. The
+fighter held a torch as the wizard surveyed the chamber. In its center,
+though I could not see it now, an elaborate design was painted in faded
+colors on the floor. Beside it was a man, his long-dead body mummified
+by the cold, a spear protruding awkwardly from his back. Lying inside
+the pattern was a slab of stone large enough for a man to lie upon,
+stained and discoloured, and two wooden boxes.
+
+Finally Argusson nodded. "That's Heraldsson, for certain. I guess he
+annoyed the flat-faces a bit much."
+
+"Can you get through it?" Luft asked.
+
+"I think so." The wizard pulled something from a pouch, then knelt and
+began to draw.
+
+I edged forward a bit more, then stopped, unable to get close enough to
+see what he was doing without exposing myself. I would have cursed, but
+he might have felt that.
+
+Finally Argusson stood. "Give me your torch," he said. Luft handed it to
+him. "And your sword." At Luft's quizzical look the wizard added, "It's
+steel," as if that were an explanation. "Now, kneel there. No, more to
+the left." Putting the sword down, Argusson finished drawing his design
+around his partner, then propped the torch against the wall.
+
+"Now, keep your eyes on those boxes. When they start to glow, you get in
+there and grab them. Heraldsson's treasure must be in them."
+
+"When they glow. Right, let's be done." Luft sounded eager; Argusson
+shook his head.
+
+He began to chant in a language I did not know. I felt power gently
+stirring at his command. Luft crouched, staring across the old pentacle.
+Argusson's voice grew louder, more commanding. Suddenly he shouted three
+words, then again, and again, and reached down and grabbed the sword and
+swung it over his head and down into Luft Berendsson's neck.
+
+There was a sudden surge of power as the pentacle broke. The torch
+flickered and died, and the only sound was the wizard's sobbing. I felt
+relieved, and almost angry. I had been studying stolen texts for a
+century, tryng to find a way to break into the pentacle; none had even
+suggested such a thing as sacrificing a man.
+
+The torch flickered alight, then steadied. With the sword still in his
+hand Argusson stumbled across the floor.
+
+"There's no gold," I whispered. He shrieked and spun around.
+
+"Who's there?" He looked abut wildly. "Name yourself!"
+
+I stepped into the light, keeping my head bowed. "There is no gold," I
+repeated. "There never was."
+
+"Who are you?" He looked older now, grey-haired and shaking.
+
+"Holder. Holds-On-Too-Long. Walker's brother, and greatgranduncle." I
+took another step toward him.
+
+"But my map---" he began.
+
+"I made that, and let it go south. I needed someone who could break that
+spell." Another step.
+
+He turned and ran to the boxes. He knocked the lid off the first with
+the sword and stared at its contents. I was halfway across the floor.
+
+He stood slowly. "No gold?" he whispered. "Nothing?" There were tears on
+his cheeks. "You mean I---"
+
+"Nothing," I replied. "Nothing but bones."
+
+He choked, then shouted "You bastard!" and threw fire at me. I parried
+it easily with the Garheimmen magic I had learned. As I began a spell of
+my own he lifted the sword and charged.
+
+I feinted to the left, then stepped back and leaned into his lunge. The
+sword slid easily through the parka, through my chest, and out my back.
+Argusson screamed in terror as the hood fell back from my rotted
+features.
+
+"Too late," he heard me whisper as my fleshless hands wrung his neck.
+
+---
+
+*We died all winter the year Heraldsson took our magic from us. No-one
+could call the seals to the hunt, so the people starved. No-one could
+heal the sick and injured, so the old died from broken legs and the
+young from colds.*
+
+*And no-one could break Heraldsson's magic so that I could die.*
+
+*In the spring the first ship of Garheimmen arrived, carrying soldiers
+and wizards searching for the traitor. We fought them, and slew many. I
+stole books and learned spells to hide the pentacle in the mountain from
+sorcerous eyes. It was not enough; the Garheimmen had seen furs, and
+gold pebbles in the rivers. They came back in strength, bringing the
+coughing sickness and the bleeding sickness and whisky.*
+
+*So I swore an oath with my brother, and learned patience, and drew maps.*
+
+---
+
+How-Far-Thrown made a sign, clutching his mother's thighbone when I cam
+back down the mountain, the necklaces-of-bones around my mummified neck,
+the wind whistling between my ribs where flesh had rotted away before I
+had learned to stay in the cold. Walks-WithThe-Dead had a new bruise on
+his cheek, and limped; one of the Foxtails had an arm splinted.
+
+"I have won," I told them needlessly. "We have our magic back. Walker!
+You are going to be a chief now. You are going to be the greatest chief
+the People have ever known."
+
+He spat roward me. "You betrayed me," he said. "I take back my oath. We
+are no more brothers."
+
+I would have laughed. "When you great-grandfather first saw my throat
+open to the wind, he said the same," I told him. "But I made him chief
+over all the People. I made his son a great Chief, and his son your
+father, and now I will make you the greatest of Chiefs, brother. You
+will lead the people to war against the bignoses. You will push them
+back into the sea, them and their disease and their drinking."
+
+"I will not do this for you," he shouted.
+
+I wore all the magic my people had had around my neck. For a moment I
+let him see them, their ghosts standing around me, bound to their bones
+for a time as Heraldsson's spell had bound me forever to mine, unable to
+leave this world, unable to find the final peace that I deserved.
+
+"You will," I promised him, whispering. "They will call you Chief, and
+bring you gifts. And they will learn to call me King." A cold wind blew
+through me. Somewhere a wolf howled. Around us, the snow fell.

@@ -3767,7 +3767,7 @@ They were heading back to the village,
 she realized.
 The bots were about to attack again!
 
-## Chapter 12: Reconfiguration
+## Chapter 12: The Way Out
 
 "Wake up. Sindy, wake up!"
 She shook her sister gently, then more firmly.
@@ -4091,3 +4091,164 @@ and be able to predict your route."
 The lights came back on.
 Maddy whirled around.
 They were surrounded by bots on all sides!
+
+Dockety's head spun from side to side.
+"Delay them,"
+it ordered.
+
+"How!?" Maddy asked.
+At least a dozen bots stood in the circle around them.
+Some were bulky haulers like the two from the control room.
+Others had once been cranes designed to stack and unstack tall shelves,
+or repair bots bristling with tools,
+but all were covered in the same mind-bending mixture of scraps and spare parts as Patient.
+And none of them looked even a little bit friendly.
+
+Dockety pulled a contraption that looked like a miniature windmill off the nearest shelf.
+"This was meant for your kind,
+but it can be modified."
+Its manipulator clacked as it calculated.
+"Alterations require two minutes and thirty-five seconds.
+You must delay them."
+
+"But *how*?"
+Maddy almost wailed
+as one of the bots revved its engine menacingly.
+
+Dockety's lenses rotated.
+"Be creative.
+It is what your kind do best."
+
+Maddy looked around wildly.
+She didn't know what the bots were waiting for,
+but they probably weren't going to wait for long.
+If only her father had left instructions on---
+
+That was it.
+"Stop!" she said loudly as the bots began to advance,
+holding up her father's sketchbook.
+"I found your instructions.
+Your protocol,"
+she added desperately,
+remembering the word that Patient had used.
+
+The bots froze.
+A speaker crackled.
+"Repeat that," Patient said.
+
+"I found the Makers' protocols,"
+Maddy said.
+"The ones you *haven't* been following.
+They're going to be very disappointed."
+
+Silence,
+broken only by the sound of Dockety unscrewing things from the windmill one-handed.
+"That is an inaccuracy intended to coerce behavior!"
+Patient said.
+
+Maddy smiles wickedly, her heart pounding.
+"You mean a bluff?
+Nope.
+I'm a roo,
+and everyone knows roos never bluff.
+Go ahead,"
+she went on bravely.
+"Look it up in your database."
+
+Static crackled on the speakers.
+"There is no record of such an assertion,"
+Patient said indignantly.
+
+"Then your database is missing stuff,"
+Maddy said,
+looking from bot to bot
+the way she had seen Mayor Lupus look from person to person when speaking to a crowd.
+She didn't need Patient to believe---she just needed enough of the bots around her to.
+
+"You are fabricating!"
+For the first time Maddy heard anger in Patient's voice.
+
+"Oh yeah?
+Then how come I have *this*?"
+She pulled the circuit board she'd taken at the river out of her pocket and held it up.
+
+*Click.*
+A crane bot turned on a spotlight welded to its single long arm
+and shone a beam of bright white light on Maddy's upraised hand.
+A moment later it rolled back a step in surprise.
+The bots around her began to rattle quietly.
+
+"That is not yours,"
+Patient said.
+
+"Is too."
+Maddy turned slowly so that all the bots around her could see it.
+
+"Look out!"
+Sindy shrieked.
+
+Maddy ducked instinctively.
+A manipulator on an accordion arm knocked the circuit board out of her hand.
+It fell straight into Sindy's startled grasp.
+"Don't---" Maddy began, but too late.
+Sindy pressed the button.
+
+The bots froze.
+Their running lights dimmed and went out.
+"Rebooting," a mechanical voice said flatly.
+
+"What...?"
+Sindy looked around in amazement.
+"Did I do that?"
+
+Maddy hugged her.
+"You sure did.
+Dockety!
+We have to get out of here before they wake up!"
+
+"Agreed."
+The bot turned to face them.
+"This should provide more efficient transportation."
+
+Maddy's jaw dropped.
+The bot had attached the windmill to its chassis---though
+it would be more accurate to say it had attached itself to the windmill.
+"What...?"
+she said again.
+
+"It is a personal aerial transport device,"
+the bot explained.
+If it had been a person,
+Maddy would have said it sounded just a little bit smug.
+"But there is only one harness.
+You will have to share."
+
+It only took a moment for the bot to buckle them into
+the straps that now hung from its sides.
+They were stiff with age and neglect,
+but when Maddy tugged on them they felt strong.
+She just hoped they were strong enough.
+
+*Bing! Bing! Bing!*
+All around them bots chimed musically.
+Their lights came on.
+"Aright,"
+Maddy said breathlessly.
+"Let's go."
+
+The windmill on Dockety's back began to rotate faster and faster
+until it was just a blur.
+For one irrational moment Maddy wondered what would happen if she stuck her hand into it,
+but then Dockety ran straight at one of the hauler bots.
+Step step step *up* onto the bot.
+It flung itself into the air and then they were flying.
+
+Almost.
+The roo sisters screamed as they dropped for one heart-stopping second
+and then roared into the air again.
+
+"Stop!
+Your departure is not authorized!
+This is not protocol!"
+Patient's voice crackled from all around them.
+Up and up they went toward the patch of dawn in the ceiling.

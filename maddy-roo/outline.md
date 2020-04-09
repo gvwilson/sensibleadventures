@@ -368,7 +368,7 @@
     -   Maddy recognizes the line of ruined arches
     -   Bots are going to make another attack!
 
-## Chapter 12: Reconfiguration
+## Chapter 12: The Way Out
 
 -   Maddy hurries back to the hole
 -   No response when she first calls up, but when she raises her voice, they answer
@@ -417,9 +417,6 @@
     -   Reverently: "Batteries..."
 -   Lights come on and Patience gloats about knowing where they were going from Dockety's download
 -   They are ambushed by half a dozen service bots!
-
-## Chapter 13: The Windmill
-
 -   Dockety: "Delay them." and begins to fiddle with a strange contraption that looked like a fallen windmill
     -   Dockety: "This was meant for your kind, but with modifications..."
 -   Maddy: "How?" But even as she asked, she had an idea.
@@ -431,7 +428,7 @@
     -   Maddy smiles wickedly, her heart pounding: "You mean a bluff?  Nope."
     -   Sindy shrieks as a manipulator from a stealthy little bot behind her snatches the documents
     -   Patience: "This is a cleaning roster!"
--   Maddy finds the bit of electronics in her pocket that she found in the river  at the start
+-   Maddy finds the bit of electronics in her pocket that she found in the river at the start
     -   Offers to trade
     -   Patience thinks it's another trick
     -   As soon as it sees the electronics it says, "Yes. You can have whatever you want. You can go. Relinquish that imediately."
@@ -446,7 +443,7 @@
     -   Patience: "That is not authorized!"
     -   Maddy looks back and sees the ecstatic cleaning bot already starting to sweep up
 
-## Chapter 14: Crash Landing
+## Chapter 13: Crash Landing
 
 -   "Maddy's initial splash of fright was replaced by crashing waves of terror.
     There was just enough moonlight for her to see how high they were
@@ -490,7 +487,7 @@
 -   Horn blares: bots sighted!
 -   Almost immediately the two flying bots pass overhead and drop smoke bombs!
 
-## Chapter 15: Attacked Again
+## Chapter 14: Attacked Again
 
 -   The smoke makes people weak
 -   People run away
@@ -538,7 +535,7 @@
     -   Confused, the bear does as she instructs
     -   She fits her shoulders into the harness and flies away
 
-## Chapter 16: The Key
+## Chapter 15: The Key
 
 -   Autopilot has an option for "recent trips"
     -   There is only one, so she presses the dot that marks the starting point
@@ -578,7 +575,7 @@
     -   The little light on Crusher's drone unit goes out
     -   Lasercase: "Oh oh."
 
-## Chapter 17: Bot Fight
+## Chapter 16: Bot Fight
 
 -   Maddy runs out and climbs onto Crusher
 -   Starts smashing its drone control unit with a rock
@@ -609,7 +606,7 @@
     -   Shaper Leaf has arrived (FIXME: how?)
 -   Patience is carried away by the two flying drones toward Heck
 
-## Chapter 18: The Beginning
+## Chapter 17: The Beginning
 
 -   Last scene is Shaper Leaf, Dockety, and Crusher at the Roos' house with the Roos and Gumption
     -   On the porch because Crusher wouldn't fit inside

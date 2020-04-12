@@ -2052,7 +2052,7 @@ she promised herself.
 As if it had heard her thoughts,
 the tree took a long stride toward them.
 A blinding-bright searchlight picked them out of the darkness,
-and a familiar harsh mechanical horn blased.
+and a familiar harsh mechanical horn blared.
 It was the long-legged bot from the raid on Rusty Bridge,
 and it had spotted them!
 
@@ -4406,5 +4406,189 @@ Half a dozen militia stood on either side of the old wolf,
 pikes and axes in hand.
 
 "Well,"
-Mayor Lupus said.
+Mayor Lupus said as Maddy struggled to sit up.
 "That's quite the entrance."
+
+"Uh huh," Maddy grunted,
+too sore for words,
+and then,
+"Sindy! Sindy, are you aright?"
+
+Her little sister was tugging feebly at the buckles
+on the straps that still tied her to Dockety.
+"Ow," she whimpered.
+"Yeah, I'm aright.
+Did we make it?"
+
+"We made it," Maddy said,
+pushing Sindy's paws aside to free her
+and then pulling her into a hug.
+"We're home."
+
+*Sshhzorp... Bzzt... Bzzat-at-at.*
+Dockety's speakers crackled,
+making the villagers around them jump.
+One of the bears raised her ax.
+
+"No! Wait, don't!"
+Maddy scrambled to her feet.
+"It rescued us.
+It's on our side!"
+
+The bear glanced at Mayor Lupus,
+her ax still held high.
+The mayor patted the air with one hand
+but kept her zap gun trained on Dockety's head.
+The bot's speakers buzzed and crackled again.
+They must have been damaged in the crash,
+Maddy realized.
+
+"We were in some kind of underground base,"
+she explained.
+"There were a whole bunch of bots,
+and lots of spare parts and batteries and stuff,
+and then we saw them all on a screen.
+There's going to be another attack---they're on their way right now!"
+
+A murmur ran in a circle around her.
+"In daylight?" someone asked skeptically.
+"They never come raiding in daylight."
+
+The mayor nodded.
+"Not that I ever heard,
+not here or anywhere."
+
+"But we saw them!" Maddy said desperately.
+"Same bunch as last time.
+And there's a couple of fliers this time,
+we saw those too.
+And my dad."
+She pulled the sketchbook out of her pocket and held it out to the mayor.
+"I think he's alive."
+
+"Did you see Santa Claws too?"
+a familiar voice mocked.
+She spun around to see Bluster and Bravo standing in the door of the mayor's house.
+Bravo's ankle was splinted with slats of cedar and layer after layer of canvas,
+and he grunted and made a face as he stumped down the stairs,
+crutches under his armpits.
+
+"These boys got back a few hours ago,"
+the mayor said.
+"Had quite a story about how they broke out of the cage
+and then had to go back to rescue you and your sister when you got yourself caught."
+
+Maddy gaped at the mayor.
+"Rescue *us*?" she spluttered.
+"They didn't rescue us---we rescued them!
+And then they took the boat and left us!"
+
+Another murmur ran around the crowd.
+"Mm," the mayor said neutrally.
+"I figured there might be another version of that story.
+No, you hush," she said sharply as Bluster opened his mouth to protest.
+"We'll sort of of this out later.
+Right now we---ah."
+
+There are times when even a mayor knows it's best not to talk.
+A mother pushing through a crowd
+to hug the daughters she feared she might never see again
+is one of those times.
+Mama Roo put her arms around Sindy and Maddy
+and squeezed them so tight that Maddy could barely breathe.
+She didn't care---she could breathe later.
+Just then the familiar warm smell of her mother's fur
+was all she needed.
+
+"Don't you ever scare me like that again, either of you,"
+Mama Roo said shakily when she finally released them.
+She ran a paw over Sindy's head to smooth her rumpled fur.
+"I couldn't bear it.
+I just couldn't."
+
+"I'm sorry, mama," Sindy said.
+"But you shoulda seen it---we were flying!
+And Maddy was really brave.
+There was this tentacle thing,
+and it tried to drag her into the river,
+and---"
+
+"Hush now," Maddy said,
+bumping her sister with her shoulder.
+Their mother looked like she was about to burst into tears.
+"We found this."
+
+She handed the sketchbook to her mother.
+Emotions chased one another across her face:
+confusion, shock, dumbstruck wonder,
+and then something Maddy hadn't seen in far too long---hope.
+"Where did you get this?"
+she whispered.
+
+"In this kind of bunker thing.
+I'll tell you all about it,
+but listen,
+you gotta listen,
+there's bots coming,
+lots of them.
+It's the same ones that attacked last night.
+You have to believe us,"
+she added desperately,
+turning back to the mayor.
+"They're going to be here any minute!"
+
+The mayor shook her head again.
+"Never heard of it, Miz Roo."
+She poked Dockety's fallen figure with her toe.
+"Maybe if this one could tell us what it saw...?"
+Dockety buzzed and crackled.
+"Didn't think so," the mayor said glumly.
+
+"We could still take precautions,"
+Shaper Leaf said,
+coming through the circle to stand beside Mama Roo.
+The ancient tortoise was wrapped in a heavy sweater
+and had a thick scarf wrapped around his neck.
+He looked like he needed crutches more than Bravo did,
+but his voice was strong.
+"No harm in getting a couple of scouts out, is there?"
+
+The mayor flicked an ear.
+"Suppose not," she allowed.
+"But we're going to keep an eye on this one 'til this is all straightened out.
+You two."
+She jerked her chin at a pair of oxen,
+one holding a pike and the other resting a heavy hammer over his shoulder.
+"Get out along the highway and see what you can see.
+And Zeke,
+how about you find us some chains and a padlock.
+Just a precaution,"
+she added as Maddy started to protest.
+"Even if this one did help you out,
+being bashed around like this can do funny things to a bot's programming,
+and I'm not in the mood for taking chances."
+
+Shaper Leaf put his hand on Maddy's arm.
+"That only seems sensible," he said before Maddy could object again.
+
+"I am very glad to see you,"
+he continued,
+smiling gently.
+"I too was afraid we would never see you again.
+What you did was very brave."
+
+Maddy glanced at her mother and sister.
+"I couldn't have done it without Sindy.
+Every time we got stuck,
+she managed to push the right button or pull the right lever."
+
+"Is that so?"
+the shaper asked,
+looking thoughtful.
+
+And then the two oxen came running back into the square yelling,
+"Bots! Whole pile of 'em out on the highway!"
+Even as they spoke a high-pitched whine turned into a drone
+as the two fliers Maddy had seen earlier zipped overhead
+and dropped their canisters.
+Dark dizzysmoke spilled into the square.

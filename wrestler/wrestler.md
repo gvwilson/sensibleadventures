@@ -4,154 +4,223 @@ title: Wrestler
 permalink: /wrestler/
 ---
 
-*He walked into my father's camp as the sun rose one spring morning. We
-had seen him coming, of course, and my grandfather muttered that anyone
-without enough courtesy to sit and wait for an invitation should be
-killed, but my father said no.*
+*He walked into my mother's camp as the sun rose one spring morning.
+We had seen him coming,
+of course,
+and my grandfather muttered that
+anyone without enough courtesy to sit and wait for an invitation
+should be beaten,
+but my mother said no.*
 
-*When he pulled back the hood on his parka my father almost did kill him,
-thinking he was a monster. His hair was yellow, and his face was all
-nose and beard. He smiled and said something in a strange language, and
-laughed when we spoke to him in our own.*
+*When he pulled back the hood on his parka
+my mother almost did beat him or worse,
+thinking him some strange monster.
+His hair was yellow,
+and his face was all nose and beard.
+He smiled and said something in a strange language,
+and laughed when we spoke to him in our own.*
 
-*By summer, he and I were learning wrestling together from my father.
+*By summer he and I were learning wrestling together from my mother.
 That is how Saknus Heraldsson came to the Anuat.*
 
 ---
 
-Luft Berendsson had given up cursing the cold by the time he found the
-door he was looking for. He closed it carefully behind him and descended
-the planked stairs into the shack's one sunken room.
+Luft Berendsson has given up cursing the cold
+by the time he finds the door he is looking for.
+He closes it carefully behind him
+and descends three stairs made from salvaged shipboards
+into the shack's one sunken room.
 
-"I said three, and I mean three!" The trader settled back on his stool
-and nodded a curt hello to the newcomer as Luft crossed the packed earth
-floor to the pit stove and pulled off his mittens.
+"I said three, and I mean three!"
+The trader settles back on her stool and nods a curt hello
+as Luft crosses the packed earth floor to the pit stove
+and pulls off his mittens.
 
-The Anuat put the knife back on the counter and shouldered his pack.
-"Three blue fox furs are enough for a hand of such knives. Good
-weather." He pulled the hood of his parka over his long dark hair and
-left.
+The Anuat puts the knife back on the counter and shoulders his pack.
+"Three blue fox furs are enough for a hand of such knives.
+Good weather."
+He pulls the hood of his parka over his long dark hair
+and leaves without a backward glance.
 
-"Bloody raping hell." The trader did not sound angry. Luft pulled his
-own hood back and seated himself across the table. "No liquor, no
-wizards, and their women smell like seals. No bloody wonder they bargain
-like that."
+"Bloody raping hell."
+The trader does not sound angry, or even resigned.
+Luft pulls his own hood back and seats himself across the table from her.
+"No liquor,
+no wizards,
+and they smell like seals.
+No bloody wonder they bargain like that."
 
-"You don't like our native friend, then?" Luft asked.
+"You don't like our round-faced friend, then?" Luft asks.
 
-"Oh, it's not that." The trader noted the man's much-broken nose and
-matted blond beard, and the sword he wore slung outside his parka. "Why,
-these three years gone, when ice locked the harbour early, we'd have
-most of us starved if not for Walker and his folk. But---"
+"Oh, it's not that."
+The trader notes the man's much-broken nose and matted red beard,
+and the sword belted around his parka.
+"Why, these three years gone, when ice locked the harbour early?
+We'd have most of us starved if not for Walker and his folk.
+But---"
 
 "Walker? The local chief?"
 
-"Eh, that was him just here." The trader nodded toward the door,
-stuffing a pipe as Berendsson ran a string of beads through his fingers.
-"He's as much a chief as the wild ones have. Best hunter of the lot, and
-that's good enough for them. But as I was saying---"
+"Eh, that was him just here."
+The trader nods toward the door,
+stuffing her pipe as Berendsson runs a string of beads through his fingers.
+"He's as much a chief as the wild ones have.
+Best hunter of the lot, and that's good enough for them.
+But as I was saying---"
 
-"A good hunter, eh?" Luft dropped the beads back onto the table and
-picked up his mitts.
+"A good hunter, eh?"
+Luft drops the beads back onto the table and picks up his mitts.
 
-"Well, damn you eyes," the trader said once the other man was gone. "You
-could have at least closed the door."
-
-Torvald Argusson was halfway through his third beer when he heard his
-name called. He squinted through the smoke in the tavern's belly, then
-waved at the two men approaching him.
-
-"Ho, Luftie," he boomed. "Who's your friend?"
-
-Luft sat down beside his partner. "This is Walker, Vald," he explained
-excitedly. "He says he's been out to the mountains."
-
-Argusson gently pried the younger man's fingers from his arm. "I can't
-drink when you do that, Luftie," he said. "Have a seat, Walker. Karl!
-Karl, get these men some beer!"
-
-"No, thank you," Walker said quietly, looking at the table.
-
-"No? Well now, you're the first I've met here to say that." Argusson
-took a mug from the tavernkeeper, then another as Luft took the first
-from him. "You've been into the Bentfathers, then?" When the Anuat
-nodded Argusson belched and wiped his mouth.
-
-"Good, that's good. Luft and I want to get out there and back before the
-harbour freezes. That gives us, oh, two weeks, perhaps. Just straight up
-the river into the foothills, that's all."
-
-"There is better hunting west," Walker commented after a moment.
-
-"I know that, I know." Argusson glanced at his partner and cleared his
-throat. "We're not looking for furs, I'll tell you that much. Ten crowns
-for the trip, half now if you want it. Luftie and I already have a sled
-and some dogs. We could get tack tonight, and leave tomorrow."
-
-The three were silent, the two Garheimmen looking expectantly at the
-Anuat, who continued looking at the table. Finally Luft snorted. "If
-you're not up to doing it, then, do you know someone who would?" He
-drained his mug and let it thump to the table.
-
-Walker waited a moment longer, then raised his eyes to Argusson's.
-"Tomorrow at the gate," he agreed.
-
-The older man smiled widely. "Good, my friend, good!" He reached across
-the table to clap the Anuat on the shoulder. "At first light, then?"
-
-Walker stood and nodded. As he lifted his pack to his shoulder someone
-pushed him from behind and demanded, "What you do here?" Walker turned
-slowly.
-
-A fat Anuat wearing a parka decorated with the trading company colours
-stood unsteadily in the center of the tavern floor. "You go back the
-cold you belong, pauetsitgualuk! Nobody want you here!"
-
-Somebody shouted out "Twenty crowns on the Goose!"
-
-"Done!" Luft shouted back. Walker glanced at him and dropped his pack.
-Almost lazily he reached out and grabbed the man by the collar, spun
-around and dropped to his knees, tossing the other Anuat into the air.
-The drunk landed heavily and tried to rise. Walker kicked away his
-supporting arm and said something sharp in his own language. The other
-Anuat groaned and lay still.
-
-"Well done, Walker!" Luft shouted. "Hey, you! I hope you've better luck
-at dog fights!" He laughed.
-
-"Are you all right, Walker?" Argusson asked.
-
-The Anuat nodded. "Tomorrow at the gate. Dream well, Not-Hunting-Furs."
-He picked up his pack. "Good night, Little Hunter."
-
-Argusson grabbed his partner's arm as Luft tried to rise from his seat.
-"Little hunter my plums!" he fumed, staring murderously at the Anuat's
-retreating back.
-
-"Oh, come on, Luftie, he meant nothing by it." Argusson raised one hand
-in the air and twisted it, saying a word as he did so. Two steins of
-beer lifted themselves off the servingman's tray and floated over to
-their table. A few patrons stared, and one made a sign.
-
-At the door, Walker nodded and turned to go.
+"Well damn you eyes,"
+the trader says once the southerner is gone.
+"You could have at least closed the door."
 
 ---
 
-"The fat one is a wizard, then. Good. But what of the other?"
+Torvane Argasdottir is halfway through her third beer
+when she hears someone call her name.
+She squints through the smoke in the tavern's belly,
+then waves at the two men approaching her.
 
-"I do not know, my brother. The big-noses say we are small, but he is
-less than a boy of twelve summers."
+"Ho, Luftie," she bellows.
+People sometimes think she has to speak so loudly as part of some spell's price,
+or that she is partly deaf.
+Neither is true---she is just loud.
+"Who's your friend?"
 
-"Be careful of him, my brother." The night was a dark shell, flecked
-here and there with stars like chips of ice. Somewhere a wolf howled
-mournfully.
+Luft sits down beside his partner.
+"This is Walker," he says,
+jerking a thumb at the impassive Anuat.
+"He says he's been out to the mountains."
 
-"I am not afraid, my brother." A moment's silence. "Must I go with them?
-The seals come, in two hands of days. I spoke with Laughs-at-Storms of
-hunting together."
+Argasdottir pries the young man's hand from her arm.
+"I can't drink when you do that, Luftie dear," she says.
+"Have a seat, Walker.
+Karl!
+Karl, get these men some beer!"
 
-"It must be done, my brother. Laugher will hunt next year." The wolf
-mourned again, somewhere in the distance.
+"No thank you," Walker says quietly,
+seating himself on the bench as demurely as a virgin nun.
+He looks at the table,
+at Torvane's glass
+sidelong at the drinkers beside him,
+everywhere but at Torvane's face.
+
+"No?
+Well now, you're the first I've met here to say that."
+Argasdottir takes the mug the tavernkeeper hands her,
+then a second as Luft takes the first from her.
+"You've been into the Bentfathers, then?"
+When the Anuat nod Argasdottir belches and wipes her mouth.
+
+"Good, that's good.
+Luft and I want to get out there and back before the harbour freezes.
+That gives us, what, two weeks, maybe three?
+Just straight up the river into the foothills, that's all."
+
+"You will find better furs to starboard,"
+Walker comments neutrally after a moment.
+He wears gloves rather than mitts,
+Argasdottir notices.
+The sinew stitches along their seams are double-knotted,
+but unlike every other piece of clothing she has seen an Anuat wear,
+they have no decoration of any kind.
+
+"We're not looking for furs."
+Argasdottir glances at her partner and clears her throat.
+"Ten crowns for the trip, half now and half when we're back.
+Luft and I already have a sled and some elk.
+We could get tack tonight and leave tomorrow."
+
+The three are silent,
+the two Garheimmen looking expectantly at the Anuat,
+who continues looking at the table.
+Finally Luft snorts.
+"Well,
+if you're not up to doing it,
+do you know someone who would be?"
+He drains his mug and lets it thump to the table.
+
+Walker waits another dozen heartbeats
+before raising his eyes to Argasdottir's.
+"Tomorrow at the starboard gate," he agrees.
+
+The Garheimmen woman smiles widely.
+"Good, my new friend, good!"
+She reachs across the table to clap the Anuat on the shoulder.
+"At first light, then?"
+
+Walker nods and stands.
+As he lifts his pack to his shoulder
+someone pushes him from behind and demands,
+"What you do here?"
+
+Walker turns slowly.
+A heavyset Anuat wearing a parka decorated with the trading company's colors
+stands unsteadily in the center of the tavern floor.
+"You go back the cold you belong, *pauetsitgualuk*!
+Nobody want you here!"
+And then he spits on the floor.
+
+Someone whoops.
+Someone else shouts, "Twenty crowns on the Goose!"
+The bartender lifts a cudgel from its resting place behind the bar
+but says nothing.
+
+Walker turns as if to go.
+The larger Anuat says something in their own tongue and reaches for him.
+Somehow Walker's hand is there to grab his sleeve.
+He tugs, turns,
+brings one leg up between the other man's thighs,
+bends,
+and the one they call the Goose goes over him to land on his back.
+Walker's pack is still on his shoulder.
+
+Argasdottir is on her feet.
+"Are you all right?" she asks.
+
+The Anuat nods.
+"Tomorrow at the gate. Dream well, Not-Hunting-Furs.
+And you also, Little Hunter."
+
+Argasdottir puts her hand on Luft's shoulder
+and pushes him back into his seat as he starts to rise.
+"Little hunter my plums!" he fumes,
+staring murderously at the Anuat's retreating back.
+
+"Oh, come on, he meant nothing by it."
+Argasdottir raises one hand and twists it,
+saying a word as she does so.
+Two steins of beer lift themselves off the bar
+and float over to their table.
+A few patrons stare,
+and one makes a sign.
+
+---
+
+*"So the woman is a magician.
+Good.
+But what of the other?"*
+
+*"I do not know, my brother.
+The big-noses say we are small,
+but he is less than a boy of twelve summers."*
+
+*"Be careful of him, my brother."
+The night is a dark shell
+flecked here and there with stars like chips of ice.
+An elk bleats somewhere in the distance.
+Another answers it.*
+
+*"I am not afraid, my brother."
+There is a moment's silence.
+"Must it be done now?
+The people will gather soon,
+and I would share a blanket with Laughs-at-Storms."*
+
+*"It must be done, my brother.
+You and Laugher can play at arrows and quivers next year."
+The elk bleats again.*
 
 ---
 
@@ -224,7 +293,7 @@ against the palisade, then stooped to pick up more snow. "I told you
 when we got here, we could do this ourselves. Why in Tir's name do we
 need somebody else?" Another snowball smacked against the wall.
 
-Just then Argusson spotted a dark blot approaching the gate. "Eh,
+Just then Argasdottir spotted a dark blot approaching the gate. "Eh,
 Luftie, he's here," he said, struggling to his feet inside a double
 layer of furs. "Hello, Walker, good day!"
 
@@ -242,7 +311,7 @@ his hands.
 
 "I've already checked those," Luft said sharply. The Anuat continued to
 pull and twist the leather straps, making minute adjustment and re-tying
-knots. The younger man looked at Argusson angrily, only to be shushed
+knots. The younger man looked at Argasdottir angrily, only to be shushed
 with a handwave.
 
 The Anuat made a last slight adjustment in the length of a trace, then
@@ -251,7 +320,7 @@ suddenly smiled, and added, "If the weather is good."
 
 He strapped on his skis as carefully as he had tested the dog's traces,
 then picked up his spears, reversed them, and pushed. With a shout and a
-whipcrack Argusson followed in the sled; still cursing, Luft followed
+whipcrack Argasdottir followed in the sled; still cursing, Luft followed
 behind, a knit cap on his head and his sword slung at his side.
 
 The trading post disappeared behind the first white hill and was soon
@@ -262,7 +331,7 @@ rock too large to have yet been covered. A solitary tern parallelled
 their path for a time before turning to continue its delayed journey
 south. By unspoken consent, Walker stayed out front, his steady heave,
 heave, heave on his makeshift skipoles almost hypnotic. Seated on the
-dogsled, Argusson finally grunted and pulled a small flask from a pocket
+dogsled, Argasdottir finally grunted and pulled a small flask from a pocket
 of his parka. He drew the cork with his teeth and spat it out, then took
 a deep swallow.
 
@@ -273,10 +342,10 @@ protection offered by a small hollow in the land. The Anuat stood his
 skis and spears together in the snow as Luft came forward to the sled.
 
 "Tir's plums, I ache all over." The younger Garheimmen stretched and
-yawned. "Set up the tents, Walker, I'll get the dogs." Argusson frowned,
+yawned. "Set up the tents, Walker, I'll get the dogs." Argasdottir frowned,
 then relaxed when Walker pulled a small shovel off the sled and began
 scooping out a patch of snow. As the Anuat began to erect their two
-tents Argusson planted five stakes in a circle around their camp. He was
+tents Argasdottir planted five stakes in a circle around their camp. He was
 tying a design on them in red cord when he noticed that Walker had
 stopped and was watching him.
 
@@ -284,10 +353,10 @@ stopped and was watching him.
 
 The Anuat scowled. "What is this?"
 
-Argusson shrugged. "A warding spell. If anyone crosses it during the
+Argasdottir shrugged. "A warding spell. If anyone crosses it during the
 night, or tries to do magic across it, I'll know. Just a precaution."
 
-The Anuat grunted and went back to work. Argusson shrugged again and
+The Anuat grunted and went back to work. Argasdottir shrugged again and
 continued his magic.
 
 ---
@@ -382,7 +451,7 @@ bent nearly double, intent on the snow beneath him. Above them the sky
 was clear and bright, and as cold as a deep sea.
 
 "What wrong?" Luft asked, undoing the straps on his skis and stepping up
-beside the older man. Argusson shook his head.
+beside the older man. Argasdottir shook his head.
 
 "I don't know, lad. Walker?" The dogs had dropped into the snow panting,
 taking the opportunity to rest. One yipped as another snapped at its
@@ -411,18 +480,18 @@ Bloody right. First nobody's here, and now they're two days gone. I
 suppose we'll be cooking for them tonight, eh?" He sounded as though it
 were a personal triumph.
 
-"They are two days gone from here." For the first time Argusson heard
+"They are two days gone from here." For the first time Argasdottir heard
 emotion in the Anuat's voice. "You will not cook them supper tonight,
 little man." He started to walk back to his skis.
 
 "I told you not to call me that, you bloody raping son of a sow!" Luft
-knocked away Argusson's arm and strode through the snow. "You bloody
+knocked away Argasdottir's arm and strode through the snow. "You bloody
 well apologize, or I'm going to rip your plums off and feed them to the
 dogs!"
 
 The Anuat stared in the direction they had been travelling. "We will
 keep going north," he said calmly. "It is not wise to rest the dogs
-without feeding them, friend Torvald."
+without feeding them, friend Torvane."
 
 "Apologize, you pig!" Luft ran the last two steps and swung roundhouse
 at the guide.
@@ -435,18 +504,18 @@ leather and steel helmet on his head. He bellowed and charged. The Anuat
 reversed his spear and braced himself.
 
 A sudden flash blinded them both. Someone howled at the magic glare, but
-Argusson couldn't tell if it was his partner or their guide. The dogs
+Argasdottir couldn't tell if it was his partner or their guide. The dogs
 began barking furiously.
 
 When Luft's vision cleared he was sitting in the snow, his sword still
 in his hand, his head aching. He saw the wizard quieting the dogs, and
 the Anuat standing a few meters away with his hands still over his eyes.
 
-Argusson looked up. "Serves you right," he said shortly. "Walker! Are
+Argasdottir looked up. "Serves you right," he said shortly. "Walker! Are
 your eyes all right?"
 
 The Anuat slowly lowered his hands, then nodded. There were tears on his
-cheeks. He looked at Argusson for a long instant, then stooped to pick
+cheeks. He looked at Argasdottir for a long instant, then stooped to pick
 up his spear. "We have lost time," he said. He walked back to his skis
 slowly.
 
@@ -471,13 +540,13 @@ stooped beneath ice and snow. The sun was a dull glow in the southeast
 when Walker told the others that it was time to leave the sled.
 
 "Today, walking, will bring us to your place," the Anuat said as Luft
-and Argusson sorted through their gear. "Do not leave food for the dogs.
+and Argasdottir sorted through their gear. "Do not leave food for the dogs.
 They would fight for it."
 
 Luft said something under his breath, then straightened and shouldered
 his own small pack. "I'm ready when you are, Vald. Let's get up there."
 
-Argusson stuffed some more vials and pouches into his parka, then tied
+Argasdottir stuffed some more vials and pouches into his parka, then tied
 the bindings. "I hope that will do. Ready, Walker? Right, then, and
 off." With Walker leading, Luft behind him, the three began walking. I
 waited until the men were a hand of hundreds of paces gone, then cut the
@@ -491,11 +560,11 @@ On either side of them grey stone rose or fell steeply.
 
 Walker climbed steadily, pausing occasionally to let the others catch
 up. Luft moved with dogged determination, never looking directly at the
-Anuat. Behind them Argusson struggled, breathing great irregular clouds
+Anuat. Behind them Argasdottir struggled, breathing great irregular clouds
 of steam. Neither Garheimmen noticed the darkening sky until the first
 flakes of snow began to fall.
 
-"Bloody frozen hell," Luft cursed at one spot when Argusson dropped his
+"Bloody frozen hell," Luft cursed at one spot when Argasdottir dropped his
 weight onto a convenient bulge of the mountain and gulped air. "Would
 have been better if I'd stayed in Karlslod Castle waiting trial, maybe,
 instead of following you and that damned old map of yours."
@@ -536,22 +605,22 @@ in the snow as he waved his sword. "They were waiting for us, well, were
 they now? One guess who let them know we were coming!" He spat and
 kicked the corpse.
 
-"Walker!" Argusson shouted, then waited. "Walker, are you there?"
+"Walker!" Argasdottir shouted, then waited. "Walker, are you there?"
 
 Silence.
 
 Luft laughed hysterically. "Did I tell you! Led us right into a trap,
 your bloody little flat-faced friend. Tir's plums, shut up, Vald!" the
-small man shouted as Argusson filled his lungs to call again. "He's
+small man shouted as Argasdottir filled his lungs to call again. "He's
 gone, isn't he? And good riddance, I say."
 
-Argusson slumped a little and sighed, staring at the dead man as the
+Argasdottir slumped a little and sighed, staring at the dead man as the
 falling snow made a shroud. "We need Walker, Luftie." His voice was
 almost pleading.
 
 "Why?" Berendsson demanded. "What in hell can he do that I can't?"
 
-Argusson looked up. "Nothing," he finally said. "Come on, we're almost
+Argasdottir looked up. "Nothing," he finally said. "Come on, we're almost
 there." The younger man wiped his blade on the corpse, but did not
 sheath it. The two men started walking. Around them my storm thickened.
 
@@ -746,7 +815,7 @@ by the cold, a spear protruding awkwardly from his back. Lying inside
 the pattern was a slab of stone large enough for a man to lie upon,
 stained and discoloured, and two wooden boxes.
 
-Finally Argusson nodded. "That's Heraldsson, for certain. I guess he
+Finally Argasdottir nodded. "That's Heraldsson, for certain. I guess he
 annoyed the flat-faces a bit much."
 
 "Can you get through it?" Luft asked.
@@ -758,21 +827,21 @@ I edged forward a bit more, then stopped, unable to get close enough to
 see what he was doing without exposing myself. I would have cursed, but
 he might have felt that.
 
-Finally Argusson stood. "Give me your torch," he said. Luft handed it to
+Finally Argasdottir stood. "Give me your torch," he said. Luft handed it to
 him. "And your sword." At Luft's quizzical look the wizard added, "It's
 steel," as if that were an explanation. "Now, kneel there. No, more to
-the left." Putting the sword down, Argusson finished drawing his design
+the left." Putting the sword down, Argasdottir finished drawing his design
 around his partner, then propped the torch against the wall.
 
 "Now, keep your eyes on those boxes. When they start to glow, you get in
 there and grab them. Heraldsson's treasure must be in them."
 
-"When they glow. Right, let's be done." Luft sounded eager; Argusson
+"When they glow. Right, let's be done." Luft sounded eager; Argasdottir
 shook his head.
 
 He began to chant in a language I did not know. I felt power gently
 stirring at his command. Luft crouched, staring across the old pentacle.
-Argusson's voice grew louder, more commanding. Suddenly he shouted three
+Argasdottir's voice grew louder, more commanding. Suddenly he shouted three
 words, then again, and again, and reached down and grabbed the sword and
 swung it over his head and down into Luft Berendsson's neck.
 
@@ -783,7 +852,7 @@ century, tryng to find a way to break into the pentacle; none had even
 suggested such a thing as sacrificing a man.
 
 The torch flickered alight, then steadied. With the sword still in his
-hand Argusson stumbled across the floor.
+hand Argasdottir stumbled across the floor.
 
 "There's no gold," I whispered. He shrieked and spun around.
 
@@ -816,7 +885,7 @@ my own he lifted the sword and charged.
 
 I feinted to the left, then stepped back and leaned into his lunge. The
 sword slid easily through the parka, through my chest, and out my back.
-Argusson screamed in terror as the hood fell back from my rotted
+Argasdottir screamed in terror as the hood fell back from my rotted
 features.
 
 "Too late," he heard me whisper as my fleshless hands wrung his neck.

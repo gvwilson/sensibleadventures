@@ -20,7 +20,7 @@ and his face was all nose and beard.
 He smiled and said something in a strange language,
 and laughed when we spoke to him in our own.*
 
-*By summer he and I were learning wrestling together from my mother.
+*By summer he and I were learning to wrestle spirits together.
 That is how Saknus Heraldsson came to the Anuat.*
 
 ---
@@ -37,43 +37,51 @@ as Luft crosses the packed earth floor to the pit stove
 and pulls off his mittens.
 
 The Anuat puts the knife back on the counter and shoulders his pack.
-"Three blue fox furs are enough for a hand of such knives.
+"Three blue rabbit furs are enough for a hand of such knives.
 Good weather."
 He pulls the hood of his parka over his long dark hair
 and leaves without a backward glance.
 
-"Bloody raping hell."
-The trader does not sound angry, or even resigned.
+"Stupid sealfuckers."
+The trader does not sound angry.
+"I miss proper haggling."
+
 Luft pulls his own hood back and seats himself across the table from her.
-"No liquor,
-no wizards,
-and they smell like seals.
-No bloody wonder they bargain like that."
+"I take it you don't like our round-faced friends?"
 
-"You don't like our round-faced friend, then?" Luft asks.
-
-"Oh, it's not that."
-The trader notes the man's much-broken nose and matted red beard,
-and the sword belted around his parka.
-"Why, these three years gone, when ice locked the harbour early?
-We'd have most of us starved if not for Walker and his folk.
-But---"
+The trader notes the man's crumpled nose,
+the beaded braids in his red beard,
+and the sword belted around the poorly-stitched parka
+that is two sizes too large for his small frame.
+*A good luck charm,*
+she thinks,
+*If he buys anything, it'll be charm.*
+"Oh,
+they're all right,"
+she says aloud,
+taking a small wooden box from the shelf behind her
+and setting it casually on the table between them.
+"These three years gone, when ice locked the harbour early?
+We'd have most of us starved if Walker and his folk hadn't helped us out."
 
 "Walker? The local chief?"
 
 "Eh, that was him just here."
-The trader nods toward the door,
-stuffing her pipe as Berendsson runs a string of beads through his fingers.
-"He's as much a chief as the wild ones have.
-Best hunter of the lot, and that's good enough for them.
-But as I was saying---"
+The trader gestures toward the door
+with the misshapen piece of ivory she has taken out of the box.
+It is no more magical than a lump of snot,
+but start low and work your way up,
+her mother used to say,
+start low and then show them something better.
+"Comes into town every couple of months with the best furs anyone's ever seen,
+or a rack of antlers wider than you can spread your arms.
+The rest of the locals think he's---hoy!"
+The short southerner has taken the steps three at a time
+without so much as a nod farewell.
 
-"A good hunter, eh?"
-Luft drops the beads back onto the table and picks up his mitts.
-
-"Well damn you eyes,"
-the trader says once the southerner is gone.
-"You could have at least closed the door."
+The door bangs shut behind him.
+The trader sighs.
+She misses proper haggling...
 
 ---
 

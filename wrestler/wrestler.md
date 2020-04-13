@@ -87,65 +87,69 @@ She misses proper haggling...
 
 Torvane Argasdottir is halfway through her third beer
 when she hears someone call her name.
-She squints through the smoke in the tavern's belly,
-then waves at the two men approaching her.
+She squints through the smoke in the belly of the alehouse
+and waves at the two men approaching her.
 
-"Ho, Luftie," she bellows.
-People sometimes think she has to speak so loudly as part of some spell's price,
+"Hoy, Luftie," she bellows.
+People sometimes think she has to speak loudly as part of a spell's price,
 or that she is partly deaf.
 Neither is true---she is just loud.
 "Who's your friend?"
 
-Luft sits down beside his partner.
-"This is Walker," he says,
-jerking a thumb at the impassive Anuat.
-"He says he's been out to the mountains."
+Luft slides onto the bench beside her.
+"This is Chief Walker," he says,
+jerking his chin at the impassive man standing opposite them.
+There are only a handful of other Anuat in the alehouse,
+none of them apparently sober enough to stand.
 
-Argasdottir pries the young man's hand from her arm.
-"I can't drink when you do that, Luftie dear," she says.
+Argasdottir pries Luft's hand off her arm.
+"I can't drink when you do that," she says gently.
 "Have a seat, Walker.
-Karl!
-Karl, get these men some beer!"
+Karol!
+Karol, get these men some beer!"
 
 "No thank you," Walker says quietly,
-seating himself on the bench as demurely as a virgin nun.
+seating himself on the bench as demurely as a eunuch monk.
 He looks at the table,
 at Torvane's glass
 sidelong at the drinkers beside him,
-everywhere but at Torvane's face.
+everywhere but at Torvane and Luft's faces.
 
-"No?
-Well now, you're the first I've met here to say that."
-Argasdottir takes the mug the tavernkeeper hands her,
+"No drink?
+You're the first I've met here to say that."
+Argasdottir takes the mug the aleman hands her,
 then a second as Luft takes the first from her.
-"You've been into the Bentfathers, then?"
-When the Anuat nod Argasdottir belches and wipes her mouth.
+"So you're the one that goes trapping up into the Bentfathers, then?"
 
+The Anuat nods.
+Argasdottir belches and wipes her mouth.
 "Good, that's good.
-Luft and I want to get out there and back before the harbour freezes.
+Luft and I want to get out there and back before the harbor freezes.
 That gives us, what, two weeks, maybe three?
 Just straight up the river into the foothills, that's all."
 
 "You will find better furs to starboard,"
 Walker comments neutrally after a moment.
-He wears gloves rather than mitts,
+He wears southern-style gloves rather than Anuat mitts,
 Argasdottir notices.
-The sinew stitches along their seams are double-knotted,
+The sinew stitches along their seams are carefully knotted,
 but unlike every other piece of clothing she has seen an Anuat wear,
-they have no decoration of any kind.
+they have no embroidery or beads.
 
-"We're not looking for furs."
-Argasdottir glances at her partner and clears her throat.
+"We're not looking for furs,"
+Luft says.
+
+Argasdottir nudges his knee with hers under the table
+and clears her throat.
 "Ten crowns for the trip, half now and half when we're back.
 Luft and I already have a sled and some elk.
-We could get tack tonight and leave tomorrow."
+We can get tack by day's end and leave tomorrow if you're interested."
 
 The three are silent,
 the two Garheimmen looking expectantly at the Anuat,
 who continues looking at the table.
 Finally Luft snorts.
-"Well,
-if you're not up to doing it,
+"Well if you're not,
 do you know someone who would be?"
 He drains his mug and lets it thump to the table.
 
@@ -155,7 +159,7 @@ before raising his eyes to Argasdottir's.
 
 The Garheimmen woman smiles widely.
 "Good, my new friend, good!"
-She reachs across the table to clap the Anuat on the shoulder.
+She reachs across the table to squeeze the Anuat's hand.
 "At first light, then?"
 
 Walker nods and stands.
@@ -163,71 +167,104 @@ As he lifts his pack to his shoulder
 someone pushes him from behind and demands,
 "What you do here?"
 
-Walker turns slowly.
+Walker turns his head.
 A heavyset Anuat wearing a parka decorated with the trading company's colors
-stands unsteadily in the center of the tavern floor.
-"You go back the cold you belong, *pauetsitgualuk*!
+stands unsteadily a few steps behind him.
+"*Pauetsitgualuk*!
+You go back the cold you belong.
 Nobody want you here!"
-And then he spits on the floor.
+He spits on the floor.
 
 Someone whoops.
 Someone else shouts, "Twenty crowns on the Goose!"
-The bartender lifts a cudgel from its resting place behind the bar
+The aleman takes a cudgel from its resting place behind the bar
 but says nothing.
+People always drink more after a good fight,
+or even after a bad one,
+and nothing much in the alehouse is breakable except the patrons.
 
-Walker turns as if to go.
-The larger Anuat says something in their own tongue and reaches for him.
+Walker shifts his pack on his shoulder and turns as if to go.
+The larger Anuat says something sneering and reaches for him.
 Somehow Walker's hand is there to grab his sleeve.
-He tugs, turns,
-brings one leg up between the other man's thighs,
-bends,
-and the one they call the Goose goes over him to land on his back.
-Walker's pack is still on his shoulder.
+He tugs,
+turns,
+brings one leg up between the other man's thighs as he bends his other knee,
+and the one they call the Goose goes over him
+and lands on the floor with a thud.
 
 Argasdottir is on her feet.
 "Are you all right?" she asks.
 
-The Anuat nods.
-"Tomorrow at the gate. Dream well, Not-Hunting-Furs.
-And you also, Little Hunter."
+The Anuat looks at her,
+then at the Goose,
+his lack of expression saying more loudly than words
+that *he* is not the one lying on the floor.
+"Tomorrow at the gate," he says.
+"Dream well."
+Someone who has just won twenty crowns claps him on the shoulder
+as he walks to the door.
 
-Argasdottir puts her hand on Luft's shoulder
-and pushes him back into his seat as he starts to rise.
-"Little hunter my plums!" he fumes,
-staring murderously at the Anuat's retreating back.
+Torvane settles back on the bench
+and looks sidelong at her partner.
+"Knows how to handle himself," she observes.
 
-"Oh, come on, he meant nothing by it."
-Argasdottir raises one hand and twists it,
-saying a word as she does so.
-Two steins of beer lift themselves off the bar
-and float over to their table.
-A few patrons stare,
-and one makes a sign.
+The younger Garheimmen scowls.
+"Won't be a problem."
+
+She shrugs and focuses on her beer.
+She used to find his endless need to prove himself amusing,
+but lately---
+
+The Goose rolls over,
+gets his feet under him,
+and launches himself at Walker,
+a steel hunting knife in his hand.
+Without thinking,
+Torvane *reaches* across the room.
+The air sparkles.
+For a moment everyone in the alehouse tastes ginger and regret.
+The Anuat trips over nothing and falls heavily to the floor once again.
+
+The aleman hefts his cudgel and mutters a curse.
+Others make signs with their fingers
+or reach for charms tucked under the coats and sweaters.
+Walker looks from the Goose to Torvane Argasdottir,
+his face as expressionless as ever,
+and walks out into the dim light of the arctic afternoon.
+
+"What the hell did you do that for?" Luft demands.
+
+"Sorry," Torvane sighs.
+"I just---never mind."
+She scrunches her toes inside her boot and winces
+as the toenail that the spell cost her catches on the thick wool of her sock.
+It will probably come off by morning.
+She drains the last of her beer and stands,
+conscious of all the people who aren't looking at her.
+"Let's go get our gear together."
 
 ---
 
 *"So the woman is a magician.
 Good.
-But what of the other?"*
+And the other?"*
 
-*"I do not know, my brother.
-The big-noses say we are small,
-but he is less than a boy of twelve summers."*
+*"I do not know.
+He is no bigger than I was at twelve summers."*
 
-*"Be careful of him, my brother."
+*"A knife does not have to be big to be deadly."
 The night is a dark shell
 flecked here and there with stars like chips of ice.
 An elk bleats somewhere in the distance.
 Another answers it.*
 
-*"I am not afraid, my brother."
+*"I am not afraid."
 There is a moment's silence.
-"Must it be done now?
-The people will gather soon,
-and I would share a blanket with Laughs-at-Storms."*
+"Must this be done now?
+Laughs-at-Storms says she has made a new blanket."*
 
-*"It must be done, my brother.
-You and Laugher can play at arrows and quivers next year."
+*"It must be done.
+You can put your arrows in Laugher's quiver some other season."
 The elk bleats again.*
 
 ---

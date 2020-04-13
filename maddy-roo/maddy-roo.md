@@ -4587,8 +4587,198 @@ the shaper asked,
 looking thoughtful.
 
 And then the two oxen came running back into the square yelling,
-"Bots! Whole pile of 'em out on the highway!"
-Even as they spoke a high-pitched whine turned into a drone
-as the two fliers Maddy had seen earlier zipped overhead
-and dropped their canisters.
-Dark dizzysmoke spilled into the square.
+"Bots! Bots! There's a whole pile of 'em headed this way!"
+Even as they spoke a high-pitched whine turned into a drone.
+The two fliers Maddy had seen earlier zipped overhead and dropped their canisters.
+Dark dizzysmoke spilled into the square as a dozen engines rumbled in the distance.
+
+## Chapter 14: The Battle of Rusty Bridge
+
+*Dang! Dang! Dang!*
+The alarm bell rang cold and clear,
+three peals and three again.
+"Get those things out of here!"
+Mayor Lupus yelled,
+pointing at the canisters.
+
+The ox with the hammer was moving even as she spoke.
+With a mighty bellow she swung her hammer.
+*Clunk!*
+The cylinder rolled across the cobbles,
+dizzysmoke still pouring out of one end.
+*Clunk!*
+She brought her hammer down on the nozzle,
+raised it for another blow,
+and then sat down suddenly.
+"I..." she said, puzzled.
+Her eyes rolled up and she toppled over.
+
+"Clear the square!
+Clear the square!
+And you two, get inside!"
+The goat twins didn't have to be told twice.
+Tossing his crutches aside,
+Bravo fled up the stairs and into the mayor's house
+just two steps behind his twin brother.
+
+"Maddy!"
+She whirled around.
+It was Gumption!
+For a moment she thought he was going to hug her,
+but he pulled up short.
+His fur was matted with mud
+and there was a leaf stuck to his leg
+and she didn't care.
+She threw her arms around him and hugged him close.
+
+"Um..." he said,
+returning the hug awkwardly.
+
+She released him and stepped back,
+suddenly embarrassed.
+"Sorry.
+Come on,
+we have to get out of here."
+
+"Wait!"
+Gumption pointed at Dockety.
+"It's tring to say something!"
+
+Dockety rasped and crackled
+Its plating was dented,
+and one of its legs was definitely bent.
+Maddy and Gumption knelt and helped it sit up.
+
+"Come *on*!"
+Maddy repeated urgently.
+Another few seconds and the dizzysmoke would reach them.
+
+Dockety pushed them away and limped back to the flying harness
+that still lay where they had fallen.
+Its joints squealed in protest as it tried to pick it up.
+
+"Leave it!"
+Maddy said frantically,
+trying to pull the bot away.
+
+Dockety shrugged her off and switched the rotor on.
+It flapped and whipped and roared to life.
+Bracing itself,
+the bot pointed it at the nearest canister
+to blow the dizzysmoke away.
+
+"Aright!" Gumption shouted,
+then, "Oh no!"
+as Dockety's feet slipped on the cobbles.
+The flying machine was so powerful that it was pushing him backward.
+
+Maddy and Gumption braced their shoulders against the bot's back
+and pushed as hard as they can.
+The bot's whole body was vibrating so much
+that Maddy expected parts to start falling off,
+but it was working---the wind from the rotor was clearing the smoke.
+
+"Here they come!" someone shouted.
+With a rumble that made the ground shake,
+the big cargo hauler rolled into the square.
+The militia yelled and charged.
+
+*BZZZP!*
+*BZZZP!*
+The mayor fired her zap gun twice, then swore.
+"It's out of charge!
+You have to slow them down!"
+
+Shaper Leaf nodded grimly.
+He braced his feet,
+closed his eyes,
+and swept his arms in a circle.
+The earth split in a ragged arc in front of the cargo hauler.
+
+The tortoise went down on his knees,
+head bowed,
+clearly exhausted.
+A goat dropped her pike and tried to help him up.
+
+*Clang! Thwack!*
+All around the square militia and bots battled each other.
+As the last of the dizzysmoke wafted away
+Dockety switched off the rotor and dropped it on the cobblestones.
+"Bzzt brrzzzt crackle," it said,
+pointing at the mayor's house and pushing Maddy toward it.
+"Bzzt crackle!"
+
+"No!"
+Maddy protested.
+
+Gumption pulled on her arm.
+"Come on,
+we have to get out of here!"
+
+With an earth-shaking rumble,
+Crusher rolled across the ditch that Shaper Leaf had made.
+Dockety turned to face the cargo hauler and stepped in front of it.
+
+The cargo hauler stopped.
+"Bzzt crackle," Dockety said.
+Its chest light flashed on and off,
+*blink blink*, pause, *blink blink*, pause,
+like a heartbeat.
+
+The cargo hauler hesitated.
+*Blink blink*, pause.
+Dockety spread its arms.
+Slowly,
+Crusher raised its own---
+
+---and froze,
+the motors in its shoulders grinding in protest.
+Prancing on its crab legs,
+Lasercase stepped into view from behind the heavy hauler.
+"Denied!" it crowed in a weirdly echoing voice.
+
+Dockety charged at it.
+The crab bot punched a button on the control box it held in its tentacles.
+Crusher's arm swung like a bat,
+faster than Maddy would have believed it could move.
+Metal banged on metal as it knocked Dockety flying across the square.
+
+"No!" Maddy shouted as Lasercase advanced on the fallen bot.
+Suddenly she remembered the circuit board still in her pocket.
+She pulled it out and pointed it at the crab bot and pressed the button.
+
+"Ha! Ha! Ha!"
+the crab bot crowed.
+"Priority target revealed!"
+It scuttled toward Maddy,
+tentacles raised.
+
+"Ooph!"
+Gumption tackled her to the ground.
+The bot's tentacles whipped over her head
+as the circuit board skittered across the cobblestones.
+
+"Got it!"
+Gumption grabbed the circuit board,
+rolled over,
+stood up---
+
+---just in time for a tentacle to club him in the ribs.
+"No!" Maddy shouted again
+as the young goat landed in a heap beside her.
+"Gumption!"
+
+Lasercase picked up the circuit board.
+Somewhere a horn blared.
+The bots immediately began to retreat,
+but Maddy barely noticed.
+"Gumption! Gumption!"
+
+He coughed and winced.
+"Uhh..."
+
+"Don't move," she said.
+
+"Don't... worry... about... it..."
+he gasped,
+and then his eyes closed and he went loose-jointed in her arms.

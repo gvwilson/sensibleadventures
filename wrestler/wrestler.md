@@ -221,7 +221,7 @@ and launches himself at Walker,
 a steel hunting knife in his hand.
 Without thinking,
 Torvane *reaches* across the room.
-The air sparkles.
+The air ripples.
 For a moment everyone in the alehouse tastes ginger and regret.
 The Anuat trips over nothing and falls heavily to the floor once again.
 
@@ -252,7 +252,8 @@ And the other?"*
 *"I do not know.
 He is no bigger than I was at twelve summers."*
 
-*"A knife does not have to be big to be deadly."
+*"Do not underestimate him.
+A knife does not have to be big to be deadly."
 The night is a dark shell
 flecked here and there with stars like chips of ice.
 An elk bleats somewhere in the distance.
@@ -260,68 +261,91 @@ Another answers it.*
 
 *"I am not afraid."
 There is a moment's silence.
-"Must this be done now?
+"But why must I go with them?
 Laughs-at-Storms says she has made a new blanket."*
 
-*"It must be done.
-You can put your arrows in Laugher's quiver some other season."
-The elk bleats again.*
+*"You must go with them because I have said you must."
+The elk bleats again.
+You can put your arrows in Laugher's quiver next season."*
 
 ---
 
-*We spent four years together, Saknus and I, learning to wrestle. We
-would capture and sacrifice small birds, or fieldmice, and then use
-their bones to command their little spirits before setting them free.
-Once I persuaded my brother to trap a fox for us, and we called its
-spirit back to do small magics for several days, until my grandfather
-caught us and beat me. At night and in winter Saknus told us stories,
-laughing at his mistakes as he learned our language. He told us of the
-South, of his home, of camps that never moved, of more people than he
-could name.*
+*We spent four years together,
+Saknus and I,
+learning to wrestle.
+We trapped small birds and fieldmice,
+then used their bones to command their little spirits
+before setting them free.
+Once I persuaded my brother to trap a lynx for us.
+We called its spirit back to do small magics for several days
+until my mother found out.
+She beat me for my impudence,
+but his only punishment was a week without lessons.*
 
-*My grandfather often grumbled that it was no good teaching the monster,
-he had no ancestors, but my father ignored him. Many other shamans came
-to visit my father and his strange pupil, and from each of them I think
-Saknus learned a little more.*
+*At night Saknus told us stories,
+laughing at his mistakes as he learned our language.
+He told us of his home in the south,
+of ships and kings and libraries,
+of cities filled with so many people
+that no one knew all their names.*
 
-*"To work strong magics a shaman must have strong spirits to help him.
-Our ancestors are angry when they are called back from their camps in
-the Forever Summer, and must be beaten before they will obey. Only by
-beating a spirit can magic be done." Saknus smiled when my father said
-this, as though at some joke only he had heard.*
+My grandfather often grumbled that
+there was no point teaching him how to wrestle if he had no ancestors,
+but my mother ignored him.
+Other shamans came to visit her and talk to her strange pupil,
+and from each of them I think Saknus learned a little more.*
 
-*"Can you only call ancestors back to wrestle?" he once asked.*
+*"To work strong magics a shaman must have help from strong spirits.
+Our ancestors are angry when they are called back from the Summer Lands
+and must be beaten before they will obey.
+Only in this way can magic be done."
+Saknus smiled when my mother said this,
+as though at some joke only he had heard.*
 
-*"Yes," my father replied. And it was true. I had tried, when other
-shamans visited, to reach their ancestors through their
-necklaces-of-bones, but I never could.*
+*"Can you only call ancestors back to wrestle?" he asked.*
 
-*When my grandfather finally died, my father, my brother Walks-In-Storm,
-Saknus, and I fasted for two days. With the proper rituals we cut off
-his thumbs and burned his body. My mother emptied the stew-pot and
-boiled the thumbs until the meat was gone.*
+*"Yes," my mother replied.
+It was true.
+I had tried,
+when other shamans visited,
+to reach their ancestors through their necklaces-of-bones,
+but I never could.*
 
-*Then my father took the bones and went away from camp. "He is wrestling
-my grandfather," I told Saknus, proud of knowing something that the
-quick monster did not. "He will defeat his father's ghost, and then put
-the thumbs on his necklace-of-bones."*
+*When my grandfather died we fasted for two days,
+then cut off his thumbs and burned his body.
+My mother emptied the stew-pot and boiled the thumbs
+until the meat fell from them.*
 
-*"And it is with those bones that he calls his ancestors?"*
+*She took the bones and went away from camp.
+"She is wrestling his spirit,"
+I told Saknus,
+proud of knowing something for once that he did not.
+"Once she has defeated him,
+she will put his bones on her necklace."*
 
-*"Yes," I told him. "That is the only way anyone can do it. Every summer
-a shaman must make a magic to tie his spirit to his bones for another
-year, so that after he dies his spirit can be found and wrestled. Every
-shaman swears to do this, so that his children and theirs will have
-magic. If a shaman sees many summers and does this magic many times his
-grandchildren's grandchildren might still be able to find his spirit and
-wrestle it. My grandfather," I added proudly, "Lived a very long life."
-Saknus smiled.*
+*"There are a great many bones on that necklace,"
+he observed,
+his eyes on the horizon.*
 
-*Walks-In-Storm scowled then, as he often did when around the big-nosed
-man. We were twins, and he had taken to hunting as I had taken to the
-shaman's ways. He would say little when the monster spoke, and would
-soon leave a tent if Saknus entered. We had been closer than friends
-before Saknus's arrival; it hurt me that we grew apart in those years.*
+*"There are twenty-two," I told him proudly.
+"Every summer my mother makes a magic to tie her spirit to her own bones
+so that after she dies I can call her back and wrestle her.
+Every shaman does this
+so that their children and theirs will have magic.
+If a shaman sees many summers and does this many times
+their grandchildren's grandchildren might still be able to call on them."*
+
+*The southerner turned his hands palms up in a gesture of thanks.
+"I am grateful as always for your lessons."*
+
+*My brother Walks-In-Storm scowled then,
+as he often did when around the big-nosed southerner.
+We were twins,
+and he had taken to hunting as I had taken to the shaman's ways.
+He would say little when Saknus spoke,
+and would soon leave a tent if he entered.
+We had been closer than friends before Saknus's arrival.
+It hurt me that we grew apart in those years.*
 
 ---
 

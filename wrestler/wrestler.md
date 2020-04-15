@@ -128,7 +128,7 @@ Luft and I want to get out there and back before the harbor freezes.
 That gives us, what, two weeks, maybe three?
 Just straight up the river into the foothills, that's all."
 
-"You will find better furs to starboard,"
+"You will find better furs to the east,"
 Walker comments neutrally after a moment.
 He wears southern-style gloves rather than Anuat mitts,
 Argasdottir notices.
@@ -155,7 +155,7 @@ He drains his mug and lets it thump to the table.
 
 Walker waits another dozen heartbeats
 before raising his eyes to Argasdottir's.
-"Tomorrow at the starboard gate," he agrees.
+"Tomorrow at the east gate," he agrees.
 
 The Garheimmen woman smiles widely.
 "Good, my new friend, good!"
@@ -249,7 +249,7 @@ conscious of all the people who aren't looking at her.
 Good.
 And the other?"*
 
-*"I do not know.
+*"I do not know, brother.
 He is no bigger than I was at twelve summers."*
 
 *"Do not underestimate him.
@@ -266,7 +266,7 @@ Laughs-at-Storms says she has made a new blanket."*
 
 *"You must go with them because I have said you must."
 The elk bleats again.
-You can put your arrows in Laugher's quiver next season."*
+"You can put your arrows in Laugher's quiver next season."*
 
 ---
 
@@ -345,101 +345,138 @@ and he had taken to hunting as I had taken to the shaman's ways.
 He would say little when Saknus spoke,
 and would soon leave a tent if he entered.
 We had been closer than friends before Saknus's arrival.
-It hurt me that we grew apart in those years.*
+It hurt me how we grew apart in those years.*
 
 ---
 
-"Damn his eyes, where is he?" Luft stood and began pacing again. "The
-sun'll be up soon, the dogs are going to want to be fed in a few more
-hours, and where in hell's our precious bloody snow-for-guts guide?"
+"Damn his eyes, where is he?"
+Luft stands and began pacing again.
+"We only have a couple of hours of daylight
+and the sealfucking elk are going to want to be fed soon.
+Where in hell's our precious primping guide?"
 
-"Luft, would you sit down?" The older man was sitting on the rear of the
-dogsled, wrapping and unwrapping the traces around his hands. "He's
-going to show. He said first light, so maybe he meant---"
+"I don't think the elk fuck seals."
+Torvane sits on the rear of the elksled,
+wrapping and unwrapping the traces around her hands.
+"He'll be here.
+He said first light, so maybe he meant---"
 
-"We should do this on our own." Luft packed a snowball and threw it
-against the palisade, then stooped to pick up more snow. "I told you
-when we got here, we could do this ourselves. Why in Tir's name do we
-need somebody else?" Another snowball smacked against the wall.
+"We should do this on our own."
+Luft pack a snowball and throws it against the rickety palisade that rings the trading post,
+then stoops to pick up more snow.
+"I told you when we got here, we can do this ourselves.
+Why in fuck's name do we need him?"
+Another snowball smacks against the wall.
 
-Just then Argasdottir spotted a dark blot approaching the gate. "Eh,
-Luftie, he's here," he said, struggling to his feet inside a double
-layer of furs. "Hello, Walker, good day!"
+Argasdottir spots a dark blot approaching the gate.
+"Here he is," she says,
+struggling to her feet inside a double layer of furs
+and wincing as her weight comes down on her bloodied toe.
+"Hoy, Walker, good weather!"
 
-The blot resolved itself into the Anuat's solid bulk. A head shorter
-than the older Garheimmen, the hunter was wide across the shoulders and
-waist. His face, the colour of old driftwood, was almost hidden in his
-parka's black hood. A small pack on his back, a pair of skis, and two
-spears was the only gear he carried. He nodded when he reached the
-southerners and put his skis onto the snow.
+The blot becomes the Anuat's solid bulk.
+Half a head shorter than the magician,
+the hunter is wide across the shoulders and waist.
+His face is the colour of bleached driftwood,
+almost completely hidden in his parka's black hood.
+A small pack on his back,
+a pair of Garheimmen-style skis,
+and two spears are the only gear he carries.
 
-"My brother says the river ice is good from here to the mountains," the
-Anuat said as he lashed his pack onto the sled. "He says no-one is there
-now." He moved forward to the sled traces. The dogs whined and nuzzled
-his hands.
+He nods when he reaches the southerners
+and puts his skis onto the snow.
+"The river ice is good from here to the mountains,"
+the Anuat says,
+lashing his pack to the rear of the sled.
+He moves forward to the sled traces.
+The dogs grumble and snuffle his hands.
 
-"I've already checked those," Luft said sharply. The Anuat continued to
-pull and twist the leather straps, making minute adjustment and re-tying
-knots. The younger man looked at Argasdottir angrily, only to be shushed
-with a handwave.
+"I already checked those," Luft says sharply.
+The Anuat continues to tug and twist the leather straps,
+making minute adjustments and tightening knots.
+The young swordsman looks at Argasdottir angrily,
+only to be shushed with a handwave.
 
-The Anuat made a last slight adjustment in the length of a trace, then
-stood, satisfied. "Maybe four, maybe five days to the mountains." He
-suddenly smiled, and added, "If the weather is good."
+The Anuat makes a final slight adjustment in the length of a trace and straightens up,
+patting one of the elk on his head.
+"Maybe four, maybe five days to the mountains with these.
+If the weather is good,"
+he adds.
 
-He strapped on his skis as carefully as he had tested the dog's traces,
-then picked up his spears, reversed them, and pushed. With a shout and a
-whipcrack Argasdottir followed in the sled; still cursing, Luft followed
-behind, a knit cap on his head and his sword slung at his side.
+He straps on his skis as carefully as he tested the elks' traces,
+picks up his spears,
+reverses them,
+and pushes off.
+With a shout and a whipcrack Argasdottir follows in the sled.
+Still cursing under his breath,
+Luft follows behind,
+a thick knit cap on his head
+and his sword bumping against his leg.
 
-The trading post disappeared behind the first white hill and was soon
-forgotten as the weary monotony of travel filled their minds. Around
-them the first snows of autumn smoothed the tundra, turning long gravel
-eskers into unmoving white waves, broken here and there by islands of
-rock too large to have yet been covered. A solitary tern parallelled
-their path for a time before turning to continue its delayed journey
-south. By unspoken consent, Walker stayed out front, his steady heave,
-heave, heave on his makeshift skipoles almost hypnotic. Seated on the
-dogsled, Argasdottir finally grunted and pulled a small flask from a pocket
-of his parka. He drew the cork with his teeth and spat it out, then took
-a deep swallow.
+The trading post disappears behind the first white hill
+and is soon forgotten as the weary monotony of travel empties their minds.
+The first snows of autumn smooth the tundra around them,
+turning long gravel eskers into unmoving white waves
+broken here and there by islands of rock too large to yet be covered.
+A solitary speargull parallels their path
+for a time before turning to continue its migration south.
 
-"Walker!" he shouted. "Time to make camp!" The horizon had long since
-covered the dull copper coin that was the autumn sun. They went another
-half-kilometer before Walker stopped, satisfied with the meager
-protection offered by a small hollow in the land. The Anuat stood his
-skis and spears together in the snow as Luft came forward to the sled.
+By unspoken consent Walker stays out front,
+his steady heave, heave, heave on his makeshift skipoles almost hypnotic.
+Seated on the dogsled,
+Argasdottir finally grunts and pulls a small flask from a pocket of her parka.
+She draws the cork with her teeth and slurps the burning liquor.
 
-"Tir's plums, I ache all over." The younger Garheimmen stretched and
-yawned. "Set up the tents, Walker, I'll get the dogs." Argasdottir frowned,
-then relaxed when Walker pulled a small shovel off the sled and began
-scooping out a patch of snow. As the Anuat began to erect their two
-tents Argasdottir planted five stakes in a circle around their camp. He was
-tying a design on them in red cord when he noticed that Walker had
-stopped and was watching him.
+"Walker!" she calls.
+"Time to make camp!"
+The horizon has swallowed the dull copper autumn sun.
+They go another half-kilometer before Walker halts,
+satisfied with the meager protection offered by a slight hollow.
+He stands his skis and spears together in the snow
+as Luft comes forward to the sled.
 
-"Is anything wrong, Walker?" he asked.
+"Fuck a whale, I ache all over."
+The younger Garheimmen stretches and yawns.
+"Set up the tents, I'll look after the elk."
+Argasdottir frowns,
+but relaxes when Walker takes a small shovel from the sled
+and begins thumping a patch of snow to flatten it.
 
-The Anuat scowled. "What is this?"
+As the Anuat begins to erect their tent
+Argasdottir plants five stakes in a circle around their camp.
+She is tying a design on them in red cord
+when she realizes that Walker has stopped work and is watching him.
+"Anything wrong?"
+she asks.
 
-Argasdottir shrugged. "A warding spell. If anyone crosses it during the
-night, or tries to do magic across it, I'll know. Just a precaution."
+The Anuat scowls.
+"What is this?"
 
-The Anuat grunted and went back to work. Argasdottir shrugged again and
-continued his magic.
+Argasdottir shrugs.
+"A warding spell.
+If anyone crosses it during the night,
+it'll wake me up.
+Just a precaution."
+
+The Anuat grunts and goes back to work.
+Argasdottir watches him for a moment,
+then shrugs and goes back to her spell.
 
 ---
 
-"It will be well, my brother. He is not strong, or I would feel him now.
-I do not even think he can do it."
+*"Be at peace, brother.
+She is not strong, or I would feel her now.
+I do not even know if she can do what needs done."*
 
-"Why must I go with them, my brother?" His voice was angry.
+*"Then why must I go with them?"*
 
-"Because you swore an oath, my brother. As your father my brother swore,
-and as your grandfather and his father my brothers all swore." My own
-voice was a whisper. I re-made the wizard's spell once Walker had
-returned to the camp. Somewhere in the night a dog found an unlovely
-smell and mourned.
+*"Because you swore an oath.
+As your father my brother swore,
+and as your grandmother my sister and her father my brother all swore."
+My voice is a whisper.
+I re-make the wizard's spell after Walker returns to the camp.
+Somewhere in the distance a bear smells something it does not like
+and growls unhappily.*
 
 ---
 

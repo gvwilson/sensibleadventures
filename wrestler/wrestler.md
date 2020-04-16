@@ -262,7 +262,8 @@ Another answers it.*
 *"I am not afraid."
 There is a moment's silence.
 "But why must I go with them?
-Laughs-at-Storms says she has made a new blanket."*
+Laughs-at-Storms is sewing a new blanket.
+She says it will be very soft."*
 
 *"You must go with them because I have said you must."
 The elk bleats again.
@@ -388,9 +389,18 @@ and puts his skis onto the snow.
 "The river ice is good from here to the mountains,"
 the Anuat says,
 lashing his pack to the rear of the sled.
+
+"We likely to bump into anyone else?"
+Torvane asks as casually as she can.
+
+Walker shakes his head.
+"No one will be there.
+They will all be east where there are furs.
+Or sewing blankets,"
+he adds with a trace of bitterness.
+
 He moves forward to the sled traces.
 The dogs grumble and snuffle his hands.
-
 "I already checked those," Luft says sharply.
 The Anuat continues to tug and twist the leather straps,
 making minute adjustments and tightening knots.
@@ -480,7 +490,8 @@ and growls unhappily.*
 
 ---
 
-*It was the summer of Saknus's fourth year when he destroyed us.
+*In the summer of Saknus's fourth year,
+he destroyed us.
 When the sun was so strong that it shone all night the Anuat gathered to trade,
 and to arrange marriages and welcome new shamans.
 There was singing and dancing,
@@ -571,100 +582,127 @@ ignoring the spears, rocks, and corpses that lay around his magic circle.
 
 ---
 
-It was their fourth day on the frozen river that Walker found the
-tracks. He was in front, as he had been since they departed, moving at a
-steady tempo, when he suddenly swerved and stopped. The wizard reined in
-the dogs and put his flask back in his pocket.
+Their fourth day on the frozen river,
+Walker finds tracks.
+He is in front,
+as he has been since they departed,
+moving at a steady tempo.
+Suddenly he swerves and stops.
 
-"Hello, then, Walker, what's the problem?" he asked, clambering off the
-sled unsteadily. The Anuat had pulled his feet from his skis and was
-bent nearly double, intent on the snow beneath him. Above them the sky
-was clear and bright, and as cold as a deep sea.
+Torvane reins in the elk and puts her flask back in her pocket.
+"Hoy, what's the problem?" she asks,
+clambering unsteadily off the sled.
 
-"What wrong?" Luft asked, undoing the straps on his skis and stepping up
-beside the older man. Argasdottir shook his head.
+The Anuat pulls his feet from his skis and bends nearly double,
+intent on the snow beneath him.
+Above them the sky is clear, bright, and bitterly cold.
 
-"I don't know, lad. Walker?" The dogs had dropped into the snow panting,
-taking the opportunity to rest. One yipped as another snapped at its
-tail.
+"What wrong?" Luft asks,
+his hand on the hilt of his sword.
 
-The Anuat remained hunched over, walking slowly back and forth. Finally
-Luft said, just loud enough for their guide to hear, "He's probably
-found himself spoor from some flat-faced pig."
+Argasdottir shakes her head.
+"I don't know, lad. Walker?"
+The elk have dropped onto the snow,
+taking the opportunity to rest.
+One snarks as another snaps at its cropped tail.
 
-The Anuat straightened. "Foxtails," he said quietly, still looking down.
-"Bandits. On foot, maybe a hand, maybe more, two days ago. Going north."
-He looked ahead of them, then back at the two Garheimmen.
+The Anuat walks slowly back and forth before straightening up.
+"*Matsheshu*," he says grimly,
+scanning the horizon.
+"Bandits.
+On foot, maybe a hand, maybe more, two days ago.
+Going north."
 
-There was a moment's silence, then Luft spat. "You said nobody was going
-to be around," he taunted. "Bloody raping good guide you've turned out
-to be."
+There is a moment's silence,
+then Luft spits.
+"You said nobody was going to be around," he says accusingly.
+"Bloody fucking useless guide you've turned out to be."
 
-"Luft! Be quiet." The wizard took a deep breath. "Do you think they're
-close, my friend?"
+"Luft! Be quiet."
+The magician takes a deep breath.
+"Do you think they're close?"
 
-The Anuat shook his head. "Two days ago. And there is no hunting, not
-here. They will be gone."
+The Anuat shakes his head.
+"Two days ago.
+There is nothing for them here.
+They will be gone."
 
-There was another moment of silence, then Luft spat again. "Right.
-Bloody right. First nobody's here, and now they're two days gone. I
-suppose we'll be cooking for them tonight, eh?" He sounded as though it
-were a personal triumph.
+Another moment of silence,
+and then Luft spits again.
+"Marvelous.
+Bloody fucking marvelous.
+First nobody's here, and now they're two days gone.
+I suppose we'll be cooking for them tonight, eh?"
+He sounds as though it would be a personal triumph.
 
-"They are two days gone from here." For the first time Argasdottir heard
-emotion in the Anuat's voice. "You will not cook them supper tonight,
-little man." He started to walk back to his skis.
+"They are two days gone."
+For the first time Argasdottir hears anger in the Anuat's voice.
+"You will not cook them supper tonight, little man."
+He starts to walk back to his skis.
 
-"I told you not to call me that, you bloody raping son of a sow!" Luft
-knocked away Argasdottir's arm and strode through the snow. "You bloody
-well apologize, or I'm going to rip your plums off and feed them to the
-dogs!"
+"Fucking sealfucker!"
+Luft knocks Argasdottir's arm out of his way and strides through the snow.
 
-The Anuat stared in the direction they had been travelling. "We will
-keep going north," he said calmly. "It is not wise to rest the dogs
-without feeding them, friend Torvane."
+Walker appears to ignore him.
+"It is not wise to rest the elks without feeding them,"
+he tells Torvane calmly.
 
-"Apologize, you pig!" Luft ran the last two steps and swung roundhouse
-at the guide.
+Luft swings roundhouse at the Anuat.
+Walker brings his spear up out of the snow
+and blocks the punch easily,
+twisting the spear and clubbing Luft in the head.
+The small man goes to one knee and draws his sword as he rises.
+His knit cap lies in the snow,
+revealing a leather and steel helmet on his head.
+He bellows and charges.
+The Anuat reverses his spear and braces himself.
 
-Walker brought his spear up out of the snow as the Garheimmen yelled. He
-blocked the punch easily, twisting the spear and clubbing Luft in the
-head. The smaller man hit the snow and rolled to his feet with his
-shortsword in his hands. His knit cap lay in the snow, revealing a
-leather and steel helmet on his head. He bellowed and charged. The Anuat
-reversed his spear and braced himself.
+A sudden flash blinds them both.
+Someone howls at the magic glare,
+but Argasdottir cannot tell if it is her partner or their guide.
+The elk began barking furiously.
 
-A sudden flash blinded them both. Someone howled at the magic glare, but
-Argasdottir couldn't tell if it was his partner or their guide. The dogs
-began barking furiously.
+When Luft's vision clears he is sitting in the snow,
+his sword still in his hand,
+his head aching.
+Torvane is quieting the elk.
+Walker stands a few meters away with his hands still over his eyes.
 
-When Luft's vision cleared he was sitting in the snow, his sword still
-in his hand, his head aching. He saw the wizard quieting the dogs, and
-the Anuat standing a few meters away with his hands still over his eyes.
+Argasdottir looks up.
+"Serves you right," she says curtly.
+"Walker! Are your eyes all right?"
 
-Argasdottir looked up. "Serves you right," he said shortly. "Walker! Are
-your eyes all right?"
+The Anuat lowers his hands and nods.
+There are tears on his cheeks.
+He looks at Argasdottir for a long instant,
+then stoops to pick up his spear.
+"We have lost time," he says.
+He walks back to his skis and straps them on.
 
-The Anuat slowly lowered his hands, then nodded. There were tears on his
-cheeks. He looked at Argasdottir for a long instant, then stooped to pick
-up his spear. "We have lost time," he said. He walked back to his skis
-slowly.
+"Luft, all right?"
+Torvane helps her partner to his feet.
 
-"Luft, all right?" The wizard helped the other man to his feet. Luft
-spat in the snow.
+Luft shakes her off and spits in the snow.
+"We can do this ourselves,"
+he hisses.
+"Get rid of him now.
+We're going to have to do it anyway."
 
-"We can do this ourselves, I told you. Get rid of him now," he hissed
-urgently. "We're going to have to do it anyway."
+"Shut up, pig-eyes!"
+The magician glanced at Walker,
+then clutches Luft's sleeve and pulls him close.
+"We need him.
+Just think about all that gold and stay out of his fucking way.
+Now get your skis back on.
+The sooner we're through this,
+the better for both of us."
 
-"Shut up, pig-eyes!" The wizard glanced at Walker, then gripped Luft's
-parka and pulled him close. "We need him. Just think about all that gold
-waiting for us, and stay out of his way. Now get your skis back on. The
-sooner we're through this, the better for us both."
+Minutes later the trio is moving north again.
+The magician busies herself with her own dark thoughts.
+Luft curses Walker in dull counterpoint to the steady rhythm of their movement.
+The Anuat pretends not to hear.
 
-Minutes later the trio was moving north again, the sun behind them
-half-hidden by the horizon. The wizard busied himself with his own
-thoughts; Luft cursed the Anuat guide in dull counterpoint to the steady
-rhythm of movement. He spat on the Foxtail tracks as he crossed them.
+---
 
 The mountains were no older than the rest of the world, but they seemed
 stooped beneath ice and snow. The sun was a dull glow in the southeast

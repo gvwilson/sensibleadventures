@@ -480,67 +480,92 @@ and growls unhappily.*
 
 ---
 
-*It was the summer of Saknus's fourth year that he destroyed us. When the
-sun was so strong that it shone all night the Anuat gathered to trade,
-and to arrange marriages and welcome new shamans. There was much singing
-and dancing, and many games as young men tried to impress sceptical
-fathers and giggling girls. Walks-In-Storm, my brother, easily beat the
-other men in the game of spear-throwing and in running. I did not
-compete; I was preparing to receive the scars of a shaman.*
+*It was the summer of Saknus's fourth year when he destroyed us.
+When the sun was so strong that it shone all night the Anuat gathered to trade,
+and to arrange marriages and welcome new shamans.
+There was singing and dancing,
+and many games as young men and women tried to impress sceptical mothers and fathers.
+My brother Walks-In-Storm easily beat the other men in spear-throwing and running.*
 
-*"It will be sad," I said to Saknus one day. "You have no ghosts to
-wrestle. You will never be a shaman."*
+*I did not compete.
+I was preparing to receive the scars of a shaman.
+"It will be sad," I said to Saknus.
+"You have no ghosts to wrestle.
+You will never be a shaman."*
 
-*He smiled. After four years, he still showed his teeth when he did this.
-"Perhaps I will find another way, Holds-On-Too-Long," he said. "The
-stars are such as they have not been in many years. Perhaps I know
-another way." And then he laughed at his joke, and I laughed with him.*
+*He smiled.
+After four years he still showed his teeth when he did this.
+"Perhaps I will find another way, Holds-On-Too-Long," he said.
+"The stars are such as they have not been in many years.
+Perhaps I can find another way."
+And then he laughed and I laughed with him,
+for what did the stars have to do with magic?*
 
-*I went out the next morning across the tundra with my father and two
-other shamans. Things were done, and words spoken, and I returned that
-evening with three long cuts on each cheek, and a tooth from my
-grandmother's grandfather. The magic binding his spirit to that piece of
-bone had faded so much that my father would have broken it and buried
-the pieces, to give the old man his final peace, had I not needed a
-spirit with which to begin practising real wrestling.*
+*I went out the next morning across the tundra
+with my mother and two other shamans.
+Things were done and words were spoken,
+and I returned that evening with three long cuts on each cheek
+and a tooth from my grandmother's father on a thong around my neck.
+The part of him still bound to it
+had faded so much that my mother would have cracked it in two and burned the pieces
+if I had not needed a spirit to practice with.*
 
-*We found people gathered around the field in the center of the camp.
-"The monster is going to show us a new game," my brother told me,
-scowling. On the field Saknus had drawn a great, complicated pattern
-with sand, a star with five points and many circles inside and out, with
-a torch at each point. He waved to us and smiled, and then raised his
-arm into the air.*
+*We came back to find people gathered around the field in the center of the camp.
+"The monster is going to show us a new game,"
+my brother said,
+scowling.*
 
-*Suddenly his hand was covered with flame. The people oohed and aahed
-around us as Saknus brought his hand down to each of the torches in
-turn.*
+*Saknus had drawn a great, complicated pattern on the field with sand,
+a star with five points enclosed in a circle.
+Strange symbols filled the star,
+and torch stakes stood at each of its points.*
 
-*"You said he could not wrestle," Walks-In-Storm accused my father. "How
-does he do this?" My father shook his head.*
+*He waved to us and smiled,
+and then raised his arm into the air.
+Suddenly his hand was covered with flame.*
 
-*All the torches were lit. Saknus let the fire flicker out on his hand,
-closed his eyes, and let hell loose upon us.*
+*People oohed and aahed around us
+as Saknus lit each of the torches in turn.
+"How does he do this?"
+Walks-In-Storm said accusingly to our mother.
+"You said he could not wrestle."
+My mother shook her head.*
 
-*My uncle was standing beside me. He screamed and fell to the ground,
-clawing at his throat. I saw a dim form sitting astride him, one with
-too many arms and smoking holes for eyes, strangling him. There were
-more screams around me.*
+*All the torches were lit.
+The fire flickered out on Saknus's hand.
+He closed his eyes and let hell loose upon us.*
 
-*"He's killing us!" my brother shouted, and threw his spear. It flew
-straight, then faltered and fell to the earth outside Saknus's circle.
-People ran from the field as shaman after shaman fell to the ground.*
+*My uncle was standing beside me.
+He screamed and fell to the ground,
+clawing at his throat.
+I saw a dim form sitting astride him,
+strangling him with its four hands
+while smoke poured from its eyes.*
 
-*I did not flee. Sworn only that day, I was still a shaman. I called the
-one ancestor I had, as the other shamans called all their ancestors, but
-none could batter through the wall Saknus had created. Finally the other
-shamans and many hunters of our people lay dead on the field.*
+*"He's killing us!" my brother shouted as other shamans vomited blood
+or simply collapsed,
+their backs broken.
+He threw his spear.
+It flew straight,
+but faltered and fell to the earth outside Saknus's circle.*
 
-*I stood there with tears on my face, unable even to curse him in my
-rage. He opened his eyes and smiled.*
+*People ran from the field.
+I did not.
+Sworn only that day,
+I was still a shaman.
+I called the one ancestor I had,
+as the other shamans called those whose bones they carried,
+but none could batter through the wall Saknus had created.
+Finally the other shamans and many others of our people
+lay dead on the field.*
 
-*"Holds-On-Too-Long," he greeted me, stepping out of his magic circle as
-though it did not exist, ignoring the spears, rocks, and corpses that
-lay around it. "Good. Very good. You are going to help me now."*
+*I stood there with tears on my face,
+unable even to curse him in my rage.
+He opened his eyes and smiled.*
+
+*"Holds-On-Too-Long," he said approvingly,
+ignoring the spears, rocks, and corpses that lay around his magic circle.
+"Good. Very good. You are going to help me now."*
 
 *Spirit hands closed around my throat.*
 

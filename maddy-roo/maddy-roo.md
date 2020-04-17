@@ -4768,17 +4768,243 @@ stood up---
 as the young goat landed in a heap beside her.
 "Gumption!"
 
-Lasercase picked up the circuit board.
-Somewhere a horn blared.
+Lasercase snatched up the circuit board.
+A bullhorn popped out of a hatch on its back and blared loudly.
 The bots immediately began to retreat,
 but Maddy barely noticed.
 "Gumption! Gumption!"
 
-He coughed and winced.
-"Uhh..."
+He twitched and coughed.
+"Uhh..." he groaned.
 
 "Don't move," she said.
 
-"Don't... worry... about... it..."
-he gasped,
-and then his eyes closed and he went loose-jointed in her arms.
+"Not... much... change... of... that..."
+he gasped.
+His eyes closed and he went loose-jointed in her arms.
+
+"Help us! Help us, please, someone!"
+Maddy cried,
+rocking him back and forth in her arms.
+
+The next thing she knew
+Mama Roo was gently loosening her arms and pulling her to her feet.
+"Let them help him,"
+her mother said as Maddy tried half-heartedly to push her away.
+One of the oxen and a young wolf---Wilbur, Maddy though dazedly,
+his name was Wilbur,
+he was the mayor's grandson---gently placed Gumption on a stretcher.
+
+"He's going to be all right, isn't he?"
+Sindy asked in a very small voice.
+
+Mama Roo squeezed her daughters.
+"They'll fix him up," she promised.
+
+Zeke the bear lumbered over,
+his ax on his shoulder.
+"Wait!"
+Maddy her mother away and stepped between the bear and Dockety.
+"What are you doing?"
+
+The bear hefted his ax.
+"Finishing this one off."
+
+"What? It was *helping* us!
+Didn't you see?"
+Maddy glanced down at Dockety's motionless form.
+A single lonely light blinked on and off in the corner of the screen on its chest.
+It looked like it needed a mechanic just as badly as Gumption needed a doctor,
+but the nearest bot mech was---Maddy didn't even know.
+
+"Don't listen to her,"
+a harsh voice said.
+Bluster came down the steps of the mayor's house and pointed at Dockety accusingly.
+"I saw it talking to the big one, the one that hauled us away.
+We can't trust it!"
+
+"Yeah, and where'd you see that from, 'fraidy toad?"
+Maddy snapped.
+"Upstairs hidin' when everyone else was down here?"
+
+Bluster's paws bunched into fists.
+For a moment Maddy was sure he was going to swing at her,
+but instead he pulled the ax out of Zeke's confused grip.
+"Only good bot is a scrapped bot.
+If you won't fix this, I will."
+He raised the ax,
+took a step forward,
+and tripped as a cobblestone suddenly jutted upward.
+
+"No,"
+Shaper Leaf said.
+The old tortoise could barely stand,
+but his eyes were as bright as Dockety's lasers.
+
+Bluster looked back and forth between the shaper and the bot,
+then spat on the cobblestones,
+thrust the ax back into Zeke's hands,
+then turned and walked away without saying a word.
+
+"Thanks," Maddy said to the shaper,
+helping him sit back down.
+
+Shaper Leaf nodded.
+"What was that thing they took from you?"
+
+Maddy shook her head.
+"I don't know.
+It rebooted the ones back in the bunker,
+but it didn't seem to work on Lasercase."
+
+"They seemed to want it pretty bad,"
+the tortoise said.
+
+Something inside Dockety went *ping*.
+Its chest screen flashed on and off twice.
+Words began to form.
+
+"Are... you... all... right?"
+Maddy ready aloud slowly.
+She knelt down beside the crippled bot.
+"Yes,"
+she said.
+"We're all right.
+I mean,
+mostly,
+I guess."
+She stopped herself from patting the bot's dented plating.
+
+"Not... its... fault..."
+the bot flashed,
+word by painful word.
+
+This time Maddy did pat it.
+"I know.
+You never mind Bluster---he's an idiot."
+
+"No,"
+the bot flashed.
+"Not... Crusher's... fault...
+Regulator... made... it... hit... this... one...
+Not... its... fault..."
+Its screen dimmed,
+leaving only the blinking light.
+
+Shaper Leaf put his arm around Maddy.
+"There is nothing we can do.
+It needs parts, and..."
+The old tortoise shrugged helplessly.
+"We don't have them."
+
+Maddy stood up,
+her jaw set.
+"There's always something we can do."
+
+The bot was heavier than it looked.
+Eventually they had to tilt the trundle cart
+Maddy took from the little alley beside the mayor's house
+so that Zeke could roll Dockety onto it.
+She gave Shaper Leaf a hug and set off for home.
+
+Maddy expected her mother to protest,
+but all Mama Roo said was,
+"I think there's a tarp out back if you want to cover it."
+She and Sindy helped Maddy wrestle Dockety's loose-limbed form up onto the porch.
+The three of them sat in silence,
+Sindy in her mother's lap and Maddy leaning against her shoulder
+as they waited for the kettle to whistle.
+
+*Phweee...*
+Mama Roo slid out from under her younger daughter,
+who grumbled sleepily and curled up into a ball.
+"I'll make tea," Mama Roo said.
+
+Maddy nodded,
+staring at the sketchbook in her lap without really seeing it.
+Tea sounded wonderful.
+It also sounded like a lot of work.
+Her stomach kept rumbling,
+but all she wanted to do was curl up like her sister and sleep and sleep and sleep.
+
+She closed her eyes.
+*Just for a moment,* she told herself.
+She hoped Gumption was all right.
+And Dockety.
+Her breathing slowed.
+
+The sketchbook slid from her hands and hit the porch with a soft thud.
+She blinked and reached for it,
+frowning.
+The thump had knocked a folded piece of paper loose
+from its hiding place inside the back cover.
+She gentled tugged it free and unfolded it.
+
+A chill ran up her spine.
+She stared at the page in front of her,
+then tucked it back into the sketchbook,
+stood up,
+and set it gently on the swing seat.
+"Look after mama,"
+she said softly,
+bending over to kiss her sleeping sister on the cheek.
+
+Mama Roo came out a few minutes later,
+two cups of tea in her hands,
+and frowned.
+"Maddy?
+Where are you?"
+
+Maddy was panting by the time she got back to the square.
+"Wait!" she gasped,
+pulling up short in front of Zeke and panting for breath.
+"I'm---I'm---"
+She pointed at the flying machine the bear had just dumped in a wheelbarrow
+and shook her head vigorously.
+"I'm supposed to take that."
+
+The bear frowned and scratched his muzzle.
+"Nobody told me nothin'."
+
+"Go ask the mayor if you want,"
+Maddy bluffed,
+gesturing vaguely at something behind the big bear.
+
+Zeke shrugged.
+"It's aright with me.
+But you bring the wheelbarrow back, you hear?
+We got a long day in front of us."
+
+Maddy nodded,
+grabbed the wheelbarrow's handles,
+and rolled it down a side street where no one could see her.
+It took her a moment to figure out how to pick up the flying machine---it was
+lighter than she expected,
+but the big rotor turned so easily in her hands that she couldn't get a decent grip.
+
+Finally she had it out and up on top of a rain barrel.
+She tightened the straps as far as they would go
+and slid her arms through them,
+then snapped the belt shut around her waist.
+Taking a tentative step,
+she hefted its weight on her shoulders.
+It was looser than she would have liked,
+but to be honest,
+she didn't like *any* of this.
+
+"Autopilot," she said out loud.
+Nothing happened.
+"Autopilot," she repeated more loudly.
+"Autopilot!"
+
+"Hey, what are you doing?"
+It was Bluster and Bravo,
+the latter carrying his crutches over his shoulder.
+
+Maddy began pressing the buttons on the control panel.
+"Autopilot! Autopilot!"
+Just as Bluster said, "Hey!" again and started toward her,
+a mechanical voice said,
+"Autopilot engaged."
+The rotor began to spin,
+and she shot into the air.

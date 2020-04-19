@@ -5008,3 +5008,170 @@ a mechanical voice said,
 "Autopilot engaged."
 The rotor began to spin,
 and she shot into the air.
+
+## Chapter 15: The Key
+
+Maddy's second flight was just like her first,
+except twice as fast and ten times more frightening.
+It was twice as fast because the flying harness only had to carry her
+instead of two roos and a bot.
+It was ten times as frightening because it was twice as fast
+and she had absolutely no control over where she was going.
+
+"Repeat your most recent trip
+question mark
+yes no
+yes confirmed,"
+the rotor's mechanical voice said
+as they zipped above the treetops.
+"Please avoid unnecessary contact with terrain while in flight."
+
+In one panicked they were back at the highway,
+still accelerating.
+"Slow down! Slow down!" Maddy shouted,
+but the autopilot ignored her.
+They passed the arches and the sphere,
+zoomed over something like a rusty metal flower twice the size of the mayor's house,
+and dropped like a stone.
+
+Maddy screamed.
+She was going to die.
+She was going to die and nobody would ever know and---the
+flying machine revved and came to a stop,
+hovering just a few meters above the ground.
+
+She wasn't going to die,
+at least not yet.
+She fumbled to undo the belt buckle and slid out of the harness.
+She was back in the Mire,
+just a few steps away from the hole they had escaped from just an hour before.
+She had to get back inside,
+but how?
+She couldn't just jump in---the fall would break her legs, or worse.
+*Should have brought a rope,* she thought wearily.
+*Should have done a lot of things.*
+
+"Proximity alert."
+The autopilot's voice made her jump.
+
+"What?"
+
+"Proximity alert," it repeated.
+"Approaching aircraft may violate minimum safe distance recommendations
+evasive maneuvers question mark."
+
+"Um..." Maddy began,
+but the flying harness didn't wait.
+With a high-pitched whine its rotor spun even faster
+and it shot away into the sky.
+"Wait!" she said, but it was too late---the flying machine was gone.
+
+The ground rumbled beneath her feet.
+The hatch they had escaped through grated open.
+She looked around.
+There!
+Two dots, approaching fast.
+She sprinted for the nearest clumb of weeds and threw herself into it.
+
+The dragonfly drones that had dropped dizzysmoke canisters on the village
+arrived just moments later.
+They slowed,
+pivoted,
+and slowly descended through the now-open hatch.
+With another rumble it slid closed.
+Heart sinking,
+Maddy realized there was only one way she could get into the bunker.
+
+The river was easy to find---all she had to do was follow her nose.
+The entrance they had gone through the night before was easy to find too.
+Fresh scrapes on the ground showed
+where the tentacle had snaked out of the water to attack them.
+She gulped.
+There was no sign of it,
+and the bunker door was open.
+Three... two... one...
+
+She sprinted for the door,
+her long flat feet slapping against the mud and grass.
+Fifty meters,
+forty,
+thirty,
+and the river roiled.
+Twenty meters,
+ten,
+and she was at the bunker
+as the mechanical tentacle snaked up the hillside.
+
+She grabbed the lever that Sindy had pulled and yanked down with all her might.
+If Patience had disabled it or locked the door she was doomed.
+"Come on come on come *on*!"
+The inside door began to open.
+Wider, wider---now!
+She scraped through it just as the tentacle grabbed for her ankle.
+
+She stumbled down the first few steps and then doubled over to catch her breath.
+Down the stairs, into the darkness.
+She could do that.
+And anyway,
+what choice did she have now?
+
+The lights came on as before when she reached the corridor.
+If Patience didn't already know she was there,
+it would soon.
+When she reached the hole in the floor she crouched down,
+turned around,
+slid her legs into it,
+and lowered herself as far as she could before letting go.
+*Thump.*
+*Click.*
+More lights,
+more corridor,
+but now she knew where she was going and what to do when she got there.
+
+The control room looked exactly as it had.
+She crossed to the hatch in the wall and knocked on it gently.
+"Hey.
+Are you in there?"
+
+The hatch slid open.
+The little cleaner bot slid partway out and stopped.
+"It's aright," Maddy said gently.
+"It's just me.
+See?
+No one else is here.
+It's safe to come out."
+
+The cleaner bot rolled out hesitantly.
+Maddy smiled at it.
+"Do you have something for me?"
+
+The bot rolled back and forth twice,
+spun around,
+and disappeared back into its hiding place.
+A moment later it reappeared.
+The flap in its top opened
+and its tiny arm handed Maddy a carefully folded square of tinfoil.
+
+Maddy swallowed.
+What if she was wrong?
+"This is really nice," she said.
+"Do you have anything else?"
+
+Into its slot and back.
+This time the bot handed her a necklace made of paper clips.
+"Thank you," Maddy said.
+"But I was hoping you'd have something special.
+Something someone gave you for safekeeping maybe?"
+
+The bot sat motionless.
+"I know," she said softly.
+"It's hard to know what the right thing to do is.
+But I think he would have wanted you to give it to me."
+
+The bot rolled into its hiding place one last time.
+One heartbeat, two...
+It came out and handed Maddy the strangely-shaped key
+that her father had drawn in his sketchbook.
+"Thank you," she said.
+She patted the bot gently.
+"Thank you very much."

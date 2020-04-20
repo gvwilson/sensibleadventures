@@ -256,11 +256,11 @@
     -   Maddy: "No no, I---don't be sorry."  She squeezed her sister's hand.  "You keep doing it."
 -   A voice through speakers: "You are here now. You might as well come and say hello."
 
-## Chapter 9: Patience in Darkness
+## Chapter 9: Patient in Darkness
 
 -   The lights lead them to a control room
 -   A bot decorated with baroque twists of metal, glued-on pictures faded to illegibility, and things Maddy filed away to have nightmares about later
--   "Welcome! This is Patience in Darkness" it proclaims proudly.
+-   "Welcome! This is Patient in Darkness" it proclaims proudly.
 -   When Maddy says, "That's a strange name," it says, "This chose the name itself.  It is an accurate designation of activity.  Observe!"
 -   Lights go out.
     -   Sindy says, "I'm scared."
@@ -268,21 +268,21 @@
 -   Figure out through conversation that they are in a satellite ground station
     -   "Regrettably, the main antenna malfunctioned some time ago."
     -   Dockety: "These did not notice an antenna."
-    -   Patience (pointedly to Maddy): "Does *that* have a proper designation of activity? No? Then its communication is irrelevant."
+    -   Patient (pointedly to Maddy): "Does *that* have a proper designation of activity? No? Then its communication is irrelevant."
     -   Maddy (to break awkward silence): "But---we didn't see an antenna."
-    -   Patience: "Correct.  It took this a great deal of time to improvise an emergency repair protocol. It requires fabrication of precision parts."
-    -   Patience (proudly): "Steps are now being taken.  The Makers will be pleased."
+    -   Patient: "Correct.  It took this a great deal of time to improvise an emergency repair protocol. It requires fabrication of precision parts."
+    -   Patient (proudly): "Steps are now being taken.  The Makers will be pleased."
 -   Sindy starts exploring, looking for a place to sleep
     -   Looks through glass window and sees skeletons
-    -   Patience (dismissively):
+    -   Patient (dismissively):
         "They declined to synchronize with the emergency repair protocol, so they were moved to long-term storage.
         Their components failed shortly thereafter."
--   Realize that Patience is lonely and deranged
+-   Realize that Patient is lonely and deranged
 -   Maddy: "Well, we should, um, leave you to it?  And be going?"
--   Patience: "Oh no.  Leaving is not included in the protocol.  It might put the repairs at risk.  You will remain here."
+-   Patient: "Oh no.  Leaving is not included in the protocol.  It might put the repairs at risk.  You will remain here."
     -   Light comes on: another empty office, identical to the one with the skeletons
-    -   Patience: "Except for that," it added dismissively, waving a manipulator at Dockety.  "That will be recycled."
--   Patience goes to a console and presses buttons
+    -   Patient: "Except for that," it added dismissively, waving a manipulator at Dockety.  "That will be recycled."
+-   Patient goes to a console and presses buttons
 -   A door opens and two bulky service bots enter
 
 ## Chapter 10: Unison
@@ -293,9 +293,9 @@
 -   Sindy: "There aren't any levers to grab!"
 -   Dockety pulls a keyboard off a desk and throws it
     -   Hits one of the service bots
-    -   Patience protests
+    -   Patient protests
     -   The service bot immediately begins to pick up the pieces
-    -   Patience presses more buttons on the console
+    -   Patient presses more buttons on the console
     -   Maddy realizes that the console is controlling the service bots
 -   She grabs a keyboard and throws it at the console
     -   Misses
@@ -308,14 +308,14 @@
     -   Maddy winds up holding the arm
 -   They flee and the door closes
 -   They are briefly in darkness, but then the lights come on again
-    -   Patience: "Where will you go?"
+    -   Patient: "Where will you go?"
     -   Realize that it is watching them through cameras
--   As they explore, Patience keeps talking to them
+-   As they explore, Patient keeps talking to them
     -   Dockety starts echoing its words
     -   Angry, Maddy begins to smash them with Dockety's arm
-    -   Patience: "Please don't do that."
+    -   Patient: "Please don't do that."
     -   Dockety: "Please don't do that." (simultaneous)
--   Patience and Dockety speaking in time with each other
+-   Patient and Dockety speaking in time with each other
     -   Dockety shakes it off, but it recurs
     -   Dockety: "This cannot resist attempts to circumvent integrity for very long."
 -   They reach the hole they almost fell into the previous time
@@ -334,7 +334,7 @@
 
 -   The lower corridor is cold instead of cool
 -   Emergency lights turn on automatically
-    -   Maddy waits to hear Patience's voice, but it doesn't come
+    -   Maddy waits to hear Patient's voice, but it doesn't come
 -   First stop is labeled "Armory #4", which makes her think of Dockety's arm
     -   But inside are canisters with caution labels
 -   Explores a bit until she finds another control room, empty and waiting
@@ -350,7 +350,7 @@
     -   The handwriting is his too
     -   Remembers the skeletons she saw in the control room and is certain that he was brought here and has died
 -   Motion on the screens brings her back to the present
-    -   Maddy realizes that the sentry posts have cameras and that Patience has been watching everything
+    -   Maddy realizes that the sentry posts have cameras and that Patient has been watching everything
     -   Images are black and white (it's night outside)
     -   That's how her father was able to make the drawings: he was watching them the whole time
 -   The posts have microphones as well
@@ -373,14 +373,14 @@
 -   Maddy hurries back to the hole
 -   No response when she first calls up, but when she raises her voice, they answer
     -   Sindy had fallen asleep
-    -   Dockety was in energy conservation mode (which also helps shield it from Patience's control)
+    -   Dockety was in energy conservation mode (which also helps shield it from Patient's control)
 -   Maddy tells them what she has seen
     -   Sindy climbs down
     -   Dockety drops, bounces on his single wheel, says, "Ouch."
     -   Sindy: "Did that hurt?"
     -   Dockety: "This does not feel pain." pause "But this would not actively pursue a repeat."
 -   Maddy leads them to the second control room
-    -   Dockety can't hear Patience's voice
+    -   Dockety can't hear Patient's voice
     -   Dockety finds a recharger (Sindy is jealous: she's extremely hungry)
 -   Maddy and Sindy try to figure out what to do
     -   Maddy jokes again about pulling a lever
@@ -415,22 +415,22 @@
     -   "So many parts.  So many could be repaired."
     -   Waves at some shelves.  "Could rebuild this one entirely.  Could build another like this one."
     -   Reverently: "Batteries..."
--   Lights come on and Patience gloats about knowing where they were going from Dockety's download
+-   Lights come on and Patient gloats about knowing where they were going from Dockety's download
 -   They are ambushed by half a dozen service bots!
 -   Dockety: "Delay them." and begins to fiddle with a strange contraption that looked like a fallen windmill
     -   Dockety: "This was meant for your kind, but with modifications..."
 -   Maddy: "How?" But even as she asked, she had an idea.
     -   She holds up the clear plastic binder: "I found your instructions."
     -   The service bots freeze
-    -   Patience: "Repeat that."
+    -   Patient: "Repeat that."
     -   Maddy: "I found the Makers' instructions.  The ones you *haven't* been following.  They're going to be very disappointed."
-    -   Pause, then Patience: "That is an inaccuracy intended to coerce behavior!"
+    -   Pause, then Patient: "That is an inaccuracy intended to coerce behavior!"
     -   Maddy smiles wickedly, her heart pounding: "You mean a bluff?  Nope."
     -   Sindy shrieks as a manipulator from a stealthy little bot behind her snatches the documents
-    -   Patience: "This is a cleaning roster!"
+    -   Patient: "This is a cleaning roster!"
 -   Maddy finds the bit of electronics in her pocket that she found in the river at the start
     -   Offers to trade
-    -   Patience thinks it's another trick
+    -   Patient thinks it's another trick
     -   As soon as it sees the electronics it says, "Yes. You can have whatever you want. You can go. Relinquish that imediately."
 -   The service bots start to attack
     -   Maddy presses a button on the electronics and the service bots freeze
@@ -440,7 +440,7 @@
     -   Dockety has attached it to its chassis---though it would be more accurate to say it had attached itself to the windmill
 -   Dockety grabs them and flies into the air as the ceiling splits and opens
     -   Centuries of muck and dirt spill into the hangar
-    -   Patience: "That is not authorized!"
+    -   Patient: "That is not authorized!"
     -   Maddy looks back and sees the ecstatic cleaning bot already starting to sweep up
 
 ## Chapter 13: Crash Landing
@@ -561,11 +561,11 @@
     -   The little cleaner bot drives under the front of one of the oncoming bots and wedges itself
 -   She runs back toward the bunker they entered through
     -   More alarms
-    -   Patience speaks to her through the speakers saying it was a miscalculation for her to return
--   Patience's voice behind her: "This is highly irregular."
+    -   Patient speaks to her through the speakers saying it was a miscalculation for her to return
+-   Patient's voice behind her: "This is highly irregular."
     -   It is there with service bots
     -   A noise outside: Crusher and Lasercase have blocked her escape
--   Patience gloats
+-   Patient gloats
     -   "This is why your are inferior.  You do not think ahead because you do not think.  This world will be ours!"
     -   "Ah ha ha ha. Ah ha ha ha."  It actually says that.
 -   Maddy: "Not today."
@@ -588,7 +588,7 @@
     -   Who lets go of Maddy
     -   As the tentacle bashes Lasercase on the ground, Maddy climbs back on Crusher and smashes the drone unit with her rock
     -   This time it breaks
--   Crusher goes after Patience
+-   Crusher goes after Patient
     -   "The door was too small for the bot to get through, so the bot made it larger."
 -   But it can't get into the corridor
     -   Maddy: "The hangar!"
@@ -604,7 +604,7 @@
 -   The good ones are losing
     -   And then a hole suddenly opens up to trap one of them
     -   Shaper Leaf has arrived (FIXME: how?)
--   Patience is carried away by the two flying drones toward Heck
+-   Patient is carried away by the two flying drones toward Heck
 
 ## Chapter 17: The Beginning
 
@@ -667,15 +667,15 @@ is set in that world.
 -   Dockety (fully, "Dockety-One Forty-Bee"): a newly-woken bot
     -   Two legs, a gyro wheel for speed, mis-matched arms, a small screen on its face
         -   Learns to display cartoon facial expressions
-    -   Droned by Patience, accidentally freed
+    -   Droned by Patient, accidentally freed
     -   Doesn't have a proper name yet, but starts to remember that it had one once
 -   Crusher: Dockety's friend
-    -   Also droned by Patience
+    -   Also droned by Patient
     -   Big, slow, and almost indestructible
 -   Lasercase: a bot villain (chief henchbot)
     -   Leads the attacks on the village
-    -   Isn't droned: follows Patience because it's just evil
--   Patience in Darkness: the main bot villain
+    -   Isn't droned: follows Patient because it's just evil
+-   Patient in Darkness: the main bot villain
 
 ## Places
 

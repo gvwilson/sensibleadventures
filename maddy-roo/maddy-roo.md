@@ -5103,20 +5103,20 @@ and she was at the bunker
 as the mechanical tentacle snaked up the hillside.
 
 She grabbed the lever that Sindy had pulled and yanked down with all her might.
-If Patience had disabled it or locked the door she was doomed.
+If Patient had disabled it or locked the door she was doomed.
 "Come on come on come *on*!"
 The inside door began to open.
 Wider, wider---now!
 She scraped through it just as the tentacle grabbed for her ankle.
 
-She stumbled down the first few steps and then doubled over to catch her breath.
+She stumbled down the first few steps and doubled over to catch her breath.
 Down the stairs, into the darkness.
 She could do that.
 And anyway,
 what choice did she have now?
 
 The lights came on as before when she reached the corridor.
-If Patience didn't already know she was there,
+If Patient didn't already know she was there,
 it would soon.
 When she reached the hole in the floor she crouched down,
 turned around,
@@ -5175,3 +5175,189 @@ that her father had drawn in his sketchbook.
 "Thank you," she said.
 She patted the bot gently.
 "Thank you very much."
+It rocked back and forth a couple of times
+before disappearing back into its den.
+
+Maddy's adventure nearly ended a few moments later.
+She carried a chair from the control room back to the hole and stood on it,
+but it didn't get her high enough,
+so she cleared stuff off a small table and dragged it into the corridor as well.
+Grunting,
+she got the chair up onto it---
+
+---and whirled around as the lights finally came on
+and Patient's voice crackled,
+"There you are!"
+as a blocky service bot rolled down the corridor toward her.
+No---two service bots,
+one coming from each direction.
+She was trapped between them!
+
+She scrambled onto the table as the first service bot grabbed at her.
+"Whoa!" she exclaimed as she lost her balance
+and half-fell, half-jumped back onto the floor
+on the other side of the table.
+
+The second bot was waiting for her.
+It reached for her clumsily,
+driving her back against the table.
+She ducked and slid under it.
+
+The first bot gripped the table with its blunt mechanical hands and lifted it.
+The second rolled forward.
+She had nowhere to go!
+
+But none of them had counted on the little cleaner.
+It zipped past the first service bot's treads
+and skidded to a stop right in front of the second one.
+
+The second service bot froze.
+An orange light blinked on its shoulder.
+A high-pitched *beep beep beep* noise came from somewhere inside it
+as it backed up and tried to roll forward again.
+As quick as a startled rabbit,
+the cleaner bot rolled in front of it again.
+
+Without thinking
+(because if she thought about it she wouldn't dare do it)
+Maddy ran at the first bot and *jumped*.
+Her feet thumped against its chest.
+Up she went onto the table.
+*Thump* and she jumped again.
+"Ooph!"
+She scrabbled for purchase
+and somehow managed to pull herself back up into the corridor.
+
+"This is not authorized,"
+Patient crackled over the speakers.
+Maddy made a rude gesture at the empty air
+as she raced back toward the bunker entrance.
+"And *that* is not *protocol*."
+
+The lights went out,
+but she had expected that.
+She turned on Dockety's chest light and slowed to a jog.
+One of her feet hurt with every step,
+and she needed a bathroom.
+*Are real adventures always like this?* she wondered giddily.
+Did the people in the books she borrowed from Shaper Leaf
+wonder they'd torn a hole in their sleeve
+and worry about whether they'd be able to sew it up?
+
+She reached the stairs.
+Up, up, and up,
+back to the half-open door.
+She paused to take a deep breath.
+The tentacle would probably be waiting.
+She hefted Dockety's light.
+"Sorry about this," she muttered.
+
+With another deep breath she squeezed through the door
+and tossed the light underhand across the room.
+A long, dark shape thrashed after it.
+
+Barely able to see in the dim light that came through the other door
+she groped along the wall.
+The picture tucked into her father's sketchbook had been been very clear.
+Not the first lever,
+not the second---there!
+The third one---that was the one she needed.
+She pushed the key into the slot beside the lever,
+turned it,
+and pulled down on the lever as hard as she could.
+
+*Scrraaaaape.*
+It jammed halfway.
+"Oh, come *on*," she said in exasperation.
+She glanced over her shoulder.
+The tentacle was rising from the remains of Dockety's chest light like a cobra
+and turning toward her.
+
+She grabbed the lever with both hands and pushed it down the rest of the way with all her might.
+*Scrraaaaape.*
+The lever locked into position.
+
+A dim orange light came on overhead.
+"Shecuridy shyshdem dishengaged,"
+a muffled automated voice said.
+
+Maddy held her breath.
+The tentacle froze,
+then relaxed back onto the ground
+and slithered back through the door.
+She sagged against the wall and wiped a tear from her cheek.
+
+"This is highly irregular,"
+Patient's voice said reprovingly.
+
+"Tell it to the Makers," Maddy grumbled,
+clambering back to her feet.
+
+"The Makers will never know this happened,"
+Patient gloated.
+Maddy had never heard a bot gloat before.
+It wasn't a pleasant sound.
+"By the time they return,
+all trace of this will have been erased.
+All irregularities will have been regularized!"
+
+"And everyone will get an extra big piece of chocolate on New Year's Eve,"
+Maddy said sarcastically.
+
+"Chocolate is not protocol,"
+Patient said angrily,
+its patience finally exhausted.
+"Your activities are not protocol.
+You will cease immediately!"
+
+"Oh yeah?"
+Maddy shot back.
+"Why don't you come in here and make me?"
+
+"That is an excellent plan."
+Two enormous mechanical hands took hold of the outer doorway and pulled.
+Concrete blocks snapped like over-baked cookies.
+The hands swung from side to side,
+sending scraps of concrete flying as they bashed the hole wider.
+
+"That is sufficient," Patient said,
+except this time its voice didn't come through the speaker in the roof.
+It stood on the ground outside the bunker beside Crusher.
+Lasercase stood on the big hauler's other side,
+its tentacles twisting this way and that
+like miniaturized versions of the security system.
+Half a dozen other bots stood in a half-circle behind the trio,
+whirling blades and drills and sharp-fingered mechanical hands at the ready.
+
+"You did not expect to see us,"
+Patient said flatly.
+"This is why the Makers left *us* the world.
+You do not plan.
+You do not anticipate contingencies.
+You do not think ahead because you do not think.
+This is why the world will belong to us.
+Ah ha ha ha.
+Ah ha ha ha."
+
+Maddy winced.
+The bot was actually saying, "Ah ha ha ha," over and over again.
+"Anyone ever tell you that you have the *worst* laugh?"
+she asked.
+
+Patient's laughter stopped.
+"Finish this," it ordered.
+Crusher, Lasercase, and the others began to roll forward.
+
+Maddy smiled her fiercest smile.
+"Speaking of planning," she said,
+and then she spun around and pulled the other two levers down as far as they would go.
+
+The orange light overhead flickered.
+"Rebooding nedworg," the automated voice.
+
+The little light on Crusher's regular went out.
+The little lights on *all* of the bots' regulators went out.
+The big crusher tilted its sensors to look at the regular,
+then raised a hand and smashed it with a single blow.
+
+"This...this is not protocol," Patient said weakly.

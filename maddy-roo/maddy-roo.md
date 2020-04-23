@@ -4609,7 +4609,7 @@ dizzysmoke still pouring out of one end.
 *Clunk!*
 She brought her hammer down on the nozzle,
 raised it for another blow,
-and then sat down suddenly.
+then sat down suddenly.
 "I..." she said, puzzled.
 Her eyes rolled up and she toppled over.
 
@@ -5350,14 +5350,146 @@ Crusher, Lasercase, and the others began to roll forward.
 
 Maddy smiled her fiercest smile.
 "Speaking of planning," she said,
-and then she spun around and pulled the other two levers down as far as they would go.
+and she spun around and pulled the other two levers down as far as they would go.
 
 The orange light overhead flickered.
-"Rebooding nedworg," the automated voice.
+"Rebooding nedwork," the automated voice.
 
 The little light on Crusher's regular went out.
 The little lights on *all* of the bots' regulators went out.
-The big crusher tilted its sensors to look at the regular,
-then raised a hand and smashed it with a single blow.
 
-"This...this is not protocol," Patient said weakly.
+## Chapter 16: The Battle of the Bots
+
+Maddy charged the bots with a yell.
+*Jump* and she was over Patient.
+*Jump* and she was up on Crusher's tread,
+rock in hand.
+She hit the regular over and over,
+grunting with each blow.
+If her father's notes were correct,
+she only had a few seconds until---
+
+*Ding!*
+A chime sounded somewhere inside Crusher.
+*Ding! Ding! Ding!*
+A chorus of chimes rang inside the other bots.
+Maddy froze,
+rock upraised.
+"Uh oh."
+
+"Ah ha ha ha!"
+Patient said triumphantly as Crusher's engines began to rumble.
+"Your strategy has proven ineffective!"
+
+The big bot reached for her.
+She dodged left, then right,
+easily ducking its big, clumsy arms.
+
+The bot began rocking from side to side to shake her off.
+"Remove her! Disassemble her!" Patient ordered.
+Lasercase scuttled forward,
+its tentacles snapping at her.
+
+"Wait! Stop!"
+Maddy said desperately.
+"I can free you!"
+
+"I *am* free!" Lasercase buzzed.
+As one tentacle whipped past her head,
+another grabbed her ankle.
+She hit it with her rock,
+but couldn't even make a dent.
+
+And then the tentacle from the river raised itself out of the grass
+and slapped down on Lasercase
+like a flyswatter once, twice, again.
+The bot let go of Maddy and raised its own smaller tentacles to defend itself.
+The big tentacle brushed them aside contemptuously and wrapped around Lasercase's middle.
+"Assistance! Assistance!" Lasercase blared
+as the tentacle dragged it toward the river.
+
+That was all Maddy needed.
+She scrambled back onto Crusher and struck the regulator with all her might.
+"Come on come on come *on*!"
+A lucky blow dented its case just enough for a screw to come loose.
+She pried the black case open and smashed the electronics inside.
+Sparks flew,
+and the light on the regulator went out.
+
+Crusher tilted its sensors to look at the regulator,
+then turned them toward Patient.
+Its engines rumbled menacingly.
+"This is not protocol," Patient said uncertainly,
+backing away.
+"Defend! Defend!"
+
+One of the other bots stepped between Crusher and Patient.
+The big hauler picked it up and tossed it aside.
+A second was knocked out of the way.
+"Withdraw!"
+Patient rolled back into the bunker as the other bots fled in all directions.
+
+The bunker door was still too small for Crusher,
+so the bot made it larger.
+Maddy hopped off its back and followed it into the room.
+"Ow! Ow! Ow!" she heard as Patient bumped its way down the stairs.
+
+She slapped the big bot's side to get its attention.
+"You can't fit in there.
+We'll have to find another way---whoa!"
+Crusher picked her up with one enormous manipulator
+and placed her gently on its back.
+Engines rumbling,
+it backed out of the broken bunker,
+turned,
+and drove up the hill toward the opening the flying bots had used.
+
+They crested the hill and drove straight into chaos.
+In the few moments when the network was down,
+a dozen bots had managed to break their own regulators.
+Others hadn't been so quick,
+or strong enough,
+or just couldn't reach.
+They were now back under Patient's control,
+and the two sides were at war.
+
+A loader with four sturdy legs locked forklift arms with a crane bot,
+trying to topple it over.
+Beside them a pair of maintenance bots tried
+to trap a nimble little ladder bot between them
+while the ladder bot tried to get a grip on their regulators.
+The dragonfly bots that had dropped dizzysmoke on the village zipped and buzzed angrily overhead,
+each trying to get above the other so it could grab hold of its opponent's wings.
+A dozen other fights clanged and scraped around them.
+The free bots were fighting bravely,
+but they were outnumbered and uncoordinated.
+
+Outnumbered,
+that is,
+until Crusher rumbled into the fight.
+It flipped the loader bot over with one arm and smashed its regulator with a single blow.
+When the maintenance bots turned to face it,
+the ladder bot seized its chance and pried the regulator off one of them.
+"Uh oh uh oh" flashed the second one's chest screen.
+Crusher caught it as it tried to run away
+and smashed its regulator too.
+
+Maddy whooped.
+They were winning!
+Patient's bots were retreating!
+
+*Crash!*
+One of the dragonfly bots hit the ground beside Crusher,
+its wings bent out of shape.
+The other flier nose-dived through the open hatch in the ground.
+"No! Wait!" Maddy shouted as Crusher rolled toward the opening.
+"It won't take your weight!"
+
+The hauler halted.
+Maddy hopped off,
+then yelped and ducked as the flying bot rocketed back into the air
+with Patient clutched to its underbelly.
+"Stop it!" Maddy yelled,
+but it was too late.
+None of the other bots could fly,
+and Patient was already just a dwindling speck on its way to Heck.

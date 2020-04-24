@@ -5518,3 +5518,124 @@ with Patient clutched to its underbelly.
 but it was too late.
 None of the other bots could fly,
 and Patient was already just a dwindling speck on its way to Heck.
+
+*Three days later...*
+
+Shaper Leaf carefully set his tea on the porch railing and sighed.
+"Your father was very clever," he said.
+
+Maddy nodded.
+Her father's notebook lay in her lap,
+the all-important note tucked back in place.
+"I just can't stop thinking about him figuring it all out
+and then not being able to get to the controls from the inside."
+
+"A difficult puzzle," Dockety agreed.
+It had tried sitting on the porch bench,
+but declared that it felt more natural standing.
+And anyway,
+if Crusher tried to join them it would bring the whole porch crashing down.
+The other bots had mended all its dents and reattached its arm properly,
+but it had decided that it liked the buzz in its voice.
+Or rather,
+that Crusher liked it,
+which turned out to be more important.
+Maddy still wasn't sure exactly how that worked,
+but as long as the bots were happy together...
+
+Maddy ruffled the fur on her sister's head.
+"So it all came down to you grabbing the right lever at the right time,"
+she said fondly.
+
+"Speakig of which," Shaper Leaf said,
+pulling a small drawstring bag out of his pocket.
+"Mind if we try an experiment?"
+He opened the bag to let three dice roll onto the tea table.
+
+"What are these for?" Sindy asked.
+
+"It's a game," the shaper said.
+"See how many tries it takes you to roll three sixes."
+
+Sindy shrugged.
+"Aright."
+She rolled the dice,
+then rolled them again and a third time.
+Ones and threes and fours came up,
+but no sixes.
+Again and again---one six, but never all three.
+
+Mama Roo came around the corner of the house with a basket full of freshly-picked blueberries.
+"What are you---whoops!"
+She tripped and nearly fell as a bump suddenly appeared in the ground.
+The basket of blueberries flew threw the air to land on one of Crusher's treads
+without spilling a single berry.
+
+"Well what are the odds?" she said,
+straightening up and glaring at the ground.
+"Shaper, was that you?"
+
+"It was, and I apologize,"
+the old tortoise said,
+taking the dice from Sindy and returning them to their bag.
+"But it turns out that a lot of young shapers can't use their power if they think about it.
+It just has to happen."
+He picked up his tea and looked over the rim of the cup at Sindy.
+
+The young roo blinked.
+"What? I mean, pardon me?"
+
+The tortoise sipped his tea and set the cup back down.
+"You're a shaper, Miz Roo," he said,
+quiet but excited.
+"You're a luck shaper,
+and that's the rarest kind of shaper there is."
+
+"She's a---"  "What---"  "*Sindy*?"
+Mother and daughters all started speaking at once.
+
+"Plausible," Dockety buzzed.
+"Improbable events have occurred with surprising frequency."
+
+"You will need training," Shaper Leaf went on.
+"Lots of training, and lots of practice.
+But for now, let's just keep this to ourselves."
+
+"I'm a *shaper*?"
+Sindy said wonderingly.
+
+Maddy hugged her.
+"Always knew you were special," she said into her sister's ear.
+
+"Well, this calls for a toast," Mama Roo said,
+setting the blueberries down on the table.
+She went into the house and emerged a moment later with a bottle of sweet peach juice in one hand,
+four glasses in the other,
+and a small rectangle tucked under her arm.
+She passed the glasses around
+(apologizing to the bots for not bring them any),
+set the bottle on the table,
+and then hesitated.
+
+"He would have been so proud of you both,"
+she said quietly
+before setting the portrait of Papa Roo on the table.
+
+Dockety reached for it.
+"Who is this one?" it asked.
+
+"That's my dad," Maddy said proudly.
+
+Dockety studied the picture,
+then turned to show it to Crusher.
+The big bot tilted its sensors to study it,
+then flashed, "Confirmed."
+
+Dockety turned back to the roos.
+"We have seen this one,"
+it said.
+"It is in Heck."
+
+<center>
+<em>To be continued...</em>
+</center>

@@ -5384,12 +5384,11 @@ Patient said triumphantly as Crusher's engines began to rumble.
 The big bot reached for her.
 She dodged left, then right,
 easily ducking its big, clumsy arms.
-
 The bot began rocking from side to side to shake her off.
 "Remove her! Disassemble her!" Patient ordered.
+
 Lasercase scuttled forward,
 its tentacles snapping at her.
-
 "Wait! Stop!"
 Maddy said desperately.
 "I can free you!"
@@ -5403,13 +5402,39 @@ but couldn't even make a dent.
 And then the tentacle from the river raised itself out of the grass
 and slapped down on Lasercase
 like a flyswatter once, twice, again.
-The bot let go of Maddy and raised its own smaller tentacles to defend itself.
+The bot raised three of its own smaller tentacles to defend itself.
 The big tentacle brushed them aside contemptuously and wrapped around Lasercase's middle.
 "Assistance! Assistance!" Lasercase blared
 as the tentacle dragged it toward the river.
 
-That was all Maddy needed.
-She scrambled back onto Crusher and struck the regulator with all her might.
+"Let go!" Maddy shouted,
+kicking at Lasercase as she was dragged along with it.
+"Let goooo---oh no!"
+A second metal tentacle rose out of the river,
+soggy weeds dropping from it,
+then a third.
+
+"Flee! Flee!" Patient squawked.
+The bots around Maddy didn't have to be told twice.
+They rolled, they ran, they wheeled, and they trundled,
+all except Crusher.
+The big hauler raced its engines and raised its arms.
+
+But the tentacles ignored it and the other bots.
+They wrapped around Lasercase and lifted it high.
+Maddy fell to the ground with an "ooph!" as the bot finally let go of her.
+It tugged at the tentacles,
+trying to free itself as it was carried down to the river,
+then stopped suddenly.
+"Mother?" it said disbelievingly,
+and then it and the tentacles disappeared into the river.
+
+Maddy stood up.
+"Well, I didn't see *that* coming,"
+she muttered.
+She snatched up the rock she had dropped,
+scrambled back onto Crusher,
+and struck the regulator with all her might.
 "Come on come on come *on*!"
 A lucky blow dented its case just enough for a screw to come loose.
 She pried the black case open and smashed the electronics inside.

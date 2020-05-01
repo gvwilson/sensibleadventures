@@ -208,53 +208,139 @@ but every trail ended in "not found" or a blinking, blood-red "restricted".
 After a couple of those she had stopped looking,
 afraid of who or what might notice.
 
-<!-- HERE -->
+"Girl! Girl! *Wang ba*, wife, where's that affin' girl?"
+Iffy jumped as Uncle Jack's bellowed from below deck.
+He had been out with his biffs the night before,
+which was Uncle Jack-speak for drinking more than he could handle
+and gambling more than they could afford.
+Aunt Naggie somehow managed to winkle enough out of his phone while he was snoring to keep the *Guinevere* afloat,
+but it had been weeks since they'd had fresh fruit,
+and she couldn't remember the last time there had even been mention of new clothes
+or of replacing their frayed dredging nets.
 
-"Girl! Girl! *Wang ba*, wife, where's that affin' girl now?" Iffy jumped as Uncle Jack's bellowed from below deck. He had been out with his biffs the night before, which was Uncle Jack-speak for drinking more than he could handle and gambling more than he could afford to. Aunt Naggie somehow managed to winkle enough out of his phone while he was snoring to keep the *Guinevere* afloat, but it had been weeks since they'd had fresh fruit, and she couldn't remember the last time there had even been mention of new clothes or of replacing their frayed dredging nets.
+"Girl!" Uncle Jack shouted again.
+"Get your affin' tail down here *now* or saints help me you'll be scrapin' barnacles for a *week*!"
+She heard a meaty *thud!* as he slapped the bulkhead with his hand for emphasis.
 
-"Girl!" Uncle Jack shouted again. "Get your affin' tail down here *now* or saints help me you'll be scrapin' barnacles for a *week*!" She heard a meaty *thud!* as he slapped the bulkhead with his hand for emphasis.
+With one last longing look at the distant machine shop,
+Iffy lifted the hatch beside her and scrambled down the ladder.
+"I'm right here, Uncle Jack," she said breathlessly. "I was just---"
 
-With one last longing look at the distant machine shop, Iffy lifted the hatch beside her and scrambled down the ladder. "I'm right here, Uncle Jack," she said breathlessly. "I was just---"
+"You were just lying about like some fairytale princess, and don't try tell me otherways!"
+The *Guinevere*'s captain glared up at her,
+squinting as the bright sky framing her head assaulted his hungover eyes.
+There was a bruise on his forehead that hadn't been there at dinner, Iffy noticed.
+That might mean a visit from the Marines later.
+He'd scowl and mutter and make excuses to them,
+then bluster to Aunt Naggie after they were gone
+about how the governor was just a meat puppet
+and how the town's cores were going to sell them all out to the Zillions
+as soon as they could get a decent price.
 
-"You were just lying about like some fairytale princess, and don't try tell me otherways!" The *Guinevere*'s captain glared up at her, squinting as the bright sky framing her head assaulted his hungover eyes. There was a bruise on his forehead that hadn't been there at dinner, Iffy noticed. That might mean a visit from the Marines later. He'd scowl and mutter and make excuses to them, then bluster to Aunt Naggie after they were gone about how the governor was just a meat puppet and how the core was going to sell them all out to the Zillions as soon as it could get a decent price.
+"Your eggs'll be ready in a mo," Aunt Naggie cut in hurriedly
+as Uncle Jack opened his mouth to unleash another bellow.
+"Do you want a bit of curry on them?
+I think I have---no, wait, not there..."
+She rummaged nervously among the precious little glass jars
+that sat on the shelf beside the galley's little two-loop stove.
 
-"Your eggs'll be ready in a mo," Aunt Naggie cut in hurriedly as Uncle Jack opened his mouth to unleash another bellow. "Do you want a bit of curry on them? I think I have a some--- No, wait, not there..." She rummaged nervously among the precious little glass jars that sat on the shelf beside the galley's little two-loop stove.
+"Affin' right I want a bit of curry," Uncle Jack grumbled,
+settling into a fold-up chair that squeaked under his weight.
 
-"Affin' right I want curry," Uncle Jack grumbled, leaning back on a fold-up chair that squeaked under his weight.
+Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils.
+With a tilt of her frying pan and a single practiced flip of her spatula,
+Aunt Naggie slid two perfectly fried eggs into Uncle Jack's bowl.
+Without so much as a grunt of acknowledgment,
+he took the entire basket of naan from the center of table in one hand
+and his plate with the other
+and disappeared back into his cabin.
+As the door closed,
+Iffy heard glass clink and something gurgle out of a bottle.
 
-Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nostrils. With a tilt of her frying pan and a single practiced flip of her spatula, Aunt Naggie slid two perfectly fried eggs into Uncle Jack's bowl. Without so much as a grunt of acknowledgment, he took the entire basket of naan from the center of table in one hand and his plate with the other and disappeared back into his cabin. Iffy heard glass clink and something gurgle out of a bottle even before the door closed.
-
-Aunt Naggie let out the breath she'd been holding and smiled at her foster daughter. "You'll be hungry then?"
+Aunt Naggie let out the breath she'd been holding
+and smiled at her foster daughter.
+"You'll be hungry then?"
 
 "Not really," Iffy lied.
 
-"Course not. Here." She pulled a hard-boiled egg out of the pocket of her apron and slipped it to Iffy. "And here, this too." A piece of perfectly-browned naan, still warm and slightly sticky with oil, appeared out of another pocket in Aunt Naggie's apron.
+"Course not. Here."
+She pulled a hard-boiled egg out of the pocket of her apron and slipped it to Iffy.
+"And here, this too."
+A piece of perfectly-browned naan,
+still warm and slightly sticky with oil,
+appeared out of another pocket.
 
-"Thanks auntie," Iffy said gratefully. "You eaten already?"
+"Thanks auntie," Iffy said gratefully.
+"You eaten already?"
 
-"Course, first thing," Aunt Naggie lied in turn. She tousled Iffy's hair. "You'd best get that in you quickly and start work on that winch cable he's after having tightened. And he says the engine's got a knock in it again---best have a look at that too before it starts to bother him." 
+"Course, first thing," Aunt Naggie lied in turn.
+She tousled Iffy's hair.
+"You'd best get that in you quickly and start work on that winch cable he's after having tightened.
+And he says the engine's got a knock in it again---best have a look at that too before it starts to bother him." 
 
-"It's the reciprocating rod," Iffy said around a mouthful of warm naan. "Mr. Mishra will straighten it out if I take it in before he gets busy. It won't cost anything," she added hastily before her foster mother could object. "Not if I do a couple of odd jobs for him."
+"It's the reciprocating rod," Iffy said around a mouthful of fluffy naan.
+"Mr. Mishra will straighten it out if I take it in before he gets busy.
+It won't cost anything,"
+she added hastily before her foster mother could object.
+"Not if I do a couple of odd jobs for him."
 
-Aunt Naggie nodded. "If you say so. Can you stop in at Sandhu's and see what they want for eggs?" she added as Iffy turned to go back on deck. "Those were our last ones. I'll tell Jack you're off doing chores once he's..." She finished her sentence with an apologetic shrug.
+Aunt Naggie nodded.
+"If you say so.
+Can you stop in at Sandhu's and see what they want for eggs?"
+she added as Iffy turned back toward the ladder.
+"Those were our last ones.
+I'll tell Jack you're off doing chores once he's..."
+She finished her sentence with an apologetic shrug.
 
-"Thanks auntie," Iffy said gratefully. She climbed the ladder and hurried aft as quietly as she could, praying that the sound of her boots on the deck wouldn't draw attention.
+"Thanks auntie," Iffy said gratefully.
+She climbed the ladder and hurried aft as quietly as she could,
+praying that the sound of her boots on the deck wouldn't draw attention.
 
-The ship's toolbox rattled as she dragged it out from under the bench by the stern of the boat. Its cast-offs and hand-me-downs contained only those items so essential that even Uncle Jack couldn't afford to sell them. After a furtive glance over her shoulder, she reached up under the bench and unclipped the canvas bag that held *her* tools, the ones she had salvaged and mended or been given in return for doing odd jobs for people around the harbor. She pushed the toolbox back into place and tucked her toolbag under her coat.
+The ship's toolbox rattled as she dragged it out from under the bench at the *Guinevere*'s stern.
+Its cast-offs and hand-me-downs included only those tools so essential that even Uncle Jack couldn't afford to sell them.
+After a furtive glance over her shoulder,
+she reached up under the bench and unclipped the canvas bag that held *her* tools,
+the ones she had salvaged and mended or been given in return for doing odd jobs for people around the harbor.
+She pushed the toolbox back into place and tucked her toolbag under her coat.
 
-It only took her a few moments to disengage the bent rod from the engine and tuck it into a pocket. She closed the engine casing and hurried down the gangplank. The weight of life on the *Guinevere* lifted from her shoulders as soon as her boots hit the pier.
+It only took her a few moments to disengage the bent rod from the engine and tuck it into a pocket.
+She closed the engine casing as gently as she could and hurried down the gangplank,
+the weight of life on the *Guinevere* lifting from her shoulders
+as soon as her boots hit the pier.
 
-The Antarctic summer didn't have days or nights, but ships and people still kept clock time. A pair of old women were awake early to scrape gene-tweaked barnacles off long strips of plastic they had hung off the piers months before. Hundreds of little shells glittered with tiny particles of metal they had filtered out of the water. Ground down and incinerated, they would yield a few grams of copper or manganese that could keep some old piece of tech limping along for another season.
+The Antarctic summer didn't have days or nights,
+but ships and people kept to clock time as best they could.
+A pair of old women were awake early
+to scrape gene-tweaked barnacles off long strips of plastic they had hung off the piers months before.
+Hundreds of little shells glittered with tiny particles of metal they had filtered out of the water.
+Ground down and incinerated,
+they would yield a few grams of copper or manganese
+that could keep some old piece of tech limping along for another season.
 
-One of the women straightened and raised a hand in greeting as Iffy went by. "Beautiful day," she said. "You heading into town?"
+One of the women straightened and raised a hand in greeting as Iffy went by.
+"Beautiful day," she said. "You heading into town?"
 
-"Sure am," Iffy agreed, not wanting to slow down for a conversation.
+"Sure am," Iffy nodded,
+not wanting to slow down for a conversation.
 
-The old woman nodded. "You mind you be careful, aye? The *Taroona* came in yesterday, and them pirates been bustin' up ever since."
+The old woman nodded back.
+"You mind you be careful, aye?
+The *Taroona* came in yesterday,
+and them pirates been bustin' up ever since."
 
-"Thanks," Iffy said dutifully. The old woman smiled and bent back to her work, the silvery tech under her thinning hair glinting in the sun.
+"Thanks," Iffy said dutifully.
+The old woman smiled and bent back to her strips and buckets.
 
-The teens at the head of the pier arguing over how best to hang up a net for mending glanced at her as she went by but didn't say anything. Iffy didn't expect them to. *At least they aren't crossing their fingers and spitting,* she thought. Sailors were superstitious, and she was a sole survivor. People didn't look at her sidelong like they had when the loss of her family's ship was still fresh, but old habits died hard. Whenever she ventured into one of Halley's cafés, she made sure to find a seat in the corner and keep her head down.
+The teens at the head of the pier arguing over how best to hang up a net for mending
+glanced at her as she went by but didn't say anything.
+Iffy didn't expect them to.
+*At least they don't cross their fingers and spit,* she thought,
+remembering the first time she tried to make friends in town.
+Sailors were superstitious, and she was a sole survivor.
+Nobody looked at her sidelong and whispered
+like they had when the loss of her family's ship was still fresh,
+but she had learned the hard way that
+friends were something that mostly happened to other people.
 
 *Mishra & Co Fine Technical Work - No Job Too Small!* occupied a long shed that looked like it might be the oldest building in Halley. The sliding door that took up half its front wall wasn't open yet, so Iffy banged on the smaller door cut into it.
 

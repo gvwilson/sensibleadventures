@@ -7,7 +7,7 @@ permalink: /cloudherd/
 
 ## Chapter 1
 
-*Consider Yearn.
+*Consider Cherne.
 A diamond adrift in the heavens,
 it measures eight thousand gallops from north to south
 and six thousand from east to west.
@@ -15,7 +15,7 @@ Its single continent is surrounded on all sides by a great ocean
 whose outer shore, the Worldrim, is an unbroken range of mountains
 whose peaks tower above even the highest-flying cloud.*
 
-*Yearn's history began with the Pilots,
+*Cherne's history began with the Pilots,
 and nearly ended with them as well.
 Powerful and inhuman,
 they destroyed themselves in a war
@@ -312,7 +312,7 @@ The villagers' two-story wooden houses sheltered inside the walls like ducklings
 thin licks of smoke rising from their slate chimneys.
 Narrow streets wound between camel pens, vegetable plots, and racks laden with drying spiderwebs,
 and even from a distance Noxy could hear
-the soft musical clang of the wind chimes that hung by every door.
+the soft musical clang of the windchimes that hung by every door.
 
 To the west the fortress wall dropped straight into a steep-sided gorge.
 A net woven from spider thread stretched over its top,
@@ -361,7 +361,7 @@ and even from five strides below it Noxy could see the long hairless scar that r
 Something twinged in the back of her head like the start of one of her headaches.
 For a moment it was as if *she* was in the tree looking down at herself.
 
-A sudden roar broke the stillness.
+A roar broke the stillness.
 The gray troll hooted and vanished into the forest.
 Noxy and Sensy let out long shaky breaths---
 
@@ -567,293 +567,378 @@ She raised a hand to cut Aft off before he could speak again.
 Right now there's folk in trouble,
 and I won't have it said that we ever turned our backs on those that needed us."
 
-Granna Fee clapped twice,
-then waited for Indy to nod at her before speaking.
-"What about the *tralpa*?
-I expect he'll have something to say about us helping rebels."
+The next five minutes were chaos.
+Out of the question, Aft said emphatically.
+The *tralpa* might look the other way
+if they sheltered a stray who'd been stupid enough to anger the forest,
+but flying off to rescue a rebel army?
+Even he would have to report that.
+"We have to look to our own,"
+he finished,
+glancing meaningfully at the bulge under his wife Rind's coat.
 
-Indy's smile was as cold as the distant peaks.
-"We can ask him when he wakes up."
+And what did he think "their own" were going say
+when they got back from rounding up the village's clouds
+and found out that the folk who'd stayed behind
+had left strangers at the forest's mercy,
+Grappa Gas shot back.
+Father and son glared at each other
+with a mutual stubbornness born of long practice.
 
-<!-- HERE -->
+The argument swirled back and forth across the cobblestones,
+punctuated by soft bings and bongs from the village windchimes.
+Little whirlpools of disagreement came together,
+spun about,
+and flew apart as people overheard neighbors they disagreed with,
+or turned around to nod ad something they had overheard
+and were sucked into yet another "what if?"
 
-The next five minutes were chaos.  Out of the question, Aft growled.  The law
-might forgive them giving shelter to a bunch of strays stupid enough to anger
-the forest, but flying off to rescue a bunch of rebels?  "It's not just us
-they'll punish," he said, glancing meaningfully at the bulk under his wife's
-winter coat.
+"This is going to go on forever," Noxy said sourly.
+"They're all going to do whatever my *amma* wants to do in the end.
+Why don't they just get on with it?"
+She, Sensy, and Rash stayed together in a knot on the sidelines,
+old enough that they hadn't grown bored and run off to play like the younger children,
+but young enough that the discussion seemed vaguely ridiculous.
 
-And what would other cloudherds say if they heard that Stale had left people in
-the forest to die, Grappa Gas shot back.  Pilots and saints, what would their
-own kin say when they got back from up the mountain?
+Rash ran a finger along the lip fuzz he insisted on calling a mustache.
+It had become a habit over the winter,
+one that Noxy had told him countless times he ought to break
+before *someone* broke his stupid finger.
+"What I want to know is whether we're going to get to go,
+or if we're going to be stuck here with the littles."
 
-The argument swirled and churned across the cobblestones, punctuated by soft
-bings and bongs from the windchimes that hung from the eaves of every house.
-Little whirlpools of disagreement came together, spun about, and flew apart as
-people overheard neighbors they disagreed with, or turned around to agree with
-something they had overheard and were sucked into yet another "what if?"
+"Of course we'll get to go," Noxy said dismissively.
 
-"This is going to go on forever," Noxy said sourly.  "They're all going to do
-whatever my *amma* want to do in the end---why don't they just get on with it?"
-She, Sensy, and Rash stayed together in a knot on the sidelines, old enough that
-they hadn't grown bored and run off to play like the younger children, but young
-enough that the whole thing seemed vaguely ridiculous.
+"You sure about that?"
+Rash raised an eyebrow,
+another annoying habit he had cultivated over the winter.
+"Because your *amma*'s giving jobs to just about everyone except us."
 
-Rash ran a finger along the lip fuzz he insisted on calling a mustache.  It had
-become a habit over the winter, one that Noxy had told him countless times he
-ought to break before *someone* broke his stupid finger.  "What I want to know
-is whether we're going to get to go, or if we're going to be stuck here with the
-littles."
+Noxy puffed an annoyed breath,
+biting off her, "Of course I'm sure!" when at Sensy's uncertain look.
+"Wait here," she ordered.
 
-"Of course we'll get to go!" Noxy exclaimed.
+She strode through the crowd to the speaker's stone
+and caught her mother's eye.
+Before Noxy could speak,
+Indy said,
+"Oh, and I think you've met my daughter, Probably Noxious."
 
-"You sure about that?"  Rash raised an eyebrow, another annoying habit he had
-cultivated over the winter.  "Because your *amma*'s giving jobs to just about
-everyone except us."
+"The honor was mine," the tiger rumbled,
+flicking an ear in what might have been the feline equivalent of a very small bow.
 
-Noxy puffed an annoyed breath, biting off her "of course I'm sure!"  when she
-caught Sensy's uncertain look.  "Wait here," she said with a scowl.
+"Just call me Noxy," she told him.
+"*Amma*, which cloud do you want me and Sensy and Rash on?
+We can go and start getting them ready while everyone's still jawing."
 
-She strode through the crowd to the speaker's stone and caught her mother's eye.
-Before Noxy could speak, Indy said, "Oh, and I think you've met my daughter,
-Probably Noxious."
+Indy gave her daughter a look that Noxy knew all too well.
+"Who said anything about you three going?"
 
-"The honor was mine," the tiger rumbled, flicking an ear in what might have been
-the feline equivalent of a very small bow.
+But Noxy knew her mother as well as her mother knew her,
+and had assembled her arguments as she crossed the square.
+They were definitely old enough---why,
+they were all going to be riding *real* clouds in a few weeks,
+not just the tame old pair floating in the cloud pen.
+And they wouldn't be going far,
+just a few gallops down the pass,
+and it was really important for cloudherds to know how to do rescues,
+wasn't it?
+And---
 
-Noxy wondered if she was supposed to bow back, and was immediately annoyed at
-herself.  Cloudherds didn't bow---that was a silly lowlander custom.  "Just call
-me Noxy," she told him.  "*Amma*, which cloud do you want me and Sensy and Rash
-on?  We can go and start getting them ready while everyone's still jawing."
+"Stop."
+Her mother held up a hand,
+pointedly ignoring the amused look on Granna Fee's face.
+"You can go.  But!" she continued,
+"You do what you're told and nothing more, understood?"
 
-Indy gave her daughter a look that Noxy knew all too well.  "Who said anything
-about you three going?"
+Noxy nodded obediently.
+"Yes, *amma*."
+She had learned long ago not to keep asking for a whole orange
+when she'd already talked her mother into a half.
 
-But Noxy knew her mother as well as her mother knew her, and had assembled her
-arguments as she crossed the square.  They were definitely old enough---why,
-they were all going to be riding *real* clouds in a few weeks, not just the tame
-old pair floating in the cloud pen.  And they wouldn't be going far, just a few
-gallops down the pass, and it was really important for cloudherds to know how to
-do rescues, wasn't it?  And---
+Eventually everyone realized that they agreed with Indy's decision
+or were so outnumbered as to make further argument pointless.
+Even Aft gave in
+on condition that he be given lead on one of the clouds
+so that he could keep an eye on things.
 
-"Stop."  Her mother held up a hand, not noticing or just ignoring the amused
-look on Granna Fee's face.  "You can go.  But!" she continued, "But you do what
-you're told and nothing more, understood?"
+After that,
+it only took the villagers a few minutes to gather what they needed.
+Rockfalls and avalanches were common in the mountains,
+and they had lifted more than one tinker or trader out of a difficult spot.
+Coils of hemp rope with spider-silk cores hung ready in the long shed next to the cloud pen,
+and everyone kept a camelskin cap and some heavy gloves handy just in case.
 
-Noxy nodded obediently.  "Yes, *amma*."  She had learned long ago not to keep
-asking for a whole orange when she'd already talked her mother into a half.
+"You look ridiculous," Noxy told Rash flatly
+as he came down the wooden steps to the mounting platform.
+He had embroidered a pattern he claimed was eagle's wings
+onto the flaps of his cap during the winter,
+and was wearing bright orange gloves
+that the last of the autumn pack traders had sworn were all the rage in Gandan.
 
-Somehow everyone eventually realized that they agreed with Indy's decision or
-were so outnumbered as to make further argument pointless.  Even Aft gave in,
-grumbling that someone who hadn't lost his wits needed to keep an eye on things.
+Rash looked her up and down.
+"Really?  Because I think you look amazing. Excuse me."
+He winked and stepped around the speechless fourteen-year-old.
 
-After that, it only took them a few minutes to gather what they needed.
-Rockfalls and avalanches were common in the mountains, and they had lifted more
-than one tinker or trader out of a difficult spot.  Coils of hemp rope with
-spider-silk cores hung ready in the long shed next to the cloud pen, and
-everyone kept a warm camelskin cap and some heavy gloves handy just in case.
+They were the last to arrive at the wooden platform
+that hung over the edge of the cloud pen.
+"Ears all!" Aft said loudly.
+He had changed into heavy pants,
+a padded coat,
+and a pair of soft boots,
+and his hair was tied back in a thick club braid
+with a blue ribbon from his wedding collar for luck.
+"I'll lead on Pillow with Rash and Sensy as spotters.
+Gas and Fee, you're on Blue---you take Noxy and the Gifted with you.
+In and out,
+quick and simple,
+and everyone's back here for soup before you can sneeze.
+No adventures, right?"
+He glared at Noxy, Sensy, and Rash until the three teenagers mumbled,
+"No adventures."
 
-"You look ridiculous," Sensy told Rash flatly as he came down the wooden steps
-to the mounting platform.  He had sewn a pattern that he claimed was meant to be
-eagle's wings onto the side flaps of his cap during the winter, and had wrapped
-a bright yellow scarf around his neck that the last of the autumn pack traders
-had sworn was all the rage in Gandan.
+"Right!"
+He walked to the end of the plank that stuck out from the platform
+and whistled through his fingers.
+When nothing happened,
+he muttered something about "soggy" and "lazy" and whistled again more loudly.
 
-Rash looked her up and down.  "Really?  Because I think you look amazing. Excuse
-me."  He winked and stepped around the speechless pair of thirteen-year-olds.
+A hundred strides away and fifty strides below them,
+a fog-edged blue-gray mass began to pull itself into
+something dense enough to hold a person's weight.
+The second,
+smaller blob next to it followed suit.
+Side by side,
+Big Blue and Pillow drifted toward the platform.
+A clattering noise further along the ravine signalled that
+whoever Indy had sent to pull back the pen's spiderweb gate
+had started hauling in the rope-and-bamboo chain it hung from.
 
-They were the last to arrive at the wooden platform that hung over the edge of
-the cloud pen.  "Ears all!" Aft said loudly.  He had changed into heavy pants, a
-padded coat, and a pair of soft boots, and his hair was pulled back in a thick
-club braid tied with a blue ribbon from his wife's wedding collar.  "You know
-how this is done.  I'll lead on Pillow with the youngers as spotters and the
-Gifted as a guide.  Gas and Fee, you've got Blue---you take Noxy with you.  In
-and out, quick and simple, and everyone's back here for soup before you can
-sneeze.  No adventures, right?"  He glared at Noxy, Sensy, and Rash until the
-three teenagers mumbled, "No adventures."
+Noxy's pulse beat faster as the clouds approached,
+their flanks rippling slightly in the wind.
+When Big Blue bumped against the ravine wall,
+Aft took three steps and jumped off the end of the plank.
 
-"Right!"  He walked to the end of the plank that stuck out from the platform and
-whistled through his fingers.  When nothing happened, he muttered something
-about "soggy" and "lazy" and whistled again more loudly.
+Noxy leaned over the railing.
+One, two, three...
+Big Blue dimpled as the burly cloudherd tucked,
+flipped over,
+spread-eagled,
+and landed flat on his back.
+Gray waves rippled out across the cloud's back
+as he rolled over onto his knees and pressed his hands down firmly.
+Noxy couldn't see his face,
+but she knew his eyes would be closed in concentration as he mind-spoke to his mount.
 
-A hundred strides away and fifty strides below them, a foggy-edged blue-gray
-mass rippled and began to pull itself into something dense enough to hold the
-weight of a person.  The second, smaller blob next to it followed suit.  Side by
-side, Big Blue and Pillow drifted toward the villagers and the lone tiger
-waiting at the edge of the ravine.  A clattering noise further along the ravine
-signalled that whoever Indy had sent to pull back the pen's spiderweb gate had
-started hauling in the rope-and-bamboo chain it hung from.
+"Show-off," Grappa Gas muttered.
 
-Noxy watched breathlessly as the clouds approached, their leading edges rippling
-slightly in the wind.  When Big Blue bumped against the ravine wall, Aft took
-three steps and jumped off the end of the plank.
+Granna Fee elbowed him.
+"Gets it from his old man."
 
-Noxy leaned over the railing.  One, two, three... Big Blue dimpled as the burly
-cloudherd tucked, flipped over, spread-eagled, and landed flat on his back.
-Gray waves rippled out across the cloud's back as Aft rolled over onto his knees
-and pressed his hands down firmly.  Noxy couldn't see his face, but she knew his
-eyes would be closed in concentration as he mind-spoke to his mount.
+Something twinged in the back of Noxy's head.
+She blinked.
+"Did you say something?" she asked Sensy.
 
-"Show off," Grappa Gas muttered beside her.
+"What?"
+She and Rash were watching Aft just as intently as Noxy.
 
-Granna Fee elbowed him.  "Gets it from his old man."
+Noxy shook her head.
+"Never mind.
+Look, he's coming up."
 
-Something twinged in the back of Noxy's head.  She blinked.  "Did you say
-something?" she asked Sensy.
+Big Blue rose toward the platform,
+bunching into an even firmer mass as he neared them.
+Aft had risen to one knee,
+but kept one hand on the cloud's back so that he could continue to mind-talk to it.
 
-"What?"  She and Rash were watching Aft just as intently as Noxy.
+A silver-winged scaw shot out of its cliffside nest,
+cawing its displeasure at the sight of a human just a few strides away.
+Aft looked up and smiled as he always did
+when he was on cloudback or holding hands with his wife.
+With a whoop he ran across across Big Blue's back
+and launched himself into the air again.
 
-"Never mind."  Noxy shook her head.  "Look, he's coming up."
+Rash whistled.
+"Nice leap," he said appreciatively
+as Aft landed dead center on Pillow.
+"And into the blind, too."
 
-Big Blue rose toward the platform, bunching into an evern firmer mass as he
-neared them.  Aft had risen to one knee, but kept one hand on the cloud's back
-so that he could continue to mind-talk to it.
+"It's not such a trick," Noxy said dismissively,
+though she was secretly impressed.
+"He must have got Big Blue to tell him where she was."
 
-A silver-tipped scaw shot out of its cliffside nest, cawing its displeasure at
-the sight of a human just a few strides away.  Aft looked up and smiled the
-smile he only ever wore when he was on cloudback or holding hands with his wife.
-With a whoop he ran across across Big Blue's back and launched himself into the
-air again.
-
-Rash whistled.  "Nice leap," he said appreciatively as Aft landed dead center on
-Pillow.  "And blind, too."
-
-"It's not such a trick," Noxy said dismissively, though she was secretly
-impressed.  "He must have got Big Blue to tell him where she was."
-
-"Sure, but would you trust a cloud's eyes that much?"  Rash challenged her.
+"Sure, but would you trust a cloud's eyes that much?"
+Rash challenged her.
 "Most of the time I can't make cheese or cherries out of what they say."
 
-Noxy shrugged.  She had realized early in their training that mind-speech was a
-lot easier for her than it was for Sensy or Rash, or even for some of the olders
-who were already riding.  She had stopped talking about it after a few muttered
-accusations of showing off.  The only person she shared her progress with now
-was her grandmother, and she didn't even tell Granna Fee everything.
+Noxy shrugged.
+She had realized early in their training that
+mind-speech was a lot easier for her than it was for Sensy or Rash,
+or even for some of the olders who were already riding.
+She had stopped talking about it after a few muttered accusations of showing off.
+The only person she shared her progress with now was her grandmother,
+and even then she didn't tell Granna Fee everything.
 
-Grappa Gas made everyone wait until Pillow was only a couple of strides below
-the mounting platform before he let Sensy and Rash jump.  The teenagers had been
-doing it since they were children, but the brief moment of flight and *poof!* as
-they landed still made them whoop just like Aft had.
+Grappa Gas made everyone wait
+until Pillow was only a couple of strides below the mounting platform
+before he let Sensy and Rash jump.
+The teenagers had been doing it since they were children,
+but the brief moment of flight and *poof!* as they landed
+still made them whoop.
 
-Aft steered the cow out of the way so that Big Blue could take her place beneath
-the plank.  Grappa Gas landed on him with a soft *thud*.  Granna Fee tossed down
-two bundles of blankets.  "Your turn," she said to Kulbinder.
+Aft steered the cow out of the way
+so that Big Blue could take her place beneath the plank.
+Grappa Gas landed on him with a soft *thud*.
+Granna Fee tossed down two bundles of blankets.
+"Your turn," she said to Kulbinder.
 
-The tiger's ears lay flat against his skull, and his tail whipped from side to
-side.  For a moment Noxy was sure he was going to refuse, but with a sudden
-burst of speed he charged to the end of the plank and jump.  She and Granna Fee
-leaned over the railing.
+The tiger's ears lay flat against his skull.
+His tail whipped from side to side.
+For a moment Noxy thought he was going to refuse,
+but with a sudden burst of speed he charged to the end of the plank and jumped.
+She and Granna Fee leaned over the railing.
 
-"Huh," Granna Fee said.  "I guess they really do always land on their feet."
+"Huh," Granna Fee said.
+"I guess they really do always land on their feet."
 
-*Twinge.* Noxy winced and put her hand on the back of her head.  There it was
-again, that feeling of, of---of something, but what?
+*Twinge.*
+Noxy winced and put her hand on the back of her head.
+There it was again, that feeling of---of *something*, but what?
 
-Her grandmother noticed her expression.  "Are you all right?"
+Her grandmother noticed her expression.
+"Are you all right?"
 
-"Sure," Noxy lied.  One of the grownups' many rules was that no one should fly
-if they were sick, and she was *not* going to be left behind.  "Come on, let's
-see if you remember your lessons."
+"Sure," Noxy lied.
+One of the grownups' many rules was that no one should fly if they were sick,
+and she was not about to be left behind.
+"Come on, let's see if you remember your lessons."
 
-"Cheeky," her grandmother said.  Three quick steps and a little hop and she was
-gone, leaving Noxy alone on the platform.  She took a deep breath, grinned, and
-sprinted for the end of the plank.
+"Cheeky," her grandmother said.
+Three quick steps and a little hop and she was gone,
+leaving Noxy alone on the platform.
+She took a deep breath,
+grinned,
+and sprinted for the end of the plank.
 
-She landed just a stride away from her grandmother, who was still lying flat on
-her back on the cloud.  "Oof," Granna Fee grunted, rolling over and sitting up.
-"He's not as soft as he used to be."  Then she smiled and put her arm around
-Noxy so that her granddaughter could lean against her as she pressed her hand
-against Big Blue and closed her eyes.  The cloud turned obediently and began
-drifting toward the mouth of the gorge.
+She landed just a stride away from her grandmother,
+who was lying flat on her back on the cloud.
+"Oof," Granna Fee grunted,
+rolling over and sitting up.
+"He's not as soft as he used to be."
+Then she smiled and put her arm around Noxy
+so that her granddaughter could lean against her
+as she pressed her hand against Big Blue and closed her eyes.
+The cloud turned obediently and began drifting toward the mouth of the gorge.
 
 "I'll take lead," Aft called back through cupped hands.
 
-"Really? How unusual of you," Granna Fee said just loudly enough for Noxy to
-hear.  She steered Big Blue into position behind the smaller cow.  As she did
-so, Aft took the ox horn from his belt and blew three loud notes, low high low.
-Indy blew an answering note as the two clouds passed through the gate and into
-the wide expanse of the pass.
+"Really? How unusual of you,"
+Granna Fee said just loudly enough to make Noxy grin.
+She steered Big Blue into position behind the smaller cow.
 
-Cloudherding is cold work, even in the summer.  In the spring, in the mountains,
-when breath still fogs and the wind pokes its fingers through every loose seam
-and down every collar, it's freezing.  As they passed through the mouth of the
-ravine, Granna Fee took a camel hair blanket from the nearest bundle and wrapped
-it around herself and Noxy, leaving only their faces exposed.  Up ahead, Noxy
-saw that Rash and Sensy had done the same---as Sensy said, he might be a goof,
+As they neared the gate,
+Aft took the ox horn from his belt and blew three loud notes.
+Indy blew an answering note
+as the two clouds passed through the gate and into the pass.
+
+Cloudherding is cold work, even in the summer.
+In the spring,
+when every breath instantly turns to fog
+and the wind pokes its fingers through every loose seam and down every collar,
+it's freezing.
+As they left the cloud pen behind,
+Granna Fee took a camel hair blanket from the nearest bundle
+and wrapped it around herself and Noxy,
+leaving only their faces exposed.
+Up ahead,
+Noxy saw that Rash and Sensy had done the same---as Sensy had said more than once,
+he might be a goof,
 but at least he was a *warm* goof.
 
-Only Grappa Gas seemed unaffected.  "Saints and their inventions, but I love
-this," he sighed.  He'd brought a cushion to rest his wooden leg on so that it
-wouldn't poke into Big Blue, but a long scarf only slightly less exuberant than
-the one Rash was wearing was his only concession to the freezing temperature.
-"Look, the condors are back in their nest!  We should invite them them to visit
-some time."
+Only Grappa Gas seemed unaffected.
+"Saints and their inventions,
+but I love this," he sighed.
+He'd brought a cushion to rest his wooden leg on
+so that it wouldn't poke into Big Blue,
+but a long scarf only slightly less colorful than Rash's gloves
+was his only concession to the freezing temperature.
+"Look, the condors are back in their nest!
+We should invite them them to visit some time."
 
-"They're not really the most sociable creatures," Granna Fee said dryly.
+"They're not really the most sociable creatures,"
+Granna Fee said dryly.
 
-Grappa Gas harrumphed.  "You just have to get to know them.  I wonder if any of
-their chicks will be Gifted this year?  That would be a thing, wouldn't it?"
+Grappa Gas harrumphed.
+"You just have to get to know them.
+I wonder if any of their chicks will be Gifted this year?
+That would be a thing, wouldn't it?"
 
-It had taken the tiger a day to hike up the pass to Stale Leftovers.  The
-cloudherds covered the same distance half an hour, even with the headwind.
+It had taken the tiger a day to make his way up the pass to Stale Leftovers.
+Even with the headwind,
+the clouds covered the same distance in half an hour.
 "There," Granna Fee said, pointing at a thin plume of smoke.
 
-Grappa Gas frowned, then looked at Kulbinder.  "I thought you said there were
-just a few of them."
+Grappa Gas frowned, then looked at Kulbinder.
+"I thought you said there were just a few of them."
 
-"Fewer than we started with," the tiger growled.  He had spent most of the
-flight crouched down to get out of the wind, his legs and tail tucked underneath
-his body.  Now he stood and padded forward to join Granna Fee at Big Blue's
-leading edge.
+"Fewer than we started with," the tiger growled.
+He had spent the flight crouched down to get out of the wind,
+his legs and tail tucked underneath his body.
+Now he stood and padded forward to join Granna Fee at Big Blue's leading edge.
 
-The soldiers' makeshift camp sat on a barren pinnacle of rock that rose out of
-the forest like an island.  A dozen drab tents huddled around a small fire.
-Shading her eyes with her hand, Noxy saw a dozen men moving about, some propped
-against one another to stay upright.
+The soldiers' makeshift camp sat on a barren pinnacle of rock
+that rose out of the forest like an island.
+A dozen drab tents huddled around a small fire.
+Shading her eyes with her hand,
+Noxy saw a dozen men moving about,
+some leaning against one another to stay upright.
 
-Grappa Gas gave a low whistle.  "The *tralpa* really isn't going to like this,"
+Grappa Gas gave a low whistle.
+"The *tralpa* really isn't going to like this,"
 he said.
 
-"Never mind him," Granna Fee replied.  "What do you think my daughter is going
-to say?"
+"Never mind him," Granna Fee replied.
+"What do you think my daughter is going to say?"
 
-One of the soldiers spotted them a moment later.  They were too far away to hear
-his shouts, but there was no mistaking the urgency in the way he waved his arms,
+One of the soldiers spotted them a moment later.
+They were too far away to hear his shout,
+but there was no mistaking the urgency in the way he waved his arms
 or in the way his companions hurried to roust their injured comrades.
 
-"Keep your eyes wide," Grappa Gas ordered Noxy curtly.  "Forest might be happy
-to let us take them, or it might not."
+"Keep your eyes wide," Grappa Gas ordered Noxy curtly.
+"Forest might be happy to let us take them, or it might not."
 
-It wasn't.  An angry voice cawed behind them, then a hundred more, and all at
-once they were surrounded by a flock of gray-shouldered mountain crows, each one
-an angry feathered missile with sharp claws and a pecking beak.  Noxy screamed
-as a crow grabbed her hair.  Another took hold of her collar and pecked her
-shoulder.  She screamed again, swatting at them as Granna Fee and Grappa Gas
-yelled and did the same.  She could *feel* their anger coursing through her
-veins.
+It wasn't.
+An angry voice cawed behind them.
+A hundred more answered it.
+All at once they were surrounded by a flock of gray crows,
+each one an angry feathered missile with sharp claws and a pecking beak.
 
-The tiger's roar sent the birds wheeling into the air above them and hurtling
-away.  Noxy slapped at her hair one last time, not quite believing the attack
-was over.
+Noxy screamed as a crow grabbed her hair.
+Another took hold of her collar and pecked her shoulder.
+She screamed again,
+swatting at them as Granna Fee and Grappa Gas yelled and did the same.
 
-A faint shout from up ahead told her that it wasn't.  Aft spun the end of a coil
-of rope over his head to keep them at bay while Sensy and Rash batted at any
-bird that came too close.
+The tiger's roar sent the birds wheeling back into the air.
+Noxy slapped at her hair one last time,
+then spun around at a faint shout from up ahead
+as the flock descended on the other three cloudherds.
 
-The birds swirled around them for a dozen heartbeats before veering away.  Aft
-handed the rope to Rash and knelt to press his hands against Pillow.  A moment
-later he looked up and shook his head grimly.  "She's terrified," he bellowed
-through cupped hands.  "Won't go any closer.  We have to leave them!"
+"Get off! Get off me!" Aft shouted,
+spinning the end of a coil of rope over his head to keep them at bay
+while Sensy and Rash batted at any bird that came too close.
+The crows swirled around them for a dozen heartbeats before veering away again.
 
-"Underhells with that," Grappa Gas muttered.  "Fee---I'll get Blue down there.
-You 'n' Noxy get scoffing idiots loaded up fast as you can."
+Aft handed the rope to Rash and knelt to press his hands against Pillow.
+A moment later he looked up and shook his head grimly.
+"She's terrified," he bellowed through cupped hands.
+"Won't go any closer.  We have to leave them!"
+
+"Underhells with that," Grappa Gas muttered.
+"Fee---I'll get Blue down there.
+You 'n' Noxy get 'em loaded up fast as you can."
 
 "But---" Granna Fee protested.
 
-"Hold on!" Grappa Gas bellowed as they went into a dive.  "It's going to get
-bumpy!"
-
----
-
-That brought grumbles instead of murmurs.
-As a brilliant young scholar, Shudarga had written pamphlet after pamphlet arguing that Gandan's laws should be free for all to use.  The kingdom's merchant-nobles had ignored her at first, then mocked her, but when she started organizing peasants and tradesmen to pool their money so that they could rent laws together, their laughter turned to anger. Arrested, she had escaped the previous summer and raised her flag in rebellion, attracting thousands to her cause.  Then winter had come and news from the lowlands had slowed to a trickle, leaving the cloudherds with nothing to chew on but rumors.
+"Hold on!" Grappa Gas bellowed as they went into a dive.
+"It's going to get bumpy!"

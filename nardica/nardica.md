@@ -696,7 +696,7 @@ Iffy ran all the way back to the docks,
 dodging around and through the people and bots going about their chores
 in Halley's narrow streets.
 "*Gardez-vous!* *Gardez-vous!*"
-scolded the ancient fix-it bot that everyone called French Henry
+scolded the ancient fixit bot that everyone called French Henry
 as she squeezed between its rusty frame
 and the rack of fuel moss it was tending.
 
@@ -1163,134 +1163,182 @@ Another followed it a moment later.
 "Come on---the Marines have called for reinforcements.
 We should be somewhere else when they arrive."
 
-<!--
+Wales led her out the other end of the alley
+onto a narrow street lined with two-story houses made of laser-cut stones.
+Blue-green moss that had escaped from some lab traced their mortared joints.
+The only sounds were the gulls,
+the faint whine of a heavy drone passing nearby,
+and their boots on the cobblestones.
 
-Wales led her out the other end of the alley and onto a street lined with
-single-story houses made of laser-cut stones with tweaked blue-green moss
-tracing their mortared joints. Iffy did her best to keep up with him as he
-strode back toward the center of town. *He prolly kept the light ones for
-himself,* she thought resentfully, but the complaint was half-hearted. The
-sailors and townsfolk she knew ranged from lean to stringy---cold weather and
-the sparse Antarctic diet didn't give bodies much chance to put on weight.
-Wales' broad shoulders made him look blocky by comparison, and the toolboxes
-seemed much smaller in his hands than in hers.
+Iffy struggled to keep up with Wales
+as he strode confidently toward the center of town.
+The sailors and townsfolk she knew ranged from lean to stringy---cold weather
+and the sparse Antarctic diet didn't give bodies much chance to put on weight.
+Wales' broad shoulders made him look blocky by comparison,
+and the toolboxes seemed much smaller in his hands than in hers.
 
-"Hang up a jif," Iffy finally said. Wales stopped as she set her load down on
-the ground and looked back the way they had come. Between the Marines' inducted
-fighting skills, their drones, and their armor, the *Taroona*'s sailors would
-have had about as much chance as a snowball in Aunt Naggie's frying pan.
-"Sometimes people fight just so they can tell themselves they did," Aunt Naggie
-had explained after one of Uncle Jack's misadventures. "Sometimes trying is the
-only kind of winning you can hope for."
+"Hang up a jif," Iffy finally said.
+Wales stopped as she set her load down on the ground and caught her breath.
+Between the Marines' inducted fighting skills,
+their drones,
+and their armor,
+the *Taroona*'s sailors would have had about as much chance
+as a snowball in Aunt Naggie's frying pan.
+"Sometimes people fight just so they can tell themselves they did,"
+Aunt Naggie had explained after one of Uncle Jack's misadventures.
+"Sometimes trying is the only kind of winning you can hope for."
 
-"*Mon ami! Mon ami!*" She jumped and squawked as French Henry suddenly rattled
-around the corner, its dented old cameras swinging from side to side. It ground
-to a halt a few meters away. "*Ça va bien!*" it announced proudly. "*Ça va
-tres bien!*"
+"*Mon ami! Mon ami!*"
+She jumped and squawked as French Henry suddenly rattled around the corner,
+its dented old cameras swinging from side to side.
+The fixit bot ground to a halt a few meters away.
+"*Ça va bien!*" it announced proudly.
+"*Ça va tres bien!*"
 
-"What's it saying?" Iffy whispered loudly, unconsciously backing up to put some
-distance between herself and the battered old bot. Like the rest of the world,
-Halley tolerated free bots because they needed their labor, but there were too
-many stories of machines being driven mad by malware left over from the war for
-people to ever truly trust something as big as French Henry, even if she hadn't
-just seen it threaten a couple of humans.
+"What's it saying?" Iffy whispered loudly,
+unconsciously backing up a step.
+Halley tolerated free bots because they needed their labor,
+but there were too many stories of machines being driven mad by malware left over from the war
+for people to ever truly trust something as big as French Henry.
 
-But Wales didn't seem bothered in the least. "*Merci beaucoup, mon vieux,*" he
-said gratefully. He reached into a pocket inside his jacket and withdrew
-something small. "*Ici. C'est a toi.*"
+Wales didn't seem bothered in the least.
+"*Merci beaucoup, mon vieux.*"
+He reached into a pocket inside his jacket
+and withdrew something that looked like a gray metal waffle.
+"*Ici. C'est a vous.*"
 
-A hatch popped open on the front of the maintenance bot. A slender manipulator,
-longer than Iffy's own arm but no bigger around than one of her fingers,
-unfolded to reach for the gray metal rectangle in Wales' hand. It looked like a
-miniature version of the heat exchangers that Mr. Mishra had been repairing the
-last time the *Guinevere* was in dock. As soon as the thought took shape in her
-head, a full-blown blueprint materialized as well. The heat exchanger belonged
-*there*, in the housing around the maintenance bot's tiny quantum core. Except
-it wasn't really a maintenance bot. It was an infiltrator, a leftover from the
-war designed to worm its way through sewers and outflow pipes. Half its parts
-had been replaced by mis-matched odds and ends taken from other bots, or hacked
-together out of scrap metal where the tech to make the originals had been lost,
-but the bot's original design was still there beneath the patchwork.
+A hatch on the fixit bot's front panel popped open.
+A slender manipulator as long as Iffy's arm
+but no bigger around than her little finger unfolded
+and plucked the object from in Wales' hand.
+It was a heat exchanger,
+Iffy realized,
+a miniaturzed version of the one that Mr. Mishra had been repairing
+the last time the *Guinevere* was in dock.
 
-Her vision disappeared as the bot's slender arm folded back into its housing.
-"*Merci,*" it said, rocking back and forth in what might have been the
-mechanical equivalent of a bow before grinding its gears and rolling down the
-street toward the docks, saying, "*Gardez-vous! Gardez-vous!*" once more.
+As soon as the thought took shape in her head,
+a full-blown blueprint materialized out of nowhere.
+The heat exchanger belonged *there*,
+in the housing around the fixit bot's tiny quantum core.
+Except it hadn't actually been designed to do maintenance.
+It was an infiltrator designed to worm its way through sewers and outflow pipes.
+Half its parts had been replaced by mis-matched odds and ends taken from other bots,
+or hacked together out of scrap metal where the tech to make the originals had been lost,
+but its original design was still there beneath the patchwork.
 
-"What was *that* all about?" Iffy demanded as Wales closed the lid on his
-toolbox and picked it up again.
+Her vision disappeared
+as French Henry's slender manipulator folded back into its housing.
+"*Merci beaucoup,*" it said,
+rocking back and forth in what might have been the mechanical equivalent of a grateful bow
+before grinding its gears and rolling away toward the docks
+saying, "*Gardez-vous! Gardez-vous!*" once more.
 
-Wales shrugged. "Just a hard-to-find part for an old friend," he said, sounding
-fond and sad at the same time as he watched the bot disappear around a corner
-two streets below them. "Come on---we should get going."
+"What was *that* all about?"
+Iffy demanded as Wales closed the lid on his toolbox and picked it up.
 
-"Uh huh. Must be pretty affin' hard to find for it to take a chance on bein'
-scrapped for scaring people like it did back there." When Wales didn't answer,
-she gave the toolbox next to her another nudge with her boot. "So was that you?
-The 'splosion back there?"
+Wales shrugged.
+"Just a hard-to-find part for an old friend," he said,
+sounding fond and sad at the same time
+as the bot disappear around the corner.
+"Come on---we should get going."
 
-Wales blinked. "Why on earth would you think that was me?"
+"Uh huh.
+Must be pretty affin' hard to find for it to take a chance on bein' scrapped
+for scarin' people like it did back there."
+When Wales didn't answer she nudged the toolbox next to her with her boot.
+"So was that you? The 'splosion back there?"
 
-Iffy rolled her eyes. "'Cuz they upped your gear and then the blockhouse blew
-up an' then the bot that takes care o' the town's pipes just happens to be
-friend enough o' yours to take a chance on bein' disassembled an' now you got
-your stuff back? I ain't *stupid*," she finished disgustedly. Why did grownups
-always think kids were stupid?
+Wales blinked.
+"Why on earth would you think that was me?"
 
-"No you're not," Wales agreed thoughtfully. He nodded at the toolbox next to
-her feet. "Are you okay to carry that a bit further?"
+Iffy rolled her eyes.
+"'Cuz they upped your gear and then the blockhouse blew up
+an' then the bot that takes care o' the town's pipes
+just happens to be friend enough o' yours
+an' now you got your stuff back?
+I ain't *stupid*," she finished disgustedly.
+Why did grownups always think kids were stupid?
 
-"Am I what?" Iffy asked, crossing her arms in unconscious imitation of the
-*Taroona*'s captain.
+"No you're not," Wales agreed thoughtfully.
+He nodded at the toolbox next to her feet.
+"Are you okay to carry it a bit further?"
 
-Wales smiled briefly. "Sorry. Arra kappa t' carry at down s'far the caffy?"
+"Am I what?"
+Iffy crossed her arms in unconscious imitation of the *Taroona*'s captain.
 
-Iffy wrinkled her nose at his exaggerated accent. "That was *terrible*," she
-judged witheringly. "And sure, but only if I get to see what's in it."
+Wales smiled briefly.
+"Sorry.
+Arra kappa t' carry at down s'far we go 'long?"
 
-Wales chuckled. "Fair enough. Come on." He glanced up as one last drone
-zipped past overhead. Lights sparkled briefly in the rectangle set into his
-temple, making Iffy wonder how honestly the drones were reporting the scene to
-Halley's central core.
+Iffy made a face.
+"That was *terrible*," she judged witheringly.
+"And sure, but only if I get t' see what's in it."
 
-Picking up their loads, they walked side by side down a narrow street that ran
-behind the Sandhu's grocery store to the café where Wales had rented a room.
-The owner glanced from Wales to Iffy to the toolboxes they carried but said
-nothing more than, "Tea?"
+Wales chuckled.
+"Fair enough. Come on."
+He glanced up as one last drone zipped past overhead.
+Lights sparkled briefly in the rectangle set into his temple,
+making Iffy wonder how honestly the drones were reporting the scene
+to Halley's central core.
 
-They sat at a battered stone-topped table and drank the sweet, strong brew he
-put in front of them as Wales opened the toolbox Iffy had been carrying and
-carefully checked its contents. Some of the tools looked as good as new, though
-Iffy knew that they had to be at least a hundred years old---only a handful of
-well-defended factories scattered around the world still had the cleanrooms and
-nano-fabricators needed to create marvels like the fractal iridium mesh that
-Wales briefly let her inspect through a monocle made from a single
-perfectly-formed diamond. Other tools were clearly cobbled together from
-whatever spare parts Wales had been able to find. Iffy felt more comfortable
-with these, since pretty much everything in Halley was built the same way.
+They picked up their loads and walked side by side
+behind the Sandhu's grocery
+to the café where Wales had rented a room.
+The owner glanced from Wales to Iffy to the toolboxes
+but said nothing more than, "Tea?"
 
-"What about them?" she asked eagerly, pointing at a nested set of asymmetric
-gears as Wales carefully repacked the open toolbox.
+They sat at the café's single stone-topped table
+and sipped the sweet, strong brew he put in front of them.
+Wales sighed contentedly,
+then set his mug aside and opened the toolbox Iffy had been carrying.
+"Whoa," Iffy breathed.
 
-The square man chuckled. "Let's save those for another time." He looked past
-her for a moment as the lights in the tech on his temple flickered with
-activity. "The town says the Marines have resolved the situation by the
-quarantine shed---the explosion was apparently a result of faulty maintenance on
-an outflow pipe that hadn't been registered in the town plans. Oh, and the
-disturbance involving the crew of an unnamed Australian vessel has been
-peacefully resolved."
+Some of the tools looked as good as new,
+though they had to be at least a hundred years old---only
+a handful of well-defended factories scattered around the world
+still had the cleanrooms and nano-fabricators needed
+to create marvels like the fractal iridium mesh that
+Wales briefly let her inspect
+through a monocle made from a single perfectly-formed diamond.
+Other tools were clearly cobbled together
+from whatever spare parts Wales had been able to find.
+Iffy felt more comfortable with these,
+since pretty much everything in Halley was built the same way.
 
-Iffy snorted. "Faulty maintenance my blue thumbs. I know that was you."
+"An' what about them?" she asked eagerly,
+pointing at a nested set of asymmetric gears
+as Wales carefully repacked everything.
 
-Wales blinked at her innocently. "I'm sure I have no idea what you mean.
-Anyway---it's probably time you got back home."
+The square man chuckled.
+"Let's save those for another time."
+He blinked as the lights in the tech on his temple flickered with activity.
+"The town says the Marines have resolved the situation by the quarantine shed---the
+explosion was apparently a result of faulty maintenance
+on an outflow pipe that hadn't been registered in the town plans.
+Oh,
+and the disturbance involving the crew of an unnamed Australian vessel
+has been resolved."
 
-Iffy glanced at the timer tattooed on the back of her wrist. "Oh crivens," she
-swore, "I shoulda been home an hour ago!" She scrambled to her feet.
+Iffy snorted.
+"Faulty maintenance my orphaned arse.
+I know that was you."
 
-"Hold on a minute," Wales said, patting the air. "Just a minute, I promise."
-He pushed his now-empty mug of tea to one side and leaned forward on the table.
+Wales blinked at her innocently.
+"I'm sure I have no idea what you mean."
+
+"Uh huh."
+Iffy glanced at the timer tattooed on the back of her wrist.
+"Oh crivens," she swore,
+scrambling to her feet.
+She'd been gone nearly half an hour---Aunt Naggie would be worried sick,
+and Uncle Jack would be furious.
+
+"Hold on," Wales said, patting the air.
+"Just a minute, I promise."
+He gulped another mouthful of tea and sat back in his chair.
 "Tell me more about this ship of yours..."
+
+<!--
 
 Wales locked his toolboxes in his room before they left and put a small plastic
 bear with bright blue eyes on the shelf above them. "To keep an eye on things,"

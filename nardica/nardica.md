@@ -130,7 +130,8 @@ before slithering out of the salvaged sleeping bag she slept
 and pulling a layer of clothes on over her thermals.
 That banging was her foster mother's way of telling her that Uncle Jack was awake.
 If she knew what was good for her,
-she'd be up on deck doing something useful before he stumbled out into the light looking for someone to yell at.
+she'd be up on deck doing something useful
+before he stumbled out into the light looking for someone to yell at.
 She tucked her nature book into the slit she had cut in the foam slab to keep it safe,
 yawned,
 rubbed the stubble on her scalp,
@@ -202,7 +203,8 @@ she wanted to know why visions of things she *hadn't* seen kept popping into her
 Every time she thought too hard about the plans she had seen,
 ghostly shapes appeared behind her eyes,
 fractal capacitors
-and ever-so-slightly irregular gears whose off-center spin would automatically synchronize to reduce power loading.
+and ever-so-slightly irregular gears
+whose off-center spin would automatically synchronize to reduce power loading.
 She had gone as deep into the jungle as she dared to find anything that matched,
 but every trail ended in "not found" or a blinking, blood-red "restricted".
 After a couple of those she had stopped looking,
@@ -1735,7 +1737,7 @@ when she and foster daughter were alone together.
 "You'll need some too
 if you're gonna go chasin' after that special friend o' yours in Rothera."
 
-"She ain't special!" Iffy protested automatically.
+"Honesty ain't special!" Iffy protested automatically.
 Still smiling,
 her foster mother pulled her into a hug and kissed the shaven top of her head,
 then gently pulled the door of the storage locker closed behind her.
@@ -1812,241 +1814,316 @@ It took her a long time to fall asleep again.
 
 ## Chapter 3
 
-It was a four-day to Rothera across the Weddell Sea. Two hundred years ago,
-their route would have been choked with ice even in summer. No longer: waves a
-meter high made the *Guinevere* rock from side to side in a surging rhythm that
-Iffy knew as well as she knew her own heartbeat. After motoring for a couple of
-hours, Uncle Jack had ordered the *Guinevere* to raise the sails. The ship's
-tiny core had obediently run the mis-matched gossamer sheets up the twin
-Y-masts. By the time Iffy woke up to stand her watch, Halley had fallen below
-the horizon.
+It was four days to Rothera across the Weddell Sea.
+Two hundred years ago their route would have been choked with ice,
+even in summer,
+but no longer.
+Waves a meter high made the *Guinevere* rock from side to side in a surging rhythm
+that Iffy knew as well as she knew her own heartbeat.
 
-The ever-present wind was strong and steady, and if it hadn't been for their
-passenger, Iffy and her foster parents might actually have enjoyed a rare moment
-of peace together---or if not peace, then at least truce. But they did have a
-passenger. *And if Uncle Jack didn't want him,* Iffy thought angrily, *He
-should have said "no".* On the first morning, Wales stowed his pack and his
-toolboxes in a hastily-cleared storage room, then took a seat on a thwart near
-the stern. As Iffy crammed the odds and ends he had displaced into whatever
-nooks and crannies she could find, Aunt Naggie brewed tea and Uncle Jack grew
-more and more agitated. Every time she walked past the pilot house she heard
-him muttering curses and practicing arguments, already regretting the bargain he
-had made.
+After motoring through the not-actually-night of the Antarctic summer,
+Uncle Jack ordered the *Guinevere* to raise the sails.
+The ship's tiny obediently ran her mis-matched gossamer sheets up her twin Y-masts.
+By the time Iffy crawled into her clothes,
+Halley had fallen below the horizon.
 
-"Just stay outta his way," Aunt Naggie advised worriedly when Iffy clambered
-down into the galley to get the tea. "He ain't used to havin' other folk on
-board. He'll settle in." The way she said it sounded more like a prayer than a
-prediction, but Iffy nodded and climbed back on deck with two chipped ceramic
-mugs in her hand.
+"Best stay outta his way," Aunt Naggie advised
+when Iffy clambered down into the galley to get tea.
+"He ain't used to havin' folk on board.
+I expect he'll settle in."
+It sounded more like a prayer than a prediction,
+but Iffy nodded and climbed back on deck
+with two chipped ceramic mugs in her hand.
 
-"'Bout affin' time," her uncle said sharply when she knocked on the door of the
-pilot house and handed his to him. He slurped a mouthful and set it in the ring
-next to the ship's wheel.
+"'Bout affin' time," her uncle said sharply
+when she knocked on the door of the pilot house
+and handed his to him.
+He slurped a mouthful and set it in the ring next to the ship's wheel.
 
-Iffy glanced at the control panel. Tiny cameras dotted about the ship showed
-the engine, the hold, the sails, and practically everywhere else on the ship
-except the tiny toilet near the stern. Small graphs scattered among the images
-told her at a glance how much fuel they had, how much tension was in the
-forestays and mainstays, and what the wind and the currents around them were
-doing.
+Iffy glanced at the control panel.
+Tiny cameras dotted about the ship showed the engine,
+the hold,
+the sails,
+and practically everywhere else on the ship except the tiny toilet near the stern.
+Small graphs scattered among the images told her at a glance
+how much fuel they had,
+how much tension was in the forestays and mainstays,
+and what the wind and the currents around them were doing.
 
-The most important display, though, was the sonar. Every captain kept a close
-eye on that---at least, every captain who wanted to make it home. At the first
-faint sign of gas bubbling up from clathrates melting on the ocean floor, they
-would fire up the engine and run.
+The most important display was the sonar.
+Every captain kept a close eye on that if they wanted to make it home.
+At the first sign of gas bubbling up from the ocean floor,
+they would fire up the engine and run.
 
-Uncle Jack jerked a thumb at a panel highlighted in orange. "You get that
-backstay cable mended 'fore lunch or you ain't havin' any," he growled.
+Uncle Jack jerked a thumb at a panel highlighted in orange.
+"You get that backstay cable mended soon as you're done here if you want lunch,"
+he growled.
 
-"Yessir," Iffy said obediently. He'd been drinking again, she realized. She
-could smell it on his breath, and from the way he clutched the wheel to hold
-himself steady, she guessed he'd been at it for a while.
+"Yessir," Iffy said obediently.
+He'd been drinking again, she realized.
+She could smell it on his breath,
+and from the way he clutched the wheel to hold himself steady
+she guessed he'd been at it for a while.
 
-"An' see if that baggage o' yours wants to get started mendin' things," he
-called after her as she turned to go. "Or better yet, just tell 'im I said he
-was goin' to!"
+"An' see if that baggage o' yours wants to get started mendin' things,"
+he called after her as she turned to go.
+"Or better yet, just tell 'im I said he was goin' to!"
 
-Wales hadn't moved from his seat at the stern. He seemed lost in thought as
-Iffy approached him, but said, "Of course," in reply to Iffy's tentative request
-for help. Standing, he straightened his jacket and smiled. "Being useful would
-be good for me right now."
+Wales had reorganized the ship's other storage locker while Iffy was asleep
+to make room for his pack and toolboxes,
+then seated himself on a thwart at the *Guinevere*'s stern.
+He seemed lost in thought as Iffy approached him,
+but said, "Of course," in reply to Iffy's tentative request for help.
+Standing,
+he straightened his jacket and smiled.
+"Being useful would be good for me right now."
 
-"You thinkin' 'bout them off the *Taroona*? Not that it's any o' my look-in,"
+"You thinkin' 'bout them off the *Taroona*?
+Not that it's any o' my look-in,"
 she added hastily.
 
-Wales shook his head. "No. I was thinking about the *Landrieu*. The big ship
-back at Halley," he continued as Iffy gave him a blank look. "The one the town
-uses as a breakwater. She was a marvel in her time. Fractal carbon ribs, a
-foamed poly-composite hull, and a core smart enough to qualify for citizenship.
-She was the first of her class to sail herself across the Pacific, but things
-were already falling apart by then." He sighed. "They only managed to make a
-handful like her before the war. It must have broken her heart to run herself
-aground."
+Wales shook his head.
+"No,
+I was thinking about the *Landrieu*.
+The big ship back at Halley,"
+he continued as Iffy gave him a blank look.
+"The one the town uses as a breakwater.
+She was a marvel in her time.
+Fractal carbon ribs,
+a foamed poly-composite hull,
+and a core smart enough to qualify for citizenship.
+She was one of the first ships to sail alone across the Pacific,
+but then the war came, and..."
+He sighed.
+"It must have broken her heart to run herself aground."
 
-"I guess," Iffy said to fill the silence that followed. "Can't imagine how I'd
-feel if somethin' like that happened to the *Guinevere*."
+"I guess," Iffy said to fill the silence that followed.
+"Can't imagine how I'd feel if somethin' like that happened to the *Guinevere*."
 
-Wales shook his head to clear it. "Let's hope you never have to find out," he
-said, suddenly brisk. "Now, where's this cable we're supposed to splice?"
+Wales shook his head to clear it.
+"Let's hope you never have to find out," he said,
+suddenly brisk.
+"Now, where's this cable we're supposed to splice?"
 
-Iffy had hoped that Wales would bring out his toolboxes---she was itching to
-examine their contents in detail---but instead, he studied the hacked-off ends
-of the backstay cable with a simple hand-held magnifier that highlighted the
-worse of the damage with garish reds and yellows. Iffy wanted to tell him that
-the damage wasn't her fault, but she bit back her words. There was no way she
-could tell him that without saying that it had been Uncle Jack, and as much as
-she wanted him to think well of her as a mechanic, no self-respecting sailor
-would point a finger at her own captain in front of a passenger.
+Iffy had hoped that Wales would bring out his toolboxes---she
+was itching to examine their contents in detail---but instead,
+he studied the hacked-off ends of the backstay cable
+with a hand-held smart lens
+that highlighted the worse of the damage with garish reds and yellows.
+Iffy wanted to tell him that the damage wasn't her fault,
+but she bit back her words.
+There was no way she could tell him that without saying that it had been Uncle Jack,
+and as much as she wanted him to think well of her as a mechanic,
+no self-respecting sailor would ever cast shade on her captain
+in front of a passenger.
 
-"All right," Wales said, slipping the magnifier back into one of the many
-pockets in his coat. "What's the plan: splice, clamp, strap, or weld?"
+"All right," Wales said,
+slipping the magnifier back into one of his coat's many pockets.
+"What's the plan: splice, clamp, strap, or weld?"
 
-"I was thinkin' I could splice it?" Iffy ventured hesitantly. When Wales
-nodded, she fished a roll of twisted eight-gauge cable from her bag of odds and
-ends and dug around to find a wire cutter and a pair of needle-nosed pliers.
+"I was thinkin' I could splice it?" Iffy ventured hesitantly.
+When Wales nodded
+she fished a roll of twisted eight-gauge cable from her bag of odds and ends
+and dug around to find a wire cutter and a pair of needle-nosed pliers.
 
-The next half hour flew by as Iffy lost herself in the task at hand. She had
-expected Wales to take charge, but instead he asked one question after another,
-her answers drawing ideas out of her that she hadn't know were there. It was
-like the schematics that sometimes popped into her head, but without the gut
-chill that came from not knowing where they came from.
+The next half hour flew by as Iffy lost herself in the task at hand.
+She had expected Wales to take charge,
+but instead he asked one question after another,
+drawing ideas out of her that she hadn't know were there.
+It was like the schematics that sometimes popped into her head,
+but without the gut chill of not knowing where they came from.
 
-Once the first dozen lengths of splice were woven into the cable, he sat
-cross-legged on the deck and held the cable's ends together so that she could
-finish connecting them. Iffy worked as quickly as she could, waiting for him to
-say it was time for a break, but he didn't. *Uncle Jack wouldn't have been able
-to hold the cable like that for more than a minute,* she thought. Even
-Mr. Mishra would have struggled, but Wales seemed unbothered.
+Once the first dozen lengths of splice were woven into the cable
+Wales sat cross-legged on the deck and held the cable's ends together
+so that she could finish connecting them.
+Iffy worked as quickly as she could,
+waiting for him to say it was time for a break,
+but he didn't.
+*Uncle Jack wouldn't have been able to hold the cable like
+that for more than a minute,* she thought.
+Even Mr. Mishra would have struggled,
+but Wales seemed unbothered.
 
-Over, through, under, through... "There," she said, sitting back on her
-haunches. "Wanna see if she holds together?"
+Over, through, under, through...
+"There," she said, sitting back on her haunches.
+"Wanna see if she holds together?"
 
-Wales nodded and pulled on the two sides of the cable. The splice stretched
-slightly, and for a moment Iffy was afraid it would give way, but it held. He
-looked at her for permission to stop, then dropped the cable on the deck with a
-whoosh when she nodded. "Think it'll hold?" he asked.
+Wales stood,
+trapped one end of the cable under his boot,
+and pulled hard.
+The splice stretched slightly,
+and for a moment Iffy was afraid it would give way,
+but it held.
+"Looks good to me."
 
-Iffy shrugged. "Only one way to find out." She hit the switch on the winch
-beside her. The cable zinged as it was wound in, then made a sharp *crack!* as
-it came taut. Iffy picked up a wrench and whacked the splice a couple of times
-as hard as she could.
+Iffy shrugged, unused to praise.
+"Only one way to find out."
+She hit the switch on the winch beside her.
+The cable zinged as it was wound in,
+then made a sharp *crack!* as it came taut.
+Iffy picked up a wrench and whacked the splice a couple of times as hard as she could.
 
 Wales blinked. "Are you always this direct when you're working?"
 
 Iffy grinned. "Pretty much."
 
-There were other things for them to mend after the cable. There were always
-things to mend on the *Guinevere*: a spidery network of microscopic cracks on
-the forward mast, a loose coupling on a bilge pipe, or the handle on the main
-hatch that had started sticking mid-way through their last voyage. Like most of
-the vessels that called Halley home, the *Guinevere* was more than a hundred
-years old, built before things fell apart out of materials that could only now
-be repaired, not made. Keeping her afloat was a matter of scouring online
-databases to find tips that weren't self-replicating spamotage left over from
-the war, firing off messages to other mechanics trying to keep their own ships
-running, running simulations to see if this patched with that patched with
-whatever would hold together in sub-zero temperatures, and the combination of
-clever hands, brute force, and improvisation she had used on the cable.
+There were other things to mend after the cable.
+There always were on the *Guinevere*:
+a spidery network of microscopic cracks on the forward mast,
+a loose coupling on a bilge pipe,
+or a handle on the main hatch
+that had started sticking mid-way through their last voyage.
+Like most of the vessels that called Halley home,
+the *Guinevere* was more than a hundred years old,
+constructed from materials that could no longer be made,
+only repaired.
+Keeping her afloat was a matter of swaps and trades and patches,
+of scouring noticeboards in the jungle
+to find tips that weren't self-replicating spamotage left over from the war,
+of swapping messages with other mechanics
+trying to keep their own ships running,
+of running simulations to see if this patched with that
+would hold together in sub-zero temperatures.
+In the end,
+though,
+it always came down to the combination of clever hands,
+brute force,
+and improvisation Iffy had used on the cable,
+and she loved it.
 
-Iffy loved it.
+Wales worked beside her the whole time,
+handing her tools,
+holding things steady while she screwed them in
+or used her cherished little laser to put a patch on a weld
+that held an even older patch in place.
+He somehow managed to keep up a steady stream of questions
+without ever making her feel like he was pestering her.
+She enjoyed every minute of it,
+just like she enjoyed the times
+when Mr. Mishra turned something she'd made over and over in his hands
+and pronounced it well done,
+or when Uncle Jack was sound asleep
+and Aunt Naggie told her stories about growing up in South Africa
+in the years after the war,
+when fruit still grew on the trees and people had pets that weren't rats and reptiles.
 
-Wales worked beside her the whole time, handing her tools, holding things steady
-while she screwed them in or used her cherished little laser to put a patch on
-the weld that held an even older patch in place. He somehow managed to keep up
-his steady stream of questions without ever making her feel like he was
-pestering her. She enjoyed every minute of it, just like she enjoyed the times
-when Mr. Mishra turned something she'd made over and over in his hands and
-pronounced it well done, or when Uncle Jack was sound asleep and Aunt Naggie
-told her stories about growing up in South Africa in the years after the war,
-when fruit still grew on the trees and people had pets that weren't rats and
-reptiles.
+Wales seemed to enjoy the work as well,
+right up until the moment he helped Iffy lift the cover off the backup generator
+near the *Guinevere*'s stern.
+His face fell at the sight of its compact, soot-stained bulk.
+"Y'aright?" Iffy asked,
+fanning away the smell.
 
-Wales seemed to enjoy the work as well, right up until the moment he helped Iffy
-lift the cover off the backup generator near the *Guinevere*'s stern. His face
-fell at the sight of its compact, oily bulk. "Y'aright?" Iffy asked, fanning
-away the smell.
+"I'm fine," Wales said,
+gazing down at the filthy ceramic engine block.
+"I just thought you ran on jellyfish sludge, not coal dust."
 
-"I'm fine," Wales said, gazing down at the ceramic engine block. "I just
-thought you ran on jellyfish sludge, not coal."
+"The main engine's a jelly-burner," Iffy said.
+"This here is just for when it's bust,
+or for haulin' the winches when there's ice 'n' all."
 
-"The main engine uses jelly," Iffy nodded at the backup. "This here is just for
-when it's bust, or for haulin' the winches when there's ice 'n' all."
+The square-faced man sighed.
+"But---coal? Really?"
 
-The square-faced man sighed. "But Iffy---coal? Really?"
+Iffy's eyes widened.
+"Oh crivens---you ain't an Eco, are you?
+Uncle Jack'll put you o'er the side an' no mistake.
+He hates Ecos even worse'n he hates Zillions."
 
-"It's not like we use it every day," Iffy said defensively. "It's only a
-backup, or when we need some extra oomph." Her eyes widened. "Oh crivens---you
-ain't a Zillion, are you? Uncle Jack'll put you o'er the side an' no mistake.
-He hates Zillions even worse'n he hates the Marines."
+Wales sighed again.
+"No, I'm not an Ecologist.
+Or Brazilian, for that matter.
+I just..."
+He squatted on his haunches
+and looked resignedly at the engine.
+"Come on. Let's get this done."
 
-Wales sighed heavily. "No, I'm not Brazilian. I just thought..." He squatted
-on his haunches and looked at the little coal-dust engine as if it were a
-poisonous snake and he wasn't sure if it was dead or alive. "Come on. Let's
-get this done."
+He asked fewer questions after that,
+but despite his obvious distaste
+he clearly knew how coal engines worked.
+Half an hour after they started,
+the lasers that ignited the coal dust the engine used for fuel
+were sparking away in perfect time
+and the cinder clog that had been blocking the intake pipe
+had finally been dislodged.
+She would normally have let the engine run for a few minutes to test it,
+but the thought of Wales not saying anything if she did
+made her decide not to.
 
-He asked fewer questions after that, and the ones he did ask were simple and
-direct. Despite his obvious distaste, he clearly knew how coal engines worked.
-Half an hour after they started, the lasers whose pulses ignited the coal dust
-that the engine used for fuel were sparking away in perfect time, and the cinder
-clog that Iffy had long suspected was blocking the intake pipe had finally been
-dislodged. She would normally have let the engine run for a few minutes to test
-it, but the thought of Wales not saying anything if she did made her decide not
-to.
+Aunt Naggie made noodles for dinner.
+The smell of synthetic coconut milk,
+greenhouse peppers,
+diced mushrooms,
+and spices made the galley as warm and as comfortable as an old sweater.
+"Just for you," Aunt Naggie whispered to Iffy,
+spooning a bit of Mrs. Sandhu's special curry into her foster daughter's bowl
+when Uncle Jack's back was turned.
 
-Aunt Naggie made noodles for dinner. "Just for you," she whispered, spooning a
-bit of powder onto her foster daughter's serving when Uncle Jack's back was
-turned and then tucking the jar back into her apron. The smell of synthetic
-coconut milk, greenhouse peppers, diced mushrooms, and spices made the galley as
-warm and as comfortable as an old sweater.
+Wales thanked Aunt Naggie profusely before taking his up onto deck to eat.
+"I like watching the waves," he explained
+when she protested that the galley could hold four,
+it wouldn't be a problem.
 
-Wales thanked Aunt Naggie before taking his up onto deck to eat. "I like
-watching the waves," he explained when she protested that the galley's little
-table could fold up to make room for everyone, it wouldn't be a problem, they'd
-done it plenty of times before.
+"Foolishness,"
+Uncle Jack muttered as soon as Wales was gone,
+though whether he meant the idea of four people eating at the galley's little table
+or the idea of watching waves for pleasure
+he didn't say.
+He stabbed a chunk of mushroom with a chopstick and stuffed it into his mouth.
+"I don't like 'im.
+Bet there's more'n just the *Taroona*'s crew lookin' for 'im.
+Hell,
+I bet someone would pay double what he's givin' us
+to know where he's at."
+He stabbed another piece of mushroom.
 
-Iffy bit her lip at that. She remembered the last time Aunt Naggie had invited
-someone onboard for tea. Uncle Jack had glowered from start to finish, blinking
-one eye every few minutes to check the time and muttering about all the chores
-that needed doing.
+Iffy ate in silence, head down.
+The safest thing to do when Uncle Jack got a money-making idea
+was to wait for it to pass---pointing out
+the holes in his plan
+was the surest way to make him actually do it,
+just to prove that no one could tell *him* which way was up.
+And while she still knew next to nothing about their passenger,
+she had the feeling that crossing him
+would be the dumbest idea Uncle Jack had ever had.
 
-He didn't bother to mutter about Wales. "I don't like 'im," he said flatly,
-stabbing a chunk of mushroom with a chopstick and stuffing it into his mouth.
-"Bet there's more'n just the *Taroona*'s crew lookin' for 'im. Hell, I bet
-there's someone would double what he's payin' us for a chance to put their hands
-to 'im." He stabbed another piece of mushroom.
+She and Aunt Naggie cleaned up afterward.
+"He seems nice," Aunt Naggie observed
+as she scraped the last traces of sauce off a plate into the composter.
+"Handy, too."
 
-Iffy ate in silence, head down. The safest thing to do when Uncle Jack got a
-not-quite-honest money-making idea was to wait for it to pass---pointing out the
-holes in his plan was practically guaranteed to make him follow through, just to
-prove that no one could tell *him* which way was up. And while she still knew
-next to nothing about their passenger, she had the feeling that crossing him
-would be the dumbest big idea Uncle Jack had ever had.
+"Mm hm," Iffy agreed
+around a last mouthful of noodles.
+"Might even be able to talk the core into behavin'
+if Uncle Jack'll let 'im take a crack at it."
 
-She and Aunt Naggie cleaned up afterward. "He seems nice," Aunt Naggie observed
-as she scraped the last traces of sauce off a plate into the composter. "Handy,
-too."
+"Oh now, wouldn't that be nice?" Aunt Naggie sighed wistfully.
+"No more sittin' up in the middle of the night
+wonderin' if the ship's gonna get the notion to head for Argentina or somethin'."
 
-"Mm hm," Iffy agreed around a last mouthful of noodles. "Might even be able to
-get the core straightened away if Uncle Jack'll let 'im."
+"But then when would you knit?" Iffy asked,
+nudging her foster mother with her elbow.
+Aunt Naggie blushed.
+Her "knitting" consisted of two balls of yarn,
+a pair of needles,
+and an endless series of romance novels
+featuring wealthy strangers with smoldering eyes
+who didn't realize how empty their rich, idle lives were
+until they met the right person,
+who was inevitably a poor but honest sailor.
+The books were churned out by a core in Rothera
+that had spent the war crafting disinformation for rebel bots.
+Their implausibility and steamy dialogue
+only added to the thrill Iffy felt
+whenever she managed to get an hour alone with Aunt Naggie's tablet.
 
-"Oh now, wouldn't that be nice?" Aunt Naggie sighed wistfully. "No more
-sittin' up in the middle of the night wonderin' if the ship's gonna get the
-notion to head for Argentina or somethin'."
+"Never you mind about my knitting," Aunt Naggie said primly.
+"You're on watch tonight,
+so you best get a nap an' I'll wake you in a few."
+She kissed the top of her foster daughter's head as Iffy groaned.
+"Off with you now."
 
-"But then when would you knit?" Iffy asked, nudging her foster mother with her
-elbow. Aunt Naggie blushed. Her "knitting" consisted of two balls of yarn, a
-pair of needles, and an endless series of romance novels featuring wealthy
-strangers with smoldering eyes who didn't realize how empty their rich, idle
-lives were until they met the right person, who was inevitably a poor but honest
-sailor. According to Aunt Naggie, the books were churned out by a core in
-Rothera that had spent the war crafting disinformation for rebel bots. Their
-implausibility, steamy dialogue, and frequent anachronisms only added to the
-thrill Iffy felt whenever she managed to get an hour alone with Aunt Naggie's
-tablet.
-
-"Never you mind about my knitting," Aunt Naggie said primly. "You're on watch
-again tonight, so you best get a nap an' I'll wake you in a few." She kissed
-the top of her foster daughter's head as Iffy groaned. "Off with you now."
+<!--
 
 Wales was back on the thwart at the stern when Iffy got topside, his empty bowl
 on the deck beside him. She hesitated, wanting to talk but not knowing what to

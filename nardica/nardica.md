@@ -179,7 +179,7 @@ and another---the big one that Iffy had watched like a hungry gull all spring---
 Shiploads of precious equipment had already been carted through its double-wide doors:
 forges, presses, a lathe with a spindle thicker than Iffy's leg,
 and the prize of them all,
-an industrial printer from China-over-the-Sea.
+an industrial printer from Nova Zembla at the opposite end of the earth.
 
 It had arrived in the hold of a heavily-armed Aussie destroyer.
 The whole town had turned out when the sleek warship came into harbor,
@@ -2994,8 +2994,8 @@ Wales paid more no attention to it than he did Iffy and her foster parents.
 were all he seemed to have the energy to say.
 
 But Iffy was fascinated.
-Skies the world over had been off limits since the end of the war---even
-China-over-the-Sea couldn't watch the whole world all the time,
+Skies the world over had been off limits since the end of the war:
+even the machines couldn't watch the whole world all the time,
 but anything bigger much larger than a single person
 ran the risk of being fried from orbit.
 A few heavily armored aircraft still flew short missions here and there,
@@ -3380,7 +3380,7 @@ drowned and abandoned.
 
 A plain wooden desk stood near one wall
 with half a dozen simple wooden chairs in front of it.
-A Marine with three stripes on her sleeve gestured for them all to sit.
+An adult Marine with three stripes on her sleeve gestured for them all to sit.
 She studied them for a heartbeat,
 eyes jumping from one to the next,
 then said,
@@ -3422,14 +3422,14 @@ a shrill mechanical sound that ended in the flat crack of an explosion.
 A dozen pop-up displays instantly materialized above the desk
 to show aerial views and schematics splashed with red danger markers.
 The Marine sergeant took two quick steps
-and pressed the tip of a stiffened finger against Wales' head.
+and pressed the tip of her stiffened finger against Wales' head.
 He raised his hands.
 "It's not mine!" he protested.
 "It's not mine!"
 
-Half a dozen Marines poured through the door behind them.
-"Sir, it's the G-80," the one in the lead said,
-urgent but calm.
+Half a dozen teenage Marines poured through the door behind them.
+"Sir, it's the G-80," the one in front said,
+urgent but calm as his conditioning took control.
 "It---"
 A second shriek and *crack!* cut off the rest of his sentence.
 "You need to evacuate, sir," the Marine continued.
@@ -3453,61 +3453,56 @@ swinging it arms like clubs to knock another sentry into the air.
 "Mister Wales?"
 
 "This has nothing to do with me," Wales replied,
-his head tilted slightly under the pressure of the Marine's gun finger
-against the tech in his temple.
+tilting his head slightly
+under the pressure of the Marine's gun finger against his temple.
 
-"Sir---" the Marine began again.
+"Sir---" she began again.
 
 "In a moment," the governor said sharply.
-A pair of sentries charged their larger opponent simultaneously.
-The G-80 knocked the first one away and grabbed the second with its heavy square claws.
+A pair of sentry bots charged the G-80 simultaneously.
+It knocked the first one away and grabbed the second with its heavy square claws.
 
 The image flashed blue for a moment.
 "EMP?" Doctor Johel gasped disbelievingly.
 "It doesn't have a pulse generator!"
 
 The image reformed.
-The G-80 dropped the sentry it had torn in half.
-The other sentry bots stood frozen in a circle around it for a moment.
-Then,
-as one,
-the G-80 and the sentries turned toward the mansion.
+The G-80 dropped the sentry bot it had picked up.
+Together,
+they and the other sentries turned toward the mansion.
 The last thing Iffy saw before her aunt dragged her away
-was the sentries leaping through the hole
-made by the G-80 plowing through the mansion's front door.
+was the G-80 tearing the door off its hinges.
 
-"Breach!" one of the younger Marines shouted.
+"Breach!" one of the young Marines shouted.
 
 "Really?" Wales muttered sarcastically,
 his hands still in the air.
 
-The Marine behind him nudged him forward.
+The sergeant behind him nudged him forward.
 "Sir, if you would?"
 
 Wales didn't move.
 "Not without my tools."
 
-The Marine's second nudge was more of a shove.
+Her second nudge was more of a shove.
 "Sir, we can come back for---"
 
-"If it takes too long for us to come back for them,
-there won't be anything for us to come back to,"
+"If it takes too long for us to come back,
+there won't be anything for us to come back *to*,"
 Wales said sharply.
 "Jasmina?"
 
 Doctor Johel and the governor exchanged looks.
-"Bring them," the governor ordered crisply.
+"Bring them," the governor ordered.
 
-"Sir, we can't bring his tech into the secure area without testing it,"
+"Sir, it is against protocol to bring unaudited tech into the secure area,"
 the sergeant protested.
 
-The governor raised an eyebrow.
-"Mister Wales?"
+"Executive override,"
+the governor said crisply.
+"Please don't make me regret this."
 
-Wales raised his hands.
-"You have my word."
-
-After that, everything moved quickly.
+Everything happened very quickly after that.
 One Marine opened the door
 and tossed a thumb-sized camera drone into the waiting room.
 When it wasn't fried by a laser or blown to pieces by a needle gun,
@@ -3848,16 +3843,15 @@ so I'll ask again:
 who else knows?"
 
 Wales exhaled slowly.
-"China,"
+"Nova Zembla,"
 he admitted.
-"It's China-over-the-Sea,
-or at least,
+"Or at least,
 one of its factions or subroutines.
 Who knows how it thinks?"
 
 "Who indeed?"
 the governor echoed.
-"And why would humanity's only friend among the machines
+"And why would humanity's only ally among the machines
 be so interested in you?"
 
 "Because I stole something from it,"
@@ -3880,9 +3874,8 @@ the governor said crisply.
 
 The governor waved at Iffy and her foster parents.
 "Take the Kwans back to their ship.
-You can resupply while you wait at city expense,"
-he continued as Uncle Jack opened his mouth.
-"Mister Wales, you'll be our guest here
-while we determine what action we should take next.
-Now if you'll excuse me,
-I need to tell Private Wen's family he isn't coming home."
+You can resupply while you wait for us to decide what to do,"
+he continued as Uncle Jack opened his mouth to protest.
+"Mister Wales, you'll be our guest here.
+Now if you'll all excuse me,
+I need to tell Private Shirido's family he isn't coming home."

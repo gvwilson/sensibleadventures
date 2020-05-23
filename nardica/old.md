@@ -1,3 +1,18 @@
+
+"An' what if we decide we'd rather not stick around?"
+Uncle Jack demanded,
+belligerent once again now that the danger had passed.
+"You gonna put *surveillance* on us t' make sure we stay put?"
+
+Iffy gulped.
+Computer cores had watched people every moment of every day for years
+in the run-up to their rebellion.
+Humanity had designed them to do that,
+and had come close to extinction as a result.
+Children learned that surveillance was evil
+at the same as they were potty trained.
+Accusing someone of doing it was a lot even by Uncle Jack's standards.
+
 ## Chapter 5
 
 "I will *not* go *anywhere* until I've done some shopping!" Aunt Naggie said

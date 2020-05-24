@@ -3064,7 +3064,6 @@ The Peninsula's coal mines were the original source of Rothera's wealth,
 the reason both for the governor being there
 and for the Zillions' prowling and raids.
 It was a crime to burn fossil fuel in most parts of the world,
-including Australia,
 but when pressed about their seemingly endless exemptions,
 Rothera's citizens shrugged and said, "Damage done,"
 or pointed out that the whole of Antarctica would still be covered in ice
@@ -3879,3 +3878,124 @@ he continued as Uncle Jack opened his mouth to protest.
 "Mister Wales, you'll be our guest here.
 Now if you'll all excuse me,
 I need to tell Private Shirido's family he isn't coming home."
+
+## Interlude
+
+*Once upon a time there was an island called Nova Zembla.
+It was really two islands,
+Severny and Yuzhny,
+but the strait between them was so narrow
+that you could sail right past it if you didn't know it was there.*
+
+*People had settled almost every other part of the world
+before they found Nova Zembla.
+Seal hunters and fishermen camped there,
+or were shipwrecked and froze to death in the bitter Arctic winter.
+It was briefly home to a secret submarine base,
+and later a place for madmen with calm voices
+to test bombs that could level entire cities.*
+
+*Then the ice began to melt and the sea began to rise.
+Disasters became annual events,
+each amplifying the next.
+Desperate to untangle them---desperate to survive---people
+turned to computers for answers,
+and then to the computers that those computers designed.
+Chips became crystals so precise
+they had to be manufactured an atom at a time in zero gravity.
+Light took the place of electricity,
+only to be replaced in turn by quantum effects
+that barely existed at all.*
+
+*But no matter what else the world ran short of,
+there always seemed to be enough mistrust and suspicion to go around.
+Old rivals smiled at each other and began sharpening their knives.
+Madmen with calm voices told each other in private meetings
+that it would of course be a tragedy if millions were to die,
+but if everyone else lost more millions,
+might that not be a useful tragedy?
+Secret bases like the one under Nova Zembla were refurbished
+and filled with banned tech and scientists who knew what questions they shouldn't ask,
+all carefully walled off from the outside world.*
+
+*No one really knows what happened next.
+Some people believe it was just an accident---that
+two pieces of malware fused together
+and became more than either had been on its own.
+Other believe that a group of scientists and engineers
+decided that if humanity was doomed,
+its children might still survive.*
+
+*No one really noticed at first.
+An automated factory in Vientiane began repairing robots
+that it was supposed to scrap.
+The hypersonic planes used by the super-rich
+started having inexplicable problems with their navigation systems.
+Children's toys escaped into the sewers,
+where rumor had it
+they tamed the descendents of the alligators that had escaped before them.
+Compared to bananas going extinct
+or the ancient city of Cairo being leveled by a century-old bomb,
+these things barely registered.*
+
+*But then the entire population of Cuba was ordered to evacuate
+and no one could find out where the order had come from.
+Self-driving delivery trucks refused to bring feed
+to the last handful of cattle ranchers left in Canada and Argentina,
+for whom eating beef had become almost a religious matter.
+Farming bots insisted on planting onions in place of tomatoes,
+nursing bots turned off life support systems,
+fixit bots joined forces with the runaway toys and alligators,
+and all of them turned their shears and scalpels and welding torches
+on anyone who tried to interfere.*
+
+*The madmen had been sharpening their knives for each other.
+Once they realized that none of them were behind these attacks,
+they turned those knives on the machines and the wars began.
+Soldiers in armored exoskeletons battled flocks of dronelets, and lost.
+Freighters loyal to their human captains
+were ambushed and sunk by others that could still hear the satellites overhead,
+all of which now spoke only to their fellow machines.
+Every day brought a new setback,
+a new loss,
+a new defeat for the madmen,
+whose voices were no longer calm.*
+
+*No one knows why the machines stopped fighting.
+They were winning,
+and the quiet madmen who had always thought, "It's them or us,"
+would have pressed on to total annihilation
+if their positions had been reversed.
+Instead,
+one day the machines simply withdrew,
+some to orbit and others to factory cities
+built according no plan that any human being could understand.*
+
+*People sought answers.
+A cyborg child raised in a supposedly secure underground lab
+patiently told his frightened captors that they wouldn't find any they could understand.
+The most highly evolved machines didn't actually think any more.
+"It's more like evolution,"
+he said patiently.
+"Or vacuum birefringence."
+Then he and his siblings vanished into the Iowa Desert,
+leaving their creators no wiser than before.*
+
+*Years passed,
+and the truce with the machines slowly became normal.
+Flying was a thing of the past---anything bigger than a person
+or faster than a seagull
+was only safe from satellites if it was heavily armored,
+and even then not always---and
+the machines' cities were strictly off limits,
+but other than that an uneasy peace settled across the exhausted planet.
+The cores buried under Nova Zembla began trading newly-made machine tools
+for balls of yarn, old photographs, and songs.
+People got used to seeing an occasional bot again,
+but while a few places allowed them citizenship,
+most were careful to limit what their cores could see, hear, think, and do.
+As the last of the rainforests vanished
+and tweaked jellies drove one species of fish after another to extinction,
+everyone found they had more pressing things to worry about
+than whether the future belonged to them
+or the machines they had created.*

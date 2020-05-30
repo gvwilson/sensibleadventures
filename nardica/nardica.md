@@ -1012,7 +1012,7 @@ The shaven-headed woman leading the new arrivals put her hands on her hips.
 scowling at the Marine sergeant, the crowd, and everything else in sight for good measure.
 
 ""Kappa, cap'n" the first woman span.
-"Just 'splainin' t' these blues that there ain't nothin' here needs their 'tention."
+"Just 'splainin' t' these Blues that there ain't nothin' here needs their 'tention."
 
 "With respect, citizen," the sergeant said,
 his inducted accent making his calm words ridiculous and ominous at the same time,
@@ -1542,7 +1542,7 @@ He tapped the tech in his temple.
 "So if you try to call the Marines, I'll know."
 
 Uncle Jack spat over the railing.
-"Ain't nobody here calls the blues," he growled,
+"Ain't nobody here calls the Blues," he growled,
 for once telling the truth.
 
 Wales nodded and strode down the gangplank,
@@ -4197,7 +4197,7 @@ Her tone turned serious as she nodded at the Marine cutter under repair beside t
 "So's that why we got th' ganky to finish up this 'un?
 'Cuz my First,
 she thought we had a coupla weeks f'r it,
-but the blues come along day b'fore last an' said we gotta be crannup soonest."
+but the Blues come along day b'fore last an' said we gotta be crannup soonest."
 
 Iffy swallowed.
 Two days past was the day Wales had made the sea boil
@@ -4227,7 +4227,7 @@ to hide their words from surveillance during the robot wars,
 and that children now used to keep secrets from adults.
 Little finger and fourth finger together, middle finger, middle and fourth...
 The words and letters took shape in her head as Honesty tapped them out.
-The blues were watching.
+The Blues were watching.
 They had left some cheese behind
 (no, that didn't make any sense, Honesty must have meant some cameras),
 so they had to be careful what they said.
@@ -4280,7 +4280,7 @@ settling herself on a stool next to the square meter of workbench
 where she salvaged the easier bits and pieces of tech that came her family's way.
 "Yeah.
 Lotsa folk wonderin' why the ganky,
-but the blues ain't sayin' bunga 'cept that it come along straight from th' governor.
+but the Blues ain't sayin' bunga 'cept that it come along straight from th' governor.
 Figure it's got somethin' to do with th' bots going gonjy 'long yesterday?"
 
 "I dunno," Iffy said.
@@ -4482,3 +4482,135 @@ some stray word of hers catching the governor's attention.
 "'Scuse me."
 She ducked under a tarnished video carpet hanging from a clothesline
 and pushed her way into the crowd on the other side.
+
+And froze in disbelief.
+She ducked back behind the video carpet and squeezed her eyes shut.
+She *couldn't* have seen what she thought she just saw.
+She shook her head and peeked around the carpet's edge.
+
+There, just a couple of meters away, stood Aunt Naggie
+and a trim Asian man in time-worn brown and gray jacket
+of the old Ecological Corps.
+Iffy couldn't hear what they were saying over the bustle of the crowd,
+but from the way they were looking into each others' eyes
+she was pretty sure they weren't discussing topsoil formation.
+
+The ecologist handed Aunt Naggie something.
+As he leaned forward to kiss her cheek,
+the space above their heads flickered.
+It was another video carpet,
+Iffy realized,
+strung between four posts like a canopy
+to conceal them from any cameras or drones overhead.
+It flickered again as Aunt Naggie pulled the ecologist closer
+and kissed him for real.
+
+Iffy's stomach flip-flopped
+the way it did when she read some of the steamier passages
+in Aunt Naggie's romance novels.
+The ecologist stepped back,
+a bland smile replacing the genuine warmth of a moment before.
+He gestured at one of the carpets hanging on a display rack beside him.
+"Perhaps this one?" he asked a little too loudly.
+
+Aunt Naggie's reply was cut off by a sudden crackle of static.
+"Citizens!"
+The stern mechanical voice cut through the market bustle.
+"Remain where you are!
+There is no cause for alarm!
+This safety notice is brought to you by Volkov's Hot Sauce!"
+
+An alarm began to ping, then another.
+Someone shouted, "Blues!" 
+Iffy spun around.
+A squad of Marines in exoskeletons had appeared at the entrance,
+visors down and shock sticks in their hands.
+
+"Citizens!
+Remain where you are!
+And try Volkov's---there's nothing hotter this side of the Cairo Crater!"
+The drone above Iffy jinked sideways to dodge a thrown scrap of bamboo.
+Something clanged off a Marine's exoskeleton.
+Someone shouted,
+"Show us yer warrant 'r show us your backside!"
+Other voices took up the cry.
+"Show us yer warrant!"
+
+*Great,* Iffy thought wearily, *Another affin' dock fight.*
+She pulled aside the carpet she had been hiding behind
+and ran to her foster mother.
+
+"Iffy?" Aunt Naggie gasped. "What're you doin' here?"
+
+"Came lookin' for you," Iffy said breathlessly.
+She nodded at the ecologist.
+"H'lo. I'm Iffy."
+
+"Fifth of Ang Kwan," he said, bowing slightly.
+"It's a pleasure to meet you.
+Nagatha has told me a great about you."
+
+"Hasn't told me nothin' about *you*," Iffy said,
+immediately regretting her attempt to be flippant.
+
+But the ecologist smiled.
+"That's probably for the best."
+
+"Iffy, you ain't supposed t' be here!" Aunt Naggie said helplessly.
+"You're supposed to be down along th' docks with your friend!"
+
+"I was," Iffy said defensively.
+"What's goin' on?"
+
+The ecologist put his hand on Aunt Naggie's arm.
+"You have to go, Nagatha.
+Now."
+
+Aunt Naggie set her jaw.
+"No."
+She took the ecologist's hand in hers.
+"They could be lookin' fer you.
+You gotta be somewhere else than here."
+
+"Stubborn woman," he muttered under his breath.
+He pulled a flimsy oval of plastic out of his pocket
+and pressed it onto his face.
+The plastic flickered.
+Suddenly a different man was standing there,
+one with a heavier jaw and wider cheekbones.
+
+The ecologist slipped off his jacket and turned it inside out
+to reveal a purple paisley pattern
+that had briefly been fashionable ten years before.
+He put it back on and smiled at Aunt Naggie.
+"Well? Would you let this man take you dancing?"
+
+"Stop with yer jokin'," she scolded,
+glancing fearfully toward the entrance
+as the chants of "Warrant! Warrant! Warrant!" grew louder and angrier.
+
+Something crashed---a stall toppling over
+or a bot being knocked off its feet.
+"Citizens!
+Remain calm!
+We are operating with full legal authority!
+Do not interfere!
+And remember Volkov's,
+because good food hurts!"
+
+Another crash from the entrance
+was followed by the sizzle and crack of a shock stick.
+The ecologist swore.
+"Go along by Rowlin' Stritt," he ordered,
+his voice deeper and his accent thickening.
+"Doan' be run, but doan' be stoppin'."
+
+"What about you?" Aunt Naggie demanded.
+
+The ecologist shook his head.
+"I'm goan along by the back way.
+I see you where the first time I saw you,
+get us a cuppa."
+He kissed her quickly.
+"Now go."
+

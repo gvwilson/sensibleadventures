@@ -8,7 +8,7 @@ body {
 blockquote {
     font-size: 100%;
     font-style: italic;
-    border: solid 1px;
+    border: solid 1px gray;
 }
 
 ol, ul {
@@ -19,6 +19,11 @@ hr {
     border: none;
     height: 2px;
     background-color: #000000;
+}
+
+td, th {
+    padding: 3px;
+    border: 1px solid gray;
 }
 
 footer {

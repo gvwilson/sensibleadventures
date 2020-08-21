@@ -1,6 +1,6 @@
 ---
 layout: narrow
-title: Madyy Roo
+title: Maddy Roo
 permalink: /maddy-roo/
 ---
 

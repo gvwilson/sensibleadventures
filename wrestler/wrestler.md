@@ -4,23 +4,21 @@ title: Wrestler
 permalink: /wrestler/
 ---
 
-*He walked into my mother's camp as the sun rose one spring morning.
-We had seen him coming,
-of course,
-and my grandfather muttered that
-anyone without enough courtesy to sit and wait for an invitation
-should be beaten,
+*He walked into my mother's camp one morning as if he was family.
+We had watched him trudge toward us across the spring-green tundra all morning.
+My grandfather muttered that
+anyone without enough courtesy to sit at a polite distance and wait for an invitation
+should have his throat cut,
 but my mother said no.*
 
-*When he pulled back the hood on his parka
-my mother almost did beat him or worse,
-thinking him some strange monster.
-His hair was yellow,
-and his face was all nose and beard.
-He smiled and said something in a strange language,
-and laughed when we spoke to him in our own.*
+*When he pulled back the hood on his parka,
+she almost let my grandfather do it.
+He looked like something from a fever dream---his hair was yellow,
+and his face was all nose and beard.*
 
-*By summer he and I were learning to wrestle spirits together.
+*He smiled and said something in a strange language,
+and laughed when we spoke to him in our own.
+By summer he and I were learning to wrestle spirits together.
 That is how Saknus Heraldsson came to the Anuat.*
 
 ---

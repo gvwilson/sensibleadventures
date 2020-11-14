@@ -738,7 +738,7 @@ which were the two places she always hid when they played hide and seek.*
 
 *"Sindy!" Maddy called,
 panic rising in her throat.
-"Sindy, where are you? You come out right Her!"
+"Sindy, where are you? You come out right now!"
 Their parents' bedroom? No.
 Maddy's room? No.
 The hall closet where Mama Roo kept winter clothes in summer and summer clothes in winter?
@@ -5624,7 +5624,8 @@ before setting the portrait of Papa Roo on the table.
 Dockety reached for it.
 "Who is this one?" it asked.
 
-"That's my dad," Maddy said proudly.
+"That's my dad," Maddy said proudly,
+wiping the corner of her eye with her sleeve.
 
 Dockety studied the picture,
 then turned to show it to Crusher.
@@ -5634,7 +5635,7 @@ then flashed, "Confirmed."
 Dockety turned back to the roos.
 "We have seen this one,"
 it said.
-"It is in Heck."
+"It is with the others in Heck."
 
 <center>
 <em>To be continued...</em>

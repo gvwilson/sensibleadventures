@@ -6,20 +6,19 @@ permalink: /wrestler/
 
 *He walked into my mother's camp one morning as if he was family.
 We had watched him trudge toward us across the spring-green tundra all morning.
-My grandfather muttered that
+My grandfather said that
 anyone without enough courtesy to sit at a polite distance and wait for an invitation
-should have his throat cut,
-but my mother said no.*
+should be turned away,
+but my mother made him welcome.*
 
-*When he pulled back the hood on his parka,
-she almost let my grandfather do it.
-He looked like something from a fever dream---his hair was yellow,
-and his face was all nose and beard.*
+*She almost changed her mind when he pulled back the hood on his parka.
+He looked like something from a fever dream---his hair and beard were yellow,
+and his nose was like a puffin's beak.*
 
 *He smiled and said something in a strange language,
-and laughed when we spoke to him in our own.
-By summer he and I were learning to wrestle spirits together.
-That is how Saknus Heraldsson came to the Anuat.*
+then laughed when we spoke to him in our own.
+By the time summer came he and I were learning to wrestle spirits together.
+That is how Saknus Heraldsson came to the Nukilik.*
 
 ---
 
@@ -34,7 +33,7 @@ The trader settles back on her stool and nods a curt hello
 as Luft crosses the packed earth floor to the pit stove
 and pulls off his mittens.
 
-The Anuat puts the knife back on the counter and shoulders his pack.
+The Nukilik puts the knife back on the counter and shoulders his pack.
 "Three blue rabbit furs are enough for a hand of such knives.
 Good weather."
 He pulls the hood of his parka over his long dark hair
@@ -97,7 +96,7 @@ Neither is true---she is just loud.
 Luft slides onto the bench beside her.
 "This is Chief Walker," he says,
 jerking his chin at the impassive man standing opposite them.
-There are only a handful of other Anuat in the alehouse,
+There are only a handful of other Nukilik in the alehouse,
 none of them apparently sober enough to stand.
 
 Argasdottir pries Luft's hand off her arm.
@@ -119,7 +118,7 @@ Argasdottir takes the mug the aleman hands her,
 then a second as Luft takes the first from her.
 "So you're the one that goes trapping up into the Bentfathers, then?"
 
-The Anuat nods.
+The Nukilik nods.
 Argasdottir belches and wipes her mouth.
 "Good, that's good.
 Luft and I want to get out there and back before the harbor freezes.
@@ -128,10 +127,10 @@ Just straight up the river into the foothills, that's all."
 
 "You will find better furs to the east,"
 Walker comments neutrally after a moment.
-He wears southern-style gloves rather than Anuat mitts,
+He wears southern-style gloves rather than Nukilik mitts,
 Argasdottir notices.
 The sinew stitches along their seams are carefully knotted,
-but unlike every other piece of clothing she has seen an Anuat wear,
+but unlike every other piece of clothing she has seen an Nukilik wear,
 they have no embroidery or beads.
 
 "We're not looking for furs,"
@@ -144,7 +143,7 @@ Luft and I already have a sled and some elk.
 We can get tack by day's end and leave tomorrow if you're interested."
 
 The three are silent,
-the two Garheimmen looking expectantly at the Anuat,
+the two Garheimmen looking expectantly at the Nukilik,
 who continues looking at the table.
 Finally Luft snorts.
 "Well if you're not,
@@ -157,7 +156,7 @@ before raising his eyes to Argasdottir's.
 
 The Garheimmen woman smiles widely.
 "Good, my new friend, good!"
-She reachs across the table to squeeze the Anuat's hand.
+She reachs across the table to squeeze the Nukilik's hand.
 "At first light, then?"
 
 Walker nods and stands.
@@ -166,7 +165,7 @@ someone pushes him from behind and demands,
 "What you do here?"
 
 Walker turns his head.
-A heavyset Anuat wearing a parka decorated with the trading company's colors
+A heavyset Nukilik wearing a parka decorated with the trading company's colors
 stands unsteadily a few steps behind him.
 "*Pauetsitgualuk*!
 You go back the cold you belong.
@@ -182,7 +181,7 @@ or even after a bad one,
 and nothing much in the alehouse is breakable except the patrons.
 
 Walker shifts his pack on his shoulder and turns as if to go.
-The larger Anuat says something sneering and reaches for him.
+The larger Nukilik says something sneering and reaches for him.
 Somehow Walker's hand is there to grab his sleeve.
 He tugs,
 turns,
@@ -193,7 +192,7 @@ and lands on the floor with a thud.
 Argasdottir is on her feet.
 "Are you all right?" she asks.
 
-The Anuat looks at her,
+The Nukilik looks at her,
 then at the Goose,
 his lack of expression saying more loudly than words
 that *he* is not the one lying on the floor.
@@ -221,7 +220,7 @@ Without thinking,
 Torvane *reaches* across the room.
 The air ripples.
 For a moment everyone in the alehouse tastes ginger and regret.
-The Anuat trips over nothing and falls heavily to the floor once again.
+The Nukilik trips over nothing and falls heavily to the floor once again.
 
 The aleman hefts his cudgel and mutters a curse.
 Others make signs with their fingers
@@ -269,70 +268,64 @@ The elk bleats again.
 
 ---
 
-*We spent four years together,
-Saknus and I,
-learning to wrestle.
+*Saknus and I spent four years together
+learning how to wrestle.
 We trapped small birds and fieldmice,
-then used their bones to command their little spirits
+then used their bones to command their spirits to do small tricks
 before setting them free.
-Once I persuaded my brother to trap a lynx for us.
-We called its spirit back to do small magics for several days
-until my mother found out.
-She beat me for my impudence,
+One time I persuaded my brother to trap a lynx for us.
+We called its spirit back again and again until my mother found out.
+She beat me for it,
 but his only punishment was a week without lessons.*
 
-*At night Saknus told us stories,
-laughing at his mistakes as he learned our language.
-He told us of his home in the south,
-of ships and kings and libraries,
-of cities filled with so many people
-that no one knew all their names.*
+*At night Saknus told us stories of his home in the south,
+of ships and kings and libraries
+and cities with so many people
+that no one knew all their names.
+He laughed at his own mistakes as he learned our language,
+but brushed off questions about his family or his past.*
 
-My grandfather often grumbled that
-there was no point teaching him how to wrestle if he had no ancestors,
+*My grandfather sometimes grumbled that
+there was no point teaching someone with no ancestors how to wrestle,
 but my mother ignored him.
-Other shamans came to visit her and talk to her strange pupil,
+His presence added to our family's prestige---other shamans came to meet her strange pupil,
 and from each of them I think Saknus learned a little more.*
 
-*"To work strong magics a shaman must have help from strong spirits.
-Our ancestors are angry when they are called back from the Summer Lands
-and must be beaten before they will obey.
+*"A shaman must have help from strong spirits to work strong magic.
+Our ancestors are angry when we call them back from the Summer Lands
+and must be made to obey us.
 Only in this way can magic be done."
 Saknus smiled when my mother said this,
 as though at some joke only he had heard.*
 
-*"Can you only call ancestors back to wrestle?" he asked.*
+*"Can you only call your own ancestors back?" he asked.*
 
-*"Yes," my mother replied.
-It was true.
-I had tried,
-when other shamans visited,
-to reach their ancestors through their necklaces-of-bones,
+*"Yes," my mother replied,
+and it was true.
+I had tried to reach other shamans' ancestors through their necklaces-of-bones,
 but I never could.*
 
-*When my grandfather died we fasted for two days,
+*When my grandfather went to the Summer Lands we fasted for two days,
 then cut off his thumbs and burned his body.
 My mother emptied the stew-pot and boiled the thumbs
 until the meat fell from them.*
 
 *She took the bones and went away from camp.
-"She is wrestling his spirit,"
+"A spirit fights hardest the first time it is called back,"
 I told Saknus,
-proud of knowing something for once that he did not.
-"Once she has defeated him,
+proud of knowing something that for once he did not.
+"Once he submits,
 she will put his bones on her necklace."*
 
-*"There are a great many bones on that necklace,"
-he observed,
-his eyes on the horizon.*
+*"It already has a great many,"
+he observed.
 
-*"There are twenty-two," I told him proudly.
+*"Twenty-two," I told him proudly.
 "Every summer my mother makes a magic to tie her spirit to her own bones
 so that after she dies I can call her back and wrestle her.
-Every shaman does this
-so that their children and theirs will have magic.
+Every shaman does this for the sake of those who come after.
 If a shaman sees many summers and does this many times
-their grandchildren's grandchildren might still be able to call on them."*
+their grandchildren's grandchildren might still be able to call them."*
 
 *The southerner turned his hands palms up in a gesture of thanks.
 "I am grateful as always for your lessons."*
@@ -341,9 +334,9 @@ their grandchildren's grandchildren might still be able to call on them."*
 as he often did when around the big-nosed southerner.
 We were twins,
 and he had taken to hunting as I had taken to the shaman's ways.
-He would say little when Saknus spoke,
-and would soon leave a tent if he entered.
-We had been closer than friends before Saknus's arrival.
+He said little when Saknus was near,
+or left the tent if he could.
+We had been close friends before Saknus came.
 It hurt me how we grew apart in those years.*
 
 ---
@@ -373,7 +366,7 @@ struggling to her feet inside a double layer of furs
 and wincing as her weight comes down on her bloodied toe.
 "Hoy, Walker, good weather!"
 
-The blot becomes the Anuat's solid bulk.
+The blot becomes the Nukilik's solid bulk.
 Half a head shorter than the magician,
 the hunter is wide across the shoulders and waist.
 His face is the colour of bleached driftwood,
@@ -385,7 +378,7 @@ and two spears are the only gear he carries.
 He nods when he reaches the southerners
 and puts his skis onto the snow.
 "The river ice is good from here to the mountains,"
-the Anuat says,
+the Nukilik says,
 lashing his pack to the rear of the sled.
 
 "We likely to bump into anyone else?"
@@ -400,12 +393,12 @@ he adds with a trace of bitterness.
 He moves forward to the sled traces.
 The dogs grumble and snuffle his hands.
 "I already checked those," Luft says sharply.
-The Anuat continues to tug and twist the leather straps,
+The Nukilik continues to tug and twist the leather straps,
 making minute adjustments and tightening knots.
 The young swordsman looks at Argasdottir angrily,
 only to be shushed with a handwave.
 
-The Anuat makes a final slight adjustment in the length of a trace and straightens up,
+The Nukilik makes a final slight adjustment in the length of a trace and straightens up,
 patting one of the elk on his head.
 "Maybe four, maybe five days to the mountains with these.
 If the weather is good,"
@@ -450,14 +443,14 @@ Argasdottir frowns,
 but relaxes when Walker takes a small shovel from the sled
 and begins thumping a patch of snow to flatten it.
 
-As the Anuat begins to erect their tent
+As the Nukilik begins to erect their tent
 Argasdottir plants five stakes in a circle around their camp.
 She is tying a design on them in red cord
 when she realizes that Walker has stopped work and is watching him.
 "Anything wrong?"
 she asks.
 
-The Anuat scowls.
+The Nukilik scowls.
 "What is this?"
 
 Argasdottir shrugs.
@@ -466,7 +459,7 @@ If anyone crosses it during the night,
 it'll wake me up.
 Just a precaution."
 
-The Anuat grunts and goes back to work.
+The Nukilik grunts and goes back to work.
 Argasdottir watches him for a moment,
 then shrugs and goes back to her spell.
 
@@ -488,73 +481,72 @@ and growls unhappily.*
 
 ---
 
-*In the summer of Saknus's fourth year,
-he destroyed us.
-When the sun was so strong that it shone all night the Anuat gathered to trade,
-and to arrange marriages and welcome new shamans.
-There was singing and dancing,
-and many games as young men and women tried to impress sceptical mothers and fathers.
-My brother Walks-In-Storm easily beat the other men in spear-throwing and running.*
+*In the summer of his fourth year,
+Saknus destroyed us.
+When the sun was so strong that it shone all night the Nukilik gathered
+to trade and arrange marriages and welcome new shamans.
+There was singing and dancing
+and games of skill as young men and women tried to impress sceptical mothers and fathers.*
 
-*I did not compete.
+*My brother Walks-In-Storm easily beat the other young men in spear-throwing and running,
+but I did not compete.
 I was preparing to receive the scars of a shaman.
-"It will be sad," I said to Saknus.
-"You have no ghosts to wrestle.
-You will never be a shaman."*
+"I am sorry you have no ancestors to wrestle," I said to Saknus.*
 
 *He smiled.
-After four years he still showed his teeth when he did this.
-"Perhaps I will find another way, Holds-On-Too-Long," he said.
-"The stars are such as they have not been in many years.
-Perhaps I can find another way."
+After four years among us,
+he still showed his teeth when he did this.
+"The stars are such as they have not been in many years, Holds-On-Too-Long," he said.
+".Perhaps I will find another way."
 And then he laughed and I laughed with him,
 for what did the stars have to do with magic?*
 
 *I went out the next morning across the tundra
 with my mother and two other shamans.
 Things were done and words were spoken,
-and I returned that evening with three long cuts on each cheek
+and I returned that evening with three crusted wounds on each cheek
 and a tooth from my grandmother's father on a thong around my neck.
 The part of him still bound to it
-had faded so much that my mother would have cracked it in two and burned the pieces
+had faded so much that my mother would have cracked it and burned the pieces
 if I had not needed a spirit to practice with.*
 
 *We came back to find people gathered around the field in the center of the camp.
-"The monster is going to show us a new game,"
+"The stranger is going to show us a new game,"
 my brother said,
 scowling.*
 
 *Saknus had drawn a great, complicated pattern on the field with sand,
 a star with five points enclosed in a circle.
 Strange symbols filled the star,
-and torch stakes stood at each of its points.*
+and torch stakes stood at each of its points.
+He waved to us and smiled,
+then raised his arm into the air.*
 
-*He waved to us and smiled,
-and then raised his arm into the air.
-Suddenly his hand was covered with flame.*
-
-*People oohed and aahed around us
+*Suddenly his hand was covered with flame.
+People oohed and aahed around us
 as Saknus lit each of the torches in turn.
 "How does he do this?"
-Walks-In-Storm said accusingly to our mother.
-"You said he could not wrestle."
-My mother shook her head.*
+Walks-In-Storm demanded.
+"You said he could not wrestle!"*
 
-*All the torches were lit.
-The fire flickered out on Saknus's hand.
-He closed his eyes and let hell loose upon us.*
+*My mother shook her head.
+"He is not wrestling," she said.
+"I do not know what he is doing."*
+
+*When all the torches were lit
+the fire on Saknus's hand flickered out.
+He smiled happily and let hell loose upon us.*
 
 *My uncle was standing beside me.
 He screamed and fell to the ground,
 clawing at his throat.
 I saw a dim form sitting astride him,
-strangling him with its four hands
-while smoke poured from its eyes.*
+strangling him with four hands
+while smoke poured from its eyes.
+"He's killing us!" my brother shouted as other shamans doubled over or simply collapsed,
+their backs broken.*
 
-*"He's killing us!" my brother shouted as other shamans vomited blood
-or simply collapsed,
-their backs broken.
-He threw his spear.
+*Walks-In-Storm threw his spear.
 It flew straight,
 but faltered and fell to the earth outside Saknus's circle.*
 
@@ -569,7 +561,7 @@ Finally the other shamans and many others of our people
 lay dead on the field.*
 
 *I stood there with tears on my face,
-unable even to curse him in my rage.
+unable even to curse Saknus in my rage.
 He opened his eyes and smiled.*
 
 *"Holds-On-Too-Long," he said approvingly,
@@ -591,7 +583,7 @@ Torvane reins in the elk and puts her flask back in her pocket.
 "Hoy, what's the problem?" she asks,
 clambering unsteadily off the sled.
 
-The Anuat pulls his feet from his skis and bends nearly double,
+The Nukilik pulls his feet from his skis and bends nearly double,
 intent on the snow beneath him.
 Above them the sky is clear, bright, and bitterly cold.
 
@@ -604,7 +596,7 @@ The elk have dropped onto the snow,
 taking the opportunity to rest.
 One snarks as another snaps at its cropped tail.
 
-The Anuat walks slowly back and forth before straightening up.
+The Nukilik walks slowly back and forth before straightening up.
 "*Matsheshu*," he says grimly,
 scanning the horizon.
 "Bandits.
@@ -620,7 +612,7 @@ then Luft spits.
 The magician takes a deep breath.
 "Do you think they're close?"
 
-The Anuat shakes his head.
+The Nukilik shakes his head.
 "Two days ago.
 There is nothing for them here.
 They will be gone."
@@ -634,7 +626,7 @@ I suppose we'll be cooking for them tonight, eh?"
 He sounds as though it would be a personal triumph.
 
 "They are two days gone."
-For the first time Argasdottir hears anger in the Anuat's voice.
+For the first time Argasdottir hears anger in the Nukilik's voice.
 "You will not cook them supper tonight, little man."
 He starts to walk back to his skis.
 
@@ -645,7 +637,7 @@ Walker appears to ignore him.
 "It is not wise to rest the elks without feeding them,"
 he tells Torvane calmly.
 
-Luft swings roundhouse at the Anuat.
+Luft swings roundhouse at the Nukilik.
 Walker brings his spear up out of the snow
 and blocks the punch easily,
 twisting the spear and clubbing Luft in the head.
@@ -653,7 +645,7 @@ The small man goes to one knee and draws his sword as he rises.
 His knit cap lies in the snow,
 revealing a leather and steel helmet on his head.
 He bellows and charges.
-The Anuat reverses his spear and braces himself.
+The Nukilik reverses his spear and braces himself.
 
 A sudden flash blinds them both.
 Someone howls at the magic glare,
@@ -670,7 +662,7 @@ Argasdottir looks up.
 "Serves you right," she says curtly.
 "Walker! Are your eyes all right?"
 
-The Anuat lowers his hands and nods.
+The Nukilik lowers his hands and nods.
 There are tears on his cheeks.
 He looks at Argasdottir for a long instant,
 then stoops to pick up his spear.
@@ -698,7 +690,7 @@ the better for both of us."
 Minutes later the trio is moving north again.
 The magician busies herself with her own dark thoughts.
 Luft curses Walker in dull counterpoint to the steady rhythm of their movement.
-The Anuat pretends not to hear.
+The Nukilik pretends not to hear.
 
 ---
 
@@ -706,7 +698,7 @@ The mountains were no older than the rest of the world, but they seemed
 stooped beneath ice and snow. The sun was a dull glow in the southeast
 when Walker told the others that it was time to leave the sled.
 
-"Today, walking, will bring us to your place," the Anuat said as Luft
+"Today, walking, will bring us to your place," the Nukilik said as Luft
 and Argasdottir sorted through their gear. "Do not leave food for the dogs.
 They would fight for it."
 
@@ -727,7 +719,7 @@ On either side of them grey stone rose or fell steeply.
 
 Walker climbed steadily, pausing occasionally to let the others catch
 up. Luft moved with dogged determination, never looking directly at the
-Anuat. Behind them Argasdottir struggled, breathing great irregular clouds
+Nukilik. Behind them Argasdottir struggled, breathing great irregular clouds
 of steam. Neither Garheimmen noticed the darkening sky until the first
 flakes of snow began to fall.
 
@@ -853,103 +845,132 @@ and started to claw my way up the snow-covered rock.
 
 ---
 
-*I awoke bound hand and foot, lying on cold stone. As my eyes began to
-focus, I recognized my surroundings. Above my head the cave roof was a
-perfect dome. Beneath me, the floor was smooth like fresh ice. Light
-from a glowing ball suspended mid-air showed Heraldsson on his knees,
+*I awoke lying on cold stone,
+bound hand and foot.
+Above me the cave roof was a perfect dome.
+Beneath me the floor was as smooth as polished ice.
+Light from a glowing ball suspended mid-air showed Heraldsson on his knees,
 carefully painting the floor.*
 
-*"And they will be so surprised," he said lightly. "So surprised when I
-come back and destroy them and their stupid College." He examined what
-he had just painted, then licked his thumb and wiped at it.*
+*"Three thousand years, chancellor!"
+he muttered to himself.
+"Three thousands years since there have been such stars.
+How can we in good conscience not use them?"
+He examined what he had just painted,
+then licked his thumb and wiped at it.*
 
-*"Monster," I whispered.*
+*"Monster," I whispered.
+My throat was so dry that only a croak came out.*
 
-*He appeared not to hear. "Three thousand years since there were such
-stars, and they don't have the nerve to use them," he went on, painting.
-"But I do. I am going to work such magic as has not been seen since
-those days. Such great magic."*
+*"Yes, I know it's forbidden," he continued.
+"And for good reason, I'm sure.
+But think of what we could do---we could stand with the Pilots themselves!"
 
-*"Monster," I said again. This time, my voice was louder. "This place is
-sacred."*
+*"Monster," I said again.
+This time my voice was louder.
+"This place is sacred."*
 
-*He looked up. "Oh, good, you're awake." He smiled. "How is your head?"*
+*He looked up and smiled.
+"Oh, good, you're awake.
+How is your head?"*
 
-*"The ghosts of our shamans will drag you down to hell," I cursed. "You
-will never rest, not now or in the spirit world."*
+*"You will never know warmth or rest," I spat.
+"The ghosts of our shamans will drag you down to hell."*
 
-*"Oh, I don't think so." He gestured behind him. "I have all the
-necklaces-of-bones I could find over there." He smiled again. "Real
-magic can do a lot that your people don't know about, Holds-On-Too-Long.
-With what your father taught me, and what I already knew, reaching and
-using all those ghosts isn't going to be hard."*
+*"Oh, I don't think so."
+He gestured behind him.
+"I have all the necklaces-of-bones I could find over there."
+He smiled again.
+"Real magic can do a lot that your people don't know about, Holds-On-Too-Long.
+Between what your mother taught me and what I already knew,
+reaching and using all your ghosts isn't going to be hard."*
 
-*"But why?" I had not wanted to ask.*
+*"But why?" I had not wanted to ask, or to weep.*
 
-*"Why?" He seemed to think about it seriously. "Well, I'm going to try to
-trap a god, a demon like the ones I used at your camp, only much larger,
-and I'm going to need a lot of power to wrestle with it. Your ancestors
-are going to give me the strength to do what I want." He shrugged.*
+"It's a good question," he said approvingly.
+"I'm going to try to trap a demon like the ones I used at your camp,
+only much, much larger.
+I need a lot of power to wrestle it,
+so..."
+He shrugged.*
 
-*"You are a traitor." I tried to spit.*
+*"Traitor. You will be damned for this."*
 
-*He laughed. "Oh, certainly." Suddenly the smile was gone. "But a
-successful one. Now be quiet." He gestured, and I could no longer speak.*
+*He sighed.
+"Actually, if this works, I'll be the one doing the damning.".*
 
-*It took him another two days to finish his pattern. He gave me water,
-when he remembered, but no food. By the time he was ready I was weak and
-light-headed. He laid me out on the stone slab in the center of the
-cave, and stripped off my parka and boots.*
+*It took him two days to finish his pattern.
+He gave me water when he remembered, but no food.
+By the time he was done I was light-headed and could not stop shivering.*
 
+*He laid me out on the stone slab in the center of the cave
+and stripped off my parka and boots.
 *"Now, you may be wondering what your role is to be in our little play,"
-Saknus said. I had heard my father use that same voice when talking to
-small children as he set a broken bone. "Well, I need a treat to offer
-my demon as bait. And you, my friend, are going to be that for me."*
+Saknus said in the same voice my mother used with children when setting a broken bone.
+"Well, I need a treat to offer my demon as bait.
+And you, my friend, are going to be that for me."*
 
-*He painted a pattern on my forehead, and then spoke words. I suddenly
-felt heavier than iron, as I had when I had sworn the shaman's oath only
-a few days before, but this time the sensation did not fade as it had
-then. He nodded and put the two boxes containing all our
-necklaces-of-bones beside me.*
+*He painted a pattern on my forehead,
+then spoke words never meant for a human throat.
+I suddenly felt heavier than iron,
+as I had when I had sworn the shaman's oath only a few days before.
+This time, though, the sensation did not fade.*
 
-*"That spell is to prevent your spirit from running away," he explained,
-examining each portion of the painted pattern intently in turn. "He'll
-bring more and more of himself into this world, trying to get at you
-through that pattern. And when he's all here, I will command your
-shamans to reach out through the circle and \..." He trailed off.
-"Although I suppose I should make things a little easier for our guest."
-He drew a knife from his belt, reached over, and cut open my throat.*
+*He nodded and put the two boxes containing the necklaces-of-bones beside me.
+*"That spell is to prevent your spirit from running away," he explained
+as he gave each portion of the painted pattern one last check.
+"It will bring more and more of himself into this world
+to get at you through that pattern.
+And when it's all here,
+I will command your shamans to reach out through the circle and---"*
 
-*I felt hot blood running down past my ears. He stepped back, stooped to
-sketch an arc completing the design on the floor, and began chanting.*
+*He cut himself off at my howl,
+looking truly startled.
+"Fine," he muttered.
+"Be that way."
+And then he drew a knife from his belt and cut open my throat.*
 
-*My sight began to fade. I heard his voice, louder and louder, and felt a
-cold wind blowing from nowhere, carrying a stench like all the rot the
-world had ever made.*
+*Hot blood ran down past my ears.
+Saknus stepped back,
+stooped to sketch an arc that completed the design on the floor,
+and began to chant.*
 
-*And voices. Anuat voices, my grandfather's and others that I knew, so
-many that I did not, chanting with Saknus, louder and louder, building
-towards a climax. I suddenly knew that something was behind me, coming
-closer, something infinitely worse than the shadows that I had seen in
-the camp.*
+*My sight began to fade.
+I heard his voice, louder and louder,
+and felt a cold wind blowing from nowhere
+carrying a stench like all the rot the world had ever made.*
 
-*Saknus and I screamed at the same instant, and my vision snapped back to
-normal. I turned my head with effort, and saw Saknus lying dead beside
-the pattern, a spear through his back. WalksIn-Storm was standing at the
-entrance to the cave, calling my name.*
+*And there were voices---Nukilik voices,
+my grandfather's and others that I did not know,
+chanting with Saknus, louder and louder,
+building towards a climax.
+I suddenly knew that something was coming closer,
+something infinitely worse than the shadows that I had seen in the camp.*
 
-*I stood with effort, having to think every motion through, and stumbled
-over Saknus's body. The air crackled around me as I left the pattern.*
+*Saknus and I screamed at the same instant.
+My vision snapped back to normal.
+I turned my head with immense effort to see him lying dead beside the pattern
+with a spear through his back.
+Walks-In-Storm was standing at the entrance to the cave, calling my name.*
 
-*"We must flee!" my brother shouted. I took a few steps, leaning like a
-cripple on his arm, then stopped.*
+*Somehow I stood,
+though my limbs felt like they were made of stone.
+I stepped over Saknus's body,
+and the air crackled around me as I left the pattern.*
 
-*"No," I said. "The necklaces. I must get the necklaces."*
+*"Come!" my brother shouted.
+I took a few steps,
+leaning like a cripple on his arm,
+then stopped.*
 
-*I turned and stumbled back. I tried to step into the pattern, but could
-not. And then I began to realize what had happened, and told
-Walks-In-Storm to try, and he could not. And then, as my heart stopped,
-I tried to weep.*
+*"The necklaces," I said. "We must get the necklaces."*
+
+*I turned and stumbled back
+but when I tried to step into the pattern,
+I could not.
+I told Walks-In-Storm to try, but he could not either.
+As my heart finally stopped beating,
+I managed one last time to weep.*
 
 ---
 

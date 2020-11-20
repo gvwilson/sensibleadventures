@@ -24,14 +24,14 @@ That is how Saknus Heraldsson came to the Nukilik.*
 
 Luft Berendsson has given up cursing the cold
 by the time he finds the door he is looking for.
-He closes it carefully behind him
-and descends three stairs made from salvaged shipboards
-into the shack's one sunken room.
+He pulls it closed behind him
+and stomps down three stairs made from salvaged shipboards
+into the shack's single sunken room.
 
-"I said three, and I mean three!"
+"I said three, I meant three."
 The trader settles back on her stool and nods a curt hello
 as Luft crosses the packed earth floor to the pit stove
-and pulls off his mittens.
+and takes off his mittens.
 
 The Nukilik puts the knife back on the counter and shoulders his pack.
 "Three blue rabbit furs are enough for a hand of such knives.
@@ -43,10 +43,10 @@ and leaves without a backward glance.
 The trader does not sound angry.
 "I miss proper haggling."
 
-Luft pulls his own hood back and seats himself across the table from her.
+Luft pulls his own hood back.
 "I take it you don't like our round-faced friends?"
 
-The trader notes the man's crumpled nose,
+The trader takes in his crumpled nose,
 the beaded braids in his red beard,
 and the sword belted around the poorly-stitched parka
 that is two sizes too large for his small frame.
@@ -57,7 +57,7 @@ she thinks,
 they're all right,"
 she says aloud,
 taking a small wooden box from the shelf behind her
-and setting it casually on the table between them.
+and setting it casually on the counter between them.
 "These three years gone, when ice locked the harbour early?
 We'd have most of us starved if Walker and his folk hadn't helped us out."
 
@@ -67,18 +67,15 @@ We'd have most of us starved if Walker and his folk hadn't helped us out."
 The trader gestures toward the door
 with the misshapen piece of ivory she has taken out of the box.
 It is no more magical than a lump of snot,
-but start low and work your way up,
-her mother used to say,
+but as her mother used to say,
 start low and then show them something better.
 "Comes into town every couple of months with the best furs anyone's ever seen,
 or a rack of antlers wider than you can spread your arms.
-The rest of the locals think he's---hoy!"
-The short southerner has taken the steps three at a time
-without so much as a nod farewell.
+The rest of the locals think he's---hoy, what's the rush?"
 
-The door bangs shut behind him.
-The trader sighs.
-She misses proper haggling...
+The door bangs closed.
+The trader sighs again.
+She really does miss haggling...
 
 ---
 
@@ -88,35 +85,34 @@ She squints through the smoke in the belly of the alehouse
 and waves at the two men approaching her.
 
 "Hoy, Luftie," she bellows.
-People sometimes think she has to speak loudly as part of a spell's price,
-or that she is partly deaf.
-Neither is true---she is just loud.
+People sometimes think she is partly deaf,
+or has to speak loudly as part of a spell price.
+Neither is true---she is just not a quiet person.
 "Who's your friend?"
 
 Luft slides onto the bench beside her.
-"This is Chief Walker," he says,
-jerking his chin at the impassive man standing opposite them.
+"This is Walker," he says,
+nodding at the impassive man standing opposite them.
 There are only a handful of other Nukilik in the alehouse,
-none of them apparently sober enough to stand.
+most too drunk to stand.
 
 Argasdottir pries Luft's hand off her arm.
-"I can't drink when you do that," she says gently.
+"Can't drink when you do that," she chides him.
 "Have a seat, Walker.
 Karol!
-Karol, get these men some beer!"
+Karol, two more here!"
 
 "No thank you," Walker says quietly,
-seating himself on the bench as demurely as a eunuch monk.
+seating himself on the bench across from them.
 He looks at the table,
 at Torvane's glass
-sidelong at the drinkers beside him,
-everywhere but at Torvane and Luft's faces.
+sidelong at the drinkers beside him---everywhere but at Torvane and Luft's faces.
 
-"No drink?
-You're the first I've met here to say that."
+"No?
+Well, you're the first I've met here to say that."
 Argasdottir takes the mug the aleman hands her,
 then a second as Luft takes the first from her.
-"So you're the one that goes trapping up into the Bentfathers, then?"
+"Folk here say you know the way up into the Bentfathers, is that right?"
 
 The Nukilik nods.
 Argasdottir belches and wipes her mouth.
@@ -125,22 +121,21 @@ Luft and I want to get out there and back before the harbor freezes.
 That gives us, what, two weeks, maybe three?
 Just straight up the river into the foothills, that's all."
 
-"You will find better furs to the east,"
+"You will find better furs to starboard,"
 Walker comments neutrally after a moment.
-He wears southern-style gloves rather than Nukilik mitts,
+He wears sternward-style gloves rather than Nukilik mitts,
 Argasdottir notices.
-The sinew stitches along their seams are carefully knotted,
-but unlike every other piece of clothing she has seen an Nukilik wear,
-they have no embroidery or beads.
+The sinew stitches along the gloves' seams are carefully knotted,
+but unlike every other piece of clothing she has seen the Nukilik wear
+they have no embroidery.
 
 "We're not looking for furs,"
 Luft says.
 
-Argasdottir nudges his knee with hers under the table
-and clears her throat.
+Argasdottir nudges his knee with hers under the table and clears her throat.
 "Ten crowns for the trip, half now and half when we're back.
-Luft and I already have a sled and some elk.
-We can get tack by day's end and leave tomorrow if you're interested."
+Luft and I already have a sled and some camels---we can leave tomorrow
+if you're interested."
 
 The three are silent,
 the two Garheimmen looking expectantly at the Nukilik,
@@ -152,12 +147,11 @@ He drains his mug and lets it thump to the table.
 
 Walker waits another dozen heartbeats
 before raising his eyes to Argasdottir's.
-"Tomorrow at the east gate," he agrees.
+"Tomorrow at the starboard gate," he agrees.
 
-The Garheimmen woman smiles widely.
-"Good, my new friend, good!"
-She reachs across the table to squeeze the Nukilik's hand.
-"At first light, then?"
+The Garheimmen woman smiles widely
+and reaches across the table to squeeze the Nukilik's hand.
+"Good! At first light, then?"
 
 Walker nods and stands.
 As he lifts his pack to his shoulder
@@ -168,41 +162,37 @@ Walker turns his head.
 A heavyset Nukilik wearing a parka decorated with the trading company's colors
 stands unsteadily a few steps behind him.
 "*Pauetsitgualuk*!
-You go back the cold you belong.
+You go back the cold.
 Nobody want you here!"
 He spits on the floor.
 
 Someone whoops.
-Someone else shouts, "Twenty crowns on the Goose!"
-The aleman takes a cudgel from its resting place behind the bar
-but says nothing.
+Someone else shouts, "Twenty crowns on Goose!"
+The aleman takes a cudgel from its resting place behind the bar but says nothing.
 People always drink more after a good fight,
 or even after a bad one,
-and nothing much in the alehouse is breakable except the patrons.
+and nothing in the alehouse is breakable except the patrons.
 
 Walker shifts his pack on his shoulder and turns as if to go.
 The larger Nukilik says something sneering and reaches for him.
 Somehow Walker's hand is there to grab his sleeve.
 He tugs,
 turns,
-brings one leg up between the other man's thighs as he bends his other knee,
-and the one they call the Goose goes over him
-and lands on the floor with a thud.
+brings one leg up between the other man's thighs as he bends his other knee.
+The other man goes over him and lands on the floor with a thud.
 
 Argasdottir is on her feet.
-"Are you all right?" she asks.
+"Weeping hells, are you all right?" she asks.
 
-The Nukilik looks at her,
-then at the Goose,
+The Nukilik looks from her to Goose and back,
 his lack of expression saying more loudly than words
 that *he* is not the one lying on the floor.
-"Tomorrow at the gate," he says.
+Whoever just won twenty crowns claps him on the shoulder.
+"Tomorrow at the starboard gate," Walker repeats.
 "Dream well."
-Someone who has just won twenty crowns claps him on the shoulder
-as he walks to the door.
 
 Torvane settles back on the bench
-and looks sidelong at her partner.
+and grins at her partner.
 "Knows how to handle himself," she observes.
 
 The younger Garheimmen scowls.
@@ -210,11 +200,10 @@ The younger Garheimmen scowls.
 
 She shrugs and focuses on her beer.
 She used to find his endless need to prove himself amusing,
-but lately---
+but lately...
 
-The Goose rolls over,
-gets his feet under him,
-and launches himself at Walker,
+Goose rolls over and gets his feet under him.
+He launches himself at Walker,
 a steel hunting knife in his hand.
 Without thinking,
 Torvane *reaches* across the room.
@@ -227,17 +216,17 @@ Others make signs with their fingers
 or reach for charms tucked under the coats and sweaters.
 Walker looks from the Goose to Torvane Argasdottir,
 his face as expressionless as ever,
-and walks out into the dim light of the arctic afternoon.
+then walks out into the dim light of the arctic afternoon.
 
 "What the hell did you do that for?" Luft demands.
 
 "Sorry," Torvane sighs.
 "I just---never mind."
 She scrunches her toes inside her boot and winces
-as the toenail that the spell cost her catches on the thick wool of her sock.
+as the toenail that the spell just cost her catches in the thick wool of her sock.
 It will probably come off by morning.
 She drains the last of her beer and stands,
-conscious of all the people who aren't looking at her.
+conscious of the people who are and aren't looking at her.
 "Let's go get our gear together."
 
 ---
@@ -246,25 +235,25 @@ conscious of all the people who aren't looking at her.
 Good.
 And the other?"*
 
-*"I do not know, brother.
+*"I do not know.
 He is no bigger than I was at twelve summers."*
 
-*"Do not underestimate him.
+*"Do not think him weak.
 A knife does not have to be big to be deadly."
 The night is a dark shell
-flecked here and there with stars like chips of ice.
-An elk bleats somewhere in the distance.
+flecked with stars like chips of ice.
+A camel grumbles somewhere in the distance.
 Another answers it.*
 
 *"I am not afraid."
 There is a moment's silence.
-"But why must I go with them?
+"Must I go with them?
 Laughs-at-Storms is sewing a new blanket.
 She says it will be very soft."*
 
-*"You must go with them because I have said you must."
-The elk bleats again.
-"You can put your arrows in Laugher's quiver next season."*
+*"You must go with them because I have said you must.
+You can put your arrows in Laugher's quiver when you return."*
+The camel bleats again.
 
 ---
 
@@ -278,7 +267,7 @@ We called its spirit back again and again until my mother found out.
 She beat me for it,
 but his only punishment was a week without lessons.*
 
-*At night Saknus told us stories of his home in the south,
+*At night Saknus told us stories of his home in the stern,
 of ships and kings and libraries
 and cities with so many people
 that no one knew all their names.
@@ -327,11 +316,11 @@ Every shaman does this for the sake of those who come after.
 If a shaman sees many summers and does this many times
 their grandchildren's grandchildren might still be able to call them."*
 
-*The southerner turned his hands palms up in a gesture of thanks.
+*Saknus turned his hands palms up in a gesture of thanks.
 "I am grateful as always for your lessons."*
 
 *My brother Walks-In-Storm scowled then,
-as he often did when around the big-nosed southerner.
+as he often did when around the big-nosed sternsman.
 We were twins,
 and he had taken to hunting as I had taken to the shaman's ways.
 He said little when Saknus was near,
@@ -344,11 +333,11 @@ It hurt me how we grew apart in those years.*
 "Damn his eyes, where is he?"
 Luft stands and began pacing again.
 "We only have a couple of hours of daylight
-and the sealfucking elk are going to want to be fed soon.
+and the sealfucking camel are going to want to be fed soon.
 Where in hell's our precious primping guide?"
 
-"I don't think the elk fuck seals."
-Torvane sits on the rear of the elksled,
+"I don't think the camel fuck seals."
+Torvane sits on the rear of the camelsled,
 wrapping and unwrapping the traces around her hands.
 "He'll be here.
 He said first light, so maybe he meant---"
@@ -375,7 +364,7 @@ A small pack on his back,
 a pair of Garheimmen-style skis,
 and two spears are the only gear he carries.
 
-He nods when he reaches the southerners
+He nods when he reaches the sternsmen
 and puts his skis onto the snow.
 "The river ice is good from here to the mountains,"
 the Nukilik says,
@@ -386,7 +375,7 @@ Torvane asks as casually as she can.
 
 Walker shakes his head.
 "No one will be there.
-They will all be east where there are furs.
+They will all be starboard where there are furs.
 Or sewing blankets,"
 he adds with a trace of bitterness.
 
@@ -399,12 +388,12 @@ The young swordsman looks at Argasdottir angrily,
 only to be shushed with a handwave.
 
 The Nukilik makes a final slight adjustment in the length of a trace and straightens up,
-patting one of the elk on his head.
+patting one of the camel on his head.
 "Maybe four, maybe five days to the mountains with these.
 If the weather is good,"
 he adds.
 
-He straps on his skis as carefully as he tested the elks' traces,
+He straps on his skis as carefully as he tested the camels' traces,
 picks up his spears,
 reverses them,
 and pushes off.
@@ -420,7 +409,7 @@ The first snows of autumn smooth the tundra around them,
 turning long gravel eskers into unmoving white waves
 broken here and there by islands of rock too large to yet be covered.
 A solitary speargull parallels their path
-for a time before turning to continue its migration south.
+for a time before turning to continue its migration sternwards.
 
 By unspoken consent Walker stays out front,
 his steady heave, heave, heave on his makeshift skipoles almost hypnotic.
@@ -438,7 +427,7 @@ as Luft comes forward to the sled.
 
 "Fuck a whale, I ache all over."
 The younger Garheimmen stretches and yawns.
-"Set up the tents, I'll look after the elk."
+"Set up the tents, I'll look after the camel."
 Argasdottir frowns,
 but relaxes when Walker takes a small shovel from the sled
 and begins thumping a patch of snow to flatten it.
@@ -579,7 +568,7 @@ as he has been since they departed,
 moving at a steady tempo.
 Suddenly he swerves and stops.
 
-Torvane reins in the elk and puts her flask back in her pocket.
+Torvane reins in the camel and puts her flask back in her pocket.
 "Hoy, what's the problem?" she asks,
 clambering unsteadily off the sled.
 
@@ -592,7 +581,7 @@ his hand on the hilt of his sword.
 
 Argasdottir shakes her head.
 "I don't know, lad. Walker?"
-The elk have dropped onto the snow,
+The camel have dropped onto the snow,
 taking the opportunity to rest.
 One snarks as another snaps at its cropped tail.
 
@@ -601,7 +590,7 @@ The Nukilik walks slowly back and forth before straightening up.
 scanning the horizon.
 "Bandits.
 On foot, maybe a hand, maybe more, two days ago.
-Going north."
+Going for'ard."
 
 There is a moment's silence,
 then Luft spits.
@@ -634,7 +623,7 @@ He starts to walk back to his skis.
 Luft knocks Argasdottir's arm out of his way and strides through the snow.
 
 Walker appears to ignore him.
-"It is not wise to rest the elks without feeding them,"
+"It is not wise to rest the camels without feeding them,"
 he tells Torvane calmly.
 
 Luft swings roundhouse at the Nukilik.
@@ -650,12 +639,12 @@ The Nukilik reverses his spear and braces himself.
 A sudden flash blinds them both.
 Someone howls at the magic glare,
 but Argasdottir cannot tell if it is her partner or their guide.
-The elk began barking furiously.
+The camel began barking furiously.
 
 When Luft's vision clears he is sitting in the snow,
 his sword still in his hand,
 his head aching.
-Torvane is quieting the elk.
+Torvane is quieting the camel.
 Walker stands a few meters away with his hands still over his eyes.
 
 Argasdottir looks up.
@@ -687,7 +676,7 @@ Now get your skis back on.
 The sooner we're through this,
 the better for both of us."
 
-Minutes later the trio is moving north again.
+Minutes later the trio is moving for'ard again.
 The magician busies herself with her own dark thoughts.
 Luft curses Walker in dull counterpoint to the steady rhythm of their movement.
 The Nukilik pretends not to hear.
@@ -695,7 +684,7 @@ The Nukilik pretends not to hear.
 ---
 
 The mountains were no older than the rest of the world, but they seemed
-stooped beneath ice and snow. The sun was a dull glow in the southeast
+stooped beneath ice and snow. The sun was a dull glow sternward
 when Walker told the others that it was time to leave the sled.
 
 "Today, walking, will bring us to your place," the Nukilik said as Luft
@@ -970,7 +959,7 @@ but when I tried to step into the pattern,
 I could not.
 I told Walks-In-Storm to try, but he could not either.
 As my heart finally stopped beating,
-I managed one last time to weep.*
+I tried one last time to weep.*
 
 ---
 
@@ -1056,7 +1045,7 @@ took another step toward him.
 
 "But my map---" he began.
 
-"I made that, and let it go south. I needed someone who could break that
+"I made that, and let it go sternward. I needed someone who could break that
 spell." Another step.
 
 He turned and ran to the boxes. He knocked the lid off the first with

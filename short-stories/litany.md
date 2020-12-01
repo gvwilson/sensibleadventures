@@ -86,9 +86,9 @@ she wiped her eyes and got to her feet.
 Six pages a day was a punishing pace,
 but this was one deadline she didn't want to miss.
 
-The quiet clatter of dishes in the kitchen drew him toward the rear of
+The quiet clatter of dishes in the kitchen drew her toward the rear of
 the small mid-century house.
-He knocked gently on the door frame.
+She knocked gently on the door frame.
 "Hey."
 
 The nurse looked up from her phone.
@@ -186,7 +186,7 @@ She closed her eyes and waited for the tears to come again.
 The next morning was cold and damp.
 The city hadn't seen a real snowstorm in years,
 and for all the jokes people made about how global warming might not be such a bad thing after all,
-George missed the crunch of fresh powder under his boots.
+George missed the crunch of fresh powder under her boots.
 
 The nurse met her at the door.
 "He's not himself right now," she said without preamble,.
@@ -378,8 +378,8 @@ her eyes downcast.
 "I'm sure he'll be happy to see you."
 
 George had a moment of *deja vu* as they trudged up the stairs.
-He and Doctor Biczo had climbed those same stairs together fifteen years ago
-each time the he came to examine George's mother.
+She and Doctor Biczo had climbed those same stairs together fifteen years ago
+each time he came to examine George's mother.
 "He's a specialist," the oncologist had explained uncomfortably the first time.
 *I thought you were the specialist,*
 George had thought,
@@ -804,7 +804,7 @@ He doesn't have time for this shit."
 
 Doctor Biczo snorted.
 "Have you looked at the world recently?
-None of us have much time any more."
+None of us have much time any more,"
 he added under his breath.
 
 George's hands bunched into fists as a thought struck her.
@@ -877,7 +877,7 @@ look at you,
 you're exhausted and you haven't had your meds and---"
 
 "I'm not actually Robbie right now,"
-his brother said,
+her brother said,
 gentle and matter-of-fact like the doctor had been when Robbie got his diagnosis.
 "And if you don't mind,
 I have some questions for you."
@@ -966,7 +966,7 @@ Robbie cleared his throat.
 "We cannot project themselves into just anyone.
 The vessel has to have a certain, um, mental capacity."
 
-George looked him.
+George looked at him.
 "You're saying I'm not smart enough."
 
 "We tried,"

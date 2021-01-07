@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: In Heck
 permalink: /in-heck/
 ---

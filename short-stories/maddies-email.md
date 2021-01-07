@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "Maddie's Email"
 author: "Greg Wilson"
 permalink: /maddies-email/

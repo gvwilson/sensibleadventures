@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: Shapers and Bots
 permalink: /shapers-and-bots/
 ---

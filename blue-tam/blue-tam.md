@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 permalink: /blue-tam/
 ---
 # Blue Tam

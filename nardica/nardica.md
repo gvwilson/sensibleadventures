@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "Nardica"
 author: "Greg Wilson"
 permalink: /nardica/

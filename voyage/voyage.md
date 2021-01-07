@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "The Voyage of the Unshadowed Land"
 author: "Greg Wilson"
 permalink: /voyage/

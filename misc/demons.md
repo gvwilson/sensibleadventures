@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "The Demon Dragger's Daughter"
 permalink: /demons/
 ---

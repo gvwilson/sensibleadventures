@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "The Cloudherd and the Tiger's Boy"
 dedication: "For Madeleine, who is taking me on the greatest journey of my life."
 author: "Greg Wilson"

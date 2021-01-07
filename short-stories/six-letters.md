@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: Six Letters (None Complete)
 author: "Greg Wilson"
 permalink: /six-letters/

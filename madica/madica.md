@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: Madica
 permalink: /madica/
 ---

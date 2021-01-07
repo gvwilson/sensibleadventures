@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "Keeya's Numbers"
 author: "Greg Wilson"
 permalink: /keeyas-numbers/

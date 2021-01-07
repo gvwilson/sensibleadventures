@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: Maddy Roo
 permalink: /maddy-roo/
 ---

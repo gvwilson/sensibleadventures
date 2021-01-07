@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "The Princess and the Bear"
 dedication: "For Madeleine, who is taking me on the greatest journey of my life."
 author: "Greg Wilson"

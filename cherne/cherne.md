@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "Cherne"
 author: "Greg Wilson"
 permalink: /cherne/

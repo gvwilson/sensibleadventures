@@ -1,35 +1,8 @@
 ---
+layout: default
 ---
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="{{ '/static/bootstrap.min.css' | absolute_url }}" />
-    <link rel="stylesheet" type="text/css" href="{{ '/static/bootstrap-theme.min.css' | absolute_url }}" />
-    <link rel="stylesheet" type="text/css" href="{{ '/static/site.css' | absolute_url }}" />
-    <title>{{ site.title }}{% if page.title %}: {{ page.title }}{% endif %}</title>
-  </head>
-  <body>
-    <div class="container">
-      <p align="center">
-        <a href="{{ '/' | absolute_url }}">
-          <img src="{{ '/static/titlebar.png' | absolute_url }}" alt="title image" />
-        </a>
-      </p>
-      <h1 align="center">{{page.title}}</h1>
-{{ content }}
-      <footer class="row">
-        <hr width="80%" />
-        <p>
-          Copyright &copy; <a href="http://third-bit.com">Greg Wilson</a>
-          /
-          <a href="mailto:{{site.email}}">Contact</a>
-        </p>
-      </footer>
-    </div>
-    <script src="{{ '/static/jquery-1.9.1.min.js' | absolute_url }}"></script>
-    <script src="{{ '/static/bootstrap.min.js' | absolute_url }}"></script>
-  </body>
-</html>
+
+<article class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</article>

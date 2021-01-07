@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 permalink: /but-with-a-whimper/
 ---
 

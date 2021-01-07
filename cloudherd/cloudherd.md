@@ -1,5 +1,5 @@
 ---
-layout: narrow
+layout: page
 title: "The Cloudherd and the Tiger's Boy"
 author: "Greg Wilson"
 permalink: /cloudherd/

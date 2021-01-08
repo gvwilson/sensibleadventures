@@ -97,7 +97,7 @@ permalink: /in-heck/
     - One of the bots that came with Dockety, now doing package deliveries between towns
     - Gets all of the characters into the central square for background setting
   - Bluster and Bravo are caught trying to steal weapons from the bots who now live in Rusty Bridge
-  - Sets up:
+  - Loud confrontation sets up:
     - the uneasy cohabitation
     - Sindy's secret lessons
     - the awkwardness between Maddy and Gumption (Mama Roo's gentle teasing does *not* go over well)
@@ -142,9 +142,36 @@ permalink: /in-heck/
     - "No!" [agitated] "The striped one is not a friend. She will stop you. She will do bad things."
     - "But Central moves the prisoners from station to station. Your father will be on the outskirts of Heck in three days."
   - "Three days? What can I do in three days?"
-    - "I do not know. But breathers do not last long when the air is so bad. He has already operated longer than most."
+    - "I do not know. But breathers cannot function for long when the air is so bad. He has already operated longer than most."
 
-- Chapter 4
+- Chapter 4: A Little Bit of Luck
+  - Maddy talks to Gumption the next day about what the Gears said
+    - See the awkward not-yet-romance between them
+  - Gumption: "So what are we going to do?"
+    - Maddy (despairing): "I don't know"
+    - Gumption (squeezes her hand): "Well, when you decide to do, I'm in."
+    - Maddy: "How can you say that? I don't even know yet if I'm going to do anything!"
+    - Gumption: "I know you will, and---and I hope you know that whatever it is, I'll---you know, whatever."
+  - Sindy overhears them (has followed them): "What are you talking about?"
+    - Maddy: "None of your business! What are you doing here anyway? Don't you have a lesson?"
+    - Sindy: "Shaper Leaf isn't feeling well again."
+  - The three of them go to school
+    - Teacher is a horse named Winnie
+  - Shaper Blazes is there to give a lesson
+    - Bluster and Bravo are star-struck
+    - Shaper Blazes makes it clear that being smart as well as brave is important
+    - Maddy suddenly realizes he's talking to *her*
+  - Shaper Blazes asks her to stay behind at recess
+    - Asks questions about her adventure
+    - She realizes he's suspicious of Dockety
+    - When she calls him on it, he reminds her of the bot in his crew
+  - Maddy goes out in the yard
+    - Sits and draws to calm herself
+  - Sindy rushes over
+    - She was playing hide and seek and was hiding behind a barrel and she heard Shaper Blazes talking to his crew
+    - What they found in Patient's base has them worried
+    - They're planning a raid on Heck
+    - "Maddy --- it's my luck! We can rescue Papa!"
 
 - Chapter 5
 

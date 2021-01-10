@@ -4,7 +4,7 @@ title: Maddy Roo
 permalink: /maddy-roo/
 ---
 
-## Chapter 1: Salvage!
+## Episode 1: Salvage!
 
 Maddy was trying to sketch the willow tree in the center of the village square
 when Gumption showed up with a couple of books under his arm.
@@ -443,7 +443,7 @@ he wouldn't be able to keep his head above water!
 A battered bot burst out of the trees
 and hurtled down the gravel toward them!
 
-## Chapter 2: Targets Acquired!
+## Episode 2: Targets Acquired!
 
 Maddy shrieked and stumbled backward.
 Her feet slipped on a submerged patch of weeds.
@@ -812,7 +812,7 @@ she would just have been taken too.
 Everyone told her that,
 but it didn't make any difference.*
 
-## Chapter 3: You Gotta Listen!
+## Episode 3: You Gotta Listen!
 
 *"Wait---a sneak attack?"
 Maddy demanded.
@@ -1135,7 +1135,7 @@ Shaper Leaf slipped between Maddy and Gumption,
 climbed the steps,
 and rang the alarm bell.
 
-## Chapter 4: Raid!
+## Episode 4: Raid!
 
 *Donk! Donk! Donk!*
 "Bother," the old tortoise said mildly,
@@ -1391,7 +1391,7 @@ but as Mama Roo wrapped Gumption and Maddy in a hug
 all Maddy could think was that her little sister was gone,
 gone just like her father.
 
-## Chapter 5: Unlikely Help
+## Episode 5: Unlikely Help
 
 "They have my *daughter*!
 We *have* to go after them!"
@@ -1807,7 +1807,7 @@ knocking another off balance.
 With no more warning than that,
 Dockety hurled Maddy into the air.
 
-## Chapter 6: Out of the Cage Cart...
+## Episode 6: Out of the Cage Cart...
 
 Maddy screamed.
 Afterward,
@@ -2158,7 +2158,7 @@ leaving the two young roos alone in the Mire
 with a dented bot for company
 and no idea how they would get home.
 
-## Chapter 7: ...And Into the Mire
+## Episode 7: ...And Into the Mire
 
 "Thank you for saving us,"
 Maddy said to Dockety.
@@ -2492,7 +2492,7 @@ as the bot followed her sister into whatever lay behind the door.
 Just as she reached it,
 something cold and mechanical grabbed hold of her ankle.
 
-## Chapter 8: Underground
+## Episode 8: Underground
 
 Maddy screamed.
 She tried to pull her leg free,
@@ -2728,7 +2728,7 @@ she repeated.
 And that was when a crackly voice said through speakers,
 "Well, you are here now. You might as well come and say hello."
 
-## Chapter 9: Patient in Darkness
+## Episode 9: Patient in Darkness
 
 *Click.*
 The ceiling lights that had come on behind them went out.
@@ -3055,7 +3055,7 @@ A pair of double doors whooshed open in the wall to Maddy's right.
 Two bulky service bots that looked like small versions of the cargo hauler stood behind them,
 arms raised and red warning lights flashing on their shoulders.
 
-## Chapter 10: Unison
+## Episode 10: Unison
 
 "Surrender!" the service bots boomed in unison,
 their voices making keyboards and coffee cups rattle.
@@ -3386,7 +3386,7 @@ she twisted around onto her stomach,
 grabbed hold of Dockety's arm with both paws,
 and slid down it into the unknown.
 
-## Chapter 11: Eyes Everywhere
+## Episode 11: Eyes Everywhere
 
 Maddy had never seen the ocean, but she had read about it in Shaper Leaf's books.
 She knew that it was as deep as the highest mountains were high,
@@ -3767,7 +3767,7 @@ They were heading back to the village,
 she realized.
 The bots were about to attack again!
 
-## Chapter 12: The Way Out
+## Episode 12: The Way Out
 
 "Wake up. Sindy, wake up!"
 She shook her sister gently, then more firmly.
@@ -4254,7 +4254,7 @@ Patient's voice crackled from all around them.
 Up and up they went toward the patch of dawn in the ceiling,
 and then with a roar they were through and into the honey-warm light of dawn.
 
-## Chapter 13: Crash Landing
+## Episode 13: Crash Landing
 
 Maddy's initial shock of fright was instantly replaced
 by crashing waves of terror.
@@ -4592,7 +4592,7 @@ Even as they spoke a high-pitched whine turned into a drone.
 The two fliers Maddy had seen earlier zipped overhead and dropped their canisters.
 Dark dizzysmoke spilled into the square as a dozen engines rumbled in the distance.
 
-## Chapter 14: The Battle of Rusty Bridge
+## Episode 14: The Battle of Rusty Bridge
 
 *Dang! Dang! Dang!*
 The alarm bell rang cold and clear,
@@ -5009,7 +5009,7 @@ a mechanical voice said,
 The rotor began to spin,
 and she shot into the air.
 
-## Chapter 15: The Key
+## Episode 15: The Key
 
 Maddy's second flight was just like her first,
 except twice as fast and ten times more frightening.
@@ -5358,7 +5358,7 @@ The orange light overhead flickered.
 The little light on Crusher's regular went out.
 The little lights on *all* of the bots' regulators went out.
 
-## Chapter 16: The Battle of the Bots
+## Episode 16: The Battle of the Bots
 
 Maddy charged the bots with a yell.
 *Jump* and she was over Patient.

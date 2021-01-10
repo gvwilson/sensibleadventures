@@ -92,8 +92,8 @@ permalink: /in-heck/
 
 ## Plot
 
-- Chapter 1: Stolen Arms
-  - Open with arrival in town of the mailbot
+- Episode 1: Stolen Arms
+  - Open with arrival in town of the mailbot Eighty-Eight Able-Six
     - One of the bots that came with Dockety, now doing package deliveries between towns
     - Gets all of the characters into the central square for background setting
   - Bluster and Bravo are caught trying to steal weapons from the bots who now live in Rusty Bridge
@@ -105,8 +105,9 @@ permalink: /in-heck/
   - See Mouse briefly ("Look, you saved *it*")
   - Ends with the arrival of the Prosecutors
 
-- Chapter 2: The Prosecutors
-  - Shaper Blazes and her motley spaghetti Western crew arrive
+- Episode 2: The Prosecutors
+  - Shaper Blazes and her motley crew arrive
+    - A bot named Mule carrying them and all their gear
   - Mayor Lupus apologizes, but anything involving weapons is a matter for the Prosecutors
     - is deferential without cringing
   - Shaper Leaf's response is cool
@@ -119,7 +120,7 @@ permalink: /in-heck/
     - Mama Roo (later): "He's right, you know. We'll protect you."
     - Dockety: "That is not what he said. He said you would defend your homes."
 
-- Chapter 3: The Gears
+- Episode 3: The Gears
   - The Roos go home and the children go to bed
     - Sindy: "Tell me a story about Papa..."
   - After Sindy is in bed, Mama Roo teases Maddy gently about Gumption
@@ -140,12 +141,14 @@ permalink: /in-heck/
     - "Not alone"
   - "I gotta tell---"
     - "No!" [agitated] "The striped one is not a friend. She will stop you. She will do bad things."
-    - "But Central moves the prisoners from station to station. Your father will be on the outskirts of Heck in three days."
-  - "Three days? What can I do in three days?"
-    - "I do not know. But breathers cannot function for long when the air is so bad. He has already operated longer than most."
+    - "But Central moves the prisoners from station to station. Your father is on the outskirts of Heck now, but only for a while."
+    - "Breathers cannot function for long when the air is so bad. He has already operated longer than most."
+  - Gives her a widget
+    - "This will hide you from Central, at least for a while."
 
-- Chapter 4: A Little Bit of Luck
+- Episode 4: A Little Bit of Luck
   - Maddy talks to Gumption the next day about what the Gears said
+    - Shows him the widget
     - See the awkward not-yet-romance between them
   - Gumption: "So what are we going to do?"
     - Maddy (despairing): "I don't know"
@@ -158,6 +161,9 @@ permalink: /in-heck/
   - The three of them go to school
     - Teacher is a horse named Winnie
   - Shaper Blazes is there to give a lesson
+    - Does a practice fight in the yard with her bot partner
+    - Uses her fire shaping
+    - She wins (bot says, "I always lose. It's my job.")
     - Bluster and Bravo are star-struck
     - Shaper Blazes makes it clear that being smart as well as brave is important
     - Maddy suddenly realizes he's talking to *her*
@@ -170,29 +176,73 @@ permalink: /in-heck/
   - Sindy rushes over
     - She was playing hide and seek and was hiding behind a barrel and she heard Shaper Blazes talking to his crew
     - What they found in Patient's base has them worried
-    - They're planning a raid on Heck
+    - They're planning a reconnaissance raid on Heck
     - "Maddy --- it's my luck! We can rescue Papa!"
+    - Shaper Leaf (steps out from behind a tree): "Then it must be your luck that *I* have overheard *you*."
 
-- Chapter 5
+- Episode 5: Loyalties
+  - Sindy believes everything that happens is because of her luck shaping
+    - Conversation ends with Sindy in tears
+    - Shaper Leaf gently tries to convince her that the world is still full of coincidences
+    - "Too many shapers come to believe that the world revolves around their ability."
+    - "It is far too dangerous for you to go. It is far too dangerous for them too."
+  - Maddy goes to see Dockety
+    - See the shanty town the bots are building
+    - Uses a brush to clean muck out of Crusher's gears (like scratching a dog's ears)
+    - Dockety: "They say you do it better than any bot---even me."
+  - Maddy explains what Sindy overheard
+    - Dockety: "Shaper Leaf is correct. Central remembers centuries. It is very cunning."
+  - Maddy then talks about her encounter with the Gears and shows it the widget
+    - Dockety becomes agitated: "It plays tricks. It cannot be trusted."
+    - Maddy: "But Dockety---it's my papa. What wouldn't you do for Crusher?"
+  - Shaper Blazes shows up (we learn that the bots have an early warning system)
+    - Recruiting for the raid
+    - Shaper Blazes: "Be a good way to show where your loyalties lie"
+    - Dockety: "My loyalty lies with my friends and with free bots everywhere."
+    - Messages Maddy where Shaper Blazes can't see it to get permission, then shows the Prosecutor the widget
+    - "This may help blind Central for a while, but only if we can get it to a terminal."
+    - Shaper Blazes: "What else are you holding back?"
+    - Dockety: "What are you?"
+    - Stops Shaper Blazes as she goes to leave with the widget: "That is not yours."
+    - Shaper Blazes: "I need it."
+    - Dockety: "I will bring it."
+  - After Shaper Blazes leaves, the bots commune
+    - Dockety: "We have to help. If we do not and she fails, we will be blamed."
+    - Dockety: "It is a shame we will not have your sister with us. Her luck would be a great asset."
+    - Maddy (deep breath): "About that..."
 
-- Chapter 6
+- Episode 6: All Together
+  - Whirlwind of preparation
+    - Food for a week, fully-charged batteries, bandages, weapons
+    - The Prosecutors' sharpshooter, a melancholy rabbit named Thoughtful, rewrote his colleagues' letters
+    - Winnie the teacher remarks acidly that it's the first time the Goat boys have shown any interest in writing
+  - Crusher can't come (too slow, too visible) but three of the new bots will
+    - Dockety
+    - Eighty-Eight the mailbot to carry supplies
+    - a helibot that has taken the name Flowers as a scout
+  - Shaper Leaf insists on joining as well
+    - "Better chance of coming back if they have someone who has done it before"
+  - Take the siding off the bot Mule
+    - Realizes just how fast it is when it's not loaded down
+    - Eighty-Eight will carry the others
+    - Can get past the Mire and into Central's territory overnight
 
-- Chapter 7
+- Episode 7
 
-- Chapter 8
+- Episode 8
 
-- Chapter 9
+- Episode 9
 
-- Chapter 10
+- Episode 10
 
-- Chapter 11
+- Episode 11
 
-- Chapter 12
+- Episode 12
 
-- Chapter 13
+- Episode 13
 
-- Chapter 14
+- Episode 14
 
-- Chapter 15
+- Episode 15
 
-- Chapter 16
+- Episode 16

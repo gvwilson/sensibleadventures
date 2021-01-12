@@ -220,12 +220,32 @@ permalink: /in-heck/
     - Dockety
     - Eighty-Eight the mailbot to carry supplies
     - a helibot that has taken the name Flowers as a scout
-  - Shaper Leaf insists on joining as well
-    - "Better chance of coming back if they have someone who has done it before"
+  - Shaper Leaf agrees to go as well
+    - "They have a better chance of coming back with someone who has done this before"
   - Take the siding off the bot Mule
     - Realizes just how fast it is when it's not loaded down
     - Eighty-Eight will carry the others
     - Can get past the Mire and into Central's territory overnight
+  - Sindy keeps coming up with crazy ways she can use her luck to join the raiding party
+    - Shaper Leaf finally snaps that even luck needs something to work with
+  - Then the raiding party leaves and Sindy, Maddy, and Gumption are left behind
+    - Sindy is crushed
+    - But when they go home, Mouse is waiting for them
+    - Leads them into the forest
+    - Dozens of other little bots are waiting for them
+  - Maddy: "Are you the Gears?"
+    - Collectively: "We are more of us. We are enough to help you rescue your father."
+    - The raiding party is a distraction
+  - Maddy: "Why would you do that?"
+    - The Gears: "You were kind. Your father has been kind."
+  - Maddy is suspicious and practical: "How will you---oh."
+    - Even as she speaks, the little bots are clicking together to make a racer
+  - Sindy takes a step, hesitates, looks at Maddy
+    - Maddy realizes that Gumption is looking at her too
+    - "What?"
+    - "It's up to you"
+    - She realizes she has become their leader
+  - Deep breath: "We'll need to take food. And something to drink."
 
 - Episode 7
 

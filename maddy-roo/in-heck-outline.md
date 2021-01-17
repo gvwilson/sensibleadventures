@@ -4,6 +4,10 @@ title: In Heck
 permalink: /in-heck/
 ---
 
+## To Do
+
+- Fix first story so that the thing in the swamp comes together out of snake-like parts
+
 ## Characters
 
 - Madica (Maddy) Roo: a 13-year-old kangaroo (protagonist)
@@ -248,10 +252,28 @@ permalink: /in-heck/
   - Deep breath: "We'll need to take food. And something to drink."
 
 - Episode 7
+  - The Gears takes them on broken old roads, collecting parts of itself as they go
+    - "We live in the cracks between things, in the forgotten places."
+  - Reach an observatory
+    - The Gears explains that the Makers liked to look at the stars before they went away
+    - Most bots won't visit it (superstitious)
+  - Point the telescope at Heck
+    - Windowless brick buildings connected by elevated walkways
+    - Seems strangely empty to Maddy
+    - The Gears: "Don't need to eat, don't need to go home to sleep - much less rushing around than breathers"
+  - Spot the raiding party
+    - Hold their breath as a bot passes by, slows, then speeds up again
+    - The pay-me-no-mind widget works
+  - Maddy is about to ask where her father is when a little sentry bot interrupts
+    - See the Gears fight for the first time (swarms it from a dozen different directions)
+    - The children are frightened of the Gears for the first time
+    - See how the Gears incorporates parts from the defeated bot into itself almost immediately
+  - Gears: "Now we go"
 
 - Episode 8
 
 - Episode 9
+  - Betrayal: the Gears turns off the pay-me-no-mind widget so that the raiding party will distract Central
 
 - Episode 10
 
@@ -266,3 +288,5 @@ permalink: /in-heck/
 - Episode 15
 
 - Episode 16
+  - Gumption winds up 'borged
+  - Maddy: "Well, if I didn't mind you were a goat, I'm not going to mind this." (first kiss)

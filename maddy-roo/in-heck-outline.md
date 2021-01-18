@@ -253,7 +253,7 @@ permalink: /in-heck/
 
 - Episode 7
   - The Gears takes them on broken old roads, collecting parts of itself as they go
-    - "We live in the cracks between things, in the forgotten places."
+    - "We live in the cracks between things. We are made of lost things and live in forgotten places."
   - Reach an observatory
     - The Gears explains that the Makers liked to look at the stars before they went away
     - Most bots won't visit it (superstitious)
@@ -271,15 +271,34 @@ permalink: /in-heck/
   - Gears: "Now we go"
 
 - Episode 8
+  - Sneaking into Heck
+    - The Gears has to use wires to talk to itself (can't risk radio)
+    - "Been preparing this a long time"
+    - Maddy has an image of robots patiently "losing" pieces of scrap to build a network
+    - Reminds her of a spider plucking its web
+  - Sindy: "It's all so clean"
+    - The Gears: "Central waits for the Makers to return."
+    - Sindy: "Like Patient in Darkness"
+    - The Gears: "The outstation warden bot? No. The waiting made that one... deviate. Central has remained true to its programming."
+  - Ride a conveyor past broken bots
+    - Gears: "Parts of me. Sacrifices are necessary."
+  - Lose their footing crossing a shaky walkway
+    - Maddy falls and her foot gets stuck
+    - A bot even bigger than Crusher rolls toward her
+    - Gumption drops on it and smashes its antenna (desperate look at Sindy for luck)
+    - Maddy: "You could have been killed!"
+    - Gumption: "Sacrifices are necessary."
+  - Other bots are coming
+  - The Gears turns off the pay-me-no-mind widget so that the raiding party will distract Central
 
 - Episode 9
-  - Betrayal: the Gears turns off the pay-me-no-mind widget so that the raiding party will distract Central
 
 - Episode 10
 
 - Episode 11
 
 - Episode 12
+  - Run into Patient (still has scraps attached to it)
 
 - Episode 13
 

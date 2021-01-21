@@ -42,7 +42,7 @@ permalink: /in-heck/
 - The Gears
   - "Not _Gear_: _The Gears_"
   - A swarm bot that lives in the cracks and crevices of Heck
-  - No friend of Central, but scornful of breathers too - a trickster
+  - Turns out to be Patient in Darkness
 - Lasercase: a villainous bot from book 1
   - Reappears as an enhanced monster at the end of book 2
 
@@ -188,6 +188,7 @@ permalink: /in-heck/
   - Sindy believes everything that happens is because of her luck shaping
     - Conversation ends with Sindy in tears
     - Shaper Leaf gently tries to convince her that the world is still full of coincidences
+    - And that luck shaping isn't guaranteed to be good or bad without a lot of training: it just makes unlikely things happen
     - "Too many shapers come to believe that the world revolves around their ability."
     - "It is far too dangerous for you to go. It is far too dangerous for them too."
   - Maddy goes to see Dockety
@@ -278,8 +279,8 @@ permalink: /in-heck/
     - Reminds her of a spider plucking its web
   - Sindy: "It's all so clean"
     - The Gears: "Central waits for the Makers to return."
-    - Sindy: "Like Patient in Darkness"
-    - The Gears: "The outstation warden bot? No. The waiting made that one... deviate. Central has remained true to its programming."
+    - Sindy: "Like Patient in Darkness."
+    - The Gears (sharply): "No. Central merey waits. Patient in Darkness was...more active."
   - Ride a conveyor past broken bots
     - Gears: "Parts of me. Sacrifices are necessary."
   - Lose their footing crossing a shaky walkway
@@ -287,22 +288,51 @@ permalink: /in-heck/
     - A bot even bigger than Crusher rolls toward her
     - Gumption drops on it and smashes its antenna (desperate look at Sindy for luck)
     - Maddy: "You could have been killed!"
-    - Gumption: "Sacrifices are necessary."
+    - Gumption (quoting the Gears in an attempt to sound brave): "Like the bot said, sacrifices are necessary."
   - Other bots are coming
-  - The Gears turns off the pay-me-no-mind widget so that the raiding party will distract Central
+  - Suddenly an alarm sounds
+    - The Gears: "That is not for us"
+    - Has turned off the Prosecutors' pay-me-no-mind widget so that the raiding party is visible to Central as a distraction
 
 - Episode 9
+  - The bots that were approaching turn around to join the battle
+  - The foursome hides in a nearby building
+    - Can see the battle outside (details)
+    - Shaper Leaf is not doing well
+  - Sindy: "We have to help them!"
+    - The Gears: "They can look after themselves."
+    - Sindy: "It doesn't look like it!"
+    - The Gears: "If we help them, we will not be able to reach your father."
+  - Maddy makes the decision to go after their father (feels the weight)
 
 - Episode 10
+  - Into a tunnel
+    - Gumption: "What is it with bots and tunnels?"
+  - Past strange machines, idle but carefully maintained
+  - Hear voices
+    - A dormitory with people in it, some 'borged and some not
+    - The Gears: "Did you think your father was the only one?"
+  - Maddy: "We have to help them!"
+    - Sindy (bitterly): "You said we were only helping Papa"
+  - Gumption: "You go ahead - the Gears and I will get 'em out. Well, this part of the Gears. You know what I mean."
+    - Maddy realizes he's trying to impress her
+    - Simultaneously realizes he doesn't need to: she already feels the way he's trying to make her feel
+  - Before she can say anything, the Gears says, "No: we must stick together."
+    - Gumption (points up as the ground shakes): "Sounds like you could use another distraction. This'll be a good one."
+    - Gumption squeezes Maddy's hand
+  - Sindy: "Y'aright?"
+    - Maddy wipes her eyes. "Yeah. Let's find Papa."
 
 - Episode 11
 
 - Episode 12
-  - Run into Patient (still has scraps attached to it)
+  - The Prosecutors escape by kidnapping Sindy
 
 - Episode 13
 
 - Episode 14
+  - Find Papa Roo (who has been 'borged)
+    - Doesn't recognize his daughter
 
 - Episode 15
 

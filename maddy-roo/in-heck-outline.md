@@ -317,13 +317,40 @@ permalink: /in-heck/
   - Gumption: "You go ahead - the Gears and I will get 'em out. Well, this part of the Gears. You know what I mean."
     - Maddy realizes he's trying to impress her
     - Simultaneously realizes he doesn't need to: she already feels the way he's trying to make her feel
+    - Gumption: "We have to try or we're no better than the Prosecutors."
   - Before she can say anything, the Gears says, "No: we must stick together."
     - Gumption (points up as the ground shakes): "Sounds like you could use another distraction. This'll be a good one."
-    - Gumption squeezes Maddy's hand
+    - Gumption squeezes Maddy's hand and they part
   - Sindy: "Y'aright?"
     - Maddy wipes her eyes. "Yeah. Let's find Papa."
 
 - Episode 11
+  - Find Papa Roo
+    - Sitting at a desk, one hand on a touch plate, the other sketching
+    - He has been 'borged: joined at the waist to a tracked loader carrying semi-transparent tanks of gurgling fluid
+  - Doesn't recognize his daughters
+    - Won't come with them: "I have my assignment."
+    - "I will sound the alarm"
+    - Maddy (in tears): "What do you think *that* is?" (it's already keening)
+  - Disembodied voice: "The helper is correct... correct... correct. It has its assignment. You must not... must not... distract it."
+    - Sindy: "Who are you?"
+    - Voice: "We are... we are... Central..."
+  - Maddy: "What is it with bots and the whole spooky voice thing?"
+    - Central: "...what?"
+    - "Patient did the same thing." waggles fingers. "Woo, I'm just a voice out of nowhere---tremble in your boots!"
+    - Turns to Sindy (urgently): "Do something. Anything. Just---just try."
+  - Central: "He does not want... does not want... to come with you. He wants... he wants... to keep you safe."
+    - Maddy: "What?"
+    - Central: "We cannot... we cannot... reset the recall timer... ourself."
+    - If Papa Roo (or someone else who can shape) doesn't reset the timer, the Makers will wake up
+    - Central is trying to keep the world for bots---yes, and people, but not the Makers
+  - Maddy: "Papa's not a shaper!"
+    - Central orders Papa Roo to demonstrate
+    - Gusts of wind, and suddenly Maddy remembers kites and whirligigs from her childhood
+    - Shaper Leaf keeping Sindy's talents hidden makes sense
+  - The Gears reveals that it is Patient in Darkness
+    - It wants the Makers to come back
+    - Smashes the tanks on the back of Papa Roo's cart
 
 - Episode 12
   - The Prosecutors escape by kidnapping Sindy
@@ -331,8 +358,6 @@ permalink: /in-heck/
 - Episode 13
 
 - Episode 14
-  - Find Papa Roo (who has been 'borged)
-    - Doesn't recognize his daughter
 
 - Episode 15
 

@@ -32,19 +32,14 @@ permalink: /in-heck/
   - Scornful of Shaper Leaf's decision to lead a quiet life
 - Mouse: a small maintenance bot from Patient's lair
   - Turns out to be part of the Gears
-- Patient in Darkness
-  - Main bot villain from book 1
-  - Minion in book 2
+- The Gears
+  - A swarm bot that claims to live in the cracks and crevices of Heck
+  - Turns out to be part of Central
 - Central: the computer that runs Heck
-  - Trying to prepare the world for the return of the Makers
+  - Doing maintenance until the Makers return
 - ARM 47: an Autonomous Robotic Manipulator
   - Central's minions and prison guards
-- The Gears
-  - "Not _Gear_: _The Gears_"
-  - A swarm bot that lives in the cracks and crevices of Heck
-  - Turns out to be Patient in Darkness
-- Lasercase: a villainous bot from book 1
-  - Reappears as an enhanced monster at the end of book 2
+- ARM 15: smaller Central-controlled bot
 
 ## Ideas
 
@@ -129,7 +124,7 @@ permalink: /in-heck/
     - Sindy: "Tell me a story about Papa..."
   - After Sindy is in bed, Mama Roo teases Maddy gently about Gumption
     - "Been doing a lot of reading, you two"
-    - Maddy [trying to change the subject] "Most goats aren't really readers"
+    - Maddy (trying to change the subject) "Most goats aren't really readers"
     - Mama Roo: "Don't forget he's only half goat---his daddy's a sheep."
     - continues: "It ain't common, different kinds getting together, but there's nothing wrong with it."
   - Mouse wakes Maddy in the middle of the night
@@ -144,9 +139,8 @@ permalink: /in-heck/
   - "Can you get him out?"
     - "Not alone"
   - "I gotta tell---"
-    - "No!" [agitated] "The striped one is not a friend. She will stop you. She will do bad things."
+    - "No!" (agitated) "The striped one is not a friend. She will stop you. She will do bad things."
     - "But Central moves the prisoners from station to station. Your father is on the outskirts of Heck now, but only for a while."
-    - "Breathers cannot function for long when the air is so bad. He has already operated longer than most."
   - Gives her a widget
     - "This will hide you from Central, at least for a while."
 
@@ -262,6 +256,7 @@ permalink: /in-heck/
     - Windowless brick buildings connected by elevated walkways
     - Seems strangely empty to Maddy
     - The Gears: "Don't need to eat, don't need to go home to sleep - much less rushing around than breathers"
+    - Air is very clean, not at all what Maddy expected (no smoke or fumes)
   - Spot the raiding party
     - Hold their breath as a bot passes by, slows, then speeds up again
     - The pay-me-no-mind widget works
@@ -280,22 +275,25 @@ permalink: /in-heck/
   - Sindy: "It's all so clean"
     - The Gears: "Central waits for the Makers to return."
     - Sindy: "Like Patient in Darkness."
-    - The Gears (sharply): "No. Central merey waits. Patient in Darkness was...more active."
-  - Ride a conveyor past broken bots
+    - The Gears (sharply): "No. Central still follows instructions. Patient in Darkness had evolved."
+  - Ride a conveyor past broken mouse bots
     - Gears: "Parts of me. Sacrifices are necessary."
   - Lose their footing crossing a shaky walkway
     - Maddy falls and her foot gets stuck
-    - A bot even bigger than Crusher rolls toward her
+    - An ARM 47 even bigger than Crusher rolls toward her
     - Gumption drops on it and smashes its antenna (desperate look at Sindy for luck)
     - Maddy: "You could have been killed!"
     - Gumption (quoting the Gears in an attempt to sound brave): "Like the bot said, sacrifices are necessary."
   - Other bots are coming
-  - Suddenly an alarm sounds
-    - The Gears: "That is not for us"
-    - Has turned off the Prosecutors' pay-me-no-mind widget so that the raiding party is visible to Central as a distraction
+  - "We need a distraction"
+    - Sindy: "I'm trying, I just don't know---"
+    - The Gears: "I will provide one"
+  - Oncoming bots freeze, pivot, hurry away
+  - "What dd you do?"
+  - The Gears: "I turned off the shielding device. Central can now see the Prosecutors."
+  - "Sacrifices are necessary."
 
 - Episode 9
-  - The bots that were approaching turn around to join the battle
   - The foursome hides in a nearby building
     - Can see the battle outside (details)
     - Shaper Leaf is not doing well
@@ -304,56 +302,58 @@ permalink: /in-heck/
     - Sindy: "It doesn't look like it!"
     - The Gears: "If we help them, we will not be able to reach your father."
   - Maddy makes the decision to go after their father (feels the weight)
-
-- Episode 10
   - Into a tunnel
     - Gumption: "What is it with bots and tunnels?"
   - Past strange machines, idle but carefully maintained
   - Hear voices
-    - A dormitory with people in it, some 'borged and some not
+    - A dormitory with people in it, some with mechanical parts, all wearing control helmets
     - The Gears: "Did you think your father was the only one?"
   - Maddy: "We have to help them!"
-    - Sindy (bitterly): "You said we were only helping Papa"
+    - Sindy (bitter about not helping Shaper Leaf): "You said we were only helping Papa"
   - Gumption: "You go ahead - the Gears and I will get 'em out. Well, this part of the Gears. You know what I mean."
     - Maddy realizes he's trying to impress her
     - Simultaneously realizes he doesn't need to: she already feels the way he's trying to make her feel
-    - Gumption: "We have to try or we're no better than the Prosecutors."
-  - Before she can say anything, the Gears says, "No: we must stick together."
-    - Gumption (points up as the ground shakes): "Sounds like you could use another distraction. This'll be a good one."
+    - Gumption (points up as the ground shakes): "Sounds like we could use another distraction. This'll be a good one."
+    - Gumption to Sindy: "Difference is they can't help themselves"
     - Gumption squeezes Maddy's hand and they part
   - Sindy: "Y'aright?"
     - Maddy wipes her eyes. "Yeah. Let's find Papa."
 
+- Episode 10
+  - Explore the dormitory building
+    - A moose doing math problems
+    - An orangutan patiently assembling a jigsaw puzzle
+  - Find Papa Roo sitting at a desk sketching
+  - Sindy: "Papa?"
+    - The Gears: "I will see if I can wake him up."
+    - Light goes off on his helmet.
+  - For a moment nothing happens, then Papa Roo blinks and stands up shakily
+    - He looks smaller than Maddy remembers
+    - Fur has worn off the underside of his right arm where it rested on the table
+    - "Who?"
+  - He thinks he's seeing things
+    - Takes a moment to believe his daughters are really there
+    - Then he's grief-stricken: "You have to get out of here!"
+    - "It knows you're here. Central knows you're here."
+  - Maddy was used to bots that had been out in the world repairing themselves with whatever scraps they could find
+    - Not used to bots that could move silently
+    - Shocked when she turned and saw a pair of ARM 15's blocking the door behind them
+  - To Sindy: "Do something!"
+    - Papa Roo: "Her? What can she do?"
+  - The Gears: "Yes. What *can* she do?"
+    - Mouse bot rolls across the floor, is picked up by one of the ARM 15, settles into place
+  - Maddy: "What...?"
+    - The Gears is Central
+    - "This is responsible for collecting data while the Makers are away."
+    - "Needed to see your small one's performance under real conditions to establish a baseline for further measurement."
+  - Mouse bot drops from the ceiling onto Gumption
+    - Brief flash and he falls unconscious to the ground
+    - Maddy opens her mouth to scream just as somethin lands on her shoulders
+    - She feels the flash behind her eyes and everything goes away
+
 - Episode 11
-  - Find Papa Roo
-    - Sitting at a desk, one hand on a touch plate, the other sketching
-    - He has been 'borged: joined at the waist to a tracked loader carrying semi-transparent tanks of gurgling fluid
-  - Doesn't recognize his daughters
-    - Won't come with them: "I have my assignment."
-    - "I will sound the alarm"
-    - Maddy (in tears): "What do you think *that* is?" (it's already keening)
-  - Disembodied voice: "The helper is correct... correct... correct. It has its assignment. You must not... must not... distract it."
-    - Sindy: "Who are you?"
-    - Voice: "We are... we are... Central..."
-  - Maddy: "What is it with bots and the whole spooky voice thing?"
-    - Central: "...what?"
-    - "Patient did the same thing." waggles fingers. "Woo, I'm just a voice out of nowhere---tremble in your boots!"
-    - Turns to Sindy (urgently): "Do something. Anything. Just---just try."
-  - Central: "He does not want... does not want... to come with you. He wants... he wants... to keep you safe."
-    - Maddy: "What?"
-    - Central: "We cannot... we cannot... reset the recall timer... ourself."
-    - If Papa Roo (or someone else who can shape) doesn't reset the timer, the Makers will wake up
-    - Central is trying to keep the world for bots---yes, and people, but not the Makers
-  - Maddy: "Papa's not a shaper!"
-    - Central orders Papa Roo to demonstrate
-    - Gusts of wind, and suddenly Maddy remembers kites and whirligigs from her childhood
-    - Shaper Leaf keeping Sindy's talents hidden makes sense
-  - The Gears reveals that it is Patient in Darkness
-    - It wants the Makers to come back
-    - Smashes the tanks on the back of Papa Roo's cart
 
 - Episode 12
-  - The Prosecutors escape by kidnapping Sindy
 
 - Episode 13
 
@@ -364,3 +364,6 @@ permalink: /in-heck/
 - Episode 16
   - Gumption winds up 'borged
   - Maddy: "Well, if I didn't mind you were a goat, I'm not going to mind this." (first kiss)
+  - Commotion in the square and for a brief moment Maddy thought someone had seen them
+  - People pointing at the night sky as a light moves slowly against the stars
+  - It's the Makers' ship returning

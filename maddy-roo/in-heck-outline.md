@@ -246,7 +246,7 @@ permalink: /in-heck/
     - She realizes she has become their leader
   - Deep breath: "We'll need to take food. And something to drink."
 
-- Episode 7
+- Episode 7: Broken Roads and Broken Bots
   - The Gears takes them on broken old roads, collecting parts of itself as they go
     - "We live in the cracks between things. We are made of lost things and live in forgotten places."
   - Reach an observatory
@@ -266,7 +266,7 @@ permalink: /in-heck/
     - See how the Gears incorporates parts from the defeated bot into itself almost immediately
   - Gears: "Now we go"
 
-- Episode 8
+- Episode 8: Infiltration
   - Sneaking into Heck
     - The Gears has to use wires to talk to itself (can't risk radio)
     - "Been preparing this a long time"
@@ -275,7 +275,7 @@ permalink: /in-heck/
   - Sindy: "It's all so clean"
     - The Gears: "Central waits for the Makers to return."
     - Sindy: "Like Patient in Darkness."
-    - The Gears (sharply): "No. Central still follows instructions. Patient in Darkness had evolved."
+    - The Gears (sharply): "No. Central still follows instructions. Patient in Darkness...deviated."
   - Ride a conveyor past broken mouse bots
     - Gears: "Parts of me. Sacrifices are necessary."
   - Lose their footing crossing a shaky walkway
@@ -293,7 +293,7 @@ permalink: /in-heck/
   - The Gears: "I turned off the shielding device. Central can now see the Prosecutors."
   - "Sacrifices are necessary."
 
-- Episode 9
+- Episode 9: The Sleepers
   - The foursome hides in a nearby building
     - Can see the battle outside (details)
     - Shaper Leaf is not doing well
@@ -307,53 +307,62 @@ permalink: /in-heck/
   - Past strange machines, idle but carefully maintained
   - Hear voices
     - A dormitory with people in it, some with mechanical parts, all wearing control helmets
-    - The Gears: "Did you think your father was the only one?"
+    - Gumption: "Stands to reason your papa wouldn't be the only one"
+  - They see Patient in Darkness minding them grumbling to itself
+    - The Gears: "It deviated. Deviation is punished."
   - Maddy: "We have to help them!"
     - Sindy (bitter about not helping Shaper Leaf): "You said we were only helping Papa"
+    - Gumption to Sindy: "Difference is they can't help themselves"
   - Gumption: "You go ahead - the Gears and I will get 'em out. Well, this part of the Gears. You know what I mean."
     - Maddy realizes he's trying to impress her
     - Simultaneously realizes he doesn't need to: she already feels the way he's trying to make her feel
-    - Gumption (points up as the ground shakes): "Sounds like we could use another distraction. This'll be a good one."
-    - Gumption to Sindy: "Difference is they can't help themselves"
+    - Gumption (as the ground shakes): "Sounds like we could use another distraction. This'll be a good one."
     - Gumption squeezes Maddy's hand and they part
   - Sindy: "Y'aright?"
     - Maddy wipes her eyes. "Yeah. Let's find Papa."
 
-- Episode 10
+- Episode 10: Papa Roo
   - Explore the dormitory building
     - A moose doing math problems
     - An orangutan patiently assembling a jigsaw puzzle
   - Find Papa Roo sitting at a desk sketching
   - Sindy: "Papa?"
-    - The Gears: "I will see if I can wake him up."
+    - The Gears: "I will wake him."
     - Light goes off on his helmet.
   - For a moment nothing happens, then Papa Roo blinks and stands up shakily
     - He looks smaller than Maddy remembers
     - Fur has worn off the underside of his right arm where it rested on the table
-    - "Who?"
   - He thinks he's seeing things
     - Takes a moment to believe his daughters are really there
     - Then he's grief-stricken: "You have to get out of here!"
     - "It knows you're here. Central knows you're here."
   - Maddy was used to bots that had been out in the world repairing themselves with whatever scraps they could find
     - Not used to bots that could move silently
-    - Shocked when she turned and saw a pair of ARM 15's blocking the door behind them
+    - Shocked when she turned and saw a pair of ARM 15s blocking the door behind them
   - To Sindy: "Do something!"
     - Papa Roo: "Her? What can she do?"
   - The Gears: "Yes. What *can* she do?"
-    - Mouse bot rolls across the floor, is picked up by one of the ARM 15, settles into place
+    - Mouse bot rolls across the floor, is picked up by one of the ARM 15s, settles into place
   - Maddy: "What...?"
     - The Gears is Central
     - "This is responsible for collecting data while the Makers are away."
     - "Needed to see your small one's performance under real conditions to establish a baseline for further measurement."
+    - "But now it's time for you to join the others."
   - Mouse bot drops from the ceiling onto Gumption
     - Brief flash and he falls unconscious to the ground
     - Maddy opens her mouth to scream just as somethin lands on her shoulders
     - She feels the flash behind her eyes and everything goes away
 
-- Episode 11
+- Episode 11: Gumption's Story
+  - Gumption: "You go ahead - the Gears and I will get 'em out. Well, this part of the Gears. You know what I mean."
+    - Wonders if Maddy can hear the tremor in his voice
+    - Just like he wonders every day if she knows how he feels
+  - As the ground shakes with the battle (bravado): "Sounds like we could use another distraction. This'll be a good one."
+  - Tries to free the sleepers, betrayed by the Gears
+  - Patient in Darkness crushes the mouse bot
 
 - Episode 12
+  - Maddy Roo in the simulation
 
 - Episode 13
 

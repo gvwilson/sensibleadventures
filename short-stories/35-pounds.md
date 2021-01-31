@@ -1,4 +1,4 @@
-Owing to some ienxplicable wounds found on the bodies of seasls, it has been suggested that a land mammal might exist in these regions, though hitherto unseen by man. Most of us were incredulous of this theory, but on that night we suddenly came on a floe covered with soft snow which bore the impress of footprints wide apart and bearing every appearance of having been made by a large land animal. The excitement was great and observers with cameras were soon over the side and breathlessly examining this strange spoor; but alas! it was soon detected that the impress was that of a webbed foot, and gradually we can to the conclusion that the footprints were those of a large fiatn petrl, and that their distance apart was due to the fact that they had been made when the bird, half-flying anf half-walking, and been lazily rising on the wing. - diary of Captain Robert Falcon Scott, January 21, 1902.
+Owing to some inexplicable wounds found on the bodies of seals, it has been suggested that a land mammal might exist in these regions, though hitherto unseen by man. Most of us were incredulous of this theory, but on that night we suddenly came on a floe covered with soft snow which bore the impress of footprints wide apart and bearing every appearance of having been made by a large land animal. The excitement was great and observers with cameras were soon over the side and breathlessly examining this strange spoor; but alas! it was soon detected that the impress was that of a webbed foot, and gradually we can to the conclusion that the footprints were those of a large giant petrel, and that their distance apart was due to the fact that they had been made when the bird, half-flying and half-walking, and been lazily rising on the wing. - diary of Captain Robert Falcon Scott, January 21, 1902.
 
 March 11, 1902: Seaman George T. Vince was taken by the ice while sledging back to camp in a storm.
 
@@ -30,7 +30,7 @@ Scott never explained why he changed plans and took five men to the pole instead
 
 Jan 16, 1912: they reach the pole and find Amundsen's cairn and black flag, and the clear traces of dogs' paws---many dogs.
 
-A note in the Polheim tent: "Dear Captain Scott---As you probably are the first to reach this area after us, I will ask you to kindly forward this letter ot King Haakon VII. If you can use any of the articles left in the tent please do not hesitate to do so. The sledge left outside may be of use to you. With kind regards I wish you a safe return. Yours truly, Roald Amundsen." But there was no sledge.
+A note in the Polheim tent: "Dear Captain Scott---As you probably are the first to reach this area after us, I will ask you to kindly forward this letter to King Haakon VII. If you can use any of the articles left in the tent please do not hesitate to do so. The sledge left outside may be of use to you. With kind regards I wish you a safe return. Yours truly, Roald Amundsen." But there was no sledge.
 
 Jan 24-29, 1912: "the sledge with our good wind behind runs splendidly" (Scott). But the men are miserable: pus-filled frostbite sores, Wilson suffering tortures in his eyes. Bowers stopped recording times of meteorological observations---his watch had gone awry.
 
@@ -50,4 +50,7 @@ undated: "Oates slet through the night...hoping not to wake, but he woke in the 
 
 The bodies of Scott and his companions were discovered by a search party on 12 November 1912 and their records retrieved. Tryggve Gran, who was part of the search party, described the scene as, "snowcovered til up above the door, with Scott in the middle, half out of his bagg [sic]... the frost had made the skin yellow & transparent & I've never seen anything worse in my life." Their final camp became their tomb; the tent roof was lowered over the bodies and a high cairn of snow was erected over it, topped by a roughly fashioned cross, erected using Gran's skis. Next to their bodies lay 35 pounds (16 kg) of *Glossopteris* tree fossils which they had dragged on hand sledges. These were the first ever discovered Antarctic fossils and proved that Antarctica had once been warm and connected to other continents.
 
-- difference between brash ice, cake ice, grease ice, and frazil ice
+Difference between brash ice, cake ice, grease ice, and frazil ice
+- Brash ice is an accumulation of floating ice made up of fragments not more than 2m across. It is the wreckage of other forms of ice.
+- Frazil ice is a collection of loose, randomly oriented, plate or discoid ice crystals formed in supercooled turbulent water.
+- Grease ice is a very thin, soupy layer of frazil crystals clumped together, which makes the ocean surface resemble an oil slick.

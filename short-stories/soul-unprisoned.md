@@ -27,7 +27,7 @@ the stream caressing her knees as she turned to face whoever had frightened her 
 "There's a stranger in camp."
 He was one of the new arrivals,
 still thin and angry after his long trek from the drowning lands.
-His clan had lost their farms to the rising sea,
+His clan had lost their farms to the ever-rising sea,
 and many had been killed or enslaved.
 It would be many years before he was ready to let go of the weight of that,
 but he had helped realign some of her stones without complaint
@@ -89,7 +89,7 @@ Birds and insects filled the forest with sound,
 and once something larger made the bushes rustle.
 Wharru hesitated but the old woman pushed on.
 A thylacine wouldn't attack two people together,
-and no one had seen a marsupial lion in the mountains since she was a baby.
+and no one had seen a marsupial lion in the mountains for years.
 
 They reached the field of stones just as the sun was about to kiss the horizon.
 There wasn't a cloud in the sky,
@@ -109,8 +109,104 @@ He turned as Wharru and the old woman approached him.
 She blinked.
 His little man was as small as a baby's and he had no bag at all that she could see.
 
-Wurdi Youang is composed of about 100 basalt stones, including three large waist-high stones at the western end.
-It is at least 11,000 years old.
+She cleared her throat to greet him,
+but before the words could leave her mouth he said,
+"It does not measure well enough."
+
+Wharru stiffened beside her at the stranger's rudeness.
+"Show respect," he said sharply.
+
+She put a cautionary hand on his arm.
+"What do you mean, not well enough?"
+
+The stranger gestured at the oval of basalt that had taken the old woman a lifetime to assemble.
+There were exactly one hundred and twenty one stones,
+each with a name known only to the old woman and whoever had helped her place it.
+She could have picked some up one-handed,
+but others had taken two people and a wooden travois to move,
+and each of the waist-high trio at the oval's sunset end
+had needed a year of hard work to haul up the mountain and put in place.
+
+"I need to know..."
+The stranger paused and blinked rapidly several times.
+"This language does not have the words.
+I need to know a moment."
+He gestured at the scar on his head.
+"My people can only hear me at some moments,
+but I am damaged.
+I do not know when those moments are any more.
+I must add to find them.
+I need to measure to add,
+but this does not measure well enough."
+
+The old woman clucked her tongue.
+"I don't understand.
+Do you want to add a stone?"
+Was part of his spirit lost in the Dreaming?
+She had seen it before.
+A stone had struck a man on the head.
+He had not woken for two days;
+when he finally did he moved slowly and was confused by the simplest things.
+
+The stranger shook his head.
+"No.
+'Add' is not right.
+I need to---this language does not have the words.
+I need to count the spaces between the stars to know when my people will be able to hear me.
+What you have built does measure well enough.
+It is of no use."
+
+"It is of great use!" Wharru said hotly.
+"It tells us when the seasons will turn and what path the moon will take.
+It tells us when the ancestors are closest to us!"
+
+The stranger did not reply to that.
+He just looked at the old woman.
+He knew, she realized.
+Somehow he knew what she had never admitted to anyone, living or dead.
+She wasn't sure whether what she told the others about the ancestors being nearer at certain times was true or not.
+What she *was* sure of---what she knew in her bones---was that
+there were patterns in the stars and the lights that wandered among them,
+and that those patterns *meant* something.
+
+"I must look elsewhere," the stranger said abruptly.
+With nothing more than that he started to walk past them.
+
+Wharru caught his arm.
+"Are they all so rude where you come from?" he demanded.
+
+"Wharru, don't," the old woman protested,
+but the young man ignored her.
+He had fought and killed on his way to the mountain,
+and in that sunset moment she could see his battles in the way he shifted his weight,
+ready to strike or to fend off a blow.
+
+But that blow never came.
+With a rasping roar,
+the lion that had been creeping closer while they were distracted
+burst out of the trees behind them.
+Afterward,
+Alinta would twist the skin that hung off the lion's ribs
+and pull a starved roo out of the lion's belly pouch
+and say that she was a mother
+and must have been mad with hunger.
+Right then there was only time for the old woman to gasp
+as the stranger threw Wharru out of the way
+and somehow got his arm around the lion's neck and *jerked*.
+
+Something cracked.
+The lion went limp.
+The stranger waited a moment, then stood.
+Blood spurted from four deep wounds on his thigh,
+but even as the old woman watched
+it slowed, slowed, and stopped.
+
+"Who *are* you?" she breathed
+as Wharru struggled to his feet.
+
+The stranger looked from her to the stones and back.
+"I don't know."
+Then he turned and walked away.
 
 <div align="center">* * *</div>
 

@@ -185,34 +185,45 @@ But that blow never came.
 With a rasping roar,
 the lion that had been creeping closer while they were distracted
 burst out of the trees behind them.
-Afterward,
-Alinta would twist the skin that hung off the lion's ribs
-and pull a starved roo out of the lion's belly pouch
-and say that she was a mother
-and must have been mad with hunger.
-Right then there was only time for the old woman to gasp
-as the stranger threw Wharru out of the way
-and somehow got his arm around the lion's neck and *jerked*.
 
-Something cracked.
-The lion went limp.
-The stranger waited a moment, then stood.
-Blood spurted from four deep wounds on his thigh,
-but even as the old woman watched
-it slowed, slowed, and stopped.
+The old woman to scream as the lion knocked her to the ground.
+A dazzling pain like she had never imagined shot up her spine as her hip broke,
+then something cracked and the lion went limp.
+The stranger had broken its neck with his bare hands
+as easily as someone might break a dry twig.
 
-"Who *are* you?" she breathed
-as Wharru struggled to his feet.
+He carried her down the mountain as if she were a baby
+while Wharru ran ahead to tell the others what had happened.
+She passed out several times,
+only to be dragged back into the world by the agony in her hip.
+"Who *are* you?" she asked,
+or dreamed that she asked,
+in a moment of lucidity.
 
-The stranger looked from her to the stones and back.
+The stranger glanced down at her.
 "I don't know."
-Then he turned and walked away.
+
+When they reached camp he set her down gently,
+turned,
+and walked away without a word.
+
+Later,
+Alinta poked at the lion's protruding ribs
+and said it must have been desperate with hunger.
+It was the last lion they ever saw---the last one *anyone* ever saw.
+She made a cloak from its pelt,
+but it was lost in a flood many years later and many miles away.
+The old woman lived another season,
+but was never able to go back up the mountain to track the sun and moon and stars with her stones.
+She wondered sometimes who the stranger had been
+and whether he had ever found a way count the spaces between the stars.
 
 <div align="center">* * *</div>
 
 **Chankillo / Actual minus 3400 years**
 
-The Thirteen Towers near Chankillo in the Peruvian coastal desert were built about 400 BCE by the Casma/Sechin culture. The towers line up with the rising and setting sun on important days.
+The Thirteen Towers near Chankillo in the Peruvian coastal desert were built about 400 BCE by the Casma/Sechin culture.
+The towers line up with the rising and setting sun on important days.
 
 <div align="center">* * *</div>
 

@@ -207,7 +207,7 @@ When they reached camp he set her down gently,
 turned,
 and walked away without a word.
 
-Later,
+*Later,
 Alinta poked at the lion's protruding ribs
 and said it must have been desperate with hunger.
 It was the last lion they ever saw---the last one *anyone* ever saw.
@@ -216,14 +216,298 @@ but it was lost in a flood many years later and many miles away.
 The old woman lived another season,
 but was never able to go back up the mountain to track the sun and moon and stars with her stones.
 She wondered sometimes who the stranger had been
-and whether he had ever found a way count the spaces between the stars.
+and whether he had ever found a way count the spaces between the stars.*
 
 <div align="center">* * *</div>
 
 **Chankillo / Actual minus 3400 years**
 
-The Thirteen Towers near Chankillo in the Peruvian coastal desert were built about 400 BCE by the Casma/Sechin culture.
-The towers line up with the rising and setting sun on important days.
+As a child,
+Second Bird's diet consisted of maize, beans, the occasional roasted guinea pig,
+and his grandfather's stories of the war.
+The First People had risen up against the highlanders' god-king many times.
+Each rebellion had ended the same way,
+with entire families staked out in the desert as gifts to the sun
+and ever-harsher conditions for the survivors.
+
+"So we wept and we *learned*," Fast Rock said,
+grunting the last word as he turned over a spadeful of damp soil.
+He and Second Bird had been working to clear this irrigation channel for nine days.
+It was slow, slippery, back-breaking work,
+but Second Bird didn't mind:
+all of the other chores were just as hard,
+and he would rather listen to his grandfather's stories
+than to the imprisoned god-king's endless tirades.
+
+Fast Rock drove his spade into the ground again.
+"The trick was,"
+heave,
+"We all had,"
+heave,
+"To rise,"
+heave,
+"together."
+He paused a moment to wipe sweat from his brow
+while Second Bird dragged the woven reed basket full of soil out of the way
+and pushed an empty one into place.
+One more basket and they would trade places.
+Four more after that would make eight for them to carry a hundred strides
+to fill the gap where the riverbank had given way.
+
+The numbers danced in Second Bird's head.
+They had made six such journeys so far that day
+and would make another eight before the day ended.
+Six plus eight was ten with four.
+Ten with four upon itself nine times was five twenties with six.
+If they were half done---he glanced at the river to check yet again---then yes,
+they would made ten twenties with ten and two trips by the time they were done.
+At eight baskets a trip,
+that would be---
+
+The ground shook.
+Ripples danced across the flat stinking water in the irrigation channel.
+Someone shouted a warning two channels over.
+Someone else screamed.
+
+"Grandfather!" he shouted.
+He grabbed Fast Rock's outstretched hand and pull the old man up out of the channel.
+The spade whacked his shin.
+Later,
+he would realize that it had cut him,
+and would go back and burn some herbs to cleanse the ground where his blood had been spilled,
+but at that moment he thought the world was ending.
+
+Fast Rock dropped the spade on the ground
+and drew the knife that always hung at his waist.
+"Come with me!" he ordered.
+
+"Where are we going?" Second Bird asked,
+running after him.
+
+"The evil one," Fast Rock said grimly.
+"He must not escape."
+
+Every handspan of green land was a gift from the gods.
+Even the highlanders had understood that,
+and had built their villages where the green ended and the hard dry desert began.
+Most of those villages were empty now,
+home only to wild creatures and ghosts.
+Second Bird had ventured into the nearest one occasionally on a dare,
+marveling at the carved stones and at streets wide enough for six people to walk side by side.
+He had never gone to the center,
+though,
+and neither had any of the other children.
+Only the old men went there,
+and even they only went in pairs.
+
+A building had collapsed.
+Second Bird counted the jumbled stones at a glance.
+"Grandfather---" he began.
+
+"Good," the old man panted,
+slowing to a walk.
+He gestured with his knife.
+"The sooner...
+they come down...
+the sooner...
+our gods will come back."
+And end the drought,
+he didn't add.
+He didn't need to:
+every one of the First People's prayers had begged for that for six long years.
+
+They came around a corner and face-to-face with a nightmare.
+The highlanders' nameless god-king stood in front of the collapsed wall
+of the storehouse where the First People had imprisoned him.
+Two old men stood opposite him,
+spears clutched in their hands.
+
+Without thinking
+Second Bird grabbed his grandfather's arm.
+"Wait," he hissed.
+The god-king was faster and stronger than any mortal being.
+It had taken a dozen men to subdue him,
+and the only one to survive his wounds from that battle
+could not beat him with only a knife.
+
+Fast Rock smacked his grandson's hand away and advanced slowly,
+his knife held low.
+One of the old men glanced at him and nodded,
+shifting to the side to make a space for him.
+
+"So," Fast Rock said after a moment.
+"What now?"
+
+The god-king was a head taller than anyone Second Bird had ever seen,
+with skin like charcoal and an old scar on the left side of his head.
+Naked,
+thin from years of starvation,
+and covered in dust,
+he was still more frightening than Second Bird had ever imagined.
+
+"I said, what now?" Fast Rock demanded.
+
+The god-king blinked as if waking.
+"I need to see the stars," he said abruptly,
+and then turned and walked away.
+
+The two old men looked at Fast Rock helplessly.
+"Get help," the old man ordered,
+taking the nearest one's spear.
+"Get *everyone*.
+It's time we ended this."
+
+"But---"
+
+"Now!"
+he bellowed,
+and the old man took off at a run.
+
+Fast Rock bared his teeth.
+"Let's go hunting."
+
+They followed the god-king into the desert.
+At first Second Bird thought he was headed for the fortress that the highlanders had built
+when they first swept down over the valleys,
+but he walked past it without a glance.
+That left the towers,
+thirteen of them in a row on a ridge looking west,
+each one built at a cost of dozens of lives.
+
+Others joined them,
+some carrying spears,
+others with whatever tools they had been using when the earth shook.
+Two men had thought to bring a net like the one Fast Rock and his companions had used
+to ensnare the god-king on the day of the rising,
+and an old woman had come with a pouch of herbs to burn for good fortune
+and a needle and thread for wounds.
+
+Ten twenties of twenties of strides brought them to the stone steps that led up to the first tower.
+Second Bird counted each one automatically
+and wondered for a moment if the number being so clean was some kind of sign.
+
+The god-king stood alone at the top of the tower.
+"Should we set an ambush?" one of the men carrying the net hissed at Fast Rock.
+
+The old man snorted.
+"How?"
+There was no way to get above the tower stairs and nothing to hide behind.
+
+He gestured at the nearest men.
+"Spread out.
+When he comes down, you three get behind him, but wait for my word.
+We must all attack at once."
+
+"Attack?"
+one man said incredulously.
+"Him?"
+
+"He has been in prison longer than my grandson has been alive,"
+Fast Rock said curtly.
+"He will be weak."
+
+"Didn't *look* weak," the man said under his breath,
+but he took a position.
+
+They waited.
+And waited.
+Finally Fast Rock cupped his hands around his mouth.
+"What are you doing up there?" he shouted.
+
+People gasped.
+Monster or not, the god-king was---you didn't yell at gods!
+
+But he replied.
+"I am looking at the stars,"
+he called down.
+
+"Bit early for that, isn't it?" Fast Rock yelled up.
+"I mean, wouldn't it be better to wait until they're actually there?"
+
+"The stars are always there."
+There was a moment of silence.
+"It is good to see them again."
+
+Second Bird looked questioningly at his grandfather.
+The old man shrugged,
+then tensed as the god-king came down the steps.
+
+The other men shuffled into a semi-circle around him
+when he reached the bottom.
+The god-king looked past them at the thin green ribbon of life running through the desert.
+"These are hard times for you,"
+he said.
+
+Fast Rock shrugged.
+"Better than your time was.
+But it'll get better."
+
+The god-king shook his head.
+"No, it will not.
+This is a new---" he hesitated.
+"Balance.
+A new balance of long weather.
+It cannot sustain the numbers it once did.
+This valley cannot keep as many people as this work needs.
+I must build my tools elsewhere."
+
+He took a step forward,
+pulling up short only when the tip of Fast Rock's spear touched his chest.
+"Your 'tools'?" the old man snarled.
+"Is that what you call this?
+We *died* here, monster.
+We died and died and died to build---what?"
+
+"A way to measure the stars,"
+the god-king said evenly.
+"I need to measure them very exactly to know when I can speak with my people."
+
+And just like that a lifetime of puzzle pieces fit together in Second Bird's head.
+"The solstice," he breathed.
+
+The god-king swivelled to look at Second Bird in a motion more lizardly than human.
+"Yes.
+It is a start,
+but by itself it is not nearly good enough.
+These tools are not good enough."
+His wave took in the towers,
+the people,
+and the entire river valley.
+
+"Not *good* enough?" Fast Rock snarled.
+"We have *bled*.
+We have *died*.
+We have bowed our heads for a hundred years,
+and you say it's not *enough*?"
+He lunged.
+
+The god-king slapped the spear-thrust aside as if he was swatting a fly.
+One of the men behind him took a step.
+Without even looking,
+the god-king raised a hand to point straight at him.
+"Do not," he said flatly.
+Further around the circle,
+the two men with the net shuffled their feet but made no move.
+
+Fast Rock spat at the god-king's feet.
+"So now what?
+Are we to be your slaves again?"
+
+The god-king shook his head slowly.
+"No."
+For the first time Second Bird heard emotion in his voice---regret,
+perhaps,
+or something close to it.
+"I cannot build the tools I need by myself,
+and the long weather here is too unreliable for your people to complete them.
+I must look elsewhere."
+He turned and walked into the desert without another word.
+
+*Later---much later---Second Bird took his grandchildren to the towers.
+He told them the story of the god-king
+and showed them how to predict the changing seasons by which stars lined up with which towers.
+As he fell asleep one final time,
+he wondered if the god-king had ever found someone who could build what he needed.*
 
 <div align="center">* * *</div>
 

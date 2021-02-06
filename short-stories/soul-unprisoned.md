@@ -4,7 +4,7 @@ permalink: /soul-unprisoned/
 ---
 
 <div align="center">
-  <h1>If This, My Soul, Should Be Unprisoned</h1>
+  <h1>Arecibo Mon Amour</h1>
   <h2>Greg Wilson</h2>
 </div>
 
@@ -513,7 +513,126 @@ he wondered if the god-king had ever found someone who could build what he neede
 
 **Gyeongju / Actual minus 2300 years**
 
-Cheomseongdae ("star-gazing tower") was built in the 7th century CE in the kingdom of Silla (modern-day Korea) during the reign of Queen Seondeok. It took five years to build; the number and placement of stones represents various historical and astronomical figures (e.g., the central window separates the body into 12 layers above and 12 layers below). Cheomseongdae was constructed when Queen Seondeok was still a princess; this was her first decree as a princess. Cheomseongdae was meant to share the knowledge of astronomy with everyone, rather than letting one person (Lady Misil) abuse the knowledge of it. By doing so, she also abdicated her divine rights. Because this was uncommon at the time and unsupported by many conservatives, at the opening of Cheomseongdae, barely any nobles showed up.
+"It was Her Majesty's first decree as princess,"
+the young astrologer said,
+immediately hating himself for telling such a distinguished scholar
+something he undoubtedly already knew.
+
+But the visitor from the Middle Kingdom smiled politely as he studied the star-gazing tower.
+It was the height of five men,
+and to the enlightened eye,
+the number and placement of its stones represented historical and astronomical figures.
+"I understand her decision was... not universally popular," he said.
+
+The young astrologer inclined his head,
+conscious of their escorts standing a few feet away.
+"Not universally popular" didn't quite capture the way the conservative aristocracy had felt
+about a woman ascending to the throne,
+particularly when the Taizong Emperor refused to acknowledge her,
+but it was neither polite nor prudent to dwell upon that.
+
+"And this must be the foreign barbarian I have heard so much about,"
+the visitor continued
+as a tall figure in the plain brown robe of a monk
+came up the gravel path in the waning evening light.
+
+The young astrologer inclined his head again.
+He was no longer taken aback by the foreigner's dark skin,
+but would never get used to how quietly he walked.
+"Are you at peace?" he asked in greeting.
+
+"I am, and you?"
+He had forgotten to wear sandals again,
+the young astrologer noted,
+but according to the caretaker he had at least eaten that day.
+Her Majesty's minister insisted on regular reports,
+and the young astrologer would much rather fill them with trivia like that
+than even hint at some of the things the foreigner said.
+
+He cleared his throat.
+"May I have the honor of introducing you to scholar Liu Zhao,
+who has come from the court of the Gaozong Emperor?
+I apologize for any appearance of poor manners,"
+he continued,
+turning to the visitor,
+"But my colleague has no name by which to be introduced."
+
+Scholar Liu raised a perfectly groomed eyebrow.
+"Not even a temple name?"
+
+"I am not a monk,"
+the foreigner said.
+"I have simply misplaced it."
+He brushed a finger over the scar that wrinkled the left side of his head.
+
+The scholar smiled.
+"And to think there are those who spend their lifetimes trying to let go of such things."
+He gestured at the tower.
+"It is quite marvelous."
+
+The foreigner nodded.
+"It has been very useful."
+
+"Mm."
+Scholar Liu jerked his chin at the scrolls
+whose ends stuck out of his satchel.
+"I have heard much about the records you have made.
+I am told they are extremely precise."
+
+The foreigner gave a small shrug.
+"As precise as they can be.
+Improving them will be the work of many lifetimes."
+
+The young astrologer's heart skipped a beat.
+The foreigner had the keenest eyes and most prodigious memory of anyone the younger astrologer had ever met---of
+anyone he'd ever heard of---but even for a follower of the Quiet Sage,
+his views were sometimes...unorthodox.
+
+He opened his mouth to say something diverting,
+but was interrupted by a shout as a guard came running up the path.
+"Her Majesty..." he panted,
+speaking to the two escorts rather than to the scholars.
+"Her Majesty is gone. She is gone."
+
+The soft buzz of dusk insects was the only sound in the shocked silence that followed.
+"Stay here,"
+the older escort ordered the three scholars.
+He hurried away with his partner and the messenger in tow.
+
+Scholar Liu turned to the foreigner.
+"Come with me,"
+he said without preamble.
+"Come with me to the court of the Gaozong Emperor.
+You will have a dozen towers like this one,
+and a dozen scribes to record your findings."
+
+The young astrologer's jaw dropped.
+Were all the courtiers of the Middle Kingdom so callous?
+
+The foreigner studied Scholar Liu for a moment,
+then shook his head.
+"You honor me," he said,
+"And perhaps some day I will make that journey.
+But tonight,
+my colleague and I have work to do."
+
+The hungry expression on Scholar Liu's face melted,
+leaving anger in its wake.
+"As you choose," he said coldly.
+"If you will excuse me?"
+He strode away,
+the gravel scraping under his sandals.
+
+The young astrologer turned to the foreigner.
+"Being invited to the emperor's court is quite an honor,"
+he ventured cautiously.
+"And there are many fine scholars there with whom you could converse."
+
+The foreigner nodded.
+"I'm sure there are.
+But I find no deficiency of any kind in those I know here."
+And for the first time since the young astrologer had met him,
+he smiled.
 
 <div align="center">* * *</div>
 

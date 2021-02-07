@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /soul-unprisoned/
+permalink: /arecibo-mon-amour/
 ---
 
 <div align="center">
@@ -670,91 +670,186 @@ When he wakes the next morning the foreigner has vanished.*
 **Maragheh / Actual minus 1700 years**
 
 "But you could take the books."
-Batu had led his *arban* back and forth across half of Asia.
-They had fought against Uzbeks,
+Batu has led his *arban* back and forth across half of Asia.
+They have fought Uzbeks,
 Pathans,
 Persians,
 Pathans again,
 bandits,
 Turks,
 and even a company of Frankish mercenaries
-who had somehow found themselves east of the Black Sea.
-They had heard him bellow orders,
+who somehow found themselves east of the Black Sea.
+They have heard him bellow orders,
 scream as they gallopped into battle,
 and even sing in a surprisingly melodious voice,
-but they had never heard him raise his voice the way he just had.
+but they have never heard him be quite as sarcastic as this.
 
-Otgon cleared his throat and hefted the golden candlestick he held
+Otgon clears his throat and hefts the golden candlestick he holds
 as if unsure whether he should drop it,
 hand it to his commander,
 or hide it behind his back.
 "Yes sir.
 There are some tapestries too, and a samovar.
-He said we could have those too,
-just as long as we left the books alone."
+He says we can have those too,
+just as long as we leave the books alone."
 
-"How kind," Batu said.
+"How kind," Batu says.
 "Tell me---does he *look* mad?"
 
 "No sir. He looks Ethiopian."
 
 "Who does?"
-Batu glanced over his shoulder at the question,
-then dropped to one knee,
+Batu glances over his shoulder at the question,
+then drops to one knee,
 eyes downcast.
+The men in his *arban* follow suit.
 
 "My *beg*,"
-he said.
+he says.
 
 "Get up, get up."
-Mirza Muhammad Taraghay bin Shahrukh wore the same quilted jacket as his men,
-though his was fine silk instead of homespun linen.
-His personal guard stood behind him,
+Mirza Muhammad Taraghay bin Shahrukh wears a quilted jacket like his troops,
+though his is fine silk instead of homespun linen.
+His personal guard stands behind him,
 blades bared and eyes constantly moving.
 Maragheh hadn't put up much of a fight,
-but the *beg* had many enemies.
+but the *beg* has many enemies.
 "What's this about an Ethiopian?"
 
-Batu got to his feet,
+Batu gets to his feet,
 careful not to wince at the protest from his knee.
 "Up the hill, my *beg*,"
-he said.
+he says.
 "Some crazy man saying we can have the gold if we leave the books."
-He snapped his fingers at Otgon,
-who held up the golden candlestick for inspection.
+He snaps his fingers at Otgon,
+who holds up the golden candlestick for inspection
+like a child showing a toy he has made.
 
-The *beg* narrowed his eyes.
+The *beg* narrows his eyes.
 "Interesting.
 Come, let us see what he has to say."
 
-Batu and his *arban* followed the *beg* and his guards up the hill.
+Batu and his *arban* follow the *beg* and his entourage up the hill.
 "Tuck it under your coat,"
-Batu muttered before Otgon could ask.
+Batu mutters to Otgon.
 "If you're lucky, he'll forget you have it."
-Not that there was much chance of that, he reflected.
-The man people were already calling the Ulugh Beg---the Great Ruler---was
-as famous for his intelligence as he was for being the grandson of the Great Timur.
+*If you're very lucky,* he amends in his head.
+The man people are already calling Ulugh Beg---Great Ruler---is
+as famous for his intelligence as he is for his ancestry.
 Still,
-a man could hope...
+a man can hope...
 
-The observatory had been a marvel in its heyday,
+The observatory was a marvel in its heyday,
 but time, neglect, and decades of minor earthquakes
-had brought one wall wall down completely
+have brought one wall wall down completely
 and left others leaning perilously.
-The *beg* picked his way across the cracked and tilted courtyard tiles
-to the one door that still hung true in its frame.
-To Batu's surprise he paused at its threshold and knocked.
-"Peace be upon you," he called.
+The *beg* picks his way across the cracked and tilted courtyard tiles
+to the one door that still hangs true in its frame.
+To Batu's surprise he pauses at its threshold and knocks.
+"Peace be upon you," he calls.
 "May we enter?"
 
+There is a moment's pause,
+then a weary voice says,
+"If you wish."
 
+The *beg* looks at the captain of his personal guard,
+who looks Batu,
+who looks at Otgon,
+who salues,
+hands the candlestick to his brother,
+and steps through the door.
+Batu follows,
+and the *beg* follows him.
 
-A zij is an Islamic astronomical book that tabulates parameters used for astronomical calculations of the positions of the Sun, Moon, stars, and planets.
-Muhammad ibn Muhammad ibn al-Hasan al-Tusi (1201-74) was a Persian polymath who created very accurate tables of planetary motion,
-and is often credited with establishing trigonometry as a discipline in its own right (and possibly a precursor to Copernicus via uncredited work).
-Hulagu Khan created an observatory for Tusi at Maragheh in the 13th century.
-The facility became inactive in the 14th century after losing patronage, and was ruined by a series of earthquakes.
-The contents of its library were stolen during the Mongol invasion, but the remains inspired Ulugh Beg to construct an observatory in Samarkand in 1428.
+Batu has never seen so many books.
+For a moment he feels the same way he did when his father first took him to Samarkand.
+How could there be so much world?
+
+Then the Ethiopian stirs and Batu's attention snaps back to the here and now.
+He wears the simple white robe of a pilgrim with a matching turban.
+A samovar stands near his elbow,
+and the tools of a tailor and a leatherworker are laid out neatly on the table for mending books.
+
+He stands and bows.
+The *beg* returns it as though to an equal.
+"I have been looking forward to meeting you," he says.
+
+The Ethiopian cocks his head quizzically.
+"One of my tutors spoke of you,"
+the *beg* continues.
+"He studied trigonometry with the great al-Tusi,
+and showed me a copy of the *zij* you drew up to predict the positions of the stars and planets.
+It was..."
+The *beg* spreads his hands as if words alone could not capture what it was.
+
+The Ethiopian sighs.
+"It was the best start I have ever made," he says.
+"I thought---"
+He blinks,
+and for a moment Batu wonders if he is going to cry.
+
+"I thought I could make some real progress this time,"
+the Ethiopian continues quietly,
+more to himself than to the *beg* or his soldiers.
+"When al-Tusi persuaded Hulagu Khan to build this
+I thought I would finally be able to get past the bare beginning,
+but..."
+He gestures,
+not needing to say,
+but now it is half-ruined,
+its instruments broken and its books stolen or burned or their pages ruined by rain.
+
+The *beg* chuckles.
+"You sound like I used to.
+'I must do this, I must do that.'
+You make yourself your own worst enemy."
+
+The Ethiopian frowns.
+"I don't understand."
+
+Ulugh Beg points at Batu.
+"You.
+How many men in your *arban*?"
+
+"Nine, *beg*," the old soldier says promptly.
+He clears his throat.
+"Should be ten, but Dzhambul took an arrow in the leg and ---"
+
+The *beg* cuts him off with a hand wave.
+"And you fight together, yes?
+You stand watch while each other sleep?"
+
+"Yes, *beg*," Batu says.
+He learned long ago not to ask officers what point they were trying to make.
+
+The *beg* turns back to the Ethiopian.
+"You said *you* would be able to.
+What if I built you a school in Samarkand?
+What if you taught others the method of triangles and all of al-Tusi's other arts?"
+His wave takes in the whole world outside the ruined library.
+"What if you didn't have to do everything by yourself?"
+
+The Ethiopian stares at him.
+His hand goes to his left temple.
+"I---I don't think I'm supposed to."
+
+"Why not?" the *beg* demands.
+
+"I can't remember," the Ethiopian says.
+He laughs suddenly.
+"I can't remember why not!"
+
+Batu knows the look on the Ethiopian's face as he gathers up his tools
+and chooses a dozen books for the *beg*'s soldiers to bring with them.
+It is the look of a man going into battle for the first time.
+
+*Otgon dies later that year when a Georgian knifes him in a campfire squabble over a game of dice.
+Batu loses an arm in battle outside Balkh,
+but finds a position as a caretaker at the new observatory in Samarkand.
+The beg's catalog of the positions of 994 stars,
+known as the Zij-i-Sultani,
+is the most accurate made in over a thousand years.*
 
 <div align="center">* * *</div>
 

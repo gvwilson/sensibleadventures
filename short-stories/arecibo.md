@@ -506,125 +506,164 @@ he wonders if the god-king ever found someone to build what he needed.*
 **Gyeongju / Actual minus 2300 years**
 
 "It was Her Majesty's first decree as princess,"
-the young astrologer said,
+the young astrologer says,
 immediately hating himself for telling such a distinguished scholar
-something he undoubtedly already knew.
+something he undoubtedly already knows.
 
-But the visitor from the Middle Kingdom smiled politely as he studied the star-gazing tower.
-It was the height of five men,
-and to the enlightened eye,
-the number and placement of its stones represented historical and astronomical figures.
-"I understand her decision was... not universally popular," he said.
+But the visitor from the Middle Kingdom smiles politely as he studies the star-gazing tower.
+It is the height of five men,
+and to the educated eye,
+the number and placement of its stones represent historical and astronomical figures.
+"I understand her decision was...not universally popular," he says.
 
-The young astrologer inclined his head,
-conscious of their escorts standing a few feet away.
-"Not universally popular" didn't quite capture the way the conservative aristocracy had felt
+The young astrologer inclines his head,
+conscious of two guards standing a few feet away.
+"Not universally popular" didn't quite capture the way the aristocracy felt
 about a woman ascending to the throne,
-particularly when the Taizong Emperor refused to acknowledge her,
-but it was neither polite nor prudent to dwell upon that.
+but it is neither polite nor prudent to dwell upon that,
+particularly not when rumors of Her Majesty's illness flutter around the court like pigeons.
 
-"And this must be the foreign barbarian I have heard so much about,"
-the visitor continued
+"Ah, and this must be our foreign barbarian,"
+the visitor continues
 as a tall figure in the plain brown robe of a monk
-came up the gravel path in the waning evening light.
+comes up the gravel path in the waning evening light.
 
-The young astrologer inclined his head again.
-He was no longer taken aback by the foreigner's dark skin,
-but would never get used to how quietly he walked.
-"Are you at peace?" he asked in greeting.
+The young astrologer inclines his head again.
+He is no longer taken aback by the foreigner's black skin,
+but thinks he will never get used to how quietly he walks.
+"Are you at peace?" he asks in greeting.
 
 "I am, and you?"
-He had forgotten to wear sandals again,
-the young astrologer noted,
-but according to the caretaker he had at least eaten that day.
-Her Majesty's minister insisted on regular reports,
-and the young astrologer would much rather fill them with trivia like that
-than even hint at some of the things the foreigner said.
+He has forgotten to wear sandals again,
+the young astrologer notes,
+but according to the caretaker he has at least eaten that day.
+Her Majesty's minister insist on regular reports,
+and the young astrologer would rather fill them with trivia
+than even hint at some of the unorthodox things the foreigner says.
 
-He cleared his throat.
+He clears his throat.
 "May I have the honor of introducing you to scholar Liu Zhao,
 who has come from the court of the Gaozong Emperor?
 I apologize for any appearance of poor manners,"
-he continued,
-turning to the visitor,
+he continues hurriedly to the scholar,
 "But my colleague has no name by which to be introduced."
 
-Scholar Liu raised a perfectly groomed eyebrow.
+Scholar Liu raises a perfectly groomed eyebrow.
 "Not even a temple name?"
 
 "I am not a monk,"
-the foreigner said.
-"I have simply misplaced it."
-He brushed a finger over the scar that wrinkled the left side of his head.
+the foreigner says.
+"I have simply forgotten it."
+He brushes a finger over the old scar that wrinkles the left side of his head.
 
-The scholar smiled.
+Scholar Liu smiles.
 "And to think there are those who spend their lifetimes trying to let go of such things."
-He gestured at the tower.
-"It is quite marvelous."
+He gestures at the tower.
+"Or to build such marvels as this."
 
-The foreigner nodded.
+The foreigner nods.
 "It has been very useful."
 
 "Mm."
-Scholar Liu jerked his chin at the scrolls
-whose ends stuck out of his satchel.
+Scholar Liu jerks his chin at the scrolls tucked into the foreigner's satchel.
 "I have heard much about the records you have made.
 I am told they are extremely precise."
 
-The foreigner gave a small shrug.
+The foreigner gives a small shrug.
 "As precise as they can be.
 Improving them will be the work of many lifetimes."
 
-The young astrologer's heart skipped a beat.
-The foreigner had the keenest eyes and most prodigious memory of anyone the younger astrologer had ever met---of
-anyone he'd ever heard of---but even for a follower of the Quiet Sage,
-his views were sometimes...unorthodox.
-
-He opened his mouth to say something diverting,
-but was interrupted by a shout as a guard came running up the path.
-"Her Majesty..." he panted,
+The young astrologer opens his mouth to suggest that they climb the tower,
+but is interrupted by a shout as a guard comes running up the path.
+"Her Majesty..." he pants,
 speaking to the two escorts rather than to the scholars.
 "Her Majesty is gone. She is gone."
 
-The soft buzz of dusk insects was the only sound in the shocked silence that followed.
+The soft buzz of dusk insects is the only sound in the shocked silence that follows.
 "Stay here,"
-the older escort ordered the three scholars.
-He hurried away with his partner and the messenger in tow.
+the oldest guard orders his partner.
+He hurries away with the messenger in tow,
+their armor clanking in time with their steps.
+Queen Seondeok's desire for her cousin to succeed her is well known,
+but it has only been a week since her chief minister led another abortive uprising against her rule,
+and only a day since he and his thirty followers were beheaded.
 
-Scholar Liu turned to the foreigner.
+Scholar Liu waits until they have vanished among the ornamental bushes
+then gestures to the remaining guard.
+*He has been bribed,* the young astrologer realizes
+as the guard steps out of earshot.
+It is hardly surprising:
+he has bribed guards himself on occasion,
+though he suspects he has paid them more than he needed to.
+
+Scholar Liu turns to the foreigner.
 "Come with me,"
-he said without preamble.
+he says without preamble.
 "Come with me to the court of the Gaozong Emperor.
-You will have a dozen towers like this one,
-and a dozen scribes to record your findings."
+We will build a tower twice the height of this *cheomseongdae*
+and you will have a dozen scribes to record your every thought."
+He steps closer,
+lowering his voice as if seducing a lady of the court.
+"It need not be the work of many lifetimes.
+We can find the key to all knowledge in *this* one."
+He glances at the young astrologer.
+"You can even bring your...companion...if you wish.
+I'm sure we can find something for him to do as well."
 
-The young astrologer's jaw dropped.
-Were all the courtiers of the Middle Kingdom so callous?
+The young astrologer blushes furiously.
+The word Scholar Liu has used for companion---the implications of it---he
+has fantasized about such a thing many times,
+but has never dared do more.
+The shame it would bring his family if they were caught,
+not to mention the impossible awkwardness of trying to raise the subject
+with someone he practically worshipped---
 
-The foreigner studied Scholar Liu for a moment,
-then shook his head.
-"You honor me," he said,
-"And perhaps some day I will make that journey.
-But tonight,
-my colleague and I have work to do."
+But the foreigner is already shaking his head.
+"You would not have come this far to make such an offer
+unless you already had the Emperor's favor or were desperate for it,
+and I do not think you already have it."
 
-The hungry expression on Scholar Liu's face melted,
+The ingratiating expression on Scholar Liu's face melted,
 leaving anger in its wake.
-"As you choose," he said coldly.
-"If you will excuse me?"
-He strode away,
-the gravel scraping under his sandals.
+"So you consider yourself an expert on the court as well as the stars?"
 
-The young astrologer turned to the foreigner.
+The foreigner inclines his head.
+"Sadly,
+I suspect little has changed since I served the Emperor Taiwu."
+
+Scholar Liu snorts.
+"That was two hundred years ago."
+
+"Nevertheless."
+The foreigner gestures at the tower.
+"You are of course still welcome to join us tonight.
+If it is clear,
+I may be able to show you the slow wanderer we have found beyond Saturn."
+
+The scholar scowls.
+"I would learn as much from the beasts of the forest.
+Come!"
+He snaps his fingers at the guard and stalks away like an affronted cat.
+
+The young astrologer turns to the foreigner.
 "Being invited to the emperor's court is quite an honor,"
-he ventured cautiously.
-"And there are many fine scholars there with whom you could converse."
+he ventures cautiously.
+"There are many fine scholars there with whom you could converse."
 
-The foreigner nodded.
+The foreigner nods.
 "I'm sure there are.
 But I find no deficiency of any kind in those I know here."
-And for the first time since the young astrologer had met him,
-he smiled.
+And for the first time,
+he smiles.
+
+*The succession proves peaceful.
+Queen Jindeok rules for seven years.
+The young astrologer grows to middle age,
+successfully evading all of the marriage traps set by his extended family.
+He gets mildly drunk one night to celebrate the successful prediction of a lunar eclipse
+and finally acts on twenty years of desire
+by reciting a love poem to the foreigner on top of the star-gazing tower.
+When he wakes the next morning the foreigner has vanished.*
 
 <div align="center">* * *</div>
 

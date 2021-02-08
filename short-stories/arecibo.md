@@ -855,6 +855,39 @@ is the most accurate made in over a thousand years.*
 
 **Uraniborg / Actual minus 1400 years**
 
+"Tycho bloody Brahe."
+The carpenter spits over the rowboat's gunwale into the uncaring sea.
+It takes two hours of hard work to get from Landskrona to Bäckviken.
+Despite the coins in his pocket he regrets having agreed to make the trip.
+Still,
+silver is silver is scarce,
+as his father would have said.
+
+"You did not like him?"
+The carpenter's passenger is the first *svart* he has ever seen.
+His clothes are impeccable and his accent is pure Copenhagen,
+but the scar on the left side of his bald head
+says more loudly than words that this is a man who has seen trouble,
+yes,
+and survived it.
+
+The carpenter grunts.
+"Never met him.
+But anyone with a lick of sense could have told Lord Brahe that tower was going to sway in the wind.
+Hell,
+even the tower of St. Ibb's is a bit creaky sometimes."
+
+The stranger nods.
+"I'm told the second tower was much sturdier."
+
+"Solid oak cross-braces," the carpenter agrees.
+"Could have ribbed two ships with 'em and had some left over,
+but they did the job.
+'Course,
+the whole thing was bloody stupid.
+If he'd waited a few years he could have used one of those Dutch spyglass things
+and saved himself all that work."
+
 Uraniborg was built between 1576 and 1580 on the island of Hven by Tycho Brahe, then expanded to Stjerneborg after it turned out that tower-mounted instruments swayed too much in the wind. Brahe abandoned the site in 1597 after he fell out of favor with the Danish king Christian IV; it was destroyed in 1601. It was the first custom-built observatory in modern Europe.
 
 <div align="center">* * *</div>

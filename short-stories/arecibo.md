@@ -8,7 +8,12 @@ permalink: /arecibo-mon-amour/
   <h2>Greg Wilson</h2>
 </div>
 
+<!-- Actual = 3020 CE -->
+
 **Wurdi Youang / Actual minus 12,000 years**
+<!-- 8980 BCE -->
+<!-- shorten by combining Wharru and Alinta -->
+<!-- mention the lost civilization drowned in the Bass Strait between Australia and Tasmania -->
 
 She gave up her name long ago.
 It was too heavy to carry as deep into the Dreaming as she needed to go.
@@ -215,6 +220,8 @@ and whether he ever found a way count the spaces between the stars.*
 <div align="center">* * *</div>
 
 **Chankillo / Actual minus 3400 years**
+<!-- 380 BCE -->
+<!-- mention the pyramids: wars got in the way, so the stranger thought somewhere isolated would work better -->
 
 As a child,
 Second Bird's diet consisted of maize, beans, the occasional roasted guinea pig,
@@ -504,6 +511,8 @@ he wonders if the god-king ever found someone to build what he needed.*
 <div align="center">* * *</div>
 
 **Gyeongju / Actual minus 2300 years**
+<!-- 720 CE -->
+<!-- Add mention of dark stranger in Chinese records - the visitor thinks the stranger is an alchemist with the secret of eternal life -->
 
 "It was Her Majesty's first decree as princess,"
 the young astrologer says,
@@ -668,6 +677,8 @@ When he wakes the next morning the foreigner has vanished.*
 <div align="center">* * *</div>
 
 **Maragheh / Actual minus 1700 years**
+<!-- 1320 CE -->
+<!-- fell apart after el-Tusi's son became director after his father's death in 1274 CE -->
 
 "But you could take the books."
 Batu has led his *arban* back and forth across half of Asia.
@@ -854,30 +865,48 @@ is the most accurate made in over a thousand years.*
 <div align="center">* * *</div>
 
 **Uraniborg / Actual minus 1400 years**
+<!-- 1620 CE -->
+<!-- Local children think it's haunted - surprised when the stranger shows up with two mercenaries to retrieve some records hidden under the floor -->
+<!-- Locals think the stranger is a witch - Emperor Ferdinand has just started the Thirty Years' War -->
 
 Uraniborg was built between 1576 and 1580 on the island of Hven by Tycho Brahe, then expanded to Stjerneborg after it turned out that tower-mounted instruments swayed too much in the wind. Brahe abandoned the site in 1597 after he fell out of favor with the Danish king Christian IV; it was destroyed in 1601. It was the first custom-built observatory in modern Europe.
 
 <div align="center">* * *</div>
 
 **Mathura / Actual minus 1145 years**
+<!-- 1875 CE -->
+<!-- Revolt is almost twenty years ago, but this was torn down before then -->
+<!-- Stranger has come to feel nostalgic in an era of transit measurements and big telescopes - "What I have started has outgrown me." -->
+<!-- Looks at the poverty and oppression and is troubled -->
 
-A "Jantar Mantar" is a giant sundial with a triangular gnomon whose hypotenuse is parallel to the Earth's axis. On either side of the gnomon is a quadrant of a circle parallel to the plane of the equator. The instrument can measure the time of day to an accuracy of half a second. "Yantra mantar" means "calculation instrument". There were five, but the one in Mathura was torn down just before the Revolt of 1875 (possibly just neglect and scavenging).
+A "Jantar Mantar" is a giant sundial with a triangular gnomon whose hypotenuse is parallel to the Earth's axis. On either side of the gnomon is a quadrant of a circle parallel to the plane of the equator. The instrument can measure the time of day to an accuracy of half a second. "Yantra mantar" means "calculation instrument". There were five, but the one in Mathura was torn down just before the Revolt of 1857 (possibly just neglect and scavenging).
 
 <div align="center">* * *</div>
 
 **Arecibo / Actual minus 979 years**
+<!-- 2041 CE -->
+<!-- The stranger has a fake ID, but so does everyone with money these days. -->
+<!-- Come to see a VR exhibit showing Arecibo in its prime - the island's depopulation accelerates as storms worsen. -->
+<!-- The stranger is funding some of the relocation - feels guilty about diverting money from astronomy, but other trillionaires are backing that now. -->
 
 The Arecibo Radio Observatory was completed in 1963; it was 305m in diameter and made out of 38,778 perforated aluminum panels. It collapsed on Dec 1, 2020 after years of dwindling funding. (CE 2041)
 
 <div align="center">* * *</div>
 
 **L5 / Actual minus 895 years**
+<!-- 2125 CE -->
+<!-- Finally connects with whoever, has a way home, realizes that rebuilding is more important. -->
+<!-- Whoever tries to stop him, he injures himself (again, he realizes, it must be again) and puts himself in a hibernation pod. -->
+<!-- He has little fuel, so his trajectory is slow and complicated, but he has had practice with celestial calculations. -->
 
-Deep space observatory in the L5 Lagrange point, 105 years from now, gets data, Secondary realizes that rebuilding is more important, sabotages mission and returns to Earth.
+Deep space observatory in the L5 Lagrange point, gets data, realizes that rebuilding is more important, returns to Earth.
 
 <div align="center">* * *</div>
 
 **L5 / Actual**
+<!-- 3020 CE -->
+<!-- Sky is full of junk - hard to see the stars clearly. -->
+<!-- Joins a semi-religious tree-planting brigade - not the only one with mods. First mention of friends. -->
 
 Returned to Earth, devastated by climate change, helping with rebuilding.
 

@@ -893,17 +893,183 @@ The Arecibo Radio Observatory was completed in 1963; it was 305m in diameter and
 
 <div align="center">* * *</div>
 
-**L5 / Actual minus 895 years**
+**L3 / Actual minus 895 years**
 <!-- 2125 CE -->
 <!-- Finally connects with whoever, has a way home, realizes that rebuilding is more important. -->
 <!-- Whoever tries to stop him, he injures himself (again, he realizes, it must be again) and puts himself in a hibernation pod. -->
 <!-- He has little fuel, so his trajectory is slow and complicated, but he has had practice with celestial calculations. -->
 
-Deep space observatory in the L5 Lagrange point, gets data, realizes that rebuilding is more important, returns to Earth.
+"have you inned this emma's blurb?" Red asks.
+"the seawall failed again."
+
+They don't need to say which seawall---they were born and raised in Manhattan.
+They didn't need to tell the others it had failed, either.
+Everyone scans the news from Earth constantly,
+hoping not to see anywhere they know mentioned.
+
+Blue sucks the last few drops of water from a drinking bag
+and folds it neatly to tuck in their pocket.
+"does this mean they're finally going to evacuate?"
+
+Red shrugs,
+then reaches out to stabilize themself against the wall.
+The observatory's social module is big enough for all four of them to feel comfortable,
+but only if they stay close to the sides.
+
+"i'm more 'smayed by our socials,"
+Green says glumly.
+"still well below redline.
+dunno what genius thought deep space astro was gonna get enough feels to notice."
+
+Black says nothing.
+The others don't know that they are the genius in question,
+or that they spent enough in bribes to reforest the state of Oregon
+to make the observatory a reality.
+Fabbing a backstory solid enough to get themself on it cost less
+but required much more care.
+In the end,
+they left enough gaps and icy patches to convince anyone who dug deep
+that they were a spook twitching for some *other* corp, klept, or agency.
+
+They glance out the window.
+It is the one indulgence they allowed themself in the observatory's design.
+Everyone can in data and visuals directly at any resolution they want,
+but after so many years it is somehow important to Black
+that they be able to *see* the stars.
+
+The depressed silence is broken by a *ping* they each hear through their own implants.
+Four tongues key codes on teeth.
+Four pairs of eyelids blink reflexively as a visual of the observatory's avatar is stimmed in their retina.
+
+"there is a problem with the incoming supply shot,"
+the cartoonish face tells them.
+The avatar was originally lifelike,
+but the crew consensused shortly after arrival
+that they preferred something less real.
+They kept the verbal nicety protocol, though,
+and someone (none of them will admit to it) gave the observatory a Russian accent.
+
+Blue gasps.
+"that can't be right!"
+Annotated visuals take shape, twist, are decorated with ever-richer annotations.
+
+"no," Black breathes.
+"no no no."
+It is the most emotion the other have ever heard from them.
+"how could this happen?
+has it malfunctioned?"
+
+"that's no malf," Red snaps.
+"that's sab---gotta be.
+look."
+The supply shot is still several light seconds away,
+but they have already queried its onboards.
+There, there, and there---the observatory highlights sections of the supply shot's little AI
+that have somehow been modified.
+
+"looks like a hardware hack," Red continues,
+fingers twitching as they dive deeper into the code.
+"someone must have freaked a couple of chips on a delay to get around the checksums."
+
+"never mind how."
+Blue has sims running.
+Event trees flourish, are pruned, flourish again.
+With overwhelming probability they reach the same conclusion.
+The supply shot has burned all of its maneuvering reserve to accelerate onto a collision course.
+It will hit the observatory in 27 minutes,
+and there is nothing they can do to stop it.
+
+"incoming," the observatory says needlessly.
+The message is already in their visuals.
+A logo,
+one of many they saw on banners waved by people protesting the observatory's construction and launch,
+and then a face and the inevitable manifesto.
+The seas are rising,
+super-storms rage across three continents,
+hundreds of millions are displaced,
+how dare a few trillionaires waste precious resources on something as frivolous as a deep space observatory?
+
+Black ignores the angry message and their own pounding heart.
+They are close,
+closer than they have ever been.
+Just a little more data and they would finally have the alignments they need.
+They fork Blue's sims and change some parameters.
+"here," they say urgently,
+pushing a scenario at their crewmates.
+"if you boost now you can get back to Earth.
+i can spin like *this* to take the impact in the sleeping quarters."
+
+"are you scattered?"
+Green demands incredulously.
+"we're not leaving you to die!"
+
+"i won't die," Black says,
+already queueing up the necessary commands.
+The observatory is delicate and ungainly,
+and its instruments are as fragile as they are sensitive.
+Taking the impact in the crew quarters is the only way to be sure
+that shrapnel won't damage anything that matters.
+They can sleep in the greenhouse afterward.
+
+"unacceptable,"
+Blue says flatly.
+"we are all---"
+
+Black doesn't wait for them to finish their sentence.
+Anyone with sixty trillion new dollars to spend on an observatory
+in the same orbit as the Earth but half-way around the Solar System
+can afford the hundred million or so it costs to hack someone's service conditioning.
+When any personality traits that might have impaired Red, Green, and Blue's performance were suppressed,
+a few extra commands were slipped in.
+
+Black keys a trigger sequence.
+Their three crewmates stiffen and then relax,
+their eyes slightly out of focus.
+The trainer who did the work thought Black wanted to be able to use them for sex
+or have them sacrifice themselves if necessary.
+
+"go to the rv," Black orders.
+"launch for earth immediately,
+then put yourselves in cryo."
+The return vehicle is a nuclear-powered ion drive,
+four cryo capsules,
+and an AI just smart enough to get back to Earth.
+
+Black undogs the hatch to the RV
+while the other three crewmembers strip and empty their bladders and bowels.
+Red airswims into the claustrophobic capsule followed closely White.
+They busy themselvs with tubes and leads.
+
+Blue hesitates.
+For a moment Black thinks the conditioning hasn't worked,
+but they just say, "good luck,"
+and then they too are gone.
+
+There is a faint *clonk* as the RV disengages its clamps.
+Black closes their eyes and watches it leave.
+A bright arc decorated with information traces its path away from the observatory.
+Another arc shows the incoming supply shot.
+Black wills commands to the AI.
+The instruments cannot be moved too quickly---it would cost them months to recalibrate
+the micrometer-accurate spacing of the fractal antenna arrays,
+and they no longer have months of reserves.
+All they can do is turn the observatory module itself to put it in harm's way
+and seal the internal hatches.
+
+Fifteen seconds.
+Ten.
+Five.
+Black takes a deep breath.
 
 <div align="center">* * *</div>
 
-**L5 / Actual**
+**Nowhere / nowhen**
+
+
+
+<div align="center">* * *</div>
+
+**Novy Urengoy / Actual**
 <!-- 3020 CE -->
 <!-- Sky is full of junk - hard to see the stars clearly. -->
 <!-- Joins a semi-religious tree-planting brigade - not the only one with mods. First mention of friends. -->

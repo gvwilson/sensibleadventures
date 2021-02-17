@@ -899,7 +899,7 @@ The Arecibo Radio Observatory was completed in 1963; it was 305m in diameter and
 <!-- Whoever tries to stop him, he injures himself (again, he realizes, it must be again) and puts himself in a hibernation pod. -->
 <!-- He has little fuel, so his trajectory is slow and complicated, but he has had practice with celestial calculations. -->
 
-"have you inned this emma's blurb?" Red asks.
+"have y'all inned this emma's blurb?" Red asks.
 "the seawall failed again."
 
 They don't need to say which seawall---they were born and raised in Manhattan.
@@ -941,7 +941,7 @@ The depressed silence is broken by a *ping* they each hear through their own imp
 Four tongues key codes on teeth.
 Four pairs of eyelids blink reflexively as a visual of the observatory's avatar is stimmed in their retina.
 
-"there is a problem with the incoming supply shot,"
+"unit three is precessing,"
 the cartoonish face tells them.
 The avatar was originally lifelike,
 but the crew consensused shortly after arrival
@@ -949,22 +949,20 @@ that they preferred something less real.
 They kept the verbal nicety protocol, though,
 and someone (none of them will admit to it) gave the observatory a Russian accent.
 
+Annotated visuals take shape, twist, are decorated with ever-richer annotations.
 Blue gasps.
 "that can't be right!"
-Annotated visuals take shape, twist, are decorated with ever-richer annotations.
 
-"no," Black breathes.
-"no no no."
-It is the most emotion the other have ever heard from them.
-"how could this happen?
-has it malfunctioned?"
-
-"that's no malf," Red snaps.
+"there," Red snaps,
+highlighting a portion of their shared sense/case map.
 "that's sab---gotta be.
 look."
-The supply shot is still several light seconds away,
-but they have already queried its onboards.
-There, there, and there---the observatory highlights sections of the supply shot's little AI
+The six units making up the observatory's sensor array are each
+half a light-second away from the hab.
+Even the gentlest ion drives would disrupt their nanometer-precise alignment,
+so instead the hab uses intense beams of ultraviolet light
+to nudge them this way and that.
+There, there, and there---the observatory highlights sections of unit three's controls
 that have somehow been modified.
 
 "looks like a hardware hack," Red continues,
@@ -975,12 +973,11 @@ fingers twitching as they dive deeper into the code.
 Blue has sims running.
 Event trees flourish, are pruned, flourish again.
 With overwhelming probability they reach the same conclusion.
-The supply shot has burned all of its maneuvering reserve to accelerate onto a collision course.
-It will hit the observatory in 27 minutes,
+Unit three is falling out of an alignment that will take a decade to re-establish,
 and there is nothing they can do to stop it.
 
 "incoming," the observatory says needlessly.
-The message is already in their visuals.
+The message from unit three is already in their visuals.
 A logo,
 one of many they saw on banners waved by people protesting the observatory's construction and launch,
 and then a face and the inevitable manifesto.
@@ -992,24 +989,24 @@ how dare a few trillionaires waste precious resources on something as frivolous 
 Black ignores the angry message and their own pounding heart.
 They are close,
 closer than they have ever been.
-Just a little more data and they would finally have the alignments they need.
+They will not be denied again.
+
 They fork Blue's sims and change some parameters.
 "here," they say urgently,
 pushing a scenario at their crewmates.
-"if you boost now you can get back to Earth.
-i can spin like *this* to take the impact in the sleeping quarters."
+"if y'all boost now y'all can get back to Earth.
+i can clear the sab and get the sensors realigned."
 
 "are you scattered?"
 Green demands incredulously.
 "we're not leaving you to die!"
 
 "i won't die," Black says,
-already queueing up the necessary commands.
-The observatory is delicate and ungainly,
-and its instruments are as fragile as they are sensitive.
-Taking the impact in the crew quarters is the only way to be sure
-that shrapnel won't damage anything that matters.
-They can sleep in the greenhouse afterward.
+already queueing up commands they hoped they would never have to use.
+The hab can sustain one person four times longer than four,
+and can keep Black alive much longer than that.
+If they shut down everything except the greenhouse
+they could last ten years.
 
 "unacceptable,"
 Blue says flatly.
@@ -1025,15 +1022,15 @@ a few extra commands were slipped in.
 Black keys a trigger sequence.
 Their three crewmates stiffen and then relax,
 their eyes slightly out of focus.
-The trainer who did the work thought Black wanted to be able to use them for sex
+The trainer who did the work probably thought Black wanted to be able to use them for sex
 or have them sacrifice themselves if necessary.
 
 "go to the rv," Black orders.
 "launch for earth immediately,
-then put yourselves in cryo."
-The return vehicle is a nuclear-powered ion drive,
-four cryo capsules,
-and an AI just smart enough to get back to Earth.
+then put yourselves in slow mo."
+The return vehicle is little more than a nuclear-powered ion drive
+and four metabolism suppression capsules.
+Its AI will easily be able to adjust for only having three bodies on board.
 
 Black undogs the hatch to the RV
 while the other three crewmembers strip and empty their bladders and bowels.
@@ -1041,36 +1038,41 @@ Red airswims into the claustrophobic capsule followed closely White.
 They busy themselvs with tubes and leads.
 
 Blue hesitates.
-For a moment Black thinks the conditioning hasn't worked,
-but they just say, "good luck,"
+For a moment Black thinks the conditioning is going to break,
+but they just say, "good luck"
 and then they too are gone.
 
-There is a faint *clonk* as the RV disengages its clamps.
+There is a faint *clonk* as the RV unclamps
+and a deeper *thrum* as superconducting magnets fling it away.
 Black closes their eyes and watches it leave.
 A bright arc decorated with information traces its path away from the observatory.
-Another arc shows the incoming supply shot.
-Black wills commands to the AI.
-The instruments cannot be moved too quickly---it would cost them months to recalibrate
-the micrometer-accurate spacing of the fractal antenna arrays,
-and they no longer have months of reserves.
-All they can do is turn the observatory module itself to put it in harm's way
-and seal the internal hatches.
 
-Fifteen seconds.
-Ten.
-Five.
-Black takes a deep breath.
+*It takes a little over 49 million seconds for the return vehicle to reach Earth.
+By the time it does,
+a cascading Kessler event has turned low Earth orbit into a hellscape of shrapnel.
+The RV parks itself in geosynchronous orbit over Sulawesi
+and waits for instructions that never come.
+One by one the artificially slow heartbeats of its passengers go still.*
+
+*Black never knows their fate, though they suspect.
+The loss of space accelerates the collapse on the surface.
+The last wild colony of bees dies on the same day that unit three comes back online.
+Four years and a yottabyte of data later,
+as Black is fighting a mutant fungus that threatens the delicate balance of life in the greenhouse,
+the last ground-based observatory on Earth is destroyed
+by a class 4 volcanic eruption.
+Three years after that,
+Black's feeds from the planet go dark.*
 
 <div align="center">* * *</div>
 
 **Nowhere / nowhen**
 
-
-
 <div align="center">* * *</div>
 
-**Novy Urengoy / Actual**
+**Zapolyarny / Actual**
 <!-- 3020 CE -->
+<!-- Now a port on an arm of the Kara Sea -->
 <!-- Sky is full of junk - hard to see the stars clearly. -->
 <!-- Joins a semi-religious tree-planting brigade - not the only one with mods. First mention of friends. -->
 

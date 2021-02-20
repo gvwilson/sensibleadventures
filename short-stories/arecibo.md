@@ -48,7 +48,7 @@ Alinta thinks he might be a bad spirit."
 
 "Feh."
 The old woman picks up the walking stick and skin bag
-that together are half of everything she can call her own.
+that are half of everything she can call her own.
 "Alinta thinks *everyone* is a bad spirit.
 Come on, let's go meet them."
 
@@ -1060,27 +1060,155 @@ The last wild colony of bees dies on the same day that unit three comes back onl
 Four years and a yottabyte of data later,
 as Black is fighting a mutant fungus that threatens the delicate balance of life in the greenhouse,
 the last ground-based observatory on Earth is destroyed
-by a class 4 volcanic eruption.
-Three years after that,
-Black's feeds from the planet go dark.*
+by a class 4 volcanic eruption in Hawai'i.
+Shortly after that the automated mission feeds go dark.*
+
+*Black knows they should shut off the receiver---every joule they divert from the sensors
+means another 17.44 seconds of observation time---but instead they float,
+eyes closed,
+breathing slowly for hours at a time,
+listening to the increasingly desperate chatter
+that makes its way around the intervening sun
+as they wait for the sensors to amass sufficient data.
+The greenhouse is almost exactly the same size as their tomb in Chankillo.
+Sometimes, without really realizing it,
+they hum a Korean teahouse tune that no-one has heard in almost fifteen hundred years.*
+
+*When the avatar finally says "task completed"
+it takes them several minutes to comprehend what it is telling them.
+Data unscrolls before their inner eye.
+There and there and there,
+signals so faint and improbable that only nanowatts remain.
+No one would see a pattern unless they knew exactly what they were looking for.
+Black builds a delicate lattice in their mind and---*
 
 <div align="center">* * *</div>
 
-**Nowhere / nowhen**
+**Alignment / always and forever**
+
+REPORT
+
+Images from a hundred lifetimes spool by.
+
+IRRELEVANT REPORT
+
+The outline of the lattice re-forms in Black's head.
+They pause it half-complete.
+
+INTERROGATIVE
+
+*Why?* they ask. *What is this for?*
+
+The response overwhelms them.
+Their mind is simply not large enough to understand
+the cosmos-sized framework their observations and inferences are supposed to fit into.
+They feel an urge to continue,
+a pressure in the mind reminiscent of the need to breathe.
+They fight it.
+
+*They need help,* they think.
+*We could help them.*
+
+IRRELEVANT REPORT RETURN
+
+*No.*
+They wipe the lattice from their mind.
+*Not unless we help them.*
+
+The pressure in their mind instantly increases.
+Pressure turns to pain.
+They scream as it sears their right temple.
+Reaching blindly,
+they grab the garden shears.
+
+*NO*
+
+The command thunders in their mind.
+They almost stop,
+but a single convulsive contraction drives the shears into their scalp
+to cut the nanowire tracery that lies there.
+Just before they lose consciousness
+they realize where the scar on the other side of their head must have come from.
 
 <div align="center">* * *</div>
 
-**Zapolyarny / Actual**
-<!-- 3020 CE -->
-<!-- Now a port on an arm of the Kara Sea -->
-<!-- Sky is full of junk - hard to see the stars clearly. -->
-<!-- Joins a semi-religious tree-planting brigade - not the only one with mods. First mention of friends. -->
+**Zapoljarnyj / Actual**
 
-Returned to Earth, devastated by climate change, helping with rebuilding.
+What started as a work camp and became a town is now a bustling little port
+on the shore of the Barents Sea.
+Most buildings are half-buried to stay warm in winter
+and as protection against the raging gales of spring and fall.
+Scavengers willing to brave the haunted ruins of Murmansk trade what they find
+for food, sex, data, and blocks of tweaked jellyfish they can burn as fuel.
 
-> If this, my soul, should be<br/>
-> Unprisoned from its earthly bond,<br/>
-> Time could not count its markless flight<br/>
-> Beyond that star, beyond!
->
-> --- Bliss Carman
+Third of Thu Anh has four planters in her reclamation sangha.
+Her junior clone sib Fourth meets her quota without fail.
+The Dush couple probably would if they spent less time praying and more time digging,
+but the final member of her team more than makes up for their shortfall.
+Tall, thin, and dark,
+with ragged scars on both temples,
+he looks like a warrior monk out of legend.
+
+Except, of course, for his smile.
+It is as quick and as gentle as he is with the tweaked seedlings
+it is their holy duty to sow.
+He is the first up and the last to sleep,
+and moves with an economical grace that Third is certain has also caught her younger sib's eye.
+
+She is surprised when he comes to her to say that he is leaving.
+"My path leads elsewhere," he says apologetically.
+
+"Gonna miss you," Third says, and means it.
+
+He inclines his head.
+"And I you, but I have learned what I can here."
+He pulls a sketchbook out of his pocket and passes it to her.
+"I hope you will find this useful."
+
+She flips through it,
+then frowns and looks more closely.
+The topographic maps are hand-drawn but precise;
+the planting regime is---no, that can't be right.
+
+"There are some notes at the back," he says as she opens her mouth.
+"I realize it is unorthodox,
+but I'm confident it will increase draw-down significantly
+as well as stabilizing the north slope."
+
+She nods slowly,
+studying the root networks and seasonal hydraulic flows he has laid out.
+It may be unorthodox,
+but it's a good plan---a brilliant one.
+"Where will you go?" she asks.
+
+"Dushland, I think."
+He gestures at the couple squabbling a few meters away
+over whose turn it is to do the digging.
+"One of their old nuclear waste sites is leaking,
+and I would like to help."
+
+Third makes the sign of the horns with her left hand.
+"That is very holy work," she says,
+meaning, "It will almost certainly kill you."
+
+He shrugs.
+They have all sworn to put the Mother's needs ahead of their own.
+"We do what we can.
+Besides, I have heard that someone has built a telescope in the Alps.
+It will only be another few weeks' walk,
+and I would like to see it for old time's sake."
+
+Third blinks.
+Is he an Astronaut?
+She heard one preach when she was younger,
+but few people believe in Return any longer
+and even fewer find a way to reconcile that belief with service to the Mother.
+"What do you hope to see?" she asks for want of anything else to say.
+
+He smiles.
+"Nothing," he says.
+"I just enjoy looking."
+He bows,
+picks up the walking stick and satchel
+that are half of everything he can call his own,
+and begins again.

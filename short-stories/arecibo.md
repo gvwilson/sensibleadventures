@@ -864,12 +864,183 @@ is the most accurate made in over a thousand years.*
 
 <div align="center">* * *</div>
 
-**Uraniborg / Actual minus 1400 years**
-<!-- 1620 CE -->
-<!-- Local children think it's haunted - surprised when the stranger shows up with two mercenaries to retrieve some records hidden under the floor -->
-<!-- Locals think the stranger is a witch - Emperor Ferdinand has just started the Thirty Years' War -->
+**Near Uraniborg, on the island of Hven / Actual minus 1400 years**
 
-Uraniborg was built between 1576 and 1580 on the island of Hven by Tycho Brahe, then expanded to Stjerneborg after it turned out that tower-mounted instruments swayed too much in the wind. Brahe abandoned the site in 1597 after he fell out of favor with the Danish king Christian IV; it was destroyed in 1601. It was the first custom-built observatory in modern Europe.
+"I'm *not* scared!"
+Lars shoves Christian back a step.
+
+His twin brother grins maliciously.
+"Then there's no reason not to go in, is there?"
+
+"Except the whipping you'll both get from father if he finds out,"
+their sister Annelise warns without looking up from her embroidery.
+At fifteen,
+she is the older by four years.
+They still mostly do what she tells them to,
+but all three know that is about to change.
+This is Annelise's last summer as a girl;
+when the harvest is done,
+her parents will start having conversations with other families
+whose sons are of the right age.
+By next summer, or the summer after, she will be betrothed.
+For now,
+though,
+she can enjoy the afternoon son and dream of princes and faraway places.
+
+Lars is about to shove Christian again when his twin says, "Wait---who's that?"
+Three strangers have crested the other side of the hill on horseback.
+Annelise scrambles to her feet.
+There's no need to ask which "who" Christian means.
+Two of the men look unremarkable in their dark coats and trimmed beards,
+but the third is tall and thin,
+with skin as dark as his richly-tailored suit.
+
+"It's a witch," Lars breathes.
+
+"Don't be daft," she snaps.
+"He's just a Moor."
+Not that she has ever seen a Moor,
+but she has read stories…
+
+"What's a Moor doing here?" Christian asks.
+
+Annelise shrugs helplessly.
+"Here, get out of the way."
+She tucks her embroidery into her coat and takes her brothers in hand.
+As the trio on horseback draws closer she drags the twins to the side of the road and curtsies awkwardly.
+
+One of the men touches a finger to the brim of his hat with a polite smile.
+They are armed,
+Annelise realizes,
+swords and pistols at their waists.
+The Moor is not,
+but he inclines his head to her in solemn greeting.
+
+Lars and Christian tug at her hands as soon as they are past.
+She pulls them back.
+"Leave be," she hisses.
+
+"But---"
+
+"Hush!"
+The riders have reached the remains of the astrologer's tower.
+They dismount,
+and one of the guards (for so Annelise now thinks of them) takes the horses' reins.
+The other follows the Moor,
+who picks his way through the boards too badly burned to have been worth salvaging.
+He stops,
+turns as if orienting himself against walls no longer there,
+then stamps his foot.
+Dissatisfied with the sound,
+he moves a pace to his left and stamps again.
+
+"What's he doing?" Lars asks.
+
+"Hush!" Annelise says again,
+squeezing his hand hard.
+One more stamp and the Moor nods to the guard,
+who picks his way back to the horse and returns with a crowbar and a blacksmith's hammer.
+
+*Clonk. Clonk.*
+Two blows drive one end of the crowbar into what's left of the floor.
+The guard sets the hammer aside and uses his weight to lever up a section of stone.
+The Moor bends down and pulls out something blockly wrapped in canvas.
+
+"A book of spells," Christian says excitedly.
+"It must be!"
+He turns to his sister.
+"We have to tell Papa!"
+And before she can stop him he jerks his hand free and runs down the hill
+toward their farm.
+
+"Wait!" Lars shouts.
+He yanks his hand out of his sister's and follows his brother.
+
+Annelise doesn't know if it is her curiosity or her sense of dignity
+that stops her from following them.
+She stands where she is,
+hands clasped in front of her,
+while the Moor and his companions remount and ride toward her.
+They are headed to Kyrkbacken, she realizes,
+which means they probably came over on the ferry from Rungsted.
+Copenhagen is a few hours' ride further south;
+that must be where they are bound.
+She has never been to the city.
+Her uncle has, twice,
+but it might as well be the moon to her.
+
+"Sir, what have you found?" she calls as the three horsemen come near.
+
+"No business of yours," one of the guards says,
+but to both of their surprise the Moor raises a gloved hand and halts.
+
+He studies her for a moment,
+then reaches into the satchel slung over his shoulder and pulls out a book
+as wide as her two hands outstretched.
+"Would you like to see?" he asks,
+his Danish slightly accented.
+
+She hesitates only a moment before stepping forward and taking it from him.
+It is much heavier than she expected,
+and she realizes when she opens it that there are metal plates in the covers.
+The pages are filled with neat, dense rows of numbers
+broken here and there with drawings of the constellations.
+
+"Are you an astrologer, sir?" she asks,
+handing it back to him.
+
+He nods as he tucks the book back in his satchel.
+"For many years now.
+I used to work here."
+He gestures at the ruins behind them.
+
+"You must have been very young then, sir," she ventures.
+She has heard the story from her father many times.
+King Christian built the tower for his favorite astrologer forty years ago,
+but it swayed too much in the wind.
+Any shipwright could have told him it would,
+according to her father,
+which always made her uncle laugh and ask what he knew of ships
+who had farmed his whole life.
+The king ordered a second, sturdier tower built at Stjerneborg,
+which meant well-paid work for the local men for several years,
+but it was abandoned when the astrologer fell from favor.
+
+"Younger than I am now, I suppose," the Moor observes reflectively.
+He pats the book.
+"This is mostly for---for sentimental value, I suppose."
+He seems surprised by his own admission.
+
+The two guards exchange looks behind the Moor's back.
+This is clearly not their master's first moment of eccentricity.
+"And please, sir, what will it tell you?"
+
+The Moor looks past her at the horizon.
+"Not enough yet," he says,
+as much to himself as to her.
+"But they are talking about building a new observatory in Leiden with telescopes.
+A thing of lenses that shows the stars in more detail than the eye alone can see,"
+he adds before she can ask what the strange word means.
+"I have been waiting for you to make them for a very long time.
+Perhaps now we will see some real progress."
+
+She does not have a chance to ask, "Progress toward what?"
+or whether "you" means the Danes, Christians, or something else entirely
+before the Moor clucks his tongue to send his horse forward again.
+The guard touches his finger to the brim of his hat once again,
+and then all Annelise can see is the tail ends of three horses.
+
+*Five years later,
+Lars and Christian are called to war.
+Lars dies at the battle of Lutter,
+while Christian returns home minus part of his left leg and all of his faith.
+Annelise cares for him as well as she can,
+but between his injury and his drinking he is unable to keep up the farm.
+After some complicated negotiations it becomes her dowry
+while her new husband's family guarantees a stipend for Christian.
+Annelise bears eight children,
+three of whom survive to adulthood.
+The youngest takes service on a merchant ship and eventually owns a small telescope of his own.*
 
 <div align="center">* * *</div>
 

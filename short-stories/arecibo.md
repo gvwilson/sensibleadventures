@@ -488,16 +488,16 @@ he wonders if the god-king ever found someone who wanted to build what he needed
 <!-- 720 CE -->
 <!-- Add mention of dark stranger in Chinese records - the visitor thinks the stranger is an alchemist with the secret of eternal life -->
 
-"It was Her Majesty's first decree as princess,"
+"It was Her Majesty's first decree,"
 the young astrologer says,
 immediately hating himself for telling such a distinguished scholar
 something he undoubtedly already knows.
 
 But the visitor from the Middle Kingdom smiles politely as he studies the star-gazing tower.
 It is the height of five men,
-and to the educated eye,
+and to educated eyes
 the number and placement of its stones represent historical and astronomical figures.
-"I understand her decision was...not universally popular," he says.
+"I understand her decision was not universally popular," he says.
 
 The young astrologer inclines his head,
 conscious of two guards standing a few feet away.
@@ -506,23 +506,23 @@ about a woman ascending to the throne,
 but it is neither polite nor prudent to dwell upon that,
 particularly not when rumors of Her Majesty's illness flutter around the court like pigeons.
 
-"Ah, and this must be our foreign barbarian,"
+"Ah, and this must be your barbarian,"
 the visitor continues
 as a tall figure in the plain brown robe of a monk
-comes up the gravel path in the waning evening light.
+comes up the gravel path in the waning light of evening.
 
 The young astrologer inclines his head again.
 He is no longer taken aback by the foreigner's black skin,
-but thinks he will never get used to how quietly he walks.
+but will never get used to how quietly he walks.
 "Are you at peace?" he asks in greeting.
 
 "I am, and you?"
-He has forgotten to wear sandals again,
+He is barefoot again,
 the young astrologer notes,
-but according to the caretaker he has at least eaten that day.
+but according to his servants he has at least eaten that day.
 Her Majesty's minister insist on regular reports,
 and the young astrologer would rather fill them with trivia
-than even hint at some of the unorthodox things the foreigner says.
+than the unorthodox things the foreigner sometimes says.
 
 He clears his throat.
 "May I have the honor of introducing you to scholar Liu Zhao,
@@ -537,7 +537,7 @@ Scholar Liu raises a perfectly groomed eyebrow.
 "I am not a monk,"
 the foreigner says.
 "I have simply forgotten it."
-He brushes a finger over the old scar that wrinkles the left side of his head.
+He brushes a finger over the old scar that wrinkles the side of his head.
 
 Scholar Liu smiles.
 "And to think there are those who spend their lifetimes trying to let go of such things."
@@ -555,21 +555,24 @@ I am told they are extremely precise."
 The foreigner gives a small shrug.
 "As precise as they can be.
 Improving them will be the work of many lifetimes."
+The young astrologer is relieved that
+the foreigner doesn't say, "Many of *your* lifetimes,"
+as he used to.
 
-The young astrologer opens his mouth to suggest that they climb the tower,
-but is interrupted by a shout as a guard comes running up the path.
+He opens his mouth to suggest that they climb the tower,
+but is interrupted by a shout as a guard runs up the path the join them.
 "Her Majesty..." he pants,
 speaking to the two escorts rather than to the scholars.
 "Her Majesty is gone. She is gone."
 
-The soft buzz of dusk insects is the only sound in the shocked silence that follows.
+The soft buzz of evening insects is the only sound in the shocked silence that follows.
 "Stay here,"
 the oldest guard orders his partner.
 He hurries away with the messenger in tow,
 their armor clanking in time with their steps.
 Queen Seondeok's desire for her cousin to succeed her is well known,
-but it has only been a week since her chief minister led another abortive uprising against her rule,
-and only a day since he and his thirty followers were beheaded.
+but it has only been a week since her chief minister led an abortive rebellion,
+and only a day since he and thirty of his followers were beheaded.
 
 Scholar Liu waits until they have vanished among the ornamental bushes
 then gestures to the remaining guard.
@@ -590,13 +593,12 @@ lowering his voice as if seducing a lady of the court.
 "It need not be the work of many lifetimes.
 We can find the key to all knowledge in *this* one."
 He glances at the young astrologer.
-"You can even bring your...companion...if you wish.
-I'm sure we can find something for him to do as well."
+"You can even bring your companion if you wish."
 
 The young astrologer blushes furiously.
 The word Scholar Liu has used for companion---the implications of it---he
-has fantasized about such a thing many times,
-but has never dared do more.
+has fantasized about such a thing,
+but has never dared act.
 The shame it would bring his family if they were caught,
 not to mention the impossible awkwardness of trying to raise the subject
 with someone he practically worshipped---
@@ -604,7 +606,8 @@ with someone he practically worshipped---
 But the foreigner is already shaking his head.
 "You would not have come this far to make such an offer
 unless you already had the Emperor's favor or were desperate for it,
-and I do not think you already have it."
+and if you already had it,
+you would say so."
 
 The ingratiating expression on Scholar Liu's face melted,
 leaving anger in its wake.
@@ -624,12 +627,12 @@ If it is clear,
 I may be able to show you the slow wanderer we have found beyond Saturn."
 
 The scholar scowls.
-"I would learn as much from the beasts of the forest.
+"You speak nonsense.
 Come!"
 He snaps his fingers at the guard and stalks away like an affronted cat.
 
 The young astrologer turns to the foreigner.
-"Being invited to the emperor's court is quite an honor,"
+"Being invited to the emperor's court is a great honor,"
 he ventures cautiously.
 "There are many fine scholars there with whom you could converse."
 
@@ -640,7 +643,6 @@ And for the first time,
 he smiles.
 
 *The succession proves peaceful.
-Queen Jindeok rules for seven years.
 The young astrologer grows to middle age,
 successfully evading all of the marriage traps set by his extended family.
 He gets mildly drunk one night to celebrate the successful prediction of a lunar eclipse
@@ -655,28 +657,24 @@ When he wakes the next morning the foreigner has vanished.*
 <!-- fell apart after el-Tusi's son became director after his father's death in 1274 CE -->
 
 "But you could take the books."
-Batu has led his *arban* back and forth across half of Asia.
+Batu has led his *arban* across half of Asia.
 They have fought Uzbeks,
 Pathans,
 Persians,
-Pathans again,
 bandits,
 Turks,
-and even a company of Frankish mercenaries
+and even a company of Franks
 who somehow found themselves east of the Black Sea.
-They have heard him bellow orders,
-scream as they gallopped into battle,
-and even sing in a surprisingly melodious voice,
+His men have heard him bellow orders as they gallopped into battle
+and sing in a surprisingly melodious voice,
 but they have never heard him be quite as sarcastic as this.
 
-Otgon clears his throat and hefts the golden candlestick he holds
-as if unsure whether he should drop it,
-hand it to his commander,
-or hide it behind his back.
+Otgon clears his throat and hefts the candlestick he holds
+as if unsure whether to hide it behind his back
+or hand it to his commander.
 "Yes sir.
 There are some tapestries too, and a samovar.
-He says we can have those too,
-just as long as we leave the books alone."
+He says we can have all of it as long as we leave the books alone."
 
 "How kind," Batu says.
 "Tell me---does he *look* mad?"
@@ -685,12 +683,12 @@ just as long as we leave the books alone."
 
 "Who does?"
 Batu glances over his shoulder at the question,
-then drops to one knee,
-eyes downcast.
+then drops to one knee.
 The men in his *arban* follow suit.
 
 "My *beg*,"
-he says.
+he says,
+eyes fixed on the ground.
 
 "Get up, get up."
 Mirza Muhammad Taraghay bin Shahrukh wears a quilted jacket like his troops,
@@ -698,20 +696,19 @@ though his is fine silk instead of homespun linen.
 His personal guard stands behind him,
 blades bared and eyes constantly moving.
 Maragheh hadn't put up much of a fight,
-but the *beg* has many enemies.
+but the *beg* has many enemies and bows are plentiful.
 "What's this about an Ethiopian?"
 
 Batu gets to his feet,
 careful not to wince at the protest from his knee.
-"Up the hill, my *beg*,"
-he says.
-"Some crazy man saying we can have the gold if we leave the books."
+"Up the hill, my *beg*.
+Some crazy man saying we can have the gold if we leave the books."
 He snaps his fingers at Otgon,
-who holds up the golden candlestick for inspection
-like a child showing a toy he has made.
+who holds up the candlestick like a child showing a toy he has made.
 
 The *beg* narrows his eyes.
-"Interesting.
+"An Ethiopian, is it?
+Interesting.
 Come, let us see what he has to say."
 
 Batu and his *arban* follow the *beg* and his entourage up the hill.
@@ -720,23 +717,22 @@ Batu mutters to Otgon.
 "If you're lucky, he'll forget you have it."
 *If you're very lucky,* he amends in his head.
 The man people are already calling Ulugh Beg---Great Ruler---is
-as famous for his intelligence as he is for his ancestry.
+famous for his intelligence.
 Still,
-a man can hope...
+one can always hope...
 
 The observatory was a marvel in its heyday,
 but time, neglect, and decades of minor earthquakes
 have brought one wall wall down completely
 and left others leaning perilously.
 The *beg* picks his way across the cracked and tilted courtyard tiles
-to the one door that still hangs true in its frame.
+to a door that still hangs true in its frame.
 To Batu's surprise he pauses at its threshold and knocks.
 "Peace be upon you," he calls.
 "May we enter?"
 
-There is a moment's pause,
-then a weary voice says,
-"If you wish."
+"If you wish,"
+a weary voice says
 
 The *beg* looks at the captain of his personal guard,
 who looks Batu,
@@ -747,12 +743,13 @@ and steps through the door.
 Batu follows,
 and the *beg* follows him.
 
-Batu has never seen so many books.
+Batu has never seen a library before.
+He never even *imagined* one.
 For a moment he feels the same way he did when his father first took him to Samarkand.
-How could there be so much world?
+How could there be so much world in the world?
 
 Then the Ethiopian stirs and Batu's attention snaps back to the here and now.
-He wears the simple white robe of a pilgrim with a matching turban.
+The man wears the simple white robe of a pilgrim.
 A samovar stands near his elbow,
 and the tools of a tailor and a leatherworker are laid out neatly on the table for mending books.
 
@@ -764,7 +761,7 @@ The Ethiopian cocks his head quizzically.
 "One of my tutors spoke of you,"
 the *beg* continues.
 "He studied trigonometry with the great al-Tusi,
-and showed me a copy of the *zij* you drew up to predict the positions of the stars and planets.
+and showed me a copy of the *zij* you drew up.
 It was..."
 The *beg* spreads his hands as if words alone could not capture what it was.
 
@@ -777,23 +774,15 @@ and for a moment Batu wonders if he is going to cry.
 "I thought I could make some real progress this time,"
 the Ethiopian continues quietly,
 more to himself than to the *beg* or his soldiers.
-"When al-Tusi persuaded Hulagu Khan to build this
+"When al-Tusi, peace be upon him,
+persuaded the great khan to build this
 I thought I would finally be able to get past the bare beginning,
 but..."
 He gestures,
 not needing to say,
-but now it is half-ruined,
-its instruments broken and its books stolen or burned or their pages ruined by rain.
+but now it is half-ruined and its instruments broken.
 
-The *beg* chuckles.
-"You sound like I used to.
-'I must do this, I must do that.'
-You make yourself your own worst enemy."
-
-The Ethiopian frowns.
-"I don't understand."
-
-Ulugh Beg points at Batu.
+The *beg* chuckles and points at Batu.
 "You.
 How many men in your *arban*?"
 
@@ -801,7 +790,7 @@ How many men in your *arban*?"
 He clears his throat.
 "Should be ten, but Dzhambul took an arrow in the leg and ---"
 
-The *beg* cuts him off with a hand wave.
+The *beg* cuts him off with a wave.
 "And you fight together, yes?
 You stand watch while each other sleep?"
 
@@ -809,27 +798,31 @@ You stand watch while each other sleep?"
 He learned long ago not to ask officers what point they were trying to make.
 
 The *beg* turns back to the Ethiopian.
-"You said *you* would be able to.
-What if I built you a school in Samarkand?
+"What if I built you a school in Samarkand?
 What if you taught others the method of triangles and all of al-Tusi's other arts?"
-His wave takes in the whole world outside the ruined library.
-"What if you didn't have to do everything by yourself?"
 
-The Ethiopian stares at him.
-His hand goes to his left temple.
-"I---I don't think I'm supposed to."
+"I can't," the Ethiopian says,
+the weight of ages in his voice.
+"I'm not allowed."
 
-"Why not?" the *beg* demands.
+"Not allowed?" the *beg* says,
+theatrically astonished.
+"Not allowed by whom?
+Who is it whose commands take precedence over mine?"
 
-"I can't remember," the Ethiopian says wearily.
-Then his eyes widen as if he is startled by his own words.
-"I can't remember why not!"
+The Ethiopian blinks.
+He raises a hand to brush his fingers over the scar on his temple.
+"I---I can't remember," he says slowly.
+"I *can't remember*."
+He smacks his hand on the table and surges to his feet
+as if he means to embrace the *beg*,
+but instead he folds his hands together and gives a profound bow.
 
-Batu knows the look on the Ethiopian's face as he gathers up his tools
-and chooses a dozen books for the *beg*'s soldiers to bring with them.
-It is the look of a man going into battle for the first time.
+Batu knows the look on the Ethiopian's face as he gathers his tools
+and chooses books for the soldiers to bring with them.
+It is the look of a man going into a battle he suddenly believes he might actually be able to win.
 
-*Otgon dies later that year when a Georgian knifes him in a campfire squabble over a game of dice.
+*Otgon dies when a Georgian knifes him in a campfire squabble over a game of dice.
 Batu loses an arm in battle outside Balkh,
 but finds a position as a caretaker at the new observatory in Samarkand.
 The beg's catalog of the positions of 994 stars,

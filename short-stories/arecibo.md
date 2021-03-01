@@ -16,17 +16,17 @@ permalink: /arecibo-mon-amour/
 <!-- mention the lost civilization drowned in the Bass Strait between Australia and Tasmania -->
 
 She gave up her name long ago.
-It was too heavy to carry as deep into the Dreaming as she needed to go.
+It was too heavy to carry as deep into the Dreaming as she wanted to go.
 She missed it at first,
 but everyone who knew her by that name is dead now,
 and it amuses her when others call her the Old Woman behind her back.
 At some point,
-she really ought to tell them that being mostly blind doesn't affect her hearing...
+she really ought to tell them that being partly blind doesn't affect her hearing...
 
-Footsteps crunch on the stream's gravel bank.
-She sighs as the fish she was hoping to catch darts away.
+Footsteps crunch on the gravel bank behind her.
+She sighs as the trout she was trying to catch darts away.
 "Who's there?" she asks,
-the stream caressing her knees as she turns to face whoever has frightened her dinner away.
+the river caressing her knees as she turns.
 
 "It's Wharru," the young man says.
 "There's a stranger in camp."
@@ -36,10 +36,10 @@ His clan lost their farms to the ever-rising sea,
 and many were killed or enslaved.
 It will be many years before he is ready to let go of that weight,
 but he has helped her realign some of the stones without complaint
-and doesn't snore or fart as much as some of the others.
+and doesn't snore or fart as much as some.
 
 "From down below?" she asks,
-sloshing through the stream to join him.
+sloshing through the river to join him.
 
 "I don't think so."
 Wharru hesitates.
@@ -48,31 +48,29 @@ Alinta thinks he might be a bad spirit."
 
 "Feh."
 The old woman picks up the walking stick and skin bag
-that are half of everything she can call her own.
+that are half of everything she owns.
 "Alinta thinks *everyone* is a bad spirit.
-Come on, let's go meet them."
+Come on, let's say hello."
 
 The stranger isn't in camp.
 "I told him to wait for you,"
-Alinta says without preamble,
+Alinta says,
 her voice as sharp as the stone knife in her hand.
 "I told him it's a powerful place,
 you shouldn't go there without her,
-you'll make the ancestors angry,
-but no,
-*he* wanted to see the *sunset*."
-She sets aside her knife,
-grabs the feet of the gweela she is dressing with one hand,
+but he didn't listen."
+She sets her knife aside,
+grabs the gweela's feet with one hand,
 and pulls hard with the other.
 The bird's skin comes off 
-with a sound that never fails to make the old woman's stomach turn.
+with a sound that makes the old woman's stomach turn.
 
-The old woman sighs to herself.
-The half-dozen people doing chores within earshot have paused their conversations
+She sighs to herself.
+The half-dozen people doing chores within earshot have paused
 to listen to Alinta.
-They will follow her once the old woman joins the ancestors,
+They will follow her when the old woman dies,
 and in her heart,
-the old woman knows that will be the end of the stones.
+she knows that will be the end of the stones.
 
 She jerks her chin at the dripping carcass in Alinta's hands.
 "Enough there for company?"
@@ -80,64 +78,60 @@ She jerks her chin at the dripping carcass in Alinta's hands.
 Alinta scowls.
 "Hardly enough for *us*."
 
-The old woman nods.
-"Well, do what you can to stretch it.
-Come along."
+"Well, do what you can."
 She digs her elbow into Wharru's ribs.
-"Let's go see what this evil spirit of yours wants."
+"Come on.
+Let's go see what this evil spirit wants."
 
 They walk side by side through the long shadows beneath the gum trees.
-The old woman has been going up and down this part of the mountain for almost thirty years,
-and takes quiet pleasure in thinking that the packed earth is
-echoing her own footsteps back at her.
-Birds and insects fill the forest with sound,
-and once something larger makes the bushes rustle.
-Wharru hesitates but the old woman pushes on.
+The old woman has been going up and down the mountain for almost thirty years,
+and takes quiet pleasure in thinking that
+the packed earth is echoing her own footsteps back at her.
+Crickets and songbirds fill the forest with sound,
+and once something larger rustles the bushes.
+Wharru hefts his spear but the old woman pushes on.
 A thylacine wouldn't attack two people together,
 and no one has seen a marsupial lion for years.
 
 They reach the field of stones just as the sun is about to kiss the horizon.
-There isn't a cloud in the sky,
-and if the stranger hadn't been there the old woman would put Wharru to work
-sighting along the stones
-and marking new positions for them.
+Only a few scattered clouds mar the sky's perfect blue;
+if the stranger wasn't there the old woman would have Wharru
+sight along the stones for her
+and mark new positions for them.
 
 But the stranger *is* there,
-and even with eyes half-blinded by years of looking too closely at the sun,
+and even half-blind from years of looking too closely at the sun,
 the old woman thinks that for once Alinta might be right.
-He is taller than anyone the old woman has ever seen
-and completely hairless.
-An angry young scar runs from his left temple almost to the back of his head,
+He is taller than anyone she has ever seen and completely hairless.
+An angry young scar mars his left temple,
 rough and red against his near-black skin.
-
-He turns as Wharru and the old woman approach him.
-She blinks.
+When he turns, she blinks.
 His little man is as small as a baby's and he has no bag at all that she could see.
 
 She clears her throat to greet him,
-but before the words could leave her mouth he says,
+but before the words leave her mouth he says,
 "It does not measure well enough."
 
-Wharru stiffens beside her at the stranger's rudeness.
+Wharru stiffens beside her.
 "Show respect," he says sharply.
 
 She puts a cautionary hand on his arm.
 "What do you mean, not well enough?"
 
-The stranger gestures at the oval of basalt that has taken the old woman a lifetime to assemble.
-There are exactly one hundred and twenty one stones,
+The stranger gestures at the oval of basalt that the old woman has spent a lifetime assembling.
+There are one hundred and twenty one stones,
 each with a name known only to the old woman and whoever helped her place it.
 She could pick some up one-handed,
 but others took two people and a wooden travois to move,
-and each of the waist-high trio at the oval's sunset end
-needed a year of hard work to haul up the mountain and put in place.
+and the waist-high trio at the oval's sunset end
+had been a year of hard work.
 
-"I need to know..."
-The stranger pauses and blinks rapidly several times.
+"I need to know."
+The stranger blinks rapidly several times.
 "This language does not have the words.
 I need to know a moment."
 He gestures at the scar on his head.
-"My people can only hear me at some moments,
+"I can only be heard at some moments,
 but I am damaged.
 I do not know when those moments are any more.
 I must add to find them.
@@ -149,25 +143,25 @@ The old woman clucks her tongue.
 Do you want to add a stone?"
 Is part of his spirit lost in the Dreaming?
 She has seen it before.
-A stone struck a man on the head.
+A man was struck in a fight.
 When he woke two days later
 he moved slowly and was confused by the simplest things.
 
 The stranger shakes his head.
 "No.
 'Add' is not right.
-I need to---this language does not have the words.
-I need to count the spaces between the stars to know when my people will be able to hear me.
+This language does not have the words."
+He sounds almost petulant.
+I need to count the spaces between the stars to know when I can be heard.
 What you have built does measure well enough.
 It is of no use."
 
 "It is of great use!" Wharru says hotly.
-"It tells us when the seasons will turn and what path the moon will take.
-It tells us when the ancestors are closest to us!"
+"It tells us when the seasons will turn and what path the moon will take!"
 
 The stranger does not reply to that.
 He just looks at the old woman.
-*He knows,* she realizes.
+*He knows,* she realizes with a shock.
 He knows the same thing she knows,
 that there are patterns in the stars and the lights that wander among them,
 and that those patterns *mean* something.
@@ -181,21 +175,21 @@ Wharru catches his arm.
 "Wharru, don't," the old woman protests,
 but the young man ignores her.
 He fought and killed on his way to the mountain,
-and in that sunset moment she can see his battles in the way he shifts his weight,
-ready to strike or to fend off a blow.
+and in that sunset moment she can see his sorrows
+in the way he shifts his weight,
+readying to strike a blow.
 
 But that blow never comes.
 With a rasping roar,
 the lion that had crept closer while they were distracted
 bursts out of the trees behind them.
 
-The old woman screams as the lion knocks her to the ground.
+The old woman screams as it knocks her to the ground.
 A dazzling pain shoots up her spine as her hip breaks,
 then something cracks and the lion goes limp.
-The stranger has broken its neck with his bare hands
-as easily as someone might break a dry twig.
+The stranger has broken its neck with his bare hands as if it was a dry twig.
 
-Wharru runs ahead to tell the others what has happened
+Wharru runs ahead to get help
 while the stranger carries the old woman down the mountain as if she were a baby.
 She passes out several times,
 only to be dragged back into the world by the agony in her hip.
@@ -209,11 +203,11 @@ and walks away without another word.
 *Later,
 Alinta pokes at the lion's protruding ribs
 and says it must have been desperate with hunger.
-It is the last lion they ever see---the last one *anyone* ever sees.
+It is the last one they ever see---the last one *anyone* ever sees.
 She makes a cloak from its pelt,
-but it is lost in a flood many years later and many miles away.
+but it is lost in a fire many years later.
 The old woman lives another season,
-but is never able to go back up the mountain to track the sun and moon and stars with her stones.
+but is never able to go back up the mountain to look at the sky.
 She wonders sometimes who the stranger was
 and whether he ever found a way count the spaces between the stars.*
 
@@ -225,18 +219,16 @@ and whether he ever found a way count the spaces between the stars.*
 
 As a child,
 Second Bird's diet consisted of maize, beans, the occasional roasted guinea pig,
-and his grandfather's stories of the war.
+and his grandfather's stories.
 The First People rose up against the highlanders' god-king many times.
-Each rebellion ended the same way,
-with entire families staked out in the desert
-and ever-harsher conditions for the survivors.
+Each rebellion ended in death for some
+and ever-harsher conditions for the rest.
 
-"So we wept and we *learned*," Fast Rock says,
-grunting the last word as he turns over a spadeful of damp soil.
-He and Second Bird have been clearing this irrigation channel for nine days.
-It is slow, slippery, back-breaking work,
-but Second Bird doesn't mind:
-all of the other chores are just as hard,
+"So we *learned*," Fast Rock says,
+grunting as he turns over a spadeful of damp soil.
+Clearing irrigation channels is slow, slippery, back-breaking work,
+but Second Bird doesn't mind.
+Other chores are just as hard,
 and he secretly enjoys his grandfather's stories.
 
 Fast Rock drives his spade into the ground again.
@@ -247,41 +239,28 @@ heave,
 "To rise,"
 heave,
 "together."
-He pauses a moment to wipe sweat from his brow
+He pauses to wipe sweat from his brow
 while Second Bird drags the reed basket of soil out of the way
 and pushes an empty one into place.
-One more basket and they will trade places.
-Four more after that wwill make eight for them to carry a hundred strides
-to fill the gap where the riverbank had given way.
 
-The numbers dance in Second Bird's head.
-They have made six such journeys so far that day
-and will make another eight before the sun sets.
-Six plus eight is ten with four.
-Ten with four upon itself nine times is five twenties with six.
-If they are half done---he glances at the river to check yet again---then yes,
-it will have taken ten twenties with ten and two trips to finish.
-At eight baskets a trip,
-that will be---
-
-The ground shakes.
+Without warning the ground shakes.
 Ripples dance across the flat stinking water in the irrigation channel.
-Someone shouts a warning two channels over.
+Someone shouts a warning nearby.
 Someone else screams.
 
 "Grandfather!"
-He grabs Fast Rock's outstretched hand and pulls the old man up out of the channel.
+He grabs Fast Rock's outstretched hand and pulls the old man out of the channel.
 The spade whacks his shin.
-Later,
-he will realize that it cut him,
+He will realize later that it cut him,
 and will go back and burn herbs to cleanse the ground where his blood spilled,
 but at that moment all he can think is, *The world is ending.*
 
 Dry soil loosened by the earthquake slumps into the canal,
-undoing all of their work.
+undoing a day's work.
 Fast Rock stares at it for a moment,
-then draws the knife that always hangs at his waist.
-"Come with me!" he orders.
+then curses.
+"Come with me!" he orders,
+setting off toward the village at a trot.
 
 "Where are we going?" Second Bird asks,
 running after him.
@@ -292,23 +271,19 @@ running after him.
 Every handspan of green land was a gift from the gods.
 Even the highlanders understood that,
 and built their villages where the green ended and the hard dry desert began.
-Most of those villages are empty now,
-home only to wild creatures and ghosts.
-Second Bird has ventured into the nearest one on a dare,
+Most of those villages are home now only to wild animals and ghosts.
+Second Bird has ventured into the one nearby on a dare,
 marveling at the carved stones and at streets wide enough for six people to walk side by side.
 He has never gone to the center,
-though,
-and neither have any of the other children.
+though.
 Only the old men go there,
 and even they only go in pairs.
 
-Another building has collapsed.
-Second Bird counts the tumbled stones at a glance.
+A building has collapsed,
+filling the air with gritty dust.
 "Grandfather---" he begins.
 
-"Good," the old man pants,
-slowing to a walk.
-He gestures with his knife.
+"Good," the old man says shortly.
 "The sooner...
 they come down...
 the sooner...
@@ -316,24 +291,22 @@ our gods will come back."
 And end the drought,
 he doesn't add.
 He doesn't need to:
-every one of the First People's prayers has begged for that for six long years.
+the First People's prayers have begged for that for six long years.
 
 They come around a corner and face-to-face with a nightmare.
 The highlanders' nameless god-king stands in front of the collapsed wall
-of the storehouse where the First People imprisoned him.
+of the storehouse where the First People imprisoned him
+before Second Bird was born.
 Two old men stand opposite him,
-spears clutched in their hands.
+spears in their hands.
 
 Second Bird grabs his grandfather's arm.
 "Wait," he pleads.
-The god-king is faster and stronger than any mortal being.
-It took a dozen men to subdue him,
-and the only one to survive his wounds from that battle
-cannot beat him with only a knife.
+It took a dozen men to subdue him during the rising.
 
 Fast Rock smacks his grandson's hand away and advances slowly,
-his knife held low.
-One of the guards shifts to the side to make space for him
+drawing the knife that always hangs at his side.
+One of the guards shifts to make space for him
 without taking his eyes off the god-king.
 
 "So," Fast Rock says after a moment.
@@ -344,19 +317,18 @@ with skin like charcoal and an old scar on the left side of his head.
 Naked,
 thin from years of starvation,
 and covered in dust,
-he is still more frightening than Second Bird has ever imagined.
+he is the most frightening thing Second Bird has ever seen.
 
 "I said, what now?" Fast Rock demands.
 
 The god-king blinks as if waking.
 "I need to see the stars," he says abruptly,
-and then turns and walks away.
+then turns and walks away.
 
 The two guards look at Fast Rock helplessly.
 "Get help," the old man orders,
 taking the nearest one's spear.
-"Get *everyone*.
-It's time we ended this."
+"Get *everyone*."
 
 "But---"
 
@@ -368,32 +340,28 @@ Fast Rock bares his teeth.
 "Come on."
 
 They follow the god-king into the desert.
-At first Second Bird thinks he is headed for the fortress that the highlanders built
-when they first swept down over the valleys,
+At first Second Bird thinks he is leading them to
+the fortress the highlanders built when they first swept down over the valleys,
 but he walks past it without a glance.
 That leaves the towers,
-thirteen of them in a row on a ridge looking west,
-each one built at a cost of dozens of lives.
+thirteen of them on a ridge looking west,
+each one built out of stone and the lives of the First People.
 
-Others join them,
-some carrying spears,
+Others join them.
+Some carry spears,
 others with whatever tools they were using when the earth shook.
 Two men have thought to bring a net like the one Fast Rock and his companions used
-to ensnare the god-king on the day of the rising,
-and an old woman has a pouch of herbs and a needle and thread for wounds.
+to snare the god-king all those years ago,
+and an old woman has a pouch of herbs for wounds.
 
-Ten twenties of twenties of strides bring them to the stairs leading up to the first tower.
-Second Bird counts each step automatically
-and wonders for a moment if the number being so clean is some kind of sign.
-
-The god-king stands alone at the top of the tower.
+By the time they reach the towers the god-king has climbed the tallest one.
 "Should we set an ambush?" one of the men carrying the net hisses at Fast Rock.
 
 The old man snorts.
 "How?"
 There is no way to get above the tower stairs and nothing to hide behind.
 
-He gestures at the nearest men.
+Fast Rock spits on the ground and gestures at the nearest men.
 "Spread out.
 When he comes down, you three get behind him, but wait for my word.
 We must all attack at once."
@@ -402,12 +370,19 @@ We must all attack at once."
 one man says incredulously.
 "*Him?*"
 
-"He has been in prison longer than my grandson has been alive,"
+"He will be weak,"
 Fast Rock says curtly.
-"He will be weak."
 
 "Doesn't *look* weak," the man says under his breath,
 but he takes a position.
+
+Second Bird swallows drily.
+The First People had argued endlessly over what to do with the captured god-king.
+Shedding his blood was unthinkable to everyone except Fast Rock.
+And if they drove him into the desert,
+what would stop him raising another army among the highlanders?
+So they had walled him up inside one of his own storehouses to die,
+which he had stubbornly refused to do.
 
 They wait.
 And wait.
@@ -415,9 +390,9 @@ Finally Fast Rock cups his hands around his mouth.
 "What are you doing up there?" he shouts.
 
 People gasp.
-Monster or not, you don't yell at gods.
+Evil or not, you don't yell at gods.
 
-But he replies.
+But the god-king replies.
 "I am looking at the stars,"
 he calls down.
 
@@ -430,21 +405,19 @@ There is a moment of silence.
 
 Second Bird looks questioningly at his grandfather.
 The old man shrugs,
-then tenses as the god-king comes down the steps.
+then tenses as the god-king trudges down the steps.
 
-The men shuffle into a semi-circle around him
-when he reaches the bottom.
+The men shuffle into a semi-circle as he reaches the bottom.
 The god-king looks past them at the thin green ribbon of life running through the desert.
-"These are hard times for you,"
+"The river is shrinking,"
 he says.
 
 Fast Rock shrugs.
-"Not as hard as your time was.
-But it'll get better."
+"It'll come back."
 
 The god-king shakes his head.
 "No, it will not.
-This is a new---" he hesitates.
+There is a new---" he hesitates.
 "Balance.
 A new balance of long weather.
 This valley can no longer sustain as many people as my work needs.
@@ -459,54 +432,55 @@ We died and died and died to build---what?"
 
 "A way to measure the stars,"
 the god-king says evenly.
-"I need to measure them very exactly to know when I can speak with my people."
+"I need to measure them very exactly to know when I can be heard."
 
-And just like that a lifetime of puzzle pieces click together in Second Bird's head.
+And just like that a lifetime of stories come together in Second Bird's head.
 "The solstice," he breathes.
 
-The god-king swivels his head to look at Second Bird in a motion more lizardly than human.
+The god-king turns his head to look at Second Bird
+in a motion more bird-like than human.
 "Yes.
 Knowing the exact moment of the solstice is a start,
 but only a start.
-These tools are not good enough to do more."
-His wave takes in the towers,
-the people,
-and the entire river valley.
+These tools cannot do more.
+They were just---"
+He hesitates.
+"Practice."
 
-"Not *good* enough?" Fast Rock snarled.
+"Practice?" Fast Rock snarls.
 "We have *bled*.
 We have *died*.
 We have bowed our heads for a hundred years,
-and you say it's not *enough*?"
+and you say it was just *practice*?"
 He lunges.
 
-The god-king slaps the spear-thrust aside as if swatting a fly.
+The god-king grabs the spear just behind the point and snaps it.
 One of the men behind him takes a step forward.
 Without even looking,
-the god-king raises a hand to point straight at him.
+the god-king points straight at him.
 "Do not," he says flatly.
 Further around the circle,
 the two men with the net shuffle their feet but make no move.
 
 Fast Rock spits at the god-king's feet.
 "So now what?
-Are we to be your slaves again?"
+More *practice*?"
 
 The god-king shakes his head slowly.
 "No."
 For the first time Second Bird hears emotion in his voice---regret,
 perhaps,
 or something close to it.
-"Sooner or later, your kind will always rebel.
-I must consider a different approach."
-He turns and walks into the desert without another word.
+"Sooner or later, you will always rebel.
+I must find a way to make you want to build it yourself."
+And without another word,
+he turns and walks into the desert.
 
 *Many years later,
-Second Bird takes his grandchildren to the towers.
-He tells them the story of the god-king
-and shows them how to predict the changing seasons by the way certain stars line up with the towers.
-As he falls asleep for the last time,
-he wonders if the god-king ever found someone to build what he needed.*
+Second Bird tells his grandchildren the story of the god-king
+and shows them how to predict the seasons by the way certain stars line up with the towers.
+As he falls asleep for the last time
+he wonders if the god-king ever found someone who wanted to build what he needed.*
 
 <div align="center">* * *</div>
 

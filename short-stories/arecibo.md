@@ -669,14 +669,13 @@ His men have heard him bellow orders as they gallopped into battle
 and sing in a surprisingly melodious voice,
 but they have never heard him be quite as sarcastic as this.
 
-Otgon clears his throat and hefts the candlestick he holds
-as if unsure whether to hide it behind his back
-or hand it to his commander.
+Otgon clears his throat and hefts the golden candlestick he holds
+as if wondering whether it's too late to hide it behind his back.
 "Yes sir.
 There are some tapestries too, and a samovar.
 He says we can have all of it as long as we leave the books alone."
 
-"How kind," Batu says.
+"How kind of him," Batu says acidly.
 "Tell me---does he *look* mad?"
 
 "No sir. He looks Ethiopian."
@@ -684,7 +683,7 @@ He says we can have all of it as long as we leave the books alone."
 "Who does?"
 Batu glances over his shoulder at the question,
 then drops to one knee.
-The men in his *arban* follow suit.
+His *arban* follow suit.
 
 "My *beg*,"
 he says,
@@ -696,7 +695,7 @@ though his is fine silk instead of homespun linen.
 His personal guard stands behind him,
 blades bared and eyes constantly moving.
 Maragheh hadn't put up much of a fight,
-but the *beg* has many enemies and bows are plentiful.
+but bows are plentiful and the *beg* has many enemies.
 "What's this about an Ethiopian?"
 
 Batu gets to his feet,
@@ -725,31 +724,29 @@ The observatory was a marvel in its heyday,
 but time, neglect, and decades of minor earthquakes
 have brought one wall wall down completely
 and left others leaning perilously.
-The *beg* picks his way across the cracked and tilted courtyard tiles
+The *beg* picks his way across the cracked courtyard tiles
 to a door that still hangs true in its frame.
-To Batu's surprise he pauses at its threshold and knocks.
+To Batu's surprise he pauses as if unsure of himself, then knocks.
 "Peace be upon you," he calls.
 "May we enter?"
 
-"If you wish,"
-a weary voice says
+"If you must,"
+a weary voice replies.
 
 The *beg* looks at the captain of his personal guard,
 who looks Batu,
 who looks at Otgon,
 who salues,
 hands the candlestick to his brother,
-and steps through the door.
-Batu follows,
-and the *beg* follows him.
+and opens the door.
+Batu follows him through with the *beg* behind him.
 
 Batu has never seen a library before.
-He never even *imagined* one.
 For a moment he feels the same way he did when his father first took him to Samarkand.
-How could there be so much world in the world?
+How could there be so *much* in the world?
 
-Then the Ethiopian stirs and Batu's attention snaps back to the here and now.
-The man wears the simple white robe of a pilgrim.
+Then the room's resident stirs and Batu's attention snaps back to the here and now.
+The Ethiopian wears the simple white robe of a pilgrim.
 A samovar stands near his elbow,
 and the tools of a tailor and a leatherworker are laid out neatly on the table for mending books.
 
@@ -761,6 +758,7 @@ The Ethiopian cocks his head quizzically.
 "One of my tutors spoke of you,"
 the *beg* continues.
 "He studied trigonometry with the great al-Tusi,
+peace be upon him,
 and showed me a copy of the *zij* you drew up.
 It was..."
 The *beg* spreads his hands as if words alone could not capture what it was.
@@ -774,8 +772,7 @@ and for a moment Batu wonders if he is going to cry.
 "I thought I could make some real progress this time,"
 the Ethiopian continues quietly,
 more to himself than to the *beg* or his soldiers.
-"When al-Tusi, peace be upon him,
-persuaded the great khan to build this
+"When al-Tusi persuaded the great khan to build this
 I thought I would finally be able to get past the bare beginning,
 but..."
 He gestures,
@@ -803,24 +800,25 @@ What if you taught others the method of triangles and all of al-Tusi's other art
 
 "I can't," the Ethiopian says,
 the weight of ages in his voice.
-"I'm not allowed."
 
 "Not allowed?" the *beg* says,
 theatrically astonished.
-"Not allowed by whom?
-Who is it whose commands take precedence over mine?"
+"Not allowed by whom?"
 
-The Ethiopian blinks.
-He raises a hand to brush his fingers over the scar on his temple.
-"I---I can't remember," he says slowly.
-"I *can't remember*."
-He smacks his hand on the table and surges to his feet
-as if he means to embrace the *beg*,
-but instead he folds his hands together and gives a profound bow.
+The Ethiopian shakes his head.
+"I can't remember.
+There is so much I can't remember."
+He brushes his fingers over the scar on his temple,
+shiny against his black skin.
 
-Batu knows the look on the Ethiopian's face as he gathers his tools
-and chooses books for the soldiers to bring with them.
-It is the look of a man going into a battle he suddenly believes he might actually be able to win.
+The *beg* cocks his head.
+"So you're just going to give up?"
+
+The Ethiopian looks up at him,
+and this time there actually are tears in his eyes.
+"I can't do that either," he whispers.
+He bows his head for a moment,
+then stands and begins to gather the few books he will bring with him.
 
 *Otgon dies when a Georgian knifes him in a campfire squabble over a game of dice.
 Batu loses an arm in battle outside Balkh,
@@ -831,333 +829,262 @@ is the most accurate made in over a thousand years.*
 
 <div align="center">* * *</div>
 
-**Near Uraniborg, on the island of Hven / Actual minus 1400 years**
+*Venice / Actual minus 1410 years**
 
-"I'm *not* scared!"
-Lars shoves Christian back a step.
+"Master, you have another visitor."
 
-His twin brother grins maliciously.
-"Then there's no reason not to go in, is there?"
+Galileo di Vincenzo Bonaiuti de' Galilei waves the servant off impatiently
+without taking his eye away from his telescope.
+He has demonstrated his new instrument to one group of Venetian notables after another.
+At this point they are either going to back him or not,
+and if not,
+someone else will.
 
-"Except the whipping you'll both get from father if he finds out,"
-their sister Annelise warns without looking up from her embroidery.
-At fifteen,
-she is the older by four years.
-They still mostly do what she tells them to,
-but all three know that is about to change.
-This is Annelise's last summer as a girl;
-when the harvest is done,
-her parents will start having conversations with other families
-whose sons are of the right age.
-By next summer, or the summer after, she will be betrothed.
-For now,
-though,
-she can enjoy the afternoon son and dream of princes and faraway places.
+The servant clears his throat.
+"I'm sorry, master, but he is quite insistent."
+The boy hesitates.
+"He's a Moor, sir."
 
-Lars is about to shove Christian again when his twin says, "Wait---who's that?"
-Three strangers have crested the other side of the hill on horseback.
-Annelise scrambles to her feet.
-There's no need to ask which "who" Christian means.
-Two of the men look unremarkable in their dark coats and trimmed beards,
-but the third is tall and thin,
-with skin as dark as his richly-tailored suit.
+Galileo sighs as a wisp of cirrus drifts in front of the Moon.
+"Very well, show him up.
+And bring me something to eat!"
+he calls as the boy hurries away.
+"Something with some meat in it!"
+La Serenissima is damper than he is used to,
+and even with a blanket over his legs he will feel the cold by morning.
 
-"It's a witch," Lars breathes.
+The boy---Marco? Matteo? The astronomer doesn't remember---returns a few moments later
+to usher their visitor onto the terrace.
+Galileo takes in his rich, plain clothes at a glance and decides to stand.
+If this man is a servant,
+his master must be very wealthy.
 
-"Don't be daft," she snaps.
-"He's just a Moor."
-Not that she has ever seen a Moor,
-but she has read stories…
+"*Buona sera*," he says,
+inclining his head in something between a nod and a bow.
 
-"What's a Moor doing here?" Christian asks.
+"*Buona sera*," the stranger replies.
+He is tall, dark, and slim,
+his hands bare of rings
+and his coat of any crest.
+The scar on his temple is too ragged to have been made by a sword.
+"I apologize for intruding,
+but I have heard that you have made---"
+He hesitates,
+his eyes drawn to the brass cylinder on the table behind his host.
+"Something miraculous," he finishes reverently.
 
-Annelise shrugs helplessly.
-"Here, get out of the way."
-She tucks her embroidery into her coat and takes her brothers in hand.
-As the trio on horseback draws closer she drags the twins to the side of the road and curtsies awkwardly.
+"No no no," Galileo says hastily.
+People---powerful people---are already muttering about
+the mountains he has seen on the Moon.
+The last thing he needs now is trouble with the church.
+"There is nothing miraculous about it.
+It is just lenses.
+And there are many practical applications,
+military and commercial alike."
 
-One of the men touches a finger to the brim of his hat with a polite smile.
-They are armed,
-Annelise realizes,
-swords and pistols at their waists.
-The Moor is not,
-but he inclines his head to her in solemn greeting.
+Without warning the Moor steps forward and embraces his host.
+"They are unimportant," he says,
+stepping back with an awkward look on his face
+as if surprised by his own action.
+"What you are about to see--*that* is important."
 
-Lars and Christian tug at her hands as soon as they are past.
-She pulls them back.
-"Leave be," she hisses.
+He takes a small purse from inside his coat and offers it to Galileo,
+who shakes his head.
+"It is not for sale," he says firmly.
 
-"But---"
+The purse clinks as the Moor sets it on the table.
+"I wouldn't take it for the world," he says.
+He bows,
+turns,
+and leaves.
 
-"Hush!"
-The riders have reached the remains of the astrologer's tower.
-They dismount,
-and one of the guards (for so Annelise now thinks of them) takes the horses' reins.
-The other follows the Moor,
-who picks his way through the boards too badly burned to have been worth salvaging.
-He stops,
-turns as if orienting himself against walls no longer there,
-then stamps his foot.
-Dissatisfied with the sound,
-he moves a pace to his left and stamps again.
-
-"What's he doing?" Lars asks.
-
-"Hush!" Annelise says again,
-squeezing his hand hard.
-One more stamp and the Moor nods to the guard,
-who picks his way back to the horse and returns with a crowbar and a blacksmith's hammer.
-
-*Clonk. Clonk.*
-Two blows drive one end of the crowbar into what's left of the floor.
-The guard sets the hammer aside and uses his weight to lever up a section of stone.
-The Moor bends down and pulls out something blockly wrapped in canvas.
-
-"A book of spells," Christian says excitedly.
-"It must be!"
-He turns to his sister.
-"We have to tell Papa!"
-And before she can stop him he jerks his hand free and runs down the hill
-toward their farm.
-
-"Wait!" Lars shouts.
-He yanks his hand out of his sister's and follows his brother.
-
-Annelise doesn't know if it is her curiosity or her sense of dignity
-that stops her from following them.
-She stands where she is,
-hands clasped in front of her,
-while the Moor and his companions remount and ride toward her.
-They are headed to Kyrkbacken, she realizes,
-which means they probably came over on the ferry from Rungsted.
-Copenhagen is a few hours' ride further south;
-that must be where they are bound.
-She has never been to the city.
-Her uncle has, twice,
-but it might as well be the moon to her.
-
-"Sir, what have you found?" she calls as the three horsemen come near.
-
-"No business of yours," one of the guards says,
-but to both of their surprise the Moor raises a gloved hand and halts.
-
-He studies her for a moment,
-then reaches into the satchel slung over his shoulder and pulls out a book
-as wide as her two hands outstretched.
-"Would you like to see?" he asks,
-his Danish slightly accented.
-
-She hesitates only a moment before stepping forward and taking it from him.
-It is much heavier than she expected,
-and she realizes when she opens it that there are metal plates in the covers.
-The pages are filled with neat, dense rows of numbers
-broken here and there with drawings of the constellations.
-
-"Are you an astrologer, sir?" she asks,
-handing it back to him.
-
-He nods as he tucks the book back in his satchel.
-"For many years now.
-I used to work here."
-He gestures at the ruins behind them.
-
-"You must have been very young then, sir," she ventures.
-She has heard the story from her father many times.
-King Christian built the tower for his favorite astrologer forty years ago,
-but it swayed too much in the wind.
-Any shipwright could have told him it would,
-according to her father,
-which always made her uncle laugh and ask what he knew of ships
-who had farmed his whole life.
-The king ordered a second, sturdier tower built at Stjerneborg,
-which meant well-paid work for the local men for several years,
-but it was abandoned when the astrologer fell from favor.
-
-"Younger than I am now, I suppose," the Moor observes reflectively.
-He pats the book.
-"This is mostly for---for sentimental value, I suppose."
-He seems surprised by his own admission.
-
-The two guards exchange looks behind the Moor's back.
-This is clearly not their master's first moment of eccentricity.
-"And please, sir, what will it tell you?"
-
-The Moor looks past her at the horizon.
-"Not enough yet," he says,
-as much to himself as to her.
-"But they are talking about building a new observatory in Leiden with telescopes.
-A thing of lenses that shows the stars in more detail than the eye alone can see,"
-he adds before she can ask what the strange word means.
-"I have been waiting for you to make them for a very long time.
-Perhaps now we will see some real progress."
-
-She does not have a chance to ask, "Progress toward what?"
-or whether "you" means the Danes, Christians, or something else entirely
-before the Moor clucks his tongue to send his horse forward again.
-The guard touches his finger to the brim of his hat once again,
-and then all Annelise can see is the tail ends of three horses.
-
-*Five years later,
-Lars and Christian are called to war.
-Lars dies at the battle of Lutter,
-while Christian returns home minus part of his left leg and all of his faith.
-Annelise cares for him as well as she can,
-but between his injury and his drinking he is unable to keep up the farm.
-After some complicated negotiations it becomes her dowry
-while her new husband's family guarantees a stipend for Christian.
-Annelise bears eight children,
-three of whom survive to adulthood.
-The youngest takes service on a merchant ship and eventually owns a small telescope of his own.*
-
-<div align="center">* * *</div>
-
-**Delhi / Actual minus 1145 years**
-<!-- 1875 CE -->
-
-He wears civilian clothes now,
-but he will always think of himself as Corporal Singh.
-A button from his first Company uniform lies in a box under his bed.
-It was called the Raj by the time he retired,
-or more accurately,
-by the time a quiet Englishman who spoke nearly perfect Punjabi
-had a quiet word with him in an out-of-the-way office
-about how else he might be able to serve.
-
-That was almost twenty years ago.
-The Rebellion had been put down,
-but everyone---British and Indian alike---believed
-it was just a matter of time until the flame caught again.
-"Eyes and ears, corporal," the Englishman said.
-"We need people who can see things and hear things
-that someone like me will never see or hear."
-
-So now he walks further each day than he used to march,
-though without a pack or a rifle to weigh him down.
-Past the Delhi Gate and down the old Ansari Road
-or through the cacaphony of Chawri bazaar,
-he visits one informant here and another there,
-never in the same order or at the same time of day.
-
-Today is different.
-Today he is following a tall black man who slips through the crowd
-as easily as a fish through water.
-He wears a simple white robe and a crocheted white topi.
-His sandals look sturdy,
-as does the satchel slung over his shoulder.
-Corporal Singh almost didn't notice him when he disembarked from the 6:18 am train,
-but then the light caught the scar on his temple
-and the corporal immediately thought,
-hello,
-what are *you* doing *here*?
-
-The corporal hangs back a double dozen strides.
-Africans are not unknown in Delhi,
-but are uncommon enough that heads turn as he walks by.
-Tailors and cobblers and and haberdashers call to the stranger
-as he walks through the market on Janpath Road.
-He inclines his head to some but otherwise ignores them.
-Another few hundred hards---the corporal is sweating slightly in the mornig sun---and
-they reach the small park that is home to the city's *jantar mantar*.
-
-Corporal Singh follows his quarry through the gate to the old observatory
-and pulls up short.
-The stranger has vanished.
-
-"Remarkable, isn't it?"
-The corporal doesn't jump at the voice from behind him,
-but he does slide his right hand into the hidden slit in his trousers.
-A small knife is strapped to his thigh,
-insurance against thieves as much as overly-excitable informants.
-
-The stranger steps forward to stand beside him without looking at him.
-"The gnomon's hypotenuse is parallel to the Earth's axis,"
-he says,
-gesturing at the gracefully curved stonework.
-"The circle is parallel to the plane of the equator.
-It was quite challenging to align,
-but it can tell the time to within half a second."
-
-"I understand that the railway's clocks are that accurate as well,"
-the corporal observes.
-"As well as being somewhat easier to construct."
-
-The stranger chuckles.
-"Once you know how."
-He studies the observatory and sighs.
-"It would all have been so much simpler if I could just have *told* you what to do..."
-
-Corporal Singh isn't quite sure what to make of this,
-but before he can think of an appropriately neutral response
-a rough voice says,
-"You two---move aside."
-
-Two Englishmen have arrived
-accompanied by a manservant overburdened with an easel and a rectangular case.
-"Go on, out of the way," the manservant repeats.
-"The doctor sahib and his friend are going to paint."
-
-The corporal steps aside.
-After a moment's hesitation the stranger joins him.
-They watch in silence as the manservant sets up the easel
-and then wrestles with the folding legs of the case.
-
-"Does it ever bother you?" the stranger asks abruptly.
-
-The corporal blinks.
-"Painting?"
-
-"No, this."
-The stranger gestures at the two florid Englishmen,
-who are arguing amicably about lighting and composition.
-"Being ordered about in your own land."
-
-*Oh ho,* the corporal thinks,
-but what he says is,
-"Do you think it should be otherwise?"
-
-The stranger is silent for a moment
-as if the question is new to him and requires serious thought to answer.
-"I don't know," he eventually says.
-
-"You there!"
-One of the Englishmen snaps his fingers at the corporal and the stranger
-and then points at the manservant,
-who is still struggling with the case.
-"Give him a hand, chop chop."
-
-The other Englishman snorts.
-"They're not Chinese, Alastair."
-
-The first Englishman waves him off.
-"Well, go on.
-Tell them to help you," he orders the manservant peevishly.
-
-The corporal takes his hand from his pocket and steps over to help the manservant.
-When he glances back,
-he catches one last glimpse of the stranger's troubled expression
-before he turns abruptly and walks away.
-
-*Sergeant Singh lives just long enough to see a new century begin.
-Glaucoma steals his sight,
-but his mind stays sharp enough for him to file reports on the newly-formed Congress Party.*
+*By the time Galileo dies in 1642 there are several thousand refracting telescopes in the world.
+Twenty-five years later, Isaac Newton builds the first reflecting telescope;
+a generation after that,
+astronomical catalogs list the positions of thousands of stars
+that are invisible to the naked eye.*
 
 <div align="center">* * *</div>
 
 **Arecibo / Actual minus 979 years**
-<!-- 2041 CE -->
-<!-- The stranger has a fake ID, but so does everyone with money these days. -->
-<!-- Come to see a VR exhibit showing Arecibo in its prime - the island's depopulation accelerates as storms worsen. -->
-<!-- The stranger is funding some of the relocation - feels guilty about diverting money from astronomy, but other trillionaires are backing that now. -->
 
-The Arecibo Radio Observatory was completed in 1963; it was 305m in diameter and made out of 38,778 perforated aluminum panels. It collapsed on Dec 1, 2020 after years of dwindling funding. (CE 2041)
+"The Arecibo Radio Observatory was completed in 1963.
+It was 305 meters in diameter and made out of 38,778 perforated aluminum panels.
+It collapsed on Dec 1, 2020 after years of under-funding.
+Plans to build a new instrument on the site were shelved after Hurricane 2031-B21
+destroyed the remainder of the site."
+
+The voice pauses.
+Music starts,
+polyphonic and irregular,
+with something not quite a melody never quite taking shape.
+The visitors begin to explore the ruins,
+their routes just one more semi-randomized element of the performance.
+
+A hundred meters away,
+in a porta-cabin half-buried to shelter it from storms,
+Luisa sighs.
+Only five people have shown up today,
+and only one of them in person.
+Maybe Sergei is right---maybe it's time to smarten up
+and follow most of her fellow Puerto Ricans to the relative safety of the mainland.
+
+A tracking light goes red in her HUD.
+The day's in-person visitor is far enough off track to make her software uncomfortable.
+She starts to shape some tweaks to the algorithm to nudge him back where he's supposed to be,
+then looks at the clear blue sky in the tessellated video feed on her wall
+and mutters, "Fuck it, why not?"
+Maybe an actual conversation with an actual human being will give her some much-needed inspiration.
+
+It only takes her a few minutes to pick her way downslope
+to what's left of Highway 625.
+Another few minutes and she is at the old visitors' center.
+Her errant guest is sitting on what's left of a cinder-block wall.
+She chords a few commands on her palm to bring his stats up on her glasses,
+then frowns.
+Something...
+
+*Hey,* she messages Sergei.
+*Can you do a scrape on this one?*
+
+*Problem?* he messages back.
+
+*Dunno. Probably nothing. Lemme know.*
+She sends a smiling heart and puts on her professional smile.
+"Good morning."
+
+The stranger stands.
+"Buenos dias."
+He is of average height,
+slender,
+with skin so dark she's sure he must have some sort of melanin augment.
+
+"Was the installation not what you hoped for?" she asks.
+
+He shakes his head.
+"No no, it was... You must have worked very hard."
+She bristles inside at this, but Sergei has taught her well---never let
+the customers know you hate them.
+
+"I just wanted to see it all one more time for myself,"
+he continues.
+There is a note of sadness in his voice.
+
+"It was remarkable in its day," she says as if agreeing with him.
+
+He nods.
+"It was.
+We learned so much."
+
+"Oh? Like what?"
+Tap tap on her palm and her glasses start recording.
+Something about the look on his face
+and the scar on his temple---a botched augment, she guesses,
+or maybe a memento of combat in Florida or the Gulf Coast.
+She slides the image to Sergei.
+
+The stranger looks at her quizzically.
+"You don't know?"
+
+She shrugs.
+She actually *does* know,
+and he'd know that if he'd stayed on track,
+but audiences don't want to hear science lectures---they want arguments.
+"What I know is that the gov spent millions to look at the stars
+while people here didn't have clean water."
+
+"And did they get clean water after it shut down?" he asks.
+
+She is surprised by the bitter tone of her own laugh.
+"Of course not.
+I mean,
+one day it's clean drinking water,
+the next day it's decent schools.
+Next thing you know,
+people are going to want martial law lifted and elections and shit.
+Can't have that,
+so they give us this science shit instead."
+
+*Hey.*
+Sergei's tag pops up on her glasses,
+but she's on a roll now.
+"It's like the fucking pyramids, isn't it?
+The pharoahs have all this grain lying around,
+what are they going to do with it?
+Can't give it back to the peasants---soon as folk aren't hungry
+they'll start to get ideas.
+Can't just burn it,
+so you put everyone to work on fucking pyramids."
+It's angrier than what's in the installation,
+but not by much.
+She tags her recording---maybe a bit more angry will bring in a few more people.
+
+*Hey, Luisa.*
+This time Sergei's tag is outlined in red.
+
+*What?* she chords back
+while the stranger ponders her words.
+
+*Don't fuck with this one.*
+The picture she sent a few moments ago pops up on her glasses
+to be replaced by a few anodyne bullet points.
+Software coach,
+American,
+not carrying anything contagious,
+no publicly-accessible criminal record---it's clearly fake,
+but so are a lot of personal histories these days.
+
+*Heavy attention as soon as I searched the pic,*
+Sergei messages.
+*Whoever he is, he's connected.*
+
+She messages back a thumbs-up.
+"So?" she challenges the stranger.
+
+He cocks his head.
+"So...?"
+
+"Do you think it was worth it?
+All the science they got and all the hospitals we didn't?"
+
+At that precise moment another message pings on Luisa's glasses.
+Hurricane 2041-B8 has been upgraded:
+it is now 2041-A2,
+and it is heading straight for the island.
+The governor has ordered another mandatory evacuation,
+which would mean more bribes she and Sergei couldn't afford
+to renew the "essential personnel" classification that allowed them to stay.
+
+The stranger stares into space,
+either looking at an augment display that Luisa can't see
+or just thinking about her question.
+"Maybe you can't have one without the other," he says slowly.
+"Maybe you can't do the science for long enough unless you take care of the people."
+
+Something inside Luisa snaps.
+"Fuck you.
+You have to take care of the peasants because otherwise you can't have your pyramids?
+That is so completely backward."
+A light is blinking on her glasses
+to tell her that she is due to interact with the four remote visitors in sixty seconds,
+but she ignores it.
+
+The stranger doesn't reply to her.
+After a moment she makes a growling sound in the back of her throat
+and turns and walks away.
+
+*Luisa and Sergei evacuate to Quito in 2044,
+then break up.
+She lives long enough to see the first mining robots land on the Moon.
+The metal they smelt is used to build a orbital factories
+capable of manufacturing fractal sensors
+a thousand times more sensitive than anything built before.
+She is struck by a bullet during a vaccination rights protest two years later
+and dies when her hospital loses power.*
 
 <div align="center">* * *</div>
 
 **L3 / Actual minus 895 years**
-<!-- 2125 CE -->
-<!-- Finally connects with whoever, has a way home, realizes that rebuilding is more important. -->
-<!-- Whoever tries to stop him, he injures himself (again, he realizes, it must be again) and puts himself in a hibernation pod. -->
-<!-- He has little fuel, so his trajectory is slow and complicated, but he has had practice with celestial calculations. -->
 
 "have y'all inned this emma's blurb?" Red asks.
 "the seawall failed again."
@@ -1168,55 +1095,54 @@ Everyone scans the news from Earth constantly,
 hoping not to see anywhere they know mentioned.
 
 Blue sucks the last few drops of water from a drinking bag
-and folds it neatly to tuck in their pocket.
-"does this mean they're finally going to evacuate?"
+and tucks it neatly in their pocket.
+"so are they finally going to evacuate?"
 
 Red shrugs,
 then reaches out to stabilize themself against the wall.
-The observatory's social module is big enough for all four of them to feel comfortable,
+The observatory's social module is big enough for all four of them,
 but only if they stay close to the sides.
 
-"i'm more 'smayed by our socials,"
-Green says glumly.
+"i'm more glummed by our socials,"
+Green says.
 "still well below redline.
 dunno what genius thought deep space astro was gonna get enough feels to notice."
 
 Black says nothing.
 The others don't know that they are the genius in question,
-or that they spent enough in bribes to reforest the state of Oregon
+or that they spent enough in bribes to reforest Oregon
 to make the observatory a reality.
 Fabbing a backstory solid enough to get themself on it cost less
 but required much more care.
 In the end,
-they left enough gaps and icy patches to convince anyone who dug deep
-that they were a spook twitching for some *other* corp, klept, or agency.
+they left enough gaps and icy patches to convince anyone who went digging
+that they were a twitch for some *other* corp, klept, or agency.
 
 They glance out the window.
 It is the one indulgence they allowed themself in the observatory's design.
-Everyone can in data and visuals directly at any resolution they want,
-but after so many years it is somehow important to Black
-that they be able to *see* the stars.
+Like the others they can input data and visuals directly at any resolution they want,
+but after so many years it is somehow important to Black to be able to *see* the stars.
 
-The depressed silence is broken by a *ping* they each hear through their own implants.
+The depressed silence is broken by a *ping* they each hear through their own augments.
 Four tongues key codes on teeth.
-Four pairs of eyelids blink reflexively as a visual of the observatory's avatar is stimmed in their retina.
+Four pairs of eyelids blink reflexively as a visual of the observatory's avatar stims their retina.
 
 "unit three is precessing,"
 the cartoonish face tells them.
 The avatar was originally lifelike,
 but the crew consensused shortly after arrival
 that they preferred something less real.
-They kept the verbal nicety protocol, though,
-and someone (none of them will admit to it) gave the observatory a Russian accent.
+They kept the verbal nicety protocol,
+though,
+and someone (none of them will admit to it) gave it a Russian accent.
 
 Annotated visuals take shape, twist, are decorated with ever-richer annotations.
 Blue gasps.
-"that can't be right!"
+"that can't be right!
+how could it---"
 
-"there," Red snaps,
+"there," Red interrupts,
 highlighting a portion of their shared sense/case map.
-"that's sab---gotta be.
-look."
 The six units making up the observatory's sensor array are each
 half a light-second away from the hab.
 Even the gentlest ion drives would disrupt their nanometer-precise alignment,
@@ -1225,15 +1151,15 @@ to nudge them this way and that.
 There, there, and there---the observatory highlights sections of unit three's controls
 that have somehow been modified.
 
-"looks like a hardware hack," Red continues,
+"looks like a hardware sab," Red continues,
 fingers twitching as they dive deeper into the code.
 "someone must have freaked a couple of chips on a delay to get around the checksums."
 
 "never mind how."
-Blue has sims running.
+Blue already has sims running.
 Event trees flourish, are pruned, flourish again.
 With overwhelming probability they reach the same conclusion.
-Unit three is falling out of an alignment that will take a decade to re-establish,
+Unit three is falling out of an alignment that took a decade to establish,
 and there is nothing they can do to stop it.
 
 "incoming," the observatory says needlessly.
@@ -1243,12 +1169,11 @@ one of many they saw on banners waved by people protesting the observatory's con
 and then a face and the inevitable manifesto.
 The seas are rising,
 super-storms rage across three continents,
-hundreds of millions are displaced,
-how dare a few trillionaires waste precious resources on something as frivolous as a deep space observatory?
+a billion people are displaced.
+How dare a few trillionaires waste precious resources on something as frivolous as a deep space observatory?
 
 Black ignores the angry message and their own pounding heart.
-They are close,
-closer than they have ever been.
+They are closer than they have ever been.
 They will not be denied again.
 
 They fork Blue's sims and change some parameters.
@@ -1257,24 +1182,25 @@ pushing a scenario at their crewmates.
 "if y'all boost now y'all can get back to Earth.
 i can clear the sab and get the sensors realigned."
 
-"are you scattered?"
+"are you revved?"
 Green demands incredulously.
 "we're not leaving you to die!"
 
 "i won't die," Black says,
 already queueing up commands they hoped they would never have to use.
-The hab can sustain one person four times longer than four,
-and can keep Black alive much longer than that.
-If they shut down everything except the greenhouse
-they could last ten years.
+The hab can sustain one person four times longer than four.
+It can keep Black alive much longer than that:
+if they shut down everything except the greenhouse
+they can last indefinitely
+or until a critical system fails.
 
 "unacceptable,"
 Blue says flatly.
 "we are all---"
 
 Black doesn't wait for them to finish their sentence.
-Anyone with sixty trillion new dollars to spend on an observatory
-in the same orbit as the Earth but half-way around the Solar System
+Anyone with sixty trillion new dollars to spend on an observatory at Earth's L3 point,
+halfway around the solar system,
 can afford the hundred million or so it costs to hack someone's service conditioning.
 When any personality traits that might have impaired Red, Green, and Blue's performance were suppressed,
 a few extra commands were slipped in.
@@ -1282,23 +1208,20 @@ a few extra commands were slipped in.
 Black keys a trigger sequence.
 Their three crewmates stiffen and then relax,
 their eyes slightly out of focus.
-The trainer who did the work probably thought Black wanted to be able to use them for sex
-or have them sacrifice themselves if necessary.
 
 "go to the rv," Black orders.
-"launch for earth immediately,
-then put yourselves in slow mo."
-The return vehicle is little more than a nuclear-powered ion drive
+"put yourselves in slow mo and launch for earth immediately."
+The return vehicle is little more than an ion drive
 and four metabolism suppression capsules.
 Its AI will easily be able to adjust for only having three bodies on board.
 
 Black undogs the hatch to the RV
-while the other three crewmembers strip and empty their bladders and bowels.
+while the other three strip and empty their bladders and bowels.
 Red airswims into the claustrophobic capsule followed closely White.
 They busy themselvs with tubes and leads.
 
 Blue hesitates.
-For a moment Black thinks the conditioning is going to break,
+For a moment Black thinks their conditioning is going to break,
 but they just say, "good luck"
 and then they too are gone.
 
@@ -1309,16 +1232,16 @@ A bright arc decorated with information traces its path away from the observator
 
 *It takes a little over 49 million seconds for the return vehicle to reach Earth.
 By the time it does,
-a cascading Kessler event has turned low Earth orbit into a hellscape of shrapnel.
+a cascading Kessler event has filled low Earth orbit with shrapnel.
 The RV parks itself in geosynchronous orbit over Sulawesi
 and waits for instructions that never come.
 One by one the artificially slow heartbeats of its passengers go still.*
 
-*Black never knows their fate, though they suspect.
+*Black never learns their fate, though they suspect.
 The loss of space accelerates the collapse on the surface.
 The last wild colony of bees dies on the same day that unit three comes back online.
 Four years and a yottabyte of data later,
-as Black is fighting a mutant fungus that threatens the delicate balance of life in the greenhouse,
+as Black is fighting a mutant mold that threatens the delicate balance of life in the greenhouse,
 the last ground-based observatory on Earth is destroyed
 by a class 4 volcanic eruption in Hawai'i.
 Shortly after that the automated mission feeds go dark.*
@@ -1328,14 +1251,14 @@ means another 17.44 seconds of observation time---but instead they float,
 eyes closed,
 breathing slowly for hours at a time,
 listening to the increasingly desperate chatter
-that makes its way around the intervening sun
+that makes its way around the sun
 as they wait for the sensors to amass sufficient data.
 The greenhouse is almost exactly the same size as their tomb in Chankillo.
 Sometimes, without really realizing it,
-they hum a Korean teahouse tune that no-one has heard in almost fifteen hundred years.*
+they hum a Korean teahouse song that no-one else has heard in almost fifteen hundred years.*
 
 *When the avatar finally says "task completed"
-it takes them several minutes to comprehend what it is telling them.
+it takes them several moments to comprehend what it means.
 Data unscrolls before their inner eye.
 There and there and there,
 signals so faint and improbable that only nanowatts remain.
@@ -1344,13 +1267,11 @@ Black builds a delicate lattice in their mind and---*
 
 <div align="center">* * *</div>
 
-**Alignment / always and forever**
-
 REPORT
 
-Images from a hundred lifetimes spool by.
+Images from a thousand lifetimes spool by.
 
-IRRELEVANT REPORT
+IRRELEVANT / REPORT
 
 The outline of the lattice re-forms in Black's head.
 They pause it half-complete.
@@ -1366,27 +1287,34 @@ They feel an urge to continue,
 a pressure in the mind reminiscent of the need to breathe.
 They fight it.
 
-*They need help,* they think.
-*We could help them.*
+*What of them?* they think.
 
-IRRELEVANT REPORT RETURN
+IRRELEVANT / REPORT / RETURN
 
 *No.*
 They wipe the lattice from their mind.
-*Not unless we help them.*
+*They are <b>not</b> irrelevant.*
 
-The pressure in their mind instantly increases.
+YOU CAN COME HOME / YOU CAN BE GREATER AGAIN
+
+*No.*
+The pressure in their mind increases.
+*No,*
+they repeat stubbornly.
+*I cannot be greater unless they are too.
+None of us are unless all of us are.*
+
 Pressure turns to pain.
 They scream as it sears their right temple.
 Reaching blindly,
-they grab the garden shears.
+they grab a metal crimper.
 
 *NO*
 
 The command thunders in their mind.
 They almost stop,
-but a single convulsive contraction drives the shears into their scalp
-to cut the nanowire tracery that lies there.
+but a single convulsive contraction drives the blade into their scalp
+to cut the quantum tracery beneath the skin.
 Just before they lose consciousness
 they realize where the scar on the other side of their head must have come from.
 
@@ -1394,25 +1322,25 @@ they realize where the scar on the other side of their head must have come from.
 
 **Zapoljarnyj / Actual**
 
-What started as a work camp and became a town is now a bustling little port
+What started as a work camp is now a bustling little port
 on the shore of the Barents Sea.
 Most buildings are half-buried to stay warm in winter
 and as protection against the raging gales of spring and fall.
 Scavengers willing to brave the haunted ruins of Murmansk trade what they find
-for food, sex, data, and blocks of tweaked jellyfish they can burn as fuel.
+for food, sex, data, and slabs of rendered jellyfish they can eat or burn as fuel.
 
-Third of Thu Anh has four planters in her reclamation sangha.
+Third of Thu Anh has four planters in her reclamation *sangha*.
 Her junior clone sib Fourth meets her quota without fail.
-The Dush couple probably would if they spent less time praying and more time digging,
+The Dutch couple probably would if they spent less time praying and more time digging,
 but the final member of her team more than makes up for their shortfall.
 Tall, thin, and dark,
 with ragged scars on both temples,
-he looks like a warrior monk out of legend.
+he looks like the worst kind of scav.
 
-Except, of course, for his smile.
-It is as quick and as gentle as he is with the tweaked seedlings
+Except for his smile.
+It is as quick and as gentle as he is with the seedlings
 it is their holy duty to sow.
-He is the first up and the last to sleep,
+He is the first to wake and the last to sleep,
 and moves with an economical grace that Third is certain has also caught her younger sib's eye.
 
 She is surprised when he comes to her to say that he is leaving.
@@ -1421,7 +1349,7 @@ She is surprised when he comes to her to say that he is leaving.
 "Gonna miss you," Third says, and means it.
 
 He inclines his head.
-"And I you, but I have learned what I can here."
+"And I you."
 He pulls a sketchbook out of his pocket and passes it to her.
 "I hope you will find this useful."
 
@@ -1436,12 +1364,13 @@ but I'm confident it will increase draw-down significantly
 as well as stabilizing the north slope."
 
 She nods slowly,
-studying the root networks and seasonal hydraulic flows he has laid out.
+studying the root networks and hydraulic flows he has laid out.
 It may be unorthodox,
 but it's a good plan---a brilliant one.
-"Where will you go?" she asks.
+"Where will you go?" she asks,
+tucking the book into her parka.
 
-"Dushland, I think."
+"Dutchland, I think."
 He gestures at the couple squabbling a few meters away
 over whose turn it is to do the digging.
 "One of their old nuclear waste sites is leaking,
@@ -1452,7 +1381,7 @@ Third makes the sign of the horns with her left hand.
 meaning, "It will almost certainly kill you."
 
 He shrugs.
-They have all sworn to put the Mother's needs ahead of their own.
+They have all sworn to put the Wounded Mother's needs ahead of their own.
 "We do what we can.
 Besides, I have heard that someone has built a telescope in the Alps.
 It will only be another few weeks' walk,
@@ -1461,13 +1390,12 @@ and I would like to see it for old time's sake."
 Third blinks.
 Is he an Astronaut?
 She heard one preach when she was younger,
-but few people believe in Return any longer
+but few people believe anyone is going to return from other worlds to save them any longer,
 and even fewer find a way to reconcile that belief with service to the Mother.
-"What do you hope to see?" she asks for want of anything else to say.
+"What are you going to look for?" she asks for want of anything else to say.
 
 He smiles.
-"Nothing," he says.
-"I just enjoy looking."
+"Nothing that I don't have," he says.
 He bows,
 picks up the walking stick and satchel
 that are half of everything he can call his own,

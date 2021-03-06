@@ -209,7 +209,7 @@ but it is lost in a fire many years later.
 The old woman lives another season,
 but is never able to go back up the mountain to look at the sky.
 She wonders sometimes who the stranger was
-and whether he ever found a way count the spaces between the stars.*
+and whether he ever found a way to count the spaces between the stars.*
 
 <div align="center">* * *</div>
 
@@ -520,7 +520,7 @@ but will never get used to how quietly he walks.
 He is barefoot again,
 the young astrologer notes,
 but according to his servants he has at least eaten that day.
-Her Majesty's minister insist on regular reports,
+Her Majesty's minister insists on regular reports,
 and the young astrologer would rather fill them with trivia
 than the unorthodox things the foreigner sometimes says.
 
@@ -560,7 +560,7 @@ the foreigner doesn't say, "Many of *your* lifetimes,"
 as he used to.
 
 He opens his mouth to suggest that they climb the tower,
-but is interrupted by a shout as a guard runs up the path the join them.
+but is interrupted by a shout as a guard runs up the path to join them.
 "Her Majesty..." he pants,
 speaking to the two escorts rather than to the scholars.
 "Her Majesty is gone. She is gone."
@@ -665,7 +665,7 @@ bandits,
 Turks,
 and even a company of Franks
 who somehow found themselves east of the Black Sea.
-His men have heard him bellow orders as they gallopped into battle
+His men have heard him bellow orders as they gallop into battle
 and sing in a surprisingly melodious voice,
 but they have never heard him be quite as sarcastic as this.
 
@@ -722,7 +722,7 @@ one can always hope...
 
 The observatory was a marvel in its heyday,
 but time, neglect, and decades of minor earthquakes
-have brought one wall wall down completely
+have brought one wall down completely
 and left others leaning perilously.
 The *beg* picks his way across the cracked courtyard tiles
 to a door that still hangs true in its frame.
@@ -734,7 +734,7 @@ To Batu's surprise he pauses as if unsure of himself, then knocks.
 a weary voice replies.
 
 The *beg* looks at the captain of his personal guard,
-who looks Batu,
+who looks at Batu,
 who looks at Otgon,
 who salues,
 hands the candlestick to his brother,
@@ -829,7 +829,7 @@ is the most accurate made in over a thousand years.*
 
 <div align="center">* * *</div>
 
-*Venice / Actual minus 1410 years**
+**Venice / Actual minus 1410 years**
 
 "Master, you have another visitor."
 
@@ -898,7 +898,7 @@ He bows,
 turns,
 and leaves.
 
-*By the time Galileo dies in 1642 there are several thousand refracting telescopes in the world.
+*By the time Galileo dies in 1642 there are over a thousand refracting telescopes in the world.
 Twenty-five years later, Isaac Newton builds the first reflecting telescope;
 a generation after that,
 astronomical catalogs list the positions of thousands of stars
@@ -1009,7 +1009,7 @@ so they give us this science shit instead."
 Sergei's tag pops up on her glasses,
 but she's on a roll now.
 "It's like the fucking pyramids, isn't it?
-The pharoahs have all this grain lying around,
+The pharaohs have all this grain lying around,
 what are they going to do with it?
 Can't give it back to the peasants---soon as folk aren't hungry
 they'll start to get ideas.
@@ -1076,7 +1076,7 @@ and turns and walks away.
 *Luisa and Sergei evacuate to Quito in 2044,
 then break up.
 She lives long enough to see the first mining robots land on the Moon.
-The metal they smelt is used to build a orbital factories
+The metal they smelt is used to build orbital factories
 capable of manufacturing fractal sensors
 a thousand times more sensitive than anything built before.
 She is struck by a bullet during a vaccination rights protest two years later
@@ -1218,7 +1218,7 @@ Its AI will easily be able to adjust for only having three bodies on board.
 Black undogs the hatch to the RV
 while the other three strip and empty their bladders and bowels.
 Red airswims into the claustrophobic capsule followed closely White.
-They busy themselvs with tubes and leads.
+They busy themselves with tubes and leads.
 
 Blue hesitates.
 For a moment Black thinks their conditioning is going to break,
@@ -1395,7 +1395,7 @@ and even fewer find a way to reconcile that belief with service to the Mother.
 "What are you going to look for?" she asks for want of anything else to say.
 
 He smiles.
-"Nothing that I don't have," he says.
+"Sometimes it is enough just to look."
 He bows,
 picks up the walking stick and satchel
 that are half of everything he can call his own,

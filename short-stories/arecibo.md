@@ -1494,10 +1494,10 @@ Is he an Astronaut?
 She heard one preach when she was younger,
 but few people believe anyone is going to return from other worlds to save them any longer,
 and even fewer find a way to reconcile that belief with service to the Mother.
-"What are you going to look for?" she asks for want of anything else to say.
+"Well, I hope you find what you're looking for," she says.
 
 He smiles.
-"Sometimes it is enough just to look."
+"I already have."
 He bows,
 picks up the walking stick and satchel
 that are half of everything he can call his own,

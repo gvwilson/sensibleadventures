@@ -829,7 +829,52 @@ is the most accurate made in over a thousand years.*
 
 <div align="center">* * *</div>
 
+**Uraniborg / Actual minus 1423 years**
+<!-- 1597 CE -->
+
+"I don't care if he's the bloody king!"
+the astrologer rages.
+"I am *not* just going to, to---"
+
+"You are going to do what your king orders you to do, doctor."
+The courier has spent the entire day on horseback,
+sailing against the wind across the Øresund,
+and on horseback again.
+It has been worth it just to see the look on this pompous fraud's face.
+
+For a moment he thinks Tycho Brahe is going to explode again.
+Instead,
+the portly star-gazer whirls around.
+"Get my trunk," he orders his valet,
+a tall African who has been his shadow since he first arrived at court.
+
+The valet bows and withdraws,
+making no more noise than a cat.
+"Where precisely do you intend to go?"
+the courtier asks politely,
+relishing the color in Brahe's cheeks.
+
+"Prague," he replies shortly
+as he pulls books from his shelves and piles them on the library's single sturdy table.
+"Rudolph understands these things."
+He glares at the courtier,
+the last light of day reflecting off his gold-plated prosthetic nose.
+"Where is that damn trunk?"
+
+But the valet has disappeared.
+The courtier considers this a perfect coda to the day's events
+until he arrives at the Kyrkbacken dock the next morning
+to discover that the boat that was supposed to carry him back to Copenhagen
+has been stolen.
+
+*Brahe dies still believing that the Earth is the center of the universe,
+but his assistant Johannes Kepler uses Brahe's observations
+to develop the three laws of planetary motion.*
+
+<div align="center">* * *</div>
+
 **Venice / Actual minus 1410 years**
+<!-- 1610 CE -->
 
 "Master, you have another visitor."
 
@@ -906,7 +951,62 @@ that are invisible to the naked eye.*
 
 <div align="center">* * *</div>
 
+**Mount Wilson / Actual minus 1099 years**
+<!-- 1921 CE -->
+
+The watchman draws a line across his log book
+and passes it to the astronomer to be initialed.
+"And there was a---a *person* here to see you earlier, sir."
+
+"Oh? What kind of person?"
+the astronomer asks,
+checking his watch.
+Twenty-eight minutes until sundown,
+another hour after that until they could start taking photographs,
+and the sky was still clear.
+
+The watchman looks uncomfortable.
+"A Negro, sir."
+Well dressed.
+Might have been a veteran, sir.
+Had quite the scar."
+He brushes his fingers across his scalp.
+
+Edwin Hubble purses his lips.
+"Whatever did he want?"
+
+The watchman clears his throat.
+Simms, Hubble thinks, his name is Simms, he saw action in France.
+"He wanted to look at your pictures, sir."
+
+Hubble blinks.
+"Not through the telescope?"
+The newly-completed Hooker Telescope has been something of a magnet for sightseers
+from Pasadena or Los Angeles.
+
+"No sir," Simms says stolidly.
+
+"Oh."
+Hubble checks his watch again.
+"Well, I don't know any Negroes, and I don't know any who are astronomers."
+
+"Yes sir, that's what I told him.
+He seemed quite disappointed."
+
+Hubble shrugs,
+the incident already forgotten,
+and hurries up the stairs.
+He has a universe to discover.
+
+*Three years later,
+Hubble's observations of variable stars prove that there are galaxies outside the Milky Way.
+It is another 31 years before Harvey Washington Banks becomes the first African American
+to receive a PhD in astronomy.*
+
+<div align="center">* * *</div>
+
 **Arecibo / Actual minus 979 years**
+<!-- 2041 CE -->
 
 "The Arecibo Radio Observatory was completed in 1963.
 It was 305 meters in diameter and made out of 38,778 perforated aluminum panels.
@@ -1085,6 +1185,7 @@ and dies when her hospital loses power.*
 <div align="center">* * *</div>
 
 **L3 / Actual minus 895 years**
+<!-- 2125 CE -->
 
 "have y'all inned this emma's blurb?" Red asks.
 "the seawall failed again."
@@ -1321,6 +1422,7 @@ they realize where the scar on the other side of their head must have come from.
 <div align="center">* * *</div>
 
 **Zapoljarnyj / Actual**
+<!-- 3020 CE -->
 
 What started as a work camp is now a bustling little port
 on the shore of the Barents Sea.

@@ -1,0 +1,20 @@
+
+Loc 242/1406
+
+There was a place in the schoolyard where generations...
+
+-I just happened to be right beneath the staff room window 
++It just happened to be right beneath the staff room window 
+
+Loc 387/1406
+
+She walked through one lonely street after another...
+
+-but he fog had grown thicker again
++but the fog had grown thicker again
+
+Not sure about this last one, I think the grammar is correct but it still rang a little untrue in my head:
+
+
+Loc 617/1406
+By the time she was finisher her mid-day cup of oil, roller skaters had already..

@@ -2086,8 +2086,7 @@ He stabbed another piece of mushroom.
 
 Iffy ate in silence, head down.
 The safest thing to do when Uncle Jack got a money-making idea
-was to wait for it to pass---pointing out
-the holes in his plan
+was to wait for it to pass---pointing out the holes in his plan
 was the surest way to make him actually do it,
 just to prove that no one could tell *him* which way was up.
 And while she still knew next to nothing about their passenger,
@@ -2384,7 +2383,7 @@ She's military for sure."
 
 Uncle Jack horked and spat into the garbage pail by his feet.
 "Don't mean she ain't a pirate.
-Naggie! Where's my shaddin' tea?"
+Naggie! Where's my shadding tea?"
 
 Iffy stepped out of the doorway to let her foster mother squeeze past her
 and hand a thermos to her husband.
@@ -2759,8 +2758,8 @@ Graphs flashed onto the screen,
 probability surfaces dancing in three dimensions
 as the *Guinevere*'s core tried to predict what would happen next.
 
-"Uh oh," Wales said softly.
-A section of the sea ridge had started sliding slowly into the depths.
+"Uh oh," Wales said softly
+as a section of the sea ridge started sliding slowly into the depths.
 Blue lightning flashed along the edges of the mudslide,
 bright lines connecting and spreading in a sudden spiderweb fracture.
 
@@ -2846,7 +2845,7 @@ I need to get another drone up there."
 
 "No you don't," Uncle Jack said flatly, pointing out the window.
 
-A kilometer, a ship had appeared out of nowhere,
+A ship had appeared out of nowhere,
 its camo briefly disrupted by the missiles it had launched.
 Where the *Taroona* and the *Guinevere* were metal,
 the newcomer was made of tweaked bamboo.
@@ -3083,9 +3082,9 @@ that damage was done too.
 
 When the wind shifted,
 the city's smell hit Iffy like a wet hammer.
-Rothera didn't just have coal mines---its dredging fleet
-was ten times the size of Halley's.
-The reek of tonnes of jellyfish being rendered down for fuel and fertilizer
+Rothera didn't just have coal mines---it had a dredging fleet too,
+and rendering plants to process what they brought in.
+The reek of tonnes of jellyfish being turned into fuel and fertilizer
 was like being hit hard with a pillow.
 Wales wrinkled his nose in disgust,
 but Iffy took a deep breath,
@@ -3137,7 +3136,9 @@ Despite the weight of his exoskeleton,
 his boots made no more sound hitting the deck than a seagull flapping its wings.
 
 Uncle Jack strode onto the deck and put his hands on his hips.
-"Well," he said to no one in particular.
+"Well," he said to no one in particular,
+standing a little straighter than usual
+in a bright orange suit jacket that had fit him well when he was twenty years younger.
 "Let's get this over with."
 With one final glare at Wales
 he let the gangplank thud onto the pier
@@ -3215,7 +3216,7 @@ Doctor Johel said,
 a hint of steel in her voice.
 "Now, if you'll come this way?"
 She turned toward shore.
-The armored bot pivoted smoothly and almost silently on its heavy treads
+The armored bot pivoted smoothly on its heavy treads
 and lowered one of its arms.
 The elderly doctor sat on it as if were a park bench---as if
 being carried gently along a pier by a century-old war machine
@@ -3235,9 +3236,8 @@ Two dozen people stood waiting at the base of the pier
 under the watchful eyes of yet another squad of Marines.
 Iffy recognized some of them
 as crew from the ships tied up on either side of the *Guinevere*.
-Iffy's cheeks burned under their curious, resentful stares.
-One or two nodded to them
-but no one said hello.
+Iffy's cheeks burned under their curious stares.
+Some nodded but no one said hello.
 
 They followed Doctor Johel and the G-80 to the harbor gate,
 where a bus the same navy blue as the Marines' uniforms waited for them.
@@ -3303,17 +3303,17 @@ turning in her seat so that she was fully facing Iffy.
 There's still a lot of technology left over from the machine wars
 that we don't understand,
 and it's my department's job to secure it.
-Or destroy it," she continued,
+Or render it harmless," she added,
 raising her wispy eyebrows at Wales.
 He smiled as if Doctor Johel had paid him a compliment.
 
 A wrought iron fence surrounded the governor's mansion.
 Sleek robotic sentries paced back and forth behind it,
 their blunt conical heads swivelling to track the approaching vehicles.
-
 The G-80 pulled to the side to let the bus go through its single gate,
 but the Marines stayed beside them all the way to
 the turnaround in front of the mansion's main doors.
+
 A triangular diamond wedge glistened in the center of the gravel circle,
 familiar to Iffy from dozens of pictures.
 "In memory" was engraved on each of its faces.
@@ -3372,7 +3372,7 @@ She stepped to the side and beckoned them through.
 he whispered back.
 
 The windowless office Doctor Johel showed them into
-was not much smaller than the room they had been waiting in.
+was the same size as the room they had been waiting in.
 Framed photographs on the walls traced the history of Rothera
 from its early days as a research station
 through the opening of the mines
@@ -3401,8 +3401,7 @@ his face exactly like the picture that hung in the Sandhu's grocery store.
 
 "As you were," Governor Stern said pleasantly,
 waving Uncle Jack and Aunt Naggie back into their seats as they started to rise.
-He nodded at Doctor Johel,
-sat somewhat stiffly behind his desk.
+He nodded at Doctor Johel and sat somewhat stiffly behind his desk.
 "Thank you for coming.
 I trust your trip here from the docks was less eventful
 than your encounter with our Brazilian friends?"
@@ -3433,7 +3432,8 @@ He raised his hands.
 "It's not mine!" he protested.
 "It's not mine!"
 
-Half a dozen teenage Marines poured through the door behind them.
+The door burst open.
+Half a dozen Marines poured into the room.
 "Sir, it's the G-80," the one in front said,
 urgent but calm as his conditioning took control.
 "It---"
@@ -3601,14 +3601,11 @@ He opened the toolbox and began pulling parts out.
 "What the hell are you doing? Sir?"
 the Marine demanded incredulously.
 
-"Start where you are," Wales muttered.
-"Start where you are,
-use what you have,
-help who you can."
+"Saving us," Wales muttered.
 Two skeletal legs,
 a wheel of nested gears only slightly smaller than Iffy's hand,
 a fold-up box to hold it all together---all of a sudden
-Iffy could in her head how they had to fit together.
+Iffy could see in her head how they had to fit together.
 
 "Lemme do that," she said
 as Wales's shaking hands dropped a thumb-sized cylinder on the floor.
@@ -3821,7 +3818,7 @@ He tapped the tech in his temple.
 It doesn't get along with my upgrades as well as I'd like.
 If I don't re-set every few years,
 my nervous system starts to shut down.
-I used to be able to get it fixed in New Cairo,
+I used to be able to get it fixed in Newfoundland,
 but since the civil war re-started..."
 He shrugged.
 "As far as I know,
@@ -3981,17 +3978,16 @@ built according no plan that any human being could understand.*
 *People sought answers.
 A cyborg child raised in a supposedly secure underground lab
 patiently told his frightened captors that they wouldn't find any they could understand.
-The most highly evolved machines didn't actually think any more.
+The most advanced machines didn't actually think any more.
 "It's more like evolution,"
 he said patiently.
 "Or vacuum birefringence."
-Then he and his siblings vanished into the Iowa Desert,
+Then he and his siblings vanished into the Iowa desert,
 leaving their creators no wiser than before.*
 
 *Years passed,
 and the truce with the machines slowly became normal.
-Flying was a thing of the past---anything bigger than a person
-or faster than a seagull
+Flying was a thing of the past---anything heavier or faster than a seagull
 was only safe from satellites if it was heavily armored,
 and even then not always---and
 the machines' cities were strictly off limits,
@@ -4053,7 +4049,7 @@ telling herself that if she was lucky,
 someone in the market would have mending work she could do for a few rand
 while Aunt Naggie haggled over onions, noodles, and soy.
 
-After dragging a buzzer over her scalp-cropped hair
+After dragging a razor over her scalp
 and watching sternly while Iffy,
 under protest,
 did the same,
@@ -4123,7 +4119,7 @@ struggled into a coat that was still a size too small for him.
 "I'll be fine," Aunt Naggie said.
 
 Ten minutes later Iffy turned the corner onto Rocking Horse Street
-and hurried toward the stubby never-finished canal
+and hurried toward the stubby dead-end canal
 that Rothera's mechanics used as a repair yard.
 A sleek Marine cutter was tied up on one side
 while crab-like bots scrambled over its hull
@@ -4270,7 +4266,7 @@ Honesty pouted. "I's gonna!"
 "Sorry," her First said unapologetically.
 Her Second looked up from her workbench long enough to grin.
 A pair of magnifying glasses made her eyes look cartoon-huge
-in a face that showed how beautiful Honesty's would be in the years to come.
+in a face that showed how Honesty's would look in years to come.
 
 "What bad news?" Iffy asked.
 
@@ -4298,7 +4294,7 @@ What would it do to her friend?
 "Seems like I don't know nothin' these days."
 
 "Now that ain't true," Honesty's First said.
-Her face and smile were more practiced versions of her grand-younger's.
+Her face and smile were worn-in versions of her grand-younger's.
 Where Honesty had temporary tattoos,
 her First had whorling blue lines
 that turned the scars left by some long-ago accident into rough art.
@@ -4322,8 +4318,7 @@ as shapes and clues came together in her head
 to form an answer it was impossible for her to know.
 "Prolly hooks up to a centrifuge or somethin' for filterin' blood durin' surgery."
 
-"'Zat so?" Honesty's First said, impressed.
-She caught the part when Iffy threw it back to her
+"'Zat so?" Honesty's First caught the part when Iffy threw it back to her
 and passed it to her Second,
 who studied it for a moment,
 shrugged as if to say,
@@ -4360,7 +4355,7 @@ when she learned that her friend had relayed what she'd said to her First and Se
 "We don't keep secrets on achother," Honesty had said with a shrug.
 "Y'ain't aright along that, best we part ways now."
 So Iffy had forgiven her,
-secretly relieved that her best and only friend didn't seem to care that she was different.
+secretly relieved that she didn't seem to care that Iffy was different.
 
 When Iffy handed back the box of dronelets,
 Honesty's First waved her away.
@@ -4395,7 +4390,7 @@ As usual,
 Honesty did most of the talking.
 Induction wouldn't be so bad---the Marines needed people with tech skills
 the same as everyone else,
-so they'd prolly put her to work along by that.
+so they'd prolly put her to work doing that.
 She knew tons more about salvage and repair than any crufty old core,
 and what she didn't know,
 she could ask uppa her First and Second or Iffy,
@@ -4437,7 +4432,7 @@ told stories to a circle of wide-eyed children,
 their parents happy to spend a pence apiece for a few moments of rest.
 Its cut-out paper puppets danced
 as Zuko proclaimed his love for Princess Leia
-while his boyfriend Aang struggled to free Elsa from the Terminator.
+while his boyfriend Aang raced to free Elsa from the Terminator.
 Two bald women who might have been twins but were probably just clones
 wheeled a cartful of blankets woven from tweaked moss
 past two men arguing beside another cart piled high with curved sheets of diamond
@@ -4445,7 +4440,7 @@ that cast crisp rainbows on the ground.
 The smell of soy being fried in ginger mixed with
 the wet steamy warmth from rice cookers,
 the salty tang of seaweed soup,
-and the heavy mug of people who washed when they could afford the fresh water.
+and the heavy mug of people who spent most of their lives wrapped in warm clothing.
 
 Iffy paused in front of a stall selling rats with startling blue eyes.
 "They make great pets. Or snacks!" the man said,
@@ -4496,8 +4491,8 @@ She *couldn't* have seen what she thought she just saw.
 She shook her head and peeked around the carpet's edge.
 
 There, just a couple of meters away, stood Aunt Naggie
-and a trim Asian man in time-worn brown and gray jacket
-of the old Ecological Corps.
+and a trim Asian man wearing a time-worn jacket
+the brown and gray of the old Ecological Corps.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
 but from the way they were looking into each others' eyes
 she was pretty sure they weren't discussing topsoil formation.
@@ -4543,9 +4538,9 @@ Someone shouted,
 Other voices took up the cry.
 "Show us yer warrant!"
 
-*Great,* Iffy thought wearily, *Another affin' dock fight.*
+*Great,* Iffy thought despairingly, *Another affin' dock fight.*
 She pulled aside the carpet she had been hiding behind
-and ran to her foster mother.
+and plowed straight into her foster mother.
 
 "Iffy?" Aunt Naggie gasped. "What're you doin' here?"
 
@@ -4566,20 +4561,28 @@ But the ecologist smiled.
 "Iffy, you ain't supposed t' be here!" Aunt Naggie said helplessly.
 "You're supposed to be down along th' docks with your friend!"
 
-"I was," Iffy said defensively.
-"What's goin' on?"
+"I was," Iffy protested.
+
+"Citizens!" the drone bellowed.
+"A warrant is being procured.
+Remain in your present positions!
+Desist from vandalism!
+And whether you're having a late breakfast or an early lunch,
+put some Volkov's on it!"
+
+Something fell over with a crash.
+"What's goin' on?" Iffy asked.
 
 The ecologist put his hand on Aunt Naggie's arm.
 "You have to go, Nagatha.
 Now."
 
-Aunt Naggie set her jaw.
-"No."
-She took the ecologist's hand in hers.
-"They could be lookin' fer you.
+Aunt Naggie took the ecologist's hand in hers.
+"It ain't me they'll be lookin' for.
 You gotta be somewhere else than here."
 
-"Stubborn woman," he muttered under his breath.
+"Stubborn woman," the ecologist said,
+but he smiled as he said it.
 He pulled a flimsy oval of plastic out of his pocket
 and pressed it onto his face.
 The plastic flickered.
@@ -4596,8 +4599,6 @@ He put it back on and smiled at Aunt Naggie.
 glancing fearfully toward the entrance
 as the chants of "Warrant! Warrant! Warrant!" grew louder and angrier.
 
-Something crashed---a stall toppling over
-or a bot being knocked off its feet.
 "Citizens!
 Remain calm!
 We are operating with full legal authority!
@@ -4608,7 +4609,7 @@ because good food hurts!"
 Another crash from the entrance
 was followed by the sizzle and crack of a shock stick.
 The ecologist swore.
-"Go along by Rowlin' Stritt," he ordered,
+"Go along by Rowlin' Street," he ordered,
 his voice deeper and his accent thickening.
 "Doan' be run, but doan' be stoppin'."
 

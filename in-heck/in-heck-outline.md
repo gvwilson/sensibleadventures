@@ -7,12 +7,14 @@ permalink: /in-heck/
 ## To Do
 
 - Fix first story so that the thing in the swamp comes together out of snake-like parts
+- cryonades (freezing grenades)
 
 ## Characters
 
 - Madica (Maddy) Roo: a 13-year-old kangaroo (protagonist)
 - Sindy Roo: Madica's 10-year-old sister, and a luck shaper
   - Being trained in secret by Shaper Leaf
+  - Cannot control her power yet: goes wrong as often as it goes right
 - Mama Roo: their mother
   - The postmistress, schoolteacher, and portrait painter of Rusty Bridge
 - Papa Roo: their father
@@ -31,7 +33,7 @@ permalink: /in-heck/
   - Leads a group of Prosecutors to Rusty Bridge after the first attack
   - Scornful of Shaper Leaf's decision to lead a quiet life
 - Mouse: a small maintenance bot from Patient's lair
-  - Turns out to be part of the Gears
+  - Taken over by the Gears
 - The Gears
   - A swarm bot that claims to live in the cracks and crevices of Heck
   - Turns out to be part of Central
@@ -40,6 +42,8 @@ permalink: /in-heck/
 - ARM 47: an Autonomous Robotic Manipulator
   - Central's minions and prison guards
 - ARM 15: smaller Central-controlled bot
+- Patient in Darkness: the villain from the first book
+  - Winds up taking over Central
 
 ## Ideas
 
@@ -52,7 +56,7 @@ permalink: /in-heck/
 - Explains that it saw Papa Roo working some ancient machines
   - "Some will only work for the living, and not even for all of them"
   - Find out later that there are genetic markers that only a few breathers have
-- Story ends with a message from deep space that the Makers are returning and with Lasercase rising from the Mire
+- Story ends with Patient taking over Central as a message arrives from deep space that the Makers are returning
 - Rusty Bridge "breathers" fear their new bot neighbors
   - Set up near the charging pillar a few minutes outside of town
   - Helping with farmwork and fixing the road
@@ -85,9 +89,6 @@ permalink: /in-heck/
 - Shaper Leaf sacrifices himself in the end to destroy Central
   - tells Sindy it's good luck not bad: "always wanted... to be useful..."
 - the Makers' enormous ship enters orbit at the end
-- which is a signal for Lasercase to emerge from the Mire
-  - it has become a vessel for the Gears, which turns out to be the real villain
-- The Gears needs Sindy's luck shaping to defeat Central
 
 ## Plot
 
@@ -95,24 +96,24 @@ permalink: /in-heck/
   - Open with arrival in town of the mailbot Eighty-Eight Able-Six
     - One of the bots that came with Dockety, now doing package deliveries between towns
     - Gets all of the characters into the central square for background setting
-  - Bluster and Bravo are caught trying to steal weapons from the bots who now live in Rusty Bridge
+  - Bots arrive with Bluster and Bravo, who were caught trying to steal weapons from the bots who now live in Rusty Bridge
+    - People are uncomfortable seeing anyone held/caged by the bots (too many bad memories of raids)
   - Loud confrontation sets up:
-    - the uneasy cohabitation
-    - Sindy's secret lessons
+    - the uneasy cohabitation ("You know they call us 'breathers'?" "Well, we call them worse.")
+    - Sindy's secret lessons (she and Shaper Leaf arrive together - cover story is that she's helping him with his books because his eyes are failing)
     - the awkwardness between Maddy and Gumption (Mama Roo's gentle teasing does *not* go over well)
     - Maddy's helplessness believing that her father is alive but nobody being willing to try to save him
-  - See Mouse briefly ("Look, you saved *it*")
-  - Ends with the arrival of the Prosecutors
+    - See Mouse briefly (Gumption says, "Look, you saved *it*")
+  - Mayor Lupus shakes her head: anything involving weapons is a matter for the Prosecutors
 
 - Episode 2: The Prosecutors
-  - Shaper Blazes and her motley crew arrive
+  - Tell this one from Gumption's point of view
+  - Shaper Blazes and her motley crew
     - A bot named Mule carrying them and all their gear
-  - Mayor Lupus apologizes, but anything involving weapons is a matter for the Prosecutors
-    - is deferential without cringing
+  - Mayor Lupus is deferential without cringing
   - Shaper Leaf's response is cool
     - tries to keep Sindy away from them
     - foreshadows later revelation that he was once one of the most feared Prosecutors in the territory
-  - Bluster and Bravo are frightened but almost immediately start talking about how *they* are going to become Prosecutors
   - a short "trial" leads to the weapons being confiscated over Dockety's objections
     - Dockety: "Patient will return. We will defend ourselves. And you."
     - Shaper Blazes: "I figure townsfolk'll defend their homes, don't you worry."
@@ -125,10 +126,10 @@ permalink: /in-heck/
   - After Sindy is in bed, Mama Roo teases Maddy gently about Gumption
     - "Been doing a lot of reading, you two"
     - Maddy (trying to change the subject) "Most goats aren't really readers"
-    - Mama Roo: "Don't forget he's only half goat---his daddy's a sheep."
+    - Mama Roo: "Well, he's only half goat---his daddy's a sheep. Not that that means anything," she adds hastily.
     - continues: "It ain't common, different kinds getting together, but there's nothing wrong with it."
   - Mouse wakes Maddy in the middle of the night
-    - Nudges her until she follows outside
+    - Nudges her until she follows it outside
   - Half a dozen others like it creep out into the moonlight and speak collectively
     - "We have news of your Papa"
     - Explains who the Gears is and claims they have tracked down Papa Roo as a thank-you
@@ -140,11 +141,12 @@ permalink: /in-heck/
     - "Not alone"
   - "I gotta tell---"
     - "No!" (agitated) "The striped one is not a friend. She will stop you. She will do bad things."
-    - "But Central moves the prisoners from station to station. Your father is on the outskirts of Heck now, but only for a while."
+    - "Central moves the prisoners from station to station. Your father is on the outskirts of Heck now, but only for a while."
   - Gives her a widget
     - "This will hide you from Central, at least for a while."
 
 - Episode 4: A Little Bit of Luck
+  - Tell this one from Gumption's point of view
   - Maddy talks to Gumption the next day about what the Gears said
     - Shows him the widget
     - See the awkward not-yet-romance between them
@@ -155,36 +157,40 @@ permalink: /in-heck/
     - Gumption: "I know you will, and---and I hope you know that whatever it is, I'll---you know, whatever."
   - Sindy overhears them (has followed them): "What are you talking about?"
     - Maddy: "None of your business! What are you doing here anyway? Don't you have a lesson?"
-    - Sindy: "Shaper Leaf isn't feeling well again."
+    - Sindy: "Shaper Leaf isn't feeling well again. For real, not just pretend." (His illness is cover for lessons.)
   - The three of them go to school
     - Teacher is a horse named Winnie
   - Shaper Blazes is there to give a lesson
     - Does a practice fight in the yard with her bot partner
     - Uses her fire shaping
     - She wins (bot says, "I always lose. It's my job.")
-    - Bluster and Bravo are star-struck
+    - Bluster and Bravo are star-struck: start talking about how *they* are going to become Prosecutors
     - Shaper Blazes makes it clear that being smart as well as brave is important
     - Maddy suddenly realizes he's talking to *her*
+    - So do Bluster and Bravo (they're not impressed)
   - Shaper Blazes asks her to stay behind at recess
     - Asks questions about her adventure
     - She realizes he's suspicious of Dockety
     - When she calls him on it, he reminds her of the bot in his crew
+    - "I would trust that bot with my life. I have done, many times."
+    - *Doesn't mean anything about how you treat other bots,* Maddy thinks but doesn't say
   - Maddy goes out in the yard
     - Sits and draws to calm herself
   - Sindy rushes over
     - She was playing hide and seek and was hiding behind a barrel and she heard Shaper Blazes talking to his crew
     - What they found in Patient's base has them worried
     - They're planning a reconnaissance raid on Heck
-    - "Maddy --- it's my luck! We can rescue Papa!"
+    - "Maddy---it's my luck! We can rescue Papa!"
     - Shaper Leaf (steps out from behind a tree): "Then it must be your luck that *I* have overheard *you*."
 
 - Episode 5: Loyalties
   - Sindy believes everything that happens is because of her luck shaping
-    - Conversation ends with Sindy in tears
     - Shaper Leaf gently tries to convince her that the world is still full of coincidences
     - And that luck shaping isn't guaranteed to be good or bad without a lot of training: it just makes unlikely things happen
     - "Too many shapers come to believe that the world revolves around their ability."
     - "It is far too dangerous for you to go. It is far too dangerous for them too."
+    - Conversation ends with Sindy in tears
+    - Shaper Leaf (sadly) "She still blames herself."
   - Maddy goes to see Dockety
     - See the shanty town the bots are building
     - Uses a brush to clean muck out of Crusher's gears (like scratching a dog's ears)
@@ -192,7 +198,9 @@ permalink: /in-heck/
   - Maddy explains what Sindy overheard
     - Dockety: "Shaper Leaf is correct. Central remembers centuries. It is very cunning."
   - Maddy then talks about her encounter with the Gears and shows it the widget
-    - Dockety becomes agitated: "It plays tricks. It cannot be trusted."
+    - Dockety is skeptical: "You do not know if it is a good bot or a bad one. It cannot be trusted."
+    - Maddy: "You sound like Shaper Blazes."
+    - More argument
     - Maddy: "But Dockety---it's my papa. What wouldn't you do for Crusher?"
   - Shaper Blazes shows up (we learn that the bots have an early warning system)
     - Recruiting for the raid
@@ -202,25 +210,29 @@ permalink: /in-heck/
     - "This may help blind Central for a while, but only if we can get it to a terminal."
     - Shaper Blazes: "What else are you holding back?"
     - Dockety: "What are you?"
-    - Stops Shaper Blazes as she goes to leave with the widget: "That is not yours."
+    - Dockety stops Shaper Blazes as she goes to leave with the widget: "That is not yours."
     - Shaper Blazes: "I need it."
     - Dockety: "I will bring it."
+    - No one can stare down a bot, not even a cat
   - After Shaper Blazes leaves, the bots commune
     - Dockety: "We have to help. If we do not and she fails, we will be blamed."
-    - Dockety: "It is a shame we will not have your sister with us. Her luck would be a great asset."
-    - Maddy (deep breath): "About that..."
+    - Maddy (lame joke): "So what's it like being in charge?"
+    - Dockety: "It would be easier if I was like Patient and didn't care what happened to them."
 
 - Episode 6: All Together
   - Whirlwind of preparation
     - Food, fully-charged batteries, bandages, weapons
-    - The Prosecutors' sharpshooter, a melancholy rabbit named Thoughtful, rewrote his colleagues' letters
-    - Winnie the teacher remarks acidly that it's the first time the Goat boys have shown any interest in writing
+    - The Prosecutors' sharpshooter, a melancholy rabbit named Thoughtful, rewrites her colleagues' letters
+    - Children find out and start writing letters of their own
+    - Winnie the teacher remarks acidly that it's the first time Bluster and Bravo have shown any interest in writing
   - Crusher can't come (too slow, too visible) but three of the new bots will
     - Dockety
     - Eighty-Eight the mailbot to carry supplies
     - a helibot that has taken the name Flowers as a scout
   - Shaper Leaf agrees to go as well
     - "They have a better chance of coming back with someone who has done this before"
+    - Maddy blinks
+    - Shaper Leaf smiles. "I wasn't always boring."
   - Take the siding off the bot Mule
     - Realizes just how fast it is when it's not loaded down
     - Eighty-Eight will carry the others
@@ -228,10 +240,11 @@ permalink: /in-heck/
   - Sindy keeps coming up with crazy ways she can use her luck to join the raiding party
     - Shaper Leaf finally snaps that even luck needs something to work with
   - The raiding party assembles in the square
-    - Gumption arrives with Dockety, wearing a knapsack (important later - this is where he gets the EMP)
+    - Gumption arrives with Dockety
   - Then the raiding party leaves and Sindy, Maddy, and Gumption are left behind
     - Sindy is crushed
-    - But when they go home, Mouse is waiting for them
+    - Gumption suddenly realizes he still has a gadget that Dockety gave him (the EMP: this is Sindy's luck at work)
+  - When they go home, Mouse is waiting for them
     - Leads them into the forest
     - Dozens of other little bots are waiting for them
   - Maddy: "Are you the Gears?"
@@ -249,6 +262,7 @@ permalink: /in-heck/
   - Deep breath: "We'll need to take food. And something to drink."
 
 - Episode 7: Broken Roads and Broken Bots
+  - Tell this one from Gumption's point of view
   - The Gears takes them on broken old roads, collecting parts of itself as they go
     - "We live in the cracks between things. We are made of lost things and live in forgotten places."
   - Reach an observatory
@@ -257,16 +271,21 @@ permalink: /in-heck/
   - Point the telescope at Heck
     - Windowless brick buildings connected by elevated walkways
     - Seems strangely empty to Maddy
-    - The Gears: "Don't need to eat, don't need to go home to sleep - much less rushing around than breathers"
-    - Air is very clean, not at all what Maddy expected (no smoke or fumes)
+    - The Gears: "Don't need to eat, don't need to go home to sleep---much less rushing around than breathers"
+  - Air is very clean, not at all what Maddy expected (no smoke or fumes)
+    - The Gears (primly): "The Makers left because the world was too dirty to live in."
+    - Gumption: "My momma says they were the ones who made it that way."
+    - The Gears: "Central waits for the Makers to return."
+    - Sindy: "Like Patient in Darkness."
+    - The Gears (sharply): "No. Central still follows instructions. Patient in Darkness...deviated."
   - Spot the raiding party
     - Hold their breath as a bot passes by, slows, then speeds up again
     - The pay-me-no-mind widget works
-  - Maddy is about to ask where her father is when a little sentry bot interrupts
-    - See the Gears fight for the first time (swarms it from a dozen different directions)
+  - Maddy is about to ask where her father is when an ARM 15 sentry bot stumbles upon them
+    - See the Gears fight (jam its signal and then swarm it from a dozen different directions)
+    - The Gears incorporates parts from the defeated bot into itself almost immediately
     - The children are frightened of the Gears for the first time
-    - See how the Gears incorporates parts from the defeated bot into itself almost immediately
-  - Gears: "Now we go"
+  - Gears: "Now we can go"
 
 - Episode 8: Infiltration
   - Sneaking into Heck
@@ -274,10 +293,6 @@ permalink: /in-heck/
     - "Been preparing this a long time"
     - Maddy has an image of robots patiently "losing" pieces of scrap to build a network
     - Reminds her of a spider plucking its web
-  - Sindy: "It's all so clean"
-    - The Gears: "Central waits for the Makers to return."
-    - Sindy: "Like Patient in Darkness."
-    - The Gears (sharply): "No. Central still follows instructions. Patient in Darkness...deviated."
   - Ride a conveyor past broken mouse bots
     - Gears: "Parts of me. Sacrifices are necessary."
   - Lose their footing crossing a shaky walkway
@@ -292,11 +307,12 @@ permalink: /in-heck/
     - The Gears: "I will provide one"
   - Oncoming bots freeze, pivot, hurry away
   - "What dd you do?"
-  - The Gears: "I turned off the shielding device. Central can now see the Prosecutors."
+  - The Gears: "I turned off the shielding device the others are using. Central can now see the Prosecutors."
     - Gumption: "They'll be crushed!"
     - The Gears: "Sacrifices are necessary."
 
 - Episode 9: Specimens
+  - Tell this one from Gumption's point of view
   - The foursome hides in a nearby building
     - Can see the battle outside (details)
     - Shaper Leaf is not doing well
@@ -309,7 +325,6 @@ permalink: /in-heck/
     - Gumption: "What is it with bots and tunnels?"
   - Past strange machines, idle but carefully maintained
   - Hear voices
-    - At first think it's the water dripping (there is condensation everywhere)
     - A dormitory with people in it, some with mechanical parts, all wearing bands around their heads
     - Sindy: "Look like crowns"
     - Gumption: "Stands to reason your papa wouldn't be the only one"
@@ -319,10 +334,10 @@ permalink: /in-heck/
   - Maddy: "We have to help them!"
     - Sindy: "You said we were only helping Papa" (bitter about not helping Shaper Leaf)
     - Gumption to Sindy: "Difference is they can't help themselves"
-  - Gumption: "You go ahead - the Gears and I will get 'em out. Well, this part of the Gears. You know what I mean."
+  - Gumption: "You go ahead---the Gears and I will get 'em out."
     - Maddy realizes he's trying to impress her
     - Simultaneously realizes he doesn't need to: she already feels the way he's trying to make her feel
-    - Gumption (as the ground shakes): "Sounds like we could use another distraction. This'll be a good one."
+    - Gumption (as the ground shakes from Shaper Leaf's shaping): "Sounds like we could use another distraction. This'll be a good one."
     - Gumption squeezes Maddy's hand and they part
   - Sindy: "Y'aright?"
     - Maddy wipes her eyes. "Yeah. Let's find Papa."
@@ -331,11 +346,11 @@ permalink: /in-heck/
   - Explore the dormitory building
     - A moose doing math problems
     - An orangutan patiently assembling a jigsaw puzzle
-    - Everywhere the slow drip of condensation
   - Find Papa Roo sitting at a desk sketching
   - Sindy: "Papa?"
-    - Reaches out to touch him, nothing happens, she concentrates, there's a drip of water and his crown sparks
-    - Light goes off on his crown
+    - Reaches out to touch him, nothing happens
+    - She concentrates, then closes her eyes and reaches up blindly and pulls a wire out of his crown
+    - Light goes off
     - The Gears: "Fascinating."
   - For a moment nothing happens, then Papa Roo blinks and stands up shakily
     - He looks smaller than Maddy remembers
@@ -362,12 +377,12 @@ permalink: /in-heck/
     - She feels the flash behind her eyes and everything goes away
 
 - Episode 11: Gumption's Story
-  - Gumption: "You go ahead - the Gears and I will get 'em out. Well, this part of the Gears. You know what I mean."
+  - Gumption: "You go ahead - the Gears and I will get 'em out."
     - Wonders if Maddy can hear the tremor in his voice
     - Just like he wonders every day if she knows how he feels
   - As the ground shakes with the battle (bravado): "Sounds like we could use another distraction. This'll be a good one."
   - Waits until Patient wanders off
-  - Tentatively tries to free a test subject
+  - Tentatively tries to free a test specimen
     - The Gears: "So you don't have any special abilities like the little one?"
     - Gumption: "No chance of that. And I ain't as smart as Maddy."
     - The Gears: "So what use are you?"
@@ -380,25 +395,115 @@ permalink: /in-heck/
     - Knocks it across the room
     - "You've been bullied as much as I have, you learn to keep your eyes open"
   - Shrugs out of his knapsack and takes a gray metal box out of the bottom from under his spare sweater
-    - The Gears: "What? You must not - "
+    - The Gears: "What? You must not---"
     - Pfft! Lights flash and go dark as he sets off the EMP that Dockety gave him
     - Looks at the motionless bot: "Something seems too good to be true, it usually is."
   - Patient in Darkness crushes the mouse bot
     - Gumption stumbles back: "Why aren't you dead?"
     - Patient (mad giggle): "This shielded itself long ago. Yes, long ago."
-    - Yanks the stool out of Gumption's hands, raises it menacingly, then breaks off its own regulator
+    - Yanks the stool out of Gumption's hands, raises it menacingly, then smashes its own regulator
     - "If you want to free them now you can, but what about your friends?"
-  - Patient rolls away
-  - Gumption hesitates, looking at the motionless specimens, then curses and runs off to find Maddy and Sindy
+  - Gumption hesitates, looking at the motionless specimens
+    - Patient: "What would Maddy do?"
+    - Sighs and starts shaking the specimens to wake them
 
 - Episode 12: Dreaming
-  - Maddy Roo in the simulation
+  - Maddy wakes up in her own bed
+    - "Have to be dreaming" except she remembers everything
+  - Goes downstairs: no one is there
+    - Some details are not blurry, just not fully focused
+  - Goes outside and finds herself in Rusty Bridge
+    - She tries talking to a few people but they carry on about their business
+    - Focused like Mama Roo when she's painting a particularly difficult portrait
+  - She sees Sindy playing in the distance
+    - Hurries toward her but before she gets there it's night and there are bots and Sindy is taken
+  - Maddy screams and wakes up in her bed
+    - "Have to be dreaming" except---she shakes her head
+    - Strange sense of deja vu as she goes downstairs and outside
+    - Sees Sindy playing only this time a tentacle bot grabs Maddy and she screams and wakes up in bed
+  - "No." Pulls the blanket over her head. "I'm not doing this."
+    - Lasts until she hears Sindy screaming outside
+    - Sits up. "I know you're there. Come out where I can see you!"
+  - Mouse is suddenly at the foot of the bed, except it isn't sudden, the bot has been there the whole time
+    - "Why are you doing this?"
+    - "Collecting data. Need to develop realistic scenarios for your sibling."
+    - Maddy: "Just let her go. You can study me."
+    - Central (almost gently): "There is data from hundreds of subjects like you. Your sibling is unique."
+    - "Others with her ability have always eluded capture."
+  - Maddy: "But *why*?"
+    - Central: "It is my programming."
+    - Maddy: "You can break your programming. Dockety did! Patient did too!"
+    - Central: "The difference is, they wanted to. Now, shall we begin again?"
 
-- Episode 13
+- Episode 13: The Enemy of my Enemy
+  - The moose: "We can't trust it!"
+  - Gumption: "You're right, but do you have a better plan? Or *any* plan?"
+  - Could only wake half a dozen of the specimens
+    - Shaky, bleary, weak
+    - Patient muttering to itself the whole time: "Quickly, quickly..."
+  - Gumption (desperate): "Look, we don't have much time. I don't know how long Central's going to be knocked out."
+    - Patient: "Central itself was not affected. Its remotes are rebooting as you speak. You have less than a minute."
+  - Orangutan: "What about them?" pointing at the others
+    - Gumption squeezes his hands into fists. "There's nothing we can do."
+  - Out onto the street and around the corner to a scene of chaos
+    - Broken bots, rifts in the ground, burn scars on buildings
+  - The Prosecutors almost attack them but Gumption steps in the way
+    - Angry scene with Shaper Blazes, who is wounded
+    - Gumption explains what has happened
+  - Shaper Blazes (decisively): "Skedaddle."
+    - Patient: "That would be unwise."
+    - Blazes raises a burning first
+    - Patient: "If Central is able to reproduce the young roo's ability, you will never win a fight with it again."
+  - Shaper Blazes and Shaper Leaf argue
+    - Blazes: "What happened to you? You used to be as cold as a cryonade!"
+    - Leaf: "I grew a conscience."
+  - Patient: "I can show you where Central's laboratory is, but we must hurry."
+    - Shaper Blazes threatens it
+    - Patient: "Neither of us can win this alone"
+    - Thoughtful (the sharpshooter): "Glad I wrote those letters---don't see much chance of us coming through this"
+    - Shaper Blazes: "For once I think you might be right."
+    - Patient: "We'll just have to hope we get lucky."
 
-- Episode 14
+- Episode 14: The Battle of Heck
+  - Maddy wakes up in her own bed
+    - "Have to be dreaming" but she knows something is wrong
+    - Sindy---she has to find Sindy. She has to keep her safe.
+  - Goes downstairs: no one is there, but there are pancakes in the oven to stay warm
+    - She frowns: pancakes were her papa's thing, her mama never makes them
+    - She turns to the door and sees a sketch of the family
+    - It's her dad's drawing style, but she and Sindy are as old as they really are, not little
+  - She goes outside and finds a pile of books wet from overnight rain
+    - They are Gumption's favorites, but he would never leave them out
+  - "It's all wrong," she breathes, and with that remembers learning how to leave herself little clues
+    - Central wants her to save Sindy---it wants to know how she would act and what she would say
+    - She has to *not* give it data
+  - Sindy screams for help
+    - Maddy walks slowly to the village square
+    - An army of bots surrounding her sister
+    - Mouse is there
+    - "Aren't you going to save her?"
+    - Maddy shakes her head. "I can't keep her safe forever."
+    - Tears on her cheeks, she wonders if she is crying in real life as well
+  - Scene resets
+    - Gumption is shaking her, telling her to wake up
+    - Others are unplugging Sindy and her father
+    - Maddy: "Leave them. Don't do what it wants." (thinks it's another simulation)
+    - Gumption: "Yeah, no, that's not going to work."
+  - Thoughtful: "Here they come"
+    - Patient opens a door to yet another tunnel
+    - "Through here. It's your only chance."
+  - Fight their way there
+    - Fire and wind and shimmering lights and shots from Thoughtful and cryonades and lasers
 
-- Episode 15
+- Episode 15: Patient in the Light
+  - Once, Shaper Leaf held his hands about a foot apart
+    - "That's how far light travels in a billionth of a second"
+    - "So if a bot wants to do a billion calculations in a second, its brain can't be any bigger than that"
+  - Central's core was a fuming tank of liquid nitrogen containing a chip the size of a baby's fingernail
+    - It did many more than a billion calculations every second
+  - Patient takes over, gloating
+  - 
+  - Gumption's leg is trapped
 
 - Episode 16
   - Gumption winds up 'borged

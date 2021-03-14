@@ -467,7 +467,7 @@ and re-align everything juuuuust a little.
 A bot could have done the whole job in a millisecond,
 but bots could be hacked or infected with malware left over from the war.
 "You want it done fast, you use a bot," Mr. Mishra always said.
-"You want it done *right*, you use me."
+"You want it done *right*, you do it yourself."
 
 Slowly, steadily, Iffy brought the spinning drillbit down
 until it just barely kissed the metal and--- "What are you still doing here?"
@@ -486,22 +486,36 @@ Iffy scratched a sudden itch on her nose,
 then pulled her hand back down to her side.
 Mr. Mishra *did* know, and she had nothing to be embarrassed about.
 
-"Uh huh. What about your uncle?" Jeep straightened up.
-"Bet he doesn't know you're wastin' your time."
+"Uh huh. What about your uncle?" Jeep asked,
+looking everywhere but straight at her.
+"He still bein' trash on you?"
+
+Iffy shrugged.
+"Comes and goes."
+She and Jeep had talked a few times
+when she first started coming to use his father's equipment.
+He had shown her a few of his animations
+and she had shared a few stories about life at sea,
+but that was all gone now.
+
+The silence stretched uncomfortably.
+"I gotta get back to this," she finally said,
+waving a hand at the drill press idling behind her.
+
+Jeep straightened up.
+"'Z your uncle know you're wastin' your time on this?"
 
 "I ain't wastin' anythin'!" Iffy said hotly.
 "And it's none of your business what my uncle knows and doesn't."
 She turned back to the drill,
 placing her foot firmly on the pedal that controlled the motor's speed.
 
-But Jeep wasn't done.
-He didn't quite bump into her shoulder as he crossed the crowded space to the toolbench.
-"Better all be here," he said darkly.
-"Anything turns up missing---"
+"Didn't say it was my business," he said belligerently.
+"But if anything here gets bust up---"
 
-"Anything turns up missing,
-your *da* will know for sure it wasn't you as took it,
-because you wouldn't have the first clue what would be worth taking!" Iffy snapped.
+"Anything here gets bust up,
+your *da* will know it was me that did it
+because it ain't like you ever puts your hands to any of this!" Iffy snapped.
 She cranked the drill bit up into its locked position and switched the machine off.
 "Here!" Three quick twists undid the chocks that held her test piece in place.
 She tossed it at him harder than the distance required,
@@ -521,18 +535,11 @@ The door banged behind him.
 Iffy emptied the dustpan into the trash and tossed her goggles into her toolbag.
 It wasn't fair---Jeep could use the equipment any time he wanted,
 but all he ever did was complain and look for ways not to.
-"What's the point?" he'd shrugged the one time she had asked him why.
-"That new tech they're goin' to bring in will do all this ten times faster'n human."
-
-"Goin' to doesn't help us now," she'd retorted.
-He scowled at that like he scowled at everything before disappearing into his room
-to lose himself in yet another game.
-
-The worst thing was, she knew it wasn't Jeep's fault that he was this way.
+The worst thing was, she knew it wasn't Jeep's fault that he was like this.
 Like every other resident of Halley
 he had been inducted into the Marines when he turned sixteen.
 He'd only served a few weeks---just long enough to be sure that the induction had worked---but
-it had changed him.
+having someone else's personality temporarily imprinted over his had changed him.
 Iffy missed the bashful sixteen-year-old who had loved to tell bad jokes and help his mother make curry.
 "He'll come back eventually," Mr. Mishra said the one time Iffy broached the subject,
 his tone making it clear that she shouldn't bring it up again.

@@ -4990,8 +4990,6 @@ Seemed t' be workin', 'least 'til recently."
 She tucked the bloody cloth back into her sleeve.
 "You been seein' things, ain't ya?
 That's how come you been so good with tech."
-
-Iffy nodded wordlessly.
 The machines had done things to people during the war,
 turned them into weapons and saboteurs and spies,
 sometimes without them even knowing they'd been memed or tweaked.
@@ -5004,6 +5002,6 @@ Her foster mother gave her one last hug.
 "We can talk on this some more t'morrow."
 
 Iffy nodded, her eyes already closing as she lay down.
-Aunt Naggie tucked the blankets in around her,
+unt Naggie tucked the blankets in around her,
 kissed her forehead,
-and closed the door quietly behind her.
+and closed the door quietly behind herself.

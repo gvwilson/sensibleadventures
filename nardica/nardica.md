@@ -4603,36 +4603,21 @@ as the chants of "Warrant! Warrant! Warrant!" grew louder and angrier.
 Remain calm!
 We are operating with full legal authority!
 Do not interfere!
-And remember Volkov's,
-because good food hurts!"
+And remember: Volkov's, because good food hurts!"
 
 Another crash from the entrance
 was followed by the sizzle and crack of a shock stick.
 The ecologist swore.
-"Go along by Rowlin' Street," he ordered,
-his voice deeper and his accent thickening.
-"Doan' be run, but doan' be stoppin'."
+"Go along by Rowling Street," he ordered.
+"Don't run, but don't be stopping either."
 
 "What about you?" Aunt Naggie demanded.
 
-The ecologist shook his head.
-"I'm goan along by the back way.
-I see you where the first time I saw you,
-get us a cuppa."
-He kissed her quickly.
-"Now go."
-
-## Chapter 6
-
-## Chapter 7
-
-## Chapter 8
-
-## Chapter 9
-
-## Chapter 10
-
-## Chapter 11
-
-## Chapter 12
-
+"Safer if we split up,
+the ecologist said,
+glancing at Iffy.
+"I'll go along by the back way.
+I see you where I saw you the first time."
+He grinned and kissed her quickly.
+"We can get a cuppa.
+Now go."

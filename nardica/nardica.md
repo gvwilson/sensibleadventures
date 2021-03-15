@@ -4862,7 +4862,10 @@ and how were regular folks supposed to understand a tangle like that?
 
 "As if," Uncle Jack snorted. "Didja get your precious groceries?"
 
-FIXME: Aunt Naggie blows up
+*Thump.*
+Iffy jumped as the bag came down on the table.
+Aunt Naggie began to empty it and stow the vegetables without saying a word.
+After a moment her husband muttered a curse and left.
 
 Iffy watched silently as Aunt Naggie took out her feelings on an onion.
 Once it was diced and sizzling in hot oil
@@ -4872,7 +4875,7 @@ worried and afraid and wanting to help but not knowing how.
 
 Aunt Naggie swept the carrots and cabbage into the frying pan and forced a smile.
 "Thanks, sweetie, but I'm aright.
-You should prolly go topside an' see what you can sort out."
+You should prolly go topside an' try to clean up whatever mess he's made o' Mister Wales' work."
 
 Iffy stood and put her arms around the woman
 who had sheltered her from storms of all kinds for most of her life.
@@ -4881,7 +4884,7 @@ who had sheltered her from storms of all kinds for most of her life.
 Aunt Naggie set her knife down and hugged her foster daughter back.
 "I love you too, sweetie," she said softly.
 "Always an' forever.
-Don't you ever forget that, no matter what."
+Don't you ever forget that."
 
 Iffy hung on when her aunt would have let go.
 "Was he---was he someone special?"
@@ -4889,7 +4892,7 @@ Iffy hung on when her aunt would have let go.
 Aunt Naggie kissed the top of Iffy's shaven head.
 "Yeah, he was. In a lot o' ways."
 She laughed shakily.
-"Prolly best if we don't talk about that in front o' Jack, aright?"
+"Prolly best if we don't talk about him in front o' Jack, aright?"
 
 "'Course not," Iffy agreed.
 "But---why'd he---you know. Why'd he do it?"
@@ -4962,46 +4965,50 @@ but the pain behind her eyes was down from laser drill to poke-with-a-sharp-stic
 
 "I'm aright," she repeated.
 There was something sticky on her face.
-When she wiped her face on her sleeve, it left a streak of red.
+When she wiped her face on her sleeve,
+her nosebleed left a streak of red.
 
 "You scared me, sweetie," Aunt Naggie whispered.
-"I coul'n't lose both of you."
+"You were shouting an' all such."
 
 Iffy let out a shaky breath and worked her tongue in her mouth.
-"Is this curry powder?"
+"Is this curry powder?" she asked.
 
-Aunt Naggie wiped her own face and nodded.
-"Sort of.
-There's medicine in it.
-Ignacio---the fella you met today---he's been makin' it for me.
+Aunt Naggie laughed shakily.
+"Yeah, but there's medicine in it.
+Ignacio---the fella you met today---he's been gettin' it for me.
 For you, I mean.
-Gets it to me through Mrs. Sandhu."
+Sends it to me through Mrs. Sandhu."
 
 A chill ran down Iffy's spine.
 "Medicine for what?"
 
 Aunt Naggie pulled a cloth out of her sleeve
-and wiped the nosebleed off Iffy's face.
+and wiped the blood off Iffy's face.
 "For this," she said quietly.
-"He knew your olders.
+"Came to me one day, told me he knew your olders.
 Said they had some bum tweaks and you'd get spells as you got older 'less you got treatment.
 Seemed t' be workin', 'least 'til recently."
 
 She tucked the bloody cloth back into her sleeve.
 "You been seein' things, ain't ya?
 That's how come you been so good with tech."
+
+Iffy swallowed drily.
 The machines had done things to people during the war,
 turned them into weapons and saboteurs and spies,
 sometimes without them even knowing they'd been memed or tweaked.
+If her gift was something like that,
+who knew what else might be tucked away in her head or her genes?
 Nine tenths of every medical exam Iffy had ever suffered through
-had been checks for things like that,
+had been to check for things like that,
 but they couldn't catch everything.
 
-Her foster mother gave her one last hug.
+Her foster mother gave her another hug.
 "You go back to sleep," she said as she stood.
 "We can talk on this some more t'morrow."
 
 Iffy nodded, her eyes already closing as she lay down.
-unt Naggie tucked the blankets in around her,
+Aunt Naggie tucked the blankets in around her,
 kissed her forehead,
 and closed the door quietly behind herself.

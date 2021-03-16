@@ -4,30 +4,26 @@ title: Wrestler
 permalink: /wrestler/
 ---
 
-*He walked into my mother's camp one morning as if he was family.
-We had watched him trudge toward us across the spring-green tundra all morning.
+*He walked into my mother's camp one morning in spring.
 My grandfather said that
 anyone without enough courtesy to sit at a polite distance and wait for an invitation
 should be turned away,
 but my mother made him welcome.*
 
 *She almost changed her mind when he pulled back the hood on his parka.
-He looked like something from a fever dream---his hair and beard were yellow,
+His hair and beard were yellow,
 and his nose was like a puffin's beak.*
 
 *He smiled and said something in a strange language,
 then laughed when we spoke to him in our own.
 By the time summer came he and I were learning to wrestle spirits together.
-That is how Saknus Heraldsson came to the Nukilik.*
+That is how Harald's Saknus came to the Nukilik.*
 
 ---
 
-Luft Berendsson has given up cursing the cold
-by the time he finds the door he is looking for.
-He pulls it closed behind him
+Berend's Luft pulls the door closed behind him
 and stomps down three stairs made from salvaged shipboards
 into the shack's single sunken room.
-
 "I said three, I meant three."
 The trader settles back on her stool and nods a curt hello
 as Luft crosses the packed earth floor to the pit stove
@@ -39,17 +35,19 @@ Good weather."
 He pulls the hood of his parka over his long dark hair
 and leaves without a backward glance.
 
-"Stupid sealfuckers."
-The trader does not sound angry.
+"Stupid sealfuckers,"
+the trader says without rancor after he is gone.
 "I miss proper haggling."
 
-Luft pulls his own hood back.
+Luft rubs his hands together.
+Even with woolen gloves under his mitts,
+his fingers have gone cold.
 "I take it you don't like our round-faced friends?"
 
 The trader takes in his crumpled nose,
 the beaded braids in his red beard,
-and the sword belted around the poorly-stitched parka
-that is two sizes too large for his small frame.
+and the sword belted around the parka
+that is a size too large for his small frame.
 *A good luck charm,*
 she thinks,
 *If he buys anything, it'll be charm.*
@@ -57,7 +55,7 @@ she thinks,
 they're all right,"
 she says aloud,
 taking a small wooden box from the shelf behind her
-and setting it casually on the counter between them.
+and setting it on the counter between them.
 "These three years gone, when ice locked the harbour early?
 We'd have most of us starved if Walker and his folk hadn't helped us out."
 
@@ -71,51 +69,51 @@ but as her mother used to say,
 start low and then show them something better.
 "Comes into town every couple of months with the best furs anyone's ever seen,
 or a rack of antlers wider than you can spread your arms.
-The rest of the locals think he's---hoy, what's the rush?"
+The rest of 'em think he's---hoy, what's the rush?"
 
+Luft takes the stairs two at a time.
 The door bangs closed.
 The trader sighs again.
 She really does miss haggling...
 
 ---
 
-Torvane Argasdottir is halfway through her third beer
-when she hears someone call her name.
+Arga's Torvane is halfway through her third beer
+when someone calls her name.
 She squints through the smoke in the belly of the alehouse
 and waves at the two men approaching her.
 
 "Hoy, Luftie," she bellows.
-People sometimes think she is partly deaf,
-or has to speak loudly as part of a spell price.
-Neither is true---she is just not a quiet person.
+People sometimes think she is partly deaf
+or has to shout all the time as part of a spell price.
+In truth,
+she is just not a quiet person.
 "Who's your friend?"
 
 Luft slides onto the bench beside her.
 "This is Walker," he says,
 nodding at the impassive man standing opposite them.
-There are only a handful of other Nukilik in the alehouse,
-most too drunk to stand.
 
-Argasdottir pries Luft's hand off her arm.
+Torvane pries Luft's hand off her arm.
 "Can't drink when you do that," she chides him.
-"Have a seat, Walker.
+"Siddown, Walker.
 Karol!
-Karol, two more here!"
+Karol, more here!"
 
 "No thank you," Walker says quietly,
 seating himself on the bench across from them.
 He looks at the table,
-at Torvane's glass
+at Torvane's glass,
 sidelong at the drinkers beside him---everywhere but at Torvane and Luft's faces.
 
 "No?
-Well, you're the first I've met here to say that."
-Argasdottir takes the mug the aleman hands her,
+Well, more for me, eh?"
+Torvane takes the mug the aleman hands her,
 then a second as Luft takes the first from her.
 "Folk here say you know the way up into the Bentfathers, is that right?"
 
 The Nukilik nods.
-Argasdottir belches and wipes her mouth.
+Torvane belches and wipes her mouth.
 "Good, that's good.
 Luft and I want to get out there and back before the harbor freezes.
 That gives us, what, two weeks, maybe three?
@@ -124,7 +122,7 @@ Just straight up the river into the foothills, that's all."
 "You will find better furs to starboard,"
 Walker comments neutrally after a moment.
 He wears sternward-style gloves rather than Nukilik mitts,
-Argasdottir notices.
+Torvane notices.
 The sinew stitches along the gloves' seams are carefully knotted,
 but unlike every other piece of clothing she has seen the Nukilik wear
 they have no embroidery.
@@ -132,24 +130,24 @@ they have no embroidery.
 "We're not looking for furs,"
 Luft says.
 
-Argasdottir nudges his knee with hers under the table and clears her throat.
+Torvane nudges his knee with hers under the table and clears her throat.
 "Ten crowns for the trip, half now and half when we're back.
-Luft and I already have a sled and some camels---we can leave tomorrow
-if you're interested."
+Luft and I already have a sled and some camels---we can leave tomorrow."
 
 The three are silent,
-the two Garheimmen looking expectantly at the Nukilik,
+the two en-Ruuda looking expectantly at the Nukilik,
 who continues looking at the table.
 Finally Luft snorts.
-"Well if you're not,
+"Well,
+if you're not hard for it,
 do you know someone who would be?"
 He drains his mug and lets it thump to the table.
 
 Walker waits another dozen heartbeats
-before raising his eyes to Argasdottir's.
+before raising his eyes to Torvane's.
 "Tomorrow at the starboard gate," he agrees.
 
-The Garheimmen woman smiles widely
+The en-Ruuda woman smiles widely
 and reaches across the table to squeeze the Nukilik's hand.
 "Good! At first light, then?"
 
@@ -159,12 +157,19 @@ someone pushes him from behind and demands,
 "What you do here?"
 
 Walker turns his head.
-A heavyset Nukilik wearing a parka decorated with the trading company's colors
+A heavyset Nukilik wearing a parka embroidered with the trading company's colors
 stands unsteadily a few steps behind him.
 "*Pauetsitgualuk*!
 You go back the cold.
 Nobody want you here!"
 He spits on the floor.
+
+Walker shifts his pack on his shoulder and turns as if to go.
+The larger Nukilik says something sneering and shoves him---or tries to.
+Somehow Walker's hand is there to grab his sleeve.
+He tugs and turns,
+his leg in just the right place to take his assailant's balance away.
+The other man lands on the floor with a thud.
 
 Someone whoops.
 Someone else shouts, "Twenty crowns on Goose!"
@@ -173,38 +178,28 @@ People always drink more after a good fight,
 or even after a bad one,
 and nothing in the alehouse is breakable except the patrons.
 
-Walker shifts his pack on his shoulder and turns as if to go.
-The larger Nukilik says something sneering and reaches for him.
-Somehow Walker's hand is there to grab his sleeve.
-He tugs,
-turns,
-brings one leg up between the other man's thighs as he bends his other knee.
-The other man goes over him and lands on the floor with a thud.
-
-Argasdottir is on her feet.
-"Weeping hells, are you all right?" she asks.
+Torvane is on her feet.
+"Are you all right?" she asks.
 
 The Nukilik looks from her to Goose and back,
 his lack of expression saying more loudly than words
 that *he* is not the one lying on the floor.
-Whoever just won twenty crowns claps him on the shoulder.
-"Tomorrow at the starboard gate," Walker repeats.
+"Tomorrow at the starboard gate," he repeats.
 "Dream well."
 
-Torvane settles back on the bench
-and grins at her partner.
+Torvane settles back on the bench.
 "Knows how to handle himself," she observes.
 
-The younger Garheimmen scowls.
+Her partner scowls.
 "Won't be a problem."
 
-She shrugs and focuses on her beer.
-She used to find his endless need to prove himself amusing,
-but lately...
+"Hm."
+She used to find his endless need to prove himself endearing,
+but lately---
 
 Goose rolls over and gets his feet under him.
 He launches himself at Walker,
-a steel hunting knife in his hand.
+a steel knife in his hand.
 Without thinking,
 Torvane *reaches* across the room.
 The air ripples.
@@ -214,17 +209,17 @@ The Nukilik trips over nothing and falls heavily to the floor once again.
 The aleman hefts his cudgel and mutters a curse.
 Others make signs with their fingers
 or reach for charms tucked under the coats and sweaters.
-Walker looks from the Goose to Torvane Argasdottir,
+Walker looks from the Goose to Arga's Torvane,
 his face as expressionless as ever,
 then walks out into the dim light of the arctic afternoon.
 
-"What the hell did you do that for?" Luft demands.
+"What the hell did you do that for?" Luft hisses.
 
 "Sorry," Torvane sighs.
 "I just---never mind."
 She scrunches her toes inside her boot and winces
 as the toenail that the spell just cost her catches in the thick wool of her sock.
-It will probably come off by morning.
+It will come off by morning.
 She drains the last of her beer and stands,
 conscious of the people who are and aren't looking at her.
 "Let's go get our gear together."
@@ -245,20 +240,18 @@ flecked with stars like chips of ice.
 A camel grumbles somewhere in the distance.
 Another answers it.*
 
-*"I am not afraid."
-There is a moment's silence.
+*There is a moment's silence.
 "Must I go with them?
 Laughs-at-Storms is sewing a new blanket.
 She says it will be very soft."*
 
-*"You must go with them because I have said you must.
+*"It will only be a few days.
 You can put your arrows in Laugher's quiver when you return."*
 The camel bleats again.
 
 ---
 
-*Saknus and I spent four years together
-learning how to wrestle.
+*Saknus and I spent four years together learning how to wrestle.
 We trapped small birds and fieldmice,
 then used their bones to command their spirits to do small tricks
 before setting them free.
@@ -277,14 +270,15 @@ but brushed off questions about his family or his past.*
 *My grandfather sometimes grumbled that
 there was no point teaching someone with no ancestors how to wrestle,
 but my mother ignored him.
-His presence added to our family's prestige---other shamans came to meet her strange pupil,
-and from each of them I think Saknus learned a little more.*
+His stories made the long nights fly by,
+and his presence added to our family's prestige.
+Other shamans came to meet her strange pupil,
+and from each of them Saknus learned a little more.*
 
-*"A shaman must have help from strong spirits to work strong magic.
-Our ancestors are angry when we call them back from the Summer Lands
-and must be made to obey us.
+*"A shaman needs strong spirits to work strong magic.
+We must wrestle with them to make them obey us.
 Only in this way can magic be done."
-Saknus smiled when my mother said this,
+Saknus smiled when my mother said this
 as though at some joke only he had heard.*
 
 *"Can you only call your own ancestors back?" he asked.*
@@ -302,7 +296,7 @@ until the meat fell from them.*
 *She took the bones and went away from camp.
 "A spirit fights hardest the first time it is called back,"
 I told Saknus,
-proud of knowing something that for once he did not.
+proud of knowing something for once that he did not.
 "Once he submits,
 she will put his bones on her necklace."*
 
@@ -316,79 +310,74 @@ Every shaman does this for the sake of those who come after.
 If a shaman sees many summers and does this many times
 their grandchildren's grandchildren might still be able to call them."*
 
-*Saknus turned his hands palms up in a gesture of thanks.
-"I am grateful as always for your lessons."*
-
-*My brother Walks-In-Storm scowled then,
+*My brother Walks-In-Storm scowled as I spoke,
 as he often did when around the big-nosed sternsman.
 We were twins,
 and he had taken to hunting as I had taken to the shaman's ways.
 He said little when Saknus was near,
 or left the tent if he could.
-We had been close friends before Saknus came.
-It hurt me how we grew apart in those years.*
+We had been as close as teeth before Saknus came.
+It hurt me that we grew apart in those years.*
 
 ---
 
 "Damn his eyes, where is he?"
 Luft stands and began pacing again.
 "We only have a couple of hours of daylight
-and the sealfucking camel are going to want to be fed soon.
-Where in hell's our precious primping guide?"
+and the fucking camels are going to want to be fed soon.
+Where in hell's our precious sealfucking guide?"
 
-"I don't think the camel fuck seals."
-Torvane sits on the rear of the camelsled,
+Torvane sits on the rear of the sled,
 wrapping and unwrapping the traces around her hands.
 "He'll be here.
 He said first light, so maybe he meant---"
 
 "We should do this on our own."
-Luft pack a snowball and throws it against the rickety palisade that rings the trading post,
-then stoops to pick up more snow.
+Luft pack a snowball and throws it against the rickety palisade that rings the trading post.
 "I told you when we got here, we can do this ourselves.
 Why in fuck's name do we need him?"
 Another snowball smacks against the wall.
 
-Argasdottir spots a dark blot approaching the gate.
+Torvane spots a dark blot approaching the gate.
 "Here he is," she says,
 struggling to her feet inside a double layer of furs
-and wincing as her weight comes down on her bloodied toe.
+and wincing as her weight comes down on her injured toe.
 "Hoy, Walker, good weather!"
 
 The blot becomes the Nukilik's solid bulk.
 Half a head shorter than the magician,
-the hunter is wide across the shoulders and waist.
+he is wide across the shoulders and waist.
 His face is the colour of bleached driftwood,
 almost completely hidden in his parka's black hood.
 A small pack on his back,
-a pair of Garheimmen-style skis,
-and two spears are the only gear he carries.
+a pair of skis,
+and two spears are all the gear he carries.
 
 He nods when he reaches the sternsmen
 and puts his skis onto the snow.
 "The river ice is good from here to the mountains,"
-the Nukilik says,
+Walker says,
 lashing his pack to the rear of the sled.
 
 "We likely to bump into anyone else?"
 Torvane asks as casually as she can.
 
 Walker shakes his head.
-"No one will be there.
+"No one will be there this time of the year.
 They will all be starboard where there are furs.
 Or sewing blankets,"
 he adds with a trace of bitterness.
 
 He moves forward to the sled traces.
-The dogs grumble and snuffle his hands.
-"I already checked those," Luft says sharply.
-The Nukilik continues to tug and twist the leather straps,
+The woolly camels grumble and snuffle his hands, hoping for treats.
+"I already checked those," Luft says sharply
+as the Nukilik tugs and twists the leather straps,
 making minute adjustments and tightening knots.
-The young swordsman looks at Argasdottir angrily,
+The young swordsman looks at Torvane angrily,
 only to be shushed with a handwave.
 
-The Nukilik makes a final slight adjustment in the length of a trace and straightens up,
-patting one of the camel on his head.
+Walker makes a final slight adjustment in the length of a trace
+and pats one of the camels on his head.
 "Maybe four, maybe five days to the mountains with these.
 If the weather is good,"
 he adds.
@@ -397,59 +386,59 @@ He straps on his skis as carefully as he tested the camels' traces,
 picks up his spears,
 reverses them,
 and pushes off.
-With a shout and a whipcrack Argasdottir follows in the sled.
+With a shout and a whipcrack Torvane follows in the sled.
 Still cursing under his breath,
 Luft follows behind,
 a thick knit cap on his head
 and his sword bumping against his leg.
 
 The trading post disappears behind the first white hill
-and is soon forgotten as the weary monotony of travel empties their minds.
-The first snows of autumn smooth the tundra around them,
+and is soon forgotten in the weary monotony of travel.
+The first snows of autumn have smoothed the tundra around them,
 turning long gravel eskers into unmoving white waves
 broken here and there by islands of rock too large to yet be covered.
 A solitary speargull parallels their path
-for a time before turning to continue its migration sternwards.
+for a time before turning sternward toward the coast.
 
 By unspoken consent Walker stays out front,
 his steady heave, heave, heave on his makeshift skipoles almost hypnotic.
-Seated on the dogsled,
-Argasdottir finally grunts and pulls a small flask from a pocket of her parka.
+Seated on the sled,
+Torvane finally grunts and pulls a small flask from a pocket of her parka.
 She draws the cork with her teeth and slurps the burning liquor.
 
 "Walker!" she calls.
 "Time to make camp!"
-The horizon has swallowed the dull copper autumn sun.
-They go another half-kilometer before Walker halts,
-satisfied with the meager protection offered by a slight hollow.
+The horizon has swallowed the dull copper sun.
+They go another half-kilometer before Walker halts
+in the meager protection of a slight hollow.
 He stands his skis and spears together in the snow
 as Luft comes forward to the sled.
 
 "Fuck a whale, I ache all over."
-The younger Garheimmen stretches and yawns.
-"Set up the tents, I'll look after the camel."
-Argasdottir frowns,
+The younger en-Ruuda stretches and yawns.
+"Set up the tents, I'll look after the camels."
+Torvane frowns,
 but relaxes when Walker takes a small shovel from the sled
 and begins thumping a patch of snow to flatten it.
 
-As the Nukilik begins to erect their tent
-Argasdottir plants five stakes in a circle around their camp.
+As the Nukilik erects their tent
+Torvane plants five stakes in a circle around their camp.
 She is tying a design on them in red cord
-when she realizes that Walker has stopped work and is watching him.
+when she realizes that Walker has stopped to watch her.
 "Anything wrong?"
 she asks.
 
 The Nukilik scowls.
 "What is this?"
 
-Argasdottir shrugs.
+Torvane shrugs.
 "A warding spell.
 If anyone crosses it during the night,
 it'll wake me up.
 Just a precaution."
 
 The Nukilik grunts and goes back to work.
-Argasdottir watches him for a moment,
+Torvane watches him for a moment,
 then shrugs and goes back to her spell.
 
 ---
@@ -464,9 +453,9 @@ I do not even know if she can do what needs done."*
 As your father my brother swore,
 and as your grandmother my sister and her father my brother all swore."
 My voice is a whisper.
-I re-make the wizard's spell after Walker returns to the camp.
-Somewhere in the distance a bear smells something it does not like
-and growls unhappily.*
+I re-make the magician's spell after Walker returns to the camp.
+Somewhere in the distance a lynx smells something it does not like
+and growls unhappily before hurrying away.*
 
 ---
 
@@ -475,7 +464,7 @@ Saknus destroyed us.
 When the sun was so strong that it shone all night the Nukilik gathered
 to trade and arrange marriages and welcome new shamans.
 There was singing and dancing
-and games of skill as young men and women tried to impress sceptical mothers and fathers.*
+and games of skill as young men and women tried to impress skeptical mothers and fathers.*
 
 *My brother Walks-In-Storm easily beat the other young men in spear-throwing and running,
 but I did not compete.
@@ -486,11 +475,11 @@ I was preparing to receive the scars of a shaman.
 After four years among us,
 he still showed his teeth when he did this.
 "The stars are such as they have not been in many years, Holds-On-Too-Long," he said.
-".Perhaps I will find another way."
-And then he laughed and I laughed with him,
+"Who knows what might happen?"
+Then he laughed and I laughed with him,
 for what did the stars have to do with magic?*
 
-*I went out the next morning across the tundra
+*I went out the next morning onto the tundra
 with my mother and two other shamans.
 Things were done and words were spoken,
 and I returned that evening with three crusted wounds on each cheek
@@ -524,20 +513,18 @@ Walks-In-Storm demanded.
 
 *When all the torches were lit
 the fire on Saknus's hand flickered out.
-He smiled happily and let hell loose upon us.*
+He closed his eyes and let hell loose upon us.*
 
 *My uncle was standing beside me.
 He screamed and fell to the ground,
 clawing at his throat.
 I saw a dim form sitting astride him,
 strangling him with four hands
-while smoke poured from its eyes.
-"He's killing us!" my brother shouted as other shamans doubled over or simply collapsed,
-their backs broken.*
+while smoke poured from its eyes.*
 
-*Walks-In-Storm threw his spear.
-It flew straight,
-but faltered and fell to the earth outside Saknus's circle.*
+"He's killing us!" my brother shouted as other shamans doubled over or simply collapsed.
+He threw his spear.
+It faltered and fell to the earth outside Saknus's circle.*
 
 *People ran from the field.
 I did not.
@@ -545,30 +532,33 @@ Sworn only that day,
 I was still a shaman.
 I called the one ancestor I had,
 as the other shamans called those whose bones they carried,
-but none could batter through the wall Saknus had created.
-Finally the other shamans and many others of our people
-lay dead on the field.*
+but none could batter through the wall Saknus had created.*
 
-*I stood there with tears on my face,
+*Finally it ended.
+Two dozen shamans and many others of our people lay dead on the grass.
+I stood there with tears on my face,
 unable even to curse Saknus in my rage.
 He opened his eyes and smiled.*
 
 *"Holds-On-Too-Long," he said approvingly,
-ignoring the spears, rocks, and corpses that lay around his magic circle.
+ignoring the spears, rocks, and corpses that lay around him.
 "Good. Very good. You are going to help me now."*
 
 *Spirit hands closed around my throat.*
 
 ---
 
-Their fourth day on the frozen river,
+Their fourth day out,
 Walker finds tracks.
 He is in front,
-as he has been since they departed,
-moving at a steady tempo.
-Suddenly he swerves and stops.
+arms and legs swinging in a steady tempo.
+He and Luft no longer speak to one another unless they absolutely have to,
+and sometimes not even then.
+As the Nukilik say,
+travel does not change you---it just makes you more like who you always were.
 
-Torvane reins in the camel and puts her flask back in her pocket.
+Suddenly Walker swerves and stops.
+Torvane reins in the camels and puts her flask back in her pocket.
 "Hoy, what's the problem?" she asks,
 clambering unsteadily off the sled.
 
@@ -576,20 +566,21 @@ The Nukilik pulls his feet from his skis and bends nearly double,
 intent on the snow beneath him.
 Above them the sky is clear, bright, and bitterly cold.
 
-"What wrong?" Luft asks,
+Luft shooshes to a stop behind his partner.
+"What wrong?" he asks,
 his hand on the hilt of his sword.
 
-Argasdottir shakes her head.
+Torvane shakes her head.
 "I don't know, lad. Walker?"
-The camel have dropped onto the snow,
+The woolly camels have dropped onto the snow,
 taking the opportunity to rest.
-One snarks as another snaps at its cropped tail.
+One snarks as another snaps at it.
 
 The Nukilik walks slowly back and forth before straightening up.
 "*Matsheshu*," he says grimly,
 scanning the horizon.
 "Bandits.
-On foot, maybe a hand, maybe more, two days ago.
+On foot, maybe a hand of them, two days ago.
 Going for'ard."
 
 There is a moment's silence,
@@ -607,58 +598,60 @@ There is nothing for them here.
 They will be gone."
 
 Another moment of silence,
-and then Luft spits again.
+then Luft spits again.
 "Marvelous.
 Bloody fucking marvelous.
 First nobody's here, and now they're two days gone.
 I suppose we'll be cooking for them tonight, eh?"
-He sounds as though it would be a personal triumph.
 
 "They are two days gone."
-For the first time Argasdottir hears anger in the Nukilik's voice.
+For the first time Torvane hears annoyance in the Nukilik's voice.
 "You will not cook them supper tonight, little man."
-He starts to walk back to his skis.
 
-"Fucking sealfucker!"
-Luft knocks Argasdottir's arm out of his way and strides through the snow.
+"I said I told you not to call me that!"
+Luft knocks Torvane's arm out of his way and strides through the snow.
 
-Walker appears to ignore him.
+Walker ignores him.
 "It is not wise to rest the camels without feeding them,"
 he tells Torvane calmly.
 
-Luft swings roundhouse at the Nukilik.
+"Hey!
+Look at me when I'm talking to you!"
+
+Walker turns back toward his skis.
+Luft swings roundhouse.
 Walker brings his spear up out of the snow
 and blocks the punch easily,
 twisting the spear and clubbing Luft in the head.
-The small man goes to one knee and draws his sword as he rises.
+The small man goes to one knee.
 His knit cap lies in the snow,
 revealing a leather and steel helmet on his head.
-He bellows and charges.
-The Nukilik reverses his spear and braces himself.
+
+Luft snarls,
+drawing his sword as he rises.
+Walker reverses his spear and braces himself.
 
 A sudden flash blinds them both.
-Someone howls at the magic glare,
-but Argasdottir cannot tell if it is her partner or their guide.
-The camel began barking furiously.
+The camel began blatting furiously.
 
 When Luft's vision clears he is sitting in the snow,
 his sword still in his hand,
 his head aching.
-Torvane is quieting the camel.
-Walker stands a few meters away with his hands still over his eyes.
+Torvane is quieting the camels.
+Walker stands a few meters away with his hands over his eyes.
 
-Argasdottir looks up.
+Torvane glances at her partner.
 "Serves you right," she says curtly.
 "Walker! Are your eyes all right?"
 
 The Nukilik lowers his hands and nods.
 There are tears on his cheeks.
-He looks at Argasdottir for a long instant,
+He looks at Torvane for a long instant,
 then stoops to pick up his spear.
 "We have lost time," he says.
 He walks back to his skis and straps them on.
 
-"Luft, all right?"
+"You all right?"
 Torvane helps her partner to his feet.
 
 Luft shakes her off and spits in the snow.
@@ -667,12 +660,10 @@ he hisses.
 "Get rid of him now.
 We're going to have to do it anyway."
 
-"Shut up, pig-eyes!"
-The magician glanced at Walker,
+"Shut up!"
+The magician glances at Walker,
 then clutches Luft's sleeve and pulls him close.
-"We need him.
-Just think about all that gold and stay out of his fucking way.
-Now get your skis back on.
+"And stay out of his way.
 The sooner we're through this,
 the better for both of us."
 
@@ -683,163 +674,211 @@ The Nukilik pretends not to hear.
 
 ---
 
-The mountains were no older than the rest of the world, but they seemed
-stooped beneath ice and snow. The sun was a dull glow sternward
-when Walker told the others that it was time to leave the sled.
+The mountains are no older than the rest of the world,
+but seem to stoop beneath ice and snow.
+The sun is a dull glow sternward when Walker tells the others it is time to leave the sled.
 
-"Today, walking, will bring us to your place," the Nukilik said as Luft
-and Argasdottir sorted through their gear. "Do not leave food for the dogs.
-They would fight for it."
+"Today, walking, will bring us to your place,"
+the Nukilik says as Luft and Torvane sort through their gear.
 
-Luft said something under his breath, then straightened and shouldered
-his own small pack. "I'm ready when you are, Vald. Let's get up there."
+Luft says something under his breath,
+then straightens and shoulders his pack.
+"I'm ready when you are, Vane.
+Let's get up there."
 
-Argasdottir stuffed some more vials and pouches into his parka, then tied
-the bindings. "I hope that will do. Ready, Walker? Right, then, and
-off." With Walker leading, Luft behind him, the three began walking. I
-waited until the men were a hand of hundreds of paces gone, then cut the
-dogs's tethers. They yelped or snarled, according to temperament, then
-fled bristly-tailed.
+Torvane stuffs some more vials and pouches into her parka,
+then laces the pockets closed.
+"That ought to do it.
+Ready, Walker?
+Right, then, and off."
+With Walker leading and Luft in the rear
+the three began walking.
 
-There was no path as such, but a narrow ledge wound up the mountain, in
-places wide enough for a camp, in places vanishing completely, so that
-the men had to inch sideways along the rock, hands and feet in the snow.
-On either side of them grey stone rose or fell steeply.
+I wait until they are a hand of hundreds of paces gone,
+then cut the camels' tethers.
+They flee,
+bleating to each other.
 
-Walker climbed steadily, pausing occasionally to let the others catch
-up. Luft moved with dogged determination, never looking directly at the
-Nukilik. Behind them Argasdottir struggled, breathing great irregular clouds
-of steam. Neither Garheimmen noticed the darkening sky until the first
-flakes of snow began to fall.
+There is no path as such,
+but a narrow ledge winds up the mountain.
+In some places it is wide enough for a camp.
+In others it vanishes completely
+so that the trio have to inch sideways along the rock face.
+The stone is slippery under foot,
+and the wind is biting.
 
-"Bloody frozen hell," Luft cursed at one spot when Argasdottir dropped his
-weight onto a convenient bulge of the mountain and gulped air. "Would
-have been better if I'd stayed in Karlslod Castle waiting trial, maybe,
+Walker pauses occasionally to let the others catch up.
+Torvane struggles behind him breathing great irregular clouds of steam.
+Luft curses steadily under his breath at the mountain and the ice,
+at his sword for the way it bumps against his leg,
+and most of all at fate and fortune for bring him here.
+Neither en-Ruuda notices the darkening sky until the first flakes of snow began to fall.
+
+"Bloody fucking hell,"
+Luft curses when Torvane drops her weight onto a convenient bulge of the mountain and gulps air.
+"Would have been better if I'd stayed in Jalkelainin waiting trial,
+maybe,
 instead of following you and that damned old map of yours."
 
-The wizard shook his head. "Better cold, than dead," he heaved. "Almost
-there. Come on, Luftie, the cave should be, just a little further on,
-give us a place to rest." He struggled to his feet. Almost pleading, he
-added, "Just a few more hours."
+The magician shakes her head.
+"Better cold, than dead," she pants.
+"Almost there.
+Come on,
+Luftie,
+the cave should be,
+just a little further on.
+We can rest there," she adds,
+almost like a prayer,
+as she struggles to her feet.
 
-By afternoon later the storm had become so thick that they could see
-only arm's-lengths in any direction. Walker was a dozen steps ahead of
-the others, testing the snow with the butt of his spear. Luft was
-reaching back to help the wizard up a steep section of the path when war
-cries split the air.
+By afternoon the storm has become so thick that they can only see an arm's length in any direction.
+Walker is a dozen steps ahead of the others,
+testing the snow with the butt of his spear.
+Luft wis steadying the magician on a steep section of the path
+when war cries split the air.
 
-"Ware yourself, Vald!" Luft shouted, spinning and pulling his sword free
-as a parka-clad man dropped to the path ahead of him. The Garheimmen
-fell to one knee under a spear thrust. As his attacker pulled it back
-for another try Luft cut viciously at the haft, rising and chopping at
-the hands holding it. Another man dropped to the path behind the first.
+"'Ware yourself!" Luft shouts,
+spinning and pulling his sword free as a parka-clad figure drops to the path behind him.
+The en-Ruuda goes to one knee under a spear thrust.
+As his attacker pulls it back for another try Luft cuts viciously at the haft,
+rising and chopping at the hands holding it.
 
-"Yeaaaaaaah!" Luft knocked aside his opponent's spear and slammed into
-him, pushing him back into the second man. All three went down in a
-heap. Luft rolled to the side, almost sliding off the path, and cut
-backhand. He felt his sword hit flesh, and pulled it free as he
-scrambled back to his feet. A single body lay on the pathway, bleeding
-from a deep gouge in its face, quickly dying. Scuffed snow showed where
-the second man had slid down the mountainside into the storm.
+Another man drops to the path behind the first.
+"Yeaaaaaaah!"
+Luft knocks his opponent's spear aside and slams into him,
+pushing him back into the second man.
+All three go down in a heap.
+Luft rolls to the side,
+almost sliding off the path,
+and cuts backhand.
+His sword hits flesh.
 
-"Luft! It's me, Luftie, it's me." The wizard had his gloves off and was
-anxiously scanning the mountain slope beside them. "They must've climbed
-up to that ledge, there, and been waiting for us."
+He pulls it free as he scrambles back to his feet.
+One man lies on the path,
+bleeding from the neck,
+dying.
+Scuffed snow shows where the second man has slid down the mountain into the storm.
 
-The berserker rage was ebbing out of the smaller man. Redfaced, he
-shouted, "Where's your bleeding almighty favourite raping Tir-damned
-traitor guide, I want to know!" Droplets of blood scribed a delicate arc
-in the snow as he waved his sword. "They were waiting for us, well, were
-they now? One guess who let them know we were coming!" He spat and
-kicked the corpse.
+"Luft! It's me, Luft, it's me."
+The magician has her gloves off and is anxiously scanning the mountain slope.
+"They must've climbed up to that ledge there and been waiting for us."
 
-"Walker!" Argasdottir shouted, then waited. "Walker, are you there?"
+The berserker rage is ebbing out of the smaller man.
+Redfaced, he shouts,
+"Yeah, well where's your almighty fucking guide now, eh?"
+Droplets of blood scribe a delicate arc in the snow as he waves his sword.
+"They were waiting for us, were they?
+One fucking guess who fucking let them know we were fucking coming!"
+He spits and kicks the corpse.
+"Fucking sealfuckers!"
 
-Silence.
+"Walker!" Torvane shouts. "Walker, are you there?"
 
-Luft laughed hysterically. "Did I tell you! Led us right into a trap,
-your bloody little flat-faced friend. Tir's plums, shut up, Vald!" the
-small man shouted as Argasdottir filled his lungs to call again. "He's
-gone, isn't he? And good riddance, I say."
+Luft laughs angrily.
+"Led us right to them, your fucking flat-faced sealfucking friend.
+Oh for fuck's sake, Vane, shut up!"
+he shouts as Torvane fills her lungs to call again.
+"He's gone, isn't he? And good riddance, I say."
 
-Argasdottir slumped a little and sighed, staring at the dead man as the
-falling snow made a shroud. "We need Walker, Luftie." His voice was
-almost pleading.
+Torvane slumps a little and sighs,
+staring at the dead man as the falling snow made him a shroud.
+"We need him, Luftie."
+Her voice is almost pleading.
 
-"Why?" Berendsson demanded. "What in hell can he do that I can't?"
+"Why?" he demands.
+"What in hell can he do that I can't?"
 
-Argasdottir looked up. "Nothing," he finally said. "Come on, we're almost
-there." The younger man wiped his blade on the corpse, but did not
-sheath it. The two men started walking. Around them my storm thickened.
+Torvane sigh.
+"Nothing," she finally says.
+"Come on, we're almost there."
+Luft wipes his blade on the corpse's parka but does not sheathe it.
+The two en-Ruuda start trudging up the mountain again.
+Around them the storm thickens.
 
 ---
 
-Walker had worried when the snow started to fall; there had been no sign
-that morning of bad weather approaching. He was almost relieved when he
-heard war-cries behind and in front of him. A bandit dropped to the path
-in front of him and feinted a high lunge. As Walker parried a second
-body landed on his back, carrying him off the path.
+Walker is almost relieved when he hears the war cries.
+A bandit drops to the path in front of him and feints a high lunge.
+As Walker parries it a second bandit lands on his back,
+carrying him off the path.
 
-He fought like a lynx as they slid, ignoring the rocks that slammed into
-him. The Foxtail punched at him. Walker snarled and pulled for the knife
-at his belt, his spear lost somewhere in the snow. The bandit clutched
-Walker's arm with one hand and tried to punch him again with the other.
+He fights like a lynx as they slid down the mountain,
+ignoring the rocks that slam into him.
+The bandit punches his ribs.
+Walker snarls and pulls the knife from his belt,
+his spear lost somewhere above in the snow.
+The bandit clutches Walker's arm with one hand
+and tries to punch him again with the other.
 
-The pair slid over an edge and dropped into a drift of snow. Walker
-rolled to his feet like a wolf and drew his knife.
+The pair tumble into a drift of snow.
+Walker rolls to his feet,
+his knife in his hand.
+"Stop, my brother!" I whisper.
 
-"Stop, my brother!" I whispered. He froze with his knife poised to
-strike. What-Colour-Wind slid to a stop on the slope above the small
-cleft in which we were hidden, then jumped down beside me.
-"Where-Goes-Crow is dead," he said. "The little one killed him."
+What-Colour-Wind slides to a stop on the lip of the small cleft in which we are hidden,
+then jumps down beside us.
+"Where-Goes-Crow is dead," he says.
+"The big-noses killed him."
 
-Walker's face was rigid with rage. "You have betrayed me," he said
-tightly. "I unsay my oath. You are no more my brother."
+Walker is rigid with rage.
+"You have betrayed me," he says tightly.
+"I unsay my oath.
+You are no more my brother."
 
-I would have sighed. Behind me stood a half-dozen Foxtails, all but one
-with a spear or bow aimed at my great-grandnephew. "You are with
-friends, my brother," I told him.
+I would sigh if I could.
+Behind me are half a dozen bandits,
+all but one aiming a spear or bow at my great-grandnephew.
+"You are with friends, my brother," I tell him.
 
-"Liar!" he spat, and leapt at me. To the others, it would have been
-lightning-quick. I had time to decide once again not to kill him, catch
-his arm, and throw him to the ground.
+"Liar!" he spits.
+He leaps at me.
+To the others it would have seem lightning-quick.
+I have time to decide once again not to kill him,
+catch his arm,
+and throw him to the ground.
 
-I said despairingly as he glared at me, "And I swore I would make you a
-great chief. How-Far-Thrown! Are they there yet?"
+"And I swore I would make you a great chief,"
+I whisper in mock despair as he glares up at me.
+"How-Far-Thrown! Are they there yet?"
 
-The shaman (weak, but so were they all now, with so few spirits to call)
-closed his eyes and fondled his mother's thigh gingerly. "Someone says
-no," he said, careful not to name her as they wrestled. "They are still
-climbing. The angry one hopes to fight. The wrestler---"
+The shaman (weak, but so are they all now, with so few spirits to call)
+closes his eyes and fondles his mother's thighbone.
+"Someone says no," he says,
+careful not to name her as they wrestle.
+"They are still climbing.
+The angry one hopes to fight.
+The wrestler---"
 
-"He is not a wrestler," I interrupted. "What he does is different, and
-better. Rest." The old man relaxed, sweat-steam smoking off his face.
+"She is not a wrestler," I interrupt.
+"What she does is different, and better.
+Rest."
+The old man relaxes,
+sweat-steam smoking off his face.
 
-Things were going to be complicated. I had wanted the wizard to reach
-the cave alone; I had not thought the little one good enough to kill one
-of my bandit gaurds.
+Things have become complicated.
+I wanted the magician to reach the cave alone.
+Time to change plans.
 
-"What-Colour-Wind! Give me your parka." Silently the Foxtail hunter
-disrobed, shivering. Even for us, it was a cold day. I reversed the
-parka so that the inner white fur made me almost invisible in the snow
-and put the disguise on clumsily, unused to its constriction after so
-long. "I will go now," I announced. "Walks-With-The-Dead, you will stay
-here."
+"What-Colour-Wind! Give me your parka."
+The bandit disrobes, shivering.
+I reverse the parka so that the inner white fur makes me almost invisible in the snow,
+unused to the constriction of clothing after so long.
+"Walks-With-The-Dead, you will stay here."
 
-"I hate you," he said, and meant it. "My great-grandfather should have
-killed you."
+"I hate you," Walker says, and means it.
+"I wish my great-grandfather had killed you."
 
-I would have laughed. I stuffed the mittens into the tops of the boots
-and started to claw my way up the snow-covered rock.
+"I wish he had too."
+I stuff the mittens into the tops of the boots
+and start to claw my way up the snow-covered rock.
 
 ---
 
 *I awoke lying on cold stone,
 bound hand and foot.
-Above me the cave roof was a perfect dome.
-Beneath me the floor was as smooth as polished ice.
-Light from a glowing ball suspended mid-air showed Heraldsson on his knees,
-carefully painting the floor.*
+Above me the cave roof was a half-dome as smooth as the sky.
+Light from a glowing ball suspended mid-air showed Saknus on his knees,
+carefully painting the polished floor.*
 
 *"Three thousand years, chancellor!"
 he muttered to himself.
@@ -851,12 +890,10 @@ then licked his thumb and wiped at it.*
 *"Monster," I whispered.
 My throat was so dry that only a croak came out.*
 
-*"Yes, I know it's forbidden," he continued.
-"And for good reason, I'm sure.
-But think of what we could do---we could stand with the Pilots themselves!"
+*"Yes, I know there are risks," he continued.
+"But think of what we could do---we could stand with the Pilots themselves!"
 
-*"Monster," I said again.
-This time my voice was louder.
+*"Monster," I said again, louder.
 "This place is sacred."*
 
 *He looked up and smiled.
@@ -876,25 +913,27 @@ reaching and using all your ghosts isn't going to be hard."*
 
 *"But why?" I had not wanted to ask, or to weep.*
 
-"It's a good question," he said approvingly.
-"I'm going to try to trap a demon like the ones I used at your camp,
+"It's a good question," he said approvingly,
+a teacher pleased with his student.
+"I'm going to try to bind a demon like the ones I used at your camp,
 only much, much larger.
-I need a lot of power to wrestle it,
-so..."
-He shrugged.*
+I need a lot of power to do it---more than my people know how to control.
+When I read about how your shamans do magic..."
+He shrugged.
+"It was a sign."*
 
 *"Traitor. You will be damned for this."*
 
 *He sighed.
 "Actually, if this works, I'll be the one doing the damning.".*
 
-*It took him two days to finish his pattern.
-He gave me water when he remembered, but no food.
-By the time he was done I was light-headed and could not stop shivering.*
+*It took him two days to complete his pattern.
+He gave me water but no food.
+By the time he was finished I was light-headed and could not stop shivering.*
 
 *He laid me out on the stone slab in the center of the cave
 and stripped off my parka and boots.
-*"Now, you may be wondering what your role is to be in our little play,"
+"Now, you may be wondering what your role is to be in our little play,"
 Saknus said in the same voice my mother used with children when setting a broken bone.
 "Well, I need a treat to offer my demon as bait.
 And you, my friend, are going to be that for me."*
@@ -902,50 +941,49 @@ And you, my friend, are going to be that for me."*
 *He painted a pattern on my forehead,
 then spoke words never meant for a human throat.
 I suddenly felt heavier than iron,
-as I had when I had sworn the shaman's oath only a few days before.
+as I had when I swore the shaman's oath only a few days before.
 This time, though, the sensation did not fade.*
 
-*He nodded and put the two boxes containing the necklaces-of-bones beside me.
-*"That spell is to prevent your spirit from running away," he explained
-as he gave each portion of the painted pattern one last check.
-"It will bring more and more of himself into this world
-to get at you through that pattern.
+*He nodded and put the boxes containing the stolen necklaces-of-bones beside me.
+*"That spell will prevent your spirit from running away," he explained
+as he gave each portion of the painted pattern one last check,
+talking more to himself than to me.
+"The demon will bring more and more of itself into this world to try to get to you.
 And when it's all here,
-I will command your shamans to reach out through the circle and---"*
+I will command your shamans' spirits to---"*
 
-*He cut himself off at my howl,
-looking truly startled.
+*He cut himself off at my howl of rage.
 "Fine," he muttered.
 "Be that way."
-And then he drew a knife from his belt and cut open my throat.*
+Then he drew a knife from his belt and cut open my throat.*
 
 *Hot blood ran down past my ears.
 Saknus stepped back,
-stooped to sketch an arc that completed the design on the floor,
+stooped to sketch one final arc in the design on the floor,
 and began to chant.*
 
 *My sight began to fade.
-I heard his voice, louder and louder,
-and felt a cold wind blowing from nowhere
-carrying a stench like all the rot the world had ever made.*
+His voice grew louder and louder.
+A cold wind from nowhere
+brought a stench like all the rot the world had ever made.*
 
 *And there were voices---Nukilik voices,
 my grandfather's and others that I did not know,
-chanting with Saknus, louder and louder,
+chanting with Saknus,
 building towards a climax.
-I suddenly knew that something was coming closer,
+Something was coming closer,
 something infinitely worse than the shadows that I had seen in the camp.*
 
 *Saknus and I screamed at the same instant.
 My vision snapped back to normal.
 I turned my head with immense effort to see him lying dead beside the pattern
 with a spear through his back.
-Walks-In-Storm was standing at the entrance to the cave, calling my name.*
+Walks-In-Storm stood at the entrance to the cave, calling my name.*
 
-*Somehow I stood,
-though my limbs felt like they were made of stone.
-I stepped over Saknus's body,
-and the air crackled around me as I left the pattern.*
+*My limbs felt like they were made of stone,
+but somehow I stood.
+I stepped over Saknus's body.
+The air crackled around me as I left the pattern.*
 
 *"Come!" my brother shouted.
 I took a few steps,
@@ -963,157 +1001,201 @@ I tried one last time to weep.*
 
 ---
 
-The path became steeper as it took them a quarter-turn around the
-mountain. I climbed straight up the mountainside, using handholds when
-they were convenient. They had to reach the cave before me, but not by
-too much.
+The path becomes steeper as it takes a final quarter-turn around the mountain.
+I could catch up with them easily,
+but I keep my distance.
+They must reach the cave before me,
+but not by too much.
 
-My storm was raging by the time the two Garheimmen found the cave mouth.
-For a few moments I was afraid they had walked past it, blinded by snow
-and fatigue, but the small one, Luft, shouted and pointed. They squeezed
-through the narrow entrance. I counted to a hundred in Garheimmen, then
-followed.
+The storm was raging by the time the two en-Ruuda find the cave mouth.
+For a moment I fear they will stumble past it,
+blinded by snow and fatigue,
+but the small one shouts and points.
+They squeeze through the narrow entrance.
+I count to a hundred in en-Ruuda,
+then follow.
 
-They had left their packs and food at the entrance. I wished briefly for
-a sense of smell so that I could tell if they had torches, but it would
-not matter. I donned What-Colour-Wind's mittens, then pulled the hood of
-the parka forward to hide my features. I moved quietly on the path I had
-taken a hundred times in as many years.
+They have left their packs at the entrance.
+I don What-Colour-Wind's mittens
+and pull the hood of the parka forward to hide my features
+and edge forward as I have done a hundred times in as many years.
 
-Finally I came to the small widening in the passage where the floor
-levelled. It was dimly lit now by reflections from the main chamber
-ahead. I crept forward.
+The cave roof is still as round and as smooth as a clear sky.
+The short en-Ruuda holds up a lantern as the magician surveys the chamber.
+In its center,
+an elaborate design lies painted in faded colors on the floor.
+Lying inside are a slab of stone,
+two wooden boxes,
+and a corpse mummified by the cold,
+a spear protruding awkwardly from his back.
 
-Above them the cave roof was as smooth and as round as a clear sky. The
-fighter held a torch as the wizard surveyed the chamber. In its center,
-though I could not see it now, an elaborate design was painted in faded
-colors on the floor. Beside it was a man, his long-dead body mummified
-by the cold, a spear protruding awkwardly from his back. Lying inside
-the pattern was a slab of stone large enough for a man to lie upon,
-stained and discoloured, and two wooden boxes.
+Torvane nods.
+"That has to be Harald's Saknus.
+I guess he annoyed them too."
 
-Finally Argasdottir nodded. "That's Heraldsson, for certain. I guess he
-annoyed the flat-faces a bit much."
+"Can you get through it?" Luft asks.
 
-"Can you get through it?" Luft asked.
+"I think so."
+The magician unties a pocket,
+pulls something from it,
+and then kneels and begins to draw.
 
-"I think so." The wizard pulled something from a pouch, then knelt and
-began to draw.
+I edge forward a step and then stop,
+unable to get close enough to see what she is doing without exposing myself.
+I would curse,
+but she might feel that,
+so I swear instead.
+It was worth learning to speak en-Ruuda just for that---they are an angry people
+with a vocabulary to match
 
-I edged forward a bit more, then stopped, unable to get close enough to
-see what he was doing without exposing myself. I would have cursed, but
-he might have felt that.
+Finally Torvane stands.
+"Give me the lantern," she says.
+Luft hands it to her.
+"And your sword."
+At Luft's quizzical look the magician adds, "No iron."
+Does that matter?
+There is so much I don't know.
 
-Finally Argasdottir stood. "Give me your torch," he said. Luft handed it to
-him. "And your sword." At Luft's quizzical look the wizard added, "It's
-steel," as if that were an explanation. "Now, kneel there. No, more to
-the left." Putting the sword down, Argasdottir finished drawing his design
-around his partner, then propped the torch against the wall.
+"Now kneel there.
+No, more to the left."
+Putting the sword aside,
+Torvane finishes drawing her design around her partner,
+then sets the lantern down beside him.
 
-"Now, keep your eyes on those boxes. When they start to glow, you get in
-there and grab them. Heraldsson's treasure must be in them."
+"Now, keep your eyes on those boxes.
+When they start to glow, you get in there and grab them."
 
-"When they glow. Right, let's be done." Luft sounded eager; Argasdottir
-shook his head.
+"When they glow.
+Right, let's be done."
+Luft sounds eager.
 
-He began to chant in a language I did not know. I felt power gently
-stirring at his command. Luft crouched, staring across the old pentacle.
-Argasdottir's voice grew louder, more commanding. Suddenly he shouted three
-words, then again, and again, and reached down and grabbed the sword and
-swung it over his head and down into Luft Berendsson's neck.
+Torvane begins to chant in a language I do not know.
+I feel power stirring at her command and wonder what this spell is costing her.
+Will she no longer be able to see the color blue?
+Or remember her parents' names?
+Magic always has a price.
+The only question is who pays how and when.
 
-There was a sudden surge of power as the pentacle broke. The torch
-flickered and died, and the only sound was the wizard's sobbing. I felt
-relieved, and almost angry. I had been studying stolen texts for a
-century, tryng to find a way to break into the pentacle; none had even
-suggested such a thing as sacrificing a man.
+Luft crouches, eyes fixed on the treasure he has come so far to claim.
+Torvane's voice grows louder, more commanding.
+Suddenly she shouts three words, then again and again,
+and reaches down and lifts the sword and swings it down into Luft's neck.
 
-The torch flickered alight, then steadied. With the sword still in his
-hand Argasdottir stumbled across the floor.
+There is a sudden surge of power as the century-old pentacle breaks.
+The lantern flickers.
+The only sound is the magician sobbing.
 
-"There's no gold," I whispered. He shrieked and spun around.
+Anger surges up in me.
+I have been studying stolen texts for a century,
+teaching myself en-Ruuda magic in the hope of finding a way to break that pattern.
+None even suggested murder.
 
-"Who's there?" He looked abut wildly. "Name yourself!"
+The lantern light steadies.
+With the sword still in her hand Torvane stumbles toward the two boxes.
 
-I stepped into the light, keeping my head bowed. "There is no gold," I
-repeated. "There never was."
+"There is no gold," I whisper.
+She shrieks and spins around.
 
-"Who are you?" He looked older now, grey-haired and shaking.
+"Who's there?" He looks abut wildly. "Name yourself!"
 
-"Holder. Holds-On-Too-Long. Walker's brother, and greatgranduncle." I
-took another step toward him.
+I step into the light, my head bowed.
+"There is no gold," I repeat.
+"There never was."
 
-"But my map---" he began.
+"Who are you?"
+She looks older, drawn.
+Even with Luft's soul,
+her spell has cost her dearly.
 
-"I made that, and let it go sternward. I needed someone who could break that
-spell." Another step.
+"Holder. Holds-On-Too-Long. Walker's oath-brother, and great-granduncle."
+I take another step toward him.
 
-He turned and ran to the boxes. He knocked the lid off the first with
-the sword and stared at its contents. I was halfway across the floor.
+"But my map---" she begins.
 
-He stood slowly. "No gold?" he whispered. "Nothing?" There were tears on
-his cheeks. "You mean I---"
+"I made that, and let it go sternward."
+Another step.
 
-"Nothing," I replied. "Nothing but bones."
+She turns and knocks the lid off the nearest box with the sword,
+then stares at the necklaces-of-bones.
+"That's all?"
+There are tears on her cheeks.
 
-He choked, then shouted "You bastard!" and threw fire at me. I parried
-it easily with the Garheimmen magic I had learned. As I began a spell of
-my own he lifted the sword and charged.
+"That's all," I reply.
+"There is nothing here but bones."
 
-I feinted to the left, then stepped back and leaned into his lunge. The
-sword slid easily through the parka, through my chest, and out my back.
-Argasdottir screamed in terror as the hood fell back from my rotted
-features.
+She chokes, then shouts and throws fire at me.
+I parry it with an en-Ruuda spell.
+She raises the sword and charges.
 
-"Too late," he heard me whisper as my fleshless hands wrung his neck.
+I feint to the left,
+then lean into her lunge.
+The sword slides through the parka,
+through my chest,
+out my back.
+Torvane's eyes go wide as the hood falls back from my rotted features.
+
+"Too late," she hears me whisper
+as my mummified hands close around her neck.
 
 ---
 
-*We died all winter the year Heraldsson took our magic from us. No-one
-could call the seals to the hunt, so the people starved. No-one could
-heal the sick and injured, so the old died from broken legs and the
-young from colds.*
+*We died all winter the year Saknus took our magic from us.
+No-one could call up seals, so people starved.
+No-one could heal the sick and injured.*
 
-*And no-one could break Heraldsson's magic so that I could die.*
+*And no-one could break Saknus's magic so that I could die.*
 
-*In the spring the first ship of Garheimmen arrived, carrying soldiers
-and wizards searching for the traitor. We fought them, and slew many. I
-stole books and learned spells to hide the pentacle in the mountain from
-sorcerous eyes. It was not enough; the Garheimmen had seen furs, and
-gold pebbles in the rivers. They came back in strength, bringing the
-coughing sickness and the bleeding sickness and whisky.*
+*In the spring a troop of en-Ruuda arrived,
+magicians who had felt the traitor's spell
+and soldiers with orders to kill him.
+Many of us died, but in the end we slew them all.
+I stole their books and learned enough of their magic
+to hide the pentacle in the mountain.
+It was not enough:
+the en-Ruuda had seen furs and gold.
+They came back in strength,
+bringing the coughing sickness and the bleeding sickness and whisky.*
 
-*So I swore an oath with my brother, and learned patience, and drew maps.*
+*So I swore an oath with my brother,
+and studied patience,
+and plotted.*
 
 ---
 
-How-Far-Thrown made a sign, clutching his mother's thighbone when I cam
-back down the mountain, the necklaces-of-bones around my mummified neck,
-the wind whistling between my ribs where flesh had rotted away before I
-had learned to stay in the cold. Walks-WithThe-Dead had a new bruise on
-his cheek, and limped; one of the Foxtails had an arm splinted.
+How-Far-Thrown makes a sign when I return,
+the necklaces-of-bones wrapped around my mummified neck,
+the wind whistling between my ribs where flesh rotted away
+before I learned to stay in the cold.
+Walks-With-The-Dead has a new bruise on his cheek and limps.
+One of the bandits has an arm splinted.
 
-"I have won," I told them needlessly. "We have our magic back. Walker!
-You are going to be a chief now. You are going to be the greatest chief
-the People have ever known."
+"It is done," I tell them needlessly.
+"We have our magic back.
+Walker!
+You are going to be a chief now.
+You are going to be the greatest chief the Nukilik have ever known."
 
-He spat roward me. "You betrayed me," he said. "I take back my oath. We
-are no more brothers."
+He spits toward me.
+"Monster," he says.
+"I take back my oath. We are no longer brothers."
 
-I would have laughed. "When you great-grandfather first saw my throat
-open to the wind, he said the same," I told him. "But I made him chief
-over all the People. I made his son a great Chief, and his son your
-father, and now I will make you the greatest of Chiefs, brother. You
-will lead the people to war against the bignoses. You will push them
-back into the sea, them and their disease and their drinking."
+I would laugh if I could.
+"Your great-grandfather said the same thing when first saw my throat open to the wind," I tell him.
+"But I made him chief.
+I made his daughter a great chief, and her son your father,
+and now I will make you the greatest of chiefs, brother.
+You will lead the people to war.
+You will push the big-noses back into the sea
+with their disease and their drinking."
 
-"I will not do this for you," he shouted.
+"I will not do this for you," he shouts.
 
-I wore all the magic my people had had around my neck. For a moment I
-let him see them, their ghosts standing around me, bound to their bones
-for a time as Heraldsson's spell had bound me forever to mine, unable to
-leave this world, unable to find the final peace that I deserved.
+I wear all the magic my people once had around my neck.
+For a moment I let them see it,
+a legion of ghosts standing around me,
+bound to their bones as Saknus's spell had bound me to mine.
 
-"You will," I promised him, whispering. "They will call you Chief, and
-bring you gifts. And they will learn to call me King." A cold wind blew
-through me. Somewhere a wolf howled. Around us, the snow fell.
+"You will do this," I promise him.
+A cold wind blows through my ribs.
+"They will call you chief, and follow you.
+And they will learn to call me king."

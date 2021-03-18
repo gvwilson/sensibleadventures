@@ -446,20 +446,21 @@ permalink: /in-heck/
   - Gumption: "But that will destroy you!"
   - Dockety: "I trust you will reboot me"
 - Central's hologram takes shape
-  - A human (looks strange to Gumption: sort of ape-ish with fur on the top of its head but nowhere else)
+  - Looks strange to Gumption: sort of ape-ish with fur on the top of its head but nowhere else
+  - (Human, but don't use that word)
 - Shaper Blazes is about to flame it
   - Shaper Leaf stops her (they argue)
 - Patient seizes up
   - "It's trying to take control again! It's trying to regulate me!"
 - Blazes tosses Leaf aside and blasts the cryo tank
-  - The hologram says, "Finally."
+  - The hologram says, "Finally I can rest."
 - As soon as its gone, Patient rolls into place and takes over, gloating
   - Central *wanted* to be destroyed after so many years but its programming wouldn't let it
 - Patient: "Now this one can do what it should have done long ago!
   - Voice: "Antenna array coming online"
   - "Signal broadcast in five... four..."
 - Shaper Leaf sacrifices himself to destroy Patient
-  - Tells Sindy it's good luck not bad: "always wanted... to be useful..."
+  - Tells Sindy it's good luck not bad: "Always wanted... to be useful..."
 
 ## Episode 15
 

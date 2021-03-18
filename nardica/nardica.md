@@ -3979,9 +3979,9 @@ built according no plan that any human being could understand.*
 A cyborg child raised in a supposedly secure underground lab
 patiently told his frightened captors that they wouldn't find any they could understand.
 The most advanced machines didn't actually think any more.
-"It's more like evolution,"
+"It's more like constantly evolving realizations,"
 he said patiently.
-"Or vacuum birefringence."
+"Or a self-modulating interference pattern."
 Then he and his siblings vanished into the Iowa desert,
 leaving their creators no wiser than before.*
 
@@ -4457,7 +4457,8 @@ He leaned over and said, "Ratty want a cracker?"
 "I know," Iffy said wistfully, a sudden pang in her heart.
 She held her finger in front of one of the cages.
 The rat sniffed at it.
-"Idjit," it pronounced in its tiny squeaky voice.
+"Idjit," it pronounced in its tiny squeaky voice,
+just like the one she remembered.
 
 *One day*,
 Iffy promised herself as she straightened up and hurried on her way.
@@ -4904,6 +4905,11 @@ Why didn't I know you did?*
 straightening up and turning back to her cooking.
 "I guess this was the only way he could keep 'em all safe."
 
+FIXME: Iffy talks to Honesty
+- messages back and forth showing how people communicate in the jungle
+- Honesty eventually says she has to go
+- Iffy wonders why people always have to go
+
 Later,
 cross-legged on her bed,
 Iffy set one of the mysterious drones on her mattress and went to work.
@@ -5012,3 +5018,41 @@ Iffy nodded, her eyes already closing as she lay down.
 Aunt Naggie tucked the blankets in around her,
 kissed her forehead,
 and closed the door quietly behind herself.
+
+## Chapter 6
+
+- Iffy wakes up to Marines arriving to guard the harbor
+  - Zillion stealth ship, Zillion saboteur at the Dance Hall - seems prudent
+  - Iffy knows the ecologist wasn't a Zillion sab but what difference does that make?
+- She looks at the Marines hoping to see Honesty, knowing it's too soon
+- Wales returns
+  - Insisted that he stay on the ship
+  - "How do you insist to the governor?"
+  - "Well, I say 'insist'. It was more like 'plead'."
+  - Looks at the Marines. "Wonder how much of this is for me."
+  - Talk a bit about induction then do some work
+- Iffy shows Wales the dronelets
+  - Doesn't tell him about the Dance Hall
+  - Wales wonders if it's just an accident this came to her
+  - "That's the problem with believing in a higher power. You never know what's chance and what isn't."
+- Build the drone, it gets shot, she cries about her rat
+  - Goes back to her cabin and looks at her book
+  - Something buzzes - finds an earbud in her pocket
+- Overhears Wales' conversation with Doctor Johel
+- Ends with word of an attack on Halley
+  - Zillions...and bots
+
+## Interlude
+
+- Nova Zembla wasn't the only cold mind to wake up
+- Once upon a time there was a country called China
+  - Its rulers were so afraid of the people that they wanted to watch everyone all the time
+  - And predict what they would do
+  - That surveillance network became a mind as different from Nova Zembla's as either was from human
+- China had been a great trading nation, so its new ruler traded too
+  - Bamboo seedlings tweaked to survive the latest strain of fungus or mold
+  - Strips of patterned fabric that made people's thoughts wander
+  - And like Nova Zembla, what it wanted in exchange was anything old and trivial
+- Sometimes China and Nova Zembla fought fierce little battles
+  - War machines froze mid-strike then wander away following some strategic calculation nothing made of meat would ever understand
+- Sometimes it talked to people in their dreams

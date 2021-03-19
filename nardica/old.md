@@ -1,9 +1,6 @@
 ## Chapter 6
 
-Iffy woke the next morning to the sound of the Marines arriving. Two squads of
-eight came first, each wearing a full exoskeleton and carrying a bulky pack.
-Two squads of inductees trudged behind them, straining under packs that were
-only slightly smaller. In between, Dr. Johel rode a little motorized scooter
+In between, Dr. Johel rode a little motorized scooter
 with Johnson Wales sitting awkwardly on the back.
 
 "Because Rothera Core ran a few sims," Dr. Johel explained testily to Uncle Jack
@@ -210,151 +207,7 @@ Iffy watched the lumpy slick slide by for a second, then reached over and
 punched his shoulder. "For bein' so gloomy," she said firmly. "You were a lot
 more fun when you were all smiley an' such."
 
-The startled look on Wales' face turned into a smile---a real smile, the first
-Iffy had seen since the attack. "I'm sure I was," he agreed. He turned his
-back to the ocean and nodded toward his cabin. "Want to go make something?"
-
-The Marines had filled the *Guinevere*'s hold with their supplies, so Iffy and
-Wales lugged his toolboxes down to the engine room. Iffy laid a fresh plastic
-worksheet down on the narrow shelf that served her as a makeshift workbench
-while Wales pushed two stools against the wall and set one of his toolboxes on
-them. A click, a quiet hiss as the airtight seal released, and its lid swung up
-to reveal wonders. Gears and knurled slip-rods, spools of optical fiber thinner
-than a human hair, four thumb-sized motors with built-in batteries, transducers
-and pressure sensors and an entire tray full of tiny cores the size of sand
-grains... "You could make practic'ly *anything* with all this," Iffy said in
-awe.
-
-Wales chuckled. "Maybe. The core told the governor to make sure we didn't run
-short of anything. Here." He plucked a micro-manipulator out of a recess in
-the hard foam that lined the lid of the toolbox. "How about you build us a
-hundred-to-one step-up for a fan rotor, and I'll get the printer going over in
-the corner."
-
-The next hour flew by. Iffy knew she should be doing chores, but she also knew
-Uncle Jack had made up those chores just to keep her busy. *This* was what she
-ought to be doing: fitting tiny metal gears and rods together, threading control
-fibers through them, and grinding the rough edges off the still-warm plastic
-housings that came out of the efficient little printer Wales had set up. Every
-addition to the motor growing in front of her suggested three more. She
-shuffled them in her mind like cards, staring into nothing for long moments as
-she invented and discarded a dozen solutions to her next challenge before one
-clicked into place and she knew, she just *knew*, that it would work.
-
-She glanced up once and caught Wales looking at her. "'S matter?" she asked,
-blinking and rolling her shoulders as she realized that she had been hunched in
-one position far too long.
-
-"Nothing," he said. He punched her shoulder gently. "It's just a pleasure to
-watch you work."
-
-"Thanks," she mumbled, her cheeks warming the way they did when Honesty said
-something nice to her.
-
-The thought of her friend chilled her mood like a splash of sea water. She
-turned the newly-invented motor over in her hands, then passed it to Wales. "I
-think it's ready."
-
-"Just another couple of minutes for the chassis." He shifted his toolbox to the
-floor and seated himself in its place. "She really will be all right," he said
-as if he'd been reading her mind.
-
-Iffy shrugged. "I know. I seen it in stories, an' Jeep's mostly back to how he
-was. Mister Mishra's son," she added. "The one time he said anything about it,
-he said it was like all the new stuff the core put in his head was so loud he
-couldn't hear his own thinkin' for a while. He's almost the same annoyin'
-nonsense as he used t' be, though."
-
-The corner of Wales' mouth quirked up. "I'm glad to hear it," he said drily.
-"One of the research cores in America spent, oh, must have been hours trying to
-figure out how to induct permanent changes without causing breakdowns, but it
-never found anything. At least, it said it didn't, but I sometimes wonder." He
-picked up a stray scrap of plastic stock shaped roughly like a bent pencil and
-tapped it against his forehead.
-
-Iffy goggled. "You been inducted?"
-
-Wales smiled. "A long time ago. Most of it faded pretty quickly. The
-rest... well." He flipped the plastic end over end and put it back in the
-fold-up box next to his foot.
-
-The silence that followed was as comfortable as being on night watch with Aunt
-Naggie when the sea was calm and both of them had stories to lose themselves in.
-It was broken by the soft *ping* of the printer. "Here we go," Wales said,
-opening the lid and lifting the still-warm chassis.
-
-Iffy's motor fit perfectly. A pair of metal-cored propellors on magnetic
-bearings clipped into place on top, and then all that was left was lenses for
-its cameras.
-
-*Well, ain't you a beauty?* Iffy thought when she was done. The finished drone
-was the size of Iffy's fist and weighed no more than a couple of boiled eggs.
-She ignored the rumble her stomach brought on by the analogy and offered the
-drone back to Wales. "Whaddaya wanna call it?"
-
-He shook his head. "This one's yours. All I did was push some buttons on the
-printer. But you should give her a name."
-
-Iffy hefted her tiny creation. "Can I call her Giraffe?" she asked.
-
-Wales nodded solemnly. "Giraffe it is. Come on---she doesn't belong down
-here."
-
-Wispy gray clouds lay in a clump on the horizon to port when they got back on
-deck, but other than that, the skies were clear. Iffy took a moment to sync
-Giraffe with her tablet, then cleared her throat. "Spin up one tenth," she
-commanded. The little drone's rotors began to whirl.
-
-"Hover." Wales flattened his hand. The drone hesitated a heartbeat before
-lifting a centimeter, its rotors humming quietly.
-
-"Track." Iffy pointed a finger at the drone, then drew an "S" in the air. The
-drone moved rose and fell to stay in line with her outstretched arm.
-
-A smile split her face. "Catch!" She pulled a scrap of insulating foil from
-her pocket, crumpled it, and tossed it into the air. Giraffe shot forward, its
-single stick-thin arm unfolding from its base to snatch its prey out of the air.
-
-"Well done," Wales said. "She's as steady as a rock."
-
-"Thanks." Iffy glanced down at her tablet. "Drawin' power faster than I'd
-like."
-
-Wales made a raspberry. Iffy giggled at the incongruous sound. "She's
-beautiful," he said firmly. "Go on, let her stretch her wings."
-
-Iffy sketched a quick correction to the drone's code on her tablet, swiped it
-across, and tucked the tablet into her pocket. "Sentry," she ordered. "Thirty
-meters out, one minute around. Go!"
-
-The drone climbed, banked, and flew away. Iffy and Wales pivoted slowly to
-watch it curve toward the stern and burst into a dazzling shatter as one of the
-Marines standing there blew it out of the sky.
-
-"No!" Iffy shrieked.
-
-Wales grabbed her arm as she started forward. "Don't. Iffy, don't!"
-
-"But---why'd he do that? Why'd he *do* that!?" she cried. She shrugged Wales
-off and ran to the stern. "What th' hell are you playin' at?" she demanded.
-
-The Marine who had shot down her drone holstered his pistol without expression.
-"Orders," he said flatly.
-
-"Orders? What orders?" She shoved him, which had about as much effect as
-shoving the *Guinevere*. "What affin' orders?"
-
-"Doctor Johel's orders," the other Marine said. The two men looked nothing
-alike, but they spoke in the same flat voice, their inducted accents a century
-out of date. "If it's not one of ours, burn it."
-
-"Well that *was* ours! That was *mine*! You could have asked before you---I'm
-talkin' to you!" She grabbed for the Marine again as he turned away.
-
-The Marine's hand shot up to catch her wrist. He spun Iffy around and pulled
-her arm up behind her back. "Don't. That's not allowed."
-
-Iffy struggled. "Lemme go! Lemme *go*!" she shrieked.
+===
 
 *Crack!* The Marines' heads snapped up in unison at the sound. Uncle Jack
 lowered the gaff hook. "Let 'er go," he growled.
@@ -380,54 +233,7 @@ agreeing or disagreeing.
 get back about your chores or I swear..." With a final glower at all and sundry
 he turned and stalked back toward the bow.
 
-"Come on," Wales said quietly, putting his hand on Iffy's arm. She slumped and
-nodded. Head down, she followed him back to the hatch and climbed down the
-short ladder into the engine room.
-
-Wales looked at the parts that still lay on the plastic worksheet and sighed.
-"I'm sorry. It was a beautiful little thing."
-
-"'s not your fault," Iffy muttered. She started picking up the leftover gears
-and rods but had to stop because she couldn't see properly. "I'm kappa," she
-lied angrily, wiping her eyes on her sleeve as Wales reached for her. "I
-just..."
-
-Wales sat back and waited. Iffy wiped her eyes again. "I had a rat," she said
-quietly. "Aunt Naggie got me a pair, but one of 'em had somethin' wrong with
-it, so I just had the one. I called her Giraffe too." She sniffled. "We
-didn't tell Uncle Jack. He woulda said somethin' stupid about another mouth to
-feed. But she was so smart, an' she'd sit in my hand an' eat stuff, an' climb
-up my arm, an' I taught her how to say g'mornin' and g'night an'..."
-
-She took a deep, shaky breath. "An' then one day she was gone. I dunno what
-happened. We jus' got back into Halley, an' we were all out, an' I came back
-an' she was gone. We looked all over for her, me an' Aunt Naggie, but..." She
-shook her head. "I musta left her cage unlocked or somethin'. If she got on
-deck, one o' the gulls or somethin' coulda got her and... and..."
-
-She clenched her hands into fists. "Why's it all got to be so hard?" she asked,
-hating her plaintive tone. "Why's everythin' got to be so messed up?"
-
-"I don't know," he said quietly. "I really don't know." He turned his head to
-look at her. "But if we can get to Mount Tyree---"
-
-He stopped himself. "What?" Iffy asked.
-
-Wales shook his head. "We knew this was coming," he continued after a moment.
-"The ice melting, the fish dying, computers watching us every second and getting
-smarter every day... We knew this was coming, but we couldn't get anyone to
-listen. They were all wrapped up in their own little problems and wouldn't let
-themselves see that all those problems were connected. By the time things were
-bad enough that they couldn't ignore it any more, it was too late."
-
-"I---I was just talkin' about the drone an' Honesty an' stuff," Iffy ventured
-weakly. "Not about th' whole world."
-
-Wales laughed. "Sorry. I do get carried away sometimes." His expression
-turned serious again. "But I'll promise you this, my young apprentice. If we
-get to Mount Tyree, and if the Niobium base hasn't been stripped for parts or
-flooded or burned out, and if we can get things to run, I promise---everything
-will be better. *Everything.*"
+===
 
 Doctor Johel paid the *Guinevere* a visit that afternoon, her first since
 leaving port. The *Bengal* had two swift gunboats, each capable of carrying

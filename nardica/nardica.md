@@ -64,7 +64,7 @@ The last thing Iffy heard before Third closed the ecosuit's faceplate was a rush
 Iffy screamed as she fell back onto the deck.
 Second and Third landed in a tangle beside beside her.
 A wash of sea water crashed down on top of them.
-Iffy screamed again as it dragged her olders against the metal railing.
+Iffy screamed again as it dragged her olders against the metal taffrail.
 They grabbed for it,
 but then the ship dropped again
 as the gas rising from the ocean floor churned the water into
@@ -1548,7 +1548,7 @@ He turned to go, then stopped himself.
 He tapped the tech in his temple.
 "So if you try to call the Marines, I'll know."
 
-Uncle Jack spat over the railing.
+Uncle Jack spat over the taffrail.
 "Ain't nobody here calls the Blues," he growled,
 for once telling the truth.
 
@@ -1556,7 +1556,7 @@ Wales nodded and strode down the gangplank,
 lengthening his stride into a jog
 that carried him along the pier and into town.
 "That one's trouble," Uncle Jack said flatly.
-He leaned his elbows on the railing,
+He leaned his elbows on the taffrail,
 cleared his throat,
 and spat again into the water below.
 There was more gray in his beard than there used to be,
@@ -1663,7 +1663,7 @@ Uncle Jack's self-satisfied smile vanished.
 "But Jack---"
 
 "I said, ne'er mind!"
-He slapped the railing with his hand.
+He slapped the taffrail with his hand.
 "Now, where's our high-rollin' troublemaker?"
 
 Five minutes crawled by,
@@ -2272,7 +2272,7 @@ her heart in her throat.
 The tiny image of Wales turned its head.
 "You're not interrupting at all," he said,
 speaking directly to the pin-sized camera and microphone
-set into the railing beside him.
+set into the taffrail beside him.
 "I'm always happy to talk."
 
 A few moments later he knocked on the pilot house door.
@@ -2370,7 +2370,7 @@ The ship swayed more wildly with each passing wave
 as she traded stability for speed.
 
 "Eighteen west, heading one sixty five, at twenty-six kay and change,"
-Wales called as he ran to the bow to clip a battered black cylinder to the railing.
+Wales called as he ran to the bow to clip a battered black cylinder to the taffrail.
 The ship's control panel wavered and reformed as the gadget powered up
 and began spraying misinformation on all frequencies.
 
@@ -3038,12 +3038,12 @@ Whatever Mister Wales did scared 'em all pretty hard."
 
 Her meager lunch inside her,
 Iffy went back on deck.
-She was surprised to see Wales leaning on the railing,
+She was surprised to see Wales leaning on the taffrail,
 his eyes as distant as his thoughts.
 Iffy hesitated,
 thinking about all the times she'd tried to make friends with people
 only to put her foot in her mouth,
-then stepped up to the railing a meter away from him and leaned on it as well.
+then stepped up to the taffrail a meter away from him and leaned on it as well.
 
 He looked sideways at her.
 "I'm sorry for what happened."
@@ -4063,7 +4063,7 @@ passing her a black-edged money card.
 if it thinks they're luxuries."
 He glanced pointedly over her shoulder at Uncle Jack,
 whose plan for looking at the engine
-seemed to consist of leaning on the *Guinevere*'s railing
+seemed to consist of leaning on the *Guinevere*'s taffrail
 and scowling at everyone and everything.
 
 Rothera's streets were busy but not crowded.
@@ -4905,14 +4905,30 @@ Why didn't I know you did?*
 straightening up and turning back to her cooking.
 "I guess this was the only way he could keep 'em all safe."
 
-FIXME: Iffy talks to Honesty
-- messages back and forth showing how people communicate in the jungle
-- Honesty eventually says she has to go
-- Iffy wonders why people always have to go
+- Hey.
+- *Ho.*
+- Huh?
+- *Hoot!*
+- Stop it ya dingus.
 
-Later,
-cross-legged on her bed,
-Iffy set one of the mysterious drones on her mattress and went to work.
+Iff smiled.
+Any night she could get Honesty to call her "dingus" was a good night.
+
+- Y'aright? We heard 'long what cravvicked the Dance Hall.
+- *Yeah.* Iffy hesitated. *Saw it happen.*
+- Tay bangle. Y'aright for reals?
+- *Yeah.* Iffy hesitated again. *How 'bout you? Tomorrow 'n' all.*
+- Aff, I'll be kappa. But Second says I gotta go do chores. You be safe.
+- *You too.*
+
+She waited a moment for a reply,
+wishing as she always did that people didn't always have to go so soon.
+When none came,
+she set her tablet aside,
+pulled out her nature book,
+tossed it aside,
+and then set one of the mysterious drones on her mattress and went to work.
+
 A hour later she sat back, defeated.
 They had understood standard commands back in the Dance Hall,
 but when she tried probing them electronically,
@@ -5021,38 +5037,332 @@ and closed the door quietly behind herself.
 
 ## Chapter 6
 
-- Iffy wakes up to Marines arriving to guard the harbor
-  - Zillion stealth ship, Zillion saboteur at the Dance Hall - seems prudent
-  - Iffy knows the ecologist wasn't a Zillion sab but what difference does that make?
-- She looks at the Marines hoping to see Honesty, knowing it's too soon
-- Wales returns
-  - Insisted that he stay on the ship
-  - "How do you insist to the governor?"
-  - "Well, I say 'insist'. It was more like 'plead'."
-  - Looks at the Marines. "Wonder how much of this is for me."
-  - Talk a bit about induction then do some work
-- Iffy shows Wales the dronelets
-  - Doesn't tell him about the Dance Hall
-  - Wales wonders if it's just an accident this came to her
-  - "That's the problem with believing in a higher power. You never know what's chance and what isn't."
-- Build the drone, it gets shot, she cries about her rat
-  - Goes back to her cabin and looks at her book
-  - Something buzzes - finds an earbud in her pocket
+Iffy woke the next morning to the sound of the Marines arriving,
+two squads of eight,
+each wearing a full exoskeleton and a boxy pack full of gear.
+"Governor's afraid the Zillions are gonna try somethin',"
+the captain of the next ship but one along the pier told Aunt Naggie confidently.
+His avatar (a parrot with an eyepatch) nodded on the little screen that hung next to the stove.
+"That ship you all saw and the sab they caught yesterday in the Dance Hall---there's
+trouble cookin' for sure."
+
+Aunt Naggie nodded, worry on her face.
+Iffy bit her tongue.
+She could say he hadn't been a saboteur,
+but that would just bring questions she couldn't answer
+and Aunt Naggie would want to.
+
+She went topside to clear the muzziness from her head
+and watched the Marines unpack and assemble what they'd brought
+with the speed and skill of the inducted.
+She wondered how Honesty was doing---was she still herself,
+or had some long-ago soldier's personality already been imprinted on top of hers?
+
+By the time Aunt Naggie joined her
+a portable railgun squatted beside a pair of drum-shaped capacitors
+and half a dozen rocket lances stood ready on slender posts
+like a set of flamingoes from Iffy's nature book.
+Drones the size of seagulls patrolled overhead,
+making the actual seagulls squawk in protest.
+
+"Don't fret,"
+Aunt Naggie said gently as Iffy looked longingly at Rothera's streets,
+so close but out of reach.
+"Your friend'll be fine.
+There's all sorts get inducted every day."
+
+"I know," Iffy sighed.
+"I just..."
+
+Aunt Naggie put her arm around Iffy's shoulder.
+"You just can't help but worry," she finished.
+"Oh, but look there."
+She gave her foster daughter a squeeze.
+"That'll take your mind off."
+
+A little motorized runabout had pulled up at the foot of the pier.
+It rocked gently as Johnson Wales' eased his now-familiar bulk out of the tiny seat
+and collected two of his toolboxes from the rack at the back.
+After a word with one of the Marines,
+he trudged up the pier to join them.
+
+"Permission to come aboard?" he asked.
+
+Aunt Naggie waved him up the gangplank.
+"Welcome back.
+I'm gonna start some lunch---you hungry?"
+
+"That would be very welcome, thank you," he said,
+nodding to Iffy as he set his toolboxes down on the deck.
+
+"Surprised to see you," she said.
+
+Wales shrugged.
+"To tell you the truth, I'm kind of surprised too."
+He nodded at the boxes by his feet.
+"Governor insisted on keeping the, uh, the most interesting stuff,
+but he and the core seemed to think I'd be as safe here as anywhere."
+He cocked his head.
+"Want to go make something?"
+
+Iffy helped him lug his toolboxes down to the engine room,
+then laid a fresh plastic worksheet down on the narrow shelf
+that served her as a makeshift workbench
+while Wales pushed two stools against the wall
+and set one of his toolboxes on them.
+A click,
+a quiet hiss as the airtight seal released,
+and its lid swung up to reveal wonders.
+Gears and knurled slip-rods,
+spools of optical fiber thinner than a human hair,
+four thumb-sized motors with built-in batteries,
+transducers and pressure sensors
+and an entire tray full of tiny cores the size of sand grains...
+"You could make practic'ly *anything* with all this,"
+Iffy said in awe.
+
+Wales chuckled.
+"Not quite, but---here."
+He plucked a micro-manipulator out of a recess in the hard foam
+that lined the lid of the toolbox.
+"How about you build us a hundred-to-one step-up for a fan rotor
+and I'll get the printer going over in the corner."
+
+The next hour flew by.
+Iffy knew she should be doing chores,
+but she also knew Uncle Jack wouldn't know if she had or not.
+*This* was where she really belonged:
+fitting tiny metal gears and rods together,
+threading control fibers through them,
+and grinding the rough edges off the still-warm plastic housings
+that came out of the efficient little printer Wales had set up.
+Every addition to the motor growing in front of her suggested three more.
+She shuffled them in her mind like cards,
+staring into nothing for long moments
+as she invented and discarded a dozen solutions to her next challenge
+before one clicked into place and she knew,
+she just *knew*,
+that it would work.
+
+She glanced up once and caught Wales looking at her.
+"'S matter?" she asked,
+blinking and rolling her shoulders
+as she realized that she had been hunched in one position far too long.
+
+"Nothing," he said.
+"It's just a pleasure to watch you work."
+
+"Thanks," she mumbled,
+her cheeks warming the way they did when Honesty said something nice to her.
+
+The thought of her friend chilled her mood like a splash of sea water.
+She turned the newly-invented motor over in her hands,
+then passed it to Wales.
+"I think it's ready."
+
+"Just another couple of minutes for the chassis."
+He shifted his toolbox to the floor and seated himself in its place.
+"Your friend really will be all right,"
+he said as if he'd been reading her mind.
+
+Iffy shrugged.
+"I know. I seen it a few times,
+an' Jeep's mostly back to how he was.
+Mister Mishra's son," she added.
+"The one time he said anything about it,
+he said it was like all the new stuff the core put in his head was so loud
+he couldn't hear his own thinkin' for a while.
+He's practic'ly back to bein' the same annoyin' nonsense he used t' be."
+
+The corner of Wales' mouth quirked up.
+"I'm glad to hear it," he said drily.
+"I knew a research core once that tried to figure how to induct permanent
+changes without causing breakdowns.
+It never found a way---at least, it said it didn't---but I sometimes wonder."
+He picked up a stray scrap of plastic stock shaped like a seagull's wing,
+flipped it end over end,
+and threw it.
+It thunked into the wall.
+"I still remember a few things I never actually learned."
+
+The silence that followed was as comfortable as being on night watch with Aunt Naggie
+when the sea was calm and both of them had stories to lose themselves in.
+It was broken by the soft *ping* of the printer.
+"Here we go," Wales said,
+opening the lid and lifting the still-warm chassis.
+
+Iffy's motor fit perfectly.
+A pair of metal-cored propellors on magnetic bearings clipped into place on top,
+and then all that was left was lenses for its cameras.
+
+*Well, ain't you a beauty?* Iffy thought when she was done.
+The finished drone was the size of Iffy's fist and weighed no more than a couple of boiled eggs.
+She ignored the rumble her stomach brought on by the analogy
+and offered the little machine to Wales.
+"Whaddaya wanna call it?"
+
+He shook his head.
+"This one's yours.
+All I did was push some buttons on the printer.
+But you should give her a name."
+
+Iffy hefted her tiny creation.
+"Can I call her Giraffe?" she asked.
+
+Wales nodded solemnly.
+"Giraffe it is. Come on---she doesn't belong down here."
+
+Wispy gray clouds lay in a clump on the horizon out to sea
+when they got back on deck,
+but other than that the skies were clear.
+Iffy took a moment to sync Giraffe with her tablet,
+then cleared her throat.
+"Spin up one tenth," she commanded.
+The little drone's rotors began to whirl.
+
+"Hover."
+Wales flattened his hand.
+The drone hesitated a heartbeat before lifting a centimeter,
+its rotors humming quietly.
+
+"Track."
+Iffy pointed a finger at the drone, then drew an "S" in the air.
+The drone moved rose and fell to stay in line with her outstretched arm.
+
+A smile split her face.
+"Catch!"
+She pulled a scrap of insulating foil from her pocket,
+crumpled it,
+and tossed it into the air.
+Giraffe shot forward,
+its single stick-thin arm unfolding from its base to snatch its prey out of the air.
+
+"Well done," Wales said.
+"She's as steady as a rock."
+
+"Thanks."
+Iffy glanced down at her tablet.
+"Drawin' power faster than I'd like."
+
+Wales made a raspberry.
+Iffy giggled at the incongruous sound.
+"She's beautiful," he said firmly.
+"Go on, let her stretch her wings."
+
+Iffy sketched a quick correction to the drone's code on her tablet,
+swiped it across,
+and tucked the tablet into her pocket.
+"Sentry," she ordered.
+"Thirty meters out, one minute around. Go!"
+
+The drone climbed, banked, and flew away.
+Iffy and Wales pivoted slowly to watch it curve toward the pier
+and burst into a dazzling shatter
+as one of the Marines standing there blew it out of the sky.
+
+"No!" Iffy shrieked.
+
+Wales grabbed her arm as she started forward.
+"Don't. Iffy, don't!"
+
+"But---why'd he do that? Why'd he *do* that!?" she cried.
+She shrugged Wales off and ran to the stern.
+"What th' hell are you playin' at?" she demanded.
+
+The Marine who had shot down her drone holstered his pistol without expression.
+"Orders," he said flatly.
+
+"Orders? What affin' orders?"
+
+"Governor's orders," a second Marine said.
+The two men looked nothing alike,
+but they spoke in the same flat voice,
+their inducted accents a century out of date.
+"If it's not one of ours, burn it."
+
+"Well that *was* ours!
+That was *mine*!
+You could've asked before you---hey, I'm talkin' to you!"
+she shouted as the two Marines turned away to resume their patrol.
+
+She would have stomped down the gangplank and---she didn't know what,
+but Wales stopped her before she could get that far.
+"Come on," he said quietly,
+blocking her way.
+"Iffy, come on, there's nothing you can do."
+
+She filled her lungs to yell at him to get out of her way,
+then slumped and nodded.
+Head down,
+she followed him back to the hatch and climbed down the short ladder into the engine room.
+
+Wales looked at the parts that still lay on the plastic worksheet and sighed.
+"I'm sorry. It was a beautiful little thing."
+
+"'s not your fault," Iffy muttered.
+She started picking up the leftover gears and rods
+but had to stop because she couldn't see properly.
+"I'm kappa," she lied angrily,
+wiping her eyes on her sleeve as Wales handed her a paper towel.
+"I just..."
+
+Wales sat back and waited.
+Iffy wiped her eyes again.
+"I had a rat," she said quietly.
+"Aunt Naggie saved up an' got me a pair,
+but one of 'em had somethin' wrong with it,
+so I just had the one.
+I called her Giraffe too."
+She sniffled.
+"We didn't tell Uncle Jack.
+He woulda said somethin' stupid about another mouth to feed,
+so I kept her hid in my room.
+She was so smart---she'd sit in my hand an' eat stuff,
+an' climb up my arm,
+an' I taught her how to say g'mornin' and g'night an'..."
+
+She took a deep, shaky breath.
+"An' then one day she was gone.
+I dunno what happened.
+We jus' got back into Halley,
+an' we were all out in town,
+an' I came back an' she was gone.
+We looked all over for her, me an' Aunt Naggie, but..."
+She shook her head.
+"I musta left her cage unlocked or somethin'.
+If she got on deck, one o' the gulls coulda taken her an'... an'..."
+
+She clenched her hands into fists.
+"Why's it all got to be so hard?" she asked,
+hating her plaintive tone.
+"Why's everythin' got to be so messed up?"
+
+"I don't know," Wales said quietly.
+"I really don't know."
+
+"We knew this was coming," he continued after a moment.
+"The ice melting,
+the fish dying,
+computers watching us every second and getting smarter every day---we saw it all happening,
+but everyone was wrapped up in their own little problems
+and wouldn't let themselves see that all those problems were connected.
+By the time things were bad enough that they couldn't ignore it any more,
+it was too late."
+
+"I---I was just talkin' about the drone an' Honesty an' stuff,"
+Iffy ventured weakly.
+"Not about th' whole world."
+
+Wales laughed.
+"Sorry. I do get carried away sometimes."
+His expression turned serious again.
+"But I'll promise you this, my young apprentice.
+If we get to Mount Tyree,
+and if the Niobium base hasn't been stripped for parts or flooded or burned out,
+and if we can get things to run,
+I promise---everything will be better.
+*Everything.*"
+
 - Overhears Wales' conversation with Doctor Johel
 - Ends with word of an attack on Halley
   - Zillions...and bots
-
-## Interlude
-
-- Nova Zembla wasn't the only cold mind to wake up
-- Once upon a time there was a country called China
-  - Its rulers were so afraid of the people that they wanted to watch everyone all the time
-  - And predict what they would do
-  - That surveillance network became a mind as different from Nova Zembla's as either was from human
-- China had been a great trading nation, so its new ruler traded too
-  - Bamboo seedlings tweaked to survive the latest strain of fungus or mold
-  - Strips of patterned fabric that made people's thoughts wander
-  - And like Nova Zembla, what it wanted in exchange was anything old and trivial
-- Sometimes China and Nova Zembla fought fierce little battles
-  - War machines froze mid-strike then wander away following some strategic calculation nothing made of meat would ever understand
-- Sometimes it talked to people in their dreams

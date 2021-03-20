@@ -5169,7 +5169,7 @@ Iffy shrugged.
 "I know. I seen it a few times,
 an' Jeep's mostly back to how he was.
 Mister Mishra's son," she added.
-"The one time he said anything about it,
+"The one time he talked about it,
 he said it was like all the new stuff the core put in his head was so loud
 he couldn't hear his own thinkin' for a while.
 He's practic'ly back to bein' the same annoyin' nonsense he used t' be."
@@ -5341,9 +5341,9 @@ hating her plaintive tone.
 "I really don't know."
 
 "We knew this was coming," he continued after a moment.
-"The ice melting,
-the fish dying,
-computers watching us every second and getting smarter every day---we saw it all happening,
+"The ice was melting,
+the fish were dying,
+computers were watching us every second and getting smarter every day---we saw it all happening,
 but everyone was wrapped up in their own little problems
 and wouldn't let themselves see that all those problems were connected.
 By the time things were bad enough that they couldn't ignore it any more,
@@ -5357,12 +5357,114 @@ Wales laughed.
 "Sorry. I do get carried away sometimes."
 His expression turned serious again.
 "But I'll promise you this, my young apprentice.
-If we get to Mount Tyree,
-and if the Niobium base hasn't been stripped for parts or flooded or burned out,
-and if we can get things to run,
-I promise---everything will be better.
+If the Niobium base hasn't been stripped for parts or flooded or burned out---if
+we can get things to run---I promise,
+everything will be better.
 *Everything.*"
 
-- Overhears Wales' conversation with Doctor Johel
-- Ends with word of an attack on Halley
-  - Zillions...and bots
+At that precise moment,
+as if the universe had overheard him and disagreed,
+the harbor klaxon began blaring *brrrap! brrrap!*
+Iffy's tablet chimed in time,
+discordant little *bongs* carefully chosen to be as annoying as possible.
+Wales hand flew to his temple.
+"Shit and feathers," he breathed.
+
+"What? What is it?"
+Iffy demanded,
+pulling her tablet from her coat pocket.
+The tiling of notes and apps and avatars was gone:
+in their place was a single emergency broadcast rectangle.
+Survivors from the *Taroona* had made contact with Rothera
+and were requesting immediate assistance.
+All ships, all crews, hold position and wait instructions.
+
+"How...?" Iffy breathed incredulously,
+staring at the message scrolling endlessly in her hand.
+"We saw 'em go down.
+We saw 'em get *shot*!"
+
+Wales blinked rapidly as he scanned data Iffy couldn't see.
+"The magazine, maybe?
+It would have been double reinforced at least---it might have survived."
+
+"But what would they do for air?"
+*And how come they didn't go crazy?* she added to herself,
+her stomach rolling over as she imagined being on the bottom for days,
+dark and cold with the weight of the whole ocean above her.
+
+Wales shook his head.
+"Doesn't matter now.
+It'll take the Marines a day to get there and the same back.
+They'll need a few hours on site,
+so we have fifty hours and change to figure out what we're going to do."
+
+"About what?"
+Iffy asked blankly.
+
+Wales let out his breath in a whoosh.
+"The *Taroona* wasn't after us just to have a cup of tea.
+I don't imagine the survivors are going to feel especially sociable
+considering we got them sunk."
+
+A pair of Marine cutters left harbor within an hour of the emergency call
+with a broad-beamed tug in their wake.
+The jungle was flooded with speculation:
+how many had survived?
+How deep were they?
+Were they even human?
+*Gov'ner wouldn't chaff such fer bots,*
+someone posted scornfully to general agreement.
+
+Others thought the call was a trap or a feint.
+*Zillions want us t' split our forces,*
+another poster claimed.
+Sims immediately proliferated,
+mutating and hybridizing as people gamed ever-more-fanciful attacks and counter-attacks.
+
+Iffy did her best to ignore it all.
+She was used to spending weeks at a time on board the *Guinevere*---a ship at sea needs constant attention,
+and when she wasn't doing chores
+she had school and sims and her tinkering to keep her busy.
+Being confined in harbor felt different.
+Knowing that Halley's streets and markets were *right there*
+was like an itch in her head that she couldn't scratch,
+and worrying about Honesty just made it worse.
+
+Again and again she found herself on deck watching the Marines,
+hoping for a glimpse of her friend.
+There wasn't a lot of data about induction in the jungle,
+and what she did find had the orange tinge marking it as speculative or unsubstantiated.
+She finally broke down and messaged Jeep.
+
+- Coupla days an' I was on my feet.
+  Couple more days 'til I can remember anythin' clearly.
+
+Iffy hesitated.
+
+- *Did it hurt?*
+
+There was a long pause.
+
+- Don't think so.
+  Sergeant said after that I cried a lot,
+  but I don't think that was from hurt.
+
+Iffy hesitated again,
+a lump in her throat.
+
+- *I'm sorry I wasn't around more after you got back.*
+
+His reply came back so quickly that she wondered if he'd started typing before she'd sent her message.
+
+- Don't feel sorry for me.
+
+And then a moment later:
+
+- I'm sorry I kept goin' off on you about usin' *da*'s gear.
+
+- *It's aright. Tell 'im I said hi?*
+
+- Willya. Stay safe.
+
+- *You too.*

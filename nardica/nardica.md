@@ -4327,7 +4327,7 @@ and set it on the to-do rack that lined the wall behind the workbench.
 "How 'bout these?"
 
 The flat box she passed to Iffy opened to reveal
-squares woven from fractal carbon fiber,
+four squares woven from fractal carbon fiber,
 each the size of her nature book but no thicker than half a dozen of its pages.
 It took her a second to realize that
 the grommets patterned across the squares were rotors,
@@ -4927,13 +4927,13 @@ When none came,
 she set her tablet aside,
 pulled out her nature book,
 tossed it aside,
-and then set one of the mysterious drones on her mattress and went to work.
+and then set one of the mysterious dronelets on her mattress and went to work.
 
 A hour later she sat back, defeated.
 They had understood standard commands back in the Dance Hall,
 but when she tried probing them electronically,
 her home-made wireshark showed nothing but frazzled gibberish.
-She yawned and packed the drone back in its box,
+She yawned and packed the dronelet back in its box,
 then waved her light off.
 
 *She was on deck.
@@ -5408,7 +5408,7 @@ I don't imagine the survivors are going to feel especially sociable
 considering we got them sunk."
 
 A pair of Marine cutters left harbor within an hour of the emergency call
-with a broad-beamed tug in their wake.
+with a broad-beamed scow in their wake.
 The jungle was flooded with speculation:
 how many had survived?
 How deep were they?
@@ -5428,13 +5428,18 @@ and when she wasn't doing chores
 she had school and sims and her tinkering to keep her busy.
 Being confined in harbor felt different.
 Knowing that Halley's streets and markets were *right there*
-was like an itch in her head that she couldn't scratch,
-and worrying about Honesty just made it worse.
+was like an itch in her head that she couldn't scratch.
+Worrying about Honesty just made it worse,
+and knowing that Wales would let her use his gear felt like just another weight
+after what had happened to her little drone.
 
 Again and again she found herself on deck watching the Marines,
 hoping for a glimpse of her friend.
+She messaged Honesty's olders a couple of times,
+but all they could say was, "We're still waitin' to hear."
+
 There wasn't a lot of data about induction in the jungle,
-and what she did find had the orange tinge marking it as speculative or unsubstantiated.
+and what she did find had an orange tinge marking it as speculative or unsubstantiated.
 She finally broke down and messaged Jeep.
 
 - Coupla days an' I was on my feet.
@@ -5468,3 +5473,159 @@ And then a moment later:
 - Willya. Stay safe.
 
 - *You too.*
+
+Three days after the Marine cutters left Halley they escorted the scow back into Halley harbor.
+Even Uncle Jack went on deck with his ancient glass-lensed binoculars to watch,
+but all anyone could see was the canvas shelter the Marines had erected
+to shield what they were doing from prying eyes.
+"An announcement will be made after those rescued have been interviewed,"
+scrolled past on ten thousand tablets in the blue-on-blue reserved for the governor,
+and then there was silence.
+
+"Weren't *my* fault," Iffy overheard Uncle Jack protest to someone unseen.
+"Y'ask me the whole thing was a setup.
+Oh, I'm sure you can figure it out.
+Idjit."
+The last was muttered around a final mouthful of undercooked noodles.
+He had taken to making his own meals at odd hours,
+and to sleeping in the pilot house.
+Aunt Naggie kept herself busy in the galley or sat and knit---actually knit---with
+music Iffy didn't recognize playing quietly in the background.
+
+"I'm aright," she told Iffy when her foster daughter asked.
+"It's actually nice t' have some peace an' quiet for a change."
+
+The false calm ended with a summons for Wales delivered by a pair of Marines in exoskeletons.
+"Look after things?" he asked Iffy,
+nodding toward his cabin door
+before turning to go without waiting for an answer.
+The Marines followed him down the pier.
+
+Something snapped inside Iffy.
+She couldn't stand one more second of just waiting for *someone* to do *something*.
+She ran back to her cabin,
+slammed the door closed behind her,
+and took the box of dronelets out from under her mattress.
+
+It only took a few moments to measure the capacity of their batteries and do a few calculations.
+Fully charged,
+they'd be able to stay in the air for twenty minutes,
+less if there was a wind,
+so call it fifteen.
+Take a guess at their top speed...
+No, she didn't have to guess,
+that was right there in their firmware,
+but going that fast would drain the battery a lot faster.
+Time and distance shaped a curve behind her eyes.
+Two kilometers---that was all she could count on.
+
+Her shoulders slumped.
+The canal where Honesty lived with her olders was almost that far on foot.
+Even going straight across the harbor,
+there was no way one of the dronelets could get there and back on a single charge.
+
+She straightened up.
+*One* of the dronelets couldn't,
+but she had a set of four.
+She leaped to her feet and ran to Aunt Naggie's cabin,
+her boots clanging on the deck.
+
+"Just a coupla meters," she said breathlessly,
+spreading her arms to show the length she needed.
+
+Her foster mother unspooled that much yarn,
+then the same length again,
+and snipped it off.
+"Thank you!"
+Iffy raced backed to her room and set to work.
+
+It took half a dozen tries and a lot of swearing to get the balance right,
+and she suspected that whoever had made the dronelets
+would have been appalled at her clumsy invention,
+but it worked.
+At least,
+she thought it would.
+She *hoped* it would,
+because she was only going to get one chance.
+
+She stuffed the dronelets under her coat and went back on deck.
+The sky had clouded over---she didn't know if that would help or not.
+Uncle Jack was nowhere to be seen,
+and (she glanced over the taffrail) the Marines were doing something with the railgun.
+She wandered to harbor side of the *Guinevere* and took a deep breath,
+willing her heart to slow.
+When that didn't work she unzipped her coat and knelt on the deck.
+
+One, two, three---she laid the dronelets out in a triangle.
+And four---she set the remaining one on the knotted spiderweb of yarn she had made.
+*Camouflage*, she ordered.
+The dronelets changed color to match the deck.
+*Airborne. No, not you.*
+The fourth dronelet's tiny motors stilled.
+It settled back onto the yarn strung between its three siblings.
+
+*Launch.*
+Flying in formation,
+the three dronelets slid off the deck.
+Iffy stood,
+zipped her coat closed,
+and rested her elbows on the taffrail to watch them fly away
+just a few centimeters above the sluggish gray waves in the harbor.
+Their camouflage ought to hide them from the spotter drones circling endlessly overhead.
+She couldn't do anything about the yarn,
+but she hoped the thin strands would go unnoticed or be classified as floating garbage.
+
+Thirty seconds... sixty...
+Each of the dronelets had cameras the size of sand grains woven into it.
+She could look through them if she wanted,
+but would the signal give them away?
+Ninety seconds...
+A hundred.
+A hundred and ten.
+She started a countdown in her head.
+At one hundred and twenty seconds she let out the breath she hadn't realized she was holding.
+If everything had worked,
+the three dronelets should be on their way back
+while the fourth's motors carried it onward to Honesty's home.
+
+Another countdown.
+Her heart nearly stopped when a seagull swooped down mid-harbor,
+but then it squawked and flew away empty-beaked.
+There---no,
+that really was just a scrap of dredging net floating by.
+
+She finally spotted the dronelets just a few meters away,
+the yarn web empty between them.
+She grinned.
+She'd done it!
+
+A heartbeat later the dronelets splashed into the harbor.
+She goggled in wide-eyed disbelief.
+Their batteries must have run out.
+She looked around in a panic.
+The gaff hook!
+Iffy pulled it off the wall behind her,
+dropped it to the deck with a clatter she was sure the governor himself could hear,
+picked it up by the wrong end,
+reversed it,
+slung herself half over the taffrail,
+and tried to hook the drones.
+The hook was heavy---for a moment she was afraid she'd lose it too---but
+then she caught the yarn and pulled her creations over to the side of the ship.
+Sliding her weight back onto the deck,
+she grabbed the gaff hook with both hands
+and gently lifted the dripping dronelets out of the sea.
+
+"What th' hell d'you think you're doin'?"
+Uncle Jack demanded roughly behind her.
+
+"Dropped somethin',"
+Iffy said without looking at him.
+
+"Trash."
+She didn't know if he meant her or the sodden tangle at her feet.
+"You make sure that hook's secure, you mind me?"
+
+"I will."
+She set it back in its rack as he stomped back to the pilot house,
+then picked up the dronelets and hurried back to her cabin.

@@ -5547,6 +5547,10 @@ At least,
 she thought it would.
 She *hoped* it would,
 because she was only going to get one chance.
+After that,
+a couple of minutes with some markers and maybe,
+just maybe,
+her work would go unnoticed.
 
 She stuffed the dronelets under her coat and went back on deck.
 The sky had clouded over---she didn't know if that would help or not.
@@ -5622,10 +5626,159 @@ Uncle Jack demanded roughly behind her.
 "Dropped somethin',"
 Iffy said without looking at him.
 
-"Trash."
+"Affin' trash."
 She didn't know if he meant her or the sodden tangle at her feet.
 "You make sure that hook's secure, you mind me?"
 
 "I will."
 She set it back in its rack as he stomped back to the pilot house,
 then picked up the dronelets and hurried back to her cabin.
+
+And waited.
+
+And waited.
+
+And checked the time on her tablet *again*
+even though she knew it had only been a minute since she last checked.
+"Yer bein' stupid," she muttered angrily,
+tossing the tablet back onto the mattress.
+She looked around her cabin and set her jaw.
+
+"What's got into you?"
+Aunt Naggie asked a few minutes later,
+bemused.
+
+"Spring cleanin'," Iffy grunted as she mopped.
+She had dragged her mattress out onto the deck
+and piled her few belongings on top of it.
+The bucket of soapy water beside them had gone brown.
+
+"Well, if you're in th' mood,
+you could have a go at th' galley."
+
+"Sure."
+Iffy straightened up,
+breathing a little hard from exertion.
+"Soon as I'm done here."
+
+She calmed down enough by the time her room was clean
+to regret saying she would do the galley as well,
+but with Aunt Naggie there to lend a hand it was done in no time.
+It helped that she kept the stove and the little square sink spotless,
+and that they'd never been able to afford enough
+to have boxes or jars of anything that wasn't in regular use.
+
+Iffy managed not to check the time until she was sitting down
+waiting for her tea.
+Fifty-one minutes had passed.
+Nine more and---
+
+"So you an' Mister Wales seem t' be gettin' on,"
+her foster mother said,
+setting a heavy mug on the table in front of Iffy
+before sitting down with her own.
+
+"Mm hm."
+Iffy blew on her tea.
+"He's all kinds o' smart,
+an' the stuff he's got..."
+
+"You sound like a woman in love,"
+Aunt Naggie teased.
+Then her smile slipped a little
+and Iffy knew who she must be thinking of.
+
+"I'm thinkin' about askin' him if I can take on with him,"
+she said in a rush.
+"Like, be a 'prentice for real."
+
+"You should,"
+Aunt Naggie said firmly.
+"A few years with him an' Mister Mishra'll have some real competition."
+
+"Or I could work for him,"
+Iffy countered.
+"Mister Mishra, I mean.
+Wouldn't feel right, settin' up opposite him."
+She slurped her tea and stood, mug in hand.
+"I gotta go finish up."
+Leaning forward,
+she kissed her foster mother on the top of the head
+then clambered back on deck and ran back to her room.
+
+Aunt Naggie wiped her eyes on her sleeve.
+The galley seemed smaller than it had.
+
+Iffy's cabin still smelled like vinegar,
+but she closed the door anyway and snibbed the lock.
+There was no need to rig an antenna---like most ships her age,
+the *Guinevere* had microfine wires woven into her hull for all-around radar,
+and Iffy had long since figured out how to plug into them.
+The only question was,
+had the fourth dronelet made it all the way to Honesty's unobserved,
+and did it have enough battery left to transmit?
+
+The clock on her tablet counted down.
+"C'mon c'mon," she whispered.
+Five seconds... three...
+
+*Packet received.*
+
+"Woo hoo!"
+She clapped her hands over her mouth and snorted a laugh through them.
+A few keystrokes and the grainy images began their slideshow.
+
+The canal where the Marine cutter lay at berth.
+The barnacles were gone or nearly, she noticed.
+The salvage booth with its heavy canvas curtain-door,
+and beyond it,
+the warehouse that Honesty's olders had turned into a home.
+A faded ad for Volkov's hot sauce was still visible on its cinderblock wall.
+She had drawn the same logo on the back of the dronelet.
+With luck,
+any cameras that picked up the dronelet's deliberately irregular motion
+would think it was a scrap of paper being blown about by the wind.
+
+The next image was from inside the salvage booth.
+The timestamp in the corner showed that the dronelet had waited almost five minutes before taking it.
+*Or before it was safe to sneak in,* she thought.
+Her heart was pounding as if she was playing the most exciting sim ever.
+She needed to pee,
+but she couldn't stop watching now.
+
+Honesty's Second was bent over her workbench in the next four images.
+First joined her in the next one,
+her arm around her younger sib's shoulder as if trying to lend her strength.
+
+"---the gunk ounta sed affin' gears,"
+Second said,
+tinny and frustrated.
+
+"Do as you can,"
+First soothed her.
+"She'll be back an' us t'morrow."
+
+"That's as they said yesterday, but here she ain't,"
+Second snapped.
+
+Iffy's breath caught in her throat.
+Had something happened to Honesty?
+Had the induction gone wrong somehow?
+
+The next image came up.
+First's arm was still around Second's shoulders,
+and the younger clone had leaned her head against the older.
+Feeling a sudden pang of guilt,
+Iffy swiped the images closed.
+What she was doing was surveillance, pure and simple.
+Worse than that,
+she felt like she was betraying their trust.
+They were just as worried about their youngest clone as Iffy was---more, even---and
+intruding on them didn't feel right.
+
+Still,
+she didn't key in the commands to recall the dronelet
+or untangle the others and send them to fetch it.
+The dronelet's little core was smart enough to find a way to recharge.
+With luck,
+it would be able to show her what she wanted to see the next time it transmitted.

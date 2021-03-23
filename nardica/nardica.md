@@ -5782,3 +5782,135 @@ or untangle the others and send them to fetch it.
 The dronelet's little core was smart enough to find a way to recharge.
 With luck,
 it would be able to show her what she wanted to see the next time it transmitted.
+She could always apologize later.
+
+Johnson Wales returned in time for dinner with two Marines at his back
+and a canvas sack of groceries in each hand.
+He looked tired behind his warm smile and cheerful hello.
+"Courtesy of the governor," he said as he handed over the peppers and cabbage and yes,
+that was garlic nestled among the sweet potatoes.
+"Well, more like courtesy of his kitchen.
+I'm sure he would have said yes if they'd checked with him.
+Oh, and before I forget."
+He reached into the pocket of his coat and handed a pair of hard-boiled eggs to Iffy.
+
+"How'd it go with all from th' *Taroona*?"
+Aunt Naggie asked,
+eyebrows furrowed as she planned a week of real cooking in her head.
+
+"I understand there's going to be a hearing,"
+he replied,
+nodding minutely at the Marines who had taken posts at the foot of the gangplank.
+"Here,
+let me help you with those."
+
+The three of them barely fit into the galley,
+but somehow Aunt Naggie found enough elbow room to get a pot of tea on
+as she packed the vegetables away.
+"So how'd it *really* go?" Iffy asked,
+her elbows on the table and her chin on her doubled fists.
+
+Wales raised a warning finger,
+then took hold of one of the buttons on his cuff and closed his eyes.
+The tech in his temple twinkled for a moment.
+"There," he said,
+opening his eyes again.
+"That should give us a couple of minutes."
+
+Iffy straightened up.
+"Are we bein' surveilled?" she asked,
+a pang of guilt putting heat in her words.
+
+"I don't know, but---oh, thank you."
+Wales took his tea from Aunt Naggie and set it down.
+"I don't know,"
+he repeated.
+"They'll have put a tracker on me at the very least.
+It's legal,"
+he added as Iffy opened her mouth to protest.
+"Doctor Johel tells me the Tasmanians are raising righteous hell,
+and the *Taroona* hadn't actually gotten around to doing anything illegal
+before she went down.
+As far as they know,
+it was all a Zillion trap and I'm the evil mastermind.
+They could have locked me up until they figured it all out---a tracker
+is actually pretty lenient."
+
+"Lemme guess," Aunt Naggie said sourly.
+"You give th' governor your fancy toolbox an' he'll make it all go away."
+
+Wales grinned crookedly.
+"Something like that."
+He stared into his tea.
+"Only two of them made it,"
+he added quietly.
+"They were off duty and, um,
+in the dive room with the hatch dogged shut.
+Pure dumb luck there was enough oxygen to keep them alive
+until someone picked up their distress beacon."
+
+Iffy swallowed back nausea.
+Trapped under a hundred meters of Antarctic ocean,
+waiting for their air to run out,
+not knowing if anyone was coming---it was straight out of her nightmares.
+"They gonna be aright?" she asked.
+
+Wales shrugged.
+"As right as anyone can be after something like that.
+Assuming, of course, that it actually happened the way they said."
+
+Aunt Naggie stopped mid-chop.
+"You think they're lyin'?"
+
+Wales hesitated,
+then shook his head.
+"I don't know.
+I ran a few sims and it's possible,
+but so are a lot of other things."
+
+Iffy's eyes widened.
+"You think they're Zillion spies or some such?"
+
+Wales chuckled.
+"Maybe.
+Or killer robots wearing meat suits as a disguise
+on a secret mission to assassinate the governor.
+I'm joking,"
+he added hastily at the others' alarmed expressions.
+"That's just a campfire story from the war.
+And anyway,
+the Marines would have spotted it as soon as they did a medical scan.
+They wouldn't have let them get within a hundred kilometers of the governor
+if anything was even a nanometer off."
+
+"Unless they're in on it too,"
+Iffy said archly.
+She leaned forward.
+"Maybe they're in it with th' Zillions an' China together
+and they're all workin' to--- to---"
+
+"Oh hush,"
+Aunt Naggie laughed,
+bumping Iffy with her shoulder.
+"You been playin' too many sims.
+Nex' thing you'll be tellin' about how the governor's really some kind of alien."
+
+Wales leaned forward,
+mimicking Iffy.
+"I didn't want to say anything until I was sure of you," he whispered loudly,
+and then all three were laughing.
+
+*Thump! Thump!*
+"Affin' hell, I'm tryin' to sleep!"
+Uncle Jack bellowed through the wall.
+Wales clapped his hand over his mouth with his eyes wide in mock terror
+as Iffy and Aunt Naggie muffled their laughter in each other's shoulders.
+
+They took their meal up on deck and sat together at the stern to eat.
+Afterward,
+in her room,
+Iffy couldn't really remember what they had talked about.
+What she remembered was a feeling like weight lifting off her.
+She knew it couldn't last,
+but maybe it didn't have to.
+Maybe it was enough for it to have happened at all.

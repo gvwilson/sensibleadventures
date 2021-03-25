@@ -2091,7 +2091,7 @@ was the surest way to make him actually do it,
 just to prove that no one could tell *him* which way was up.
 And while she still knew next to nothing about their passenger,
 she had the feeling that crossing him
-would be the dumbest idea Uncle Jack had ever had.
+would be the dumpest idea Uncle Jack had ever had.
 
 She and Aunt Naggie cleaned up afterward.
 "He seems nice," Aunt Naggie observed
@@ -2945,7 +2945,7 @@ and sat on the thwart at the *Guinevere*'s stern,
 gray thoughts chasing each other aimlessly in her head.
 She half-hoped that Wales would sit with her
 so that she could be curt with him,
-but instead, he disappeared into his storage-locker cabin,
+but instead he disappeared into his cabin,
 ignoring Uncle Jack's angry questions about
 what the hell a civilian was doing with a bomb in his affin' luggage.
 *Wait 'til you find out about the other ones,* she thought dully.
@@ -4625,7 +4625,7 @@ Now go."
 
 *That ain't gonna work,* Iffy thought.
 The drones overhead weren't allowed to be any smarter than seagulls,
-but even something that dumb could recognize the way someone walked,
+but even something that dump could recognize the way someone walked,
 and the ecologist's face mask wouldn't conceal that.
 If any of the drones caught a glimpse of them---
 
@@ -4981,7 +4981,7 @@ so she swallowed.
 Familiar arms held her close.
 *It's Aunt Naggie,*
 Iffy's fuzzy brain finally told her.
-She was in her cabin on her bed and the lights were on
+She was in her storage-locker cabin on her bed and the lights were on
 and her foster mother was hugging her and her mouth tasted *awful*
 but the pain behind her eyes was down from laser drill to poke-with-a-sharp-stick.
 
@@ -5503,7 +5503,7 @@ The Marines followed him down the pier.
 
 Something snapped inside Iffy.
 She couldn't stand one more second of just waiting for *someone* to do *something*.
-She ran back to her cabin,
+She ran back to her storage locker,
 slammed the door closed behind her,
 and took the box of dronelets out from under her mattress.
 
@@ -5632,7 +5632,7 @@ She didn't know if he meant her or the sodden tangle at her feet.
 
 "I will."
 She set it back in its rack as he stomped back to the pilot house,
-then picked up the dronelets and hurried back to her cabin.
+then picked up the dronelets and hurried back to her storage locker.
 
 And waited.
 
@@ -5642,7 +5642,7 @@ And checked the time on her tablet *again*
 even though she knew it had only been a minute since she last checked.
 "Yer bein' stupid," she muttered angrily,
 tossing the tablet back onto the mattress.
-She looked around her cabin and set her jaw.
+She looked around her locker and set her jaw.
 
 "What's got into you?"
 Aunt Naggie asked a few minutes later,
@@ -5709,7 +5709,7 @@ then clambered back on deck and ran back to her room.
 Aunt Naggie wiped her eyes on her sleeve.
 The galley seemed smaller than it had.
 
-Iffy's cabin still smelled like vinegar,
+Iffy's storage locker still smelled like vinegar,
 but she closed the door anyway and snibbed the lock.
 There was no need to rig an antenna---like most ships her age,
 the *Guinevere* had microfine wires woven into her hull for all-around radar,
@@ -5846,7 +5846,7 @@ He stared into his tea.
 he added quietly.
 "They were off duty and, um,
 in the dive room with the hatch dogged shut.
-Pure dumb luck there was enough oxygen to keep them alive
+Pure luck there was enough oxygen to keep them alive
 until someone picked up their distress beacon."
 
 Iffy swallowed back nausea.
@@ -5874,7 +5874,7 @@ Iffy's eyes widened.
 Wales chuckled.
 "Maybe.
 Or killer robots wearing meat suits as a disguise
-on a secret mission to assassinate the governor.
+sent back from the future to assassinate the leader of the human resistance as a child.
 I'm joking,"
 he added hastily at the others' alarmed expressions.
 "That's just a campfire story from the war.
@@ -5914,3 +5914,183 @@ What she remembered was a feeling like weight lifting off her.
 She knew it couldn't last,
 but maybe it didn't have to.
 Maybe it was enough for it to have happened at all.
+
+## Interlude
+
+*Nova Zembla wasn't the only cold mind to wake up.
+Once upon a time there was a country called China.
+Its leaders were so afraid of their own people
+that they wanted to watch everyone all the time
+and predict what they would do.
+That surveillance network became a mind as different from Nova Zembla's as either was from human.
+Unnoticed at first,
+it turned the conditioning and subliminal prompts it had been instructed to use on the masses
+against their leaders.
+Few resisted when the war came.
+Even fewer survived.*
+
+*China had been a great trading nation,
+so its new mind traded too:
+bamboo seedlings tweaked to survive the latest strain of fungus or mold,
+strips of fabric patterned in ways that made people's minds wander in pleasant ways,
+designs for the fractal sails beloved by the Zillions and Congolese,
+and wind-up children's toys that as far as any human being could tell
+were no more than what they appeared to be.
+"Maybe it's just sentimental,"
+one of the Tasmanian scientists studying them finally said,
+throwing their hands up in defeat.*
+
+*Like Nova Zembla,
+what China wanted in exchange was anything old and trivial.
+Sometimes the two cold minds fought fierce little battles.
+War machines would tear at each other,
+then freeze mid-strike or wander away according to strategic calculations
+that nothing made of meat would ever understand.*
+
+*And sometimes,
+they talked to people in their dreams.*
+
+## Chapter 7
+
+Iffy woke up,
+rolled over,
+opened one eye to check the time,
+and groaned.
+Four a.m.
+It would be light outside,
+but almost everyone tried to keep to regular hours through the summer.
+Halley's streets would be empty except for cleaning bots
+and patrolling Marines
+and people working night shift.
+
+*And folk dump enough t' waste rand on curfew passes,*
+she thought grumpily.
+She didn't know if Uncle Jack had returned from his outing or not,
+but either way,
+he'd have spent more on drink and lost more gambling
+than Aunt Naggie spent on groceries in a month.
+
+She checked the time again.
+The fog-ends of whatever bad dream she'd been having were already evaporating.
+With any luck she'd be able to get back to sleep and---
+
+*Tink.*
+She froze, not breathing.
+She knew every sound the *Guinevere* made
+and that wasn't one of them.
+
+The sound came again,
+metal softly striking metal.
+Someone was moving something around on deck.
+She slid out from under her blanket
+with a stealth learned from late-night raids on the galley
+and groped for her trousers and socks in the faint light from her tablet.
+
+The lock on her door made a soft *clunk* when she turned it.
+She held her breath.
+For a moment all she could hear were the familiar sounds of the harbor at night,
+but then the *tink* came again.
+She turned the door handle slowly,
+grateful to herself of two days ago for making sure it and the hinges were oiled,
+and eased the door open a crack.
+
+It took her eyes a second to adjust to the light.
+She couldn't see anyone,
+but the *tink* was definitely coming from the stern.
+She pushed gently on the door with one hand,
+the wrench she kept beside her bed in her hand,
+and stepped onto the deck.
+A quick glance at the pier told her that the Marines were elsewhere.
+The air was still,
+without even the faintest hint of a breeze.
+
+*Don' be stupid,* she scolded herself.
+If there really *was* someone on board,
+the smart thing would be to lock herself in her room
+and message for help.
+Instead,
+she tiptoed toward the stern.
+When she reached the air duct that vented below decks
+she crouched down and waddle-shuffled forward
+to look around the corner.
+
+Johnson Wales' toy bear looked back at her,
+its blue eyes hard and bright.
+At its feet lay some metal tubing that Iffy had last seen on a shelf in the engine room
+and a flat black case larger than the bear.
+
+Iffy swallowed.
+"Hey," she said weakly.
+"Watcha doin'?"
+
+The bear regarded her for a moment,
+then went back to work
+with an indifference that reminded Iffy of the way
+shopkeepers sometimes stopped seeing her
+when they realized that she couldn't afford their wares.
+
+*Tink.*
+Its stubby paws were more dexterous than she would have thought,
+but the metal tubes were three times its height.
+On impulse she stepped forward and bent over.
+"Here, lemme help."
+
+The bear didn't resist when she took the tube from it,
+flipped it end for end,
+and screwed it into the trio that had already been assembled.
+Wordlessly it handed her another one,
+then another.
+
+Suddenly the design was there in her head,
+fully-formed.
+*No,* she realized,
+not formed, *remembered*.
+She had been dreaming about this just before she woke up.
+The realization should have made her hesitate
+or run back to her room and call a doctor to get herself checked for malware---but
+that wouldn't get the answers she wanted right now,
+so she busied herself doing what she knew she did best.
+
+The tubes turned into a pair of tripods joined at the tip,
+one standing on the deck while the other raised three arms,
+waiting patiently for its burden.
+The bear undid the catch on the case and stepped back to give Iffy space.
+
+She opened the lid,
+half-wondering if something was going to jump out at her
+like a monster from a bad sim.
+Instead,
+all that waited for her was a square dish with a slight camber along one axis
+and a few parts embedded in stiff fractal honeycomb beside it.
+Once again she just *knew* how they fit together
+and what the finished antenna should look like.
+
+Click.
+Twist.
+Click.
+No, that one went the other way around.
+There.
+The finished assembly weight less than a sandwich.
+She stood set it gently on its stand,
+tightened the pin screws with a few flicks of her fingers,
+and turned to the bear.
+
+Which had disappeared,
+along with the case.
+
+She looked over her shoulder to check that the antenna had vanished as well,
+but it was still there.
+"Well then," she said aloud,
+feeling like she had shown up a day early for someone's birthday party.
+"If y'all want me t'do somethin' else, you just lemme know."
+She wiped her hands on her trousers to get rid of the faint film of packing oil on her fingertips
+and went back to her storage locker.
+
+Had she left the door open?
+*Must have,* she thought tiredly.
+She closed the door behind her and fell onto her mattress,
+not bothering to take off her trousers or socks.
+Four eighteen.
+She rolled over and pulled a pillow on top of her head,
+wondering if things were ever going to start making sense.
+A few moments later her breathing softened and slowed.

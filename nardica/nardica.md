@@ -5948,6 +5948,7 @@ then freeze mid-strike or wander away according to strategic calculations
 that nothing made of meat would ever understand.*
 
 *And sometimes,
+like the gods of old,
 they talked to people in their dreams.*
 
 ## Chapter 7
@@ -6080,17 +6081,179 @@ along with the case.
 
 She looked over her shoulder to check that the antenna had vanished as well,
 but it was still there.
-"Well then," she said aloud,
+"Well then," she said sourly,
 feeling like she had shown up a day early for someone's birthday party.
-"If y'all want me t'do somethin' else, you just lemme know."
+"If y'all need help with anythin' else, you just lemme know."
 She wiped her hands on her trousers to get rid of the faint film of packing oil on her fingertips
 and went back to her storage locker.
 
 Had she left the door open?
 *Must have,* she thought tiredly.
-She closed the door behind her and fell onto her mattress,
+She closed it behind her and fell onto her mattress,
 not bothering to take off her trousers or socks.
 Four eighteen.
 She rolled over and pulled a pillow on top of her head,
 wondering if things were ever going to start making sense.
 A few moments later her breathing softened and slowed.
+
+When she woke again it was half past seven.
+Her mouth tasted like someone had stuffed it with old socks,
+and her head ached.
+
+Something tugged at the skin on her upper lip as she yawned.
+She rubbed it,
+then stared in nauseous disbelief at the crust of scab that came off on her fingers.
+Her nose had been bleeding.
+There was some on her pillow, too.
+
+She grabbed a clean shirt and her towel and stumbled out into the light.
+The Marines were back---she looked away so they wouldn't see the dried blood on her face---but
+thankfully no one was on deck.
+She splashed water from the sink on her face,
+then hung her clothes in the dry closet
+and pressed the button to fill the tiny bathroom with hot, prickly mist,
+wishing as she so often did that the *Guinevere* had a real shower.
+
+Clean and dressed and with her head freshly shaved,
+she unlocked the door and pulled up short.
+"Sorry," she said, startled.
+"Din't know you were waitin'."
+
+Johnson Wales waved her apology away.
+"No worries.
+How are you?"
+
+"Fine," she yawned,
+joining him on the deck.
+"But next time you want help puttin' somethin' together,
+maybe we can do it durin' the day?"
+
+Wales looked at her quizzically.
+"Last night."
+She gestured vaguely toward the stern.
+"That antenna or whatever it was."
+
+He frowned.
+"Iffy, I have no idea what you're talking about."
+
+A few seconds later they stood side by side in silence
+looking at the double tripod and the shallow square dish it held.
+"Well, that part's mine,"
+Wales said neutrally,
+"But I don't recognize the rest of it."
+
+Iffy felt like a giant hand was squeezing her head.
+"Th' pipes are from ship's stores.
+Your bear was tryin' to put 'em together,
+but its hands or paws or whatever you call 'em weren't up for it,
+so I helped out."
+She rubbed her nose and checked her hand as casually as she could.
+No blood,
+but if her head got any worse she was going to have to find some meds.
+
+"My remote is in an isolation box at the governor's residence,"
+Wales said quietly after a moment of silence.
+"Whatever happened here last night had nothing to do with it."
+
+*Boom!*
+Iffy felt the explosion as much as she heard it.
+She whirled around.
+A pillar of dust climbed toward the sky above Halley
+as the harbor klaxon to blare.
+
+The portable railgun on the pier spun through a hundred and eighty degrees.
+*Crack!*
+A jacketed steel slug took one of the Marines in the chest,
+throwing his lifeless body back twenty meters.
+The other Marine jerked from side to side as her exoskeleton's defenses took control.
+The railgun tracked her,
+twitching left left left right left right *crack!*
+The slug took her leg off at the knee,
+spinning her around in a full circle.
+She toppled over the edge of the pier and splashed into the harbor.
+
+Wales grabbed Iffy and pulled her back around the corner
+as a pair of drones shed their gossamer wings and plummeted toward the railgun.
+The tech in his temple sparkled.
+"It's China!" he shouted.
+"It's hacked Halley's defenses!"
+
+Iffy stared at him in horror,
+then past him at the antenna.
+She heard a *crack!* as the railgun shot down one of the drones
+and then a crash as the other one hit it.
+"Affin' hell," she swore.
+She yanked a life preserver off the wall to fling at it.
+
+Wales caught her arm.
+"No," he said sharply.
+"It's not using that.
+Iffy, it's not!
+I'd know."
+He tapped his tech.
+
+Uncle Jack bellowed something from the pilot house.
+The deck thrummed as the *Guinevere*'s engines came to life.
+"Never mind that now!" he shouted at Aunt Naggie.
+"Cast off *now*!
+We're gettin' th' hell out o' here!"
+
+Iffy heard the galley hatch clang open.
+"Auntie, look out!" she shouted.
+She pulled her arm away from Wales and charged around the corner and---
+
+*The world slowed down as angles and vectors and trajectories painted crisp colored lines
+across the wireframe renderings of the ship and the pier.
+Another drone was banking to attack the railgun
+because it was still fully operational
+the other drone's impact had knocked it out of position by a couple of meters
+but it was still upright with its capacitors intact.
+It pivoted as it acquired another target
+human unarmored
+bearing ninety-seven degrees
+elevation twenty-eight point four degrees
+range twenty-one point two two meters
+negligible lateral velocity
+no need to adjust for the slight obstruction of the ship's taffrail.*
+
+"No!" she screamed.
+
+*Her command struck the railgun's tiny core with more force than the drone had struck its housing.
+Five redundant security systems toppled over,
+as dead as the first Marine.
+Firing: unthinkable.
+Targeting: unthinkable.
+With a tiny spark too small to be called microscopic
+the railgun's core electrocuted itself.*
+
+"Citizens!"
+A mechanical voice boomed across the harbor.
+"This is a class two emergency!
+Take shelter immediately.
+Power down or disable any advanced devices in your immediate vicinity.
+Do not attempt to flee!
+Any vehicle or vessel that moves will be treated as a potential hostile."
+
+Aunt Naggie spun around,
+not realizing how close her end had been.
+"Jack---" she started.
+
+"Cast off that affin' line!" he shouted.
+Even at the stern and with her head spinning
+Iffy heard his fist hit the display in the pilot house.
+*He better not break it,* she thought muzzily.
+What had just happened?
+She shouldn't have been able to hack the railgun like that.
+She shouldn't have been able to *see* like that.
+What *was* she?
+
+The drone that had been about to attack the railgun swooped overhead,
+circled,
+and hovered.
+"Citizen!"
+its tinny voice said.
+"Do not attempt to flee!
+Any vehicle or vessel in motion during the current situation will be treated as hostile."
+
+Aunt Naggie raised her hands and backed away from the taffrail,
+the stayline still tied on.

@@ -6170,7 +6170,7 @@ The railgun tracked her,
 twitching left left left right left right *crack!*
 The slug took her leg off at the knee,
 spinning her around in a full circle.
-She toppled over the edge of the pier and splashed into the harbor.
+She toppled over the edge of the pier and into the harbor.
 
 Wales grabbed Iffy and pulled her back around the corner
 as a pair of drones shed their gossamer wings and plummeted toward the railgun.
@@ -6190,7 +6190,9 @@ Wales caught her arm.
 "It's not using that.
 Iffy, it's not!
 I'd know."
-He tapped his tech.
+He took hold of the life preserver.
+After a moment's resistance,
+Iffy let him take it.
 
 Uncle Jack bellowed something from the pilot house.
 The deck thrummed as the *Guinevere*'s engines came to life.
@@ -6257,3 +6259,129 @@ Any vehicle or vessel in motion during the current situation will be treated as 
 
 Aunt Naggie raised her hands and backed away from the taffrail,
 the stayline still tied on.
+The pilot house door flew open.
+"I told you to cast off!"
+Uncle Jack shouted,
+shoving Aunt Naggie out of his way.
+He grabbed the stayline---
+
+---and fell to the deck like a sack full of seaweed
+as the life preserver hit him in the head with a thump.
+It ricocheted off the wall,
+spun away over the railing,
+and splashed into the harbor.
+
+"Sorry about that," Wales said briskly as Aunt Naggie and Iffy turned and stared at him.
+"But I think the core is serious about staying put."
+
+Aunt Naggie's mouth worked for a moment.
+"No need t'apologize," she said.
+"Shoulda done it myself years ago.
+Now can someone please tell me what's happenin'?"
+
+"Help!" someone shouted before Iffy or Wales could answer.
+"Citizen, help me!"
+
+The Marine who had been knocked off the pier!
+Iffy raced to the railing and looked down.
+Somehow the Marine's exoskeleton had kept her afloat
+long enough for her to grab the life preserver that had just landed beside her,
+but she didn't look like she could last much longer.
+
+"Grab the winch!"
+Aunt Naggie ordered.
+
+"There's no time!"
+Wales snapped.
+"Just get a rope down to her---now!"
+
+Iffy didn't need to be told twice.
+If there was anything a ship like the *Guinevere* had,
+it was rope.
+She yanked open a locker and pulled a coil out.
+
+It only took Wales a moment to tie a loop.
+"Get this under your armpits!" he shouted down to the Marine,
+tossing it to her.
+She pulled it over her head one-handed then slumped back into the water,
+barely conscious.
+
+"Here goes nothing," Wales muttered.
+Bracing one foot against the taffrail
+he looped the end of the rope around his back and handed it to Iffy.
+"Take up the slack.
+And *one*, and *two*."
+With each grunt he pulled in a meter of the bright yellow rope
+for Iffy to re-coil.
+
+The Marine thumped against the *Guinevere*'s hull.
+"Hold on!" Wales said,
+pulling her up the last two meters and grabbing her limp arm.
+One final heave got her up over the rail and onto the deck.
+
+"Here."
+Aunt Naggie handed him the first aid kit from the pilot house.
+Wales turned it on and pressed it against the Marine's neck.
+
+"Come on come on," Wales muttered.
+Aunt Naggie put her arm around Iffy and squeezed her.
+The status light on the first aid kid blinked orange, yellow, orange, yellow:
+the Marine was alive but in critical condition.
+The exoskeleton had clamped an emergency tourniquet around the Marine's leg
+to stop her bleeding out,
+but even a few moments in the harbor was enough to send her into hypothermia.
+
+Diagnostics scrolled up the first aid kid's screen.
+Pain killers,
+stimulants to counteract their dulling effects and kick her metabolism into action,
+microdoses of a dozen precautionary antibiotics, antivirals, antifungals, and antiprions.
+"Remain calm, citizen," her exoskeleton said.
+"Help is on its way."
+
+By the time that help arrived the Marine was sitting up
+with her back against the pilot house
+and a thermal blanket tucked in awkwardly around her exoskeleton.
+She mumbled a thank you when Aunt Naggie pressed a cup of tea into her hand,
+staring dully at what was left of her left leg.
+
+"We'll take it from here,"
+said the first Marine up the gangplank.
+Wales stepped aside to let him kneel beside his comrade.
+He slipped a boxy medical unit over the stump of her leg
+while the two Marines behind him unfolded a stretcher.
+
+"Any idea what's going on?"
+Wales asked as they lifted the wounded Marine into place.
+
+The first Marine shook his head.
+"I'm sorry, citizen.
+Please remain where you are---there will be an update as soon as it's safe."
+He paused.
+"And thank you."
+
+Wales nodded.
+Down on the pier,
+another trio of Marines had loaded the one who'd been shot in the chest
+onto another stretcher.
+With a pair of drones circling overhead,
+they hurried away.
+
+Iffy turned to Wales.
+"Can't that stuff o' yours tell you anythin'?"
+
+He shook his head.
+"There's a total blackout.
+I could try to hack some of the military channels,
+but if they spotted me they'd think it was part of the attack."
+
+Three paces away Uncle Jack groaned and sat up.
+"What th' hell?" he mumbled.
+
+"You hit your head,"
+Wales said before Aunt Naggie or Iffy could speak.
+"Then the Marines showed up."
+
+Uncle Jack stood unsteadily.
+"Affin' hell.
+I'm gonna go lie down."
+He stumbled away without looking at his wife or foster daughter.

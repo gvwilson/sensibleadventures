@@ -3111,7 +3111,7 @@ into a scowling face.
 The rest of the Marines were scattered among crates and machines
 or on the decks of nearby ships,
 their positions chosen after a millisecond of high-intensity simulation by the city's core.
-Other than them, the pier was deserted.
+Other than them the pier was deserted.
 So were the piers on either side, Iffy realized.
 
 "Sharks in the water," Wales murmured beside her
@@ -3240,7 +3240,7 @@ Iffy's cheeks burned under their curious stares.
 Some nodded but no one said hello.
 
 They followed Doctor Johel and the G-80 to the harbor gate,
-where a bus the same navy blue as the Marines' uniforms waited for them.
+where a short bus the same navy blue as the Marines' uniforms waited for them.
 The G-80 stood motionless as Doctor Johel got to her feet.
 "After you," she said,
 gesturing at the bus's open door.
@@ -5427,7 +5427,7 @@ She was used to spending weeks at a time on board the *Guinevere*---a ship at se
 and when she wasn't doing chores
 she had school and sims and her tinkering to keep her busy.
 Being confined in harbor felt different.
-Knowing that Halley's streets and markets were *right there*
+Knowing that Rothera's streets and markets were *right there*
 was like an itch in her head that she couldn't scratch.
 Worrying about Honesty just made it worse,
 and knowing that Wales would let her use his gear felt like just another weight
@@ -5474,7 +5474,7 @@ And then a moment later:
 
 - *You too.*
 
-Three days after the Marine cutters left Halley they escorted the scow back into Halley harbor.
+Three days after the Marine cutters left Rothera they escorted the scow back into the harbor.
 Even Uncle Jack went on deck with his ancient glass-lensed binoculars to watch,
 but all anyone could see was the canvas shelter the Marines had erected
 to shield what they were doing from prying eyes.
@@ -5960,7 +5960,7 @@ and groaned.
 Four a.m.
 It would be light outside,
 but almost everyone tried to keep to regular hours through the summer.
-Halley's streets would be empty except for cleaning bots
+Rothera's streets would be empty except for cleaning bots
 and patrolling Marines
 and people working night shift.
 
@@ -6119,7 +6119,7 @@ she unlocked the door and pulled up short.
 "Sorry," she said, startled.
 "Din't know you were waitin'."
 
-Johnson Wales waved her apology away.
+Wales waved her apology away.
 "No worries.
 How are you?"
 
@@ -6158,7 +6158,7 @@ Wales said quietly after a moment of silence.
 *Boom!*
 Iffy felt the explosion as much as she heard it.
 She whirled around.
-A pillar of dust climbed toward the sky above Halley
+A pillar of dust climbed toward the sky above Rothera
 as the harbor klaxon to blare.
 
 The portable railgun on the pier spun through a hundred and eighty degrees.
@@ -6176,7 +6176,7 @@ Wales grabbed Iffy and pulled her back around the corner
 as a pair of drones shed their gossamer wings and plummeted toward the railgun.
 The tech in his temple sparkled.
 "It's China!" he shouted.
-"It's hacked Halley's defenses!"
+"It's hacked Rothera's defenses!"
 
 Iffy stared at him in horror,
 then past him at the antenna.
@@ -6351,23 +6351,43 @@ He slipped a boxy medical unit over the stump of her leg
 while the two Marines behind him unfolded a stretcher.
 
 "Any idea what's going on?"
-Wales asked as they lifted the wounded Marine into place.
+Wales asked as they lifted the wounded Marine into place
+and rolled her down the gangplank.
 
 The first Marine shook his head.
-"I'm sorry, citizen.
-Please remain where you are---there will be an update as soon as it's safe."
-He paused.
-"And thank you."
+"there will be an update as soon as it's safe, citizen.
+Please remain where you are until then and---."
+He stopped mid-sentence.
+"Please confirm that you are Commander Johnson Wales,"
+he continued abruptly.
 
-Wales nodded.
+*Commander?* Iffy thought as Wales nodded.
+"I am."
+
+"Hold for transmission."
+The Marine straightened.
+
+"Johnson?"
+Doctor Johel's voice came from a speaker somewhere on the Marine's exoskeleton.
+"Are you all right?"
+
+"We're fine, Gayathri.
+What the hell's going on?"
+
+"I'll brief you when you get here,"
+Doctor Johel replied crisply.
+"Stay where you are for now---someone will come and collect you as soon as the situation stabilizes.
+Johel out."
+
+The Marine saluted and followed his squad mates down the gangplank.
 Down on the pier,
-another trio of Marines had loaded the one who'd been shot in the chest
-onto another stretcher.
+another trio of Marines had stripped the exoskeleton off the one who'd been railgunned in the chest
+and zipped his body into a lightweight navy blue bag.
 With a pair of drones circling overhead,
-they hurried away.
+they marched away.
 
-Iffy turned to Wales.
-"Can't that stuff o' yours tell you anythin'?"
+"Can't that stuff in your head tell you anythin'?"
+Iffy asked Wales.
 
 He shook his head.
 "There's a total blackout.
@@ -6382,6 +6402,119 @@ Wales said before Aunt Naggie or Iffy could speak.
 "Then the Marines showed up."
 
 Uncle Jack stood unsteadily.
-"Affin' hell.
-I'm gonna go lie down."
-He stumbled away without looking at his wife or foster daughter.
+"Affin' hell."
+He glared at Wales,
+then at his wife,
+and then stumbled away to his cabin,
+muttering under his breath.
+
+The short blue bus that came to collect Wales a few minutes later
+had a few more nicks and dents than
+the one that had taken them to see the governor in Rothera.
+Or maybe it was the same one and those days had been as rough on it
+as they had been on everyone else.
+"They're with me," Wales told the Marines,
+jerking his thumb at Iffy and Aunt Naggie.
+
+"What?" said Aunt Naggie
+and "No sir," the Marine sergeant said firmly.
+
+"My orders say one passenger," he continued.
+
+Wales crossed his arms.
+"It's for their safety.
+I insist," he continued.
+"Check with Doctor Johel if you need to."
+
+The Marine's lips moved silently.
+"D'you think there's gonna be another attack?" Iffy whispered.
+
+Wales glanced past her at Aunt Naggie.
+"That's not what I'm worried about."
+Embarrassed, Aunt Naggie looked away.
+
+"Doctor Johel asks, is it absolutely necessary?"
+the Marine relayed.
+Wales nodded curtly.
+"Very well, sir.
+After you."
+
+As they walked down the pier Iffy said,
+"Since when are you a commander?"
+
+Wales snorted.
+"Silly, isn't it?"
+I'll tell them to update their records."
+Which, Iffy noted, wasn't an answer.
+
+Rothera's streets were empty
+except for a handful of Marines.
+Vehicles stood where their owners or passengers had abandoned them.
+Iffy saw people watch the bus go by through the windows of shops and cafés,
+their questions and worries clear on their faces.
+The network was still locked down:
+all she saw when she snuck surreptitious glances at her tablet was
+the same repeating message.
+This was a class two emergency.
+Take shelter,
+stay calm,
+and power down or disable any advanced hardware nearby.
+More information would be forthcoming.
+
+But then the bus came around a corner and suddenly Iffy could see the damage the explosion had caused.
+The town hall overlooked a cobbled square.
+Ten meters of its front facade now lay strewn across the ground.
+Another ten meters on either side had collapsed,
+leaving the rooms inside open for all to see.
+
+She swallowed hard at the sight of a dozen navy blue bags
+lined up neatly beside a light fountain.
+Every window Iffy could see had been shattered.
+The broken glass would have been like flying knives.
+
+"Saints and our sins,"
+Aunt Naggie whispered,
+squeezing Iffy's hand.
+"Who could do somethin' like this?"
+
+"Almost anyone,"
+Wales said bleakly.
+"There's nothing people won't do if they're afraid enough or want something enough."
+
+"Y' think it was people an' not…you know."
+Iffy nodded toward the front of the bus where a driver would have sat
+if the bus needed one.
+
+"The machines?"
+Wales shrugged.
+"Maybe.
+Maybe they're thinking twenty moves ahead
+and this is part of some strategy we can't even start to understand.
+Or maybe there was a glitch in some algorithm and this is just collateral damage."
+
+"Or maybe it's nothing to do with the machines,
+or at least nothing they care about.
+Maybe it's some faction back in Hobart trying to distract attention from something else.
+Hell, maybe it *is* the Zillions.
+We might never know."
+He sighed and rubbed his eyes.
+
+The bus picked its way through the rubble
+and deposited them in front of a side door
+guarded by a squad of Marines and a pair of sentry bots like the ones from Rothera.
+One of the Marines waved them inside.
+They had to wait a few moments while the Marines double-checked that they were in fact expected.
+"You're clear," one of them said.
+
+Iffy froze.
+"Honesty?" she asked incredulously.
+
+The Marine raised her visor.
+Honesty's Third looked at Iffy with clear brown eyes.
+"Hello Iffy," she said.
+
+Iffy gaped at her.
+Honesty waited a moment,
+then lowered her visor.
+"Come on," Aunt Naggie said gently.
+Iffy let her foster mother pull her up the stairs and through the door.

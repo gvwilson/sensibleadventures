@@ -6461,15 +6461,30 @@ stay calm,
 and power down or disable any advanced hardware nearby.
 More information would be forthcoming.
 
-But then the bus came around a corner and suddenly Iffy could see the damage the explosion had caused.
-The town hall overlooked a cobbled square.
-Ten meters of its front facade now lay strewn across the ground.
-Another ten meters on either side had collapsed,
+"Hey,"
+Iffy said quietly to Aunt Naggie as the bus made its way downtown.
+"Watcha gonna do 'bout Uncle Jack?"
+
+Her foster mother forced a smile.
+"Oh, I'm sure his head'll be fine.
+He's had worse knocks 'n that."
+
+"That's not what I mean, auntie."
+
+Aunt Naggie squeezed Iffy's hand.
+"I know, love.
+I know."
+
+Then the bus came around a corner and they could see the damage the explosion had wrought.
+Rothera's town hall overlooked a cobbled square.
+Ten meters of its front wall now lay strewn across it,
+concrete and rebar and translucent cabling as if a giant had tripped while taking out the garbage.
+Another ten meters of wall on either side had collapsed,
 leaving the rooms inside open for all to see.
 
-She swallowed hard at the sight of a dozen navy blue bags
+Iffy swallowed hard at the sight of a dozen navy blue bags
 lined up neatly beside a light fountain.
-Every window Iffy could see had been shattered.
+Every window facing the square had been shattered.
 The broken glass would have been like flying knives.
 
 "Saints and our sins,"
@@ -6518,3 +6533,123 @@ Honesty waited a moment,
 then lowered her visor.
 "Come on," Aunt Naggie said gently.
 Iffy let her foster mother pull her up the stairs and through the door.
+
+Doctor Johel was waiting for them in a windowless office on the second floor.
+She looked smaller and older than Iffy remembered,
+and she hadn't ever seemed either large or young.
+Information danced across a dozen displays on the tables pushed up against three of the room's walls.
+Twists of cables as thick as Iffy's wrist criss-crossed the worn carpet on the floor,
+blue and red and translucent,
+some sheathed in wire mesh for extra security.
+Bright yellow rings with "Caution!" and the icon for explosives cinched the cables every couple of meters.
+
+Doctor Johel barely glanced up when their escort knocked and ushered them in.
+"One of the survivors of the *Taroona* was rigged," she said without preamble,
+her eyes flickering back and forth, sparkling in counterpoint to the data on the displays.
+"We don't know how, or how our scans missed it."
+
+"What does Hobart have to say about it?"
+Wales asked.
+
+"They deny everything, of course."
+Doctor Johel froze one of the displays with a flick of a finger,
+glared at it,
+and motioned it back to life.
+"According to them it must have been the machines."
+
+"That *would* explain how it got past your scans,"
+Wales mused.
+
+"Don't patronize me," the old woman snapped.
+"We have eighteen dead and twice that many injured,
+including the local copy of the governor.
+If it was China or Nova Zembla or one of the others then yes,
+we're poached,
+but it could just as well have been the Zillions or---"
+
+She cut herself off and took a deep breath,
+then let it out slowly through her nose.
+"Was it really necessary to bring your traveling companions?"
+she continued,
+her voice calm again.
+"This *is* something of an emergency."
+
+"I thought it would be safest,"
+Wales replied evenly,
+giving no indication if he meant from another attack or from Uncle Jack.
+
+Doctor Johel pushed her chair back and folded her hands in her lap,
+studying him.
+"Johnson…what are you doing here?
+I mean, what are you *really* doing here?"
+
+"I just need to get to Mount Tyree, Gayathri.
+I swear, that's all I'm trying to do.
+I just want to fix everything."
+
+"We can go somewheres else if you need to talk,"
+Aunt Naggie offered hesitantly in the silence that followed.
+
+"Don't be silly,"
+the old woman said,
+standing with a wince and straightening her plain black jumpsuit decisively.
+"Let's have some tea, shall we?"
+
+"Tea" turned out to mean a broad flight of marble stairs like something from an old sim
+followed by a corridor hung with actual painted paintings
+and a room whose floor-to-ceiling windows looked into a greenhouse
+filled with plants blooming in a dozen different colors.
+The air smelled moist and rich,
+like soil and damp cardamom,
+and the person who poured their tea and set up a small tray of sweets beside them
+came and went as noiselessly as a shadow.
+
+"So how's the governor?"
+Wales finally asked.
+
+"Oh, he'll recover.
+The clones all monitor each other in real time,
+so even if he was killed it wouln't be the end of their world."
+Doctor Johel leaned forward.
+"You really should try one of the pink ones,"
+she suggested to Aunt Naggie.
+"They're supposed to taste like something called raspberry."
+
+She sat back again and turned her gaze on Iffy.
+"And what about you?"
+she mused.
+"What exactly was that you were building last night?"
+
+"Just riggin' up an antenna,"
+Iffy replied as steadily as she could,
+wondering if this is what a rat felt like
+when a hungry seagull looked at it.
+
+"Mm."
+Doctor Johel sipped her tea.
+"The core tells me your ship already had five,
+but I suppose one more can't hurt,
+can it,
+Johnson?"
+
+"You can never be too rich or too well networked,"
+Wales agreed.
+"But speaking of antennas…"
+
+"Oh, don't worry, the governor will keep his word.
+You'll get your gear back,
+and your expedition."
+Doctor Johel popped a sweet into her mouth and chewed it,
+a thoughtful expression on her face.
+"In fact,
+I might come along for old time's sake."
+
+"That would be wonderful,"
+Wales said,
+sounding as if he meant it.
+"When can we leave?"
+
+"Just as soon as the other survivor from the *Taroona* tells us what we want to know,"
+Doctor Johel said sweetly.
+She stood and brushed nonexistent crumbs from her jumpsuit.
+"Shall we go and have a word with her?"

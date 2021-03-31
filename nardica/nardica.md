@@ -2112,7 +2112,7 @@ nudging her foster mother with her elbow.
 Aunt Naggie blushed.
 Her "knitting" consisted of two balls of yarn,
 a pair of needles,
-and an endless series of romance novels
+and an endless series of romance sims
 featuring wealthy strangers with smoldering eyes
 who didn't realize how empty their rich, idle lives were
 until they met the right person,
@@ -6271,7 +6271,7 @@ It ricocheted off the wall,
 spun away over the railing,
 and splashed into the harbor.
 
-"Sorry about that," Wales said briskly as Aunt Naggie and Iffy turned and stared at him.
+"Sorry about that," Wales said brightly as Aunt Naggie and Iffy turned and stared at him.
 "But I think the core is serious about staying put."
 
 Aunt Naggie's mouth worked for a moment.
@@ -6544,9 +6544,14 @@ some sheathed in wire mesh for extra security.
 Bright yellow rings with "Caution!" and the icon for explosives cinched the cables every couple of meters.
 
 Doctor Johel barely glanced up when their escort knocked and ushered them in.
-"One of the survivors of the *Taroona* was rigged," she said without preamble,
+"One of the survivors from the *Taroona* was rigged," she said without preamble,
 her eyes flickering back and forth, sparkling in counterpoint to the data on the displays.
-"We don't know how, or how our scans missed it."
+"Some sort of binary explosive on their skin---their hands were inert on their own,
+but when they put them together..."
+She waved vaguely toward the destruction at the front of the building.
+"We don't know any more than that or how our scans missed it.
+The other one's in containment in the basement
+until we can be sure they don't have any other nasty surprises."
 
 "What does Hobart have to say about it?"
 Wales asked.
@@ -6649,7 +6654,100 @@ Wales said,
 sounding as if he meant it.
 "When can we leave?"
 
-"Just as soon as the other survivor from the *Taroona* tells us what we want to know,"
-Doctor Johel said sweetly.
-She stood and brushed nonexistent crumbs from her jumpsuit.
-"Shall we go and have a word with her?"
+Iffy and Aunt Naggie explored the greenhouse
+while Wales and Doctor Johel made plans.
+Hibiscus and heliconia,
+African violets and passion flowers,
+orchids in all their varied glory---each one had a small stamped label with its name
+and a set of icons to show how its genes had been tweaked
+to protect it from the rusts and molds and viral plagues
+that had made their wild cousins extinct.
+Some of the modifications were old enough that
+the plant's scientific name included the word "antique",
+but Iffy didn't see any that said "authentic".
+
+"Not much left that is, I suppose," Aunt Naggie sighed,
+tentatively brushing a fingertip over something called an elephant's ear.
+"Not outside that picture book o' yours."
+
+"It's all so *complicated*,"
+Iffy said.
+She understood rotors and batteries and flange couplings,
+but not this---not life with all its mess and complication.
+
+Which of course made her think of Honesty again.
+She pushed the thought away as she had every thirty seconds or so since their arrival.
+Being in love with someone who'd been inducted and either couldn't remember you
+or couldn't remember how they used to feel
+was a staple story line in Aunt Naggie's romance sims.
+Iffy was *not* going to be a cliché,
+especially since she didn't know if she was in love or not.
+
+*I don't even know how I'd tell,* she thought despondently.
+All she *did* know was that she desperately wanted to see her friend again.
+
+Doctor Johel rapped her knuckles on the glass to get their attention
+and beckoned them back into the tea room.
+"We'll leave in three days," she said briskly.
+"You can stay on board your ship or we can find room for you here in town if you'd prefer.
+Johnson insisted," she added before Aunt Naggie could reply.
+
+*In town in town in town* Iffy thought desperately.
+"We'll stay on th' *Guinevere*," Aunt Naggie said,
+her tone saying what her words didn't,
+that there was no point hiding from a problem that wasn't going to go away.
+
+"Well, if you change your mind," Doctor Johel said.
+She scribbled a signature on the slip of paper the waiter brought her and stood.
+
+"What's that for?" Iffy asked tentatively.
+
+"What's---oh."
+A smile flashed across Doctor Johel's face.
+"It's how people used to pay for things.
+It doesn't mean anything any longer,
+but they've kept up the tradition."
+Iffy nodded,
+still not sure how writing on a piece of paper could pay for something,
+and followed the three adults into the corridor.
+
+They were halfway back to the stairs when the second explosion shook the building.
+The blast felt like being hit hard with a giant pillow.
+It knocked Iffy off her feet and the wind out of her lungs.
+Aunt Naggie hit the floor awkwardly beside her,
+but Wales caught Doctor Johel before she fell.
+All the lights went out.
+Red emergency panels---completely off the network, with their own power supplies---kicked in
+half a second later,
+making the corridor look like something from a horror sim.
+Half-deafened,
+Iffy still heard the crash-after-crash of the shattered glass roof of the greenhouse
+raining down on the plants below.
+
+"I thought you said they were in containment!" Wales shouted.
+
+"They were!" Doctor Johel shouted back
+as Iffy scrambled to her feet and helped Aunt Naggie stand.
+
+Her foster mother cradled one arm in the other.
+"I think my wrist's broke," she said,
+her faced strained.
+
+"We need to find---"
+Whatever Wales was was going to say was cut off by another explosion,
+then another.
+
+He took Doctor Johel's arm.
+"We have to get out of here.
+Gayathri, no, now!"
+He pulled her along as she protested.
+"You two stay with me,"
+he ordered over his shoulder.
+"We need to get my gear and get back to the dock before they close the harbor."
+
+"Who?
+Who's doin' this?" Iffy asked,
+taking Aunt Naggie's arm in unconscious imitation of Wales.
+
+The American shook his head.
+"I have no idea."

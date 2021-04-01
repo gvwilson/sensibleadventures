@@ -6207,10 +6207,10 @@ She pulled her arm away from Wales and charged around the corner and---
 *The world slowed down as angles and vectors and trajectories painted crisp colored lines
 across the wireframe renderings of the ship and the pier.
 Another drone was banking to attack the railgun
-because it was still fully operational
+it was still fully operational
 the other drone's impact had knocked it out of position by a couple of meters
-but it was still upright with its capacitors intact.
-It pivoted as it acquired another target
+but it was still upright with its capacitors intact
+and pivoting as it acquired another target
 human unarmored
 bearing ninety-seven degrees
 elevation twenty-eight point four degrees
@@ -6529,8 +6529,38 @@ Honesty's Third looked at Iffy with clear brown eyes.
 "Hello Iffy," she said.
 
 Iffy gaped at her.
-Honesty waited a moment,
-then lowered her visor.
+"How're you doin'?" she was finally able to ask.
+
+"I'm fine, thank you," Honesty replied politely,
+her accent and crisp enunciation straight out of a pre-war sim.
+"How are you?"
+
+"'m aright."
+Iffy's mind spun.
+She had to ask.
+"Did it hurt?" she blurted.
+"When they put th' machine on you, was it---are y'aright?"
+
+"I'm fine, thank you."
+The smile on Honesty's face was as bright and as sharp as the Antarctic sun,
+and as completely without warmth.
+"They warned me that I might find Corporal Kibbens somewhat stiff at first.
+That is the persona I've been imprinted with," she added brightly.
+"He served with distinction in the Fourth Augmented Infantry Battalion during the evacuation of Hawai'i,
+and was decorated posthumously for valor twice during the battle for New Zealand.
+He was an outstanding soldier, and I am proud to be his inductee."
+
+Iffy took a step forward,
+some part of her thinking that if only she took Honesty by the shoulders and shook her hard enough
+or held her hand or kissed her
+she'd snap out of it and be herself again,
+but before she could make a fool of herself,
+someone whistled from down the street.
+"Excuse me," Honesty said.
+She closed her visor,
+turned,
+and marched away with long mechanical strides.
+
 "Come on," Aunt Naggie said gently.
 Iffy let her foster mother pull her up the stairs and through the door.
 
@@ -6743,11 +6773,95 @@ Gayathri, no, now!"
 He pulled her along as she protested.
 "You two stay with me,"
 he ordered over his shoulder.
-"We need to get my gear and get back to the dock before they close the harbor."
+"We need to find my gear and get back to the *Guinevere*."
 
-"Who?
-Who's doin' this?" Iffy asked,
+"But who's doin' this?" Iffy asked,
 taking Aunt Naggie's arm in unconscious imitation of Wales.
 
-The American shook his head.
-"I have no idea."
+Wales shook his head.
+"I have no idea.
+Gayathri.
+Gayathri!"
+
+Doctor Johel shook her head muzzily.
+"Sorry..." she mumbled.
+"I have to reboot."
+She giggled incongruously.
+"Feels like I had too much to..."
+
+She would have toppled over if Wales hadn't caught her.
+Swearing under his breath
+he slung her over his shoulder.
+"Follow me," he ordered.
+"And stay close."
+
+Iffy and Aunt Naggie almost had to jog to keep up with him
+as he strode along the corridor and down the stairs.
+"Where's medical?" he snapped at the first Marines they saw.
+
+"Sir, I---"
+
+"I said where's medical, soldier?
+Her tech may be compromised and she has a possible concussion."
+
+Iffy almost saluted at the steel in Wales' voice.
+The Marine didn't even try to resist the urge.
+"Second on the left, sir, then first right."
+They paused a moment as data flowed across their visor.
+"No structural damage there, sir.
+You should be safe."
+
+"Thank you, soldier."
+This time Iffy really did have to jog to keep up.
+
+She expected the infirmary to look like the hospital in Halley:
+scanner beds with surgical bots attached to either end
+and cartoon posters reminding people to get regular checkups
+and put Volkov's hot sauce on everything.
+Instead it had blank walls painted toothpaste blue
+and was staffed by human medics in lightweight exoskeletons,
+each with a bewildering variety of attachments on the arms.
+She realized later it was for security---the last thing anyone would want during an attack
+was to be at the mercy of a hacked surgical bot---but right then
+all she could think was, *Honesty, where are you?*
+because half a dozen Marines lay on stretchers or stood unconscious,
+held up only by their armor
+as they wait for help.
+
+"Priority patient," Wales said,
+sliding Doctor Johel off his shoulder.
+
+"They're all priorities, sir,"
+the medic said,
+their eyes sparkling as they scanned the doctor's face.
+
+Doctor Johel stirred.
+"Ouch," she whimpered.
+"Johnson---what?"
+
+"It's okay," he said soothingly.
+"You just rebooted, that's all.
+You'll be back on your feet in no time."
+He looked up at the medic.
+"Now *take her*."
+
+"Yes sir."
+The medic lifted her weight out of Wales' arms and laid her on the nearest bed.
+
+"Is she gonna be aright?"
+Aunt Naggie asked anxious as they went back the way they had come.
+
+"She'll be fine.
+Her tech's a little sensitive, that's all."
+He led them past the stairs and the entrance they had come in without hesitating,
+then down a narrower flight of stairs that ended in a blank door.
+He knocked twice, paused, and knocked twice again,
+then keyed a combination into the antique number pad beside the handle
+and swung the door open.
+
+An automatic light came on to reveal two aisles lined with simple metal shelves.
+Wales' toolbox sat among the boxes and duffel bags
+with his bear perched on top of it.
+He stuffed the bear inside his coat and took the toolbox by the handle.
+"Right," he said briskly.
+"Let's get the hell out of here."

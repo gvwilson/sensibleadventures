@@ -77,31 +77,7 @@ her back. The cart beside her was lined up perfectly with the side of the ship,
 and the coil of cable on the post at her elbow had been re-coiled in loops that
 Iffy suspected were precisely whatever length Marine regulations called for.
 
-"Hey," Iffy said tentatively. "How're you doin'?"
-
-"I'm fine, thank you," Honesty replied without turning her head. "How are you?"
-
-"'m aright." Iffy's mind spun double-time as she tried to think of something
-safe to say. *Th' hell with it* she thought angrily. "Did it hurt?" she
-blurted. "When they put th' machine on you, was it---are y'aright?"
-
-"I'm fine, thank you." Honesty turned to face Iffy. The smile on her face was
-as bright and as sharp and as completely without warmth as the Antarctic sun.
-"They warned us that people might find Corporal Kibbens somewhat stiff at first.
-That is the persona I've been imprinted with," she added brightly. "He served
-with distinction in the Second Crash Corps during the evacuation of Hawaii, and
-was later decorated posthumously for valor during the battle for New Zealand.
-He was an outstanding soldier, and I am proud to be his inductee."
-
-Iffy gaped. It wasn't just Honesty's manner that had changed: her accent was
-different too, sharper-edged like the voices from old sims.
-
-She took a step forward, some part of her thinking that if only she took Honesty
-by the shoulders and shook her hard enough, or held her hand, or kissed her,
-she'd snap out of it and be herself again, but before she could make a fool of
-herself, someone whistled from down on the pier. "Excuse me," Honesty said.
-She grabbed her cart and headed down the gangplank without waiting for a
-response.
+===
 
 The *Guinevere* was ready to set sail an hour later. Uncle Jack protested
 loudly when he discovered that four of the Marines would be travelling with

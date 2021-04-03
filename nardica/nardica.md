@@ -6496,7 +6496,7 @@ squeezing Iffy's hand.
 Wales said bleakly.
 "There's nothing people won't do if they're afraid enough or want something enough."
 
-"Y' think it was people an' not…you know."
+"Y' think it was people an' not...you know."
 Iffy nodded toward the front of the bus where a driver would have sat
 if the bus needed one.
 
@@ -6615,7 +6615,7 @@ giving no indication if he meant from another attack or from Uncle Jack.
 
 Doctor Johel pushed her chair back and folded her hands in her lap,
 studying him.
-"Johnson…what are you doing here?
+"Johnson...what are you doing here?
 I mean, what are you *really* doing here?"
 
 "I just need to get to Mount Tyree, Gayathri.
@@ -6629,6 +6629,9 @@ Aunt Naggie offered hesitantly in the silence that followed.
 the old woman said,
 standing with a wince and straightening her plain black jumpsuit decisively.
 "Let's have some tea, shall we?"
+She took a bracelet from the table and slipped it on,
+then gestured toward the door.
+"After you."
 
 "Tea" turned out to mean a broad flight of marble stairs like something from an old sim
 followed by a corridor hung with actual painted paintings
@@ -6669,7 +6672,7 @@ Johnson?"
 
 "You can never be too rich or too well networked,"
 Wales agreed.
-"But speaking of antennas…"
+"But speaking of antennas..."
 
 "Oh, don't worry, the governor will keep his word.
 You'll get your gear back,
@@ -6727,25 +6730,13 @@ Johnson insisted," she added before Aunt Naggie could reply.
 her tone saying what her words didn't,
 that there was no point hiding from a problem that wasn't going to go away.
 
-"Well, if you change your mind," Doctor Johel said.
-She scribbled a signature on the slip of paper the waiter brought her and stood.
-
-"What's that for?" Iffy asked tentatively.
-
-"What's---oh."
-A smile flashed across Doctor Johel's face.
-"It's how people used to pay for things.
-It doesn't mean anything any longer,
-but they've kept up the tradition."
-Iffy nodded,
-still not sure how writing on a piece of paper could pay for something,
-and followed the three adults into the corridor.
+"Well, if you change your mind," Doctor Johel said,
+tapping the bracelet on her wrist against the tablet the waiter held out
+and standing.
 
 They were halfway back to the stairs when the second explosion shook the building.
 The blast felt like being hit hard with a giant pillow.
-It knocked Iffy off her feet and the wind out of her lungs.
-Aunt Naggie hit the floor awkwardly beside her,
-but Wales caught Doctor Johel before she fell.
+Aunt Naggie stumbled and fell awkwardly to the floor.
 All the lights went out.
 Red emergency panels---completely off the network, with their own power supplies---kicked in
 half a second later,
@@ -6754,34 +6745,35 @@ Half-deafened,
 Iffy still heard the crash-after-crash of the shattered glass roof of the greenhouse
 raining down on the plants below.
 
-"I thought you said they were in containment!" Wales shouted.
+"I thought you said they were contained!" Wales shouted.
 
-"They were!" Doctor Johel shouted back
-as Iffy scrambled to her feet and helped Aunt Naggie stand.
+"They are!" Doctor Johel shouted back
+as Iffy helped Aunt Naggie stand.
+"That was outside, not the basement!"
 
 Her foster mother cradled one arm in the other.
 "I think my wrist's broke," she said,
 her faced strained.
 
-"We need to find---"
-Whatever Wales was was going to say was cut off by another explosion,
-then another.
-
-He took Doctor Johel's arm.
-"We have to get out of here.
-Gayathri, no, now!"
+Another explosion,
+then another,
+further away but still loud enough to be felt as well as heard.
+Wales took Doctor Johel's arm.
+"We have to get out of here,"
+he said urgently.
+"Gayathri, no, now!"
 He pulled her along as she protested.
-"You two stay with me,"
-he ordered over his shoulder.
-"We need to find my gear and get back to the *Guinevere*."
 
-"But who's doin' this?" Iffy asked,
-taking Aunt Naggie's arm in unconscious imitation of Wales.
+Doctor Johel shook him off.
+"I have to get back to my feeds.
+The governor---"
+And then Wales touched the back of her head.
+Her eyes fluttered and her face went slack.
 
-Wales shook his head.
-"I have no idea.
-Gayathri.
-Gayathri!"
+"Gayathri."
+Wales shook her gently.
+"Gayathri,
+are you with me?"
 
 Doctor Johel shook her head muzzily.
 "Sorry..." she mumbled.
@@ -6795,26 +6787,21 @@ he slung her over his shoulder.
 "Follow me," he ordered.
 "And stay close."
 
-Iffy and Aunt Naggie almost had to jog to keep up with him
+Iffy and Aunt Naggie had to jog to keep up with him
 as he strode along the corridor and down the stairs.
-"Where's medical?" he snapped at the first Marines they saw.
+"Where's medical?" he demanded of the first Marines they saw.
 
 "Sir, I---"
 
-"I said where's medical, soldier?
-Her tech may be compromised and she has a possible concussion."
+"I said where's medical, soldier?" Wales snapped.
+"Her tech may be compromised and she has a possible concussion."
 
-Iffy almost saluted at the steel in Wales' voice.
-The Marine didn't even try to resist the urge.
 "Second on the left, sir, then first right."
 They paused a moment as data flowed across their visor.
 "No structural damage there, sir.
 You should be safe."
 
-"Thank you, soldier."
-This time Iffy really did have to jog to keep up.
-
-She expected the infirmary to look like the hospital in Halley:
+Iffy expected the infirmary to look like the hospital in Halley:
 scanner beds with surgical bots attached to either end
 and cartoon posters reminding people to get regular checkups
 and put Volkov's hot sauce on everything.
@@ -6842,23 +6829,33 @@ Doctor Johel stirred.
 "It's okay," he said soothingly.
 "You just rebooted, that's all.
 You'll be back on your feet in no time."
-He looked up at the medic.
-"Now *take her*."
-
-"Yes sir."
-The medic lifted her weight out of Wales' arms and laid her on the nearest bed.
+As the medic lifted her weight out of Wales' arms,
+he slipped his hand into his pocket.
+"Come on," he told Iffy and Aunt Naggie.
+"Let's let them work."
 
 "Is she gonna be aright?"
-Aunt Naggie asked anxious as they went back the way they had come.
+Aunt Naggie asked anxiously as Wales led them back the way they had come.
 
 "She'll be fine.
 Her tech's a little sensitive, that's all."
-He led them past the stairs and the entrance they had come in without hesitating,
-then down a narrower flight of stairs that ended in a blank door.
-He knocked twice, paused, and knocked twice again,
-then keyed a combination into the antique number pad beside the handle
-and swung the door open.
+He glanced around and then took Doctor Johel's security bracelet out of his pocket,
+grinning like a naughty child.
+"Now, do you like heist sims?"
 
+They walked past the stairs and the entrance they had come in,
+stepping out of the way as people and bots hurried past.
+Iffy looked at every Marine,
+hoping to see Honesty,
+but they either had their visors down or weren't her.
+
+A side corridor brought them to a narrow flight of stairs
+that led down to a blank door.
+*I bet they could wipe us for this,*
+Iffy thought bleakly as Wales waved the bracelet in front of the lock.
+
+*Click.*
+The door opened.
 An automatic light came on to reveal two aisles lined with simple metal shelves.
 Wales' toolbox sat among the boxes and duffel bags
 with his bear perched on top of it.

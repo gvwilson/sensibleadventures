@@ -6205,7 +6205,7 @@ Iffy heard the galley hatch clang open.
 She pulled her arm away from Wales and charged around the corner and---
 
 *The world slowed down as angles and vectors and trajectories painted crisp colored lines
-across the wireframe renderings of the ship and the pier.
+across wireframe renderings of the ship and the pier.
 Another drone was banking to attack the railgun
 it was still fully operational
 the other drone's impact had knocked it out of position by a couple of meters
@@ -6596,7 +6596,7 @@ and motioned it back to life.
 Wales mused.
 
 "Don't patronize me," the old woman snapped.
-"We have eighteen dead and twice that many injured,
+"We have eight dead and twice that many injured,
 including the local copy of the governor.
 If it was China or Nova Zembla or one of the others then yes,
 we're poached,
@@ -6841,24 +6841,143 @@ Aunt Naggie asked anxiously as Wales led them back the way they had come.
 Her tech's a little sensitive, that's all."
 He glanced around and then took Doctor Johel's security bracelet out of his pocket,
 grinning like a naughty child.
-"Now, do you like heist sims?"
+"Now, do you two like heist sims?"
 
 They walked past the stairs and the entrance they had come in,
-stepping out of the way as people and bots hurried past.
-Iffy looked at every Marine,
-hoping to see Honesty,
+stepping out of people and bots.
+Iffy looked at every Marine who hurried past hoping to see Honesty,
 but they either had their visors down or weren't her.
 
 A side corridor brought them to a narrow flight of stairs
 that led down to a blank door.
-*I bet they could wipe us for this,*
-Iffy thought bleakly as Wales waved the bracelet in front of the lock.
+As Wales waved the bracelet in front of the lock
+Iffy wondered if the governor would have them wiped if they were caught.
+*Prolly not him,* she thought sourly as Wales tested the handle.
+*They __need__ him.*
 
-*Click.*
-The door opened.
-An automatic light came on to reveal two aisles lined with simple metal shelves.
-Wales' toolbox sat among the boxes and duffel bags
-with his bear perched on top of it.
-He stuffed the bear inside his coat and took the toolbox by the handle.
+The door opened with a click.
+An automatic light came on,
+revealing two aisles lined with the same bamboo-and-wireframe shelves that Mister Mishra had in his shop.
+Wales' toolbox sat among the boxes and duffel bags with his bear perched on top of it,
+its blue eyes as dull as old buttons.
+
+He stuffed the bear inside his coat and lifted the toolbox off the shelf.
 "Right," he said briskly.
 "Let's get the hell out of here."
+
+Nobody stopped them.
+*Nobody's even really lookin' at us,* Iffy realized.
+Whether it was Doctor Johel's bracelet or something Wales had done,
+the security systems seemed to be telling everyone
+that they weren't worth paying attention to,
+and as yet another explosion sounded in the distance,
+everyone who might have wondered where they were going
+had other things on their mind.
+
+Honesty wasn't at the door but two other Marines were,
+one so heavily augmented that they weren't wearing their exoskeleton
+so much as built into it.
+"Sixteen orange kneecap!" Wales barked,
+holding up the security bracelet but not slowing down.
+
+"How'd you get the code?"
+Iffy hissed as they hurried across the square.
+
+"Just made it up, but they don't know that.
+Here."
+He unzipped his jacket one-handed and passed her the toy bear.
+"You should---"
+
+*---the world slowed down as crisp colored lines painted themselves
+across wireframe renderings of the buildings.
+Iffy could see the cables beneath the street,
+some so old that they were made of metal instead of glass fiber.
+She could see information flowing through them
+like waves rising and falling on the ocean
+and other information leaping between people and bots and relays
+like lightning sparking from one mast to another.
+There and there and there
+the signals tasted like salt and apricot jam
+but they were coming together
+and when they did---*
+
+"Look out!" she shouted,
+grabbing Aunt Naggie and pulling her down beside her
+half a second before another explosion in the sky above them
+made the grit on the cobblestones dance.
+
+*I'm gonna need new ears,* Iffy thought,
+wondering how much they'd cost and whether she and Aunt Naggie could get a discount
+if they bought two pairs at the same time.
+She was in shock, she realized dumbly.
+It was if someone else was having the thought
+and she was watching it through a window that hadn't been cleaned in a long, long time.
+She was in shock and she'd been hacked or something like it
+and being wiped would be the least of her worries if the governor found out.
+
+Aunt Naggie was helping her up.
+"Keep moving," Wales urged.
+"No telling when the next one's going to---"
+
+"Twenty-eight seconds," Iffy said.
+She pointed up where vectors only she could see intersected.
+"They're shootin' hypersonic darts.
+They're all too small fer radar 'n' such t' pick up on their own---"
+
+"---but when they all hit each other at the same time, kaboom," Wales finished.
+He stared at her.
+"Can you track back to their firing sites?"
+
+The world swam before Iffy's eyes.
+The vectors and information streams blurred and disappeared.
+She bent over and threw up the tea and sweets she had enjoyed so much.
+
+"I'm sorry," she mumbled.
+"I'm sorry."
+
+"Oh love," Aunt Naggie fretted,
+taking Iffy's shoulders to steady her.
+
+"Ten seconds," Wales warned, covering his ears.
+Iffy did the same,
+but Aunt Naggie squeezed her eyes shut and held onto her foster daughter.
+
+*Crack!*
+
+Iffy's overlays reappeared as suddenly as they had vanished.
+She spat,
+which didn't improve the taste in her mouth one bit,
+and waved weakly toward the harbor.
+"There's one out that way,
+'bout fifteen kay offshore,
+an' another bearin' forty five degrees,
+same distance or nearly."
+She straightened,
+shrugging off Aunt Naggie and taking a shaky breath.
+"Th' other two are inland," she continued.
+"They're movin' between each shot.
+Movin' fast,"
+she added.
+
+Aunt Naggie looked at Wales wide-eyed.
+"What're  you doin' to her?" she asked plaintively.
+
+"Me!?"
+Wales exclaimed.
+"I'm not doing this.
+Even if I could, I wouldn't do it to her, I swear.
+Now come on---we have to get back to the *Guinevere*."
+
+Iffy only remembered flashes of the next hour afterward.
+Glass scattered on the road like ice crystals on deck during a midwinter freeze.
+Aunt Naggie wiping her bleeding nose and arguing with Wales.
+A quartet of Marines jogging past with impossibly long strides in their exoskeletons,
+one of them carrying a bundle wrapped in a bright orange parka stained with red.
+A seagull swooping down to pilfer a dropped box of spring rolls.
+A woman with long purple locks in a dressing gown exactly the same color
+shouting a warning or a plea or a question or maybe all three.
+A cleaning bot sweeping rubble off to the side of the road.
+More people,
+adults and children ducking each time an explosion cracked in the air above them.
+The dock, impossibly far away but then under their feet,
+and then the *Guinevere*.

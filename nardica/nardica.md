@@ -3023,7 +3023,7 @@ The capital of Australia's Antarctic territory
 was ten times the size of Halley,
 home port for the fleet that glared across the Drake Passage
 at the southernmost tip of South America
-and the Zillion marauders who called it home.
+and the Zillion marauders who used it as a base.
 
 A pair of sleek sentry torpedoes surfaced beside them
 as they rounded the rocky point
@@ -3496,7 +3496,7 @@ Her second nudge was more of a shove.
 "If it takes too long for us to come back,
 there won't be anything for us to come back *to*,"
 Wales said sharply.
-"Jasmina?"
+"Gayathri?"
 
 Doctor Johel and the governor exchanged looks.
 "Bring them," the governor ordered.
@@ -4137,7 +4137,7 @@ but both were too old to be the person she was hoping to see.
 "Heya!"
 She whirled around just in time to be caught up in an enormous hug.
 "Hey," Honesty said more softly,
-her cheek pressed against Iffy's.
+their cheek pressed against Iffy's.
 "Micka tol' me she tuck y'all come in,
 an' then I twitched what happen up along th' governor's.
 I's worried along by you."
@@ -4145,7 +4145,7 @@ I's worried along by you."
 Iffy returned the hug awkwardly.
 She always felt awkward around Honesty,
 especially when they were close enough that she could smell
-whatever flowery concoction the other girl used to wash her hair,
+whatever flowery concoction the other teen used to wash their hair,
 but it was a good kind of awkward,
 a *really* good kind that she couldn't stop thinking about.
 
@@ -4160,28 +4160,28 @@ She slithered free of the hug and took a step back.
 Looka th' war come back 'round!"
 
 "It wasn't all that," Iffy said dismissively.
-Honesty had changed the tattoos on her cheeks again,
+Honesty had changed the tattoos on their cheeks again,
 she noticed.
-And she'd done some more embroidery on the cuffs of her coat to match.
+And they'd done some more embroidery on the cuffs of their coat to match.
 
 "But what happen? I mean, really happen, not just official happen?"
-Honesty slipped her arm through Iffy's as if it was the most natural thing in the world
-and steered her toward her family's workshop at the end of the canal.
+Honesty slipped their arm through Iffy's as if it was the most natural thing in the world
+and steered her toward their family's workshop at the end of the canal.
 
-Iffy felt into step alongside her,
+Iffy felt into step alongside them,
 desperately hoping her friend couldn't hear her heart thudding in her chest.
-Honesty's Third (but only her olders called her that) was a year older than her.
-She had been singing on a street corner across from the Dance Hall
-the first time Iffy saw her.
+Honesty's Third (but only their olders called her that) was a year older than her.
+They had been singing on a street corner across from the Dance Hall
+the first time Iffy saw them.
 She hadn't meant to stop,
 but then Honesty caught her eye and smiled in the middle of a chorus
 without missing a beat.
-They'd only spent time together half a dozen times since then,
+They had only spent time together half a dozen times since then,
 but each time had been---
 
 "Sorry?" she said belatedly.
 
-Honesty rolled her eyes.
+Honesty rolled their eyes.
 "I *said*, why're you up along there?
 You gettin' fancy or some?"
 
@@ -4195,11 +4195,11 @@ She still didn't want to think about that...
 
 Even with those gaps, her story left Honesty wide-eyed.
 "Tay bangle, there's your real adventure, innit?"
-She bumped her hip against Iffy's.
-Her tone turned serious as she nodded at the Marine cutter under repair beside them.
+They bumped their hip against Iffy's.
+Their tone turned serious as they nodded at the Marine cutter under repair beside them.
 "So's that why we got th' ganky to finish up this 'un?
 'Cuz my First,
-she thought we had a coupla weeks f'r it,
+they thought we had a coupla weeks f'r it,
 but the Blues come along day b'fore last an' said we gotta be crannup soonest."
 
 Iffy swallowed.
@@ -4207,17 +4207,18 @@ Two days past was the day Wales had made the sea boil
 and sent the *Taroona* to the bottom.
 "Yeah, prolly," she mumbled.
 
-Honesty bumped her hip against Iffy again.
-"Good," she said firmly.
+Honesty bumped their hip against Iffy again.
+"Good," they said firmly.
 "'Cuz they payin' overtime an' we can use the jing.
-Second wants t' make another li'l sister," she confided with a grin.
+Second wants t' make another li'l sister," they confided with a grin.
 "Wou'nt that be a thing?
 Now c'mon---I bet there's tea brewa."
-She unhooked her arm from Iffy's and took the younger girl's hand.
+They unhooked her arm from Iffy's and took the younger girl's hand.
 
 Iffy's mind whirled.
-Another clone? It made sense---Honesty had just turned sixteen,
-so she and a younger clone would be spaced far enough apart
+Another clone?
+It made sense---Honesty had just turned sixteen,
+so they and a younger clone would be spaced far enough apart
 to be on the right side of legal.
 Before she blurt out any of the dozen questions swirling around in her head,
 Honesty squeezed her fingers painfully hard and shot her a warning sidelong glance.
@@ -4248,7 +4249,7 @@ even the governor wouldn't dare use cores for surveillance.
 
 She squeezed Honesty's hand twice to signal that she understood,
 but when she loosened her grip,
-Honesty tightened hers.
+Honesty tightened theirs.
 Iffy waited for more taps.
 When they didn't come,
 she realized that her friend was sending a different kind of message.
@@ -4258,14 +4259,14 @@ that would have made her aunt sigh happily.
 Honesty's First and Second looked up and said, "G'day," simultaneously
 as Honesty pulled aside the splotched canvas curtain
 that hung in the salvage booth's doorway.
-"You gi'n her th' bad news yen?" her First asked
+"You gi'n her th' bad news yen?" their First asked
 in an accent as strong as the tea she poured for Iffy.
 
 Honesty pouted. "I's gonna!"
 
-"Sorry," her First said unapologetically.
-Her Second looked up from her workbench long enough to grin.
-A pair of magnifying glasses made her eyes look cartoon-huge
+"Sorry," their First said unapologetically.
+Their Second looked up from their workbench long enough to grin.
+A pair of magnifying glasses made their eyes look cartoon-huge
 in a face that showed how Honesty's would look in years to come.
 
 "What bad news?" Iffy asked.
@@ -4279,8 +4280,8 @@ Iffy's stomach flip-flopped.
 *But I just got here!* she thought despairingly.
 
 Honesty shrugged,
-settling herself on a stool next to the square meter of workbench
-where she salvaged the easier bits and pieces of tech that came her family's way.
+settling themself on a stool next to the square meter of workbench
+where they salvaged the easier bits and pieces of tech that came their family's way.
 "Yeah.
 Lotsa folk wonderin' why the ganky,
 but the Blues ain't sayin' bunga 'cept that it come along straight from th' governor.
@@ -4294,11 +4295,12 @@ What would it do to her friend?
 "Seems like I don't know nothin' these days."
 
 "Now that ain't true," Honesty's First said.
-Her face and smile were worn-in versions of her grand-younger's.
+Their face and smile were worn-in versions of their grand-younger's.
 Where Honesty had temporary tattoos,
-her First had whorling blue lines
+their First had whorling blue lines
 that turned the scars left by some long-ago accident into rough art.
-She tossed the piece of tech she had been cleaning to Iffy.
+
+They tossed the piece of tech they had been cleaning to Iffy.
 "Any gunna what that's for?"
 
 Iffy caught the part and turned it over in her hands.
@@ -4318,15 +4320,15 @@ as shapes and clues came together in her head
 to form an answer it was impossible for her to know.
 "Prolly hooks up to a centrifuge or somethin' for filterin' blood durin' surgery."
 
-"'Zat so?" Honesty's First caught the part when Iffy threw it back to her
-and passed it to her Second,
+"'Zat so?" Honesty's First caught the part when Iffy threw it back to them
+and passed it to their Second,
 who studied it for a moment,
 shrugged as if to say,
 "Could be,"
 and set it on the to-do rack that lined the wall behind the workbench.
 "How 'bout these?"
 
-The flat box she passed to Iffy opened to reveal
+The flat box they passed to Iffy opened to reveal
 four squares woven from fractal carbon fiber,
 each the size of her nature book but no thicker than half a dozen of its pages.
 It took her a second to realize that
@@ -4339,33 +4341,36 @@ She turned one over in her hands.
 "No idea," Honesty's First said cheerfully.
 "Best guess is they was fer some kinda game."
 
-"Shaw," her Second scoffed,
-looking up from the machine she had spent the last three days trying to clean and reassemble.
+"Shaw," their Second scoffed,
+looking up from the machine they had spent the last three days trying to clean and reassemble.
 "They's too fine jarra game.
 I's fer they bin up some kinda survey mappin'."
 
 "Mebbe," Honesty's First admitted.
-Casually, looking past Iffy rather than at her, she asked,
+Casually,
+looking past Iffy rather than at her,
+they asked,
 "You ain't got fra yer notions?"
 
 Iffy shook her head.
 She had told Honesty about her occasional flashes of insight,
-then rounded on her, cold and hard,
-when she learned that her friend had relayed what she'd said to her First and Second.
+then rounded on them,
+cold and hard,
+when she learned that her friend had relayed what she'd said to their First and Second.
 "We don't keep secrets on achother," Honesty had said with a shrug.
 "Y'ain't aright along that, best we part ways now."
-So Iffy had forgiven her,
-secretly relieved that she didn't seem to care that Iffy was different.
+So Iffy had forgiven them,
+secretly relieved that they didn't seem to care that Iffy was different.
 
 When Iffy handed back the box of dronelets,
 Honesty's First waved her away.
-"Not much use t'us if we can't turn 'em on," she said,
+"Not much use t'us if we can't turn 'em on," they said,
 though Iffy knew the little rotors would be worth a meal
 if they were pried out and sold as parts.
 "Anythin' comes t' mind, you come by an' gi's a scutch, aright?
 An' even if nothin' does,
 we's alluz happy t'have one more fer dinner or a sleepover."
-She winked broadly.
+They winked broadly.
 
 "Thanks," Iffy mumbled.
 Her upbringing had taught her how to rig sails in heavy weather
@@ -4376,13 +4381,13 @@ She drained the last of her tea.
 
 "Sure," Honesty said.
 "But you come along by that dinner, aye?"
-She poked Iffy in the ribs.
+They poked Iffy in the ribs.
 "Y' maw skinny."
 
 Iffy blushed.
 "I'll ask," she said, mumbling again.
 
-Honesty hooked her arm through Iffy's again.
+Honesty hooked their arm through Iffy's again.
 "Bonza. I'll walk you out."
 
 They held hands all the way up the canal.
@@ -4390,21 +4395,22 @@ As usual,
 Honesty did most of the talking.
 Induction wouldn't be so bad---the Marines needed people with tech skills
 the same as everyone else,
-so they'd prolly put her to work doing that.
-She knew tons more about salvage and repair than any crufty old core,
-and what she didn't know,
-she could ask uppa her First and Second or Iffy,
+so they'd prolly put them to work doing that.
+They knew tons more about salvage and repair than any crufty old core,
+and what they didn't know,
+they could ask their First and Second or Iffy,
 right?
 
 "I s'pose," Iffy allowed.
 
-"Oh c'mon." Honesty bumped her hip against Iffy's.
+"Oh c'mon."
+Honesty bumped their hip against Iffy's.
 "M' First and Uncle Osman 'long by Pier Nine
-asked two different cores about that pump she showed you.
+asked two different cores about that pump they conned you.
 They neither had a siggy what it was,
 an' then you jus' come right out an' tell 'em.
-The stuff you have in your head," she finished admiringly,
-shaking her own in wonder.
+The stuff you have in your head," they finished admiringly,
+shaking their own in wonder.
 
 *I'd feel better about it if I knew how it got there,* Iffy thought.
 For the thousandth time she wondered
@@ -4944,12 +4950,13 @@ The sky was a perfect blue and Aunt Naggie was stuffing her into her ecosuit.
 She wasn't going to go through this again.
 She struggled to pull her arms out of the ecosuit.*
 
-*"It's aright," Honesty said, already in hers.
+*"It's aright," Honesty said, already in theirs.
 "It's aright, sweetie, everythin's gonna be aright.
 We're gonna **make** it aright. You'll see."
 With a barely perceptible whir
-her head detached from the rest of her body and rose into the air.
-Beneath them, the sea began to boil and churn.
+their head detached from the rest of their body and rose into the air.
+Beneath them,
+the sea began to boil and churn.
 Iffy grabbed hold of Aunt Naggie's leg and held on tight
 as the deck dropped away below her and she fell into waking.*
 
@@ -5055,8 +5062,8 @@ and Aunt Naggie would want to.
 She went topside to clear the muzziness from her head
 and watched the Marines unpack and assemble what they'd brought
 with the speed and skill of the inducted.
-She wondered how Honesty was doing---was she still herself,
-or had some long-ago soldier's personality already been imprinted on top of hers?
+She wondered how Honesty was doing---were they still themself,
+or had some long-ago soldier's personality already been imprinted on top of theirs?
 
 By the time Aunt Naggie joined her
 a portable railgun squatted beside a pair of drum-shaped capacitors
@@ -5520,7 +5527,7 @@ Time and distance shaped a curve behind her eyes.
 Two kilometers---that was all she could count on.
 
 Her shoulders slumped.
-The canal where Honesty lived with her olders was almost that far on foot.
+The canal where Honesty lived with their olders was almost that far on foot.
 Even going straight across the harbor,
 there was no way one of the dronelets could get there and back on a single charge.
 
@@ -5746,28 +5753,28 @@ Her heart was pounding as if she was playing the most exciting sim ever.
 She needed to pee,
 but she couldn't stop watching now.
 
-Honesty's Second was bent over her workbench in the next four images.
-First joined her in the next one,
-her arm around her younger sib's shoulder as if trying to lend her strength.
+Honesty's Second was bent over their workbench in the next four images.
+First joined them in the next one,
+their arm around their younger sib's shoulder as if trying to lend them strength.
 
 "---the gunk ounta sed affin' gears,"
 Second said,
 tinny and frustrated.
 
 "Do as you can,"
-First soothed her.
-"She'll be back an' us t'morrow."
+First soothed them.
+"They'll be back an' us t'morrow."
 
-"That's as they said yesterday, but here she ain't,"
+"That's as they said yesterday, but they ain't here,"
 Second snapped.
 
 Iffy's breath caught in her throat.
 Had something happened to Honesty?
-Had the induction gone wrong somehow?
+Had their induction gone wrong somehow?
 
 The next image came up.
 First's arm was still around Second's shoulders,
-and the younger clone had leaned her head against the older.
+and the younger clone had leaned their head against the older.
 Feeling a sudden pang of guilt,
 Iffy swiped the images closed.
 What she was doing was surveillance, pure and simple.
@@ -6524,40 +6531,40 @@ They had to wait a few moments while the Marines double-checked that they were i
 Iffy froze.
 "Honesty?" she asked incredulously.
 
-The Marine raised her visor.
+The Marine raised their visor.
 Honesty's Third looked at Iffy with clear brown eyes.
-"Hello Iffy," she said.
+"Hello Iffy," they said.
 
-Iffy gaped at her.
+Iffy gaped at them.
 "How're you doin'?" she was finally able to ask.
 
 "I'm fine, thank you," Honesty replied politely,
-her accent and crisp enunciation straight out of a pre-war sim.
+their accent and crisp enunciation straight out of a pre-war sim.
 "How are you?"
 
 "'m aright."
 Iffy's mind spun.
 She had to ask.
-"Did it hurt?" she blurted.
-"When they put th' machine on you, was it---are y'aright?"
+"Are y'aright?" she blurted.
+"I mean, when they put th' machine on you, was it---?"
 
 "I'm fine, thank you."
 The smile on Honesty's face was as bright and as sharp as the Antarctic sun,
 and as completely without warmth.
 "They warned me that I might find Corporal Kibbens somewhat stiff at first.
-That is the persona I've been imprinted with," she added brightly.
+That is the persona I've been imprinted with," they added brightly.
 "He served with distinction in the Fourth Augmented Infantry Battalion during the evacuation of Hawai'i,
 and was decorated posthumously for valor twice during the battle for New Zealand.
 He was an outstanding soldier, and I am proud to be his inductee."
 
 Iffy took a step forward,
-some part of her thinking that if only she took Honesty by the shoulders and shook her hard enough
-or held her hand or kissed her
-she'd snap out of it and be herself again,
+some part of her thinking that if only she took Honesty by the shoulders and shook them hard enough
+or held their hand or kissed them
+she'd snap out of it and be themself again,
 but before she could make a fool of herself,
 someone whistled from down the street.
 "Excuse me," Honesty said.
-She closed her visor,
+They closed their visor,
 turned,
 and marched away with long mechanical strides.
 
@@ -6846,7 +6853,7 @@ grinning like a naughty child.
 They walked past the stairs and the entrance they had come in,
 stepping out of people and bots.
 Iffy looked at every Marine who hurried past hoping to see Honesty,
-but they either had their visors down or weren't her.
+but they either had their visors down or weren't her friend.
 
 A side corridor brought them to a narrow flight of stairs
 that led down to a blank door.
@@ -7162,7 +7169,7 @@ If what I need to fix my head is anywhere, it's there."
 
 "One of Professor Johel's other experiments was enhanced spatial reasoning,"
 Wales explained.
-"AIs---cores---were designing machines that did amazing things,
+"AIs were designing machines that did amazing things,
 but nobody could understand how they worked.
 That scared a lot of people,
 so Surjinder---Professor Johel---told them
@@ -7198,7 +7205,123 @@ So far she thinks everything we've done together is me testing you.
 If she realizes what you can do..."
 
 Iffy nodded.
-She had played enough sims to know what happened to people with abilities,
+She had played enough sims to know what happened to people with special abilities,
 and she definitely didn't want to spend the rest of her life
 locked in an underground lab being experimented on by someone named Norman
 whose only friend was a malicious bot with a squeaky wheel.
+
+They reached the rocky point that sheltered Rothera's harbor in just a few minutes.
+Iffy watched the scavenged remains of the old research station pass by to starboard.
+Honesty had told her once that it was haunted---that on quiet nights
+the ghosts of the scientists who had once lived there
+came out to try to finish their experiments.
+"What experiments were they don'?" Iffy had asked.
+Honesty had laughed and said that wasn't the point,
+and that Iffy was the most practical person they'd ever met.
+
+"Whaddaya think it's tellin' 'em we are?" she asked Wales,
+jerking her chin at the image of the antenna on the control panel.
+
+He shrugged.
+"No idea.
+And I have no idea who sent you the specs, either.
+But that reminds me---how much of the complement mediator do you have left?"
+
+"Y'mean her medicine?" Aunt Naggie asked.
+"Enough fer a coupla months,
+maybe three if we stretch it."
+
+Wales pursed his lips.
+"I don't think we should.
+If anything,
+we should be increasing the dosage."
+
+"Any idea where we can get more?"
+
+Wales snorted.
+"I'm going to start to sound like a broken sim,
+but if we can get to Mount Tyree
+I ought to be able to print a lifetime supply."
+
+Instead of answering,
+Aunt Naggie tapped a few commands on the *Guinevere*'s console.
+A map appeared showing the coastline,
+the winds and currents,
+recent sea boils,
+and a bent red line marking the optimal course from Rothera
+to the small outpost at Paddington South.
+"Six days if we don't hit trouble," she said,
+tapping the screen with a blunt brown finger.
+
+Wales smiled.
+"In other words,
+we have no idea how long it will take."
+
+The map disappeared.
+*PRIORITY MESSAGE* flashed on the screen for a second,
+then was replaced by Uncle Jack's angry face.
+He got as far as, "You---" before Aunt Naggie hit the mute button.
+The core's transcript of his threats and orders scrolled by,
+every third word marked "abusive content and/or threat of violence".
+
+A horrible thought struck Iffy.
+"He can't remote us, can he?"
+
+"Not any more," Aunt Naggie told her.
+"An' when he gets around t' callin' on the registry
+I think he'll find he has less claim on this old boat than he thought he did."
+She patted the side of the console fondly,
+then made her husband disappear with another tap of her finger.
+
+Iffy surprised herself by yawning.
+"Here."
+She handed the toy bear to Wales.
+"I'm gonna..."
+She yawned again,
+waved vaguely at her foster mother's, "Sleep well, love,"
+and headed for her storage locker.
+
+She detoured a few steps to study the antenna at the stern,
+which looked just as normal as it had that morning,
+then shrugged,
+retraced her steps to her room,
+and closed the door behind her.
+She dropped her jacket beside her boots and fell onto her mattress.
+
+Her tablet made a soft *ping* just as she closed her eyes.
+"Affin' hell," she swore,
+pulling her pillow over her head.
+*Ping.*
+She swore again,
+rolled over,
+and tapped the screen.
+
+And sat bolt upright,
+her headache and fatigue forgotten.
+The dronelet she had sent to find Honesty had a message for her.
+
+It took the image a hearbeat to uncompress.
+Iffy gulped.
+First and Second were looking straight into the camera,
+and neither of them looked happy.
+The image blanked and re-formed.
+Second was holding their tablet up for the camera to see.
+"Do u know whr H?" was scrawled across its screen.
+Blank, blur, and a third image.
+"Not home gvnr say null worried."
+
+Iffy tapped her tablet with trembling fingers.
+The feeds were filled with reports of the attack,
+some official and others coded anywhere from reliable green
+to dubious yellow
+to kaiju-wizards-and-time-travellers red.
+People were dead and it would take weeks to repair the damage,
+but nobody had claimed responsibility---nobody credible, anyway.
+The Zillions said it wasn't them,
+the government in Hobart denied anything was afoot,
+and the machines were silent as always.
+
+She pulled up a map.
+They were already too far from Rothera for her tablet to connect,
+and she had no idea if using the ship's comms to send a message
+would bungle whatever fuzz the antenna at the stern was making.

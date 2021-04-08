@@ -3,13 +3,6 @@
 In between, Dr. Johel rode a little motorized scooter
 with Johnson Wales sitting awkwardly on the back.
 
-"Because Rothera Core ran a few sims," Dr. Johel explained testily to Uncle Jack
-as she and Wales dismounted. "A few billion, actually, and it calculated that
-this configuration gave us our best odds." She gestured at the sleek gray
-destroyer that had taken up station a few hundred meters away from the pier
-while Iffy slept. "You, the *Bengal*, these soldiers, and a couple of
-spotters---that's what it says, so that's what we're doing."
-
 "Well, all *I* can say is that---" Uncle Jack began to bluster.
 
 "There's no point arguing," Wales cut in tiredly. His face was drawn as if he
@@ -19,63 +12,7 @@ give me a hand with these?"
 He patted the toolboxes that sat on a two-wheeled cart hitched behind the
 scooter. Beside the cart, a cadet in a uniform three shades lighter than those
 of the other Marines stood at attention, her eyes covered by a dark tactical
-visor. Iffy looked past her to the canvas-covered machinery rolling up the pier
-to be loaded onto the *Bengal*, then looked back in shock. It couldn't be. It
-*couldn't* be.
-
-Dr. Johel saw the expression on Iffy's face. "Ah, yes," she purred. "That was
-another of the core's recommendations." She beckoned the cadet forward. "I
-believe you two know each other?"
-
-"Honesty?" Iffy somehow managed to say.
-
-Her friend's expression didn't change. "Good morning, Kwan's Fifth." Her voice
-was as stiff as her back and shoulders.
-
-"Don't worry," Dr. Johel told Iffy. "Everyone's like that after their first
-induction. She'll be herself again in a few days."
-
-"More or less," Wales muttered.
-
-"More or less," Dr. Johel agreed evenly. "But it *is* sometimes more."
-
-"Sometimes," Wales agreed. He waved a hand at the gangplank. "Just take them
-up there, please. Iffy can show you where they go."
-
-"Yes sir." Without even glancing at her friend, Honesty unhitched the cart and
-wheeled it up the gangplank. Wales gestured for Iffy to follow her, then
-trudged onto the *Guinevere* behind them.
-
-The toolboxes went in the cabin that Wales had used on the voyage from Halley.
-He struggled awkwardly out of his coat, his wound obviously still bothering him.
-"Maybe later," he said when Iffy asked him if he wanted some tea. "I'm going to
-lie down for a bit first."
-
-"Sure," Iffy said. Wales sat on his foam mattress, yawned, and started to swing
-his legs up before realizing that she was still standing there. He sighed.
-"Just give her time," he said gently. "And don't take anything she says too
-seriously. It's just the programming talking."
-
-Iffy nodded jerkily. "I know. I just---when Doctor Johel said as sometimes
-folk come out more than they was, what did she mean?"
-
-Wales rolled his head to work a kink out of his neck. "Induction training
-always wears off after a few weeks---that's why you still have to do classes and
-homework. But sometimes it rearranges what was there before. People make new
-connections, or find new ways to use things they already knew."
-
-"Or see things different than they did?" Iffy ventured.
-
-Wales raised his eyebrows. "I've never heard of that happening, but I suppose
-it's possible. Why---has that happened to someone you know?"
-
-Iffy shook her head. "Just wonderin'. I hope you sleep aright." She closed
-the door quietly behind her.
-
-Honesty was standing straight and stiff by the railing, her hands clasped behind
-her back. The cart beside her was lined up perfectly with the side of the ship,
-and the coil of cable on the post at her elbow had been re-coiled in loops that
-Iffy suspected were precisely whatever length Marine regulations called for.
+visor.
 
 ===
 
@@ -94,27 +31,9 @@ normally swarmed the harbor, but had prudently scurried off to their recharging
 stations to let the lean gray destroyer by.
 
 For a moment Iffy forgot to feel worried and angry about Honesty and their trip
-and everything else. The *Bengal* looked like it had been built yesterday
-rather than almost a century ago. The intricate sensor-baffling whorls on her
-hull made Iffy's eyes swim when she looked at them too long, but where the waves
-beat at the *Guinevere*, they slid past the *Bengal* like someone turning their
-shoulders to avoid bumping into a bully on the street.
+and everything else.
 
-Iffy felt almost hungry thinking about what her engines must look like. Three
-of them, two in the stern and one amidships as insurance against a torpedo
-strike, each one with its own broad-mouthed intakes and narrow jet exhausts, the
-channels connecting them full of micro-gears arranged in concentric rings to
-maximize the power-to-thrust ratios of---
-
-Her head swam. She clutched the railing and squeezed her eyes shut. She could
-*see* the *Bengal*'s engines as if they were laid out on a screen, the parts
-exploded and zoomed to make every intricate detail clear.
-
-She swallowed back her nausea. She had studied the general principles in a
-dozen different lessons, but the details---those were classified. The one
-attempt she had ever dared make to delve into them had ended in a screen full of
-square red warning signs and a stern lecture from Aunt Naggie the next morning
-when the cease and desist order arrived from Halley's core.
+===
 
 "Dammit, girl, stop lazin' about!" Uncle Jack's familiar bellow brought her
 back to herself. "Get down below and make sure every one o' those crates is

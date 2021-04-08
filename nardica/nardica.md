@@ -7321,7 +7321,120 @@ The Zillions said it wasn't them,
 the government in Hobart denied anything was afoot,
 and the machines were silent as always.
 
-She pulled up a map.
+She pulled up a map with a network overlay.
 They were already too far from Rothera for her tablet to connect,
 and she had no idea if using the ship's comms to send a message
-would bungle whatever fuzz the antenna at the stern was making.
+would bungle whatever fuzz the antenna at the stern was making
+to convince the world they weren't there or weren't themselves.
+She could send one of the other dronelets back,
+but she didn't want to lose another and anyway,
+the dronelet wouldn't even make it halfway.
+
+She leaned back against the wall in defeat,
+then jumped as the ship's speakers bonged.
+"Best be on deck," Aunt Naggie's voice said.
+"You'll wanna see this."
+
+Thirty seconds later she stood at the stern beside Wales and her foster mother.
+It was a relatively calm day---the breeze brushing fingers over her shaved scalp
+was cold but not to shivering,
+and the rise and fall of the deck beneath her feet felt so normal
+that she barely noticed it.
+Under other circumstances she would have enjoyed being out in the Antarctic sun,
+but the Marine destroyer closing on them spoiled that.
+
+"It's the *Bengal*," Wales said,
+handing the glasses he had donned a moment before to Iffy.
+"She was anchored three piers over from us in Rothera.
+Two cores, three engines, four crew, a dozen Marines,
+and enough ordnance to give your average pirate a really bad day."
+He smiled humorlessly.
+"Gayathri must be *really* upset with me."
+
+Iffy donned the glasses and waited for them to enhance the scene.
+The *Bengal* looked like it had been built yesterday rather than almost a century ago.
+The intricate sensor-baffling whorls on her hull
+made Iffy's eyes swim when she looked at them too long,
+but the waves that rocked the *Guinevere* slid past the *Bengal*
+like someone turning their shoulders to avoid bumping into a bully on the street.
+
+Iffy felt almost hungry thinking about what her engines must look like.
+Two in the stern and one amidships as insurance against a torpedo strike,
+each one with its own broad-mouthed intakes and narrow jet exhausts,
+the channels connecting them full of micro-gears arranged in concentric rings
+to maximize the power-to-thrust ratios of---
+
+Her head swam.
+She clutched the railing and squeezed her eyes shut.
+She could *see* the *Bengal*'s engines as if they were laid out on a screen,
+the parts exploded and zoomed to make every intricate detail clear.
+
+She swallowed back her nausea and offered the glasses to Aunt Naggie,
+who waved them away.
+"I hope we have enough tea," was all she said.
+
+"Because Rothera's core ran a few sims,"
+Doctor Johel told Wales half an hour later
+after the *Bengal* had come alongside the *Guinevere*
+and she had come aboard with a trio of Marines as escort.
+"A few billion, actually, and it calculated that this configuration gave us our best odds."
+
+"Best odds of what?"
+Wales asked.
+
+Doctor Johel's eyes glittered.
+"Of finding out what the hell is going on."
+
+Iffy barely heard them.
+She stared at one of the Marines standing at attention in their exoskeleton
+three steps away.
+It couldn't be.
+
+But Doctor Johel saw the expression on Iffy's face.
+"Ah, yes," she purred.
+"That was another of the core's recommendations."
+She beckoned the Marine forward.
+"I believe you two know each other?"
+
+"Honesty?" Iffy somehow managed to say.
+
+The Marine flipped their visor up.
+"Hello Iffy."
+Her voice was as stiff as her back and shoulders.
+
+"Don't worry," Doctor Johel told Iffy.
+"Everyone's like that for the first few days."
+She'll be herself in no time."
+
+"More or less," Wales muttered.
+He took the tea that Aunt Naggie offered him and passed it to Doctor Johel,
+then took the next one for himself and slurped a mouthful.
+"I suppose they'll be wanting the tour?"
+
+"Thank you.
+And I'd like a look at the controls if I may?
+On my own?"
+Doctor Johel's tone made it clear that it wasn't actually a request.
+
+Wales waited for her to go before turning to Iffy,
+who hadn't taken her eyes off Honesty.
+"Just give your friend some time," he said gently.
+"And don't worry too much about anything she says.
+It's just the induction talking."
+
+Iffy nodded jerkily.
+"I know.
+I just---I keep thinkin' about how Jeep changed up."
+
+Wales shrugged.
+"Sometimes it rearranges what was there before.
+And sometimes it shows people things about themselves that they'd rather not have known.
+Just give her some time."
+
+Iffy glanced toward the antenna at the stern.
+"Now that they know where we are,
+is it aright if I send her folks a message?
+They gotta be worried fierce."
+
+Wales shrugged again.
+"Can't hurt."

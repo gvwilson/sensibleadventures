@@ -7427,8 +7427,9 @@ Iffy nodded jerkily.
 I just---I keep thinkin' about how Jeep changed up."
 
 Wales shrugged.
-"Sometimes it rearranges what was there before.
-And sometimes it shows people things about themselves that they'd rather not have known.
+"Sometimes it doesn't all go away.
+Sometimes it rearranges what was there before.
+And sometimes it shows people things about themselves they'd rather not have known.
 Just give her some time."
 
 Iffy glanced toward the antenna at the stern.
@@ -7438,3 +7439,98 @@ They gotta be worried fierce."
 
 Wales shrugged again.
 "Can't hurt."
+
+After anguishing for a few minutes
+Iffy decided to send a simple text message instead of talking live.
+*Sorry about the drone,* she tapped awkwardly.
+*We on our way to Halley.
+The Marines are here n Honesty is with em.
+They look aright.*
+Iffy bit her lip.
+*Dont sound like themself but eryone says not to worry on it.
+I will tell them you said gday.
+Sorry gain about the drone I was just worried.*
+She hit send before she could lose her courage
+and then tossed her tablet aside and waved the light off,
+knowing that sleep would be a long time coming.
+
+Iffy had spent hours gazing at the pictures in her older's nature book
+that showed blue tropical oceans full of fish and coral.
+The ocean that the *Guinevere* and the *Bengal* sailed through
+for the next three days
+looked nothing like that.
+When the sky was blue,
+the sea was a liquid gray.
+When clouds rolled in and threatened a storm,
+as they did at least once a day,
+the gray turned somber.
+Even the white crests of the waves seemed dirty.
+
+The news from Rothera did nothing to improve their mood.
+The town's governor had survived,
+but was still not admitting that the attack had been launched by his clone in Halley.
+The pravda on the government feeds blamed rogue machines,
+and Iffy wondered whether French Henry was all right.
+She wondered about Uncle Jack too,
+until she realized that she wasn't worried about him
+so much as about what trouble he might still cause.
+
+Iffy's mood sank even further on their fourth day.
+One of the *Bengal*'s drones spotted an unevenness in the water.
+After dithering for a millisecond,
+the destroyer's core decided it might mean that a sea boil was brewing,
+so the two ships turned toward shore
+and ran straight into a slick of dead jellyfish.
+For the rest of the day the air didn't just smell like wet rot---it *tasted* of it.
+Aunt Naggie boiled a precious spoonful of dried lemon rind to chase the smell out of the galley,
+but dinner's noodles still tasted like rank seaweed.
+
+"It could be anything,"
+Wales said when Iffy asked him what he thought had happened.
+He had spent most of the first two days in his cabin,
+coming out only to eat and use the toilet
+under the supervision of whichever Marines were on the *Guinevere* at the time.
+"See that?"
+He leaned on the railing to point at the blistered caps and shredded tentacles drifting below.
+"There and there.
+And there.
+Looks like some kind of infection has been eating at them."
+He shook his head,
+anger and disappointment on his face.
+"Could be natural,
+but more likely someone crisped it up in a lab."
+
+"You think it was the Zillions?" Iffy asked.
+
+Wales shook his head.
+"I doubt it.
+This was probably someone trying to tweak them so they would trap plastic more efficiently."
+At Iffy's puzzled look he waved his arm toward the slick again.
+"That's why they were originally tweaked---to filter all the tiny bits of plastic out of the water."
+
+"Like the barnacles filter the metal?" Iffy said.
+
+Wales nodded.
+"It made sense at the time, in a desperate kind of way,
+but it never really worked.
+The only thing that *did* work was the accelerated growth."
+
+"I read about that in school---how they ate up everythin'
+so most o' the fish starved an' everythin' fell apart."
+Iffy frowned.
+"Never read anything about it bein' so they could trap plastic, though."
+
+Wales shrugged.
+"That was buried pretty deeply after it went wrong.
+Nobody wanted to admit they'd broken the oceans."
+He stared bleakly at the ruin in the water.
+"The clathrate bubbles feed the microorganisms the jellyfish eat,
+which is why the best jelly dredging is where the sea is most likely to boil.
+It's just one more disaster among many.
+And every time we try to put one of them right
+it seems we just tangle things up worse."
+
+Iffy watched the lumpy slick slide by for a second,
+then reached over and punched his shoulder.
+"For bein' so gloomy," she said firmly.
+"You're a lot more fun when you're all smiley an' such."

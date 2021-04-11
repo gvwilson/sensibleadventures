@@ -7534,3 +7534,175 @@ Iffy watched the lumpy slick slide by for a second,
 then reached over and punched his shoulder.
 "For bein' so gloomy," she said firmly.
 "You're a lot more fun when you're all smiley an' such."
+
+Doctor Johel paid the *Guinevere* a visit that afternoon,
+her first since leaving port.
+The *Bengal* had two swift gunboats capable of carrying four Marines in full combat exoskeletons,
+but she chose instead to be carried over by a drone.
+Two Marines flew beside her like mechanical angels,
+while one of the ultralight spotters that had been high overhead since Rothera
+circled over them.
+
+Doctor Johel touched down on the aft deck as gently as a snowflake.
+Her carrier drone hovered patiently over her
+while she undid the harness she wore over her long coat,
+then folded its twin manipulators back into its under-carriage
+and settled into the recharging station on the roof of the pilot house.
+
+Her escorts' landings were not nearly as graceful.
+One of them stumbled as an unexpected heave of the deck threw them off balance.
+*Are they flying manually?* Iffy wondered.
+People sometimes did that in the last desperate moments of stories,
+when the enemy's malware had somehow gotten past their defenses
+and cripped their cores,
+but she had never seen anyone do it in real life.
+Was it a training exercise of some kind?
+
+She was about to ask Wales when the Marine on the left took off their helmet
+and stood to attention.
+Honesty's hair had grown back to a light fuzz,
+but their face was as empty of feeling as it had been when Iffy had last seen them.
+
+Wales nudged Iffy with his elbow.
+"Here," he said quietly,
+rapping the back of her hand with his knuckles.
+She took the thimble-sized object he passed to her.
+As the pilot house door banged open behind her,
+she tucked her hands back in her pockets.
+
+Aunt Naggie poked her head out of the pilot house.
+"Permission to come aboard, captain?" Doctor Johel asked.
+"And yes, I realize it's a bit late to ask, but it *is* protocol."
+
+Half a dozen responses tripped over each other trying to get out of Aunt Naggie's mouth.
+Finally she pointed at the angel wings Doctor Johel's escorts had detached from their exoskeletons.
+"You should strap 'em down," she said.
+Then she looked at Iffy and mouthed the word "captain",
+tapping her chest with one finger.
+Iffy suppressed a grin.
+
+Even if the galley had been the size of the Dance Hall market,
+Iffy wouldn't have been invited.
+But Aunt Naggie had a tray of tea and freshly-steamed dumplings ready.
+"You keep out o' the way 'til we're done," she urged Iffy under her breath.
+
+Iffy nodded.
+"I will," she promised,
+fingering the earbug Wales had given her.
+
+Iffy made sure the lock on her door was snibbed before putting in the earbug.
+It hummed as it hunted the airwaves for the faint electronic warble of Wales' signal.
+"Come on," she muttered.
+The Marines all wore scramblers and sniffers,
+and Doctor Johel was undoubtedly even better protected.
+It would be a miracle if anything could get through,
+but she was starting to think that Wales made miracles
+the way Aunt Naggie made curry.
+
+"---but as a sign of our good intentions,
+we will rotate Corporal Macklin off to the *Bengal*,"
+Doctor Johel's voice suddenly said.
+"Private Honesty's Third will take his place until we reach Paddington South.
+Now,
+shall we have our tea before it goes cold?
+And these buns look delicious.
+Are these shaved carrots?"
+
+The conversation turned to pleasantries about the food and the weather.
+Bored,
+Iffy took out the earbug and pulled out her older's nature book.
+"I wish you could talk,"
+she told the orangutan on the cover.
+Not for the first time,
+she wished she could have flashes of insight now and then about what to say to people
+instead of just about machinery.
+With a sigh, she got to her feet.
+
+A whisper of static from the earbug caught her attention.
+She reinserted it in her ear just in time to hear Doctor Johel say,
+"---any sign of special abilities?"
+
+"I don't think so,"
+Wales replied.
+*Speaker shakes head,* the caption voice added.
+"She has a lot of natural talent,
+but I haven't seen any sign there's anything more to her than that."
+
+"That's a shame."
+*Speaker adopts skeptical expression.*
+"The core thought there was an eighty-five percent chance the tweak would have been passed on."
+
+*Speaker sighs.*
+"Gayathri, please---you know I don't like that word."
+
+*Speaker smiles.*
+"I remember you and Grandfather used to argue about it when you came to visit.
+He thought people with modifications should embrace the term and make it their own."
+
+This time Iffy heard the sigh.
+"And as I used to say to him,
+it's easier to feel that way when no one has ever thrown rocks at you.
+But coming back to Fifth,
+part of your grandfather's work was to create *modifications*
+that couldn't be detected by simple genetic tests.
+Cloning is never perfect---any glitch could have thrown the collaborating genes out of balance."
+*Speaker shakes head.*
+"Or maybe we're just too early.
+Maybe in another couple of years---"
+
+"We don't have another couple of years," Doctor Johel cut in.
+"I'm *old*, Johnson,
+and you've already lasted decades longer than you were supposed to."
+
+*Speaker shrugs.*
+"Well, the agency always did over-engineer things."
+
+*Speakers hug.*
+"I'm glad they did," Doctor Johel said in a muffled voice.
+*Speaker wipes away tear.*
+"Some days I'd give anything to be back in London drinking hot chocolate
+and listening to you and Grandfather set the world right."
+
+"Well, you can still have the chocolate," Wales said.
+
+Doctor Johel made a noise.
+"That stuff the governor grows is *not* chocolate."
+*Hug ends.*
+"Besides,
+what's gone is gone,
+Johnson,
+and what's done is done."
+
+"So they say," Wales replied softly.
+
+After a moment the earbug chimed.
+*Signal ends,* it told Iffy.
+She took it out and weighed it in her hand,
+then picked up her nature book and stared at the cover without really seeing it.
+She had been careful not to think about her pet rat in a long time,
+but now all she could feel was the dregs of the panicky sadness that she had almost drowned in
+after she and Aunt Naggie had given up looking for it.
+Was she going to feel that way about Honesty if the induction didn't wear off?
+Was everything she loved going to be taken away from her bit by bit?
+"Why's it all got to be so hard?" she whispered,
+wishing someone was there to answer.
+
+They passed the ruins of Bharati a few hours later.
+The little town had been founded as a research station on the opposite side of the continent.
+When the sea rose,
+its inhabitants had decided that if they had to pack up and move,
+they might as well move all the way to the Peninsula.
+Two thousand people had made the journey and built new homes,
+only to have them destroyed in a midwinter fire.
+
+Twenty years on,
+what was left of those homes stood in mute rows
+on either side of the little river their builders had christened the Ganges.
+Iffy stood at the railing and watch as the approached,
+slid by,
+and receded into the distance,
+her mood as dark as the scorched cinder blocks.
+A single lonely gull circled the *Guinevere* once and then coasted away.
+It was the grayest,
+most depressing scene Iffy could imagine,
+so she went back to her cabin to feel sorry for herself.

@@ -1,179 +1,3 @@
-Doctor Johel paid the *Guinevere* a visit that afternoon, her first since
-leaving port. The *Bengal* had two swift gunboats, each capable of carrying
-four Marines in full combat exoskeletons, but she chose instead to be carried
-over by a drone. Two Marines flew beside her, looking like mechanical angels
-instead of prey, while one of the ultralight spotters that had been high
-overhead since Rothera fell below the horizon circled over them.
-
-Doctor Johel touched down on the aft deck as gently as a snowflake. Her carrier
-drone hovered patiently over her while she undid the harness she wore over her
-long coat, then folded its twin manipulators back into its under-carriage and
-settled into the docking station on the roof of the pilot house.
-
-Her escorts' landings were not nearly as graceful. One of them stumbled as an
-unexpected heave of the deck threw them off balance. *Are they flying
-manually?* Iffy wondered. People sometimes did that in the last desperate
-moments of stories, when the enemy's malware had somehow gotten past their
-defenses and cripped their cores, but she had never seen anyone do it in real
-life. Was it a training exercise of some kind?
-
-She was about to ask Wales when the Marine on the left took off her helmet and
-stood to attention. Honesty's hair had grown back to a light fuzz, but her face
-was as empty of feeling as it had been when Iffy had last seen her. Her black
-eye was new, though, and when she and her partner exchanged salutes with the
-*Guinevere*'s four Marines, sunlight glinted off the silvery accelerator cast
-that encased half of her right hand.
-
-Wales nudged Iffy with his elbow. "Here," he said quietly, rapping the back of
-her hand with his knuckles. She hesitated, then took the thimble-sized object
-he passed to her. As the pilot house door banged open behind her, she tucked
-her hands back in her pockets.
-
-Uncle Jack stomped past them to glare at the new arrivals. "Permission to come
-aboard, captain?" Doctor Johel asked, unperturbed. "And yes, I realize it's a
-bit late to ask, but it *is* protocol."
-
-Half a dozen angry outbursts tripped over each other trying to get out of Uncle
-Jack's mouth at the same time. Finally he pointed at the angel wings her
-escorts had detached from their exoskeletons. "Strap 'em down," he growled.
-"They go over th' side, y'ain't puttin' it on me." He turned his bloodshot
-glare back on Doctor Johel. "Wife's made tea."
-
-The common room where Iffy and Aunt Naggie watched stories together when Uncle
-Jack was out drinking or in bed sleeping off its effects only had seats for
-four. Even if it had been the size of the Dance Hall market, Iffy wouldn't have
-been invited. Aunt Naggie wasn't invited either. She brought in a tray with
-tea and freshly-steamed dumplings, then retreated to the galley, closing the
-door behind her on Uncle Jack, Doctor Johel, Wales, and the Marine who had shot
-down the drone. "You keep out o' the way 'til they're all gone," she urged Iffy
-under her breath.
-
-Iffy nodded. "I'll stay in my cabin," she promised, fingering the little earbud
-Wales had given her.
-
-Iffy had built the lock for her cabin door herself when she was ten. After
-spending a couple of days browsing designs on the net, she had milled the parts
-at Mr. Mishra's and installed it while her uncle was off with his friends. She
-had never spoken to Aunt Naggie about it, but she was pretty sure her foster
-mother understood why the door got stuck sometimes, and why Iffy never seemed
-able to fix it.
-
-She made sure the lock was snibbed before taking the earbud out of her pocket
-and pushed it into her ear. It hummed as it hunted the airwaves for the faint
-electronic warble of Wales' signal. "Come on, come on," she muttered. The
-Marines all wore scramblers and sniffers, and Doctor Johel was undoubtedly even
-better protected. It would be a minor miracle if anything could get past it,
-and a major one if it could do so undetected.
-
-"---in' right you shoulda asked. It's *my* ship, dammit." Her foster father's
-voice had a whining edge that Iffy associated with messages from debt collection
-software and the occasional visit from a burly bearded man with steel teeth who
-made sure that gambling debts didn't stay debts for long.
-
-"Nobody has said otherwise," Doctor Johel replied, her "yet" unspoken. "And if
-Fifth or Commander Wales had told us the drone was theirs and let us inspect it,
-perhaps this could have been avoided."
-
-*Speaker makes gesture indicating helplessness,* a tiny mechanical voice
-captioned. Iffy barely noticed. *Commander* Wales?
-
-"But as a sign of our good intentions, we will rotate Corporal Macklin off to
-the *Bengal*," Doctor Johel continued. "Private Honesty will take his place
-until we reach Paddington South. Hopefully this incident will have clarified my
-team's operating parameters sufficiently for us to avoid further
-unpleasantness."
-
-"In other words, the Marines will still shoot anything that isn't theirs," Wales
-filled in.
-
-Iffy paid no attention to the sound of chairs scraping on the floor as the
-meeting ended. She pulled the earbud out and tossed it on the shelf beside her
-mattress, then scooped it up and tucked it under the mattress instead, then
-pulled it out again and threw it back on the shelf. Why had Wales wanted her to
-listen in on the conversation? More importantly, what was she going to say to
-Honesty?
-
-She sat down on her bed and pulled out her older's nature book. "I wish you
-could talk," she told the orangutan on the cover. Not for the first time, she
-wished she could have flashes of insight now and then about what to say to
-people instead of just about machinery. With a sigh, she got to her feet.
-
-A whisper of voices from the earbud stopped her. She pulled it off the shelf
-and reinserted it in her ear just in time to hear Doctor Johel say, "---any
-sign of special abilities?"
-
-"I don't think so," Wales replied. *Speaker shakes head,* the caption voice
-added. "She has a lot of natural talent, but I haven't seen any sign there's
-anything more to her than that."
-
-"That's a shame." *Speaker adopts skeptical expression.* "The core thought
-there was an eighty-five percent chance the tweak would have been passed on."
-
-*Speaker sighs.* "Jasmine, please---you know I don't like that word."
-
-*Speaker smiles.* "I remember you and Grandfather used to argue about it when
-you came to visit. He thought people with modifications should embrace the term
-and make it their own."
-
-This time Iffy heard the sigh. "And as I used to say to him, it's easier to
-feel that way when no one has ever thrown rocks at you. But coming back to
-Fifth, part of your grandfather's work was to create *modifications* that
-couldn't be detected by simple genetic tests. Cloning is never perfect---any
-glitch could have thrown the collaborating genes out of balance." *Speaker
-shakes head.* "Or maybe we're just too early. Maybe in another couple of
-years---"
-
-"We don't have another couple of years," Doctor Johel cut in. "I'm *old*,
-Johnson, and you've already lasted decades longer than you were supposed to."
-
-*Speaker shrugs.* "Well, the agency always did over-engineer things."
-
-*Speakers hug.* "I'm glad they did," Doctor Johel said in a muffled voice.
-*Speaker wipes away tear.* "Some days I'd give anything to be back in London
-drinking hot chocolate and listening to you and Grandfather set the world
-right."
-
-"Well, you can still have the chocolate," Wales said.
-
-Doctor Johel made a noise. "And live in the past? No thank you." *Hug ends.*
-"Besides, what they call chocolate these days never tastes quite right. What's
-gone is gone, Johnson, and what's done is done."
-
-"So they say," Wales replied softly.
-
-After a moment the earbud chimed. *Signal ends,* it told Iffy. She took it out
-and weighed it in her hand, then flung it across her room as tears welled up in
-her eyes. It didn't matter what Wales said---she knew she was tweaked. It was
-the only explanation for how she sometimes just knew what machines were or how
-to put them together.
-
-And Aunt Naggie knew, Iffy realized dully. The medicine she had been giving
-Iffy disguised as curry powder---she wouldn't have given it to Iffy unless the
-Zillion man from the Dance Hall had told her what it was for.
-
-She wiped angry tears from her eyes and then picked up her nature book and
-stared at the cover without really seeing it. She had been careful not to think
-about her pet rat in a long time, but now all she could feel was the dregs of
-the panicky sadness that she had almost drowned in after she and Aunt Naggie had
-given up looking for it. Was she going to feel that way about Honesty if the
-induction didn't wear off? Was everything she loved going to be taken away from
-her bit by bit? "Why's it all got to be so hard?" she whispered, wishing
-someone was there to answer.
-
-They passed the ruins of Bharati a few hours later. The little town had been
-founded as a research station on the opposite side of the continent. When the
-ice melted and the sea rose, its inhabitants had decided that if they had to
-pack up and move, they might as well move all the way to the Peninsula. Two
-thousand people had made the journey and built new homes, only to have them
-destroyed in a midwinter fire.
-
-Twenty years on, what was left of those homes stood in mute rows on either side
-of the little river their builders had christened the Ganges. Iffy stood at the
-railing and watch as the approached, slid by, and receded into the distance, her
-mood as dark as the scorched cinder blocks. A single lonely gull circled the
-*Guinevere* once and then coasted away. It was the grayest, most depressing
-scene Iffy could imagine, so she went back to her cabin to feel sorry for
-herself.
 
 The sudden blare of the *Guinevere*'s horn a few minutes later made her jump.
 "What now?" she groaned, dragging her sleeve across her face one last time
@@ -672,6 +496,22 @@ woke in a sweat and clutched at her throat, but there was nothing there.
 Honesty stirred and moaned beside her. "Ssh, ssh, ssh," Iffy said softly. She
 snuggled back against her friend and closed her eyes until something like sleep
 came again.
+
+===
+
+"---in' right you shoulda asked. It's *my* ship, dammit." Her foster father's
+voice had a whining edge that Iffy associated with messages from debt collection
+software and the occasional visit from a burly bearded man with steel teeth who
+made sure that gambling debts didn't stay debts for long.
+
+"Nobody has said otherwise," Doctor Johel replied, her "yet" unspoken. "And if
+Fifth or Commander Wales had told us the drone was theirs and let us inspect it,
+perhaps this could have been avoided."
+
+*Speaker makes gesture indicating helplessness,* a tiny mechanical voice
+captioned. Iffy barely noticed. *Commander* Wales?
+
+===
 
 She woke to the rap of armored knuckles on her door. The Marines were polite
 enough, but it was clear that they felt Iffy should have left Honesty in their

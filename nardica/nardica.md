@@ -7706,3 +7706,184 @@ A single lonely gull circled the *Guinevere* once and then coasted away.
 It was the grayest,
 most depressing scene Iffy could imagine,
 so she went back to her cabin to feel sorry for herself.
+
+The sudden blare of the *Guinevere*'s horn a few minutes later made her jump.
+"What now?" she groaned,
+wiping tears away with her sleeve
+before standing up and yanking open her door.
+
+The horn's second blare was punctuated by the staccato chatter of gunfire.
+A row of tiny black holes stitched across the deck two meters in front of Iffy.
+For a moment all she could do was stare.
+*Those are bullet holes,* she thought stupidly.
+*Somebody is shooting at us.*
+
+A dazzling streak of lightning half-blinded her.
+A moment later the smoking carcass of a military drone tumbled into the sea
+and exploded with a sharp *crack!*
+
+Boots thudded on the deck.
+"Citizen! Take cover!" the Marine ordered,
+the pop-up guns on the shoulder pauldrons of their exoskeleton whirring
+from one position to another
+as its tiny onboard core evaluated potential threats.
+An armored hand closed on Iffy's arm and pushed her back against the wall.
+
+"What's happening?" Iffy demanded.
+
+"We are under attack," the Marine said,
+shielding Iffy with their body as a second drone whined overhead.
+Another brief burst of staccato and another streak of lightning,
+but the drone danced sideways just in time
+so that the plasma burst from the gun at the *Guinevere*'s stern only singed it.
+It turned sharply and dove toward the ship.
+
+The Marine spun around and raised their arm to point at the incoming drone,
+keeping their exoskeleton between Iffy and the attack.
+The guns on their shoulders aimed and fired.
+The drone staggered and zoomed away,
+its remaining three rotors whining to make up for the fourth that had just been disintegrated.
+
+The Marine straightened up and turned to Iffy.
+The visor on their helmet snapped open.
+"Are you all right, citizen?" Honesty demanded.
+
+"I---I'm fine," Iffy said shakily.
+
+"Good."
+Their visor closed with a click.
+"Please assist with damage repair."
+
+"Wait!"
+Iffy caught Honesty's arm as they turned to go.
+"Who was that? Who was attacking us?"
+
+"The drones appear to be Brazilian, citizen," Honesty reported impassively.
+"Now excuse me---I need to join my unit to repel boarders."
+
+"To what?"
+And then the *Guinevere*'s horn blared again
+as something that looked like a cloudy jellyfish
+pulled itself over the railing and squelched toward them.
+
+Honesty's first three shots went straight through it
+to punch lethal little holes in the ship's deck.
+"Stand back, citizen!" they ordered
+as they pulled a micro-grenade the size of their thumb
+out of the clip on their exoskeleton's sleeve and primed it.
+
+"No!" Wales shouted, running toward them.
+He tackled Iffy just as the grenade hit the jellyfish and exploded.
+
+*BOOM!*
+The shock threw Iffy and Wales across the deck.
+For a moment she lay in a daze while the world spun around her.
+
+Something grabbed her arm.
+She shrieked, but it was Wales, not the jellyfish.
+"I can't hear you!" she yelled,
+her ears still ringing from the blast.
+
+He pulled her to her feet.
+*There's a hole in the ship,* she thought muzzily.
+It was right where the jellyfish had been
+and big enough for her and Aunt Naggie to sit in.
+
+But where was Honesty?
+She looked around wildly,
+then shrieked again as another plasma burst lanced the blue sky over her head.
+
+"Come on!" Wales said, his voice muffled but audible.
+"We have to get out of here!"
+He pulled her toward the stern.
+
+"No!"
+She tried to shake him off but his grip was too strong.
+"What happened? Where'd she go?"
+
+Instead of answering,
+Wales picked her up and slung her over his shoulder
+like a sack of rice and charged.
+She beat his parka with her fists,
+yelling at him to put her down, put her *down*, she had to find Honesty,
+but he paid no more attention to her than he did to the spray from the waves.
+
+Nothing was left of the gray tent the Marines had set up at the *Guinevere*'s stern
+except a few smoldering tatters of canvas.
+Their plasma gun was a gleaming headless mantis
+surrounded by stacks of cubical capacitors clicked together like children's toys.
+It snapped this way and that as its little core searched for targets to destroy.
+The two Marines guarding it moved with the same unnatural insect jerkiness,
+firing occasionally when the smaller cores built into their exoskeletons calculated that
+they had at least some chance of hitting something.
+
+"Citizen! Seek shelter!" one of them bellowed,
+his voice amplified by his helmet.
+
+Wales skidded to a stop and dropped Iffy to the deck.
+"For gubbins sake tell everyone to stop throwing grenades at them!"
+he yelled at the Marine.
+"They're made of some kind of exothermic biomaterial---they're bombs!"
+The Marine nodded sharply and relayed the information through his helmet mike.
+
+Iffy grabbed Wales' sleeve.
+"But where's Honesty?" she demanded.
+Her friend couldn't be dead.
+Iffy pushed the thought away in panic.
+She just *couldn't* be.
+
+"I don't know," Wales said, scanning the horizon.
+"Look---there!" He pointed.
+"What are they trying to do?"
+
+Iffy followed his pointing finger.
+Eight, ten---at least a dozen drones were circling in the *Guinevere*'s wake,
+buzzing the ship and dodging erratically to avoid fire from the Marines.
+
+"It's like they're waitin' fer somethin'," Iffy said.
+"More o' those jellyfish bombs maybe?"
+
+Wales started to shake his head, then froze and swore.
+"What?" Iffy demanded,
+but he ignored her while his lips moved silently.
+
+His eyes widened.
+"They're trying to draw fire from orbit," he breathed.
+"You! Tell Doctor Johel there's a Chinese satellite going over head in---"
+He hesitated. "---in six hundred and seventy seconds.
+They're trying to make a hot spot to draw its fire.
+If we're underneath them---"
+
+"Understood, citizen," the Marine said.
+He began speaking urgently into his helmet mike once again.
+
+Wales seized Iffy by the shoulders.
+"You have to get off this ship," he said,
+low and urgent.
+"If the Marines can't bring those things down,
+that satellite's going to shoot them down,
+and if they're above us when it does,
+we'll be dead in the water."
+
+"I ain't runnin'," Iffy said, shaking him off.
+She was about to add,
+and even if I was, where would I go and how,
+when something hauled itself over the stern railing.
+
+"Look out!" Wales shouted.
+He pulled Iffy close and spun around to shelter her with his body.
+
+"N-n-no need for p-p-panic, citizen."
+A battered Marine hauled themself onto the ship.
+Icy water gushed out between the gaps between the dark blue armor plates of their exoskeleton.
+
+Honesty's visor snapped up.
+Thy looked blankly at Iffy and Wales,
+then at the two Marines beside the plasma gun.
+"I require medical assistance," they said calmly,
+and toppled over in a pool of seawater and blood.
+
+"Honesty!"
+Iffy scrambled across the deck to her friend.
+"Honesty, wake up!
+Please, please, wake up!"

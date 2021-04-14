@@ -8299,3 +8299,116 @@ Honesty stirred and moaned beside her.
 "Ssh, ssh, ssh," Iffy said softly.
 She snuggled back against her friend
 and closed her eyes until something like sleep came again.
+
+She woke half an hour later to the rap of armored knuckles on her door.
+The Marines were polite enough,
+but it was clear they felt Honesty belonged in their care.
+One lifted Honesty and carried them away,
+still wrapped in the scratchy blanket that Iffy had slept under since she was little.
+The other unzipped a navy blue duffel bag and briskly transferred the piled armor to it.
+
+"How bad's th' damage?" Iffy finally asked,
+her back against the bulkhead and her knees drawn up under her chin.
+
+The Marine shook his head.
+"I'm sorry, citizen, that's classified."
+
+"Oh for---I *live* here!" Iffy burst out, exasperated.
+"That hole where th' squid thingy blew up---that's dry dock work fer sure.
+Anythin' else I gotta start plannin' to fix?"
+
+The Marine paused,
+one arm in mid-air,
+as his imprinting and his own personality arm-wrestled inside his head.
+"There were casualties," he finally admitted.
+"And the *Bengal* took heavy damage.
+Your assistance would be appreciated."
+
+"Always happy t' help," Iffy muttered,
+sounding more like Uncle Jack than she liked.
+Her cabin felt cold and empty without Honesty and her blanket,
+and she ought to make sure Aunt Naggie was all right.
+When the Marine lifted the duffel bag,
+she pulled her coat back on and followed him out the door.
+
+Aunt Naggie and Johnson Wales were in the pilot house,
+empty tea mugs at their elbows.
+"Hey, sleepy head," Wales greeted her
+as she came in and gave her foster mother a hug.
+"How's your friend?"
+
+"Marines took 'em.
+I think they're aright."
+Iffy leaned back against the wall and nodded at the control panel
+where the hole in the deck pulsed scarlet
+and dozens of smaller punctures looked like sores with the scabs picked off.
+"What all?"
+
+"She'll get us to Paddington," Aunt Naggie said.
+Her tone said the rest---unless there was another attack.
+Unless the sea boiled beneath them
+or a storm came up
+or any of a hundred other disasters befell them.
+
+"What about the Navy ship?"
+Iffy jerked her head toward the window.
+"Th' Marine said they lost some folk an' took damage."
+
+Wales nodded,
+a grim expression on his face.
+"Doctor Johel won't tell me how bad it is,
+which means it's pretty bad."
+
+The mention of Doctor Johel brought Iffy's dream back to her.
+She opened her mouth to tell Wales and Aunt Naggie about it,
+but before the words could come
+she felt that strange sensation again,
+like a cold metal collar around her neck.
+She put her hand on her throat,
+sure that she would find something there,
+but all she could feel was her own skin.
+Her stomach flip-flopped.
+Something was very wrong,
+but even as she thought that the sensation and the dream disappeared,
+leaving her blinking and a little dazed.
+
+After a few minutes she made her way back to her storage locker,
+not knowing where else to go.
+It felt cold and empty without Honesty.
+She kicked off her boots and threw herself onto her mattress.
+After staring angrily at the ceiling for a few seconds,
+she picked up her nature book
+and turned to the page she had wondered about most
+ever since she was old enough to read
+without a prompter murmuring in her ear to help.
+It showed a forest,
+but calling it that was like calling the ocean wet.
+The trunks of the trees were so thick that
+the *Guinevere*'s pilot house could have fit into them,
+and their branches reached higher than any building Iffy had ever seen.
+The caption read, "Cathedral Grove"
+and beside it someone had written,
+"Why does everything have to end???"
+
+Iffy ran her fingers over the picture,
+hoping to see a *Corvus caurinus* fly through
+or an *Odocoileus hemionus* peek out from the bushes,
+but the image lay still.
+There were no crows or deer for her today.
+She wondered if there were any left anywhere.
+The forest was long gone,
+but maybe some of the crows had survived.
+Maybe they'd been able to fly away when the fires came
+or when people grew desperate enough to cut down the last of those ancient giants.
+Crows were supposed to be smart---smarter than gulls,
+maybe even as smart as rats,
+and rats were practically everywhere.
+
+She set the book aside,
+put her hands under her head,
+and closed her eyes.
+She and Honesty were going to have an adventure, she decided.
+*And Aunt Naggie,* she added,
+*And Wales. And maybe even Jeep.*
+She rolled over onto her side.
+Moments later, quiet snores filled her cabin.

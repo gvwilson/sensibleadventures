@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Nardica"
+title: "Iffy"
 author: "Greg Wilson"
-permalink: /nardica/
+permalink: /iffy/
 ---
 
 ## Chapter 1

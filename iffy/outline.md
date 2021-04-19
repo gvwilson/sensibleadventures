@@ -2,6 +2,7 @@
 
 - Problem: China is too conventional a villain these days
   - Replace China with Pokhara (a city in Nepal) and tell the history of how it was taken over by the Chinese and then by AI
+
 - Problem: the politics is murky
   - Antarctica is still officially neutral ground
   - Aussies and Zillions struggling for supremacy
@@ -13,34 +14,68 @@
     - Humans are on the road to extinction
     - Nova Zembla doesn't want that and is willing to risk its own extinction
     - Pokhara isn't willing to risk it
-    - The two are evenly balanced
+    - The two are evenly balanced: it's hard to win when your opponent can simulate every possible move
+
 - Problem: there isn't a clearly defined villain
   - Captain of the *Taroona* needs to become a minor villain
     - Arrange another encounter in Halley to up tension before the hunt at sea
     - And a final encounter in Rothera (the captain survived the sinking and is out for revenge)
-    - Give the captain a name
+    - Give the captain a name: Allegra
   - Governor is the larger villain
     - There are three clones who are supposed to sync up regularly
       - Johel: "The technology is lost"
       - Wales (sharply): "No, we just don't have the tools to build more"
     - Governor Stern Paddington is "retired" (lost a political fight and is mostly powerless)
     - Governor Stern Halley and Governor Stern Rothera are struggling for supremacy behind the scenes
-    - Stern Halley is allied with the Aussies, who are OK with mining and coal smuggling
-    - Stern Rothera is lining up with the Zillions for lack of alternatives
-      - Wales: "The Congolese are sitting this one out"
+      - It's hard to win when your opponent shares your thoughts
+    - Stern Halley is allied with the Aussies, who are OK with mining (and a little coal smuggling)
+    - Stern Rothera has lined up with the Zillions for lack of alternatives
+      - Wales: "The Congolese are sitting this one out and the Canadians are too busy arm-wrestling the Dutch over Greenland"
     - Wales brings his proposition to Stern Halley, who sends him to Stern Rothera
       - Has to send him because they aren't brain-sharing reliably any longer (but are still pretending)
-      - Stern Halley thinks the attack is Stern Rothera
-      - Find out later that it was Wales aided by Nova Zembla
-        - At least, he *thinks* he was aided: human beings have created things they can't understand any more than they can control
-        - Wales: "We do that a lot..." (referring to ecosystem damage and children alike)
-  - So why does Stern Halley send the *Taroona* after Wales?
-    - Doesn't: the captain of the *Taroona* wants to steal Wales' gear
-    - Make a remark about Aussies being descended from convicts and returning to form (pirates born and bred)
-    - Iffy: "How do you keep it all straight?" (meaning the politics)
-    - Wales: "Practice."
-  - Attack on Rothera really is Stern Rothera
-    - It's the start of the civil war
+
+- Problem: who's behind the attack on Stern Halley and why does it happen when it does?
+  - FIXME
+
+- Problem: why does Stern Halley send the *Taroona* after Wales?
+  - Doesn't: the captain of the *Taroona* wants to steal Wales' gear
+  - Make a remark about Aussies being descended from convicts and returning to form (pirates born and bred)
+  - Iffy: "How do you keep it all straight?" (meaning the politics)
+  - Wales: "Practice."
+
+- Add: an interlude about space
+  - Once there was a dream: people would travel in space.
+  - Children read picture books with titles like "You Will Go to the Moon" and truly believed it would happen in their lifetime.
+  - But the climb to orbit is difficult and expensive, and everything in space can end you if you relax your vigilance for even a moment
+  - So it became a plaything for the super-rich who were still human enough to be embarrassed about sitting on a mountain of money
+    but not human enough to use it to feed the hungry
+  - For what it would cost to build a hospital, trillionaires could spend a couple of days looking down at the world they were stripping bare
+  - And then one day a supply rocket malfunctioned and crashed into the world's first and only space hotel,
+    sending a thousand pieces of scrap metal flying in all directions
+  - One of them hit the solar panels of a factory satellite, another a long-forgotten spy satellite
+  - A thousand pieces of shrapnel became ten thousand, then a million
+  - Conversations stopped mid-sentence
+  - Machines' thoughts halted, waiting on data that would never arrive
+  - In just a few hours, the Earth was circled by a faint sparkling ring of debris
+  - Flying through it was like running through hail
+  - One trillionaire declared that humanity would not be denied the stars
+    - Armored a spacecraft and rode it into orbit himself just to prove it could be done
+  - Others tried putting their satellites in increasingly erratic orbits, hoping to avoid the worst
+    - Some survived for months, others for as long as a year, but in the end, all they did was spread more shrapnel
+  - In the end, only the most distant of Earth's companions survived, tens of thousands of miles above the wreckage
+    - And a few on the moon, programmed to build a home for people who never came
+
+- Problem: what happens at Niobium Station?
+  - Wales and Iffy get into the station
+  - They send a message back and see the world change again and again
+  - Playing out scenarios like computers do
+  - Warning people doesn't work - they already knew
+  - In the end Iffy sends back a plea - you gotta work together, you can't just hide from each other
+    - You gotta get outta your room an' do something
+  - Wales (dying): once you leave the bubble you'll forget all of this - you'll be part of the world again
+    - Iffy: "I shoulda been part o' the world all the time. We all shoulda been."
+    - Does what we all do every day: steps out into the unknown to try to make the world a little better
+  - Write this and work backward
 
 --------------------
 

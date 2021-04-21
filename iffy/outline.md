@@ -1,5 +1,34 @@
 # Iffy
 
+- Everything significant must be used at least twice: don't introduce things and never come back to them
+  - Mr Mishra and Jeep
+  - French Henry
+  - the fabric dronelets
+  - Raniere
+  - Honesty's parents
+- Every significant character must have an arc
+  - What is Iffy's?
+    - Doesn't believe people will ever like her for herself, only because she's useful
+    - Always pushing herself, struggling to connect with her peers because they just want to talk about *nothing*
+    - Slowly accepts that people care about *her*, not just what she can do
+  - What is Honesty's?
+    - Not just a damsel in distress
+  - Uncle Jack + Aunt Naggie: his fall from power is mirrored by her rise to strength
+    - Mrs Sandhu: "Oh, that nice Zillion fellow stopped by" and then gives Iffy the special curry mix
+    - Raniere's last words to Aunt Naggie: "You still have a lot of good times in front of you."
+  - Wales: so focused on saving the world that he's willing to sacrifice everyone around him
+    - Convinces Stern Halley that the attack there was backed by Stern Rothera, when it was actually Wales (got out of hand)
+    - Not bothered by the sinking of the *Taroona*
+    - "Goes along with" (plants seed of) Stern Halley's plan to attack Stern Rothera
+    - Why? Because he needs to steal some equipment to get into Niobium Station and build his time machine
+  - What is Jeep's?
+    - Iffy messages him for help, starts talking to him, realizes they're still friends
+    - Tells her what's going on in Halley after the attack on Rothera
+    - Awkward moment where she tells him she's got someone (and how strange it feels to say that)
+    - Long pause, she thinks he's given up, and he comes back to say, "You're an idiot. Course I know that. Dont mean we cant be friends."
+
+----------------------------------------
+
 - Problem: China is too conventional a villain these days
   - Replace China with Pokhara (a city in Nepal) and tell the history of how it was taken over by the Chinese and then by AI
 

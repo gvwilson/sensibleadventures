@@ -7,12 +7,13 @@
   - Raniere
   - Honesty's parents
 - Every significant character must have an arc
+  - What is Honesty's?
+    - Not just a damsel in distress
   - What is Iffy's?
     - Doesn't believe people will ever like her for herself, only because she's useful
     - Always pushing herself, struggling to connect with her peers because they just want to talk about *nothing*
     - Slowly accepts that people care about *her*, not just what she can do
-  - What is Honesty's?
-    - Not just a damsel in distress
+    - Message exchange with Jeep when she asks for help
   - Uncle Jack + Aunt Naggie: his fall from power is mirrored by her rise to strength
     - Mrs Sandhu: "Oh, that nice Zillion fellow stopped by" and then gives Iffy the special curry mix
     - Raniere's last words to Aunt Naggie: "You still have a lot of good times in front of you."
@@ -22,10 +23,15 @@
     - "Goes along with" (plants seed of) Stern Halley's plan to attack Stern Rothera
     - Why? Because he needs to steal some equipment to get into Niobium Station and build his time machine
   - What is Jeep's?
+    - Jeep messages Iffy at the end of day 1 to say he's sorry for being a bot
+    - Realize what he's going through
     - Iffy messages him for help, starts talking to him, realizes they're still friends
     - Tells her what's going on in Halley after the attack on Rothera
     - Awkward moment where she tells him she's got someone (and how strange it feels to say that)
     - Long pause, she thinks he's given up, and he comes back to say, "You're an idiot. Course I know that. Dont mean we cant be friends."
+    - "An maybe I can help them tell them what its like comin back to bein yoursel"
+  - The Sandhus are Zillion agents
+    - Aunt Naggie carries messages hidden in the groceries from Halley to Rothera and back
 
 ----------------------------------------
 
@@ -33,11 +39,18 @@
   - Replace China with Pokhara (a city in Nepal) and tell the history of how it was taken over by the Chinese and then by AI
 
 - Problem: the politics is murky
-  - Antarctica is still officially neutral ground
+  - Antarctica is still officially UN territory
+    - A brief moment when nations were willing to work together, at least on things that didn't really matter
+    - Mention the blue flag and the UN blue (instead of Navy blue) Marine uniforms
+    - Call them Pecks (peacekeeper) uniforms, Peck blue, etc.
   - Aussies and Zillions struggling for supremacy
     - Make "A to Z" joke
+    - Aussies want to keep mining, Zillions want to shut it all down
+    - Aussies strut around in Halley while Zillions stick to the harbor
+    - Reversed in Rothera, or it was: Zillions moved freely, but the Pecks broke up fights almost daily
   - Human politics feels like children shoving each other on the playground while the grownups (AIs) look on
-    - Wales: "Hard to understand why people make a big deal about it"
+    - Wales: "The Congolese are sitting this one out and the Canadians are too busy arm-wrestling the Dutch (Germans) over Greenland"
+    - Wales: "Hard to understand why people make a big deal about it with everything else that's going on"
     - Johel responds furiously at his privilege
   - Behind that is the AI politics, which is only revealed at the end
     - Humans are on the road to extinction
@@ -46,28 +59,40 @@
     - The two are evenly balanced: it's hard to win when your opponent can simulate every possible move
 
 - Problem: there isn't a clearly defined villain
-  - Captain of the *Taroona* needs to become a minor villain
+  - Captain of the *Taroona* (Allegra) needs to become a minor villain
     - Arrange another encounter in Halley to up tension before the hunt at sea
-    - And a final encounter in Rothera (the captain survived the sinking and is out for revenge)
-    - Give the captain a name: Allegra
+    - And a final exchange of messages as the *Taroona* goes down
   - Governor is the larger villain
     - There are three clones who are supposed to sync up regularly
       - Johel: "The technology is lost"
       - Wales (sharply): "No, we just don't have the tools to build more"
-    - Governor Stern Paddington is "retired" (lost a political fight and is mostly powerless)
+    - Governor Stern Paddington is "retired"
+      - Lost a political fight and is mostly powerless
+      - But still scheming
     - Governor Stern Halley and Governor Stern Rothera are struggling for supremacy behind the scenes
       - It's hard to win when your opponent shares your thoughts
-    - Stern Halley is allied with the Aussies, who are OK with mining (and a little coal smuggling)
+    - Stern Halley is allied with the Aussies
     - Stern Rothera has lined up with the Zillions for lack of alternatives
-      - Wales: "The Congolese are sitting this one out and the Canadians are too busy arm-wrestling the Dutch over Greenland"
     - Wales brings his proposition to Stern Halley, who sends him to Stern Rothera
       - Has to send him because they aren't brain-sharing reliably any longer (but are still pretending)
 
 - Problem: who's behind the attack on Stern Halley and why does it happen when it does?
-  - FIXME
+  - The attack on Stern Halley is Stern Paddington trying to stir up trouble
+  - The attack on Stern Rothera is the Aussies wanting revenge for the sinking of the *Taroona*
+  - Stern Halley has given them an implicit go-ahead
+  - The start of the Antarctic Civil War
+  - Make the attack more dramatic
+  - Ships fleeing the harbor
+  - Somehow Iffy's medicine is lost, which is why Aunt Naggie kicks Uncle Jack overboard
+  - Dr Johel wants to maintain Antarctic independence
+    - Secretly working for Stern Paddington, who was the first of the clones
+    - Agrees to help Wales get to the Niobium station (which somehow became just "Niobium Station" to everyone)
+    - Stern Paddington has given up on Earth: only hope is to use Antarctica's resources to get people into space
+    - "The Lunar bases are there, waiting. They have been waiting a hundred years. I can't go (brittle bones) but you all can!"
+  - The point of this is that people *aren't* helpless
+    - Dr Johel makes a speech: "I can't solve this myself, but I can nudge, and if enough people nudge"
 
-- Problem: why does Stern Halley send the *Taroona* after Wales?
-  - Doesn't: the captain of the *Taroona* wants to steal Wales' gear
+- Problem: the captain of the *Taroona* wants to steal Wales' gear
   - Make a remark about Aussies being descended from convicts and returning to form (pirates born and bred)
   - Iffy: "How do you keep it all straight?" (meaning the politics)
   - Wales: "Practice."
@@ -93,6 +118,14 @@
     - Some survived for months, others for as long as a year, but in the end, all they did was spread more shrapnel
   - In the end, only the most distant of Earth's companions survived, tens of thousands of miles above the wreckage
     - And a few on the moon, programmed to build a home for people who never came
+
+- Add an interlude about the internet
+  - Basilisks
+  - The evolutionary race between viruses and anti-viruses and people taking drugs so that they could use the web safely
+  - Content returning to text and slow motion because it's safer
+
+- Add an interlude about the Ecological Corps
+  - The hermits and itinerant laborers who still believe
 
 - Problem: what happens at Niobium Station?
   - Wales and Iffy get into the station

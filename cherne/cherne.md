@@ -346,7 +346,7 @@ on foot, by water, or by air if they can.
 
 ### Plangentia and the Cansados
 
-Plangentia consists of the Regimental Kingdoms, , and the Cansado Mountains.
+Plangentia consists of the Regimental Kingdoms and the Cansado Mountains.
 The Regimental Kingdoms lie between the high central plain of Cherne and the
 western arm of the Ocean, and are separated from Araña by the Cansados (which
 other Chernese regard as pretentious hills, rather than proper mountains). The

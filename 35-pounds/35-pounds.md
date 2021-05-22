@@ -1,3 +1,5 @@
+https://www.theguardian.com/environment/2021/may/16/the-secret-of-how-amundsen-beat-scott-in-race-to-south-pole-a-diet-of-raw-penguin
+
 Owing to some inexplicable wounds found on the bodies of seals, it has been suggested that a land mammal might exist in these regions, though hitherto unseen by man. Most of us were incredulous of this theory, but on that night we suddenly came on a floe covered with soft snow which bore the impress of footprints wide apart and bearing every appearance of having been made by a large land animal. The excitement was great and observers with cameras were soon over the side and breathlessly examining this strange spoor; but alas! it was soon detected that the impress was that of a webbed foot, and gradually we can to the conclusion that the footprints were those of a large giant petrel, and that their distance apart was due to the fact that they had been made when the bird, half-flying and half-walking, and been lazily rising on the wing. - diary of Captain Robert Falcon Scott, January 21, 1902.
 
 March 11, 1902: Seaman George T. Vince was taken by the ice while sledging back to camp in a storm.

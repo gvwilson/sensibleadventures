@@ -7,7 +7,7 @@ permalink: /iffy/
 
 ## Chapter 1
 
-*Iffy had a bad dream again that night.
+*Iffy had a bad dream that night.
 It was the same one she always had,
 and the worst part was that it wasn't really a dream.*
 
@@ -15,11 +15,11 @@ and the worst part was that it wasn't really a dream.*
 The sky was a perfect blue bowl overhead,
 summer cold instead of winter freezing.
 Second and Third were stuffing her into
-the fifth-hand ecosuit that had cost them as much as one of their jelly dredging nets.
+the hand-me-down ecosuit that had cost them as much as one of their jelly dredging nets.
 "Just in case, love," Third said,
 forcing a smile but unable to keep the fear out of her voice.
 She kissed the family's youngest clone on the forehead
-and slipped her favorite book into the bulky suit.
+and slipped Iffy's favorite bedtime book inside the bulky suit.
 "Just in case."*
 
 *The ship's horn blared another warning.
@@ -36,15 +36,15 @@ she realized that Second had been angry at the sea for what was about to happen,
 and at herself for not being able to stop it.*
 
 *"She's boiling!" Fourth shouted from the crow's nest.
-"A hundred meters front off starboard!"*
+"A hundred meters ahead an' ten points off starboard!"*
 
 *Third sealed the last flap on the ecosuit.
 This time Second didn't try to stop her when she wrapped her arms around Iffy.
 "I love you," she said in Iffy's ear.
-"Always and forever."*
+"I love you always and forever."*
 
-*"I love you too," Iffy replied automatically.
-The thick insulation in the suit made it difficult to bend her arms,
+*"I love you too," Iffy replied tearfully.
+The thick insulation in the suit made it hard to bend her arms,
 but she tried to return Third's hug anyway.*
 
 *Second bent over and kissed them both on the tops of their heads.
@@ -52,26 +52,28 @@ She smelled like engine oil and the soap she always used when she shaved her hea
 That was what Iffy remembered afterward---that,
 and the stench of methane rising out of the sea around them.
 Hundreds of meters below,
-a million tiny bubbles of gas trapped in ancient ice were about to free themselves.*
+a million tiny bubbles of gas trapped in ancient clathrate ice on the sea floor
+were about to burst free.*
 
 *The deck pitched sideways as First tried desperately
-to steer out of the seething mass of foam forming around them.
+to steer out of the mass of foam that surrounded them.
 "She's going to blow!" Fourth shouted.
 The ship's horn blared one last time.
-The last thing Iffy heard before Third closed the ecosuit's faceplate was a rushing sound.*
+The last thing Iffy heard before Third closed the ecosuit's faceplate was a rushing sound
+like a train racing past her ears.*
 
 *The ship staggered and dropped two meters.
-Iffy screamed as she fell back onto the deck.
+Iffy screamed as she tumbled back onto the deck.
 Second and Third landed in a tangle beside beside her.
 A wash of sea water crashed down on top of them.
 Iffy screamed again as it dragged her olders against the metal taffrail.
 They grabbed for it,
-but then the ship dropped again
-as the gas rising from the ocean floor churned the water into
-a froth too thin to hold the boat afload.
+but the ship dropped again
+as the gas rising from the ocean floor churned the water
+into a froth too thin to hold the boat afload.
 The last thing Iffy saw before the water closed over her
 was Fourth tumbling through the air,
-her arms and legs flapping like broken wings against the perfect blue sky.*
+her arms and legs flailing against the perfect blue sky.*
 
 *Her dream stopped then,
 just like it always did.
@@ -99,12 +101,14 @@ and told him that the child was staying or she was leaving,
 which was it going to be?*
 
 *So Iffy stayed, but not the ecosuit.
-Uncle Jack sold it almost as soon as they got back to Rothera.
-"You're going to outgrow it anyway,"
-he growled impatiently over her tearful protests.
+Uncle Jack had two pairs,
+eights over fives,
+but the Aussie across the table had three sixes.
+"You were going to outgrow it anyway,"
+he snapped impatiently over her tearful protests when she found out it was gone.
 "Gotta pay for your keep somehow."*
 
-*He would have sold the book tucked into the suit as well
+*He would have gambled away the book tucked into the suit as well
 if Aunt Naggie hadn't misplaced it until he forgot about it.
 It had belonged to Third when she was Iffy's age,
 and to Second before that,
@@ -125,9 +129,9 @@ she sometimes added to herself as she grew older
 and Uncle Jack's business dealings left them a little poorer each season.*
 
 Iffy woke to the sound of Aunt Naggie bustling about in the galley.
-She lay on her narrow foam slab for one final precious moment
-before slithering out of the salvaged sleeping bag she slept
-and pulling a layer of clothes on over her thermals.
+She lay on the narrow foam packing slab she used as a mattress for one final precious moment
+before slithering out of her salvaged sleeping bag
+and pulling on a layer of clothes over her thermals.
 That banging was her foster mother's way of telling her that Uncle Jack was awake.
 If she knew what was good for her,
 she'd be up on deck doing something useful
@@ -138,7 +142,7 @@ rubbed the stubble on her scalp,
 and undogged the door of the storage locker
 that had been her cabin for the past eight years.
 
-As she stepped out onto the deck of the *Guinevere*,
+As she stepped out onto the deck of the *Guinevere*
 the sights and sounds and smells of Halley harbor splashed over her
 like the waves in her nightmare.
 She stopped for a moment to let her eyes adjust to the light.
@@ -148,7 +152,7 @@ to create a seawall for the town's harbor.
 Dozens of ships and boats bobbed gently up and down in its lee.
 Some were as old as the carrier,
 patched and re-patched over the years like the *Guinevere* to stay seaworthy.
-Others were newly built,
+Others were newer,
 Aussie-made dredgers piled high with rolls of nets
 or streamlined Zillion clippers with bright kite sails furled around triple masts.
 Gulls wheeled overhead in their endless search for scraps,
@@ -161,10 +165,11 @@ Back before,
 Halley had been a research station where scientists studied the first signs of the big melt.
 As the ice shelf disappeared and life back home became desperate
 they converted their labs into temporary houses.
-By the time their children were grown they had stopped saying "temporary".
+By the time their children were grown they stopped doing research or saying "temporary".
 
-Two thousand people now made Halley their home,
-dredging jellyfish out of the water during the summer blooms
+Two thousand people now made Halley their home
+under the governors' watchful eyes.
+During the summer blooms they dredged jellyfish out of the sea
 to render down for fuel and fertilizer.
 When winter came they tended the town's precious greenhouses
 or sailed north to Tasmania or Patagonia
@@ -183,13 +188,13 @@ an industrial printer from Nova Zembla at the opposite end of the earth.
 
 It had arrived in the hold of a heavily-armed Aussie destroyer.
 The whole town had turned out when the sleek warship came into harbor,
-her railguns bristling and her drones darting back and forth above her.
+railguns bristling and drones darting back and forth above her.
 They lined the streets and cheered
 as the destroyer's crew and a squad of Marines escorted the boxy machine through Halley's streets
 to the quarantine shed by the new pier.
-Once the town's core finished its months-long check for malware,
-the only limit to what the printer could make would be
-the plans and raw materials people could give it.
+Once Halley's core finished its months-long check for malware,
+the only limit to what the printer could make
+would be the plans and raw materials people could give it.
 
 Iffy had seen some of those plans glowing softly
 above the tables of Halley's three cafés.
@@ -200,17 +205,16 @@ then spent hours looking up words she didn't know and figuring out how they fit 
 She wanted to be part of those conversations so much it ached.
 But even more than that,
 she wanted to know why visions of things she *hadn't* seen kept popping into her head.
-Every time she thought too hard about the plans she had seen,
-ghostly shapes appeared behind her eyes,
+Ghostly shapes appeared behind her eyes every time she thought too hard about the plans:
 fractal capacitors
 and ever-so-slightly irregular gears
 whose off-center spin would automatically synchronize to reduce power loading.
 She had gone as deep into the jungle as she dared to find anything that matched,
-but every trail ended in "not found" or a blinking, blood-red "restricted".
+but every trail ended in "no results" or a blinking scarlet "restricted" warning.
 After a couple of those she had stopped looking,
 afraid of who or what might notice.
 
-"Girl! Girl! *Wang ba*, wife, where's that affin' girl?"
+"Girl! Girl! Dammit, woman, where's that affin' girl?"
 Iffy jumped as Uncle Jack's bellowed from below deck.
 He had been out with his biffs the night before,
 which was Uncle Jack-speak for drinking more than he could handle
@@ -218,7 +222,7 @@ and gambling more than they could afford.
 Aunt Naggie somehow managed to winkle enough out of his phone while he was snoring to keep the *Guinevere* afloat,
 but it had been weeks since they'd had fresh fruit,
 and she couldn't remember the last time there had even been mention of new clothes
-or of replacing their frayed dredging nets.
+or of replacing their frayed nets.
 
 "Girl!" Uncle Jack shouted again.
 "Get your affin' tail down here *now* or saints help me you'll be scrapin' barnacles for a *week*!"
@@ -228,14 +232,14 @@ With one last longing look at the distant machine shop,
 Iffy lifted the hatch beside her and scrambled down the ladder.
 "I'm right here, Uncle Jack," she said breathlessly. "I was just---"
 
-"You were just lying about like some fairytale princess, and don't try tell me otherways!"
+"You were just lyin' about like some fairytale princess, and don't try tell me otherways!"
 The *Guinevere*'s captain glared up at her,
 squinting as the bright sky framing her head assaulted his hungover eyes.
 There was a bruise on his forehead that hadn't been there at dinner, Iffy noticed.
 That might mean a visit from the Marines later.
 He'd scowl and mutter and make excuses to them,
 then bluster to Aunt Naggie after they were gone
-about how the governor was just a meat puppet
+about how the governors were just a pack of meat puppets
 and how the town's cores were going to sell them all out to the Zillions
 as soon as they could get a decent price.
 
@@ -253,10 +257,10 @@ Iffy's stomach grumbled as the smell of eggs, turmeric, and cumin teased her nos
 With a tilt of her frying pan and a single practiced flip of her spatula,
 Aunt Naggie slid two perfectly fried eggs into Uncle Jack's bowl.
 Without so much as a grunt of acknowledgment,
-he took the entire basket of naan from the center of table in one hand
+her husband took the entire basket of naan from the center of table in one hand
 and his plate with the other
 and disappeared back into his cabin.
-As the door closed,
+Just before the door closed
 Iffy heard glass clink and something gurgle out of a bottle.
 
 Aunt Naggie let out the breath she'd been holding
@@ -276,21 +280,23 @@ appeared out of another pocket.
 "You eaten already?"
 
 "Course, first thing," Aunt Naggie lied in turn.
-She tousled Iffy's hair.
-"You'd best get that in you quickly and start work on that winch cable he's after having tightened.
-And he says the engine's got a knock in it again---best have a look at that too before it starts to bother him." 
+She leaned over and kissed the stubble on top of her foster daughter's head.
+"You best get that in you quick an' start work on that winch cable he's after havin' tightened.
+An' he says the engine's got a knock in it again---best have a look at that too before it starts to bother him." 
 
 "It's the reciprocating rod," Iffy said around a mouthful of fluffy naan.
-"Mr. Mishra will straighten it out if I take it in before he gets busy.
+"Mister Mishra will straighten it out if I take it in before he gets busy.
 It won't cost anything,"
 she added hastily before her foster mother could object.
-"Not if I do a couple of odd jobs for him."
+"Not if I do a couple of odd jobs for him.
+I could head over right if you wanted."
 
-Aunt Naggie nodded.
-"If you say so.
-Can you stop in at Sandhu's and see what they want for eggs?"
-she added as Iffy turned back toward the ladder.
-"Those were our last ones.
+"Could you now?"
+Aunt Naggie teased.
+"Well,
+if you're goin' that way
+can you stop in at Sandhu's and see what they want for eggs?
+Those were our last ones.
 I'll tell Jack you're off doing chores once he's..."
 She finished her sentence with an apologetic shrug.
 
@@ -299,7 +305,7 @@ She climbed the ladder and hurried aft as quietly as she could,
 praying that the sound of her boots on the deck wouldn't draw attention.
 
 The ship's toolbox rattled as she dragged it out from under the bench at the *Guinevere*'s stern.
-Its cast-offs and hand-me-downs included only those tools so essential that even Uncle Jack couldn't afford to sell them.
+Its cast-offs and hand-me-downs included only those tools so essential that even Uncle Jack wouldn't sell them.
 After a furtive glance over her shoulder,
 she reached up under the bench and unclipped the canvas bag that held *her* tools,
 the ones she had salvaged and mended or been given in return for doing odd jobs for people around the harbor.
@@ -320,7 +326,7 @@ they would yield a few grams of copper or manganese
 that could keep some old piece of tech limping along for another season.
 
 One of the women straightened and raised a hand in greeting as Iffy went by.
-"Beautiful day," she said. "You heading into town?"
+"Beautiful day," she said. "You headin' into town?"
 
 "Sure am," Iffy nodded,
 not wanting to slow down for a conversation.
@@ -337,7 +343,7 @@ The teens at the head of the pier arguing over how best to hang up a net for men
 glanced at her as she went by but didn't say anything.
 Iffy didn't expect them to.
 *At least they don't cross their fingers and spit,* she thought,
-remembering the first time she tried to make friends in town.
+remembering the times she had tried to make friends with other docksiders.
 Sailors were superstitious, and she was a sole survivor.
 Nobody looked at her sidelong and whispered
 like they had when the loss of her family's ship was still fresh,
@@ -345,22 +351,22 @@ but she had learned the hard way that
 friends were something that mostly happened to other people.
 
 *Mishra & Co Fine Technical Work - No Job Too Small!* occupied a long shed
-that only looked like it was the oldest building in Halley.
-The sliding door that took up half its front wall opened once a year if that,
+that may or may not have been the oldest building in Halley.
+The sliding door that took up half its front wall hadn't been opened since before she was born,
 so she banged on the smaller door cut into it.
 
 It scraped open on her third knock.
 "Hey Jeep,"
-she said brightly to the teenager scowling at her from inside.
+she said brightly to the boy scowling at her from inside.
 "Is your dad here?"
 She held up the bent reciprocating rod by way of explanation.
 
-"'s the back," Jeep muttered,
+"'s in back," Jeep muttered,
 jerking his thumb over his shoulder and making just enough room for Iffy to squeeze past him.
 
 The inside of the shed was a humid mug of long-ago fish,
 freshly singed metal,
-and the not-entirely-legal coal dust Mr. Mishra burned in the furnace
+and the not-entirely-legal coal dust Mister Mishra burned in the furnace
 to keep his equipment from freezing in the winter.
 Mismatched light squares hung from the ceiling on hair-thin fibers.
 The shadows they cast made the compact machines
@@ -369,7 +375,7 @@ look like battlebots from old war sims.
 Iffy's heart had been in her throat the first time she ventured among them,
 but all she saw now was what they could make---what *she* could make.
 
-Mr. Mishra was sharpening his fingers on a grinding wheel in the center of the shop.
+Mister Mishra was sharpening his fingers on a grinding wheel in the center of the shop.
 He nodded at Iffy but didn't speak until the last sparks had flown off his steel nails
 and the wheel had come to a halt.
 Pulling his safety goggles up onto his forehead,
@@ -378,7 +384,7 @@ he tugged the calloused fingers of his real hand through the tangles in his bear
 
 "Trade," Iffy said.
 She held up the bent reciprocating rod.
-"Tangled some flotsam coming in last night.
+"Tangled some flotsam comin' in last night.
 The engine over-spun before I could get to it.
 There's no cracks or nothin'," she added hastily,
 handing the piece to him.
@@ -397,7 +403,7 @@ He handed the rod back to her.
 "But it's going to cost you."
 
 The tension eased out of Iffy's shoulders.
-Mr. Mishra didn't bargain unless he'd already decided that he was going to say yes.
+Mister Mishra didn't bargain unless he'd already decided that he was going to say yes.
 After that it was just a matter of price. 
 
 In the end,
@@ -406,28 +412,28 @@ It wasn't the machine work she'd hoped for,
 but she had learned that if she timed her questions right
 he would take a minute here and there to show her
 how to dog the belaying plate on the laser drill
-or how to line up the gatling hammers to rat-a-tat-tat a piece of sheet metal into a graceful springy curve.
+or how to line up a set of gatling hammers to rat-a-tat-tat a piece of sheet metal into a graceful springy curve.
 She was careful never to stare at the burn scar where his left ear should have been
 or at the fractal spider's web of articulated metal that had replaced his left forearm.
 She was equally careful not to look up when his son Jeep slouched in
 to say that lunch was ready but *amma* said he had to clean up first.
 
-"You hungry?" Mr. Mishra asked
+"You hungry?" Mister Mishra asked
 as he spun the handwheel on the drill to lift the laser into its locking position.
 
 "No thanks---I brought," Iffy said,
 holding up the egg Aunt Naggie had given her.
 
-"Hm." Mr. Mishra ran his fingers through his beard again.
+"Hm." Mister Mishra ran his fingers through his beard again.
 "Not much to grow on."
 
 "It'll do me fine."
 Iffy nodded toward the laser drill as casually as she could.
 "You mind I try a couple of pieces while you're out?"
 
-Mr. Mishra shook his head.
+Mister Mishra shook his head.
 "Nuh uh, girl.
-Nobody touches my darling without I'm here to watch.
+Nobody touches my darlin' without I'm here to watch.
 You break that,
 I'll have to send up to Amundsen for parts,
 and odds are they'll have to send all the way up to Taz."
@@ -438,7 +444,7 @@ Just for learning," she added hastily.
 "It's not paid work or nothin'.
 I'll just drill some scrap---you can count it all in and out to make sure."
 
-Mr. Mishra chuckled.
+Mister Mishra chuckled.
 "No worry about the scrap, girl.
 And no worry about gettin' paid.
 If you've found work hereabouts that I haven't heard of, more power to you."
@@ -448,7 +454,7 @@ and waggled the digits of his artificial hand.
 
 "Aye," Iffy agreed eagerly.
 She had her scavenged safety goggles on her face and the drill bit engaged
-before Mr. Mishra reached the door.
+before Mister Mishra reached the door.
 
 Drilling holes wasn't hard---she'd learned how to do that long ago.
 The hard part was drilling them in the right place.
@@ -460,13 +466,13 @@ It then took her another fifteen minutes to measure,
 mark,
 measure again,
 swear under her breath,
-find a pair of calipers in the chaos on top of Mr. Mishra's toolbench,
+find a pair of calipers in the chaos on top of Mister Mishra's toolbench,
 chock the piece,
 measure the hole a second time,
 and re-align everything juuuuust a little.
 A bot could have done the whole job in a millisecond,
 but bots could be hacked or infected with malware left over from the war.
-"You want it done fast, you use a bot," Mr. Mishra always said.
+"You want it done fast, you use a bot," Mister Mishra always said.
 "You want it done *right*, you do it yourself."
 
 Slowly, steadily, Iffy brought the spinning drillbit down
@@ -484,7 +490,7 @@ His scowl deepened.
 "'Course he does."
 Iffy scratched a sudden itch on her nose,
 then pulled her hand back down to her side.
-Mr. Mishra *did* know, and she had nothing to be embarrassed about.
+Mister Mishra *did* know, and she had nothing to be embarrassed about.
 
 "Uh huh. What about your uncle?" Jeep asked,
 looking everywhere but straight at her.
@@ -496,17 +502,18 @@ She and Jeep had talked a few times
 when she first started coming to use his father's equipment.
 He had shown her a few of his animations
 and she had shared a few stories about life at sea,
-but that was all gone now.
+and for a few fleeting moments she had thought that maybe this time,
+but...
 
 The silence stretched uncomfortably.
 "I gotta get back to this," she finally said,
 waving a hand at the drill press idling behind her.
 
 Jeep straightened up.
-"'Z your uncle know you're wastin' your time on this?"
+"Wouldn't you rather be doin' somethin' useful?"
 
-"I ain't wastin' anythin'!" Iffy said hotly.
-"And it's none of your business what my uncle knows and doesn't."
+"This is useful!" Iffy said hotly.
+"And it's none of your business what I do or don't."
 She turned back to the drill,
 placing her foot firmly on the pedal that controlled the motor's speed.
 
@@ -527,7 +534,7 @@ just so you can be sure you got everything."
 Without waiting for answer she pulled the goggles down around her neck
 and grabbed the old broom that stood next to a broken sonic press like a forgotten sentry.
 Jeep watched her sweep,
-resentment and something that might have been embarrassment written on his face.
+anger and something that might have been embarrassment written on his face.
 "You missed a bit," he finally said,
 pointing at a random patch of floor before turning and stalking away.
 The door banged behind him.
@@ -535,13 +542,14 @@ The door banged behind him.
 Iffy emptied the dustpan into the trash and tossed her goggles into her toolbag.
 It wasn't fair---Jeep could use the equipment any time he wanted,
 but all he ever did was complain and look for ways not to.
-The worst thing was, she knew it wasn't Jeep's fault that he was like this.
-Like every other resident of Halley
+The worst thing was,
+she knew it wasn't Jeep's fault that he was like this.
+Like everyone else in Antarctica
 he had been inducted into the Marines when he turned sixteen.
 He'd only served a few weeks---just long enough to be sure that the induction had worked---but
 having someone else's personality temporarily imprinted over his had changed him.
-Iffy missed the bashful sixteen-year-old who had loved to tell bad jokes and help his mother make curry.
-"He'll come back eventually," Mr. Mishra said the one time Iffy broached the subject,
+Iffy missed the sixteen-year-old who had shared his drawings with her.
+"He'll come back eventually," Mister Mishra said the one time Iffy broached the subject,
 his tone making it clear that she shouldn't bring it up again.
 "It just takes some folk longer than others to find their way home."
 
@@ -558,20 +566,19 @@ A commotion down a side street caught her ear.
 Someone was singing off-key.
 Another voice joined in, then a third, and then glass broke on stone.
 "Bloody pirates," a passer-by muttered to his companion.
-"Governor shoulda sunk the *Taroona*, not let her berth."
+"Governors shoulda sunk the *Taroona*, not let her berth."
 
-The second man elbowed him,
-glancing upward at a sentry drone buzzing overhead.
-"I'm sure the governor knows what's best," he said loudly.
+The second man elbowed him.
+"I'm sure the governors know what's best," he said loudly.
 Iffy kept her eyes on the cobblestones in front her and hurried on her way.
 
 Sandhu's grocery store was out of eggs.
 They had onions,
 though,
-and a whole case of dried green peppers that had come in from somewhere carefully left unspecified.
+and a whole case of dried green peppers that had come in from somewhere carefully unspecified.
 Little Mrs. Sandhu wrapped half a dozen in wax paper.
 "For your beautiful aunt," she said over Iffy's protests,
-just as she did every time she gave her something extra for Aunt Naggie.
+just as she did every time she gave her something extra.
 "And here, take this too.
 A little of our special curry mix.
 You know how much she likes it."
@@ -594,9 +601,9 @@ as the squarest man Iffy had ever seen walked in.
 "Square" really was the only word for him.
 He wasn't much taller than Iffy,
 but three of her could have stood side by side in the span of his shoulders.
-Strong white teeth gleamed against ink-black skin when he smiled,
-and the small silvery rectangles of tech embroidered in his temples
-made him look like he had stepped out of one of the action games that Jeep played,
+Strong white teeth gleamed against his black skin when he smiled,
+and the small silvery rectangles of tech in his temples
+made him look like he had stepped out of an adventure sim.
 
 "Good morning, *sri*," Big Mrs. Sandhu said, bowing her head slightly.
 "Is there something we could help you with?"
@@ -604,7 +611,7 @@ made him look like he had stepped out of one of the action games that Jeep playe
 "Just some advice, ma'am, if you've any of that for sale?"
 His twanging accent sounded 'Merican to Iffy,
 though the only 'Mericans she had ever heard had been preaching in the market
-or villains in games.
+or villains in stories.
 
 "Advice is always free here," Little Mrs. Sandhu simpered,
 wiping her hands on her apron.
@@ -635,8 +642,7 @@ I was hoping to set myself up in business, but without my tools..."
 He shrugged sadly.
 
 "What kind of tools?" Iffy asked.
-She had been about to slip away---as entertaining as it would have been to listen to someone try to con the Mrs. Sandhus,
-her uncle would almost certainly be awake soon,
+She had been about to slip away---her uncle would almost certainly be awake soon,
 and she didn't want to leave Aunt Naggie to deal with his ire on her own.
 But tools---that was worth a few extra seconds.
 
@@ -800,7 +806,7 @@ It's about time he got out and did somethin'."
 "Not Jeep!" Iffy exclaimed.
 "Me! I could be his 'prentice!"
 The two Mrs. Sandhus had listened with bemusement
-as her conversation with Mr. Wales---"call me Johnson, please"---leaped from de-ionizers
+as her conversation with Mister Wales---"call me Johnson, please"---leaped from de-ionizers
 to different ways to micro-weld the cracked cases of old cores
 to the mended reciprocating rod Iffy took out of her coat to show him.
 It wasn't until Big Mrs. Sandhu had cleared her throat
@@ -957,7 +963,7 @@ a lens connected to a tiny core set just so in a wire frame
 to steer the scraper so that it didn't dig into the plastic...
 The whole thing would only cost a couple of rand to make,
 and would save the old women an hour or two every day.
-Mr. Mishra had everything except the frame,
+Mister Mishra had everything except the frame,
 and she could literally see how to print that.
 She could actually make it,
 she realized with mounting excitement.
@@ -1032,7 +1038,7 @@ Twenty years before,
 someone's home-brew tech had gone up in flames in Bharati.
 Dozens had died as fire swept through the small town,
 and dozens more from exposure in the days that followed.
-Iffy had never asked Mr. Mishra about that night,
+Iffy had never asked Mister Mishra about that night,
 but every year,
 on the anniversary,
 he and Little Mrs. Sandhu and their friends gathered at the end of the longest pier in town
@@ -1222,7 +1228,7 @@ but no bigger around than her little finger unfolded
 and plucked the object from in Wales' hand.
 It was a heat exchanger,
 Iffy realized,
-a miniaturzed version of the one that Mr. Mishra had been repairing
+a miniaturzed version of the one that Mister Mishra had been repairing
 the last time the *Guinevere* was in dock.
 
 As soon as the thought took shape in her head,
@@ -1736,7 +1742,7 @@ grumbling that if they were hauled in by the Marines
 everyone should just let him do the talking.
 Aunt Naggie said she would take the second watch,
 then shooed Iffy off to sleep.
-"You can talk to Mr. Johnson in the morning,"
+"You can talk to Mister Johnson in the morning,"
 she said firmly.
 "Let him have his rest now."
 Then she smiled the way she only did
@@ -1780,7 +1786,7 @@ and her olders were stuffing her into her ecosuit.
 
 *But when the ship's horn blared it wasn't a horn at all
 but the sound of a drill press.
-She was in Mr. Mishra's,
+She was in Mister Mishra's,
 fumbling clumsily to reassemble a mound of chips and gears and actuators
 that she had never seen before.
 Her heart raced as she tried to piece them together.
@@ -1803,7 +1809,7 @@ right in the machine's heart,
 was the space where a miniaturized core could---*
 
 *The whole room heeled hard, throwing her to the floor.
-"She's going to blow!" Mr. Mishra shouted,
+"She's going to blow!" Mister Mishra shouted,
 and then all Iffy could hear was a rushing sound
 as the ship fell away beneath her into a pit of churning foam.*
 
@@ -1948,7 +1954,7 @@ waiting for him to say it was time for a break,
 but he didn't.
 *Uncle Jack wouldn't have been able to hold the cable like
 that for more than a minute,* she thought.
-Even Mr. Mishra would have struggled,
+Even Mister Mishra would have struggled,
 but Wales seemed unbothered.
 
 Over, through, under, through...
@@ -2007,7 +2013,7 @@ He somehow managed to keep up a steady stream of questions
 without ever making her feel like he was pestering her.
 She enjoyed every minute of it,
 just like she enjoyed the times
-when Mr. Mishra turned something she'd made over and over in his hands
+when Mister Mishra turned something she'd made over and over in his hands
 and pronounced it well done,
 or when Uncle Jack was sound asleep
 and Aunt Naggie told her stories about growing up in South Africa
@@ -3418,7 +3424,7 @@ The governor nodded his head gravely.
 "Thank you, Captain Ng.
 The government appreciates your service.
 And you, Mister Wales," he continued,
-looking directly at the American for the first time.
+looking directly at the 'Merican for the first time.
 "Will you be happy to help too?"
 
 Wales never got to answer.
@@ -8828,12 +8834,12 @@ as it took them around the outskirts of Paddington South to the train station.
 It was little more than a four-story shed with reinforced walls,
 half a dozen cranes of various ages and descriptions,
 and a single heated room lined with shelves
-as crowded as those in Mr. Mishra's shop.
+as crowded as those in Mister Mishra's shop.
 Gunsights and surveying lasers,
 a pair of lemon-yellow boots that reached to Iffy's armpits,
 foamed glass boxes full of gears and screws and wire,
 all carefully labelled---she suddenly felt homesick,
-and wondered if Mr. Mishra and the Sandhus had heard about the attack on the *Guinevere*
+and wondered if Mister Mishra and the Sandhus had heard about the attack on the *Guinevere*
 and what they would think when they found out
 that she and Aunt Naggie had finally left Uncle Jack.
 

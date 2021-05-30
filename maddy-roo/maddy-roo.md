@@ -4,6 +4,40 @@ title: Maddy Roo
 permalink: /maddy-roo/
 ---
 
+<p>
+  <a href="#episode-1-salvage">Episode 1: Salvage!</a>
+  <br/>
+  <a href="#episode-2-targets-acquired">Episode 2: Targets Acquired!</a>
+  <br/>
+  <a href="#episode-3-you-gotta-listen">Episode 3: You Gotta Listen!</a>
+  <br/>
+  <a href="#episode-4-raid">Episode 4: Raid!</a>
+  <br/>
+  <a href="#episode-5-unlikely-help">Episode 5: Unlikely Help</a>
+  <br/>
+  <a href="#episode-6-out-of-the-cage-cart">Episode 6: Out of the Cage Cart…</a>
+  <br/>
+  <a href="#episode-7-and-into-the-mire">Episode 7: …And Into the Mire</a>
+  <br/>
+  <a href="#episode-8-underground">Episode 8: Underground</a>
+  <br/>
+  <a href="#episode-9-patient-in-darkness">Episode 9: Patient in Darkness</a>
+  <br/>
+  <a href="#episode-10-unison">Episode 10: Unison</a>
+  <br/>
+  <a href="#episode-11-eyes-everywhere">Episode 11: Eyes Everywhere</a>
+  <br/>
+  <a href="#episode-12-the-way-out">Episode 12: The Way Out</a>
+  <br/>
+  <a href="#episode-13-crash-landing">Episode 13: Crash Landing</a>
+  <br/>
+  <a href="#episode-14-the-battle-of-rusty-bridge">Episode 14: The Battle of Rusty Bridge</a>
+  <br/>
+  <a href="#episode-15-the-key">Episode 15: The Key</a>
+  <br/>
+  <a href="#episode-16-the-battle-of-the-bots">Episode 16: The Battle of the Bots</a>
+</p>
+
 ## Episode 1: Salvage!
 
 Maddy was trying to sketch the willow tree in the center of the village square

@@ -789,7 +789,7 @@ as she tucked everything into her apron.
 "Did you get anything more to eat?
 I was going to make noodles."
 
-"It's kappa, I'm not hungry," Iffy lied.
+"It's aright, I'm not hungry," Iffy lied.
 "But auntie,
 there was a man at Sandhu's,
 a mechanic come down to work in the machine shop,
@@ -823,7 +823,7 @@ for lookin' after you all this time."
 Something snapped inside Iffy.
 "All right," she said coldly,
 knocking his arm away.
-"How 'bout you an' me go ask the *Guinevere* to pull up the accounts
+"How 'bout you an' me go ask the *Ginny* to pull up the accounts
 so I can see just how much that is,
 and I'll tell you how much you owe me
 for keeping this twist of scrap afloat when you're too wrung out to do it yourself,
@@ -1824,22 +1824,21 @@ It took her a long time to fall asleep again.
 ## Chapter 3
 
 It was four days to Rothera across the Weddell Sea.
-Two hundred years ago their route would have been choked with ice,
-even in summer,
-but no longer.
+Once upon a time their route would have been choked with ice,
+but those days were long gone.
 Waves a meter high made the *Guinevere* rock from side to side in a surging rhythm
 that Iffy knew as well as she knew her own heartbeat.
 
-After motoring through the not-actually-night of the Antarctic summer,
+After motoring through the bright night of the Antarctic summer,
 Uncle Jack ordered the *Guinevere* to raise the sails.
-The ship's tiny obediently ran her mis-matched gossamer sheets up her twin Y-masts.
-By the time Iffy crawled into her clothes,
+The ship's tiny core obediently ran mis-matched gossamer sheets up her twin Y-masts.
+By the time Iffy woke up and wriggled back into her clothes,
 Halley had fallen below the horizon.
 
 "Best stay outta his way," Aunt Naggie advised
-when Iffy clambered down into the galley to get tea.
+when her foster daughter clambered down into the galley to get tea.
 "He ain't used to havin' folk on board.
-I expect he'll settle in."
+I 'spect he'll settle in."
 It sounded more like a prayer than a prediction,
 but Iffy nodded and climbed back on deck
 with two chipped ceramic mugs in her hand.
@@ -1853,12 +1852,12 @@ Iffy glanced at the control panel.
 Tiny cameras dotted about the ship showed the engine,
 the hold,
 the sails,
-and practically everywhere else on the ship except the tiny toilet near the stern.
+and practically everywhere else on the ship
+except the insides of the cabins and the tiny toilet near the stern.
 Small graphs scattered among the images told her at a glance
 how much fuel they had,
 how much tension was in the forestays and mainstays,
 and what the wind and the currents around them were doing.
-
 The most important display was the sonar.
 Every captain kept a close eye on that if they wanted to make it home.
 At the first sign of gas bubbling up from the ocean floor,
@@ -1901,13 +1900,13 @@ She was a marvel in her time.
 Fractal carbon ribs,
 a foamed poly-composite hull,
 and a core smart enough to qualify for citizenship.
-She was one of the first ships to sail alone across the Pacific,
+She was the first of her kind to sail herself alone across the Pacific,
 but then the war came, and..."
 He sighed.
 "It must have broken her heart to run herself aground."
 
 "I guess," Iffy said to fill the silence that followed.
-"Can't imagine how I'd feel if somethin' like that happened to the *Guinevere*."
+"Can't imagine how I'd feel if somethin' like that happened to the *Ginny*."
 
 Wales shook his head to clear it.
 "Let's hope you never have to find out," he said,
@@ -1939,23 +1938,25 @@ The next half hour flew by as Iffy lost herself in the task at hand.
 She had expected Wales to take charge,
 but instead he asked one question after another,
 drawing ideas out of her that she hadn't know were there.
-It was like the schematics that sometimes popped into her head,
+It was like the schematics that sometimes popped into her head
 but without the gut chill of not knowing where they came from.
 
 Once the first dozen lengths of splice were woven into the cable
-Wales sat cross-legged on the deck and held the cable's ends together
-so that she could finish connecting them.
-Iffy worked as quickly as she could,
+Wales sat cross-legged on the deck and held the ends together
+so that Iffy could finish connecting them.
+She worked as quickly as she could,
 waiting for him to say it was time for a break,
 but he didn't.
 *Uncle Jack wouldn't have been able to hold the cable like
 that for more than a minute,* she thought.
 Even Mister Mishra would have struggled,
 but Wales seemed unbothered.
+She glanced at the silver rectangles in his temples
+and wondered what other tech might not be so visible.
 
 Over, through, under, through...
-"There," she said, sitting back on her haunches.
-"Wanna see if she holds together?"
+"There." She sat back on her haunches.
+"Wanna see if it holds together?"
 
 Wales stood,
 trapped one end of the cable under his boot,
@@ -1963,13 +1964,13 @@ and pulled hard.
 The splice stretched slightly,
 and for a moment Iffy was afraid it would give way,
 but it held.
-"Looks good to me."
+"Looks good to me.
+Well done."
 
-Iffy shrugged, unused to praise.
-"Only one way to find out."
+Iffy shrugged, embarrassed by the praise.
+"Only one way t' find out."
 She hit the switch on the winch beside her.
-The cable zinged as it was wound in,
-then made a sharp *crack!* as it came taut.
+The cable zinged as it was wound taut.
 Iffy picked up a wrench and whacked the splice a couple of times as hard as she could.
 
 Wales blinked. "Are you always this direct when you're working?"
@@ -1982,7 +1983,7 @@ a spidery network of microscopic cracks on the forward mast,
 a loose coupling on a bilge pipe,
 or a handle on the main hatch
 that had started sticking mid-way through their last voyage.
-Like most of the vessels that called Halley home,
+Like most of the vessels that called Halley home
 the *Guinevere* was more than a hundred years old,
 constructed from materials that could no longer be made,
 only repaired.
@@ -1991,14 +1992,14 @@ of scouring noticeboards in the jungle
 to find tips that weren't self-replicating spamotage left over from the war,
 of swapping messages with other mechanics
 trying to keep their own ships running,
-of running simulations to see if this patched with that
+and of running simulations to see if this patched with that
 would hold together in sub-zero temperatures.
 In the end,
 though,
 it always came down to the combination of clever hands,
 brute force,
-and improvisation Iffy had used on the cable,
-and she loved it.
+and improvisation Iffy had used on the cable.
+She loved it.
 
 Wales worked beside her the whole time,
 handing her tools,
@@ -2014,7 +2015,7 @@ and pronounced it well done,
 or when Uncle Jack was sound asleep
 and Aunt Naggie told her stories about growing up in South Africa
 in the years after the war,
-when fruit still grew on the trees and people had pets that weren't rats and reptiles.
+when fruit still grew on the trees and people could afford to keep pets that weren't rats and reptiles.
 
 Wales seemed to enjoy the work as well,
 right up until the moment he helped Iffy lift the cover off the backup generator
@@ -2051,21 +2052,21 @@ He asked fewer questions after that,
 but despite his obvious distaste
 he clearly knew how coal engines worked.
 Half an hour after they started,
-the lasers that ignited the coal dust the engine used for fuel
-were sparking away in perfect time
+the lasers that ignited the coal dust it used for fuel
+were sparking and zapping in perfect time
 and the cinder clog that had been blocking the intake pipe
 had finally been dislodged.
 She would normally have let the engine run for a few minutes to test it,
 but the thought of Wales not saying anything if she did
-made her decide not to.
+made her decide to leave it for later.
 
-Aunt Naggie made noodles for dinner.
+Aunt Naggie made noodles for lunch.
 The smell of synthetic coconut milk,
 greenhouse peppers,
 diced mushrooms,
 and spices made the galley as warm and as comfortable as an old sweater.
 "Just for you," Aunt Naggie whispered to Iffy,
-spooning a bit of Mrs. Sandhu's special curry into her foster daughter's bowl
+spooning a bit of Mrs. Sandhu's special curry powder into her foster daughter's bowl
 when Uncle Jack's back was turned.
 
 Wales thanked Aunt Naggie profusely before taking his up onto deck to eat.
@@ -2075,7 +2076,7 @@ it wouldn't be a problem.
 
 "Foolishness,"
 Uncle Jack muttered as soon as Wales was gone,
-though whether he meant the idea of four people eating at the galley's little table
+though whether he meant the idea of trying to squeeze four people around the galley's little table
 or the idea of watching waves for pleasure
 he didn't say.
 He stabbed a chunk of mushroom with a chopstick and stuffed it into his mouth.
@@ -2093,7 +2094,7 @@ was the surest way to make him actually do it,
 just to prove that no one could tell *him* which way was up.
 And while she still knew next to nothing about their passenger,
 she had the feeling that crossing him
-would be the dumpest idea Uncle Jack had ever had.
+might actually be the dumbest idea Uncle Jack had ever had.
 
 She and Aunt Naggie cleaned up afterward.
 "He seems nice," Aunt Naggie observed
@@ -2101,8 +2102,8 @@ as she scraped the last traces of sauce off a plate into the composter.
 "Handy, too."
 
 "Mm hm," Iffy agreed
-around a last mouthful of noodles.
-"Might even be able to talk the core into behavin'
+around one last rubbery noodle.
+"Might even be able to talk the core into bein' a little less stupid
 if Uncle Jack'll let 'im take a crack at it."
 
 "Oh now, wouldn't that be nice?" Aunt Naggie sighed wistfully.
@@ -2119,8 +2120,8 @@ featuring wealthy strangers with smoldering eyes
 who didn't realize how empty their rich, idle lives were
 until they met the right person,
 who was inevitably a poor but honest sailor.
-The books were churned out by a core in Rothera
-that had spent the war crafting disinformation for rebel bots.
+The sims were churned out by a core in Rothera
+that had spent the war crafting inspirational propaganda for soldiers and civilians.
 Their implausibility and steamy dialogue
 only added to the thrill Iffy felt
 whenever she managed to get an hour alone with Aunt Naggie's tablet.
@@ -2132,7 +2133,7 @@ She kissed the top of her foster daughter's head as Iffy groaned.
 "Off with you now."
 
 Wales was back on the thwart at the stern when Iffy got topside,
-his empty bowl on the deck beside him.
+his empty bowl in his lap.
 She hesitated,
 wanting to talk but not knowing what to say,
 then slipped silently into her converted storage locker.
@@ -2142,14 +2143,14 @@ before flopping down on her bed and pulling out her nature book.
 The giraffe, the tiger, the wolf with his sad, intelligent eyes...
 Someone had written *Looks like Grandad!!!* beside it in tiny curving script.
 Iffy had long ago decided that the writer had been a girl about her own age
-who had a family and more than just one friend.
+who had a family and a whole pack of friends.
 She closed the book,
 tucked it back into her mattress,
 and squeezed her eyes shut.
 
 A soft chime in her ear woke her.
 She sat up and stretched,
-then scraped the sleep from the corners of her eyes.
+then dug the sleep out of the corners of her eyes.
 Her windowless room was completely dark,
 but her hands found her clothes on the floor beside her foam slab.
 She pulled them on over the onesie she had slept in,
@@ -2194,11 +2195,11 @@ to show Wales sitting on the thwart at the stern.
 "He been there this whole time?"
 
 "Hasn't budged 'cept to visit the necess'ry," Aunt Naggie confirmed.
-"Turned on the sound a while back to ask if he wanted to come and sit,
-but he was talkin' to himself, an' I figured..."
+"Turned on the sound a while back to ask if he wanted to come an' sit,
+but the *Ginny* told me he was talkin' to himself, and..."
 She shrugged.
-The only other person on board who talked to themself was her husband,
-and it was best not to interrupt him when he did.
+Listening to someone without them knowing was surveillance,
+and decent people didn't do that.
 
 "Aright, lemme take over."
 Iffy reached past Aunt Naggie
@@ -2207,21 +2208,21 @@ After a moment's hesitation it bleeped and blinked green
 to confirm that the ship's core understood a different human was now in charge.
 
 Iffy had scrolled through the core's log many times.
-It had been almost sixty years years since it had last been wiped clean
+It had been almost sixty years years since it had last been reset
 (probably,
 she suspected,
 because the holds had been full of contraband instead of jellyfish at the time).
 Six watches a day while at sea,
-with only a few weeks a year tied up or idle,
+with only a couple of weeks a year tied up or idle,
 made for almost a hundred and twenty five thousand thumb presses and bleeps.
 
 She had read the highlights of the log
 almost as often as she had read her nature book.
 Storms, storms, and more storms as the planet warmed up,
 some hurling waves taller than the ship's fully-extended mast
-to swamp the *Guinevere*'s decks.
-Births and deaths and even a shipboard wedding---Aunt Naggie's parents
-had invited a dozen friends on board in Rothera to see them exchange vows.
+to wash across the *Guinevere*'s decks.
+Births and deaths and shipboard weddings---Aunt Naggie's parents
+had invited a dozen friends on board in Rothera to see her exchange vows with a beaming Uncle Jack.
 Pirates, twice, and angry notes about dock wardens who wouldn't stay bribed.
 "A whale??" followed by "don't be an idiot",
 repairs laid over older repairs like layers of barnacles,
@@ -2230,25 +2231,25 @@ the sole survivor of a ship lost to a clathrate blow
 had been brought on board.
 
 Iffy gave the control panel a protective pat.
-"I got you," she whispered.
+"I gotcha, *Ginny*," she whispered.
 
 She watched through the cameras
 as Aunt Naggie trudged back to the cabin she shared with her husband of twenty years,
 then stared out at the sea.
 The endless light of the Antarctic summer
 cut sharp reflections into the waves around her.
-She toyed with the idea of playing a sim on the ship's core---a
-sea monster with tentacles the size of pier posts,
+She toyed with the idea of playing a sim on the ship's core---a sea monster
+with tentacles the size of pier posts,
 or a war-time training drill
 that would send her dodging and weaving through flocks of hostile drones---but
 instead she sighed and pulled up some homework.
-Her classroom schooling had ended when she turned ten.
+Her classroom schooling had finally petered out when she turned ten.
 Since then her teachers had been tutoring programs
 that she and Aunt Naggie had scrounged, bought, or traded for,
 each one guarded by security tough enough to keep out generations of teenagers.
 If she didn't do at least a little every day,
 Aunt Naggie would sigh and look disappointed,
-and she'd rather learn anything---even literature---than face that.
+and she'd rather learn anything---even biology---than face that.
 
 That evening, though, the subject was modern history.
 Iffy turned the interaction speed to maximum as the story unfolded.
@@ -2262,14 +2263,14 @@ sending even more greenhouse gases into the atmosphere.
 She knew all she needed to
 about what giant bubbles could do to ships unlucky enough to be above them.
 
-She played through half a dozen "what if?" sims,
+She played half a dozen quick "what if?" sims,
 doing worse each time.
-Suddenly restless again,
+Fed up,
 she closed her homework
 and tapped one of the video squares on the control panel.
 "Hey," she said,
 her heart in her throat.
-"Don't mean to interrupt, but I got some questions if you got time."
+"Don't mean to interrupt, but I got some questions if you got some time."
 
 The tiny image of Wales turned its head.
 "You're not interrupting at all," he said,
@@ -2283,7 +2284,7 @@ waiting for Iffy to gesture at the stool beside her before seating himself.
 He looked around the pilot house appreciatively.
 "She's beautiful, isn't she?"
 
-"She's aright," Iffy allowed.
+"She's aright," Iffy allowed proudly.
 "Hull still mends itself if we give it time,
 an' th' core's mostly holdin' together.
 Gotta keep an eye on it, though.
@@ -2299,7 +2300,7 @@ the less likely it was to go rogue,
 so everyone cranked their thermostats down as far as they'd go
 and then forgot they'd done it.
 Have you tried putting a twist coil inside the housing
-to offset the thermal loss?"
+to rebalance the thermal bleed?"
 
 And as easily as that they slid into a conversation
 that leaped from
@@ -2366,7 +2367,7 @@ Wales winced but said nothing as the *Guinevere*'s coal engine sputtered to life
 The ship picked up speed
 as her propellors churned the sea behind them into a white froth.
 Uncle Jack's hands danced across the control panel,
-telling the ship's core to tilt the sails past their redline
+telling the ship's core to tilt the sails all the way to their stalling line
 to balance the increased thrust at the stern.
 The ship swayed more wildly with each passing wave
 as she traded stability for speed.
@@ -2385,21 +2386,21 @@ She's military for sure."
 
 Uncle Jack horked and spat into the garbage pail by his feet.
 "Don't mean she ain't a pirate.
-Naggie! Where's my shadding tea?"
+Naggie!
+Bring me some affin' tea, woman, I got pilotin' to do!"
 
 Iffy stepped out of the doorway to let her foster mother squeeze past her
 and hand a thermos to her husband.
 She put her arm around Iffy,
 but the frightened expression on her face
 cancelled out whatever reassurance she meant to give.
-Jelly fishers didn't have much worth stealing besides their ships,
+Jelly dredgers didn't have much worth stealing besides their ships,
 but those ships were worth a lot---enough
 for their captains to make a habit of sailing close by each other
 whenever strangers were near.
 And while Iffy didn't pay any more attention to politics than her homework required,
 she knew that the tension between the Zillions
-and the loose coalition of governors and factory cores
-that ruled Antarctica on Australia's behalf
+and the governors who ran Antarctica on Australia's behalf
 had been getting worse.
 
 "Fifth."
@@ -2424,13 +2425,13 @@ and squawked at the sight of Wales' toy bear crouched on all fours in the doorwa
 Its blue eyes flickered.
 She heaved a shaky breath and stepped aside.
 It scurred across the floor and disappeared into
-the piles of odds and ends strapped against the locker's walls.
+the odds and ends Wales had strapped against the locker's walls.
 
 She hurried back to the pilot house,
 the toolbox bruising her thigh with every second step.
-"How we doin'?" she asked.
+"How we goin'?" she asked.
 
-Wales shook his head.
+Wales shook his head as he took the toolbox from her.
 "She hasn't changed course.
 Either she doesn't know we've spotted her or she doesn't care."
 
@@ -2440,7 +2441,7 @@ Uncle Jack growled.
 if she gets us up against th' rocks."
 He swiped two fingers across the control panel
 in an angry, futile attempt
-to squeeze a little more speed out of the *Guinevere*'s struggling engines.
+to squeeze a little more speed out of the *Guinevere*'s struggling engine.
 
 Wales hefted his toolbox.
 "I might be able to do something about that.
@@ -2458,7 +2459,7 @@ Aunt Naggie shooed Iffy out of the pilot house without replying.
 
 Wales was on one knee near the bow beside his open toolbox.
 The half-assembled drone in his hands
-was the same size as the sentry bot in his room
+was the same size as the toy bear in his room
 but skinned with camo
 that changed color to match his hands and coat and the deck
 every time he turned it over.
@@ -2508,7 +2509,7 @@ and inserted it into the base of the drone.
 "Battery?" Iff guessed.
 
 Wales shook his head.
-"Its battery is built in.
+"The drone's battery is built in.
 This is...
 This is just in case."
 He reassembled the bottom of the toolbox and tossed the drone into the air.
@@ -2553,8 +2554,8 @@ Uncle Jack scowled.
 "Nearest shout I got back is a hundred kay east,
 but they're smaller'n we are an' too scared to fight.
 Halley wasn't much interested 'til I told them our friends looked military.
-Then they made noises about looking into it and dropped off comms.
-And then the shaddin' *comms* dropped out."
+Then they made noises about lookin' into it and dropped off comms.
+And then the shaddin' *comms* dropped off."
 He jabbed a finger at a small image in the corner of the control panel
 that was blinking an orange warning.
 Whoever was hunting them was blocking their transmissions.
@@ -2625,7 +2626,7 @@ The *Taroona*'s outline suddenly came into focus
 as the drone got close enough
 for its tiny core to see through the ship's dazzle.
 
-"Murder in high heels is what she is," Uncle Jack growled.
+"Murder in high heels an' a corset is what she is," Uncle Jack growled.
 The stubby frames of railguns bristled at her bow and stern.
 The large tube amidships had to be some sort of EM pulse cannon,
 Iffy guessed---at least,
@@ -2646,7 +2647,7 @@ Without warning the display went blank.
 "The drone's core is shielded,
 but another hit like that will fry the ionizers.
 No way they did that from so far out.
-They must have a cutter in the water
+They must have a shark in the water
 or something in the air I can't spot.
 I'm going to pull back."
 Even as he spoke, the *Taroona* began to dwindle.
@@ -2681,7 +2682,7 @@ Wales tapped the image.
 Head for these coordinates.
 I'll update them as I get more data from the drone."
 
-"Never thought I'd be steerin' *into* a boil," Uncle Jack grumbled
+"It's affin' madness to be steerin' *into* a boil," Uncle Jack grumbled
 as he bent the *Guinevere*'s path to port.
 He grabbed a sandwich from Aunt Naggie's tray
 and gobbled half in a single hasty bite,
@@ -2752,7 +2753,7 @@ The drone's dot disappeared.
 A balloon of red light expanded where it had been
 as the finger-sized bomb it had carried did what it had been built to do.
 The torpedoes tried to curve away, but it was too late.
-Their trajectories disappeared as they intersected the expanding red blob.
+Their trajectories disappeared as they intersected the expanding violet blob.
 
 And then the blob touched the sea floor.
 The pink blotch beneath it writhed like like a living thing.
@@ -2760,10 +2761,10 @@ Graphs flashed onto the screen,
 probability surfaces dancing in three dimensions
 as the *Guinevere*'s core tried to predict what would happen next.
 
-"Uh oh," Wales said softly
+"Oh hell," Wales said softly
 as a section of the sea ridge started sliding slowly into the depths.
-Blue lightning flashed along the edges of the mudslide,
-bright lines connecting and spreading in a sudden spiderweb fracture.
+Blue fissure lines flashed along the edges of the mudslide like lightning,
+their bright lines connecting and spreading in a sudden spiderweb fracture.
 
 "Come about," Wales snapped at Uncle Jack. "Now!"
 
@@ -2817,11 +2818,11 @@ as he reached for the control panel.
 Wales caught his wrist.
 "What are you doing?"
 
-"Cutting the affin' engines!"
+"Cuttin' the affin' engines!"
 Uncle Jack yanked his arm free,
-his face as red as Iffy had ever seen it.
+as angry Iffy had ever seen him.
 "You can't sink 'em and we can't outrun 'em
-so the only thing left is to run up the white affin' flag
+so the only thing we got is to run up the white flag
 and hope you're all they take!
 And if you ever lay hands to me again on *my* ship, I'll---"
 
@@ -2829,9 +2830,9 @@ And if you ever lay hands to me again on *my* ship, I'll---"
 Yellow-red flame jetted from the *Taroona*'s side.
 Iffy shrieked as a second blurred streak hit the Aussie ship,
 then a third,
-each striking just above the waterline
-as the *Taroona* heeled sideways under the force of the blows.
-An explosion inside the ship kicked her sideways like a child's toy.
+each striking right at the waterline.
+As the *Taroona* shuddered under the force of the blows,
+an explosion inside the ship kicked her sideways like a child's toy.
 
 "Ya killed 'em,"
 Iffy whispered unbelievingly
@@ -2868,16 +2869,16 @@ always the villains.
 The earth's self-appointed defenders would sacrifice everything
 to undo the damage humanity had done to the Earth.
 Whenever a shaft in a coal mine collapsed
-people blamed Zillion saboteurs
-intent on driving the world back into the stone age.
+people blamed Zillion saboteurs.
 When a mutant fungus turned the contents of a greenhouse into sludge,
 all its owner had to do was say,
 "It must have been them!"
 for people to demand that the governors *do* something.
 And when a Zillion trader was brave enough or stupid enough
-to go more than a block or two from Halley's market and woke up in hospital,
+to go more than a block or two from Halley's market on their own
+and woke up in hospital,
 everyone just nodded at the Marines' straight-faced apologies
-for the inexplicable glitch in their drones' recording
+for the inexplicable glitch in their drones oversight
 that left them unable to identify anyone who might have been involved.
 
 Even as they watched,

@@ -1821,6 +1821,38 @@ thumping her fist against her mattress.
 
 It took her a long time to fall asleep again.
 
+## Interlude
+
+*Once upon a time there was a great sheet of ice.
+Through age upon age it grew thicker and spread
+or thinned and withdrew,
+but it was always there,
+constant and weighty.*
+
+*But then one century the world began to warm up
+faster than it ever had before.
+The ice retreated slowly at first,
+then more quickly,
+until it found a new balance point.
+Three million square kilometers of barren rock felt the sun
+for the first time in fifteen million years.
+Snow melted and sometimes rain even fell
+to make streams and ponds and rivers and lakes,
+but no fish swam in them and no insects buzzed above them.
+This new world wasn't as sterile as another planet---not quite---but
+left alone it would have been a hundred thousand years
+before the rock weathered enough to be called soil.*
+
+*People didn't leave it alone, of course.
+People never do.
+Machines the size of buildings pulverized their way up one watercourse and down another,
+turning rock into sand and seeding it with bacteria
+that were eaten by rotifers and nematodes that were eaten by tardigrades
+that were in turn food for tiny crawling insects
+engineered to sleep through the Antarctic winter.
+The process had originally been designed to make Mars habitable,
+and given peace and more time it might have worked.*
+
 ## Chapter 3
 
 It was four days to Rothera across the Weddell Sea.
@@ -3402,11 +3434,14 @@ then said,
 "Thank you, sergeant."
 The words seemed to come out of thin air.
 Iffy's jaw dropped as the air behind the desk shimmered
-to reveal a tall man in a formal dark turtleneck,
+to reveal a tall man in a formal black turtleneck,
 slightly stooped with age but still strong,
-his face exactly the one in the picture that hung in the Sandhu's grocery store.
+his face exactly the one in the picture that hung in the Sandhu's grocery store---exactly
+like the faces of his two clones who had been sitting in identical offices
+in Halley and Paddington South
+for almost a hundred years.
 
-"As you were," Rothera's Governor Stern said pleasantly,
+"As you were," Governor Stern Rothera said pleasantly,
 waving Uncle Jack and Aunt Naggie back into their seats as they started to rise.
 He nodded at Doctor Johel and sat somewhat stiffly behind his desk.
 "Thank you for coming.

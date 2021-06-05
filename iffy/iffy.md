@@ -9044,3 +9044,9 @@ The icy wind whistled in her earbugs
 as she helped the Marines unpack and assemble their snow scooters.
 It felt good to be useful,
 even if the ecosuit's padded gloves made her hands clumsy.
+
+---
+
+- A governor died in the Bharati fire (opening salvo in the governors' civil war)
+- "The old gods didn't care---why would expect the new ones to?" (Talking about AI)
+- Paddington South really is a wretched hive of scum and villainy

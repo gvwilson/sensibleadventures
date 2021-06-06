@@ -282,13 +282,13 @@ appeared out of another pocket.
 "Course, first thing," Aunt Naggie lied in turn.
 She leaned over and kissed the stubble on top of her foster daughter's head.
 "You best get that in you quick an' start work on that winch cable he's after havin' tightened.
-An' he says the engine's got a knock in it again---best have a look at that too before it starts to bother him." 
+An' he says the engine's got a knock in it again---best have a look at that too before it starts to bother he." 
 
 "It's the reciprocating rod," Iffy said around a mouthful of fluffy naan.
 "Mister Mishra will straighten it out if I take it in before he gets busy.
 It won't cost anything,"
 she added hastily before her foster mother could object.
-"Not if I do a couple of odd jobs for him.
+"Not if I do a couple of odd jobs for he.
 I could head over right if you wanted."
 
 "Could you now?"
@@ -358,7 +358,7 @@ so she banged on the smaller door cut into it.
 It scraped open on her third knock.
 "Hey Jeep,"
 she said brightly to the boy scowling at her from inside.
-"Is your dad here?"
+"Is your da here?"
 She held up the bent reciprocating rod by way of explanation.
 
 "'s in back," Jeep muttered,
@@ -485,7 +485,7 @@ arms crossed and scowl firmly in place.
 "Aren't you supposed to be having lunch or something?"
 
 His scowl deepened.
-"Finished. Does my *da* know you're here?"
+"Finished. Does my da know you're here?"
 
 "'Course he does."
 Iffy scratched a sudden itch on her nose,
@@ -566,7 +566,7 @@ A commotion down a side street caught her ear.
 Someone was singing off-key.
 Another voice joined in, then a third, and then glass broke on stone.
 "Bloody pirates," a passer-by muttered to his companion.
-"Governors shoulda sunk the *Taroona*, not let her berth."
+"Governors shoulda sunk the *Taroona*, not let she berth."
 
 The second man elbowed him.
 "I'm sure the governors know what's best," he said loudly.
@@ -773,7 +773,7 @@ Uncle Jack plucked it roughly from her hand.
 "Don't see no groceries," he grumbled accusingly,
 squinting at the rod.
 
-"I just asked her to pick up a couple o' things,"
+"I just asked she to pick up a couple o' things,"
 Aunt Naggie said,
 sticking her head up through an open hatch
 like a turtle cautiously checking that the world outside its shell was safe.
@@ -784,7 +784,7 @@ Iffy fished the items she had bought out of her jacket's deep pockets.
 "Oh, and Little Mrs. Sandhu said to give you this."
 She held up the little jar of curry.
 
-"Oh, that's kind of her," Aunt Naggie clucked
+"Oh, that's kind of she," Aunt Naggie clucked
 as she tucked everything into her apron.
 "Did you get anything more to eat?
 I was going to make noodles."
@@ -856,7 +856,7 @@ muttering under his breath.
 "You come below and help me with the noodles,"
 Aunt Naggie said,
 shooing Iffy toward the open hatch.
-"That'll give him time to calm down."
+"That'll give he time to calm down."
 
 "Yes auntie," Iffy said,
 her voice only slightly shaky.
@@ -1382,7 +1382,7 @@ Odds are the captain and her crew will be back on the dock by morning," he concl
 speaking to himself as much as to the frowning tween beside him.
 "Which is another reason I need to talk to your uncle."
 
-"You oughta know he don't keep his word 'less it suits him,"
+"You oughta know he don't keep his word 'less it suits he,"
 Iffy warned.
 "Or 'less he figures you got some serious haul back o' you."
 
@@ -1572,7 +1572,7 @@ Uncle Jack noticed her looking at him.
 "Well, get movin'!" he barked,
 straightening up.
 "An' you too, woman," he added to Aunt Naggie.
-"I want us away from whatever's chasin' him soon as he's back."
+"I want us away from whatever's chasin' he soon as he's back."
 He strode away,
 muttering to himself.
 
@@ -1650,7 +1650,7 @@ Never you mind how, but that'll more'n put us square.
 Right.
 Aright.
 What?
-No, you affin' well better *not* tell her,
+No, you affin' well better *not* tell she,
 or she'll take your skin off an' mine too!
 Right.
 Aright.
@@ -1740,7 +1740,7 @@ Aunt Naggie said she would take the second watch,
 then shooed Iffy off to sleep.
 "You can talk to Mister Johnson in the morning,"
 she said firmly.
-"Let him have his rest now."
+"Let he have his rest now."
 Then she smiled the way she only did
 when she and foster daughter were alone together.
 "You'll need some too
@@ -2116,8 +2116,8 @@ Aunt Naggie blushed.
 Her "knitting" consisted of two balls of yarn,
 a pair of needles,
 and an endless series of romance sims
-featuring wealthy strangers with smoldering eyes
-who didn't realize how empty their rich, idle lives were
+featuring dashing Zillion smugglers with smoldering eyes
+who didn't realize how empty their lives were
 until they met the right person,
 who was inevitably a poor but honest sailor.
 The sims were churned out by a core in Rothera
@@ -2196,7 +2196,7 @@ to show Wales sitting on the thwart at the stern.
 
 "Hasn't budged 'cept to visit the necess'ry," Aunt Naggie confirmed.
 "Turned on the sound a while back to ask if he wanted to come an' sit,
-but the *Ginny* told me he was talkin' to himself, and..."
+but the *Ginny* told me he was talkin' to heself, and..."
 She shrugged.
 Listening to someone without them knowing was surveillance,
 and decent people didn't do that.
@@ -2437,7 +2437,7 @@ Either she doesn't know we've spotted her or she doesn't care."
 
 "Or she's jus' waitin' 'til we're in closer to shore,"
 Uncle Jack growled.
-"Her dazzle's enough t' cover the both of us
+"She's got dazzle enough t' cover the both of us
 if she gets us up against th' rocks."
 He swiped two fingers across the control panel
 in an angry, futile attempt
@@ -3553,7 +3553,7 @@ but it couldn't lift the dead weight it now held.
 
 The Marine who had caught the toolboxes paid no attention to the burnt smell
 as she pulled the battery and ammunition clips from her partner's body.
-*It's her conditioning,* Iffy thought.
+*It's the conditioning,* Iffy thought.
 *Like Jeep when he came back. She just doesn't feel it.*
 She swallowed hard to stop herself from throwing up.
 
@@ -4258,7 +4258,7 @@ that would have made her foster mother sigh happily.
 Honesty's First and Second looked up and said, "G'day," simultaneously
 as Honesty pulled aside the heavy orange canvas
 that hung in the salvage booth's doorway.
-"You gi'n her th' bad news yen?" their First asked
+"You gi'n she th' bad news yen?" their First asked
 in an accent as strong as the tea she poured for Iffy.
 
 Honesty pouted. "I's gonna!"
@@ -4816,7 +4816,7 @@ She tugged at her gently.
 "Auntie, we need to get outta here."
 
 "I can't..." Shock and disbelief mingled on her face.
-"I can't just leave him."
+"I can't just leave he."
 
 "Auntie, we gotta."
 Iffy took one of the shopping bags from her foster mother's slack grip
@@ -4901,7 +4901,7 @@ Iffy hung on when her aunt would have let go.
 Aunt Naggie kissed the top of Iffy's shaven head.
 "Yeah, he was. In a lot o' ways."
 She laughed shakily.
-"Prolly best if we don't talk about him in front o' Jack, aright?"
+"Prolly best if we don't talk about he in front o' Jack, aright?"
 
 "'Course not," Iffy agreed.
 "But---why'd he---you know. Why'd he do it?"
@@ -4909,7 +4909,7 @@ She laughed shakily.
 *Why do you know people who would do something like that?
 Why didn't I know you did?*
 
-"Lotta people were dependin' on him," Aunt Naggie said distantly,
+"Lotta people were dependin' on he," Aunt Naggie said distantly,
 straightening up and turning back to her cooking.
 "I guess this was the only way he could keep 'em all safe."
 
@@ -9063,3 +9063,7 @@ and given peace and more time it might have worked.*
 - A governor died in the Bharati fire (opening salvo in the governors' civil war)
 - "The old gods didn't care---why would expect the new ones to?" (Talking about AI)
 - Paddington South really is a wretched hive of scum and villainy
+- Iffy thinks about apologizing to Jeep after the first encounter
+- Aunt Naggie's sims are all really about the ecologist
+- the video drone escape isn't believable
+- the ecologist's brain wipe is a bit sudden

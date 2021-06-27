@@ -4,3 +4,5 @@
 .jekyll-metadata
 .sass-cache
 _site
+*.kdf-journal
+action.log

@@ -1362,7 +1362,7 @@ they hum a Korean teahouse song that no-one else has heard in almost fifteen hun
 it takes them several moments to comprehend what it means.
 Data unscrolls before their inner eye.
 There and there and there,
-signals so faint and improbable that only nanowatts remain.
+signals so faint and improbable that only pico-Janskys remain.
 No one would see a pattern unless they knew exactly what they were looking for.
 Black builds a delicate lattice in their mind and---*
 

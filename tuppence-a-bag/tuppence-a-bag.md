@@ -148,7 +148,7 @@ a gentle, wistful expression that tugs at the young woman's heart.
 *She must have been powerful once,* she thinks,
 and for the span of a heartbeat she teeters on the edge of recognition,
 but then a pigeon lands beside the bags of corn.
-The whole flock flurryies into the air,
+The whole flock flurries into the air,
 and her thoughts turn once again to the enemy ahead.
 She sets off briskly once again,
 knowing without looking that her younger self has taken her brother by the hand to follow.
@@ -158,7 +158,7 @@ knowing without looking that her younger self has taken her brother by the hand 
 *The pigeon spreads her wings and takes to the air,
 landing next to the bags of corn a heartbeat later.
 Her arrival sends the other birds flurrying upward
-as if she was a hawk or a cat.*
+as if she were a hawk or a cat.*
 
 The sun is warm on the cathedral's stone steps,
 but the old woman still feels the night's cold in her bones.
@@ -203,8 +203,8 @@ The boy stuffs the coin back into his pocket.
 "Now come along, spit spot."
 Their eyes meet for just a moment.
 She smiles wistfully,
-wishing she didn't know now what she didn't now then.
-The Old One's bargain had seemed horrible,
+wishing she didn't know now what she didn't know then.
+The Old Ones' bargain had seemed horrible,
 but there were many worse things in the world
 than even her wisest teachers had known of.
 
@@ -215,7 +215,7 @@ Questions will follow, then audits.
 Other ancient evils will sense weakness.
 Tensions will rise,
 alliances will shift.
-Ashot will be fired
+A shot will be fired
 and nations will send their millions against each other,
 not once but twice.
 By the time the bloodshed ends
@@ -223,7 +223,7 @@ the Old Ones' proxy empires will finally have started to fall.
 
 She doesn't know what comes after that.
 A better world, she hopes,
-but it will others' turn to watch over it.
+but it will be others' turn to watch over it.
 Coming back to this moment has drained the last of her strength.
 Bert and his band of fey will see the children safely home.
 It is finally time for her to rest.

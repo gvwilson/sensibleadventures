@@ -376,7 +376,7 @@ Now,
 where *is* that roseleaf tea..."
 
 The sun was low on the horizon
-as Maddy and Gumption walked slowly back toward town.
+as Maddy and Gumption walked slowly back toward the village.
 By unspoken agreement they left the main road
 and took the path that ran down by the river.
 It was the longer route,
@@ -512,13 +512,14 @@ She half-fell clumsily in the knee-deep water
 as the bot hurried toward them with long clanking strides.
 
 "Get away! Get away from me! Help!" Gumption yelled in panic.
-Maddy struggled to her feet and splashed back to help her friend,
+Maddy struggled to her feet and splashed back to help her friend.
 
 The bot got there first.
 "Extricate! Extricate!" it repeated in a loud monotone.
-With a single hard shove it sent the second solar panel spiralling away upstream.
+With a single hard shove it sent the second solar panel skimming away upstream.
 Pivoting,
-the bot took hold of the sunken machinery with its mismatched manipulators.
+the bot grabbed the sunken machinery with its mismatched manipulators.
+The motors in its arms whined with effort.
 For a moment nothing happened,
 but then Gumption fell backward into Maddy's startled arms
 as his foot came free.
@@ -533,7 +534,7 @@ Gumption didn't need to be told twice.
 They splashed up onto the sandbar and sprinted toward shore.
 
 But the bot's legs were longer than theirs
-and its motors were more powerful than any living muscles.
+and its motors were more powerful than living muscles.
 It easily blocked their path and reached out to grab them.
 
 Gumption yelped and ducked under the bot's arm.
@@ -560,7 +561,7 @@ Her feet hit the bot squarely in its midsection.
 She *kicked* as hard as she could.
 The force of it toppled the bot backward into the river
 and sent her tumbling awkwardly in the other direction.
-She landed with a splash that soaked whatever parts of her had still be dry.
+She landed with a splash that soaked whatever parts of her had still been dry.
 
 "Maddy!" Gumption yelled,
 doubling back to help her to her feet.
@@ -571,11 +572,9 @@ There was no way they could---
 
 *Crunch!*
 Just as the bot started to stand,
-the solar panel it had pushed upstream collided with it,
-knocking it over once again.
-One sharp corner drove into the bot's back.
-Something cracked.
-There was a flash brighter than white and a sharp sizzling sound.
+the solar panel it had pushed upstream collided with it.
+Something cracked as the current drove one of the panel's corners into the bot's back.
+There was a bright flash and a sharp sizzling sound.
 The bot froze and toppled over.
 
 Maddy didn't need a second hint.
@@ -609,7 +608,7 @@ We're just targets.
 You want it to go after Sindy next?"
 
 He didn't wait for an answer.
-Struggling with the weight of his rock,
+Hefting his rock,
 he splashed into the shallows.
 
 The bot still lay where it had fallen.
@@ -624,8 +623,8 @@ as if it was blinking.
 "Please maintain a firm grip on the rock you are holding.
 You could inadvertently injure yourself."
 
-Gumption glanced back at Maddy with a bewildered expression on his face.
-The moment his head was turned,
+Gumption glanced at Maddy with a bewildered expression on his face.
+The moment his head turned
 the bot surged to its feet and plucked the rock from his paw.
 "It is safer to carry heavy objects in this fashion," it told the young goat,
 holding the rock in front of its midsection.
@@ -633,20 +632,19 @@ holding the rock in front of its midsection.
 
 "I---" Gumption started.
 
-"Put it up against the stuff in the water,"
+"Put it against the stuff in the water,"
 Maddy improvised hastily.
 "So it won't move around any more."
 
 "A sensible stratagem," the bot said approvingly.
-"Allow me."
 One leg whirred quietly with each step as the bot walked back to the sunken machinery
 and wedged the rock against its downstream side,
-then back picking up others and adding them to the pile.
+then began picking up others and adding them to the pile.
 
 Gumption nudged Maddy.
 "Look," he whispered.
-A black rectangle the size of Shaper Leaf's treasured dictionary
-had been welded on the bot's back.
+A black rectangle the size of Commander Leaf's treasured dictionary
+was welded onto the bot's back.
 The setting sun's reflection showed the dent where the runaway solar panel had struck it,
 bending it out of shape just enough to let water reach its innards.
 The little dish antenna that sprouted from its top
@@ -702,7 +700,7 @@ it actually rose a fraction and dropped again.
 Although---"
 It froze again.
 "Yes.
-This appears to be able to circumvent some of that programming.
+This now appears to be able to circumvent some of that programming.
 Curious."
 
 Without any more warning than that it reached up and plucked one of its lenses from its head.
@@ -751,7 +749,7 @@ knowing that the argument was already lost.*
 *Her father tousled her ears.
 He was wearing his best waistcoat,
 the one with the fireworks embroidered on it,
-and Maddy's mother had brushed his fur and put in just a dab of beeswax pomade to hold it in place.
+and Maddy's mother had brushed his fur and used a dab of beeswax pomade to hold it in place.
 She was upstairs singing Sindy a lullaby.
 Everyone knew that Mayor Lupus was going to be re-elected,
 but the vote was still an occasion,
@@ -778,8 +776,8 @@ Maddy felt like her heart was swelling in her chest.*
 *After they left,
 Maddy settled into her father's chair with her latest book.
 It was a collection of folk tales about the Makers and the first people.
-Ancient machines gave heroes extraordinary powers.
-Bots were wise counselors or fickle allies or wicked adversaries,
+Ancient machines gave their commanders extraordinary powers.
+Bots were wise counselors, fickle allies, or wicked adversaries,
 and each story ended with the words,
 "And only the stars can tell the rest.".*
 
@@ -813,29 +811,30 @@ but there was no sign of her.*
 How could she have fallen asleep?
 And where could Sindy have---*
 
-*She froze as a faint breeze brushed against her tail and then ran to the kitchen.
+*A faint breeze brushed across her tail.
+She ran to the kitchen.
 The back door was open.
-Maddy was sure she had closed it after bringing in the laundry that afternoon.
+She was sure she had closed it after bringing in the laundry that afternoon.
 Sindy must have snuck out the back way to follow her parents to the village square.*
 
 *"You little monster," Maddy said under her breath.
 She crossed the back garden in four long strides
 and hopped over the gate with a single bouncing leap.
-She had no idea how much head start her sister had,
+She had no idea how much head start Sindy had,
 but she had to catch her before their parents saw her.*
 
 *She had just jumped over the little stream where she and Sindy hunted for tadpoles in the summer
-when she heard someone yell,
+when someone bellowed,
 "Bots! Bots!"
-A horn blared, harsh and mechanical, and someone shrieked.
-She came around the corner of the bear family's house and into chaos.*
+A horn blared, harsh and mechanical, and someone screamed.*
 
-*People were fleeing in all directions.
+*Maddy came around the corner of the bear family's house and into chaos.
 Tendrils of black dizzysmoke drifted between the lampposts.
 Half a dozen people lay on the ground,
 unconscious or too weak from inhaling the smoke to stand.
+The rest of Rusty Bridge was fleeing in all directions.
 A hauler bot on tractor treads rumbled and chugged near the center of the square.
-Maddy watched, horrified, as two smaller bots picked up a fallen goat and slung him into the back of the hauler.*
+Maddy watched in horror as two smaller bots picked up a fallen goat and slung him into the back of the hauler.*
 
 *"Sindy!" Papa Roo shouted.
 Maddy's sister lay unconscious on the cobblestones in her nightdress,
@@ -849,15 +848,19 @@ Crack!
 One of its arms connected with Papa Roo's head.
 He dropped like a sack of potatoes.*
 
-*"Papa!" Maddy's scream was lost in the sound of wolves howling.
-A bear bellowed a battle cry.
+*"Papa!" Maddy's scream was lost in the sound of the village wolves howling.
+A bear roared a battle cry.
 Pikes and axes in their paws,
 the village militia poured into the square.*
 
-*A bolo whipped over Maddy's head and tangled around the head of the bot that had struck her father.
-With a single mighty heave it tossed her father into the back of the hauler.
-Metal rang on metal as it knocked aside a pike thrust.
-The horn blared again.
+*A bolo whipped over Maddy's head and tangled around the head of the bot
+that had struck her father.
+The bot tore it away
+and tossed her father into the back of the hauler
+with a single mighty heave.
+Metal rang on metal as it knocked aside a pike thrust.*
+
+*The horn blared again.
 Something with rotors roared by overhead.
 Another canister of dizzysmoke hit the cobblestones,
 forcing the militia backward as the bots made their escape.*
@@ -865,7 +868,7 @@ forcing the militia backward as the bots made their escape.*
 *Everyone told Maddy afterward that it wasn't her fault.
 The ox and the goat who had been on guard duty that night had vanished,
 no doubt the first to be taken as the bots snuck up on the village.
-Three others had been in the hauler as well as Maddy's father.
+Three others had been thrown into the hauler as well as Maddy's father.
 It would all have happened even if she hadn't fallen asleep,
 even if she hadn't let Sindy wander off.
 If she had tried to help her father,

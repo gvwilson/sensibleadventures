@@ -116,7 +116,8 @@ while her parents vainly tried to persuade the old tortoise to take a jar of hom
 Gumption had shown up a few months later.
 His family hadn't brought him---the village goats weren't bookish people---and
 at first Maddy had resented this intruder into her magical world of stories and long-ago science.
-But they started talking one day about the relative merits of mysteries versus adventures and hadn't stopped since.
+But they started talking one day about the relative merits of mysteries versus adventures
+and hadn't stopped since.
 Now they swapped their borrowed books back and forth
 so that they at least had someone to roll their eyes with over the mushy bits.
 
@@ -1222,15 +1223,15 @@ and rang the alarm bell.
 *Donk! Donk! Donk!*
 "Bother," the old tortoise said mildly,
 reaching into the bell and pulling a sock off the clapper.
-"I keep telling the mayor she really shouldn't."
+"I know it can be loud when the wind blows,
+but I keep telling the mayor she really shouldn't do that."
 
 *Dong! Dong! Dong!*
 This time the bell rang true,
-its peals echoing off the walls of the building around the square.
+its peals echoing off the walls of the buildings around the square.
 *Dong! Dong! Dong!*
 Three and a pause to signal an attack.
-Three and a pause to bring Maddy's memories of the worst night of her life
-rushing back.
+Three and a pause to bring Maddy's memories of the worst night of her life rushing back.
 
 Windows opened.
 Heads poked out.
@@ -1251,32 +1252,32 @@ Fear made her mother's voice stern.
 "Sindy, you go with your sister.
 You gotta run, both of you, fast as you can."
 
-"I'm not going unless you are!" Sindy said stubbornly.
+"I'm not going 'less you are!" Sindy said stubbornly.
 She was crying,
 Maddy realized,
-only then realizing that there were tears in her own fur as well.
+only then realizing that there were tears on her own cheeks as well.
 
 "Go with them,"
-Shaper Leaf urged Mama Roo.
+Commander Leaf urged Mama Roo.
 "Keep them safe."
 
-"Will you come with us?" Sindy asked the old tortoise.
+"Aren't you comin' with us?" Sindy asked the old tortoise plaintively.
 
-Shaper Leaf smiled a wrinkly smile.
+Commander Leaf smiled a wrinkly smile.
 "No.
-I am tortoise.
-tortoises don't run from rights."
-He paused.
+I am tortoise,
+and tortoises don't run from fights."
+He winked.
 "Mostly because we can't."
 
-And then suddenly it was too late to run.
+But suddenly it was too late to run.
 A tricycle bot roared into the square,
 waving its twig-thin arms to keep its balance
 as one back wheel came up in the air.
 
-"Get outta here, you!" the goat who had sounded the alarm shouted.
+"Get outta here, you!" shouted the goat who had sounded the alarm.
 Shirt tails flapping,
-he waved his arms at the bot as if he was trying to scare a goose back to its flock.
+he waved his arms at the bot as if trying to scare a goose back to its flock.
 
 "Look out!" Maddy yelled
 as black dizzysmoke began to spew out of the canister on the tricycle bot's back.
@@ -1291,49 +1292,54 @@ tires squealing on the cobblestones.
 A belch of greasy black smoke rolled over the goat.
 He stumbled, spun around, and fell to the ground.
 
-"Go! Run!" Shaper Leaf ordered,
-squaring his shoulders.
-Something popped as he rolled his head from side to side to loosen his neck.
+"Go!" Commander Leaf ordered,
+pulling up the sleeves of his sweater to reveal
+the bulky silver sonic blasters fastened to his forearms.
+The ancient tech had a few dents and scratches,
+but had been polished until it gleamed.
+With a click and a whir,
+the blue-gray power indicator crystal on the back of each sonic started to glow.
 
 Maddy grabbed Sindy,
 spun around,
 and shrieked as the biggest bot she had ever seen rumbled into the square,
-completely blocking the street she had been about to take.
+completely blocking the street.
 It was practically a slab of metal,
-its blocky legs as wide as the double doors of the mayor's house
-and its arms like tree trunks.
+with blocky legs as wide as the double doors of the mayor's house
+and arms like tree trunks.
 Each leg ended in a pair of tractor treads,
 and as it rolled forward
 she saw that it was dragging a cage cart behind it.
 
-"Oh no," she whispered.
+"Oh no," she moaned.
 That cart could only mean one thing.
-The bots were here to steal people,
-just like they had stolen her father!
+The bots weren't here for salvage.
+They were here to take people,
+just like they had taken her father!
 
-"Not today, clunker," Shaper Leaf said.
+"Not today, clunker," Commander Leaf said.
 He planted his feet firmly on the cobblestones,
-rolled his head to work out one last kink,
-and then swept his arms in a broad circle.
+rolled his head to work out a kink,
+and swept his arms in a broad circle.
 
-The earth groaned and split.
-A crack fully a meter across opened right in front of the huge bot.
-"Ha!" Shaper Leaf crowed
-as one of the bot's treads nosedived into the fissure.
+The earth groaned and split under the sonic's invisible wave of energy.
+A crack a meter wide opened right in front of the huge bot.
+"Ha!" Commander Leaf crowed
+as one of the bot's treads fell into the fissure.
 
 *Crash!*
 The bot fell to one enormous knee.
 Its motors roared as it braced a hand on the cobbles
 and heaved itself back upright.
 
-Shaper Leaf raised his arms over his head
+Commmander Leaf raised his arms over his head
 and brought them down and around in a great clap
 right in front of where his belly button would have been
 if he'd had one.
 A square of cobbles punched upward in response,
 knocking the huge bot off balance once again.
 
-"Get 'im, Shaper, get 'im!" Gumption shouted.
+"Get 'im, Commander, get 'im!" Gumption shouted.
 The young goat grabbed a loose cobblestone off the ground
 and threw it at the huge bot
 as it staggered and tried to regain its balance.
@@ -1355,21 +1361,25 @@ Two! The second stone clanked off its casing.
 As Maddy and Gumption straightened up with more stones in their paws,
 half a dozen more bots charged into the square.
 
-"Seriously?" Shaper Leaf muttered shakily.
-He punched the air, one two three.
-Cobblestones flung themselves at the new arrivals,
-leaving divots in the ground for them to trip over.
+The power crystals on Commander Leaf's sonics looked like little stars
+as he pointed at first one bot and then another.
+The smallest of the new arrivals flew backward through the air
+and hit the front of a building with a crash.
 Something with long legs and a small body sprawled full length.
-Another bot that looked like a trash can with arms and a single wheel
+
+The old tortoise punched the air, one two three.
+Cobblestones flung themselves at the raiders,
+leaving divots in the ground for them to trip over.
+A bot that looked like a trash can with arms and a single wheel
 bounced over one hole and veered around another
 only to be caught in a sudden rut.
-"Ner er," it buzzed loudly as its wheel snapped off.
+"Nurp ner," it buzzed loudly as its wheel snapped off.
 Its body rolled to a halt.
 To Maddy's horror,
 it righted itself and walked on its hands back to the trench
 to pull out the wheel and snap it back in place.
 
-"Go! Run!" Shaper Leaf gasped.
+"Go! Run!" Commander Leaf gasped.
 "I can't keep this up much longer!"
 
 "We're not leaving you!" Maddy cried,
@@ -1422,7 +1432,7 @@ But so was Maddy.
 She jumped and kicked with all her might.
 The lead bot staggered back.
 
-The second bot knocked it aside and clattered forward on its crab-like legs.
+The second bot knocked it aside and clattered forward on crab-like legs.
 A tentacle lashed out, catching Maddy across her thighs.
 A jolt ran through her body.
 For a moment her mouth tasted like tin foil
@@ -1444,9 +1454,10 @@ each one finding its mark.
 As the bot spun around to face its new attacker,
 Maddy saw that it too had a black box fastened to its back.
 
-Thrown stones clattered against the crab bot.
+Stones clattered against the crab bot,
+some of them big enough to make dents.
 "Withdraw! Ouch! Withdraw! Ouch!"
-Its amplified command was so loud it made Maddy's head ring.
+Its amplified command made Maddy's head ring.
 Holding Sindy's limp body with a pair of tentacles,
 it scuttled across the square to the huge cargo bot.
 Two limp goats lay on the floor of the cage.
@@ -1460,13 +1471,14 @@ It spun around and aimed its tentacles at the militia.
 Two bursts of purple electricity shot out of them and struck the militia.
 They toppled over.
 
-Motors roaring,
-the big bot rumbled away into the darkness with its three prisoners behind it,
+The big bot rumbled away into the darkness towing its cart and its three prisoners
 leaving chaos in the village square.
 Half of the militia lay on the ground,
 dazed by dizzysmoke or shocked by the crab bot's final blast.
-Shaper Leaf was gesturing feebly,
-but was too exhausted to make the earth obey him.
+Commander Leaf was gesturing feebly,
+exhausted,
+but the power crystals on his sonics had gone dim---it would be a day or more
+before they recharged.
 Scattered plates of armor and parts of broken mechanical limbs
 proved that the bots had paid a heavy price for their victory,
 but as Mama Roo wrapped Gumption and Maddy in a hug

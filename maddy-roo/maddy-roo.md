@@ -1906,7 +1906,7 @@ Dockety hurled Maddy into the air.
 
 Maddy screamed.
 Afterward,
-she would wish that it had been a proper battle cry,
+she wished it had been a proper battle cry,
 like a wolf's howl or a lion's roar,
 but it was just a normal everyday terrified scream.
 
@@ -1927,7 +1927,7 @@ Maddy shouted down at the three captives.
 "We're going to get you out of there!"
 
 Dockety raced forward and body-checked another raider bot
-just as it ratcheted up on its wheeled legs and tried to grab Maddy.
+as it ratcheted up on its wheeled legs and tried to grab Maddy.
 The young roo pulled her legs under her,
 ignoring the pain of the metal bars bashing against her shins
 every time the cart hit a bump.
@@ -1965,7 +1965,8 @@ She thought the cargo bot would just pull away smoothly
 to leave the unhitched cage cart rolling along the highway behind it.
 That didn't happen.
 Instead,
-there a loud crash as Dockety and a raider bot slammed into the side of the cage,
+there a loud crash
+as Dockety and a raider bot slammed into the side of the cage,
 their manipulators grappling for holds on each other.
 
 Maddy screamed for a third time as the cart careened off the road.
@@ -1978,7 +1979,7 @@ Maddy scrambled to her feet and ran after it.
 The cart slid to a halt just a few paces from the edge of the muck.
 Rusty scraps of old machinery lay all around.
 Maddy grabbed one end of a metal bar and pulled with all her might.
-The bar came free of the mud with a shlurping sound.
+The bar came free of the mud with a disgusting *shlurp*.
 
 She ran over to the cart.
 Luckily,
@@ -1986,7 +1987,7 @@ it had landed door side up.
 She tossed her bar on top of it,
 scrambled up,
 wedged the end of the bar in by the lock,
-and levered it with all her might.
+and leaned her whole weight against it.
 *Pank!*
 The lock burst open.
 
@@ -1998,8 +1999,8 @@ Hey!"
 One of the goats lifted her up so that Maddy could grab her wrist,
 then reached up himself.
 
-A few moments later all four of them were standing beside the cage
-and Maddy had her arms wrapped around her sister.
+A few moments later the four of them were standing beside the cage.
+Maddy had her arms wrapped around her sister.
 "I was so afraid," she whispered in Sindy's ear.
 "I was so afraid I'd never see you again."
 
@@ -2019,7 +2020,8 @@ she said coldly.
 "We would've been aright,"
 Bluster said defensively.
 "Wouldn't we?"
-He nudged his brother, who nodded.
+He nudged his brother,
+who glanced at Maddy apologetically but didn't say anything.
 
 Sindy took her sister's paw.
 "Was that a bot helping you?" she asked.
@@ -2060,24 +2062,24 @@ The cargo bot backed up and rumbled away to look for them elsewhere.
 Maddy let out her breath with a whoosh.
 "Come on," she ordered the others.
 
-"Come where?" Bluster demanded.
+"Where?" Bluster demanded.
 
 Maddy gave him a cold look.
 "Anywhere that isn't here.
-But if you two want to stay, go ahead.
+But if you want to stay put, go ahead.
 Come on, Sindy."
 She took her sister's paw and started walking.
-A moment later the grumbling goats followed them.
+A moment later the goat twins followed them.
 
 *Shlurp shlurp shlurp...*
 At first Maddy tried to pick her way from rock to rock,
-but her feet were soaked and muddy after just a few dozen steps
+but her feet were soaked and muddy after just a few steps
 so she gave up and just trudged in as straight a line as she could,
 which wasn't very straight.
 The river was wide and shallow in the Mire,
 and any three people would have had four different opinions
 about where its bank actually was,
-or whether indeed it had one.
+or whether even it had one.
 The smell of damp vegetation was almost overpowering.
 A sharp chemical tang came and went,
 reminding Maddy of the turpentine she used to clean her paintbrushes
@@ -2087,12 +2089,12 @@ If they got back to Rusty Bridge,
 she was going to take the longest, soapiest bath of her entire life.
 
 They stopped twice when they heard motors revving in the distance,
-crouching behind whatever cover they could find until the sound faded.
-All of a sudden they found themselves among trees,
-fingerling willows no taller than they were
+crouching behind whatever bushes were nearby until the sound faded.
+After a few minutes they reached a stand of trees,
+fingerling willows no taller than Maddy
 and then larger ones whose branches bent in elegant sad arcs.
 Some of their leaves shimmered metallically,
-almost too faintly to be seen.
+tinkling faintly in the breeze.
 The foursome steered clear of those ones.
 
 They had been walking for about half an hour
@@ -2114,24 +2116,25 @@ then swore as he tried to take a step.
 "Idiot."
 Bluster punched him in the shoulder.
 "Why'd you go and do that?"
-
 Bravo punched him back, harder.
-"Stop it!" Maddy snapped.
+
+"Stop that!" Maddy snapped.
 "Let me have a look at it."
 
 "Oh, so you're a doctor now?"
 Bluster said sarcastically.
+"Know-it-all."
 
-"She's smarter than you," Sindy said loyally.
-"And quieter, too," she added pointedly as Bluster opened his mouth.
+"She knows a bucket more'n you," Sindy said loyally.
+"And she's quieter too," she added pointedly as Bluster opened his mouth.
 
 Maddy straightened up.
 "I don't think it's sprained," she told Bravo.
 "Just do the best you can, aright?"
 The goat nodded.
 
-They went more slowly after that,
-Bravo leaning on Bluster and Sindy needing rest more and more frequently.
+They went more slowly after that.
+Bravo leaned on Bluster and Sindy needed rest more and more frequently.
 Maddy had to bite her tongue to stop herself from telling them all to hurry up.
 It would take them days to get back to Rusty Bridge at this speed,
 but there was nothing she could do about it
@@ -2139,8 +2142,7 @@ except hope that Gumption had convinced the mayor
 to send people to rescue them.
 
 A particularly squelchy patch of land
-sent them in a wide arc that brought them nearer the highway
-than Maddy liked.
+sent them in a wide arc that brought them nearer the highway than Maddy liked.
 *Just 'til we're past that tall tree,*
 she promised herself.
 
@@ -2152,7 +2154,8 @@ It was the long-legged bot from the raid on Rusty Bridge,
 and it had spotted them!
 
 "Back to the river!" she yelled.
-The soft, muddy ground was their only hope.
+The muddy ground was their only hope---the long-legged bot would sink
+if it tried to follow them.
 
 "Maddy!" her sister shrieked.
 Drawn by the horn and the searchlight,
@@ -2168,13 +2171,13 @@ Maddy realized,
 and now they were caught with nowhere to run
 as the three bots closed in.
 
-"Get into those trees!" she ordered Bluster and Bravo.
+"Head for those trees!" she yelled, pointing.
 They wouldn't stop the bots,
 or even slow them down for more than a few seconds,
 but it was all she could think of.
 
 *Zzzrrr!*
-The sawbot swung its whizzing arm at them,
+The sawbot waved its whizzing arm at them,
 trying to drive them back into the open.
 Bravo pulled a clump of mud out of the ground and threw it at the bot.
 It splatted uselessly on its rust-stained torso.
@@ -2183,7 +2186,7 @@ It splatted uselessly on its rust-stained torso.
 The chainsaw swung again as the long-legged bot with the searchlight
 tried to grab Sindy with one of its elongated arms.
 "Get away!" she shouted angrily,
-scooping up some mud and flinging it.
+scooping up some mud of her own to throw.
 
 *Splat!*
 The mud hit the searchlight,
@@ -2201,7 +2204,7 @@ windmilling its arms just a person as it tried to regain its balance.
 *Shlurp!*
 One of its feet landed in a muddy sinkhole.
 Its horn blared as it toppled over
-and fellright on the boatbot's head
+and fell on the boatbot's head
 with a sound like an empty can being crunched underfoot.
 
 "Go!" Maddy shouted.
@@ -2217,8 +2220,8 @@ But Maddy and Sindy were too slow.
 The chainsaw bot blocked their way,
 its arm whizzing angrily.
 
-And then something rocketed out of nowhere
-and bounced into the air
+And then something rocketed out of nowhere,
+bounced into the air,
 and slammed into the sawbot at just the right spot.
 The sawbot tipped and tilted and fell on its side,
 its heavy treads throwing mud and muck into the air
@@ -2251,7 +2254,7 @@ Bluster shouted back to her.
 Moments later they vanished into the night,
 leaving the two young roos alone in the Mire
 with a dented bot for company
-and no idea how they would get home.
+and no idea how to get home.
 
 ## Episode 7: ...And Into the Mire
 

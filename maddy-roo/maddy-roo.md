@@ -2602,21 +2602,21 @@ Maddy screamed.
 She tried to pull her leg free,
 bu the tentacle's grip was iron-strong.
 "Help! Help!"
-She flung pawfuls of dirt and dead leaves at it
+She flung pawfuls of dirt and dead leaves at the tentacle
 as it dragged her across the floor.
 
 Dockety scraped through the door behind her
 and flung itself at the tentacle.
 "Release! Release!" it rasped
 as it grabbed the loop around Maddy's leg
-and tried to pry it loose.
+and strained to pry it loose.
 
 Maddy kicked and pulled,
 but couldn't get her ankle free.
 "Release! Imperative! Release!"
 Dockety hit the tentacle with its heavy manipulator,
 then grabbed it again,
-all to no avail.
+but the swamp slime was too slick for the bot to get a grip.
 
 "Maddy!"
 Sindy squeezed through the rear door and ran to her sister.
@@ -2631,7 +2631,7 @@ The braided string was clagged with mud,
 and so damp that it might as well have been dipped in glue.
 "Come on come on come on," she muttered frantically.
 There!
-Her fingernail finally found purchase.
+Her fingers finally found purchase.
 She pulled one end loose and hastily undid the rest of the knot.
 
 "Pull!" she yelled at Dockety.
@@ -2641,31 +2641,30 @@ She was out!
 
 She scrambled to her feet
 just as the tentacle realized its prey had somehow escaped.
-It threw the boot across the foot and lashed out,
+It threw the boot across the room and lashed out,
 trying to find her again.
 
 *Clunk!*
-The boot hit one of the levers in the wall.
+The boot hit the second lever on the wall next to the inner door.
 Rumbling and grinding,
-the door to the outside began to close.
+the outer door began to close.
 
-The tentacle lashed out again,
-then began to slither back so that it would be cut in half.
+The tentacle lashed out one last time
+before slithering back so that it wouldn't be cut in half.
 "Go!" Maddy ordered Sindy.
 With Dockety right behind them,
-they squeezed through the rear door.
+they squeezed through the inner door.
 
-Maddy found herself on a small platform at the top of
+They found themselves on a small platform at the top of
 a flight of broad concrete stairs.
 Even with Dockety's chest light at its brightest,
 they couldn't see how far the steps went.
-"Did you go down?" she asked Sindy,
-her voice hushed.
+"Did you go down?" Maddy asked her sister in a hushed voice.
 
-Her sister shook her head.
+Sindy shook her head.
 "We were waiting for you."
-And then she flung her arms around Maddy and gave her a hug.
-"I was scared."
+Without warning she flung her arms around Maddy and hugged her hard.
+"I was *scared*."
 
 Maddy hugged her back.
 "I was scared too."
@@ -2691,14 +2690,17 @@ not even dust under her finger when she ran it over the wall.
 the bot replied.
 "This one is analyzing the gap in its database.
 It is clearly deliberate.
-This one's memory has been tampered with."
+Something erased the existence of this facility.
+That is unlikely to be good news,"
+it added bleakly.
 
 Forty steps, fifty...
-"Is it because of that thing we knocked off you?"
+"Maybe you just can't find it because we knocked that thing off you,"
+Maddy suggested to fill the silence.
 
 "Negative.
 The regulator was an involuntary alteration."
-Its chest light brightened momentarily as if it was scowling.
+Its chest light brightened angrily for a moment.
 "Lasercase attaches them to whatever bots it can catch,
 then uses them to catch more bots."
 
@@ -2707,7 +2709,7 @@ Maddy added bitterly.
 
 Dockety's lenses rotated.
 "Correct.
-But this one does not know why it orders us to collect people.
+But this one does not know why it collects people.
 It does not keep them."
 
 Maddy glanced at the bot.
@@ -2743,7 +2745,8 @@ Dockety hesitated.
 It swiveled its head to look at Maddy.
 "But Crusher is an 'it', please, as is this one."
 
-"I'm hungry," Sindy said before Maddy could reply.
+"I'm hungry,"
+Sindy interrupted while Maddy was digesting that.
 
 "I know,"
 the older roo said,
@@ -2765,12 +2768,14 @@ Maddy gulped.
 "Sure," she said as bravely as she could.
 
 Sixty, seventy...
-The steps brought them to a corridor made of the same featureless gray concrete.
+The steps brought them to a corridor
+made of the same featureless gray concrete as the stairs.
 Square glass panels sat in the ceiling every dozen steps,
 the light they must once have cast long since dimmed.
 There were no doors,
-no branches,
-no turnings or signs or anything.
+no side passages,
+no turnings or signs or anything else
+that might give a hint what the complex was for or who had built it.
 
 Maddy counted off fifty steps,
 then another fifty.
@@ -2793,25 +2798,20 @@ Its motors whined as it teetered on the edge of the hole,
 fighting for balance.
 
 *Crack!*
-The floor file under the bot's foot snapped in half.
-Dockety plummeted into the hole,
-toppling backward at the same time.
-*Crash!*
-Its torso hit the floor.
-For one terrifying moment Maddy was sure it was gone,
-but somehow the bot's manipulators found purchase on the concrete
-and steadied it long enough for it to retract its legs.
+The floor tile under the bot's foot snapped in half.
+Dockety half-fell into the hole.
+Its torso hit the floor with a *clunk!*
+For one terrifying moment Maddy was sure it was going to fall all the way in,
+but somehow the bot's manipulators found purchase on the concrete.
 
-As it did so,
-Sindy stumbled backward.
-Her paw fell on a patch of wall directly beneath one of the darkened lighting panels.
+Sindy stumbled backward to get out of the way.
+Her paw hit a patch of wall directly beneath one of the darkened lighting panels.
 Something *clicked*.
 Above their heads and all along the corridor,
 the lights flickered and came to life.
 
-Maddy dragged Dockety away from the hole.
-The bot lifted itself into a squat
-and then extended its legs back to their normal length.
+Maddy helped Dockety scrape its way out of the hole.
+The bot got back to its feet.
 Its lenses rotated rapidly.
 "Thank you," it said.
 
@@ -2830,7 +2830,8 @@ she repeated.
 "You keep doing it."
 
 And that was when a crackly voice said through speakers,
-"Well, you are here now. You might as well come and say hello."
+"Well, since you're here,
+you might as well come and say hello."
 
 ## Episode 9: Patient in Darkness
 

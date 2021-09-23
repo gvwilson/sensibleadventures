@@ -2835,34 +2835,35 @@ you might as well come and say hello."
 
 ## Episode 9: Patient in Darkness
 
-*Click.*
-The ceiling lights that had come on behind them went out.
+*Click. Click. Click.*
+One by one the ceiling lights that had come on behind them went out.
 *Bzzzt... Bzzzt...*
-Two lights in front of them came to life.
+Two more lights in front of them came to life.
 
 "You're smothering me,"
 Sindy said,
-her voice muffled.
+her voice muffled by Maddy's suddenly-tighter hug.
 
 "Sorry."
 Maddy released her little sister and swallowed.
 Maybe the darkness hadn't been so bad after all...
 
 The hard white light showed what Dockety's chest lamp had not.
-Faint water stains blotched the walls of the corridor,
-and here and there shallow dark lines had been scorched into the concrete.
+Faint water stains blotched the walls of the corridor.
+Here and there shallow scorch marks ran across the concrete.
 Maddy had never seen them before,
-but she instantly recognized them from stories:
+but she recognized them instantly from stories:
 they were laser burns.
 
-The hole they had almost fallen into took up three quarters of the corridor.
-Its edges and corners were too crisp to be natural,
-and after a moment Maddy realized that they weren't in a tunnel.
-They were in a corridor whose floor was made of the same blocks as the walls and ceiling.
-Half a dozen of those blocks had somehow fallen into the space below them,
-leaving just enough room on one side for them to get past the gap single file.
+The hole that Dockety had almost fallen into took up three quarters of the corridor.
+Its edges and corners were too square to be natural,
+and after a moment Maddy realized that
+half a dozen of the concrete blocks the floor was made of
+had fallen into a space below them,
+leaving just enough room on one side to get past walking single file.
 
-"Well?" the crackly voice said impatiently.
+"Well?" the crackly voice said,
+still cheerful but slightly impatient.
 "What are you waiting for?"
 
 Maddy looked at Dockety.
@@ -2876,18 +2877,18 @@ Sindy, you stay here 'til we know it's safe."
 
 Taking a deep breath,
 she put one foot on the ledge beside the hole.
-The floor felt solid,
+The floor *felt* solid,
 even when she gingerly shifted her weight onto it.
-Back to the wall,
-she edged across,
-shuffling her feet and keeping her eyes on the angle where the wall met the floor
-and definitely *not* looking into the hole whose bottom she still couldn't see.
-What if whoever had spoken to them turned off the lights all of a sudden?
-She would be aright---she would just keep going,
+She edged across with her back pressed against the wall,
+shuffling her feet and definitely *not* looking
+into the hole whose bottom she still couldn't see.
+What if whoever had spoken to them suddenly decided to turn the lights off again?
+She would be aright, she told herself sternly.
+She would just keep going,
 or shuffle back to where Dockety stood motionless
 while Sindy wrung her paws.
 
-And then she was across.
+And then she was on the other side.
 She let her breath out with a whoosh,
 suddenly realizing how long it had been since she peed.
 "Come on,"
@@ -2897,7 +2898,7 @@ she encouraged her sister.
 Sindy nodded jerkily.
 Instead of putting her back against the wall she pressed herself against it.
 Slide, slide, slide---she practically leaped into Maddy's arms once she was across.
-"You did great," the older roo whispered into her ear.
+"You did great," the older roo whispered into her little round ear.
 
 "Thanks," Sindy said, wriggling out of Maddy's arms.
 "Come on, it's easy!" she called back to Dockety.
@@ -2910,24 +2911,26 @@ and its body was too wide to---
 Without warning the bot retracted its legs and dropped its wheel.
 Its engine whined as it zipped back ten meters,
 then roared as it raced toward the hole.
-"Whoa!" Maddy shouted as it punched the floor with both paws,
+"Whoa!" Maddy shouted as it punched the floor with both of its feet,
 throwing itself into the air.
-It bounced once on the edge of the hole and flew across like a skipped stone.
 
-Its wheel left a dark streak on the floor as it braked.
-It folded its wheel back up into its body and re-extended its legs.
+*Thud!*
+Dockety's wheel left a dark streak on the floor as it braked.
+It folded the wheel back up into its body and re-extended its legs.
+
 "That was amazing," Maddy said, awed.
 
 Dockety's lenses rotated.
-"Thank you. But it has almost completely drained this one's batteries.
+"Thank you.
+But it has almost completely drained this one's batteries.
 We should proceed."
 
-They followed the lights down the corridor.
+The lights led them away from the hole.
 Every few steps one went dark behind them and another brightened in front.
 When they reached a four-way junction,
-the lights showed them that they should go left
-and then down another flight of stairs to a small landing that ended in an open door
-as thick as Maddy's arm was long.
+the lights showed them they should go left,
+then down another flight of stairs to a small landing that ended in an open door
+even thicker than the one at the surface.
 
 "Whoa..." Maddy breathed.
 The room beyond the door seemed almost as big as the central square of Rusty Bridge.
@@ -2947,12 +2950,12 @@ Sindy said before Maddy could speak.
 A little fan stuck to the bot's shoulder spun for a moment.
 "This one chose the name itself,"
 the strange bot crackled.
-"It is an accurate designation of activity.  Observe!"
+"It is an accurate designation of activity.
+Observe!"
 
 All the lights went out.
-Maddy instinctively reached for her sister.
-Sindy clutched her paw.
-"I'm sorry," Maddy said.
+Maddy instinctively put a hand on Sindy's shoulder.
+"I'm sorry," Maddy said as calmly as she could.
 "She didn't mean to be rude.
 It's a lovely name."
 
@@ -2960,7 +2963,7 @@ It's a lovely name."
 "These must *listen* to darkness if they want to hear the signal."
 
 Maddy closed her eyes---somehow,
-the darkness was less frightening when it was just the backs of her eyelids.
+darkness was less frightening when it was on the backs of her eyelids.
 She listened as hard as she could,
 but all she could hear was her own breathing and a sniffle from her sister.
 
@@ -2968,15 +2971,13 @@ The lights came back on.
 "Did you hear it?" the bot asked happily.
 "The signal is always there if you listen."
 
-"What does the signal say?"
+"What does it say?"
 Maddy asked.
 
 "This one does not know."
 The bot turned from side to side on its four wide tires.
 "But the satellites are definitely still transmitting.
-They have continued to function,
-just as this one has.
-This ground station has remained fully operational,"
+And this one has kept this ground station functioning at optimal levels,"
 it added proudly.
 
 "That's---that's really good,"
@@ -3004,16 +3005,16 @@ she said,
 "Um...we didn't see an antenna when we came in?"
 
 "Correct,"
-Patient replied.
-"It has taken this one a great deal of time to improvise emergency repair protocols.
-Repair will require fabrication of precision parts,
-but steps are now being taken.
+Patient replied in its previous cheerful tone.
+"But that will soon be rectified.
+This one has devised emergency repair protocols.
+The required components are now being fabricated.
 The Makers will be pleased,"
 it finished proudly.
 
 Maddy's breath caught in her throat.
 "The Makers?
-You work for...for *them*?"
+You work for the *Makers*?"
 
 Patient brushed the question away with a wave of one its arms.
 It had three,
@@ -3065,34 +3066,33 @@ It spun around and wheeled away.
 
 Maddy squeezed her shoulder.
 "Yeah, but at least we're somewhere clean and dry
-and there isn't some kind of tentacle thing trying to grab us.
+and there aren't any tentacle things trying to grab us.
 Why don't you go find us somewhere to lie down?
 I need to talk to Dockety for a moment."
 
-The younger roo nodded and left,
-her tail dragging tiredly behind her.
+The younger roo yawned and nodded.
 "You aright?"
-Maddy asked Dockety tentatively.
+Maddy asked Dockety tentatively once Sindy was out of earshot.
 
 The bot's lenses rotated.
 "It would have been more consistent with protocol
-for that one to volunteer recharging capacity,"
+for that one to offer recharging capacity,"
 it said neutrally.
 "But this one can see several compatible ports.
 It will take approximately four hours to---"
 
 "Maddy! Maddy!"
-Sindy came hopping back, her eyes wide.
+Sindy hurried back, eyes wide.
 "You gotta come see this.
 You gotta come!"
-She grabbed her sister's sleeve and pulled her away urgently.
+She grabbed her sister's sleeve and tugged on it urgently.
 
 *I knew it was too good to be true,*
 Maddy thought a few moments later,
 staring through heavy double-paned glass at
 what had once been a laboratory of some kind.
-A cloudy patch in the middle of the glass showed where someone had tried to melt through it,
-or maybe to dissolve it with acid.
+A cloudy patch in the middle of the glass showed where someone had tried to melt it
+or dissolve it with acid.
 The four skeletons---no, there were five, she realized distantly---showed that
 whatever the room's occupants had tried hadn't worked.
 Neither, apparently, had setting a fire:
@@ -3111,7 +3111,7 @@ Their components failed shortly thereafter."
 The fan on its shoulder spun furiously.
 "It is unfortunate.
 This one estimates that the cleanup necessitated by the incident
-will delay completion of repairs by almost forty-one hours."
+delayed completion of repairs by almost eight-one hours."
 
 Maddy nodded jerkily.
 The bot was between them and the door they had come through.
@@ -3149,15 +3149,14 @@ waving a manipulator at Dockety.
 "That will be recycled."
 
 "No," Dockety said flatly.
-"This one has its own mission to complete.
-It will not permit recycling."
+"This one has its own mission to complete."
 
-"Its permission is not required."
+"Its mission is irrelevant."
 Patient wheeled backward to a console.
 Its spindly third arm reached out and pressed a series of buttons in rapid succession.
 
 A pair of double doors whooshed open in the wall to Maddy's right.
-Two bulky service bots that looked like small versions of the cargo hauler stood behind them,
+Two bulky service bots that looked like small versions of the cargo hauler rolled forward,
 arms raised and red warning lights flashing on their shoulders.
 
 ## Episode 10: Unison

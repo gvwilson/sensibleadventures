@@ -3487,12 +3487,12 @@ and slid down it into the unknown.
 
 ## Episode 11: Eyes Everywhere
 
-Maddy had never seen the ocean, but she had read about it in Shaper Leaf's books.
+Maddy had never seen the ocean, but she had read about it in Commander Leaf's books.
 She knew that it was as deep as the highest mountains were high,
-and that its depths were darker than a moonless night.
+and that its bottom were darker than a moonless night.
 Strange creatures lives there,
-fish whose mouths were half the size of their bodies
-and wriggling things like glowing ribbons
+fish whose mouths were half the size of their bodies,
+wriggling things like glowing ribbons
 and bots that looked like lobsters on stilts,
 all of them patiently waiting to consume whatever came to them from above.
 
@@ -3510,8 +3510,10 @@ Sindy asked.
 Maddy was only a meter below her sister,
 but it felt as great as the distance between them and home.
 
-"Yeah, I'm aright," she replied,
-surprised at how steady her voice was.
+"Yeah, I'm *eep*," Maddy replied,
+squeaking and clutching Dockety's detached arm even more tightly
+as a red emergency light came on in the ceiling above her.
+She swallowed shakily.
 "Here's goes nothing."
 She slid down further until her paws were on Dockety's wrist
 and stretched her leg.
@@ -3519,19 +3521,17 @@ Was that the floor she could feel with her toe?
 She stretched even more.
 Maybe?
 
-She let go of the arm
+She let go of the arm,
 and then let out her breath as her feet came down on a floor
 that felt so wonderfully solid she could have hugged it.
-"It's aright!" she called up to the others,
-then squeaked as a red emergency light came on in the ceiling above her,
-triggered by her voice.
 
-Sindy came down next.
-Maddy caught hold of her ankles as she kicked her long, furry feet.
+Sindy slithered down next.
+Maddy caught hold of her sister's ankles
+as she frantically swung her legs.
 "Don't---I'm---just---whoops!"
-Her sister fell into her arms,
+Sindy fell into her arms,
 nearly knocking her over,
-then slithered out of Maddy's hug and bounced up and down a couple of times.
+then slithered out of Maddy's hug.
 
 "It's colder down here,"
 Sindy said,
@@ -3542,12 +3542,12 @@ Maddy cleared her throat.
 "That was really brave of you."
 
 Sindy shrugged.
-"Nah.
-I figured if you could do it..."
+"Nah," she said, pleased.
+"I figured if you could do it..."
 The sisters grinned at each other,
 the strangeness around them forgotten for just one moment.
 
-And then it was Dockety's turn.
+Then it was Dockety's turn.
 Maddy caught his detached arm
 and watched as he lowered himself as far as he could with the other
 and then extended his wheel.
@@ -3561,11 +3561,12 @@ in a toneless voice.
 
 "This one does not feel pain."
 Dockety paused.
-"But this would not actively pursue a repeat."
+"But this would not actively pursue a repeat,"
+it admitted.
 
 Maddy handed Dockety back its arm.
-The bot took it,
-head turning to study the square red emergency light in the ceiling.
+The bot took it before turning its head
+to study the square red emergency light in the ceiling.
 "The interference has stopped," it announced.
 "The miscreant is no longer attempting to subvert this one's systems."
 
@@ -3575,12 +3576,15 @@ Maddy patted the bot's plating awkwardly.
 
 The lower corridor was as empty as the one above had been.
 The red lights didn't come on automatically:
-every dozen steps or so,
-Maddy or Sindy had to say something to trigger them.
+by trial and error they found they only lit up when Sindy said something.
+"Because you're so squeaky,"
+Maddy joked,
+brushing away her sister's half-hearted punch.
+
 Maddy kept waiting for Patient's crackling voice to taunt them from a speaker,
 but it never came.
 
-Finally they came to a door.
+Finally they reached a door.
 "Armory Number Four," Maddy read aloud,
 tracing the faded words with her finger.
 She glanced at Dockety,
@@ -3600,9 +3604,8 @@ that revealed a room filled with rows of metal shelves
 higher than Maddy was tall.
 Most of the shelves were empty,
 but one entire side of the room still held
-canisters marked with three-armed caution labels
-and capped with complicated valves.
-Maddy studied them for a moment but didn't touch them.
+canisters capped with complicated valves
+with three-armed caution labels stenciled on their sides.
 
 "There's another door,"
 Sindy said,
@@ -3626,7 +3629,7 @@ Another door.
 *Click.*
 More white light that made her squint after the dim red in the corridor.
 It was a control room like the one where they had met Patient.
-*How many of these did they need?* she wondered.
+*How many of these are there?* she wondered.
 
 Dockety pushed past her.
 Four quick steps took it to a panel on the wall
@@ -3645,16 +3648,14 @@ Entering emergency maintenance mode.
 Goodbye."
 
 "Wait!"
-Sindy looked around frantically.
-"Maybe this turns it on!"
-She pressed a button,
-then another and another.
+Sindy hurried over to a console like the one that Patience had used
+and began pressing one button after another.
 
-"Stop! Don't!"
+"Stop! Sindy, don't!"
 Maddy reached for her.
 "What if you turn something on?"
 
-"What if I don't?"
+"What if I *don't*?"
 Sindy shot back.
 *Click click click,*
 and then there was a deep hum so low that they felt it more than they heard.
@@ -3687,7 +3688,7 @@ and nothing that told them how to get home.
 Maddy told her sister the third time Sindy yawned.
 "We can't do anything 'til it wakes up."
 
-The younger roo nodded,
+Sindy nodded,
 climbed onto a desk,
 stretched out,
 and was snoring softly in seconds.
@@ -3701,10 +3702,9 @@ Maddy said quietly.
 
 *Click.*
 She whirled around at the sound.
-A hatch like a mail slot had opened at floor level in the wall
+A hatch like a mail slot opened at floor level in the wall
 just a meter away from where Dockety stood.
-As she watched,
-a flat little bot rolled out.
+A flat little bot rolled out.
 Square and gray,
 it made a whirring sound as it began to move back and forth across the floor
 as it began to clean the room.
@@ -3712,19 +3712,19 @@ as it began to clean the room.
 The bot rolled under a desk.
 A moment later the desk rose a few centimeters into the air and the whirring resumed.
 The desk settled back onto the floor and the next one rose.
-How many times had it done this,
+*How many times had it done this?*
 Maddy wondered.
-How many years or centuries had it spent cleaning a room that no one used?
+How many years had it spent cleaning a room that no one used?
 
 A third desk rose.
 Maddy crouched down to see how the bot was lifting them.
 
 *Thud.*
 The desk came back down suddenly.
-The bot rolled back,
-reminding her of a startled rabbit.
+The bot rolled back like a startled rabbit.
 "Whoa whoa whoa," she said coaxingly.
-"You don't have to be afraid."
+"It's aright.
+You don't have to be afraid."
 
 The bot didn't move.
 Maddy smiled.
@@ -3760,7 +3760,7 @@ all in pencil,
 all done by a sure and loving paw.
 There was her mother's face, smiling.
 There was Sindy holding a ball.
-And there was her,
+And there was *her*,
 frowning slightly in concentration as she read a book that the artist hadn't finished drawing.
 It was her father's,
 the one he always carried in a pocket in his overalls in case inspiration struck.
@@ -3770,7 +3770,8 @@ Two pages had been torn out.
 After that all the drawings were floor plans and bots,
 crowded around with notes in his tiny, precise lettering.
 He had been here,
-and he had been trying to find a way to escape.
+and judging from his notes
+he had been trying to find a way to escape.
 
 The last few pages were empty.
 She held the book up and shook it,
@@ -3829,20 +3830,19 @@ Mayor Lupus was sympathetic but firm.
 "Into the Mire,"
 the mayor said gently.
 "With bots chasing them.
-They could be anywhere by now,
-and,
-and it's the Mire,
+They could be anywhere by now.
+And it's the Mire,
 Ibby.
 You know the stories."
 
 "I will go."
-The hidden camera scanned left to reveal Shaper Leaf
+The hidden camera scanned left to reveal Commander Leaf
 and a handful of the village militia.
 Bluster and Bravo were there too, she saw.
 They had made it home.
 
 "I will go look for them,"
-the shaper repeated.
+the old tortoise repeated.
 
 "You won't come back,"
 Bluster said warningly.

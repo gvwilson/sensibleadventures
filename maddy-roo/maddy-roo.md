@@ -3163,10 +3163,10 @@ arms raised and red warning lights flashing on their shoulders.
 ## Episode 10: Unison
 
 "Surrender!" the service bots boomed in unison,
-their voices making keyboards and coffee cups rattle.
+their mechanical voices making keyboards and coffee cups rattle.
 They rolled forward side by side---
 
----only to get jammed against each other in the doorway.
+---only to jam against each other in the doorway.
 "Withdraw!"
 They rolled back,
 paused,
@@ -3177,7 +3177,7 @@ crashing into the door exactly as they had before.
 Maddy muttered.
 She looked around wildly.
 The door they had come through was closed.
-All the doors were closed---there was no way out!
+*All* the doors were closed---there was no way out!
 
 "Quick!"
 she said to Sindy.
@@ -3196,7 +3196,7 @@ and pushing buttons and twisting dials.
 A heartbeat later her sister joined in.
 
 "Desist!"
-Patient crackled.
+Patient crackled imperiously.
 "Your activity is not protocol!
 Desist!"
 
@@ -3209,7 +3209,7 @@ Beside her,
 Dockety picked up a keyboard and studied it for half a second.
 "Angular momentum often stabilizies objects in flight,"
 it observed,
-and then spun the keyboard through the air.
+then spun the keyboard through the air.
 *Crack!*
 It struck Patient on the side of its head.
 *Crack!*
@@ -3217,12 +3217,12 @@ It struck Patient on the side of its head.
 Two more keyboards shot across the room.
 
 "Apprehend! Apprehend!"
-the mad bot ordered the bulky service bots as it retreated,
+Patient ordered the bulky service bots as it retreated,
 waving its arm to protect itself.
 
 One of the service bots hesitated just long enough
 for the other to charge through the door.
-For a moment Maddy was sure it was all over,
+For a moment Maddy was sure they would be caught,
 but the bot halted a few meters away.
 A hatch opened in its side.
 A small broom telescoped out of its side
@@ -3240,19 +3240,9 @@ Maddy realized.
 
 She grabbed another keyboard and flung it at the console,
 but missed.
-
-"Here! You try!"
-She picked up the last keyboard and thrust it at her sister.
-
-"But---"
-
-"Throw it!" Maddy shouted.
-
-Eyes wide,
-Sindy pulled her arm back and let fly.
-The keyboard arced through the air end over end,
-bounced off Patient's outstretched third arm with a *clink!*,
-and came down corner-first on a button that looked no different from its neighbors.
+Another keyboard, another throw---it arced through the air end over end,
+bounced off Patient's outstretched third arm with a *clank!*,
+and landed on the console.
 Behind them,
 the door they had come through began to open.
 
@@ -3260,9 +3250,8 @@ the door they had come through began to open.
 Maddy yelled,
 grabbing Sindy and pushing her toward the door.
 Her sister didn't need the encouragement.
-She bounded across the room,
-her long feet slapping against the floor again and again
-just a step ahead of Maddy's.
+She raced across the room,
+knocking a chair out of the way in her haste.
 
 But where was Dockety?
 Maddy glanced over her shoulder.
@@ -3271,10 +3260,10 @@ The other service bot had caught hold of Dockety's arm.
 Slowly but surely it was forcing Dockety down onto the floor.
 
 Maddy didn't even think.
-On her next bound she planted her feet on the edge of a desk
-and threw herself into the air.
+She leaped onto the nearest desk with a single bound.
 One-two-three she went from desk to desk.
-Sindy shouted her name behind her but she didn't have time to hear it
+Sindy shouted her name
+but she didn't have time to hear it
 because she had to jump one more time and *kick!*
 
 It felt like kicking a wall,
@@ -3283,25 +3272,27 @@ With a *snap!*
 Dockety's arm pulled right off its body.
 "Go!" Maddy yelled,
 ducking as the service bot tried clumsily to grab her.
-She snatched Dockety's arm off the floor and raced for the door.
+She snatched Dockety's arm off the floor and bounded toward the door.
 
 "Incorrect!"
 Patient crackled angrily behind them as they escaped.
-"Incorrect!"
+"Incorrect!
+All units must---"
 
-And then the door closed and they were back in the corridor
+The door closed on Patient's words,
+leaving them back in the corridor
 with only the failing light from Dockety's chest to guide them.
 
-And then Dockety's light dimmed and dimmed again
-until it was no brighter than a glimmer of moonlight reflected off a quiet pond.
+The light dimmed and dimmed again
+until it was no brighter than a glimmer of moonlight on a quiet pond.
 Maddy grabbed Sindy's arm.
 "Stop,"
 she panted.
 "The hole, remember?"
-
 She felt rather than saw her sister nod.
-"Why'd your light go out?"
-she asked the bot plaintively.
+
+"Why's your light going out?"
+Sindy asked the bot plaintively.
 
 "This one did not have an opportunity to recharge,"
 Dockety replied.
@@ -3330,20 +3321,20 @@ It'll be like a game."
 Sindy muttered.
 
 Just as Maddy reached for the wall,
-the light above them flickered and came to life.
+the light in the ceiling flickered and came on.
 She whirled around,
 expecting to see the two armored service bots,
 but the hallway was as empty behind them as it was in front.
-Was it some kind of automatic system?
-
-"Let's go," she said again,
-her voice hushed.
+*Maybe it's some kind of automatic thing,*
+she told herself,
+not believing it for a moment.
+"Let's go," she whispered loudly.
 
 A speaker crackled.
 "Where? Where will you go?"
 Patient asked.
 "Back to the surface?
-The security system is still active.
+The external security system is still active.
 Or perhaps you would like to continue exploring?"
 It made a horrible grating *snrk snrk* sound.
 
@@ -3373,15 +3364,18 @@ Dockety's lenses rotated.
 "This one has no recollection of that.
 We should proceed while there is light."
 
-Maddy nodded, weary again.
+Maddy nodded, suddenly ashamed of her outburst.
 "Do you want your arm back?"
+she mumbled,
+holding it out.
 
 They retraced their steps back along the corridor,
 Maddy and Sindy side by side and Dockety three steps behind them,
-its arm in one hand like a folded-up umbrella.
+carrying its detached arm like a folded-up umbrella.
 Lights came on in front of them and went dark behind them,
 just as they had before,
-but in the background Maddy could hear Patient humming a crackly little song to itself.
+but in the background
+Maddy could hear Patient humming a crackly little song to itself.
 
 "Oh, please, shut up," she said under her breath.
 
@@ -3396,7 +3390,7 @@ You said the same thing it did."
 Dockety froze.
 Its lenses rotated rapidly.
 "Correction.
-The base systems are attempting to subvert this one's motivational integrity."
+The base's systems are attempting to subvert this one's motivational integrity."
 Its manipulator clacked.
 "Without power reserves,
 this one will not be able to resist indefinitely.
@@ -3409,9 +3403,8 @@ And anyway,
 we're not just going to leave you behind."
 She slapped its plates again.
 
-A hundred tired steps later they reached the hole.
-It was the same size as before:
-six blocks wide and six blocks long,
+A hundred tired steps later they reached the hole:
+six floor blocks wide and six long,
 with one row of blocks clinging to the wall for them to walk on.
 "Are you going to be able to jump again?"
 Maddy asked Dockety.
@@ -3428,13 +3421,15 @@ That earned it another smack on its torso from Maddy.
 "Don't say that.
 We're all going to get out of here."
 
-"That's what they said."
+"That's what *they* said."
 Two voices,
 one Dockety's and one crackling through the nearest speaker.
+Maddy shivered,
+thinking about the skeletons in the lab behind them.
 
 The bot's lenses rotated slowly.
 "This one is sorry.
-It cannot resist much longer."
+It cannot maintain integrity much longer."
 
 Sindy kicked a loose piece of stone.
 "It's not fair," she whimpered.
@@ -3452,14 +3447,13 @@ Dockety said.
 "We do not know what is down there."
 
 "Well we know for sure there's nothing up ahead.
-We barely got away from that tentacle thing the first time,
+We barely got away from that tentacle the first time,
 and even if that stupid thing behind us doesn't take over your brain,
 you're going to run out of power before we get there."
 She kicked another chip of stone into the hole
 and listened to it hit the floor.
 "I wish I'd remembered to bring a rope."
 
-As if it had read her mind,
 Dockety held up its torn-off arm.
 "This one can lower you."
 
@@ -3472,14 +3466,15 @@ one arm held in the other.
 Maddy hugged her sister.
 "I'll be right back," she promised.
 
-"What if you can't?"
+"But what if you can't climb back up?"
 Sindy whispered tearfully.
 "What if he leaves you down there?
 What if he goes all the way bad?"
 
 "This is an it, thank you,"
 Dockety said at normal volume.
-"And this will overload its own circuits before it allows itself to be controlled again."
+"And this will overload its own circuits
+before it allows itself to be controlled again."
 
 Maddy gave Sindy one last hug.
 "Love you," she whispered,

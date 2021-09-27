@@ -36,6 +36,8 @@ permalink: /maddy-roo/
   <a href="#episode-15-the-key">Episode 15: The Key</a>
   <br/>
   <a href="#episode-16-the-battle-of-the-bots">Episode 16: The Battle of the Bots</a>
+  <br/>
+  <a href="#epilog">Epilog</a>
 </p>
 
 ## Episode 1: Salvage!
@@ -5261,11 +5263,12 @@ spun around,
 and disappeared back into its hiding place.
 A moment later it reappeared.
 The flap in its top opened
-and its tiny arm handed Maddy a carefully folded square of tinfoil.
+and its tiny arm handed Maddy a flashlight no larger than her thumb.
 
 Maddy swallowed.
 What if she was wrong?
-"This is really nice," she said.
+"This is really nice," she said,
+turning it on and off again.
 "Do you have anything else?"
 
 Into its slot and back.
@@ -5348,10 +5351,9 @@ as she raced back toward the bunker entrance.
 "And *that* is not *protocol*,"
 Patient scolded.
 
-The lights went out,
-but she had expected that.
-She turned on Dockety's chest light and slowed to a jog.
-One of her feet hurt with every step,
+She slowed to a jog.
+She had a stitch in her side,
+one of her feet hurt with every step,
 and she needed a bathroom.
 *Are real adventures always like this?* she wondered giddily.
 Did the people in the books she borrowed from Commander Leaf
@@ -5361,31 +5363,27 @@ and worry about whether they'd be able to sew it up?
 She reached the stairs.
 Up, up, and up,
 back to the half-open door.
-She paused to take a deep breath.
-The tentacle would probably be waiting.
-She hefted Dockety's light.
-"Sorry about this," she muttered.
-
-With another deep breath she squeezed through the door
-and tossed the light underhand across the room.
+She paused to take a deep breath,
+then squeezed through the door,
+turned on the flashlight the cleaner bot had given her,
+and tossed underhand across the room.
 A long, dark shape thrashed after it.
 
-Barely able to see in the dim light that came through the other door
-she groped along the wall.
+Maddy groped along the wall.
 The picture tucked into her father's sketchbook had been been very clear.
 Not the first lever,
 not the second---there!
 The third one---that was the one she needed.
-She pushed the key into the slot beside the lever,
+She pushed the key into the slot below the lever,
 turned it,
-and pulled down on the lever as hard as she could.
+and pulled the lever down as hard as she could.
 
 *Scrraaaaape.*
-It jammed halfway.
+The lever jammed halfway.
 "Oh, come *on*," she said in exasperation.
-She glanced over her shoulder.
-The tentacle was rising from the remains of Dockety's chest light like a cobra
-and turning toward her.
+She glanced over her shoulder
+as the tentacle rose from the flashlight like a hunting cobra
+and turned toward her.
 
 She grabbed the lever with both hands and pulled down with all her might.
 *Scrraaaaape.*
@@ -5626,6 +5624,8 @@ with Patient clutched to its underbelly.
 but it was too late.
 None of the other bots could fly,
 and Patient was already just a dwindling speck on its way to Heck.
+
+<h2 id="epilog">Epilog</h2>
 
 *Three days later...*
 

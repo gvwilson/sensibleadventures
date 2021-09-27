@@ -4960,7 +4960,7 @@ but his glare was as bright as Dockety's lasers
 and the arm pointed at Bluster was as steady as a mountain.
 
 Bluster scrambled to his feet.
-He looked back and forth between the shaper and the bot,
+He looked back and forth between the commander and the bot,
 then spat on the cobblestones and walked away without saying a word.
 
 "Thanks," Maddy said to the old tortoise,
@@ -5711,7 +5711,7 @@ quiet but excited.
 "Plausible," Dockety buzzed.
 "Improbable events have occurred with surprising frequency."
 
-"You will need training," Shaper Leaf went on.
+"You will need training," Commander Leaf went on.
 "Lots of training, and lots of practice.
 But for now, let's just keep this to ourselves."
 

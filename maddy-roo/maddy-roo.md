@@ -4714,7 +4714,7 @@ The alarm bell rang cold and clear,
 three peals and three again.
 "Get those things out of here!"
 Mayor Lupus yelled,
-pointing at the canisters.
+waving her zap gun at the smoking canisters.
 
 The ox with the hammer was moving even as she spoke.
 With a mighty bellow she swung her hammer.
@@ -4733,8 +4733,7 @@ Clear the square!
 And you two, get inside!"
 The goat twins didn't have to be told twice.
 Tossing his crutches aside,
-Bravo fled up the stairs and into the mayor's house
-just two steps behind his twin brother.
+Bravo fled up the stairs and into the mayor's house right behind his twin brother.
 
 "Maddy!"
 She whirled around.
@@ -4757,7 +4756,7 @@ we have to get out of here."
 
 "Wait!"
 Gumption pointed at Dockety.
-"It's tring to say something!"
+"It's trying to say something!"
 
 Dockety rasped and crackled
 Its plating was dented,
@@ -4791,7 +4790,7 @@ Maddy and Gumption braced their shoulders against the bot's back
 and pushed as hard as they can.
 The bot's whole body was vibrating so much
 that Maddy expected parts to start falling off,
-but it was working---the wind from the rotor was clearing the smoke.
+but it was working---the wind from the rotor was clearing the smoke!
 
 "Here they come!" someone shouted.
 With a rumble that made the ground shake,
@@ -4801,17 +4800,17 @@ The militia yelled and charged.
 *BZZZP!*
 *BZZZP!*
 The mayor fired her zap gun twice, then swore.
-"It's out of charge!
-You have to slow them down!"
+"Damn thing's out of charge!
+Leaf-you gotta slow 'em down!"
 
-Shaper Leaf nodded grimly.
-He braced his feet,
-closed his eyes,
+Commander Leaf nodded grimly.
+He pulled up his sweaters' sleeves,
+braced his feet,
 and swept his arms in a circle.
-The earth split in a ragged arc in front of the cargo hauler.
+The earth split in a ragged arc in front of the cargo hauler
+as the sonics on his arms fired.
 
-The tortoise went down on his knees,
-head bowed,
+The tortoise went down on one knee,
 clearly exhausted.
 A goat dropped her pike and tried to help him up.
 
@@ -4831,7 +4830,7 @@ Gumption pulled on her arm.
 we have to get out of here!"
 
 With an earth-shaking rumble,
-Crusher rolled across the ditch that Shaper Leaf had made.
+Crusher rolled across the ditch that Commander Leaf had made.
 Dockety turned to face the cargo hauler and stepped in front of it.
 
 The cargo hauler stopped.
@@ -4852,7 +4851,8 @@ Prancing on its crab legs,
 Lasercase stepped into view from behind the heavy hauler.
 "Denied!" it crowed in a weirdly echoing voice.
 
-Dockety charged at it.
+Dockety charged at it,
+limping on its bent leg.
 The crab bot punched a button on the control box it held in its tentacles.
 Crusher's arm swung like a bat,
 faster than Maddy would have believed it could move.
@@ -4870,8 +4870,8 @@ tentacles raised.
 
 "Ooph!"
 Gumption tackled her to the ground.
-The bot's tentacles whipped over her head
-as the circuit board skittered across the cobblestones.
+The bot's tentacles whipped over her head.
+The circuit board skittered across the cobblestones.
 
 "Got it!"
 Gumption grabbed the circuit board,
@@ -4894,7 +4894,7 @@ He twitched and coughed.
 
 "Don't move," she said.
 
-"Not... much... change... of... that..."
+"Not... much... chance... of... that..."
 he gasped.
 His eyes closed and he went loose-jointed in her arms.
 
@@ -4908,7 +4908,7 @@ Mama Roo was gently loosening her arms and pulling her to her feet.
 her mother said as Maddy tried half-heartedly to push her away.
 One of the oxen and a young wolf---Wilbur, Maddy though dazedly,
 his name was Wilbur,
-he was the mayor's grandson---gently placed Gumption on a stretcher.
+he was the mayor's grandson---placed Gumption on a stretcher.
 
 "He's going to be all right, isn't he?"
 Sindy asked in a very small voice.
@@ -4949,22 +4949,22 @@ but instead he pulled the ax out of Zeke's confused grip.
 If you won't fix this, I will."
 He raised the ax,
 took a step forward,
-and tripped as a cobblestone suddenly jutted upward.
+and yelped as something invisible knocked him off his feet.
 
 "No,"
-Shaper Leaf said.
+Commander Leaf said coldly.
 The old tortoise could barely stand,
-but his eyes were as bright as Dockety's lasers.
+but his glare was as bright as Dockety's lasers
+and the arm pointed at Bluster was as steady as a mountain.
 
-Bluster looked back and forth between the shaper and the bot,
-then spat on the cobblestones,
-thrust the ax back into Zeke's hands,
-then turned and walked away without saying a word.
+Bluster scrambled to his feet.
+He looked back and forth between the shaper and the bot,
+then spat on the cobblestones and walked away without saying a word.
 
-"Thanks," Maddy said to the shaper,
-helping him sit back down.
+"Thanks," Maddy said to the old tortoise,
+helping him sit down.
 
-Shaper Leaf nodded.
+Commander Leaf nodded.
 "What was that thing they took from you?"
 
 Maddy shook her head.
@@ -4980,7 +4980,7 @@ Its chest screen flashed on and off twice.
 Words began to form.
 
 "Are... you... all... right?"
-Maddy ready aloud slowly.
+Maddy read aloud one word at a time.
 She knelt down beside the crippled bot.
 "Yes,"
 she said.
@@ -4991,11 +4991,10 @@ I guess."
 She stopped herself from patting the bot's dented plating.
 
 "Not... its... fault..."
-the bot flashed,
-word by painful word.
+the bot flashed.
 
 This time Maddy did pat it.
-"I know.
+"I know it's not your fault.
 You never mind Bluster---he's an idiot."
 
 "No,"
@@ -5006,10 +5005,10 @@ Not... its... fault..."
 Its screen dimmed,
 leaving only the blinking light.
 
-Shaper Leaf put his arm around Maddy.
+Commander Leaf put his arm around Maddy.
 "There is nothing we can do.
 It needs parts, and..."
-The old tortoise shrugged helplessly.
+The tortoise shrugged helplessly.
 "We don't have them."
 
 Maddy stood up,
@@ -5020,12 +5019,12 @@ The bot was heavier than it looked.
 Eventually they had to tilt the trundle cart
 Maddy took from the little alley beside the mayor's house
 so that Zeke could roll Dockety onto it.
-She gave Shaper Leaf a hug and set off for home.
+She gave Commander Leaf a hug and set off for home.
 
 Maddy expected her mother to protest,
 but all Mama Roo said was,
-"I think there's a tarp out back if you want to cover it."
-She and Sindy helped Maddy wrestle Dockety's loose-limbed form up onto the porch.
+"There's space on the porch---that'll be out of the rain."
+She and Sindy helped Maddy wrestle Dockety's loose-limbed form up the steps.
 The three of them sat in silence,
 Sindy in her mother's lap and Maddy leaning against her shoulder
 as they waited for the kettle to whistle.
@@ -5056,13 +5055,13 @@ from its hiding place inside the back cover.
 She gentled tugged it free and unfolded it.
 
 A chill ran up her spine.
-She stared at the page in front of her,
+She stared at the page,
 then tucked it back into the sketchbook,
 stood up,
 and set it gently on the swing seat.
 "Look after mama,"
 she said softly,
-bending over to kiss her sleeping sister on the cheek.
+bending over to kiss her sleeping sister on her smooth, furless cheek.
 
 Mama Roo came out a few minutes later,
 two cups of tea in her hands,
@@ -5086,8 +5085,8 @@ Maddy bluffed,
 gesturing vaguely at something behind the big bear.
 
 Zeke shrugged.
-"It's aright with me.
-But you bring the wheelbarrow back, you hear?
+"Makes no nevermind to me.
+But you bring the wheelbarrow back as soon as you're done, you hear?
 We got a long day in front of us."
 
 Maddy nodded,
@@ -5097,7 +5096,7 @@ It took her a moment to figure out how to pick up the flying machine---it was
 lighter than she expected,
 but the big rotor turned so easily in her hands that she couldn't get a decent grip.
 
-Finally she had it out and up on top of a rain barrel.
+Finally she managed to prop it up on top of a rain barrel.
 She tightened the straps as far as they would go
 and slid her arms through them,
 then snapped the belt shut around her waist.

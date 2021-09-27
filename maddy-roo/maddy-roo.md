@@ -5474,8 +5474,8 @@ The little lights on *all* of the bots' regulators went out.
 Maddy charged the bots with a yell.
 *Jump* and she was over Patient.
 *Jump* and she was up on Crusher's tread,
-rock in hand.
-She hit the regular over and over,
+a chunk of concrete from one of the bunker blocks in her hand.
+She hit the regulator over and over,
 grunting with each blow.
 If her father's notes were correct,
 she only had a few seconds until---
@@ -5483,7 +5483,7 @@ she only had a few seconds until---
 *Ding!*
 A chime sounded somewhere inside Crusher.
 *Ding! Ding! Ding!*
-A chorus of chimes rang inside the other bots.
+A chorus of echoing chimes rang inside the other bots.
 Maddy froze,
 rock upraised.
 "Uh oh."
@@ -5496,7 +5496,7 @@ The big bot reached for her.
 She dodged left, then right,
 easily ducking its big, clumsy arms.
 The bot began rocking from side to side to shake her off.
-"Remove her! Disassemble her!" Patient ordered.
+"Disassemble her! Disassemble her!" Patient shouted manically.
 
 Lasercase scuttled forward,
 its tentacles snapping at her.
@@ -5512,15 +5512,15 @@ but couldn't even make a dent.
 
 And then the tentacle from the river raised itself out of the grass
 and slapped down on Lasercase
-like a flyswatter once, twice, again.
+like a flyswatter.
 The bot raised three of its own smaller tentacles to defend itself.
 The big tentacle brushed them aside contemptuously and wrapped around Lasercase's middle.
 "Assistance! Assistance!" Lasercase blared
 as the tentacle dragged it toward the river.
 
-"Let go!" Maddy shouted,
+"Let go of me!" Maddy shouted,
 kicking at Lasercase as she was dragged along with it.
-"Let goooo---oh no!"
+"Let---oh no!"
 A second metal tentacle rose out of the river,
 soggy weeds dropping from it,
 then a third.
@@ -5535,10 +5535,9 @@ But the tentacles ignored it and the other bots.
 They wrapped around Lasercase and lifted it high.
 Maddy fell to the ground with an "ooph!" as the bot finally let go of her.
 It tugged at the tentacles,
-trying to free itself as it was carried down to the river,
-then stopped suddenly.
-"Mother?" it said disbelievingly,
-and then it and the tentacles disappeared into the river.
+trying to free itself as it was dragged into the river.
+With a splash and a *gloop* and a few final bubbles,
+it was gone.
 
 Maddy stood up.
 "Well, I didn't see *that* coming,"
@@ -5549,15 +5548,15 @@ and struck the regulator with all her might.
 "Come on come on come *on*!"
 A lucky blow dented its case just enough for a screw to come loose.
 She pried the black case open and smashed the electronics inside.
-Sparks flew,
-and the light on the regulator went out.
+*Bzzzt!*
+The light on the regulator went out.
 
 Crusher tilted its sensors to look at the regulator,
 then turned them toward Patient.
 Its engines rumbled menacingly.
 "This is not protocol," Patient said uncertainly,
 backing away.
-"Defend! Defend!"
+"This is not---defend! Defend!"
 
 One of the other bots stepped between Crusher and Patient.
 The big hauler picked it up and tossed it aside.
@@ -5572,7 +5571,7 @@ Maddy hopped off its back and followed it into the room.
 
 She slapped the big bot's side to get its attention.
 "You can't fit in there.
-We'll have to find another way---whoa!"
+We'll have to find another---whoa!"
 Crusher picked her up with one enormous manipulator
 and placed her gently on its back.
 Engines rumbling,
@@ -5583,9 +5582,7 @@ and drove up the hill toward the opening the flying bots had used.
 They crested the hill and drove straight into chaos.
 In the few moments when the network was down,
 a dozen bots had managed to break their own regulators.
-Others hadn't been so quick,
-or strong enough,
-or just couldn't reach.
+Others hadn't been quick enough or strong enough or just couldn't reach.
 They were now back under Patient's control,
 and the two sides were at war.
 
@@ -5593,7 +5590,7 @@ A loader with four sturdy legs locked forklift arms with a crane bot,
 trying to topple it over.
 Beside them a pair of maintenance bots tried
 to trap a nimble little ladder bot between them
-while the ladder bot tried to get a grip on their regulators.
+while the ladder bot tried to pry off their regulators.
 The dragonfly bots that had dropped dizzysmoke on the village zipped and buzzed angrily overhead,
 each trying to get above the other so it could grab hold of its opponent's wings.
 A dozen other fights clanged and scraped around them.
@@ -5605,7 +5602,7 @@ that is,
 until Crusher rumbled into the fight.
 It flipped the loader bot over with one arm and smashed its regulator with a single blow.
 When the maintenance bots turned to face it,
-the ladder bot seized its chance and pried the regulator off one of them.
+the ladder bot seized its chance and yanked the regulator off one of them.
 "Uh oh uh oh" flashed the second one's chest screen.
 Crusher caught it as it tried to run away
 and smashed its regulator too.
@@ -5632,7 +5629,7 @@ and Patient was already just a dwindling speck on its way to Heck.
 
 *Three days later...*
 
-Shaper Leaf carefully set his tea on the porch railing and sighed.
+Commander Leaf carefully set his tea on the porch railing and sighed.
 "Your father was very clever," he said.
 
 Maddy nodded.
@@ -5646,7 +5643,7 @@ It had tried sitting on the porch bench,
 but declared that it felt more natural standing.
 And anyway,
 if Crusher tried to join them it would bring the whole porch crashing down.
-The other bots had mended all its dents and reattached its arm properly,
+The other bots had mended its dents and reattached its arm properly,
 but it had decided that it liked the buzz in its voice.
 Or rather,
 that Crusher liked it,
@@ -5654,56 +5651,62 @@ which turned out to be more important.
 Maddy still wasn't sure exactly how that worked,
 but as long as the bots were happy together...
 
-Maddy ruffled the fur on her sister's head.
+Maddy ruffled her sister's hair.
 "So it all came down to you grabbing the right lever at the right time,"
 she said fondly.
 
-"Speakig of which," Shaper Leaf said,
-pulling a small drawstring bag out of his pocket.
-"Mind if we try an experiment?"
-He opened the bag to let three dice roll onto the tea table.
+"Speakig of which," Commander Leaf said,
+"Do you mind if we try an experiment?"
+He rolled up his right sleeve and detached the silver sonic clamped around his arm.
 
-"What are these for?" Sindy asked.
+"What am I supposed to do with this?" Sindy asked
+as he held it out to her.
 
-"It's a game," the shaper said.
-"See how many tries it takes you to roll three sixes."
+"Just take it,"
+he said gently.
 
 Sindy shrugged.
 "Aright."
-She rolled the dice,
-then rolled them again and a third time.
-Ones and threes and fours came up,
-but no sixes.
-Again and again---one six, but never all three.
+She took it,
+turned it over,
+then shrugged again and slipped it over her arm.
 
-Mama Roo came around the corner of the house with a basket full of freshly-picked blueberries.
-"What are you---whoops!"
-She tripped and nearly fell as a bump suddenly appeared in the ground.
-The basket of blueberries flew threw the air to land on one of Crusher's treads
-without spilling a single berry.
+The crystal power indicator came to life,
+orange yellow green blue and then a steady glowing violet.
+"Whoa," Sindy breathed.
+She pointed at the path---
 
-"Well what are the odds?" she said,
-straightening up and glaring at the ground.
-"Shaper, was that you?"
+---just as Mama Roo came around the corner of the house
+with a basket full of freshly-picked blueberries.
+There was a faint thrumming sound.
+"Whoops!" she exclaimed,
+stumbling over a bulge in the path
+that hadn't been there a moment before.
 
-"It was, and I apologize,"
+Sindy's eyes went wide.
+"Did I do that?"
+
+Maddy looked at Commander Leaf.
+"She's---she's a commander like you?"
+
+"Not like me,"
 the old tortoise said,
-taking the dice from Sindy and returning them to their bag.
-"But it turns out that a lot of young shapers can't use their power if they think about it.
-It just has to happen."
-He picked up his tea and looked over the rim of the cup at Sindy.
+taking the sonic back from Sindy
+and fitting it around his arm once again.
+"Most of us can only ever master one piece of tech,
+and even that takes years.
+You, young lady, have a very rare gift.
+You can use all of it,
+just like the Makers themselves."
 
-The young roo blinked.
-"What? I mean, pardon me?"
+Mama Roo gaped,
+the basket of blueberries in her arm forgotten.
+"I beg your pardon?"
 
-The tortoise sipped his tea and set the cup back down.
-"You're a shaper, Miz Roo," he said,
+The tortoise picked up his cup of tea.
+"It sometimes happens with people who are...different," he said,
 quiet but excited.
-"You're a luck shaper,
-and that's the rarest kind of shaper there is."
-
-"She's a---"  "What---"  "*Sindy*?"
-Mother and daughters all started speaking at once.
+"It's why buttons and gadgets work for you when they won't work for anyone else."
 
 "Plausible," Dockety buzzed.
 "Improbable events have occurred with surprising frequency."
@@ -5712,14 +5715,13 @@ Mother and daughters all started speaking at once.
 "Lots of training, and lots of practice.
 But for now, let's just keep this to ourselves."
 
-"I'm a *shaper*?"
+"I'm a *commander*?"
 Sindy said wonderingly.
 
 Maddy hugged her.
 "Always knew you were special," she said into her sister's ear.
 
-"Well, this calls for a toast," Mama Roo said,
-setting the blueberries down on the table.
+"Well, this calls for a toast," Mama Roo said.
 She went into the house and emerged a moment later with a bottle of sweet peach juice in one hand,
 four glasses in the other,
 and a small rectangle tucked under her arm.
@@ -5746,7 +5748,7 @@ then flashed, "Confirmed."
 Dockety turned back to the roos.
 "We have seen this one,"
 it said.
-"It is with the others in Heck."
+"It is with the other prisoners in Heck."
 
 <center>
 <em>To be continued...</em>

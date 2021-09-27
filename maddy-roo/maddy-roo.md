@@ -4369,31 +4369,33 @@ With a roar they were through and into the honey-warm light of dawn.
 
 ## Episode 13: Crash Landing
 
-Maddy's initial shock of fright was instantly replaced
-by crashing waves of terror.
+Maddy's initial fright at being airborne
+was instantly replaced by full-blown terror.
 There was just enough light for her to see how high they were
-and how far they'd have to fall if Dockety let go or her coat tore or---
+and how far they'd have to fall if Dockety let go or her coat tore
+or one of the straps broke or---
 She suddenly remembered its arm coming off
 and all she could think about was,
 *What if it happens again?*
 
-But Sindy was laughing with joy.
+But Sindy was shrieking with joy.
 "We're flying! We're flying!" she shouted,
 barely audible above the thunder of the rotor on Dockety's back.
 "Look!"
 To their left,
-the dark towers of the bot city of Heck stood in grim ranks on the horizon.
+the dark towers of the bot fortress of Heck stood in grim ranks on the horizon.
 Below,
 the Rusty River slunk through the Mire,
 a brown-green streak that didn't so much parallel the road as skulk beside it.
 Green bubbles swelled and burst here and there in little splattery burps.
 
 Dockety banked in a long slow curve and straightened out again,
-steering them at an angle away from the road and river.
+steering them away from the road and river.
 Maddy wiped her eyes over and over,
 blinking and squinting against the wind of their passage.
 She had no idea how fast they were going,
-but they easily overtook and passed the birds that scattered from the trees below them.
+but they zoomed past the frightened birds
+that scattered from the trees below them.
 
 "How long 'til we're home?" she shouted to Dockety.
 
@@ -4402,14 +4404,15 @@ but they easily overtook and passed the birds that scattered from the trees belo
 so maps are not available."
 
 "Look Maddy--we saw that last night!"
-Sindy pointed at the half-sunken metal sphere
+Sindy pointed at the sunken metal sphere
 Maddy had seen the bots' raiding party pass on screen.
 She whooped.
 They were halfway home!
 
-She was about to tell Sindy when Dockety dipped into a dive,
+But before she could tell Sindy,
+Dockety started to dive,
 shallow at first and then steeper.
-She grabbed her sister's arm without realizing it.
+Maddy grabbed her sister's arm instinctively.
 "What's happening?" she shouted.
 
 "We are being pursued,"
@@ -4418,15 +4421,16 @@ Dockety said as it leveled off frighteningly close to the treetops.
 Maddy twisted around as far as she could in her harness
 but couldn't see anything.
 "They're right behind us!" Sindy shouted.
-She had dropped her head to look backward past her own legs.
+She had dropped her head to look backward through her own legs.
 
 Maddy gulped and did the same.
 For a moment everything swam around her
 as the forest became her ceiling and the sky---she swallowed hard.
 *Don't throw up,* she pleaded with her stomach.
 
-There---not quite behind them,
-two dark shapes flying side by side.
+There---behind them,
+two dark shapes were flying side by side
+at an angle to their course.
 They had wings instead of rotors
 and were carrying canisters
 like the ones that had been stacked on the shelves in the armory.
@@ -4446,7 +4450,7 @@ the bot answered,
 but put on speed anyway.
 
 On and on they went.
-Trees and streams and little ponds slid away beneath them.
+Trees and streams and ponds slid away beneath them.
 Birds and rabbits scattered at the sound of Dockety's rotor,
 and once Maddy saw a deer and a fawn run along a path
 and disappear into the forest shadows.
@@ -4475,11 +4479,11 @@ spreading as it spun through the air.
 "Look out!"
 she shouted needlessly
 as Dockety banked away from a second shot.
-The militia must have set up the cannon after the previous attack.
-They didn't know Dockety was on their side.
+The militia must have set up the tangle cannon after the previous attack!
+They didn't know Dockety was on their side!
 
 "Behind us!
-Look behind us!" she yelled,
+Look behind us!" she yelled at the people on the ground,
 knowing they couldn't hear.
 
 *Thump!*
@@ -4489,16 +4493,16 @@ The net was made of rough brown string,
 the kind people used in their gardens.
 It cut through the fur on Maddy's cheek,
 drawing blood,
-and then it wrapped around them
-and the weights on its outer edge clattered against Dockety's back
-and the rotor stuttered and whined as the string tangled around it
+then wrapped around them.
+The weights on its fringes clattered against Dockety's back.
+The windmill rotor stuttered and whined as the string tangled around it
 and they were falling,
 they were falling,
 they were going to crash and all she could think was that
 she hoped her father's sketchbook would survive
 so her mother would know that they'd found him or almost.
 
-And then the rotor stuttered to life again.
+The rotor stuttered to life again.
 *Whirr... whirr...*
 She smelled burned string and hot metal.
 Dockety spiralled down,
@@ -4506,15 +4510,14 @@ spinning faster and faster as the rotor struggled to tear free
 of what had tangled it.
 
 At the last possible moment the bot cut the rotor and jerked backward
-to land on its feet.
-Its heels cracked against the railing of the balcony of the mayor's house.
+to land on its feet on the roof of the mayor's house.
 They tumbled and twisted and crashed to the cobbles below,
-Dockety on bottom and the two young roos bruised and winded on top of him.
+Dockety on bottom with Maddy and Sindy bruised and winded on top of him.
 
 "Oooh..." Maddy groaned.
 Everything hurt,
 but that meant she was alive.
-She opened her eyes and looked up into the barrel of the mayor's zap run.
+She opened her eyes and looked up straight into the barrel of the mayor's zap gun.
 Half a dozen militia stood on either side of the old wolf,
 pikes and axes in hand.
 
@@ -4582,7 +4585,7 @@ She pulled the sketchbook out of her pocket and held it out to the mayor.
 "Did you see Santa Claws too?"
 a familiar voice mocked.
 She spun around to see Bluster and Bravo standing in the door of the mayor's house.
-Bravo's ankle was splinted with slats of cedar and layer after layer of canvas,
+Bravo's ankle was splinted with slats of cedar and layers of canvas,
 and he grunted and made a face as he stumped down the stairs,
 crutches under his armpits.
 
@@ -4629,7 +4632,7 @@ and---"
 "Hush now," Maddy said,
 bumping her sister with her shoulder.
 Their mother looked like she was about to burst into tears.
-"We found this."
+"Look what we found."
 
 She handed the sketchbook to her mother.
 Emotions chased one another across her face:
@@ -4658,9 +4661,9 @@ Dockety buzzed and crackled.
 "Didn't think so," the mayor said glumly.
 
 "We could still take precautions,"
-Shaper Leaf said,
+Commander Leaf said,
 coming through the circle to stand beside Mama Roo.
-The ancient tortoise was wrapped in a heavy sweater
+The ancient tortoise was wearing two sweaters
 and had a thick scarf wrapped around his neck.
 He looked like he needed crutches more than Bravo did,
 but his voice was strong.
@@ -4671,7 +4674,7 @@ The mayor flicked an ear.
 "But we're going to keep an eye on this one 'til this is all straightened out.
 You two."
 She jerked her chin at a pair of oxen,
-one holding a pike and the other resting a heavy hammer over his shoulder.
+one holding a pike and the other resting a heavy hammer on his shoulder.
 "Get out along the highway and see what you can see.
 And Zeke,
 how about you find us some chains and a padlock.
@@ -4681,10 +4684,10 @@ she added as Maddy started to protest.
 being bashed around like this can do funny things to a bot's programming,
 and I'm not in the mood for taking chances."
 
-Shaper Leaf put his hand on Maddy's arm.
+Commander Leaf put his hand on Maddy's arm.
 "That only seems sensible," he said before Maddy could object again.
 
-"I am very glad to see you,"
+"I am very glad you're back,"
 he continued,
 smiling gently.
 "I too was afraid we would never see you again.
@@ -4696,14 +4699,13 @@ Every time we got stuck,
 she managed to push the right button or pull the right lever."
 
 "Is that so?"
-the shaper asked,
-looking thoughtful.
+the commander asked thoughtfully.
 
 And then the two oxen came running back into the square yelling,
 "Bots! Bots! There's a whole pile of 'em headed this way!"
 Even as they spoke a high-pitched whine turned into a drone.
 The two fliers Maddy had seen earlier zipped overhead and dropped their canisters.
-Dark dizzysmoke spilled into the square as a dozen engines rumbled in the distance.
+Thick black dizzysmoke spilled into the square as a dozen engines rumbled in the distance.
 
 ## Episode 14: The Battle of Rusty Bridge
 

@@ -5127,8 +5127,7 @@ and she shot into the air.
 
 Maddy's second flight was just like her first,
 except twice as fast and ten times more frightening.
-It was twice as fast because the flying harness only had to carry her
-instead of two roos and a bot.
+It was twice as fast because the flying harness only had to carry her.
 It was ten times as frightening because it was twice as fast
 and she had absolutely no control over where she was going.
 
@@ -5140,25 +5139,25 @@ the rotor's mechanical voice said
 as they zipped above the treetops.
 "Please avoid unnecessary contact with terrain while in flight."
 
-In one panicked they were back at the highway,
+In one panic-inducing minute they were back at the highway,
 still accelerating.
 "Slow down! Slow down!" Maddy shouted,
 but the autopilot ignored her.
 They passed the arches and the sphere,
-zoomed over something like a rusty metal flower twice the size of the mayor's house,
+zoomed over something like a rusty metal flower as big across as the village square was wide,
 and dropped like a stone.
 
 Maddy screamed.
 She was going to die.
 She was going to die and nobody would ever know and---the
 flying machine revved and came to a stop,
-hovering just a few meters above the ground.
+hovering just a meter above the ground.
 
-She wasn't going to die,
-at least not yet.
-She fumbled to undo the belt buckle and slid out of the harness.
+She let out her breath with a whoosh,
+then fumbled for a moment to undo the belt buckle
+so she could slither out of the harness.
 She was back in the Mire,
-just a few steps away from the hole they had escaped from just an hour before.
+right beside the hole they had escaped through just an hour before.
 She had to get back inside,
 but how?
 She couldn't just jump in---the fall would break her legs, or worse.
@@ -5180,21 +5179,18 @@ With a high-pitched whine its rotor spun even faster
 and it shot away into the sky.
 "Wait!" she said, but it was too late---the flying machine was gone.
 
-The ground rumbled beneath her feet.
-The hatch they had escaped through grated open.
-She looked around.
+She looked up.
 There!
 Two dots, approaching fast.
 She sprinted for the nearest clumb of weeds and threw herself into it.
 
 The dragonfly drones that had dropped dizzysmoke canisters on the village
-arrived just moments later.
+arrived moments later.
 They slowed,
 pivoted,
-and slowly descended through the now-open hatch.
-With another rumble it slid closed.
+and slowly descended through the opening in the ground.
 Heart sinking,
-Maddy realized there was only one way she could get into the bunker.
+Maddy realized there was only one other way she could get into the bunker.
 
 The river was easy to find---all she had to do was follow her nose.
 The entrance they had gone through the night before was easy to find too.
@@ -5221,7 +5217,7 @@ If Patient had disabled it or locked the door she was doomed.
 "Come on come on come *on*!"
 The inside door began to open.
 Wider, wider---now!
-She scraped through it just as the tentacle grabbed for her ankle.
+She scraped through it just as the tentacle reached for her.
 
 She stumbled down the first few steps and doubled over to catch her breath.
 Down the stairs, into the darkness.
@@ -5237,6 +5233,7 @@ turned around,
 slid her legs into it,
 and lowered herself as far as she could before letting go.
 *Thump.*
+"Ow."
 *Click.*
 More lights,
 more corridor,
@@ -5272,9 +5269,10 @@ What if she was wrong?
 "Do you have anything else?"
 
 Into its slot and back.
-This time the bot handed her a necklace made of paper clips.
+This time the bot handed her Sindy's string bracelet.
 "Thank you," Maddy said.
-"But I was hoping you'd have something special.
+"But she gave you this to keep.
+I---I was hoping you'd have something special.
 Something someone gave you for safekeeping maybe?"
 
 The bot sat motionless.
@@ -5299,15 +5297,14 @@ so she cleared stuff off a small table and dragged it into the corridor as well.
 Grunting,
 she got the chair up onto it---
 
----and whirled around as the lights finally came on
-and Patient's voice crackled,
+---and whirled around as Patient's voice crackled,
 "There you are!"
 as a blocky service bot rolled down the corridor toward her.
 No---two service bots,
 one coming from each direction.
 She was trapped between them!
 
-She scrambled onto the table as the first service bot grabbed at her.
+She scrambled onto the table as the first service bot grabbed for her.
 "Whoa!" she exclaimed as she lost her balance
 and half-fell, half-jumped back onto the floor
 on the other side of the table.
@@ -5317,20 +5314,22 @@ It reached for her clumsily,
 driving her back against the table.
 She ducked and slid under it.
 
-The first bot gripped the table with its blunt mechanical hands and lifted it.
+The first bot gripped the table with its blunt mechanical hands
+and lifted it out of the way.
 The second rolled forward.
 She had nowhere to go!
 
-But none of them had counted on the little cleaner.
-It zipped past the first service bot's treads
+But none of them had counted on the little cleaner bot.
+It zipped through the first service bot's treads
 and skidded to a stop right in front of the second one.
 
 The second service bot froze.
 An orange light blinked on its shoulder.
 A high-pitched *beep beep beep* noise came from somewhere inside it
-as it backed up and tried to roll forward again.
-As quick as a startled rabbit,
-the cleaner bot rolled in front of it again.
+as it backed up like an elephant startled by a mouse.
+When it tried to roll forward again,
+he cleaner bot zipped in front of it once more,
+zigging and zagging angrily.
 
 Without thinking
 (because if she thought about it she wouldn't dare do it)
@@ -5340,13 +5339,14 @@ Up she went onto the table.
 *Thump* and she jumped again.
 "Ooph!"
 She scrabbled for purchase
-and somehow managed to pull herself back up into the corridor.
+and somehow managed to pull herself back up into the corridor above.
 
 "This is not authorized,"
 Patient crackled over the speakers.
 Maddy made a rude gesture at the empty air
 as she raced back toward the bunker entrance.
-"And *that* is not *protocol*."
+"And *that* is not *protocol*,"
+Patient scolded.
 
 The lights went out,
 but she had expected that.
@@ -5354,8 +5354,8 @@ She turned on Dockety's chest light and slowed to a jog.
 One of her feet hurt with every step,
 and she needed a bathroom.
 *Are real adventures always like this?* she wondered giddily.
-Did the people in the books she borrowed from Shaper Leaf
-wonder they'd torn a hole in their sleeve
+Did the people in the books she borrowed from Commander Leaf
+wonder if they'd torn a hole in their sleeve
 and worry about whether they'd be able to sew it up?
 
 She reached the stairs.
@@ -5387,9 +5387,9 @@ She glanced over her shoulder.
 The tentacle was rising from the remains of Dockety's chest light like a cobra
 and turning toward her.
 
-She grabbed the lever with both hands and pushed it down the rest of the way with all her might.
+She grabbed the lever with both hands and pulled down with all her might.
 *Scrraaaaape.*
-The lever locked into position.
+The lever grated into position.
 
 A dim orange light came on overhead.
 "Shecuridy shyshdem dishengaged,"
@@ -5408,9 +5408,7 @@ Patient's voice said reprovingly.
 clambering back to her feet.
 
 "The Makers will never know this happened,"
-Patient gloated.
-Maddy had never heard a bot gloat before.
-It wasn't a pleasant sound.
+Patient snapped.
 "By the time they return,
 all trace of this will have been erased.
 All irregularities will have been regularized!"
@@ -5418,9 +5416,8 @@ All irregularities will have been regularized!"
 "And everyone will get an extra big piece of chocolate on New Year's Eve,"
 Maddy said sarcastically.
 
-"Chocolate is not protocol,"
-Patient said angrily,
-its patience finally exhausted.
+"Chocolate is not protocol!"
+Patient said angrily.
 "Your activities are not protocol.
 You will cease immediately!"
 
@@ -5437,7 +5434,7 @@ sending scraps of concrete flying as they bashed the hole wider.
 "That is sufficient," Patient said,
 except this time its voice didn't come through the speaker in the roof.
 It stood on the ground outside the bunker beside Crusher.
-Lasercase stood on the big hauler's other side,
+Lasercase stood on the cargo hauler's other side,
 its tentacles twisting this way and that
 like miniaturized versions of the security system.
 Half a dozen other bots stood in a half-circle behind the trio,
@@ -5469,7 +5466,7 @@ and she spun around and pulled the other two levers down as far as they would go
 The orange light overhead flickered.
 "Rebooding nedwork," the automated voice.
 
-The little light on Crusher's regular went out.
+And the little light on Crusher's regulator went out.
 The little lights on *all* of the bots' regulators went out.
 
 ## Episode 16: The Battle of the Bots

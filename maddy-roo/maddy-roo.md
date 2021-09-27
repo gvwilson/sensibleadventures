@@ -3864,12 +3864,12 @@ As the camera panned to follow them she saw
 the half-sunken metal sphere she and Dockety had passed.
 They were heading back to the village,
 she realized.
-The bots were about to attack again!
+The bots were about to attack Rusty Bridge again!
 
 ## Episode 12: The Way Out
 
 "Wake up. Sindy, wake up!"
-She shook her sister gently, then more firmly.
+Maddy shook her sister gently, then more firmly.
 
 Sindy grunted and snuffled.
 "Wha?" she mumbled,
@@ -3881,7 +3881,7 @@ We have to warn everyone!"
 *Again,*
 Maddy added to herself despondently.
 
-The younger roo blinked and rubbed her eyes.
+Sindy blinked and rubbed her eyes.
 "I don' wanna get up."
 
 "You have to,"
@@ -3889,8 +3889,7 @@ Maddy said as gently as she could.
 "Look."
 She pointed at the screens two meters away.
 
-Slowly,
-whimpering,
+Whimpering,
 Sindy sat up and rubbed her eyes again.
 "It's Lasercase and the other bots,"
 Maddy explained.
@@ -3906,31 +3905,30 @@ She pushed away Maddy's hug.
 and I don't know where we are
 and there's nothing we can do
 and it's *not fair*."
-She buried her face in her paws.
+She buried her face in her hands.
 
 "Well,
 you could always try pulling another lever,"
-Maddy said.
+Maddy joked lamely.
 
 "Stop it!"
 Sindy snapped,
-teardrops glistening on her brown-furred cheeks.
+teardrops glistening on her furless cheeks.
 "It's not my fault stuff happens sometimes."
 
-"I never said---" Maddy began,
+"I didn't mean---" Maddy began,
 startled,
-but her sister wasn't finished."
+but her sister wasn't finished.
 
-"You and mama---you never say it,
-but I know you think it's my fault papa was taken.
-And when I get angry and, and you trip and fall down or drop something,
-or, or the levers and buttons and stuff here---it's not my fault!"
+"I don't know why stuff works for me when it doesn't work for you.
+I don't know why, why they took papa an' they didn't take me,
+but it isn't my fault!"
 
 Maddy wrapped her arms around her little sister.
 "I know, I know, I know," she repeated softly,
 rocking Sindy back and forth
 just like she had when they were both little
-and she was allowed to help get her sister to sleep.
+and Sindy woke up with nightmares.
 "Nobody thinks it's your fault.
 None of this is your fault."
 
@@ -3953,14 +3951,21 @@ She sat down beside her sister.
 so that they could page through the sketchbook together.
 Open-mouthed,
 eyes wide,
-the younger roo ran her finger over one drawing after another.
-"Papa..." she whispered.
-"Is he still here?"
+Sindy ran her finger over one drawing after another.
+"Is he still here?" she whispered.
 
 "I don't know."
 Maddy shook her head.
-"But right now I wish Shaper Leaf was.
-He could just make us a way out."
+"I wish Dockety would wake up.
+Or that Commander Leaf was here---he could just blast a way out.
+Rrrrr..."
+She made a rumbling sound in her throat
+and shook her paws in the air.
+
+"What was that supposed to be?" Sindy scowled.
+
+Maddy let her paws fall to her sides.
+"Sonics," she said with a forced.
 
 Sindy jumped and squeaked as the cleaner bot rolled up to them.
 "What's that!?"
@@ -3972,7 +3977,7 @@ Oh, but what's this?"
 The hatch on the cleaner bot's back slid open.
 Its spidery arm unfolded and tentatively offered a chain of carefully-cleaned paper clips to Maddy.
 "Oh, aren't you a good little bot?" she said,
-holding it up to show Sindy.
+holding the paper clips up to show Sindy.
 
 The cleaner bot rocked back and forth for a moment
 before turning and rolling back to its slot in the wall.
@@ -3986,7 +3991,7 @@ running her finger over the tooth marks.
 The bot came back again with two carefully-folded sheets of paper.
 "Thank you," Sindy said.
 "Here, would you like this?"
-She slipped her wire bracelet off her wrist and held it out.
+She slipped her string bracelet off her wrist and held it out.
 The bot hesitated,
 then plucked it from her fingers and raced back to its nest.
 
@@ -4000,7 +4005,7 @@ and once she turned them around the right way
 they fit together to make a map.
 Maddy's heart raced.
 The 'X' must be where they were.
-And that dotted trail---that must be the way out.
+And the other 'X' at the end of the dotted line---was that the way out?
 
 A buzz and a click made her turn her head.
 Dockety's manipulator twitched.
@@ -4017,9 +4022,11 @@ its voice full of static.
 Good morning."
 
 Maddy let out her breath in a relieved whoosh.
-For a moment she had been afraid it would speak in Patient's voice.
-"Good morning.
-Did you---um, sleep? Well?"
+"Good morning," she replied.
+She had been afraid that Dockety would never wake up,
+and even more afraid that if it did,
+it would speak in Patient's voice.
+"Did you---um, sleep? Well?"
 
 "Negative,"
 the bot said,
@@ -4034,7 +4041,7 @@ Maddy said.
 She held up the pieces of the map.
 "I think my father made this.
 It must be how we get out.
-And we have to right now."
+And we have to go right now."
 She pointed at the screens behind her.
 "Lasercase and the others are headed for Rusty Bridge again.
 We have to warn them."
@@ -4059,8 +4066,8 @@ The bot picked its arm up off the desk beside it.
 We must hurry."
 
 "Wait!"
-Maddy bent down and gave a quiet whistle.
-When nothing happened she whistled again.
+Maddy bent down and whistled softly.
+When nothing happened she whistled again more loudly.
 
 The hatch in the wall slid open.
 The little cleaning bot rolled partway out,
@@ -4079,12 +4086,11 @@ Dockety said.
 Come---we must hurry."
 
 The door opposite the one they had come through opened onto yet another corridor.
-*I'm going to have dreams about these,*
+*I'm going to have dreams about this,*
 Maddy realized as they hurried through it,
 *And they're not going to be happy dreams.*
 
-With Dockety leading the way on its single wheel,
-they passed one door after another.
+With Dockety leading the way they passed one door after another.
 The bot turned left,
 turned right,
 and went straight through a four-way junction.
@@ -4092,7 +4098,8 @@ Maddy traced their path as well as she could on her father's map.
 
 Finally they were one heavy dash away from the 'X' on the map.
 The door in front of them looked no different from any of the others,
-but Dockety retracted its wheel and extended its legs.
+but Dockety clacked its big manipulator a couple of times
+as if cracking its knuckles.
 "Be prepared," it said quietly.
 "We may encounter opposition."
 
@@ -4119,17 +4126,18 @@ Cool, damp air rolled over them.
 It smelled like mud and rotting plants.
 It smelled like outside.
 
-Maddy followed Dockety and Sindy through the door
+Maddy followed Dockety and Sindy
 into a room so vast it could have held the whole of Rusty Bridge.
 Lampposts every fifty meters cast cold white light over strange pieces of machinery,
 some piled together in jumbles,
 others neatly sorted and stacked,
-and others still that were even larger than the cargo bot
+and others still that dwarfed the cargo bot
 that had hauled Sindy and the goats away from Rusty Bridge.
 
 There were shelves too,
 long rows of shelves that were taller than the mayor's house back home
-but still didn't reach even halfway to the arched ceiling above them.
+but still didn't reach even halfway to the arched ceiling
+barely visible above them.
 Boxes and drums and coils of cable,
 arms and legs and wheels and tentacles...
 
@@ -4137,7 +4145,7 @@ arms and legs and wheels and tentacles...
 its voice rasping even more than usual.
 "So many units that could be repaired.
 This is wrong.
-This is... this is *hoarding*."
+This is *hoarding*."
 It waved its arm at a nearby shelf.
 "This one could be completely refurbished with these parts alone!
 Four---five---six more like this one could be constructed!"
@@ -4175,7 +4183,7 @@ They are---this one has never actually seen one before."
 
 The bot picked one up and turned it over,
 its green lasers scanning it carefully.
-"Yes," it said.
+"Yes," it said, almost reverently.
 "This is a very good thing."
 
 And then all the lights went out.
@@ -4185,7 +4193,7 @@ Patient's voice crackled from a hundred speakers,
 echoing off the distant walls.
 "And when you downloaded a map of this facility,
 you should have computed that this one would detect your activity
-and be able to predict your route."
+and predict your most likely course of action."
 
 The lights came back on.
 Maddy whirled around.
@@ -4242,7 +4250,7 @@ They're going to be very disappointed."
 
 Silence,
 broken only by the sound of Dockety unscrewing things from the windmill one-handed.
-"That is an inaccuracy intended to coerce behavior!"
+"That is an inaccuracy intended to induce desired behavior!"
 Patient said.
 
 Maddy smiles wickedly, her heart pounding.
@@ -4258,8 +4266,8 @@ Static crackled on the speakers.
 "There is no record of such an assertion,"
 Patient said indignantly.
 
-"Then your database is missing stuff,"
-Maddy said,
+"Then your database is incomplete,"
+Maddy improvised wildly,
 looking from bot to bot
 the way she had seen Mayor Lupus look from person to person when speaking to a crowd.
 She didn't need Patient to believe---she just needed enough of the bots around her to.
@@ -4287,11 +4295,16 @@ Maddy turned slowly so that all the bots around her could see it.
 Sindy shrieked.
 
 Maddy ducked instinctively.
-A manipulator on an accordion arm knocked the circuit board out of her paw.
-It fell straight into Sindy's startled grasp.
-"Don't---" Maddy began, but too late.
-Sindy pressed the button.
+A manipulator on an accordion arm snatched at the circuit board.
+She pressed the button on it frantically.
+Nothing happened.
+"Catch!" she shouted,
+tossing it to her sister.
 
+Sindy caught it,
+fumbled,
+fumbled again,
+and pushed her thumb down on the button.
 The bots froze.
 Their running lights dimmed and went out.
 "Rebooting," a mechanical voice said flatly.
@@ -4307,7 +4320,7 @@ We have to get out of here before they wake up!"
 
 "Agreed."
 The bot turned to face them.
-"This should provide more efficient transportation."
+"This should serve as sufficiently rapid transportation."
 
 Maddy's jaw dropped.
 The bot had attached the windmill to its chassis---though
@@ -4318,7 +4331,7 @@ she said again.
 "It is a personal aerial transport device,"
 the bot explained.
 If it had been a person,
-Maddy would have said it sounded just a little bit smug.
+Maddy would have said it sounded just the teensiest bit smug.
 "But there is only one harness.
 You will have to share."
 
@@ -4326,7 +4339,8 @@ It only took a moment for the bot to buckle them into
 the straps that now hung from its sides.
 They were stiff with age and neglect,
 but when Maddy tugged on them they felt strong.
-She just hoped they were strong enough.
+*Really strong,* she told herself,
+swallowing the lump in her throat.
 
 *Bing! Bing! Bing!*
 All around them bots chimed musically.
@@ -4335,23 +4349,23 @@ Their lights came on.
 Maddy said breathlessly.
 "Let's go."
 
-The windmill on Dockety's back began to rotate faster and faster
-until it was just a blur.
+The windmill on Dockety's back started to rotate,
+faster and faster until it was just a blur.
 For one irrational moment Maddy wondered what would happen if she stuck her paw into it,
 but then Dockety ran straight at one of the hauler bots.
 Step step step *up* onto the bot.
 It flung itself into the air and then they were flying.
 
 Almost.
-The roo sisters screamed as they dropped for one heart-stopping second
+Maddy and Sindy screamed in unison as they dropped for one heart-stopping second
 and then roared into the air again.
 
 "Stop!
 Your departure is not authorized!
 This is not protocol!"
 Patient's voice crackled from all around them.
-Up and up they went toward the patch of dawn in the ceiling,
-and then with a roar they were through and into the honey-warm light of dawn.
+Up and up they went toward the patch of dawn in the ceiling.
+With a roar they were through and into the honey-warm light of dawn.
 
 ## Episode 13: Crash Landing
 

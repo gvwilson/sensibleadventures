@@ -49,7 +49,7 @@ The other thing we listeners do is teach people how to tell their
 stories. It can be hard if you've never done it before---our lives teach
 us to hide our feelings, even from ourselves, and digging them up can be
 harder than mining diamonds. I find the easiest way is to tell people my
-own story first, so if there is any tea left in the pot\...? And perhaps
+own story first, so if there is any tea left in the pot...? And perhaps
 a little more of the honey? Thank you.
 
 So: my name is Eimin, and this is the tale of me. I was born in Medef,
@@ -168,7 +168,7 @@ one," he told me. "If you're going to try to trick someone, *la*, you
 must learn to think more than one move ahead." He scratched the side of
 his nose. "For example, think about---what's her name? Hediyeh?"
 
-"I'd rather not," I said sourly. I had spent hours carving that pawn\...
+"I'd rather not," I said sourly. I had spent hours carving that pawn...
 
 He shook his head. "Eimin, just because you can't *drome*, it doesn't
 mean you're deaf and blind. Look at pocket mice. They can't *drome*
@@ -189,7 +189,7 @@ pocket mouse staring at a snake. Razi was more than just a wandering
 *nif* tinker, and he was offering me far more than I had realized I was
 bargaining for.
 
-\* \* \*
+---
 
 Five years later, Razi sat cross-legged in front of his tent beside the
 lemon grove, weighing feathers in the tin pans of a little balance.
@@ -249,7 +249,7 @@ circling around the big hill so that we could come up to the watchtower
 from the side closest to the glass. I tried to figure out his plan while
 we walked. We would reach the tower mid-afternoon. That didn't make
 sense: at that time of day, the breeze would carry our scent straight to
-the gargoyles. Unless\...
+the gargoyles. Unless...
 
 "*La*, am I to be the bait?" I asked.
 
@@ -356,13 +356,13 @@ He was wiping blood from his face with his sleeve when I reached him.
 "Are you all right?" I asked.
 
 He glared at his sleeve, then at me. "*La*, do I look all right?
-Stupid\... Stupid of me. Where's the spare canteen?"
+Stupid... Stupid of me. Where's the spare canteen?"
 
 "You have it," I said, pointing. He glared at me again, then at the
 canteen hanging at his hip. His look softened. Suddenly he laughed.
 
 "So I do. *La*, so I do." He handed me his bow, unstoppered the canteen,
-and splashed some water onto his face. "Gaaah\... I'm a mess."
+and splashed some water onto his face. "Gaaah... I'm a mess."
 
 Something rustled behind me. I whirled around. The female that Razi had
 shot was struggling to her feet. Her right wing hung bent at her side.
@@ -375,7 +375,7 @@ short, bandy legs, one wing folded, the other hanging, watching with
 all-too-human eyes while Razi sighted carefully and put an arrow through
 her heart.
 
-\* \* \*
+---
 
 We walked back to the lemon grove in somber silence, leaving the
 gargoyles' bodies where they were to feed the desert. They had been
@@ -506,7 +506,7 @@ since I turned ten. My mother had put fresh sprigs of mint and lemon
 under my pillow; I think I dreamed of desert hares, and of moonlight on
 the Sea of Glass, but after so many years, it is hard to remember.
 
-\* \* \*
+---
 
 People compare the desert to many different things. The pirates of Ini
 Bantang and Barra Bantang say it is like the ocean: broad, trackless,
@@ -520,7 +520,7 @@ monsters left over from the Angels' Disputation, and revenge.
 
 All of these things are true, but none of them are right.
 
-\* \* \*
+---
 
 My mother shook me awake. "Razi wants you." Her voice was soft and
 urgent. "Now."
@@ -592,7 +592,7 @@ and east of the village. The sun was just coming up, casting long autumn
 shadows tinged green-blue at the edges. If anything moved, we would---
 
 "There," Yassen said flatly, pointing. I looked north. Nothing,
-nothing\...I saw it, a dark outline that changed shape, then changed
+nothing...I saw it, a dark outline that changed shape, then changed
 shape again. I count three, four, and a fifth, larger, on four legs
 instead of two. It was her.
 
@@ -619,7 +619,7 @@ it," I said. Lions only attack herds when they're desperate, or have the
 element of surprise. We'd stay on the roof and watch, just in case, but
 the excitement was over.
 
-\* \* \*
+---
 
 The caravan straggled into Medef a few hours later, raising an ochre
 plume of dust that rolled over gently at the top like one of the frozen
@@ -687,7 +687,7 @@ of canvas to keep out the hot afternoon wind.
 
 A hundred strides away, four men strained to raise the sluice gate at
 the end of the aqueduct. Anywhere else in the Karaband, they would have
-chanted, "*Heph\...ho!*" to stay in time. But they were Aphsi, so they
+chanted, "*Heph...ho!*" to stay in time. But they were Aphsi, so they
 worked in silence.
 
 The sluice gate finally gave in with a screech of stone on stone. Water
@@ -721,7 +721,7 @@ politely in their sleeves and their faces shadowed by the hoods of their
 her. The carter's son's head turned in time to look back. Something
 prickled on my spine.
 
-\* \* \*
+---
 
 Thind has been an empire for a thousand years. At times, its masked
 rulers have governed everything from the Wise River in the north to Ini
@@ -747,7 +747,7 @@ trouble).
 In the Karaband, on the other hand, people are proud of the fact that no
 two *deels* are exactly alike. We lengthen them, shorten them, add
 pockets in common or unlikely places, reinforce the shoulders if we
-frequently carry heavy loads\... Over time, every *deel* learns from its
+frequently carry heavy loads... Over time, every *deel* learns from its
 wearer how to do its job better, and every Karabandi learns how to read
 a person's life from their *deel*.
 
@@ -828,7 +828,7 @@ was as muscular as an ox. *And probably as smart,* I thought sourly.
 Suresh clapped him on the shoulder. "Thank you again," he said. "And you
 as well," he continued, turning to me. He gestured at the bundles of
 books sleeping patiently in the stall beside his cart. "If you'd like to
-borrow anything for the night\..."
+borrow anything for the night..."
 
 I heard another giggle behind me. I'm sure the girls could *drome* how
 much I wanted to---how much I wanted to take them all back to my little
@@ -836,33 +836,34 @@ alcove and pore through them, sounding out the words I did not know and
 wondering about the people who had written them. "*La*, thank you, but
 it is late," I said. "Perhaps tomorrow."
 
-\* \* \*
+---
 
-\* Discover that Eimin's father left years ago. \* The water stone \*
-Used to supply the palace gardens \* Now sustains the village \* Mention
-that other villages (Aphsi and nif) have failed \* The desert is getting
-dryer
+- Discover that Eimin's father left years ago. \* The water stone \* Used to supply the palace gardens \* Now sustains the village \* Mention that other villages (Aphsi and nif) have failed \* The desert is getting dryer
 
-\* \* \*
+---
 
-\* Razi reveals the Other Hand to Eimin \* Aphsi-dominated secret
-society that protects the deep-desert villages \* Eimin is being trained
-to join it \* Central moral issue: is acceptance worth your soul?
+- Razi reveals the Other Hand to Eimin
+- Aphsi-dominated secret society that protects the deep-desert villages
+- Eimin is being trained to join it
+- Central moral issue: is acceptance worth your soul?
 
-\* \* \*
+---
 
-\* Eimin's sixteenth birthday \* He's apprenticing to be a carpenter \*
-This is where he changes path \* Suresh sows doubts about Razi \* Need
-to see what Aphsi society is like, so that Eimin's isolation is clear
+- Eimin's sixteenth birthday
+- He's apprenticing to be a carpenter
+- This is where he changes path
+- Suresh sows doubts about Razi
+- Need to see what Aphsi society is like, so that Eimin's isolation is clear
 
-\* \* \*
+---
 
-\* Eimin interrupts Suresh and Hediyeh \* Suresh is asking questions
-about the water stone \* Eimin finds his "still center" \* Hediyeh is
-shocked that he can creep up on her, then frightened by his feelings \*
-Suresh is just embarrassed
+- Eimin interrupts Suresh and Hediyeh
+- Suresh is asking questions about the water stone
+- Eimin finds his "still center"
+- Hediyeh is shocked that he can creep up on her, then frightened by his feelings
+- Suresh is just embarrassed
 
-\* \* \*
+---
 
 Suresh came to find me the next morning. I should have been practicing,
 but instead I was sitting under my favorite lemon tree, sketching the
@@ -895,11 +896,11 @@ had a better view than any of the others.
 I opened my eyes. "Hi."
 
 He cleared his throat uncomfortably. "Listen, about last night. I didn't
-realize you and Hediyeh were\..." His voice trailed off.
+realize you and Hediyeh were..." His voice trailed off.
 
 I snorted. "We're not." And then, because I'd grown up among people who
 could *drome*, and there's no point not asking a question when everyone
-around you knows you want to ask it, I said, "Did you\...?"
+around you knows you want to ask it, I said, "Did you...?"
 
 He hesitated, then nodded. "I kissed her, if that's what you're asking."
 
@@ -915,10 +916,10 @@ He raised his hands, palms facing me, meaning, "I've heard what you
 said," then lowered them again.
 
 We sat there in silence for a few moments, looking down at the lemon
-trees. "It's just\..." I shook my head. I could feel tears waiting to
+trees. "It's just..." I shook my head. I could feel tears waiting to
 happen---tears, at sixteen. I opened my eyes wide to dry them and tried
 to finish my sentence. "It's just that you're not Aphsi, so being *nif*
-doesn't matter. But for me\..." I spread my hands.
+doesn't matter. But for me..." I spread my hands.
 
 "Ah." He nodded his understanding. "So when Hediyeh---"
 
@@ -1042,7 +1043,7 @@ it regularly. That's what the page said, Eimin. 'Regularly'."
 He hesitated, then shook he head. "No. That was three years ago. I just
 put the pages back in the box, and put the box on the shelf. I didn't
 think it was any of my business. I don't even think I'd met any Aphsi
-back then. But\..." He shook his head. "I just couldn't let go of it. Or
+back then. But..." He shook his head. "I just couldn't let go of it. Or
 it couldn't let go of me. I started asking questions, and reading. About
 a year ago I met a caravaneer who told me about the Other Hand, about
 what happened to bandits who tried to raid the Aphsi. And then I went to
@@ -1063,7 +1064,7 @@ believe it or not, it's true. You're not an accident, Eimin. None of
 this is an accident. They made you *nif*, and now they're making you
 into a sword." He fell silent. I didn't look back.
 
-\* \* \*
+---
 
 I hiked out to Tin Point the next day. I kept my pack light: three
 canteens, my tent, some dry date bread, my knife, and my climbing rope.
@@ -1296,14 +1297,15 @@ sketchbook, wrote, "Eimin the Nif was here" on it, and left it on the
 glass underneath an empty canteen. My shadow walked tall beside me until
 the sun went down.
 
-\* \* \*
+---
 
-\* Suresh tries to get Eimin into his plans \* Aphsi know something is
-wrong: Hediyeh guesses that Eimin is going to run away \* Confrontation
-with Razi \* Eimin's mother convinces him that it's not true \* His
-"father" left because of her affair with Razi
+- Suresh tries to get Eimin into his plans
+- Aphsi know something is wrong: Hediyeh guesses that Eimin is going to run away
+- Confrontation with Razi
+- Eimin's mother convinces him that it's not true
+- His "father" left because of her affair with Razi
 
-\* \* \*
+---
 
 I ran. I ran like a jackrabbit runs, like a hawk flies. I ran like I had
 never run before. Cold sick fear lay heavy in my gut. The moon was
@@ -1402,7 +1404,7 @@ pull his clothes closer.
 
 "You're not getting out already, are you?" Hediyeh pouted.
 
-"What? No, no, I'm just\... Anyway, the boy sold them in Ossisswe, then
+"What? No, no, I'm just... Anyway, the boy sold them in Ossisswe, then
 bought a whole herd of goats and lived happily ever after." Suresh
 pulled something out of the pocket of his trousers and turned back to
 Hediyeh.
@@ -1419,7 +1421,7 @@ toward him, always out of reach. He was leading her closer to the
 waterstone, directly beneath me. I tensed.
 
 "Oh, stop teasing!" Hediyeh paddled forward. I slipped my feet out of my
-sandals. Suresh was almost close enough. Almost\...
+sandals. Suresh was almost close enough. Almost...
 
 Suddenly he stopped backing away. He looked up at the sky. "It's time,"
 he said, and he slipped the ring onto his finger.
@@ -1487,7 +1489,7 @@ but the water took the force of the blow away. I was already running out
 of air. The ring was blinding me. I let go of him, grabbed Hediyeh's
 arm, and planted my feet on the waterstone to try to pull her away.
 
-Cold\... I have never felt cold like that. It was as if ice water was
+Cold... I have never felt cold like that. It was as if ice water was
 flooding into my veins. The waterstone wanted. The cold rose through my
 legs, into my body. I pulled weakly at Hediyeh's arm. It was too late.
 The cold was in my heart, sucking all my strength away. I couldn't---
@@ -1515,19 +1517,19 @@ I blinked and turned my head as Suresh dragged Hediyeh out of the pool.
 I must have made a sound, because he looked at me. Our eyes met. He
 shook his head slowly and started to sob. I closed my eyes again.
 
-\* \* \*
+---
 
 When I woke again, Razi was beside me. He had cut his shirt into strips,
 and was bandaging Hediyeh's shoulder. Suresh was gone.
 
-"Cold\..." I whispered. He nodded without looking at me, intent on his
+"Cold..." I whispered. He nodded without looking at me, intent on his
 work.
 
 "I'll build a fire as soon as I can. She's lost a lot of blood." He
 knotted another strip of shirt under her armpit, then sat back and
 rubbed his ankle. "What happened?"
 
-"Suresh\...?"
+"Suresh...?"
 
 Razi shook his head. "Gone. But he left this." He held up a small glass
 ring. It was just glass, now. Whatever had been in it had missed its
@@ -1535,14 +1537,14 @@ chance.
 
 I tried to sit up, but I was too weak. It was like one of those bad
 dreams where you're a puppet whose strings have been cut, so that you
-can see and hear, but you can't move. "Can't \..." I gasped. For some
+can see and hear, but you can't move. "Can't ..." I gasped. For some
 reason it seemed funny to me. I started to chuckle, but it turned into a
 wheeze.
 
 Razi frowned. "Well, then who fished you out of the---oh. Hm.
 Interesting." He turned the ring over in his hand thoughtfully, then
 tucked it into his pocket and struggled to his feet. "And where's my
-damn sword? If there's even a scratch on it\..."
+damn sword? If there's even a scratch on it..."
 
 In the end, I went for help, so that Razi could stay and look after
 Hediyeh. It wasn't a good idea. I only had to walk as far as the goat

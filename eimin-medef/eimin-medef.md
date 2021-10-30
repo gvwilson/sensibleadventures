@@ -838,7 +838,11 @@ it is late," I said. "Perhaps tomorrow."
 
 ---
 
-- Discover that Eimin's father left years ago. \* The water stone \* Used to supply the palace gardens \* Now sustains the village \* Mention that other villages (Aphsi and nif) have failed \* The desert is getting dryer
+- Discover that Eimin's father left years ago.
+- The water stone used to supply the palace gardens
+  - Now sustains the village
+- Mention that other villages (Aphsi and *nif*) have failed
+  - The desert is getting dryer
 
 ---
 

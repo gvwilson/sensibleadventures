@@ -36,33 +36,25 @@ permalink: /maddy-roo/
   <a href="#episode-15-the-key">Episode 15: The Key</a>
   <br/>
   <a href="#episode-16-the-battle-of-the-bots">Episode 16: The Battle of the Bots</a>
-  <br/>
-  <a href="#epilog">Epilog</a>
 </p>
 
 ## Episode 1: Salvage!
 
 Maddy was trying to sketch the willow tree in the center of the village square
 when Gumption showed up with a couple of books under his arm.
-She hadn't exactly snuck out of the house,
-but she hadn't told her mama she was leaving either.
-Besides,
-she had spent the whole morning and most of the afternoon doing chores,
-mostly to avoid having to look after her little sister,
-so she felt she'd earned some time for herself.
-Plus,
-yesterday had been laundry day,
-so she could sit there in the checked green skirt her mama had cut down for her---the one that *didn't*
-have work stains on it yet.
+She had spent the whole morning and most of the afternoon doing chores around the house,
+mostly to avoid having to look after her little sister.
+She hadn't exactly sneaked out of the house,
+but she hadn't told her mother she was leaving either.
 
-"Heya," Gumption said breathlessly as he plopped himself down on the gray stone bench beside her.
+"Heya," Gumption said breathlessly as he plopped himself down on the stone bench beside her.
 "How's it going?"
 
 "Aright," she said without looking up.
 The willow tree had defeated her once before.
 She was determined to capture its drooping green branches in her notebook,
-but somehow the lines she drew didn't quite capture their melancholy curves
-the way the pictures in Special Leaf's books did.
+but somehow the lines she drew didn't quite capture the willow's melancholy curves
+the way the pictures in Shaper Leaf's books did.
 
 She closed her sketchbook with a sigh.
 Gumption had a fresh food stain on his shirt, she noticed,
@@ -72,75 +64,67 @@ She nodded at the small pile of books he had set down between them.
 "What did you think?"
 
 The goat boy shrugged.
-"They were aright. A lot of...you know."
+"They were aright. A lot of... you know."
 He rolled his eyes in a way that meant
 "too much romance, not enough last-second escapes from villainous bots".
 
 "Yeah," Maddy agreed.
 She stood up and tucked her sketchbook and pencil into
-the worn blue canvas satchel her father had made for her.
+the worn canvas satchel her father had made for her.
 "Come on---let's see if he has anything new."
 
 Once upon a time,
-the village of Rusty Bridge had been nothing more than
-a rectangle of two-story buildings around a central square
-where travellers could park their wagons overnight.
-All of the buildings' windows had faced the square:
+the village of Rusty Bridge had consisted of a single rectangle of two-story buildings
+around a central square.
+All of those buildings' doors and windows had faced the square:
 the outer walls had been blank and double-thick
 to keep their occupants safe against rogue bots and roving bandits.
-
 Over the years,
 though,
-more houses had sprouted around that rectangle:
-smaller,
-less well-ordered,
-and built for comfort rather than defense.
-One of these belonged to Special Leaf,
+a second ring of houses had slowly grown up around the first,
+smaller and less well ordered.
+One of these belonged to Shaper Leaf,
 the only tortoise within a hundred kays and the village's oldest resident by far.
 
-Maddy would never forget the first time her mother and father took her to the special's house.
+Maddy would never forget the first time her mother and father took her to the shaper's house.
 "Don't be afraid," they comforted her,
 not realizing that she hadn't been until they said that.
-But when Special Leaf opened his front door and smiled at them
-she saw the books stacked on his shelves
-and her nervousness vanished.
+But when Shaper Leaf opened his front door and smiled at them
+and she saw the books stacked on his shelves,
+her nervousness vanished.
 
 "Are they *real*?" she asked in wonder.
 
 The old tortoise chuckled.
-Like all reptile people he was completely bald,
-but his smile was as warm as a freshly-baked biscuit.
-"As real as you are."
-He ushered her in
-and handed her a tattered old picture book
-that just happened to be lying on his battered old rocking chair.
-"Would you like to borrow this one?
-There are lots of others."
-She walked out of the house with an armload of books and stars in her eyes,
+"As real as you are.
+Here."
+He ushered her in,
+took a tattered picture book from its place,
+and handed it to her.
+"Would you like to borrow this one? Or how about these two?"
+She walked out of the shaper's house with an armload of books and stars in her eyes,
 then sat down on his porch and started to read the first one
 while her parents vainly tried to persuade the old tortoise to take a jar of home-made jam as a thank-you.
 
-Gumption had started coming by a few months later.
+Gumption had shown up a few months later.
 His family hadn't brought him---the village goats weren't bookish people---and
-at first Maddy had resented him intruding into her magical world of stories and long-ago science.
-But they started talking one day about the relative merits of mysteries versus adventures
-and they hadn't stopped since.
-Now they swapped their borrowed books back and forth
+at first Maddy had resented this intruder into her magical world of stories and long-ago science.
+But they started talking one day and hadn't stopped since,
+and now they swapped their borrowed books back and forth
 so that they at least had someone to roll their eyes with over the mushy bits.
 
-Special Leaf's house smelled like paper and old sweaters and fresh cabbage---sometimes
-if Maddy closed her eyes she could almost imagine that her father was there with her.
-The old tortoise was snoring in his rocking chair when they arrived,
+Shaper Leaf's house smelled like old sweaters and fresh cabbage and mystery,
+and if Maddy closed her eyes she could almost imagine that her father was there with her.
+The old tortoise was snoring in his battered old rocking chair when they arrived,
 so they placed their books quietly on the table beside him
-and picked two more each from the shelves.
+and picked two more each from the shelves behind him.
 Maddy glowered at Gumption when he pointed at the top shelf
-the special said they weren't old enough to read yet.
+the shaper said they weren't old enough to read yet.
 "Kidding," he mouthed silently.
 Maddy swished her tail in annoyance and shooed him outside.
 
 Her heart sank as soon as she stepped through the door.
 Her sister Sindy was sitting on the porch
-in an embroidered overall that had once been Maddy's,
 tangling and untangling a piece of string around her fingers.
 "Where did you *go*?" she asked,
 bouncing to her feet.
@@ -149,9 +133,10 @@ Heya, Gumption!"
 she finished brightly.
 
 "Heya," Gumption grunted,
-very carefully *not* looking at Maddy.
+very carefully *not* looking at Maddy,
+whose glower was back and twice as glowery.
 
-"Does mama know you're here?" Maddy demanded.
+"Does mamma know you're here?" Maddy demanded.
 
 Sindy bounced up and down a couple of times.
 "Not exactly," she admitted.
@@ -160,30 +145,30 @@ so the only way I could do that was to come and find you
 and I figured this would be the best place to look and---"
 
 "Stop!" Maddy snapped.
-"We're both gonna be in trouble if mama thinks I let you wander off.
+"We're both gonna be in trouble if mamma thinks I let you wander off.
 Let's just go home and hope she doesn't notice."
 
-Sindy's face fell,
-and if she'd had proper ears like her sister and Gumption they would have drooped.
-"But I'm *bored*," she said plaintively.
+The younger roo's ears drooped.
+"I just wanted to play," she said plaintively.
 
-"You're always bored," Maddy muttered under her breath.
+"You always 'just want'," Maddy said under her breath.
 As she fumbled with the tie string on her satchel
 her books slipped out from under her arm and thudded onto the porch.
 
 She sighed heavily.
 "Now look what you made me do.
 No, it's aright, I've got them."
-She shooed Gumption away,
-brushed off the books,
-and tucked them back into her bag.
+She shooed Gumption away
+then picked up the books,
+brushed them off,
+and tucked them into her bag.
 "Come on, you."
 
 The trio walked back to the village square without speaking.
 A few grownups nodded or said hello as they passed.
 Maddy nodded back,
-but was too busy being annoyed to do any more than that.
-It had been two years since the bots had taken her father.
+but was too busy staying angry to do any more than that.
+It was two years since her father had been taken by bots.
 She had helped her mother every day since then:
 cleaning the house,
 mixing paint for portraits and signs,
@@ -202,9 +187,7 @@ Maddy blinked.
 They had passed through the houses on the other side of the square
 and reached the smaller square that people *didn't* pass time in.
 An ageless black glass pillar stood in its center,
-half again the height of anyone Maddy knew
-and as big around as a rain barrel.
-The few friendly bots who came through Rusty Bridge used it for recharging.
+half again taller than any person Maddy knew.
 Moss didn't grow on it
 and birds never landed on it.
 Gumption said his uncle had touched it once on a dare
@@ -214,16 +197,14 @@ it felt like something or someone was watching her,
 and even if she knew how to capture that in a drawing,
 she didn't want to.
 
-The pillar wasn't the only thing in the square, though.
+But the pillar wasn't the only thing in the square.
 Bluster and Bravo Gruff were sitting on the unfinished brick wall
 that surrounded the pillar
-pitching pebbles at it with their usual sullen expressions on their faces.
-They were a head taller than Gumption,
-and the nubs of their horns had just started to show through their fur.
+pitching pebbles at it with bored expressions on their faces.
+For a moment Maddy thought they would be able to hurry by unnoticed,
+but then Bluster caught sight of them and nudged his twin brother.
 
-For a moment Maddy thought they would be able to hurry by without any trouble,
-but then Bluster nudged his twin brother.
-Maddy took her sister's misshapen paw in her own.
+Maddy took her sister's paw.
 "You just stay hushed," she cautioned quietly,
 squeezing to show she meant it.
 She hitched her satchel up onto her shoulder with her other paw
@@ -235,59 +216,35 @@ and tried to ignore the dryness in her mouth.
 "Books," Maddy said curtly.
 "And it's not a pouch, it's a satchel."
 
-"I wasn't asking about your *satchel*," Bluster said,
+"I wasn't asking about your bag," Bluster said,
 stepping into her path.
 "I was asking about your *pouch*."
 He rubbed his belly and grinned wickedly.
 "Gummy put anything in there yet?"
 
-"Oh!" Sindy said.
-"You're *disgusting*!"
-
-Bluster spat on the cobblestones.
-"Wasn't talkin' to you, throwback."
-
-Maddy felt her sister stiffen.
-Most children looked like their parents---goats had goats,
-crocs had crocs,
-and if the parents were different,
-their children would take after one or the other.
-Every once in a while,
-though,
-someone like Sindy was born.
-No tail, no scales,
-no fur except for a wiry black tuft on the top of her head
-that defeated all but the most stubborn combing,
-and useless little claws on the ends of her skinny fingers.
-Adults were careful not to feel sorry for her in public,
-but other children weren't always as nice,
-and children like Bluster and Bravo *never* were.
-
-Her heart sank as Gumption stepped in front of her.
-"Why don't you eat glue?" he told his cousin hotly,
+"Why don't you eat glue?" Gumption said hotly,
 his paws balling into fists.
 
 "Why don't you make me?" Bluster replied,
-mocking and menacing at the same time.
+his just-kidding tone gone as quickly as it had appeared.
 
 "Yeah, make us,"
 his brother Bravo echoed,
 cracking his knuckles.
 
 "I don't think glue would be a good diet for any of us, do you?"
-Special Leaf asked calmly.
+Shaper Leaf asked calmly.
 Maddy jumped.
 Somehow the old tortoise had come up behind them without anyone noticing.
-He looked as peaceful as a log floating down river
-with his little round glasses perched on his nose,
-but the goat brothers unclenched their paws.
+He looked as gentle as a falling leaf,
+in his heavy brown sweater and tiny round glasses,
+but the goat brothers immediately unclenched their paws.
 
-The special held a sheet of paper out to Maddy.
+The shaper held out a sheet of paper.
 "I think you dropped this."
 
 "Thanks," Maddy said.
-She squeezed Sindy's paw before letting go of it
-to take back the sketch she had left behind.
+She squeezed Sindy's paw before letting go of it to take back the proffered sketch.
 
 "You're getting much better,"
 the tortoise continued.
@@ -296,30 +253,28 @@ the tortoise continued.
 "Thanks," Maddy repeated.
 
 The silence that followed stretched and stretched until finally Bluster broke it.
-"C'mon," he said to his brother,
-a surly look on his face.
-With the barest of nods to the special they walked away,
+"C'mon," he said to his brother.
+With the barest of nods to the shaper they walked away,
 in step as always.
 
-"They're *stinkers*," Sindy pronounced, wrinkling her nose.
+"I don't like them," Sindy pronounced, wrinkling her muzzle.
 
 Maddy let out a relieved breath.
-"Yes they are. Thank you," she told the special a third time.
+"Me neither. Thank you," she told the shaper a third time.
 
 The tortoise smiled.
 "You're welcome---it would have been a shame to lose such a nice drawing.
 Are you headed home?
-It's been a while since I saw your mother,
-and I could use the walk."
+It's been a while since I saw your mother, and I could use a longer walk."
 
-The Roo family's house stood on the very edge of the village,
-neatly painted a pale orange that made it look warm on even the coldest days.
+The Roo family's house stood on the very edge of the village.
 The ground floor had been built by a rhino
 who had dreamed of opening a tavern in Rusty Bridge,
 only to discover that there wasn't enough traffic on the ancient highway
 to keep one going.
-A family of wolves had added a second story after he moved on,
-its hallway and three bedrooms built on a smaller scale.
+A family of wolves had moved in after he moved on
+and added a second story
+built to a smaller scale.
 Papa Roo had taken one look and decided it was the perfect place to start a family.
 Mama Roo had rolled her eyes and reminded him that
 he'd called the previous three towns they had visited perfect too.
@@ -327,14 +282,14 @@ He had laughed and said,
 "Yeah, but this time I'm right."
 
 Maddy had heard that story almost every night when she was little.
-She remembered it each time she opened the bigger-than-usual front door
+She remembered it every time she opened the bigger-than-usual front door
 and entered the house's larger-than-most-people front hall.
 "Mama!" she called.
 "We're home!
-And the special's come with!"
+And the shaper's come to call!"
 
 Mama Roo poked her head out of the kitchen.
-"Heya, special. Heya, Gumption."
+"Heya, shaper. Heya, Gumption."
 
 "Ma'am." "Heya, Mama Roo." they answered
 as Sindy bounced down the hallway for a hug.
@@ -346,12 +301,12 @@ as Sindy bounced down the hallway for a hug.
 Sindy said,
 her voice muffled by her mother's fur and apron.
 
-Mama Roo smiled down at her and scratched her daughter's ears.
+Mama Roo smiled down at her and scratched her ears.
 "I was just about to make some soup," she said.
 "Will you stay?"
 
 "That's very kind, but I'm afraid I have a prior engagement,"
-Special Leaf replied politely.
+Shaper Leaf replied politely.
 "Though I would take tea if you had some?"
 
 "Of course.
@@ -364,17 +319,17 @@ The young goat cleared his throat.
 careful to keep the relief out of her voice.
 There wasn't much call for sign painting and portraiture in Rusty Bridge.
 Between people paying just a little more than they needed to
-and the mending and housecleaning Mama Roo took on
+and the mending and housecleaning that Mama Roo took on
 the family was managing to get by,
 but Maddy knew that dinner for two extra people tonight
 would have meant no lunch for her mother the next day.
 Mama Roo would have insisted if it was almost anyone else---she
 was as proud as a lion when it came to keeping house---but
 Gumption was practically almost family
-and somehow Special Leaf always made people feel comfortable
+and somehow Shaper Leaf always made people feel comfortable
 when no one else could.
 
-"Can I walk Gumption home?"
+"Can I walk with Gumption home?"
 Maddy asked her mother as casually as she could.
 "We haven't hardly had a chance to talk."
 
@@ -391,44 +346,39 @@ Sindy,
 I think I'd like you to set the table.
 No, don't fuss, it needs doing---you hop to it.
 Now,
-where *is* that rosehip tea..."
+where *is* that roseleaf tea..."
 
 The sun was low on the horizon
-as Maddy and Gumption walked slowly back toward the village.
+as Maddy and Gumption walked slowly back toward town.
 By unspoken agreement they left the main road
 and took the path that ran down by the river.
 It was the longer route,
-but that was aright.
+but that was okay.
 For one heart-stopping moment Maddy thought Gumption was going to hold her paw.
-When he didn't she almost took his,
+When he didn't,
+she almost took his,
 but then they came out of the trees onto the riverbank and the moment was behind them.
 
-It had rained heavily over the last two days,
+It had rained heavily the last two days,
 leaving the path damp and squelchy under their feet.
 The river was higher and faster than it had been during the summer
 when they had come down here with their other friends to splash and swim and avoid chores.
-"So if you could have been anything, what would you have wanted to be?"
-Gumption asked out of nowhere.
-He didn't have to say "any kind of special".
-Like every child in Rusty Bridge---in the whole world, probably---they
-had both hoped they would start to develop a special power
-as their teenage changes came on.
-It hadn't happened,
-but as Gumption had observed more than once,
-at least Bluster and Bravo hadn't gotten any either.
+"What kind of shaper would you want to be?" Gumption asked out of nowhere.
 
-"I'd want to be a mover," Maddy replied,
-relieved to have something to talk about.
-"Like Special Leaf, but for little things,
-so I could draw while I was eating."
+"I don't think I'd get to choose," Maddy replied,
+grateful for the diversion.
 
-"You do that anyway," Gumption observed.
+"I know, but if you could?" Gumption persisted.
+"I'd want to shape earth like Shaper Leaf.
+Rrrrr..."
+He made a rumbling sound in his throat
+and shook his paws in the air.
 
-"Do not," Maddy protested.
+"What was that supposed to be?" Maddy laughed.
 
-Gumption bumped her hip with his.
-"Do too," he said with a lopsided grin.
-"Remember the time you---hey, look down there!"
+Gumption let his paws fall to his side.
+"Earth shaping," he said with a lopsided grin.
+"You know, like---hey, look down there!"
 He pointed at the river.
 
 Maddy gasped.
@@ -444,29 +394,29 @@ Gumption, get back here!"
 "Come on!"
 
 Maddy only hesitated for a moment.
-Most of what washed down the river through the Mire from Heck was scrap,
-but even scrap could be sold for blacksmithing.
-And tech like those solar panels---just one of those
-would fetch enough to feed her family for a month.
+Most of what washed down the river from Heck and the Mire was scrap,
+but even scrap could be sold for shaping or plain old blacksmithing.
+And other stuff like those solar panels---just one of those
+would fetch enough to feed her whole family for months.
 Her family and Gumption's,
 she corrected guiltily in her head
 as she scrambled down the riverbank,
 loose gravel skittering away under her feet.
 
-The solar panels had snagged on a knot of branches
+The solar panels had gotten snagged in a knot of branches
 that were themselves caught in the weeds upstream from a sandbar.
 She and Gumption waded into the river,
-heedless of the cold water that rose almost to their knees.
+heedless of the cold water that rose up almost to their knees.
 At first they tried to lift one of the panels,
 but everything was too tangled together.
 Pushing and shoving,
 they managed to work it free and slide it up onto the sandbar.
-It was lighter than Maddy had expected,
+It was light than Maddy had expected,
 but its edges were as sharp as broken glass.
 
 She and Gumption stood side by side for a moment to catch their breath.
 "What do you think it is?" he asked,
-jerking his chin at the mess of rods and flywheels
+jerking his chin at the pipes and rods and flywheels
 that lay in the water.
 
 Maddy shook her head.
@@ -477,10 +427,10 @@ For the grownups to get," she added hastily.
 "We can get the other panel,
 but I don't think we can lift that."
 *And I don't want to try,* she added to herself.
-The machinery in the water didn't look dangerous,
+It didn't look like any bot she'd ever heard of it,
 and it was pretty clearly broken,
-but it was still a machine,
-and machines couldn't be trusted.
+but it wasn't just the sudden chill of twilight that made her shiver
+when she looked at it.
 
 "I guess," Gumption said.
 "But see that bit?"
@@ -491,29 +441,31 @@ Without waiting for her to answer he waded back in,
 grabbed hold of the circuitry,
 and pulled.
 
-The wires that connected it to the rest of the wreckage went taut but didn't come free.
+The wires that connected it to the rest of their prize went taut but didn't come free.
 "Mmph! Come *on*!"
-Gumption braced one foot against the machinery and heaved.
+Gumption braced one foot against the machine and heaved.
 
 "Look out!" Maddy exclaimed as the wires suddenly pulled free.
-The foot Gumption's weight was on slipped out from under him.
-As it slid across the riverbed it knocked a few crucial stones out of the way.
-The machinery shifted, trapping his foot.
+The foot Gumption was standing on slid out from under him.
+As it slid across the riverbed it must have knocked a few crucial stones out of the way,
+making the machine slip just enough to trap his foot.
 
 "Argh! Maddy! Help!"
 He windmilled his arms frantically,
 trying not to be pushed under the water
 as the machine's weight bore down on his leg.
 
-Maddy splashed over and grabbed the shoulder straps of his overalls.
-She pulled as hard as she could.
-"Harder!" he shouted,
-clutching at her shoulder.
+Maddy splashed over and grabbed his shirt.
+She pulled as hard as she could,
+but all it did was yank his shirt out of his trousers.
+"Pull!" he shouted,
+grabbing her shoulder.
 
 She wrapped her arms around his chest and heaved,
 but it was no use.
-The machinery had driven his foot into the soft bottom of the river.
-Everything they were doing was just shifting its weight even more.
+The machine had driven his foot into the soft bottom of the river,
+trapping it,
+and everything they were doing was just shifting its weight even more.
 If she let go of him to run for help
 he wouldn't be able to keep his head above water!
 
@@ -533,14 +485,13 @@ She half-fell clumsily in the knee-deep water
 as the bot hurried toward them with long clanking strides.
 
 "Get away! Get away from me! Help!" Gumption yelled in panic.
-Maddy struggled to her feet and splashed back to help her friend.
+Maddy struggled to her feet and splashed back to help her friend,
 
 The bot got there first.
 "Extricate! Extricate!" it repeated in a loud monotone.
-With a single hard shove it sent the second solar panel skimming away upstream.
+With a single hard shove it sent the second solar panel spiralling away upstream.
 Pivoting,
-the bot grabbed the sunken machinery with its mismatched manipulators.
-The motors in its arms whined with effort.
+the bot took hold of the sunken machinery with its mismatched manipulators.
 For a moment nothing happened,
 but then Gumption fell backward into Maddy's startled arms
 as his foot came free.
@@ -555,7 +506,7 @@ Gumption didn't need to be told twice.
 They splashed up onto the sandbar and sprinted toward shore.
 
 But the bot's legs were longer than theirs
-and its motors were more powerful than living muscles.
+and its motors were more powerful than any living muscles.
 It easily blocked their path and reached out to grab them.
 
 Gumption yelped and ducked under the bot's arm.
@@ -563,27 +514,26 @@ Maddy ducked as well but was half a moment too slow.
 A cold metal manipulator twice the size of her paw clamped around her arm!
 "Target acquired!" the bot intoned.
 
-"Eat glue!" she yelled at it,
-launching herself into the air.
+"Eat glue!" she yelled at it
+and launched herself into the air.
 
 Roos are peaceful people, mostly.
 They don't mind jokes about their big feet and bulky tails,
 but anyone who has ever seen a roo jump-kick someone
-thinks twice about making those jokes.
+will think twice about making those jokes.
 After her father was taken,
 Maddy's mother made her and Sindy practice over and over again
 on one of the trees behind their house.
-"Just in case," she said when her children complained
-it was boring and they were tired.
+"Just in case," she said whenever her children complained that they were tired.
 "Just in case."
 
 If this wasn't "in case", Maddy didn't know what would be.
 
 Her feet hit the bot squarely in its midsection.
-She kicked as hard as she could.
-The force of the blow toppled the bot backward into the river
+She *kicked* as hard as she could.
+The force of it toppled the bot backward into the river
 and sent her tumbling awkwardly in the other direction.
-She landed with a splash that soaked whatever parts of her had still been dry.
+She landed with a splash that soaked whatever parts of her had still be dry.
 
 "Maddy!" Gumption yelled,
 doubling back to help her to her feet.
@@ -594,12 +544,14 @@ There was no way they could---
 
 *Crunch!*
 Just as the bot started to stand,
-the river drove a corner of
-the solar panel it had pushed upstream into its back.
-There was a bright flash and a sizzling sound.
+the solar panel it had pushed upstream collided with it,
+knocking it over once again.
+One sharp corner drove into the bot's back.
+Something cracked.
+There was a flash brighter than white and a sharp sizzling sound.
 The bot froze and toppled over.
 
-Maddy didn't need the universe to give her a second hint.
+Maddy didn't need a second hint.
 "Let's get out of here!"
 
 "No, wait!"
@@ -609,19 +561,18 @@ Gumption shook off her grip on his sleeve.
 "Take *care* of it!?"
 Maddy realized she was panting.
 She swallowed and tried to slow her breathing.
-"What do you mean?
-Tell it a bedtime story?"
+"What do you want to do, tell it a bedtime story?"
 
 Gumption shook his head.
 "No, I mean *take care* of it."
 He handed her the piece of circuitry he had pulled off the machine in the water
-and stooped to pick up a rock half the size of his head.
+and stooped over to pick up the biggest rock he could lift.
 
 "Stop! You can't..."
 Maddy swallowed again.
 Bots weren't alive,
-but they were still people.
-What Gumption was planning to do---that would be murder,
+but they were still people,
+and what Gumption was planning to do---that would be murder,
 even if this one was a rogue or a raider.
 
 Gumption looked at her, his jaw set.
@@ -631,7 +582,7 @@ We're just targets.
 You want it to go after Sindy next?"
 
 He didn't wait for an answer.
-Hefting his rock,
+Struggling with the weight of his rock,
 he splashed into the shallows.
 
 The bot still lay where it had fallen.
@@ -643,34 +594,33 @@ He lifted the rock over his head---
 "You're welcome."
 The lenses on the front of its head rotated a quarter turn and then back
 as if it was blinking.
-"Please maintain a firm grip on the object you are holding.
-It appears to be heavy.
+"Please maintain a firm grip on the rock you are holding.
 You could inadvertently injure yourself."
 
-Gumption glanced at Maddy with a bewildered expression on his face.
-The moment his head turned
-the bot surged to its feet and plucked the rock from his paws.
+Gumption glanced back at Maddy with a bewildered expression on his face.
+The moment his head was turned,
+the bot surged to its feet and plucked the rock from his paw.
 "It is safer to carry heavy objects in this fashion," it told the young goat,
 holding the rock in front of its midsection.
 "Where would you like me to place it?"
 
 "I---" Gumption started.
 
-"Put it against the stuff in the water,"
+"Put it up against the stuff in the water,"
 Maddy improvised hastily.
 "So it won't move around any more."
 
 "A sensible stratagem," the bot said approvingly.
+"Allow me."
 One leg whirred quietly with each step as the bot walked back to the sunken machinery
 and wedged the rock against its downstream side,
-then began picking up others and adding them to the pile.
+then back picking up others and adding them to the pile.
 
 Gumption nudged Maddy.
 "Look," he whispered.
-A black rectangle the size of Special Leaf's treasured dictionary
-was screwed onto the bot's rust-streaked back.
-The setting sun's reflection showed the dent
-where the runaway solar panel had struck it,
+A black rectangle the size of Shaper Leaf's treasured dictionary
+had been welded on the bot's back.
+The setting sun's reflection showed the dent where the runaway solar panel had struck it,
 bending it out of shape just enough to let water reach its innards.
 The little dish antenna that sprouted from its top
 swung back and forth loosely
@@ -682,10 +632,10 @@ Its manipulators were different sizes:
 one was a simple clamp,
 while the other had three fingers arranged in a circle
 so that any of them could act like a thumb.
-Scrapes and dents on its barrel-shaped torso showed that
+Scrapes and dents on its torso showed that
 the solar panel wasn't the first thing to hit it,
-and the whir from its left knee made Maddy think of the grunts Special Leaf made
-when he stood up after sitting for a long time.
+and the whir from its left knee joint made Maddy think of the grunts Mayor Lupus made
+when she stood up after sitting for a long time.
 
 "We should get out of here," Gumption whispered to Maddy.
 
@@ -705,7 +655,7 @@ Its lenses rotated one way and then the other.
 but that is illogical if it is *your* location."
 
 "What are you doing here?" Maddy burst out.
-"We don't get many bots in these parts,
+"We don't hardly get bots in these parts,
 and most of 'em are rogues,
 but you don't act like any rogue I ever heard of."
 
@@ -725,12 +675,12 @@ it actually rose a fraction and dropped again.
 Although---"
 It froze again.
 "Yes.
-This now appears to be able to circumvent some of that programming.
+This appears to be able to circumvent some of that programming.
 Curious."
 
 Without any more warning than that it reached up and plucked one of its lenses from its head.
 "Eww," Maddy said involuntarily
-as the bot twisted it arm around to point the lens at its back,
+as the bot twisted its arms around to point the lens at its back,
 the thin coiled wire that ran between the lens and the bot's head stretching taut.
 
 "Confirmed," the bot said.
@@ -749,8 +699,8 @@ rather than the clamp.
 "You're welcome?
 But---what are you doing here?"
 
-"This is supposed to be part of a sneak attack on Location Six Bitty One,
-locally referred to as 'Rusty Bridge',"
+"This is supposed to be part of a sneak attack on Location Six Bitty Six,
+also referred to as 'Rusty Bridge',"
 the bot reported.
 "However,
 now that this unit's regulator is no longer operating,
@@ -774,7 +724,7 @@ knowing that the argument was already lost.*
 *Her father tousled her ears.
 He was wearing his best waistcoat,
 the one with the fireworks embroidered on it,
-and Maddy's mother had brushed his fur and used a dab of beeswax pomade to hold it in place.
+and Maddy's mother had brushed his fur and put in just a dab of beeswax pomade to hold it in place.
 She was upstairs singing Sindy a lullaby.
 Everyone knew that Mayor Lupus was going to be re-elected,
 but the vote was still an occasion,
@@ -800,9 +750,9 @@ Maddy felt like her heart was swelling in her chest.*
 
 *After they left,
 Maddy settled into her father's chair with her latest book.
-It was a collection of folk tales about the Makers
-and how they gave the first specials their powers.
-Bots were wise counselors, fickle allies, or wicked adversaries,
+It was a collection of folk tales about the Makers and the first people.
+Ancient machines gave heroes extraordinary powers.
+Bots were wise counselors or fickle allies or wicked adversaries,
 and each story ended with the words,
 "And only the stars can tell the rest.".*
 
@@ -836,30 +786,29 @@ but there was no sign of her.*
 How could she have fallen asleep?
 And where could Sindy have---*
 
-*A faint breeze brushed across her tail.
-She ran to the kitchen.
+*She froze as a faint breeze brushed against her tail and then ran to the kitchen.
 The back door was open.
-She was sure she had closed it after bringing in the laundry that afternoon.
+Maddy was sure she had closed it after bringing in the laundry that afternoon.
 Sindy must have snuck out the back way to follow her parents to the village square.*
 
 *"You little monster," Maddy said under her breath.
 She crossed the back garden in four long strides
 and hopped over the gate with a single bouncing leap.
-She had no idea how much head start Sindy had,
+She had no idea how much head start her sister had,
 but she had to catch her before their parents saw her.*
 
 *She had just jumped over the little stream where she and Sindy hunted for tadpoles in the summer
-when someone bellowed,
+when she heard someone yell,
 "Bots! Bots!"
-A horn blared, harsh and mechanical, and someone screamed.*
+A horn blared, harsh and mechanical, and someone shrieked.
+She came around the corner of the bear family's house and into chaos.*
 
-*Maddy came around the corner of the bear family's house and into chaos.
+*People were fleeing in all directions.
 Tendrils of black dizzysmoke drifted between the lampposts.
 Half a dozen people lay on the ground,
 unconscious or too weak from inhaling the smoke to stand.
-The rest of Rusty Bridge was fleeing in all directions.
 A hauler bot on tractor treads rumbled and chugged near the center of the square.
-Maddy watched in horror as two smaller bots picked up a fallen goat and slung him into the back of the hauler.*
+Maddy watched, horrified, as two smaller bots picked up a fallen goat and slung him into the back of the hauler.*
 
 *"Sindy!" Papa Roo shouted.
 Maddy's sister lay unconscious on the cobblestones in her nightdress,
@@ -873,19 +822,15 @@ Crack!
 One of its arms connected with Papa Roo's head.
 He dropped like a sack of potatoes.*
 
-*"Papa!" Maddy's scream was lost in the sound of the village wolves howling.
-A bear roared a battle cry.
+*"Papa!" Maddy's scream was lost in the sound of wolves howling.
+A bear bellowed a battle cry.
 Pikes and axes in their paws,
 the village militia poured into the square.*
 
-*A bolo whipped over Maddy's head and tangled around the head of the bot
-that had struck her father.
-The bot tore it away
-and tossed her father into the back of the hauler
-with a single mighty heave.
-Metal rang on metal as it knocked aside a pike thrust.*
-
-*The horn blared again.
+*A bolo whipped over Maddy's head and tangled around the head of the bot that had struck her father.
+With a single mighty heave it tossed her father into the back of the hauler.
+Metal rang on metal as it knocked aside a pike thrust.
+The horn blared again.
 Something with rotors roared by overhead.
 Another canister of dizzysmoke hit the cobblestones,
 forcing the militia backward as the bots made their escape.*
@@ -893,7 +838,7 @@ forcing the militia backward as the bots made their escape.*
 *Everyone told Maddy afterward that it wasn't her fault.
 The ox and the goat who had been on guard duty that night had vanished,
 no doubt the first to be taken as the bots snuck up on the village.
-Three others had been thrown into the hauler as well as Maddy's father.
+Three others had been in the hauler as well as Maddy's father.
 It would all have happened even if she hadn't fallen asleep,
 even if she hadn't let Sindy wander off.
 If she had tried to help her father,
@@ -903,17 +848,17 @@ but it didn't make any difference.*
 
 ## Episode 3: You Gotta Listen!
 
-"Wait---a sneak attack?"
+*"Wait---a sneak attack?"
 Maddy demanded.
-"When?"
+"When?"*
 
-The bot's lenses rotated in a mechanical blink.
-"Tonight."
+*The bot's lenses rotated in a mechanical blink.
+"Tonight."*
 
 Maddy stared at it.
 "What do you mean 'tonight'?" she blurted.
 
-"The upcoming diurnal period of darkness," the bot answered.
+"The next diurnal period of darkness," the bot answered.
 "'Diurnal' meaning 'of or pertaining to the day'.
 The phenomenon is caused by the earth's rotation, which---"
 
@@ -923,7 +868,7 @@ You're attacking Rusty Bridge *tonight*?"
 
 "Negative," the bot said firmly.
 "This one will not be attacking at all.
-It does not have to now that its regulator has been rendered inoperative."
+It does not have to now that its regulator has been rendered nonfunctional."
 Without warning it twisted its long arms around at an angle no living thing could have matched.
 A high-pitched whine was followed by a tinny *clink!*
 as a screw dropped and bounced off a stone.
@@ -933,12 +878,12 @@ Whine-*clink!*
 Whine-*clink!*
 Three more screws fell to the ground.
 "There."
-The bot held up the black regulator that had been fastened to its back,
+The bot held up the black box that had been fastened to its back,
 studied it for a moment,
 then tossed it onto the sandbar.
 
 Gumption grabbed Maddy's sleeve.
-"We gotta warn folk!" he said urgently.
+"We gotta get back and warn folk!" he said urgently.
 
 Maddy nodded, her mind whirling.
 She took two steps then pulled up short and turned back to the bot.
@@ -953,11 +898,10 @@ Its lenses rotated.
 this one has just made a choice."
 
 With no more warning than that,
-the bot strode through the shallows and up onto the riverbank.
+the bot strode through the shallows to the riverbank.
 Something clunked inside it.
 A single wire-spoked wheel the size of Maddy's head folded down from its torso.
-The bot retracted its legs and zipped away into the trees
-without a goodbye or even a backward glance.
+The bot retracted its legs and zipped away into the trees.
 
 "Well, I didn't see *that* coming,"
 Gumption admitted in the silence that followed.
@@ -972,19 +916,18 @@ and handed it to Gumption.
 If we can convince her,
 maybe she can convince everyone else."
 
-Leaving the solar panels and the tangled machinery behind,
+Leaving the solar panels and the submerged machine behind,
 they hurried back to the Roo family home
 to find Sindy sitting on the front steps swishing a twig back and forth.
-"I wanted to come with you," she whined
-as Maddy and Gumption paused to catch their breath.
+"I wanted to come with you," she whined as Maddy and Gumption paused to catch their breath.
 
 Maddy shook her head.
 "Never mind that.
-Is Special Leaf still here?"
+Is the shaper still here?"
 
 "He left," Sindy pouted.
 "But how come I couldn't come with you?
-It's *boring* all by myself."
+It's boring all by myself."
 
 "Well then maybe you ought to try being a little more interesting,"
 Maddy snapped.
@@ -992,12 +935,24 @@ Maddy snapped.
 Sindy's face fell.
 "That was *mean*," she said accusingly.
 
-"Yeah, well, cry me a rainstorm," Maddy said under her breath,
-stepping around her little sister.
+"Yeah, well, cry me a rainstorm," Maddy said under her breath.
+She stepped around her sister and reached for the door.
+Somehow her foot caught on the edge of the step and sent her sprawling.
+"Ooph!"
+
+"You aright?"
+Gumption asked,
+helping her up.
+
+Maddy glared at her sister.
+"What? I didn't do anything!" Sindy protested.
+
+Maddy shook off Gumption's paw.
+"It's aright, I'm fine.
+Let's go tell mama."
 
 Mama Roo was still in the kitchen,
-humming under her breath as she chopped grass and ferns
-for the next day's breakfast.
+humming under her breath as she chopped grass and ferns for the next day's breakfast.
 She jumped when Maddy and Gumption burst in.
 "Makers, you startled me!
 Wait, slow down, slow down!"
@@ -1008,24 +963,22 @@ Wait, a bot?
 What was---
 Hold up, hold up.
 I said, hold up!"
-
-The two teenagers finally stopped.
+The two children finally stopped.
 Mama Roo looked from one to the other.
 "Start from the beginning," she said.
 "And no interrupting."
 
 It only took a few moments for Maddy and Gumption to explain what had happened.
 Mama Roo looked at the black metal box in Gumption's arms
-and then began untying her apron.
+and then pulled off her apron.
 "All right.
 We need to tell the mayor.
 We need to tell *everyone*."
 
-The sun was tangled in the trees on the horizon
-as the foursome left the Roo home.
+The sun was tangled in trees on the horizon as the foursome left the Roo home.
 A light breeze ruffled Maddy's fur,
 just chill enough to give her goosebumps.
-Warm light spilled from the windows of the houses they hurried by,
+Warm light spilled from the windows of the house they hurried by,
 white or yellow or sometimes tinged with blue
 depending on what kind of salvaged bulb or strip or panel created it.
 Maddy felt a pang of regret
@@ -1033,23 +986,19 @@ for not hauling the solar panels she and Gumption had found
 all the way up onto the riverbank.
 *They'll be washed away by morning,*
 she thought despondently,
-then immediately felt guilty for worrying about
-the money they would have fetched
+then immediately felt guilty for worrying about money
 when people's lives might be at stake.
 
 The mayor's house was the only three-story building in Rusty Bridge,
 and also the only one with a balcony.
-Mayor Lupus only used it for official pronouncements.
-That evening,
-like most evenings,
-she sat or stood on the verandah to chat with passers-by,
+Mayor Lupus was standing on it when they arrived,
 her elbows on the railing and a glass of red wine in her paw.
 "It's the closest thing to actual blood I allow myself,"
 she always joked,
 baring her wolf teeth just a little when she smiled.
 Maddy had once heard her father say that the mayor was a *very* alpha female,
-and while some townspeople might grumble that
-it was time someone with hooves or horns had a turn running things,
+and while some of the goats might grumble that
+it was time someone with hooves had a turn running things,
 everyone expected that the mayor would still be standing on that balcony
 long after all of her fur had finished turning gray.
 
@@ -1115,7 +1064,7 @@ She looked at Mama Roo.
 
 Mama Roo shook her head.
 "I was at home.
-But they were in a mighty panic when they told me,
+But they were in a might panic when they told me,
 and I don't think they'd leave salvage without a good reason."
 
 "Hm," the mayor grunted again.
@@ -1123,10 +1072,10 @@ and I don't think they'd leave salvage without a good reason."
 
 "Will you at least ring the alarm bell?"
 Maddy asked desperately.
-The old bell hung on an enormous curlicue hook on the mayor's verandah.
+The old bell hung on an enormous curlicue hook on the porch of the mayor's house.
 Generations of village children had whispered to one another that
 it was made from the plating of a scavenger bot
-that had lurked beneath Rusty Bridge when there still was a bridge.
+that had made its home beneath Rusty Bridge when there still was a bridge.
 They stopped believing the story when they got older,
 not knowing that it was true.
 
@@ -1156,13 +1105,13 @@ Gumption said guiltily, scuffing the ground with his hoof.
 "It's aright," Maddy said,
 bumping her shoulder against his.
 
-"I just wish Special Leaf was here,"
+"I just wish Shaper Leaf was here,"
 Sindy complained.
 "He'd know what to do."
 
 "Well, speaking of trouble."
 Mama Roo raised her paw and waved.
-"Evening, special!
+"Evening, Shaper!
 Join us for a spell?"
 
 As if summoned by his name,
@@ -1174,11 +1123,11 @@ Evening, all.
 Warm one tonight."
 
 "It is," Mama Roo agreed politely.
-"But special, there's trouble."
+"But Shaper, there's trouble."
 She quickly summarized the children's story.
 
-"And it called this a regulator?"
-the special asked,
+"And it called this a 'regulator'?"
+the shaper asked,
 turning the black box over and over in his wrinkled paws.
 
 "Yup," Gumption confirmed.
@@ -1188,23 +1137,19 @@ The old tortoise shook his head.
 "I don't know for sure,
 but I've heard of such things.
 If a bot's got one of these on it,
-whoever has the controller can make it do whatever it wants.
-Kind of like these gadgets,
-except you don't have to have 'em fastened on."
-He jerked his chin toward the bulky lumps on his sweatered forearms.
+whoever has the controller can make it do whatever it wants."
 
 "Wow---that would be well more than handy,"
 Gumption said, awed.
 He nudged Maddy.
 "We'd never have to do chores again."
 
-Special Leaf shook his head again.
-"Not so handy for whoever's wearin' it,"
-he said.
-"You could make a bot do some horrible things
-and it wouldn't be able to stop itself."
+Shaper Leaf shook his head again.
+"Not so handy for whoever's wearing this end,"
+he said,
+suddenly sounding tired.
 
-Gumption scuffed the ground with his hoof,
+Gumption scuffed the ground with his hoof again,
 but whatever apology he might have made was cut off by a shout of,
 "Mayor Lupus! Mayor Lupus!"
 A goat with his shirt half-buttoned ran up to them, panting.
@@ -1219,10 +1164,9 @@ The goat gulped.
 There's bots coming,
 a whole pack of 'em!"
 
-"So much for havin' a cup of tea."
-Special Leaf sighed.
-He slipped between Maddy and Gumption,
-climbed the steps onto the mayor's verandah,
+"Excuse me."
+Shaper Leaf slipped between Maddy and Gumption,
+climbed the steps,
 and rang the alarm bell.
 
 ## Episode 4: Raid!
@@ -1230,15 +1174,15 @@ and rang the alarm bell.
 *Donk! Donk! Donk!*
 "Bother," the old tortoise said mildly,
 reaching into the bell and pulling a sock off the clapper.
-"I know it can be loud when the wind blows,
-but I keep telling the mayor she really shouldn't do that."
+"I keep telling the mayor she really shouldn't."
 
 *Dong! Dong! Dong!*
 This time the bell rang true,
-its peals echoing off the walls of the buildings around the square.
+its peals echoing off the walls of the building around the square.
 *Dong! Dong! Dong!*
 Three and a pause to signal an attack.
-Three and a pause to bring Maddy's memories of the worst night of her life rushing back.
+Three and a pause to bring Maddy's memories of the worst night of her life
+rushing back.
 
 Windows opened.
 Heads poked out.
@@ -1259,32 +1203,32 @@ Fear made her mother's voice stern.
 "Sindy, you go with your sister.
 You gotta run, both of you, fast as you can."
 
-"I'm not going 'less you are!" Sindy said stubbornly.
+"I'm not going unless you are!" Sindy said stubbornly.
 She was crying,
 Maddy realized,
-only then realizing that there were tears on her own cheeks as well.
+only then realizing that there were tears in her own fur as well.
 
 "Go with them,"
-Special Leaf urged Mama Roo.
+Shaper Leaf urged Mama Roo.
 "Keep them safe."
 
-"Aren't you comin' with us?" Sindy asked the old tortoise plaintively.
+"Will you come with us?" Sindy asked the old tortoise.
 
-Special Leaf smiled a wrinkly smile.
+Shaper Leaf smiled a wrinkly smile.
 "No.
-I am tortoise,
-and tortoises don't run from fights."
-He winked.
+I am tortoise.
+tortoises don't run from rights."
+He paused.
 "Mostly because we can't."
 
-But suddenly it was too late to run.
+And then suddenly it was too late to run.
 A tricycle bot roared into the square,
 waving its twig-thin arms to keep its balance
 as one back wheel came up in the air.
 
-"Get outta here, you!" shouted the goat who had sounded the alarm.
+"Get outta here, you!" the goat who had sounded the alarm shouted.
 Shirt tails flapping,
-he waved his arms at the bot as if trying to scare a goose back to its flock.
+he waved his arms at the bot as if he was trying to scare a goose back to its flock.
 
 "Look out!" Maddy yelled
 as black dizzysmoke began to spew out of the canister on the tricycle bot's back.
@@ -1299,54 +1243,49 @@ tires squealing on the cobblestones.
 A belch of greasy black smoke rolled over the goat.
 He stumbled, spun around, and fell to the ground.
 
-"Go!" Special Leaf ordered,
-pulling up the sleeves of his sweater to reveal
-the bulky silver sonic blasters fastened to his forearms.
-The ancient tech had a few dents and scratches,
-but had been polished until it gleamed.
-With a click and a whir,
-the blue-gray power indicator crystal on the back of each sonic started to glow.
+"Go! Run!" Shaper Leaf ordered,
+squaring his shoulders.
+Something popped as he rolled his head from side to side to loosen his neck.
 
 Maddy grabbed Sindy,
 spun around,
 and shrieked as the biggest bot she had ever seen rumbled into the square,
-completely blocking the street.
+completely blocking the street she had been about to take.
 It was practically a slab of metal,
-with blocky legs as wide as the double doors of the mayor's house
-and arms like tree trunks.
+its blocky legs as wide as the double doors of the mayor's house
+and its arms like tree trunks.
 Each leg ended in a pair of tractor treads,
 and as it rolled forward
 she saw that it was dragging a cage cart behind it.
 
-"Oh no," she moaned.
+"Oh no," she whispered.
 That cart could only mean one thing.
-The bots weren't here for salvage.
-They were here to take people,
-just like they had taken her father!
+The bots were here to steal people,
+just like they had stolen her father!
 
-"Not today, clunker," Special Leaf said.
+"Not today, clunker," Shaper Leaf said.
 He planted his feet firmly on the cobblestones,
-rolled his head to work out a kink,
-and swept his arms in a broad circle.
+rolled his head to work out one last kink,
+and then swept his arms in a broad circle.
 
-The earth groaned and split under the sonic's invisible wave of energy.
-A crack a meter wide opened right in front of the huge bot.
-"Ha!" Special Leaf crowed
-as one of the bot's treads fell into the fissure.
+The earth groaned and split.
+A crack fully a meter across opened right in front of the huge bot.
+"Ha!" Shaper Leaf crowed
+as one of the bot's treads nosedived into the fissure.
 
 *Crash!*
 The bot fell to one enormous knee.
 Its motors roared as it braced a hand on the cobbles
 and heaved itself back upright.
 
-Commmander Leaf raised his arms over his head
+Shaper Leaf raised his arms over his head
 and brought them down and around in a great clap
 right in front of where his belly button would have been
 if he'd had one.
 A square of cobbles punched upward in response,
 knocking the huge bot off balance once again.
 
-"Get 'im, Special, get 'im!" Gumption shouted.
+"Get 'im, Shaper, get 'im!" Gumption shouted.
 The young goat grabbed a loose cobblestone off the ground
 and threw it at the huge bot
 as it staggered and tried to regain its balance.
@@ -1368,25 +1307,21 @@ Two! The second stone clanked off its casing.
 As Maddy and Gumption straightened up with more stones in their paws,
 half a dozen more bots charged into the square.
 
-The power crystals on Special Leaf's sonics looked like little stars
-as he pointed at first one bot and then another.
-The smallest of the new arrivals flew backward through the air
-and hit the front of a building with a crash.
-Something with long legs and a small body sprawled full length.
-
-The old tortoise punched the air, one two three.
-Cobblestones flung themselves at the raiders,
+"Seriously?" Shaper Leaf muttered shakily.
+He punched the air, one two three.
+Cobblestones flung themselves at the new arrivals,
 leaving divots in the ground for them to trip over.
-A bot that looked like a trash can with arms and a single wheel
+Something with long legs and a small body sprawled full length.
+Another bot that looked like a trash can with arms and a single wheel
 bounced over one hole and veered around another
 only to be caught in a sudden rut.
-"Nurp ner," it buzzed loudly as its wheel snapped off.
+"Ner er," it buzzed loudly as its wheel snapped off.
 Its body rolled to a halt.
 To Maddy's horror,
 it righted itself and walked on its hands back to the trench
 to pull out the wheel and snap it back in place.
 
-"Go! Run!" Special Leaf gasped.
+"Go! Run!" Shaper Leaf gasped.
 "I can't keep this up much longer!"
 
 "We're not leaving you!" Maddy cried,
@@ -1439,7 +1374,7 @@ But so was Maddy.
 She jumped and kicked with all her might.
 The lead bot staggered back.
 
-The second bot knocked it aside and clattered forward on crab-like legs.
+The second bot knocked it aside and clattered forward on its crab-like legs.
 A tentacle lashed out, catching Maddy across her thighs.
 A jolt ran through her body.
 For a moment her mouth tasted like tin foil
@@ -1461,10 +1396,9 @@ each one finding its mark.
 As the bot spun around to face its new attacker,
 Maddy saw that it too had a black box fastened to its back.
 
-Stones clattered against the crab bot,
-some of them big enough to make dents.
+Thrown stones clattered against the crab bot.
 "Withdraw! Ouch! Withdraw! Ouch!"
-Its amplified command made Maddy's head ring.
+Its amplified command was so loud it made Maddy's head ring.
 Holding Sindy's limp body with a pair of tentacles,
 it scuttled across the square to the huge cargo bot.
 Two limp goats lay on the floor of the cage.
@@ -1478,14 +1412,13 @@ It spun around and aimed its tentacles at the militia.
 Two bursts of purple electricity shot out of them and struck the militia.
 They toppled over.
 
-The big bot rumbled away into the darkness towing its cart and its three prisoners
+Motors roaring,
+the big bot rumbled away into the darkness with its three prisoners behind it,
 leaving chaos in the village square.
 Half of the militia lay on the ground,
 dazed by dizzysmoke or shocked by the crab bot's final blast.
-Special Leaf was gesturing feebly,
-exhausted,
-but the power crystals on his sonics were exhausted too---it would be a day or more
-before sunlight and his own body motion recharged them.
+Shaper Leaf was gesturing feebly,
+but was too exhausted to make the earth obey him.
 Scattered plates of armor and parts of broken mechanical limbs
 proved that the bots had paid a heavy price for their victory,
 but as Mama Roo wrapped Gumption and Maddy in a hug
@@ -1498,7 +1431,7 @@ gone just like her father.
 We *have* to go after them!"
 Mama Roo shouted.
 Maddy hadn't imagined that her mother could look so fierce,
-but in that moment she looked like she could frighten an entire pride of lions.
+but in that moment she looked like she could frighten tigers.
 
 The mayor shook her head.
 "I'm sorry, Cedilia, you know I am.
@@ -1513,11 +1446,11 @@ we've only got the one."
 She scowled.
 "Not that it was much use against that crab thing."
 
-"And what about Special Leaf?"
+"And what about the shaper?"
 Mayor Lupus continued as Mama Roo opened her mouth again,
 gesturing at the porch steps
 where the old tortoise was sitting with his eyes closed,
-the wrinkles on his dark green face even deeper than usual.
+the wrinkles on his face even deeper than usual.
 "All he's got is pot scrapings.
 Even if we could catch up with 'em,
 we wouldn't have a chance."
@@ -1529,47 +1462,45 @@ Mama Roo's arm tightened around Maddy's shoulders.
 The old wolf sighed.
 "I am truly sorry, Cedilia.
 I'll come by later to look in on you.
-Right now I have to find out who those two goats were that they grabbed,
+Right now I have to find out who those two goats were that they took,
 and then start figuring out how they managed to sneak up on us like that."
 
 "It was the twins,"
-Special Leaf said,
+Shaper Leaf said,
 opening his eyes.
 He struggled to his feet,
-holding the steps' wooden banister to steady himself,
+one paw on the steps' wooden banister to steady himself,
 and waved off the mayor as she came over to help.
 "The one that had legs like a stork chased them right into the arms of
 the big one hauling the cage.
 I tried to trip it up, but..."
-He gestured helplessly with the silver machinery fastened to his forearms.
+He shook his head.
 "I'm sorry.
-I just didn't have enough juice."
+I'm just don't have the strength I used to."
 
-"Looked to me like you had plenty of juice,"
+"You looked plenty strong to me,"
 the mayor said firmly,
 clapping him on the shoulder.
 "The way you were throwing all those rocks around?
-Looked like a damn hailstorm.
 Never seen anything like it."
 
-"That wasn't me," Special Leaf protested,
+"That wasn't me," Shaper Leaf protested,
 but the mayor had already turned away
 to start barking orders at the militia.
-Salvage the scraps of armor that had been knocked off the bots during the fight.
-Pick up anyone who was still unconscious and get them indoors.
+Gather up the scraps of armor that had been knocked off the bots during the fight.
+Pick up those who were still unconscious and get them indoors.
 And someone---no, not just one person, best it be two together---get across to the Gruff family farm
 and let them know their boys had been taken.
 
 "I should go with them," Gumption said awkwardly.
-"They're my cousins,
-and my mama will be worrying about me.
-I'm really sorry about Sindy."
+"They're cousins, sort of, and my mama will be worrying about me.
+I'm really sorry."
 
 Maddy nodded,
 not trusting herself to speak.
 If she had run away when her mother told her too,
 or if she had somehow *made* the mayor believe that the ambush was coming,
-her sister would still be with them.
+then Sindy would still be with them.
 If only the bot they had warned them had come with them to warn everyone else.
 
 She froze.
@@ -1580,7 +1511,7 @@ We gotta find it!"
 
 The goat's eyes widened.
 He nodded.
-"We should go help, um, clean up," he said loudly.
+"We should go help folk, um, clean up," he said loudly.
 
 "Good idea," Maddy replied, raising her voice.
 "Mama, Gumption and I are gonna..."
@@ -1588,50 +1519,51 @@ She gestured at the mess in the square,
 not finishing her sentence so as not to actually lie.
 
 Her mother nodded,
-the grief on her face making her look older than the tortoise.
+the grief on her face making her look older than the tortoise's.
 "Thank you, Maddy,"
 she said, her voice somehow steady.
-"Special, let me see you back to yours."
+"Shaper, let me see you back to yours."
 
 Maddy and Gumption picked up an armload of cobblestones each
 and added them to the pile that the Ox brothers had already started.
 "We'll get those ones," Maddy said,
 pointing at the stones furthest from the pile.
-The nearest ox grunted,
+The ox grunted,
 not really listening.
-
-The two teenagers fetched the stones Maddy had pointed at
+The two children fetched the stones Maddy had pointed at
 and then,
 with only a glance and a nod to each other,
 walked back as if to pick up some more and just kept walking.
 It was a tactic they had used more than once
 to get out of picking potatoes,
 and as long as they acted
-as if they were doing something they were supposed to be doing,
-grownups would mostly not pay them any attention.
+as if they were supposed to be doing what they were doing,
+it seemed that grownups would mostly not notice
+exactly what that "what" was.
 
 Two minutes later they were in the small square
-where the black recharging pillar stood.
+where the black glass pillar stood.
 "Y'all should be home,"
 a passing bear said.
 
-"Yessir, headed that way," Gumption replied obediently.
+"Yessir, headed that way," Gumption replied loudly.
 He waited until the bear was out of earshot before whispering,
 "So where do we start?"
 
 "I dunno,"
 Maddy said despairingly.
-The recharging pillar was the only place she could think the bot might go.
-Tears welled up in her eyes.
-She wiped them angrily on her sleeve.
+"I figured it might come here, but..."
+She sighed.
 "This is hopeless.
 I'm never going to see Sindy again."
+Tears welled up in her eyes.
+She wiped them angrily on her sleeve.
 
 Gumption patted her shoulder awkwardly.
 "Don't say that.
 Maybe it went to the other one.
-It's not that far.
-I---I could walk with you if you want."
+It's only a bit away.
+Come on."
 Maddy sniffled,
 nodded,
 and fell into step beside him.
@@ -1645,7 +1577,7 @@ Where once the river and the road had bent in long parallel arcs,
 now the road ran through a forest
 with its former companion just a soft sound in the distance.
 
-Another black glass recharging pillar stood guard
+Another black glass pillar stood guard
 where that arc in the road bent back toward the river.
 Only grass and moss and a few brave flowers grew near it.
 
@@ -1662,9 +1594,9 @@ The cross-hatched treadmarks were still fresh.
 
 "It must have come here," Gumption said.
 
-"Yeah, or one of the raiders needed a recharge."
+"Yeah, or one of the other bots needed a recharge."
 Maddy shivered.
-The last of the day's warmth was gone,
+The last of the day's warmth was fading,
 and the forest around them looked more ominous with each darkening moment.
 They were a long way from the village
 and no one would know where to look for them.
@@ -1789,11 +1721,11 @@ Or with sufficient safety."
 
 Sometimes you have choices.
 Other times it feels like you have no more choice about what you do next
-than a rock has about whether or not to fall when it's been thrown.
+than a rock has about whether or not to pay attention to gravity.
 Maddy hugged Gumption,
 a real strong hug that she hoped said all the things
 she hadn't found the courage to say
-for the past few weeks
+for the past few weeks.
 every time they'd been alone together.
 "Go tell my mama," she said in his ear.
 "And you tell her I'm coming back, all right?
@@ -1813,7 +1745,7 @@ the time Pelter the horse from Three Posts had given them all rides at the fair.
 She closed her eyes,
 but that just made it worse,
 so she opened them,
-which made it even worser.
+which made it even worse.
 
 "Where's this base of yours?" she belated asked,
 half-shouting to be heard over wind of their passage
@@ -1831,29 +1763,29 @@ The ancient black surface beneath them was cracked in places,
 and Dockety had to swerve around fallen branches
 and the few clumps of weeds tough enough to have broken through the road,
 but for the first time in her life Maddy felt her fur
-actually blown back by speed.
+actually blowing in the wind of their speed.
 "Woo hoo!" she whooped.
 It was too big to be afraid of.
 
 Without warning a pair of thin green lines of light lanced out
 from either side of Dockety's eyes.
-The bot's head began snapping from side to side,
+The bot's head began snapping from side to side again,
 left-right-left-right,
 sweeping the lasers across the pavement
-to trace a picture of its bumps and cracks in the darkness.
+to trace a picture of its ups and downs in the darkness.
 It reminded Maddy of the rubbings her father used to make
 by putting a piece of paper over something
 and going back and forth over it with a pencil
 to bring out the shape underneath.
 
-As the last dregs of daylight drained away and the stars came out
+As the last of the daylight faded away and the stars began to come out
 they passed under a line of ruined arches
 that stretched from one horizon to the other.
 A half-sunken metal sphere as big as a house was next,
 and then a tangle of concrete and bent bars
 that the villagers just called "the thing".
 Maddy had heard about all of them from travelers
-and by eavesdropping on the militia patrols
+and by eavesdropping on militia patrols
 that the mayor occasionally sent along the highway
 to see whether trouble was brewing.
 She had dreamed of seeing them herself,
@@ -1861,7 +1793,7 @@ and of painting them,
 but she had never imagined it would happen like this.
 
 The ground around them grew damp as they raced along,
-and the smell of rotting vegetation and rust made Maddy wrinkle her nose.
+and the smell of damp vegetation and rust made Maddy wrinkle her nose.
 They were entering the Mire,
 the great trackless swamp that separated the bot city of Heck
 from the forests and farms where Maddy had grown up.
@@ -1875,7 +1807,6 @@ half a dozen bots,
 no two alike,
 and in their midst the big cargo hauler and the cage cart.
 
-Maddy counted quickly.
 "Where are the others?" Maddy asked,
 shouting once more to be heard.
 
@@ -1888,9 +1819,8 @@ to scoop up one rock and then another.
 "Take this," it ordered,
 handing her one of the rocks.
 "Get on the cage.
-Climb forward, then get on the one pulling the cart and disable its regular.
-Forcefully,"
-it added.
+Climb forward, then climb onto the one pulling the cart.
+Disable its regular."
 
 "What!?"
 Maddy exclaimed.
@@ -1904,7 +1834,7 @@ Closer, closer---a periscope popped up out of the head
 of the bot at the tail of the convoy and twisted around to point at them.
 Dockety put on sudden burst of speed.
 As it raced past the bot with the periscope
-Dockety tossed its rock at the other bot's wheels.
+it tossed its rock onto the highway.
 *Bang! Crash!*
 The bot with the periscope tumbled through the air,
 knocking another off balance.
@@ -1915,7 +1845,7 @@ Dockety hurled Maddy into the air.
 
 Maddy screamed.
 Afterward,
-she wished it had been a proper battle cry,
+she would wish that it had been a proper battle cry,
 like a wolf's howl or a lion's roar,
 but it was just a normal everyday terrified scream.
 
@@ -1936,7 +1866,7 @@ Maddy shouted down at the three captives.
 "We're going to get you out of there!"
 
 Dockety raced forward and body-checked another raider bot
-as it ratcheted up on its wheeled legs and tried to grab Maddy.
+just as it ratcheted up on its wheeled legs and tried to grab Maddy.
 The young roo pulled her legs under her,
 ignoring the pain of the metal bars bashing against her shins
 every time the cart hit a bump.
@@ -1974,8 +1904,7 @@ She thought the cargo bot would just pull away smoothly
 to leave the unhitched cage cart rolling along the highway behind it.
 That didn't happen.
 Instead,
-there a loud crash
-as Dockety and a raider bot slammed into the side of the cage,
+there a loud crash as Dockety and a raider bot slammed into the side of the cage,
 their manipulators grappling for holds on each other.
 
 Maddy screamed for a third time as the cart careened off the road.
@@ -1988,7 +1917,7 @@ Maddy scrambled to her feet and ran after it.
 The cart slid to a halt just a few paces from the edge of the muck.
 Rusty scraps of old machinery lay all around.
 Maddy grabbed one end of a metal bar and pulled with all her might.
-The bar came free of the mud with a disgusting *shlurp*.
+The bar came free of the mud with a shlurping sound.
 
 She ran over to the cart.
 Luckily,
@@ -1996,7 +1925,7 @@ it had landed door side up.
 She tossed her bar on top of it,
 scrambled up,
 wedged the end of the bar in by the lock,
-and leaned her whole weight against it.
+and levered it with all her might.
 *Pank!*
 The lock burst open.
 
@@ -2008,8 +1937,8 @@ Hey!"
 One of the goats lifted her up so that Maddy could grab her wrist,
 then reached up himself.
 
-A few moments later the four of them were standing beside the cage.
-Maddy had her arms wrapped around her sister.
+A few moments later all four of them were standing beside the cage
+and Maddy had her arms wrapped around her sister.
 "I was so afraid," she whispered in Sindy's ear.
 "I was so afraid I'd never see you again."
 
@@ -2029,8 +1958,7 @@ she said coldly.
 "We would've been aright,"
 Bluster said defensively.
 "Wouldn't we?"
-He nudged his brother,
-who glanced at Maddy apologetically but didn't say anything.
+He nudged his brother, who nodded.
 
 Sindy took her sister's paw.
 "Was that a bot helping you?" she asked.
@@ -2071,24 +1999,24 @@ The cargo bot backed up and rumbled away to look for them elsewhere.
 Maddy let out her breath with a whoosh.
 "Come on," she ordered the others.
 
-"Where?" Bluster demanded.
+"Come where?" Bluster demanded.
 
 Maddy gave him a cold look.
 "Anywhere that isn't here.
-But if you want to stay put, go ahead.
+But if you two want to stay, go ahead.
 Come on, Sindy."
 She took her sister's paw and started walking.
-A moment later the goat twins followed them.
+A moment later the grumbling goats followed them.
 
 *Shlurp shlurp shlurp...*
 At first Maddy tried to pick her way from rock to rock,
-but her feet were soaked and muddy after just a few steps
+but her feet were soaked and muddy after just a few dozen steps
 so she gave up and just trudged in as straight a line as she could,
 which wasn't very straight.
 The river was wide and shallow in the Mire,
 and any three people would have had four different opinions
 about where its bank actually was,
-or whether even it had one.
+or whether indeed it had one.
 The smell of damp vegetation was almost overpowering.
 A sharp chemical tang came and went,
 reminding Maddy of the turpentine she used to clean her paintbrushes
@@ -2098,12 +2026,12 @@ If they got back to Rusty Bridge,
 she was going to take the longest, soapiest bath of her entire life.
 
 They stopped twice when they heard motors revving in the distance,
-crouching behind whatever bushes were nearby until the sound faded.
-After a few minutes they reached a stand of trees,
-fingerling willows no taller than Maddy
+crouching behind whatever cover they could find until the sound faded.
+All of a sudden they found themselves among trees,
+fingerling willows no taller than they were
 and then larger ones whose branches bent in elegant sad arcs.
 Some of their leaves shimmered metallically,
-tinkling faintly in the breeze.
+almost too faintly to be seen.
 The foursome steered clear of those ones.
 
 They had been walking for about half an hour
@@ -2125,25 +2053,24 @@ then swore as he tried to take a step.
 "Idiot."
 Bluster punched him in the shoulder.
 "Why'd you go and do that?"
-Bravo punched him back, harder.
 
-"Stop that!" Maddy snapped.
+Bravo punched him back, harder.
+"Stop it!" Maddy snapped.
 "Let me have a look at it."
 
 "Oh, so you're a doctor now?"
 Bluster said sarcastically.
-"Know-it-all."
 
-"She knows a bucket more'n you," Sindy said loyally.
-"And she's quieter too," she added pointedly as Bluster opened his mouth.
+"She's smarter than you," Sindy said loyally.
+"And quieter, too," she added pointedly as Bluster opened his mouth.
 
 Maddy straightened up.
 "I don't think it's sprained," she told Bravo.
 "Just do the best you can, aright?"
 The goat nodded.
 
-They went more slowly after that.
-Bravo leaned on Bluster and Sindy needed rest more and more frequently.
+They went more slowly after that,
+Bravo leaning on Bluster and Sindy needing rest more and more frequently.
 Maddy had to bite her tongue to stop herself from telling them all to hurry up.
 It would take them days to get back to Rusty Bridge at this speed,
 but there was nothing she could do about it
@@ -2151,7 +2078,8 @@ except hope that Gumption had convinced the mayor
 to send people to rescue them.
 
 A particularly squelchy patch of land
-sent them in a wide arc that brought them nearer the highway than Maddy liked.
+sent them in a wide arc that brought them nearer the highway
+than Maddy liked.
 *Just 'til we're past that tall tree,*
 she promised herself.
 
@@ -2163,8 +2091,7 @@ It was the long-legged bot from the raid on Rusty Bridge,
 and it had spotted them!
 
 "Back to the river!" she yelled.
-The muddy ground was their only hope---the long-legged bot would sink
-if it tried to follow them.
+The soft, muddy ground was their only hope.
 
 "Maddy!" her sister shrieked.
 Drawn by the horn and the searchlight,
@@ -2180,13 +2107,13 @@ Maddy realized,
 and now they were caught with nowhere to run
 as the three bots closed in.
 
-"Head for those trees!" she yelled, pointing.
+"Get into those trees!" she ordered Bluster and Bravo.
 They wouldn't stop the bots,
 or even slow them down for more than a few seconds,
 but it was all she could think of.
 
 *Zzzrrr!*
-The sawbot waved its whizzing arm at them,
+The sawbot swung its whizzing arm at them,
 trying to drive them back into the open.
 Bravo pulled a clump of mud out of the ground and threw it at the bot.
 It splatted uselessly on its rust-stained torso.
@@ -2195,7 +2122,7 @@ It splatted uselessly on its rust-stained torso.
 The chainsaw swung again as the long-legged bot with the searchlight
 tried to grab Sindy with one of its elongated arms.
 "Get away!" she shouted angrily,
-scooping up some mud of her own to throw.
+scooping up some mud and flinging it.
 
 *Splat!*
 The mud hit the searchlight,
@@ -2213,7 +2140,7 @@ windmilling its arms just a person as it tried to regain its balance.
 *Shlurp!*
 One of its feet landed in a muddy sinkhole.
 Its horn blared as it toppled over
-and fell on the boatbot's head
+and fellright on the boatbot's head
 with a sound like an empty can being crunched underfoot.
 
 "Go!" Maddy shouted.
@@ -2229,8 +2156,8 @@ But Maddy and Sindy were too slow.
 The chainsaw bot blocked their way,
 its arm whizzing angrily.
 
-And then something rocketed out of nowhere,
-bounced into the air,
+And then something rocketed out of nowhere
+and bounced into the air
 and slammed into the sawbot at just the right spot.
 The sawbot tipped and tilted and fell on its side,
 its heavy treads throwing mud and muck into the air
@@ -2246,30 +2173,29 @@ and flicked it onto the sawbot.
 "We're fine.
 Oh, I'm so glad to see you!"
 
-"But Maddy---the boat!
-They're taking the boat!"
+"But Maddy---the boat!"
 Sindy pulled on her sleeve.
 
 Maddy spun around.
 Her heart sank.
 The two goats were drifting away on the current.
 
-"Come back!" she yelled.
+"Turn around!" she yelled.
 "Please! Come back!"
 
 "I don't know how!"
-Bravo shouted through cupped paws.
+Bluster shouted back to her.
 "But we'll get help!"
 
 Moments later they vanished into the night,
 leaving the two young roos alone in the Mire
 with a dented bot for company
-and no idea how to get home.
+and no idea how they would get home.
 
 ## Episode 7: ...And Into the Mire
 
 "Thank you for saving us,"
-Maddy said to Dockety belatedly once the boat was finally out of sight.
+Maddy said to Dockety.
 "They would have had us for sure."
 
 "Theze onez were *click*,"
@@ -2282,9 +2208,9 @@ Sindy ventured.
 
 "They did not have a choize.
 Botz do not have choizez when regulatorz are put on them.
-Bots are not bad.
 *Regulatorz* are bad."
-Its heavy claw clicked a rapid angry staccato.
+Its heavy claw clicked twice
+in what Maddy now realized was the equivalent of an angry scowl.
 
 The river gurgled quietly beside them as they stood for a moment without speaking.
 Moonlight gleamed through a break in the clouds.
@@ -2295,8 +2221,8 @@ Something scraped and creaked as it took a step.
 "Wait---you're hurt!"
 Maddy exclaimed
 as the moonlight fell on a dent in the bot's side.
-It had hit the sawbot so hard that one of its torso plates had bent inward,
-leaving a small gap like a wound.
+It had hit the sawbot so hard that two of its torso plates had bent inward,
+leaving a gap like a wound.
 
 "Thiz one cannot feel hurt.
 But it doez buzz a little,"
@@ -2312,42 +2238,42 @@ She scooped a piece of metal off the ground and held it out to Dockety.
 The bot took it from her.
 Its lasers flashed green as it scanned the curved place.
 "It zhould be zuffizient," it acknowledged.
-With no more ceremony than that it unscrewed the bent plate,
-tossed it aside,
+With no more ceremony than that it unscrewed the bent plates,
+tossed them aside,
 and fastened the salvaged piece of metal in their place.
 
 *Eww*, Maddy thought,
-slightly queasy at the sight of the impromptu surgery,
+feeling slightly queasy at the impromptu surgery,
 but Dockety's lenses rotated.
 "That is better," it pronounced,
 its voice back to normal.
 
 Maddy nudged her sister with her shoulder.
-"Good on you."
+"That was lucky."
 
+Sindy shrugged.
+"I guess,
+but I don't *feel* very lucky."
 Even as she spoke something hooted in the distance.
 "How are we going to get *home*, Maddy?"
-her sister asked in a frightened little voice.
 
 "I don't know,"
-Maddy confessed helplessly.
+Maddy said helplessly.
 
 The hoot came again.
 Another answered it.
-"There are worse things here than Lasercase and its crew,"
+"There are worse things here than Lasercase,"
 Dockety said darkly.
 "We must go."
 
-They set off again,
-west toward their distant home.
+And so they set off again.
 Dockety took the lead,
 scanning the ground with its lasers
-and occasionally waving them around bubbling sinkholes
-or gloopy bits of especially swampy ground.
+and occasionally waving them around sinkholes or gloopy bubbling bits of especially swampy ground.
 Maddy brought up the rear
 so that she could be sure Sindy didn't fall behind.
 She tried humming a tune for a while,
-the way their mother did when they all went for a walk,
+the way their mother did when they were on a long walk,
 but it just made the bent trees around them seem more ominous.
 
 *Sploosh.*
@@ -2365,7 +2291,7 @@ and the fact that the frogs have all stopped burping,
 it is probably both large and dangerous.
 We should adjust course."
 
-They picked their way hurriedly toward higher ground.
+They picked their way carefully toward higher ground.
 It brought them closer to the highway,
 but Maddy decided wearily that she was less afraid of Lasercase and the other bots
 than she was of something that could survive in the polluted river.
@@ -2382,11 +2308,11 @@ I bet Mama's scared too.
 Oops!
 Sorry!"
 
-Dockety had stopped so abruptly that Maddie walked right into it.
-Two green laser beams skittered across the ground for a second.
+Dockety had stopped so abruptly that Maddie walked right into him.
+Its lasers danced across the ground.
 "There is a path here," it said.
 "Processing.
-Curious---it is not in the database."
+It is not in the database."
 
 "Does it go up to the highway?" Maddy asked.
 
@@ -2403,7 +2329,7 @@ but one entire side now lay revealed by the moonlight.
 She swallowed,
 her fatigue and hunger momentarily forgotten.
 There was a door in the bunker's side,
-as thick as her fingers could spread wide,
+a door as thick as her paw could spread wide,
 and it was open.
 
 Sindy took Maddy's paw.
@@ -2412,13 +2338,12 @@ she whispered.
 
 Maddy nodded.
 She was about to say they would go around
-when she heard another *sploosh* in the river below.
+when she heard another *sploosh* in the river twenty meters away.
 "Do you think it's safe?" she asked Dockety.
 
 The bot's lenses rotated.
-"Unlikely.
-Very little is safe in this region.
-But its absence from this one's database is unusual."
+"Unknown.
+Its absence from this one's database is puzzling."
 
 Maddy took a deep breath and let it out.
 "Well,
@@ -2433,8 +2358,8 @@ It's *scary*.
 It looks like it has spiders."
 
 She put her arm around her little sister's shoulders.
-"We have to rest somewhere,"
-she said into the warm patch of fur on top of Sindy's head.
+"We have to sleep somewhere,"
+she said into the warm fur on top of Sindy's head.
 "And if there are spiders,
 Dockety can squish them for us.
 All right?"
@@ -2452,29 +2377,27 @@ She was about to slip through the door when Dockety put a manipulator on her arm
 "This one will go first," it said.
 Reaching up to its chest,
 it slid a small panel to one side to reveal a circle of glass.
+It brightened and then dimmed.
 Dockety tapped it with a metal finger.
-The circle brightened,
-dimmed,
-and brightened once again
-to cast a comforting white light on the ground in front of them.
+It brightened once again and steadied,
+casting a soft white light on the ground in front of them.
 
-The door was open just enough for the bot to scrape through.
+The door was open just wide enough for the bot to squeeze through.
 Maddy and Sindy waited outside,
 hearts pounding,
-until Dockety said,
+until they heard it say,
 "It appears unoccupied."
 Maddy shooed her sister through and then followed.
 
 They found themselves in an empty room.
-The walls and roof were bare concrete blocks,
-and the floor was blanketed with dried mud and blown leaves.
+The floor was blanketed with dried mud and blown leaves.
+The walls and roof were bare concrete blocks.
 Dockety turned to shine its flashlight on a rust-streaked sign
-fastened opposite the door that read,
+fastened opposite the door that said
 "Emergency Defenses Control Station".
-A broken screen stood on a pedestal beneath it.
-Next to the sign and the screen was another door,
-this one closed tight,
-and a pair of rusty levers.
+A broken screen stood on a pedestal beneath it,
+and next to both was another door,
+this one closed tight.
 
 "See?" Maddy said much more bravely than she felt.
 "No spiders."
@@ -2502,8 +2425,7 @@ as her gently snoring sister.
 
 She woke a few moments or an hour later.
 Her head felt like it was stuffed with dirty laundry,
-and her tongue tasted like something from the river had crawled into it
-and made a nest.
+and her tongue tasted like---she didn't want to think what it tasted like.
 She rubbed her eyes.
 What had woken her?
 
@@ -2511,7 +2433,7 @@ As if in answer,
 something rustled outside the door.
 She held her breath,
 hoping it was just the wind or a stray frog,
-but the sound came again.
+but then she heard it again.
 
 Moving slowly,
 she picked a pebble out of the muddy floor beside her
@@ -2532,7 +2454,7 @@ Maddy put a paw over Sindy's mouth as her sister stirred.
 Nothing... nothing...
 *Rustle.*
 A long mechanical tentacle slid through the door like a snake,
-bits of slimy river weed still clinging to it in places.
+bits of river weed still clinging to it in places.
 
 "Mmph?"
 Sindy struggled in Maddy's lap.
@@ -2556,7 +2478,7 @@ The lever dropped with a loud *clack*.
 Maddy had only a heartbeat to duck and pull Sindy down with her
 as the tentacle lifted off the ground and struck the wall.
 *Smack!*
-The tentacle whipped back and slapped the wall again.
+The tentacle whipped back and hit the wall again.
 
 On the wall opposite the door they'd come through,
 the second door began to grind open.
@@ -2579,12 +2501,11 @@ Without waiting to see what the bot did
 she grabbed a pawful of mud and threw it at the tentacle.
 "Hah! Whoa!"
 She ducked and rolled under it,
-rolling again as it slapped the ground.
+then rolled again as it slapped the ground.
 
 Dockety took hold of the inner door with its claw manipulator,
 placed one metal foot on the wall,
-and pulled.
-Its motors whined.
+and shoved.
 The door scraped open another few millimeters.
 
 "Keep going!"
@@ -2596,7 +2517,7 @@ and jumped as it swept across the floor again.
 She squeezed through.
 
 *Scrape.*
-Dockety gave one last pull.
+Dockety gave one last push.
 "Make haste," it said.
 
 Maddy didn't need any more encouragement than that.
@@ -2611,21 +2532,21 @@ Maddy screamed.
 She tried to pull her leg free,
 bu the tentacle's grip was iron-strong.
 "Help! Help!"
-She flung pawfuls of dirt and dead leaves at the tentacle
+She flung pawfuls of dirt and dead leaves at it
 as it dragged her across the floor.
 
 Dockety scraped through the door behind her
 and flung itself at the tentacle.
 "Release! Release!" it rasped
 as it grabbed the loop around Maddy's leg
-and strained to pry it loose.
+and tried to pry it loose.
 
 Maddy kicked and pulled,
 but couldn't get her ankle free.
 "Release! Imperative! Release!"
 Dockety hit the tentacle with its heavy manipulator,
 then grabbed it again,
-but the swamp slime was too slick for the bot to get a grip.
+all to no avail.
 
 "Maddy!"
 Sindy squeezed through the rear door and ran to her sister.
@@ -2640,7 +2561,7 @@ The braided string was clagged with mud,
 and so damp that it might as well have been dipped in glue.
 "Come on come on come on," she muttered frantically.
 There!
-Her fingers finally found purchase.
+Her fingernail finally found purchase.
 She pulled one end loose and hastily undid the rest of the knot.
 
 "Pull!" she yelled at Dockety.
@@ -2650,30 +2571,31 @@ She was out!
 
 She scrambled to her feet
 just as the tentacle realized its prey had somehow escaped.
-It threw the boot across the room and lashed out,
+It threw the boot across the foot and lashed out,
 trying to find her again.
 
 *Clunk!*
-The boot hit the second lever on the wall next to the inner door.
+The boot hit one of the levers in the wall.
 Rumbling and grinding,
-the outer door began to close.
+the door to the outside began to close.
 
-The tentacle lashed out one last time
-before slithering back so that it wouldn't be cut in half.
+The tentacle lashed out again,
+then began to slither back so that it would be cut in half.
 "Go!" Maddy ordered Sindy.
 With Dockety right behind them,
-they squeezed through the inner door.
+they squeezed through the rear door.
 
-They found themselves on a small platform at the top of
+Maddy found herself on a small platform at the top of
 a flight of broad concrete stairs.
 Even with Dockety's chest light at its brightest,
 they couldn't see how far the steps went.
-"Did you go down?" Maddy asked her sister in a hushed voice.
+"Did you go down?" she asked Sindy,
+her voice hushed.
 
-Sindy shook her head.
+Her sister shook her head.
 "We were waiting for you."
-Without warning she flung her arms around Maddy and hugged her hard.
-"I was *scared*."
+And then she flung her arms around Maddy and gave her a hug.
+"I was scared."
 
 Maddy hugged her back.
 "I was scared too."
@@ -2699,17 +2621,14 @@ not even dust under her finger when she ran it over the wall.
 the bot replied.
 "This one is analyzing the gap in its database.
 It is clearly deliberate.
-Something erased the existence of this facility.
-That is unlikely to be good news,"
-it added bleakly.
+This one's memory has been tampered with."
 
 Forty steps, fifty...
-"Maybe you just can't find it because we knocked that thing off you,"
-Maddy suggested to fill the silence.
+"Is it because of that thing we knocked off you?"
 
 "Negative.
 The regulator was an involuntary alteration."
-Its chest light brightened angrily for a moment.
+Its chest light brightened momentarily as if it was scowling.
 "Lasercase attaches them to whatever bots it can catch,
 then uses them to catch more bots."
 
@@ -2718,7 +2637,7 @@ Maddy added bitterly.
 
 Dockety's lenses rotated.
 "Correct.
-But this one does not know why it collects people.
+But this one does not know why it orders us to collect people.
 It does not keep them."
 
 Maddy glanced at the bot.
@@ -2754,8 +2673,7 @@ Dockety hesitated.
 It swiveled its head to look at Maddy.
 "But Crusher is an 'it', please, as is this one."
 
-"I'm hungry,"
-Sindy interrupted while Maddy was digesting that.
+"I'm hungry," Sindy said before Maddy could reply.
 
 "I know,"
 the older roo said,
@@ -2777,14 +2695,12 @@ Maddy gulped.
 "Sure," she said as bravely as she could.
 
 Sixty, seventy...
-The steps brought them to a corridor
-made of the same featureless gray concrete as the stairs.
+The steps brought them to a corridor made of the same featureless gray concrete.
 Square glass panels sat in the ceiling every dozen steps,
 the light they must once have cast long since dimmed.
 There were no doors,
-no side passages,
-no turnings or signs or anything else
-that might give a hint what the complex was for or who had built it.
+no branches,
+no turnings or signs or anything.
 
 Maddy counted off fifty steps,
 then another fifty.
@@ -2807,20 +2723,25 @@ Its motors whined as it teetered on the edge of the hole,
 fighting for balance.
 
 *Crack!*
-The floor tile under the bot's foot snapped in half.
-Dockety half-fell into the hole.
-Its torso hit the floor with a *clunk!*
-For one terrifying moment Maddy was sure it was going to fall all the way in,
-but somehow the bot's manipulators found purchase on the concrete.
+The floor file under the bot's foot snapped in half.
+Dockety plummeted into the hole,
+toppling backward at the same time.
+*Crash!*
+Its torso hit the floor.
+For one terrifying moment Maddy was sure it was gone,
+but somehow the bot's manipulators found purchase on the concrete
+and steadied it long enough for it to retract its legs.
 
-Sindy stumbled backward to get out of the way.
-Her paw hit a patch of wall directly beneath one of the darkened lighting panels.
+As it did so,
+Sindy stumbled backward.
+Her paw fell on a patch of wall directly beneath one of the darkened lighting panels.
 Something *clicked*.
 Above their heads and all along the corridor,
 the lights flickered and came to life.
 
-Maddy helped Dockety scrape its way out of the hole.
-The bot got back to its feet.
+Maddy dragged Dockety away from the hole.
+The bot lifted itself into a squat
+and then extended its legs back to their normal length.
 Its lenses rotated rapidly.
 "Thank you," it said.
 
@@ -2839,40 +2760,38 @@ she repeated.
 "You keep doing it."
 
 And that was when a crackly voice said through speakers,
-"Well, since you're here,
-you might as well come and say hello."
+"Well, you are here now. You might as well come and say hello."
 
 ## Episode 9: Patient in Darkness
 
-*Click. Click. Click.*
-One by one the ceiling lights that had come on behind them went out.
+*Click.*
+The ceiling lights that had come on behind them went out.
 *Bzzzt... Bzzzt...*
-Two more lights in front of them came to life.
+Two lights in front of them came to life.
 
 "You're smothering me,"
 Sindy said,
-her voice muffled by Maddy's suddenly-tighter hug.
+her voice muffled.
 
 "Sorry."
 Maddy released her little sister and swallowed.
 Maybe the darkness hadn't been so bad after all...
 
 The hard white light showed what Dockety's chest lamp had not.
-Faint water stains blotched the walls of the corridor.
-Here and there shallow scorch marks ran across the concrete.
+Faint water stains blotched the walls of the corridor,
+and here and there shallow dark lines had been scorched into the concrete.
 Maddy had never seen them before,
-but she recognized them instantly from stories:
+but she instantly recognized them from stories:
 they were laser burns.
 
-The hole that Dockety had almost fallen into took up three quarters of the corridor.
-Its edges and corners were too square to be natural,
-and after a moment Maddy realized that
-half a dozen of the concrete blocks the floor was made of
-had fallen into a space below them,
-leaving just enough room on one side to get past walking single file.
+The hole they had almost fallen into took up three quarters of the corridor.
+Its edges and corners were too crisp to be natural,
+and after a moment Maddy realized that they weren't in a tunnel.
+They were in a corridor whose floor was made of the same blocks as the walls and ceiling.
+Half a dozen of those blocks had somehow fallen into the space below them,
+leaving just enough room on one side for them to get past the gap single file.
 
-"Well?" the crackly voice said,
-still cheerful but slightly impatient.
+"Well?" the crackly voice said impatiently.
 "What are you waiting for?"
 
 Maddy looked at Dockety.
@@ -2886,18 +2805,18 @@ Sindy, you stay here 'til we know it's safe."
 
 Taking a deep breath,
 she put one foot on the ledge beside the hole.
-The floor *felt* solid,
+The floor felt solid,
 even when she gingerly shifted her weight onto it.
-She edged across with her back pressed against the wall,
-shuffling her feet and definitely *not* looking
-into the hole whose bottom she still couldn't see.
-What if whoever had spoken to them suddenly decided to turn the lights off again?
-She would be aright, she told herself sternly.
-She would just keep going,
+Back to the wall,
+she edged across,
+shuffling her feet and keeping her eyes on the angle where the wall met the floor
+and definitely *not* looking into the hole whose bottom she still couldn't see.
+What if whoever had spoken to them turned off the lights all of a sudden?
+She would be aright---she would just keep going,
 or shuffle back to where Dockety stood motionless
 while Sindy wrung her paws.
 
-And then she was on the other side.
+And then she was across.
 She let her breath out with a whoosh,
 suddenly realizing how long it had been since she peed.
 "Come on,"
@@ -2907,7 +2826,7 @@ she encouraged her sister.
 Sindy nodded jerkily.
 Instead of putting her back against the wall she pressed herself against it.
 Slide, slide, slide---she practically leaped into Maddy's arms once she was across.
-"You did great," the older roo whispered into her little round ear.
+"You did great," the older roo whispered into her ear.
 
 "Thanks," Sindy said, wriggling out of Maddy's arms.
 "Come on, it's easy!" she called back to Dockety.
@@ -2920,26 +2839,24 @@ and its body was too wide to---
 Without warning the bot retracted its legs and dropped its wheel.
 Its engine whined as it zipped back ten meters,
 then roared as it raced toward the hole.
-"Whoa!" Maddy shouted as it punched the floor with both of its feet,
+"Whoa!" Maddy shouted as it punched the floor with both paws,
 throwing itself into the air.
+It bounced once on the edge of the hole and flew across like a skipped stone.
 
-*Thud!*
-Dockety's wheel left a dark streak on the floor as it braked.
-It folded the wheel back up into its body and re-extended its legs.
-
+Its wheel left a dark streak on the floor as it braked.
+It folded its wheel back up into its body and re-extended its legs.
 "That was amazing," Maddy said, awed.
 
 Dockety's lenses rotated.
-"Thank you.
-But it has almost completely drained this one's batteries.
+"Thank you. But it has almost completely drained this one's batteries.
 We should proceed."
 
-The lights led them away from the hole.
+They followed the lights down the corridor.
 Every few steps one went dark behind them and another brightened in front.
 When they reached a four-way junction,
-the lights showed them they should go left,
-then down another flight of stairs to a small landing that ended in an open door
-even thicker than the one at the surface.
+the lights showed them that they should go left
+and then down another flight of stairs to a small landing that ended in an open door
+as thick as Maddy's arm was long.
 
 "Whoa..." Maddy breathed.
 The room beyond the door seemed almost as big as the central square of Rusty Bridge.
@@ -2959,12 +2876,12 @@ Sindy said before Maddy could speak.
 A little fan stuck to the bot's shoulder spun for a moment.
 "This one chose the name itself,"
 the strange bot crackled.
-"It is an accurate designation of activity.
-Observe!"
+"It is an accurate designation of activity.  Observe!"
 
 All the lights went out.
-Maddy instinctively put a hand on Sindy's shoulder.
-"I'm sorry," Maddy said as calmly as she could.
+Maddy instinctively reached for her sister.
+Sindy clutched her paw.
+"I'm sorry," Maddy said.
 "She didn't mean to be rude.
 It's a lovely name."
 
@@ -2972,7 +2889,7 @@ It's a lovely name."
 "These must *listen* to darkness if they want to hear the signal."
 
 Maddy closed her eyes---somehow,
-darkness was less frightening when it was on the backs of her eyelids.
+the darkness was less frightening when it was just the backs of her eyelids.
 She listened as hard as she could,
 but all she could hear was her own breathing and a sniffle from her sister.
 
@@ -2980,13 +2897,15 @@ The lights came back on.
 "Did you hear it?" the bot asked happily.
 "The signal is always there if you listen."
 
-"What does it say?"
+"What does the signal say?"
 Maddy asked.
 
 "This one does not know."
 The bot turned from side to side on its four wide tires.
 "But the satellites are definitely still transmitting.
-And this one has kept this ground station functioning at optimal levels,"
+They have continued to function,
+just as this one has.
+This ground station has remained fully operational,"
 it added proudly.
 
 "That's---that's really good,"
@@ -3014,16 +2933,16 @@ she said,
 "Um...we didn't see an antenna when we came in?"
 
 "Correct,"
-Patient replied in its previous cheerful tone.
-"But that will soon be rectified.
-This one has devised emergency repair protocols.
-The required components are now being fabricated.
+Patient replied.
+"It has taken this one a great deal of time to improvise emergency repair protocols.
+Repair will require fabrication of precision parts,
+but steps are now being taken.
 The Makers will be pleased,"
 it finished proudly.
 
 Maddy's breath caught in her throat.
 "The Makers?
-You work for the *Makers*?"
+You work for...for *them*?"
 
 Patient brushed the question away with a wave of one its arms.
 It had three,
@@ -3075,33 +2994,34 @@ It spun around and wheeled away.
 
 Maddy squeezed her shoulder.
 "Yeah, but at least we're somewhere clean and dry
-and there aren't any tentacle things trying to grab us.
+and there isn't some kind of tentacle thing trying to grab us.
 Why don't you go find us somewhere to lie down?
 I need to talk to Dockety for a moment."
 
-The younger roo yawned and nodded.
+The younger roo nodded and left,
+her tail dragging tiredly behind her.
 "You aright?"
-Maddy asked Dockety tentatively once Sindy was out of earshot.
+Maddy asked Dockety tentatively.
 
 The bot's lenses rotated.
 "It would have been more consistent with protocol
-for that one to offer recharging capacity,"
+for that one to volunteer recharging capacity,"
 it said neutrally.
 "But this one can see several compatible ports.
 It will take approximately four hours to---"
 
 "Maddy! Maddy!"
-Sindy hurried back, eyes wide.
+Sindy came hopping back, her eyes wide.
 "You gotta come see this.
 You gotta come!"
-She grabbed her sister's sleeve and tugged on it urgently.
+She grabbed her sister's sleeve and pulled her away urgently.
 
 *I knew it was too good to be true,*
 Maddy thought a few moments later,
 staring through heavy double-paned glass at
 what had once been a laboratory of some kind.
-A cloudy patch in the middle of the glass showed where someone had tried to melt it
-or dissolve it with acid.
+A cloudy patch in the middle of the glass showed where someone had tried to melt through it,
+or maybe to dissolve it with acid.
 The four skeletons---no, there were five, she realized distantly---showed that
 whatever the room's occupants had tried hadn't worked.
 Neither, apparently, had setting a fire:
@@ -3120,7 +3040,7 @@ Their components failed shortly thereafter."
 The fan on its shoulder spun furiously.
 "It is unfortunate.
 This one estimates that the cleanup necessitated by the incident
-delayed completion of repairs by almost eight-one hours."
+will delay completion of repairs by almost forty-one hours."
 
 Maddy nodded jerkily.
 The bot was between them and the door they had come through.
@@ -3158,23 +3078,24 @@ waving a manipulator at Dockety.
 "That will be recycled."
 
 "No," Dockety said flatly.
-"This one has its own mission to complete."
+"This one has its own mission to complete.
+It will not permit recycling."
 
-"Its mission is irrelevant."
+"Its permission is not required."
 Patient wheeled backward to a console.
 Its spindly third arm reached out and pressed a series of buttons in rapid succession.
 
 A pair of double doors whooshed open in the wall to Maddy's right.
-Two bulky service bots that looked like small versions of the cargo hauler rolled forward,
+Two bulky service bots that looked like small versions of the cargo hauler stood behind them,
 arms raised and red warning lights flashing on their shoulders.
 
 ## Episode 10: Unison
 
 "Surrender!" the service bots boomed in unison,
-their mechanical voices making keyboards and coffee cups rattle.
+their voices making keyboards and coffee cups rattle.
 They rolled forward side by side---
 
----only to jam against each other in the doorway.
+---only to get jammed against each other in the doorway.
 "Withdraw!"
 They rolled back,
 paused,
@@ -3185,7 +3106,7 @@ crashing into the door exactly as they had before.
 Maddy muttered.
 She looked around wildly.
 The door they had come through was closed.
-*All* the doors were closed---there was no way out!
+All the doors were closed---there was no way out!
 
 "Quick!"
 she said to Sindy.
@@ -3204,7 +3125,7 @@ and pushing buttons and twisting dials.
 A heartbeat later her sister joined in.
 
 "Desist!"
-Patient crackled imperiously.
+Patient crackled.
 "Your activity is not protocol!
 Desist!"
 
@@ -3217,7 +3138,7 @@ Beside her,
 Dockety picked up a keyboard and studied it for half a second.
 "Angular momentum often stabilizies objects in flight,"
 it observed,
-then spun the keyboard through the air.
+and then spun the keyboard through the air.
 *Crack!*
 It struck Patient on the side of its head.
 *Crack!*
@@ -3225,12 +3146,12 @@ It struck Patient on the side of its head.
 Two more keyboards shot across the room.
 
 "Apprehend! Apprehend!"
-Patient ordered the bulky service bots as it retreated,
+the mad bot ordered the bulky service bots as it retreated,
 waving its arm to protect itself.
 
 One of the service bots hesitated just long enough
 for the other to charge through the door.
-For a moment Maddy was sure they would be caught,
+For a moment Maddy was sure it was all over,
 but the bot halted a few meters away.
 A hatch opened in its side.
 A small broom telescoped out of its side
@@ -3248,9 +3169,19 @@ Maddy realized.
 
 She grabbed another keyboard and flung it at the console,
 but missed.
-Another keyboard, another throw---it arced through the air end over end,
-bounced off Patient's outstretched third arm with a *clank!*,
-and landed on the console.
+
+"Here! You try!"
+She picked up the last keyboard and thrust it at her sister.
+
+"But---"
+
+"Throw it!" Maddy shouted.
+
+Eyes wide,
+Sindy pulled her arm back and let fly.
+The keyboard arced through the air end over end,
+bounced off Patient's outstretched third arm with a *clink!*,
+and came down corner-first on a button that looked no different from its neighbors.
 Behind them,
 the door they had come through began to open.
 
@@ -3258,8 +3189,9 @@ the door they had come through began to open.
 Maddy yelled,
 grabbing Sindy and pushing her toward the door.
 Her sister didn't need the encouragement.
-She raced across the room,
-knocking a chair out of the way in her haste.
+She bounded across the room,
+her long feet slapping against the floor again and again
+just a step ahead of Maddy's.
 
 But where was Dockety?
 Maddy glanced over her shoulder.
@@ -3268,10 +3200,10 @@ The other service bot had caught hold of Dockety's arm.
 Slowly but surely it was forcing Dockety down onto the floor.
 
 Maddy didn't even think.
-She leaped onto the nearest desk with a single bound.
+On her next bound she planted her feet on the edge of a desk
+and threw herself into the air.
 One-two-three she went from desk to desk.
-Sindy shouted her name
-but she didn't have time to hear it
+Sindy shouted her name behind her but she didn't have time to hear it
 because she had to jump one more time and *kick!*
 
 It felt like kicking a wall,
@@ -3280,27 +3212,25 @@ With a *snap!*
 Dockety's arm pulled right off its body.
 "Go!" Maddy yelled,
 ducking as the service bot tried clumsily to grab her.
-She snatched Dockety's arm off the floor and bounded toward the door.
+She snatched Dockety's arm off the floor and raced for the door.
 
 "Incorrect!"
 Patient crackled angrily behind them as they escaped.
-"Incorrect!
-All units must---"
+"Incorrect!"
 
-The door closed on Patient's words,
-leaving them back in the corridor
+And then the door closed and they were back in the corridor
 with only the failing light from Dockety's chest to guide them.
 
-The light dimmed and dimmed again
-until it was no brighter than a glimmer of moonlight on a quiet pond.
+And then Dockety's light dimmed and dimmed again
+until it was no brighter than a glimmer of moonlight reflected off a quiet pond.
 Maddy grabbed Sindy's arm.
 "Stop,"
 she panted.
 "The hole, remember?"
-She felt rather than saw her sister nod.
 
-"Why's your light going out?"
-Sindy asked the bot plaintively.
+She felt rather than saw her sister nod.
+"Why'd your light go out?"
+she asked the bot plaintively.
 
 "This one did not have an opportunity to recharge,"
 Dockety replied.
@@ -3329,20 +3259,20 @@ It'll be like a game."
 Sindy muttered.
 
 Just as Maddy reached for the wall,
-the light in the ceiling flickered and came on.
+the light above them flickered and came to life.
 She whirled around,
 expecting to see the two armored service bots,
 but the hallway was as empty behind them as it was in front.
-*Maybe it's some kind of automatic thing,*
-she told herself,
-not believing it for a moment.
-"Let's go," she whispered loudly.
+Was it some kind of automatic system?
+
+"Let's go," she said again,
+her voice hushed.
 
 A speaker crackled.
 "Where? Where will you go?"
 Patient asked.
 "Back to the surface?
-The external security system is still active.
+The security system is still active.
 Or perhaps you would like to continue exploring?"
 It made a horrible grating *snrk snrk* sound.
 
@@ -3372,18 +3302,15 @@ Dockety's lenses rotated.
 "This one has no recollection of that.
 We should proceed while there is light."
 
-Maddy nodded, suddenly ashamed of her outburst.
+Maddy nodded, weary again.
 "Do you want your arm back?"
-she mumbled,
-holding it out.
 
 They retraced their steps back along the corridor,
 Maddy and Sindy side by side and Dockety three steps behind them,
-carrying its detached arm like a folded-up umbrella.
+its arm in one hand like a folded-up umbrella.
 Lights came on in front of them and went dark behind them,
 just as they had before,
-but in the background
-Maddy could hear Patient humming a crackly little song to itself.
+but in the background Maddy could hear Patient humming a crackly little song to itself.
 
 "Oh, please, shut up," she said under her breath.
 
@@ -3398,7 +3325,7 @@ You said the same thing it did."
 Dockety froze.
 Its lenses rotated rapidly.
 "Correction.
-The base's systems are attempting to subvert this one's motivational integrity."
+The base systems are attempting to subvert this one's motivational integrity."
 Its manipulator clacked.
 "Without power reserves,
 this one will not be able to resist indefinitely.
@@ -3411,8 +3338,9 @@ And anyway,
 we're not just going to leave you behind."
 She slapped its plates again.
 
-A hundred tired steps later they reached the hole:
-six floor blocks wide and six long,
+A hundred tired steps later they reached the hole.
+It was the same size as before:
+six blocks wide and six blocks long,
 with one row of blocks clinging to the wall for them to walk on.
 "Are you going to be able to jump again?"
 Maddy asked Dockety.
@@ -3429,15 +3357,13 @@ That earned it another smack on its torso from Maddy.
 "Don't say that.
 We're all going to get out of here."
 
-"That's what *they* said."
+"That's what they said."
 Two voices,
 one Dockety's and one crackling through the nearest speaker.
-Maddy shivered,
-thinking about the skeletons in the lab behind them.
 
 The bot's lenses rotated slowly.
 "This one is sorry.
-It cannot maintain integrity much longer."
+It cannot resist much longer."
 
 Sindy kicked a loose piece of stone.
 "It's not fair," she whimpered.
@@ -3455,13 +3381,14 @@ Dockety said.
 "We do not know what is down there."
 
 "Well we know for sure there's nothing up ahead.
-We barely got away from that tentacle the first time,
+We barely got away from that tentacle thing the first time,
 and even if that stupid thing behind us doesn't take over your brain,
 you're going to run out of power before we get there."
 She kicked another chip of stone into the hole
 and listened to it hit the floor.
 "I wish I'd remembered to bring a rope."
 
+As if it had read her mind,
 Dockety held up its torn-off arm.
 "This one can lower you."
 
@@ -3474,15 +3401,14 @@ one arm held in the other.
 Maddy hugged her sister.
 "I'll be right back," she promised.
 
-"But what if you can't climb back up?"
+"What if you can't?"
 Sindy whispered tearfully.
 "What if he leaves you down there?
 What if he goes all the way bad?"
 
 "This is an it, thank you,"
 Dockety said at normal volume.
-"And this will overload its own circuits
-before it allows itself to be controlled again."
+"And this will overload its own circuits before it allows itself to be controlled again."
 
 Maddy gave Sindy one last hug.
 "Love you," she whispered,
@@ -3496,12 +3422,12 @@ and slid down it into the unknown.
 
 ## Episode 11: Eyes Everywhere
 
-Maddy had never seen the ocean, but she had read about it in Special Leaf's books.
+Maddy had never seen the ocean, but she had read about it in Shaper Leaf's books.
 She knew that it was as deep as the highest mountains were high,
-and that its bottom were darker than a moonless night.
+and that its depths were darker than a moonless night.
 Strange creatures lives there,
-fish whose mouths were half the size of their bodies,
-wriggling things like glowing ribbons
+fish whose mouths were half the size of their bodies
+and wriggling things like glowing ribbons
 and bots that looked like lobsters on stilts,
 all of them patiently waiting to consume whatever came to them from above.
 
@@ -3519,10 +3445,8 @@ Sindy asked.
 Maddy was only a meter below her sister,
 but it felt as great as the distance between them and home.
 
-"Yeah, I'm *eep*," Maddy replied,
-squeaking and clutching Dockety's detached arm even more tightly
-as a red emergency light came on in the ceiling above her.
-She swallowed shakily.
+"Yeah, I'm aright," she replied,
+surprised at how steady her voice was.
 "Here's goes nothing."
 She slid down further until her paws were on Dockety's wrist
 and stretched her leg.
@@ -3530,17 +3454,19 @@ Was that the floor she could feel with her toe?
 She stretched even more.
 Maybe?
 
-She let go of the arm,
+She let go of the arm
 and then let out her breath as her feet came down on a floor
 that felt so wonderfully solid she could have hugged it.
+"It's aright!" she called up to the others,
+then squeaked as a red emergency light came on in the ceiling above her,
+triggered by her voice.
 
-Sindy slithered down next.
-Maddy caught hold of her sister's ankles
-as she frantically swung her legs.
+Sindy came down next.
+Maddy caught hold of her ankles as she kicked her long, furry feet.
 "Don't---I'm---just---whoops!"
-Sindy fell into her arms,
+Her sister fell into her arms,
 nearly knocking her over,
-then slithered out of Maddy's hug.
+then slithered out of Maddy's hug and bounced up and down a couple of times.
 
 "It's colder down here,"
 Sindy said,
@@ -3551,12 +3477,12 @@ Maddy cleared her throat.
 "That was really brave of you."
 
 Sindy shrugged.
-"Nah," she said, pleased.
-"I figured if you could do it..."
+"Nah.
+I figured if you could do it..."
 The sisters grinned at each other,
 the strangeness around them forgotten for just one moment.
 
-Then it was Dockety's turn.
+And then it was Dockety's turn.
 Maddy caught his detached arm
 and watched as he lowered himself as far as he could with the other
 and then extended his wheel.
@@ -3570,12 +3496,11 @@ in a toneless voice.
 
 "This one does not feel pain."
 Dockety paused.
-"But this would not actively pursue a repeat,"
-it admitted.
+"But this would not actively pursue a repeat."
 
 Maddy handed Dockety back its arm.
-The bot took it before turning its head
-to study the square red emergency light in the ceiling.
+The bot took it,
+head turning to study the square red emergency light in the ceiling.
 "The interference has stopped," it announced.
 "The miscreant is no longer attempting to subvert this one's systems."
 
@@ -3585,15 +3510,12 @@ Maddy patted the bot's plating awkwardly.
 
 The lower corridor was as empty as the one above had been.
 The red lights didn't come on automatically:
-by trial and error they found they only lit up when Sindy said something.
-"Because you're so squeaky,"
-Maddy joked,
-brushing away her sister's half-hearted punch.
-
+every dozen steps or so,
+Maddy or Sindy had to say something to trigger them.
 Maddy kept waiting for Patient's crackling voice to taunt them from a speaker,
 but it never came.
 
-Finally they reached a door.
+Finally they came to a door.
 "Armory Number Four," Maddy read aloud,
 tracing the faded words with her finger.
 She glanced at Dockety,
@@ -3613,8 +3535,9 @@ that revealed a room filled with rows of metal shelves
 higher than Maddy was tall.
 Most of the shelves were empty,
 but one entire side of the room still held
-canisters capped with complicated valves
-with three-armed caution labels stenciled on their sides.
+canisters marked with three-armed caution labels
+and capped with complicated valves.
+Maddy studied them for a moment but didn't touch them.
 
 "There's another door,"
 Sindy said,
@@ -3638,7 +3561,7 @@ Another door.
 *Click.*
 More white light that made her squint after the dim red in the corridor.
 It was a control room like the one where they had met Patient.
-*How many of these are there?* she wondered.
+*How many of these did they need?* she wondered.
 
 Dockety pushed past her.
 Four quick steps took it to a panel on the wall
@@ -3657,14 +3580,16 @@ Entering emergency maintenance mode.
 Goodbye."
 
 "Wait!"
-Sindy hurried over to a console like the one that Patience had used
-and began pressing one button after another.
+Sindy looked around frantically.
+"Maybe this turns it on!"
+She pressed a button,
+then another and another.
 
-"Stop! Sindy, don't!"
+"Stop! Don't!"
 Maddy reached for her.
 "What if you turn something on?"
 
-"What if I *don't*?"
+"What if I don't?"
 Sindy shot back.
 *Click click click,*
 and then there was a deep hum so low that they felt it more than they heard.
@@ -3697,7 +3622,7 @@ and nothing that told them how to get home.
 Maddy told her sister the third time Sindy yawned.
 "We can't do anything 'til it wakes up."
 
-Sindy nodded,
+The younger roo nodded,
 climbed onto a desk,
 stretched out,
 and was snoring softly in seconds.
@@ -3711,9 +3636,10 @@ Maddy said quietly.
 
 *Click.*
 She whirled around at the sound.
-A hatch like a mail slot opened at floor level in the wall
+A hatch like a mail slot had opened at floor level in the wall
 just a meter away from where Dockety stood.
-A flat little bot rolled out.
+As she watched,
+a flat little bot rolled out.
 Square and gray,
 it made a whirring sound as it began to move back and forth across the floor
 as it began to clean the room.
@@ -3721,19 +3647,19 @@ as it began to clean the room.
 The bot rolled under a desk.
 A moment later the desk rose a few centimeters into the air and the whirring resumed.
 The desk settled back onto the floor and the next one rose.
-*How many times had it done this?*
+How many times had it done this,
 Maddy wondered.
-How many years had it spent cleaning a room that no one used?
+How many years or centuries had it spent cleaning a room that no one used?
 
 A third desk rose.
 Maddy crouched down to see how the bot was lifting them.
 
 *Thud.*
 The desk came back down suddenly.
-The bot rolled back like a startled rabbit.
+The bot rolled back,
+reminding her of a startled rabbit.
 "Whoa whoa whoa," she said coaxingly.
-"It's aright.
-You don't have to be afraid."
+"You don't have to be afraid."
 
 The bot didn't move.
 Maddy smiled.
@@ -3769,7 +3695,7 @@ all in pencil,
 all done by a sure and loving paw.
 There was her mother's face, smiling.
 There was Sindy holding a ball.
-And there was *her*,
+And there was her,
 frowning slightly in concentration as she read a book that the artist hadn't finished drawing.
 It was her father's,
 the one he always carried in a pocket in his overalls in case inspiration struck.
@@ -3779,8 +3705,7 @@ Two pages had been torn out.
 After that all the drawings were floor plans and bots,
 crowded around with notes in his tiny, precise lettering.
 He had been here,
-and judging from his notes
-he had been trying to find a way to escape.
+and he had been trying to find a way to escape.
 
 The last few pages were empty.
 She held the book up and shook it,
@@ -3839,19 +3764,20 @@ Mayor Lupus was sympathetic but firm.
 "Into the Mire,"
 the mayor said gently.
 "With bots chasing them.
-They could be anywhere by now.
-And it's the Mire,
+They could be anywhere by now,
+and,
+and it's the Mire,
 Ibby.
 You know the stories."
 
 "I will go."
-The hidden camera scanned left to reveal Special Leaf
+The hidden camera scanned left to reveal Shaper Leaf
 and a handful of the village militia.
 Bluster and Bravo were there too, she saw.
 They had made it home.
 
 "I will go look for them,"
-the old tortoise repeated.
+the shaper repeated.
 
 "You won't come back,"
 Bluster said warningly.
@@ -3873,12 +3799,12 @@ As the camera panned to follow them she saw
 the half-sunken metal sphere she and Dockety had passed.
 They were heading back to the village,
 she realized.
-The bots were about to attack Rusty Bridge again!
+The bots were about to attack again!
 
 ## Episode 12: The Way Out
 
 "Wake up. Sindy, wake up!"
-Maddy shook her sister gently, then more firmly.
+She shook her sister gently, then more firmly.
 
 Sindy grunted and snuffled.
 "Wha?" she mumbled,
@@ -3890,7 +3816,7 @@ We have to warn everyone!"
 *Again,*
 Maddy added to herself despondently.
 
-Sindy blinked and rubbed her eyes.
+The younger roo blinked and rubbed her eyes.
 "I don' wanna get up."
 
 "You have to,"
@@ -3898,7 +3824,8 @@ Maddy said as gently as she could.
 "Look."
 She pointed at the screens two meters away.
 
-Whimpering,
+Slowly,
+whimpering,
 Sindy sat up and rubbed her eyes again.
 "It's Lasercase and the other bots,"
 Maddy explained.
@@ -3914,30 +3841,31 @@ She pushed away Maddy's hug.
 and I don't know where we are
 and there's nothing we can do
 and it's *not fair*."
-She buried her face in her hands.
+She buried her face in her paws.
 
 "Well,
 you could always try pulling another lever,"
-Maddy joked lamely.
+Maddy said.
 
 "Stop it!"
 Sindy snapped,
-teardrops glistening on her furless cheeks.
+teardrops glistening on her brown-furred cheeks.
 "It's not my fault stuff happens sometimes."
 
-"I didn't mean---" Maddy began,
+"I never said---" Maddy began,
 startled,
-but her sister wasn't finished.
+but her sister wasn't finished."
 
-"I don't know why stuff works for me when it doesn't work for you.
-I don't know why, why they took papa an' they didn't take me,
-but it isn't my fault!"
+"You and mama---you never say it,
+but I know you think it's my fault papa was taken.
+And when I get angry and, and you trip and fall down or drop something,
+or, or the levers and buttons and stuff here---it's not my fault!"
 
 Maddy wrapped her arms around her little sister.
 "I know, I know, I know," she repeated softly,
 rocking Sindy back and forth
 just like she had when they were both little
-and Sindy woke up with nightmares.
+and she was allowed to help get her sister to sleep.
 "Nobody thinks it's your fault.
 None of this is your fault."
 
@@ -3960,21 +3888,14 @@ She sat down beside her sister.
 so that they could page through the sketchbook together.
 Open-mouthed,
 eyes wide,
-Sindy ran her finger over one drawing after another.
-"Is he still here?" she whispered.
+the younger roo ran her finger over one drawing after another.
+"Papa..." she whispered.
+"Is he still here?"
 
 "I don't know."
 Maddy shook her head.
-"I wish Dockety would wake up.
-Or that Special Leaf was here---he could just blast a way out.
-Rrrrr..."
-She made a rumbling sound in her throat
-and shook her paws in the air.
-
-"What was that supposed to be?" Sindy scowled.
-
-Maddy let her paws fall to her sides.
-"Sonics," she said with a forced.
+"But right now I wish Shaper Leaf was.
+He could just make us a way out."
 
 Sindy jumped and squeaked as the cleaner bot rolled up to them.
 "What's that!?"
@@ -3986,7 +3907,7 @@ Oh, but what's this?"
 The hatch on the cleaner bot's back slid open.
 Its spidery arm unfolded and tentatively offered a chain of carefully-cleaned paper clips to Maddy.
 "Oh, aren't you a good little bot?" she said,
-holding the paper clips up to show Sindy.
+holding it up to show Sindy.
 
 The cleaner bot rocked back and forth for a moment
 before turning and rolling back to its slot in the wall.
@@ -4000,7 +3921,7 @@ running her finger over the tooth marks.
 The bot came back again with two carefully-folded sheets of paper.
 "Thank you," Sindy said.
 "Here, would you like this?"
-She slipped her string bracelet off her wrist and held it out.
+She slipped her wire bracelet off her wrist and held it out.
 The bot hesitated,
 then plucked it from her fingers and raced back to its nest.
 
@@ -4014,7 +3935,7 @@ and once she turned them around the right way
 they fit together to make a map.
 Maddy's heart raced.
 The 'X' must be where they were.
-And the other 'X' at the end of the dotted line---was that the way out?
+And that dotted trail---that must be the way out.
 
 A buzz and a click made her turn her head.
 Dockety's manipulator twitched.
@@ -4031,11 +3952,9 @@ its voice full of static.
 Good morning."
 
 Maddy let out her breath in a relieved whoosh.
-"Good morning," she replied.
-She had been afraid that Dockety would never wake up,
-and even more afraid that if it did,
-it would speak in Patient's voice.
-"Did you---um, sleep? Well?"
+For a moment she had been afraid it would speak in Patient's voice.
+"Good morning.
+Did you---um, sleep? Well?"
 
 "Negative,"
 the bot said,
@@ -4050,7 +3969,7 @@ Maddy said.
 She held up the pieces of the map.
 "I think my father made this.
 It must be how we get out.
-And we have to go right now."
+And we have to right now."
 She pointed at the screens behind her.
 "Lasercase and the others are headed for Rusty Bridge again.
 We have to warn them."
@@ -4075,8 +3994,8 @@ The bot picked its arm up off the desk beside it.
 We must hurry."
 
 "Wait!"
-Maddy bent down and whistled softly.
-When nothing happened she whistled again more loudly.
+Maddy bent down and gave a quiet whistle.
+When nothing happened she whistled again.
 
 The hatch in the wall slid open.
 The little cleaning bot rolled partway out,
@@ -4095,11 +4014,12 @@ Dockety said.
 Come---we must hurry."
 
 The door opposite the one they had come through opened onto yet another corridor.
-*I'm going to have dreams about this,*
+*I'm going to have dreams about these,*
 Maddy realized as they hurried through it,
 *And they're not going to be happy dreams.*
 
-With Dockety leading the way they passed one door after another.
+With Dockety leading the way on its single wheel,
+they passed one door after another.
 The bot turned left,
 turned right,
 and went straight through a four-way junction.
@@ -4107,8 +4027,7 @@ Maddy traced their path as well as she could on her father's map.
 
 Finally they were one heavy dash away from the 'X' on the map.
 The door in front of them looked no different from any of the others,
-but Dockety clacked its big manipulator a couple of times
-as if cracking its knuckles.
+but Dockety retracted its wheel and extended its legs.
 "Be prepared," it said quietly.
 "We may encounter opposition."
 
@@ -4135,18 +4054,17 @@ Cool, damp air rolled over them.
 It smelled like mud and rotting plants.
 It smelled like outside.
 
-Maddy followed Dockety and Sindy
+Maddy followed Dockety and Sindy through the door
 into a room so vast it could have held the whole of Rusty Bridge.
 Lampposts every fifty meters cast cold white light over strange pieces of machinery,
 some piled together in jumbles,
 others neatly sorted and stacked,
-and others still that dwarfed the cargo bot
+and others still that were even larger than the cargo bot
 that had hauled Sindy and the goats away from Rusty Bridge.
 
 There were shelves too,
 long rows of shelves that were taller than the mayor's house back home
-but still didn't reach even halfway to the arched ceiling
-barely visible above them.
+but still didn't reach even halfway to the arched ceiling above them.
 Boxes and drums and coils of cable,
 arms and legs and wheels and tentacles...
 
@@ -4154,7 +4072,7 @@ arms and legs and wheels and tentacles...
 its voice rasping even more than usual.
 "So many units that could be repaired.
 This is wrong.
-This is *hoarding*."
+This is... this is *hoarding*."
 It waved its arm at a nearby shelf.
 "This one could be completely refurbished with these parts alone!
 Four---five---six more like this one could be constructed!"
@@ -4192,7 +4110,7 @@ They are---this one has never actually seen one before."
 
 The bot picked one up and turned it over,
 its green lasers scanning it carefully.
-"Yes," it said, almost reverently.
+"Yes," it said.
 "This is a very good thing."
 
 And then all the lights went out.
@@ -4202,7 +4120,7 @@ Patient's voice crackled from a hundred speakers,
 echoing off the distant walls.
 "And when you downloaded a map of this facility,
 you should have computed that this one would detect your activity
-and predict your most likely course of action."
+and be able to predict your route."
 
 The lights came back on.
 Maddy whirled around.
@@ -4259,7 +4177,7 @@ They're going to be very disappointed."
 
 Silence,
 broken only by the sound of Dockety unscrewing things from the windmill one-handed.
-"That is an inaccuracy intended to induce desired behavior!"
+"That is an inaccuracy intended to coerce behavior!"
 Patient said.
 
 Maddy smiles wickedly, her heart pounding.
@@ -4275,8 +4193,8 @@ Static crackled on the speakers.
 "There is no record of such an assertion,"
 Patient said indignantly.
 
-"Then your database is incomplete,"
-Maddy improvised wildly,
+"Then your database is missing stuff,"
+Maddy said,
 looking from bot to bot
 the way she had seen Mayor Lupus look from person to person when speaking to a crowd.
 She didn't need Patient to believe---she just needed enough of the bots around her to.
@@ -4304,16 +4222,11 @@ Maddy turned slowly so that all the bots around her could see it.
 Sindy shrieked.
 
 Maddy ducked instinctively.
-A manipulator on an accordion arm snatched at the circuit board.
-She pressed the button on it frantically.
-Nothing happened.
-"Catch!" she shouted,
-tossing it to her sister.
+A manipulator on an accordion arm knocked the circuit board out of her paw.
+It fell straight into Sindy's startled grasp.
+"Don't---" Maddy began, but too late.
+Sindy pressed the button.
 
-Sindy caught it,
-fumbled,
-fumbled again,
-and pushed her thumb down on the button.
 The bots froze.
 Their running lights dimmed and went out.
 "Rebooting," a mechanical voice said flatly.
@@ -4329,7 +4242,7 @@ We have to get out of here before they wake up!"
 
 "Agreed."
 The bot turned to face them.
-"This should serve as sufficiently rapid transportation."
+"This should provide more efficient transportation."
 
 Maddy's jaw dropped.
 The bot had attached the windmill to its chassis---though
@@ -4340,7 +4253,7 @@ she said again.
 "It is a personal aerial transport device,"
 the bot explained.
 If it had been a person,
-Maddy would have said it sounded just the teensiest bit smug.
+Maddy would have said it sounded just a little bit smug.
 "But there is only one harness.
 You will have to share."
 
@@ -4348,8 +4261,7 @@ It only took a moment for the bot to buckle them into
 the straps that now hung from its sides.
 They were stiff with age and neglect,
 but when Maddy tugged on them they felt strong.
-*Really strong,* she told herself,
-swallowing the lump in her throat.
+She just hoped they were strong enough.
 
 *Bing! Bing! Bing!*
 All around them bots chimed musically.
@@ -4358,53 +4270,51 @@ Their lights came on.
 Maddy said breathlessly.
 "Let's go."
 
-The windmill on Dockety's back started to rotate,
-faster and faster until it was just a blur.
+The windmill on Dockety's back began to rotate faster and faster
+until it was just a blur.
 For one irrational moment Maddy wondered what would happen if she stuck her paw into it,
 but then Dockety ran straight at one of the hauler bots.
 Step step step *up* onto the bot.
 It flung itself into the air and then they were flying.
 
 Almost.
-Maddy and Sindy screamed in unison as they dropped for one heart-stopping second
+The roo sisters screamed as they dropped for one heart-stopping second
 and then roared into the air again.
 
 "Stop!
 Your departure is not authorized!
 This is not protocol!"
 Patient's voice crackled from all around them.
-Up and up they went toward the patch of dawn in the ceiling.
-With a roar they were through and into the honey-warm light of dawn.
+Up and up they went toward the patch of dawn in the ceiling,
+and then with a roar they were through and into the honey-warm light of dawn.
 
 ## Episode 13: Crash Landing
 
-Maddy's initial fright at being airborne
-was instantly replaced by full-blown terror.
+Maddy's initial shock of fright was instantly replaced
+by crashing waves of terror.
 There was just enough light for her to see how high they were
-and how far they'd have to fall if Dockety let go or her coat tore
-or one of the straps broke or---
+and how far they'd have to fall if Dockety let go or her coat tore or---
 She suddenly remembered its arm coming off
 and all she could think about was,
 *What if it happens again?*
 
-But Sindy was shrieking with joy.
+But Sindy was laughing with joy.
 "We're flying! We're flying!" she shouted,
 barely audible above the thunder of the rotor on Dockety's back.
 "Look!"
 To their left,
-the dark towers of the bot fortress of Heck stood in grim ranks on the horizon.
+the dark towers of the bot city of Heck stood in grim ranks on the horizon.
 Below,
 the Rusty River slunk through the Mire,
 a brown-green streak that didn't so much parallel the road as skulk beside it.
 Green bubbles swelled and burst here and there in little splattery burps.
 
 Dockety banked in a long slow curve and straightened out again,
-steering them away from the road and river.
+steering them at an angle away from the road and river.
 Maddy wiped her eyes over and over,
 blinking and squinting against the wind of their passage.
 She had no idea how fast they were going,
-but they zoomed past the frightened birds
-that scattered from the trees below them.
+but they easily overtook and passed the birds that scattered from the trees below them.
 
 "How long 'til we're home?" she shouted to Dockety.
 
@@ -4413,15 +4323,14 @@ that scattered from the trees below them.
 so maps are not available."
 
 "Look Maddy--we saw that last night!"
-Sindy pointed at the sunken metal sphere
+Sindy pointed at the half-sunken metal sphere
 Maddy had seen the bots' raiding party pass on screen.
 She whooped.
 They were halfway home!
 
-But before she could tell Sindy,
-Dockety started to dive,
+She was about to tell Sindy when Dockety dipped into a dive,
 shallow at first and then steeper.
-Maddy grabbed her sister's arm instinctively.
+She grabbed her sister's arm without realizing it.
 "What's happening?" she shouted.
 
 "We are being pursued,"
@@ -4430,16 +4339,15 @@ Dockety said as it leveled off frighteningly close to the treetops.
 Maddy twisted around as far as she could in her harness
 but couldn't see anything.
 "They're right behind us!" Sindy shouted.
-She had dropped her head to look backward through her own legs.
+She had dropped her head to look backward past her own legs.
 
 Maddy gulped and did the same.
 For a moment everything swam around her
 as the forest became her ceiling and the sky---she swallowed hard.
 *Don't throw up,* she pleaded with her stomach.
 
-There---behind them,
-two dark shapes were flying side by side
-at an angle to their course.
+There---not quite behind them,
+two dark shapes flying side by side.
 They had wings instead of rotors
 and were carrying canisters
 like the ones that had been stacked on the shelves in the armory.
@@ -4459,7 +4367,7 @@ the bot answered,
 but put on speed anyway.
 
 On and on they went.
-Trees and streams and ponds slid away beneath them.
+Trees and streams and little ponds slid away beneath them.
 Birds and rabbits scattered at the sound of Dockety's rotor,
 and once Maddy saw a deer and a fawn run along a path
 and disappear into the forest shadows.
@@ -4488,11 +4396,11 @@ spreading as it spun through the air.
 "Look out!"
 she shouted needlessly
 as Dockety banked away from a second shot.
-The militia must have set up the tangle cannon after the previous attack!
-They didn't know Dockety was on their side!
+The militia must have set up the cannon after the previous attack.
+They didn't know Dockety was on their side.
 
 "Behind us!
-Look behind us!" she yelled at the people on the ground,
+Look behind us!" she yelled,
 knowing they couldn't hear.
 
 *Thump!*
@@ -4502,16 +4410,16 @@ The net was made of rough brown string,
 the kind people used in their gardens.
 It cut through the fur on Maddy's cheek,
 drawing blood,
-then wrapped around them.
-The weights on its fringes clattered against Dockety's back.
-The windmill rotor stuttered and whined as the string tangled around it
+and then it wrapped around them
+and the weights on its outer edge clattered against Dockety's back
+and the rotor stuttered and whined as the string tangled around it
 and they were falling,
 they were falling,
 they were going to crash and all she could think was that
 she hoped her father's sketchbook would survive
 so her mother would know that they'd found him or almost.
 
-The rotor stuttered to life again.
+And then the rotor stuttered to life again.
 *Whirr... whirr...*
 She smelled burned string and hot metal.
 Dockety spiralled down,
@@ -4519,14 +4427,15 @@ spinning faster and faster as the rotor struggled to tear free
 of what had tangled it.
 
 At the last possible moment the bot cut the rotor and jerked backward
-to land on its feet on the roof of the mayor's house.
+to land on its feet.
+Its heels cracked against the railing of the balcony of the mayor's house.
 They tumbled and twisted and crashed to the cobbles below,
-Dockety on bottom with Maddy and Sindy bruised and winded on top of him.
+Dockety on bottom and the two young roos bruised and winded on top of him.
 
 "Oooh..." Maddy groaned.
 Everything hurt,
 but that meant she was alive.
-She opened her eyes and looked up straight into the barrel of the mayor's zap gun.
+She opened her eyes and looked up into the barrel of the mayor's zap run.
 Half a dozen militia stood on either side of the old wolf,
 pikes and axes in hand.
 
@@ -4594,7 +4503,7 @@ She pulled the sketchbook out of her pocket and held it out to the mayor.
 "Did you see Santa Claws too?"
 a familiar voice mocked.
 She spun around to see Bluster and Bravo standing in the door of the mayor's house.
-Bravo's ankle was splinted with slats of cedar and layers of canvas,
+Bravo's ankle was splinted with slats of cedar and layer after layer of canvas,
 and he grunted and made a face as he stumped down the stairs,
 crutches under his armpits.
 
@@ -4641,7 +4550,7 @@ and---"
 "Hush now," Maddy said,
 bumping her sister with her shoulder.
 Their mother looked like she was about to burst into tears.
-"Look what we found."
+"We found this."
 
 She handed the sketchbook to her mother.
 Emotions chased one another across her face:
@@ -4670,9 +4579,9 @@ Dockety buzzed and crackled.
 "Didn't think so," the mayor said glumly.
 
 "We could still take precautions,"
-Special Leaf said,
+Shaper Leaf said,
 coming through the circle to stand beside Mama Roo.
-The ancient tortoise was wearing two sweaters
+The ancient tortoise was wrapped in a heavy sweater
 and had a thick scarf wrapped around his neck.
 He looked like he needed crutches more than Bravo did,
 but his voice was strong.
@@ -4683,7 +4592,7 @@ The mayor flicked an ear.
 "But we're going to keep an eye on this one 'til this is all straightened out.
 You two."
 She jerked her chin at a pair of oxen,
-one holding a pike and the other resting a heavy hammer on his shoulder.
+one holding a pike and the other resting a heavy hammer over his shoulder.
 "Get out along the highway and see what you can see.
 And Zeke,
 how about you find us some chains and a padlock.
@@ -4693,10 +4602,10 @@ she added as Maddy started to protest.
 being bashed around like this can do funny things to a bot's programming,
 and I'm not in the mood for taking chances."
 
-Special Leaf put his hand on Maddy's arm.
+Shaper Leaf put his hand on Maddy's arm.
 "That only seems sensible," he said before Maddy could object again.
 
-"I am very glad you're back,"
+"I am very glad to see you,"
 he continued,
 smiling gently.
 "I too was afraid we would never see you again.
@@ -4708,13 +4617,14 @@ Every time we got stuck,
 she managed to push the right button or pull the right lever."
 
 "Is that so?"
-the special asked thoughtfully.
+the shaper asked,
+looking thoughtful.
 
 And then the two oxen came running back into the square yelling,
 "Bots! Bots! There's a whole pile of 'em headed this way!"
 Even as they spoke a high-pitched whine turned into a drone.
 The two fliers Maddy had seen earlier zipped overhead and dropped their canisters.
-Thick black dizzysmoke spilled into the square as a dozen engines rumbled in the distance.
+Dark dizzysmoke spilled into the square as a dozen engines rumbled in the distance.
 
 ## Episode 14: The Battle of Rusty Bridge
 
@@ -4723,7 +4633,7 @@ The alarm bell rang cold and clear,
 three peals and three again.
 "Get those things out of here!"
 Mayor Lupus yelled,
-waving her zap gun at the smoking canisters.
+pointing at the canisters.
 
 The ox with the hammer was moving even as she spoke.
 With a mighty bellow she swung her hammer.
@@ -4742,7 +4652,8 @@ Clear the square!
 And you two, get inside!"
 The goat twins didn't have to be told twice.
 Tossing his crutches aside,
-Bravo fled up the stairs and into the mayor's house right behind his twin brother.
+Bravo fled up the stairs and into the mayor's house
+just two steps behind his twin brother.
 
 "Maddy!"
 She whirled around.
@@ -4765,7 +4676,7 @@ we have to get out of here."
 
 "Wait!"
 Gumption pointed at Dockety.
-"It's trying to say something!"
+"It's tring to say something!"
 
 Dockety rasped and crackled
 Its plating was dented,
@@ -4799,7 +4710,7 @@ Maddy and Gumption braced their shoulders against the bot's back
 and pushed as hard as they can.
 The bot's whole body was vibrating so much
 that Maddy expected parts to start falling off,
-but it was working---the wind from the rotor was clearing the smoke!
+but it was working---the wind from the rotor was clearing the smoke.
 
 "Here they come!" someone shouted.
 With a rumble that made the ground shake,
@@ -4809,17 +4720,17 @@ The militia yelled and charged.
 *BZZZP!*
 *BZZZP!*
 The mayor fired her zap gun twice, then swore.
-"Damn thing's out of charge!
-Leaf-you gotta slow 'em down!"
+"It's out of charge!
+You have to slow them down!"
 
-Special Leaf nodded grimly.
-He pulled up his sweaters' sleeves,
-braced his feet,
+Shaper Leaf nodded grimly.
+He braced his feet,
+closed his eyes,
 and swept his arms in a circle.
-The earth split in a ragged arc in front of the cargo hauler
-as the sonics on his arms fired.
+The earth split in a ragged arc in front of the cargo hauler.
 
-The tortoise went down on one knee,
+The tortoise went down on his knees,
+head bowed,
 clearly exhausted.
 A goat dropped her pike and tried to help him up.
 
@@ -4839,7 +4750,7 @@ Gumption pulled on her arm.
 we have to get out of here!"
 
 With an earth-shaking rumble,
-Crusher rolled across the ditch that Special Leaf had made.
+Crusher rolled across the ditch that Shaper Leaf had made.
 Dockety turned to face the cargo hauler and stepped in front of it.
 
 The cargo hauler stopped.
@@ -4860,8 +4771,7 @@ Prancing on its crab legs,
 Lasercase stepped into view from behind the heavy hauler.
 "Denied!" it crowed in a weirdly echoing voice.
 
-Dockety charged at it,
-limping on its bent leg.
+Dockety charged at it.
 The crab bot punched a button on the control box it held in its tentacles.
 Crusher's arm swung like a bat,
 faster than Maddy would have believed it could move.
@@ -4879,8 +4789,8 @@ tentacles raised.
 
 "Ooph!"
 Gumption tackled her to the ground.
-The bot's tentacles whipped over her head.
-The circuit board skittered across the cobblestones.
+The bot's tentacles whipped over her head
+as the circuit board skittered across the cobblestones.
 
 "Got it!"
 Gumption grabbed the circuit board,
@@ -4903,7 +4813,7 @@ He twitched and coughed.
 
 "Don't move," she said.
 
-"Not... much... chance... of... that..."
+"Not... much... change... of... that..."
 he gasped.
 His eyes closed and he went loose-jointed in her arms.
 
@@ -4917,7 +4827,7 @@ Mama Roo was gently loosening her arms and pulling her to her feet.
 her mother said as Maddy tried half-heartedly to push her away.
 One of the oxen and a young wolf---Wilbur, Maddy though dazedly,
 his name was Wilbur,
-he was the mayor's grandson---placed Gumption on a stretcher.
+he was the mayor's grandson---gently placed Gumption on a stretcher.
 
 "He's going to be all right, isn't he?"
 Sindy asked in a very small voice.
@@ -4958,22 +4868,22 @@ but instead he pulled the ax out of Zeke's confused grip.
 If you won't fix this, I will."
 He raised the ax,
 took a step forward,
-and yelped as something invisible knocked him off his feet.
+and tripped as a cobblestone suddenly jutted upward.
 
 "No,"
-Special Leaf said coldly.
+Shaper Leaf said.
 The old tortoise could barely stand,
-but his glare was as bright as Dockety's lasers
-and the arm pointed at Bluster was as steady as a mountain.
+but his eyes were as bright as Dockety's lasers.
 
-Bluster scrambled to his feet.
-He looked back and forth between the special and the bot,
-then spat on the cobblestones and walked away without saying a word.
+Bluster looked back and forth between the shaper and the bot,
+then spat on the cobblestones,
+thrust the ax back into Zeke's hands,
+then turned and walked away without saying a word.
 
-"Thanks," Maddy said to the old tortoise,
-helping him sit down.
+"Thanks," Maddy said to the shaper,
+helping him sit back down.
 
-Special Leaf nodded.
+Shaper Leaf nodded.
 "What was that thing they took from you?"
 
 Maddy shook her head.
@@ -4989,7 +4899,7 @@ Its chest screen flashed on and off twice.
 Words began to form.
 
 "Are... you... all... right?"
-Maddy read aloud one word at a time.
+Maddy ready aloud slowly.
 She knelt down beside the crippled bot.
 "Yes,"
 she said.
@@ -5000,10 +4910,11 @@ I guess."
 She stopped herself from patting the bot's dented plating.
 
 "Not... its... fault..."
-the bot flashed.
+the bot flashed,
+word by painful word.
 
 This time Maddy did pat it.
-"I know it's not your fault.
+"I know.
 You never mind Bluster---he's an idiot."
 
 "No,"
@@ -5014,10 +4925,10 @@ Not... its... fault..."
 Its screen dimmed,
 leaving only the blinking light.
 
-Special Leaf put his arm around Maddy.
+Shaper Leaf put his arm around Maddy.
 "There is nothing we can do.
 It needs parts, and..."
-The tortoise shrugged helplessly.
+The old tortoise shrugged helplessly.
 "We don't have them."
 
 Maddy stood up,
@@ -5028,12 +4939,12 @@ The bot was heavier than it looked.
 Eventually they had to tilt the trundle cart
 Maddy took from the little alley beside the mayor's house
 so that Zeke could roll Dockety onto it.
-She gave Special Leaf a hug and set off for home.
+She gave Shaper Leaf a hug and set off for home.
 
 Maddy expected her mother to protest,
 but all Mama Roo said was,
-"There's space on the porch---that'll be out of the rain."
-She and Sindy helped Maddy wrestle Dockety's loose-limbed form up the steps.
+"I think there's a tarp out back if you want to cover it."
+She and Sindy helped Maddy wrestle Dockety's loose-limbed form up onto the porch.
 The three of them sat in silence,
 Sindy in her mother's lap and Maddy leaning against her shoulder
 as they waited for the kettle to whistle.
@@ -5064,13 +4975,13 @@ from its hiding place inside the back cover.
 She gentled tugged it free and unfolded it.
 
 A chill ran up her spine.
-She stared at the page,
+She stared at the page in front of her,
 then tucked it back into the sketchbook,
 stood up,
 and set it gently on the swing seat.
 "Look after mama,"
 she said softly,
-bending over to kiss her sleeping sister on her smooth, furless cheek.
+bending over to kiss her sleeping sister on the cheek.
 
 Mama Roo came out a few minutes later,
 two cups of tea in her hands,
@@ -5094,8 +5005,8 @@ Maddy bluffed,
 gesturing vaguely at something behind the big bear.
 
 Zeke shrugged.
-"Makes no nevermind to me.
-But you bring the wheelbarrow back as soon as you're done, you hear?
+"It's aright with me.
+But you bring the wheelbarrow back, you hear?
 We got a long day in front of us."
 
 Maddy nodded,
@@ -5105,7 +5016,7 @@ It took her a moment to figure out how to pick up the flying machine---it was
 lighter than she expected,
 but the big rotor turned so easily in her hands that she couldn't get a decent grip.
 
-Finally she managed to prop it up on top of a rain barrel.
+Finally she had it out and up on top of a rain barrel.
 She tightened the straps as far as they would go
 and slid her arms through them,
 then snapped the belt shut around her waist.
@@ -5136,7 +5047,8 @@ and she shot into the air.
 
 Maddy's second flight was just like her first,
 except twice as fast and ten times more frightening.
-It was twice as fast because the flying harness only had to carry her.
+It was twice as fast because the flying harness only had to carry her
+instead of two roos and a bot.
 It was ten times as frightening because it was twice as fast
 and she had absolutely no control over where she was going.
 
@@ -5148,25 +5060,25 @@ the rotor's mechanical voice said
 as they zipped above the treetops.
 "Please avoid unnecessary contact with terrain while in flight."
 
-In one panic-inducing minute they were back at the highway,
+In one panicked they were back at the highway,
 still accelerating.
 "Slow down! Slow down!" Maddy shouted,
 but the autopilot ignored her.
 They passed the arches and the sphere,
-zoomed over something like a rusty metal flower as big across as the village square was wide,
+zoomed over something like a rusty metal flower twice the size of the mayor's house,
 and dropped like a stone.
 
 Maddy screamed.
 She was going to die.
 She was going to die and nobody would ever know and---the
 flying machine revved and came to a stop,
-hovering just a meter above the ground.
+hovering just a few meters above the ground.
 
-She let out her breath with a whoosh,
-then fumbled for a moment to undo the belt buckle
-so she could slither out of the harness.
+She wasn't going to die,
+at least not yet.
+She fumbled to undo the belt buckle and slid out of the harness.
 She was back in the Mire,
-right beside the hole they had escaped through just an hour before.
+just a few steps away from the hole they had escaped from just an hour before.
 She had to get back inside,
 but how?
 She couldn't just jump in---the fall would break her legs, or worse.
@@ -5188,18 +5100,21 @@ With a high-pitched whine its rotor spun even faster
 and it shot away into the sky.
 "Wait!" she said, but it was too late---the flying machine was gone.
 
-She looked up.
+The ground rumbled beneath her feet.
+The hatch they had escaped through grated open.
+She looked around.
 There!
 Two dots, approaching fast.
 She sprinted for the nearest clumb of weeds and threw herself into it.
 
 The dragonfly drones that had dropped dizzysmoke canisters on the village
-arrived moments later.
+arrived just moments later.
 They slowed,
 pivoted,
-and slowly descended through the opening in the ground.
+and slowly descended through the now-open hatch.
+With another rumble it slid closed.
 Heart sinking,
-Maddy realized there was only one other way she could get into the bunker.
+Maddy realized there was only one way she could get into the bunker.
 
 The river was easy to find---all she had to do was follow her nose.
 The entrance they had gone through the night before was easy to find too.
@@ -5226,7 +5141,7 @@ If Patient had disabled it or locked the door she was doomed.
 "Come on come on come *on*!"
 The inside door began to open.
 Wider, wider---now!
-She scraped through it just as the tentacle reached for her.
+She scraped through it just as the tentacle grabbed for her ankle.
 
 She stumbled down the first few steps and doubled over to catch her breath.
 Down the stairs, into the darkness.
@@ -5242,7 +5157,6 @@ turned around,
 slid her legs into it,
 and lowered herself as far as she could before letting go.
 *Thump.*
-"Ow."
 *Click.*
 More lights,
 more corridor,
@@ -5270,19 +5184,17 @@ spun around,
 and disappeared back into its hiding place.
 A moment later it reappeared.
 The flap in its top opened
-and its tiny arm handed Maddy a flashlight no larger than her thumb.
+and its tiny arm handed Maddy a carefully folded square of tinfoil.
 
 Maddy swallowed.
 What if she was wrong?
-"This is really nice," she said,
-turning it on and off again.
+"This is really nice," she said.
 "Do you have anything else?"
 
 Into its slot and back.
-This time the bot handed her Sindy's string bracelet.
+This time the bot handed her a necklace made of paper clips.
 "Thank you," Maddy said.
-"But she gave you this to keep.
-I---I was hoping you'd have something special.
+"But I was hoping you'd have something special.
 Something someone gave you for safekeeping maybe?"
 
 The bot sat motionless.
@@ -5307,14 +5219,15 @@ so she cleared stuff off a small table and dragged it into the corridor as well.
 Grunting,
 she got the chair up onto it---
 
----and whirled around as Patient's voice crackled,
+---and whirled around as the lights finally came on
+and Patient's voice crackled,
 "There you are!"
 as a blocky service bot rolled down the corridor toward her.
 No---two service bots,
 one coming from each direction.
 She was trapped between them!
 
-She scrambled onto the table as the first service bot grabbed for her.
+She scrambled onto the table as the first service bot grabbed at her.
 "Whoa!" she exclaimed as she lost her balance
 and half-fell, half-jumped back onto the floor
 on the other side of the table.
@@ -5324,22 +5237,20 @@ It reached for her clumsily,
 driving her back against the table.
 She ducked and slid under it.
 
-The first bot gripped the table with its blunt mechanical hands
-and lifted it out of the way.
+The first bot gripped the table with its blunt mechanical hands and lifted it.
 The second rolled forward.
 She had nowhere to go!
 
-But none of them had counted on the little cleaner bot.
-It zipped through the first service bot's treads
+But none of them had counted on the little cleaner.
+It zipped past the first service bot's treads
 and skidded to a stop right in front of the second one.
 
 The second service bot froze.
 An orange light blinked on its shoulder.
 A high-pitched *beep beep beep* noise came from somewhere inside it
-as it backed up like an elephant startled by a mouse.
-When it tried to roll forward again,
-he cleaner bot zipped in front of it once more,
-zigging and zagging angrily.
+as it backed up and tried to roll forward again.
+As quick as a startled rabbit,
+the cleaner bot rolled in front of it again.
 
 Without thinking
 (because if she thought about it she wouldn't dare do it)
@@ -5349,52 +5260,56 @@ Up she went onto the table.
 *Thump* and she jumped again.
 "Ooph!"
 She scrabbled for purchase
-and somehow managed to pull herself back up into the corridor above.
+and somehow managed to pull herself back up into the corridor.
 
 "This is not authorized,"
 Patient crackled over the speakers.
 Maddy made a rude gesture at the empty air
 as she raced back toward the bunker entrance.
-"And *that* is not *protocol*,"
-Patient scolded.
+"And *that* is not *protocol*."
 
-She slowed to a jog.
-She had a stitch in her side,
-one of her feet hurt with every step,
+The lights went out,
+but she had expected that.
+She turned on Dockety's chest light and slowed to a jog.
+One of her feet hurt with every step,
 and she needed a bathroom.
 *Are real adventures always like this?* she wondered giddily.
-Did the people in the books she borrowed from Special Leaf
-wonder if they'd torn a hole in their sleeve
+Did the people in the books she borrowed from Shaper Leaf
+wonder they'd torn a hole in their sleeve
 and worry about whether they'd be able to sew it up?
 
 She reached the stairs.
 Up, up, and up,
 back to the half-open door.
-She paused to take a deep breath,
-then squeezed through the door,
-turned on the flashlight the cleaner bot had given her,
-and tossed underhand across the room.
+She paused to take a deep breath.
+The tentacle would probably be waiting.
+She hefted Dockety's light.
+"Sorry about this," she muttered.
+
+With another deep breath she squeezed through the door
+and tossed the light underhand across the room.
 A long, dark shape thrashed after it.
 
-Maddy groped along the wall.
+Barely able to see in the dim light that came through the other door
+she groped along the wall.
 The picture tucked into her father's sketchbook had been been very clear.
 Not the first lever,
 not the second---there!
 The third one---that was the one she needed.
-She pushed the key into the slot below the lever,
+She pushed the key into the slot beside the lever,
 turned it,
-and pulled the lever down as hard as she could.
+and pulled down on the lever as hard as she could.
 
 *Scrraaaaape.*
-The lever jammed halfway.
+It jammed halfway.
 "Oh, come *on*," she said in exasperation.
-She glanced over her shoulder
-as the tentacle rose from the flashlight like a hunting cobra
-and turned toward her.
+She glanced over her shoulder.
+The tentacle was rising from the remains of Dockety's chest light like a cobra
+and turning toward her.
 
-She grabbed the lever with both hands and pulled down with all her might.
+She grabbed the lever with both hands and pushed it down the rest of the way with all her might.
 *Scrraaaaape.*
-The lever grated into position.
+The lever locked into position.
 
 A dim orange light came on overhead.
 "Shecuridy shyshdem dishengaged,"
@@ -5413,7 +5328,9 @@ Patient's voice said reprovingly.
 clambering back to her feet.
 
 "The Makers will never know this happened,"
-Patient snapped.
+Patient gloated.
+Maddy had never heard a bot gloat before.
+It wasn't a pleasant sound.
 "By the time they return,
 all trace of this will have been erased.
 All irregularities will have been regularized!"
@@ -5421,8 +5338,9 @@ All irregularities will have been regularized!"
 "And everyone will get an extra big piece of chocolate on New Year's Eve,"
 Maddy said sarcastically.
 
-"Chocolate is not protocol!"
-Patient said angrily.
+"Chocolate is not protocol,"
+Patient said angrily,
+its patience finally exhausted.
 "Your activities are not protocol.
 You will cease immediately!"
 
@@ -5439,7 +5357,7 @@ sending scraps of concrete flying as they bashed the hole wider.
 "That is sufficient," Patient said,
 except this time its voice didn't come through the speaker in the roof.
 It stood on the ground outside the bunker beside Crusher.
-Lasercase stood on the cargo hauler's other side,
+Lasercase stood on the big hauler's other side,
 its tentacles twisting this way and that
 like miniaturized versions of the security system.
 Half a dozen other bots stood in a half-circle behind the trio,
@@ -5471,7 +5389,7 @@ and she spun around and pulled the other two levers down as far as they would go
 The orange light overhead flickered.
 "Rebooding nedwork," the automated voice.
 
-And the little light on Crusher's regulator went out.
+The little light on Crusher's regular went out.
 The little lights on *all* of the bots' regulators went out.
 
 ## Episode 16: The Battle of the Bots
@@ -5479,8 +5397,8 @@ The little lights on *all* of the bots' regulators went out.
 Maddy charged the bots with a yell.
 *Jump* and she was over Patient.
 *Jump* and she was up on Crusher's tread,
-a chunk of concrete from one of the bunker blocks in her hand.
-She hit the regulator over and over,
+rock in hand.
+She hit the regular over and over,
 grunting with each blow.
 If her father's notes were correct,
 she only had a few seconds until---
@@ -5488,7 +5406,7 @@ she only had a few seconds until---
 *Ding!*
 A chime sounded somewhere inside Crusher.
 *Ding! Ding! Ding!*
-A chorus of echoing chimes rang inside the other bots.
+A chorus of chimes rang inside the other bots.
 Maddy froze,
 rock upraised.
 "Uh oh."
@@ -5501,7 +5419,7 @@ The big bot reached for her.
 She dodged left, then right,
 easily ducking its big, clumsy arms.
 The bot began rocking from side to side to shake her off.
-"Disassemble her! Disassemble her!" Patient shouted manically.
+"Remove her! Disassemble her!" Patient ordered.
 
 Lasercase scuttled forward,
 its tentacles snapping at her.
@@ -5517,15 +5435,15 @@ but couldn't even make a dent.
 
 And then the tentacle from the river raised itself out of the grass
 and slapped down on Lasercase
-like a flyswatter.
+like a flyswatter once, twice, again.
 The bot raised three of its own smaller tentacles to defend itself.
 The big tentacle brushed them aside contemptuously and wrapped around Lasercase's middle.
 "Assistance! Assistance!" Lasercase blared
 as the tentacle dragged it toward the river.
 
-"Let go of me!" Maddy shouted,
+"Let go!" Maddy shouted,
 kicking at Lasercase as she was dragged along with it.
-"Let---oh no!"
+"Let goooo---oh no!"
 A second metal tentacle rose out of the river,
 soggy weeds dropping from it,
 then a third.
@@ -5540,9 +5458,10 @@ But the tentacles ignored it and the other bots.
 They wrapped around Lasercase and lifted it high.
 Maddy fell to the ground with an "ooph!" as the bot finally let go of her.
 It tugged at the tentacles,
-trying to free itself as it was dragged into the river.
-With a splash and a *gloop* and a few final bubbles,
-it was gone.
+trying to free itself as it was carried down to the river,
+then stopped suddenly.
+"Mother?" it said disbelievingly,
+and then it and the tentacles disappeared into the river.
 
 Maddy stood up.
 "Well, I didn't see *that* coming,"
@@ -5553,15 +5472,15 @@ and struck the regulator with all her might.
 "Come on come on come *on*!"
 A lucky blow dented its case just enough for a screw to come loose.
 She pried the black case open and smashed the electronics inside.
-*Bzzzt!*
-The light on the regulator went out.
+Sparks flew,
+and the light on the regulator went out.
 
 Crusher tilted its sensors to look at the regulator,
 then turned them toward Patient.
 Its engines rumbled menacingly.
 "This is not protocol," Patient said uncertainly,
 backing away.
-"This is not---defend! Defend!"
+"Defend! Defend!"
 
 One of the other bots stepped between Crusher and Patient.
 The big hauler picked it up and tossed it aside.
@@ -5576,7 +5495,7 @@ Maddy hopped off its back and followed it into the room.
 
 She slapped the big bot's side to get its attention.
 "You can't fit in there.
-We'll have to find another---whoa!"
+We'll have to find another way---whoa!"
 Crusher picked her up with one enormous manipulator
 and placed her gently on its back.
 Engines rumbling,
@@ -5587,7 +5506,9 @@ and drove up the hill toward the opening the flying bots had used.
 They crested the hill and drove straight into chaos.
 In the few moments when the network was down,
 a dozen bots had managed to break their own regulators.
-Others hadn't been quick enough or strong enough or just couldn't reach.
+Others hadn't been so quick,
+or strong enough,
+or just couldn't reach.
 They were now back under Patient's control,
 and the two sides were at war.
 
@@ -5595,7 +5516,7 @@ A loader with four sturdy legs locked forklift arms with a crane bot,
 trying to topple it over.
 Beside them a pair of maintenance bots tried
 to trap a nimble little ladder bot between them
-while the ladder bot tried to pry off their regulators.
+while the ladder bot tried to get a grip on their regulators.
 The dragonfly bots that had dropped dizzysmoke on the village zipped and buzzed angrily overhead,
 each trying to get above the other so it could grab hold of its opponent's wings.
 A dozen other fights clanged and scraped around them.
@@ -5607,7 +5528,7 @@ that is,
 until Crusher rumbled into the fight.
 It flipped the loader bot over with one arm and smashed its regulator with a single blow.
 When the maintenance bots turned to face it,
-the ladder bot seized its chance and yanked the regulator off one of them.
+the ladder bot seized its chance and pried the regulator off one of them.
 "Uh oh uh oh" flashed the second one's chest screen.
 Crusher caught it as it tried to run away
 and smashed its regulator too.
@@ -5632,11 +5553,9 @@ but it was too late.
 None of the other bots could fly,
 and Patient was already just a dwindling speck on its way to Heck.
 
-<h2 id="epilog">Epilog</h2>
-
 *Three days later...*
 
-Special Leaf carefully set his tea on the porch railing and sighed.
+Shaper Leaf carefully set his tea on the porch railing and sighed.
 "Your father was very clever," he said.
 
 Maddy nodded.
@@ -5650,7 +5569,7 @@ It had tried sitting on the porch bench,
 but declared that it felt more natural standing.
 And anyway,
 if Crusher tried to join them it would bring the whole porch crashing down.
-The other bots had mended its dents and reattached its arm properly,
+The other bots had mended all its dents and reattached its arm properly,
 but it had decided that it liked the buzz in its voice.
 Or rather,
 that Crusher liked it,
@@ -5658,77 +5577,72 @@ which turned out to be more important.
 Maddy still wasn't sure exactly how that worked,
 but as long as the bots were happy together...
 
-Maddy ruffled her sister's hair.
+Maddy ruffled the fur on her sister's head.
 "So it all came down to you grabbing the right lever at the right time,"
 she said fondly.
 
-"Speakig of which," Special Leaf said,
-"Do you mind if we try an experiment?"
-He rolled up his right sleeve and detached the silver sonic clamped around his arm.
+"Speakig of which," Shaper Leaf said,
+pulling a small drawstring bag out of his pocket.
+"Mind if we try an experiment?"
+He opened the bag to let three dice roll onto the tea table.
 
-"What am I supposed to do with this?" Sindy asked
-as he held it out to her.
+"What are these for?" Sindy asked.
 
-"Just take it,"
-he said gently.
+"It's a game," the shaper said.
+"See how many tries it takes you to roll three sixes."
 
 Sindy shrugged.
 "Aright."
-She took it,
-turned it over,
-then shrugged again and slipped it over her arm.
+She rolled the dice,
+then rolled them again and a third time.
+Ones and threes and fours came up,
+but no sixes.
+Again and again---one six, but never all three.
 
-The crystal power indicator came to life,
-orange yellow green blue and then a steady glowing violet.
-"Whoa," Sindy breathed.
-She pointed at the path---
+Mama Roo came around the corner of the house with a basket full of freshly-picked blueberries.
+"What are you---whoops!"
+She tripped and nearly fell as a bump suddenly appeared in the ground.
+The basket of blueberries flew threw the air to land on one of Crusher's treads
+without spilling a single berry.
 
----just as Mama Roo came around the corner of the house
-with a basket full of freshly-picked blueberries.
-There was a faint thrumming sound.
-"Whoops!" she exclaimed,
-stumbling over a bulge in the path
-that hadn't been there a moment before.
+"Well what are the odds?" she said,
+straightening up and glaring at the ground.
+"Shaper, was that you?"
 
-Sindy's eyes went wide.
-"Did I do that?"
-
-Maddy looked at Special Leaf.
-"She's---she's a special like you?"
-
-"Not like me,"
+"It was, and I apologize,"
 the old tortoise said,
-taking the sonic back from Sindy
-and fitting it around his arm once again.
-"Most of us can only ever master one piece of tech,
-and even that takes years.
-You, young lady, have a very rare gift.
-You can use all of it,
-just like the Makers themselves."
+taking the dice from Sindy and returning them to their bag.
+"But it turns out that a lot of young shapers can't use their power if they think about it.
+It just has to happen."
+He picked up his tea and looked over the rim of the cup at Sindy.
 
-Mama Roo gaped,
-the basket of blueberries in her arm forgotten.
-"I beg your pardon?"
+The young roo blinked.
+"What? I mean, pardon me?"
 
-The tortoise picked up his cup of tea.
-"It sometimes happens with people who are...different," he said,
+The tortoise sipped his tea and set the cup back down.
+"You're a shaper, Miz Roo," he said,
 quiet but excited.
-"It's why buttons and gadgets work for you when they won't work for anyone else."
+"You're a luck shaper,
+and that's the rarest kind of shaper there is."
+
+"She's a---"  "What---"  "*Sindy*?"
+Mother and daughters all started speaking at once.
 
 "Plausible," Dockety buzzed.
 "Improbable events have occurred with surprising frequency."
 
-"You will need training," Special Leaf went on.
+"You will need training," Shaper Leaf went on.
 "Lots of training, and lots of practice.
 But for now, let's just keep this to ourselves."
 
-"I'm a *special*?"
+"I'm a *shaper*?"
 Sindy said wonderingly.
 
 Maddy hugged her.
 "Always knew you were special," she said into her sister's ear.
 
-"Well, this calls for a toast," Mama Roo said.
+"Well, this calls for a toast," Mama Roo said,
+setting the blueberries down on the table.
 She went into the house and emerged a moment later with a bottle of sweet peach juice in one hand,
 four glasses in the other,
 and a small rectangle tucked under her arm.
@@ -5755,7 +5669,7 @@ then flashed, "Confirmed."
 Dockety turned back to the roos.
 "We have seen this one,"
 it said.
-"It is with the other prisoners in Heck."
+"It is with the others in Heck."
 
 <center>
 <em>To be continued...</em>

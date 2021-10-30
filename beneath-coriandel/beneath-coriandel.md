@@ -140,7 +140,7 @@ city.
 
 Truth told, after five months getting up to the Black Grass and back, I felt a
 bit like a kitten running between someone's legs going through the gate.
-Coriandel wouldn't have been more than a small neighborhood in a city like
+Coriandel wouldn't have been considred more than a small neighborhood in a city like
 Haricot or Amprakash, but it was as busy as an anthill that morning.  There were
 cattle drovers down from the high grass of Darp, spice merchants and
 silversmiths up from Thind, and some Hett clustered around a smithy-wagon
@@ -1140,7 +1140,7 @@ overhead were suddenly to vanish.  They also argue about whether it's *our*
 moonrise, or when it would have been before the Pilots' last battle took the
 tops off the mountains east of Coriandel.  I don't care.  The door will open,
 I'll go through and kill the bonescuttle, my damn head will stop itching, Kerrem
-will write a poem about my adventures, Sehdie and I will get married, and we 'll
+will write a poem about my adventures, Sehdie and I will get married, and we'll
 all live happily ever after.  And up will become down, black will become white,
 and the emir's thieves will stop collecting taxes.
 
@@ -1421,7 +1421,7 @@ Releasing him?  "Uh..."  I started to lower my arms.  "That's not the deal."
 Best if you keep those up where we can see them."
 
 Damn the Gifted.  And damn these two in particular.  They were the nightmare and
-shame of every rat catcher in the city.  They'd arrived a couple of years before
+shame of every rat catcher in the city.  They'd arrived a couple of years before,
 full of wild talk about Gifted rights and reparations and six other kinds of
 madness.  When the emir told them to move on, they went underground instead and
 started playing vigilante.
@@ -3811,7 +3811,7 @@ He'd been explaining fractions to us all week, but I still couldn't make soup or
 stew out of them, and being stupid made me feel too angry for chores.
 
 What made it worse was that Kerrem obviously loved teaching as much as he loved
-reading and poetry and all the rest of it.  He'd get his bookster''s license the
+reading and poetry and all the rest of it.  He'd get his bookster's license the
 day he turned sixteen, marry someone who knew more about Darpani clan ballads
 than she did about cooking, and live happily ever after.  And me? I was going to
 be a rat catcher like my father, just one step up from cleaning gutters or
@@ -4478,7 +4478,7 @@ yourself in the dragon's mouth I'm not going to stop you."
 
 "Why? It's empty."
 
-"Well, that just means there's last chance of you spilling any, doesn't it?"
+"Well, that just means there's less chance of you spilling any, doesn't it?"
 
 "Was that a joke?"
 
@@ -6278,7 +6278,7 @@ handsome, even when he was scowling.  One afternoon I came out of an elocution
 lesson to find him loitering outside the fiddle mender's on the other side of
 the street.  Just the sight of him stole my breath away.
 
-It took me a few weeks to realize that I was still afraid of being smothered.
+It took me a few weeks to realize that I still felt like I was being smothered.
 The feeling grew stronger every day.  It was bad enough that my aunt wanted me
 to be a fairytale princess, prim and proper, just like she and my sainted mother
 had been when they were my age.  But now there was Vurt.  He asked me one
@@ -6800,7 +6800,7 @@ I scramble backward, stumbling over my pack once again.  Where in the hells is
 my spear? I grab my pack and leap up beside the statue of the woman reading the
 scroll.
 
-The ghost's outline blurs as it lunged a second time.  The bonescuttle snaps at
+The ghost's outline blurs as it lunges a second time.  The bonescuttle snaps at
 it.  The lantern is between its legs.  If the bonescuttle breaks the glass, I
 will die down here in darkness.  I can only think of one thing to do.  I pull
 the cage of rats from my pack and throw it over the bonescuttle's head.  It
@@ -7628,7 +7628,7 @@ long, is that you?  It is!  It *is*!  I am *home*.
 Sehdie was only two when Awbé left me.  It was one blow too many.  First that
 rogue Ishad, with his smoldering looks and sweet words to snare an innocent
 girl's heart, just so he could laugh about it afterward.  Then our parents let
-her marry that dreary man and sent me with her like a, like a *servant* or a
+her marry that dreary man and sent me with her like a---like a *servant*, or a
 fine carpet.
 
 And then---oh, it hurts even to think it, even after all these years.  Awbé
@@ -7947,7 +7947,7 @@ marked "Urgent".  The label was my great-grandfather's joke---it is the only
 pile on the desk.
 
 The second page tells me that the Ruudian pike-and-bow mercenaries I hired last
-year are were giving notice.  The rising in Upuliaq has become a full-blown
+year are giving notice.  The rising in Upuliaq has become a full-blown
 rebellion, and they are needed at home.  I curse without any real feeling, make
 a note to have them paid in full, and add the page to the pile.  I hoped they
 would stay long enough to train two companies of my own troops.  Perhaps next

@@ -801,7 +801,7 @@ Maddy felt like her heart was swelling in her chest.*
 *After they left,
 Maddy settled into her father's chair with her latest book.
 It was a collection of folk tales about the Makers
-and how they gave the first specials their powers.
+and how they gave the first specials their powers.  
 Bots were wise counselors, fickle allies, or wicked adversaries,
 and each story ended with the words,
 "And only the stars can tell the rest.".*
@@ -950,7 +950,7 @@ You gotta come with us and tell them."
 "This one is now able to make its own choices."
 Its lenses rotated.
 "In fact,
-this one has just made a choice."
+this one *has* just made a choice."
 
 With no more warning than that,
 the bot strode through the shallows and up onto the riverbank.
@@ -1049,7 +1049,7 @@ she always joked,
 baring her wolf teeth just a little when she smiled.
 Maddy had once heard her father say that the mayor was a *very* alpha female,
 and while some townspeople might grumble that
-it was time someone with hooves or horns had a turn running things,
+it was time someone with hooves or scales had a turn running things,
 everyone expected that the mayor would still be standing on that balcony
 long after all of her fur had finished turning gray.
 
@@ -1185,13 +1185,10 @@ turning the black box over and over in his wrinkled paws.
 "What's it do?"
 
 The old tortoise shook his head.
-"I don't know for sure,
-but I've heard of such things.
+"I've never seen one,
+but I've heard of 'em.
 If a bot's got one of these on it,
-whoever has the controller can make it do whatever it wants.
-Kind of like these gadgets,
-except you don't have to have 'em fastened on."
-He jerked his chin toward the bulky lumps on his sweatered forearms.
+whoever has the controller can make it do whatever it wants."
 
 "Wow---that would be well more than handy,"
 Gumption said, awed.

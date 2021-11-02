@@ -1224,7 +1224,7 @@ and rang the alarm bell.
 
 ## Episode 4: Raid!
 
-*Donk! Donk! Donk!*
+*Clunk! Clunk! Clunk!*
 "Bother," the old tortoise said mildly,
 reaching into the bell and pulling a sock off the clapper.
 "I know it can be loud when the wind blows,
@@ -1297,12 +1297,14 @@ A belch of greasy black smoke rolled over the goat.
 He stumbled, spun around, and fell to the ground.
 
 "Go!" Special Leaf ordered,
-pulling up the sleeves of his sweater to reveal
-the bulky silver sonic blasters fastened to his forearms.
-The ancient tech had a few dents and scratches,
-but had been polished until it gleamed.
-With a click and a whir,
-the blue-gray power indicator crystal on the back of each sonic started to glow.
+squaring his shoulders.
+Something popped as he rolled his head from side to side to loosen his neck.
+Between one instant and the next
+all the warmth and good humor drained away from his face.
+The expression that replaced them sent a chill up Maddy's spine.
+For all his love of books and tea,
+Special Leaf was a tortoise,
+and tortoises were cold-blooded creatures.
 
 Maddy grabbed Sindy,
 spun around,
@@ -1322,11 +1324,10 @@ They were here to take people,
 just like they had taken her father!
 
 "Not today, clunker," Special Leaf said.
-He planted his feet firmly on the cobblestones,
-rolled his head to work out a kink,
+He planted his feet firmly on the cobblestones
 and swept his arms in a broad circle.
 
-The earth groaned and split under the sonic's invisible wave of energy.
+The earth groaned and split under the sheer force of his concentration.
 A crack a meter wide opened right in front of the huge bot.
 "Ha!" Special Leaf crowed
 as one of the bot's treads fell into the fissure.
@@ -1336,7 +1337,7 @@ The bot fell to one enormous knee.
 Its motors roared as it braced a hand on the cobbles
 and heaved itself back upright.
 
-Commmander Leaf raised his arms over his head
+Special Leaf raised his arms over his head
 and brought them down and around in a great clap
 right in front of where his belly button would have been
 if he'd had one.
@@ -1365,8 +1366,8 @@ Two! The second stone clanked off its casing.
 As Maddy and Gumption straightened up with more stones in their paws,
 half a dozen more bots charged into the square.
 
-The power crystals on Special Leaf's sonics looked like little stars
-as he pointed at first one bot and then another.
+Special Leaf used a word Maddy was sure she wasn't supposed to know
+and *pushed* with his mind.
 The smallest of the new arrivals flew backward through the air
 and hit the front of a building with a crash.
 Something with long legs and a small body sprawled full length.
@@ -1436,7 +1437,7 @@ But so was Maddy.
 She jumped and kicked with all her might.
 The lead bot staggered back.
 
-The second bot knocked it aside and clattered forward on crab-like legs.
+The second bot knocked it aside and skittered forward on crab-like legs.
 A tentacle lashed out, catching Maddy across her thighs.
 A jolt ran through her body.
 For a moment her mouth tasted like tin foil
@@ -1475,14 +1476,13 @@ It spun around and aimed its tentacles at the militia.
 Two bursts of purple electricity shot out of them and struck the militia.
 They toppled over.
 
-The big bot rumbled away into the darkness towing its cart and its three prisoners
-leaving chaos in the village square.
+The big bot rumbled away into the darkness
+towing its cart and its three prisoners,
+leaving chaos in the village square behind it.
 Half of the militia lay on the ground,
 dazed by dizzysmoke or shocked by the crab bot's final blast.
-Special Leaf was gesturing feebly,
-exhausted,
-but the power crystals on his sonics were exhausted too---it would be a day or more
-before sunlight and his own body motion recharged them.
+Special Leaf was still gesturing feebly,
+but was too exhausted to make the stones obey him.
 Scattered plates of armor and parts of broken mechanical limbs
 proved that the bots had paid a heavy price for their victory,
 but as Mama Roo wrapped Gumption and Maddy in a hug
@@ -1494,8 +1494,8 @@ gone just like her father.
 "They have my *daughter*!
 We *have* to go after them!"
 Mama Roo shouted.
-Maddy hadn't imagined that her mother could look so fierce,
-but in that moment she looked like she could frighten an entire pride of lions.
+Maddy had never imagined that her mother could be so fierce,
+but in that moment she looked like she could frighten a tiger.
 
 The mayor shook her head.
 "I'm sorry, Cedilia, you know I am.
@@ -1513,9 +1513,10 @@ She scowled.
 "And what about Special Leaf?"
 Mayor Lupus continued as Mama Roo opened her mouth again,
 gesturing at the porch steps
-where the old tortoise was sitting with his eyes closed,
-the wrinkles on his dark green face even deeper than usual.
-"All he's got is pot scrapings.
+where the old tortoise was sitting,
+his eyes closed
+and the wrinkles on his dark green face even deeper than usual.
+"He's about ready to fall over.
 Even if we could catch up with 'em,
 we wouldn't have a chance."
 
@@ -1538,18 +1539,18 @@ and waved off the mayor as she came over to help.
 "The one that had legs like a stork chased them right into the arms of
 the big one hauling the cage.
 I tried to trip it up, but..."
-He gestured helplessly with the silver machinery fastened to his forearms.
+He shook his head.
 "I'm sorry.
-I just didn't have enough juice."
+I just don't have the strength I used to."
 
-"Looked to me like you had plenty of juice,"
+"You looked plenty strong to me,"
 the mayor said firmly,
 clapping him on the shoulder.
-"The way you were throwing all those rocks around?
-Looked like a damn hailstorm.
+"The way you were throwing all those rocks at 'em?
+Looked like a damn avalanche.
 Never seen anything like it."
 
-"That wasn't me," Special Leaf protested,
+"I didn't do that," Special Leaf protested,
 but the mayor had already turned away
 to start barking orders at the militia.
 Salvage the scraps of armor that had been knocked off the bots during the fight.
@@ -1577,7 +1578,7 @@ We gotta find it!"
 
 The goat's eyes widened.
 He nodded.
-"We should go help, um, clean up," he said loudly.
+"We should, uh, go help folk clean up," he said loudly.
 
 "Good idea," Maddy replied, raising her voice.
 "Mama, Gumption and I are gonna..."
@@ -1599,11 +1600,11 @@ not really listening.
 
 The two teenagers fetched the stones Maddy had pointed at
 and then,
-with only a glance and a nod to each other,
+with only a glance at each other,
 walked back as if to pick up some more and just kept walking.
 It was a tactic they had used more than once
-to get out of picking potatoes,
-and as long as they acted
+to get out of picking potatoes.
+As long as they acted
 as if they were doing something they were supposed to be doing,
 grownups would mostly not pay them any attention.
 

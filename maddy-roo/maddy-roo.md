@@ -2614,27 +2614,26 @@ as it dragged her across the floor.
 
 Dockety scraped through the door behind her
 and flung itself at the tentacle.
-"Release! Release!" it rasped
-as it grabbed the loop around Maddy's leg
-and strained to pry it loose.
+"Release! Release!" it rasped,
+grabbing the loop around Maddy's leg
+and straining to pull it off her.
 
-Maddy kicked and pulled,
-but couldn't get her ankle free.
+Maddy kicked again and again but couldn't get her ankle free.
 "Release! Imperative! Release!"
-Dockety hit the tentacle with its heavy manipulator,
-then grabbed it again,
-but the swamp slime was too slick for the bot to get a grip.
+Dockety hit the tentacle with its heavy manipulator
+and grabbed it again,
+but the swamp slime was too slick to get a solid grip.
 
 "Maddy!"
-Sindy squeezed through the rear door and ran to her sister.
-She put her paws under Maddy's armpits
-and pulled until her feet slipped out from under her.
-"Get off her!" she shrieked.
+Sindy squeezed back into the room through the rear door and ran to her sister.
+With her hands under Maddy's armpits
+she pulled until her feet slipped out from under her.
+"Get off her!" she shrieked at the tentacle.
 
 Suddenly Maddy had an idea.
-She doubled over and fumbled with her bootlace,
+She jackknifed and fumbled with her bootlace,
 cursing herself for having tied it so well.
-The braided string was clagged with mud,
+The braided string was clagged with mud
 and so damp that it might as well have been dipped in glue.
 "Come on come on come on," she muttered frantically.
 There!
@@ -2643,16 +2642,25 @@ She pulled one end loose and hastily undid the rest of the knot.
 
 "Pull!" she yelled at Dockety.
 As the bot hauled back on the tentacle,
-Maddy braced the heel of her other boot against it and yanked her trapped foot free.
+Maddy braced the heel of her other boot against it
+and yanked her trapped foot free.
 She was out!
 
-She scrambled to her feet
-just as the tentacle realized its prey had somehow escaped.
+As she scrambled to her feet
+the tentacle realized its prey had somehow escaped.
 It threw the boot across the room and lashed out,
 trying to find her again.
 
 *Clunk!*
 The boot hit the second lever on the wall next to the inner door.
+"Grab it!" Maddy told Sindy.
+"No, not the boot!
+The lever!
+Pull the other lever"
+She didn't know what would happen,
+but it couldn't be worse than---
+
+Sindy pulled down hard on the second lever.
 Rumbling and grinding,
 the outer door began to close.
 
@@ -2680,7 +2688,8 @@ She sniffled.
 If you can't give up, you have to keep going.
 Come on."
 
-She took her sister's paw,
+Squelching her foot back into her boot,
+she took her sister's paw,
 and was only mildly surprised when Dockety took her other paw
 with its smaller manipulator.
 Side by side,
@@ -2695,7 +2704,7 @@ not even dust under her finger when she ran it over the wall.
 
 "Unknown,"
 the bot replied.
-"This one is analyzing the gap in its database.
+"This one has analyzed the gap in its database.
 It is clearly deliberate.
 Something erased the existence of this facility.
 That is unlikely to be good news,"
@@ -2752,12 +2761,12 @@ Dockety hesitated.
 It swiveled its head to look at Maddy.
 "But Crusher is an 'it', please, as is this one."
 
-"I'm hungry,"
-Sindy interrupted while Maddy was digesting that.
+"I'm *hungry*,"
+Sindy interrupted before Maddy could think of a suitable reply.
 
 "I know,"
 the older roo said,
-squeezing her sister's paw.
+squeezing her sister's hand.
 "If I had any cookies, I'd let you have them all."
 
 Sindy sniffled.
@@ -2769,7 +2778,7 @@ Maddy kissed the top of her sister's head.
 "This one also needs to recharge,"
 Dockety buzzed.
 "Will you be able to navigate with reduced illumination?"
-Its light dimmed.
+Its light dimmed until it was no brighter than a birthday candle.
 
 Maddy gulped.
 "Sure," she said as bravely as she could.
@@ -2809,7 +2818,7 @@ The floor tile under the bot's foot snapped in half.
 Dockety half-fell into the hole.
 Its torso hit the floor with a *clunk!*
 For one terrifying moment Maddy was sure it was going to fall all the way in,
-but somehow the bot's manipulators found purchase on the concrete.
+but somehow the bot got a grip on the concrete.
 
 Sindy stumbled backward to get out of the way.
 Her paw hit a patch of wall directly beneath one of the darkened lighting panels.

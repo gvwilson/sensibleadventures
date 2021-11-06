@@ -2472,7 +2472,9 @@ fastened opposite the door that read,
 A broken screen stood on a pedestal beneath it.
 Next to the sign and the screen was another door,
 this one closed tight,
-and a pair of rusty levers.
+and a pair of square glass panels
+that looked like they were made of the same material
+as the recharging pillars near Rusty Bridge.
 
 "See?" Maddy said much more bravely than she felt.
 "No spiders."
@@ -2548,9 +2550,10 @@ As Dockety stepped over it again,
 Maddy got to her feet as quietly as she could
 and pulled Sindy up beside her.
 Before Maddy could stop her,
-Sindy grabbed hold of one of the levers sticking out of the wall to steady herself.
+Sindy reached out to steady herself against the wall.
 
-The lever dropped with a loud *clack*.
+Her hand landed on one of the black glass panels.
+It lit up with a loud *ping*.
 Maddy had only a heartbeat to duck and pull Sindy down with her
 as the tentacle lifted off the ground and struck the wall.
 *Smack!*
@@ -2652,15 +2655,16 @@ It threw the boot across the room and lashed out,
 trying to find her again.
 
 *Clunk!*
-The boot hit the second lever on the wall next to the inner door.
+The boot hit the second glass panel on the wall next to the inner door.
 "Grab it!" Maddy told Sindy.
 "No, not the boot!
-The lever!
-Pull the other lever"
+The panel!
+Press the other panel!"
 She didn't know what would happen,
 but it couldn't be worse than---
 
-Sindy pulled down hard on the second lever.
+Sindy slapped her hand hard against the second panel.
+*Ping!*
 Rumbling and grinding,
 the outer door began to close.
 
@@ -2854,7 +2858,7 @@ you might as well come and say hello."
 *Click. Click. Click.*
 One by one the ceiling lights that had come on behind them went out.
 *Bzzzt... Bzzzt...*
-Two more lights in front of them came to life.
+Two more lights in front of them flickered to life.
 
 "You're smothering me,"
 Sindy said,
@@ -3107,7 +3111,8 @@ She grabbed her sister's sleeve and tugged on it urgently.
 Maddy thought a few moments later,
 staring through heavy double-paned glass at
 what had once been a laboratory of some kind.
-A cloudy patch in the middle of the glass showed where someone had tried to melt it
+A cloudy patch in the middle of the glass
+showed where someone had tried to melt it
 or dissolve it with acid.
 The four skeletons---no, there were five, she realized distantly---showed that
 whatever the room's occupants had tried hadn't worked.
@@ -3127,7 +3132,7 @@ Their components failed shortly thereafter."
 The fan on its shoulder spun furiously.
 "It is unfortunate.
 This one estimates that the cleanup necessitated by the incident
-delayed completion of repairs by almost eight-one hours."
+delayed completion of repairs by almost eighty-one hours."
 
 Maddy nodded jerkily.
 The bot was between them and the door they had come through.

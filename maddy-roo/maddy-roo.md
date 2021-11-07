@@ -3200,17 +3200,14 @@ The door they had come through was closed.
 *All* the doors were closed---there was no way out!
 
 "Quick!"
-she said to Sindy.
-"Pull a lever!"
+she shouted to Sindy.
+"Push a button!"
 
 "What?"
 
-"Pull a lever!"
+"Which button?" her sister wailed.
 
-"There aren't any levers!" her sister wailed.
-
-"Then push a button!
-Anything!"
+"Any button!"
 Maddy frantically began slapping her paws on keyboards
 and pushing buttons and twisting dials.
 A heartbeat later her sister joined in.
@@ -3223,7 +3220,7 @@ Desist!"
 "Desist this!"
 Maddy yelled,
 yanking a keyboard off the desk and flinging it at their captor.
-The keyboard clattered harmlessly off a desk and fell to the floor.
+The keyboard clattered harmlessly fell to the floor.
 
 Beside her,
 Dockety picked up a keyboard and studied it for half a second.
@@ -3238,10 +3235,10 @@ Two more keyboards shot across the room.
 
 "Apprehend! Apprehend!"
 Patient ordered the bulky service bots as it retreated,
-waving its arm to protect itself.
+waving its mismatched arms to protect itself.
 
 One of the service bots hesitated just long enough
-for the other to charge through the door.
+to let the other charge through the door.
 For a moment Maddy was sure they would be caught,
 but the bot halted a few meters away.
 A hatch opened in its side.
@@ -3354,7 +3351,8 @@ A speaker crackled.
 "Where? Where will you go?"
 Patient asked.
 "Back to the surface?
-The external security system is still active.
+The external security system is still active,
+and quite upset.
 Or perhaps you would like to continue exploring?"
 It made a horrible grating *snrk snrk* sound.
 
@@ -3426,7 +3424,7 @@ She slapped its plates again.
 A hundred tired steps later they reached the hole:
 six floor blocks wide and six long,
 with one row of blocks clinging to the wall for them to walk on.
-"Are you going to be able to jump again?"
+"Can you jump it again?"
 Maddy asked Dockety.
 
 "Negative," the bot said,

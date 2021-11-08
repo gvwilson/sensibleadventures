@@ -4,7 +4,7 @@ title: Shapers and Bots
 permalink: /shapers-and-bots/
 ---
 
-*Shapers and Bots* is a role-playing game for children 8 and older inspired by *Dungeons & Dragons*, *Avatar: The Last Airbender*, and every cartoon animal that ever walked upright and wore. The rules focus on storytelling rather than realism: dice rolls are kept simple, and there are no complicated tables showing how much damage a broadsword does compared to a katana.
+*Shapers and Bots* is a role-playing game for children 8 and older inspired by *Dungeons & Dragons*, *Avatar: The Last Airbender*, and every cartoon animal that ever walked upright and wore clothes. The rules focus on storytelling rather than realism: dice rolls are kept simple, and there are no complicated tables showing how much damage a broadsword does compared to a katana.
 
 ## Background
 
@@ -76,7 +76,7 @@ Sometimes it may seem like a character has no chance at all of doing something, 
 > 
 > *A moment later, another crocodile pirate comes around the corner, sword in hand. Zitter rolls again and gets a score of 17. The Director rules that her lucky shot has gone wild and brought a branch crashing down between her and the angry pirate.*
 
-Fluke rolls work in reverse as well, because it's always possible for something to go wrong. If a player rolls a total of 3 or 4 (that is, *1*-*1*-*1* or *2*-*2*-*2*) they automatically fail at whatever they were trying to do in some hilarious, embarrassing, or fatal way. This is called a [**fumble**](#g:fumble).
+Fluke rolls work in reverse as well, because it's always possible for something to go wrong. If a player rolls a total of 3 or 4 (that is, `1`-`1`-`1` or `1`-`1`-`2`) they automatically fail at whatever they were trying to do in some hilarious, embarrassing, or fatal way. This is called a [**fumble**](#g:fumble).
 
 > *Another day, another angry crocodile pirate… Zitter thinks she has figured out how to use her laser pistol, but when she takes a shot, her player rolls a total of 3 points. "Self-destruct initiated", the Director says in a mechanical voice. "Ten… nine… eight…"*
 
@@ -88,7 +88,7 @@ A situation in which one character is trying to out-do another is called a [**co
 
 ## Combat
 
-Once a fight starts, everything happens in turns that are a few seconds long in game time. (We say "a few" to avoid arguments about exactly how far someone can run in exactly five seconds...) In each turn, characters act in order of Fitness, with highest Fitness going first. If two or more characters are tied, the Director decides who goes first for the duration of that fight.
+Once a fight starts, everything happens in turns that are a few seconds long in game time. (We say "a few" to avoid arguments about exactly how far someone can run in exactly five seconds…) In each turn, characters act in order of Fitness, with highest Fitness going first. If two or more characters are tied, the Director decides who goes first for the duration of that fight.
 
 In their turn, a character can take two actions. Each of the following counts as one action:
 
@@ -122,7 +122,7 @@ There are a few special cases:
 
 3.  If the target has already used all of their actions, they can borrow an action from their next turn to use for defense.
 
-Flukes and fumbles count when attacking and defending: a fluke attack always succeeds, while a fumble always misses. (And yes, if someone gets a fluke when attacking and their opponent gets a fluke when defending, the defense has succeeded.)
+Flukes and fumbles count when attacking and defending: a fluke attack always succeeds, while a fumble always misses. (And yes, if someone gets a fluke when attacking and their opponent gets a fluke when defending, the defense has succeeded in the most ridiculous way the Director can think of.)
 
 ## Health and Injury
 
@@ -138,7 +138,7 @@ Every character starts the adventure with a number of [**health points**](#g:hea
 
 ### Healing
 
-Someone who is knocked unconscious can try to regain consciousness by winning a challenge roll with no bonuses. It's up to the Director to decide how often they get to do this.
+Someone who is unconscious can try to regain consciousness by winning a challenge roll with no bonuses. It's up to the Director to decide how often they get to do this.
 
 > *While Gertrude is going through Alouenne's gear to see if she has anything worth stealing, Alouenne's player rolls three dice and gets 13, which is enough for her to regain consciousness. Quietly, she reaches for her dagger…*
 
@@ -153,7 +153,7 @@ Weapons do damage (that's kind of the point), and bigger weapons do more damage 
 | Medium     | 3        | Sword, spear, ax                                            |
 | Large      | 4        | Two-handed sword, Bertha the Big Spiked Club                |
 
-Each 4, 5, or 6 counts as 1 point of damage (unless the target is wearing armor, as discussed below).
+Each 4, 5, or 6 counts as 1 point of damage (unless the target is wearing armor, as discussed below). If you don't want to roll lots of dice, you can flip the same number of coins: heads is a point of damage, tails is not.
 
 > *Zephrod hits Gertrude with her ax. She rolls 3 dice and gets *4*, *2*, and *5*, for 2 points of damage. Gertrude counter-attacks with her knife and also hits. She rolls 2 dice and gets *1* and *2*: she has given Zephrod a superficial cut but hasn't done any real damage.*
 
@@ -413,7 +413,7 @@ Just like features, skills have ratings. Positive ratings mean that characters a
 | Camouflage      | -3         | disguising objects                            |
 | Camping         | -3         | setting up a tent and making a fire           |
 | Charisma        | INT        | persuading people, fooling them, and acting   |
-| **Climbing**    | FIT - SIZ  | walls, ropes, and what-not                    |
+| **Climbing**    | FIT        | walls, ropes, and what-not                    |
 | Computers       | None       | handling anything with a digital brain        |
 | Dancing         | FIT        | being graceful on the dance floor             |
 | Driving         | None       | wagons and motorized vehicles alike           |
@@ -441,7 +441,7 @@ Just like features, skills have ratings. Positive ratings mean that characters a
 | Tunnelling      | -3         | digging tunnels that don't collapse           |
 | Ventriloquism   | None       | throwing your voice                           |
 
-It's worth figuring out a character's skill at the skills marked in **bold**, since they come up so often in adventures. Note that some skills like Climbing, Hiding, and Stealth get *better* if the character is *smaller*. For example, if a character's Fitness is +2 and their Size is +1, their Stealth is +1, but if their Size is -1, their Stealth is +3.
+It's worth figuring out a character's skill at the skills marked in **bold**, since they come up so often in adventures. Note that some skills like Hiding and Stealth get *better* if the character is *smaller*. For example, if a character's Fitness is +2 and their Size is +1, their Stealth is +1, but if their Size is -1, their Stealth is +3.
 
 > *Garree's features are:*
 >

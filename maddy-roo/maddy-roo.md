@@ -3508,20 +3508,19 @@ and slid down it into the unknown.
 
 Maddy had never seen the ocean, but she had read about it in Special Leaf's books.
 She knew that it was as deep as the highest mountains were high,
-and that its bottom were darker than a moonless night.
-Strange creatures lives there,
+and that its bottom was darker than an overcast moonless night.
+Strange creatures lives there:
 fish whose mouths were half the size of their bodies,
 wriggling things like glowing ribbons
 and bots that looked like lobsters on stilts,
 all of them patiently waiting to consume whatever came to them from above.
 
 As she slid down Dockety's arm,
-she wished that her imagination would shut up for once.
+she wished her imagination would shut up for once.
 
 Her foot slid past the manipulator at the end of the arm.
 She gulped.
 She could probably still climb back up,
-maybe,
 but if she went any further...
 
 "Aright?"
@@ -3529,11 +3528,9 @@ Sindy asked.
 Maddy was only a meter below her sister,
 but it felt as great as the distance between them and home.
 
-"Yeah, I'm *eep*," Maddy replied,
-squeaking and clutching Dockety's detached arm even more tightly
-as a red emergency light came on in the ceiling above her.
+"Yeah," Maddy lied.
 She swallowed shakily.
-"Here's goes nothing."
+"Here goes nothing."
 She slid down further until her paws were on Dockety's wrist
 and stretched her leg.
 Was that the floor she could feel with her toe?
@@ -3541,8 +3538,9 @@ She stretched even more.
 Maybe?
 
 She let go of the arm,
-and then let out her breath as her feet came down on a floor
+and then let out her breath as her feet landed on a floor
 that felt so wonderfully solid she could have hugged it.
+"It's aright!" she called up.
 
 Sindy slithered down next.
 Maddy caught hold of her sister's ankles
@@ -3553,8 +3551,8 @@ nearly knocking her over,
 then slithered out of Maddy's hug.
 
 "It's colder down here,"
-Sindy said,
-shivering.
+Sindy shivered,
+then squeaked as a red emergency light came on in the ceiling above them.
 
 "Yeah."
 Maddy cleared her throat.
@@ -3570,11 +3568,11 @@ Then it was Dockety's turn.
 Maddy caught his detached arm
 and watched as he lowered himself as far as he could with the other
 and then extended his wheel.
-"You still have about a meter to---never mind."
-Dockety dropped,
-bounced on his wheel,
-and said, "Ouch,"
-in a toneless voice.
+"You still have about a meter to---never mind,"
+she said as Dockety dropped and bounced on his wheel.
+
+"Ouch,"
+he said in a toneless voice.
 
 "Did that hurt?" Sindy asked anxiously.
 
@@ -3603,7 +3601,7 @@ brushing away her sister's half-hearted punch.
 Maddy kept waiting for Patient's crackling voice to taunt them from a speaker,
 but it never came.
 
-Finally they reached a door.
+A double hundred steps later they came to a door.
 "Armory Number Four," Maddy read aloud,
 tracing the faded words with her finger.
 She glanced at Dockety,
@@ -3612,8 +3610,9 @@ who had been moving slower and slower.
 trying to make it a joke.
 
 The bot didn't reply.
-Instead,
-it pressed its hand against a square plate in the the door.
+Maddy and Sindy exchanged worried looks,
+and then the younger sister
+pressed her hand against a square plate in the the door.
 *Click.*
 The door slid to the side.
 
@@ -3623,13 +3622,12 @@ that revealed a room filled with rows of metal shelves
 higher than Maddy was tall.
 Most of the shelves were empty,
 but one entire side of the room still held
-canisters capped with complicated valves
-with three-armed caution labels stenciled on their sides.
+canisters with three-armed caution labels stenciled on their sides.
 
 "There's another door,"
 Sindy said,
 pointing to a corner.
-It too opened when they pressed the square plate
+It too opened when she pressed the square plate
 where a handle would normally have been.
 Another corridor,
 another set of red emergency lights,
@@ -3642,17 +3640,17 @@ and when it did,
 its voice was slower and raspier than before.
 "Power reserves at two percent."
 Maddy didn't know what "percent" was,
-but "two" didn't sound very many.
+but "two" didn't sound like very many.
 
-Another door.
+Another door---this level seemed to be made of them.
 *Click.*
 More white light that made her squint after the dim red in the corridor.
 It was a control room like the one where they had met Patient.
 *How many of these are there?* she wondered.
 
 Dockety pushed past her.
-Four quick steps took it to a panel on the wall
-that held a dozen square black receptacles.
+Four clumsy steps took it to a section of the wall
+with a dozen square black receptacles.
 It opened a panel in its torso with its remaining arm,
 pulled out a cable,
 and plugged itself in.
@@ -3691,8 +3689,9 @@ The lights behind its lenses dimmed.
 "Dockety?" Sindy asked hesitantly.
 
 "Ssh," Maddy whispered.
-"It's sleeping.
-Come on,
+"It's sleeping."
+*I hope,* she added in her head.
+"Come on,
 let's see what we can find."
 
 It only took them a few minutes to discover that the answer was "not much".
@@ -3705,16 +3704,15 @@ and nothing that told them how to get home.
 
 "Lie down and take a nap,"
 Maddy told her sister the third time Sindy yawned.
-"We can't do anything 'til it wakes up."
+"We can't do anything 'til Dockety wakes up."
 
 Sindy nodded,
 climbed onto a desk,
 stretched out,
 and was snoring softly in seconds.
 When Maddy patted her shoulder softly,
-she rolled onto her side and pulled up her legs,
-just as she did when they were at home and it was morning
-and she didn't want to get up yet.
+she rolled onto her side and pulled her legs up to her chest,
+just as she did in bed in the morning when she didn't want to get up.
 "I'll get you home,"
 Maddy said quietly.
 "I promise."
@@ -3729,7 +3727,8 @@ it made a whirring sound as it began to move back and forth across the floor
 as it began to clean the room.
 
 The bot rolled under a desk.
-A moment later the desk rose a few centimeters into the air and the whirring resumed.
+A moment later the desk rose a few centimeters into the air
+and the whirring resumed.
 The desk settled back onto the floor and the next one rose.
 *How many times had it done this?*
 Maddy wondered.
@@ -3927,7 +3926,7 @@ and it's *not fair*."
 She buried her face in her hands.
 
 "Well,
-you could always try pulling another lever,"
+you could always try pushing some more buttons,"
 Maddy joked lamely.
 
 "Stop it!"
@@ -3984,14 +3983,15 @@ and shook her paws in the air.
 "What was that supposed to be?" Sindy scowled.
 
 Maddy let her paws fall to her sides.
-"Sonics," she said with a forced.
+"Special Leaf using his powers."
 
-Sindy jumped and squeaked as the cleaner bot rolled up to them.
+Sindy rolled her eyes,
+then jumped and squeaked as the cleaner bot rolled up to them.
 "What's that!?"
 
 "It's aright," Maddy reassured her.
 "It just keeps the place tidy.
-Oh, but what's this?"
+Oh, but what's *this*?"
 
 The hatch on the cleaner bot's back slid open.
 Its spidery arm unfolded and tentatively offered a chain of carefully-cleaned paper clips to Maddy.
@@ -4047,7 +4047,7 @@ and even more afraid that if it did,
 it would speak in Patient's voice.
 "Did you---um, sleep? Well?"
 
-"Negative,"
+"This one does not sleep,"
 the bot said,
 unplugging itself from the wall
 and tucking its charger cable back into its chest.
@@ -4072,7 +4072,7 @@ That path does indeed lead to an exit."
 
 "But then what?"
 Sindy asked.
-"We'll never get home in time."
+"There's no way we can get home in time to warn everyone."
 
 "Incorrect," Dockety said.
 "It may be possible."
@@ -4080,7 +4080,7 @@ Sindy asked.
 "How?"
 the sisters asked simultaneously.
 
-The bot picked its arm up off the desk beside it.
+The bot picked its arm up off the desk and studied it.
 "Substantial reconfiguration will be necessary.
 We must hurry."
 
@@ -4279,24 +4279,27 @@ I'm a roo,
 and everyone knows roos never bluff.
 Go ahead,"
 she went on bravely.
-"Look it up in your database."
+"Look it up in your data thingy."
 
 Static crackled on the speakers.
-"There is no record of such an assertion,"
+"There is no record of such an assertion in the database,"
 Patient said indignantly.
 
 "Then your database is incomplete,"
 Maddy improvised wildly,
 looking from bot to bot
-the way she had seen Mayor Lupus look from person to person when speaking to a crowd.
-She didn't need Patient to believe---she just needed enough of the bots around her to.
+the way she had seen Mayor Lupus look from person to person
+when speaking to a crowd.
+She didn't need Patient to believe---she just needed
+enough of the bots around her to.
 
 "You are fabricating!"
 For the first time Maddy heard anger in Patient's voice.
 
 "Oh yeah?
 Then how come I have *this*?"
-She pulled the circuit board she'd taken at the river out of her pocket and held it up.
+She pulled the circuit board she'd taken at the river out of her pocket
+and held it up.
 
 *Click.*
 A crane bot turned on a spotlight welded to its single long arm

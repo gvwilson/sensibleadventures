@@ -4434,7 +4434,7 @@ They were halfway home!
 But before she could tell Sindy,
 Dockety started to dive,
 shallow at first and then steeper.
-Maddy grabbed her sister's arm instinctively.
+Maddy clutched her sister's arm.
 "What's happening?" she shouted.
 
 "We are being pursued,"
@@ -4442,8 +4442,8 @@ Dockety said as it leveled off frighteningly close to the treetops.
 
 Maddy twisted around as far as she could in her harness
 but couldn't see anything.
-"They're right behind us!" Sindy shouted.
-She had dropped her head to look backward through her own legs.
+"They're right behind us!" Sindy shouted,
+looking upside-down through her own legs.
 
 Maddy gulped and did the same.
 For a moment everything swam around her
@@ -4452,7 +4452,7 @@ as the forest became her ceiling and the sky---she swallowed hard.
 
 There---behind them,
 two dark shapes were flying side by side
-at an angle to their course.
+parallel to their course.
 They had wings instead of rotors
 and were carrying canisters
 like the ones that had been stacked on the shelves in the armory.
@@ -4467,7 +4467,7 @@ Dockety banked around a particularly tall pine tree.
 Maddy clenched her paws.
 "Can you go any faster?"
 
-"Not without dropping you,"
+"Not safely,"
 the bot answered,
 but put on speed anyway.
 
@@ -4614,7 +4614,8 @@ crutches under his armpits.
 "These boys got back a few hours ago,"
 the mayor said.
 "Had quite a story about how they broke out of the cage
-and then had to go back to rescue you and your sister when you got yourself caught."
+and then had to go back to rescue you and your sister
+when you got yourself caught."
 
 Maddy gaped at the mayor.
 "Rescue *us*?" she spluttered.
@@ -4718,7 +4719,7 @@ What you did was very brave."
 Maddy glanced at her mother and sister.
 "I couldn't have done it without Sindy.
 Every time we got stuck,
-she managed to push the right button or pull the right lever."
+she managed to push the right button."
 
 "Is that so?"
 the special asked thoughtfully.
@@ -4727,7 +4728,8 @@ And then the two oxen came running back into the square yelling,
 "Bots! Bots! There's a whole pile of 'em headed this way!"
 Even as they spoke a high-pitched whine turned into a drone.
 The two fliers Maddy had seen earlier zipped overhead and dropped their canisters.
-Thick black dizzysmoke spilled into the square as a dozen engines rumbled in the distance.
+Thick black dizzysmoke spilled into the square
+as a dozen engines rumbled in the distance.
 
 ## Episode 14: The Battle of Rusty Bridge
 

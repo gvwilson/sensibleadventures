@@ -4832,11 +4832,9 @@ He pulled up his sweaters' sleeves,
 braced his feet,
 and swept his arms in a circle.
 The earth split in a ragged arc in front of the cargo hauler
-as the sonics on his arms fired.
-
-The tortoise went down on one knee,
-clearly exhausted.
-A goat dropped her pike and tried to help him up.
+under the sheer force of his concentration.
+He swayed and stumbled and went down on one knee, exhausted.
+A goat dropped her pike and ran to help him up.
 
 *Clang! Thwack!*
 All around the square militia and bots battled each other.

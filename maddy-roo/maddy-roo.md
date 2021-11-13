@@ -5150,8 +5150,8 @@ and she shot into the air.
 Maddy's second flight was just like her first,
 except twice as fast and ten times more frightening.
 It was twice as fast because the flying harness only had to carry her.
-It was ten times as frightening because it was twice as fast
-and she had absolutely no control over where she was going.
+It was ten times more frightening because
+she had absolutely no control over where she was going.
 
 "Repeat your most recent trip
 question mark
@@ -5166,7 +5166,8 @@ still accelerating.
 "Slow down! Slow down!" Maddy shouted,
 but the autopilot ignored her.
 They passed the arches and the sphere,
-zoomed over something like a rusty metal flower as big across as the village square was wide,
+zoomed over something like a rusty metal flower
+as big across as the village square was wide,
 and dropped like a stone.
 
 Maddy screamed.
@@ -5323,7 +5324,7 @@ she got the chair up onto it---
 ---and whirled around as Patient's voice crackled,
 "There you are!"
 as a blocky service bot rolled down the corridor toward her.
-No---two service bots,
+No---there were *two* service bots,
 one coming from each direction.
 She was trapped between them!
 
@@ -5391,24 +5392,21 @@ A long, dark shape thrashed after it.
 
 Maddy groped along the wall.
 The picture tucked into her father's sketchbook had been been very clear.
-Not the first lever,
+Not the first button,
 not the second---there!
 The third one---that was the one she needed.
-She pushed the key into the slot below the lever,
+She pushed the key into the slot below the button,
 turned it,
-and pulled the lever down as hard as she could.
+and pressed the button as hard as she could.
 
-*Scrraaaaape.*
-The lever jammed halfway.
-"Oh, come *on*," she said in exasperation.
+Nothing happened.
+"Oh, come *on*," she moaned.
 She glanced over her shoulder
 as the tentacle rose from the flashlight like a hunting cobra
 and turned toward her.
 
-She grabbed the lever with both hands and pulled down with all her might.
-*Scrraaaaape.*
-The lever grated into position.
-
+She pressed the button again.
+*Click.*
 A dim orange light came on overhead.
 "Shecuridy shyshdem dishengaged,"
 a muffled automated voice said.
@@ -5479,7 +5477,7 @@ Crusher, Lasercase, and the others began to roll forward.
 
 Maddy smiled her fiercest smile.
 "Speaking of planning," she said,
-and she spun around and pulled the other two levers down as far as they would go.
+and she spun around and pushed the other two buttons.
 
 The orange light overhead flickered.
 "Rebooding nedwork," the automated voice.

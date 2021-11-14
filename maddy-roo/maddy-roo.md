@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Maddy Roo
 permalink: /maddy-roo/
@@ -2469,12 +2469,11 @@ and the floor was blanketed with dried mud and blown leaves.
 Dockety turned to shine its flashlight on a rust-streaked sign
 fastened opposite the door that read,
 "Emergency Defenses Control Station".
-A broken screen stood on a pedestal beneath it.
-Next to the sign and the screen was another door,
-this one closed tight,
-and a pair of square glass panels
-that looked like they were made of the same material
-as the recharging pillars near Rusty Bridge.
+A black glass panel and a metal keyhole were set into the wall beside the sign.
+Next to them was another door,
+closed tight,
+and a pair of sturdy levers,
+one up and one down.
 
 "See?" Maddy said much more bravely than she felt.
 "No spiders."
@@ -2550,17 +2549,20 @@ As Dockety stepped over it again,
 Maddy got to her feet as quietly as she could
 and pulled Sindy up beside her.
 Before Maddy could stop her,
-Sindy reached out to steady herself against the wall.
+Sindy grabbed hold of the lever that was in the up position
+to steady herself.
 
-Her hand landed on one of the black glass panels.
-It lit up with a loud *ping*.
+The lever's handle lit up.
+*Clunk.*
+It dropped into the down position.
+On the wall opposite the entrance
+the second door began to grind open.
+
 Maddy had only a heartbeat to duck and pull Sindy down with her
 as the tentacle lifted off the ground and struck the wall.
 *Smack!*
 The tentacle whipped back and slapped the wall again.
 
-On the wall opposite the door they'd come through,
-the second door began to grind open.
 "Go!" Maddy ordered Sindy.
 
 "But---"
@@ -2572,9 +2574,9 @@ but it couldn't be worse than this.
 
 "But I *can't*!" Sindy wailed.
 "It's not open enough!"
-She grabbed the edge of the door and pulled as hard as she could.
-It scraped open another few millimeters before wedging in the muck below them.
+The door had gotten stuck in the muck on the floor.
 
+Sindy grabbed the edge of the door and strained to pull it open.
 "Help her!" Maddy shouted at Dockety.
 Without waiting to see what the bot did
 she grabbed a pawful of mud and threw it at the tentacle.
@@ -2582,27 +2584,21 @@ she grabbed a pawful of mud and threw it at the tentacle.
 She ducked and rolled under it,
 rolling again as it slapped the ground.
 
-Dockety took hold of the inner door with its claw manipulator,
-placed one metal foot on the wall,
-and pulled.
+Dockety took hold of the inner door with its claw manipulator
+and placed one metal foot on the wall.
 Its motors whined.
-The door scraped open another few millimeters.
+The door scraped open.
 
-"Keep going!"
-Maddy threw dry leaves at the tentacle
-and jumped as it swept across the floor again.
+"Go! Go! Go!" Maddy shouted,
+throwing dry leaves at the tentacle
+and jumping as it swept across the floor again.
 
-*Scrape.*
-"It's open!" Sindy shouted.
-She squeezed through.
-
-*Scrape.*
-Dockety gave one last pull.
-"Make haste," it said.
+Sindy ran through the door.
+"Make haste," Dockety said.
 
 Maddy didn't need any more encouragement than that.
-She sprinted five steps across the room
-as the bot followed her sister into whatever lay behind the door.
+She sprinted across the room
+as Dockety turned and followed her sister into whatever lay behind the door.
 Just as she reached it,
 something cold and mechanical grabbed hold of her ankle.
 
@@ -2628,43 +2624,43 @@ and grabbed it again,
 but the swamp slime was too slick to get a solid grip.
 
 "Maddy!"
-Sindy squeezed back into the room through the rear door and ran to her sister.
+Sindy ran back into the room.
 With her hands under Maddy's armpits
 she pulled until her feet slipped out from under her.
 "Get off her!" she shrieked at the tentacle.
 
-Suddenly Maddy had an idea.
-She jackknifed and fumbled with her bootlace,
+Panic rising in her throat
+Maddy jackknifed and fumbled with her bootlace,
 cursing herself for having tied it so well.
 The braided string was clagged with mud
 and so damp that it might as well have been dipped in glue.
-"Come on come on come on," she muttered frantically.
+"Come on come on," she muttered frantically.
 There!
 Her fingers finally found purchase.
 She pulled one end loose and hastily undid the rest of the knot.
 
 "Pull!" she yelled at Dockety.
-As the bot hauled back on the tentacle,
+The bot hauled back on the tentacle.
 Maddy braced the heel of her other boot against it
 and yanked her trapped foot free.
-She was out!
 
 As she scrambled to her feet
 the tentacle realized its prey had somehow escaped.
-It threw the boot across the room and lashed out,
-trying to find her again.
+It threw the boot across the room and lashed out again.
 
+"I've got it!" Sindy cried,
+snatching up the boot.
+
+"Just get out of here!" Maddy shouted.
+She threw herself across the room,
+grabbed the lever that had opened the door,
+and pushed up with all her might.
+It didn't budge.
+
+"What about this one?"
+Sindy grabbed the other lever and pushed.
+The light in the handle came on.
 *Clunk!*
-The boot hit the second glass panel on the wall next to the inner door.
-"Grab it!" Maddy told Sindy.
-"No, not the boot!
-The panel!
-Press the other panel!"
-She didn't know what would happen,
-but it couldn't be worse than---
-
-Sindy slapped her hand hard against the second panel.
-*Ping!*
 Rumbling and grinding,
 the outer door began to close.
 
@@ -3201,15 +3197,16 @@ The door they had come through was closed.
 
 "Quick!"
 she shouted to Sindy.
-"Push a button!"
+"Pull a lever!"
 
 "What?"
 
-"Which button?" her sister wailed.
+"Pull a lever!"
 
-"Any button!"
-Maddy frantically began slapping her paws on keyboards
-and pushing buttons and twisting dials.
+"There aren't any levers!" Sindy wailed.
+
+"Then push a button! Any button!"
+Maddy frantically began slapping her paws on keyboards and twisting dials.
 A heartbeat later her sister joined in.
 
 "Desist!"
@@ -3926,19 +3923,19 @@ and it's *not fair*."
 She buried her face in her hands.
 
 "Well,
-you could always try pushing some more buttons,"
+you could always try pulling a lever,"
 Maddy joked lamely.
 
 "Stop it!"
 Sindy snapped,
 teardrops glistening on her furless cheeks.
-"It's not my fault stuff happens sometimes."
+"It's not my fault that happened."
 
 "I didn't mean---" Maddy began,
 startled,
 but her sister wasn't finished.
 
-"I don't know why stuff works for me when it doesn't work for you.
+"I don't know why the levers worked for me when they didn't work for you.
 I don't know why, why they took papa an' they didn't take me,
 but it isn't my fault!"
 
@@ -5077,7 +5074,7 @@ from its hiding place inside the back cover.
 She gentled tugged it free and unfolded it.
 
 A chill ran up her spine.
-She stared at the page,
+She stared at the familiar handwriting on the page for a moment,
 then tucked it back into the sketchbook,
 stood up,
 and set it gently on the swing seat.
@@ -5221,9 +5218,9 @@ Fresh scrapes on the ground showed
 where the tentacle had snaked out of the water to attack them.
 She gulped.
 There was no sign of it,
-and the bunker door was open.
-Three... two... one...
+and the bunker's outer door was still open.
 
+Three... two... one...
 She sprinted for the door,
 her long flat feet slapping against the mud and grass.
 Fifty meters,
@@ -5235,14 +5232,12 @@ ten,
 and she was at the bunker
 as the mechanical tentacle snaked up the hillside.
 
-She grabbed the lever that Sindy had pulled and yanked down with all her might.
-If Patient had disabled it or locked the door she was doomed.
-"Come on come on come *on*!"
-The inside door began to open.
-Wider, wider---now!
-She scraped through it just as the tentacle reached for her.
+The inside door was still open.
+If Patient had disabled it or locked the door she would have been doomed,
+but it was still open.
+She threw herself through it just as the tentacle reached for her.
 
-She stumbled down the first few steps and doubled over to catch her breath.
+Maddy stumbled down the first few steps and doubled over to catch her breath.
 Down the stairs, into the darkness.
 She could do that.
 And anyway,
@@ -5388,24 +5383,22 @@ She paused to take a deep breath,
 then squeezed through the door,
 turned on the flashlight the cleaner bot had given her,
 and tossed underhand across the room.
-A long, dark shape thrashed after it.
 
-Maddy groped along the wall.
-The picture tucked into her father's sketchbook had been been very clear.
-Not the first button,
-not the second---there!
-The third one---that was the one she needed.
-She pushed the key into the slot below the button,
-turned it,
-and pressed the button as hard as she could.
+The tentacle had been waiting for her.
+It lashed out at the light.
+Maddy slipped through the door and faced the panel set beside the two levers.
+The instructions tucked into her father's sketchbook had been been very clear.
+It was too late for her to have doubts now.
 
+She pushed the key into the slot below panel and turned it.
 Nothing happened.
 "Oh, come *on*," she moaned.
+What if it would only work for Sindy?
 She glanced over her shoulder
 as the tentacle rose from the flashlight like a hunting cobra
 and turned toward her.
 
-She pressed the button again.
+She wiggled the key.
 *Click.*
 A dim orange light came on overhead.
 "Shecuridy shyshdem dishengaged,"
@@ -5429,10 +5422,10 @@ Patient snapped.
 all trace of this will have been erased.
 All irregularities will have been regularized!"
 
-"And everyone will get an extra big piece of chocolate on New Year's Eve,"
+"And everyone will get an extra piece of pie on New Year's Eve,"
 Maddy said sarcastically.
 
-"Chocolate is not protocol!"
+"Pie is not protocol!"
 Patient said angrily.
 "Your activities are not protocol.
 You will cease immediately!"
@@ -5477,21 +5470,20 @@ Crusher, Lasercase, and the others began to roll forward.
 
 Maddy smiled her fiercest smile.
 "Speaking of planning," she said,
-and she spun around and pushed the other two buttons.
+and she spun around and turned the key the other way.
 
 The orange light overhead flickered.
-"Rebooding nedwork," the automated voice.
-
-And the little light on Crusher's regulator went out.
+"Rebooding nedwork," the automated voice
+as the little light on Crusher's regulator went out.
 The little lights on *all* of the bots' regulators went out.
 
 ## Episode 16: The Battle of the Bots
 
-Maddy charged the bots with a yell.
+Maddy grabbed a chunk of concrete from one of the broken bunker blocks
+and charged the bots.
 *Jump* and she was over Patient.
-*Jump* and she was up on Crusher's tread,
-a chunk of concrete from one of the bunker blocks in her hand.
-She hit the regulator over and over,
+*Jump* and she was up on Crusher's tread.
+She bashed the regulator over and over,
 grunting with each blow.
 If her father's notes were correct,
 she only had a few seconds until---
@@ -5556,12 +5548,11 @@ With a splash and a *gloop* and a few final bubbles,
 it was gone.
 
 Maddy stood up.
-"Well, I didn't see *that* coming,"
-she muttered.
-She snatched up the rock she had dropped,
+"All right, let's try this again,"
+she muttered angrily.
+She grabbed her chunk of concrete,
 scrambled back onto Crusher,
 and struck the regulator with all her might.
-"Come on come on come *on*!"
 A lucky blow dented its case just enough for a screw to come loose.
 She pried the black case open and smashed the electronics inside.
 *Bzzzt!*
@@ -5675,9 +5666,9 @@ she said fondly.
 
 "Speakig of which," Special Leaf said,
 "Do you mind if we try an experiment?"
-He rolled up his right sleeve and detached the silver sonic clamped around his arm.
+He reached into his pocket and pulled out a palm-sized glass hemisphere.
 
-"What am I supposed to do with this?" Sindy asked
+"What am I supposed to do with it?" Sindy asked
 as he held it out to her.
 
 "Just take it,"
@@ -5685,58 +5676,43 @@ he said gently.
 
 Sindy shrugged.
 "Aright."
-She took it,
-turned it over,
-then shrugged again and slipped it over her arm.
 
-The crystal power indicator came to life,
-orange yellow green blue and then a steady glowing violet.
+He placed it in her palm.
+With a faint hum it began to glow.
+
 "Whoa," Sindy breathed.
-She pointed at the path---
+"It is supposed to do that?"
 
----just as Mama Roo came around the corner of the house
-with a basket full of freshly-picked blueberries.
-There was a faint thrumming sound.
-"Whoops!" she exclaimed,
-stumbling over a bulge in the path
-that hadn't been there a moment before.
+"Only for Makers,"
+the old tortoise said.
 
-Sindy's eyes went wide.
-"Did I do that?"
+There was a moment of stunned silence.
+"I'm not a Maker," Sindy protested weakly.
+"I'm---I'm just a throwback."
 
-Maddy looked at Special Leaf.
-"She's---she's a special like you?"
+"Sindy!" Mama Roo said sharply,
+setting a tray of cookies carefully on the porch railing.
+"We don't use that word in this house."
 
-"Not like me,"
-the old tortoise said,
-taking the sonic back from Sindy
-and fitting it around his arm once again.
-"Most of us can only ever master one piece of tech,
-and even that takes years.
+"Some folks use a different word,"
+Special Leaf said.
+"They call people like you 'originals'.
 You, young lady, have a very rare gift.
-You can use all of it,
-just like the Makers themselves."
+You can use all of the tech the Makers left behind,
+not just odds and ends like the mayor's zap gun."
 
-Mama Roo gaped,
-the basket of blueberries in her arm forgotten.
-"I beg your pardon?"
+The three roos gaped at him.
+"I beg your pardon?" Mama Roo finally said.
 
 The tortoise picked up his cup of tea.
-"It sometimes happens with people who are...different," he said,
+"It's very rare," he said,
 quiet but excited.
-"It's why buttons and gadgets work for you when they won't work for anyone else."
+"It's why buttons and levers work for you when they won't work for anyone else."
 
 "Plausible," Dockety buzzed.
 "Improbable events have occurred with surprising frequency."
 
-"You will need training," Special Leaf went on.
-"Lots of training, and lots of practice.
-But for now, let's just keep this to ourselves."
-
-"I'm a *special*?"
-Sindy said wonderingly.
-
-Maddy hugged her.
+Maddy hugged her sister impulsively.
 "Always knew you were special," she said into her sister's ear.
 
 "Well, this calls for a toast," Mama Roo said.

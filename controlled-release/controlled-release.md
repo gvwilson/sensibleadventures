@@ -5,7 +5,7 @@ permalink: /controlled-release/
 
 <div align="center">
 <h2><em>Controlled Release</em></h2>
-<p><img src="{{ './on-spec-winter-2007.jpg' | absolute_url }}" alt="On Spec Winter 2007" /></p>
+<p><img src="{{ page.permalink | append: 'on-spec-winter-2007.jpg' | relative_url }}" alt="On Spec Winter 2007" /></p>
 <p>First published in <em>On Spec</em>, Winter 2007.</p>
 </div>
 

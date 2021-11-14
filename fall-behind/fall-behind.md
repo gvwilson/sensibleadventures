@@ -4,6 +4,11 @@ permalink: /fall-behind/
 ---
 
 <div align="center">
+<p><img src="{{ page.permalink | append: 'on-spec-winter-2021.jpg' | relative_url }}" alt="On Spec Summer 2010" /></p>
+<p>First published in <em>On Spec</em>, Winter 2021.</p>
+</div>
+
+<div align="center">
   <h1><em>And Should I Fall Behind</em></h1>
   <p><em>For Jeff, who told me that I still have good times in front of me.</em></p>
 </div>

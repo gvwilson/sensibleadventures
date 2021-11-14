@@ -5,7 +5,7 @@ permalink: /but-with-a-whimper/
 
 <div align="center">
 <h2><em>...But With a Whimper</em></h2>
-<p><img src="{{ './on-spec-fall-2007.jpg' | absolute_url }}" alt="On Spec Fall 2007" /></p>
+<p><img src="{{ page.permalink | append: 'on-spec-fall-2007.jpg' | relative_url }}" alt="On Spec Fall 2007" /></p>
 <p>First published in <em>On Spec</em>, Fall 2007.</p>
 </div>
 

@@ -4,6 +4,10 @@ title: Madica
 permalink: /madica/
 ---
 
+<div align="center">
+  <p><em>For Maddie, who saves my world every day.</em></p>
+</div>
+
 <p>
   <a href="#episode-1-strange-sounds-in-the-night">Episode 1: Strange Sounds in the Night!</a>
   <br/>
@@ -55,8 +59,6 @@ permalink: /madica/
   <br/>
   <a href="#episode-25-home">Episode 25: Home</a>
 </p>
-
-> *For Maddie, who saves my world every day.*
 
 ## Episode 1: Strange Sounds in the Night!
 

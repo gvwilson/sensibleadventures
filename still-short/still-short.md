@@ -6,7 +6,7 @@ permalink: /still-short/
 
 <div align="center">
 <h2><em>Still</em></h2>
-<p><img src="{{ './on-spec-summer-2010.png' | absolute_url }}" alt="On Spec Summer 2010" /></p>
+<p><img src="{{ page.permalink | append: 'on-spec-summer-2010.png' | relative_url }}" alt="On Spec Summer 2010" /></p>
 <p>First published in <em>On Spec</em>, Summer 2010.</p>
 </div>
 

@@ -4,6 +4,7 @@ permalink: /beneath-coriandel/
 ---
 
 <div align="center">
+  <p><img src="{{page.permalink | append: 'cover.jpg' | relative_url }}" alt="Beneath Coriandel cover" width="25%" /></p>
   <h1><em>Beneath Coriandel</em></h1>
   <p><em>For Sadie, who taught me how to climb the ladder.</em></p>
 </div>

@@ -7,108 +7,113 @@ permalink: /iffy/
 
 ## Chapter 1
 
-*Iffy had a bad dream that night.
+Iffy had a bad dream that night.
 It was the same one she always had,
-and the worst part was that it wasn't really a dream.*
+and the worst part was that it wasn't really a dream.
 
-*She was on deck.
+She was on deck.
 The sky was a perfect blue bowl overhead,
 summer cold instead of winter freezing.
 Second and Third were stuffing her into
-the hand-me-down ecosuit that had cost them as much as one of their jelly dredging nets.
-"Just in case, love," Third said,
+a hand-me-down ecosuit that had cost them as much as one of their jelly dredging nets.
+"Just for safe, love," Third said,
 forcing a smile but unable to keep the fear out of her voice.
 She kissed the family's youngest clone on the forehead
-and slipped Iffy's favorite bedtime book inside the bulky suit.
-"Just in case."*
+and slipped Iffy's favorite bedtime book inside the bulky orange suit.
+"Just in case."
 
-*The ship's horn blared another warning.
+The ship's horn blared another warning.
 Iffy started to cry.
-Her olders had pulled her out of her cot just a few moments before,
-and she was only half awake.*
+Her olders had pulled her out of bed just a few moments before,
+and she was only half awake.
 
-*Third hugged her again before Second pulled her away.
-"There isn't time," the older clone snapped
+Third hugged her again before Second pulled her away.
+"There no time," the older clone snapped
 as one of the hired crew ran past them toward the stern.
 At the time Iffy thought Second was angry at her for something she'd done.
-Years later,
-she realized that Second had been angry at the sea for what was about to happen,
-and at herself for not being able to stop it.*
+Years later she realized that Second had been angry at the sea for what was about to happen,
+and at herself for not being able to stop it.
 
-*"She's boiling!" Fourth shouted from the crow's nest.
-"A hundred meters ahead an' ten points off starboard!"*
+"She boil!" Fourth shouted from the crow's nest.
+"Two hundred meter ahead an' ten point off starboard!"
 
-*Third sealed the last flap on the ecosuit.
+Third sealed the last flap on the ecosuit.
 This time Second didn't try to stop her when she wrapped her arms around Iffy.
 "I love you," she said in Iffy's ear.
-"I love you always and forever."*
+"I love you always an' forever."
 
-*"I love you too," Iffy replied tearfully.
-The thick insulation in the suit made it hard to bend her arms,
-but she tried to return Third's hug anyway.*
+"I love you too," Iffy replied tearfully.
+She tried to return Third's hug,
+but the thick insulation in the suit made it hard to bend her arms.
 
-*Second bent over and kissed them both on the tops of their heads.
+Second bent over and kissed them both on the tops of their heads.
 She smelled like engine oil and the soap she always used when she shaved her head.
 That was what Iffy remembered afterward---that,
 and the stench of methane rising out of the sea around them.
 Hundreds of meters below,
 a million tiny bubbles of gas trapped in ancient clathrate ice on the sea floor
-were about to burst free.*
+were about to burst free.
 
-*The deck pitched sideways as First tried desperately
-to steer out of the mass of foam that surrounded them.
-"She's going to blow!" Fourth shouted.
+The deck pitched sideways as First tried desperately
+to steer the *Rushin' Doll* out of the seething mass of foam that surrounded them.
+"She blow! She blow!" Fourth shouted.
 The ship's horn blared one last time.
-The last thing Iffy heard before Third closed the ecosuit's faceplate was a rushing sound
-like a train racing past her ears.*
+The last thing Iffy heard before Third closed the ecosuit's faceplate
+was a rushing sound like a train racing past her ears.
 
-*The ship staggered and dropped two meters.
-Iffy screamed as she tumbled back onto the deck.
+The ship staggered and dropped two meters.
+Iffy screamed as she tumbled onto the deck.
 Second and Third landed in a tangle beside beside her.
-A wash of sea water crashed down on top of them.
-Iffy screamed again as it dragged her olders against the metal taffrail.
-They grabbed for it,
+Ice-cold sea water crashed down on top of them.
+Iffy screamed again as it dragged her and her olders against the metal taffrail.
+Her olders grabbed for it,
 but the ship dropped again
-as the gas rising from the ocean floor churned the water
-into a froth too thin to hold the boat afload.
+as the gas rising from the ocean floor
+churned the water into a froth too thin to hold the boat afloat.
 The last thing Iffy saw before the water closed over her
-was Fourth tumbling through the air,
-her arms and legs flailing against the perfect blue sky.*
+was Fourth falling from the crow's nest,
+her arms and legs flailing against the perfect blue sky.
 
-*Her dream stopped then,
+Her dream stopped then,
 just like it always did.
-She didn't remember being fished out of the frigid Antarctic water a day later
-by a passing jelly dredger.
-The ecosuit was a hundred years old,
+She didn't remember the sea snapping the *Rushin' Doll*'s keel,
+or the ecosuit's tiny core deciding that the safest place for her to be
+was anywhere but there.
+The suit was a hundred years old,
 but its seals held.
 It kept her warm while the thumb-sized motors in its arms and legs
-steered her clear of the after-bubbles that would have swallowed a lifeboat.*
+steered her clear of the after-bubbles that would have swallowed a lifeboat.
 
-*The woman she learned to call Aunt Naggie said it was a miracle she survived.
+And she didn't remember the *Guinevere* finding her hours later
+or being hauled out of the frigid Antarctic water in a jelly dredging net.
+The woman she learned to call Aunt Naggie said it was a miracle she had survived.
 It was even more of a miracle that she was allowed to stay on the dredger that found her.
-The man she learned to call Uncle Jack didn't like children.
+The *Guinevere*'s captain,
+Uncle Jack,
+didn't like children.
 Or animals.
 Or foreigners or the governor
-or the co-operatives that bought the jellyfish he and Aunt Naggie caught
+or the co-operatives that bought the jellyfish he and Aunt Naggie
+dredged out of the Weddell Sea
 or the people who sold him supplies
 or passers-by who looked at him the wrong way
 or didn't have the decency to look at him at all.
-He would have dropped her on the dock and sailed away.
+He would have dropped her on the pier and sailed away.
 The docksiders in Rothera never understood why he didn't,
 and wouldn't have believe that
 his long-suffering wife had put her hands on her hips
 and told him that the child was staying or she was leaving,
-which was it going to be?*
+which was it going to be?
 
-*So Iffy stayed, but not the ecosuit.
-Uncle Jack had two pairs,
+So Iffy stayed, but not the ecosuit.
+Uncle Jack had two pairs that night,
 eights over fives,
 but the Aussie across the table had three sixes.
 "You were going to outgrow it anyway,"
-he snapped impatiently over her tearful protests when she found out it was gone.
-"Gotta pay for your keep somehow."*
+he snapped over her tearful protests when she found out it was gone.
+"Gotta pay for your keep somehow."
 
-*He would have gambled away the book tucked into the suit as well
+He would have gambled away the book tucked into the suit as well
 if Aunt Naggie hadn't misplaced it until he forgot about it.
 It had belonged to Third when she was Iffy's age,
 and to Second before that,
@@ -117,26 +122,35 @@ and there were still whales and tigers and giraffes.
 Iffy read a few pages every night no matter how tired she was from chores.
 She drew the pictures from memory on her tablet when she was bored by school,
 and on those rare occasions when another child came on board to play with her,
-she took out the book and told them all about _orcinus orca_ and _panthera tigris_
-and her favorite, _giraffa camelopardalis_.*
+she took out the book and told them all about *orcinus orca* and *panthera tigris*
+and her favorite, *giraffa camelopardalis*.
 
-*"They were too real!" she said fiercely whenever anyone expressed even a hint of doubt.
+"They were too real!" she said fiercely whenever anyone expressed even a hint of doubt.
 "Real as gulls and jellies!"
-Real as the handwritten comments in the book's margins
-that she spent hours deciphering and daydreaming about.
+Real as the handwritten comments in the book's margins that she spent hours deciphering.
 Real as being hungry and lonely,
 she sometimes added to herself as she grew older
-and Uncle Jack's business dealings left them a little poorer each season.*
+and Uncle Jack's business dealings left them a little poorer each season.
 
-Iffy woke to the sound of Aunt Naggie bustling about in the galley.
+Iffy woke that morning to the sound of Aunt Naggie bustling about in the galley.
 She lay on the narrow foam packing slab she used as a mattress for one final precious moment
 before slithering out of her salvaged sleeping bag
-and pulling on a layer of clothes over her thermals.
+and pulling a layer of clothes over her thermals.
 That banging was her foster mother's way of telling her that Uncle Jack was awake.
 If she knew what was good for her,
 she'd be up on deck doing something useful
 before he stumbled out into the light looking for someone to yell at.
-She tucked her nature book into the slit she had cut in the foam slab to keep it safe,
+
+She closed her eyes and opened her nature book at random.
+It was ridiculous---Jeep had made fun of her for a month
+when he found out---but...
+
+"Figures," she muttered when she opened her eyes.
+The armadillo wasn't the most ridiculous animal in the book,
+but it wasn't her favorite.
+Still,
+an armadillo day was better than a blobfish day.
+She tucked the book into the slit she had cut in the foam slab to keep it safe,
 yawned,
 rubbed the stubble on her scalp,
 and undogged the door of the storage locker
@@ -152,9 +166,9 @@ to create a seawall for the town's harbor.
 Dozens of ships and boats bobbed gently up and down in its lee.
 Some were as old as the carrier,
 patched and re-patched over the years like the *Guinevere* to stay seaworthy.
-Others were newer,
-Aussie-made dredgers piled high with rolls of nets
-or streamlined Zillion clippers with bright kite sails furled around triple masts.
+Others were newer:
+broad-beamed cargo haulers flying the Aussie flag
+or streamlined Zillion-built clippers with bright kite sails furled around triple masts.
 Gulls wheeled overhead in their endless search for scraps,
 complaining to one another about how cold the Antarctic summer was
 and how nobody threw away really good stuff any more,
@@ -162,19 +176,21 @@ not like they used to.
 
 The town watched the harbor like a grumpy old man watching children at play.
 Back before,
-Halley had been a research station where scientists studied the first signs of the big melt.
-As the ice shelf disappeared and life back home became desperate
+Halley had been a research station where scientists studied the first signs of the melt.
+As the ice disappeared and life back home became desperate
 they converted their labs into temporary houses.
-By the time their children were grown they stopped doing research or saying "temporary".
+By the time their children were grown they stopped doing research
+or calling the houses "temporary".
 
-Two thousand people now made Halley their home
-under the governors' watchful eyes.
+Two thousand people now made Halley their home under the governors' watchful eyes.
 During the summer blooms they dredged jellyfish out of the sea
 to render down for fuel and fertilizer.
 When winter came they tended the town's precious greenhouses
-or sailed north to Tasmania or Patagonia
+or sailed north to Patagonia or the Australian territories
 to find whatever work might get them through the long dark
 so that they could start the cycle again.
+
+--HERE--
 
 Iffy shaded her eyes against the razor-edged sun.
 A cluster of buildings was taking shape by the newly built pier on the edge of town.

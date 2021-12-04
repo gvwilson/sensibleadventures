@@ -27,23 +27,28 @@ permalink: /leaderboard/
     -   "No - you really have to give it away."
 -   One of his associates runs a spam-reading scam
     -   "People think it's random but it's not. It's the net trying to communicate across the inter-species boundary."
--   Narrator has a room full of quants and hackers trying to keep track of who's got what.
+-   Protagonist has a room full of quants and hackers trying to keep track of who's got what.
     -   Everyone's supposed to publish under the terms of the Tokyo Convention.
     -   But everyone knows that everyone lies.
 -   Countdown to midnight
     -   Rolling trades based on wherever you are physically
     -   Islands in the mid-Pacific are prime real estate, which has maybe helped with global warming a little
--   Narrator is deeply cynical
+-   Protagonist is deeply cynical
     -   Doesn't realize how much things have actually changed
     -   How to add this without sounding naive myself?
--   Narrator approach by someone who says, "I can handle eight hundred million."
+-   Protagonist approach by someone who says, "I can handle eight hundred million."
     -   Puts two and two together: the other guy is trying to kill his client.
     -   The target isn't a bad person: she inherited from a disgraced pharma family
     -   Not even in the top hundred, and seems to be genuinely trying to spread the wealth
     -   "Without dropping out of the top thousand, of course."
--   Narrator remembers being beaten up and robbed when an uncle gave him a hundred dollar bill for his birthday
+-   Protagonist remembers being beaten up and robbed when an uncle gave him a hundred dollar bill for his birthday
     -   Tweaks things so that the hit man thinks all the money is going to _him_
     -   Along with billions of other dollars
     -   Just a trick to scare him (watch his face as he thinks he's climbing the leaderboard)
     -   Turns out to be an initiation rite at the bar where the crew gathers
     -   The hit man fails the test
+-   The protagonist is the one who's tricked into topping the leaderboard
+    -   Close but not quite to let him know how it feels
+    -   It doesn't change him
+    -   "If you're the sort of person who does this kind of thing, you're not the sort of person who has a conscience."
+    -   "I guess you're not that different from your clients after all."

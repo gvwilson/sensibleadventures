@@ -113,7 +113,7 @@ but his smile was as warm as a freshly-baked biscuit.
 "As real as you are."
 He ushered her in
 and handed her a tattered old picture book
-that just happened to be lying on his battered old rocking chair.
+that just happened to be lying on a rocking chair that looked even older than him.
 "Would you like to borrow this one?
 There are lots of others."
 She walked out of the house with an armload of books and stars in her eyes,
@@ -138,9 +138,9 @@ the special said they weren't old enough to read yet.
 "Kidding," he mouthed silently.
 Maddy swished her tail in annoyance and shooed him outside.
 
-Her heart sank as soon as she stepped through the door.
+Her heart sank as soon as she stepped outside.
 Her sister Sindy was sitting on the porch
-in an embroidered overall that had once been Maddy's,
+in an embroidered brown overall that had once been Maddy's,
 tangling and untangling a piece of string around her fingers.
 "Where did you *go*?" she asked,
 bouncing to her feet.
@@ -166,16 +166,18 @@ Let's just go home and hope she doesn't notice."
 Sindy's face fell,
 and if she'd had proper ears like her sister and Gumption they would have drooped.
 "But I'm *bored*," she said plaintively.
+"And anyway, *you're* the one who wandered off."
 
 "You're always bored," Maddy muttered under her breath.
 As she fumbled with the tie string on her satchel
-her books slipped out from under her arm and thudded onto the porch.
+her books slipped out from under her arm and thudded onto the porch,
+spilling her sketches.
 
 She sighed heavily.
 "Now look what you made me do.
 No, it's aright, I've got them."
 She shooed Gumption away,
-brushed off the books,
+brushed off the books and precious sheets of paper,
 and tucked them back into her bag.
 "Come on, you."
 
@@ -200,11 +202,11 @@ and it wasn't fair of Sindy to---
 "Hey," Gumption said, elbowing her.
 Maddy blinked.
 They had passed through the houses on the other side of the square
-and reached the smaller square that people *didn't* pass time in.
+and reached the smaller square that courting couples *didn't* sit in on warm summer evenings.
 An ageless black glass pillar stood in its center,
 half again the height of anyone Maddy knew
 and as big around as a rain barrel.
-The few friendly bots who came through Rusty Bridge used it for recharging.
+The few friendly bots who came through Rusty Bridge used it to recharge.
 Moss didn't grow on it
 and birds never landed on it.
 Gumption said his uncle had touched it once on a dare
@@ -221,8 +223,9 @@ pitching pebbles at it with their usual sullen expressions on their faces.
 They were a head taller than Gumption,
 and the nubs of their horns had just started to show through their fur.
 
-For a moment Maddy thought they would be able to hurry by without any trouble,
-but then Bluster nudged his twin brother.
+For a moment Maddy thought they would be able to pass by unnoticed,
+or at least unbothered,
+but then Bluster nudged his twin brother with his elbow.
 Maddy took her sister's misshapen paw in her own.
 "You just stay hushed," she cautioned quietly,
 squeezing to show she meant it.
@@ -241,7 +244,7 @@ stepping into her path.
 He rubbed his belly and grinned wickedly.
 "Gummy put anything in there yet?"
 
-"Oh!" Sindy said.
+"Oh!" Sindy said, shocked.
 "You're *disgusting*!"
 
 Bluster spat on the cobblestones.
@@ -250,12 +253,13 @@ Bluster spat on the cobblestones.
 Maddy felt her sister stiffen.
 Most children looked like their parents---goats had goats,
 crocs had crocs,
-and if the parents were different,
-their children would take after one or the other.
+and if the parents were different
+their children took after one or the other.
 Every once in a while,
 though,
 someone like Sindy was born.
-No tail, no scales,
+No tail,
+no scales,
 no fur except for a wiry black tuft on the top of her head
 that defeated all but the most stubborn combing,
 and useless little claws on the ends of her skinny fingers.
@@ -267,14 +271,14 @@ Her heart sank as Gumption stepped in front of her.
 "Why don't you eat glue?" he told his cousin hotly,
 his paws balling into fists.
 
-"Why don't you make me?" Bluster replied,
+"Why don't you make us?" Bluster replied,
 mocking and menacing at the same time.
 
 "Yeah, make us,"
 his brother Bravo echoed,
 cracking his knuckles.
 
-"I don't think glue would be a good diet for any of us, do you?"
+"I don't think glue would be particularly appetizing, do you?"
 Special Leaf asked calmly.
 Maddy jumped.
 Somehow the old tortoise had come up behind them without anyone noticing.
@@ -413,13 +417,16 @@ He didn't have to say "any kind of special".
 Like every child in Rusty Bridge---in the whole world, probably---they
 had both hoped they would start to develop a special power
 as their teenage changes came on.
-It hadn't happened,
+Moving things with their minds,
+mending cuts and broken bones,
+making themselves unnoticeable---it hadn't happened,
 but as Gumption had observed more than once,
-at least Bluster and Bravo hadn't gotten any either.
+at least Bluster and Bravo hadn't turned out to be special either.
 
 "I'd want to be a mover," Maddy replied,
 relieved to have something to talk about.
-"Like Special Leaf, but for little things,
+"Like Special Leaf,
+but for little things like my pencils,
 so I could draw while I was eating."
 
 "You do that anyway," Gumption observed.
@@ -609,8 +616,8 @@ Gumption shook off her grip on his sleeve.
 "Take *care* of it!?"
 Maddy realized she was panting.
 She swallowed and tried to slow her breathing.
-"What do you mean?
-Tell it a bedtime story?"
+"What do you want to do,
+tell it a bedtime story?"
 
 Gumption shook his head.
 "No, I mean *take care* of it."
@@ -621,13 +628,13 @@ and stooped to pick up a rock half the size of his head.
 Maddy swallowed again.
 Bots weren't alive,
 but they were still people.
-What Gumption was planning to do---that would be murder,
-even if this one was a rogue or a raider.
+Even if this one was a rogue or a raider,
+what Gumption was planning to do---
 
 Gumption looked at her, his jaw set.
 "Yes I can," he grunted.
 "You heard what it said.
-We're just targets.
+We're targets.
 You want it to go after Sindy next?"
 
 He didn't wait for an answer.
@@ -1042,7 +1049,7 @@ and also the only one with a balcony.
 Mayor Lupus only used it for official pronouncements.
 That evening,
 like most evenings,
-she sat or stood on the verandah to chat with passers-by,
+she sat or stood on the veranda to chat with passers-by,
 her elbows on the railing and a glass of red wine in her paw.
 "It's the closest thing to actual blood I allow myself,"
 she always joked,
@@ -1123,7 +1130,7 @@ and I don't think they'd leave salvage without a good reason."
 
 "Will you at least ring the alarm bell?"
 Maddy asked desperately.
-The old bell hung on an enormous curlicue hook on the mayor's verandah.
+The old bell hung on an enormous curlicue hook on the mayor's veranda.
 Generations of village children had whispered to one another that
 it was made from the plating of a scavenger bot
 that had lurked beneath Rusty Bridge when there still was a bridge.
@@ -1186,8 +1193,9 @@ turning the black box over and over in his wrinkled paws.
 
 The old tortoise shook his head.
 "I've never seen one,
-but I've heard of 'em.
-If a bot's got one of these on it,
+but I heard of 'em back when I was---well, back when."
+He cut himself off with a wave of a wrinkled green paw.
+"Folks say if a bot's got one of these on it,
 whoever has the controller can make it do whatever it wants."
 
 "Wow---that would be well more than handy,"
@@ -1196,13 +1204,13 @@ He nudged Maddy.
 "We'd never have to do chores again."
 
 Special Leaf shook his head again.
-"Not so handy for whoever's wearin' it,"
+"Not so handy for the bot that's wearin' it,"
 he said.
-"You could make a bot do some horrible things
+"You could make it do whatever horrible things you wanted
 and it wouldn't be able to stop itself."
 
 Gumption scuffed the ground with his hoof,
-but whatever apology he might have made was cut off by a shout of,
+but whatever he might have said was cut off by a shout of,
 "Mayor Lupus! Mayor Lupus!"
 A goat with his shirt half-buttoned ran up to them, panting.
 "Where's the mayor?
@@ -1219,7 +1227,7 @@ a whole pack of 'em!"
 "So much for havin' a cup of tea."
 Special Leaf sighed.
 He slipped between Maddy and Gumption,
-climbed the steps onto the mayor's verandah,
+climbed the steps onto the mayor's veranda,
 and rang the alarm bell.
 
 ## Episode 4: Raid!
@@ -1283,8 +1291,8 @@ as one back wheel came up in the air.
 Shirt tails flapping,
 he waved his arms at the bot as if trying to scare a goose back to its flock.
 
-"Look out!" Maddy yelled
-as black dizzysmoke began to spew out of the canister on the tricycle bot's back.
+Black dizzysmoke began to spew out of the canister on the tricycle bot's back.
+"Look out!" Maddy yelled.
 
 The goat didn't hear,
 or was too angry or too frightened to pay attention.
@@ -1297,8 +1305,8 @@ A belch of greasy black smoke rolled over the goat.
 He stumbled, spun around, and fell to the ground.
 
 "Go!" Special Leaf ordered,
-squaring his shoulders.
-Something popped as he rolled his head from side to side to loosen his neck.
+squaring his shoulders
+and rolling his head to one side to loosen his neck.
 Between one instant and the next
 all the warmth and good humor drained away from his face.
 The expression that replaced them sent a chill up Maddy's spine.
@@ -1323,7 +1331,7 @@ The bots weren't here for salvage.
 They were here to take people,
 just like they had taken her father!
 
-"Not today, clunker," Special Leaf said.
+"Not today, clunker," Special Leaf said loudly.
 He planted his feet firmly on the cobblestones
 and swept his arms in a broad circle.
 
@@ -1345,7 +1353,7 @@ A square of cobbles punched upward in response,
 knocking the huge bot off balance once again.
 
 "Get 'im, Special, get 'im!" Gumption shouted.
-The young goat grabbed a loose cobblestone off the ground
+The young goat snatched up a loose cobblestone
 and threw it at the huge bot
 as it staggered and tried to regain its balance.
 
@@ -1355,22 +1363,16 @@ Maddy yelled.
 She grabbed a cobblestone of her own and threw it at the tricycle bot
 that was still spinning in circles and spewing smoke.
 
-Her stone fell well short.
-"I got it!"
-Gumption picked up two more cobblestones
-and charged at the smaller bot.
+Her stone fell short,
+but Gumption already had two more in his paws.
 One! He missed.
 Two! The second stone clanked off its casing.
+just as half a dozen more bots roared into the square.
 
-"Uh oh."
-As Maddy and Gumption straightened up with more stones in their paws,
-half a dozen more bots charged into the square.
-
-Special Leaf used a word Maddy was sure she wasn't supposed to know
-and *pushed* with his mind.
+Special Leaf used a word Maddy was sure she wasn't supposed to know.
+She felt a pressure wave roll over her as he *pushed* with his mind.
 The smallest of the new arrivals flew backward through the air
 and hit the front of a building with a crash.
-Something with long legs and a small body sprawled full length.
 
 The old tortoise punched the air, one two three.
 Cobblestones flung themselves at the raiders,
@@ -1381,10 +1383,10 @@ only to be caught in a sudden rut.
 "Nurp ner," it buzzed loudly as its wheel snapped off.
 Its body rolled to a halt.
 To Maddy's horror,
-it righted itself and walked on its hands back to the trench
-to pull out the wheel and snap it back in place.
+it righted itself and scurried on its hands
+to pick up the wheel and snap it back in place.
 
-"Go! Run!" Special Leaf gasped.
+"Get out of here!" Special Leaf gasped.
 "I can't keep this up much longer!"
 
 "We're not leaving you!" Maddy cried,
@@ -1515,7 +1517,7 @@ Mayor Lupus continued as Mama Roo opened her mouth again,
 gesturing at the porch steps
 where the old tortoise was sitting,
 his eyes closed
-and the wrinkles on his dark green face even deeper than usual.
+and the wrinkles on his green face even deeper than usual.
 "He's about ready to fall over.
 Even if we could catch up with 'em,
 we wouldn't have a chance."
@@ -3221,7 +3223,7 @@ The keyboard clattered harmlessly fell to the floor.
 
 Beside her,
 Dockety picked up a keyboard and studied it for half a second.
-"Angular momentum often stabilizies objects in flight,"
+"Angular momentum often stabilizes objects in flight,"
 it observed,
 then spun the keyboard through the air.
 *Crack!*
@@ -4178,7 +4180,7 @@ Maddy ordered.
 She dropped the semi-circle back on the floor.
 Its edge struck the end of a rod,
 flipping the palm-sized spoked wheel on its other end into the air.
-The wheel clattered against a sheel of metal,
+The wheel clattered against a sheet of metal,
 which slowly tipped forward and crashed to the floor.
 
 "Sindy!"
@@ -4704,24 +4706,30 @@ she added as Maddy started to protest.
 being bashed around like this can do funny things to a bot's programming,
 and I'm not in the mood for taking chances."
 
-Special Leaf put his hand on Maddy's arm.
-"That only seems sensible," he said before Maddy could object again.
-
+"That only seems sensible," Special Leaf said,
+putting his hand on Maddy's arm before she could object again.
 "I am very glad you're back,"
-he continued,
-smiling gently.
-"I too was afraid we would never see you again.
+he continued.
+"I was afraid we'd never see you again.
 What you did was very brave."
 
-Maddy glanced at her mother and sister.
+Maddy shrugged, embarrassed by the praise.
 "I couldn't have done it without Sindy.
-Every time we got stuck,
-she managed to push the right button."
+Every time we got stuck
+she pushed a button or pulled a lever and---"
+She hesitated,
+afraid that what she wanted to say would sound ridiculous.
+"And it worked,
+even when it wouldn't work for me.
+I thought she was just gettin' lucky,
+but---but now I'm not sure,"
+she finished lamely.
 
 "Is that so?"
 the special asked thoughtfully.
 
-And then the two oxen came running back into the square yelling,
+Before he could say anything else,
+the two oxen came running back into the square yelling,
 "Bots! Bots! There's a whole pile of 'em headed this way!"
 Even as they spoke a high-pitched whine turned into a drone.
 The two fliers Maddy had seen earlier zipped overhead and dropped their canisters.
@@ -5202,7 +5210,7 @@ and it shot away into the sky.
 She looked up.
 There!
 Two dots, approaching fast.
-She sprinted for the nearest clumb of weeds and threw herself into it.
+She sprinted for the nearest clump of weeds and threw herself into it.
 
 The dragonfly drones that had dropped dizzysmoke canisters on the village
 arrived moments later.
@@ -5664,8 +5672,8 @@ Maddy ruffled her sister's hair.
 "So it all came down to you grabbing the right lever at the right time,"
 she said fondly.
 
-"Speakig of which," Special Leaf said,
-"Do you mind if we try an experiment?"
+Special Leaf cleared his throat.
+"Speaking of which, do you mind if we try an experiment?"
 He reached into his pocket and pulled out a palm-sized glass hemisphere.
 
 "What am I supposed to do with it?" Sindy asked
@@ -5697,23 +5705,24 @@ setting a tray of cookies carefully on the porch railing.
 "Some folks use a different word,"
 Special Leaf said.
 "They call people like you 'originals'.
-You, young lady, have a very rare gift.
-You can use all of the tech the Makers left behind,
+You, young lady, might just have a very rare gift.
+It could be that you can use all the tech the Makers left behind,
 not just odds and ends like the mayor's zap gun."
 
 The three roos gaped at him.
-"I beg your pardon?" Mama Roo finally said.
+"I beg your pardon?" Mama Roo said.
 
 The tortoise picked up his cup of tea.
 "It's very rare," he said,
 quiet but excited.
-"It's why buttons and levers work for you when they won't work for anyone else."
+"And it's not a special talent like mine.
+Nobody really knows *what* it is,
+but if I'm right,
+it's why the tech in the bunker worked for you
+when it wouldn't work for your sister."
 
 "Plausible," Dockety buzzed.
 "Improbable events have occurred with surprising frequency."
-
-Maddy hugged her sister impulsively.
-"Always knew you were special," she said into her sister's ear.
 
 "Well, this calls for a toast," Mama Roo said.
 She went into the house and emerged a moment later with a bottle of sweet peach juice in one hand,
@@ -5728,7 +5737,7 @@ and then hesitated.
 she said quietly
 before setting the portrait of Papa Roo on the table.
 
-Dockety reached for it.
+Dockety reached for it as Mama Roo poured everyone a drink.
 "Who is this one?" it asked.
 
 "That's my dad," Maddy said proudly,

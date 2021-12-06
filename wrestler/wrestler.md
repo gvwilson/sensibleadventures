@@ -4,20 +4,20 @@ title: Wrestler
 permalink: /wrestler/
 ---
 
-*He walked straight into my mother's camp one morning in the spring.
+He walked straight into my mother's camp one morning in the spring.
 My grandfather said that
 anyone without enough courtesy to sit at a polite distance and wait for an invitation
 should be turned away,
-but my mother made him welcome.*
+but my mother made him welcome.
 
-*She almost changed her mind when he pulled back the hood on his parka.
+She almost changed her mind when he pulled back the hood on his parka.
 His hair and beard were red,
-and his nose looked like a puffin's beak.*
+and his nose looked like a puffin's beak.
 
-*He smiled and said something in a strange language,
+He smiled and said something in a strange language,
 then laughed when we replied in our own.
 By the summer he and I were learning to wrestle spirits together.
-That is how Harald's Saknus came to the Nukiliyorongbo.*
+That is how Harald's Saknus came to the Nukiliyorongbo.
 
 ---
 
@@ -38,7 +38,7 @@ and leaves without saying farewell.
 
 "Stupid sealfuckers,"
 the trader says without rancor after he is gone.
-"Can't haggle worth shit."
+"Can't haggle worth maggots."
 
 Luft rubs his hands together.
 Even with woolen gloves under his mitts,
@@ -222,7 +222,7 @@ conscious of the people who are and aren't looking at her.
 
 ---
 
-*"So the woman is a magician.
+*"So the woman has power.
 Good.
 And the other one?"*
 
@@ -241,78 +241,78 @@ Laughs-at-Storms is sewing a new blanket.
 She says it will be very soft."*
 
 *"It will only be a few days.
-You can put your arrows in Laugher's quiver when you return."*
-The camel bleats again.
+You can put your arrows in Laugher's quiver when you return."
+The camel bleats again.*
 
 ---
 
-*Saknus and I spent four years learning how to wrestle.
+Saknus and I spent four years learning how to wrestle.
 We trapped small birds and field mice,
 then used their bones to command their spirits to do small tricks
 before setting them free.
 Once I persuaded my brother to trap a lynx for us.
 We called its spirit back again and again until my mother found out.
 She beat me and my brother for doing it,
-but the only punishment for Saknus was a week without lessons.*
+but the only punishment for Saknus was a week without lessons.
 
-*At night he told us stories of his home in the stern,
+At night he told us stories of his home in the stern,
 of ships and kings and libraries
 and cities with so many people
 that no one knew all their names.
 He laughed at his mistakes as he learned our language,
-but brushed off questions about his family or his past.*
+but brushed off questions about his family or his past.
 
-*My grandfather sometimes grumbled that
+My grandfather sometimes grumbled that
 there was no point teaching someone with no ancestors how to wrestle,
 but my mother ignored him.
 His stories made the long nights fly by,
 and his presence added to our family's prestige.
 Other shamans came to meet her strange pupil,
-and Saknus learned a little more from each of them.*
+and Saknus learned a little more from each of them.
 
-*"A shaman needs strong spirits to work strong magic.
+"A shaman needs strong spirits to work strong magic.
 We must wrestle with them to make them obey us.
 Only in this way can magic be done."
 Saknus smiled whenever my mother said this
-as though at a joke only he had heard.*
+as though at a joke only he had heard.
 
-*"Can you only call your own ancestors back?" he asked.*
+"Can you only call your own ancestors back?" he asked.
 
-*"Yes," my mother replied,
+"Yes," my mother replied,
 and it was true.
 I had tried to reach other shamans' ancestors through their necklaces-of-bones,
-but I never could.*
+but I never could.
 
-*When my grandfather went to the Summer Lands we fasted for two days,
+When my grandfather went to the Summer Lands we fasted for two days,
 then cut off his thumbs and burned his body.
 My mother emptied the stew-pot and boiled the thumbs
-until the meat fell from them.*
+until the meat fell from them.
 
-*She took the bones and went away from camp.
+She took the bones and went away from camp.
 "A spirit fights hardest the first time it is called back,"
 I told Saknus,
 proud of knowing something he did not.
 "Once he submits,
-she will put his bones on her necklace."*
+she will put his bones on her necklace."
 
-*"It already has a great many,"
+"It already has a great many,"
 he observed.
 
-*"Twenty-two," I told him proudly.
+"Twenty-two," I told him proudly.
 "Every summer my mother makes a magic to tie her spirit to her own bones
 so that after she dies I can call her back and wrestle her.
 Every shaman does this for the sake of those who come after.
 If a shaman sees many summers and does this many times
-their grandchildren's grandchildren might still be able to call them."*
+their grandchildren's grandchildren might still be able to call them."
 
-*My brother Walks-In-Storm scowled as I spoke.
+My brother Walks-In-Storm scowled as I spoke.
 He often did around the big-nosed sternsman.
 We were twins,
 and he had taken to hunting as I had taken to the shaman's ways.
 He said little when Saknus was near,
 or left the tent if he could.
 We had been as close as teeth before Saknus came.
-It hurt me that we grew apart in those years.*
+It hurt me that we grew apart in those years.
 
 ---
 
@@ -357,7 +357,7 @@ Torvane asks casually.
 
 Walker shakes his head.
 "No one will be there this time of the year.
-They will all be starboard---where there are furs.
+They will all be starboard where there are furs.
 Or sewing blankets,"
 he adds with a trace of bitterness.
 
@@ -451,89 +451,89 @@ and growls unhappily before hurrying away.*
 
 ---
 
-*And then one day Saknus destroyed us.
+And then one day Saknus destroyed us.
 When the sun was so strong that it shone all night the Nukiliyorongbo gathered
 to trade and arrange marriages and welcome new shamans.
 There was singing and dancing
-and games of skill as young men and women tried to impress skeptical mothers and fathers.*
+and games of skill as young men and women tried to impress skeptical mothers and fathers.
 
-*My brother Walks-In-Storm won easily at spear-throwing and running,
+My brother Walks-In-Storm won easily at spear-throwing and running,
 but I did not compete.
 I was preparing to receive the scars of a shaman.
-"I am sorry you have no ancestors to wrestle," I said to Saknus.*
+"I am sorry you have no ancestors to wrestle," I said to Saknus.
 
-*He smiled.
+He smiled.
 After four years among us,
 he still showed his teeth when he did this.
 "The stars are such as they have not been in many years, Holds-On-Too-Long," he said.
 "Who knows what might happen?"
 Then he laughed and I laughed with him,
-for what did the stars have to do with magic?*
+for what did the stars have to do with magic?
 
-*I went out the next morning onto the tundra
+I went out the next morning onto the tundra
 with my mother and two other shamans.
 I returned that evening with a crusted wound on each cheek
 and a tooth from my grandmother's father on a thong around my neck.
 His spirit had faded so much that he could barely light a fire,
-but I had never been prouder.*
+but I had never been prouder.
 
-*We came back to find people gathered around the field in the center of the camp.
+We came back to find people gathered around the field in the center of the camp.
 "The stranger is going to show us a new game,"
 my brother said,
-scowling.*
+scowling.
 
-*Saknus had drawn a complicated pattern on the field with sand,
+Saknus had drawn a complicated pattern on the field with sand,
 a star with five points enclosed in a circle.
 Strange symbols ringed it,
 and torch stakes stood at each point.
 He waved to us and smiled,
-then raised his arm into the air.*
+then raised his arm into the air.
 
-*Suddenly his hand was covered with flame.
+Suddenly his hand was covered with flame.
 People oohed and aahed around us
 as Saknus lit each of the torches in turn.
 "How does he do this?"
 Walks-In-Storm demanded.
-"You said he could not wrestle!"*
+"You said he could not wrestle!"
 
-*My mother shook her head.
+My mother shook her head.
 "He is not wrestling," she said.
-"I do not know what he is doing."*
+"I do not know what he is doing."
 
-*When all the torches were lit
+When all the torches were lit
 the fire on Saknus's hand flickered out.
-He closed his eyes and let hell loose upon us.*
+He closed his eyes and let hell loose upon us.
 
-*My uncle was standing beside me.
+My uncle was standing beside me.
 He screamed and fell to the ground,
 clawing at his throat.
 I saw a dim form sitting astride him,
 strangling him with four hands
-while smoke poured from its eyes.*
+while smoke poured from its eyes.
 
-"He's killing us!" my brother shouted as other shamans doubled over or simply collapsed.
+He's killing us!" my brother shouted as other shamans doubled over or simply collapsed.
 He threw his spear.
-It faltered and fell to the earth outside Saknus's circle.*
+It faltered and fell to the earth outside Saknus's circle.
 
-*People ran from the field.
+People ran from the field.
 I did not.
 Sworn only that day,
 I was still a shaman.
 I called the one ancestor I had,
 as the other shamans called those whose bones they carried,
-but none could batter through the wall Saknus had created.*
+but none could batter through the wall Saknus had created.
 
-*When it finally ended,
+When it finally ended,
 two dozen shamans and many others lay dead on the grass.
 I stood there with tears on my face,
 unable even to curse Saknus in my rage.
-He opened his eyes and smiled.*
+He opened his eyes and smiled.
 
-*"Holds-On-Too-Long," he said approvingly,
+"Holds-On-Too-Long," he said approvingly,
 ignoring the spears, rocks, and corpses that lay around him.
-"Good. Very good. You are going to help me now."*
+"Good. Very good. You are going to help me now."
 
-*Spirit hands closed around my throat.*
+Spirit hands closed around my throat.
 
 ---
 
@@ -558,13 +558,13 @@ Luft shooshes to a stop behind his partner.
 "What wrong?"
 
 Torvane shakes her head.
-"I don't know, lad. Walker?"
+"I don't know. Walker?"
 The woolly camels have dropped onto the snow,
 taking the opportunity to rest.
 One snarks as another snaps at it.
 
 The Nukilbo walks slowly back and forth before straightening up.
-"*Matsheshu*," he says grimly,
+"*Matsheshkulak*," he says grimly,
 scanning the horizon.
 "Bandits.
 On foot, maybe a hand of them, two days ago.
@@ -614,15 +614,15 @@ Luft snarls and draws his sword.
 Walker reverses his spear and braces himself.
 
 A sudden flash blinds them both.
-The camel began blatting furiously.
 
 When Luft's vision clears he is sitting in the snow.
 His sword is still in his hands,
 and his head aches.
-Torvane is quieting the camels.
 Walker stands a few meters away with his hands over his eyes.
 
-Torvane glances at her partner.
+The camels are blatting furiously.
+Torvane is trying to soothe them.
+She glances at her partner.
 "Serves you right," she says curtly.
 "Walker! How are your eyes?"
 
@@ -663,8 +663,8 @@ the Nukilbo says as Luft and Torvane sort through their gear.
 
 Luft says something under his breath,
 then straightens and shoulders his pack.
-"I'm ready when you are, Vane.
-Let's get up there."
+"I'm ready when you are," he tells his partner.
+"Let's get up there."
 
 Torvane stuffs a few more vials and pouches into her parka
 and laces the pockets closed.
@@ -749,7 +749,7 @@ He spits and kicks the corpse.
 
 "Walker!" Torvane shouts. "Walker, are you there?"
 
-"Oh for fuck's sake, Vane, shut up!"
+"Oh for fuck's sake, give it over!"
 Luft shouts as Torvane fills her lungs to call again.
 "He's gone, isn't he? And good riddance, I say."
 
@@ -840,45 +840,45 @@ and start to claw my way up the snow-covered rock.
 
 ---
 
-*I awoke lying on cold stone,
+I awoke lying on cold stone,
 bound hand and foot.
 Above me the cave roof was a half-dome as smooth as the sky.
 Light from a small dayglass lantern showed Saknus on his knees,
-carefully painting the polished floor.*
+carefully painting the polished floor.
 
-*"Ten thousand years, chancellor!"
+"Ten thousand years, chancellor!"
 he muttered to himself.
 "Ten thousands years since there have been such stars.
 How can we in good conscience not use them?"
 He examined what he had just painted,
-then licked his thumb and wiped at it.*
+then licked his thumb and wiped at it.
 
-*"Monster," I whispered.
-My throat was so dry that only a croak came out.*
+"Monster," I whispered.
+My throat was so dry that only a croak came out.
 
-*"Yes, I know there are risks," he continued.
+"Yes, I know there are risks," he continued.
 "But think of what we could do---we could stand with the Pilots themselves!"
 
-*"Monster," I said again, louder.
-"This place is sacred."*
+"Monster," I said again, louder.
+"This place is sacred."
 
-*He looked up.
+He looked up.
 "Oh, good, you're awake.
-How is your head?"*
+How is your head?"
 
-*"You will never know warmth or rest," I spat.
-"The ghosts of our shamans will drag you down to hell."*
+"You will never know warmth or rest," I spat.
+"The ghosts of our shamans will drag you down to hell."
 
-*"Oh, I don't think so."
+"Oh, I don't think so."
 He gestured behind him.
 "I have all of their necklaces-of-bones over there."
 He smiled indulgently.
 "Real magic can do a lot that your people don't know about, Holds-On-Too-Long.
 Between what your mother taught me and what I already knew,
-reaching and using all your ghosts isn't going to be hard."*
+reaching and using all your ghosts isn't going to be hard."
 
-*"But why?"
-I had not wanted to ask, or to weep.*
+"But why?"
+I had not wanted to ask, or to weep.
 
 "Good question," he said approvingly,
 a teacher pleased with his student.
@@ -887,83 +887,83 @@ only much, much larger.
 I need a lot of power to do it---more than my people know how to control.
 When I read about how your shamans do magic..."
 He shrugged.
-"It was a sign."*
+"It was a sign."
 
-*"Traitor. You will be damned for this."*
+"Traitor. You will be damned for this."
 
-*He grinned.
-"Actually, if this works, I'll be the one doing the damning.".*
+He grinned.
+"Actually, if this works, I'll be the one doing the damning."
 
-*It took him two days to complete his pattern.
+It took him two days to complete his pattern.
 He gave me water but no food.
-By the time he was finished I was light-headed and could not stop shivering.*
+By the time he was finished I was light-headed and could not stop shivering.
 
-*He laid me out on the stone slab in the center of the cave
+He laid me out on the stone slab in the center of the cave
 and stripped off my parka and boots.
 "Now, you may be wondering what your role is to be in our little play,"
 Saknus said in the same voice my mother used with children when setting a broken bone.
 "Well, I need a treat to offer my demon as bait.
-And you, my friend, are going to be that for me."*
+And you, my friend, are going to be that for me."
 
-*He painted a pattern on my forehead,
+He painted a pattern on my forehead,
 then spoke words never meant for a human throat.
 I suddenly felt heavier than iron,
 as I had when I swore the shaman's oath only a few days before.
-This time, though, the sensation did not fade.*
+This time, though, the sensation did not fade.
 
-*He nodded and put the boxes containing the stolen necklaces-of-bones beside me.
-*"That spell will prevent your spirit from running away," he explained
+He nodded and put the boxes containing the stolen necklaces-of-bones beside me.
+"That spell will prevent your spirit from running away," he explained
 as he check each portion of the painted pattern one last time,
 talking more to himself than to me.
 "The demon will bring more and more of itself into this world to try to get to you.
 And when it's all here,
-I will command your shamans' spirits to---"*
+I will command your shamans' spirits to---"
 
-*He cut himself off at my howl of rage.
+He cut himself off at my howl of rage.
 "Fine," he muttered.
 "Be that way."
-Then he drew a knife from his belt and cut open my throat.*
+Then he drew a knife from his belt and cut open my throat.
 
-*Hot blood ran down past my ears.
+Hot blood ran down past my ears.
 Saknus stepped back,
 stooped to add a final arc to the design on the floor,
-and began to chant.*
+and began to chant.
 
-*My sight faded as his voice grew louder and louder.
+My sight faded as his voice grew louder and louder.
 A cold wind from nowhere
-brought a stench like all the rot the world had ever made.*
+brought a stench like all the rot the world had ever made.
 
-*And there were voices---Nukiliyorongbo voices,
+And there were voices---Nukiliyorongbo voices,
 my grandfather's and others that I did not know,
 chanting with Saknus,
 building towards a climax.
 Something was coming closer,
-something infinitely worse than the shadows that I had seen in the camp.*
+something infinitely worse than the shadows that I had seen in the camp.
 
-*Saknus and I screamed at the same instant.
+Saknus and I screamed at the same instant.
 My vision snapped back to normal.
 I turned my head with immense effort to see him lying dead beside the pattern
 with a spear through his chest.
-Walks-In-Storm stood at the entrance to the cave, calling my name.*
+Walks-In-Storm stood at the entrance to the cave, calling my name.
 
-*My limbs felt like they were made of stone,
+My limbs felt like they were made of stone,
 but somehow I stood.
 I stepped over Saknus's body.
-The air crackled around me as I left the pattern.*
+The air crackled around me as I left the pattern.
 
-*"Come!" my brother shouted.
+"Come!" my brother shouted.
 I took a few steps,
 leaning like a cripple on his arm,
-then stopped.*
+then stopped.
 
-*"The necklaces," I said. "We must get the necklaces."
-All my people's power...*
+"The necklaces," I said. "We must get the necklaces."
+All my people's power...
 
-*I turned and shambled back,
+I turned and shambled back,
 but when I tried to step into the pattern I could not.
 I told Walks-In-Storm to try, but he could not either.
 As my heart stopped beating,
-I tried one last time to weep.*
+I tried one last time to weep.
 
 ---
 
@@ -1097,13 +1097,13 @@ as my mummified hands close around her neck.
 
 ---
 
-*We died all winter the year Saknus took our magic from us.
+We died all winter the year Saknus took our magic from us.
 No-one could call up seals, so people starved.
-No-one could heal the sick and injured.*
+No-one could heal the sick and injured.
 
-*And no-one could break Saknus's magic so that I could die.*
+And no-one could break the spell that bound my spirit to my corpse.
 
-*In the spring a troop of en-Ruuda arrived,
+In the spring a troop of en-Ruuda arrived,
 magicians who had felt his spell
 and soldiers to kill him.
 We slew them all,
@@ -1113,12 +1113,12 @@ to hide the pentacle in the mountain.
 It was not enough:
 the en-Ruuda had seen furs and gold.
 They came back in strength,
-bringing the coughing sickness and the bleeding sickness and whisky.*
+bringing the coughing sickness and the bleeding sickness and whisky.
 
-*So I swore an oath with my brother,
+So I swore an oath with my brother,
 drew maps,
 told his children and their children to spread rumors,
-and practiced patience.*
+and practiced patience.
 
 ---
 
@@ -1154,11 +1154,10 @@ and restore the old ways."
 "I will not!" he shouts.
 
 I wear all the magic my people once had around my neck.
-For a moment I let them see it,
-a legion of ghosts standing around me,
+For a moment I let them see the legion of ghosts standing around me,
 bound to their bones as Saknus's spell had bound me to mine.
 
 "You will," I promise him.
 A cold wind blows through my ribs.
-"They will call you chief, and follow you.
+"They will call you chief, and follow you to war.
 And they will learn to call me king."

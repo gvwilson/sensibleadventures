@@ -4,51 +4,62 @@ title: Leaderboard
 permalink: /leaderboard/
 ---
 
--   The point of the story is that things _do_ get better once wealth isn't concentrated
-    -   But not all at once, and not everyone realizes it
--   Backgrounders
-    -   People thought it was coincidence the first couple of times.
-    -   Then the conspiracy theorists had their best year ever.
-    -   Then it all kind of died down. People can get used to anything.
-    -   The oil company executive who burned a billion dollars on principle instead of giving it away.
-    	-   Treasury agents showed up to stop it and there was a gunfight.
-    -   Then that cardinal, what was his name?
-    -   And half the top brass in China in the first year.
--   Client is a rock star with an unexpected hit
-    -   Nowhere near the danger zone, but their agent thinks it's a good publicity move
-    -   And a chance to milk the client
-    -   Steel-toothed grin: "just keepin' him safe" she says
--   "Schurmann still tells people they can transfer it to their kids or their friends."
-    -   Sarcastic snort: "Our models show it still counts for twenty-five to a hundred percent of face value."
-    -   "Depending on how [don't say obedient] closely aligned the recipient is with the original holder."
-    -   "Safest thing is still a donation, and we have a series of expedited donations set up."
-    -   "But I can get it all back, right?"
-    -   [sigh inwardly - some people don't even read the first page of the briefing packet]
-    -   "No - you really have to give it away."
--   One of his associates runs a spam-reading scam
-    -   "People think it's random but it's not. It's the net trying to communicate across the inter-species boundary."
--   Protagonist has a room full of quants and hackers trying to keep track of who's got what.
-    -   Everyone's supposed to publish under the terms of the Tokyo Convention.
-    -   But everyone knows that everyone lies.
--   Countdown to midnight
-    -   Rolling trades based on wherever you are physically
-    -   Islands in the mid-Pacific are prime real estate, which has maybe helped with global warming a little
--   Protagonist is deeply cynical
-    -   Doesn't realize how much things have actually changed
-    -   How to add this without sounding naive myself?
--   Protagonist approach by someone who says, "I can handle eight hundred million."
-    -   Puts two and two together: the other guy is trying to kill his client.
-    -   The target isn't a bad person: she inherited from a disgraced pharma family
-    -   Not even in the top hundred, and seems to be genuinely trying to spread the wealth
-    -   "Without dropping out of the top thousand, of course."
--   Protagonist remembers being beaten up and robbed when an uncle gave him a hundred dollar bill for his birthday
-    -   Tweaks things so that the hit man thinks all the money is going to _him_
-    -   Along with billions of other dollars
-    -   Just a trick to scare him (watch his face as he thinks he's climbing the leaderboard)
-    -   Turns out to be an initiation rite at the bar where the crew gathers
-    -   The hit man fails the test
--   The protagonist is the one who's tricked into topping the leaderboard
-    -   Close but not quite to let him know how it feels
-    -   It doesn't change him
-    -   "If you're the sort of person who does this kind of thing, you're not the sort of person who has a conscience."
-    -   "I guess you're not that different from your clients after all."
+"I don't work with musicians.
+Shit and shingles, Bench, you know that."
+
+Bench grinned.
+"Maybe this'll change your mind."
+She pulled a photograph out of the sleeve pocket of her suit jacket
+and slid it across the black quartzite table,
+then sat back,
+already looking smug.
+
+I set my coffee down and picked up the photo.
+"Turner," I said.
+"*Rain, Steam, and Speed*.
+It's beautiful."
+I sighed as Bench's grin widened to show off her fashionable steel teeth.
+"Let me guess---your noodlehead has it."
+
+"Yes, and he's not a noodlehead.
+He's just...young."
+She waved a hand to include everyone in the world with fewer than her thirty-odd years.
+"He picked it up for half a million at Guo's estate sale a few months ago,
+and yes,
+I made sure it was hung properly.
+Just give him ten minutes,"
+she pleaded.
+"I'll set it up for tomorrow,
+I'll tell him you need to, I don't know,
+center yourself or something,
+so you get as much time as you want with it before you have to talk to him."
+
+I gave her a hangdog look.
+"Excellent," she purred,
+reaching for her pad.
+"He's not really a morning person, so how about---"
+
+A hundred pads beeped, bleebled, or chimed in unison,
+instantly derailing every conversation in the restaurant.
+"Well fuck me," Bench said.
+She turned her pad to show me the news.
+Vitaly Mendonca,
+Brazilian,
+inherited a construction company after his father died of natural causes
+and then made a fortune in remediation work.
+He'd been on and off the leaderboard for years,
+always safely out of the top hundred
+until last week a combination of fluctuating exchange rates
+and an automatic contract renewal his agent hadn't accounted for
+catapulted him into the red zone.
+He'd been unloading stuff since then,
+but apparently not fast enough.
+Two minutes ago he had stopped breathing
+and gone from briefly being the richest person in the world
+to permanently being dead.
+
+I drained the last of my coffee and stood up,
+tucking the photo into my sleeve.
+"Put it in my calendar," I told her.
+"Give me half an hour with the Turner if you can.
+And Bench---your guy better not be a noodlehead."

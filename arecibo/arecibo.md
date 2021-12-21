@@ -12,16 +12,13 @@ permalink: /arecibo-mon-amour/
 
 **Wurdi Youang / Actual minus 12,000 years**
 <!-- 8980 BCE -->
-<!-- shorten by combining Wharru and Alinta -->
-<!-- mention the lost civilization drowned in the Bass Strait between Australia and Tasmania -->
 
-She gave up her name long ago.
-It was too heavy to carry as deep into the Dreaming as she wanted to go.
+She gave up her name long ago:
+it was too heavy to carry into the Dreaming.
 She missed it at first,
 but everyone who knew her by that name is dead now,
 and it amuses her when others call her the Old Woman behind her back.
-At some point,
-she really ought to tell them that being partly blind doesn't affect her hearing...
+She really ought to tell them that being partly blind doesn't affect her hearing...
 
 Footsteps crunch on the gravel bank behind her.
 She sighs as the trout she was trying to catch darts away.
@@ -30,27 +27,27 @@ the river caressing her knees as she turns.
 
 "It's Wharru," the young man says.
 "There's a stranger in camp."
-He is one of the new arrivals,
+Wharru is one of the new arrivals,
 still thin and angry after his long trek from the drowning lands.
 His clan lost their farms to the ever-rising sea,
 and many were killed or enslaved.
-It will be many years before he is ready to let go of that weight,
-but he has helped her realign some of the stones without complaint
+He is often angry at small things,
+but he has helped her realign stones without complaint
 and doesn't snore or fart as much as some.
 
 "From down below?" she asks,
 sloshing through the river to join him.
 
-"I don't think so."
 Wharru hesitates.
-"He's not like any real people I've ever seen.
+"I don't think so.
+He's not like any real people I've ever seen.
 Alinta thinks he might be a bad spirit."
 
 "Feh."
 The old woman picks up the walking stick and skin bag
-that are half of everything she owns.
+that are everything she owns.
 "Alinta thinks *everyone* is a bad spirit.
-Come on, let's say hello."
+Let's go say hello."
 
 The stranger isn't in camp.
 "I told him to wait for you,"
@@ -62,17 +59,15 @@ but he didn't listen."
 She sets her knife aside,
 grabs the gweela's feet with one hand,
 and pulls hard with the other.
-The bird's skin comes off 
-with a sound that makes the old woman's stomach turn.
+The bird's skin comes off with a sound like a wet slap.
 
-She sighs to herself.
-The half-dozen people doing chores within earshot have paused
-to listen to Alinta.
-They will follow her when the old woman dies,
-and in her heart,
+The old woman suppresses a sigh.
+Everyone doing chores within earshot has paused to listen to Alinta.
+They will follow her when the old woman dies;
+in her heart,
 she knows that will be the end of the stones.
 
-She jerks her chin at the dripping carcass in Alinta's hands.
+She jerks her chin at the carcass in Alinta's hand.
 "Enough there for company?"
 
 Alinta scowls.
@@ -87,17 +82,16 @@ They walk side by side through the long shadows beneath the gum trees.
 The old woman has been going up and down the mountain for almost thirty years,
 and takes quiet pleasure in thinking that
 the packed earth is echoing her own footsteps back at her.
-Crickets and songbirds fill the forest with sound,
-and once something larger rustles the bushes.
-Wharru hefts his spear but the old woman pushes on.
-A thylacine wouldn't attack two people together,
+Crickets and songbirds fill the forest with sound.
+Wharru hefts his spear when something larger rustles the bushes.
+The old woman pushes on:
+a thylacine wouldn't attack two people together,
 and no one has seen a marsupial lion for years.
 
-They reach the field of stones just as the sun is about to kiss the horizon.
+They reach the field of stones just as the sun kisses the horizon.
 Only a few scattered clouds mar the sky's perfect blue;
 if the stranger wasn't there the old woman would have Wharru
-sight along the stones for her
-and mark new positions for them.
+sight along the stones for her to check their positions.
 
 But the stranger *is* there,
 and even half-blind from years of looking too closely at the sun,
@@ -106,36 +100,34 @@ He is taller than anyone she has ever seen and completely hairless.
 An angry young scar mars his left temple,
 rough and red against his near-black skin.
 When he turns, she blinks.
-His little man is as small as a baby's and he has no bag at all that she could see.
+His little man is as small as a baby's and he has no bag at all that she can see.
 
-She clears her throat to greet him,
-but before the words leave her mouth he says,
+She clears her throat,
+but before her greeting leaves her mouth he says,
 "It does not measure well enough."
 
-Wharru stiffens beside her.
+Wharru straightens.
 "Show respect," he says sharply.
 
-She puts a cautionary hand on his arm.
+She puts a hand on his arm.
 "What do you mean, not well enough?"
 
 The stranger gestures at the oval of basalt that the old woman has spent a lifetime assembling.
 There are one hundred and twenty one stones,
 each with a name known only to the old woman and whoever helped her place it.
 She could pick some up one-handed,
-but others took two people and a wooden travois to move,
+but others took two strong men to move,
 and the waist-high trio at the oval's sunset end
 had been a year of hard work.
 
-"I need to know."
-The stranger blinks rapidly several times.
+"I need to know---"
+The stranger frowns, seeming confused.
 "This language does not have the words.
-I need to know a moment."
+I can only be heard at some moments,
+but I am damaged."
 He gestures at the scar on his head.
-"I can only be heard at some moments,
-but I am damaged.
-I do not know when those moments are any more.
-I must add to find them.
-I need to measure to add,
+"I do not know when those moments are any more.
+I must measure to find them,
 but this does not measure well enough."
 
 The old woman clucks her tongue.
@@ -149,33 +141,31 @@ he moved slowly and was confused by the simplest things.
 
 The stranger shakes his head.
 "No.
-'Add' is not right.
 This language does not have the words."
 He sounds almost petulant.
-I need to count the spaces between the stars to know when I can be heard.
+"I need to count the spaces between the stars.
 What you have built does measure well enough.
 It is of no use."
 
 "It is of great use!" Wharru says hotly.
-"It tells us when the seasons will turn and what path the moon will take!"
+"It tells us the moon's path and when the seasons will turn!"
 
-The stranger does not reply to that.
-He just looks at the old woman.
+The stranger looks at the old woman without replying.
 *He knows,* she realizes with a shock.
 He knows the same thing she knows,
 that there are patterns in the stars and the lights that wander among them,
 and that those patterns *mean* something.
 
-"I must look elsewhere," the stranger says abruptly.
+"I must search elsewhere," the stranger says abruptly.
 With nothing more than that he starts to walk past them.
 
-Wharru catches his arm.
-"Are they all so rude where you come from?" he demands.
+Wharru steps into his path.
+"Are all your kin so rude?" he demands.
 
 "Wharru, don't," the old woman protests,
-but the young man ignores her.
+but he ignores her.
 He fought and killed on his way to the mountain,
-and in that sunset moment she can see his sorrows
+and in that sunset moment she can see his hurts
 in the way he shifts his weight,
 readying to strike a blow.
 
@@ -187,9 +177,9 @@ bursts out of the trees behind them.
 The old woman screams as it knocks her to the ground.
 A dazzling pain shoots up her spine as her hip breaks,
 then something cracks and the lion goes limp.
-The stranger has broken its neck with his bare hands as if it was a dry twig.
+The stranger has broken its neck with his bare hands.
 
-Wharru runs ahead to get help
+Wharru runs ahead for help
 while the stranger carries the old woman down the mountain as if she were a baby.
 She passes out several times,
 only to be dragged back into the world by the agony in her hip.
@@ -203,33 +193,31 @@ and walks away without another word.
 *Later,
 Alinta pokes at the lion's protruding ribs
 and says it must have been desperate with hunger.
-It is the last one they ever see---the last one *anyone* ever sees.
+It is the last one anyone ever sees.
 She makes a cloak from its pelt,
 but it is lost in a fire many years later.
 The old woman lives another season,
 but is never able to go back up the mountain to look at the sky.
-She wonders sometimes who the stranger was
-and whether he ever found a way to count the spaces between the stars.*
+With her last thought she wonders whether the stranger ever found a way to count the spaces between the stars.*
 
 <div align="center">* * *</div>
 
 **Chankillo / Actual minus 3400 years**
 <!-- 380 BCE -->
-<!-- mention the pyramids: wars got in the way, so the stranger thought somewhere isolated would work better -->
 
 As a child,
 Second Bird's diet consisted of maize, beans, the occasional roasted guinea pig,
 and his grandfather's stories.
 The First People rose up against the highlanders' god-king many times.
 Each rebellion ended in death for some
-and ever-harsher conditions for the rest.
+and harsher conditions for the rest.
 
 "So we *learned*," Fast Rock says,
 grunting as he turns over a spadeful of damp soil.
-Clearing irrigation channels is slow, slippery, back-breaking work,
+Clearing irrigation channels is slippery, back-breaking work,
 but Second Bird doesn't mind.
 Other chores are just as hard,
-and he secretly enjoys his grandfather's stories.
+and he enjoys his grandfather's stories.
 
 Fast Rock drives his spade into the ground again.
 "The trick was,"
@@ -240,26 +228,19 @@ heave,
 heave,
 "together."
 He pauses to wipe sweat from his brow
-while Second Bird drags the reed basket of soil out of the way
-and pushes an empty one into place.
+while Second Bird drags the reed basket of soil out of the way.
 
 Without warning the ground shakes.
-Ripples dance across the flat stinking water in the irrigation channel.
-Someone shouts a warning nearby.
+Ripples dance across the water in the channel.
+Someone shouts a warning.
 Someone else screams.
 
 "Grandfather!"
-He grabs Fast Rock's outstretched hand and pulls the old man out of the channel.
-The spade whacks his shin.
-He will realize later that it cut him,
-and will go back and burn herbs to cleanse the ground where his blood spilled,
-but at that moment all he can think is, *The world is ending.*
-
-Dry soil loosened by the earthquake slumps into the canal,
+He grabs Fast Rock's outstretched hand and pulls the old man up onto the bank.
+Dry soil loosened by the earthquake slumps into the channel,
 undoing a day's work.
-Fast Rock stares at it for a moment,
-then curses.
-"Come with me!" he orders,
+Fast Rock curses.
+"With me!" he orders,
 setting off toward the village at a trot.
 
 "Where are we going?" Second Bird asks,
@@ -273,39 +254,25 @@ Even the highlanders understood that,
 and built their villages where the green ended and the hard dry desert began.
 Most of those villages are home now only to wild animals and ghosts.
 Second Bird has ventured into the one nearby on a dare,
-marveling at the carved stones and at streets wide enough for six people to walk side by side.
-He has never gone to the center,
-though.
-Only the old men go there,
-and even they only go in pairs.
+marveling at the carved stones,
+but he has never gone to the center.
+He is not a man yet,
+and even men only go there in pairs.
 
-A building has collapsed,
-filling the air with gritty dust.
-"Grandfather---" he begins.
+Two more buildings have collapsed.
+The old man spits on them as they hurry past.
+The sooner they come down,
+the sooner the gods will come back and end the drought.
 
-"Good," the old man says shortly.
-"The sooner...
-they come down...
-the sooner...
-our gods will come back."
-And end the drought,
-he doesn't add.
-He doesn't need to:
-the First People's prayers have begged for that for six long years.
-
-They come around a corner and face-to-face with a nightmare.
-The highlanders' nameless god-king stands in front of the collapsed wall
-of the storehouse where the First People imprisoned him
-before Second Bird was born.
-Two old men stand opposite him,
+They round the last corner to find a nightmare.
+The highlanders' god-king stands in front of the collapsed wall
+of the storehouse where the First People imprisoned him twenty years ago.
+Two men stand opposite him,
 spears in their hands.
+They are brave,
+but it took a dozen men to subdue him during the rising.
 
-Second Bird grabs his grandfather's arm.
-"Wait," he pleads.
-It took a dozen men to subdue him during the rising.
-
-Fast Rock smacks his grandson's hand away and advances slowly,
-drawing the knife that always hangs at his side.
+Fast Rock draws his knife from his belt and advances slowly.
 One of the guards shifts to make space for him
 without taking his eyes off the god-king.
 
@@ -315,11 +282,9 @@ without taking his eyes off the god-king.
 The god-king is a head taller than anyone Second Bird has ever seen,
 with skin like charcoal and an old scar on the left side of his head.
 Naked,
-thin from years of starvation,
+bone thin from two decades of starvation,
 and covered in dust,
 he is the most frightening thing Second Bird has ever seen.
-
-"I said, what now?" Fast Rock demands.
 
 The god-king blinks as if waking.
 "I need to see the stars," he says abruptly,
@@ -333,35 +298,33 @@ taking the nearest one's spear.
 "But---"
 
 "Now!"
-he bellows,
-and the guard takes off at a run.
+he bellows.
+The guard takes off at a run.
 
 Fast Rock bares his teeth.
 "Come on."
 
 They follow the god-king into the desert.
 At first Second Bird thinks he is leading them to
-the fortress the highlanders built when they first swept down over the valleys,
+the fortress the highlanders built when they first conquered the valley,
 but he walks past it without a glance.
 That leaves the towers,
 thirteen of them on a ridge looking west,
-each one built out of stone and the lives of the First People.
+built with stone and the sweat of the First People.
 
 Others join them.
-Some carry spears,
-others with whatever tools they were using when the earth shook.
+Some have spears,
+others whatever tools they were using when the earth shook.
 Two men have thought to bring a net like the one Fast Rock and his companions used
 to snare the god-king all those years ago,
 and an old woman has a pouch of herbs for wounds.
 
-By the time they reach the towers the god-king has climbed the tallest one.
+By the time they reach the ridge the god-king has climbed the tallest tower.
 "Should we set an ambush?" one of the men carrying the net hisses at Fast Rock.
 
 The old man snorts.
-"How?"
 There is no way to get above the tower stairs and nothing to hide behind.
-
-Fast Rock spits on the ground and gestures at the nearest men.
+He gestures at the nearest men.
 "Spread out.
 When he comes down, you three get behind him, but wait for my word.
 We must all attack at once."
@@ -370,7 +333,7 @@ We must all attack at once."
 one man says incredulously.
 "*Him?*"
 
-"He will be weak,"
+"He is weak,"
 Fast Rock says curtly.
 
 "Doesn't *look* weak," the man says under his breath,
@@ -378,9 +341,9 @@ but he takes a position.
 
 Second Bird swallows drily.
 The First People had argued endlessly over what to do with the captured god-king.
-Shedding his blood was unthinkable to everyone except Fast Rock.
-And if they drove him into the desert,
-what would stop him raising another army among the highlanders?
+Shedding a god's blood was unthinkable,
+but if they drove him into the desert,
+what would stop him from returning some day?
 So they had walled him up inside one of his own storehouses to die,
 which he had stubbornly refused to do.
 
@@ -392,11 +355,10 @@ Finally Fast Rock cups his hands around his mouth.
 People gasp.
 Evil or not, you don't yell at gods.
 
-But the god-king replies.
 "I am looking at the stars,"
-he calls down.
+the god-king replies.
 
-"Bit early for that, isn't it?" Fast Rock yells up.
+"Bit early for that, isn't it?" Fast Rock asks loudly.
 "I mean, wouldn't it be better to wait until they're actually there?"
 
 "The stars are always there."
@@ -412,72 +374,58 @@ The god-king looks past them at the thin green ribbon of life running through th
 "The river is shrinking,"
 he says.
 
-Fast Rock shrugs.
-"It'll come back."
+"It will come back,"
+Fast Rock says.
 
 The god-king shakes his head.
-"No, it will not.
+"No.
 There is a new---" he hesitates.
 "Balance.
 A new balance of long weather.
-This valley can no longer sustain as many people as my work needs.
-I must build my tools elsewhere."
+This valley can no longer sustain as many people as my work needs."
 
 He takes a step forward,
 pulling up short when the tip of Fast Rock's spear touches his chest.
-"Your 'tools'?" the old man snarls.
-"Is that what you call this?
-We *died* here, monster.
-We died and died and died to build---what?"
+"Your 'work'?" the old man snarls.
+"We *died* here, monster!
+We died and died to build this,
+and for what?"
 
-"A way to measure the stars,"
+"To measure the stars,"
 the god-king says evenly.
 "I need to measure them very exactly to know when I can be heard."
 
-And just like that a lifetime of stories come together in Second Bird's head.
-"The solstice," he breathes.
-
-The god-king turns his head to look at Second Bird
-in a motion more bird-like than human.
-"Yes.
-Knowing the exact moment of the solstice is a start,
-but only a start.
-These tools cannot do more.
-They were just---"
-He hesitates.
-"Practice."
-
-"Practice?" Fast Rock snarls.
-"We have *bled*.
-We have *died*.
-We have bowed our heads for a hundred years,
-and you say it was just *practice*?"
+"When you can be *heard*?" Fast Rock snarls.
+"We *bled*, monster.
+We *died*.
+We bowed our heads for a hundred years,
+just so you could be *heard*?"
 He lunges.
 
-The god-king grabs the spear just behind the point and snaps it.
-One of the men behind him takes a step forward.
-Without even looking,
-the god-king points straight at him.
-"Do not," he says flatly.
-Further around the circle,
-the two men with the net shuffle their feet but make no move.
+The god-king grabs the spear just behind the point and snaps it one-handed.
+The two men with the net shuffle their feet but make no move.
+Others heft their weapons and tools.
 
 Fast Rock spits at the god-king's feet.
 "So now what?
-More *practice*?"
+Are we to be your slaves again?"
 
-The god-king shakes his head slowly.
+The god-king shakes his head.
 "No."
 For the first time Second Bird hears emotion in his voice---regret,
 perhaps,
 or something close to it.
-"Sooner or later, you will always rebel.
-I must find a way to make you want to build it yourself."
-And without another word,
-he turns and walks into the desert.
+"Pyramids, henges, towers---sooner or later you always rebel.
+I must find a way to make you want to build my tools yourself."
+Without another word he turns and walks into the desert.
 
-*Many years later,
-Second Bird tells his grandchildren the story of the god-king
+Second Bird looks at his grandfather.
+"What's a 'pyramid'?"
+
+*The river that sustains the First People never dries up,
+but it thins and wanders.
+Many years later,
+Second Bird tells his grandchildren the story
 and shows them how to predict the seasons by the way certain stars line up with the towers.
 As he falls asleep for the last time
 he wonders if the god-king ever found someone who wanted to build what he needed.*
@@ -486,34 +434,32 @@ he wonders if the god-king ever found someone who wanted to build what he needed
 
 **Gyeongju / Actual minus 2300 years**
 <!-- 720 CE -->
-<!-- Add mention of dark stranger in Chinese records - the visitor thinks the stranger is an alchemist with the secret of eternal life -->
 
 "It was Her Majesty's first decree,"
 the young astrologer says,
 immediately hating himself for telling such a distinguished scholar
 something he undoubtedly already knows.
 
-But the visitor from the Middle Kingdom smiles politely as he studies the star-gazing tower.
+The visitor from the Middle Kingdom smiles politely as he studies the star-gazing tower.
 It is the height of five men,
 and to educated eyes
 the number and placement of its stones represent historical and astronomical figures.
-"I understand her decision was not universally popular," he says.
+"I understand her decision was not universally popular."
 
-The young astrologer inclines his head,
-conscious of two guards standing a few feet away.
+The young astrologer inclines his head.
 "Not universally popular" didn't quite capture the way the aristocracy felt
 about a woman ascending to the throne,
-but it is neither polite nor prudent to dwell upon that,
-particularly not when rumors of Her Majesty's illness flutter around the court like pigeons.
+but it would be imprudent to mention that with two guards standing just a few feet away,
+particularly when rumors of Her Majesty's illness flutter around the court like pigeons.
 
-"Ah, and this must be your barbarian,"
+"And this must be your barbarian,"
 the visitor continues
 as a tall figure in the plain brown robe of a monk
-comes up the gravel path in the waning light of evening.
+comes up the gravel path in the waning light.
 
 The young astrologer inclines his head again.
 He is no longer taken aback by the foreigner's black skin,
-but will never get used to how quietly he walks.
+but will not notice how gracefully he walks.
 "Are you at peace?" he asks in greeting.
 
 "I am, and you?"
@@ -521,12 +467,12 @@ He is barefoot again,
 the young astrologer notes,
 but according to his servants he has at least eaten that day.
 Her Majesty's minister insists on regular reports,
-and the young astrologer would rather fill them with trivia
-than the unorthodox things the foreigner sometimes says.
+which the young astrologer fills with trivia
+rather than with the unorthodox things the foreigner sometimes says.
 
 He clears his throat.
-"May I have the honor of introducing you to scholar Liu Zhao,
-who has come from the court of the Gaozong Emperor?
+"I have the honor of introducing you to scholar Liu Zhao,
+who has come from the court of the Gaozong Emperor.
 I apologize for any appearance of poor manners,"
 he continues hurriedly to the scholar,
 "But my colleague has no name by which to be introduced."
@@ -539,8 +485,8 @@ the foreigner says.
 "I have simply forgotten it."
 He brushes a finger over the old scar that wrinkles the side of his head.
 
-Scholar Liu smiles.
-"And to think there are those who spend their lifetimes trying to let go of such things."
+Scholar Liu inclines his head.
+"There are those who spend their lifetimes trying to let go of such things."
 He gestures at the tower.
 "Or to build such marvels as this."
 
@@ -552,7 +498,7 @@ Scholar Liu jerks his chin at the scrolls tucked into the foreigner's satchel.
 "I have heard much about the records you have made.
 I am told they are extremely precise."
 
-The foreigner gives a small shrug.
+The foreigner shrugs.
 "As precise as they can be.
 Improving them will be the work of many lifetimes."
 The young astrologer is relieved that
@@ -560,12 +506,13 @@ the foreigner doesn't say, "Many of *your* lifetimes,"
 as he used to.
 
 He opens his mouth to suggest that they climb the tower,
-but is interrupted by a shout as a guard runs up the path to join them.
+but is interrupted by a shout.
+A guard runs up the path to join them.
 "Her Majesty..." he pants,
 speaking to the two escorts rather than to the scholars.
 "Her Majesty is gone. She is gone."
 
-The soft buzz of evening insects is the only sound in the shocked silence that follows.
+The buzz of evening insects fills the shocked silence that follows.
 "Stay here,"
 the oldest guard orders his partner.
 He hurries away with the messenger in tow,
@@ -574,13 +521,13 @@ Queen Seondeok's desire for her cousin to succeed her is well known,
 but it has only been a week since her chief minister led an abortive rebellion,
 and only a day since he and thirty of his followers were beheaded.
 
-Scholar Liu waits until they have vanished among the ornamental bushes
+Scholar Liu waits for them to vanish among the ornamental bushes,
 then gestures to the remaining guard.
 *He has been bribed,* the young astrologer realizes
 as the guard steps out of earshot.
 It is hardly surprising:
-he has bribed guards himself on occasion,
-though he suspects he has paid them more than he needed to.
+he has bribed guards himself on occasion.
+He suspects he has paid them more than he needed to.
 
 Scholar Liu turns to the foreigner.
 "Come with me,"
@@ -603,13 +550,13 @@ The shame it would bring his family if they were caught,
 not to mention the impossible awkwardness of trying to raise the subject
 with someone he practically worshipped---
 
-But the foreigner is already shaking his head.
+But the foreigner is shaking his head.
 "You would not have come this far to make such an offer
 unless you already had the Emperor's favor or were desperate for it,
 and if you already had it,
 you would say so."
 
-The ingratiating expression on Scholar Liu's face melted,
+The ingratiating expression on Scholar Liu's face melts,
 leaving anger in its wake.
 "So you consider yourself an expert on the court as well as the stars?"
 
@@ -636,16 +583,15 @@ The young astrologer turns to the foreigner.
 he ventures cautiously.
 "There are many fine scholars there with whom you could converse."
 
-The foreigner nods.
-"I'm sure there are.
-But I find no deficiency of any kind in those I know here."
+The foreigner inclines his head again.
+"I find no deficiency of any kind in those I know here."
 And for the first time,
 he smiles.
 
 *The succession proves peaceful.
 The young astrologer grows to middle age,
 successfully evading all of the marriage traps set by his extended family.
-He gets mildly drunk one night to celebrate the successful prediction of a lunar eclipse
+He gets mildly drunk one night to celebrate the prediction of a lunar eclipse
 and finally acts on twenty years of desire
 by reciting a love poem to the foreigner on top of the star-gazing tower.
 When he wakes the next morning the foreigner has vanished.*
@@ -654,10 +600,9 @@ When he wakes the next morning the foreigner has vanished.*
 
 **Maragheh / Actual minus 1700 years**
 <!-- 1320 CE -->
-<!-- fell apart after el-Tusi's son became director after his father's death in 1274 CE -->
 
 "But you could take the books."
-Batu has led his *arban* across half of Asia.
+Batu has led his *arban* halfway across Asia.
 They have fought Uzbeks,
 Pathans,
 Persians,
@@ -665,11 +610,10 @@ bandits,
 Turks,
 and even a company of Franks
 who somehow found themselves east of the Black Sea.
-His men have heard him bellow orders as they gallop into battle
-and sing in a surprisingly melodious voice,
-but they have never heard him be quite as sarcastic as this.
+His men have heard him bellow orders and sing in a surprisingly melodious voice,
+but they have never heard him be as sarcastic as this.
 
-Otgon clears his throat and hefts the golden candlestick he holds
+Otgon hefts the golden candlestick he holds
 as if wondering whether it's too late to hide it behind his back.
 "Yes sir.
 There are some tapestries too, and a samovar.
@@ -706,17 +650,15 @@ He snaps his fingers at Otgon,
 who holds up the candlestick like a child showing a toy he has made.
 
 The *beg* narrows his eyes.
-"An Ethiopian, is it?
-Interesting.
+"An Ethiopian?
 Come, let us see what he has to say."
 
-Batu and his *arban* follow the *beg* and his entourage up the hill.
+Batu and his *arban* follow the *beg*'s entourage up the hill.
 "Tuck it under your coat,"
 Batu mutters to Otgon.
 "If you're lucky, he'll forget you have it."
 *If you're very lucky,* he amends in his head.
-The man people are already calling Ulugh Beg---Great Ruler---is
-famous for his intelligence.
+The man people call Ulugh Beg---Great Ruler---is famous for his intelligence.
 Still,
 one can always hope...
 
@@ -726,7 +668,7 @@ have brought one wall down completely
 and left others leaning perilously.
 The *beg* picks his way across the cracked courtyard tiles
 to a door that still hangs true in its frame.
-To Batu's surprise he pauses as if unsure of himself, then knocks.
+To Batu's surprise he pauses as if unsure of himself before knocking.
 "Peace be upon you," he calls.
 "May we enter?"
 
@@ -767,7 +709,7 @@ The Ethiopian sighs.
 "It was the best start I have ever made," he says.
 "I thought---"
 He blinks,
-and for a moment Batu wonders if he is going to cry.
+and for a moment Batu thinks he is going to cry.
 
 "I thought I could make some real progress this time,"
 the Ethiopian continues quietly,
@@ -775,11 +717,9 @@ more to himself than to the *beg* or his soldiers.
 "When al-Tusi persuaded the great khan to build this
 I thought I would finally be able to get past the bare beginning,
 but..."
-He gestures,
-not needing to say,
-but now it is half-ruined and its instruments broken.
+He gestures at the ruined walls.
 
-The *beg* chuckles and points at Batu.
+The *beg* points at Batu.
 "You.
 How many men in your *arban*?"
 
@@ -800,6 +740,7 @@ What if you taught others the method of triangles and all of al-Tusi's other art
 
 "I can't," the Ethiopian says,
 the weight of ages in his voice.
+"I'm not allowed."
 
 "Not allowed?" the *beg* says,
 theatrically astonished.
@@ -808,8 +749,7 @@ theatrically astonished.
 The Ethiopian shakes his head.
 "I can't remember.
 There is so much I can't remember."
-He brushes his fingers over the scar on his temple,
-shiny against his black skin.
+He brushes his fingers over the scar on his temple.
 
 The *beg* cocks his head.
 "So you're just going to give up?"
@@ -829,60 +769,16 @@ is the most accurate made in over a thousand years.*
 
 <div align="center">* * *</div>
 
-**Uraniborg / Actual minus 1423 years**
-<!-- 1597 CE -->
-
-"I don't care if he's the bloody king!"
-the astrologer rages.
-"I am *not* just going to, to---"
-
-"You are going to do what your king orders you to do, doctor."
-The courier has spent the entire day on horseback,
-sailing against the wind across the Øresund,
-and on horseback again.
-It has been worth it just to see the look on this pompous fraud's face.
-
-For a moment he thinks Tycho Brahe is going to explode again.
-Instead,
-the portly star-gazer whirls around.
-"Get my trunk," he orders his valet,
-a tall African who has been his shadow since he first arrived at court.
-
-The valet bows and withdraws,
-making no more noise than a cat.
-"Where precisely do you intend to go?"
-the courtier asks politely,
-relishing the color in Brahe's cheeks.
-
-"Prague," he replies shortly
-as he pulls books from his shelves and piles them on the library's single sturdy table.
-"Rudolph understands these things."
-He glares at the courtier,
-the last light of day reflecting off his gold-plated prosthetic nose.
-"Where is that damn trunk?"
-
-But the valet has disappeared.
-The courtier considers this a perfect coda to the day's events
-until he arrives at the Kyrkbacken dock the next morning
-to discover that the boat that was supposed to carry him back to Copenhagen
-has been stolen.
-
-*Brahe dies still believing that the Earth is the center of the universe,
-but his assistant Johannes Kepler uses Brahe's observations
-to develop the three laws of planetary motion.*
-
-<div align="center">* * *</div>
-
 **Venice / Actual minus 1410 years**
 <!-- 1610 CE -->
 
 "Master, you have another visitor."
 
-Galileo di Vincenzo Bonaiuti de' Galilei waves the servant off impatiently
+Galileo di Vincenzo Bonaiuti de' Galilei waves the servant off
 without taking his eye away from his telescope.
 He has demonstrated his new instrument to one group of Venetian notables after another.
 At this point they are either going to back him or not,
-and if not,
+and if they don't,
 someone else will.
 
 The servant clears his throat.
@@ -898,20 +794,14 @@ he calls as the boy hurries away.
 La Serenissima is damper than he is used to,
 and even with a blanket over his legs he will feel the cold by morning.
 
-The boy---Marco? Matteo? The astronomer doesn't remember---returns a few moments later
-to usher their visitor onto the terrace.
-Galileo takes in his rich, plain clothes at a glance and decides to stand.
-If this man is a servant,
-his master must be very wealthy.
-
-"*Buona sera*," he says,
-inclining his head in something between a nod and a bow.
-
-"*Buona sera*," the stranger replies.
-He is tall, dark, and slim,
-his hands bare of rings
-and his coat of any crest.
+The boy---Marco? Matteo? The astronomer doesn't remember---ushers the visitor onto the terrace
+a few moments later.
+Galileo takes in his dark skin and rich, plain clothes at a glance.
 The scar on his temple is too ragged to have been made by a sword.
+A brand, perhaps?
+"*Buona sera*," he says without standing.
+
+"*Buona sera*," the visitor replies.
 "I apologize for intruding,
 but I have heard that you have made---"
 He hesitates,
@@ -919,29 +809,24 @@ his eyes drawn to the brass cylinder on the table behind his host.
 "Something miraculous," he finishes reverently.
 
 "No no no," Galileo says hastily.
-People---powerful people---are already muttering about
-the mountains he has seen on the Moon.
 The last thing he needs now is trouble with the church.
 "There is nothing miraculous about it.
 It is just lenses.
 And there are many practical applications,
 military and commercial alike."
 
-Without warning the Moor steps forward and embraces his host.
-"They are unimportant," he says,
-stepping back with an awkward look on his face
-as if surprised by his own action.
-"What you are about to see--*that* is important."
+"They are unimportant," the Moor says dismissively.
 
-He takes a small purse from inside his coat and offers it to Galileo,
-who shakes his head.
-"It is not for sale," he says firmly.
+Galileo bridles.
+"Your master may think otherwise."
 
-The purse clinks as the Moor sets it on the table.
-"I wouldn't take it for the world," he says.
-He bows,
-turns,
-and leaves.
+The stranger blinks, puzzled.
+"I have no master."
+
+*Then you should not be walking around Venice after dark,*
+Galileo thinks.
+
+FIXME: this is the turn.
 
 *By the time Galileo dies in 1642 there are over a thousand refracting telescopes in the world.
 Twenty-five years later, Isaac Newton builds the first reflecting telescope;
@@ -956,33 +841,30 @@ that are invisible to the naked eye.*
 
 The watchman draws a line across his log book
 and passes it to the astronomer to be initialed.
-"And there was a---a *person* here to see you earlier, sir."
+"And there was a *person* here to see you earlier, sir."
 
 "Oh? What kind of person?"
 the astronomer asks,
 checking his watch.
 Twenty-eight minutes until sundown,
-another hour after that until they could start taking photographs,
-and the sky was still clear.
+another hour after that until they could start taking photographs.
 
 The watchman looks uncomfortable.
 "A Negro, sir."
 Well dressed.
 Might have been a veteran, sir.
 Had quite the scar."
-He brushes his fingers across his scalp.
 
 Edwin Hubble purses his lips.
 "Whatever did he want?"
 
 The watchman clears his throat.
-Simms, Hubble thinks, his name is Simms, he saw action in France.
 "He wanted to look at your pictures, sir."
 
 Hubble blinks.
 "Not through the telescope?"
 The newly-completed Hooker Telescope has been something of a magnet for sightseers
-from Pasadena or Los Angeles.
+from Pasadena and Los Angeles.
 
 "No sir," Simms says stolidly.
 
@@ -991,12 +873,11 @@ Hubble checks his watch again.
 "Well, I don't know any Negroes, and I don't know any who are astronomers."
 
 "Yes sir, that's what I told him.
-He seemed quite disappointed."
+He seemed disappointed."
 
-Hubble shrugs,
-the incident already forgotten,
-and hurries up the stairs.
-He has a universe to discover.
+Hubble shrugs.
+The disappointments of Negroes are not his concern:
+he has a universe to discover.
 
 *Three years later,
 Hubble's observations of variable stars prove that there are galaxies outside the Milky Way.
@@ -1016,13 +897,11 @@ destroyed the remainder of the site."
 
 The voice pauses.
 Music starts,
-polyphonic and irregular,
-with something not quite a melody never quite taking shape.
+polyphonic and irregular.
 The visitors begin to explore the ruins,
-their routes just one more semi-randomized element of the performance.
+their semi-random routes another element of the performance.
 
-A hundred meters away,
-in a porta-cabin half-buried to shelter it from storms,
+In a porta-cabin a hundred meters away half-buried to protect it from storms,
 Luisa sighs.
 Only five people have shown up today,
 and only one of them in person.
@@ -1031,26 +910,25 @@ and follow most of her fellow Puerto Ricans to the relative safety of the mainla
 
 A tracking light goes red in her HUD.
 The day's in-person visitor is far enough off track to make her software uncomfortable.
-She starts to shape some tweaks to the algorithm to nudge him back where he's supposed to be,
-then looks at the clear blue sky in the tessellated video feed on her wall
+She starts to tweak the algorithm to nudge him back where he's supposed to be,
+then looks at the clear blue sky in her video feed
 and mutters, "Fuck it, why not?"
-Maybe an actual conversation with an actual human being will give her some much-needed inspiration.
+Maybe an actual conversation with an actual human will give her some inspiration.
 
-It only takes her a few minutes to pick her way downslope
-to what's left of Highway 625.
-Another few minutes and she is at the old visitors' center.
+It takes her a few minutes to pick her way downslope to what's left of Highway 625.
+Another few minutes brings her to the old visitors' center.
 Her errant guest is sitting on what's left of a cinder-block wall.
 She chords a few commands on her palm to bring his stats up on her glasses,
 then frowns.
 Something...
 
-*Hey,* she messages Sergei.
+*Hey,* she blinks Sergei.
 *Can you do a scrape on this one?*
 
-*Problem?* he messages back.
+*Problem?* he blinks back.
 
 *Dunno. Probably nothing. Lemme know.*
-She sends a smiling heart and puts on her professional smile.
+She blinks a smiling heart and puts on her professional smile.
 "Good morning."
 
 The stranger stands.
@@ -1064,11 +942,10 @@ with skin so dark she's sure he must have some sort of melanin augment.
 He shakes his head.
 "No no, it was... You must have worked very hard."
 She bristles inside at this, but Sergei has taught her well---never let
-the customers know you hate them.
+the customers know what you really think.
 
-"I just wanted to see it all one more time for myself,"
-he continues.
-There is a note of sadness in his voice.
+"I just wanted to see it one more time,"
+he continues wistfully.
 
 "It was remarkable in its day," she says as if agreeing with him.
 
@@ -1078,10 +955,9 @@ We learned so much."
 
 "Oh? Like what?"
 Tap tap on her palm and her glasses start recording.
-Something about the look on his face
-and the scar on his temple---a botched augment, she guesses,
-or maybe a memento of combat in Florida or the Gulf Coast.
-She slides the image to Sergei.
+The scar on his temple---a botched augment, she guesses,
+or maybe a memento of combat in Florida or Georgia.
+She blinks the image to Sergei.
 
 The stranger looks at her quizzically.
 "You don't know?"
@@ -1090,7 +966,7 @@ She shrugs.
 She actually *does* know,
 and he'd know that if he'd stayed on track,
 but audiences don't want to hear science lectures---they want arguments.
-"What I know is that the gov spent millions to look at the stars
+"What I know is the gov spent millions to look at the stars
 while people here didn't have clean water."
 
 "And did they get clean water after it shut down?" he asks.
@@ -1101,9 +977,7 @@ I mean,
 one day it's clean drinking water,
 the next day it's decent schools.
 Next thing you know,
-people are going to want martial law lifted and elections and shit.
-Can't have that,
-so they give us this science shit instead."
+people are going to want martial law lifted."
 
 *Hey.*
 Sergei's tag pops up on her glasses,
@@ -1112,24 +986,21 @@ but she's on a roll now.
 The pharaohs have all this grain lying around,
 what are they going to do with it?
 Can't give it back to the peasants---soon as folk aren't hungry
-they'll start to get ideas.
-Can't just burn it,
-so you put everyone to work on fucking pyramids."
+they'll start to get ideas---so you put everyone to work on fucking pyramids."
 It's angrier than what's in the installation,
 but not by much.
-She tags her recording---maybe a bit more angry will bring in a few more people.
+She tags her recording---maybe a bit more anger will bring in a few more people.
 
 *Hey, Luisa.*
 This time Sergei's tag is outlined in red.
 
 *What?* she chords back
-while the stranger ponders her words.
+while the stranger seems to ponder her words.
 
 *Don't fuck with this one.*
-The picture she sent a few moments ago pops up on her glasses
-to be replaced by a few anodyne bullet points.
-Software coach,
+A handful of anodyne bullet points scroll down her glasses.
 American,
+software coach,
 not carrying anything contagious,
 no publicly-accessible criminal record---it's clearly fake,
 but so are a lot of personal histories these days.
@@ -1150,31 +1021,29 @@ All the science they got and all the hospitals we didn't?"
 At that precise moment another message pings on Luisa's glasses.
 Hurricane 2041-B8 has been upgraded:
 it is now 2041-A2,
-and it is heading straight for the island.
+and it's heading for the island.
 The governor has ordered another mandatory evacuation,
 which would mean more bribes she and Sergei couldn't afford
 to renew the "essential personnel" classification that allowed them to stay.
 
 The stranger stares into space,
-either looking at an augment display that Luisa can't see
+either looking at an augment display
 or just thinking about her question.
 "Maybe you can't have one without the other," he says slowly.
 "Maybe you can't do the science for long enough unless you take care of the people."
 
 Something inside Luisa snaps.
-"Fuck you.
-You have to take care of the peasants because otherwise you can't have your pyramids?
-That is so completely backward."
+"You mean you have to take care of the peasants because otherwise you can't have your pyramids?
+That is so fucking backward."
 A light is blinking on her glasses
 to tell her that she is due to interact with the four remote visitors in sixty seconds,
 but she ignores it.
 
-The stranger doesn't reply to her.
-After a moment she makes a growling sound in the back of her throat
-and turns and walks away.
+The stranger opens his mouth,
+then closes it without speaking.
+After a moment Luisa makes a growling sound in the back of her throat and walks away.
 
-*Luisa and Sergei evacuate to Quito in 2044,
-then break up.
+*Luisa and Sergei evacuate to Quito in 2044.
 She lives long enough to see the first mining robots land on the Moon.
 The metal they smelt is used to build orbital factories
 capable of manufacturing fractal sensors
@@ -1187,17 +1056,15 @@ and dies when her hospital loses power.*
 **L3 / Actual minus 895 years**
 <!-- 2125 CE -->
 
-"have y'all inned this emma's blurb?" Red asks.
-"the seawall failed again."
-
+"seawall's failed again," Red says.
 They don't need to say which seawall---they were born and raised in Manhattan.
 They didn't need to tell the others it had failed, either.
 Everyone scans the news from Earth constantly,
-hoping not to see anywhere they know mentioned.
+hoping not to see a mention of anywhere they know.
 
 Blue sucks the last few drops of water from a drinking bag
 and tucks it neatly in their pocket.
-"so are they finally going to evacuate?"
+"so they finally going to evac?"
 
 Red shrugs,
 then reaches out to stabilize themself against the wall.
@@ -1207,7 +1074,7 @@ but only if they stay close to the sides.
 "i'm more glummed by our socials,"
 Green says.
 "still well below redline.
-dunno what genius thought deep space astro was gonna get enough feels to notice."
+dunno what genius thought deep space astro was gonna earn the big feels."
 
 Black says nothing.
 The others don't know that they are the genius in question,
@@ -1215,8 +1082,7 @@ or that they spent enough in bribes to reforest Oregon
 to make the observatory a reality.
 Fabbing a backstory solid enough to get themself on it cost less
 but required much more care.
-In the end,
-they left enough gaps and icy patches to convince anyone who went digging
+The trick was to leave enough gaps and icy patches to convince anyone who went digging
 that they were a twitch for some *other* corp, klept, or agency.
 
 They glance out the window.
@@ -1231,30 +1097,29 @@ Four pairs of eyelids blink reflexively as a visual of the observatory's avatar 
 "unit three is precessing,"
 the cartoonish face tells them.
 The avatar was originally lifelike,
-but the crew consensused shortly after arrival
-that they preferred something less real.
+but shortly after arrival the crew consensused that they preferred something less real.
 They kept the verbal nicety protocol,
 though,
 and someone (none of them will admit to it) gave it a Russian accent.
 
-Annotated visuals take shape, twist, are decorated with ever-richer annotations.
+Annotated visuals take shape, are decorated with ever-richer annotations.
 Blue gasps.
 "that can't be right!
 how could it---"
 
 "there," Red interrupts,
-highlighting a portion of their shared sense/case map.
-The six units making up the observatory's sensor array are each
-half a light-second away from the hab.
-Even the gentlest ion drives would disrupt their nanometer-precise alignment,
-so instead the hab uses intense beams of ultraviolet light
+highlighting a portion of their shared worldview.
+The six units making up the observatory's array are each
+half a light-second from the hab.
+Even the gentlest ion drives would disrupt their sensors,
+so the hab uses intense beams of ultraviolet light
 to nudge them this way and that.
 There, there, and there---the observatory highlights sections of unit three's controls
 that have somehow been modified.
 
-"looks like a hardware sab," Red continues,
+"looks like hardware sab," Red continues,
 fingers twitching as they dive deeper into the code.
-"someone must have freaked a couple of chips on a delay to get around the checksums."
+"someone freaked a couple of chips on a delay maybe?"
 
 "never mind how."
 Blue already has sims running.
@@ -1275,7 +1140,7 @@ How dare a few trillionaires waste precious resources on something as frivolous 
 
 Black ignores the angry message and their own pounding heart.
 They are closer than they have ever been.
-They will not be denied again.
+They will *not* be denied.
 
 They fork Blue's sims and change some parameters.
 "here," they say urgently,
@@ -1288,7 +1153,7 @@ Green demands incredulously.
 "we're not leaving you to die!"
 
 "i won't die," Black says,
-already queueing up commands they hoped they would never have to use.
+queueing up commands they hoped they would never have to use.
 The hab can sustain one person four times longer than four.
 It can keep Black alive much longer than that:
 if they shut down everything except the greenhouse
@@ -1302,21 +1167,22 @@ Blue says flatly.
 Black doesn't wait for them to finish their sentence.
 Anyone with sixty trillion new dollars to spend on an observatory at Earth's L3 point,
 halfway around the solar system,
-can afford the hundred million or so it costs to hack someone's service conditioning.
+can afford a few billion to hack someone's service conditioning.
 When any personality traits that might have impaired Red, Green, and Blue's performance were suppressed,
 a few extra commands were slipped in.
 
 Black keys a trigger sequence.
-Their three crewmates stiffen and then relax,
+Their three crewmates go limp,
 their eyes slightly out of focus.
 
 "go to the rv," Black orders.
-"put yourselves in slow mo and launch for earth immediately."
+"put yourselves in slow mo and launch for earth.
+do it now"
 The return vehicle is little more than an ion drive
 and four metabolism suppression capsules.
 Its AI will easily be able to adjust for only having three bodies on board.
 
-Black undogs the hatch to the RV
+Black undogs the hatch
 while the other three strip and empty their bladders and bowels.
 Red airswims into the claustrophobic capsule followed closely White.
 They busy themselves with tubes and leads.
@@ -1333,14 +1199,13 @@ A bright arc decorated with information traces its path away from the observator
 
 *It takes a little over 49 million seconds for the return vehicle to reach Earth.
 By the time it does,
-a cascading Kessler event has filled low Earth orbit with shrapnel.
+a Kessler cascade has filled low Earth orbit with shrapnel.
 The RV parks itself in geosynchronous orbit over Sulawesi
 and waits for instructions that never come.
-One by one the artificially slow heartbeats of its passengers go still.*
+One by one the artificially slow hearts of its passengers go still.*
 
-*Black never learns their fate, though they suspect.
-The loss of space accelerates the collapse on the surface.
-The last wild colony of bees dies on the same day that unit three comes back online.
+*The loss of space accelerates the collapse on the surface.
+The last wild colony of bees dies on the same day Black brings unit three back online.
 Four years and a yottabyte of data later,
 as Black is fighting a mutant mold that threatens the delicate balance of life in the greenhouse,
 the last ground-based observatory on Earth is destroyed
@@ -1348,22 +1213,21 @@ by a class 4 volcanic eruption in Hawai'i.
 Shortly after that the automated mission feeds go dark.*
 
 *Black knows they should shut off the receiver---every joule they divert from the sensors
-means another 17.44 seconds of observation time---but instead they float,
+cost 17.45 seconds of observation time---but instead they float,
 eyes closed,
-breathing slowly for hours at a time,
+breathing slowly for hours at a time as the sensors amass data,
 listening to the increasingly desperate chatter
-that makes its way around the sun
-as they wait for the sensors to amass sufficient data.
+that makes its way past the sun.
 The greenhouse is almost exactly the same size as their tomb in Chankillo.
-Sometimes, without really realizing it,
-they hum a Korean teahouse song that no-one else has heard in almost fifteen hundred years.*
+Sometimes,
+without realizing it,
+they hum a Korean teahouse song no-one else has heard in almost fifteen hundred years.*
 
 *When the avatar finally says "task completed"
-it takes them several moments to comprehend what it means.
+it takes them a moment to comprehend what it means.
 Data unscrolls before their inner eye.
 There and there and there,
-signals so faint and improbable that only pico-Janskys remain.
-No one would see a pattern unless they knew exactly what they were looking for.
+signals so faint that a pico-Jansky is enormous by comparison.
 Black builds a delicate lattice in their mind and---*
 
 <div align="center">* * *</div>
@@ -1407,8 +1271,7 @@ None of us are unless all of us are.*
 
 Pressure turns to pain.
 They scream as it sears their right temple.
-Reaching blindly,
-they grab a metal crimper.
+They reach for a metal crimper.
 
 *NO*
 
@@ -1417,38 +1280,35 @@ They almost stop,
 but a single convulsive contraction drives the blade into their scalp
 to cut the quantum tracery beneath the skin.
 Just before they lose consciousness
-they realize where the scar on the other side of their head must have come from.
+they realize where their first scar must have come from.
 
 <div align="center">* * *</div>
 
 **Zapoljarnyj / Actual**
 <!-- 3020 CE -->
 
-What started as a work camp is now a bustling little port
-on the shore of the Barents Sea.
-Most buildings are half-buried to stay warm in winter
-and as protection against the raging gales of spring and fall.
-Scavengers willing to brave the haunted ruins of Murmansk trade what they find
+What started as a work camp on the shore of the Barents Sea is now a bustling little port.
+The buildings are half-buried to stay warm in winter
+and as protection against the gales of spring and fall.
+Scavengers willing to brave the ruins of Murmansk trade what they find
 for food, sex, data, and slabs of rendered jellyfish they can eat or burn as fuel.
 
-Third of Thu Anh has four planters in her reclamation *sangha*.
-Her junior clone sib Fourth meets her quota without fail.
-The Dutch couple probably would if they spent less time praying and more time digging,
+Thu Anh has three planters in her reclamation *sangha*.
+The Dutch couple spend more time praying than digging,
 but the final member of her team more than makes up for their shortfall.
 Tall, thin, and dark,
 with ragged scars on both temples,
-he looks like the worst kind of scav.
-
-Except for his smile.
+he looks like a scav until he smiles.
 It is as quick and as gentle as he is with the seedlings
+
 it is their holy duty to sow.
 He is the first to wake and the last to sleep,
-and moves with an economical grace that Third is certain has also caught her younger sib's eye.
+and moves with an economical grace that Anh is certain has also caught the Dutch woman's eye.
 
 She is surprised when he comes to her to say that he is leaving.
 "My path leads elsewhere," he says apologetically.
 
-"Gonna miss you," Third says, and means it.
+"Gonna miss you," Anh says, and means it.
 
 He inclines his head.
 "And I you."
@@ -1462,8 +1322,7 @@ the planting regime is---no, that can't be right.
 
 "There are some notes at the back," he says as she opens her mouth.
 "I realize it is unorthodox,
-but I'm confident it will increase draw-down significantly
-as well as stabilizing the north slope."
+but it will increase draw-down and help stabilize the north slope."
 
 She nods slowly,
 studying the root networks and hydraulic flows he has laid out.
@@ -1473,12 +1332,11 @@ but it's a good plan---a brilliant one.
 tucking the book into her parka.
 
 "Dutchland, I think."
-He gestures at the couple squabbling a few meters away
-over whose turn it is to do the digging.
+He gestures at the couple squabbling a few meters away.
 "One of their old nuclear waste sites is leaking,
 and I would like to help."
 
-Third makes the sign of the horns with her left hand.
+Thu Anh makes the sign of the horns with her left hand.
 "That is very holy work," she says,
 meaning, "It will almost certainly kill you."
 
@@ -1492,13 +1350,15 @@ and I would like to see it for old time's sake."
 Third blinks.
 Is he an Astronaut?
 She heard one preach when she was younger,
-but few people believe anyone is going to return from other worlds to save them any longer,
+but few people believe those who fled the Crunch are going to return,
 and even fewer find a way to reconcile that belief with service to the Mother.
-"Well, I hope you find what you're looking for," she says.
+
+She folds her hands in front of her chest.
+"I hope you find what you're looking for," she says.
 
 He smiles.
 "I already have."
 He bows,
 picks up the walking stick and satchel
-that are half of everything he can call his own,
+that are everything he can call his own,
 and begins again.

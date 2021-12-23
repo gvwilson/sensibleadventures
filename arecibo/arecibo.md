@@ -116,7 +116,7 @@ The stranger gestures at the oval of basalt that the old woman has spent a lifet
 There are one hundred and twenty one stones,
 each with a name known only to the old woman and whoever helped her place it.
 She could pick some up one-handed,
-but others took two strong men to move,
+but others took two strong men and a travois to move,
 and the waist-high trio at the oval's sunset end
 had been a year of hard work.
 
@@ -167,7 +167,7 @@ but he ignores her.
 He fought and killed on his way to the mountain,
 and in that sunset moment she can see his hurts
 in the way he shifts his weight,
-readying to strike a blow.
+readying to strike.
 
 But that blow never comes.
 With a rasping roar,
@@ -177,18 +177,22 @@ bursts out of the trees behind them.
 The old woman screams as it knocks her to the ground.
 A dazzling pain shoots up her spine as her hip breaks,
 then something cracks and the lion goes limp.
-The stranger has broken its neck with his bare hands.
+The stranger has broken its neck with a single blow.
 
-Wharru runs ahead for help
-while the stranger carries the old woman down the mountain as if she were a baby.
-She passes out several times,
-only to be dragged back into the world by the agony in her hip.
-"Who *are* you?" she asks in a moment of lucidity.
+Wharru drops to his knees beside her.
+"Where are you going?" he shouts
+as the stranger turns to go.
+"She needs help!
+She'll die if we don't help her!"
 
-The stranger glances down at her.
-"I don't remember."
-When they reach camp he sets her down gently
-and walks away without another word.
+The stranger cocks his head.
+"She will die anyway."
+He walks away without another word.
+
+*Wharru tries to carry the old woman,
+but each step he takes makes her whimper.
+She eventually convinces him to leave her long enough to get help.
+Both are surprised that she is still alive when he returns.*
 
 *Later,
 Alinta pokes at the lion's protruding ribs
@@ -198,7 +202,7 @@ She makes a cloak from its pelt,
 but it is lost in a fire many years later.
 The old woman lives another season,
 but is never able to go back up the mountain to look at the sky.
-With her last thought she wonders whether the stranger ever found a way to count the spaces between the stars.*
+With her last thought she wonders if the stranger ever found a way to count the spaces between the stars.*
 
 <div align="center">* * *</div>
 

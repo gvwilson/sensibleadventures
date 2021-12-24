@@ -17,6 +17,7 @@ exclude:
   - "*.odt"
   - "*.pdf"
   - "*.txt"
+  - ".#*"
 
 permalink: pretty
 paginate: 5

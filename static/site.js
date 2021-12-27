@@ -1,3 +1,15 @@
+const fixToc = () => {
+  const toc = document.querySelector('ol#toc')
+  Array.from(document.querySelectorAll('h2')).forEach((header, i) => {
+    const label = `chapter.${i+1}`
+    header.id = label
+    const text = header.innerHTML
+    const item = document.createElement('li')
+    item.innerHTML = `<a href="#${label}">${text}</a>`
+    toc.appendChild(item)
+  })
+}
+
 const fixFootnotes = () => {
   Array.from(document.querySelectorAll('section')).forEach((section, i) => {
     const list = document.createElement('ol')
@@ -15,5 +27,6 @@ const fixFootnotes = () => {
 }
 
 const fixPage = () => {
+  fixToc()
   fixFootnotes()
 }

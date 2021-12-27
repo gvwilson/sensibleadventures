@@ -5,9 +5,11 @@ permalink: /santas/
 footnotes: true
 ---
 
+<ol id="toc"></ol>
+
 <section markdown="1">
 
-## Episode 1: 
+## Episode 1: In Which We Meet Our Protagonist
 
 Once up on a time,
 in a world halfway between yours and mine,
@@ -179,5 +181,102 @@ the tip of her cane stabbing through the snow on every second step.
 "Yes'm," Finner said obediently.
 With one last glance at the motionless cat they followed her through the door
 and into the rest of their life.
+
+</section>
+
+<section markdown="1">
+
+## Episode 2: In Which a Door Opens
+
+Finner had never actually been in Gran-Granna's house before,
+but they had heard stories.
+A richly-patterned carpet in the hall that looked like it might once have been able to fly: check.
+A set of coathooks with gargoyle faces: check.
+A sitting room filled with a riot of greenery and a mis-matched pair of overstuffed chairs: check.
+Crossed harpoons over the fireplace and dozens of framed pictures
+of children, grandchildren, great-grandchildren, neighbors, friends, enemies<sup>Some of which
+had dates and locations written on them in neat, smug lettering.</sup>,
+and the grateful, if somewhat perplexed, crew of a submarine: check.
+
+And there was a teapot---*the* teapot,
+the one people spoke about in hushed voices.
+It didn't look special,
+but it was never empty and its contents were never cold.
+Bitter, sometimes,
+if that's what Gran-Granna's guest needed most,
+but never cold.
+
+Finner waited for Gran-Granna to settle into a chair
+before seating themself nervously on the edge of the other one.
+She spooned a bit of sugar into a green-and-white teacup,
+glanced at them,
+added a bit more,
+and then poured slowly and carefully.
+"You'll want to let that cool down a bit," she advised,
+filling the second cup for herself
+and sitting back with it cradled in her hands.
+
+"Thank you,"
+Finner said,
+not knowing what else to say.
+What *were* they going to say?
+"Nothing feels right," was awfully vague,
+and, "What should I do with my life?" seemed awfully---
+
+"The thing about being old," Gran-Granna said without any preamble,
+"Is that people think it makes you wise."
+
+The silence that followed was broken only by
+the ticking of the burl clock in the kitchen.
+"Doesn't it?" Finner asked,
+because it felt like the kind of statement
+that wanted to be invited to take off its coat and sit for a while.
+
+"Not so far as I can tell,"
+Gran-Granna sighed.
+She sipped her tea,
+eyes closing with pleasure like a cat having its ears scratched.
+"But it does give you a passel of stories to tell.
+Take your Auncle Minglin, for example."
+She gestured at a picture on the wall of someone Finner vaguely remembered
+having spilled cranberry juice all over a tablecloth at some point.
+"Kind heart,
+and a beautiful singing voice,
+but as clumsy as an ox on ice skates.
+Broke or burned every toy they tried to make,
+so no elfing for them,
+and they could trip over a rock that was clear across the other side of the street."
+
+"So no deliveries?"
+Finner ventured.
+
+"That's certainly the conclusion they reached.
+And they were pretty down in the mouth about it,
+let me tell you.
+The world needs doctors and zeppelin pilots and what-not,
+but when you've had your heart set your whole life on something else,
+well,
+that's a hard thing."
+
+Finner turned their teacup around in their hands.
+"So what happened to them?"
+
+Gran-Granna smiled.<sup>It wasn't a particularly comforting smile---more an
+"I've just rolled double sixes so this game is pretty much over" smile.</sup>
+"They ran off and joined the opera.
+Last I heard,
+they were singing six shows a week with not an empty seat in the house."
+She sipped her tea.
+"They way I look at it,
+they *did* become a santa---one of the year-round kind.
+They're giving people music night after night,
+and that's a wonderful gift."
+
+She sighed.
+"But they don't see it that way,
+and I don't know if they ever will.
+Doesn't matter how hard people applaud
+or how many times they're called back for encores---deep in their heart,
+they'll always think of themselves as someone who wasn't good enough to be a santa."
 
 </section>

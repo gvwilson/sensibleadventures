@@ -14,12 +14,14 @@ const fixFootnotes = () => {
   Array.from(document.querySelectorAll('section')).forEach((section, i) => {
     const list = document.createElement('ol')
     Array.from(section.querySelectorAll('sup')).forEach((sup, j) => {
+      backref = `backref.${i+1}.${j+1}`
+      footnote = `footnote.${i+1}.${j+1}`
       const text = sup.innerHTML
-      label = `footnote.${i+1}.${j+1}`
-      sup.innerHTML = `<a href="#${label}">${j+1}</a>`
+      sup.id = backref
+      sup.innerHTML = `<a href="#${footnote}">${j+1}</a>`
       const item = document.createElement('li')
-      item.id = label
-      item.innerHTML = text
+      item.id = footnote
+      item.innerHTML = `${text} <a href="#${backref}">&#x21F1;</a>`
       list.appendChild(item)
     })
     section.appendChild(list)

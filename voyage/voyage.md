@@ -813,10 +813,9 @@ the living had of quickly defeating the Pale Remainder.
 The next six centuries were no harder for Ruuda than they were for many other
 parts of Cherne, but it is not polite to say that within earshot of Ruudians.
 While kingdoms and empires rose and fell elsewhere, the Pale Remainder's grip on
-the land north of the Helada Mountains was as cold as strong as steel and as
-cold as ice.  Accustomed as they were to heroes with Angelic powers, the gens of
-the time simply had no conception that "mere mundanes" could defeat a magical
-foe.
+the land north of the Helada Mountains was as strong as steel and as cold as
+ice.  Accustomed as they were to heroes with Angelic powers, the gens of the
+time simply had no conception that "mere mundanes" could defeat a magical foe.
 
 Many scholars have overlooked this last point, failing to recognize<sup>See for
 example Ld. Armenda Denys Calçaere's *[On Immediate and Extraneous Causes in
@@ -893,7 +892,7 @@ of what life had been before the invasion, apprentices in Ruuda-in-Ruuda and
 Pohjoinen turned their adzes and saws on whatever Pale "pets" came to hand,
 rather than on the Pale themselves.  The support they had been promised by the
 Regency Council in Uws<sup>Coronel Szarkos ard Niczolu formed the Council early
-in YS 481 to govern the kingdom "until its monarch shall have regained hismelf".
+in YS 481 to govern the kingdom "until its monarch shall have regained himself".
 By the time of the First Rebellion, 26 years later, it was little more than the
 Szarkosy family's court; the other major coronelcies had established *de facto*
 independence that would last until the reign of Alyczandr II Szarkos (YS
@@ -1102,7 +1101,7 @@ On the other edge of the rainbow were the æmott.  After centuries of struggle i
 which every victory meant the death of the victor at the hands of gar most
 trusted companions, "their" war had become deeply spiritual.  Æmott families
 were effectively a second culture within Ruuda; in camps called
-*[paetakyla](#paetakyla))*<sup>A contraction of a phrase meaning "a safe place
+*[paetakyla](#paetakyla)*<sup>A contraction of a phrase meaning "a safe place
 to flee to".</sup>, hidden in the Helada Mountains or on the fringes of the Herd
 of Trees, the æmott gathered every dawn to welcome the sun's return, thanking it
 for being their one true ally in the struggle against their unalive oppressors.

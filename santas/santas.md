@@ -5,7 +5,11 @@ permalink: /santas/
 footnotes: true
 ---
 
-<ol id="toc"></ol>
+<div style="align: center;">
+<p><img style="float: left;" src="./clausbeard.png" width="20%" /><img style="float: left;" src="./robo-santa.png" width="20%" /><img style="float: left;" src="./santasaurus.png" width="20%" /><img style="float: left;" src="./zombie-claus.png" width="20%" /></p>
+</div>
+
+<ol style="clear:both;" id="toc"></ol>
 
 <section markdown="1">
 

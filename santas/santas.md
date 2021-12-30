@@ -6,7 +6,12 @@ footnotes: true
 ---
 
 <div style="align: center;">
-<p><img style="float: left;" src="./clausbeard.png" width="20%" /><img style="float: left;" src="./robo-santa.png" width="20%" /><img style="float: left;" src="./santasaurus.png" width="20%" /><img style="float: left;" src="./zombie-claus.png" width="20%" /></p>
+  <p>
+    <img style="float: left;" src="./clausbeard.png" width="20%" />
+    <img style="float: left;" src="./robo-santa.png" width="20%" />
+    <img style="float: left;" src="./santasaurus.png" width="20%" />
+    <img style="float: left;" src="./zombie-claus.png" width="20%" />
+  </p>
 </div>
 
 <ol style="clear:both;" id="toc"></ol>
@@ -129,7 +134,7 @@ so to be fair,
 the statue wasn't *that* remarkable.</sup>
 
 Finner took a deep breath, walked up to the door, and knocked.
-When nothing happened he knocked again.
+When nothing happened they knocked again.
 "Well that was a bust," they said aloud,
 secretly relieved.
 
@@ -187,7 +192,6 @@ With one last glance at the motionless cat they followed her through the door
 and into the rest of their life.
 
 </section>
-
 <section markdown="1">
 
 ## Episode 2: In Which a Door Opens
@@ -351,7 +355,7 @@ They gestured toward the front door.
 
 A door opened upstairs.
 Heavy boots thumped on the carpeted floor
-as the biggest, baldest santa Finner had ever seen came downstairs
+as the biggest, beardiest santa Finner had ever seen came downstairs
 and wrapped his arms around Gran-Granna Tumbly in a number three hug.<sup>Both arms,
 full wrap,
 strong squeeze that's held for two or three heartbeats.</sup>
@@ -361,15 +365,16 @@ To Finner's complete surprise the santa starting crying.
 "It's awful.
 It's really, really awful this time."
 
-Gran-Granna Tumbly wriggled out of the hug.
+Gran-Granna Tumbly wriggled out of the beard and the hug.
 "Let me guess---did your llamas eat your favorite hat again?"
 
 "The llamas are rather gone,"
-said the second santa who had come down the stairs behind the first one.
+said a second santa,
+who had come silently down the stairs behind the first one.
 She was no taller than Finner,
 but lean where the first santa was brawny,
 and her uniform---Finner did a double take.
-Her hood was red and white,
+Her hood and sack were red and white,
 but the rest seemed to be changing color to match the carpet on the stairs.
 And---was that an ax strapped to the first santa's back?
 A really big ax that looked like it was designed for chopping the heads off trolls
@@ -410,7 +415,7 @@ His lower lip trembled.
 "I know you did," Gran-Granna said gently.
 "What about your elves?"
 
-"Out through the back door."
+"Out through the back chimney."
 The second santa shifted and winced,
 then waved Gran-Granna off a second time.
 "They're safe,
@@ -421,18 +426,136 @@ and something very much like a mild electric shock ran down their spine.
 
 Before anyone could answer there was another pair of *thumps* upstairs.
 "Well," said a jovial voice a moment later.
-"It's not exactly spacious, is it?"
+"It's not exactly a palace, is it?"
 
 The burly santa growled and reached for his ax.
 The one on the stairs struggled to her feet.
-"They're here," she said.
+"They're here," she spat.
 
 "Hmph."
 Gran-Granna Tumbly twisted the head of her cane
 and to Finner's absolute dumbfoundment<sup>Yes, that really is a word.</sup>
 drew a slender silver rapier.
 "Hold this," she ordered,
-handing the cane-y bit of the cane to Finner,
-and then everything went just a little bit nuts.
+handing the remaining cane-y bit of the cane to Finner,
+and then everything went a little bit nuts.
+
+</section>
+<section markdown="1">
+
+## Episode 3: In Which a Moderate Amount of Mayhem Occurs
+
+The second santa pulled a grenade out of her sack,
+drew the pin with her teeth,
+and chucked it overhand up the stairs.
+"Bang," she said calmly,
+and sure enough,
+a second later there was a loud, sharp *crack!*
+Bilious green foam began expanding into the stairs.
+
+"That won't hold them for long,"
+Gran-Granna Tumbly said,
+twisting at the waist until her spine made a noise
+that put the grenade's to shame.
+
+"We can take 'em!" the big santa bellowed,
+hefting his totally intimidating ax,
+which was in fact larger than Finner.
+
+"No we can't," Gran-Granna snapped.
+A UPF<sup>Unidentified Piece of Furniture. It's like a flying saucer,
+except it's usually rectangular (unless it's a coffee table),
+doesn't fly (unless it's thrown very hard),
+and isn't of alien origin.
+Usually.</sup> crashed through a window upstairs
+and landed in the front yard with a wet *thud*.
+
+"Awesome!" a voice exclaimed above them.
+There was the slap of high-fives being exchanged,
+then boots on the porch roof
+and another pair of wet thuds
+as two of their attackers jumped down onto the snow-covered ground.
+
+Sparkles ran down the rapier in Gran-Granna's hand.
+"Is that a *magic* sword?" Finner breathed.
+
+"Not magic enough," their great-grandmother muttered.
+"You two! Fireplace! Now!
+And you."
+She pointed at Finner.
+"You go with them and you do exactly what they say, understand?"
+
+"Go where?" Finner didn't have a chance to ask,
+because at precisely that moment something roared in the front yard.
+It was the kind of sound that bypasses the ears' request to form an orderly line
+and goes directly to the bit in the back of the brain
+that evolved to keep a million generations of ancestors
+out of large predators' stomachs.
+
+"Holy---" someone in the front yard started to say but never managed to finish.
+The other attacker simply screamed, briefly.
+There was a moment of stunned silence,
+and then the shooting started.
+
+The burly santa yanked Finner under the shelter of his enormous ax.
+Bullets ricocheted off it,
+punching little round holes in the pictures hanging on the walls.
+The other santa dove across the room to take shelter beside Finner.
+Punctured in a dozen places,
+the green foam in the stairs made a wet, farty noise
+and began to deflate.
+
+"Get to the chimney!" Gran-Granna Tumbly shouted.
+Her sword flashed back and forth,
+knocking bullets away from them.<sup>Or possibly from her teapot.
+Finner wondered about that later,
+but never found the courage to ask.</sup>
+"Now!"
+
+The front door burst open.
+The stone cat charged through the room
+and into the foam still left on the stairs.
+It was bigger than it had been before---much bigger---but
+Finner didn't have time to think about that
+because the big santa had picked them up like a sack of laundry
+and taken two enormous strides across the room
+and something something,
+Finner didn't see exactly what happened,
+but suddenly Gran-Granna's fireplace was gone,
+or rather it was still there but it was also a doorway,
+like one of those puzzle pictures that looks like two different things at once
+and then everything stretched around them
+or possibly they did the stretching
+and they were somewhere else.
+
+It was bright.
+In fact,
+it was daytime,
+when a moment ago it had been dark and evening.
+And there was sand---lots of sand.
+And---
+
+"That looks like a pyramid,"
+a small part of Finner's brain<sup>Not the part that evolved
+to keep them out of predators, but nearby.</sup> told the rest of them.
+
+The second santa got to her feet and brushed sand off her uniform,
+which had already started to turn a sandy-beige color.
+"Where are we?" she asked.
+
+It took Finner a moment to realize she was asking them.
+"I---I don't know."
+It was hot, they realized.
+Much too hot for the coat they had on.
+And where was Gran-Granna?
+
+The santa stared at them.
+Their eyes widened.
+"They don't know," she said to the big santa.
+
+"Don't know what?" Finner was about to ask,
+but before they could,
+a voice from behind them rasped,
+"Welcome..."
 
 </section>

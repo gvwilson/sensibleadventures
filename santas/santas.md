@@ -368,7 +368,7 @@ It's really, really awful this time."
 Gran-Granna Tumbly wriggled out of the beard and the hug.
 "Let me guess---did your llamas eat your favorite hat again?"
 
-"The llamas are rather gone,"
+"The llamas are gone,"
 said a second santa,
 who had come silently down the stairs behind the first one.
 She was no taller than Finner,
@@ -415,13 +415,14 @@ His lower lip trembled.
 "I know you did," Gran-Granna said gently.
 "What about your elves?"
 
-"Out through the back chimney."
+"Out through the chimney, somewhere safe."
 The second santa shifted and winced,
 then waved Gran-Granna off a second time.
-"They're safe,
-or at least as safe as anyone right now."
-And then she turned her gaze on Finner
-and something very much like a mild electric shock ran down their spine.
+"At least,
+as safe as anyone right now."
+
+She turned her gaze on Finner.
+Something very much like a mild electric shock ran down their spine.
 "And who's this?" she asked.
 
 Before anyone could answer there was another pair of *thumps* upstairs.
@@ -537,7 +538,7 @@ And---
 
 "That looks like a pyramid,"
 a small part of Finner's brain<sup>Not the part that evolved
-to keep them out of predators, but nearby.</sup> told the rest of them.
+to keep them out of predators---pyramids weren't really its concern.</sup> told the rest of them.
 
 The second santa got to her feet and brushed sand off her uniform,
 which had already started to turn a sandy-beige color.
@@ -555,7 +556,149 @@ Their eyes widened.
 
 "Don't know what?" Finner was about to ask,
 but before they could,
-a voice from behind them rasped,
-"Welcome..."
+a voice behind them moaned,
+"Greeeeeeetings..."
+
+They spun around and found themselves face-to-face with---they weren't quite sure what.
+It was tall and withered and wearing
+the tattered rags of what might once have been a santa's uniform.
+Its eyes didn't quite line up,
+and---was that a *bone* of the end of one of its arms
+where there really ought to be a hand?<sup>Even a mechanical hand.
+Finner knew a santa who had started wearing one after
+an unfortunate encounter with a a poorly-trained guard goose,
+and more than a few careless elves had needed parts replaced
+after what people referred to as "workshop incidents".</sup>
+
+The burly santa hefted his ax.
+"Friend or foe?" he demanded.
+
+The santa smiled, or more accurately bared its large, yellow teeth.<sup>And
+immediately and forever became "Zombie Claus" in Finner's mind.</sup>
+"That depends on...
+whether you brought...
+tea.
+And treats...
+for my pets."
+At the word "treats",
+one of the giant cat statues at the base of the pyramid
+turned its head and blinked,
+which made the "stay out of predators" part of Finner's brain go, "Ding ding ding!"
+
+"Tea?" the burly santa asked,
+clearly never having had this particular response to his friend-or-foe question before.
+
+"She always...
+brings tea.
+And treats.
+And sometimes...
+a magazine."
+
+"No magazines, I'm afraid, and no tea either,"
+the lean santa said.
+Her uniform had almost completely changed color to match the beige sand under their feet.
+"We had to leave Sensei Tumbly's in rather a hurry."
+
+"Ssss..."
+Zombie Claus hissed with disappointment.
+"I suppose...
+you're going...
+to claim...
+refuge?"
+
+The lean santa elbowed her burly companion's ribs to stop him from speaking.
+"As is our right," she said.
+"A cookie, a glass of milk, and the use of your chimney."
+
+"Heh.
+Heh.
+Heh."
+Zombie Claus said the words one by one.
+"No milk...
+or cookies...
+here.
+Not for...
+a long...
+time."
+The giant stone cat behind it stepped down from its pedestal.
+Finner gulped as three more joined it.
+Some seemed to be missing minor parts like ears or tails,
+but that didn't do anything to quiet the "ding ding ding!" in Finner's brain.
+
+The lean santa reached into her sack.
+For a heartbeat Finner thought she was going to throw another foam grenade,
+but instead she pulled out a man's tie.
+Blue with silver pinstripes that sparkled in the light,
+it flapped in her hand when she held it up
+as if caught in a stiff breeze.
+Which,
+Finner noted dumbly,
+there definitely wasn't.
+
+Zombie Claus hissed again.
+"You bring...
+*that*...
+here!?"
+Around it,
+the cats growled.
+
+The tie wriggled and tried to escape as the santa stuffed it back in her sack.
+"They came out of nowhere.
+We had people watching the chimney night and day,
+and I swear,
+they didn't come through that way."
+She glanced at the santa with the ax.
+"They took his llamas.
+And smashed his carriage.
+And---"
+
+The burly santa put a gentle hand on her shoulder.
+"And the elves got away," he said.
+"They're safe.
+We can rebuild again."
+
+The lean santa shrugged out from under his hand.
+"Safe for now, maybe.
+I'm just so tired of running."
+She was exhausted, Finner realized, exhausted and very, very frightened
+but trying hard not to show it.
+
+Zombie Claus hissed sympathetically.
+"I know...
+how...
+you feel...
+child."
+It looked past her at the dry sand surrounding them.
+"This was...
+green...
+once.
+Long ago...
+Before *they* came..."
+
+One of the stone cats yowled softly.
+Zombie Claus straightened.
+"Yes...
+I will...
+grant you...
+refuge.
+Follow...
+me."
+
+It turned toward the pyramid,
+then hesitated.
+"And...
+please...
+don't mind...
+the mess.
+I'm...
+redecorating."
+
+As they climbed the worn stone steps on the pyramid
+Finner sidled over to the lean santa.
+"Can you please tell me what's going on?"
+
+She sighed.
+"Just the usual, I'm afraid.
+We're trying to save the worlds."
 
 </section>

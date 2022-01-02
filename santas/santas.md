@@ -698,7 +698,152 @@ Finner sidled over to the lean santa.
 "Can you please tell me what's going on?"
 
 She sighed.
-"Just the usual, I'm afraid.
+"The usual, I'm afraid.
 We're trying to save the worlds."
+
+</section>
+<section markdown="1">
+
+## Episode 4: In Which Introductions are Finally Made and Explanations Finally Given
+
+Zombies and mummies are similar in many ways---the shambling gait,
+the moaning,
+and of course the whole "undead" thing---but
+there are important differences as well.
+First,
+mummies are generally royalty,
+or the servants of royalty,
+while zombies tend to have been honest, hard-working folk
+who offended the wrong wizard
+or were simply in the wrong place at the wrong time.
+Second,
+mummies are created through a complex multi-step process
+during which the internal organs and the brain are removed,
+packed in salt,
+and stored in canopic jars.
+"Which is...
+just a...
+fancy word...
+for jars...
+that hold...
+a mummy's bits,"
+Zombie Claus explained as they climbed the stairs
+to an opening in the side of the pyramid
+that was actually quite large
+but appeared quite small given its location.
+"Typical...
+of royalty...
+Making up...
+words...
+to make...
+their things...
+sound...
+special."
+
+"I take it you're not a fan of the upper classes?"
+the lean santa observed.
+
+"Fah,"
+Zombie Claus sneered.
+It was walking quite quickly despite its wheezing,
+forcing Finner to hurry to keep up.
+"Spend all...
+their time...
+building *pyramids*...
+instead of...
+building...
+a more equitable...
+society.
+They deserved...
+what they...
+got."
+
+"And what was that?" the lean santa asked.
+
+Zombie Claus smiled its yellow-toothed smile.
+"Me."
+
+Two stone cats sat on their haunches at the top of the steps.
+One blinked slowly as they entered the pyramid,
+but other than that they might truly have been statues.
+Inside was a corridor with sloping sides,
+wide enough for the four of them to walk side by side.
+Torches guttered in sconces every few dozen strides,
+their light making the figures painted on the walls dance.<sup>It didn't
+occur to Finner until much later to wonder about the torches.
+Were they some sort of magical everlasting torch?
+Or were they delivered on Tuesdays and Fridays like the cheese their father was so fond of?
+And why torches rather than lamps?
+The zombie's rags looked awfully flammable...</sup>
+
+The corridor turned into a ramp,
+which turned left and left again,
+each leg slightly shorter than the one before.
+Just as Finner realized they were climbing the inside of the pyramid
+they reached their destination.
+"Voila,"
+Zombie Claus wheezed,
+waving them forward proudly.
+
+To call the chamber they entered a "room" would have been like calling the pyramid "large".
+If Gran-Granna Tumbly's house had been tucked into one corner
+there would still have been plenty of room for a hockey rink and a river barge.
+And while there wasn't actually a hockey rink,
+there *was* a river barge and something that looked suspiciously like Gran-Granna's living room,
+along with dozens of statues,
+a chariot,
+six life-sized wooden horses,
+a small catapult,
+and a workbench covered with tools,
+bits of wood,
+rolls of fabric,
+and a stack of magazines.
+
+"Please...
+sit down..."
+Zombie Claus told them,
+gesturing at a matched pair of blue-and-gold striped couches.
+"I know...
+it's not...
+much...
+to look at...
+but..."
+
+"Oh, it's amazing," the lean santa said
+when the zombie's pause stretched longer than usual.
+"And I *love* what you've done with the side tables."
+
+"I...
+refinished those...
+myself,"
+Zombie Claus said proudly.
+"Here...
+let me...
+show you...
+the originals."
+It pulled a magazine out of the pile on the workbench
+and flipped through it,
+muttering under its lack of breath.
+"There!
+What do...
+you think?"
+
+It thrust the magazine at the lean santa
+while the burly one plopped himself down on the nearest couch,
+which creaked slightly under his weight.
+Finner sat hesitantly on the other
+while the lean santa said appreciative things about stains and lacquers
+and agreed that of *course* you had to see it in the room
+to really appreciate it,
+particularly with such difficult lighting.
+
+"Excuse me," Finner finally interrupted,
+after trying and filing twice to screw up enough courage to speak.
+"But can someone please tell me what's going on?
+And,
+um,
+how I can get home from here?
+Because I think I'd rather like to do that,
+if that's all right."
 
 </section>

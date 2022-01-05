@@ -704,7 +704,7 @@ We're trying to save the worlds."
 </section>
 <section markdown="1">
 
-## Episode 4: In Which Introductions are Finally Made and Explanations Finally Given
+## Episode 4: In Which Some Introductions are Made and Some Explanations Finally Given
 
 Zombies and mummies are similar in many ways---the shambling gait,
 the moaning,
@@ -860,8 +860,8 @@ and who you are?"
 
 The three santas exchanged looks.
 The lean santa sighed.
-"I'm Peri.
-This is Lothar, and...?"
+"I'm Santa Hood.
+This is Santa Greenwood, and...?"
 
 "Santa Hotep,"
 the mummy supplied.
@@ -878,33 +878,33 @@ she explained before Finner could ask.
 "That sounds kind of lonely,"
 was all Finner could think to say.
 
-Santa Peri shrugged.
+Santa Hood shrugged.
 "It works out.
-Some of the science elves think we're actually why different universes exist.
-Every santa that can be, must be, so..."
+Some of the science elves think we're why all those universes exist.
+Every kind of santa that can be, must be.
+It's all very quantum."
 She shrugged again.
 
 "So what kind of santa are you?"
 Finner asked.
 
-"I'm Santa Hood," she said proudly.
-"Every New Year's Eve I steal presents from the rich and give them to the poor.
-And where Lothar comes from, he's called the Forest Claus."
+She grinned wickedly.
+"I'm the kind that steals presents from the rich and gives them to the poor."
 
-"Let me guess: you chop down trees and everyone gets firewood as a gift?"
-Finner said.
+Finner digested that for a moment.
+"And you're the kind that chops down trees and gives everyone firewood as a gift?"
+they asked Santa Greenwood.
 
-There was an awkward silence.
-"Not quite,"
-Santa Lothar rumbled.
-"I bring gifts for the trees.
+"No,"
+the burly man growled.
+"The gifts are for the trees.
 The ax is for chopping down anyone who tries to hurt them."
 
 "I haven't...
 brought anyone...
 a gift...
 in years,"
-Santa Hotep wheezed wistfully.
+Santa Hotep wheezed wistfully in the awkward silence that followed.
 "After...
 the oasis...
 dried up...
@@ -912,12 +912,131 @@ they all...
 moved away.
 It's peaceful...
 but...
-I do...
-miss the work...
+I do miss...
+the unwrapping...
 sometimes."
 
 Peri (or Santa Hood, Finner reminded themself) patted Santa Hotep's hand.
 "Well, you've certainly kept yourself busy.
-This place is *amazing*."
+This place looks *amazing*."
+
+"I have...
+Miz Tumbly...
+to thank...
+for that."
+The mummy took a faded magazine off a lovely lacquered bookshelf,
+its pages stiff with age.
+"She felt...
+sorry for me...
+And started...
+bringing me...
+these.
+It was...
+the nicest thing.
+I hope...
+she's...
+all right."
+It paused.
+"Or if not,"
+it added reflectively,
+"I hope...
+Someone will...
+wrap her.
+It would...
+be nice...
+to have...
+company."
+
+"I'm sure Sensei Tumbly is fine,"
+Santa Hood said firmly.
+She stood and slung her sack over her shoulder with a wince.
+"But we should keep moving.
+Headquarters needs to know about the attack,
+and we have to find a way to get Findlay here home"
+
+"It's Finner, actually,"
+Finner corrected,
+or would have if an ear-splitting yowl hadn't interrupted them.
+
+Santa Greenwood surged to his feet,
+his ax in his hands,
+as Santa Hotep drew a circle with its fingertip on the mirror by its elbow.
+The mirror's surface rippled and reformed to show
+the steps leading up to the pyramid entrance,
+where the stone cats were fighting a quartet of people in bright red business suits
+wielding swords and rayguns
+whose brilliant green beams left glassy scorches on the sand.
+
+"Impossible,"
+Santa Hotep wheezed angrily.
+"They can't---"
+
+"They have,"
+Santa Hood snapped.
+"We *really* need to get out of here."
+
+Santa Hotep nodded.
+"This way."
+It shambled off,
+moaning under its breath.<sup>Even though it wasn't actually breathing.</sup>
+
+The chamber was larger than Finner had realized,
+and there were more statues than---
+They froze as one of the statues turned its head.
+"Automated defenses,"
+Santa Hood said without breaking stride.
+"Pretty standard in a place like this.
+I *am* a thief,"
+she added over her shoulder.
+
+Santa Hotep led them to a completely unremarkable patch of the wall.
+"Left...
+left...
+right...
+and ah...
+whoopsie doo..."
+it recited
+as it did a slow shuffling dance.
+With the slightest of scraping sounds
+the enormous stone block in front of it pivoted
+to reveal another passage,
+smaller and narrower than the one they had climbed
+but lit by the same flickering torches.
+
+"After...
+you..."
+The mummy waved them ahead.
+Santa Greenwood squeezed through the opening,
+muttering under his breath.<sup>He *was* actually breathing---rather noisily,
+in fact.</sup>
+Finner followed with Santa Hood on their heels.
+
+Up, up, up they went.
+The passage cut back on itself so often that Finner began to feel dizzy.
+They were just about to ask how much further it was
+when they rounded a final bend and were almost blinded by
+the bright blue square of empty sky in front of them.
+That,
+and the dazzling green beam of a raygun blast.
+
+"Jet packs," Santa Greenwood spat
+"Of *course* they'd have jet packs."
+He leaned to the side and brought his ax
+just in time for the next shot to bounce off its shiny blade.
+
+"Where's the chimney?" Santa Hood demanded as the mummy caught up with them.
+
+"Right...
+in front...
+of you..."
+it wheezed.
+
+"I don't see anything!" Santa Greenwood shouted,
+deflecting another shot.
+And then he bellowed, "AAAAHHH!"
+while Finner and Santa Hood screamed
+because the mummy,
+who turned out to be much stronger than it looked,
+had pushed all three of them out into the empty air.
 
 </section>

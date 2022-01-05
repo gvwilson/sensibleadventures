@@ -560,8 +560,9 @@ a voice behind them moaned,
 "Greeeeeeetings..."
 
 They spun around and found themselves face-to-face with---they weren't quite sure what.
-It was tall and withered and wearing
-the tattered rags of what might once have been a santa's uniform.
+It was tall and withered
+and wrapped in tattered bandages
+made from the rags of what might once have been a santa's uniform.
 Its eyes didn't quite line up,
 and---was that a *bone* of the end of one of its arms
 where there really ought to be a hand?<sup>Even a mechanical hand.
@@ -573,8 +574,7 @@ after what people referred to as "workshop incidents".</sup>
 The burly santa hefted his ax.
 "Friend or foe?" he demanded.
 
-The santa smiled, or more accurately bared its large, yellow teeth.<sup>And
-immediately and forever became "Zombie Claus" in Finner's mind.</sup>
+The santa smiled, or more accurately bared its large, yellow teeth.
 "That depends on...
 whether you brought...
 tea.
@@ -600,7 +600,7 @@ Her uniform had almost completely changed color to match the beige sand under th
 "We had to leave Sensei Tumbly's in rather a hurry."
 
 "Ssss..."
-Zombie Claus hissed with disappointment.
+The mummy santa hissed with disappointment.
 "I suppose...
 you're going...
 to claim...
@@ -613,7 +613,7 @@ The lean santa elbowed her burly companion's ribs to stop him from speaking.
 "Heh.
 Heh.
 Heh."
-Zombie Claus said the words one by one.
+The mummy said the words one by one.
 "No milk...
 or cookies...
 here.
@@ -635,7 +635,7 @@ Which,
 Finner noted dumbly,
 there definitely wasn't.
 
-Zombie Claus hissed again.
+The mummy hissed again.
 "You bring...
 *that*...
 here!?"
@@ -663,7 +663,7 @@ I'm just so tired of running."
 She was exhausted, Finner realized, exhausted and very, very frightened
 but trying hard not to show it.
 
-Zombie Claus hissed sympathetically.
+The mummy hissed sympathetically.
 "I know...
 how...
 you feel...
@@ -676,7 +676,7 @@ Long ago...
 Before *they* came..."
 
 One of the stone cats yowled softly.
-Zombie Claus straightened.
+The mummy straightened.
 "Yes...
 I will...
 grant you...
@@ -713,9 +713,10 @@ there are important differences as well.
 First,
 mummies are generally royalty,
 or the servants of royalty,
-while zombies tend to have been honest, hard-working folk
-who offended the wrong wizard
-or were simply in the wrong place at the wrong time.
+while zombies tend to have been idiots who went into the basement after dark
+despite the strange sounds they heard
+or didn't run fast enough when someone shouted,
+"Look out, they're coming!"
 Second,
 mummies are created through a complex multi-step process
 during which the internal organs and the brain are removed,
@@ -726,42 +727,33 @@ just a...
 fancy word...
 for jars...
 that hold...
-a mummy's bits,"
-Zombie Claus explained as they climbed the stairs
-to an opening in the side of the pyramid
+someone's...
+squishy bits,"
+the mummy explained as they climbed the stairs
+to an entrance in the side of the pyramid
 that was actually quite large
-but appeared quite small given its location.
-"Typical...
-of royalty...
-Making up...
-words...
-to make...
-their things...
-sound...
-special."
+but seemed quite small compared to the pyramid.
 
-"I take it you're not a fan of the upper classes?"
-the lean santa observed.
-
-"Fah,"
-Zombie Claus sneered.
-It was walking quite quickly despite its wheezing,
-forcing Finner to hurry to keep up.
-"Spend all...
-their time...
-building *pyramids*...
-instead of...
-building...
-a more equitable...
-society.
-They deserved...
-what they...
-got."
-
-"And what was that?" the lean santa asked.
-
-Zombie Claus smiled its yellow-toothed smile.
-"Me."
+Third,
+and perhaps most importantly,
+zombies devoured the brains of the living.
+"Or sometimes...
+their livers..."
+the mummy wheezed.
+"It's a...
+cultural...
+thing."
+Mummies,
+on the other hand,
+were strictly vegan:
+*very* strictly,
+since they didn't eat at all.
+"Though...
+we do...
+like a...
+nice cup...
+of tea,"
+the mummy added wistfully.
 
 Two stone cats sat on their haunches at the top of the steps.
 One blinked slowly as they entered the pyramid,
@@ -774,7 +766,7 @@ occur to Finner until much later to wonder about the torches.
 Were they some sort of magical everlasting torch?
 Or were they delivered on Tuesdays and Fridays like the cheese their father was so fond of?
 And why torches rather than lamps?
-The zombie's rags looked awfully flammable...</sup>
+The mummy's rags looked awfully flammable...</sup>
 
 The corridor turned into a ramp,
 which turned left and left again,
@@ -782,7 +774,7 @@ each leg slightly shorter than the one before.
 Just as Finner realized they were climbing the inside of the pyramid
 they reached their destination.
 "Voila,"
-Zombie Claus wheezed,
+the mummy rasped,
 waving them forward proudly.
 
 To call the chamber they entered a "room" would have been like calling the pyramid "large".
@@ -801,7 +793,7 @@ and a stack of magazines.
 
 "Please...
 sit down..."
-Zombie Claus told them,
+the mummy told them,
 gesturing at a matched pair of blue-and-gold striped couches.
 "I know...
 it's not...
@@ -810,13 +802,13 @@ to look at...
 but..."
 
 "Oh, it's amazing," the lean santa said
-when the zombie's pause stretched longer than usual.
+when the mummy's pause stretched longer than usual.
 "And I *love* what you've done with the side tables."
 
 "I...
 refinished those...
 myself,"
-Zombie Claus said proudly.
+the mummy said proudly.
 "Here...
 let me...
 show you...
@@ -843,7 +835,89 @@ after trying and filing twice to screw up enough courage to speak.
 And,
 um,
 how I can get home from here?
-Because I think I'd rather like to do that,
-if that's all right."
+Because I'd like to do that.
+if that's all right,"
+they added hastily.
+
+"You can't get there from here,"
+the lean santa said,
+setting aside the filigree tea tray
+that the mummy had casually mentioned was
+an antique<sup>By the standards of the living, anyway.</sup>
+"Emergency chimneys are one-way.
+But I'm sure Sensei Tumbly is all right,"
+she added.
+"She's a tough old bird."
+
+"Tough as they come," the burly santa agreed, nodding.
+"Why, there was this time---"
+
+"Why do you keep calling her that?"
+Finner interrupted angrily.
+"And where *are* we?
+And would you *please* tell me what's going on,
+and who you are?"
+
+The three santas exchanged looks.
+The lean santa sighed.
+"I'm Peri.
+This is Lothar, and...?"
+
+"Santa Hotep,"
+the mummy supplied.
+
+"And you're what, from an alternate universe?"
+Finner asked.
+"I'm not stupid," they added when Santa Peri raised an eyebrow.
+
+"Alternate *universes*," she corrected.
+"We're each the santa in our world.
+Most only have one,"
+she explained before Finner could ask.
+
+"That sounds kind of lonely,"
+was all Finner could think to say.
+
+Santa Peri shrugged.
+"It works out.
+Some of the science elves think we're actually why different universes exist.
+Every santa that can be, must be, so..."
+She shrugged again.
+
+"So what kind of santa are you?"
+Finner asked.
+
+"I'm Santa Hood," she said proudly.
+"Every New Year's Eve I steal presents from the rich and give them to the poor.
+And where Lothar comes from, he's called the Forest Claus."
+
+"Let me guess: you chop down trees and everyone gets firewood as a gift?"
+Finner said.
+
+There was an awkward silence.
+"Not quite,"
+Santa Lothar rumbled.
+"I bring gifts for the trees.
+The ax is for chopping down anyone who tries to hurt them."
+
+"I haven't...
+brought anyone...
+a gift...
+in years,"
+Santa Hotep wheezed wistfully.
+"After...
+the oasis...
+dried up...
+they all...
+moved away.
+It's peaceful...
+but...
+I do...
+miss the work...
+sometimes."
+
+Peri (or Santa Hood, Finner reminded themself) patted Santa Hotep's hand.
+"Well, you've certainly kept yourself busy.
+This place is *amazing*."
 
 </section>

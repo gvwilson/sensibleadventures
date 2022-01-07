@@ -403,9 +403,9 @@ sounding just a little bit proud.
 
 "It was the Suits," the burly santa said,
 wiping his eyes on a sleeve that Finner could have used as a sleeping bag.
-"The elves were helping me load up the stagecoach for the weekly delivery,
+"The elves were helpin' me load up the stagecoach for the weekly delivery,
 just like they always do,
-and then blam!"
+an' then blam!"
 He smacked a meaty fist into an equally meaty palm.
 "There they were,
 all over us.
@@ -868,7 +868,7 @@ the mummy supplied.
 
 "And you're what, from an alternate universe?"
 Finner asked.
-"I'm not stupid," they added when Santa Peri raised an eyebrow.
+"I'm not stupid," they added when Santa Hood raised an eyebrow.
 
 "Alternate *universes*," she corrected.
 "We're each the santa in our world.
@@ -898,7 +898,7 @@ they asked Santa Greenwood.
 "No,"
 the burly man growled.
 "The gifts are for the trees.
-The ax is for chopping down anyone who tries to hurt them."
+The ax is for choppin' down anyone who tries to hurt 'em."
 
 "I haven't...
 brought anyone...
@@ -916,7 +916,7 @@ I do miss...
 the unwrapping...
 sometimes."
 
-Peri (or Santa Hood, Finner reminded themself) patted Santa Hotep's hand.
+Santa Hood patted the mummy's hand.
 "Well, you've certainly kept yourself busy.
 This place looks *amazing*."
 
@@ -1034,9 +1034,115 @@ it wheezed.
 "I don't see anything!" Santa Greenwood shouted,
 deflecting another shot.
 And then he bellowed, "AAAAHHH!"
-while Finner and Santa Hood screamed
-because the mummy,
-who turned out to be much stronger than it looked,
-had pushed all three of them out into the empty air.
+because the mummy
+(who turned out to be much stronger than it looked)
+pushed all three of them out into the empty air
+where they fell screaming to their deaths.
 
 </section>
+<section markdown="1">
+
+## Episode 5: In Which We Learn That "Hero" Depends on Your Point of View
+
+At least,
+that's what Finner expected would happen
+in the heart-stopping second before the universe shifted around them again
+like one of those "see it both ways" puzzles
+and the desert was an ocean,
+a beautiful blue ocean with waves instead of dunes.
+
+Santa Greenwood made the biggest splash:
+between his size and hitting the water in a spread-eagle bellyflop,
+he actually, briefly, made a dent in the water.
+Finner had only a moment to admire how Santa Hood tucked in her elbows
+and clutched her sack to her chest
+before plunging into the water as gracefully as a seahawk diving for fish
+before they discovered the hard way that the water was very, very cold.
+
+They spluttered to the surface,
+thrashing their arms against the weight of their suddenly-sodden coat.
+It was heavy,
+and their boots felt like concrete blocks on their feet.
+"Help!" they spluttered.
+
+"Periwinkle!" Santa Greenwood roared.
+
+"I'm working on it!" Santa Hood shouted back.
+She pulled something bright orange out of her sack.
+With a sharp *pop!* and a hissing sound it began to inflate.
+
+"Be careful with your stupid ax!" she yelled at Santa Greenwood
+as she tossed her sack and then her coat into the little dinghy.
+
+"I'm bein' careful! And it ain't stupid!" the burly santa yelled back.
+A dozen powerful one-armed strokes
+and they dragged themselves up onto the dinghy,
+nearly flipping it over in the process.
+
+Finner was too busy not drowning to really notice this, though.
+They'd managed to kick off one boot<sup>Their mother always
+told them to do up their laces properly so they didn't trip and break their neck.
+It had never occurred to them to say,
+"But what if I fall into another universe and need to kick them off so I don't drown?"</sup>
+and were struggling to unbutton their coat
+when Santa Hood popped up beside them like an otter and said,
+"Easy, easy, let me do that."
+
+Panting and kicking furiously to stay afloat,
+Finner squelched their panic long enough
+for Santa Hood's deft fingers to undo their buttons
+and hold the sleeves so that Finner could pull out their arms.
+The heavy blue coat floated away,
+taking with it a handkerchief,<sup>Santas don't blow their noses on tissue paper.
+That's for wrapping presents.</sup>
+a folded piece of paper with a game of Hangman on it
+left over from a particularly boring art class at school,
+and a mostly uneaten piece of toffee.
+
+A few moments later Santa Hood boosted Finner into the dinghy
+and then pulled herself over the gunwale as well.
+"Y'aright?"
+Santa Greenwood asked,
+wringing seawater out of his beard.
+He had a bit of seaweed in his hair,
+Finner noticed.
+And there was a ship behind him.
+
+"There's a ship," they said, pointing.
+
+"G-g-good,"
+Santa Hood said, shivering.
+"I was afraid this might b-b-be one of those worlds
+where the ch-ch-chimney connects to a lost city."
+
+"Heh.
+You remember Santa Kraken?"
+Santa Greenwood shook himself like a very large dog
+and laid his ax across his knees.
+
+Santa Hood forced a smile,
+her teeth chattering.
+"Don't you have something in your sack to keep you warm?"
+Finner asked,
+hoping the answers would be "yes" and "I have a spare".
+
+But Santa Hood shook her head.
+"Used it al-already."
+
+Santa Greenwood frowned,
+glaring at the ocean as if a billion liters of salt water could be intimidated.
+"Well,
+we'd best figure somethin' out quick
+or we're gonna be in real trouble."
+
+A moment later there was a distant *crack!*
+like someone snapping a piece of wood over their knee.
+A moment after that,
+a cannonball whistled over their heads and splashed into the water behind them.
+
+</section>
+
+<!--
+What did the pirate say on his eightieth birthday?
+"Aye Matey!"
+-->

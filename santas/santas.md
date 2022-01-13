@@ -1127,18 +1127,174 @@ Finner asked,
 hoping the answers would be "yes" and "I have a spare".
 
 But Santa Hood shook her head.
-"Used it al-already."
+"Used it a c-couple of chimneys ago."
 
-Santa Greenwood frowned,
-glaring at the ocean as if a billion liters of salt water could be intimidated.
+Santa Greenwood glared at the ocean
+as if a billion liters of salt water could be intimidated.
 "Well,
 we'd best figure somethin' out quick
-or we're gonna be in real trouble."
+or we're gonna be in some serious trouble."
 
-A moment later there was a distant *crack!*
+Right on cue,
+a triangular gray fin sliced through the water beside them.
+"Is there a Santa Shark?" Finner asked weakly,
+hoping the answers would be "yes" and "it's actually very friendly".
+
+Santa Hood shook her head.
+"I'm af-fraid not," she said grimly,
+her teeth still chattering.
+"Sh-sharks take everything they c-can
+and never g-give *anything* back.
+Be c-careful with that!" she snapped
+as Santa Greenwood hefted his ax.
+
+"I'm bein' careful!" Santa Greenwood said,
+and then three things happened more or less simultaneously:<sup>Whether
+or not things happen at the same time depends in part on who you are.
+If you're a helium atom,
+for example,
+you can expect to exist for billions of years,
+so "at the same time" includes pretty much all of human civilization so far.</sup>
+
+1.  A second, larger gray fin appeared in the water beside them;
+
+2.  the edge of Santa Greenwood's ax brushed against the dinghy's rubber gunwale; and
+
+3.  a cannonball whistled over their heads and splashed into the water behind them.
+
+A moment later Finner heard a distant *crack!*
 like someone snapping a piece of wood over their knee.
-A moment after that,
-a cannonball whistled over their heads and splashed into the water behind them.
+"Look out!" they shouted instinctively as:
+
+1.  air began feeping<sup>Some worlds have invented words that others would do well to borrow,
+    like the *eeeee* sound that air makes as it escapes from a pinched balloon neck
+    (or a rubber dinghy) is called "feeping" in Finner's world.
+    Our world's contribution to this exchange would be "phlegm",
+    which is another word that sounds exactly like the thing it describes.</sup> out of the dinghy;
+
+2.  the larger gray fin changed course to head straight for them; and
+
+3.  a second cannonball whistled overhead,
+    followed by a somewhat less distant *crack!*
+    as the sound of it being fired caught up it.
+
+Santa Greenwood stood up,
+nearly causing the others to spill into the ocean
+as the dinghy rocked dangerously.
+"Come on, Periwinkle, gimme something!" he roared.
+"Chili grenades! Tangle muffins! Anything!"
+
+"I'm out!" Santa Hood,
+her arm deeper in her sack than basic physics should have allowed.<sup>Basic physics
+was actually quite uncomfortable about this,
+but nobody thought to ask it.
+Quantum physics would have just said, "Whatever, dude."</sup>
+
+"Look!" Finner shouted, pointing,
+as a pair of black sails crested the horizon.
+A ship appeared beneath them,
+a wooden ship painted the same menacing color as the sails.
+There was an orange flash on her<sup></sup> deck
+and a moment later a third cannonball hit the water
+between the dinghy and the circling gray fins.
+
+"Ya gormless nabblers!" Santa Greenwood bellowed,
+shaking his ax at them so hard
+that he lost his footing.
+Finner grabbed his belt instinctively to stop him from falling out of the dinghy
+and was nearly pulled out himself.
+"Why don'tcha come here an' try that, eh?"
+
+Another orange flash, another cannonball.
+The ship was close enough now that Finner could see
+crew in the rigging and on the deck
+shouting and waving.
+"Wait! They're not shooting at us!"
+Finner exclaimed.
+"They're shooting at the sharks!"
+
+"Or they just can't aim!"
+Santa Hood snapped,
+her arm still deep in her sack.
+
+And then the smaller gray fin decided it was now or never
+and changed course and raced toward them,
+the shark beneath it a menacing dark bulk just below the surface.
+Finner could feel the dinghy softening beneath his bootless foot
+as Santa Greenwood tried to stand up again
+and Santa Hood ducked so as not to be beheaded by the ax
+he really wasn't being very careful with,
+actually,
+and then she said, "Got it!" and pulled something out of her sack and threw it.
+
+There was a loud bang.
+Sea water splattered all over them.
+Finner's eyes immediately began  itching and streaming.
+"One last ch-chili bomb," Santa Hood said.
+
+"Ahoy!" a distant voice called as the two gray fins turned and fled.<sup>Or rather,
+decided *quite independently of their changed circumstances*
+that it was a good time to pursue other opportunities,
+because sharks *never* "flee".</sup>
+"Might ye be in need of assistance there?"
+
+Santa Greenwood's face fell.
+"Oh, not him," he muttered.
+"Anyone but him."
+
+"Who?" Finner and Santa Hood asked simultaneously.
+She glanced at Finner and shrugged.
+"I don't know *everyone*," she said defensively.
+
+The black ship came up beside them.
+Rope ladders already hung over her side,
+each with a sailor hanging from it with their arm outstretched.
+One, two, and *three* (Santa Greenwood being rather heavy)
+and the dinghy was left empty in the ship's wake.<sup>The dinghy
+rather appreciated having some time to itself,
+what with the first few minutes of its inflated existence
+being so full of new experiences.
+Then it sank,
+which only goes to show---something.</sup>
+
+Finner clambered up the rope ladder and on to the deck.
+Given recent events,
+they were completely unsurprised to find themself face-to-face with another santa.
+But what a santa:
+between the eyepatch,
+the skull earrings,
+the peg leg,
+the parrot (with a peg leg of her own)
+and the very large and very sharp cutlass in his hands,
+*this* was the kind of santa other santas dreamed of growing up to be.
+
+"Well, ain't you the lucky ones?" the santa boomed,
+a twinkle in his eye.
+"Us happenin' along just now an' all.
+Coulda been mighty dicey there, mighty dicey indeed."
+
+"We were doin' all right," Santa Greenwood muttered sullenly.
+
+"Aye, I could see that," the pirate santa said,
+straight-faced.
+"Ah, but where's me manners?
+I'm Cap'n Clausbeard,
+an' this is my crew."
+He waved his sword to include the dozen figures
+now standing around and behind the new arrivals,
+all of whom just happened to have sharp implements or thuddy things<sup>I.e.,
+things that go "thud" when they hit you.</sup>
+in their hands.
+
+"This is Santa Hood,"
+Santa Greenwood said reluctantly.
+"And Figleaf---they're Miss Tumbly's."
+
+"It's Finner," Finner corrected automatically,
+No-one noticed.
+
+Santa Greenwood sighed heavily and gestured at Captain Clausbeard.
+"Folks---this is my dad."
 
 </section>
 

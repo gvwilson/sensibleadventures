@@ -1194,7 +1194,7 @@ Quantum physics would have just said, "Whatever, dude."</sup>
 as a pair of black sails crested the horizon.
 A ship appeared beneath them,
 a wooden ship painted the same menacing color as the sails.
-There was an orange flash on her<sup></sup> deck
+There was an orange flash on her deck
 and a moment later a third cannonball hit the water
 between the dinghy and the circling gray fins.
 

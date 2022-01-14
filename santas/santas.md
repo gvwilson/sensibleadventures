@@ -1042,7 +1042,7 @@ where they fell screaming to their deaths.
 </section>
 <section markdown="1">
 
-## Episode 5: In Which We Learn That "Hero" Depends on Your Point of View
+## Episode 5: In Which Our Protagonist Is Rescued at the Last Moment
 
 At least,
 that's what Finner expected would happen

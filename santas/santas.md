@@ -24,10 +24,12 @@ footnotes: true
 but it's not.
 It's about right and wrong and revolution,
 about true love and not-so-true love,
-and about the right way to make and drink tea.
+and about how by the time you go home,
+it isn't really home any more.*
+
+*There's one kiss and quite a few explosions.
 The footnotes are there to lighten things up:
-feel free to laugh out loud and share them with friends
-to distract yourself during the scary bits.*
+feel free to laugh out loud to distract yourself during the scary bits.*
 
 </section>
 

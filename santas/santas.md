@@ -18,6 +18,21 @@ footnotes: true
 
 <section markdown="1">
 
+## A Warning from the Author
+
+*You probably think this is a Christmas story because of the santas,
+but it's not.
+It's about right and wrong and revolution,
+about true love and not-so-true love,
+and about the right way to make and drink tea.
+The footnotes are there to lighten things up:
+feel free to laugh out loud and share them with friends
+to distract yourself during the scary bits.*
+
+</section>
+
+<section markdown="1">
+
 ## Episode 1: In Which We Meet Our Protagonist
 
 Once up on a time,

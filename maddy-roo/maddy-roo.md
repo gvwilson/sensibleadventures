@@ -98,7 +98,7 @@ and built for comfort rather than defense.
 One of these belonged to Special Leaf,
 the only tortoise within a hundred kays and the village's oldest resident by far.
 
-Maddy would never forget the first time her mother and father took her to the special's house.
+Maddy would never forget the first time her mother and father took her to the Special's house.
 "Don't be afraid," they comforted her,
 not realizing that she hadn't been until they said that.
 But when Special Leaf opened his front door and smiled at them
@@ -110,10 +110,15 @@ and her nervousness vanished.
 The old tortoise chuckled.
 Like all reptile people he was completely bald,
 but his smile was as warm as a freshly-baked biscuit.
-"As real as you are."
-He ushered her in
-and handed her a tattered old picture book
-that just happened to be lying on a rocking chair that looked even older than him.
+"As real as you are.
+Here, hold this a moment."
+He took a dull cube of glass off a side table and handed it to her.
+Perplexed,
+Maddy opened her mouth to ask what she was supposed to do,
+but before he could he said,
+"Oh, here they are,"
+and replaced the glass with a tattered old picture book
+from a stack on a rocking chair that looked even older than him.
 "Would you like to borrow this one?
 There are lots of others."
 She walked out of the house with an armload of books and stars in her eyes,
@@ -134,7 +139,7 @@ The old tortoise was snoring in his rocking chair when they arrived,
 so they placed their books quietly on the table beside him
 and picked two more each from the shelves.
 Maddy glowered at Gumption when he pointed at the top shelf
-the special said they weren't old enough to read yet.
+the Special said they weren't old enough to read yet.
 "Kidding," he mouthed silently.
 Maddy swished her tail in annoyance and shooed him outside.
 
@@ -286,7 +291,7 @@ He looked as peaceful as a log floating down river
 with his little round glasses perched on his nose,
 but the goat brothers unclenched their paws.
 
-The special held a sheet of paper out to Maddy.
+The Special held a sheet of paper out to Maddy.
 "I think you dropped this."
 
 "Thanks," Maddy said.
@@ -297,18 +302,18 @@ to take back the sketch she had left behind.
 the tortoise continued.
 "Your father would be very proud of you."
 
-"Thanks," Maddy repeated.
+"Thanks," Maddy said again.
 
 The silence that followed stretched and stretched until finally Bluster broke it.
 "C'mon," he said to his brother,
 a surly look on his face.
-With the barest of nods to the special they walked away,
+With the barest of nods to the Special they walked away,
 in step as always.
 
 "They're *stinkers*," Sindy pronounced, wrinkling her nose.
 
 Maddy let out a relieved breath.
-"Yes they are. Thank you," she told the special a third time.
+"Yes they are. Thank you," she told the Special a third time.
 
 The tortoise smiled.
 "You're welcome---it would have been a shame to lose such a nice drawing.
@@ -335,10 +340,10 @@ She remembered it each time she opened the bigger-than-usual front door
 and entered the house's larger-than-most-people front hall.
 "Mama!" she called.
 "We're home!
-And the special's come with!"
+And Special Leaf's come with!"
 
 Mama Roo poked her head out of the kitchen.
-"Heya, special. Heya, Gumption."
+"Heya, Special. Heya, Gumption."
 
 "Ma'am." "Heya, Mama Roo." they answered
 as Sindy bounced down the hallway for a hug.
@@ -711,8 +716,9 @@ Its lenses rotated one way and then the other.
 "This appears to have been programmed not to divulge your location,
 but that is illogical if it is *your* location."
 
-"What are you doing here?" Maddy burst out.
-"We don't get many bots in these parts,
+"What are you *doing* here?" Maddy burst out.
+"I mean,
+we don't get many bots in these parts,
 and most of 'em are rogues,
 but you don't act like any rogue I ever heard of."
 
@@ -735,7 +741,8 @@ It froze again.
 This now appears to be able to circumvent some of that programming.
 Curious."
 
-Without any more warning than that it reached up and plucked one of its lenses from its head.
+Without any more warning than that it reached up
+and plucked one of its lenses out of its head.
 "Eww," Maddy said involuntarily
 as the bot twisted it arm around to point the lens at its back,
 the thin coiled wire that ran between the lens and the bot's head stretching taut.
@@ -761,7 +768,7 @@ locally referred to as 'Rusty Bridge',"
 the bot reported.
 "However,
 now that this unit's regulator is no longer operating,
-this will not take part in that attack."
+this will chooses not to undertake that mission."
 
 "Wait---a sneak attack?"
 Maddy demanded.
@@ -1169,7 +1176,7 @@ Sindy complained.
 
 "Well, speaking of trouble."
 Mama Roo raised her paw and waved.
-"Evening, special!
+"Evening, Special!
 Join us for a spell?"
 
 As if summoned by his name,
@@ -1181,11 +1188,11 @@ Evening, all.
 Warm one tonight."
 
 "It is," Mama Roo agreed politely.
-"But special, there's trouble."
+"But Special, there's trouble."
 She quickly summarized the children's story.
 
 "And it called this a regulator?"
-the special asked,
+the Special asked,
 turning the black box over and over in his wrinkled paws.
 
 "Yup," Gumption confirmed.
@@ -5515,7 +5522,7 @@ The bot began rocking from side to side to shake her off.
 "Disassemble her! Disassemble her!" Patient shouted manically.
 
 Lasercase scuttled forward,
-its tentacles snapping at her.
+snapping its tentacles at her.
 "Wait! Stop!"
 Maddy said desperately.
 "I can free you!"
@@ -5673,8 +5680,11 @@ Maddy ruffled her sister's hair.
 she said fondly.
 
 Special Leaf cleared his throat.
-"Speaking of which, do you mind if we try an experiment?"
-He reached into his pocket and pulled out a palm-sized glass hemisphere.
+"And having it work.
+Here---do you mind if we try an experiment?"
+He fished around in his pocket
+and took out the dull cube of glass that Sindy had seen on his desk
+each time she went to get another book to read.
 
 "What am I supposed to do with it?" Sindy asked
 as he held it out to her.
@@ -5705,9 +5715,7 @@ setting a tray of cookies carefully on the porch railing.
 "Some folks use a different word,"
 Special Leaf said.
 "They call people like you 'originals'.
-You, young lady, might just have a very rare gift.
-It could be that you can use all the tech the Makers left behind,
-not just odds and ends like the mayor's zap gun."
+You, young lady, just might be the most special kind of special there is."
 
 The three roos gaped at him.
 "I beg your pardon?" Mama Roo said.
@@ -5715,11 +5723,11 @@ The three roos gaped at him.
 The tortoise picked up his cup of tea.
 "It's very rare," he said,
 quiet but excited.
-"And it's not a special talent like mine.
-Nobody really knows *what* it is,
-but if I'm right,
-it's why the tech in the bunker worked for you
-when it wouldn't work for your sister."
+"But if I'm right,
+that's why the tech in the bunker worked for you
+when it wouldn't work for your sister.
+You can use all the tech the Makers left behind,
+not just odds and ends like the mayor's zap gun."
 
 "Plausible," Dockety buzzed.
 "Improbable events have occurred with surprising frequency."

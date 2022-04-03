@@ -28,8 +28,9 @@ and about how by the time you go home,
 it isn't really home any more.*
 
 *There's one kiss and quite a few explosions.
-The footnotes are there to lighten things up:
-feel free to laugh out loud to distract yourself during the scary bits.*
+The footnotes are there to lighten things up;
+if you need a someone to hold your hand during the scary bits,
+tough luck---I'm just a book, and we don't have hands.*
 
 </section>
 

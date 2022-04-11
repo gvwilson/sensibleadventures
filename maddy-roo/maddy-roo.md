@@ -1223,7 +1223,7 @@ A goat with his shirt half-buttoned ran up to them, panting.
 "Where's the mayor?
 Where's Mayor Lupus?"
 
-"He's gone along by the Ox brothers," Mama Roo answered.
+"She's gone along by the Ox brothers," Mama Roo answered.
 "Why? What's wrong?"
 
 The goat gulped.

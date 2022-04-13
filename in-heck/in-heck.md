@@ -58,16 +58,90 @@ was draining properly for the first time in who knew how long,
 and there wasn't a dull pair of scissors in the whole village.
 
 "I'd just feel more comfortable about it if they'd let us pay them,"
-someone sighed.
+Mama Tumbly sighed.
 "Makes me uncomfortable, taking charity from a bot."
 
 Mayor Lupus swallowed the last of her tea and tipped the dregs into the planter by her elbow.
-"I reckon they figure being allowed to settle in beside us is payment enough," she said.
+"I reckon they figure being allowed to settle in beside us is payment enough," she said conversationally.
 "Between that and getting a look at whatever salvage comes down the river,
 I imagine they've got everything they want and a lot more than they used to have.
 And if any trouble shows up, well..."
-She thumped her gnarlywood cane on the porch,
-not needing to say that fighting bots was a lot easier when you had bots on your side.
+She rapped her gnarlywood cane against her mechanical leg.
+"Fighting bots is a lot easier when you have a few on your side."
+
+Mama Tumbly's whiskers twitched slightly under the rebuke.
+She had run for mayor the year before,
+but had won even fewer votes than Mayor Lupus's previous challenger.
+"A lot of folks do think it's time for a change,"
+Mama Roo had explained to Maddy,
+"But if she's the only other choice, they'd rather wait."
+
+"Anyway, there it is, right on time,"
+Mayor Lupus said, pointing as the boxy mailbot came into view.
+Eighty-Eight Able-Six ("but call me Able") looked like three metal boxes
+perched preciously on top of one another
+with two spoked cartwheels in the rear
+and a single smaller wheel up front.
+Its arms were mis-matched,
+and like many of the bots who had come to Rusty Bridge
+it had patches and welds where it had been mended over the years,
+but somewhere along the way it had learned how to whistle,
+and someone had made it a blue hat with a little tin badge
+and it was quite possibly the happiest bot in the world.
+
+Able bumped across the cobblestones,
+braked,
+backed up,
+turned,
+and doffed its hat.
+"Good morning, one and all," it said jauntily,
+reaching back with its other arm to open a hatch in its side.
+"Got letters, got parcels, even got a newspaper from Sandy Bend."
+Its periscope eyes swivelled one way and another as it began handing out what it had brought.
+
+Someone bumped Maddy's elbow.
+"Hey,"
+Gumption said.
+
+"Hey," she said back.
+He had slicked back his fur again like some of the older goats, she noticed.
+It made them look tough,
+but on Gumption---she sighed to herself.
+It had taken him months to heal after the bots had attacked.
+Once he was back on his feet he'd started using the punching bag
+in the yard beside the village school
+and doing militia drills with a home-made pike.
+Secretly she had hoped this would be the summer they went blackberry picking together,
+just the two of them,
+but "together" seemed to be the last thing on his mind.
+
+Gumption jerked his chin at the mailbot.
+"Anything for you?"
+
+She was about to say, "Not yet,"
+when Able called her name.
+She traded a square glass penny for a letter in a plain brown envelope.
+"Miz Madalena Roo, Resident in Rusty Bridge" was written in careful square letters on the front,
+and a blue circle with Able's dot-and-dash ID inside it showed that it had been collected in good order.
+
+Maddy took a deep breath.
+"Well? You going to open it?"
+Gumption asked.
+
+She shook her head.
+"Not here.
+You want to go look in on Shaper Leaf?"
+
+Gumption shrugged.
+"Sure.
+Sindy doing one of her special lessons?"
+
+Maddy glanced around involuntarily,
+but nobody was listening.
+Only a handful of people and bots knew about her sister's special ability,
+and Shaper Leaf was adamant that they keep it that way as long as they could.
+"Never borrow trouble from tomorrow," he had said firmly
+when Mama Roo had suggested that they at least let the mayor know.
 
 - Maddy's PoV
 - Open with arrival in town of the mailbot Eighty-Eight Able-Six

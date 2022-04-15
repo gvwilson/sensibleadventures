@@ -70,7 +70,7 @@ She rapped her gnarlywood cane against her mechanical leg.
 "Fighting bots is a lot easier when you have a few on your side."
 
 Mama Tumbly's whiskers twitched slightly under the rebuke.
-She had run for mayor the year before,
+She had run for mayor one summer,
 but had won even fewer votes than Mayor Lupus's previous challenger.
 "A lot of folks do think it's time for a change,"
 Mama Roo had explained to Maddy,
@@ -82,7 +82,7 @@ Eighty-Eight Able-Six ("but call me Able") looked like three metal boxes
 perched preciously on top of one another
 with two spoked cartwheels in the rear
 and a single smaller wheel up front.
-Its arms were mis-matched,
+It only had one arm,
 and like many of the bots who had come to Rusty Bridge
 it had patches and welds where it had been mended over the years,
 but somewhere along the way it had learned how to whistle,
@@ -136,12 +136,137 @@ Gumption shrugged.
 "Sure.
 Sindy doing one of her special lessons?"
 
+"Ssh!"
 Maddy glanced around involuntarily,
 but nobody was listening.
 Only a handful of people and bots knew about her sister's special ability,
 and Shaper Leaf was adamant that they keep it that way as long as they could.
 "Never borrow trouble from tomorrow," he had said firmly
 when Mama Roo had suggested that they at least let the mayor know.
+
+Gumption shrugged again.
+"Sorry," he muttered,
+and then,
+"Hey---look!"
+
+Heads turned.
+A murmur ran through the crowd.
+"What in tarnation?" Able whistled
+as two bots came toward them
+with a pair of muddy, sullen goats between them.
+Dockety was in the lead,
+its mis-matched arms swinging as it marched toward the crowd.
+Its companion Crusher brought up the rear on its heavy treads,
+and in between---
+
+"Are those boys *tied up*?"
+Mama Tumbly gasped,
+her ears standing straight up in shock.
+
+"Let me handle this," Mayor Lupus said sharply as the murmuring turned to muttering.
+The crowd parted to let her through,
+her cane rapping on the cobblestones with every second step.
+
+"Morning," she said loudly.
+"I thought Able had brought all the mail,
+but it seems like you have something for us as well."
+
+The lenses on the front of Dockety's head rotated a quarter turn
+and then snapped back into position
+with a faint *zick zick*.
+"These ones were apprehended
+while attempting to take possession of items that do not belong to them,"
+it said,
+its voice buzzing slightly.
+"We request punitive measures be taken to deter a repeat of such attempts."
+
+Mayor Lupus sucked in her cheeks.
+"Is that right, boys?
+You were caught stealing?"
+
+"We weren't stealin'!"
+Bluster said vehemently.
+"We were just tryin' to find out if they've been hidin' stuff from everyone,
+and we did!
+They got weapons stashed away!
+All kinds of them!"
+
+"Hush up!" Mayor Lupus said sharply to the villagers around her.
+"That's a pretty serious accusation, Bluster Goat.
+You best be sure of your ground before you go making it."
+
+"Bravo seen 'em too," Bluster said.
+His twin brother nodded vigorously.
+"Big pile of stuff in one of those sheds they built,
+all laid out with tools and wires and stuff."
+
+"Those are not weapons,"
+Dockety buzzed.
+"They are spare parts.
+Many of us still require repairs."
+
+"Spare parts my tail!" Bluster said hotly.
+"They got a thing looks like a zap gun,
+and a buzz saw blade and all kinds.
+They put 'em all together one night while we're sleepin'
+and we'll all be in cage carts by sun-up!"
+
+"Dockety?
+Any of that true?"
+the mayor asked conversationally,
+but Maddy saw the way her ears flattened.
+
+The bot's lenses rotated back and forth.
+"These ones possess several saw blades," the bot acknowledged.
+It gestured at Crusher.
+"This one has been using one of them to clear brush,
+and it needed sharpening."
+
+"And the zap gun?"
+
+"It is not operational," Dockety said.
+"But if we are able to repair it,
+we will use it only for defensive purposes."
+
+"Says *you*," someone said just loudly enough to be heard.
+
+Mayor Lupus raised a hand to quell the muttered replies.
+"Operational or not,
+it would have been neighborly of you to let us know you had that."
+
+"Noted," Dockety said.
+
+"And you two,"
+the mayor continued,
+turning a cold glare on the goat twins.
+"It's not your business to be poking around in other folks' business.
+No,
+no,
+don't interrupt me,
+I'm not done.
+They all have just as much right to be here now as anyone,
+and more than you do if you keep practicing nonsense like this.
+You're both on ditch duty for the next month,
+and if I so much as sniff a whiff of you doing something this lump stupid again,
+I promise you'll be looking back on ditches like they were your first summer love.
+You both have that straight?"
+
+Bluster opened his mouth to protest,
+but snapped it shut when Bravo kicked the side of his leg.
+"Yes'm," he said sullenly.
+
+"Yes'm," Bravo echoed.
+
+"All right then.
+Untie them---they won't bother you again."
+
+"Thank you."
+Bluster took an involuntary step back as Dockety spun around,
+then glared at the bot as its mis-matched hands undid the knots
+that held his arms in place.
+
+"Come on," he said to his brother
+once the other goat was free.
 
 - Maddy's PoV
 - Open with arrival in town of the mailbot Eighty-Eight Able-Six

@@ -31,7 +31,7 @@ permalink: /in-heck/
   - Foreshadows later revelation that he was once one of the most feared Prosecutors in the territory
 - A short "trial" leads to the weapons being confiscated over Dockety's objections
   - Dockety: "Patient will return. We will defend ourselves. And you."
-  - Shaper Blazes: "I figure townsfolk'll defend their homes, don't you worry."
+  - Shaper Blazes: "I figure townsfolk can defend their homes, don't you worry."
   - Mama Roo (later): "He's right, you know. We'll protect you."
   - Dockety: "That is not what he said. He said you would defend your homes."
 

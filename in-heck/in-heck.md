@@ -42,7 +42,7 @@ Your daddy would be pleased."
 
 "Thank you," Maddy mumbled.
 The mayor had a way of looking at people that made them feel like she could read their mind.
-Shaper Leaf said that wasa big part of why she'd been re-elected so many times:
+Special Leaf said that was a big part of why she'd been re-elected so many times:
 everyone who even thought about running against felt guilty just thinking about it.
 
 They waited on the steps of the mayor's house as a handful of people gathered
@@ -130,7 +130,7 @@ Gumption asked.
 
 She shook her head.
 "Not here.
-You want to go look in on Shaper Leaf?"
+You want to go look in on Special Leaf?"
 
 Gumption shrugged.
 "Sure.
@@ -140,7 +140,7 @@ Sindy doing one of her special lessons?"
 Maddy glanced around involuntarily,
 but nobody was listening.
 Only a handful of people and bots knew about her sister's special ability,
-and Shaper Leaf was adamant that they keep it that way as long as they could.
+and Special Leaf was adamant that they keep it that way as long as they could.
 "Never borrow trouble from tomorrow," he had said firmly
 when Mama Roo had suggested that they at least let the mayor know.
 
@@ -265,19 +265,97 @@ Bluster took an involuntary step back as Dockety spun around,
 then glared at the bot as its mis-matched hands undid the knots
 that held his arms in place.
 
-"Come on," he said to his brother
+"Let's get out of here," he snapped at his brother
 once the other goat was free.
+They stalked off side by side,
+their boots clomping in time on the cobblestones.
 
-- Maddy's PoV
-- Open with arrival in town of the mailbot Eighty-Eight Able-Six
-  - One of the bots that came with Dockety, now doing package deliveries between towns
-  - Gets all of the characters into the central square for background setting
-- Bots arrive with Bluster and Bravo, who were caught trying to steal weapons from the bots who now live in Rusty Bridge
-  - People are uncomfortable seeing anyone held/caged by the bots (too many bad memories of raids)
-- Loud confrontation sets up:
-  - The uneasy cohabitation ("You know they call us 'breathers'?" "Well, we call them worse.")
-  - Sindy's secret lessons (she and Shaper Leaf arrive together - cover story is that she's helping him with his books because his eyes are failing)
-  - The awkwardness between Maddy and Gumption (Mama Roo's gentle teasing does *not* go over well)
-  - Maddy's helplessness believing that her father is alive but nobody being willing to try to save him
-  - See Mouse briefly (Gumption says, "Look, you saved *it*")
-- Mayor Lupus shakes her head: anything involving weapons is a matter for the Prosecutors
+"Those two make me *so* mad!"
+Maddy grouched to Gumption as the crowd began to break up.
+"They'd both be chained up in Heck or worse
+if it weren't for Dockety and the others."
+
+"I guess,"
+Gumption said noncommittally,
+scuffing his boot on the cobblestones.
+
+"You don't think so?"
+Maddy demanded hotly.
+
+"I didn't say that!"
+Gumption protested.
+"But---Mama Tumbly was by for tea yesterday,
+and she and my ma and pa were all saying that
+we don't really know much about them.
+I'm not not saying I agree,"
+he added hastily,
+anticipating Maddy's outrage.
+"But she was saying---Mama Tumbly, I mean---that they call us 'breathers'."
+
+"Well we call 'em a lot worse than that,"
+Maddy snapped.
+
+Gumption threw up his hands.
+"I don't!
+I like having 'em here, you know that.
+I'm just saying a lot of folks aren't as quick with change as you,
+that's all."
+
+They walked the rest of the way to Special Leaf's house in silence.
+It was a warm day,
+and other circumstances Maddy would have suggested taking the long way around
+just so they could spend some more time together,
+but she was angry and it would have been awkward
+and why did everything have to be so *complicated*?
+
+She knocked on Special Leaf's front door
+and opened it without waiting to be invited in.
+The Special was the oldest person in Rusty Bridge by quite a margin,
+but it sometimes seemed like he'd aged several years
+in the months since the battle with the bots.
+His hearing wasn't what it had been,
+but his eyes were still bright behind his little round glasses.
+
+"Done for the day?"
+Maddy asked her sister,
+ruffling her hair.
+
+"Just let me finish this chapter,"
+Sindy pleaded without looking up.
+
+"You're welcome to take it with you,"
+Special Leaf said gently.
+
+"Please?"
+
+Maddy looked at Gumption, who shrugged.
+"Five minutes,"
+Maddy said sternly.
+Special Leaf caught her eye and nodded his head sideways toward the kitchen.
+
+Maddy followed him into the other room.
+"How's she doing?" she asked.
+
+"Very well,"
+the old tortoise said.
+He fished a small metal-rimmed rectangle of black glass out of his pocket.
+"I picked this up years ago.
+Never knew if it was some kind of tech or just a paperweight,
+but she was fiddling with it this morning
+and all of a sudden it was full of pictures.
+And not just any pictures,"
+he added,
+unable to keep the excitement out of his voice.
+"They were all things from the book she was reading.
+It was almost like it had been listening to her,"
+he finished wistfully.
+
+"That's great," Maddy said brightly,
+though she still wasn't sure if she believed it.
+Her sister was one of those rare people who didn't look like either of their parents.
+She no tail,
+no whiskers or scales,
+and no fur except for a wiry black tuft on the top of her head.
+When other children wanted to be cruel they called her a throwback,
+but every piece of tech she touched would respond to her.
+Being able to use just one was enough for someone to be called "special".

@@ -339,7 +339,7 @@ Maddy followed him into the other room.
 "Very well,"
 the old tortoise said.
 He fished a small metal-rimmed rectangle of black glass out of his pocket.
-"I picked this up years ago.
+"I came by this up years ago.
 Never knew if it was some kind of tech or just a paperweight,
 but she was fiddling with it this morning
 and all of a sudden it was full of pictures.
@@ -359,3 +359,57 @@ and no fur except for a wiry black tuft on the top of her head.
 When other children wanted to be cruel they called her a throwback,
 but every piece of tech she touched would respond to her.
 Being able to use just one was enough for someone to be called "special".
+She was happy for her sister,
+she really was,
+but every time she thought about what would happen
+when the rest of the village---when the rest of the *world*---found out,
+her heart skipped a beat.
+
+Gumption elbowed her.
+"Aren't you going to tell him?"
+
+Special Leaf's forehead wrinkled,
+which was as close as the tortoise could get to raising his eyebrows.
+Maddy scowled sidelong at Gumption,
+then reluctantly pulled the letter out of her satchel.
+"Mm," Special Leaf said.
+"I was wondering when that would arrive."
+He opened the breadbox on the counter behind him,
+took out a paper-wrapped butternut cookie,
+and offered it to Maddie.
+
+"What's this for?" she asked.
+
+"If it's good news, celebrating," Special Leaf said.
+"And if it's not,
+well,
+a cookie won't fix anything,
+but it won't make it worse either."
+
+Gumption elbowed her again.
+"Just open it."
+
+Maddy swallowed drily.
+With a sudden impulsive motion she tore the envelope open
+and unfolded the single beige rectangle of paper inside.
+Her face fell.
+She blinked furiously,
+angry at the sudden tears in her eyes.
+
+"Aw, muck," Gumption said.
+He patted her awkwardly on the shoulder.
+"I'm sorry, Maddy."
+
+She shook her head.
+"No.
+No.
+They---"
+She laughed shakily.
+"They said yes.
+They're going to publish it.
+They're going to put my drawing in the newspaper!
+Woo!"
+
+She grabbed Gumption and hugged him,
+then turned to Special Leaf and held out her hand.
+"Congratulations," he said as she took an enormous bite out of the cookie.

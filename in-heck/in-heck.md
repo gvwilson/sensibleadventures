@@ -6,6 +6,7 @@ permalink: /in-heck/
 
 <p>
   <a href="#episode-1-stolen-arms">Episode 1: Stolen Arms</a>
+  <a href="#episode-2-the-prosecutors">Episode 2: The Prosecutors</a>
 </p>
 
 ## Episode 1: Stolen Arms
@@ -413,3 +414,85 @@ Woo!"
 She grabbed Gumption and hugged him,
 then turned to Special Leaf and held out her hand.
 "Congratulations," he said as she took an enormous bite out of the cookie.
+
+## Episode 2: The Prosecutors
+
+Gumption woke up the next morning
+to the sound of raindrops
+spattering on the leaves of the cottonwood outside his attic bedroom.
+He lay on his narrow cot,
+looking up at the sharply-peaked roof above his head,
+and thought,
+*Of course.*
+He was supposed to spend the morning weeding the vegetable garden.
+It wasn't the worst job in the world,
+but even if he wore his father's waxed cotton slicker
+his fur would get soaked and muddy.
+
+His stomach rumbled.
+The gray light coming through the shutter on the attic's one small window
+matched his mood perfectly.
+He was happy for Maddy,
+he really was.
+She wanted to be an artist more than anything in the world.
+Having one of her drawing published in a newspaper
+was almost as a big a deal for her
+as saving Rusty Bridge from a horde of evil bots.
+It was great news,
+and if it got her thinking about something other than
+her bug-brained schemes to storm into Heck and rescue her father,
+well,
+that was great too.
+
+But it also meant she was one day closer to leaving Rusty Bridge for somewhere better.
+Somewhere bigger, anyway---somewhere with people as smart and as talented as she was.
+He'd known since their first conversation about books at Special Leaf's house
+that she'd be going some day.
+That day had been getting closer
+ever since she had confided in him about her sister.
+They couldn't hide Sindy's special powers for much longer,
+and once folks knew,
+the whole family would be off to Headling or Port Rough or,
+or---
+
+His stomach rumbled again.
+"Oh, shut up," he muttered,
+kicking the blanket down to the foot of his cot and sitting up.
+His breath caught in his throat as his ribs twinged.
+The doctor said he'd mended well,
+but every once in a while he would turn his head the wrong way
+or reach for a cup of tea
+and something would catch,
+like a door sticking slightly before opening.
+
+He dressed carefully and climbed down the six-step ladder
+into the hallway below
+as quietly as he could.
+His little sister and brother were still asleep,
+and he'd catch it if he woke them.
+His hooves clicked quietly on the stairs
+as he went down to the main floor,
+where his mother and grandmother were peeling potatoes
+while his father and one of his uncles cleaned, oiled, and reassembled
+a set of box hinges.
+Other families would have given the work to Dockety and his bots,
+but other families could afford to.
+Maddy's was one of the few that had to be as careful about making ends meet as Gumption's,
+and some days,
+he wondered if they actually had anything more than that in common.
+
+He had just put a pot of porridge on the stove
+when something clattered outside.
+His uncle looked up.
+"Prob'ly just them bots,"
+his father grunted,
+but then a high-pitched voice squealed from upstairs.
+
+"Mama!
+Mama!
+Outside!
+Look outside!"
+
+Gumption's mother opened the door.
+Her hand flew to her mouth.
+"What?" Gumption asked as all five goats crowded into the doorway.

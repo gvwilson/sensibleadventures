@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-<img src="{{ '/gvwilson-tpl-2017-small.jpg' | relative_url }}" alt="Greg Wilson" />
+<img src="{{ '/static/gvwilson-tpl-2017-small.jpg' | relative_url }}" alt="Greg Wilson" />
 
 Greg Wilson is a programmer turned teacher.
 His first job was in a small-town library in the 1970s;

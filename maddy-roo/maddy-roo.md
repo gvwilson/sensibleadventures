@@ -789,7 +789,7 @@ Maddy felt like her heart was swelling in her chest.*
 *After they left,
 Maddy settled into her father's chair with her latest book.
 It was a collection of folk tales about the Makers
-and how they gave the first specials their powers.  
+and how they gave the first specials their powers.
 Bots were wise counselors, fickle allies, or wicked adversaries,
 and each story ended with the words,
 "And only the stars can tell the rest.".*

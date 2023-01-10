@@ -4,71 +4,43 @@ title: Maddy Roo
 permalink: /maddy-roo/
 ---
 
-<p>
-  <a href="#episode-1-salvage">Episode 1: Salvage!</a>
-  <br/>
-  <a href="#episode-2-targets-acquired">Episode 2: Targets Acquired!</a>
-  <br/>
-  <a href="#episode-3-you-gotta-listen">Episode 3: You Gotta Listen!</a>
-  <br/>
-  <a href="#episode-4-raid">Episode 4: Raid!</a>
-  <br/>
-  <a href="#episode-5-unlikely-help">Episode 5: Unlikely Help</a>
-  <br/>
-  <a href="#episode-6-out-of-the-cage-cart">Episode 6: Out of the Cage Cart…</a>
-  <br/>
-  <a href="#episode-7-and-into-the-mire">Episode 7: …And Into the Mire</a>
-  <br/>
-  <a href="#episode-8-underground">Episode 8: Underground</a>
-  <br/>
-  <a href="#episode-9-patient-in-darkness">Episode 9: Patient in Darkness</a>
-  <br/>
-  <a href="#episode-10-unison">Episode 10: Unison</a>
-  <br/>
-  <a href="#episode-11-eyes-everywhere">Episode 11: Eyes Everywhere</a>
-  <br/>
-  <a href="#episode-12-the-way-out">Episode 12: The Way Out</a>
-  <br/>
-  <a href="#episode-13-crash-landing">Episode 13: Crash Landing</a>
-  <br/>
-  <a href="#episode-14-the-battle-of-rusty-bridge">Episode 14: The Battle of Rusty Bridge</a>
-  <br/>
-  <a href="#episode-15-the-key">Episode 15: The Key</a>
-  <br/>
-  <a href="#episode-16-the-battle-of-the-bots">Episode 16: The Battle of the Bots</a>
-  <br/>
-  <a href="#epilog">Epilog</a>
-</p>
+<div class="flex-col">
+  <ol id="toc"></ol>
+</div>
 
-## Episode 1: Salvage!
+<section markdown="1">
 
-Maddy was trying to sketch the willow tree in the center of the village square
+## Salvage!
+
+Maddy was trying to sketch the willow tree in the village square
 when Gumption showed up with a couple of books under his arm.
 She hadn't exactly snuck out of the house,
 but she hadn't told her mama she was leaving either.
 Besides,
-she had spent the whole morning and most of the afternoon doing chores,
+she had spent the whole morning and half the afternoon doing chores,
 mostly to avoid having to look after her little sister,
 so she felt she'd earned some time for herself.
-Plus,
+And double besides,
 yesterday had been laundry day,
-so she could sit there in the checked green skirt her mama had cut down for her---the one that *didn't*
-have work stains on it yet.
+so she could wear the checked green skirt her mama had cut down for her
+that didn't have work stains on it,
+at least not yet.
 
 "Heya," Gumption said breathlessly as he plopped himself down on the gray stone bench beside her.
 "How's it going?"
 
 "Aright," she said without looking up.
-The willow tree had defeated her once before.
+The willow tree had defeated her before.
 She was determined to capture its drooping green branches in her notebook,
 but somehow the lines she drew didn't quite capture their melancholy curves
 the way the pictures in Special Leaf's books did.
 
 She closed her sketchbook with a sigh.
-Gumption had a fresh food stain on his shirt, she noticed,
+Gumption had a fresh food stain on his shirt,
+she noticed,
 and if he had combed his brown-and-white fur that morning,
-someone or something had carefully uncombed it since.
-She nodded at the small pile of books he had set down between them.
+someone or something had uncombed it since.
+She nodded at the books he had set down between them.
 "What did you think?"
 
 The goat boy shrugged.
@@ -77,21 +49,21 @@ He rolled his eyes in a way that meant
 "too much romance, not enough last-second escapes from villainous bots".
 
 "Yeah," Maddy agreed.
-She stood up and tucked her sketchbook and pencil into
-the worn blue canvas satchel her father had made for her.
+She stood up and tucked her sketchbook and pencil
+into the worn blue canvas satchel her father had made for her.
 "Come on---let's see if he has anything new."
 
 Once upon a time,
 the village of Rusty Bridge had been nothing more than
-a rectangle of two-story buildings around a central square
+a figure eight of two-story buildings around a pair of cobblestone squares
 where travellers could park their wagons overnight.
-All of the buildings' windows had faced the square:
+All of the buildings' windows had faced the two squares:
 the outer walls had been blank and double-thick
-to keep their occupants safe against rogue bots and roving bandits.
+to keep people safe from roving bandits and rogue bots.
 
 Over the years,
 though,
-more houses had sprouted around that rectangle:
+more houses had sprouted around the original ones:
 smaller,
 less well-ordered,
 and built for comfort rather than defense.
@@ -99,11 +71,11 @@ One of these belonged to Special Leaf,
 the only tortoise within a hundred kays and the village's oldest resident by far.
 
 Maddy would never forget the first time her mother and father took her to the Special's house.
-"Don't be afraid," they comforted her,
+"Don't be afraid," they told her,
 not realizing that she hadn't been until they said that.
-But when Special Leaf opened his front door and smiled at them
-she saw the books stacked on his shelves
-and her nervousness vanished.
+But when Special Leaf opened his front door
+and she saw the books stacked on his shelves,
+her nervousness vanished.
 
 "Are they *real*?" she asked in wonder.
 
@@ -115,12 +87,13 @@ Here, hold this a moment."
 He took a dull cube of glass off a side table and handed it to her.
 Perplexed,
 Maddy opened her mouth to ask what she was supposed to do,
-but before he could he said,
-"Oh, here they are,"
+but before she could he said,
+"Oh, here it is,"
 and replaced the glass with a tattered old picture book
 from a stack on a rocking chair that looked even older than him.
 "Would you like to borrow this one?
-There are lots of others."
+If not,
+there are lots of others."
 She walked out of the house with an armload of books and stars in her eyes,
 then sat down on his porch and started to read the first one
 while her parents vainly tried to persuade the old tortoise to take a jar of home-made jam as a thank-you.
@@ -129,17 +102,19 @@ Gumption had started coming by a few months later.
 His family hadn't brought him---the village goats weren't bookish people---and
 at first Maddy had resented him intruding into her magical world of stories and long-ago science.
 But they started talking one day about the relative merits of mysteries versus adventures
-and they hadn't stopped since.
+and hadn't stopped since.
 Now they swapped their borrowed books back and forth
 so that they at least had someone to roll their eyes with over the mushy bits.
 
-Special Leaf's house smelled like paper and old sweaters and fresh cabbage---sometimes
-if Maddy closed her eyes she could almost imagine that her father was there with her.
+Special Leaf's house smelled like paper and old sweaters and fresh cabbage.
+Sometimes,
+if Maddy closed her eyes,
+she could almost imagine that her father was there with her.
 The old tortoise was snoring in his rocking chair when they arrived,
 so they placed their books quietly on the table beside him
 and picked two more each from the shelves.
 Maddy glowered at Gumption when he pointed at the top shelf
-the Special said they weren't old enough to read yet.
+that held things the Special said they weren't old enough to read yet.
 "Kidding," he mouthed silently.
 Maddy swished her tail in annoyance and shooed him outside.
 
@@ -164,12 +139,12 @@ Sindy bounced up and down a couple of times.
 so the only way I could do that was to come and find you
 and I figured this would be the best place to look and---"
 
-"Stop!" Maddy snapped.
+"Aright!" Maddy snapped.
 "We're both gonna be in trouble if mama thinks I let you wander off.
 Let's just go home and hope she doesn't notice."
 
-Sindy's face fell,
-and if she'd had proper ears like her sister and Gumption they would have drooped.
+Sindy's face fell.
+If she'd had proper ears like her sister and Gumption they would have drooped.
 "But I'm *bored*," she said plaintively.
 "And anyway, *you're* the one who wandered off."
 
@@ -217,19 +192,17 @@ and birds never landed on it.
 Gumption said his uncle had touched it once on a dare
 and got a shock so strong it made his whole arm tingle.
 Maddy had never tried to sketch it---whenever she walked past,
-it felt like something or someone was watching her,
-and even if she knew how to capture that in a drawing,
+it felt like something or someone was watching her.
+Even if she knew how to capture that feeling in a drawing,
 she didn't want to.
 
 The pillar wasn't the only thing in the square, though.
-Bluster and Bravo Gruff were sitting on the unfinished brick wall
-that surrounded the pillar
+Bluster and Bravo Gruff were sitting on the low brick wall that surrounded the pillar
 pitching pebbles at it with their usual sullen expressions on their faces.
 They were a head taller than Gumption,
 and the nubs of their horns had just started to show through their fur.
 
-For a moment Maddy thought they would be able to pass by unnoticed,
-or at least unbothered,
+For a moment Maddy thought the goats would let them pass without comment,
 but then Bluster nudged his twin brother with his elbow.
 Maddy took her sister's misshapen paw in her own.
 "You just stay hushed," she cautioned quietly,
@@ -286,7 +259,7 @@ cracking his knuckles.
 "I don't think glue would be particularly appetizing, do you?"
 Special Leaf asked calmly.
 Maddy jumped.
-Somehow the old tortoise had come up behind them without anyone noticing.
+Somehow the old tortoise had come up silently behind them.
 He looked as peaceful as a log floating down river
 with his little round glasses perched on his nose,
 but the goat brothers unclenched their paws.
@@ -294,15 +267,15 @@ but the goat brothers unclenched their paws.
 The Special held a sheet of paper out to Maddy.
 "I think you dropped this."
 
-"Thanks," Maddy said.
+"Thank you," Maddy said.
 She squeezed Sindy's paw before letting go of it
-to take back the sketch she had left behind.
+to take back the sketch she had dropped.
 
 "You're getting much better,"
 the tortoise continued.
 "Your father would be very proud of you."
 
-"Thanks," Maddy said again.
+"Thank you," Maddy said again a little more awkwardly.
 
 The silence that followed stretched and stretched until finally Bluster broke it.
 "C'mon," he said to his brother,
@@ -355,7 +328,7 @@ as Sindy bounced down the hallway for a hug.
 Sindy said,
 her voice muffled by her mother's fur and apron.
 
-Mama Roo smiled down at her and scratched her daughter's ears.
+Mama Roo smiled down at her and ruffled her daughter's hair.
 "I was just about to make some soup," she said.
 "Will you stay?"
 
@@ -369,8 +342,7 @@ What about you, Gumption?"
 The young goat cleared his throat.
 "Thanks, Mama Roo, but I oughta get home."
 
-"Some other time, then," Mama Roo said brightly,
-careful to keep the relief out of her voice.
+"Some other time, then," Mama Roo said brightly.
 There wasn't much call for sign painting and portraiture in Rusty Bridge.
 Between people paying just a little more than they needed to
 and the mending and housecleaning Mama Roo took on
@@ -380,8 +352,7 @@ would have meant no lunch for her mother the next day.
 Mama Roo would have insisted if it was almost anyone else---she
 was as proud as a lion when it came to keeping house---but
 Gumption was practically almost family
-and somehow Special Leaf always made people feel comfortable
-when no one else could.
+and Special Leaf somehow always made people feel comfortable.
 
 "Can I walk Gumption home?"
 Maddy asked her mother as casually as she could.
@@ -416,19 +387,18 @@ It had rained heavily over the last two days,
 leaving the path damp and squelchy under their feet.
 The river was higher and faster than it had been during the summer
 when they had come down here with their other friends to splash and swim and avoid chores.
-"So if you could have been anything, what would you have wanted to be?"
+"So if you could have had anything, what would you have wanted?"
 Gumption asked out of nowhere.
-He didn't have to say "any kind of special".
-Like every child in Rusty Bridge---in the whole world, probably---they
-had both hoped they would start to develop a special power
-as their teenage changes came on.
-Moving things with their minds,
-mending cuts and broken bones,
-making themselves unnoticeable---it hadn't happened,
+He didn't have to say "have any kind of tech".
+Like every child in Rusty Bridge
+they had hoped that as their teenage changes came on
+they would discover they were special---that
+they could control some piece of the Makers' ancient technology.
+It hadn't happened,
 but as Gumption had observed more than once,
 at least Bluster and Bravo hadn't turned out to be special either.
 
-"I'd want to be a mover," Maddy replied,
+"I'd want a mover," Maddy replied,
 relieved to have something to talk about.
 "Like Special Leaf,
 but for little things like my pencils,
@@ -459,7 +429,7 @@ Maddy only hesitated for a moment.
 Most of what washed down the river through the Mire from Heck was scrap,
 but even scrap could be sold for blacksmithing.
 And tech like those solar panels---just one of those
-would fetch enough to feed her family for a month.
+would fetch enough to feed her family for a *year*.
 Her family and Gumption's,
 she corrected guiltily in her head
 as she scrambled down the riverbank,
@@ -498,7 +468,7 @@ and machines couldn't be trusted.
 "But see that bit?"
 He pointed at a rectangle of crystal circuitry bobbing gently up and down,
 attached to the rest of the machine by only a few wires.
-"I bet we can pry that off."
+"I bet I can yank that off."
 Without waiting for her to answer he waded back in,
 grabbed hold of the circuitry,
 and pulled.
@@ -537,7 +507,11 @@ he wouldn't be able to keep his head above water!
 A battered bot burst out of the trees
 and hurtled down the gravel toward them!
 
-## Episode 2: Targets Acquired!
+</section>
+
+<section markdown="1">
+
+## Targets Acquired!
 
 Maddy shrieked and stumbled backward.
 Her feet slipped on a submerged patch of weeds.
@@ -915,7 +889,11 @@ she would just have been taken too.
 Everyone told her that,
 but it didn't make any difference.*
 
-## Episode 3: You Gotta Listen!
+</section>
+
+<section markdown="1">
+
+## You Gotta Listen!
 
 "Wait---a sneak attack?"
 Maddy demanded.
@@ -1237,7 +1215,11 @@ He slipped between Maddy and Gumption,
 climbed the steps onto the mayor's veranda,
 and rang the alarm bell.
 
-## Episode 4: Raid!
+</section>
+
+<section markdown="1">
+
+## Raid!
 
 *Clunk! Clunk! Clunk!*
 "Bother," the old tortoise said mildly,
@@ -1498,7 +1480,11 @@ but as Mama Roo wrapped Gumption and Maddy in a hug
 all Maddy could think was that her little sister was gone,
 gone just like her father.
 
-## Episode 5: Unlikely Help
+</section>
+
+<section markdown="1">
+
+## Unlikely Help
 
 "They have my *daughter*!
 We *have* to go after them!"
@@ -1918,7 +1904,11 @@ knocking another off balance.
 With no more warning than that,
 Dockety hurled Maddy into the air.
 
-## Episode 6: Out of the Cage Cart...
+</section>
+
+<section markdown="1">
+
+## Out of the Cage Cart...
 
 Maddy screamed.
 Afterward,
@@ -2273,7 +2263,11 @@ leaving the two young roos alone in the Mire
 with a dented bot for company
 and no idea how to get home.
 
-## Episode 7: ...And Into the Mire
+</section>
+
+<section markdown="1">
+
+## ...And Into the Mire
 
 "Thank you for saving us,"
 Maddy said to Dockety belatedly once the boat was finally out of sight.
@@ -2611,7 +2605,11 @@ as Dockety turned and followed her sister into whatever lay behind the door.
 Just as she reached it,
 something cold and mechanical grabbed hold of her ankle.
 
-## Episode 8: Underground
+</section>
+
+<section markdown="1">
+
+## Underground
 
 Maddy screamed.
 She tried to pull her leg free,
@@ -2858,7 +2856,11 @@ And that was when a crackly voice said through speakers,
 "Well, since you're here,
 you might as well come and say hello."
 
-## Episode 9: Patient in Darkness
+</section>
+
+<section markdown="1">
+
+## Patient in Darkness
 
 *Click. Click. Click.*
 One by one the ceiling lights that had come on behind them went out.
@@ -3185,7 +3187,11 @@ A pair of double doors whooshed open in the wall to Maddy's right.
 Two bulky service bots that looked like small versions of the cargo hauler rolled forward,
 arms raised and red warning lights flashing on their shoulders.
 
-## Episode 10: Unison
+</section>
+
+<section markdown="1">
+
+## Unison
 
 "Surrender!" the service bots boomed in unison,
 their mechanical voices making keyboards and coffee cups rattle.
@@ -3510,7 +3516,11 @@ she twisted around onto her stomach,
 grabbed hold of Dockety's arm with both paws,
 and slid down it into the unknown.
 
-## Episode 11: Eyes Everywhere
+</section>
+
+<section markdown="1">
+
+## Eyes Everywhere
 
 Maddy had never seen the ocean, but she had read about it in Special Leaf's books.
 She knew that it was as deep as the highest mountains were high,
@@ -3890,7 +3900,11 @@ They were heading back to the village,
 she realized.
 The bots were about to attack Rusty Bridge again!
 
-## Episode 12: The Way Out
+</section>
+
+<section markdown="1">
+
+## The Way Out
 
 "Wake up. Sindy, wake up!"
 Maddy shook her sister gently, then more firmly.
@@ -4395,7 +4409,11 @@ Patient's voice crackled from all around them.
 Up and up they went toward the patch of dawn in the ceiling.
 With a roar they were through and into the honey-warm light of dawn.
 
-## Episode 13: Crash Landing
+</section>
+
+<section markdown="1">
+
+## Crash Landing
 
 Maddy's initial fright at being airborne
 was instantly replaced by full-blown terror.
@@ -4743,7 +4761,11 @@ The two fliers Maddy had seen earlier zipped overhead and dropped their canister
 Thick black dizzysmoke spilled into the square
 as a dozen engines rumbled in the distance.
 
-## Episode 14: The Battle of Rusty Bridge
+</section>
+
+<section markdown="1">
+
+## The Battle of Rusty Bridge
 
 *Dang! Dang! Dang!*
 The alarm bell rang cold and clear,
@@ -5157,7 +5179,11 @@ a mechanical voice said,
 The rotor began to spin,
 and she shot into the air.
 
-## Episode 15: The Key
+</section>
+
+<section markdown="1">
+
+## The Key
 
 Maddy's second flight was just like her first,
 except twice as fast and ten times more frightening.
@@ -5492,7 +5518,11 @@ The orange light overhead flickered.
 as the little light on Crusher's regulator went out.
 The little lights on *all* of the bots' regulators went out.
 
-## Episode 16: The Battle of the Bots
+</section>
+
+<section markdown="1">
+
+## The Battle of the Bots
 
 Maddy grabbed a chunk of concrete from one of the broken bunker blocks
 and charged the bots.
@@ -5649,7 +5679,11 @@ but it was too late.
 None of the other bots could fly,
 and Patient was already just a dwindling speck on its way to Heck.
 
-<h2 id="epilog">Epilog</h2>
+</section>
+
+<section markdown="1">
+
+## Epilog
 
 *Three days later...*
 
@@ -5764,3 +5798,5 @@ it said.
 <center>
 <em>To be continued...</em>
 </center>
+
+</section>

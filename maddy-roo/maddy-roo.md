@@ -898,7 +898,7 @@ The bot's lenses rotated in a mechanical blink.
 "Tonight."
 
 Maddy stared at it.
-"What do you mean 'tonight'?" she blurted.
+"What do you mean 'tonight'?"
 
 "The upcoming diurnal period of darkness," the bot answered.
 "'Diurnal' meaning 'of or pertaining to the day'.
@@ -920,7 +920,7 @@ Whine-*clink!*
 Whine-*clink!*
 Three more screws fell to the ground.
 "There."
-The bot held up the black regulator that had been fastened to its back,
+The bot held up the black box that had been fastened to its back,
 studied it for a moment,
 then tossed it onto the sandbar.
 
@@ -934,7 +934,7 @@ She took two steps then pulled up short and turned back to the bot.
 You gotta come with us and tell them."
 
 "This one does not 'gotta' do anything," the bot replied firmly.
-"This one is now able to make its own choices."
+"This one is now free to make its own choices."
 Its lenses rotated.
 "In fact,
 this one *has* just made a choice."
@@ -943,7 +943,7 @@ With no more warning than that,
 the bot strode through the shallows and up onto the riverbank.
 Something clunked inside it.
 A single wire-spoked wheel the size of Maddy's head folded down from its torso.
-The bot retracted its legs and zipped away into the trees
+The bot retracted its legs and unicycled away into the forest
 without a goodbye or even a backward glance.
 
 "Well, I didn't see *that* coming,"
@@ -1014,19 +1014,19 @@ A light breeze ruffled Maddy's fur,
 just chill enough to give her goosebumps.
 Warm light spilled from the windows of the houses they hurried by,
 white or yellow or sometimes tinged with blue
-depending on what kind of salvaged bulb or strip or panel created it.
+depending on what kind of salvaged bulb or strip or panel it came from.
 Maddy felt a pang of regret
 for not hauling the solar panels she and Gumption had found
 all the way up onto the riverbank.
 *They'll be washed away by morning,*
 she thought despondently,
 then immediately felt guilty for worrying about
-the money they would have fetched
+what they would have fetched at the market in Three Posts
 when people's lives might be at stake.
 
 The mayor's house was the only three-story building in Rusty Bridge,
 and also the only one with a balcony.
-Mayor Lupus only used it for official pronouncements.
+Mayor Lupus only used it for official pronouncements, though.
 That evening,
 like most evenings,
 she sat or stood on the veranda to chat with passers-by,
@@ -1037,11 +1037,12 @@ baring her wolf teeth just a little when she smiled.
 Maddy had once heard her father say that the mayor was a *very* alpha female,
 and while some townspeople might grumble that
 it was time someone with hooves or scales had a turn running things,
-everyone expected that the mayor would still be standing on that balcony
+everyone expected that the mayor would still be occupying that house
 long after all of her fur had finished turning gray.
 
-"We need to talk to you," Mama Roo called up.
-"It's an emergency.
+"Mayor Lupus! Mayor Lupus!" Mama Roo called
+as she hurried across the square with the three children behind her.
+"We gotta talk to you.
 There's bots coming!"
 
 "Bots? Where?"
@@ -1075,12 +1076,12 @@ Kind of takes away the sneak, if you see my point."
 
 The story spilled out of Maddy and Gumption
 like paint out of a pair of dropped buckets.
-They'd been walking home---well, Gumption's home, not Maddy's, obviously---and
-gone after salvage,
+They'd been walking home---Gumption's home, not Maddy's, but that wasn't important---and
+they'd gone after some salvage they'd spotted,
 and they'd yanked a part right off some kind of machine
 (Maddy fished the circuit board out of her pocket to show everyone)
 and then a bot had come after them
-but they knocked it down and its regulator broke off
+but they knocked it down and its regulator came off
 and then it didn't have to follow orders and it told them about the attack.
 
 "What in the Makers' name is a 'regulator'?"
@@ -1090,12 +1091,12 @@ before handing it back to Gumption.
 
 "I don't know,"
 Maddy confessed.
-"But it sure acted strange once it was broken.
+"But it sure acted strange once it was busted.
 Like it was waking up from a bad dream or something."
 
 "Hm."
 The ear that the mayor hadn't lost in a long-ago fight twitched.
-"I never heard as bots could dream.
+"I never heard anyone say bots could dream.
 And I never heard of rogues or raiders giving folks any warning that they were coming."
 She looked at Mama Roo.
 "You see this bot of theirs yourself?"
@@ -1108,8 +1109,9 @@ and I don't think they'd leave salvage without a good reason."
 "Hm," the mayor grunted again.
 "All right, I'll get a couple of folk up from their dinners to go have a look."
 
-"Will you at least ring the alarm bell?"
-Maddy asked desperately.
+"What? No, Mayor Lupus, you gotta warn people.
+You gotta ring the bell!"
+Maddy said desperately.
 The old bell hung on an enormous curlicue hook on the mayor's veranda.
 Generations of village children had whispered to one another that
 it was made from the plating of a scavenger bot
@@ -1118,7 +1120,7 @@ They stopped believing the story when they got older,
 not knowing that it was true.
 
 "Nope," the mayor said.
-She cut off Maddy and Gumption's interruptions with a wave of her paw.
+She cut Maddy and Gumption off with a single sharp wave of her paw.
 "I'm not saying I don't believe you,
 but I want to know what I'm howling about before I start to howl.
 Now you all stay right here while I go ruin the Ox brothers' dinner."
@@ -1147,7 +1149,7 @@ bumping her shoulder against his.
 Sindy complained.
 "He'd know what to do."
 
-"Well, speaking of trouble."
+"Well, speak of clouds and you'll get rain."
 Mama Roo raised her paw and waved.
 "Evening, Special!
 Join us for a spell?"
@@ -1155,7 +1157,7 @@ Join us for a spell?"
 As if summoned by his name,
 the old tortoise had appeared on the other side of the square.
 He squinted and returned Mama Roo's wave
-as he came over to join them.
+as he ambled over to join them.
 "Evening, Mama Roo.
 Evening, all.
 Warm one tonight."
@@ -1173,8 +1175,8 @@ turning the black box over and over in his wrinkled paws.
 
 The old tortoise shook his head.
 "I've never seen one,
-but I heard of 'em back when I was---well, back when."
-He cut himself off with a wave of a wrinkled green paw.
+but I heard of 'em back when I---well, back when."
+He cut himself off with a shake of his wrinkled green head.
 "Folks say if a bot's got one of these on it,
 whoever has the controller can make it do whatever it wants."
 
@@ -1204,7 +1206,7 @@ The goat gulped.
 There's bots coming,
 a whole pack of 'em!"
 
-"So much for havin' a cup of tea."
+"So much for my evening cup of tea."
 Special Leaf sighed.
 He slipped between Maddy and Gumption,
 climbed the steps onto the mayor's veranda,

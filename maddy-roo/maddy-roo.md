@@ -1475,7 +1475,7 @@ but was too exhausted to make the stones obey him.
 Scattered plates of armor and parts of broken mechanical limbs
 proved that the bots had paid a heavy price for their victory,
 but as Mama Roo wrapped Gumption and Maddy in a hug
-all Maddy could think was that her little sister was gone just like her father.
+all Maddy could think was that her little sister was gone—gone just like her father.
 
 </section>
 
@@ -1483,11 +1483,11 @@ all Maddy could think was that her little sister was gone just like her father.
 
 ## Unlikely Help
 
-"They have my *daughter*!
-We *have* to go after them!"
+"You *have* to go after them!"
 Mama Roo shouted.
+"They have my *daughter*!"
 Maddy had never imagined that her mother could be so fierce,
-but in that moment she looked like she could frighten a tiger.
+but in that moment she would have frightened a tiger.
 
 The mayor shook her head.
 "I'm sorry, Cedilia, you know I am.
@@ -1496,7 +1496,7 @@ She held up her zap gun,
 turning it to show the now-dark indicator bar on its side.
 "See that?
 There's nothing left.
-It'll take a couple of days at least to get it back to full charge,
+It'll need a couple of days in the sun to get back to full charge,
 and even then,
 we've only got the one."
 She scowled.
@@ -1504,12 +1504,13 @@ She scowled.
 
 "And what about Special Leaf?"
 Mayor Lupus continued as Mama Roo opened her mouth again,
-gesturing at the porch steps
-where the old tortoise was sitting,
-his eyes closed
-and the wrinkles on his green face even deeper than usual.
+gesturing at the porch.
+The old tortoise was sitting on the steps with his eyes closed.
+The wrinkles on his green face were even deeper than usual,
+and the tech bracelets on his arms were just dull bands of metal once again.
 "He's about ready to fall over.
-Even if we could catch up with 'em,
+Even if we caught up with 'em,
+and I'm not sayin' we could,
 we wouldn't have a chance."
 
 Mama Roo's arm tightened around Maddy's shoulders.
@@ -1526,31 +1527,30 @@ and then start figuring out how they managed to sneak up on us like that."
 Special Leaf said,
 opening his eyes.
 He struggled to his feet,
-holding the steps' wooden banister to steady himself,
-and waved off the mayor as she came over to help.
-"The one that had legs like a stork chased them right into the arms of
-the big one hauling the cage.
+holding the steps' wooden banister to steady himself
+and waving off the mayor as she came over to help.
+"The one that had legs like a stork chased them
+right into the arms of the big one hauling the cage.
 I tried to trip it up, but..."
 He shook his head.
 "I'm sorry.
-I just don't have the strength I used to."
+I'm just not as strong as I used to be."
 
 "You looked plenty strong to me,"
 the mayor said firmly,
 clapping him on the shoulder.
 "The way you were throwing all those rocks at 'em?
-Looked like a damn avalanche.
+Looked like a damn hailstorm.
 Never seen anything like it."
 
 "I didn't do that," Special Leaf protested,
-but the mayor had already turned away
-to start barking orders at the militia.
+but the mayor had already turned away to bark orders at the militia.
 Salvage the scraps of armor that had been knocked off the bots during the fight.
 Pick up anyone who was still unconscious and get them indoors.
-And someone---no, not just one person, best it be two together---get across to the Gruff family farm
+And someone---no, not just one person, best it be two together---had to get across to the Gruff family farm
 and let them know their boys had been taken.
 
-"I should go with them," Gumption said awkwardly.
+"I should go too," Gumption said awkwardly.
 "They're my cousins,
 and my mama will be worrying about me.
 I'm really sorry about Sindy."
@@ -1566,20 +1566,25 @@ She froze.
 The bot!
 "Gumption---the bot!
 The one from the river---it'll know where they're going.
-We gotta find it!"
+If we can find it---"
 
 The goat's eyes widened.
-He nodded.
-"We should, uh, go help folk clean up," he said loudly.
+"But---" he started.
+
+"Please," Maddy pleaded.
+
+Gumption swallowed whatever he'd been about to say and nodded.
+"We should, uh, go help folk clean up," he said loudly,
+rolling his eyes at the mayor.
 
 "Good idea," Maddy replied, raising her voice.
 "Mama, Gumption and I are gonna..."
 She gestured at the mess in the square,
 not finishing her sentence so as not to actually lie.
 
-Her mother nodded,
+Her mother patted Maddy's arm,
 the grief on her face making her look older than the tortoise.
-"Thank you, Maddy,"
+"That's my girl,"
 she said, her voice somehow steady.
 "Special, let me see you back to yours."
 
@@ -1590,15 +1595,11 @@ pointing at the stones furthest from the pile.
 The nearest ox grunted,
 not really listening.
 
-The two teenagers fetched the stones Maddy had pointed at
-and then,
-with only a glance at each other,
-walked back as if to pick up some more and just kept walking.
-It was a tactic they had used more than once
-to get out of picking potatoes.
-As long as they acted
-as if they were doing something they were supposed to be doing,
-grownups would mostly not pay them any attention.
+The two teenagers walked toward the stones Maddy had pointed at
+and then just kept walking.
+It was a tactic they had used more than once to get out of picking potatoes.
+As long as they acted as if they were doing something they were supposed to be doing,
+most grownups wouldn't pay them any attention.
 
 Two minutes later they were in the small square
 where the black recharging pillar stood.
@@ -1621,7 +1622,7 @@ Gumption patted her shoulder awkwardly.
 "Don't say that.
 Maybe it went to the other one.
 It's not that far.
-I---I could walk with you if you want."
+I could walk with you if you want."
 Maddy sniffled,
 nodded,
 and fell into step beside him.
@@ -1631,25 +1632,26 @@ the river had been wider and deeper,
 and the Makers' road had run along its bank.
 But many years had passed since then,
 and the river's course had changed many times.
-Where once the river and the road had bent in long parallel arcs,
-now the road ran through a forest
+Where it and the road had once bent in long parallel arcs,
+the road now ran through the forest
 with its former companion just a soft sound in the distance.
 
 Another black glass recharging pillar stood guard
-where that arc in the road bent back toward the river.
+where the road bent back toward the river.
 Only grass and moss and a few brave flowers grew near it.
 
-Maddy kicked a pebble at the post angrily.
-"This is *hopeless*," she repeated.
+Maddy glared at the pillar.
+"This is *hopeless*," she said again,
+angrily wiping the dampness away from the fur on her cheeks.
 
 "Wait!"
 Gumption pointed at the soft ground near the pillar.
 In the failing evening light it took Maddy a moment to see what he had spotted,
 but then her heart leaped.
 A single tire track ran up to the post and then away into the trees.
-They hurried over to take a closer look.
-The cross-hatched treadmarks were still fresh.
 
+They hurried over to take a closer look.
+The cross-hatched treadmarks were fresh.
 "It must have come here," Gumption said.
 
 "Yeah, or one of the raiders needed a recharge."
@@ -1662,8 +1664,8 @@ She opened her mouth to say,
 "Maybe we should go back,"
 but what came out instead was,
 "Ulp,"
-as the bot they were looking for stepped out of the trees,
-a cobblestone in each of its mechanical hands.
+as the bot from the river stepped out of the trees,
+a rock in each of its mechanical hands.
 
 The kangaroo and the goat looked at the bot.
 The bot looked back.
@@ -1684,9 +1686,10 @@ then realized the bot meant her and Gumption.
 She nodded at the black pillar.
 "Did we scare you off recharging?"
 
-"This was merely being cautious,"
+"This was not 'scared',"
 the bot replied primly.
-"This needs to be fully charged to help its *click*."
+"This was merely being cautious.
+This needs to be fully charged to help its *click*."
 
 The bot's lenses rotated.
 "To help its *click*."
@@ -1700,7 +1703,7 @@ The one that was hauling the cart?"
 Maddy asked.
 
 "Correct."
-The bot shook its head left-right-left-right so quickly that it practically vibrated.
+The bot shook its head left-right-left-right as if it was shivering.
 "The modified GX-470 is this one's most important---
 most important---
 most imp---"
@@ -1708,7 +1711,7 @@ It shook its head again.
 "Error. Error. Error."
 
 "Well,
-that's the one that's got my sister and the others,
+your gee ex whatever has got my sister and the others,
 so if you'll help us,
 maybe we can help you."
 Maddy had no idea *how* they could help,
@@ -1716,14 +1719,14 @@ but if she had learned anything from bargaining with her mother over chores,
 it was not to be too specific too early.
 
 The bot's lenses rotated.
-"You propose a joint rescue mission?"
+"You propose collaboration?"
 It thought for a microsecond.
 "That would significantly improve the odds of success.
 This one agrees."
 It stuck out its three-fingered manipulator.
 
 "Um..." Gumption started,
-but Maddy stepped forward and took the bot's hand.
+but Maddy stepped forward and shook the bot's hand.
 If there was any chance at all of getting Sindy back,
 she had no other choice.
 
@@ -1733,9 +1736,8 @@ taking her paw back and massaging her new bruises.
 
 "This one's serial number is Dockety-One Forty-Bee,"
 the bot replied.
-"But my *click*---
-my *click*---
-the modified GX-470 refers to this one as Dockety."
+"But this one's *click*---this one's *click*---the
+modified GX-470 refers to this one as Dockety."
 
 "All right, Dockety---do you know where they're headed?"
 
@@ -1755,8 +1757,7 @@ the bot added.
 Maddy asked with a sinking feeling.
 
 "Affirmative.
-It controls our regulators
-when we are out of range of our base."
+It controls our regulators when we are out of range of our base."
 The claws on its heavy manipulator snapped together,
 making the two children jump.
 "This one feels strong antipathy toward regulators as well."
@@ -1766,48 +1767,45 @@ Maddy took a deep breath.
 "All right.
 How do we catch up with them?"
 
-"We cannot," Dockety said.
-"Not unless you allow me to carry you."
+"You must allow me to carry you," Dockety said.
 
-"Um..." Gumption started again,
+"Uh..." Gumption started,
 but Maddy shushed him.
 "Can you carry both of us?"
 
 Dockety thought for another microsecond.
 "Not at sufficient speed.
-Or with sufficient safety."
+And even with one, safety will be compromised."
 
 Sometimes you have choices.
-Other times it feels like you have no more choice about what you do next
-than a rock has about whether or not to fall when it's been thrown.
+Other times it feels like you have no more control over what you do next
+than a rock has over whether or not it's going to fall after someone has thrown it.
 Maddy hugged Gumption,
-a real strong hug that she hoped said all the things
-she hadn't found the courage to say
-for the past few weeks
+a real strong hug that she hoped said
+all the things she hadn't found the courage to say for the past few weeks
 every time they'd been alone together.
-"Go tell my mama," she said in his ear.
-"And you tell her I'm coming back, all right?
+"Go tell mama what I'm doing," she said in his ear.
+"And tell her I'm coming back, all right?
 Because I am."
 
 She released him and turned to the bot.
-"Let's go," she said,
-and while Gumption was still gaping at them
-Dockety picked her up,
+"Let's go," she said firmly.
+
+Gumption was still gaping at them as Dockety picked her up,
 dropped its wheel onto the ground,
 and roared back up the path to the old highway.
-
 "Whoa!" Maddy exclaimed,
 but Dockety didn't slow down.
 It was the fastest she had ever gone---faster even than
-the time Pelter the horse from Three Posts had given them all rides at the fair.
+the carousel ride at the fair in Three Posts.
 She closed her eyes,
 but that just made it worse,
 so she opened them,
 which made it even worser.
 
-"Where's this base of yours?" she belated asked,
-half-shouting to be heard over wind of their passage
-and the bot's roaring motor
+"Where's this base of yours?" she asked,
+half-shouting to be heard over wind of their passage,
+the bot's roaring motor,
 and the rattles coming from inside its torso
 that she really hoped were normal.
 
@@ -1816,48 +1814,41 @@ Dockety replied.
 "We will be able to go much faster once we're on the highway."
 
 Sure enough,
-a few moments later the path rejoined the highway and the bot sped up.
+a few moments later the path joined the highway and the bot sped up.
 The ancient black surface beneath them was cracked in places,
 and Dockety had to swerve around fallen branches
-and the few clumps of weeds tough enough to have broken through the road,
-but for the first time in her life Maddy felt her fur
-actually blown back by speed.
+and clumps of weeds tough enough to have broken through the road,
+but for the first time in her life Maddy felt her fur blown back by speed.
 "Woo hoo!" she whooped.
 It was too big to be afraid of.
 
-Without warning a pair of thin green lines of light lanced out
-from either side of Dockety's eyes.
-The bot's head began snapping from side to side,
+Thin green lines of light suddenly lanced out from either side of Dockety's eyes.
+The bot began snapping its head from side to side,
 left-right-left-right,
 sweeping the lasers across the pavement
 to trace a picture of its bumps and cracks in the darkness.
-It reminded Maddy of the rubbings her father used to make
-by putting a piece of paper over something
-and going back and forth over it with a pencil
-to bring out the shape underneath.
+It reminded Maddy of the rubbings her father used to make.
 
-As the last dregs of daylight drained away and the stars came out
-they passed under a line of ruined arches
+As the stars came out they passed under a line of ruined arches
 that stretched from one horizon to the other.
 A half-sunken metal sphere as big as a house was next,
 and then a tangle of concrete and bent bars
 that the villagers just called "the thing".
 Maddy had heard about all of them from travelers
 and by eavesdropping on the militia patrols
-that the mayor occasionally sent along the highway
-to see whether trouble was brewing.
+that the mayor occasionally sent up the highway
+to see if trouble was brewing.
 She had dreamed of seeing them herself,
-and of painting them,
+and of sketching them,
 but she had never imagined it would happen like this.
 
-The ground around them grew damp as they raced along,
-and the smell of rotting vegetation and rust made Maddy wrinkle her nose.
+The ground on either side of the highway began to grow damp.
+The twin smells of rust and rotting vegetation made Maddy wrinkle her nose.
 They were entering the Mire,
 the great trackless swamp that separated the bot city of Heck
 from the forests and farms where Maddy had grown up.
 The Makers' highway was the only safe route through it,
-and even there travelers were careful to eat and drink
-only what they brought with them.
+and travelers on it were careful to eat and drink only what they brought with them.
 
 "Target acquired," Dockety buzzed.
 There in front of them was the convoy:
@@ -1866,19 +1857,19 @@ no two alike,
 and in their midst the big cargo hauler and the cage cart.
 
 Maddy counted quickly.
-"Where are the others?" Maddy asked,
-shouting once more to be heard.
+"Where are the other bots?" Maddy asked,
+raising her voice to be heard.
 
 "This does not know."
 Dockety hesitated.
 "That is worrying."
 
 Without slowing down it veered over to the side of the highway
-to scoop up one rock and then another.
+to snatch up a pair of rocks.
 "Take this," it ordered,
-handing her one of the rocks.
+handing one to her.
 "Get on the cage.
-Climb forward, then get on the one pulling the cart and disable its regular.
+Climb forward, then get on the one pulling the cart and disable its regulator.
 Forcefully,"
 it added.
 
@@ -1887,19 +1878,18 @@ Maddy exclaimed.
 "Do you have a short circuit or something?"
 
 "Several,"
-Dockety said.
-"But that does not mean it is not a good plan."
+Dockety said,
+accelerating.
 
 Closer, closer---a periscope popped up out of the head
-of the bot at the tail of the convoy and twisted around to point at them.
-Dockety put on sudden burst of speed.
-As it raced past the bot with the periscope
-Dockety tossed its rock at the other bot's wheels.
+of the bot at the rear of the convoy and twisted around to point at them.
+Dockety put on another burst of speed.
+As it raced past the bot with the periscope it tossed a rock at the bot's wheels.
 *Bang! Crash!*
-The bot with the periscope tumbled through the air,
+The periscope bot tumbled through the air,
 knocking another off balance.
-With no more warning than that,
-Dockety hurled Maddy into the air.
+As the two crashed to the pavement,
+Dockety threw Maddy into the air.
 
 </section>
 

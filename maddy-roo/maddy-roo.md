@@ -2585,7 +2585,7 @@ forcing itself through behind her.
 Maddy didn't need any more encouragement than that.
 She sprinted across the room.
 Just as she reached the door,
-something cold and mechanical grabbed her ankle.
+something cold and mechanical grabbed her ankle!
 
 </section>
 
@@ -2593,57 +2593,53 @@ something cold and mechanical grabbed her ankle.
 
 ## Underground
 
-Maddy screamed.
+"Leg go!"
+Maddy shouted.
 She tried to pull her leg free,
 bu the tentacle's grip was iron-strong.
-"Help! Help!"
 She flung pawfuls of dirt and dead leaves at the tentacle
 as it dragged her across the floor.
 
-Dockety scraped through the door behind her
-and flung itself at the tentacle.
+Dockety scraped back through the door behind her.
 "Release! Release!" it rasped,
-grabbing the loop around Maddy's leg
-and straining to pull it off her.
+grabbing the loop around Maddy's leg and straining until its motors whined,
+but the swamp slime was too slick to get a solid grip.
 
 Maddy kicked again and again but couldn't get her ankle free.
 "Release! Imperative! Release!"
-Dockety hit the tentacle with its heavy manipulator
-and grabbed it again,
-but the swamp slime was too slick to get a solid grip.
+Dockety whacked the tentacle with its heavy manipulator.
 
 "Maddy!"
 Sindy ran back into the room.
-With her hands under Maddy's armpits
+Putting her hands under Maddy's armpits
 she pulled until her feet slipped out from under her.
 "Get off her!" she shrieked at the tentacle.
 
-Panic rising in her throat
-Maddy jackknifed and fumbled with her bootlace,
+Panic rose in Maddy's throat.
+She jackknifed forward and fumbled with her bootlace,
 cursing herself for having tied it so well.
-The braided string was clagged with mud
-and so damp that it might as well have been dipped in glue.
-"Come on come on," she muttered frantically.
+The braided string was so clagged with mud
+that it might as well have been dipped in glue.
+"Come on come on come *on*," she muttered frantically.
 There!
 Her fingers finally found purchase.
-She pulled one end loose and hastily undid the rest of the knot.
+She pulled one end of the lace loose and hastily undid the rest of the knot.
 
 "Pull!" she yelled at Dockety.
+"Pull hard!"
 The bot hauled back on the tentacle.
 Maddy braced the heel of her other boot against it
 and yanked her trapped foot free.
 
 As she scrambled to her feet
 the tentacle realized its prey had somehow escaped.
-It threw the boot across the room and lashed out again.
+It tossed the boot across the room and lashed out again.
 
 "I've got it!" Sindy cried,
 snatching up the boot.
 
 "Just get out of here!" Maddy shouted.
-She threw herself across the room,
-grabbed the lever that had opened the door,
-and pushed up with all her might.
+She grabbed the lever that had opened the door and pushed it up with all her might.
 It didn't budge.
 
 "What about this one?"
@@ -2656,13 +2652,13 @@ the outer door began to close.
 The tentacle lashed out one last time
 before slithering back so that it wouldn't be cut in half.
 "Go!" Maddy ordered Sindy.
-With Dockety right behind them,
+With Dockety behind them,
 they squeezed through the inner door.
 
-They found themselves on a small platform at the top of
-a flight of broad concrete stairs.
-Even with Dockety's chest light at its brightest,
-they couldn't see how far the steps went.
+They found themselves on a small platform
+at the top of a flight of broad concrete stairs.
+They couldn't see how far the steps went
+even when Dockety turned its chest light up to its brightest settings.
 "Did you go down?" Maddy asked her sister in a hushed voice.
 
 Sindy shook her head.
@@ -2672,15 +2668,11 @@ Without warning she flung her arms around Maddy and hugged her hard.
 
 Maddy hugged her back.
 "I was scared too."
-She sniffled.
-"But remember what Mama always says.
+She kissed the top of her sister's head.
+"But it's like Mama always says.
 If you can't give up, you have to keep going.
 Come on."
-
-Squelching her foot back into her boot,
-she took her sister's paw,
-and was only mildly surprised when Dockety took her other paw
-with its smaller manipulator.
+She squelched her foot back into her boot and took her sister's paw.
 Side by side,
 they descended into the unknown.
 
@@ -2705,7 +2697,7 @@ Maddy suggested to fill the silence.
 
 "Negative.
 The regulator was an involuntary alteration."
-Its chest light brightened angrily for a moment.
+Its chest light flickered angrily for a moment.
 "Lasercase attaches them to whatever bots it can catch,
 then uses them to catch more bots."
 
@@ -2734,7 +2726,7 @@ The bot buzzed again.
 This one remembers speaking with—with Crusher.
 The modified GX-470 cargo hauler's name is Crusher."
 
-"Um… good?"
+"Um…good?"
 Maddy ventured.
 
 "Very good,"
@@ -2761,10 +2753,11 @@ squeezing her sister's hand.
 Sindy sniffled.
 "You could keep one."
 
-Maddy kissed the top of her sister's head.
 "Thanks."
+Maddy ruffled the patch of fur on top of her sister's head,
+wondering briefly if it was physically possible for it to be more tangled than it was.
 
-"This one also needs to recharge,"
+"This one needs to conserve power in order to continue optimal operation,"
 Dockety buzzed.
 "Will you be able to navigate with reduced illumination?"
 Its light dimmed until it was no brighter than a birthday candle.
@@ -2772,18 +2765,18 @@ Its light dimmed until it was no brighter than a birthday candle.
 Maddy gulped.
 "Sure," she said as bravely as she could.
 
-Sixty, seventy…
-The steps brought them to a corridor
-made of the same featureless gray concrete as the stairs.
-Square glass panels sat in the ceiling every dozen steps,
-the light they must once have cast long since dimmed.
+Sixty steps, seventy…
+Seventy-two steps below where they had started
+they reached a corridor made of the same featureless gray concrete as the stairs.
 There were no doors,
 no side passages,
 no turnings or signs or anything else
 that might give a hint what the complex was for or who had built it.
+Small glass panels were set into the ceiling.
+but the light they might once have cast had long since dimmed and gone out.
 
-Maddy counted off fifty steps,
-then another fifty.
+Maddy tapped her thumb against her fingers to keep count.
+Fifty steps, then another fifty, then another.
 "I don't suppose any more of your memories have come back?"
 she asked Dockety to fill the silence.
 
@@ -2792,22 +2785,21 @@ Its head swiveled to look at her.
 "But—"
 
 "Look out!" Maddy exclaimed a heartbeat too late.
-The hole in the floor had been just another shadow
-until they were right at its edge.
-Maddy jerked to a stop,
+There was a hole in the floor!
+It had looked like just another shadow until they were right at its edge.
+She caught herself,
 but Dockety took one extra step.
 
 She grabbed its arm and pulled as hard as she could.
 The bot was heavy—much heavier than a person would be.
-Its motors whined as it teetered on the edge of the hole,
-fighting for balance.
+Its motors whined as it fought for balance on hole's edge.
 
 *Crack!*
 The floor tile under the bot's foot snapped in half.
-Dockety half-fell into the hole.
+Dockety fell awkwardly.
 Its torso hit the floor with a *clunk!*
-For one terrifying moment Maddy was sure it was going to fall all the way in,
-but somehow the bot got a grip on the concrete.
+For one terrifying moment Maddy was sure it was gone,
+but somehow its manipulators found purchase on the concrete.
 
 Sindy stumbled backward to get out of the way.
 Her paw hit a patch of wall directly beneath one of the darkened lighting panels.
@@ -2815,28 +2807,27 @@ Something *clicked*.
 Above their heads and all along the corridor,
 the lights flickered and came to life.
 
-Maddy helped Dockety scrape its way out of the hole.
-The bot got back to its feet.
+Maddy helped Dockety back to its feet.
 Its lenses rotated rapidly.
 "Thank you," it said.
 
 "Sure,"
 Maddy panted.
 She looked up at the lights and then at her sister.
-"That's the second time you've done that."
+"Good job."
 
-"I didn't mean to,"
+"I didn't mean to do it,"
 Sindy said defensively.
 
 "No, no, it's aright."
-Maddy got to her feet and gave her sister a hug.
-"It's aright,"
-she repeated.
-"You keep doing it."
+Maddy gave her sister a quick hug.
+"I meant it.
+You're doing a good job."
 
-And that was when a crackly voice said through speakers,
-"Well, since you're here,
-you might as well come and say hello."
+And that was when a crackly voice said,
+"Well,
+since you're *here*,
+you might as well come and say *hello*."
 
 </section>
 

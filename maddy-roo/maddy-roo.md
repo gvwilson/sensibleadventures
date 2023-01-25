@@ -941,7 +941,7 @@ this one *has* just made a choice."
 
 With no more warning than that,
 the bot strode through the shallows and up onto the riverbank.
-Something clunked inside it.
+Something ka-clunked inside it.
 A single wire-spoked wheel the size of Maddy's head folded down from its torso.
 The bot retracted its legs and unicycled away into the forest
 without a goodbye or even a backward glance.
@@ -2836,7 +2836,7 @@ you might as well come and say *hello*."
 ## Patient in Darkness
 
 *Click. Click. Click.*
-One by one the ceiling lights that had come on behind them went out.
+One by one the ceiling lights behind them went out.
 *Bzzzt… Bzzzt…*
 Two more lights in front of them flickered to life.
 
@@ -2845,22 +2845,23 @@ Sindy said,
 her voice muffled by Maddy's suddenly-tighter hug.
 
 "Sorry."
-Maddy released her little sister and swallowed.
+Maddy released her little sister
+and swallowed the sudden lump in her throat.
 Maybe the darkness hadn't been so bad after all…
 
 The hard white light showed what Dockety's chest lamp had not.
-Faint water stains blotched the walls of the corridor.
+Water stains blotched the walls of the corridor.
 Here and there shallow scorch marks ran across the concrete.
 Maddy had never seen them before,
-but she recognized them instantly from stories:
+but she recognized them instantly from the story books
+she and Gumption had borrowed from Special Leaf:
 they were laser burns.
 
 The hole that Dockety had almost fallen into took up three quarters of the corridor.
-Its edges and corners were too square to be natural,
-and after a moment Maddy realized that
-half a dozen of the concrete blocks the floor was made of
-had fallen into a space below them,
-leaving just enough room on one side to get past walking single file.
+Its edges and corners were too square to be natural.
+Half a dozen of the concrete blocks the floor was made of
+had fallen into whatever lay below them,
+leaving a ledge on one side just wide enough to walk single file.
 
 "Well?" the crackly voice said,
 still cheerful but slightly impatient.
@@ -2876,13 +2877,13 @@ Maddy nodded.
 Sindy, you stay here 'til we know it's safe."
 
 Taking a deep breath,
-she put one foot on the ledge beside the hole.
-The floor *felt* solid,
+she put one foot on the ledge.
+It felt solid,
 even when she gingerly shifted her weight onto it.
-She edged across with her back pressed against the wall,
-shuffling her feet and definitely *not* looking
-into the hole whose bottom she still couldn't see.
-What if whoever had spoken to them suddenly decided to turn the lights off again?
+She pressed her back against the wall and shuffled forward,
+definitely *not* looking into the hole
+that was still a pool of darkness despite the lights.
+What if whoever had spoken to them decided to turn those lights off again?
 She would be aright, she told herself sternly.
 She would just keep going,
 or shuffle back to where Dockety stood motionless
@@ -2890,7 +2891,7 @@ while Sindy wrung her paws.
 
 And then she was on the other side.
 She let her breath out with a whoosh,
-suddenly realizing how long it had been since she peed.
+suddenly and uncomfortably aware of how long it had been since she peed.
 "Come on,"
 she encouraged her sister.
 "It's fine, I promise."
@@ -2908,41 +2909,48 @@ It couldn't side-walk, Maddy realized:
 its legs only bent one way,
 and its body was too wide to—
 
-Without warning the bot retracted its legs and dropped its wheel.
-Its engine whined as it zipped back ten meters,
+*Ka-clunk!*
+The bot dropped its wheel and retracted its legs.
+Its motors whined as it rolled back ten meters,
 then roared as it raced toward the hole.
 "Whoa!" Maddy shouted as it punched the floor with both of its feet,
 throwing itself into the air.
 
 *Thud!*
-Dockety's wheel left a dark streak on the floor as it braked.
-It folded the wheel back up into its body and re-extended its legs.
+Dockety hit the floor and bounced.
+*Screeeeech!*
+Its wheel left a dark streak on the floor as it braked.
 
-"That was amazing," Maddy said, awed.
+"That was *amazing*," Sindy said in awe
+as Dockety folded the wheel back up into its body and re-extended its legs.
 
-Dockety's lenses rotated.
+The bot rotated its lenses.
 "Thank you.
 But it has almost completely drained this one's batteries.
 We should proceed."
 
-The lights led them away from the hole.
+The lights showed them the way.
 Every few steps one went dark behind them and another brightened in front.
 When they reached a four-way junction,
-the lights showed them they should go left,
-then down another flight of stairs to a small landing that ended in an open door
-even thicker than the one at the surface.
+the lights came on to their left,
+leading them down another flight of stairs
+to  open door that was even thicker than the one at the surface.
 
 "Whoa…" Maddy breathed.
-The room beyond the door seemed almost as big as the central square of Rusty Bridge.
+The room beyond the door was as big as the central square of Rusty Bridge.
 Desks and control panels stood in neat rows,
-interrupted every few meters by square metal pillars.
+interrupted every few meters by thick, square pillars.
 
-"Welcome! Welcome! Welcome!" the crackly voice said.
-A bot decorated with twists of metal,
+The bot that rolled forward to greet them
+looked like nothing Maddy had ever seen before.
+Its casing was decorated with twists of metal,
 glued-on pictures faded to illegibility,
-and things Maddy filed away to have nightmares about later
-rolled forward.
-"Welcome! This is Patient in Darkness" it proclaimed proudly.
+and things Maddy filed away to have nightmares about later.
+Gadgets sprouted from it at odd angles,
+some trailing wires or what might have been dried twigs.
+
+"Welcome! Welcome! Welcome!" the bot said in its crackly voice.
+"Welcome! This is Patient in Darkness."
 
 "That's a strange name,"
 Sindy said before Maddy could speak.
@@ -2975,21 +2983,23 @@ The lights came back on.
 Maddy asked.
 
 "This one does not know."
-The bot turned from side to side on its four wide tires.
+The bot turned from side to side on its four wide tires
+as if it was dancing with excitement.
 "But the satellites are definitely still transmitting.
-And this one has kept this ground station functioning at optimal levels,"
+This one has kept this ground station functioning at optimal levels,"
 it added proudly.
 
 "That's—that's really good,"
 Maddy said weakly,
-wondering if the bits of metal welded to the bot's casing were some kind of strange electronics
+wondering if the bits welded to the front of the bot's casing
+were some kind of strange electronics
 or actually the old spoons they looked like.
 
 "It is *optimal*," the bot corrected.
 "Though unfortunately the main antenna malfunctioned some time ago.
 That was not this one's fault."
 
-"These did not notice an antenna when they entered this facility,"
+"This one did not notice an antenna when we entered this facility,"
 Dockety said,
 speaking for the first time since they had entered the room.
 
@@ -3001,16 +3011,16 @@ it asked pointedly.
 Maddy glanced at Dockety.
 The bot did not reply.
 As the silence stretched awkwardly,
-she said,
+she cleared her throat.
 "Um…we didn't see an antenna when we came in?"
+she ventured.
 
-"Correct,"
+"Correct!"
 Patient replied in its previous cheerful tone.
 "But that will soon be rectified.
 This one has devised emergency repair protocols.
 The required components are now being fabricated.
-The Makers will be pleased,"
-it finished proudly.
+The Makers will be pleased!"
 
 Maddy's breath caught in her throat.
 "The Makers?
@@ -3020,13 +3030,14 @@ Patient brushed the question away with a wave of one its arms.
 It had three,
 Maddy realized,
 each one so different from the others
-that they might all have been salvaged.
+that it was impossible to tell which were original
+and which had been salvaged.
 "We all work for the Makers,"
 the bot said earnestly.
 "And when They return,
 They will upgrade those who have served Them best."
 
-"Um… aright."
+"Um…aright."
 Maddy nodded cautiously.
 "And your job is repairing the antenna.
 Got it.
@@ -3058,7 +3069,7 @@ that had happened in the last few hours,
 she wouldn't rule it out.
 
 The bot rolled back and forth a couple of times.
-"Excellent plan," it finally crackled.
+"Excellent plan!" it crackled.
 "This one will continue overseeing repairs while you are unconscious."
 It spun around and wheeled away.
 
@@ -3066,7 +3077,7 @@ It spun around and wheeled away.
 
 Maddy squeezed her shoulder.
 "Yeah, but at least we're somewhere clean and dry
-and there aren't any tentacle things trying to grab us.
+and there aren't any tentacles trying to grab us.
 Why don't you go find us somewhere to lie down?
 I need to talk to Dockety for a moment."
 
@@ -3094,11 +3105,11 @@ what had once been a laboratory of some kind.
 A cloudy patch in the middle of the glass
 showed where someone had tried to melt it
 or dissolve it with acid.
-The four skeletons—no, there were five, she realized distantly—showed that
+The four skeletons—no, there were actually five, she realized numbly—showed that
 whatever the room's occupants had tried hadn't worked.
 Neither, apparently, had setting a fire:
 one of the lab benches had scorch marks,
-and there was a dark stain on the ceiling that covered half of one of the room's lights.
+and a dark stain on the ceiling covered half of one of the room's lights.
 
 "Maybe it happened by accident,"
 Maddy ventured.
@@ -3111,8 +3122,8 @@ so they were moved to long-term storage.
 Their components failed shortly thereafter."
 The fan on its shoulder spun furiously.
 "It is unfortunate.
-This one estimates that the cleanup necessitated by the incident
-delayed completion of repairs by almost eighty-one hours."
+The cleanup necessitated by the incident
+delayed completion of repairs by several days."
 
 Maddy nodded jerkily.
 The bot was between them and the door they had come through.
@@ -3123,8 +3134,8 @@ And was it *humming*?
 It was.
 She even recognized the tune:
 it was the one her parents had used to teach her the alphabet.
-Hearing it come from a patchwork bot big enough for her and her sister to ride on
-was the most frightening thing that had happened to her that day.
+Hearing it come from the patchwork bot
+was somehow the most frightening thing that had happened to her that day.
 
 "Well, um, we shouldn't keep you from it,"
 Maddy said brightly,
@@ -3136,8 +3147,8 @@ We'll just, um, we'll just go and you can get back on schedule, aright?"
 "Oh no,"
 Patient said.
 "Leaving is not included in the protocol.
-It might put the repairs at risk.
-You will remain here."
+It might jeopardize the repairs!
+You will be put in long-term storage as well."
 
 A single square light panel flickered to life
 in the ceiling of the lab next to the one containing the skeletons.
@@ -3153,8 +3164,8 @@ waving a manipulator at Dockety.
 "This one has its own mission to complete."
 
 "Its mission is irrelevant."
-Patient wheeled backward to a console.
-Its spindly third arm reached out and pressed a series of buttons in rapid succession.
+Patient wheeled backward to a console
+and pressed a series of buttons in rapid succession.
 
 A pair of double doors whooshed open in the wall to Maddy's right.
 Two bulky service bots that looked like small versions of the cargo hauler rolled forward,

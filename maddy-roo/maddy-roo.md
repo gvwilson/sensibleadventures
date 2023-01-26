@@ -3215,8 +3215,8 @@ Desist!"
 
 "Desist this!"
 Maddy yelled,
-yanking a keyboard off the desk and flinging it at their captor.
-The keyboard clattered harmlessly fell to the floor.
+yanking a keyboard off the desk and flinging it at the patchwork bot.
+The keyboard clattered harmlessly off its casing and fell to the floor.
 
 Beside her,
 Dockety picked up a keyboard and studied it for half a second.
@@ -3234,7 +3234,7 @@ Patient ordered the bulky service bots as it retreated,
 waving its mismatched arms to protect itself.
 
 One of the service bots hesitated just long enough
-to let the other charge through the door.
+to let the other roll through the door.
 For a moment Maddy was sure they would be caught,
 but the bot halted a few meters away.
 A hatch opened in its side.
@@ -3275,9 +3275,7 @@ Slowly but surely it was forcing Dockety down onto the floor.
 Maddy didn't even think.
 She leaped onto the nearest desk with a single bound.
 One-two-three she went from desk to desk.
-Sindy shouted her name
-but she didn't have time to hear it
-because she had to jump one more time and *kick!*
+Sindy shouted her name as she jumped one more time and *kicked!*
 
 It felt like kicking a wall,
 but the service bot rolled back a step.
@@ -3314,21 +3312,20 @@ Will scans suffice?"
 Its green lasers swept a pair of sharp parallel lines across the floor.
 
 Maddy sagged.
-She was so tired…
+What were they going to do now?
 "We can't see that way,"
 she said wearily.
-"You'll just have to tell us if there's anything…"
+"You'll just have to tell us if there's anything."
 *Anything we could fall into,* she finished in her head.
 *Anything that might try to grab us.
-Anything we haven't run into or I haven't thought of
-that might eat us or lock us in a room.*
+Anything that might eat us or lock us in a room or… or…*
 
-She shivered,
-then straightened up.
+She was too tired to finish the thought.
+She shivered once and then straightened up.
 "Come on,"
 she said to Sindy as gently as she could.
-"Put your paw on the wall and steer with that.
-It'll be like a game."
+"Put your paw on the wall so you know where you are.
+Like a game."
 
 "Pretty stupid game,"
 Sindy muttered.
@@ -3348,7 +3345,7 @@ A speaker crackled.
 Patient asked.
 "Back to the surface?
 The external security system is still active,
-and quite upset.
+and *quite* upset.
 Or perhaps you would like to continue exploring?"
 It made a horrible grating *snrk snrk* sound.
 
@@ -3384,9 +3381,9 @@ she mumbled,
 holding it out.
 
 They retraced their steps back along the corridor,
-Maddy and Sindy side by side and Dockety three steps behind them,
+Maddy and Sindy side by side and Dockety a step behind them
 carrying its detached arm like a folded-up umbrella.
-Lights came on in front of them and went dark behind them,
+Lights came on and went dark,
 just as they had before,
 but in the background
 Maddy could hear Patient humming a crackly little song to itself.
@@ -3412,24 +3409,23 @@ You should deactivate me and proceed alone."
 
 "What? No!"
 Maddy slapped its metal plates angrily.
-"There's no way we'll get out of here without you.
-And anyway,
-we're not just going to leave you behind."
-She slapped its plates again.
+"Don't be stupid.
+We're not going to just leave you here."
 
-A hundred tired steps later they reached the hole:
-six floor blocks wide and six long,
-with one row of blocks clinging to the wall for them to walk on.
+"This one was not being—"
+Maddy slapped its plates again and glared at it.
+The bot's lenses rotated but it wisely said nothing.
+
+A hundred tired steps later they reached the hole.
 "Can you jump it again?"
 Maddy asked Dockety.
 
 "Negative," the bot said,
 its voice buzzing more than before.
-"This one's reserves are almost completely depleted,
-and must be devoted to resisting integrity attacks."
+"This one's… reserves… must be devoted… to resisting… integrity attacks."
 Its lenses rotated,
 more slowly than they had before.
-"This one regrets that it will not see its friend Crusher again."
+"This one… regrets… that it will not see… its friend… Crusher… again."
 
 That earned it another smack on its torso from Maddy.
 "Don't say that.
@@ -3448,9 +3444,11 @@ It cannot maintain integrity much longer."
 Sindy kicked a loose piece of stone.
 "It's not fair," she whimpered.
 
+*Tock.*
+
 "Wait," Maddy said.
 She picked up another piece of stone and tossed it into the hole.
-*Tock… tock…*
+*Tock.*
 She looked at Sindy and then at Dockety.
 "Did you hear that?
 It's not all that deep.
@@ -3458,9 +3456,9 @@ We could climb down."
 
 "Inadvisable,"
 Dockety said.
-"We do not know what is down there."
+"We do not know… what is down there."
 
-"Well we know for sure there's nothing up ahead.
+"Well we know for sure what's up ahead.
 We barely got away from that tentacle the first time,
 and even if that stupid thing behind us doesn't take over your brain,
 you're going to run out of power before we get there."
@@ -3475,8 +3473,8 @@ Maddy nodded.
 What choice did they have?
 "Aright."
 
-A few moments later the bot lay on the concrete floor,
-one arm held in the other.
+A few moments later the bot lay on the concrete floor
+with its arm grasped in its manipulator.
 Maddy hugged her sister.
 "I'll be right back," she promised.
 
@@ -3485,10 +3483,10 @@ Sindy whispered tearfully.
 "What if he leaves you down there?
 What if he goes all the way bad?"
 
-"This is an it, thank you,"
-Dockety said at normal volume.
-"And this will overload its own circuits
-before it allows itself to be controlled again."
+"This is… an it… thank you,"
+Dockety said slowly.
+"And this one will… overload its own circuits…
+before… it allows itself… to be controlled again."
 
 Maddy gave Sindy one last hug.
 "Love you," she whispered,

@@ -23,6 +23,9 @@
   - A wolf (as Mama Roo says, "A *very* alpha female.")
 - Dockety (fully, "Dockety-One Forty-Bee"): a newly-woken bot
 - Crusher: Dockety's hauler friend
+- Doctor Ganesh: elephant doctor
+- Mama Tumbly: a cow who wants to be mayor
+  - doesn't like bots
 - Shaper Blazes: a tiger and fire shaper
   - Leads a group of Prosecutors to Rusty Bridge after the first attack
   - Scornful of Shaper Leaf's decision to lead a quiet life

@@ -428,13 +428,12 @@ then turned to Special Leaf and held out her hand.
 
 <section markdown="1">
 
-##The Prosecutors
+## The Prosecutors
 
 Gumption woke up the next morning
 to the sound of raindrops
 spattering on the leaves of the cottonwood outside his attic bedroom.
-He lay on his narrow cot,
-looking up at the sharply-peaked roof above his head,
+He lay on his narrow cot looking up at the sharply-peaked roof above his head
 and thought,
 *Of course.*
 He was supposed to spend the morning weeding the vegetable garden.
@@ -450,7 +449,7 @@ he really was.
 She wanted to be an artist more than anything in the world.
 Having one of her drawing published in a newspaper
 was almost as a big a deal for her
-as saving Rusty Bridge from a horde of evil bots.
+as saving Rusty Bridge from a band of marauding bots.
 It was great news,
 and if it got her thinking about something other than
 her bug-brained schemes to storm into Heck and rescue her father,
@@ -472,10 +471,10 @@ His stomach rumbled again.
 "Oh, shut up," he muttered,
 kicking the blanket down to the foot of his cot and sitting up.
 His breath caught in his throat as his ribs twinged.
-The doctor said he'd mended well,
-but every once in a while he would turn his head the wrong way
-or reach for a cup of tea
-and something would catch,
+Doctor Ganesh said he'd mended well,
+but every once in a while he turned his head the wrong way
+or reached for spoon
+and something caught,
 like a door sticking slightly before opening.
 
 He dressed carefully and climbed down the six-step ladder
@@ -483,31 +482,290 @@ into the hallway below
 as quietly as he could.
 His little sister and brother were still asleep,
 and he'd catch it if he woke them.
-His hooves clicked quietly on the stairs
-as he went down to the main floor,
+His hooves clicked softly on the stairs
+as he went down to the main floor
 where his mother and grandmother were peeling potatoes
 while his father and one of his uncles cleaned, oiled, and reassembled
 a set of box hinges.
 Other families would have given the work to Dockety and his bots,
 but other families could afford to.
 Maddy's was one of the few that had to be as careful about making ends meet as Gumption's,
-and some days,
-he wondered if they actually had anything more than that in common.
+and some days he wondered if they actually had anything more than that in common.
 
 He had just put a pot of porridge on the stove
 when something clattered outside.
 His uncle looked up.
-"Prob'ly just them bots,"
+"That'll be Zeke headin' out,"
 his father grunted,
 but then a high-pitched voice squealed from upstairs.
 
 "Mama!
 Mama!
 Outside!
-Look outside!"
+Outside on the road!"
 
 Gumption's mother opened the door.
 Her hand flew to her mouth.
-"What?" Gumption asked as all five goats crowded into the doorway.
+"What? What's going on?" Gumption asked,
+squeezing past her.
+
+His first thought was, *Bandits!*
+But then one of them,
+a rabbit in a slouch hat with a long rifle strapped to his back,
+waved at the goats.
+Gumption's father raised a tentative hand to wave back.
+
+Gumption just stared.
+The six-legged bot beside the rabbit had a squat turret for a head
+and armor that put Special Leaf's shell to shame.
+Behind them marched a tiger,
+an actual tiger with an eyepatch and a sword slung on his hip.
+An ox, a bear, and a heavily-laden mulebot brought up the rear.
+The ox and the bear both bristled with weapons,
+and wore the same dark green jackets with black collars and cuffs
+as their compansions.
+
+A chill went up Gumption's spine.
+They were Prosecutors.
+And they were headed for Rusty Bridge.
+
+*Sindy!* Gumption thought.
+Somehow they must have found out about Sindy.
+He had to warn the Roos so they could—he didn't know what,
+but something.
+
+He squeezed back into the kitchen
+just in time to trip over his little sister.
+"Stay inside!" he ordered,
+knowing she would disobey.
+
+Ten steps and he was out the back door.
+Twenty strides at a run and he was over the split cedar fence
+that separated their farm from his second-uncle's.
+A crow scolded him from a tree
+as he swung himself over another fence
+onto the dirt path that ran through the trees to town.
+It was muddy from overnight rain but he didn't slow down,
+not even when his feet almost went out from under him
+on a slippery patch near a stream so small
+that even the children didn't have a name for it.
+
+*She's gonna be at home,*
+he told himself.
+Mama Roo did laundry and other chores for half a dozen families in town to make ends meet,
+which meant she got up early even by farmers' standards,
+but Maddy and Sindy only helped out a couple of days a week.
+Gumption had no idea if today was one of those days or not.
+If it was he'd have no idea where to start looking for them,
+so all he could do was hope it wasn't.
+
+He had to slow down and walk to catch his breath twice
+before he reached town
+and once more before he got to Maddy's.
+He felt a bit nauseous from hunger,
+and he was pretty sure he had a blister—his boots
+weren't made for running—but
+he pushed that aside and knocked on their door,
+then knocked again, harder.
+
+"Just a tick!" Mama Roo called from inside.
+Gumption pushed the door open without waiting.
+
+"What—oh, hello, Gumption," Mama Roo said,
+wiping her hands on a dishcloth.
+"I was just—what?
+What's wrong?"
+
+"Prosecutors,"
+Gumption panted,
+getting the word out on the second try.
+"A bunch of Prosecutors just come up along Makers Road past our place
+headin' toward town."
+He waved more or less in the direction of Rusty Bridge.
+"Miz Roo—what if they're comin' for Sindy?"
+
+Mama Roo's eyes widened.
+"Prosecutors?
+Are you sure?"
+
+Gumption nodded breathlessly.
+"They were wearin' uniforms and carryin' all kinds of tech,
+and Miz Roo,
+one of 'em was a tiger,
+an actual honest *tiger* with just one eye."
+
+"Keep your voice down!"
+Mama Roo pointed at the ceiling.
+"The girls are still asleep."
+
+"No I'm not."
+Maddy slipped into the room as quietly as an actual mouse.
+"But Sindy is.
+What's this about Prosecutors?"
+
+Gumption quickly described the travelers.
+"And he had an eyepatch, just like in the stories,"
+he finished.
+
+"That doesn't mean—"
+Maddy started,
+stopping when her mother raised a hand.
+
+Mama Roo gnawed her lip for a moment.
+"Aright," she said.
+"Special Leaf said this day would come,
+so I guess it's here.
+Maddy,
+you head into town and find out what you can.
+I'll stay here with Sindy 'til we know more.
+Gumption,
+I can't ask you to do any more than you have, but—"
+
+"I'll go with her,"
+he said before Mama Roo could finish.
+He forced a grin.
+
+Mama Roo nodded.
+"Thank you," she said,
+and then to Gumption's embarrassment she kissed the top of his head.
+"Thank you for everything.
+And you,"
+she continued briskly to her daughter.
+"You are going straight back upstairs and combing your fur
+before you go anywhere."
+
+Five minutes and one whispered argument
+about whether Maddy should wear a coat in case the rain came back
+and the two teenagers were out the door.
+Mama Roo had given Gumption one of yesterday's biscuits
+with some hummus and fresh-picked lettuce on it.
+He ate it in three bites,
+wishing he had some tea to wash it down,
+but there would be time for that later.
+
+"We should stop by Special Leaf's and get him on the way,"
+Maddy said suddenly.
+
+"Sure," Gumption nodded.
+He definitely had a blister,
+but there'd be time for that later too.
+"They could just be passin' through, you know."
+
+"They could,"
+Maddy acknowledged.
+The tone of her voice made clear
+just how likely she thought that was.
+
+Special Leaf wasn't home,
+or was sleeping so soundly that he couldn't hear them knocking.
+"We could just go in an' see if he's here,"
+Gumption suggested.
+
+Maddy hesitated, then shook her head.
+"Let's just head down to the square.
+Whatever's going to happen is going to happen there."
+
+They reached the square moments before the Prosecutors.
+A double handful of townspeople had already gathered—Gumption
+wasn't the only one who'd run ahead and spread word.
+Mayor Lupus stood on the porch of the mayor's house
+with her gnarlywood cane in her hand
+and a serious expression on her face.
+She had pinned both of her medals on her jacket as well,
+Gumption noticed.
+The last time she had done that had been
+when she exiled one of the town bears for a year
+for getting drunk and stabbing the older Ox brother
+with a pitchfork.
+
+The sun broke through the clouds for a moment
+just as the Prosecutors arrived.
+When Gumption thought about them afterward,
+that was always the image that first came to mind.
+They had formed up into two lines of three:
+the one-eyed tiger,
+the rabbit in the slouch hat,
+and the armored spiderbot in front
+with the ox, the bear, and the mulebot behind them.
+The sunlight brought out every stain and damp patch on their uniform jackets,
+but somehow that made them more intimidating rather than less.
+
+When they were ten steps away from the steps of the mayor's house
+the tiger whistled,
+short and sharp.
+The Prosecutors took two more steps each and halted,
+still in formation.
+A low murmur ran through the townspeople.
+Someone shushed a new arrival.
+
+"Morning," Mayor Lupus said,
+inclining her head.
+"And welcome to Rusty Bridge.
+Been a while since we had official visitors."
+
+"My apologies on that, miz mayor,"
+the tiger replied cordially,
+lisping slightly.
+"Too many places to be and too few of us to be in them all.
+You know how it is."
+
+"No apologies needed, Special…?"
+She flicked an ear to make it a question.
+
+"Blazes," the tiger supplied.
+"Special Blazes, miz mayor, at your service."
+
+The crowd let out its collective breath.
+"I *told* you," someone said,
+just loud enough to be heard.
+Someone else shushed them.
+
+Gumption just stared,
+Maddy and Sindy and everything else momentarily forgotten.
+Special Blazes was *famous*.
+Every story in the newspaper about his exploits started with,
+"The famous Special Blazes has triumphed again!"
+The Case of the Snorkeling Smugglers,
+the Shootout at Half a Hat,
+his year-long pursuit of the infamous Mattock sisters—Gumption
+had read all of them and more.
+
+He turned to Maddy,
+opening his mouth to say, "It's him! It's really him!"
+But then he saw the scowl on her face
+and settled for, "Um, gosh," instead.
+
+"Well,
+Special,
+it's an honor to have you here,"
+Mayor Lupus said,
+pitching her voice to carry.
+"There's rooms inside for all of you
+for as long as you need them.
+Oh,
+and may I introduce Special Leaf?"
+
+The elderly tortoise had somehow made his way to the front of the crowd
+without anyone around him particularly noticing.
+He had put on a sweater,
+a thick, shapeless gray one that Mama Bear had knit for him the winter before last,
+and had an old blue scarf wrapped around his neck as well.
+He peered at the Prosecutors through his little round glasses
+as if trying to decide whether they were books that needed to be shelved.
+
+Special Blazes dipped his head deferentially.
+"It's an honor, Special," he rumbled.
+Beside him,
+the rabbit doffed his hat and dipped his head as well.
+
+"Thank you,"
+Special Leaf said in a slightly fuddled tone.
+"If you,
+um,
+well,
+if you'd like anything to read,
+of course,
+I have plenty of…"
+He gestured vaguely in the direction of his house.
 
 </section>
